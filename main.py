@@ -2,6 +2,7 @@ import os
 import requests
 import json
 import time
+import re
 
 # --- Configuration ---
 # User list to monitor (ID from their profile URL)
@@ -40,13 +41,49 @@ def get_feishu_card(author, username, content, link):
         }
     }
 
-def clean_html(html):
-    """Simple HTML tag removal"""
-    import re
-    if not html:
-        return ""
-    clean = re.compile('<.*?>')
-    return re.sub(clean, '', html).strip()
+def fetch_tweets(username, auth_token, ct0):
+    """Fetches tweets using Twitter Syndication API (bypassing RSSHub)"""
+    url = f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Cookie": f"auth_token={auth_token}; ct0={ct0}"
+    }
+    
+    try:
+        response = requests.get(url, headers=headers, timeout=30)
+        if response.status_code != 200:
+            print(f"Failed to fetch {username}: HTTP {response.status_code}")
+            return []
+            
+        html = response.text
+        # Extract JSON from the __NEXT_DATA__ script tag
+        match = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html)
+        if not match:
+            print(f"Could not find data script for {username}")
+            return []
+            
+        data = json.loads(match.group(1))
+        # Navigate to the timeline entries
+        # Path: props -> pageProps -> timeline -> entries
+        timeline = data.get('props', {}).get('pageProps', {}).get('timeline', {})
+        entries = timeline.get('entries', [])
+        
+        result = []
+        for entry in entries:
+            # Each entry structure can vary, but usually has a 'content' field with 'tweet'
+            content = entry.get('content', {})
+            t = content.get('tweet')
+            if t:
+                result.append({
+                    "id": t.get('id_str'),
+                    "text": t.get('full_text') or t.get('text', ''),
+                    "url": f"https://twitter.com/{username}/status/{t.get('id_str')}",
+                    "author": t.get('user', {}).get('name', username)
+                })
+        return result
+    except Exception as e:
+        print(f"Error parsing {username}: {e}")
+        return []
 
 def main():
     # 1. Try to read history
@@ -66,68 +103,45 @@ def main():
 
     for user in USERS:
         print(f"Checking @{user}...")
-        # Use a reliable public RSSHub instance or a local one if accessible
-        # Since this runs on GitHub, we use rsshub.app or similar
-        url = f"https://rsshub.app/twitter/user/{user}?format=json"
-        headers = {
-            "Cookie": f"auth_token={auth_token}; ct0={ct0}",
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
-        }
+        tweets = fetch_tweets(user, auth_token, ct0)
         
-        try:
-            response = requests.get(url, headers=headers, timeout=30)
-            if response.status_code != 200:
-                print(f"Failed to fetch {user}: HTTP {response.status_code}")
-                continue
-                
-            data = response.json()
-            items = data.get("items", [])
-            if not items:
-                print(f"No items found for {user}.")
-                continue
+        if not tweets:
+            print(f"No tweets found or error for {user}.")
+            continue
 
-            # First item is the latest
-            latest_id = items[0].get("id")
-            old_id = last_ids.get(user)
+        # First item in 'tweets' list is the latest
+        latest_id = tweets[0]['id']
+        old_id = last_ids.get(user)
 
-            if not old_id:
-                # Initialization: push the latest one
-                print(f"Initializing {user} with latest ID.")
-                to_push = [items[0]]
-                last_ids[user] = latest_id
-            elif latest_id != old_id:
-                # Find all new items since old_id
-                to_push = []
-                for item in items:
-                    if item.get("id") == old_id:
-                        break
-                    to_push.append(item)
-                
-                # Update to the absolute latest
-                last_ids[user] = latest_id
-                print(f"Found {len(to_push)} new tweets for {user}.")
-                # Reverse to push oldest first
-                to_push.reverse()
-            else:
-                print(f"No new updates for {user}.")
-                to_push = []
+        to_push = []
+        if not old_id:
+            # Initialization
+            print(f"Initializing {user} with latest tweet.")
+            to_push = [tweets[0]]
+            last_ids[user] = latest_id
+        elif latest_id != old_id:
+            # Find all new items since old_id
+            for t in tweets:
+                if t['id'] == old_id:
+                    break
+                to_push.append(t)
+            
+            # Update to the absolute latest
+            last_ids[user] = latest_id
+            print(f"Found {len(to_push)} new tweets for {user}.")
+            # Reverse to push oldest first
+            to_push.reverse()
+        else:
+            print(f"No new updates for {user}.")
 
-            # Push to Feishu
-            for item in to_push:
-                content = clean_html(item.get("summary") or item.get("content_html") or item.get("title"))
-                # Truncate content if too long for Feishu
-                if len(content) > 1000:
-                    content = content[:1000] + "..."
-                    
-                payload = get_feishu_card(user, user, content, item.get("url"))
-                res = requests.post(webhook_url, json=payload)
-                if res.status_code != 200:
-                    print(f"Feishu error: {res.text}")
-                time.sleep(1) # Rate limiting
-                
-        except Exception as e:
-            print(f"Error processing {user}: {e}")
-
+        # Push to Feishu
+        for tweet in to_push:
+            payload = get_feishu_card(tweet['author'], user, tweet['text'], tweet['url'])
+            res = requests.post(webhook_url, json=payload)
+            if res.status_code != 200:
+                print(f"Feishu error: {res.text}")
+            time.sleep(1) # Rate limiting
+            
     # 4. Save progress
     with open(LAST_IDS_FILE, 'w') as f:
         json.dump(last_ids, f, indent=2)
