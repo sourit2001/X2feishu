@@ -2,7 +2,7 @@ name: X (Twitter) Monitor
 
 on:
   schedule:
-    - cron: '*/12 * * * *' # Every 12 minutes
+    - cron: '0 * * * *' # Every hour on the hour
   workflow_dispatch:      # Allow manual trigger
 
 jobs:

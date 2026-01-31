@@ -3,19 +3,31 @@ import requests
 import json
 import time
 import re
+from datetime import datetime, timedelta
 
 # --- Configuration ---
 # User list to monitor (ID from their profile URL)
 USERS = ["elonmusk", "sama", "karpathy", "vitalikbuterin"]
 LAST_IDS_FILE = "last_ids.json"
 
-def get_feishu_card(author, username, content, link):
-    """Builds an interactive Feishu card"""
+def format_time(time_str):
+    """Converts Twitter's created_at to Beijing Time (UTC+8)"""
+    try:
+        # Twitter format example: "Sat Jan 31 00:00:00 +0000 2026"
+        dt = datetime.strptime(time_str, '%a %b %d %H:%M:%S +0000 %Y')
+        # To Beijing Time
+        beijing_dt = dt + timedelta(hours=8)
+        return beijing_dt.strftime('%Y-%m-%d %H:%M:%S')
+    except:
+        return time_str
+
+def get_feishu_card(author, username, content, link, pub_time):
+    """Builds an interactive Feishu card matching n8n style"""
     return {
         "msg_type": "interactive",
         "card": {
             "header": {
-                "title": {"tag": "plain_text", "content": f"📣 X Monitor: {author}"},
+                "title": {"tag": "plain_text", "content": f"🐦 X 监控助手"},
                 "template": "orange"
             },
             "elements": [
@@ -23,15 +35,18 @@ def get_feishu_card(author, username, content, link):
                     "tag": "div",
                     "text": {
                         "tag": "lark_md",
-                        "content": f"**Author:** {author}\n**Account:** @{username}\n\n**Content:**\n{content}"
+                        "content": f"**作者：** {author}\n**账号：** @{username}\n**发布时间：** {pub_time}\n\n**完整内容：**\n{content}"
                     }
+                },
+                {
+                    "tag": "hr"
                 },
                 {
                     "tag": "action",
                     "actions": [
                         {
                             "tag": "button",
-                            "text": {"tag": "plain_text", "content": "🔗 View Original Tweet"},
+                            "text": {"tag": "plain_text", "content": "🔗 点击查看详情"},
                             "type": "primary",
                             "url": link
                         }
@@ -42,7 +57,7 @@ def get_feishu_card(author, username, content, link):
     }
 
 def fetch_tweets(username, auth_token, ct0):
-    """Fetches tweets using Twitter Syndication API (bypassing RSSHub)"""
+    """Fetches tweets using Twitter Syndication API with robust error handling"""
     url = f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -56,21 +71,16 @@ def fetch_tweets(username, auth_token, ct0):
             return []
             
         html = response.text
-        # Extract JSON from the __NEXT_DATA__ script tag
         match = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html)
         if not match:
-            print(f"Could not find data script for {username}")
             return []
             
         data = json.loads(match.group(1))
-        # Navigate to the timeline entries
-        # Path: props -> pageProps -> timeline -> entries
         timeline = data.get('props', {}).get('pageProps', {}).get('timeline', {})
         entries = timeline.get('entries', [])
         
         result = []
         for entry in entries:
-            # Each entry structure can vary, but usually has a 'content' field with 'tweet'
             content = entry.get('content', {})
             t = content.get('tweet')
             if t:
@@ -78,7 +88,8 @@ def fetch_tweets(username, auth_token, ct0):
                     "id": t.get('id_str'),
                     "text": t.get('full_text') or t.get('text', ''),
                     "url": f"https://twitter.com/{username}/status/{t.get('id_str')}",
-                    "author": t.get('user', {}).get('name', username)
+                    "author": t.get('user', {}).get('name', username),
+                    "created_at": t.get('created_at')
                 })
         return result
     except Exception as e:
@@ -86,7 +97,6 @@ def fetch_tweets(username, auth_token, ct0):
         return []
 
 def main():
-    # 1. Try to read history
     if os.path.exists(LAST_IDS_FILE):
         with open(LAST_IDS_FILE, 'r') as f:
             last_ids = json.load(f)
@@ -109,40 +119,42 @@ def main():
             print(f"No tweets found or error for {user}.")
             continue
 
-        # First item in 'tweets' list is the latest
+        # Check latest non-pinned tweet to update LAST_ID
         latest_id = tweets[0]['id']
         old_id = last_ids.get(user)
 
         to_push = []
         if not old_id:
-            # Initialization
+            # First initialization: Push the latest one and record
             print(f"Initializing {user} with latest tweet.")
             to_push = [tweets[0]]
             last_ids[user] = latest_id
         elif latest_id != old_id:
-            # Find all new items since old_id
+            # Find new items
+            found_old = False
             for t in tweets:
                 if t['id'] == old_id:
+                    found_old = True
                     break
                 to_push.append(t)
             
-            # Update to the absolute latest
+            # If we didn't find the old_id (maybe deleted or too many tweets), 
+            # we just push the latest and reset and avoid mass pushing
+            if not found_old:
+                 print(f"Warning: Last ID for {user} not found in current fetch. Pushing latest.")
+                 to_push = [tweets[0]]
+            
             last_ids[user] = latest_id
-            print(f"Found {len(to_push)} new tweets for {user}.")
-            # Reverse to push oldest first
             to_push.reverse()
         else:
             print(f"No new updates for {user}.")
 
-        # Push to Feishu
         for tweet in to_push:
-            payload = get_feishu_card(tweet['author'], user, tweet['text'], tweet['url'])
-            res = requests.post(webhook_url, json=payload)
-            if res.status_code != 200:
-                print(f"Feishu error: {res.text}")
-            time.sleep(1) # Rate limiting
+            pub_time = format_time(tweet['created_at'])
+            payload = get_feishu_card(tweet['author'], user, tweet['text'], tweet['url'], pub_time)
+            requests.post(webhook_url, json=payload)
+            time.sleep(1)
             
-    # 4. Save progress
     with open(LAST_IDS_FILE, 'w') as f:
         json.dump(last_ids, f, indent=2)
 
