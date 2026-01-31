@@ -11,7 +11,9 @@ BLOGGERS = [
     {"username": "elonmusk", "nickname": "马斯克"},
     {"username": "sama", "nickname": "奥特曼"},
     {"username": "vitalikbuterin", "nickname": "V神"},
-    {"username": "karpathy", "nickname": "卡帕斯"}
+    {"username": "karpathy", "nickname": "卡帕斯"},
+    {"username": "op7418", "nickname": "归藏"},
+    {"username": "drfeifei", "nickname": "李飞飞"}
 ]
 LAST_IDS_FILE = "last_ids.json"
 
