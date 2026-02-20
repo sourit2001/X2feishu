@@ -35,4 +35,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add daily_tweets.json || true
           git commit -m "Clear daily tweets after digest" || true
+          git pull --rebase
           git push

@@ -36,4 +36,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add last_ids.json daily_tweets.json || true
           git commit -m "Update last processed IDs" || true
+          git pull --rebase
           git push
