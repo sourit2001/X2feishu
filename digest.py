@@ -1,0 +1,215 @@
+import os
+import json
+import requests
+from datetime import datetime, timedelta
+from openai import OpenAI
+
+DAILY_TWEETS_FILE = "daily_tweets.json"
+
+
+def load_daily_tweets():
+    """Load accumulated tweets from the daily tweets file"""
+    if os.path.exists(DAILY_TWEETS_FILE):
+        with open(DAILY_TWEETS_FILE, 'r') as f:
+            return json.load(f)
+    return []
+
+
+def clear_daily_tweets():
+    """Clear the daily tweets file after digest is sent"""
+    with open(DAILY_TWEETS_FILE, 'w') as f:
+        json.dump([], f)
+
+
+def group_tweets_by_blogger(tweets):
+    """Group tweets by blogger nickname"""
+    groups = {}
+    for tweet in tweets:
+        key = tweet['nickname']
+        if key not in groups:
+            groups[key] = {
+                "username": tweet['username'],
+                "nickname": tweet['nickname'],
+                "tweets": []
+            }
+        groups[key]['tweets'].append(tweet)
+    return groups
+
+
+def build_summary_prompt(groups):
+    """Build the prompt for DeepSeek to generate a summary"""
+    prompt = """你是一个专业的社交媒体分析师。请根据以下过去24小时内各博主在 X (Twitter) 上发布的推文，生成一份中文简报。
+
+要求：
+1. 首先提炼出 3-5 条最重要、最值得关注的要点（跨所有博主）
+2. 然后按博主分组，每个博主用 1-3 句话总结其推文内容
+3. 如果推文包含引用转发（quoted_tweet），请结合原推和评论一起理解，说明谁引用了谁的观点
+4. 语言简洁有力，像新闻简报一样
+5. 忽略无实质内容的推文（比如纯表情、"good" 等）
+6. 输出使用中文，但人名和专有名词可以保留英文
+
+以下是推文数据：
+
+"""
+    for nick, group in groups.items():
+        prompt += f"\n--- {nick} (@{group['username']}) 共 {len(group['tweets'])} 条 ---\n"
+        for t in group['tweets']:
+            prompt += f"\n[{t['time']}] {t['text']}"
+            if t.get('quoted_tweet'):
+                qt = t['quoted_tweet']
+                prompt += f"\n  └─ 引用 @{qt['username']}: {qt['text']}"
+            prompt += "\n"
+
+    prompt += """
+
+请严格按以下格式输出（使用飞书 Markdown 语法）：
+
+🔥 **今日要点**
+1. [要点1]
+2. [要点2]
+3. [要点3]
+
+👤 **各博主动态**
+
+🐦 **[博主昵称]** (@username) — X条
+[1-3句话总结]
+
+🐦 **[博主昵称]** (@username) — X条
+[1-3句话总结]
+
+（对每个有推文的博主都写一段）
+"""
+    return prompt
+
+
+def generate_summary(prompt, api_key):
+    """Call DeepSeek API to generate summary"""
+    client = OpenAI(
+        api_key=api_key,
+        base_url="https://api.deepseek.com"
+    )
+
+    response = client.chat.completions.create(
+        model="deepseek-chat",
+        messages=[
+            {
+                "role": "system",
+                "content": "你是一个专业的社交媒体分析师，擅长从推文中提炼关键信息并生成简洁的中文简报。输出使用飞书 Markdown 格式。"
+            },
+            {
+                "role": "user",
+                "content": prompt
+            }
+        ],
+        temperature=0.3,
+        max_tokens=2000
+    )
+
+    return response.choices[0].message.content
+
+
+def build_feishu_digest_card(summary, total_tweets, total_bloggers, date_str, time_range):
+    """Build a Feishu card for the daily digest"""
+    return {
+        "msg_type": "interactive",
+        "card": {
+            "header": {
+                "title": {"tag": "plain_text", "content": f"📋 每日 X (Twitter) 简报 — {date_str}"},
+                "template": "blue"
+            },
+            "elements": [
+                {
+                    "tag": "div",
+                    "text": {
+                        "tag": "lark_md",
+                        "content": f"📊 **今日概览**\n共监控 **{total_bloggers}** 位博主，过去24小时共发布 **{total_tweets}** 条推文"
+                    }
+                },
+                {"tag": "hr"},
+                {
+                    "tag": "div",
+                    "text": {
+                        "tag": "lark_md",
+                        "content": summary
+                    }
+                },
+                {"tag": "hr"},
+                {
+                    "tag": "div",
+                    "text": {
+                        "tag": "lark_md",
+                        "content": f"⏰ 统计时段：{time_range}\n🤖 摘要由 DeepSeek 生成"
+                    }
+                }
+            ]
+        }
+    }
+
+
+def main():
+    # Load environment variables
+    api_key = os.getenv("DEEPSEEK_API_KEY")
+    webhook_url = os.getenv("FEISHU_WEBHOOK")
+
+    if not api_key or not webhook_url:
+        print("Error: Missing DEEPSEEK_API_KEY or FEISHU_WEBHOOK.")
+        return
+
+    # Load tweets
+    tweets = load_daily_tweets()
+
+    # Date info (Beijing time)
+    now = datetime.utcnow() + timedelta(hours=8)
+    date_str = now.strftime('%Y-%m-%d')
+    yesterday = now - timedelta(days=1)
+    time_range = f"{yesterday.strftime('%m-%d %H:%M')} ~ {now.strftime('%m-%d %H:%M')}"
+
+    if not tweets:
+        print("No tweets to summarize. Sending empty digest.")
+        payload = {
+            "msg_type": "interactive",
+            "card": {
+                "header": {
+                    "title": {"tag": "plain_text", "content": f"📋 每日 X (Twitter) 简报 — {date_str}"},
+                    "template": "blue"
+                },
+                "elements": [
+                    {
+                        "tag": "div",
+                        "text": {
+                            "tag": "lark_md",
+                            "content": f"📭 过去24小时内没有监控到新的推文动态。\n\n⏰ 统计时段：{time_range}"
+                        }
+                    }
+                ]
+            }
+        }
+        requests.post(webhook_url, json=payload)
+        return
+
+    # Group tweets by blogger
+    groups = group_tweets_by_blogger(tweets)
+
+    # Calculate stats
+    total_tweets = len(tweets)
+    total_bloggers = len(groups)
+
+    # Generate AI summary
+    print(f"Generating digest for {total_tweets} tweets from {total_bloggers} bloggers...")
+    prompt = build_summary_prompt(groups)
+    summary = generate_summary(prompt, api_key)
+    print(f"Summary generated successfully.")
+    print(f"---\n{summary}\n---")
+
+    # Build and send Feishu card
+    payload = build_feishu_digest_card(summary, total_tweets, total_bloggers, date_str, time_range)
+    response = requests.post(webhook_url, json=payload)
+    print(f"Digest pushed to Feishu. Status: {response.status_code}")
+
+    # Clear daily tweets after successful push
+    clear_daily_tweets()
+    print("Daily tweets cleared.")
+
+
+if __name__ == "__main__":
+    main()

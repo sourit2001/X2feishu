@@ -18,6 +18,7 @@ BLOGGERS = [
     {"username": "dotey", "nickname": "宝玉"}
 ]
 LAST_IDS_FILE = "last_ids.json"
+DAILY_TWEETS_FILE = "daily_tweets.json"
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
@@ -30,8 +31,13 @@ def format_time(time_str):
     except:
         return time_str
 
-def get_feishu_card(nickname, username, content, link, pub_time):
+def get_feishu_card(nickname, username, content, link, pub_time, quoted_tweet=None):
     """Builds an interactive Feishu card matching user's requested style"""
+    body = f"**作者：** {nickname}\n**账号：** @{username}\n**发布时间：** {pub_time}\n\n**推文全文：**\n{content}"
+
+    if quoted_tweet:
+        body += f"\n\n💬 **引用 @{quoted_tweet['username']} 的推文：**\n\"{quoted_tweet['text']}\""
+
     return {
         "msg_type": "interactive",
         "card": {
@@ -44,7 +50,7 @@ def get_feishu_card(nickname, username, content, link, pub_time):
                     "tag": "div",
                     "text": {
                         "tag": "lark_md",
-                        "content": f"**作者：** {nickname}\n**账号：** @{username}\n**发布时间：** {pub_time}\n\n**推文全文：**\n{content}"
+                        "content": body
                     }
                 },
                 {
@@ -93,18 +99,31 @@ def fetch_tweets(username, auth_token, ct0):
             content = entry.get('content', {})
             t = content.get('tweet')
             if t:
-                # --- EXTACT FULL TEXT ---
+                # --- EXTRACT FULL TEXT ---
                 # Check for Note Tweet (X Premium long tweets)
                 note_text = t.get('note_tweet', {}).get('note_tweet_results', {}).get('result', {}).get('text')
                 text = note_text if note_text else (t.get('full_text') or t.get('text', ''))
-                
+
+                # Check for Quote Tweet (retweet with comment)
+                quoted = t.get('quoted_tweet')
+                quoted_info = None
+                if quoted:
+                    qt_note = quoted.get('note_tweet', {}).get('note_tweet_results', {}).get('result', {}).get('text')
+                    qt_text = qt_note if qt_note else (quoted.get('full_text') or quoted.get('text', ''))
+                    quoted_info = {
+                        "author": quoted.get('user', {}).get('name', '未知'),
+                        "username": quoted.get('user', {}).get('screen_name', ''),
+                        "text": qt_text
+                    }
+
                 result.append({
                     "id": int(t.get('id_str')),
                     "id_str": t.get('id_str'),
                     "text": text,
                     "url": f"https://twitter.com/{username}/status/{t.get('id_str')}",
                     "author": t.get('user', {}).get('name', username),
-                    "created_at": t.get('created_at')
+                    "created_at": t.get('created_at'),
+                    "quoted_tweet": quoted_info
                 })
         # Sort by ID descending
         result.sort(key=lambda x: x['id'], reverse=True)
@@ -119,6 +138,12 @@ def main():
             last_ids = json.load(f)
     else:
         last_ids = {}
+
+    if os.path.exists(DAILY_TWEETS_FILE):
+        with open(DAILY_TWEETS_FILE, 'r') as f:
+            daily_tweets = json.load(f)
+    else:
+        daily_tweets = []
 
     auth_token = os.getenv("TWITTER_AUTH_TOKEN")
     ct0 = os.getenv("TWITTER_CT0")
@@ -160,13 +185,27 @@ def main():
 
         for tweet in to_push:
             pub_time = format_time(tweet['created_at'])
-            payload = get_feishu_card(nick, user, tweet['text'], tweet['url'], pub_time)
+            payload = get_feishu_card(nick, user, tweet['text'], tweet['url'], pub_time, tweet.get('quoted_tweet'))
             requests.post(webhook_url, json=payload)
             print(f"Pushed: {tweet['id_str']}")
+
+            # Save to daily tweets for digest
+            daily_tweets.append({
+                "username": user,
+                "nickname": nick,
+                "text": tweet['text'],
+                "quoted_tweet": tweet.get('quoted_tweet'),
+                "url": tweet['url'],
+                "time": pub_time,
+                "id_str": tweet['id_str']
+            })
             time.sleep(1)
-            
+
     with open(LAST_IDS_FILE, 'w') as f:
         json.dump(last_ids, f, indent=2)
+
+    with open(DAILY_TWEETS_FILE, 'w') as f:
+        json.dump(daily_tweets, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     main()

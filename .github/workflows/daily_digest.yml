@@ -1,15 +1,15 @@
-name: X (Twitter) Monitor
+name: Daily X (Twitter) Digest
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour on the hour
-  workflow_dispatch:      # Allow manual trigger
+    - cron: '0 2 * * *'   # UTC 2:00 = Beijing 10:00
+  workflow_dispatch:        # Allow manual trigger
 
 jobs:
-  build:
+  digest:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # Allow script to save progress back to repo
+      contents: write
 
     steps:
       - name: Checkout code
@@ -23,17 +23,16 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run monitor
+      - name: Run daily digest
         env:
-          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
-          TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: python main.py
+        run: python digest.py
 
       - name: Commit and push if changed
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add last_ids.json daily_tweets.json || true
-          git commit -m "Update last processed IDs" || true
+          git add daily_tweets.json || true
+          git commit -m "Clear daily tweets after digest" || true
           git push
