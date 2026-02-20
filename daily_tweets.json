@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "username": "elonmusk",
+        "nickname": "马斯克",
+        "text": "Starship is the key to making life multi-planetary. Mars awaits! 🚀",
+        "quoted_tweet": {
+            "author": "SpaceX",
+            "username": "SpaceX",
+            "text": "Starship Flight 5 preparation is underway at Starbase. Full stack integration complete."
+        },
+        "url": "https://twitter.com/elonmusk/status/123456789",
+        "time": "2026-02-20 18:30",
+        "id_str": "123456789"
+    },
+    {
+        "username": "sama",
+        "nickname": "奥特曼",
+        "text": "The compute requirements for next-gen models are staggering, but the scale is the point. GPT-5 is looking very promising.",
+        "quoted_tweet": null,
+        "url": "https://twitter.com/sama/status/223456789",
+        "time": "2026-02-20 20:15",
+        "id_str": "223456789"
+    },
+    {
+        "username": "karpathy",
+        "nickname": "卡帕斯",
+        "text": "Just finished a new 'Let's build GPT' video. This one focuses on training efficiency and tokenization tricks.",
+        "quoted_tweet": null,
+        "url": "https://twitter.com/karpathy/status/323456789",
+        "time": "2026-02-20 21:00",
+        "id_str": "323456789"
+    },
+    {
+        "username": "elonmusk",
+        "nickname": "马斯克",
+        "text": "FSD v13 release candidate is looking incredible. End-to-end neural net for everything.",
+        "quoted_tweet": null,
+        "url": "https://twitter.com/elonmusk/status/423456789",
+        "time": "2026-02-20 22:45",
+        "id_str": "423456789"
+    }
+]
