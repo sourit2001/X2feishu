@@ -241,5 +241,23 @@
     "url": "https://twitter.com/elonmusk/status/2026183019753795766",
     "time": "2026-02-24 14:30",
     "id_str": "2026183019753795766"
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Anthropic 声称 DeepSeek、Moonshot AI 和 MiniMax 通过大量伪造账户调用接口，进行“工业规模的蒸馏”。\n\n从这条推特的反馈来看大家普遍都讨厌 Anthropic 着套说辞，都烦死 Anthropic 这种又当又立的逻辑了。\n\n马斯克直接开团说他们自己也违规使用书籍进行训练最后花了几十亿和解。 https://t.co/Dh0YQFbOHX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2026214755149680852",
+    "time": "2026-02-24 16:36",
+    "id_str": "2026214755149680852"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "改代码后让 Agent 自动更新 Spec 这个我是不支持的：\n1. 不仅费 token 还难保持一致，偶尔一次没同步好就不一致了\n2. 没必要\n不能把 AI 理解项目的方式像人理解项目的方式，AI 是任务驱动的，单个任务绝大部分时候并不需要理解全局\nhttps://t.co/oo6HTzZdjP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026205146183520621",
+    "time": "2026-02-24 15:58",
+    "id_str": "2026205146183520621"
   }
 ]
