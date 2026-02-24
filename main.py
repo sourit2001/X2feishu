@@ -15,7 +15,20 @@ BLOGGERS = [
     {"username": "op7418", "nickname": "归藏"},
     {"username": "drfeifei", "nickname": "李飞飞"},
     {"username": "lexfridman", "nickname": "Lex"},
-    {"username": "dotey", "nickname": "宝玉"}
+    {"username": "dotey", "nickname": "宝玉"},
+    {"username": "emollick", "nickname": "Ethan Mollick"},
+    {"username": "rileybrown", "nickname": "Riley Brown"},
+    {"username": "vasuman", "nickname": "Vasu"},
+    {"username": "godofprompt", "nickname": "God of Prompt"},
+    {"username": "venturetwins", "nickname": "Venture Twins"},
+    {"username": "a16z", "nickname": "a16z"},
+    {"username": "oran_ge", "nickname": "oran_ge"},
+    {"username": "tuturetom", "nickname": "TutureTom"},
+    {"username": "xiaohu", "nickname": "小虎"},
+    {"username": "lijigang", "nickname": "李继刚"},
+    {"username": "seclink", "nickname": "seclink"},
+    {"username": "icreatelife", "nickname": "icreatelife"},
+    {"username": "mreflow", "nickname": "mreflow"}
 ]
 LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
