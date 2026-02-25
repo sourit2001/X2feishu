@@ -826,5 +826,68 @@
     "url": "https://twitter.com/seclink/status/2026663778884960283",
     "time": "2026-02-25 22:21",
     "id_str": "2026663778884960283"
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Building smarter models is increasingly important as larger models have better “judgment”\n\nAs agentic task length increases the number of required judgement calls that the AI needs to make based on user intent scales faster\n\nJudgement may be a bigger limiter than hallucinations",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2026701863954120865",
+    "time": "2026-02-26 00:52",
+    "id_str": "2026701863954120865"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "AI might kill jobs: Cheatsheet\n\n🔖 Save for later https://t.co/qDKyMBK5x4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2026688228523213108",
+    "time": "2026-02-25 23:58",
+    "id_str": "2026688228523213108"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Everyone's bragging about 200k, 1M, even 10M token context windows in 2026.\n\nNobody's talking about what actually happens…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2026698851663704438",
+    "time": "2026-02-26 00:40",
+    "id_str": "2026698851663704438"
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "RT @omooretweets: https://t.co/VDFCEZBR18",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2026694596034703834",
+    "time": "2026-02-26 00:23",
+    "id_str": "2026694596034703834"
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're excited to lead Quiver AI's seed round.\n\n@QuiverAI is building a leading model for vector graphics (SVGs). AI has made remarkable progress producing pixels. But structure is a different problem:\n\n- SVGs encode hierarchy, grouping, and spatial relationships\n- A model can https://t.co/yEDElvIa9s",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2026694967197040796",
+    "time": "2026-02-26 00:25",
+    "id_str": "2026694967197040796"
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The team has released a flagship SVG model focused on producing clean structure, faithful geometry, and outputs that are designed to be edited, animated, and reused long after the initial render.\n\nIf you’re interested in shaping the future of visual code, you can sign up to try",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2026694982237913457",
+    "time": "2026-02-26 00:25",
+    "id_str": "2026694982237913457"
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @joanrod_ai: Introducing @QuiverAI, a new AI lab and product company focused on frontier vector design.\n\nWe’ve raised an $8.3M seed roun…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2026696850905174236",
+    "time": "2026-02-26 00:32",
+    "id_str": "2026696850905174236"
   }
 ]
