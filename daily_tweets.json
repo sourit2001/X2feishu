@@ -1267,5 +1267,41 @@
     "url": "https://twitter.com/a16z/status/2026763045272432834",
     "time": "2026-02-26 04:55",
     "id_str": "2026763045272432834"
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Cool",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2026783064265994633",
+    "time": "2026-02-26 06:15",
+    "id_str": "2026783064265994633"
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "A very important document. Let's walk through this one \"goal\" at a time. We'll start with fast slots and fast finality.\n\nI expect that we'll reduce slot time in an incremental fashion, eg. I like the \"sqrt(2) at a time\" formula (12 -&gt; 8 -&gt; 6 -&gt; 4 -&gt; 3 -&gt; 2, though the last two",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2026779557479723418",
+    "time": "2026-02-26 06:01",
+    "id_str": "2026779557479723418"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "跟 Agent Skills 火一样，首先是模型能力到了+Agent 工具成熟了，然后能力泛化能做非编程任务，从技术圈到了非技术圈",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026785816916234388",
+    "time": "2026-02-26 06:26",
+    "id_str": "2026785816916234388"
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I remain wary of \"bright line\" arguments that AI cannot do judgement, or creativity, or empathy, etc. and thus these are places for humans.\n\nIt may be true for parts of these processes, or we may have legal/social reasons for keeping AI out, but the lines tend to get breached.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2026774901617537492",
+    "time": "2026-02-26 05:42",
+    "id_str": "2026774901617537492"
   }
 ]
