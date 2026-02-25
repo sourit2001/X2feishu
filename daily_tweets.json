@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @tegmark: Anthropic 2024: You can trust that we'll keep all our safety promises\nAntropic 2026: Nvm https://t.co/seQChL90FX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2026484475631399124",
+    "time": "2026-02-25 10:28",
+    "id_str": "2026484475631399124"
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我去，这个好，Claudecode 终于做了远程控制功能\n\n你可以用你的手机控制在你电脑上的 close code 了\n\n开启以后，可以用手机端的 Claude 或者是网页去控制你的 Claude code\n\n https://t.co/ZcyhS881mr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2026475939664974265",
+    "time": "2026-02-25 09:54",
+    "id_str": "2026475939664974265"
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "指南：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2026476046779035723",
+    "time": "2026-02-25 09:55",
+    "id_str": "2026476046779035723"
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Pencil 更新了，上线了类似 agent teams\n\n得 Agent 设计集群，可以多个 Agent 并行为你生成设计\n\n他们这个架构真不错，由于底层是 Claude Code 所以可以直接调用 CC 的 Agent Teams 能力\n\n https://t.co/i78DJb3yGY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2026477053927895060",
+    "time": "2026-02-25 09:59",
+    "id_str": "2026477053927895060"
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "目前只有 Max 会员可以用",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2026477875030102221",
+    "time": "2026-02-25 10:02",
+    "id_str": "2026477875030102221"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "现在都在 Build for agents\nhttps://t.co/PCtQYMgB1A",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026477978595541456",
+    "time": "2026-02-25 10:02",
+    "id_str": "2026477978595541456"
+  }
+]
