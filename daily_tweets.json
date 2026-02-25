@@ -520,5 +520,59 @@
     "url": "https://twitter.com/dotey/status/2026436507611926973",
     "time": "2026-02-25 07:18",
     "id_str": "2026436507611926973"
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "With the coming tsunami of demand for tokens, there are significant opportunities to orchestrate the underlying memory+compute *just right* for LLMs.\n\nThe fundamental and non-obvious constraint is that due to the chip fabrication process, you get two completely distinct pools of",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2026452488434651264",
+    "time": "2026-02-25 08:21",
+    "id_str": "2026452488434651264"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "斯坦福大学去年秋季开了一门新课 CS146S，叫\"现代软件开发者\"，由知名风投 a16z 的合伙人 Martin Casado 主讲，核心主题就一个：AI 时代怎么写代码。\n\n课程的基本观点是，软件开发已经从\"从零手写代码\"变成了\"规划→AI生成→修改→循环\"的新工作流。课上会教学生怎么用 LLM 高效提示、搭建 AI https://t.co/1Svvcqwo1R",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026438910151152007",
+    "time": "2026-02-25 07:27",
+    "id_str": "2026438910151152007"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "不过目前还没视频，不知道后续会不会有视频放出来",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026440380317577393",
+    "time": "2026-02-25 07:33",
+    "id_str": "2026440380317577393"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "谢谢补充\nhttps://t.co/91zEX0pNwE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026450430977360383",
+    "time": "2026-02-25 08:13",
+    "id_str": "2026450430977360383"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "对，有课件就可以用 AI 辅助自学\nhttps://t.co/ns5xLBrM0H",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026451165995552907",
+    "time": "2026-02-25 08:16",
+    "id_str": "2026451165995552907"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个借助 NotebookLM 讲课的用法不错👍\nhttps://t.co/DxGOanP8IG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2026457611885756845",
+    "time": "2026-02-25 08:41",
+    "id_str": "2026457611885756845"
   }
 ]
