@@ -1528,5 +1528,113 @@
     "url": "https://twitter.com/icreatelife/status/2027088079450693963",
     "time": "2026-02-27 02:27",
     "id_str": "2027088079450693963"
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @C_3C_3: Can you remember the last time Americans agreed on anything like this?\n\n83% support in today’s America is insane.\n\nVoter ID is…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2027092902124646717",
+    "time": "2026-02-27 02:46",
+    "id_str": "2027092902124646717"
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @YossiBenYakar: An 82-year-old grandmother in Vienna, suffering from dementia, was brutally raped by her care nurse—a 26-year-old Afghan…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2027093974104887406",
+    "time": "2026-02-27 02:50",
+    "id_str": "2027093974104887406"
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok 4.20 is getting good at engineering",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2027094139096227842",
+    "time": "2026-02-27 02:51",
+    "id_str": "2027094139096227842"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @rryssf_: Google DeepMind just published something that isn't a benchmark or a new model.\n\nit's a governance framework for when AI agent…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2027096041372139894",
+    "time": "2026-02-27 02:58",
+    "id_str": "2027096041372139894"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: “Think step by step.”\n\nThat’s outdated.\n\nOpenAI researchers moved beyond it to something called 'Reasoning Scaffolds.'\n\nIt…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2027101400413663494",
+    "time": "2026-02-27 03:20",
+    "id_str": "2027101400413663494"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We’re about to find out who the prompt gods are and who’s not 👀 https://t.co/xDeznJI3F7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2027105679404564618",
+    "time": "2026-02-27 03:37",
+    "id_str": "2027105679404564618"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Shoutout to GPTZero for partnering with me on this post!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2027105765987635378",
+    "time": "2026-02-27 03:37",
+    "id_str": "2027105765987635378"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This video is made out of just one panorama 🤯\nSteps: \n1. Nano Banana 2 panorama as a reference for video\n2. Drop panorama to 16:9 artboard in Adobe Firefly Boards to avoid losing data\n3. Use timestamps prompt and a donor shot technique \n\nDetailed Workflow (in comments) https://t.co/VpL8byk6Bv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027097403124240567",
+    "time": "2026-02-27 03:04",
+    "id_str": "2027097403124240567"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "1) use a map to generate a panorama image, just screenshot a Google Map location and use an image as a reference in ultra wide mode \nhttps://t.co/fROyNES11K",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027098242379387145",
+    "time": "2026-02-27 03:07",
+    "id_str": "2027098242379387145"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "2) Drop your panorama to the Adobe Firefly Boards artboard. Make sure it's 16:9 resolution. Most video generators don't support panoramas as an input, so they'll cut parts of your image if you upload it the way it is. And you need all the data the image has for this to work. https://t.co/b6lYmLGbUs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027099050491732012",
+    "time": "2026-02-27 03:10",
+    "id_str": "2027099050491732012"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "3) Use timestamp technique to prompt and use your artboard as a donor shot (it'll be used but deleted right on the next shot). It's a multi-shot prompt. I used Sora 2 in Firefly Boards that supports multi-shot prompts: https://t.co/kQSYHIg3Wn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027099647580229704",
+    "time": "2026-02-27 03:13",
+    "id_str": "2027099647580229704"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "That's how you can use such panoramas for AI animation: https://t.co/668v4ntOPa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027100624802693440",
+    "time": "2026-02-27 03:17",
+    "id_str": "2027100624802693440"
   }
 ]
