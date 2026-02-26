@@ -376,5 +376,41 @@
     "url": "https://twitter.com/mreflow/status/2026897971800059984",
     "time": "2026-02-26 13:51",
     "id_str": "2026897971800059984"
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Has anyone actually benchmarked AI ability with any of the default knowledge work skills shipping with Claude Cowork?\n\nDoes it increase GDPval scores over default 4.6? (Not GDPval-AA) It seems worth testing for real, given that the market freaks out every time they ship skills.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2026907347340189886",
+    "time": "2026-02-26 14:29",
+    "id_str": "2026907347340189886"
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "So math &amp; AI have gone through a journey in recent months from: \"WOW AI did it!!! (but on closer examination it didn't)\"  to \"It did some of the things it said but hallucinated others\" to \"It did it with caveats\" to \"It did over half autonomously\"\n\nOther fields will look similar.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2026908153934180631",
+    "time": "2026-02-26 14:32",
+    "id_str": "2026908153934180631"
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "For more depth, this IEEE piece is good: https://t.co/1dXnhZiWzj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2026909522585862269",
+    "time": "2026-02-26 14:37",
+    "id_str": "2026909522585862269"
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "特斯拉和 OpenAI 前人工智能负责人 Andrej Karpathy 表示，人工智能编码代理现在足够可靠，可以胜任复杂的任务.\n\n例如在他的 NVIDIA DGX Spark 上安装软件、对模型进行基准测试、构建终端以及在 30 分钟的自主工作时间内生成报告。\n\n他指出，Claude 和 Qwen3-VL 等模型在 2025 年 12",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2026900519977967774",
+    "time": "2026-02-26 14:01",
+    "id_str": "2026900519977967774"
   }
 ]
