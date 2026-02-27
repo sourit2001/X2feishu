@@ -1330,5 +1330,59 @@
     "url": "https://twitter.com/emollick/status/2027508410174882025",
     "time": "2026-02-28 06:17",
     "id_str": "2027508410174882025"
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "I had the same thought so I've been playing with it in nanochat. E.g. here's 8 agents (4 claude, 4 codex), with 1 GPU each running nanochat experiments (trying to delete logit softcap without regression). The TLDR is that it doesn't work and it's a mess... but it's still very https://t.co/62amH4yQNp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2027521323275325622",
+    "time": "2026-02-28 07:08",
+    "id_str": "2027521323275325622"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: weird pattern nobody's talking about\n\nthe fastest ai learners right now aren't developers or students\n\nthey're the people…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2027509572533891187",
+    "time": "2026-02-28 06:22",
+    "id_str": "2027509572533891187"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: I used Nano Banana 2 in Adobe Firefly Boards (with search turned on) to make an infographic CV. \n\nIt did all the research…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027509330786841048",
+    "time": "2026-02-28 06:21",
+    "id_str": "2027509330786841048"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @barbbowman: @GlennHasABeard @icreatelife I gave it some links.. https://t.co/Tg9Qb56pr4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027509787907227865",
+    "time": "2026-02-28 06:22",
+    "id_str": "2027509787907227865"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "https://t.co/1jqFdF1heD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027515905308299745",
+    "time": "2026-02-28 06:47",
+    "id_str": "2027515905308299745"
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @ilyasut: It’s extremely good that Anthropic has not backed down, and it’s siginficant that OpenAI has taken a similar stance.\n\nIn the f…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2027512797899497740",
+    "time": "2026-02-28 06:34",
+    "id_str": "2027512797899497740"
   }
 ]
