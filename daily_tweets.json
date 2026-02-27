@@ -1,1 +1,164 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Should note that SpaceX will only try to catch the ship with the tower after two perfect soft landings in the ocean.\n\nThe risk of the ship breaking up over land needs to be very low.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2027216789927784559",
+    "time": "2026-02-27 10:58",
+    "id_str": "2027216789927784559"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 新增\"自动记忆\"功能 https://t.co/MDWpr2Xnua \n\nAnthropic 为其命令行编码工具 Claude Code 上线了自动记忆（Auto Memory）功能。\n\n开启后，Claude",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2027202554330050994",
+    "time": "2026-02-27 10:02",
+    "id_str": "2027202554330050994"
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 向开源贡献者免费送半年 Claude Max\n\nAnthropic 推出\"Claude for Open Source\"计划，向开源社区的维护者和核心贡献者提供 6 个月免费的 Claude Max 20x 订阅。\n\nClaude Max 20x 是目前 Claude 最高级别的付费方案，正常订阅价格不菲，这次相当于直接把最强工具送到开源开发者手里。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2027204661179044003",
+    "time": "2026-02-27 10:10",
+    "id_str": "2027204661179044003"
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "lol https://t.co/xX7R6oYZSH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2027195261777223973",
+    "time": "2026-02-27 09:33",
+    "id_str": "2027195261777223973"
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Here's why I use Claude a lot:\n\n1. It actually reads your entire document before answering, not just the first paragraph\n2…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2027209638207463723",
+    "time": "2026-02-27 10:30",
+    "id_str": "2027209638207463723"
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Incredibly important you know that we can now turn anything into an enamel pin\n\n(thanks Nano Banana 2) https://t.co/6zBQlOacMC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2027203267688886576",
+    "time": "2026-02-27 10:04",
+    "id_str": "2027203267688886576"
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们，好消息\n\nClaude Code 推出：自动记忆功能\n\n以前：记忆完全靠手动，你需要自己写 CLAUDE md 文件，手动维护项目规范和偏好。\n\n现在：Claude Code 能自动记住跨会话学到的东西，包括你的项目上下文、调试模式、偏好的做法，下次自动调用，不需要你手动记录。\n\n从纯手动变成了自动+手动结合 https://t.co/Hnz7MJhems",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2027197301605949885",
+    "time": "2026-02-27 09:41",
+    "id_str": "2027197301605949885"
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Auto Memory 工作机制：\n\n∙ 默认开启，可通过 /memory 切换开关\n\n∙ 每个项目有独立的记忆目录：~/.claude/projects/&lt;project&gt;/memory/\n\n∙ y目录结构包含 MEMORY.md 主文件和可选的主题文件（如 debugging.md、api-conventions.md）\n\n∙ 每次会话启动时自动加载",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2027199225180901819",
+    "time": "2026-02-27 09:48",
+    "id_str": "2027199225180901819"
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "记忆的写入时机\n\nClaude 会在你的工作会话中实时读写记忆文件。你会看到它在工作过程中自动更新记忆，比如解决了一个棘手的 bug 之后，它可能会把解决方案记下来，下次遇到类似问题就能直接调用。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2027200236247240917",
+    "time": "2026-02-27 09:52",
+    "id_str": "2027200236247240917"
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "‍Maintainers: You’re a primary maintainer or core team member of a public repo with 5,000+ GitHub stars or 1M+ monthly NPM downloads. \n\nYou've made commits, releases, or PR reviews within the last 3 months.‍",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2027231778147098648",
+    "time": "2026-02-27 11:58",
+    "id_str": "2027231778147098648"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love all your experiments",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027210855226446281",
+    "time": "2026-02-27 10:35",
+    "id_str": "2027210855226446281"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @GlitterPixely: I went to try out Kris' prompt to feel the immersive aspect of it and whoops I made a mess. \nSowy o(╥﹏╥)o\n\nNano Banana 2…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027210971987538360",
+    "time": "2026-02-27 10:35",
+    "id_str": "2027210971987538360"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @sugarcanebkk: @icreatelife Hi from Bangkok. Thanks for sharing the idea. Here’s my city map.\n\n🍌 3D Anime Style showcasing key landmarks…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027228822588760142",
+    "time": "2026-02-27 11:46",
+    "id_str": "2027228822588760142"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: The coolest use-case for AI animation I found of new Nano Banana 2 is that you can screenshot a map and ask it to generate…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027229351465378121",
+    "time": "2026-02-27 11:48",
+    "id_str": "2027229351465378121"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Here's a blog post from Adobe about Nano Banana 2 in Adobe tools: https://t.co/XthbtoBmJT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027233439892525422",
+    "time": "2026-02-27 12:04",
+    "id_str": "2027233439892525422"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Another amazing way I use new Nano Banana 2 is creating video game backgrounds for my platformer games. Prompt in comments…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027233762690359755",
+    "time": "2026-02-27 12:06",
+    "id_str": "2027233762690359755"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Link to Adobe blog: https://t.co/XthbtoBmJT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027234002982068415",
+    "time": "2026-02-27 12:07",
+    "id_str": "2027234002982068415"
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "More on the blog: https://t.co/XthbtoBmJT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027234161900007722",
+    "time": "2026-02-27 12:07",
+    "id_str": "2027234161900007722"
+  }
+]
