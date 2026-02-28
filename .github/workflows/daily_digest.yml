@@ -2,7 +2,7 @@ name: Daily X (Twitter) Digest
 
 on:
   schedule:
-    - cron: '0 2 * * *'   # UTC 2:00 = Beijing 10:00
+    - cron: '0 */4 * * *'   # Every 4 hours (UTC)
   workflow_dispatch:        # Allow manual trigger
 
 jobs:

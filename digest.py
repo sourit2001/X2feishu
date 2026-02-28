@@ -38,7 +38,7 @@ def group_tweets_by_blogger(tweets):
 
 def build_summary_prompt(groups):
     """Build the prompt for DeepSeek to generate a summary"""
-    prompt = """你是一个专业的社交媒体分析师。请根据以下过去24小时内各博主在 X (Twitter) 上发布的推文，生成一份中文简报。
+    prompt = """你是一个专业的社交媒体分析师。请根据以下各博主在 X (Twitter) 上发布的最新推文，生成一份中文简报。
 
 要求：
 1. 首先提炼出 3-5 条最重要、最值得关注的要点（跨所有博主），**请在每个要点末尾附上最相关的推文链接，格式为 [🔗](链接)**
@@ -114,7 +114,7 @@ def build_feishu_digest_card(summary, total_tweets, total_bloggers, date_str, ti
         "msg_type": "interactive",
         "card": {
             "header": {
-                "title": {"tag": "plain_text", "content": f"📋 每日 X (Twitter) 简报 — {date_str}"},
+                "title": {"tag": "plain_text", "content": f"📋 X (Twitter) 简报 — {date_str}"},
                 "template": "blue"
             },
             "elements": [
@@ -122,7 +122,7 @@ def build_feishu_digest_card(summary, total_tweets, total_bloggers, date_str, ti
                     "tag": "div",
                     "text": {
                         "tag": "lark_md",
-                        "content": f"📊 **今日概览**\n共监控 **{total_bloggers}** 位博主，过去24小时共发布 **{total_tweets}** 条推文"
+                        "content": f"📊 **概览**\n共监控 **{total_bloggers}** 位博主，本时间段内共发布 **{total_tweets}** 条推文"
                     }
                 },
                 {"tag": "hr"},
@@ -170,7 +170,7 @@ def main():
             "msg_type": "interactive",
             "card": {
                 "header": {
-                    "title": {"tag": "plain_text", "content": f"📋 每日 X (Twitter) 简报 — {date_str}"},
+                    "title": {"tag": "plain_text", "content": f"📋 X (Twitter) 简报 — {date_str}"},
                     "template": "blue"
                 },
                 "elements": [
@@ -178,7 +178,7 @@ def main():
                         "tag": "div",
                         "text": {
                             "tag": "lark_md",
-                            "content": f"📭 过去24小时内没有监控到新的推文动态。\n\n⏰ 统计时段：{time_range}"
+                            "content": f"📭 过去 4 小时内没有监控到新的推文动态。\n\n⏰ 统计时段：{time_range}"
                         }
                     }
                 ]
