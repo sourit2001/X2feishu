@@ -190,19 +190,37 @@ def main():
     # Group tweets by blogger
     groups = group_tweets_by_blogger(tweets)
 
+    # Batch bloggers to avoid hitting context/output limits
+    blogger_nicknames = list(groups.keys())
+    batch_size = 5
+    all_summaries = []
+    
     # Calculate stats
     total_tweets = len(tweets)
     total_bloggers = len(groups)
-
-    # Generate AI summary
-    print(f"Generating digest for {total_tweets} tweets from {total_bloggers} bloggers...")
-    prompt = build_summary_prompt(groups)
-    summary = generate_summary(prompt, api_key)
-    print(f"Summary generated successfully.")
-    print(f"---\n{summary}\n---")
+    
+    print(f"Generating digest for {total_tweets} tweets from {total_bloggers} bloggers in batches...")
+    
+    for i in range(0, total_bloggers, batch_size):
+        batch_nicks = blogger_nicknames[i:i + batch_size]
+        batch_groups = {nick: groups[nick] for nick in batch_nicks}
+        
+        print(f"Processing batch {i//batch_size + 1}: {', '.join(batch_nicks)}")
+        prompt = build_summary_prompt(batch_groups)
+        
+        # Adjust prompt for subsequent batches if needed, but for now, we just want summaries
+        batch_summary = generate_summary(prompt, api_key)
+        all_summaries.append(batch_summary)
+        
+    # Combine summaries (DeepSeek usually returns the formatted card content)
+    # We'll merge them by stripping the "今日要点" from later batches if they repeat, 
+    # but for simplicity and safety, we combine the relevant sections.
+    final_summary = "\n\n".join(all_summaries)
+    
+    print(f"All batches processed successfully.")
 
     # Build and send Feishu card
-    payload = build_feishu_digest_card(summary, total_tweets, total_bloggers, date_str, time_range)
+    payload = build_feishu_digest_card(final_summary, total_tweets, total_bloggers, date_str, time_range)
     response = requests.post(webhook_url, json=payload)
     print(f"Digest pushed to Feishu. Status: {response.status_code}")
 
