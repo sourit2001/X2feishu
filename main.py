@@ -129,6 +129,15 @@ def fetch_tweets(username, auth_token, ct0):
                         "text": qt_text
                     }
 
+                # Detection of Retweet
+                is_retweet = False
+                if t.get('retweeted_status'):
+                    is_retweet = True
+                elif text.startswith('RT @'):
+                    is_retweet = True
+                elif t.get('user', {}).get('screen_name', '').lower() != username.lower():
+                    is_retweet = True
+
                 result.append({
                     "id": int(t.get('id_str')),
                     "id_str": t.get('id_str'),
@@ -136,7 +145,8 @@ def fetch_tweets(username, auth_token, ct0):
                     "url": f"https://twitter.com/{username}/status/{t.get('id_str')}",
                     "author": t.get('user', {}).get('name', username),
                     "created_at": t.get('created_at'),
-                    "quoted_tweet": quoted_info
+                    "quoted_tweet": quoted_info,
+                    "is_retweet": is_retweet
                 })
         # Sort by ID descending
         result.sort(key=lambda x: x['id'], reverse=True)
@@ -198,9 +208,19 @@ def main():
 
         for tweet in to_push:
             pub_time = format_time(tweet['created_at'])
-            payload = get_feishu_card(nick, user, tweet['text'], tweet['url'], pub_time, tweet.get('quoted_tweet'))
-            requests.post(webhook_url, json=payload)
-            print(f"Pushed: {tweet['id_str']}")
+            
+            # Filter Elon Musk's retweets for real-time push
+            # Only push if it's NOT a retweet OR it's NOT Elon Musk
+            should_push = True
+            if user.lower() == "elonmusk" and tweet.get('is_retweet'):
+                should_push = False
+            
+            if should_push:
+                payload = get_feishu_card(nick, user, tweet['text'], tweet['url'], pub_time, tweet.get('quoted_tweet'))
+                requests.post(webhook_url, json=payload)
+                print(f"Pushed: {tweet['id_str']}")
+            else:
+                print(f"Skipping real-time push for {nick}'s retweet: {tweet['id_str']}")
 
             # Save to daily tweets for digest
             daily_tweets.append({
@@ -210,7 +230,8 @@ def main():
                 "quoted_tweet": tweet.get('quoted_tweet'),
                 "url": tweet['url'],
                 "time": pub_time,
-                "id_str": tweet['id_str']
+                "id_str": tweet['id_str'],
+                "is_retweet": tweet.get('is_retweet', False)
             })
             time.sleep(1)
 

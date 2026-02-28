@@ -53,7 +53,8 @@ def build_summary_prompt(groups):
     for nick, group in groups.items():
         prompt += f"\n--- {nick} (@{group['username']}) 共 {len(group['tweets'])} 条 ---\n"
         for i, t in enumerate(group['tweets'], 1):
-            prompt += f"\n[推文{i} - {t['time']}] {t['text']}\n链接: {t['url']}"
+            rt_tag = "(转帖) " if t.get('is_retweet') else ""
+            prompt += f"\n[推文{i} - {t['time']}] {rt_tag}{t['text']}\n链接: {t['url']}"
             if t.get('quoted_tweet'):
                 qt = t['quoted_tweet']
                 prompt += f"\n  └─ 引用 @{qt['username']}: {qt['text']}"
