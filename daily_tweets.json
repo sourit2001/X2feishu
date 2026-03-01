@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Highest usage of 𝕏 ever",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2027981570594775101",
+    "time": "2026-03-01 13:37",
+    "id_str": "2027981570594775101",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/CUskUiWb1h",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2027981046726209952",
+    "time": "2026-03-01 13:35",
+    "id_str": "2027981046726209952",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This paper is one of the first to test AI skills and the results seem to suggest that yes, they have high practical value.\n\nThey use pretty mediocre skills (6.2/12 quality rating) harvested mostly from places like Github, and still get large boosts, especially outside software. https://t.co/5AsbE9BMRt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2027966367551361507",
+    "time": "2026-03-01 12:37",
+    "id_str": "2027966367551361507",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And we are very early in understanding how to write skills and what harnesses agents need to use them effectively.\n\nPaper: https://t.co/LI8ZDJxoCX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2027967117291553174",
+    "time": "2026-03-01 12:40",
+    "id_str": "2027967117291553174",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Code is cheap, show me your __",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2027968962076762437",
+    "time": "2026-03-01 12:47",
+    "id_str": "2027968962076762437",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Part 1 is here:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027977787504578562",
+    "time": "2026-03-01 13:22",
+    "id_str": "2027977787504578562",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: https://t.co/BhiFSAznav",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2027978480567144894",
+    "time": "2026-03-01 13:25",
+    "id_str": "2027978480567144894",
+    "is_retweet": true
+  }
+]
