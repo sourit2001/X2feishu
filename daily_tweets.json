@@ -68,5 +68,55 @@
     "time": "2026-03-02 01:17",
     "id_str": "2028157776661201108",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Now, execution layer changes. I've already talked about account abstraction, multidimensional gas, BALs, and ZK-EVMs.\n\nI've also talked here about a short-term EVM upgrade that I think will be super-valuable: a vectorized math precompile (basically, do 32-bit or potentially",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2028158949720252574",
+    "time": "2026-03-02 01:22",
+    "id_str": "2028158949720252574",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A useful piece of context is that the government does not have access to better AI models than you (actually they are worse, because they usually don't get the latest models), though they may have different guardrails. You should view government AI capabilities through that lens.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028172648975401201",
+    "time": "2026-03-02 02:16",
+    "id_str": "2028172648975401201",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The economics of model training are such that the labs need to release their big models widely, they cannot generate returns from always holding back their best models so one customer uses them. Fine tuning &amp; specialized SLMs are useful, but they don't expand the ability frontier",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028173970998956505",
+    "time": "2026-03-02 02:22",
+    "id_str": "2028173970998956505",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Arby’s they have the meats",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2028171955283820779",
+    "time": "2026-03-02 02:14",
+    "id_str": "2028171955283820779",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "People who love their jobs:\nWhat do you do for a living?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2028168597927837768",
+    "time": "2026-03-02 02:00",
+    "id_str": "2028168597927837768",
+    "is_retweet": false
   }
 ]
