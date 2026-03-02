@@ -68,5 +68,15 @@
     "time": "2026-03-02 18:19",
     "id_str": "2028414860074127631",
     "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @yuxiyou: 一个教训：让 AI 进行大规模 review 之后不要让当前 session 直接去批量 fix，这种情况下上下文不充足很容易 hallucinate\n\n开一批 subagent 一个一个 fix",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2028429244502589631",
+    "time": "2026-03-02 19:16",
+    "id_str": "2028429244502589631",
+    "is_retweet": true
   }
 ]
