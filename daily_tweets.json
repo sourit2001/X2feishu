@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2028331960536625270",
+    "time": "2026-03-02 12:49",
+    "id_str": "2028331960536625270",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Remember you can delete posts that are either wrong or which people take the wrong way.\n\nThis is not a subtweet of anyone I promise, but I am shocked at how rarely people do it. If you want to be open, you can even write another post explaining why you did it. Its not a big deal.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028335798630645947",
+    "time": "2026-03-02 13:05",
+    "id_str": "2028335798630645947",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This quote hits hard. It's true. https://t.co/LwsxMYWioB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2028327261251031137",
+    "time": "2026-03-02 12:31",
+    "id_str": "2028327261251031137",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://t.co/vLdQwWvkeN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2028336346834833836",
+    "time": "2026-03-02 13:07",
+    "id_str": "2028336346834833836",
+    "is_retweet": false
+  }
+]
