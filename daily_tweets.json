@@ -108,5 +108,155 @@
     "time": "2026-03-02 22:40",
     "id_str": "2028480596935348426",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Artedeingenio: @elonmusk This feature is really cool. https://t.co/sRvXGYhpGB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2028482960622768224",
+    "time": "2026-03-02 22:49",
+    "id_str": "2028482960622768224",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @WR4NYGov: Grok 4.20 says the @waitbutwhy articles from 2015 about AI have held up very well. \n\n“It has held up better than nearly any o…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2028491674616574460",
+    "time": "2026-03-02 23:24",
+    "id_str": "2028491674616574460",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Paid, undisclosed ads are at an all time high on this platform. Just because they added the flag doesn’t mean people will use it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2028483246770848087",
+    "time": "2026-03-02 22:51",
+    "id_str": "2028483246770848087",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: stop satisfying yourself with random youtube tutorials.\n\nAnthropic just released free courses on building with Claude. wit…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028483916269510866",
+    "time": "2026-03-02 22:53",
+    "id_str": "2028483916269510866",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Richard Feynman had one superpower: making the complex feel obvious.\n\nI reverse-engineered his entire teaching method into…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028487770214166537",
+    "time": "2026-03-02 23:09",
+    "id_str": "2028487770214166537",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "\"everything is a file\" becomes \"everything is context.\"\n\nCSIRO Data61 and ArcBlock published a paper applying the oldest Unix principle to the newest AI problem.\n\nthey propose treating memory, tools, knowledge, and human input as a mounted filesystem that agents browse at runtime https://t.co/z66OUYKHoE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491294054764592",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491294054764592",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the problem is real and underappreciated.\n\nright now, most agent frameworks handle context like this: load memory at session start. stuff it into the prompt. when the window fills, summarize and compress. hope the important parts survive.\n\nthe paper calls this out directly. once https://t.co/TM42Hixh0l",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491308852199760",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491308852199760",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "their solution borrows from how Unix solved a similar problem 50 years ago.\n\nin Unix, everything is a file. devices, processes, network sockets. all accessed through the same interface: open, read, write, close. the abstraction hides the complexity of what's underneath.\n\nXu et",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491321120641347",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491321120641347",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the paper defines three tiers of persistent context, each with different lifecycles.\n\nscratchpads (/context/pad/) are temporary working notes scoped to a task. think of them as the agent's rough draft space.\n\nepisodic memory (/context/memory/episodic/) holds session-bounded",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491333061824895",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491333061824895",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "between the filesystem and the token window sits a three-stage pipeline.\n\nthe context constructor selects and compresses context from the filesystem into a token-budget-aware input. it queries recency and relevance metadata, applies summarization, and produces a manifest",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491345095274903",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491345095274903",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "to be clear about what this is and isn't.\n\nthis is a software architecture proposal, not a benchmark-beating system. the implementation is in the AIGNE framework with two exemplars: a memory-enabled chatbot and an MCP-based GitHub assistant. proof of concept, not production at",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491357174812838",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491357174812838",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the broader observation matters more than this specific paper.\n\ncontext engineering is quietly becoming the real bottleneck. not model capability, not training data, not inference cost. the unglamorous plumbing of what information reaches the model, when, and how.\n\nAnthropic",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491369095029113",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491369095029113",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://t.co/nWGpEjnsp4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491380797112640",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491380797112640",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your premium AI bundle to 10x your business\n\n→ Prompts for marketing &amp; business\n→ Unlimited custom prompts\n→ n8n automations\n→ Weekly updates\n\nStart your free trial👇\nhttps://t.co/C8Zzw2Jkpc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028491392650285205",
+    "time": "2026-03-02 23:23",
+    "id_str": "2028491392650285205",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @aleximm: https://t.co/EZ4nTOUNo6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2028490571841417413",
+    "time": "2026-03-02 23:20",
+    "id_str": "2028490571841417413",
+    "is_retweet": true
   }
 ]
