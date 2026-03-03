@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "服了，这 Claude 天天炸还行 https://t.co/kcKSYqZjcB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2028751592837779519",
+    "time": "2026-03-03 16:37",
+    "id_str": "2028751592837779519",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "修复了 https://t.co/HdcmkfcboG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2028752838701285813",
+    "time": "2026-03-03 16:42",
+    "id_str": "2028752838701285813",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: How to survive in the AI layoff crisis",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028757646656815146",
+    "time": "2026-03-03 17:01",
+    "id_str": "2028757646656815146",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: The entire AI marketing stack is a confidence trick.\n\nIt sounds smart. It knows nothing about your customers.\n\nYour AI wri…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028765505243508895",
+    "time": "2026-03-03 17:32",
+    "id_str": "2028765505243508895",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "A UW-Madison professor asked two AI agents to train a transformer that works as a literal CPU.\n\nNot a text predictor. A computer that takes programs as input and executes them. Running Fibonacci, division, sqrt on programs it never saw during training. \n\n99.5% accuracy. Weights",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028766096707215505",
+    "time": "2026-03-03 17:35",
+    "id_str": "2028766096707215505",
+    "is_retweet": false
+  }
+]
