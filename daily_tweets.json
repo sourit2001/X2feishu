@@ -128,5 +128,75 @@
     "time": "2026-03-04 01:11",
     "id_str": "2028881067315478847",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok can help with your taxes",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2028900938971542009",
+    "time": "2026-03-04 02:30",
+    "id_str": "2028900938971542009",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 发布了 GPT-5.3 Instant，替换 ChatGPT 中使用最广的日常对话模型 GPT-5.2 Instant。\n\n核心改进有三块：\n\n1. 第一是减少“说教感”\n\n之前的模型经常在回答前加一大段“我能帮什么、不能帮什么”的免责声明，或者对正常问题过度拒绝。新版本会直接回答问题，不再绕弯子。OpenAI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2028897907198603495",
+    "time": "2026-03-04 02:18",
+    "id_str": "2028897907198603495",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @learn2vibe: oh my... People need to wake up to Claude Sonnet 4.6.\n\nHe just rebuilt a $1.2 BILLION app in 30 minutes.\n\nAll on @vibecodea…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2028893465300623700",
+    "time": "2026-03-04 02:01",
+    "id_str": "2028893465300623700",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @HeyAmit_: Instead of watching a 2 hour movie on Netflix, watch this masterclass on Claude Code Complete Vibe Coding Guide\nhttps://t.co/…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2028893534909284865",
+    "time": "2026-03-04 02:01",
+    "id_str": "2028893534909284865",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Soon agents will be negotiating with one another on the internet…\n\nFrontier models are going to win all negotiations.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2028901792965415006",
+    "time": "2026-03-04 02:34",
+    "id_str": "2028901792965415006",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: MIT researchers discovered a phenomenon called \"context pollution\" where llms get WORSE by reading their own prior respons…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028893249348485640",
+    "time": "2026-03-04 02:00",
+    "id_str": "2028893249348485640",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "And, as they love to do, OpenAI releases a model shortly after Google launches one of their own to try to overshadow. lol",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2028902403488268601",
+    "time": "2026-03-04 02:36",
+    "id_str": "2028902403488268601",
+    "is_retweet": false
   }
 ]
