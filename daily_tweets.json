@@ -218,5 +218,145 @@
     "time": "2026-03-03 09:31",
     "id_str": "2028644430995984737",
     "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "🐂🍺 Claude Code 官方支持语音模式了\n\n输入斜杠 voice 开启，开启之后按住空格说话就行。转录的内容会出现在输入框里\n\n https://t.co/LlNZpyXyfO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2028652218149449780",
+    "time": "2026-03-03 10:02",
+    "id_str": "2028652218149449780",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "目前在限量推送，大概只推送了 5% 的用户，所以他们这个放量很缓慢。  \n\n可能很多人用不上，有一些人能用上，他们会在几周内推全。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2028662274748231763",
+    "time": "2026-03-03 10:42",
+    "id_str": "2028662274748231763",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/vNToDxjfYe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2028677546485641336",
+    "time": "2026-03-03 11:43",
+    "id_str": "2028677546485641336",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is a key moment for modeling positive institutional change as a result of AI: CEOs who brag about how they are using it to expand, rather than just cut headcount; governments that work with AI systems to expand access to education or healthcare, etc.\n\nPeople need examples!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028650521419034883",
+    "time": "2026-03-03 09:55",
+    "id_str": "2028650521419034883",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Stuff that individual labs have to which there is no equivalent product from the others:\n-Claude Cowork is the only non-technical local agent\n-NotebookLM is the only information-focused app\n-GPT-5.2 Pro is the only harnessed deep thinking model capable of very hard problems",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028675945800867893",
+    "time": "2026-03-03 11:36",
+    "id_str": "2028675945800867893",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I suspect that the other labs will have a Cowork competitor sooner rather than later (though whether they will have good Excel and Powerpoint agents soon is less clear). Deep Think might be as capable as GPT 5.2 Pro but is missing the harness and UX to actually use that power.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028679510665633974",
+    "time": "2026-03-03 11:51",
+    "id_str": "2028679510665633974",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "9B 参数干翻 80B？\n\n阿里开源四款Qwen3.5系列小模型\n\n- 可在手机、笔记本、普通电脑上运行...\n- 而且都是多模态，支持文字、图片、视频输入\n- 百万 Agent 级别 RL 训练，Agent 任务能力显著提升\n- 支持 201 种语言\n- 支持 262K token 的超长上下文，可扩展到100万\n\n下面是2B版本在在 iPhone 17 Pro https://t.co/zeGTP3xTva",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028659838738432088",
+    "time": "2026-03-03 10:32",
+    "id_str": "2028659838738432088",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Qwen3.5-0.8B：不到 10 亿参数，手机都能跑\n\nQwen3.5-2B：轻量级多面手，OCR 识别准确率达到 84.5 分\n\nQwen3.5-4B：多模态能力扎实，定位轻量级 AI Agent 开发\n\nQwen3.5-9B：这次的明星选手，性能直逼80B大模型 https://t.co/dJuoOOZcDb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028659845050794209",
+    "time": "2026-03-03 10:32",
+    "id_str": "2028659845050794209",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "四款模型用的是同一套 Gated DeltaNet 混合架构，按 3:1 的比例混合了线性注意力和标准注意力模块。\n\n线性注意力的好处是内存消耗恒定，不会因为输入文本变长就爆显存。\n\n所以即便是 0.8B 这种迷你模型，也能原生支持 262K token 的超长上下文。\n\n详细介绍：https://t.co/gBWdWEzbrY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028660065264451636",
+    "time": "2026-03-03 10:33",
+    "id_str": "2028660065264451636",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "https://t.co/0PuJgfjoN6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028668315426820334",
+    "time": "2026-03-03 11:06",
+    "id_str": "2028668315426820334",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "帮转找人，AI降临，现在在中国工作机会真的很多...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2028675646285627667",
+    "time": "2026-03-03 11:35",
+    "id_str": "2028675646285627667",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 有人已完成了雇佣小龙虾来管理自己的闲鱼账号的代码了.\n小龙虾支持：\n - 选品（虚拟电影-夸克发货）、\n - 上架（自动生成图文和有吸引力的文案、竞品和定价）、\n - 调价（总是比竞品第）\n - 下架（看量，量不行的下架）\n - 24小时客服，有人情味…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2028683831683768743",
+    "time": "2026-03-03 12:08",
+    "id_str": "2028683831683768743",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "If your brain cells were in a dish, which video game would they learn to play in a week?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2028663183578152997",
+    "time": "2026-03-03 10:46",
+    "id_str": "2028663183578152997",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "In case you haven’t heard:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2028680924527780288",
+    "time": "2026-03-03 11:56",
+    "id_str": "2028680924527780288",
+    "is_retweet": false
   }
 ]
