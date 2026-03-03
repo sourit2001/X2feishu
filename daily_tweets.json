@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Major fraud",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2028867485685190889",
+    "time": "2026-03-04 00:17",
+    "id_str": "2028867485685190889",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "CodePilot 的 Telegram 机器人已经支持了流式输出 https://t.co/waWcorqmGi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2028859652667293791",
+    "time": "2026-03-03 23:46",
+    "id_str": "2028859652667293791",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @xleaps: 构建了一个我自己用起来很舒服的工具：Noah. 装在我的计算机上，装在我父母的计算机上，装在我小孩的计算机上，通过自然语言来解决任何 IT 类的疑难杂症, 比如打印机问题，路由问题，清理空间等等\n\n放出一个预览版供社区使用并提供反馈。\n目前需要 Clau…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2028866974751613156",
+    "time": "2026-03-04 00:15",
+    "id_str": "2028866974751613156",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "What a great illustration of the central problem of AI benchmarking for real work\n\nAll of the effort is going into benchmarking for coding, but that is a small part of the actual jobs people do, which leaves the true trajectory of AI progress less clear. https://t.co/6BXHdPFLkx https://t.co/X5w6jaBR1Z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028870529906622677",
+    "time": "2026-03-04 00:30",
+    "id_str": "2028870529906622677",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "My argument for writing your own benchmarks: https://t.co/hN5r2OLdvv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028871113548218676",
+    "time": "2026-03-04 00:32",
+    "id_str": "2028871113548218676",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "This is the only guy doing something valuable and differentiated with Openclaw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2028870569102606544",
+    "time": "2026-03-04 00:30",
+    "id_str": "2028870569102606544",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: \"everything is a file\" becomes \"everything is context.\"\n\nCSIRO Data61 and ArcBlock published a paper applying the oldest U…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028870569899499957",
+    "time": "2026-03-04 00:30",
+    "id_str": "2028870569899499957",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: People who love their jobs:\nWhat do you do for a living?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2028859035848458399",
+    "time": "2026-03-03 23:44",
+    "id_str": "2028859035848458399",
+    "is_retweet": true
+  }
+]
