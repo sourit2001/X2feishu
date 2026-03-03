@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This would have been more obvious if o3 had been called GPT-5 instead. https://t.co/J0aedlDJPP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2028795972868878559",
+    "time": "2026-03-03 19:33",
+    "id_str": "2028795972868878559",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "MIT researchers discovered a phenomenon called \"context pollution\" where llms get WORSE by reading their own prior responses\n\nerrors, hallucinations, and stylistic artifacts from earlier turns propagate forward because the model treats its own output as ground truth\n\nand removing https://t.co/iElUGcC6Us",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801204676112579",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801204676112579",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "here's the assumption nobody questioned\n\nevery chatbot, every agent, every multi-turn ai system stores the full conversation. your messages AND the model's own replies. stacked up turn after turn, fed back in as context every time you ask something new\n\nseems obvious. the model",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801216923500971",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801216923500971",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the experiment is clean\n\nthey took real multi-turn conversations from WildChat and ShareLM. not synthetic benchmarks. actual human-ai chats\n\nthen they ran every conversation two ways across four models (Qwen3-4B, DeepSeek-R1-8B, GPT-OSS-20B, and GPT-5.2):\n\n&gt; full context: normal.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801228692701434",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801228692701434",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "for the open reasoning models, response quality stayed the same\n\nnot \"slightly degraded.\" same.\n\nand here's the number that stops you: omitting assistant-side history reduced cumulative context lengths by up to 10x\n\n10x less context. same quality. on real conversations.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801240487063995",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801240487063995",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "why does this work? turns out most of what we feed models is redundant\n\n36.4% of prompts in multi-turn chats are completely self-contained. they don't reference anything from earlier in the conversation at all\n\nanother ~33% reference prior assistant responses but don't give",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801252264751400",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801252264751400",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "but the really interesting finding isn't about efficiency. it's about harm\n\nthe paper identifies something they call \"context pollution\"\n\nwhen models condition on their own prior responses, they sometimes lock onto errors, hallucinations, or stylistic artifacts from earlier",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801264080019917",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801264080019917",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "think about what this means for ai agents\n\nevery agent framework stores the full trajectory. every tool call, every response, every reasoning step. context grows linearly with conversation length until you hit the ceiling\n\nCursor already compresses context when windows fill up.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801275895463976",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801275895463976",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "important caveat: this isn't universal\n\nGPT-5.2 did show quality drops when assistant history was removed entirely. stronger models apparently extract more signal from their own prior context\n\nso the right approach isn't \"always strip everything.\" it's selective filtering. which",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801287811477947",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801287811477947",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "what makes this paper good is the question it asks, not just the answer\n\nwe spent years building longer context windows. 128k. 1M tokens. the race was always \"fit more in\"\n\nnobody stopped to ask: is most of what we're fitting in actually helping?\n\nturns out the model's own words",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801299576500625",
+    "time": "2026-03-03 19:54",
+    "id_str": "2028801299576500625",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "paper: https://t.co/m41pKwiB2m",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801311379259803",
+    "time": "2026-03-03 19:55",
+    "id_str": "2028801311379259803",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your premium AI bundle to 10x your business\n\n→ Prompts for marketing &amp; business\n→ Unlimited custom prompts\n→ n8n automations\n→ Weekly updates\n\nStart your free trial👇\nhttps://t.co/C8Zzw2Jkpc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028801323056193571",
+    "time": "2026-03-03 19:55",
+    "id_str": "2028801323056193571",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "https://t.co/r8qh3OuSkk  \n\n这篇论文中提出的框架「AI 自动化成本」vs 「结果验证成本」，来观察AI 对人类社会的影响，很有启发。 https://t.co/cAmrrWIqLB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2028799741853884497",
+    "time": "2026-03-03 19:48",
+    "id_str": "2028799741853884497",
+    "is_retweet": false
+  }
+]
