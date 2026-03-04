@@ -158,5 +158,75 @@
     "time": "2026-03-04 17:19",
     "id_str": "2029124515712680084",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @AdamLowisz: Grok Imagine has gotten really good ✨ https://t.co/NxsJoxKR0w",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029131230281969857",
+    "time": "2026-03-04 17:45",
+    "id_str": "2029131230281969857",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Haha cool",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029133930428023189",
+    "time": "2026-03-04 17:56",
+    "id_str": "2029133930428023189",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @teslaeurope: FSD Supervised in the Netherlands navigates chaotic traffic in city center with ease",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029136370724487376",
+    "time": "2026-03-04 18:06",
+    "id_str": "2029136370724487376",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @elonmusk: @JTLonsdale “Are you gay?” 🤣🤣",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029137431719809060",
+    "time": "2026-03-04 18:10",
+    "id_str": "2029137431719809060",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @fermatslibrary: In 1964, John McCarthy, the creator of LISP, proposed sending a 5,000-pound AI-powered robot to search for life on Mars…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029140636788806007",
+    "time": "2026-03-04 18:23",
+    "id_str": "2029140636788806007",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: \"everything is a file\" becomes \"everything is context.\"\n\nCSIRO Data61 and ArcBlock published a paper applying the oldest U…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029129749101269156",
+    "time": "2026-03-04 17:40",
+    "id_str": "2029129749101269156",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 和Gemini对了一下，大概知道Qwen这次啥事情：\n\n原先Qwen的500+人团队，不断要钱，不断要卡，也没有KPI考核。\n\n但是最后效果都还不如minimax取巧蒸馏出来的小模型的成果，总体烧的钱（成本）贵10x倍不止。\n\n对高管而言，都只是黑盒子…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2029141411417743567",
+    "time": "2026-03-04 18:26",
+    "id_str": "2029141411417743567",
+    "is_retweet": true
   }
 ]
