@@ -238,5 +238,105 @@
     "time": "2026-03-05 02:04",
     "id_str": "2029256717490384986",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Yeah",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029267012254625883",
+    "time": "2026-03-05 02:45",
+    "id_str": "2029267012254625883",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Wow",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029268083043688905",
+    "time": "2026-03-05 02:49",
+    "id_str": "2029268083043688905",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "那时候其实已经有互联网，有Google了，当然很快就访问不了了，baidu 搜索技术资料效果很差。\n\n那时候没有GIT但是有SVN，是中心化的源代码管理。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029268131995074615",
+    "time": "2026-03-05 02:49",
+    "id_str": "2029268131995074615",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我都做过，结论一样。DAU 超千万的产品，这些产品不是一天就到这个量的，也是迭代出来的。到了这个量后，都有一套稳定的架构，每次无论新功能还是改动的代码也不会太多，有一套规范防止你改出大问题，也不需要去用 spec driven\nhttps://t.co/OPcS63izfT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029275188680901030",
+    "time": "2026-03-05 03:18",
+    "id_str": "2029275188680901030",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "MCP 一年多了都没死，Agent Skills 现在是所有 Agent 的核心基础，OpenClaw 之所以强大，靠的就是一堆 Skills\n可能规范会升级，但是会存在很久",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029277201250631784",
+    "time": "2026-03-05 03:26",
+    "id_str": "2029277201250631784",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "D&amp;D puzzle creation is still an unsolved benchmark.\n\nGemini 3.1 Deep Think designs something that is at least an interesting scenario, but not actually a puzzle.\n\nGPT-5.2 Pro and Opus 4.6 tie themselves in knots creating stuff that won't work, making things overcomplicated etc. https://t.co/OKUdQhCwbR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029273545625198938",
+    "time": "2026-03-05 03:11",
+    "id_str": "2029273545625198938",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It gets at the heart of what current models can't do well: plan an overall process with complicated details and then iterate within each piece, stress testing the whole to see if it holds up as you do so. The models end up committing to a path, and back-justifying their choices.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029274712874840184",
+    "time": "2026-03-05 03:16",
+    "id_str": "2029274712874840184",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @NASAAdmin: Yesterday, I had the privilege of speaking at the @a16z American Dynamism Summit with the builders, operators, and investors…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2029269327342350371",
+    "time": "2026-03-05 02:54",
+    "id_str": "2029269327342350371",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @NASAAdmin: This speech is meant to set the stage",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2029271071480795388",
+    "time": "2026-03-05 03:01",
+    "id_str": "2029271071480795388",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "People who don't use Adobe Firefly as a platform, I have a question: \n\nWhat would Firefly as a platform need so you would start you using it? \n\nPlease, describe what you do and if you consider yourself a creative professional working in industry or a content creator or both",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029271339194863925",
+    "time": "2026-03-05 03:02",
+    "id_str": "2029271339194863925",
+    "is_retweet": false
   }
 ]
