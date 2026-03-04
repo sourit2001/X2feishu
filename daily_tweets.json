@@ -128,5 +128,25 @@
     "time": "2026-03-05 04:29",
     "id_str": "2029293174364200964",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex App 终于支持 windows 了\n\nOpenAI 的 Codex App 正式登陆 Windows，支持原生运行，也支持 WSL（Windows 子系统，让 Windows 用户跑 Linux 环境的工具）。终端方面全面兼容 PowerShell、命令提示符、Git Bash 和 WSL，覆盖了大多数 Windows 开发者的日常习惯。\n\n最值得关注的是沙盒机制。Codex 在",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029308744795082981",
+    "time": "2026-03-05 05:31",
+    "id_str": "2029308744795082981",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @steph_palazzolo: Anthropic CEO Dario Amodei told employees on Friday that the OpenAI-Pentagon deal was \"safety theater\" and the Trump a…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2029316894738858463",
+    "time": "2026-03-05 06:03",
+    "id_str": "2029316894738858463",
+    "is_retweet": true
   }
 ]
