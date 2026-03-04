@@ -228,5 +228,205 @@
     "time": "2026-03-04 18:26",
     "id_str": "2029141411417743567",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: JD Vance loves Grok — he openly calls himself a ‘Grok guy’ and says it’s the least woke AI on the planet https://t.co/0gWPGQoH…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029142947942613357",
+    "time": "2026-03-04 18:32",
+    "id_str": "2029142947942613357",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @dogeofficialceo: I love that William Shatner, Captain Kirk from Star Trek, is now fronting X Money with Elon Musk. The captain of the E…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029143027231670568",
+    "time": "2026-03-04 18:32",
+    "id_str": "2029143027231670568",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @WesRoth: xAI has officially rolled out a major User Interface (UI) overhaul for the Grok Imagine feature within the Grok mobile app and…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029143784546811921",
+    "time": "2026-03-04 18:35",
+    "id_str": "2029143784546811921",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我自己写的 Agent 客户端 Codepilot 已经能飞书远程连接\n\nMarkdown 渲染和图片识别都是自带的，也顺便支持了飞书海外版\n\n安装 0.25.0 版本就行，原来 Telegram 不方便的可以试试飞书了 https://t.co/2zPw5qnhR4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2029154461625794608",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154461625794608",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这里尝试：https://t.co/CvBLywzHer",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2029155159574757860",
+    "time": "2026-03-04 19:21",
+    "id_str": "2029155159574757860",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "reasoning models already know when they've solved the problem. we just don't let them stop.\n\nnew paper from Beihang University and ByteDance shows that the overthinking problem in models like DeepSeek-R1 and Qwen3 isn't a training failure. it's a sampling failure.\n\nthe fix cuts https://t.co/4IEVvFEIj3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154551409066144",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154551409066144",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "first, the problem quantified.\n\nthe researchers created a metric called RFCS (Ratio of First Correct Step) that tracks where in a chain of thought the correct answer first appears.\n\non MATH-500, across every model tested, the right answer shows up well before the end in over half",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154563799040371",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154563799040371",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "and it's not just wasted compute. overthinking actively hurts accuracy.\n\nDeepSeek-R1 produces responses 5x longer than Claude 3.7 Sonnet on AIME 2025 with comparable accuracy. QwQ-32B scores 2 percentage points HIGHER with its shortest answers using 31% fewer tokens.\n\n72% of",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154575526314075",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154575526314075",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "here's where it gets interesting.\n\nthe researchers probed whether models internally \"know\" they're done. they introduced TSearch, which scores partial reasoning traces by cumulative log-probability across the entire chain, not just the next token.\n\nwhen you let the model explore",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154587438117025",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154587438117025",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "three observations back this up:\n\n&gt; high-confidence paths (measured by cumulative probability) are shorter AND more accurate than standard samples\n\n&gt; at those natural endpoints, the stop token is the model's top prediction. it knows it's finished\n\n&gt; as you widen exploration (more",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154599358349817",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154599358349817",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "their solution: SAGE (Self-Aware Guided Efficient Reasoning).\n\ninstead of generating token by token, SAGE extends chains in whole reasoning steps. after each step, it checks: is the model confidently signaling it wants to stop?\n\nif yes, reasoning ends.\n\nno fine-tuning. no new",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154611123372436",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154611123372436",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "then they fold it into training with SAGE-RL.\n\ndead simple modification: in standard reinforcement learning (GRPO), you sample 8 responses per question. SAGE-RL replaces 2 of those 8 with SAGE-generated samples. the other 6 stay normal.\n\none-line code change. the model learns to",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154622917755273",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154622917755273",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "specific numbers worth sitting with:\n\n&gt; DeepSeek-R1-7B on MATH-500: 93% accuracy (up from 91.6%), tokens cut from 3,871 to 2,141\n\n&gt; DeepSeek-R1-1.5B on AIME 2025: accuracy jumps 6.2 percentage points\n\n&gt; Qwen3-8B: response length halved from 18,342 to 9,183 tokens with no accuracy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154634603085846",
+    "time": "2026-03-04 19:18",
+    "id_str": "2029154634603085846",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the deeper point here connects to something the field keeps rediscovering.\n\nwe trained reasoning models to think longer. then we discovered longer doesn't mean better. now this paper shows the models themselves already know that. they're generating stop signals that our inference",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154646514864306",
+    "time": "2026-03-04 19:19",
+    "id_str": "2029154646514864306",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "paper: https://t.co/XydujMsbXS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154658154111084",
+    "time": "2026-03-04 19:19",
+    "id_str": "2029154658154111084",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your premium AI bundle to 10x your business\n\n→ Prompts for marketing &amp; business\n→ Unlimited custom prompts\n→ n8n automations\n→ Weekly updates\n\nStart your free trial👇\nhttps://t.co/C8Zzw2IMzE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029154896969072918",
+    "time": "2026-03-04 19:20",
+    "id_str": "2029154896969072918",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Gemini https://t.co/6BGdC3vJPk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029155292521378232",
+    "time": "2026-03-04 19:21",
+    "id_str": "2029155292521378232",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @alex_prompter: 🚨 Google just proved that longer chain-of-thought makes AI models LESS accurate, not more.\n\nraw token count has a negati…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029155480975618243",
+    "time": "2026-03-04 19:22",
+    "id_str": "2029155480975618243",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "以下大模型你最常用的是哪个？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2029144739220431059",
+    "time": "2026-03-04 18:39",
+    "id_str": "2029144739220431059",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 以下大模型你最常用的是哪个？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2029147129613111306",
+    "time": "2026-03-04 18:49",
+    "id_str": "2029147129613111306",
+    "is_retweet": true
   }
 ]
