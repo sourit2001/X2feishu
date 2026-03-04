@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "RT @BenMildenhall: We don't expect LLMs to multiply numbers or sort lists directly within their output token stream. Instead, we ask them e…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2028996910082826737",
+    "time": "2026-03-04 08:52",
+    "id_str": "2028996910082826737",
+    "is_retweet": true
+  },
+  {
+    "username": "lexfridman",
+    "nickname": "Lex",
+    "text": "@steipete My conversation with Peter Steinberger (@steipete) is now translated &amp; dubbed into German. \n\nHuge thank you to ElevenLabs (@elevenlabsio) and @matiii for making it happen.\n\nIt's available here and on YouTube where you can switch audio tracks by clicking the gear icon &gt; Audio https://t.co/KqLb53KFBz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lexfridman/status/2028985964119425381",
+    "time": "2026-03-04 08:08",
+    "id_str": "2028985964119425381",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @learn2vibe: No way...  Building a mobile app with:\n\n&gt; Frontend\n&gt; Database &amp; Auth\n&gt; Payments w/ @RevenueCat\n&gt; OpenAI API\n\nIn less than 1…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2029000627351916707",
+    "time": "2026-03-04 09:07",
+    "id_str": "2029000627351916707",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: Gemini https://t.co/6BGdC3vJPk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2028984213001683372",
+    "time": "2026-03-04 08:01",
+    "id_str": "2028984213001683372",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "cc 的作者说 plan mode 就写了一句话：不要写代码",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2028989458377523268",
+    "time": "2026-03-04 08:22",
+    "id_str": "2028989458377523268",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI发布GPT-5.3 Instant：不再\"爹味\" \n\nChatGPT终于学会好好说话了\n\nGPT-5.2 I最被诟病的问题是语气过于\"爹味\"，一些用户甚至因此取消了订阅。\n\n在社交媒体上，ChatGPT的\"cringe\"回复风格已经成了模因素材。OpenAI显然注意到了这些声音。\n\nOpenAI正式发布了GPT-5.3 Instant，修正了一些问题... https://t.co/VHqsfP66X1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028988048248324391",
+    "time": "2026-03-04 08:17",
+    "id_str": "2028988048248324391",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GPT-5.3 Instant在整合网络搜索结果方面也有显著提升。\n\n让模型用自己的认知图谱为搜索到的信息提供背景解析。不是找到什么就搬什么，而是先理解你问的到底是什么，再把搜索结果和自己的知识融合起来回答。同时降低了对搜索结果的过度依赖，回答开头优先呈现核心信息，不再绕弯子。 https://t.co/P68XP2qxcV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028988050701979967",
+    "time": "2026-03-04 08:17",
+    "id_str": "2028988050701979967",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "幻觉率显著下降\n\n在数据层面，OpenAI给出了一组相当详细的准确性提升数据。他们通过两套内部评估体系来衡量幻觉率的变化： https://t.co/4Ssujfav2m",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028988053155660175",
+    "time": "2026-03-04 08:17",
+    "id_str": "2028988053155660175",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "彩蛋：5.4 和 Codex\n\nOpenAI 在公告里埋了两个预告\n\n\"5.4 sooner than you Think\"：大写的 T 暗示 GPT 5.4 可能跟 Thinking（推理）能力有关，很快就会发布\n\nCodex 应用的 Windows 版本也即将上线\n\n详细内容：https://t.co/LpGEGgxArb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028988378298065145",
+    "time": "2026-03-04 08:18",
+    "id_str": "2028988378298065145",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 发布 Gemini 3.1 Flash-Lite\n\n价格大约是Gemini 3.1 Pro的八分之一\n\n跟上一代 Gemini 2.5 Flash 对比：\n\n比 2.5 Flash 快了2.5 倍\n输出速度 363 token/s，快了45%\n支持Minimal、Low、Medium、High四档思考级别调整\n\n一个重要的信息点：3.1 Flash-Lite是从Gemini 3 Pro蒸馏出来的 https://t.co/B9gcZXSj7X",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028995713087189328",
+    "time": "2026-03-04 08:47",
+    "id_str": "2028995713087189328",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "先说大家最关心的价格\n\n3.1 Flash-Lite的定价是每百万输入token 0.25美元，每百万输出token 1.50美元。\n\n按照Artificial Analysis给出的3:1的输入输出混合比例计算，混合价格约为每百万token 0.56美元。 https://t.co/4xxYhlIqVH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028995715477938450",
+    "time": "2026-03-04 08:47",
+    "id_str": "2028995715477938450",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Benchmark表现：小模型打出大模型的成绩\n\n在各项评测中，3.1 Flash-Lite展现出了超越其\"体型\"的实力。在推理和多模态理解方面的表现尤其值得关注：\n\n3.1 Flash-Lite在与GPT-5 mini、Claude 4.5 Haiku、Grok 4.1 Fast等同级别模型的对比中，多项指标都处于领先位置。 https://t.co/k5OTx3FP0A",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028995717935841651",
+    "time": "2026-03-04 08:47",
+    "id_str": "2028995717935841651",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "灵活的\"思考级别\"控制\n\n3.1 Flash-Lite的一个重要架构更新是内置了\"思考级别\"（Thinking Levels）调整功能。\n\n开发者可以选择Minimal、Low、Medium、High四个不同的推理深度，以编程方式动态调节模型的推理强度。\n\n模型可以灵活切换：\n\n轻量任务（翻译、内容审核）：用最小档，跑得飞快、成本极低 https://t.co/oIXjaov5WB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028995720754450847",
+    "time": "2026-03-04 08:47",
+    "id_str": "2028995720754450847",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细内容：https://t.co/onoszdK1tG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2028995827470090532",
+    "time": "2026-03-04 08:47",
+    "id_str": "2028995827470090532",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @aidaxbaradari: Today, we're introducing Spectre I, the first smart device to stop unwanted audio recordings.\n\nWe live in a world of alw…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2028996685347922128",
+    "time": "2026-03-04 08:51",
+    "id_str": "2028996685347922128",
+    "is_retweet": true
+  }
+]
