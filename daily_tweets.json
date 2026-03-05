@@ -238,5 +238,215 @@
     "time": "2026-03-06 06:02",
     "id_str": "2029678995684442520",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: BREAKING: 𝕏 just launched Creator Subscriptions 2.0!\n\nNew easy tools to help creators earn more and grow faster.\n\n• Exclusive…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029693203256115480",
+    "time": "2026-03-06 06:59",
+    "id_str": "2029693203256115480",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "There was a nice time where researchers talked about various ideas quite openly on twitter. (before they disappeared into the gold mines :)).\n\nMy guess is that you can get quite far even in the current paradigm by introducing a number of memory ops as \"tools\" and throwing them",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2029696850366971921",
+    "time": "2026-03-06 07:13",
+    "id_str": "2029696850366971921",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "nanochat now trains GPT-2 capability model in just 2 hours on a single 8XH100 node (down from ~3 hours 1 month ago). Getting a lot closer to ~interactive! A bunch of tuning and features (fp8) went in but the biggest difference was a switch of the dataset from FineWeb-edu to https://t.co/qragh6hJL6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2029701092347630069",
+    "time": "2026-03-06 07:30",
+    "id_str": "2029701092347630069",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "sorry just to clarify - the real benchmark of interest is:\n\n\"what is the research org agent code that produces improvements on nanochat the fastest?\"\n\nthis is the new meta.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2029702379034267985",
+    "time": "2026-03-06 07:35",
+    "id_str": "2029702379034267985",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "GPT-5.4 Pro, Opus, and Gemini DeepThink: \"Prove to me in a PowerPoint that there was no advanced dinosaur civilization by downloading whatever data you think appropriate &amp; running tests\"\n\nGPT-5.4 and Claude did some original analyses, but someone build a harness for Deep Think! https://t.co/QMzmAIfFtL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029689565846364444",
+    "time": "2026-03-06 06:44",
+    "id_str": "2029689565846364444",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "To clarify: Gemini Deep Think is a really smart model, but it doesn't have access to the same tools as Claude or ChatGPT - it can't download files, cannot consistently run code on its own, cannot produce downloadable files, does not clearly show when it does web search, etc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029695435351220362",
+    "time": "2026-03-06 07:07",
+    "id_str": "2029695435351220362",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "GPT 5.4 发布，价格又涨了\n这让我思考，究竟什么是“价格”？\n卖方的定价是基于成本，还是基于竞争？\n这些都是表面现象。\n一个商品其实卖多少钱都有人买。\n它的价格，只需要符合买方的 ROI 就可以了。\n买方的预期投入&lt;=价格&lt;=买方的预期收益\n等价交换在某个点是可能的\n大部分时候是不可能的 https://t.co/h9kT9n15pq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2029693651052548191",
+    "time": "2026-03-06 07:00",
+    "id_str": "2029693651052548191",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "我越来越讨厌小红书也是因为这个\n小红书根本没有什么结构能\n看似高知白领，全是情绪冲动\n阴谋论是最低级的结构能，因为大部分人只能看懂阴谋论\n在这种地方无法诞生高级的智能",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2029694267644637529",
+    "time": "2026-03-06 07:03",
+    "id_str": "2029694267644637529",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "噩耗\n\n一觉醒来X 客户端自动更新了\n\n暗黑模式被干掉了\n\n目前只有纯白模式？ https://t.co/GdPWMKC231",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2029686266510573958",
+    "time": "2026-03-06 06:31",
+    "id_str": "2029686266510573958",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "跟随系统了，不允许自己设置了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2029693473167921621",
+    "time": "2026-03-06 07:00",
+    "id_str": "2029693473167921621",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My \"Isle of Secrets\" animation is ready. Enjoy! \n\nI work at Adobe so used Adobe Firefly platform a lot \n\nWorkflow breakdown in comments 👇\n\nI made it as part of AI animation course I'm taking with @Framer_X  I learnt about multi-shot scenes, sound effects and camera angles https://t.co/UVc7aSKvOr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689263789379920",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689263789379920",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 1: As always I used Adobe Firefly Boards for brainstorming and generating frames. I used both Nano Banana 2 and Flux Context. Sora 2 for video (right there). Topaz Upscaler to upscale Frames https://t.co/nMBruKq4od",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689266826031166",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689266826031166",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 2: I used collage method for reference frames right there in Adobe Firefly Boards and used Sora 2 to combine different elements into a video animation https://t.co/OF2AkUFyp2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689270303117315",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689270303117315",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 3: I put together everything in Adobe Express that is connected to Adobe Firefly Boards directly https://t.co/GuFtfr0aoB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689273457205612",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689273457205612",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 4: I used Premiere Pro to flip one of the videos because I needed the character to come from different side of the frame using Horizontal Flip https://t.co/nZdRDGSTgS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689276263178450",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689276263178450",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 5: I used Generate Soundtack based on the final video I had. It's available on Adobe Firefly Website. https://t.co/Wr3c5oXTYg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689280893743182",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689280893743182",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 6: Topaz Upscaler to upscale frames right there in Firefly Boards https://t.co/93urWAtsoM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689283687112786",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689283687112786",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 7: I did use Seedance for certain scenes that Sora 2 didn't handle that well https://t.co/fvWA24xP7V",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689286434447609",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689286434447609",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 8: Step 3: I used some of the basic sound effects like sound of the market and ocean from Adobe Express Stock library https://t.co/xeNBE1GmPU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689290784133292",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689290784133292",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Step 9: I combined sound effects and music track I generated with Adobe Firefly Generate Sound. It was pretty cool together. Mixed sound, so it's a bit more interesting. https://t.co/oqxB56uOCi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689294076411975",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689294076411975",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "For all the prompts and workflow beyond Adobe tools I recommend taking @Framer_X course. He's a good friend of mine and I always want to support his teaching. He's awesome. \nThis post isn't sponsored. I'm learning and sharing with you my process.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2029689296567820532",
+    "time": "2026-03-06 06:43",
+    "id_str": "2029689296567820532",
+    "is_retweet": false
   }
 ]
