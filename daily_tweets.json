@@ -288,5 +288,215 @@
     "time": "2026-03-06 01:46",
     "id_str": "2029614626820751380",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Grok iOS app just hit a massive milestone\n\n1M ratings with an insane 4.9-star average 🌟\n\nGrok is now officially the highest-ra…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029627014723031271",
+    "time": "2026-03-06 02:36",
+    "id_str": "2029627014723031271",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok iPhone app now over 1M ratings with 4.9 stars!\n\nDownload at https://t.co/3M9k0jUmSv https://t.co/Eed7aE1xOM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029627385784713310",
+    "time": "2026-03-06 02:37",
+    "id_str": "2029627385784713310",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "GPT-5.4 is launching, available now in the API and Codex and rolling out over the course of the day in ChatGPT.\n\nIt's much better at knowledge work and web search, and it has native computer use capabilities.\n\nYou can steer it mid-response, and it supports 1m tokens of context. https://t.co/DUrHIhXhzc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2029622732594499630",
+    "time": "2026-03-06 02:19",
+    "id_str": "2029622732594499630",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Codex app on Windows!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2029623487007183274",
+    "time": "2026-03-06 02:22",
+    "id_str": "2029623487007183274",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @polynoamial: GPT-5.4 is a big step up in computer use and economically valuable tasks (e.g., GDPval). We see no wall, and expect AI cap…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2029623747028885529",
+    "time": "2026-03-06 02:23",
+    "id_str": "2029623747028885529",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Forgot to mention /fast!\n\nI think people will like this.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2029623948980416681",
+    "time": "2026-03-06 02:23",
+    "id_str": "2029623948980416681",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "We will be able to fix these three things!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2029627696314208257",
+    "time": "2026-03-06 02:38",
+    "id_str": "2029627696314208257",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": ".@yq_acc translated one of my recent posts from English to \"English with better syntax highlighting\". I encourage reading it, it's actually much more readable than my original post :D\n\nIt's been fascinating to watch programming-language-style syntax structure and highlighting",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2029618592602570935",
+    "time": "2026-03-06 02:02",
+    "id_str": "2029618592602570935",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Open AI 牛皮 GPT-5.4 发布了，API 和 Codex 可以直接开启 100 万上下文。\n\n而且只有超出272K 上下文窗口的部分会用两倍额度计费，比 Claude 良心太多了！\n\n计算机原生使用能力和复杂任务的智能体便秘能力大幅提升。\n\n针对耗时较长、工具繁多的工作流程，提供更高效的推理\n\n而且这次 GPT-5.4 https://t.co/nj4IMwOXry",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2029624904908509285",
+    "time": "2026-03-06 02:27",
+    "id_str": "2029624904908509285",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "可以通过配置 model_context_window 和 model_auto_compact_token_limit 来尝试 GPT-5.4 的一百万上下文能力",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2029625649678446660",
+    "time": "2026-03-06 02:30",
+    "id_str": "2029625649678446660",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "一个问题是相较于5.2价格贵了一倍 https://t.co/pZxljrs1d7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2029629207727456612",
+    "time": "2026-03-06 02:44",
+    "id_str": "2029629207727456612",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "刚好 GPT-5.4 上了，已经支持 Codex 链接到 IM 工具 https://t.co/v5s6pHR5d6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2029629987662483968",
+    "time": "2026-03-06 02:47",
+    "id_str": "2029629987662483968",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yangyi: 公众号硅基立场分享的这篇《Qwen 和钉钉，无招和俊旸》写的很不错\n\n推荐阅读：https://t.co/fK1eAb86BS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029621985416786097",
+    "time": "2026-03-06 02:16",
+    "id_str": "2029621985416786097",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "感觉有点幻觉，Manus 才 1 岁😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029622358131040693",
+    "time": "2026-03-06 02:17",
+    "id_str": "2029622358131040693",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 发布 GPT-5.4，定位为专业工作场景的旗舰模型，同步推出面向高复杂任务的 GPT-5.4 Pro 版本。\n\n这次发布的最大亮点是 GPT-5.4 成为 OpenAI 首个原生支持\"电脑操控\"（Computer Use）的通用模型——也就是说，它可以像人一样通过截图、点击鼠标、敲击键盘来操作真实的电脑界面。\n\n在",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029628065773474271",
+    "time": "2026-03-06 02:40",
+    "id_str": "2029628065773474271",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Had early access to GPT-5.4 and Pro. \n\nThey are very good. One fun illustration of progress, this is the same prompt I used in GPT-4 below (making a 3D space inspired by Piranesi) now in GPT-5.4 Pro. There were no  errors, made in a single prompt plus one to \"make it better.\" https://t.co/7Vgmc60SKc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029623875303018817",
+    "time": "2026-03-06 02:23",
+    "id_str": "2029623875303018817",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Given the GDPval benchmark for GPT-5.4, I've updated this chart, the new model ties or beats humans as judged by other experts at professional tasks 82% of the time\n\nIf you give a 7 hour task to AI, even with failure rates and the need to check results, you'd save 4h 38m average https://t.co/U4PQSArQo2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029631499582976280",
+    "time": "2026-03-06 02:53",
+    "id_str": "2029631499582976280",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All of the latest models are getting very good, and it is increasingly hard to show \"just one thing\" that indicates how good they are compared to each other. Where those sorts of signals exist, they now require specialized knowledge &amp; take time to interpret (like FrontierMath)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029636089728680192",
+    "time": "2026-03-06 03:12",
+    "id_str": "2029636089728680192",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"The single biggest mistake people make in this area is: because they're intelligent in one area, they assume they're intelligent in all areas.\"\n\nAlex Karp on why Silicon Valley's culture of presenting as the smartest in the room is a weakness:\n\n\"You have to be honest, aware https://t.co/bYosGHhHJ8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2029633153527337241",
+    "time": "2026-03-06 03:00",
+    "id_str": "2029633153527337241",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Yea… I don’t think this is a great idea.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2029618556292452629",
+    "time": "2026-03-06 02:02",
+    "id_str": "2029618556292452629",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "1 million token context window.\nNative computer-use abilities.\nMatches coding ability of 5.3-codex.\nImproved tool use by adding “tool search” feature.\nImproved web search.\nDecreased hallucination rate.\n\nI think those are the main updates from what I can tell.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2029623735083495500",
+    "time": "2026-03-06 02:23",
+    "id_str": "2029623735083495500",
+    "is_retweet": false
   }
 ]
