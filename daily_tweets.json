@@ -48,5 +48,45 @@
     "time": "2026-03-05 19:39",
     "id_str": "2029522112650813918",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Wall Street firms pay analysts $200K/year to run frameworks these 10 Claude prompts replicate in 30 seconds.\n\nI engineered…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029545911282528696",
+    "time": "2026-03-05 21:13",
+    "id_str": "2029545911282528696",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 发布了 Skill Creator 的重大更新\n\n核心变化：内置测试用例生成\n\n写完一个 Claude 技能，怎么知道它到底能不能被正确触发？以前靠手动试，现在 Skill Creator 内置了测试功能，帮你自动跑评估。 https://t.co/XcDDNyPUTb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2029548875263176877",
+    "time": "2026-03-05 21:25",
+    "id_str": "2029548875263176877",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/wVYqo11kW8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2029548935367540902",
+    "time": "2026-03-05 21:25",
+    "id_str": "2029548935367540902",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "杰夫·贝佐斯讲述了他在会议进行到一半时拨打亚马逊客服电话，以证明某个指标有误的经历。\n\n在下面的视频片段中，杰夫讲述了亚马逊早期的一件事：当时他们的指标显示，客户拨打客服电话后等待时间不到 60 秒。然而，这与客户的投诉情况相矛盾。正如杰夫解释的那样：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2029542929346281630",
+    "time": "2026-03-05 21:01",
+    "id_str": "2029542929346281630",
+    "is_retweet": false
   }
 ]
