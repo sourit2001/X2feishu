@@ -158,5 +158,15 @@
     "time": "2026-03-05 14:24",
     "id_str": "2029442889470660690",
     "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code 跑任务时一直问你\"这步可以做吗\"，很烦\n\n为了不被打断，很多人会开一个\"--dangerously-skip-permissions\"的危险模式来运行 Claude Code \n\n现在Claude 推出一种新的 Auto Mode 模型\n\n介于\"每次都问\"和\"危险驾驶\"之间的第三条路\n\nClaude https://t.co/ae7Hv7pTg4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2029452211923894450",
+    "time": "2026-03-05 15:01",
+    "id_str": "2029452211923894450",
+    "is_retweet": false
   }
 ]
