@@ -18,5 +18,145 @@
     "time": "2026-03-06 19:25",
     "id_str": "2029881047874424905",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029913998641254548",
+    "time": "2026-03-06 21:36",
+    "id_str": "2029913998641254548",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: reasoning models already know when they've solved the problem. we just don't let them stop.\n\nnew paper from Beihang Univer…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029910426914353429",
+    "time": "2026-03-06 21:22",
+    "id_str": "2029910426914353429",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic just built Claude specifically for investment banking.\n\nWall Street Prep's 2026 benchmark ranked Claude #2 for finance tasks, with a score of 5.5 out of 10 - ahead of Copilot (4.4) and ChatGPT (2.5).\n\nMost finance prompts circulating on X are basic role assignments. No https://t.co/1L7CTsN2Rn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029912585340912094",
+    "time": "2026-03-06 21:30",
+    "id_str": "2029912585340912094",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What just changed:\n\nOn February 24, Anthropic launched 5 dedicated Claude finance plugins: financial analysis, investment banking, equity research, private equity, and wealth management.\n\nThe investment banking plugin can review transaction documents, analyze comparable",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029912588444651719",
+    "time": "2026-03-06 21:30",
+    "id_str": "2029912588444651719",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1/ DCF VALUATION MODEL\n\nRole: Senior investment banking analyst specializing in DCF modeling for [INDUSTRY] companies.\n\nTask: Build a complete discounted cash flow valuation for [COMPANY NAME].\n\nContext: [Paste: 3 years of revenue, EBIT, capex, D&amp;A, working capital changes,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029912726085009464",
+    "time": "2026-03-06 21:31",
+    "id_str": "2029912726085009464",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "2/ COMPARABLE COMPANY ANALYSIS\n\nRole: Equity research analyst at a top-10 investment bank specializing in [INDUSTRY] sector coverage.\n\nTask: Build a trading comps analysis for [COMPANY NAME] to determine implied valuation ranges.\n\nContext: [Paste: LTM revenue, EBITDA, EBIT, net",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029912805957042687",
+    "time": "2026-03-06 21:31",
+    "id_str": "2029912805957042687",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "3/ LBO MODEL\n\nRole: Private equity associate at a top-tier buyout fund with expertise in leveraged transaction modeling.\n\nTask: Build a complete LBO model framework for [COMPANY NAME] at a proposed entry of [ENTRY MULTIPLE]x EBITDA.\n\nContext: [Paste: LTM EBITDA, free cash flow",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029912876782116874",
+    "time": "2026-03-06 21:31",
+    "id_str": "2029912876782116874",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "4/ M&amp;A ACCRETION/DILUTION ANALYSIS\n\nRole: M&amp;A banker at a bulge-bracket firm advising the acquirer on a potential transaction.\n\nTask: Run an accretion/dilution analysis for [ACQUIRER] buying [TARGET] at [PROPOSED PRICE].\n\nContext: [Paste: acquirer's current EPS, net income,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029912940661313950",
+    "time": "2026-03-06 21:32",
+    "id_str": "2029912940661313950",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "5/ EQUITY RESEARCH NOTE\n\nRole: Sell-side equity research analyst initiating coverage on [COMPANY NAME] in the [SECTOR] space.\n\nTask: Draft a complete initiation-of-coverage note with a buy/hold/sell rating and 12-month price target.\n\nContext: [Paste: recent earnings summary, 3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029913037960826914",
+    "time": "2026-03-06 21:32",
+    "id_str": "2029913037960826914",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "6/ M&amp;A DUE DILIGENCE BRIEF\n\nRole: Senior M&amp;A advisor running the buy-side diligence process on [TARGET COMPANY] in [INDUSTRY].\n\nTask: Build a structured due diligence briefing for the deal team and management committee.\n\nContext: [Paste: target's business model, key revenue",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029913099734565314",
+    "time": "2026-03-06 21:32",
+    "id_str": "2029913099734565314",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "7/ INVESTMENT COMMITTEE MEMO\n\nRole: Partner at a private equity firm presenting a new investment to the IC.\n\nTask: Write a complete investment committee memo for [DEAL NAME / COMPANY].\n\nContext: [Paste: company description, proposed deal structure, entry price and multiple,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029913158979146127",
+    "time": "2026-03-06 21:33",
+    "id_str": "2029913158979146127",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "8/ PITCH BOOK NARRATIVE\n\nRole: Senior investment banker preparing the strategic rationale section of a pitch for [CLIENT].\n\nTask: Write the strategic narrative for a pitch recommending [TRANSACTION TYPE: M&amp;A / IPO / Debt Raise / Strategic Review] for [COMPANY NAME].\n\nContext:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029913216340426853",
+    "time": "2026-03-06 21:33",
+    "id_str": "2029913216340426853",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What separates these prompts from the ones circulating on X:\n\nMost finance prompts follow the same pattern: \"You are a Goldman VP. Give me a DCF.\"\n\nThat's a search query dressed as a prompt. It produces generic output because Claude gets no methodology, no constraints, and no",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029913327372046749",
+    "time": "2026-03-06 21:33",
+    "id_str": "2029913327372046749",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your premium AI bundle to 10x your business\n\n→ Prompts for marketing &amp; business\n→ Unlimited custom prompts\n→ n8n automations\n→ Weekly updates\n\nStart your free trial👇\nhttps://t.co/C8Zzw2IMzE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029913408892449012",
+    "time": "2026-03-06 21:34",
+    "id_str": "2029913408892449012",
+    "is_retweet": false
   }
 ]
