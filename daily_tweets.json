@@ -88,5 +88,65 @@
     "time": "2026-03-06 16:26",
     "id_str": "2029836063808655480",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @tesla_na: Fried Pickles now available at Tesla Diner Los Angeles https://t.co/NWJf3kQHoI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029837211907371018",
+    "time": "2026-03-06 16:31",
+    "id_str": "2029837211907371018",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "从这里安装吧\nhttps://t.co/gq6kuO9lck",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029838184285151300",
+    "time": "2026-03-06 16:35",
+    "id_str": "2029838184285151300",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我做 AI 翻译这件事，前前后后折腾了快两年。从最早手写提示词，到现在用 Agent 自动分块、并行翻译、审校润色，中间踩了不少坑，也攒了不少经验。最近把这些经验沉淀成了一个可复用的翻译 Skill。\n\n先说说翻译这个场景为什么比看上去要复杂。提示词本身很简单，“把这段话翻译成中文”谁都会写。 https://t.co/ODsBHbau11",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029842320443519319",
+    "time": "2026-03-06 16:51",
+    "id_str": "2029842320443519319",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: reasoning models already know when they've solved the problem. we just don't let them stop.\n\nnew paper from Beihang Univer…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029852417647595545",
+    "time": "2026-03-06 17:31",
+    "id_str": "2029852417647595545",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "1. GPT-5.4-Thinking的提示词泄漏了；\n2. 所有用户会被加上Ads广告推荐，智能体可以潜移默化地给你洗脑.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2029842284871860312",
+    "time": "2026-03-06 16:51",
+    "id_str": "2029842284871860312",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 分享两个有意思的高频刚需小工具：\n\nhttps://t.co/5SFerDJm8G ： 微信公众号排版助手，你可以通过这里的工具，将markdown转化成微信里格式一致可复制粘贴的结果；\n\nhttps://t.co/bhPIBBFhN5 ： IP信誉查…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2029842475398148118",
+    "time": "2026-03-06 16:52",
+    "id_str": "2029842475398148118",
+    "is_retweet": true
   }
 ]
