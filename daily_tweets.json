@@ -278,5 +278,75 @@
     "time": "2026-03-07 01:58",
     "id_str": "2029980000003276866",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Yikes",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029995984227553383",
+    "time": "2026-03-07 03:02",
+    "id_str": "2029995984227553383",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Articles on 𝕏 growing crazy fast!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2030000419938914536",
+    "time": "2026-03-07 03:19",
+    "id_str": "2030000419938914536",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "One important technical item that I forgot to mention is the proposed switch from Casper FFG to Minimmit as the finality gadget.\n\nTo summarize, Casper FFG provides two-round finality: it requires each attester to sign once to \"justify\" the block, and then again to \"finalize\" it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2029994081582207235",
+    "time": "2026-03-07 02:54",
+    "id_str": "2029994081582207235",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @benjaminion_xyz: Discussing fast finality with people, it is the move to 1 voting round that causes most concern since it ostensibly re…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2030001285655843279",
+    "time": "2026-03-07 03:23",
+    "id_str": "2030001285655843279",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AIs talking to AIs to get stuff done is a very understudied field, and is something that current models are not optimized to do well.\n\nAs we move to true organizations of AI agents, a lot more work is going to need to go into how they hand off information to each other in tasks.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029994277212696610",
+    "time": "2026-03-07 02:55",
+    "id_str": "2029994277212696610",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Somehow just discovered the \"pencilslop\" movement, which may be the most effective ragebait of all time\n\n#BreakThePencil https://t.co/HjT6QPUVVL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2029993752493002922",
+    "time": "2026-03-07 02:53",
+    "id_str": "2029993752493002922",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "\"Creating in public is volunteering to be misunderstood\" - @hankgreen \n\nHearing that quote on Hank's video today definitely resonated. lol",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2029993469922718167",
+    "time": "2026-03-07 02:52",
+    "id_str": "2029993469922718167",
+    "is_retweet": false
   }
 ]
