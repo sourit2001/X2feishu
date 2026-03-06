@@ -148,5 +148,135 @@
     "time": "2026-03-06 16:52",
     "id_str": "2029842475398148118",
     "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Everyone's paying $15/month for Claude to write code.\n\nI just found a model that codes BETTER than Opus 4.6, runs 3x faste…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029852841398128908",
+    "time": "2026-03-06 17:33",
+    "id_str": "2029852841398128908",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "reasoning models already know when they've solved the problem. we just don't let them stop.\n\nnew paper from Beihang University and ByteDance shows that the overthinking problem in models like DeepSeek-R1 and Qwen3 isn't a training failure. it's a sampling failure.\n\nthe fix cuts https://t.co/rT3tZA5gpw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865711427105062",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865711427105062",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "first, the problem quantified.\n\nthe researchers created a metric called RFCS (Ratio of First Correct Step) that tracks where in a chain of thought the correct answer first appears.\n\non MATH-500, across every model tested, the right answer shows up well before the end in over half",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865723884114076",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865723884114076",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "and it's not just wasted compute. overthinking actively hurts accuracy.\n\nDeepSeek-R1 produces responses 5x longer than Claude 3.7 Sonnet on AIME 2025 with comparable accuracy. QwQ-32B scores 2 percentage points HIGHER with its shortest answers using 31% fewer tokens.\n\n72% of",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865735598878925",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865735598878925",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "here's where it gets interesting.\n\nthe researchers probed whether models internally \"know\" they're done. they introduced TSearch, which scores partial reasoning traces by cumulative log-probability across the entire chain, not just the next token.\n\nwhen you let the model explore",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865747447697655",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865747447697655",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "three observations back this up:\n\n&gt; high-confidence paths (measured by cumulative probability) are shorter AND more accurate than standard samples\n\n&gt; at those natural endpoints, the stop token is the model's top prediction. it knows it's finished\n\n&gt; as you widen exploration (more",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865759225307279",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865759225307279",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "their solution: SAGE (Self-Aware Guided Efficient Reasoning).\n\ninstead of generating token by token, SAGE extends chains in whole reasoning steps. after each step, it checks: is the model confidently signaling it wants to stop?\n\nif yes, reasoning ends.\n\nno fine-tuning. no new",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865770927497592",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865770927497592",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "then they fold it into training with SAGE-RL.\n\ndead simple modification: in standard reinforcement learning (GRPO), you sample 8 responses per question. SAGE-RL replaces 2 of those 8 with SAGE-generated samples. the other 6 stay normal.\n\none-line code change. the model learns to",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865782612742302",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865782612742302",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "specific numbers worth sitting with:\n\n&gt; DeepSeek-R1-7B on MATH-500: 93% accuracy (up from 91.6%), tokens cut from 3,871 to 2,141\n\n&gt; DeepSeek-R1-1.5B on AIME 2025: accuracy jumps 6.2 percentage points\n\n&gt; Qwen3-8B: response length halved from 18,342 to 9,183 tokens with no accuracy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865794394591573",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865794394591573",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the deeper point here connects to something the field keeps rediscovering.\n\nwe trained reasoning models to think longer. then we discovered longer doesn't mean better. now this paper shows the models themselves already know that. they're generating stop signals that our inference",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865806318948381",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865806318948381",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "paper: https://t.co/XydujMsbXS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029865817953947755",
+    "time": "2026-03-06 18:24",
+    "id_str": "2029865817953947755",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your premium AI bundle to 10x your business\n\n→ Prompts for marketing &amp; business\n→ Unlimited custom prompts\n→ n8n automations\n→ Weekly updates\n\nStart your free trial👇\nhttps://t.co/C8Zzw2Jkpc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029866701144346989",
+    "time": "2026-03-06 18:28",
+    "id_str": "2029866701144346989",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "nanoclaw 安装又是几个小时过去了\n可以说比龙虾还恶心，cc 都搞不定",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2029865488298516660",
+    "time": "2026-03-06 18:23",
+    "id_str": "2029865488298516660",
+    "is_retweet": false
   }
 ]
