@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Wow",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2029787439192232165",
+    "time": "2026-03-06 13:13",
+    "id_str": "2029787439192232165",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "别着急吹 GPT-5.4，跟 Opus 4.6 还是有差距。\n\n目前我初步用下来的感觉：\n\n1. 写作依然不行，比GPT-5.2看起来有点进步，但离Opus 4.6 还有点远\n\n2. 过度思考，一个简单问题能思考半天\n\n3. https://t.co/bC4c1qABvJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2029788344670945643",
+    "time": "2026-03-06 13:17",
+    "id_str": "2029788344670945643",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "RT @Hadas_Gold: MICROSOFT: “Our lawyers have studied the designation and have concluded that Anthropic products, including Claude, can rema…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029776906883661874",
+    "time": "2026-03-06 12:31",
+    "id_str": "2029776906883661874",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It was fun the first time I got a phone call from my OpenClaw, but, in general, I don't trust it enough (security, obviously, but also too squirrely &amp; unstable) to do anything too useful for me, for now\n\nDoes show you the value of new control surfaces for AI agents, which is cool",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029778100024689109",
+    "time": "2026-03-06 12:36",
+    "id_str": "2029778100024689109",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I know people getting a lot of joy and use out of OpenClaw, though, so don't let my example dissuade you from trying it (cautiously)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029778541051548126",
+    "time": "2026-03-06 12:38",
+    "id_str": "2029778541051548126",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think we have been through enough release cycles for models at this point to say that the latest model from OpenAI or Anthropic or Google is generally going to be the best model in the world upon release (with some jagged edges) until the next release by one of the Big Three.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029793370378289170",
+    "time": "2026-03-06 13:37",
+    "id_str": "2029793370378289170",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "That actually tells you something interesting about the state of the AI labs and the fact that these three, at least, are on the same course at a similar pace -  that creates a self-fulfilling prophecy of advancement.\n\nThe same cannot always be said for any of the other players.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2029794181909012545",
+    "time": "2026-03-06 13:40",
+    "id_str": "2029794181909012545",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Someone should hire an EA from @somewhere and then also build an agent that does the same job, and see who does better.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2029770233096065392",
+    "time": "2026-03-06 12:05",
+    "id_str": "2029770233096065392",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @learn2vibe: Senior Vibe coder Muhammad did what?\n\nHe cloned @voicenotesai app that does millions of dollars per year in less than 10 mi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2029789122039300206",
+    "time": "2026-03-06 13:20",
+    "id_str": "2029789122039300206",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "They lobotomized Claude in Claude Code, probably because they're losing money on every call\n\n\"Ads are coming but not to Claude\"\n\nI don't give a shit. Bring ads to Claude if it means I get to spam 200 IQ Opus again",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2029771059373944941",
+    "time": "2026-03-06 12:08",
+    "id_str": "2029771059373944941",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Hey look, they wrote an article about Varick Agents.\n\nThe pitch to companies is simple: you know you need AI, but it's actually very hard to do properly. \n\nThis is not a traditional software engineering problem. Balancing context, governance, access, and autonomy is a tricky",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2029772863088251025",
+    "time": "2026-03-06 12:15",
+    "id_str": "2029772863088251025",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "To clarify, job will be a mix of executive assistant + chief of staff",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2029777123012137370",
+    "time": "2026-03-06 12:32",
+    "id_str": "2029777123012137370",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: The entire AI marketing stack is a confidence trick.\n\nIt sounds smart. It knows nothing about your customers.\n\nYour AI wri…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2029783767204909072",
+    "time": "2026-03-06 12:58",
+    "id_str": "2029783767204909072",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "昨天让🦞表演一下自杀，它真的做到了\n今天被之前设置的定时任务给复活过来了\n看来勤奋的🦞宝会终究有回报 https://t.co/8Z7GfJpUiq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2029784357641261495",
+    "time": "2026-03-06 13:01",
+    "id_str": "2029784357641261495",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "有些核心 skill 和 agent 是垂直的关系",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2029786096851410989",
+    "time": "2026-03-06 13:08",
+    "id_str": "2029786096851410989",
+    "is_retweet": false
+  }
+]
