@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/Ui0vr663Vt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2030372508034019833",
+    "time": "2026-03-08 03:58",
+    "id_str": "2030372508034019833",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "I packaged up the \"autoresearch\" project into a new self-contained minimal repo if people would like to play over the weekend. It's basically nanochat LLM training core stripped down to a single-GPU, one file version of ~630 lines of code, then:\n\n- the human iterates on the https://t.co/3tyOq2P9c6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2030371219518931079",
+    "time": "2026-03-08 03:53",
+    "id_str": "2030371219518931079",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "(I still have the bigger cousin running on prod nanochat, working a bigger model and on 8XH100, which looks like this now. I'll just leave this running for a while...) https://t.co/aWya9hpUMl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2030373745991536982",
+    "time": "2026-03-08 04:03",
+    "id_str": "2030373745991536982",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "很多人说 Cursor 现在现金流很好，但是注意文章中几个细节：\n1. Cursor 的个人订阅利润率为负，但企业套餐的利润率为正。\n2. 截至去年 11 月，企业合同仅占 Cursor 年化收入的 13.6%，如今 Cursor 约 60% 的收入来自企业客户\n3. 客户流失的信号  压力正在不断累积。\n\n也就是说 Cursor",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2030363129096397123",
+    "time": "2026-03-08 03:21",
+    "id_str": "2030363129096397123",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The issue was found in 2016, but didn’t improve until 2023 (maybe AI actually helped?) https://t.co/MN9C2YY1Jm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2030362364403396750",
+    "time": "2026-03-08 03:18",
+    "id_str": "2030362364403396750",
+    "is_retweet": false
+  }
+]
