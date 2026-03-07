@@ -138,5 +138,35 @@
     "time": "2026-03-08 05:22",
     "id_str": "2030393677613568347",
     "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @learn2vibe: oh my... Claude Opus 4.6 with Mobile Apps...\n\nThere's no excuse not to just download @vibecodeapp_\n\nhttps://t.co/VgYllLPBMc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2030409297189085276",
+    "time": "2026-03-08 06:24",
+    "id_str": "2030409297189085276",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Anyone at Stanford or Berkeley that can help me set up shop for a day to interview young hungry motivated engineers and FDEs for Varick? \n\nWe’re hiring",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2030413214778081379",
+    "time": "2026-03-08 06:40",
+    "id_str": "2030413214778081379",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "把 GPT 5.4 用在 Claude Code 里的感觉还是不太对\n它运行的非常非常慢，一个小改动都是三分钟起步\n而且写了个小的 swift 项目，错误百出。\n让 Claude Opus 4.6 检查一下，立即就发现了问题所在",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2030418409880695236",
+    "time": "2026-03-08 07:00",
+    "id_str": "2030418409880695236",
+    "is_retweet": false
   }
 ]
