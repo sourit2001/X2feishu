@@ -68,5 +68,65 @@
     "time": "2026-03-07 21:38",
     "id_str": "2030276854611837037",
     "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Replit CEO Amjad Masad: Being 'terminally online' may be an advantage.\n\n\"If you want to work on a skill, it's going to be about idea generation.\"\n\n\"Because the cost of implementation of those ideas is going down rapidly. It's gonna go to zero at some point.\"\n\n\"So the bottleneck https://t.co/aiWPIdZecP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2030297593977487814",
+    "time": "2026-03-07 23:00",
+    "id_str": "2030297593977487814",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code 上线 /loop 命令\n\n让 AI 自动帮你「值班」，定时跑任务\n\n相当于给 Claude Code 加了一个\"定时闹钟\"。\n\n以前用 Claude Code，你说一句它做一句，做完就停。现在有了 /loop，你可以告诉它\"每隔多久做一次什么事\"，它就会在后台按时自动执行，不用你反复手动去问。\n\n能干三件事 https://t.co/cEYiS1ySeq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2030289703560478921",
+    "time": "2026-03-07 22:29",
+    "id_str": "2030289703560478921",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "用法非常简单，直接在 Claude Code 里输入：\n\n/loop 5m 检查一下错误日志，如果有可修复的 bug 就自动创建 PR\n\nClaude 会自动解析「5m」为每 5 分钟执行一次，生成对应的 cron 表达式，确认调度周期和任务 ID，然后开始在后台运行。 https://t.co/gqNIS5ef0R",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2030289706756473202",
+    "time": "2026-03-07 22:29",
+    "id_str": "2030289706756473202",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "进阶玩法\n\n打开多个终端窗口，每个指向不同项目，各跑各的 /loop。一个盯测试，一个盯 GitHub issue，一个盯数据分析，互不干扰。\n\nGit hook 做持久化、CLAUDE.md 当大脑\n\n组合起来：/loop 提供循环，CLAUDE.md 提供记忆，Git hook 提供持久化。\n\n一台电脑就是一个 Agent 工作站。 https://t.co/jC9kiUqTvC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2030289709617098961",
+    "time": "2026-03-07 22:29",
+    "id_str": "2030289709617098961",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/wWh2rcVtAW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2030289756798738578",
+    "time": "2026-03-07 22:29",
+    "id_str": "2030289756798738578",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "其实到了这个阶段\n\n MacBook 完全有必要上eSIM 了\n\n装上龙虾和CC全天候自动运行，走哪背哪😂\n\n为什么库克老儿就是想不到\n\n库克老儿在AI时代严重拖苹果后腿...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2030299120943165874",
+    "time": "2026-03-07 23:06",
+    "id_str": "2030299120943165874",
+    "is_retweet": false
   }
 ]
