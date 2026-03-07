@@ -98,5 +98,45 @@
     "time": "2026-03-08 04:24",
     "id_str": "2030379148339040574",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @eraera: 3 4不赞同，软件行业从来不缺复杂问题。crud横行只是因为之前程序猿贵，只能搞crud",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2030393386708898244",
+    "time": "2026-03-08 05:21",
+    "id_str": "2030393386708898244",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "基于 AI Agent 的交互不是因为 CLI 多好，是因为基于 GUI 还没摸索出来，GUI 如果没设计好反而对使用效率是阻力。\n\n现在相当于先回归到原始 CLI 状态重新开始摸索 AI Agent 的最佳交互模式。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2030402172962185277",
+    "time": "2026-03-08 05:56",
+    "id_str": "2030402172962185277",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Every damn day, another post with a thousand plus likes for a year old \"breaking\" paper that should \"scare everyone using AI\" because of issues with \"latest top models\" like Llama 4 and o3.\n\n(The paper was good &amp; multi-turn is hard, but, again, big progress since it was written.) https://t.co/9d3rYisbJ5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2030393514605871580",
+    "time": "2026-03-08 05:21",
+    "id_str": "2030393514605871580",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Conspiracy theory of the day: \nReplit acquires cluely..\n\nAmjad talking about Brainrot..\nRoy posting about selling software.. https://t.co/ZDUy3BbjhD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2030393677613568347",
+    "time": "2026-03-08 05:22",
+    "id_str": "2030393677613568347",
+    "is_retweet": false
   }
 ]
