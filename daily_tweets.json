@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: BREAKING: Grokipedia just hit a new milestone: 400,000 backlinks.🔥\n\nMore blogs, sites, and communities are now linking to Grok…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2030068381148450883",
+    "time": "2026-03-07 07:49",
+    "id_str": "2030068381148450883",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "因为实在受不了微博头条文章的难用，写了个 Skill 叫 baoyu-post-to-weibo\n 帮我发布头条文章，可以自动把markdown文档和配图发布到头条文章，自动写标题、正文，自动插入上传图片，自动上传设置封面图。\n\n这个 skill https://t.co/xJgJbefeMg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2030071940501602375",
+    "time": "2026-03-07 08:04",
+    "id_str": "2030071940501602375",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "https://t.co/hKFKPouWz9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2030072503260041686",
+    "time": "2026-03-07 08:06",
+    "id_str": "2030072503260041686",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @azed_ai: Great news....\n\nApplication to Adobe Ambassador program is open for you \n\nAnd  believe me when I say it's the best CPP you'll…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2030088120419459307",
+    "time": "2026-03-07 09:08",
+    "id_str": "2030088120419459307",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Here are the biggest AI news stories from the past week. As always, let me know if I missed anything.\n\n- @OpenAI launches GPT-5.4\n- OpenAI releases GPT-5.3 Instant\n- OpenAI launches Codex app for Windows\n- MORE drama between OpenAI, Anthropic &amp; the Pentagon\n- @AnthropicAI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2030062912622961047",
+    "time": "2026-03-07 07:28",
+    "id_str": "2030062912622961047",
+    "is_retweet": false
+  }
+]
