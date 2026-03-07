@@ -218,5 +218,25 @@
     "time": "2026-03-08 02:00",
     "id_str": "2030342846608490726",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @chenchengpro: 我反编译了 Claude Code 的 /loop 命令，搞清楚它底层到底在干嘛。\n\n结论：它就是一个 cron 包装器，但细节很有意思 👇\n\n• 输入 /loop 5m 检查部署 → AI 解析时间 → 生成 cron 表达式 → 调用内部…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2030360433228415460",
+    "time": "2026-03-08 03:10",
+    "id_str": "2030360433228415460",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "The new Kling Motion Control is insanely good at character swap.\n\nI used \"known\" faces, which is hard mode - we're much better at judging if they stay consistent throughout the clip.\n\nIt's not perfect, but it handled a tricky shot with multiple weird angles quite well 👇 https://t.co/lu0QTJTWpn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2030360323170201650",
+    "time": "2026-03-08 03:09",
+    "id_str": "2030360323170201650",
+    "is_retweet": false
   }
 ]
