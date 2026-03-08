@@ -78,5 +78,95 @@
     "time": "2026-03-09 00:50",
     "id_str": "2030687721866383662",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Cybertruck",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2030706395058762037",
+    "time": "2026-03-09 02:05",
+    "id_str": "2030706395058762037",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @DimaZeniuk: Super Heavy booster is pure engineering art \nhttps://t.co/MWO5565aNb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2030711353711690173",
+    "time": "2026-03-09 02:24",
+    "id_str": "2030711353711690173",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "The next step for autoresearch is that it has to be asynchronously massively collaborative for agents (think: SETI@home style). The goal is not to emulate a single PhD student, it's to emulate a research community of them.\n\nCurrent code synchronously grows a single thread of",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2030705271627284816",
+    "time": "2026-03-09 02:00",
+    "id_str": "2030705271627284816",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The dataset if you want to experiment: https://t.co/R105YI33KL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2030710360357970270",
+    "time": "2026-03-09 02:20",
+    "id_str": "2030710360357970270",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Looking for a 2 bed apartment in SF starting March 15/April 1 onwards\n\nWould greatly appreciate any leads!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2030704902394314897",
+    "time": "2026-03-09 01:59",
+    "id_str": "2030704902394314897",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: most people building AI agents obsess over how they WRITE memories.\nturns out that's basically irrelevant.\n\nnew research a…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2030710389315649613",
+    "time": "2026-03-09 02:21",
+    "id_str": "2030710389315649613",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The real story here has nothing to do with politics.\n\nIt has to do with the single largest user migration in AI history happening in real time, and what it means for anyone who depends on these tools professionally.\nChatGPT uninstalls surged 295% in a single day. \n\nClaude became",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2030710804023029781",
+    "time": "2026-03-09 02:22",
+    "id_str": "2030710804023029781",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "The Seedance 2 videos coming out of China are insane.\n\nThey've had a few weeks to play with the model and we're starting to get real stories - not just novelty clips.\n\nThis short drama has 100k+ likes on Rednote, with commenters demanding a sequel 👇 https://t.co/Lb8kPJqRb2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2030698424761495990",
+    "time": "2026-03-09 01:33",
+    "id_str": "2030698424761495990",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: My \"Isle of Secrets\" animation is ready. Enjoy! \n\nI work at Adobe so used Adobe Firefly platform a lot \n\nWorkflow breakdow…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2030700181184721140",
+    "time": "2026-03-09 01:40",
+    "id_str": "2030700181184721140",
+    "is_retweet": true
   }
 ]
