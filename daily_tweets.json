@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude Code 新增的 /loop 命令猛啊\n\n可以连续三天帮你执行重复性任务，最细的粒度可以到每五分钟执行一次\n\n这下把 Openclaw 的定时任务也搞来了，比如可以帮你定时审查 github 的 PR 或者每天帮你总结相关信息进行提醒\n\n结合我的 Feishu 或者 Telegram Skills https://t.co/bFRUt3oIzN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2030549756565667859",
+    "time": "2026-03-08 15:42",
+    "id_str": "2030549756565667859",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我在写 baoyu-skills 时，一开始就是让 agent 帮助生成commit message 和changelog\n\n为此写了一个skill：release-skills\nhttps://t.co/yuO57NR4OF\n每次发布只要说：发布更新\n就自动commit，写changelog，打tag\n\n还算通用 https://t.co/g9tA3aAK0B",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2030557974662463761",
+    "time": "2026-03-08 16:15",
+    "id_str": "2030557974662463761",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Waterloo CS students: if you want to work in person in SF for top pay and solve real world problems instead of hype, DM me\n\nPutting together an elite team",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2030550294447480921",
+    "time": "2026-03-08 15:44",
+    "id_str": "2030550294447480921",
+    "is_retweet": false
+  }
+]
