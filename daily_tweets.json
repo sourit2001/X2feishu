@@ -178,5 +178,75 @@
     "time": "2026-03-10 05:54",
     "id_str": "2031126569683755401",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "The Ethereum Foundation is using DVT-lite to stake 72,000 ETH:\n\nhttps://t.co/NIt4mksntj\n\nMy hope for this project is that in the process, we can make it maximally easy and one-click to do distributed staking for institutions. Choose which computers run your nodes, make a config",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2031147002889719907",
+    "time": "2026-03-10 07:15",
+    "id_str": "2031147002889719907",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Three days ago I left autoresearch tuning nanochat for ~2 days on depth=12 model. It found ~20 changes that improved the validation loss. I tested these changes yesterday and all of them were additive and transferred to larger (depth=24) models. Stacking up all of these changes, https://t.co/j34dSt4oht",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2031135152349524125",
+    "time": "2026-03-10 06:28",
+    "id_str": "2031135152349524125",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "oh yeah i should have linked autoresearch probably\nhttps://t.co/MhdH7YF1PP\n(you don't \"use it\" directly, it's just a recipe/idea - give it to your agent and apply to what you care about.)\n\nand the tweet about it that went mini-viral over the weekend with more context",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2031137476438548874",
+    "time": "2026-03-10 06:38",
+    "id_str": "2031137476438548874",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "看着很酷👍",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2031141408921280866",
+    "time": "2026-03-10 06:53",
+    "id_str": "2031141408921280866",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "ChatGPT has over 2.5x as many paid monthly subscribers than Gemini and Claude do combined\n\nFull report: https://t.co/P2BUkn6fvY https://t.co/jsctkcHgc9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031135477936566306",
+    "time": "2026-03-10 06:30",
+    "id_str": "2031135477936566306",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @hubermanlab: Thank you @a16z  &amp; @daisydwolf hosting me,\nCovered peptides (all kinds, finding &amp;  guarding your critical cognitive perfor…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031136620578254937",
+    "time": "2026-03-10 06:34",
+    "id_str": "2031136620578254937",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "OpenClaw is seeing close to one million daily visits to its signup page\n\nFull report: https://t.co/P2BUkn6fvY https://t.co/tgG1fpctSq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031143031026622700",
+    "time": "2026-03-10 07:00",
+    "id_str": "2031143031026622700",
+    "is_retweet": false
   }
 ]
