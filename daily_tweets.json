@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @libukai: 人啊，要想人前吹牛逼不被打脸，就得人后多花功夫好好练！\n\n前天小小吐槽了一下 @dotey  宝玉老师，说他做的 push-to-x skill 不够精致，连原生的代码样式都无法还原，还夸下海口要解决这个问题。\n\n这不苦熬了 2 个晚上，终于把流程优化…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2031092414488694965",
+    "time": "2026-03-10 03:39",
+    "id_str": "2031092414488694965",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Ah found it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2031094064003559574",
+    "time": "2026-03-10 03:45",
+    "id_str": "2031094064003559574",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It seems it was unfortunate that companies lumped every concern about AI into the overall labels of \"governance\" or \"responsible AI\"\n\nIt creates a giant tangle around discussions of the risks and rewards of AI use cases, and often centralizes decisions that should be distributed.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2031096296430342394",
+    "time": "2026-03-10 03:54",
+    "id_str": "2031096296430342394",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @iwebst: Promptfoo will be joining OpenAI.\n\nWe’re staying open source and we’re going to keep supporting customers and users.\n\nWe built…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031102302560583985",
+    "time": "2026-03-10 04:18",
+    "id_str": "2031102302560583985",
+    "is_retweet": true
+  }
+]
