@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "🤔",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2030913482301083900",
+    "time": "2026-03-09 15:48",
+    "id_str": "2030913482301083900",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I deleted my AI stack after using this one tool\n\nNew YT video dropped 👇\nhttps://t.co/FBVF2rVIZY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2030922075112653293",
+    "time": "2026-03-09 16:22",
+    "id_str": "2030922075112653293",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: This framing has been repeated so often it's lost its weight. But the data behind it just got much sharper.\n\nMcKinsey now…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2030922245208449482",
+    "time": "2026-03-09 16:22",
+    "id_str": "2030922245208449482",
+    "is_retweet": true
+  }
+]
