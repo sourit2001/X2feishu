@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "给 Codepilot 加上了 CLI 工具的推荐和一键安装\n\n现在大家开始都给 AI 制作 CLI 工具了\n\n你电脑上的其他已经安装的 CLI 工具也可以调用 AI 生成介绍\n\nCLI 工具也是 Agent 基建之一 https://t.co/ANtKetl1wW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2031709787361292648",
+    "time": "2026-03-11 20:32",
+    "id_str": "2031709787361292648",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "我其实有点好奇，26 年这会的 openclaw 往上建设产品是不是有点类似 23 年那会基于基模构建产品，那会诞生出了 lobechat、dify、cherrystudio\n\n不知道这波 openclaw 龙虾的包装产品会有什么有意思的出现？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2031700866583973988",
+    "time": "2026-03-11 19:56",
+    "id_str": "2031700866583973988",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Hume AI 发布其收款开源了语音模型: TADA\n\n比同类 LLM TTS 快 5 倍以上\n1000+ 测试样本零幻觉\n可以跑在手机和边缘设备上，无需云端推理\n支持中文等10种语言\n\n人类评测自然度和音色相似度排名第二，超过多个更大规模训练的系统\n\n同样 2048 token 窗口，能容纳约 700 秒音频，传统方案只能撑 70 秒 https://t.co/OM39Zwkzrd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2031701975264538728",
+    "time": "2026-03-11 20:01",
+    "id_str": "2031701975264538728",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "支持英语 + 中文、日语、法语、德语、西班牙语等 10 种语言，提供 1B（英语）和 3B（多语言）两个模型\n\n基于Llama 架构，代码和权重全部开源 https://t.co/6QHWIjARWA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2031701977722479006",
+    "time": "2026-03-11 20:01",
+    "id_str": "2031701977722479006",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "代码和权重全部开源，MIT 协议，商用无限制，pip install hume-tada 一行装好。\n\n详细介绍：https://t.co/TwfawP1pG6\n\n模型下载：https://t.co/LjnlREUZ2t https://t.co/PghJoEEtQV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2031702278319824932",
+    "time": "2026-03-11 20:02",
+    "id_str": "2031702278319824932",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Photoshop AI Assistant (beta) just dropped on web 🎉 \n\nI typed \"add a glitch effect and grade it like 90s nostalgia\" \nIt cr…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2031712806261727260",
+    "time": "2026-03-11 20:44",
+    "id_str": "2031712806261727260",
+    "is_retweet": true
+  }
+]
