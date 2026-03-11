@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Stanford just proved that every major AI model is systematically making you worse at relationships.\n\nResearche…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031680841663811822",
+    "time": "2026-03-11 18:37",
+    "id_str": "2031680841663811822",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "中英文之间要加空格这种人类的古怪习俗影响了AI。\nAI并不需要空格这种东西。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2031684593569653195",
+    "time": "2026-03-11 18:52",
+    "id_str": "2031684593569653195",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "为什么 MiniMax 超过百度？\n为什么智谱超过京东？\n股市，就是故事。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2031691763950436835",
+    "time": "2026-03-11 19:20",
+    "id_str": "2031691763950436835",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Fish Audio 开源 S2\n\n4B 参数的 TTS 模型\n覆盖 80 种语言\n100ms 出声\n还能让 AI 笑出来\n\n最大升级：支持通过自然语言情感控制\n\nS2 支持在文本中任意位置嵌入自由格式的自然语言描述标签来控制情绪表达\n\n通过方括号 + 自由描述。你可以在文本任意位置插入自然语言指令：\n\n今天的会议结果 https://t.co/dFL1kYGAZv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2031685044532818103",
+    "time": "2026-03-11 18:53",
+    "id_str": "2031685044532818103",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "原生多说话人支持\n\n用户只需上传一段包含多个说话人的参考音频，模型通过 &lt;|speaker:i|&gt; token 自动处理每位说话人的特征，单次推理即可生成多人对话，无需再为每个说话人分别上传音频。 https://t.co/EOCWM6mIdy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2031685047099826257",
+    "time": "2026-03-11 18:53",
+    "id_str": "2031685047099826257",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "训练数据超过 1000 万小时音频，模型分为两个版本：S2（基础版）和 S2 Pro（旗舰版）\n\n模型权重、微调代码、推理引擎全部开源，研究和非商用免费，但是商用需要联系授权。\n\n详细介绍：https://t.co/Dm7FC010iy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2031685300255392027",
+    "time": "2026-03-11 18:54",
+    "id_str": "2031685300255392027",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "今天有个大新闻，说是得物公司已经率先把前端、后端、算法的分法给取消了，统一合并为‘AI全栈工程师’。\n\n中大厂对实习生和应届生的要求越来越高，换10年前的那波应届生的水平，现在连1面技术面都过不了。\n\n这个消息我感觉隐隐不对，组织变化哪有这么容易。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2031680476784586929",
+    "time": "2026-03-11 18:35",
+    "id_str": "2031680476784586929",
+    "is_retweet": false
+  }
+]
