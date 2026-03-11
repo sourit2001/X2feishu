@@ -328,5 +328,85 @@
     "time": "2026-03-12 01:25",
     "id_str": "2031783478023635213",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Join Tesla for real-world AGI or xAI for digital-world AGI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2031797055338004572",
+    "time": "2026-03-12 02:19",
+    "id_str": "2031797055338004572",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "My autoresearch labs got wiped out in the oauth outage. Have to think through failovers. Intelligence brownouts will be interesting - the planet losing IQ points when frontier AI stutters.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2031792523187040643",
+    "time": "2026-03-12 02:01",
+    "id_str": "2031792523187040643",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude Code 又出问题了，我目前正常使用",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2031790274033434927",
+    "time": "2026-03-12 01:52",
+    "id_str": "2031790274033434927",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @blackanger: 学习一下 /btw 的实现机制。\n\n因为 claude code agent 采用的是经典的 ReAct（Reasoning and Acting）单循环。所以我很好奇这个 /btw 是如何在 单 loop 中优雅实现的。\n\n以下内容是通过结合P…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2031792843291873360",
+    "time": "2026-03-12 02:02",
+    "id_str": "2031792843291873360",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Three things about the METR graph:\n1) It measures something real about coding ability but also not exactly what it claims to measure\n2) Lots of other benchmarks correlate with it very highly &amp; are increasing exponentially\n3 AI remains jagged in key ways that are hard to measure",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2031802894089875460",
+    "time": "2026-03-12 02:42",
+    "id_str": "2031802894089875460",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Unconventional AI CEO Naveen Rao on the incredible energy efficiencies of biological systems relative to technology:\n\n\"Biology sort of started small, figured out some basic principles, and those principles scaled. So the efficiency came first.\"\n\n\"What we've done is actually the https://t.co/n8PbKV2Vgv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031790340232093882",
+    "time": "2026-03-12 01:52",
+    "id_str": "2031790340232093882",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @gsivulka: https://t.co/fdKmCTuaUk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031799495575601625",
+    "time": "2026-03-12 02:28",
+    "id_str": "2031799495575601625",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Photoshop AI Assistant (beta) just dropped on web 🎉 \n\nI typed \"add a glitch effect and grade it like 90s nostalgia\" \nIt cr…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2031790824980189683",
+    "time": "2026-03-12 01:54",
+    "id_str": "2031790824980189683",
+    "is_retweet": true
   }
 ]
