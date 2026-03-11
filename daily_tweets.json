@@ -88,5 +88,245 @@
     "time": "2026-03-12 00:27",
     "id_str": "2031769097688821809",
     "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Human orgs are not legible, the CEO can’t see/feel/zoom in on any activity in their company, with real time stats etc. I have no doubt that it will be possible to control orgs on mobile, with voice etc., but with this level of legibility will that be optimal? Not in principle and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2031774631498273005",
+    "time": "2026-03-12 00:49",
+    "id_str": "2031774631498273005",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Our imaginations are unbounded, so should the worlds we create be…🌐😍",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2031782045538796026",
+    "time": "2026-03-12 01:19",
+    "id_str": "2031782045538796026",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "以前程序员是等编译，现在是等生成\nhttps://t.co/Dp8XK1G9gW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2031774658127708539",
+    "time": "2026-03-12 00:50",
+    "id_str": "2031774658127708539",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "得咬金程（Peter Steinberger）者得天下 https://t.co/Z97huotPf7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2031776123273584893",
+    "time": "2026-03-12 00:55",
+    "id_str": "2031776123273584893",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @farmostwood: 一个具体的例子，告诉大家如今的🦞有多么草台。\n\n我看到 @Khazix0918  说「Claude 更新了他们一个叫做 XXX 的 skill，特别牛逼。大家赶紧去升级吧。」\n我看了看，好像确实很牛逼。\n然后卡兹克说：「更新方式也究极无敌简单，…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2031787870105588082",
+    "time": "2026-03-12 01:42",
+    "id_str": "2031787870105588082",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: Perplexity Computer just became the most dangerous tool on a public market desk.\n\nPerplexity started out as an AI search engine but their new product Computer turns it into an AI research analyst that does real work.\n\nHere are 8 prompts that turn Computer into a full https://t.co/lHI6dMK850",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785580678516850",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785580678516850",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1/ LONG/SHORT EQUITY THESIS\n\nTask: Build a complete investment thesis for [COMPANY NAME / TICKER] with a 12-18 month time horizon.\nSearch and retrieve:\n\n- Latest annual and quarterly filings (10-K, 10-Q)\n- Analyst consensus estimates and recent revision direction\n- Last 2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785592909152510",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785592909152510",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "2/ EARNINGS QUALITY FORENSICS\n\nTask: Run a comprehensive earnings quality assessment on [COMPANY NAME / TICKER] to determine whether reported earnings accurately reflect economic reality.\n\nSearch and retrieve:\n\n- Last 5 years of income statement, balance sheet, and cash flow",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785605181669580",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785605181669580",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "3/ EARNINGS CALL INTELLIGENCE\n\nTask: Extract the intelligence from [COMPANY NAME / TICKER]'s most recent earnings call that moves the investment thesis.\n\nSearch and retrieve:\n\n- Full transcript of the most recent earnings call\n- Prior 2 earnings call transcripts for comparison\n-",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785617324196044",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785617324196044",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "4/ SHORT THESIS CONSTRUCTION\n\nTask: Build a complete short thesis for [COMPANY NAME / TICKER] with a 6-18 month horizon.\n\nSearch and retrieve:\n\n- Revenue and gross margin trend by quarter (last 8 quarters)\n- FCF conversion history and current debt maturity schedule\n- Short",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785629529620606",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785629529620606",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "5/ MACRO REGIME POSITIONING\n\nTask: Analyze the current macro regime and build a tactical positioning framework for public equities over the next 3-6 months.\n\nSearch and retrieve:\n\n- Current GDP growth rate and trend direction (latest release)\n- Inflation reading and momentum",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785641546260569",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785641546260569",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "6/ ACTIVIST AND EVENT-DRIVEN SETUP\n\nTask: Analyze [COMPANY NAME / TICKER] as a potential activist or event-driven opportunity and size the probability-weighted return.\n\nSearch and retrieve:\n\n- Current market cap, EV, trailing EBITDA, and FCF yield\n- Share price performance vs.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785653630091300",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785653630091300",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "7/ 13F HOLDINGS INTELLIGENCE\n\nTask: Analyze recent 13F filings to extract institutional positioning intelligence on [SECTOR / THEME / SPECIFIC STOCK].\n\nSearch and retrieve:\n\n- Most recent 13F filings for 5-10 relevant institutional investors\n- Quarter-over-quarter position size",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785665550254184",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785665550254184",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "8/ COMPETITIVE INTELLIGENCE BRIEF\n\nTask: Build a real-time competitive intelligence brief on [COMPANY NAME / TICKER] and its 3-5 primary competitors.\n\nSearch and retrieve:\n\n- Latest earnings results and guidance for each competitor, past 2 quarters\n- Recent product announcements,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785677676036538",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785677676036538",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What separates these from the prompts circulating on X:\n\nMost investor prompts tell Perplexity to \"research\" a company. That produces a summary with a few financial metrics and no citations worth trusting.\n\nThese prompts give Perplexity a complete retrieval and analysis",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031785689692717154",
+    "time": "2026-03-12 01:33",
+    "id_str": "2031785689692717154",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Steal my Claude Code prompt to plan and build any app from scratch with zero coding experience👇",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031787647056953454",
+    "time": "2026-03-12 01:41",
+    "id_str": "2031787647056953454",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "--------------------------------------—\nVIBE CODING PROJECT PLANNER\n--------------------------------------—\n\nAdopt the role of a senior software architect who spent 10 years shipping production apps at startups, then discovered that AI coding tools (Claude Code, Cursor, Windsurf)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031787662714290676",
+    "time": "2026-03-12 01:41",
+    "id_str": "2031787662714290676",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1/ Run the full prompt in Claude, ChatGPT, or Grok.\n2/ Describe your app idea when asked. Be specific: \"a habit tracker for gym bros\" beats \"an app.\"\n3/ Follow each phase. Start a fresh Claude Code session per phase. Copy-paste the execution prompts directly.\n4/ Ship it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031787674475118931",
+    "time": "2026-03-12 01:41",
+    "id_str": "2031787674475118931",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This site literally has thousands of prompts for Claude, ChatGPT, Gemini, &amp; Nano Banana.\n\nExplore for free 👇\nhttps://t.co/fGYp0pJpVy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031787686185615689",
+    "time": "2026-03-12 01:41",
+    "id_str": "2031787686185615689",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @free_ai_guides: Posting random thoughts on LinkedIn isn't a strategy.\n\nIt's a hobby.\n\nA strategy has three types of content:\n\n→ Growth…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031788175782207812",
+    "time": "2026-03-12 01:43",
+    "id_str": "2031788175782207812",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Steal my Claude Code prompt to plan and build any app from scratch with zero coding experience👇",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2031788267964596432",
+    "time": "2026-03-12 01:44",
+    "id_str": "2031788267964596432",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @ponchodelosrios: When I was 18, I co-founded Nowports without knowing anything about logistics. Building that company, I learned a lot…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031777255815586100",
+    "time": "2026-03-12 01:00",
+    "id_str": "2031777255815586100",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Congrats to @wiz_io.\n\nBiggest acquisition in Google's history",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031777301499978215",
+    "time": "2026-03-12 01:00",
+    "id_str": "2031777301499978215",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "New media runs on speed.\n\n@pmarca on the OODA loop:\n\n\"Speed wins.\"\n\n\"If you can have a sustainably faster OODA loop processing cycle than the next guy... then if you think about what happens — let's say it takes an hour to figure something out.\"\n\n\"It takes the other guy two hours https://t.co/AlUdSzXw9r",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2031783478023635213",
+    "time": "2026-03-12 01:25",
+    "id_str": "2031783478023635213",
+    "is_retweet": false
   }
 ]
