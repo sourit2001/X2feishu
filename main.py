@@ -4,6 +4,7 @@ import json
 import time
 import re
 from datetime import datetime, timedelta
+from bitable_sync import sync_to_bitable
 
 # --- Configuration ---
 # User list to monitor (ID from their profile URL)
@@ -218,7 +219,10 @@ def main():
             if should_push:
                 payload = get_feishu_card(nick, user, tweet['text'], tweet['url'], pub_time, tweet.get('quoted_tweet'))
                 requests.post(webhook_url, json=payload)
-                print(f"Pushed: {tweet['id_str']}")
+                print(f"Pushed to Feishu: {tweet['id_str']}")
+                
+                # Also sync to Bitable for To-Do management
+                sync_to_bitable(nick, user, tweet['text'], tweet['url'], pub_time)
             else:
                 print(f"Skipping real-time push for {nick}'s retweet: {tweet['id_str']}")
 

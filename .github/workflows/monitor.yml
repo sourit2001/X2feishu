@@ -28,6 +28,10 @@ jobs:
           TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
           TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          BITABLE_APP_TOKEN: ${{ secrets.BITABLE_APP_TOKEN }}
+          BITABLE_TABLE_ID: ${{ secrets.BITABLE_TABLE_ID }}
         run: python main.py
 
       - name: Commit and push if changed
