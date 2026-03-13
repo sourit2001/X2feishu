@@ -318,5 +318,145 @@
     "time": "2026-03-13 21:59",
     "id_str": "2032456578373140779",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @AyaMiyagotchi: We just released the EF Mandate. The blog expresses our message more fully, but at heart, we started working on this som…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2032468436102918604",
+    "time": "2026-03-13 22:46",
+    "id_str": "2032468436102918604",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "This is the new EF Mandate.\n\nFor many of you, the contents should be no surprise, and a  clarification along the lines that we have been going and thinking for  the past few months. But the clarification is nevertheless worth making.\n\nEthereum is a unique object and has a unique",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2032469755614179700",
+    "time": "2026-03-13 22:52",
+    "id_str": "2032469755614179700",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @dannyryan: you go deep, we'll go broad\n\nI respect and appreciate the EF clarifying its focus and mandate so that others know what gaps…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2032469800962986220",
+    "time": "2026-03-13 22:52",
+    "id_str": "2032469800962986220",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: Claude can now build interactive charts, diagrams, and data visualizations directly inside your conversation.\n\nNo plugins. No side panels. No exporting to Canva.\n\nYour junior data analyst, presentation designer, and reporting intern just became optional.\n\nHere are 5 https://t.co/W0b0yDxq6e",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032469681387258293",
+    "time": "2026-03-13 22:51",
+    "id_str": "2032469681387258293",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic just rolled this out to every Claude user, including free accounts.\n\nHere's what changed:\n→ Claude auto-detects when a visual would explain something better than text \n→ Charts, diagrams, and interactive widgets render inline, not in a side panel \n→ Visuals update in",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032469751566401991",
+    "time": "2026-03-13 22:52",
+    "id_str": "2032469751566401991",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What this actually replaces in your workflow:\n\n→ The 45-minute Excel chart session before every meeting\n→ The back-and-forth with a designer for a simple flowchart\n→ The junior analyst formatting your quarterly data into something presentable\n→ The Lucidchart subscription you",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032469824702447777",
+    "time": "2026-03-13 22:52",
+    "id_str": "2032469824702447777",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1/ FINANCIAL DASHBOARD GENERATOR\n\nPaste this into Claude. Feed it your numbers. Get a live dashboard in seconds.\n\nPrompt:\nYou are a senior financial analyst and data visualization architect.\n\nYour task: Build an interactive financial dashboard directly in this conversation based",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032469917736259753",
+    "time": "2026-03-13 22:52",
+    "id_str": "2032469917736259753",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "2/ COMPETITIVE LANDSCAPE MAPPER\n\nPrompt:\nYou are a strategy consultant specializing in competitive intelligence and market visualization.\n\nYour task: Create an interactive competitive landscape visualization based on the companies and criteria I provide.\n\nMethodology:\n1. Take the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032469990146723866",
+    "time": "2026-03-13 22:53",
+    "id_str": "2032469990146723866",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "3/ SYSTEM ARCHITECTURE DIAGRAMMER\n\nPrompt:\nYou are a solutions architect and technical documentation specialist.\n\nYour task: Transform my plain-English description of a system, workflow, or tech stack into a clear, professional architecture diagram rendered inline.\n\nMethodology:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032470056685150615",
+    "time": "2026-03-13 22:53",
+    "id_str": "2032470056685150615",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "4/ DATA COMPARISON ENGINE\n\nPrompt:\nYou are a data analyst specializing in comparative analysis and visual storytelling.\n\nYour task: Create a comprehensive visual comparison between two or more items, strategies, datasets, or time periods that I specify.\n\nMethodology:\n1. Identify",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032470123102036183",
+    "time": "2026-03-13 22:53",
+    "id_str": "2032470123102036183",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "5/ INTERACTIVE CONCEPT EXPLAINER\n\nPrompt:\nYou are an expert educator and information designer who makes complex ideas visually intuitive.\n\nYour task: Create an interactive visual explanation of the concept or process I describe, designed so someone with zero background can",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032470260142522656",
+    "time": "2026-03-13 22:54",
+    "id_str": "2032470260142522656",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Claude just became a visual thinker. These 5 prompts are the starting point.\n\nWant the full framework?\n\nWe built the Claude Mastery Guide:\n→ Prompt engineering principles specific to Claude \n→ 10+ tested mega-prompts \n→ Advanced techniques most users never discover",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032471856062579112",
+    "time": "2026-03-13 23:00",
+    "id_str": "2032471856062579112",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your premium AI bundle to 10x your business\n\n→ Best prompts for marketing &amp; business\n→ Unlimited custom prompts\n→ n8n automations\n→ Weekly updates\n\nGet lifetime access 👇\nhttps://t.co/C8Zzw2Jkpc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032472080256737488",
+    "time": "2026-03-13 23:01",
+    "id_str": "2032472080256737488",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "停止搞GUI\n\n停止为AI建墙，才是快速实现AGI之路的办法\n\n人类应该学会用直接和AI对话的方式来构建新世界，而不是愚蠢的还要点点鼠标！\n\n但是另一种程度上可能会改变人类思维方，爱思考的变得更强，让度思考的将成为AI的附庸！\n\n我感觉这种应该是不可逆转的趋势！\n\n（胡思乱想）",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2032469248682160399",
+    "time": "2026-03-13 22:50",
+    "id_str": "2032469248682160399",
+    "is_retweet": false
   }
 ]
