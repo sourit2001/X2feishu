@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yan5xu: 正好也分享一下关于上下文压缩这个事情。\n\n我之前对上下文压缩这个事情也很头疼，尝试过各种压缩办法，摘要、滑动窗口等等，无论哪种总会发现后续工作会因为一些信息没了，不符合我的预期。\n\n后来想明白了，是压缩就一定会丢失信息，所以解决上下文窗口有限的办法不是不…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032487717146083350",
+    "time": "2026-03-14 00:03",
+    "id_str": "2032487717146083350",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: This might be the most personal AI animation I've ever made. \n\n10 years. New York. Infinite memories. \nTurn your sound on…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032487877028741300",
+    "time": "2026-03-14 00:04",
+    "id_str": "2032487877028741300",
+    "is_retweet": true
+  }
+]
