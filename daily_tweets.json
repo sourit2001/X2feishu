@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @ethereum: 0/ Privacy in the Ethereum ecosystem is undergoing an evolution. A Renaissance, even, to sound a bit fancy.\n\nWhat exactly is…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2032253736845000972",
+    "time": "2026-03-13 08:33",
+    "id_str": "2032253736845000972",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Cursor 两位核心负责人出走，加入马斯克 xAI 打造编程产品\n\nCursor 的工程负责人 Andrew Milich 和产品负责人 Jason Ginsberg 宣布加入 SpaceX/xAI，直接向马斯克汇报，任务是为 xAI 从零搭建 AI 编程产品。\n\n这两人是 Cursor 从零做到 20 亿美元 ARR（年度经常性收入）的核心操盘手，经手了 Cursor",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032242549574758636",
+    "time": "2026-03-13 07:49",
+    "id_str": "2032242549574758636",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "大部分传统产品经理是没有适应AI时代的，很多时候用户自己更适合当产品经理",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032260011309584737",
+    "time": "2026-03-13 08:58",
+    "id_str": "2032260011309584737",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "WIRED 最新长篇报道揭示了 OpenAI 在 AI 编程工具赛道上追赶 Anthropic 的内幕。\n\n记者采访了超过 30 位知情人士，包括 Altman、Brockman 等高管，拼出了一幅少见的画面：OpenAI 这一次是追赶者。\n\n几个关键数字：Claude Code 年化收入超过 25 亿美元，贡献了 Anthropic 近五分之一的营收；Codex https://t.co/TMgU2DILgX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032266652893790437",
+    "time": "2026-03-13 09:25",
+    "id_str": "2032266652893790437",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Both xAI and Meta seem to be falling behind, based on the Grok 4.2 benchmarks and this reporting. Frontier AI models are really a three way race at this point.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2032256739371073981",
+    "time": "2026-03-13 08:45",
+    "id_str": "2032256739371073981",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @anshnanda: Everyone is building Jarvis but each Jarvis has a different home.\n\n1) On your computer (Openclaw)\n2) On ephemeral computers…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2032258711272784377",
+    "time": "2026-03-13 08:53",
+    "id_str": "2032258711272784377",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "👀👀",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2032263869708808433",
+    "time": "2026-03-13 09:13",
+    "id_str": "2032263869708808433",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "腾讯竟然搞出了 Agent 届的第一个流氓软件… https://t.co/ATPEve0Xgz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2032242866928697447",
+    "time": "2026-03-13 07:50",
+    "id_str": "2032242866928697447",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google Maps 发布了十多年来最大的一次产品升级\n\n两个新功能：Ask Maps 和 Immersive Navigation\n\n你现在可以直接对地图进行发问：\n\n「我手机快没电了，哪里能充电而且不用排长队买咖啡？」\n「今晚附近有没有亮灯的公共网球场？」\n「有没有氛围好的、今晚7点能坐4人的餐厅？」 https://t.co/QtJiKpgD7w",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2032267667101696376",
+    "time": "2026-03-13 09:29",
+    "id_str": "2032267667101696376",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "新版导航切换成实时 3D 立体视图。你看到的不再是抽象的线条和箭头，而是周围真实的建筑轮廓、立交桥结构、地形起伏。\n\n该转弯、该并线的时候，Maps 自动高亮你需要注意的内容：车道线、人行横道、红绿灯位置、停车标志。\n\n提示出现在需要的时刻，不需要的时候消失，不会一直占着画面。 https://t.co/f9hz9cDSXd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2032267669475623106",
+    "time": "2026-03-13 09:29",
+    "id_str": "2032267669475623106",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "导航地图不再是扁平的线路图\n\nImmersive Navigation 会以 3D 视角呈现你周围的建筑、立交桥和地形，并在关键位置高亮显示车道线、人行横道、红绿灯和停车标志。 https://t.co/ANscuPXFWd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2032267671761555900",
+    "time": "2026-03-13 09:29",
+    "id_str": "2032267671761555900",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Immersive Navigation 不再只是默默在后台选择最优路线，而是主动展示备选路线之间的权衡对比：这条路更长但交通更顺畅，那条路更快但有收费站。\n\n同时，系统会实时推送沿途的施工和交通事故警报 https://t.co/xmN8YETda7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2032267674114461705",
+    "time": "2026-03-13 09:29",
+    "id_str": "2032267674114461705",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "最后一公里不再抓瞎\n\n这是一个容易被忽视但体验提升巨大的细节。出发前，你可以用 Street View 预览目的地及其周边环境，获取停车建议。\n\n接近目的地时，Maps 会高亮标注建筑入口位置、附近停车场，甚至告诉你应该在马路的哪一侧行驶，帮你从最后一个转弯直达目的地大门。 https://t.co/ZsMByEt2L9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2032267676438184033",
+    "time": "2026-03-13 09:29",
+    "id_str": "2032267676438184033",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细内容：https://t.co/KaSUsglB39",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2032267751210041817",
+    "time": "2026-03-13 09:29",
+    "id_str": "2032267751210041817",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: @dotey 传统的那种只会拉会议的产品经理确实会需要知识更新.\n但还是有相当一部分的产品经理System2 思考能力还是很强的，这是大模型无法比拟的。\n大模型产出的只会 System 1 思考 。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2032264026911359073",
+    "time": "2026-03-13 09:14",
+    "id_str": "2032264026911359073",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "我强烈认为  猫笔刀 的 公众号素材来源之一 就是类似的prompt.\n\n太有用了！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2032264554315727029",
+    "time": "2026-03-13 09:16",
+    "id_str": "2032264554315727029",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @dotey: 通常优化稿子我的思路是分成三步：\n第一步让AI扮演目标读者或听众的角色给出反馈\n第二步让AI扮演专业编辑去给出具体修改意见\n第三步是根据意见修改\n\n当然还是要人工审校把关才能真正做好，AI 更多是辅助",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2032265123927375902",
+    "time": "2026-03-13 09:18",
+    "id_str": "2032265123927375902",
+    "is_retweet": true
+  }
+]
