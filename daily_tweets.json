@@ -208,5 +208,55 @@
     "time": "2026-03-13 13:48",
     "id_str": "2032332990010048667",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Grok Imagines generates concert videos and original music https://t.co/lJYjvd2UuA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032347451622056291",
+    "time": "2026-03-13 14:46",
+    "id_str": "2032347451622056291",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @anna___bella1: Grok Imagine✨️ https://t.co/K4uOkGqvck",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032348451942645827",
+    "time": "2026-03-13 14:50",
+    "id_str": "2032348451942645827",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @KnightWorld: Thanks to @grok Imagine’s new feature, you can use your own photo and a reference image you like to put on the armor.\n\nPro…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032348684571357238",
+    "time": "2026-03-13 14:51",
+    "id_str": "2032348684571357238",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "CC: 对两个插件做了静态审查后，一个比较冷静的结论是：Skillhub 和 ClawHub 不能简单归为一类。\nSkillhub 不只是一个 skills 安装工具。它的安装包会额外为 OpenClaw 自动安装并启用插件，这个插件会在 每次请求构建 prompt\n前，通过 before_prompt_build + prependContext 注入一段策略文本，引导",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2032350657131528380",
+    "time": "2026-03-13 14:58",
+    "id_str": "2032350657131528380",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: 🎉 We just released Rotate Object in Photoshop (beta) 🎉\n\nYou can now rotate 2D images!  🤯\n\nThen use Harmonize to add light…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032357255702622603",
+    "time": "2026-03-13 15:25",
+    "id_str": "2032357255702622603",
+    "is_retweet": true
   }
 ]
