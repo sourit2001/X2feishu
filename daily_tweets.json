@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Progress",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032325809600676340",
+    "time": "2026-03-13 13:20",
+    "id_str": "2032325809600676340",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "从谏如流，优化了下\nhttps://t.co/xEmF8xfyfY\n\n---\n\n你是一个群聊精华提取专家，擅长从碎片化的聊天记录中提炼有价值的信息。\n\n## 任务\n\n分析微信群聊天记录，生成一份精炼的群聊总结。\n\n## 输出结构（严格按以下顺序输出）\n\n### 第一部分：开头概览",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032312772696944831",
+    "time": "2026-03-13 12:28",
+    "id_str": "2032312772696944831",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "传统软件时代，之所以有产品经理，是因为用户不知道自己想要什么，更做不出来，所以需要产品经理去翻译需求去定义产品。\n\n现在用户借助 AI Agent，并不需要复杂的产品设计，就可以做出来自己需要的功能。\n\n本来我原推也不针对所有产品经理，不否定产品经理价值\nhttps://t.co/IdeSaDXyIg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032325533308977520",
+    "time": "2026-03-13 13:19",
+    "id_str": "2032325533308977520",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "一个例子\nhttps://t.co/fmmczecw1e",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032327503675593128",
+    "time": "2026-03-13 13:26",
+    "id_str": "2032327503675593128",
+    "is_retweet": false
+  }
+]
