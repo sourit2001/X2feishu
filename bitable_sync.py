@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import time
+from datetime import datetime, timedelta
 
 def get_tenant_access_token():
     app_id = os.getenv("FEISHU_APP_ID")
@@ -38,6 +39,18 @@ def sync_to_bitable(nickname, username, content, link, pub_time):
         "Content-Type": "application/json; charset=utf-8"
     }
     
+    # Convert pub_time string (YYYY-MM-DD HH:MM) to millisecond timestamp
+    # Bitable Date field requires milliseconds
+    ts_ms = int(time.time() * 1000) # Default to now
+    try:
+        # Parse the Beijing time string we formatted earlier
+        dt = datetime.strptime(pub_time, '%Y-%m-%d %H:%M')
+        # Convert back to UTC timestamp (Beijing is UTC+8, so subtract 8 hours)
+        utc_ts = int((dt - timedelta(hours=8)).timestamp())
+        ts_ms = utc_ts * 1000
+    except Exception as e:
+        print(f"Time conversion warning: {e}")
+
     # Map to Bitable fields. 
     # Important: Field names must match EXACTLY what's in the table.
     # Defaulting to common names, user might need to adjust their table.
@@ -50,7 +63,7 @@ def sync_to_bitable(nickname, username, content, link, pub_time):
                 "link": link,
                 "text": "查看原文"
             },
-            "发布时间": pub_time,
+            "发布时间": ts_ms, # Successfully identified as needing millisecond timestamp
             "状态": "待处理" # Default status
         }
     }
