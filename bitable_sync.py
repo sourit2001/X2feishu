@@ -68,6 +68,14 @@ def sync_to_bitable(nickname, username, content, link, pub_time):
                 return f"https://www.feishu.cn/base/{app_token}?table={table_id}"
             else:
                 print(f"❌ Bitable API Error: {res_data.get('code')} - {res_data.get('msg')}")
+                if res_data.get("code") == 1254045: # FieldNameNotFound
+                    print("🔍 Attempting to fetch correct field names from your table...")
+                    fields_url = f"https://open.feishu.cn/open-apis/bitable/v1/apps/{app_token}/tables/{table_id}/fields"
+                    f_resp = requests.get(fields_url, headers=headers)
+                    if f_resp.status_code == 200:
+                        all_fields = [f.get("field_name") for f in f_resp.json().get("data", {}).get("items", [])]
+                        print(f"📋 Your table's actual fields are: {', '.join(all_fields)}")
+                        print("💡 Please make sure the keys in bitable_sync.py match these EXACTLY.")
                 print(f"Response Detail: {json.dumps(res_data, ensure_ascii=False)}")
         else:
             print(f"❌ Bitable HTTP Failed: {response.status_code}")
