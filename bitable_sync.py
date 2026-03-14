@@ -58,14 +58,20 @@ def sync_to_bitable(nickname, username, content, link, pub_time):
     try:
         response = requests.post(url, headers=headers, json=record)
         if response.status_code == 200:
-            record_id = response.json().get("data", {}).get("record", {}).get("record_id")
-            if record_id:
-                record_url = f"https://www.feishu.cn/base/{app_token}?table={table_id}&record={record_id}"
-                print(f"Synced to Bitable: {nickname}, Record URL: {record_url}")
-                return record_url
-            return f"https://www.feishu.cn/base/{app_token}?table={table_id}"
+            res_data = response.json()
+            if res_data.get("code") == 0:
+                record_id = res_data.get("data", {}).get("record", {}).get("record_id")
+                if record_id:
+                    record_url = f"https://www.feishu.cn/base/{app_token}?table={table_id}&record={record_id}"
+                    print(f"✅ Bitable Sync Success: {nickname}")
+                    return record_url
+                return f"https://www.feishu.cn/base/{app_token}?table={table_id}"
+            else:
+                print(f"❌ Bitable API Error: {res_data.get('code')} - {res_data.get('msg')}")
+                print(f"Response Detail: {json.dumps(res_data, ensure_ascii=False)}")
         else:
-            print(f"Bitable sync failed: {response.status_code} - {response.text}")
+            print(f"❌ Bitable HTTP Failed: {response.status_code}")
+            print(f"Response Body: {response.text}")
     except Exception as e:
-        print(f"Error syncing to Bitable: {e}")
+        print(f"💥 Bitable sync unexpected error: {e}")
     return None
