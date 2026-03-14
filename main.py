@@ -45,12 +45,29 @@ def format_time(time_str):
     except:
         return time_str
 
-def get_feishu_card(nickname, username, content, link, pub_time, quoted_tweet=None):
+def get_feishu_card(nickname, username, content, link, pub_time, quoted_tweet=None, bitable_url=None):
     """Builds an interactive Feishu card matching user's requested style"""
     body = f"**作者：** {nickname}\n**账号：** @{username}\n**发布时间：** {pub_time}\n\n**推文全文：**\n{content}"
 
     if quoted_tweet:
         body += f"\n\n💬 **引用 @{quoted_tweet['username']} 的推文：**\n\"{quoted_tweet['text']}\""
+
+    actions = [
+        {
+            "tag": "button",
+            "text": {"tag": "plain_text", "content": "� 查看原推详情"},
+            "type": "primary",
+            "url": link
+        }
+    ]
+
+    if bitable_url:
+        actions.append({
+            "tag": "button",
+            "text": {"tag": "plain_text", "content": "📌 标记为待办"},
+            "type": "default",
+            "url": bitable_url
+        })
 
     return {
         "msg_type": "interactive",
@@ -72,14 +89,7 @@ def get_feishu_card(nickname, username, content, link, pub_time, quoted_tweet=No
                 },
                 {
                     "tag": "action",
-                    "actions": [
-                        {
-                            "tag": "button",
-                            "text": {"tag": "plain_text", "content": "🚀 查看原推详情"},
-                            "type": "primary",
-                            "url": link
-                        }
-                    ]
+                    "actions": actions
                 }
             ]
         }
@@ -217,12 +227,12 @@ def main():
                 should_push = False
             
             if should_push:
-                payload = get_feishu_card(nick, user, tweet['text'], tweet['url'], pub_time, tweet.get('quoted_tweet'))
+                # Sync to Bitable first to get the record URL
+                bitable_url = sync_to_bitable(nick, user, tweet['text'], tweet['url'], pub_time)
+                
+                payload = get_feishu_card(nick, user, tweet['text'], tweet['url'], pub_time, tweet.get('quoted_tweet'), bitable_url)
                 requests.post(webhook_url, json=payload)
                 print(f"Pushed to Feishu: {tweet['id_str']}")
-                
-                # Also sync to Bitable for To-Do management
-                sync_to_bitable(nick, user, tweet['text'], tweet['url'], pub_time)
             else:
                 print(f"Skipping real-time push for {nick}'s retweet: {tweet['id_str']}")
 

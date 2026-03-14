@@ -58,10 +58,14 @@ def sync_to_bitable(nickname, username, content, link, pub_time):
     try:
         response = requests.post(url, headers=headers, json=record)
         if response.status_code == 200:
-            print(f"Synced to Bitable: {nickname}")
-            return True
+            record_id = response.json().get("data", {}).get("record", {}).get("record_id")
+            if record_id:
+                record_url = f"https://www.feishu.cn/base/{app_token}?table={table_id}&record={record_id}"
+                print(f"Synced to Bitable: {nickname}, Record URL: {record_url}")
+                return record_url
+            return f"https://www.feishu.cn/base/{app_token}?table={table_id}"
         else:
             print(f"Bitable sync failed: {response.status_code} - {response.text}")
     except Exception as e:
         print(f"Error syncing to Bitable: {e}")
-    return False
+    return None
