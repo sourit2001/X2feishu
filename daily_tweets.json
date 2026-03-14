@@ -168,5 +168,195 @@
     "time": "2026-03-14 09:21",
     "id_str": "2032628159560999350",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: The new Grok Imagine upgrade is pretty cool. 🔥 https://t.co/2nnLyDOH2R",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032662761889738929",
+    "time": "2026-03-14 11:39",
+    "id_str": "2032662761889738929",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Rothmus: https://t.co/yLo7GtTb88",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032663881169121588",
+    "time": "2026-03-14 11:43",
+    "id_str": "2032663881169121588",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @MeidasTouch: 🚨NEWS: Democrat Andy Thomson has won the Boca Raton mayoral race by just ONE vote.\n\n🔵 Thomson — 7,568\n🔴 Liebelson — 7,567…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032668870956470576",
+    "time": "2026-03-14 12:03",
+    "id_str": "2032668870956470576",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Rothmus: https://t.co/v5aiIr5Yp0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032669353326547002",
+    "time": "2026-03-14 12:05",
+    "id_str": "2032669353326547002",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @NASAAdmin: Returning to the Moon will prepare us for the grand journey to Mars. If we get this right, we’ll see the Stars and Stripes o…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032669407957365226",
+    "time": "2026-03-14 12:05",
+    "id_str": "2032669407957365226",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Starlink: Starlink's high-speed, low-latency internet is now available in Niue! 🛰️🇳🇺❤️ → https://t.co/SqLzYcoaST https://t.co/yjshaCmHPd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2032669445676741064",
+    "time": "2026-03-14 12:05",
+    "id_str": "2032669445676741064",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "牛逼，还是得有竞争\n\n现在一百万的上下文的 opus 和 Sonnet 是 max 和 team 账号的默认模型了 https://t.co/35G4qHYt6z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2032629882904334715",
+    "time": "2026-03-14 09:28",
+    "id_str": "2032629882904334715",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @xxiangshi: 一个多月前我有吐槽过老马，网友提醒我去看xAI的访谈。\n现在看来，开发让AI通过视觉直接像人一样使用操作系统确实更接近AGI的方向，但现在的AI不需要视觉就已经有强大的编程能力了。这种能力可以让公司内部开发的效率指数提升——Claude… http…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032653272142549445",
+    "time": "2026-03-14 11:01",
+    "id_str": "2032653272142549445",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "xAI 前员工大爆料：我被一条推特逼走了\n（注：本推文由 Grok 和 Claude 辅助整理）\n\n马斯克今天发了一条推，说 xAI 第一次没建好，要从头重建。一个叫 Benjamin De Kraker 的前 xAI 员工直接引用了这条推，撕开了一整段往事。这条帖子 80 万浏览，快 9000 个赞，评论区吵翻了。\n\n事情要分两段吃。 https://t.co/PogahEfnBp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2032666923251458353",
+    "time": "2026-03-14 11:55",
+    "id_str": "2032666923251458353",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "马老师还是能取舍...\n反观微博和知乎的社区建设，emmm...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2032636515105571029",
+    "time": "2026-03-14 09:54",
+    "id_str": "2032636515105571029",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @jakevin7: 这几天把 xiaohongshu-cli 连续打磨了一轮，做了几件我自己很满意的事：\n\n1. 放弃了没必要的 server 方案，回到纯 CLI，但把真正有价值的状态能力保住了：\n- xsec_token + xsec_source 成对缓存\n- s…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2032636640875917507",
+    "time": "2026-03-14 09:55",
+    "id_str": "2032636640875917507",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: @jakevin7 开源它，不怕被小红书安全团队封吗？\n后面就是无穷无尽的攻防博弈了...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2032636804621574167",
+    "time": "2026-03-14 09:55",
+    "id_str": "2032636804621574167",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Share your best AI creation of the week. \nLet’s inspire each other. Big accounts, support small accounts, please!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032651721931972701",
+    "time": "2026-03-14 10:55",
+    "id_str": "2032651721931972701",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: 🎉 We just released Rotate Object in Photoshop (beta) 🎉\n\nYou can now rotate 2D images!  🤯\n\nThen use Harmonize to add light…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032651863934267580",
+    "time": "2026-03-14 10:55",
+    "id_str": "2032651863934267580",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: One of my fav prompts to unwind with is Extreme Macro Close Up! \n\nEnjoy and would love to see your experiments as always!…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032651921132056676",
+    "time": "2026-03-14 10:55",
+    "id_str": "2032651921132056676",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "10) rotating art by @Surfatinho",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032658860809306220",
+    "time": "2026-03-14 11:23",
+    "id_str": "2032658860809306220",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Rotate Object dropped in Photoshop (beta) \njust 24 hours ago \n\nNow you can rotate 2D images in 3D 🤯\n\nWild examples:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032658879478141202",
+    "time": "2026-03-14 11:23",
+    "id_str": "2032658879478141202",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is who makes AI tutorials for you 🥹 https://t.co/1SNqnSlmyp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032660132140560656",
+    "time": "2026-03-14 11:28",
+    "id_str": "2032660132140560656",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How cool is that!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2032668005193130075",
+    "time": "2026-03-14 11:59",
+    "id_str": "2032668005193130075",
+    "is_retweet": false
   }
 ]
