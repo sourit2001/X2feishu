@@ -48,6 +48,16 @@ def sync_to_bitable(nickname, username, content, link, pub_time):
         "Content-Type": "application/json; charset=utf-8"
     }
     
+    # Diagnostic 3: Try to GET base info to check core accessibility
+    try:
+        base_url = f"https://open.feishu.cn/open-apis/bitable/v1/apps/{app_token}"
+        base_resp = requests.get(base_url, headers=headers)
+        print(f"DEBUG: Base accessibility check: Status={base_resp.status_code}")
+        if base_resp.status_code != 200:
+            print(f"DEBUG: Base info body: {base_resp.text}")
+    except Exception as e:
+        print(f"DEBUG: Base accessibility check error: {e}")
+    
     # Convert pub_time string (YYYY-MM-DD HH:MM) to millisecond timestamp
     # Bitable Date field requires milliseconds
     ts_ms = int(time.time() * 1000) # Default to now
