@@ -78,5 +78,95 @@
     "time": "2026-03-15 07:44",
     "id_str": "2032966165383778460",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @karaebel: Created using Grok Imagine multi-image to video.  \n\n4 base images, 6 videos. https://t.co/3XjtkYCPoq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2033008480672690226",
+    "time": "2026-03-15 10:32",
+    "id_str": "2033008480672690226",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Designarena: BREAKING: Grok Imagine by @xai takes 1st overall on Video Editing Arena, with an overall Elo of 1290.\n\nThe team's debut vi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2033008730913259959",
+    "time": "2026-03-15 10:33",
+    "id_str": "2033008730913259959",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "We should be open to revisiting whole beacon/execution client separation thing.\n\nRunning two daemons and getting them to talk to each other is far more difficult than running one daemon.\n\nOur goal is to make the self-sovereign way of using ethereum have good UX. In many cases",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2033016131884376541",
+    "time": "2026-03-15 11:03",
+    "id_str": "2033016131884376541",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I feel like at every level we've implicitly made this decision that running a node is this oh so scary devops task that it is ok to leave to professionals.\n\nIT IS NOT.\n\nWe need to reverse this. Running your own Ethereum infrastructure should be the basic right of every individual",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2033027706707915186",
+    "time": "2026-03-15 11:49",
+    "id_str": "2033027706707915186",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @austingriffith: @VitalikButerin we do this with https://t.co/EQZ1KZh8G9 ser",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2033027970185703703",
+    "time": "2026-03-15 11:50",
+    "id_str": "2033027970185703703",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @xleaps: https://t.co/inXqWdQSNy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033034520060936370",
+    "time": "2026-03-15 12:16",
+    "id_str": "2033034520060936370",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @njukidreborn: 写的真好。编程珠玑番外篇读者必读 cc @dotey",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033035104402936211",
+    "time": "2026-03-15 12:18",
+    "id_str": "2033035104402936211",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "其实并不是前端死了，后端没死\n实际是职业标签消失了\n以后都是 builder 了\n人人都是 OPC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2033012743947845946",
+    "time": "2026-03-15 10:49",
+    "id_str": "2033012743947845946",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们，好消息\n\nAnthropic 宣布 3 月 13 日至 27 日期间\n\nClaude 所有付费和免费用户在非高峰时段的用量自动翻倍\n\n美东时间 8:00-14:00（北京时间 20:00-次日 02:00），为高峰期\n\n除上述 6 小时之外的所有时间，为非高峰时段（用量翻自动倍）\n\n对国内用户来说，大部分白天工作时间都属于非高峰， https://t.co/ZCmFBgF4s6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033010642895171734",
+    "time": "2026-03-15 10:41",
+    "id_str": "2033010642895171734",
+    "is_retweet": false
   }
 ]
