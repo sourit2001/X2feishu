@@ -19,7 +19,11 @@ def get_tenant_access_token():
     try:
         response = requests.post(url, json=payload)
         if response.status_code == 200:
-            return response.json().get("tenant_access_token")
+            token = response.json().get("tenant_access_token")
+            if token:
+                app_id_prefix = app_id[:6] if app_id else "None"
+                print(f"DEBUG: Successfully got token for App ID starts with: {app_id_prefix}...")
+            return token
     except Exception as e:
         print(f"Error getting token: {e}")
     return None
