@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "朋友们，Claude-to-im Skills 也更新了！\n\n现在可以让你的 Claude 和 Codex 链接飞书有飞书官方 Openclaw 插件的全部能力\n\n而且引导更加详细，会告诉你需要补的权限\n\n支持：流式卡片输出、工具调用进度 、权限审批按钮、项目快捷切换、Thinking 状态等 https://t.co/u50sOqWMea",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2033202960843563484",
+    "time": "2026-03-15 23:25",
+    "id_str": "2033202960843563484",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "更新需要更 Skills 和上游依赖，跟 AI 说就行\n\n如果你之前已经在使用飞书桥接，升级到 v0.36.0 后需要在飞书开放平台补充以下配置，否则流式卡片和权限按钮将无法正常工作。\n\n  1. 添加卡片回调（必须）\n\n  进入应用 → 事件与回调：\n\n  - 确认连接模式为 长连接模式（WebSocket）\n  -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2033203159880089904",
+    "time": "2026-03-15 23:26",
+    "id_str": "2033203159880089904",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @dontbesilent: 干掉 AI 味，要干掉的不是修辞技巧，是作者和读者的权力关系\n\n【典型案例 1】\n\n「问题大概率不在龙虾本身，而在技能包」\n\n作者预设观众认为这件事情的答案是龙虾，然后否定观众，重新说这个事情的答案是技能包\n\n这个就是爹味，这个就是权威姿态…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033209514439110749",
+    "time": "2026-03-15 23:51",
+    "id_str": "2033209514439110749",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "作者经验挺值得学习的，满满干货：先找到客户再帮客户解决问题，有怎么营销有技术分享\nAI Agent （不仅是OpenClaw）普及过程中机会还是很多的",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033212300056740267",
+    "time": "2026-03-16 00:02",
+    "id_str": "2033212300056740267",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is a very cool experiment but we need to get AIs to do good science. The modern scientific method &amp; Mertonian norms are critical for a reason, and a failure to follow them has led to many of our current scientific crises.\n\nWe don’t want p-hacking at scale https://t.co/YEqzVDmTpH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2033206014317580341",
+    "time": "2026-03-15 23:37",
+    "id_str": "2033206014317580341",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "RT @alexolegimas: Also: \n\n*EXPOSURE DOES NOT MEAN THREAT OF DISPLACEMENT*\n\n*EXPOSURE DOES NOT MEAN THREAT OF DISPLACEMENT*\n\n*EXPOSURE DOES…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2033206546805494041",
+    "time": "2026-03-15 23:39",
+    "id_str": "2033206546805494041",
+    "is_retweet": true
+  }
+]
