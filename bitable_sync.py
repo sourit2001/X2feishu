@@ -30,9 +30,14 @@ def sync_to_bitable(nickname, username, content, link, pub_time):
     token = get_tenant_access_token()
     
     if not (app_token and table_id and token):
-        print("Bitable credentials missing, skipping sync.")
-        return False
+        print(f"Bitable credentials missing: app_token={bool(app_token)}, table_id={bool(table_id)}, token={bool(token)}")
+        return None
         
+    # Diagnostic: check for extra spaces or weird lengths
+    print(f"DEBUG: App Token length={len(app_token)}, Table ID length={len(table_id)}")
+    print(f"DEBUG: App Token starts/ends with: {app_token[0]}...{app_token[-1]}")
+    print(f"DEBUG: Table ID starts/ends with: {table_id[0]}...{table_id[-1]}")
+
     url = f"https://open.feishu.cn/open-apis/bitable/v1/apps/{app_token}/tables/{table_id}/records"
     headers = {
         "Authorization": f"Bearer {token}",
