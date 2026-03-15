@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Alibaba just introduced the Qwen 3.5 Small Model Series.\n\nFour models. 0.8B to 9B parameters. Natively multimodal. Built for edge devices, mobile, and real-world deployment.\n\nMore intelligence, less compute.\n\nHere's what this release actually means:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032962451554316313",
+    "time": "2026-03-15 07:29",
+    "id_str": "2032962451554316313",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I just spent the morning testing Alibaba's new Qwen 3.5 models against GPT-4o, Claude Sonnet, and Gemini.\n\nThe results? Qwen 3.5 is punching way above its weight class especially the small models.\n\nHere's what shocked me about this release:\n\n@AlibabaGroup https://t.co/ut3KjAtMK7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032962547247362560",
+    "time": "2026-03-15 07:30",
+    "id_str": "2032962547247362560",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most companies are scaling models UP to get better performance.\nQwen went the opposite direction.\n\nTheir 3.5-Flash model uses linear attention + sparse MoE architecture.\n\nTranslation: You get near-frontier performance without needing a data center to run it. https://t.co/rN6cXx8Ox0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032962634576965730",
+    "time": "2026-03-15 07:30",
+    "id_str": "2032962634576965730",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Here’s where it gets interesting:\n\n- GPT-4o: Multimodal, but expensive to deploy at scale\n- Claude Sonnet: Great quality, high compute cost\n- Gemini 1.5: Multimodal, but resource-heavy\n- Qwen 3.5: Natively multimodal + designed for real-world agents WITHOUT scaling your compute https://t.co/IVHBFXXewY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032962712570048781",
+    "time": "2026-03-15 07:30",
+    "id_str": "2032962712570048781",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I tested 5 models across the lineup:\n\n- Flash (fastest, ultra-low latency)\n- 27B (balanced performance)\n- 35B-A3B (multimodal powerhouse)\n- 122B-A10B (complex reasoning)\n- 397B-A17B (frontier-level outputs)\n\nEvery single one outperformed my expectations for efficiency.\n\nTry them",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032962724616089921",
+    "time": "2026-03-15 07:30",
+    "id_str": "2032962724616089921",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Why this matters for builders:\n\nYou can now deploy multimodal AI agents without proportionally increasing your infrastructure costs.\n\nThat's the unlock: smaller models, smarter architecture, same (or better) output quality.\n\nFull docs + API access:\n🔗 HuggingFace:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032962736502796663",
+    "time": "2026-03-15 07:31",
+    "id_str": "2032962736502796663",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: BREAKING: Claude can now build your entire mobile app from a screenshot for free.\n\nHere are 5 Claude prompts that replace…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032965221380403602",
+    "time": "2026-03-15 07:40",
+    "id_str": "2032965221380403602",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: Claude doubles usage on weekends for the next 2 weeks https://t.co/saGLEP5nwx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2032966165383778460",
+    "time": "2026-03-15 07:44",
+    "id_str": "2032966165383778460",
+    "is_retweet": false
+  }
+]
