@@ -88,5 +88,125 @@
     "time": "2026-03-16 20:13",
     "id_str": "2033516931286753398",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Oscars have become unwatchable",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2033530483804717405",
+    "time": "2026-03-16 21:07",
+    "id_str": "2033530483804717405",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yan5xu: 下午和两个朋友先后聊完想明白一个事情\n垂类不要做 agent，agent 一定是通用的，或者类似于os。垂类要去给 agent 做应用，赋能 agent。\n最基础的是 skill，高级一点，把逻辑分装到内部，替调用 agent 省 token，再高级一点…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033544445744787902",
+    "time": "2026-03-16 22:02",
+    "id_str": "2033544445744787902",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Claude can now analyze your ideas like Amy Edmondson building authority for free.\n\nHere are 5 Claude prompts t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033546438261829881",
+    "time": "2026-03-16 22:10",
+    "id_str": "2033546438261829881",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "提前1个月精准预测超级碗冠军\n提前3周预测格莱美最大赢家\n提前15天成功预测黄金价格走势...\n\n陈天桥 旗下AI 公团队 发布 MiroThinker-1.7 Agent 模型\n\n与GPT等其他模型不同，MiroThinker专注于Agent任务执行，它可以一次研究任务里，最多能连续调用 300 次工具（执行代码、搜索、API调用扥）... https://t.co/lhOwWlgf7u",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033532696950169992",
+    "time": "2026-03-16 21:15",
+    "id_str": "2033532696950169992",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "MiroThinker-H1 在好几个权威测试里都拿了全球最高分： https://t.co/7xnZmt8hTy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033532700066517204",
+    "time": "2026-03-16 21:15",
+    "id_str": "2033532700066517204",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "技术创新 \n\n先把每一步做好\n\n一般模型训练分三步\n\nMiroMind 团队的逻辑是：如果每一步质量不行，多跑几步只会错得更离谱。所以先解决\"每一步做对\"，再提升\"能跑多少步\"。\n\nMiroThinker 在中间插了一个专门训练\"规划、推理、总结\"能力的阶段。防止答案跑偏。 https://t.co/LI17B1PD8b",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033532702675374414",
+    "time": "2026-03-16 21:15",
+    "id_str": "2033532702675374414",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "让模型学会自己检查\n\nH1 在推理过程中有一个检查机制，做两件事：\n\n走一步查一步： 每做完一步推理，检查方向对不对。AI 有时候会倾向于选\"看起来最合理\"的路，但那条路可能是错的，检查员会拉回来\n\n最后全查一遍： 所有推理完成后，审查整条证据链，确保最终答案是证据最充分的那个。 https://t.co/ITyNhoFoFM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033532705145786576",
+    "time": "2026-03-16 21:15",
+    "id_str": "2033532705145786576",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/mRh6ITpdRK\n\nGitHub：https://t.co/KQZr8sTcby\n\nHugging Face：https://t.co/76zGKLay14\n\n在线体验：https://t.co/ufaFTlHyMP\n\n官方账号：@miromind_ai https://t.co/SnP6oc5ntI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033533303522017660",
+    "time": "2026-03-16 21:18",
+    "id_str": "2033533303522017660",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Chrome DevTools MCP 新功能\n\nAI 助手直接连上你正在浏览的页面，可以读取你正在浏览的内容并可直接替你操作\n\n我今天试了下确实是牛P的功能，直接把我网站给破解了😅，实现了内容自动发布...\n\nClaude code 可以看到我打开的网页，我亲自给它演示我怎么操作网站发帖的， https://t.co/KKiy1sG8wx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033537096078815579",
+    "time": "2026-03-16 21:33",
+    "id_str": "2033537096078815579",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍和教程：https://t.co/IEp1mEbiWm\n\n其实有很多玩法，打个比方\n\n就是AI能看到你在浏览器的一切操作学习你的操作反复，捕捉网站后台信息，或者你可以和AI配合去一起操作一些东西。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033537515895042429",
+    "time": "2026-03-16 21:34",
+    "id_str": "2033537515895042429",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们\n\nPixVerse 推出了终端CLI工具，让AI可以在命令行里直接生成视频\n\n而且这个 CLI 还能直接调用多个模型，比如：\n\n• PixVerse v5.6\n• Sora2\n• Veo 3.1\n• Nano Banana",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033543605395325065",
+    "time": "2026-03-16 21:59",
+    "id_str": "2033543605395325065",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: 🎉 We just released Rotate Object in Photoshop (beta) 🎉\n\nYou can now rotate 2D images!  🤯\n\nThen use Harmonize to add light…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2033542000276881422",
+    "time": "2026-03-16 21:52",
+    "id_str": "2033542000276881422",
+    "is_retweet": true
   }
 ]
