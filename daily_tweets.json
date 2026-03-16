@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我确实没求证真实性，也利益无关，如果有证据是假的请指正。\n\n我本来转发的重点就是只是放在借鉴经验思路上，不用都想着怎么去写小龙虾教程，还有一些其他可以做的事，不是去背书什么。\n\nhttps://t.co/blJnlSIMxo",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033360692003180586",
+    "time": "2026-03-16 09:52",
+    "id_str": "2033360692003180586",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Alibaba just introduced the Qwen 3.5 Small Model Series.\n\nFour models. 0.8B to 9B parameters. Natively multimodal. Built f…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033342534844580286",
+    "time": "2026-03-16 08:40",
+    "id_str": "2033342534844580286",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Sebastian Raschka 做的一个 LLM 架构图鉴\n\n把当前主流开源 LLM 的架构用统一的图表格式画出来，做成一个可视化图鉴，方便横向对比。\n\n每个模型的卡片包含：架构图、参数规模、发布日期、解码器类型（Dense/MoE/Hybrid）、注意力机制类型（GQA/MLA/MHA 等）、关键设计特点，还链接了 HuggingFace 的",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033354338761060566",
+    "time": "2026-03-16 09:27",
+    "id_str": "2033354338761060566",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "无药可救 \n\n他用ChatGPT造了一支癌症疫苗\n救活了自己的狗狗\n\n悉尼有个程序员叫 Paul Conyngham，2019 年从收容所领养了一只狗，斯塔福郡梗和沙皮的混血，之前在灌木丛里被人发现，没人知道她经历过什么。Paul 把她带回家，取名 Rosie。\n\n接下来五年，Rosie https://t.co/zaVEJkdZi8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033358273307681043",
+    "time": "2026-03-16 09:42",
+    "id_str": "2033358273307681043",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "太长了 \n\n完整内容：https://t.co/SgIaSpIOiu https://t.co/CzEMDKXjNK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033358275757097057",
+    "time": "2026-03-16 09:42",
+    "id_str": "2033358275757097057",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "AI agent 操作网页一直有个根本性的问题：它得像人一样\"看\"页面，截图识别按钮，猜输入框该填什么格式，猜提交逻辑是什么。慢，还费 token...\n\nGoogle 在 Chrome 146 里推了 WebMCP，思路完全反过来。让网站主动把自己的能力以结构化工具的形式暴露出来，AI agent 直接调用，拿到结构化结果。 https://t.co/bPEYNFL5CM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033360499509969165",
+    "time": "2026-03-16 09:51",
+    "id_str": "2033360499509969165",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "chrome://flags/#enable-webmcp-testing 开启 flag\n\n然后安装 Model Context Tool Inspector 扩展\n\n在线试玩看看：https://t.co/PMXRPOa2nr\n\n你可以在上面用 AI agent 通过结构化工具调用来\"做披萨\"（选配料、下单等），而不是让 agent 去猜页面上的按钮在哪。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033360502546731173",
+    "time": "2026-03-16 09:51",
+    "id_str": "2033360502546731173",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: 🎉 We just released Rotate Object in Photoshop (beta) 🎉\n\nYou can now rotate 2D images!  🤯\n\nThen use Harmonize to add light…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2033329726811426975",
+    "time": "2026-03-16 07:49",
+    "id_str": "2033329726811426975",
+    "is_retweet": true
+  }
+]
