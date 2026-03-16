@@ -68,5 +68,55 @@
     "time": "2026-03-17 04:21",
     "id_str": "2033639853607297310",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @mtrainier2020: 这个哥们牛逼plus啊。\n把一个 WebAssembly（WASM）解释器 hard-coded的方式嵌入到了 Transformer 模型的权重里，而且是无损的（losslessly）。\n\n这相当于在 LLM 内部运行着一台真正的计算机。…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033646220061618453",
+    "time": "2026-03-17 04:46",
+    "id_str": "2033646220061618453",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "codex终于支持subagent了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033646439838912682",
+    "time": "2026-03-17 04:47",
+    "id_str": "2033646439838912682",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: I turned Andrej Karpathy's viral AI coding rant into a system prompt. Paste it into https://t.co/nAld7md1kg and your agent…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033646114847535379",
+    "time": "2026-03-17 04:46",
+    "id_str": "2033646114847535379",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Can AI Replace Writers in the Future?\nHumans still crucial for compelling stories\n• Embrace AI collaboration\n• Enhance creative skills\n• Adapt to new roles\n\n🔗 Click below to read more: \nhttps://t.co/SIdc9ODNv7 https://t.co/DmPCGS6wgV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033646495300202990",
+    "time": "2026-03-17 04:48",
+    "id_str": "2033646495300202990",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "🚀 Adobe + NVIDIA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2033653061952942213",
+    "time": "2026-03-17 05:14",
+    "id_str": "2033653061952942213",
+    "is_retweet": false
   }
 ]
