@@ -248,5 +248,185 @@
     "time": "2026-03-17 20:32",
     "id_str": "2033884075849879909",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @art_muse: Grok Imagine Prompt Share: ethereal beautiful woman sitting gracefully in a vibrant wildflower meadow, long wavy light-brown…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2033890909734244591",
+    "time": "2026-03-17 20:59",
+    "id_str": "2033890909734244591",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ZoltanMerczel: Grok Imagine Extend from Frame💫\n\n\"Don't worry, my little friend, I will take good care of you\"🥰\n\nSound ON🔊 https://t.co/…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2033891464812577158",
+    "time": "2026-03-17 21:01",
+    "id_str": "2033891464812577158",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果人还需要这么刻意的去区分脚本、Skills、Agent，说明 Agent 还不够聪明。\n\n理想情况下，任何要求都只需要跟 Agent 说，如果一个要求 Agent 被要求处理很多次，它应该结合历史记忆，主动把这个要求自己整理成 Skills，Script 则是 Skills 的一部分。\n\n并且这些 Skills 它是持续更新维护的。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2033910908116709582",
+    "time": "2026-03-17 22:18",
+    "id_str": "2033910908116709582",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Thread from a study author:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2033902528371319086",
+    "time": "2026-03-17 21:45",
+    "id_str": "2033902528371319086",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: BREAKING: Claude just replaced your business analyst, market researcher,\nand strategy consultant for free.\n\nHere are 5 pro…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033891924420034977",
+    "time": "2026-03-17 21:03",
+    "id_str": "2033891924420034977",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Fudan just proved training AI agents makes them dangerously certain they're right.\n\nWrong environment. Wrong co…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033894265538097206",
+    "time": "2026-03-17 21:12",
+    "id_str": "2033894265538097206",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Claude can now analyze your stocks like Warren Buffett for free.\n\nHere are 8 prompts that do what the world's best investors charge\nmillions to deliver👇\n\n(Save before your competitors do) https://t.co/0NAHPGYynC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905571502690783",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905571502690783",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "-------------------------------\n1/ FULL STOCK ANALYSIS\n-------------------------------\n\n#ROLE:\nAct as a senior Wall Street equity research analyst who produces institutional-grade stock reports.\n\n#TASK:\nDeliver a complete stock analysis covering every dimension a professional",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905583578096004",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905583578096004",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "------------------------------------------\n2/ DEEP FINANCIAL BREAKDOWN\n------------------------------------------\n\n#ROLE:\nAct as a forensic financial analyst who reads 5 years of financials to determine if a company is strengthening or deteriorating.\n\n#TASK:\nBreak down the last 5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905595590578548",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905595590578548",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "-----------------------------------------\n3/ COMPETITIVE MOAT ANALYSIS\n-----------------------------------------\n\n#ROLE:\nAct as a competitive intelligence analyst who evaluates whether a company's advantages are durable, eroding, or already gone.\n\n#TASK:\nEvaluate the competitive",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905607699563006",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905607699563006",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "---------------------------------------\n4/ STOCK VALUATION ANALYSIS\n---------------------------------------\n\n#ROLE:\nAct as an investment banking analyst who determines whether a stock is worth buying at its current price.\n\n#TASK:\nRun a full valuation analysis and deliver a clear",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905619770741075",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905619770741075",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "---------------------------------------\n5/ INVESTMENT RISK ANALYSIS\n---------------------------------------\n\n#ROLE:\nAct as a risk analyst who identifies and ranks every material threat before capital is committed.\n\n#TASK:\nIdentify the biggest risks and rank them from most to",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905631674147327",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905631674147327",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "------------------------------------------\n6/ GROWTH POTENTIAL ANALYSIS\n------------------------------------------\n\n#ROLE:\nAct as a growth equity analyst who evaluates whether a company's future is bigger than its present.\n\n#TASK:\nAnalyze future growth potential over 5-10 years",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905643720212644",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905643720212644",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "-----------------------------------------\n7/ INSTITUTIONAL INVESTOR VIEW\n-----------------------------------------\n\n#ROLE:\nAct as a hedge fund portfolio manager evaluating whether a stock deserves a long-term institutional position.\n\n#TASK:\nEvaluate a stock from an institutional",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905655669788822",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905655669788822",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "--------------------------------\n8/ BULL VS BEAR DEBATE\n--------------------------------\n\n#ROLE:\nAct as a debate moderator hosting two analysts — one bullish, one bearish — both arguing with data not sentiment.\n\n#TASK:\nRun a structured bull vs. bear debate and deliver a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905667787133097",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905667787133097",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your premium AI bundle to 10x your business\n\n→ Prompts for marketing &amp; business\n→ Unlimited custom prompts\n→ n8n automations\n→ Weekly updates\n\nGet lifetime access👇\nhttps://t.co/C8Zzw2Jkpc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033905679577256418",
+    "time": "2026-03-17 21:57",
+    "id_str": "2033905679577256418",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "卧槽 这有点牛P啊\n\n带上这个手套你就能以 1:1 的精度复制人类动作\n\n来控制机器人的手做完全一样的动作\n\n这不就是铁甲钢拳？\n\n一家中国公司，叫灏存科技（HexaCercle），他们自主开发了一套叫\"运动神经中枢系统\"的技术，通过穿戴型动作识别设备，精准捕捉并复制人体运动。 https://t.co/yb1lHruLhf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033909317997629803",
+    "time": "2026-03-17 22:12",
+    "id_str": "2033909317997629803",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @DesignSpot_Jap: 角丸の型抜きで表現する「地図」の作り方💡\n#Illustrator https://t.co/JWAcaGFbv3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2033906460158017915",
+    "time": "2026-03-17 22:01",
+    "id_str": "2033906460158017915",
+    "is_retweet": true
   }
 ]
