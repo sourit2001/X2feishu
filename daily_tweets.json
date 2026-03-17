@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/AKXoeJmPGU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2034002188994060691",
+    "time": "2026-03-18 04:21",
+    "id_str": "2034002188994060691",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Claude can now analyze your stocks like Warren Buffett for free.\n\nHere are 8 prompts that do what the world's best investo…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033997062363353466",
+    "time": "2026-03-18 04:01",
+    "id_str": "2033997062363353466",
+    "is_retweet": true
+  }
+]
