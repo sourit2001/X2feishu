@@ -118,5 +118,35 @@
     "time": "2026-03-17 16:25",
     "id_str": "2033821991757877293",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Claude can now analyze your ideas like Amy Edmondson building authority for free.\n\nHere are 5 Claude prompts t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033839014843977877",
+    "time": "2026-03-17 17:33",
+    "id_str": "2033839014843977877",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Reminder: LLM is just a token predictor https://t.co/yLKVLA0bxO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2033843127207809114",
+    "time": "2026-03-17 17:49",
+    "id_str": "2033843127207809114",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "迪士尼雪宝 Olaf 机器人\n\nOlaf 机器人的技术栈：\n\n硬件：肚子里装了 Jetson 计算机（NVIDIA 的边缘 AI 芯片）\n\n训练：在 Omniverse（NVIDIA的虚拟仿真平台）里学会走路，先在虚拟世界跑通，再迁移到真实机器人\n\n物理引擎：Newton 求解器，运行在 NVIDIA Warp 上（一个 Python物理模拟框架），跟 Disney https://t.co/AhxZhHggXc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2033834776050954624",
+    "time": "2026-03-17 17:16",
+    "id_str": "2033834776050954624",
+    "is_retweet": false
   }
 ]
