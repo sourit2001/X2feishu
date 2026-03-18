@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This would be a travesty",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2034362071106896184",
+    "time": "2026-03-19 04:11",
+    "id_str": "2034362071106896184",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It’s almost like they can’t be trusted 🤔",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2034362518764953652",
+    "time": "2026-03-19 04:13",
+    "id_str": "2034362518764953652",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Cool, well Grok will get even better every week!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2034362846184886525",
+    "time": "2026-03-19 04:14",
+    "id_str": "2034362846184886525",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @RupertLowe10: I am entirely fed up tolerating the intolerable.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2034363197529137505",
+    "time": "2026-03-19 04:15",
+    "id_str": "2034363197529137505",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Jacob Helberg: The future will belong to the builders.\n\n\"You need to be able to make things, and the national security strategy that we released actually has a line that's very apt: The future will belong to builders.\"\n\n\"What the tariffs do is they change the economics of https://t.co/9bLlRX1yGs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2034363583849701752",
+    "time": "2026-03-19 04:17",
+    "id_str": "2034363583849701752",
+    "is_retweet": false
+  }
+]
