@@ -148,5 +148,115 @@
     "time": "2026-03-20 01:20",
     "id_str": "2034681372032352297",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 宣布收购 Astral，将后者旗下的开源 Python 工具整合进自家的 Codex 编程智能体生态。\n\nAstral 是 Python 开发者圈子里的明星工具公司，旗下三款开源工具几乎已经成为现代 Python 开发的标配：uv 负责依赖管理和虚拟环境（类似于一个更快更好用的 pip + virtualenv），Ruff",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2034693371575361640",
+    "time": "2026-03-20 02:07",
+    "id_str": "2034693371575361640",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is genuinely a funny development for articles, given how many of them are obviously AI expansions of a single idea that could be expressed in a tweet.\n\n(There are some excellent articles as well, but now people won’t read those either)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2034700819719745879",
+    "time": "2026-03-20 02:37",
+    "id_str": "2034700819719745879",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @timlup: Excited to announce @deeptuneai has raised $43M Series A led by @a16z.\n\nLabs and enterprises must turn model capability into re…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2034691775403893007",
+    "time": "2026-03-20 02:01",
+    "id_str": "2034691775403893007",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We’re excited to lead Deeptune’s Series A.\n\n@deeptuneai is building leading RL environments for computer-use and code.\n\nMore data, more compute, and better architectures can only take us so far.\n\nAs models move into real-world task execution, they need structured environments https://t.co/qen7u0IEfy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2034694854123692462",
+    "time": "2026-03-20 02:13",
+    "id_str": "2034694854123692462",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @ToshiArte: Had to try myself!\nHaving Kling in @AdobeFirefly is huge. https://t.co/qdbKFIUzUp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034691530229780633",
+    "time": "2026-03-20 02:00",
+    "id_str": "2034691530229780633",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Rufus87078959: I love the fact that Adobe is flowing with the river of change. Adobe has always been the premium design suit: now combi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034691587477815511",
+    "time": "2026-03-20 02:00",
+    "id_str": "2034691587477815511",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @designbyArif: 🖼️from @AdobeFirefly 📹 from @Kling_ai inside @AdobeFirefly and the 🔊inside @AdobeFirefly  #communityxadobe #adobefirefly…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034702530681180356",
+    "time": "2026-03-20 02:44",
+    "id_str": "2034702530681180356",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Adobe partners with Kling 🎉 \n\nThis is huge! \n\nYou can use Kling AI video at Adobe Firefly platform now. \n\nI made this vide…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034702948605763821",
+    "time": "2026-03-20 02:46",
+    "id_str": "2034702948605763821",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: We just released Firefly Custom Models (beta) to  everyone 🎉\n\nYou can train a model on your own images to keep a consisten…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034702979442368993",
+    "time": "2026-03-20 02:46",
+    "id_str": "2034702979442368993",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Great work in Adobe Illustrator",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034703626774450321",
+    "time": "2026-03-20 02:48",
+    "id_str": "2034703626774450321",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Thanks to everyone who's been sharing feedback on the new Future Tools website! A lot of great suggestions to improve things. I was at GTC this week so progress was slow. I'm working through them and continually optimizing for maximal usefulness!\n\nKeep em coming!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2034703393445617764",
+    "time": "2026-03-20 02:47",
+    "id_str": "2034703393445617764",
+    "is_retweet": false
   }
 ]
