@@ -238,5 +238,145 @@
     "time": "2026-03-20 08:00",
     "id_str": "2034781972737008044",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "We don’t live in a democracy if our elected leaders fail to implement the will of the people",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2034824678024638586",
+    "time": "2026-03-20 10:49",
+    "id_str": "2034824678024638586",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude Code 官方远程连接 Telegram 和 Discord 插件配置流程。\n\n具体的操作方式 - Telegram：\n\n创建机器人：\n在 Telegram 中打开 BotFather，创建后复制他给你的 Token\n\n安装插件：\n/plugin install telegram@claude-plugins-official\n\n配置 Token：\n/telegram:configure &lt;token&gt;\n\n使用命令启动： https://t.co/ZRI57xlTr0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2034819697858978070",
+    "time": "2026-03-20 10:29",
+    "id_str": "2034819697858978070",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "完了，最重要的限制没写：必须使用 Claude 登录，不支持使用 API 和环境变量。\n\n这他妈的还得用我的 Skills 啊。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2034821943808205242",
+    "time": "2026-03-20 10:38",
+    "id_str": "2034821943808205242",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "最重要的限制：必须使用 Claude 登录，不支持使用 API 和环境变量。\n\n这他妈的还得用我的 Skills 啊。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2034822092747940045",
+    "time": "2026-03-20 10:39",
+    "id_str": "2034822092747940045",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I read a few dozen pages of this and it is not bad for LLM fiction, but also very very LLM-y, from the themes to the fact that there are lots of staccato conversations and meaningful silences and overwrought metaphors and very little differentiated character development.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2034816899133923490",
+    "time": "2026-03-20 10:18",
+    "id_str": "2034816899133923490",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Like this is not good. https://t.co/3Z9fIxGnUh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2034818743767908829",
+    "time": "2026-03-20 10:26",
+    "id_str": "2034818743767908829",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "My experience so far with LLM fiction writing is that it takes advantage of our assumption that an author is writing things for a reason, so we are charitable to a book's quirks &amp; do mental work to assign them real meaning. But the AI doesn't have a reason, its just bad writing.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2034821323763966292",
+    "time": "2026-03-20 10:36",
+    "id_str": "2034821323763966292",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "So we take AI's weird metaphors and, because we are good readers, assume they must be there for a reason, so we figure out how to make them meaningful in our heads. But they aren't meaningful, they are nonsense, and the AI is just stealing our processing power to cover its flaws.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2034821854376972642",
+    "time": "2026-03-20 10:38",
+    "id_str": "2034821854376972642",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: @WesRoth Damn we made it too easy to ship to the App Store… luckily we’re working on an update they can’t restrict. @vibeco…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2034815204274639243",
+    "time": "2026-03-20 10:12",
+    "id_str": "2034815204274639243",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I like this guy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2034815512979661043",
+    "time": "2026-03-20 10:13",
+    "id_str": "2034815512979661043",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "「一个人说了什么」，只是他意图的一种模糊显现。\n\n「一个人（在何场景）说了什么」，让其意图更加清晰了。\n\n现在读书时，如果对某一观点感兴趣，会和AI 请教当时的社会背景和文化思潮，作者说这句话，是在抵着什么东西而发言。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2034836401326629054",
+    "time": "2026-03-20 11:36",
+    "id_str": "2034836401326629054",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "注意力：在有限带宽约束下，通过竞争性加权选择机制，将处理资源分配给信息子集的过程。\n\n- LLM 有 注意力（softmax 归一化）\n\n- 人有注意力（非注意盲视）：时间管理是注意力管理的二阶代理。\n\n- 公司有注意力（预算争夺）：战略即注意力配置\n\n- 国家有注意力（议题排挤）：注意力配置权就是主权。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2034841188067680588",
+    "time": "2026-03-20 11:55",
+    "id_str": "2034841188067680588",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I keep hearing that AI art has no soul. I disagree. If AI art ever made you feel something, I’d love to see it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034810928512860325",
+    "time": "2026-03-20 09:55",
+    "id_str": "2034810928512860325",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: We just released Firefly Custom Models (beta) to  everyone 🎉\n\nYou can train a model on your own images to keep a consisten…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2034815821571092493",
+    "time": "2026-03-20 10:14",
+    "id_str": "2034815821571092493",
+    "is_retweet": true
   }
 ]
