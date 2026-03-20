@@ -298,5 +298,65 @@
     "time": "2026-03-20 22:42",
     "id_str": "2035003980166594566",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/xMUJVzU7hd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2035015960537485507",
+    "time": "2026-03-20 23:29",
+    "id_str": "2035015960537485507",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Cursor 上线 Composer 2 不到 24 小时，就被开发者扒出了底裤。\n（以下内容 Claude 辅助生成）\n\n一个叫 Fynn 的开发者在调试 Cursor 的 API 时，发现返回的模型 ID 赫然写着：kimi-k2p5-rl-0317-s515-fast。翻译成人话：这就是月之暗面（Moonshot AI）的 Kimi K2.5，加了一层强化学习（RL）微调。 https://t.co/3WaDMOBzL2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2035017845801689440",
+    "time": "2026-03-20 23:37",
+    "id_str": "2035017845801689440",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "How to setup OpenClaw in 15 minutes (step by step)\n\nNew YT video dropped 👇\nhttps://t.co/xSCFiw9fwK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2035010959576633639",
+    "time": "2026-03-20 23:09",
+    "id_str": "2035010959576633639",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://t.co/xSCFiw9fwK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2035010978778157205",
+    "time": "2026-03-20 23:10",
+    "id_str": "2035010978778157205",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: When you use AI for work, are you using it for your employer or for your own thing?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2035013722725294156",
+    "time": "2026-03-20 23:20",
+    "id_str": "2035013722725294156",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @alex_prompter: 99% of people will never master claude prompt engineering.\n\nNot because it's hard.\nBecause nobody showed them these 5 pr…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2035014151991439420",
+    "time": "2026-03-20 23:22",
+    "id_str": "2035014151991439420",
+    "is_retweet": true
   }
 ]
