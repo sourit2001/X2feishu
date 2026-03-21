@@ -118,5 +118,65 @@
     "time": "2026-03-22 01:04",
     "id_str": "2035402285975482877",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "小技巧\n ~/.claude/settings.json 里面添加\n{\n  \"attribution\": {\n    \"commit\": \"\",\n    \"pr\": \"\"\n  }\n}\n就可以默认不加 co-author\nhttps://t.co/08j5zFEOVL https://t.co/GlI50UeaQs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2035411263375765753",
+    "time": "2026-03-22 01:40",
+    "id_str": "2035411263375765753",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "For better or for worse… It will never die.\nStreaming will get 100x bigger",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2035407285686800614",
+    "time": "2026-03-22 01:24",
+    "id_str": "2035407285686800614",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Is it possible that the AI models passing PhD level exams can't read a basic diagram from a high school textbook\n\nGPT-4o.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2035406362835050990",
+    "time": "2026-03-22 01:21",
+    "id_str": "2035406362835050990",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Who has experience in marketing and would like to join my team as a manager? \n\nNeed someone passionate and with experience.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2035423226944225490",
+    "time": "2026-03-22 02:28",
+    "id_str": "2035423226944225490",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "The account is ai.cinema021 (screenshot 👇)\n\nJust search \"Fruit Love Island\" on literally any social platform and you'll find hundreds of fan videos. \n\nLove it or hate it, this is a phenomenon that has legs 🤷‍♀️ https://t.co/aGl8XY1JuG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2035409495820767421",
+    "time": "2026-03-22 01:33",
+    "id_str": "2035409495820767421",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @itsSSS1510: Adobe x Kling is LIVE 🎉\n\nJust tested Kling 2.5 Turbo inside @AdobeFirefly smoother, faster, way more control 🎬\n\nVisuals mad…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2035409309417255345",
+    "time": "2026-03-22 01:32",
+    "id_str": "2035409309417255345",
+    "is_retweet": true
   }
 ]
