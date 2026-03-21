@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Evidence that AI models can, indeed, learn \"taste\" in this paper where a small model, trained on citations, is able to predict which papers will be hits\n\nCitations, upvotes &amp; shares are signals that can teach AI judgment about quality, not just execution. https://t.co/2KWBQIMqt0 https://t.co/nI26UhdI9c",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2035387292311769278",
+    "time": "2026-03-22 00:05",
+    "id_str": "2035387292311769278",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "搞了个开源项目把MacBook 刘海 改造了下\n\n能显示 Claude Code 每个终端的对话状态\n\n工具调用和上下文状态，感觉很不错\n\n而且还增加了宠物模式，可以根据你使用Claude Code的情况宠物会进行升级...\n\n当然还有语音提醒什么的，就是晚上花了2个小时搞的，还有其他问题明天再调整下，开源给大家 https://t.co/5DwYX1bazF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2035379381305319454",
+    "time": "2026-03-21 23:33",
+    "id_str": "2035379381305319454",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细状态 https://t.co/aPv5hqlKJ0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2035379384522317957",
+    "time": "2026-03-21 23:33",
+    "id_str": "2035379384522317957",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "还有个临时的文件停放区\n\n这个是开源软件自带的，我准备改造成可以拖放喂给Claude 的 嘿嘿 https://t.co/14JKlZ30Ql",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2035379387101741288",
+    "time": "2026-03-21 23:33",
+    "id_str": "2035379387101741288",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @neural_avb: https://t.co/QeozQY6lRH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2035377846466613684",
+    "time": "2026-03-21 23:27",
+    "id_str": "2035377846466613684",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @aakashgupta: For $25 and a single GPU, you can now run 100 experiments overnight without designing any of them.\n\nKarpathy open-sourced…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2035384338125119771",
+    "time": "2026-03-21 23:53",
+    "id_str": "2035384338125119771",
+    "is_retweet": true
+  }
+]
