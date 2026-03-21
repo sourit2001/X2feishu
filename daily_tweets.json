@@ -158,5 +158,135 @@
     "time": "2026-03-21 09:08",
     "id_str": "2035161490827649144",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try it out",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2035204572944507082",
+    "time": "2026-03-21 11:59",
+    "id_str": "2035204572944507082",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "刚才处理了一个 Codepilot 里面非常典型的服务商配置问题\n\n这也是很多人说自己按官方文档配置却不生效的原因\n\n比如这个，他说他配置完了，也配置对了，但没有反应。\n\n但我检查了一下 Log 发现，他配置的那个链接是错的：\n\n1. 他配置的是 OpenAI 的兼容链接，而不是应该在 Claude Code 的这种 Anthropic https://t.co/81Qlry0DDj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2035180804410941655",
+    "time": "2026-03-21 10:24",
+    "id_str": "2035180804410941655",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "正确的配置方式 https://t.co/CqzRcF5hxb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2035181977238917420",
+    "time": "2026-03-21 10:29",
+    "id_str": "2035181977238917420",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "These are the most bot-infested my replies have ever been. I counted, and 10%, at most, are human.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2035171797474197599",
+    "time": "2026-03-21 09:49",
+    "id_str": "2035171797474197599",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I saw this Reddit post a few months ago and haven't stopped thinking about it. \n\nThis is coming for every industry. AI will be so integrated into every tool we use that there will no longer be a clear delineation between \"human\" and \"AI\" content. https://t.co/2DAsmnfy1s",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2035200794186981390",
+    "time": "2026-03-21 11:44",
+    "id_str": "2035200794186981390",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "谢赛宁推荐的这本《交大生存手册》太有意思了 https://t.co/hWXG5dj5mn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2035167269698027981",
+    "time": "2026-03-21 09:31",
+    "id_str": "2035167269698027981",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "你给Agent设定了soul 和 memory，可以给祂一个定时任务：\n\n「每天晚上 12 点写一篇日记，记录你这一天的感受。」\n\n每天早上打开电脑阅读祂的日记，既是在照镜子观自己，又是在观AI。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2035194617117995144",
+    "time": "2026-03-21 11:19",
+    "id_str": "2035194617117995144",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "kimi 登陆cloudflare了，stepfun还远吗？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2035183554557284742",
+    "time": "2026-03-21 10:35",
+    "id_str": "2035183554557284742",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @dontbesilent: 当我意识到 skill 其实是以文本形式存在的软件\n\n我发现我积累的一万多条推文，已经完全具备了做出这个软件的基础条件\n\n接下来做一组 skill 发布到 GitHub —— dbskill https://t.co/jsEaZjD9Sa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2035187830197297283",
+    "time": "2026-03-21 10:52",
+    "id_str": "2035187830197297283",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Weekend engagement time! ✨ \n\nLet me know  if you’d like some attention on your content this weekend.\n\nI’ll come to your feed and like, comment, and share my favorites throughout Saturday and Sunday. \n\nHappy weekend! 🫶🥹",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2035177324186902573",
+    "time": "2026-03-21 10:11",
+    "id_str": "2035177324186902573",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A rose a day,\nreminds the heart to stay.\n\nShare yours 🌹 https://t.co/7dTWlo5Bqv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2035179376187146374",
+    "time": "2026-03-21 10:19",
+    "id_str": "2035179376187146374",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @1Aether1Rose1: @icreatelife https://t.co/mQtziluOLX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2035185070550532596",
+    "time": "2026-03-21 10:41",
+    "id_str": "2035185070550532596",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @ToshiArte: @icreatelife https://t.co/wPhOfoDIkd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2035185110530617798",
+    "time": "2026-03-21 10:41",
+    "id_str": "2035185110530617798",
+    "is_retweet": true
   }
 ]
