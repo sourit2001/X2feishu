@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This is insane",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2035799508215603283",
+    "time": "2026-03-23 03:23",
+    "id_str": "2035799508215603283",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Is there any way to turn off the frontend design skill in Claude for the web? It seems like some default Anthropic skills are always available to the chatbot, making it hard to get it to use your skills when doing tasks the default skills also cover.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2035802346580529555",
+    "time": "2026-03-23 03:34",
+    "id_str": "2035802346580529555",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Apparently not, if Claude is telling the truth here",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2035804433213276666",
+    "time": "2026-03-23 03:42",
+    "id_str": "2035804433213276666",
+    "is_retweet": false
+  }
+]
