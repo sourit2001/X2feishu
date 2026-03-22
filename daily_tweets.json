@@ -188,5 +188,65 @@
     "time": "2026-03-22 13:46",
     "id_str": "2035593968348430797",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我这个时间轴导出srt没问题，是原始的时间戳很准，但是生成文本的时候不准的，因为组合段落的时候，有时候要按照标点分割segment，这时候是按字符长度去估算时长的，会导致分割的不准。\nhttps://t.co/pL8JBWxEfx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2035601041337602298",
+    "time": "2026-03-22 14:14",
+    "id_str": "2035601041337602298",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "微信成也张小龙，败也张小龙\n微信早死早超生",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2035601778062840128",
+    "time": "2026-03-22 14:17",
+    "id_str": "2035601778062840128",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Σ(°ロ°) ，牛逼🐂🍺 真的接上了 https://t.co/eqKgAmjncA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2035605999625589166",
+    "time": "2026-03-22 14:34",
+    "id_str": "2035605999625589166",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "兄弟们！太炸裂了💥 正式支持「微信🐸 Openclaw 龙虾」🦞\n\n🌟这个龙虾客户端 - Nexu 正式开源🌟\n\n华人团队开发！一键扫码直连，将本地电脑变成微信超级智能终端🔥\n\n最重要的，无限制免费用顶级模型 Claude、GPT 顶级模型，先到先得！✈️🌈\n\n开源地址👉https://t.co/RA2uXjGEa4\n\n手把手教程如下👇",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2035607963092615357",
+    "time": "2026-03-22 14:42",
+    "id_str": "2035607963092615357",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "接入教程非常简单，只需要简单 7 步即可：\n\n第一步：更新微信至 8.0.7 https://t.co/C6n0GVXpfT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2035608070584230223",
+    "time": "2026-03-22 14:42",
+    "id_str": "2035608070584230223",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "第二步：下载 nexu 并接入飞书\n\n- 下载安装 nexu（下载地址：https://t.co/BIC9jCiTCs）\n- 或者进 https://t.co/RA2uXjGEa4 下载使用\n\n可以给 nexu 点个 star 🌟 https://t.co/E3sDSu4Ut8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2035608146408837594",
+    "time": "2026-03-22 14:42",
+    "id_str": "2035608146408837594",
+    "is_retweet": false
   }
 ]
