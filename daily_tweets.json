@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/vDH6mz0hB7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2035621498707177923",
+    "time": "2026-03-22 15:35",
+    "id_str": "2035621498707177923",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yan5xu: 微信🐂🍺，梳理了微信的龙虾协议，顺手给大家封装好了nodejs和python的sdk包，分别还有一个最简单的echo bot demo。大家可以对照很方便把自己的bot打通微信了。 https://t.co/EXbfwlqEsb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2035622538277978114",
+    "time": "2026-03-22 15:40",
+    "id_str": "2035622538277978114",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "微信支持龙虾，这件事很有趣。\n即便是互联网旧世界的王者，也要为新世界的 Agent开入口。\n还在旧世界内卷外卖内卷电商内卷注意力的，不妨多看看新世界，好好建设一番。\n企业活着不是为了内卷，而是为了__",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2035624735594488164",
+    "time": "2026-03-22 15:48",
+    "id_str": "2035624735594488164",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "好大的亮点！ https://t.co/I6JFIY6tCF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2035633567510749274",
+    "time": "2026-03-22 16:23",
+    "id_str": "2035633567510749274",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "哈哈哈欢迎来使用呀！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2035634182446002376",
+    "time": "2026-03-22 16:26",
+    "id_str": "2035634182446002376",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "大家都在说这个时代，「问题比答案更重要」，那如何内化呢？  \n\n我觉得可以从「显化性」问题开始：\n在笔记系统中，新建文件 Problems，记录自己遇到的卡点问题、困惑不解问题、重复执行陷顿其中的问题。  \n\n逐一认真对待，与AI 讨论碰撞，有些寻得一个新角度，有些固化形成一个skill.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2035630193357025668",
+    "time": "2026-03-22 16:10",
+    "id_str": "2035630193357025668",
+    "is_retweet": false
+  }
+]
