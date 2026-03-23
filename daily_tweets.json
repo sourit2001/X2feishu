@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @testerlabor: I asked Grok, \"What's your favorite quote from \"Dumb and Dumber?\" The answer: Jim Carrey hears Mary say his chances with h…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2035949889402585237",
+    "time": "2026-03-23 13:20",
+    "id_str": "2035949889402585237",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude 正在测试 /init 命令的新版本\n\ninit 是 Claude Code 里的一个命令，用来初始化项目配置（生成 CLAUDE.md 等）\n\n新版本/init命令会主动访谈你，一步一步的帮你设置 skills（技能）、hooks（钩子）等配置项，比原来更智能。\n\n对新用户更友好... https://t.co/JdCRGZQeKo",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2035937920277000683",
+    "time": "2026-03-23 12:33",
+    "id_str": "2035937920277000683",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "RT @Khazix0918: 2026，我们倾尽所有，想为大家办一场万人AI大会丨AIFUT。\n\n3个月前，我跟朋友们说，我想做一个可能最好玩最接地气的AI大会。\n\n主会场+外围展区，大概能到万人规模。\n\n所有听了我计划的人，都说我疯了。… https://t.co/ebRS…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2035950796551164131",
+    "time": "2026-03-23 13:24",
+    "id_str": "2035950796551164131",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "以下两个自媒体标题，你会点进去看哪个？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2035945933381234881",
+    "time": "2026-03-23 13:05",
+    "id_str": "2035945933381234881",
+    "is_retweet": false
+  }
+]
