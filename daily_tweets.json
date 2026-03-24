@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @danWpriestley: @SawyerMerritt That lead truck has driven nearly every one of those miles at 82k lbs GCW, resulting in nearly 18M ton-mi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036240743392747606",
+    "time": "2026-03-24 08:36",
+    "id_str": "2036240743392747606",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @corcoranwill: Today I had the opportunity to present Ethereum's post-quantum security strategy at the Institutional Ethereum Forum in N…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2036253650012586039",
+    "time": "2026-03-24 09:27",
+    "id_str": "2036253650012586039",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Luma 发布了一个很厉害的图片模型 UN1\n\n类似 Nano Banana 和 Midjourney 的集合体\n\n支持常识场景补全、空间关系理解和合理的画面变化；\n\n支持多图参考、风格迁移；\n\n支持各种文化、审美、风格的图像生成和理解，尤其是对当代视觉文化和梗图的生成；\n\n最重要的看起来支持中文； https://t.co/k0aSdOV8eD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036247992211292485",
+    "time": "2026-03-24 09:05",
+    "id_str": "2036247992211292485",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "OpenClaw 昨天憋了一周的更新发布了，主要是插件系统的重构。\n\n现在的更新项如下：\n1. 现在支持在 ClawHub 里面安装插件。\n2. 同时兼容 Codex、Claude 和 Cursor 的插件系统。 https://t.co/7DTv9Y07RR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036250151074013436",
+    "time": "2026-03-24 09:14",
+    "id_str": "2036250151074013436",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "同分辨率 2K 下，Uni‑1 比 Nano Banana 2 大约便宜 10% 左右，比 Nano Banana Pro 便宜约 30%。\n\n相较于 Nano Banana 2 没有太大优势",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036250716323586209",
+    "time": "2026-03-24 09:16",
+    "id_str": "2036250716323586209",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/Teh2NKtccf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036234127691694254",
+    "time": "2026-03-24 08:10",
+    "id_str": "2036234127691694254",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Ok, they work fast.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036236449842864565",
+    "time": "2026-03-24 08:19",
+    "id_str": "2036236449842864565",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "We're hiring an Executive Assistant - San Francisco, on-site, full-time, extremely competitive pay + strong training on the job for AI systems and knowledge. \n\nYou'll own calendars, sales coordination, travel, external comms, candidate scheduling, and more. You'll see every part",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2036225455385190668",
+    "time": "2026-03-24 07:35",
+    "id_str": "2036225455385190668",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The Coinbase founders met on Reddit https://t.co/4vfbcWZekZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036227012017398060",
+    "time": "2026-03-24 07:42",
+    "id_str": "2036227012017398060",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "How @FEhrsam got into digital currencies: https://t.co/z1yHwqG3V8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036227027259498928",
+    "time": "2026-03-24 07:42",
+    "id_str": "2036227027259498928",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @Cloudflare: Cloudflare’s Gen 13 servers double our compute throughput by rethinking the balance between cache and cores. Moving to high…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036249768561946640",
+    "time": "2026-03-24 09:12",
+    "id_str": "2036249768561946640",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @CFchangelog: Agents SDK v0.8.0 is live. State is now readable directly. `AgentClient` supports full TypeScript inference too.\nhttps://t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036249800065294367",
+    "time": "2026-03-24 09:12",
+    "id_str": "2036249800065294367",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @googledevs: Improve document parsing accuracy by 15% for financial PDFs.\n\nUse LlamaParse and Gemini 3.1 Pro to extract high-quality dat…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036249846513099146",
+    "time": "2026-03-24 09:12",
+    "id_str": "2036249846513099146",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @lexfridman: Here's the links for my conversation with Jensen Huang, CEO of NVIDIA:\n\nYouTube: https://t.co/cC5nUizEwd\n\nSpotify: https://…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036250171835818341",
+    "time": "2026-03-24 09:14",
+    "id_str": "2036250171835818341",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @shao__meng: 信息卡制作完整方法我做成了 Skill「infocard-skills」，开源在这里了：\nhttps://t.co/jCrTwUBZLx\n\n支持 16/9、4/3、1/1、3/4、9/16 几种常见比例信息卡，和 2.35/1、3/1 等常见比例…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036250360709521866",
+    "time": "2026-03-24 09:14",
+    "id_str": "2036250360709521866",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @yan5xu: 微信🐂🍺，梳理了微信的龙虾协议，顺手给大家封装好了nodejs和python的sdk包，分别还有一个最简单的echo bot demo。大家可以对照很方便把自己的bot打通微信了。 https://t.co/EXbfwlqEsb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036250981852389575",
+    "time": "2026-03-24 09:17",
+    "id_str": "2036250981852389575",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @matrixmurals: Mt. Fuji.exe https://t.co/GljqzOn8Wi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036230935989887367",
+    "time": "2026-03-24 07:57",
+    "id_str": "2036230935989887367",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @haruka_no_yume: 🇯🇵  A quiet night + unnecessarily pretty vending machines. Just another night in Japan. https://t.co/pzxG7MY7Nn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036232456899121194",
+    "time": "2026-03-24 08:03",
+    "id_str": "2036232456899121194",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: 🎉 We just released Rotate Object in Photoshop (beta) 🎉\n\nYou can now rotate 2D images!  🤯\n\nThen use Harmonize to add light…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036234776277811300",
+    "time": "2026-03-24 08:12",
+    "id_str": "2036234776277811300",
+    "is_retweet": true
+  }
+]
