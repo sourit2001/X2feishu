@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The Cybertruck rear bench has three sets of isofix attachments and is wide enough to fit three child seats or three adults",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036492040528339171",
+    "time": "2026-03-25 01:15",
+    "id_str": "2036492040528339171",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "AI will help discover new science, such as cures for diseases, which is perhaps the most important way to increase quality of life long-term.\n\nAI will also present new threats to society that we have to address. No company can sufficiently mitigate these on their own; we will",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2036488680769241223",
+    "time": "2026-03-25 01:01",
+    "id_str": "2036488680769241223",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "More details here:\n\nhttps://t.co/OT0cPOCGO4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2036488729230295399",
+    "time": "2026-03-25 01:02",
+    "id_str": "2036488729230295399",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "I would like a single word for this phrase: \"throw it into the maw with every bit of context I can think of\".",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2036489823792607273",
+    "time": "2026-03-25 01:06",
+    "id_str": "2036489823792607273",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Software horror: litellm PyPI supply chain attack. \n\nSimple `pip install litellm` was enough to exfiltrate SSH keys, AWS/GCP/Azure creds, Kubernetes configs, git credentials, env vars (all your API keys), shell history, crypto wallets, SSL private keys, CI/CD secrets, database",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2036487306585268612",
+    "time": "2026-03-25 00:56",
+    "id_str": "2036487306585268612",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "没有养成 AI first 的思维习惯，主要是因为：\n1. 用的太少\n2. 用的模型不聪明",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036485173856924086",
+    "time": "2026-03-25 00:47",
+    "id_str": "2036485173856924086",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "补充一些答案\nhttps://t.co/9yB8MwjyGN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036489769086025920",
+    "time": "2026-03-25 01:06",
+    "id_str": "2036489769086025920",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/NNRG4gtGLf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036489998107660581",
+    "time": "2026-03-25 01:07",
+    "id_str": "2036489998107660581",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/wMupBx2RRk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036490094886920254",
+    "time": "2026-03-25 01:07",
+    "id_str": "2036490094886920254",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Maybe we should retroactively all just agree with @tylercowen that o3 was AGI so we can stop arguing about it. \n\n(Also, doing so will drive home the lesson that AGI alone is not enough for transformation) https://t.co/epKrL6nc4b",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036480810677662006",
+    "time": "2026-03-25 00:30",
+    "id_str": "2036480810677662006",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: I let an AI agent run my entire sourcing and screening process.\n\nIt returned a fully qualified shortlist in under 24 hours…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036480783045763564",
+    "time": "2026-03-25 00:30",
+    "id_str": "2036480783045763564",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: Every prompt you're using right now is built on what worked months ago.\n\nSomeone just open-sourced the solution.\n\nA Claude Code skill that scans Reddit and X from the last 30 days on any topic you give it, then writes you a fully structured, copy-paste-ready prompt https://t.co/hyGgbKwU4H",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036501096005320844",
+    "time": "2026-03-25 01:51",
+    "id_str": "2036501096005320844",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Repo: https://t.co/a0uvOaw84X",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036501098693861797",
+    "time": "2026-03-25 01:51",
+    "id_str": "2036501098693861797",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@Revolut is one of the fastest growing financial institutions in the world\n\n@aleximm and @santiago__rdz on the outlier numbers in Revolut's 2025 Annual Report:\n\n- Revenue grew 46% to £4.5 billion\n- Profit before tax grew 57% to £1.7 billion, realizing a 38% margin\n- Retail https://t.co/DWmdFiWNCn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036473957659062568",
+    "time": "2026-03-25 00:03",
+    "id_str": "2036473957659062568",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Bridgit Mendler on how @NorthwoodSpace is fixing the space economy's ground infrastructure problem:\n\n\"The problem that we're solving is for every satellite, it requires a connection point back to Earth so that they can control the spacecraft.\"\n\n\"That point of contact on Earth is https://t.co/Czx9205AUe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036479932050899139",
+    "time": "2026-03-25 00:27",
+    "id_str": "2036479932050899139",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Bridgit Mendler on why the space economy is like the early internet:\n\n\"I get really inspired by the analogy especially thinking about, you know, for folks that were early with the internet.\"\n\n\"There's no way they would've foreseen what the internet is today.\"\n\n\"But they were https://t.co/BxHHzNB0qH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036486242200965127",
+    "time": "2026-03-25 00:52",
+    "id_str": "2036486242200965127",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@Revolut's rapid user base growth: More users than Sofi, Robinhood, Dave, and Chime combined\n\nMore on Revolut from @santiago__rdz and @aleximm: https://t.co/c3OQocUSQz https://t.co/FgQNLbXB20",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036494262964273308",
+    "time": "2026-03-25 01:24",
+    "id_str": "2036494262964273308",
+    "is_retweet": false
+  }
+]
