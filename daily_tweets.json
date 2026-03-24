@@ -188,5 +188,255 @@
     "time": "2026-03-24 08:12",
     "id_str": "2036234776277811300",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @Kleros_io: 🍿 Can you scale a movie critic?\n\nThat's the question behind Kleros Foresight's first experiment. 16 movies, 1 judge: Kleros…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2036255733474361605",
+    "time": "2026-03-24 09:36",
+    "id_str": "2036255733474361605",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Openclaw 3.22 版本有个巨大的 bug，\n\n打包的时候把网页的部分给漏掉了，导致没有办法打开网页。\n\n建议更新到 3.23 版本，确实是 Vibe Coding，这也太草台了，我自己都不会出现这种问题。\n\n顺便，Peter 在自动化构建的时候，也发生了跟我一样的问题。\n\n就跟我写 Codepilot https://t.co/AdrXyisAAt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036256769429946567",
+    "time": "2026-03-24 09:40",
+    "id_str": "2036256769429946567",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude Code 更新了新的 /init 命令\n\n现在运行不只会帮你写 Claude.md 还会扫描你的代码库询问相关信息，帮你配置对应的 Skills 、插件、Hook\n\n将这段内容添加到 settings.json 开启：\"CLAUDE_CODE_NEW_INIT\": \"1\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036258883208147043",
+    "time": "2026-03-24 09:48",
+    "id_str": "2036258883208147043",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude Code 和 CodeX 远程连接到飞书 IM 的插件 Claude-to-IM-Skills 更新了！\n\n将你的 Claude Code 和 CodeX 远程连接到微信！\n\n而且配置方式极其简单：它会自动打开一个网页，你扫码就行。 https://t.co/zUIffJ8mde",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036260385490346133",
+    "time": "2026-03-24 09:54",
+    "id_str": "2036260385490346133",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "笑死，新版的 OpenClaw 因为更新了插件系统，导致微信的插件连接用不了了。\n\n但是咱们这个还是可以用。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036287228805259267",
+    "time": "2026-03-24 11:41",
+    "id_str": "2036287228805259267",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "视频中用来抓取 YouTube 字幕的 Gem 的提示词：\nhttps://t.co/j8ul0GFRZM\n或者也可以用这个 skill（推荐）：https://t.co/mIwDZItibd\n\nhttps://t.co/qrbYZoM2MR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036262717401567522",
+    "time": "2026-03-24 10:03",
+    "id_str": "2036262717401567522",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我觉得现在重点不是什么都去学，也不是说这些知识不用学，而是以终为始：\n先看看自己目标是什么，要做什么，然后做这些事情需要哪些技术（可以用 Deep Research 这种辅助调研），然后再去针对性学习。\n\n另外从深度和广度入手，深度方面学习底层知识，广度方面建立“地图”，知道有哪些技术可用。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036271021058117892",
+    "time": "2026-03-24 10:36",
+    "id_str": "2036271021058117892",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "参考\nhttps://t.co/IKB2970Afh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036271023079784831",
+    "time": "2026-03-24 10:36",
+    "id_str": "2036271023079784831",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @himself65: AI给前端带来的改变是结构性通缩，或者整个工程师的结构性通缩。…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036276181784224061",
+    "time": "2026-03-24 10:57",
+    "id_str": "2036276181784224061",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Its annoying that my tireless team of little computer people made out of statistical models that predict words based on the corpus of all human language &amp; thus are reasonable approximations of a compression of the knowledge of humanity take 15 minutes or so to complete some tasks",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036272478331249028",
+    "time": "2026-03-24 10:42",
+    "id_str": "2036272478331249028",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Like can't they work miracles, but, like, faster?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036272795131203803",
+    "time": "2026-03-24 10:44",
+    "id_str": "2036272795131203803",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Bosch Research just published a paper that explains why most production AI systems are flying blind.\n\nIt's cal…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036267071932342490",
+    "time": "2026-03-24 10:21",
+    "id_str": "2036267071932342490",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I have this weird new anxiety every time I’m sitting in a meeting and don’t have several long-running agents working on tasks for me 🙃",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2036284302334501119",
+    "time": "2026-03-24 11:29",
+    "id_str": "2036284302334501119",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @nexudotio: The simplest open-source OpenClaw 🦞  \ndesktop client for WeChat, Feishu, Slack &amp; Discord. Multi-model, BYOK, local-first. \nC…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2036267379970228458",
+    "time": "2026-03-24 10:22",
+    "id_str": "2036267379970228458",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @nexudotio: Nexu v0.1.5 is live 🦞\n\n👉 Skill import via zip + bilingual UI\n👉 Markdown chat rendering\n👉 Dynamic ports (no more conflicts)\n👉…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2036293080584728683",
+    "time": "2026-03-24 12:04",
+    "id_str": "2036293080584728683",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "陶哲轩：AI正在扫荡“矮墙”\n\n\"AI 正在把生成想法的成本降到几乎为零，就像互联网把通信成本降到零一样。\"\n\n知名播客主持人 @dwarkesh_sp 最新一期访谈，跟陶哲轩（当今在世最强数学家，菲尔兹奖得主）聊的是 AI 和数学的未来。 https://t.co/0eUeVduQVg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036291229227348152",
+    "time": "2026-03-24 11:57",
+    "id_str": "2036291229227348152",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@dwarkesh_sp 文字版：https://t.co/rMjsOWzKcb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036291722611925040",
+    "time": "2026-03-24 11:59",
+    "id_str": "2036291722611925040",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "ChatGPT 给文件加了个文件库功能\n\n你上传过的东西不会全部在这里，能复用、能检索。\n\n几个功能：\n\n1、快速引用，在对话工具栏里能直接看到最近上传的文件，不用重复上传\n\n2、问文件，可以直接对之前上传过的文件提问，不用每次重新找\n\n3、Library https://t.co/bqQ2NewTD8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036293233731576254",
+    "time": "2026-03-24 12:05",
+    "id_str": "2036293233731576254",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "可以分类查找\n\n不过好像只有最近的，我以前上传的没看到... https://t.co/9ORGXn4P1B",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036293238508888560",
+    "time": "2026-03-24 12:05",
+    "id_str": "2036293238508888560",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Google Analytics 推出场景规划器和预测两款新工具，\n\n前者可提前测试不同投放预算、预估收入并优化跨平台预算分配，\n\n后者能实时追踪投放进度、及时调整预算避免浪费，助力精准规划与优化广告预算。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036267677858308460",
+    "time": "2026-03-24 10:23",
+    "id_str": "2036267677858308460",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "亲自测试了一下我关注的功能（可能大家也关注）：\n\n1. 不支持群聊监听、不支持别人给我的bot发消息，不支持bot代替我回复；\n\n2. 只支持生成一个AI助手，信息通过websocket发送到自己服务器，平台不长期保存（只存24H）；\n\n3. 不支持多个人扫同一个码（一只openclaw给多人用）\n\n4. 支持 文字",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036269030575886621",
+    "time": "2026-03-24 10:29",
+    "id_str": "2036269030575886621",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "感觉还是生成的信息图，文字太多了，\n\n我现在用的更多的还是长文编短文，\n\n我让AI直接讲干货，往往能删减50%-70%的废话文学。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036269351842844717",
+    "time": "2026-03-24 10:30",
+    "id_str": "2036269351842844717",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Anthropic公司推出了科学博客，旨在强调人工智能在加速科学发现方面的作用。\n\n博客首先讲述了Schwartz如何使用Claude Opus 4.5推导出因式分解定理、运行模拟，并最终在arXiv上发表了一篇包含可验证预测的论文。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036285208077672745",
+    "time": "2026-03-24 11:33",
+    "id_str": "2036285208077672745",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Please, listen to this song \n\n\"CTRL+C \nCTRL+V\" \n\n😅😅😅🔥",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036265009492177250",
+    "time": "2026-03-24 10:13",
+    "id_str": "2036265009492177250",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: QT a chibi version of you 🥹🫶✨ https://t.co/vWse3MfKWH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036267701002232259",
+    "time": "2026-03-24 10:23",
+    "id_str": "2036267701002232259",
+    "is_retweet": true
   }
 ]
