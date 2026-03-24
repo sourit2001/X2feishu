@@ -288,5 +288,15 @@
     "time": "2026-03-25 02:39",
     "id_str": "2036513219184042042",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "今天刚发生的重大安全事件，Karpathy 亲自发帖警告。\n\nlitellm 被投毒：一次教科书级的供应链攻击\n\n今天（3月24日），AI 开发者常用的 Python 库 litellm 在 PyPI 上被植入恶意代码。版本 1.82.8 在 UTC 时间 10:52 发布到 PyPI，包含一个名为 litellm_init.pth 的恶意文件，会在每次 Python",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036530915103612976",
+    "time": "2026-03-25 03:49",
+    "id_str": "2036530915103612976",
+    "is_retweet": false
   }
 ]
