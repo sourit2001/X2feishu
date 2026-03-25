@@ -208,5 +208,95 @@
     "time": "2026-03-25 09:41",
     "id_str": "2036619455971864846",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Hitchslap1: Man with a 71 IQ was found incompetent to stand trial after randomly shooting at three people. Goes on to murder an 18-year…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036655260530520112",
+    "time": "2026-03-25 12:03",
+    "id_str": "2036655260530520112",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Twitter 的分成收益算法又要改了，会提高本地区曝光的权重\n\n同样的浏览，如果你的受众跟你的语言、地区或者相邻国家一致，那么你的分成比例就是正常的\n\n如果你的内容受众和你所在的地区、所发的语言不一致，那你获得的收益就会大幅减少。 https://t.co/13eUQkE86e",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2036633979064025493",
+    "time": "2026-03-25 10:39",
+    "id_str": "2036633979064025493",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @fkysly: https://t.co/aIy7VDBGii",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036653361164869828",
+    "time": "2026-03-25 11:56",
+    "id_str": "2036653361164869828",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Meek, I'm glad you asked. @varickai audits billion dollar companies, finds all the Dreams and Nightmares hiding in their operations, and deploys AI agents Going Bad on every manual process so they never feel that Expensive Pain again. \n\nEvery business operates differently and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2036641310262567308",
+    "time": "2026-03-25 11:08",
+    "id_str": "2036641310262567308",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://t.co/2KPynLbtnH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2036641312296890744",
+    "time": "2026-03-25 11:08",
+    "id_str": "2036641312296890744",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude 今年开年 52天里\n\n一共发布了34天，80多项更新，大部分集中在Claude Code 的更新\n\n完全接替了OpenAI 前两年的节奏，而OpenAI 今年几乎没有什么大的影响性发布。\n\nAI 三巨头的位置正在开始洗牌\n\nAnthropic 的年化收入达到 140 亿美元，同比增长 10 倍，连续三年保持这个速度。\n\n获得 300 https://t.co/0FWn1DzsnY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036636875491041591",
+    "time": "2026-03-25 10:50",
+    "id_str": "2036636875491041591",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "工具在造工具 这才是速度的来源\n\nAnthropic 的工程师现在用 Claude 完成大约 60% 的工作（一年前是 28%），内部每天发布 60 到 100 个版本。\n\nCowork 从零到上线只用了 10 天，完全用 Claude Code 构建。工具在造工具，这个飞轮一旦转起来，速度飞起...https://t.co/m6PwRMfkrB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036637170333835692",
+    "time": "2026-03-25 10:51",
+    "id_str": "2036637170333835692",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "TurboQuant：全新的压缩算法，可将 LLM 键值缓存内存至少减少 6 倍，速度提升高达 8 倍，\n\n且精度零损失，重新定义 AI 效率。阅读博客了解其实现这些成果的原理：https://t.co/zD7T6JbJ4S",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036633203637895257",
+    "time": "2026-03-25 10:36",
+    "id_str": "2036633203637895257",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "攻击者于 2026 年 3 月 24 日在 PyPI 上发布了带有后门的 LiteLLM 库 1.82.7 和 1.82.8 版本，可能从受感染的系统中窃取 SSH 密钥、云凭证、API 密钥等信息。\n\n该恶意软件将数据泄露到一个虚假域名，未经证实的报道称，有 50 万台机器共计 300GB 的数据被盗；\n\n其中一个版本中的 fork bomb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036643737309487181",
+    "time": "2026-03-25 11:18",
+    "id_str": "2036643737309487181",
+    "is_retweet": false
   }
 ]
