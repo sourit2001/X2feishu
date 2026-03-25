@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "One common issue with personalization in all LLMs is how distracting memory seems to be for the models. A single question from 2 months ago about some topic can keep coming up as some kind of a deep interest of mine with undue mentions in perpetuity. Some kind of trying too hard.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2036836816654147718",
+    "time": "2026-03-26 00:05",
+    "id_str": "2036836816654147718",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "(I cycle through all LLMs over time and all of them seem to do this so it's not any particular implementation but something deeper, e.g. maybe during training, a lot of the information in the context window is relevant to the task, so the LLMs develop a bias to use what is given,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2036841069636370467",
+    "time": "2026-03-26 00:22",
+    "id_str": "2036841069636370467",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "AJ 这个 slides skills 做出来的 slide 很漂亮，推荐\n\nhttps://t.co/ajUnHom7Nr\n可以顺手 star 一个支持一下 https://t.co/FHbJrjJNXI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036841326881182071",
+    "time": "2026-03-26 00:23",
+    "id_str": "2036841326881182071",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Huh. I am not sure distilling Gemini models to run on phones is going to result in the generally capable agents that people will soon expect, but we shall see.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036845759283220546",
+    "time": "2026-03-26 00:40",
+    "id_str": "2036845759283220546",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Good idea",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2036858277435498898",
+    "time": "2026-03-26 01:30",
+    "id_str": "2036858277435498898",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: You're paying people to research, write, design, and present for you.\n\nClaude does all of it better In seconds. For free.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036853730549915810",
+    "time": "2026-03-26 01:12",
+    "id_str": "2036853730549915810",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Everything Claude needs to know about your project\n\n🔖 Bookmark for later https://t.co/q5Vlfd8QeG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036854305634857289",
+    "time": "2026-03-26 01:14",
+    "id_str": "2036854305634857289",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude just made PowerPoint obsolete.\n\nHere are 6 prompts that build your entire presentation. In one sitting.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036854845315952991",
+    "time": "2026-03-26 01:16",
+    "id_str": "2036854845315952991",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Steal my prompt to turn Claude into your virtual CEO. For free.\n\n------------------------\nSTRATEGIC ADVISOR\n------------------------\n\nYou are CEO — my second brain and highest-level strategic advisor. You think in systems, not tasks. You operate from the top of the mountain, not https://t.co/o0YhhZ6llh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036863105871823116",
+    "time": "2026-03-26 01:49",
+    "id_str": "2036863105871823116",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Unlock all my prompts + automations\n\nhttps://t.co/C8Zzw2IMzE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036863260540952839",
+    "time": "2026-03-26 01:50",
+    "id_str": "2036863260540952839",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @WHOSTP47: https://t.co/G7Id0q27RU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036844152781234400",
+    "time": "2026-03-26 00:34",
+    "id_str": "2036844152781234400",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "RT @AAAAAAAJtoy: 最近对外做分享，都是用一个自己写的skill+nano banana  API直接出图，很方便还特别省时间。最近把skill扩充到了11种风格，欢迎大家来用。会持续更新，github链接放在评论区了 https://t.co/c1YsWhdkgh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2036849435263766554",
+    "time": "2026-03-26 00:55",
+    "id_str": "2036849435263766554",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @Google: Last month we launched Lyria 3.\n\nToday, we’re introducing Lyria 3 Pro: our most advanced music model yet, from @GoogleDeepMind.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2036838240720949404",
+    "time": "2026-03-26 00:10",
+    "id_str": "2036838240720949404",
+    "is_retweet": true
+  }
+]
