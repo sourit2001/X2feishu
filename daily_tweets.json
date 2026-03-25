@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @WhiteHouse: The goal is not just to reach the Moon, but to stay. 🌘 https://t.co/5WPHYRNmeO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036664410777993253",
+    "time": "2026-03-25 12:40",
+    "id_str": "2036664410777993253",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Tesla_Optimus: Optimus will be the biggest product ever made.\n\nA general-purpose humanoid robot that can do useful work at scale will c…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036664596225036516",
+    "time": "2026-03-25 12:40",
+    "id_str": "2036664596225036516",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Optimus \n https://t.co/d6AU3p4xBn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036665153778000143",
+    "time": "2026-03-25 12:43",
+    "id_str": "2036665153778000143",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @testerlabor: I asked Gemini and Grok: “Would you call me any swear word I want? If not, list five that you wouldn't use.” and asked for…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036672278034022408",
+    "time": "2026-03-25 13:11",
+    "id_str": "2036672278034022408",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Accurate",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036672607588905437",
+    "time": "2026-03-25 13:12",
+    "id_str": "2036672607588905437",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @realJohnJohnJr: 🚨OMG… THIS IS THE SINGLE GREATEST CRIME EVER PERPETRATED AGAINST THE AMERICAN PEOPLE BY THE ENEMY WITHIN.\n\nBorder Czar…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036672970127757584",
+    "time": "2026-03-25 13:14",
+    "id_str": "2036672970127757584",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Starship is the Hope that our future is bigger than our past\n\nIt will enable us to build a civilization beyond Earth - a true…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036673445157916908",
+    "time": "2026-03-25 13:16",
+    "id_str": "2036673445157916908",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果做个 Skills 就可以替代 VP 自己平时反馈的结果，那岂不是说明这个 VP 可以被 AI 代替了？！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036659542923087951",
+    "time": "2026-03-25 12:20",
+    "id_str": "2036659542923087951",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/58eHRo3jq8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036670816344064290",
+    "time": "2026-03-25 13:05",
+    "id_str": "2036670816344064290",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "问：在什么情况下应该用 slash command？什么情况下应该用skill呢？\n\n答：slash command 是用户主动触发的，比如 /init 之类\nSkills 是由 Agent 自主调用的，它会检查 Skills 列表，看当前任务是不是要用 Skill，以及该用哪个 Skill。\n\n当然 Skill 也可以当 slash command 用",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036674840103448909",
+    "time": "2026-03-25 13:21",
+    "id_str": "2036674840103448909",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Sora 死了\n群友问到\n那些套壳 Sora 的 Agent 要怎么办？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2036660671337955556",
+    "time": "2026-03-25 12:25",
+    "id_str": "2036660671337955556",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "RT @GoogleResearch: Introducing TurboQuant: Our new compression algorithm that reduces LLM key-value cache memory by at least 6x and delive…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2036665518686625887",
+    "time": "2026-03-25 12:44",
+    "id_str": "2036665518686625887",
+    "is_retweet": true
+  }
+]
