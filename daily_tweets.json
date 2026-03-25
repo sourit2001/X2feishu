@@ -158,5 +158,275 @@
     "time": "2026-03-25 21:50",
     "id_str": "2036802893680947444",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "推荐李继刚老师的系列技能：\n\nljg-card 内容铸卡\n将内容转为 PNG 视觉卡片（长图、信息图、海报）。信息图模式会根据内容密度、结构和情绪自动生成独特的视觉构图，没有固定模板，形式服务于内容。\n\nljg-learn 概念解剖 https://t.co/oM5flo1bDf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036830804089663552",
+    "time": "2026-03-25 23:41",
+    "id_str": "2036830804089663552",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "项目地址：https://t.co/cpu2hdnkyP\n可以顺手 star 一个支持一下✨",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036832714419052703",
+    "time": "2026-03-25 23:48",
+    "id_str": "2036832714419052703",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AI slop science posts keep moving markets, this time by misinterpreting or mis-dating papers.\n\nScience fiction, but dumb.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036834227648397717",
+    "time": "2026-03-25 23:54",
+    "id_str": "2036834227648397717",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I had access to the new Google Lyria 3 Pro music AI. Its quite good. I've been ruining(?) Rilke by giving the AI the First Elegy &amp; asking it to make it \"more 1990s boy band\" (\"oooo the beginning of terror, girl\") Catchy!\n\nIt is also nuts that you can ask an AI to do this &amp; it can https://t.co/xQIbO6XOUL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036836310447452606",
+    "time": "2026-03-26 00:03",
+    "id_str": "2036836310447452606",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Hard truth for every AI builder: you cannot prompt your way out of a broken retrieval system.\n\nYou've probably experienced this. You write the perfect system prompt. You fine-tune the agent instructions. But the agent still fires on the wrong context because the context it was https://t.co/tTh1nHgAET",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036816594068804052",
+    "time": "2026-03-25 22:44",
+    "id_str": "2036816594068804052",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨BREAKING: Claude just made PowerPoint obsolete.\n\nHere are 6 prompts that build your entire presentation. In one sitting.\n\n(Save this and never open powerpoint again) https://t.co/fDTcOi1508",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827222968070186",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827222968070186",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1/ BUILD YOUR PRESENTATION BLUEPRINT\n\n&lt;role&gt;Act as a professional presentation consultant who designs clear, logical presentation structures before any slides get built.&lt;/role&gt;\n\n&lt;task&gt;Build a complete presentation blueprint — objective, audience, key message, and full slide",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827235727143224",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827235727143224",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "2/ DESIGN EVERY SLIDE BEFORE YOU WRITE\n\n&lt;role&gt;Act as a presentation architect who designs slide-by-slide structures that flow naturally from opening to close.&lt;/role&gt;\n\n&lt;task&gt;Design a complete slide-by-slide structure with a clear title and purpose for every single slide.&lt;/task&gt;",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827247529935069",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827247529935069",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "3/ TURN ANY TOPIC INTO A STORY\n\n&lt;role&gt;Act as a narrative presentation builder who turns dry topics into compelling stories that keep audiences engaged from first slide to last.&lt;/role&gt;\n\n&lt;task&gt;Transform my topic into a presentation using a clear narrative arc — hook, problem,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827259559125281",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827259559125281",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "4/ MAKE EVERY SLIDE LOOK PRO\n\n&lt;role&gt;Act as a presentation design director who recommends the exact visuals, layouts, and diagrams that make slides look clean and modern.&lt;/role&gt;\n\n&lt;task&gt;Give me specific visual and design direction for every slide — layout, charts, icons, and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827271563280410",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827271563280410",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "5/ WRITE EVERY SLIDE'S CONTENT\n\n&lt;role&gt;Act as a slide content writer who produces concise, presentation-ready bullet points that communicate clearly without overwhelming the audience.&lt;/role&gt;\n\n&lt;task&gt;Write complete content for every slide — tight bullet points, clear language, and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827283433079081",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827283433079081",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "6/ CUT YOUR PRESENTATION DOWN\n\n&lt;role&gt;Act as a slide editor who ruthlessly cuts, sharpens, and simplifies presentation content until every slide communicates one clear idea.&lt;/role&gt;\n\n&lt;task&gt;Review my existing presentation content and rewrite it so every slide is tight, clear, and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827295323975711",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827295323975711",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I should charge $99 for each of these.\nBut every single guide on this page is free.\n\n→ Gemini Mastery Guide\n→ Prompt Engineering Guide\n→ Claude Mastery Guide\n→ OpenAI Mastery Guide\n→ + more dropping &amp; updating regularly\n\nZero cost. Zero catch.\n\nJust open and learn 👇",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036827307214832107",
+    "time": "2026-03-25 23:27",
+    "id_str": "2036827307214832107",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 You will work 10 extra years because you trusted the wrong person with your retirement plan.\n\n6 Claude prompts that show…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036828029050290214",
+    "time": "2026-03-25 23:30",
+    "id_str": "2036828029050290214",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "“The death of generative AI” and it’s literally one app shutting down while everything else is in fast takeoff",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2036819187293946359",
+    "time": "2026-03-25 22:55",
+    "id_str": "2036819187293946359",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Robinhood CEO Vlad Tenev on AI agents and trading:\n\n\"Everyone thinks that this is going to be all great and my agent's going to be trading for me.\"\n\n\"What happens with all technology is the early adopters do have an easier time.\"\n\n\"You're going to get some early wins, possibly if https://t.co/LIQpqyvpug",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036813070732034481",
+    "time": "2026-03-25 22:30",
+    "id_str": "2036813070732034481",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Balaji Srinivasan on taking the L to set up for the W:\n\n\"Before Satya Nadella took over Microsoft, it was losing on mobile to iOS and Android.\"\n\n\"He took the L... and he said, 'You know what? Linux is there. Linux is not going to go away.'\"\n\n\"We're going to run Linux on Microsoft https://t.co/EUIEqT106W",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036820623226535943",
+    "time": "2026-03-25 23:00",
+    "id_str": "2036820623226535943",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Robinhood CEO Vlad Tenev's hot take about jobs in the AI era:\n\n\"There will be more software engineers in 10 years than there are today, and there will be more lawyers.\"\n\n\"It's going to become much easier to start a venture and run it autonomously.\"\n\n\"You'll be a software https://t.co/IdO1ddLzxZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036828151263961473",
+    "time": "2026-03-25 23:30",
+    "id_str": "2036828151263961473",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"AI isn't taking your job. AI is turning you into the CEO.\"\n\nBalaji Srinivasan on the AI creating a truly level playing field:\n\n\"Literally the means of production have been put in your hands.\"\n\n\"If you think you'd be a great founder, a great CEO, it's being hyper deflated.\"\n\n\"The https://t.co/5Sy5LZBOnk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036835836910850548",
+    "time": "2026-03-26 00:01",
+    "id_str": "2036835836910850548",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "nexu 正式发布 v0.1.6 🚀 这个效果也太好了💥  \n\n3 天， 几百次提交🌟，可能是目前 Openclaw 🦞桌面端最生产级别开发实践了⚡️  \n\n开机动效、自动更新、数万个 Skills、启动速度优化（22 s -&gt; 7s）、后台模式🤯 直接看源码就能够抄的走的小技巧  \n\n完全开源，支持点 Star 👉 https://t.co/RA2uXjGEa4 https://t.co/Q3NhpMpiCh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2036823619339255970",
+    "time": "2026-03-25 23:12",
+    "id_str": "2036823619339255970",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "- 全新接入了 ClawHub，现在有 1 万多个 Skills 可以装——搜网页、读 PDF、画图、操作 Notion 都行，相当于给你的龙虾装了个 App Store。 \n⚡ 体验上最明显的：启动速度 快了 3 倍（22 秒→7 秒），还加了全新的启动动画，不再一闪一闪显示「离线」了。  细节参考👇  \n\nhttps://t.co/egtLg0ceCy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2036823712146546997",
+    "time": "2026-03-25 23:13",
+    "id_str": "2036823712146546997",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "3 天 3 个版本，Star 狂涨 900+ 🌟 \n\n开源是我们贯彻到底的思路，还有很多优化要做，还需要很多的努力和迭代才能做到好用\n\n但是 day 1 开放就代表我们拥抱这个快速变化的节奏和世界",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2036824095715627016",
+    "time": "2026-03-25 23:14",
+    "id_str": "2036824095715627016",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "汉娜 阿伦特说人是「开端」。\n\n宇宙里大部分东西都是因果链条。台球 A 撞台球 B，B 的方向和速度完全可以从 A 的运动算出来。给你足够的数据，你能预测一切。\n\n石头不会突然决定往左飞。河水不会忽然改主意倒着流。物理世界的下一秒，永远是上一秒的结果。\n\n但人出生了。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2036832726758916259",
+    "time": "2026-03-25 23:48",
+    "id_str": "2036832726758916259",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "大新闻：\n\nOpenAI不做Sora了，这玩意儿太亏钱了。\n\n全力搞文生文，文生代码也算文生文！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036815594155102286",
+    "time": "2026-03-25 22:40",
+    "id_str": "2036815594155102286",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Marcio always creates such touching beautiful work",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036826538952339801",
+    "time": "2026-03-25 23:24",
+    "id_str": "2036826538952339801",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is so well done ✨🥹",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036826771551641946",
+    "time": "2026-03-25 23:25",
+    "id_str": "2036826771551641946",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "AI models will come and go. \nTools will change and evolve. \nBut your taste, voice, skills independent of models will stay. Keep creating and expanding, tell stories, make apps, build your community. All that will always have value in ever changing world.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036827520398422453",
+    "time": "2026-03-25 23:28",
+    "id_str": "2036827520398422453",
+    "is_retweet": false
   }
 ]
