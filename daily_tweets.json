@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "因为现在nodejs比较普及，而 bun 可以通过 npx -y bun 运行的，这样只要有nodejs就可以用bun，所以我在 skills 里面都会让 agent 自己检查并灵活选择。\n\n还有一点，我在 skills 里面用的路径都是相对路径，但告诉了 agent 基础目录（baseDir）在哪，这样基本不会找路径出错。\nhttps://t.co/clXcN4aYFq https://t.co/Dx1LifqWQf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2037025797744033932",
+    "time": "2026-03-26 12:36",
+    "id_str": "2037025797744033932",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "FYI\nhttps://t.co/zX3fUMbalD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2037038117677400417",
+    "time": "2026-03-26 13:25",
+    "id_str": "2037038117677400417",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这两天疯狂 ship TypeNo，从 v1.0.6 一路到 v1.3.0 🔥\n\n- 菜单栏一键检查更新，自动下载安装重启，权限全程保留；\n- 长录音支持了，录音时实时显示计时（1:32…），动态超时，2 分钟以上不再失败；\n- 热键从 1 个扩到 8 个，左/右侧 × Control/Option/Command/Shift 随意选；\n- 按 Esc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2037037649861693562",
+    "time": "2026-03-26 13:23",
+    "id_str": "2037037649861693562",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这两天疯狂 ship TypeNo，从 v1.0.6 一路到 v1.3.0 🔥\n\n- 菜单栏一键检查更新，自动下载安装重启，权限全程保留；\n- 长录音支持了，录音时实时显示计时（1:32…），动态超时，2 分钟以上不再失败；\n- 热键从 1 个扩到 8 个，左/右侧 × Control/Option/Command/Shift 随意选；\n- 按 Esc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2037037751175143608",
+    "time": "2026-03-26 13:23",
+    "id_str": "2037037751175143608",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "毫无征兆的 launch，极速狂奔的 4 天，我们正式突破 1000 star🌟\n\n目前的星辰大海还很远，下一个是 1 万 Star ，继续加油💪\n\n欢迎关注 nexu https://t.co/RA2uXjGEa4 https://t.co/GgDoBbHj6E",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2037039621138231516",
+    "time": "2026-03-26 13:31",
+    "id_str": "2037039621138231516",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "自 4 月 24 日起，\n\n除非主动到个人页面选择退出，\n\n否则微软将开始使用 GitHub Copilot 交互数据进行 AI 模型训练。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2037047925080285541",
+    "time": "2026-03-26 14:04",
+    "id_str": "2037047925080285541",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "1. 微软将会默认把你的数据用于模型训练，到时候可能有账号和密码泄漏。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2037048011118010507",
+    "time": "2026-03-26 14:04",
+    "id_str": "2037048011118010507",
+    "is_retweet": false
+  }
+]
