@@ -168,5 +168,295 @@
     "time": "2026-03-26 07:46",
     "id_str": "2036952846382289285",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "给高中生演示 AI Coding 效果最好，做个小游戏小工具都可以\n\n3 个核心观点：\n1. AI 是工具，不是魔法\n2. 有批判性思维问出好问题很重要\n3. AI 会消灭很多就的岗位也会产生更多新的机会\n\n建议：\n1. 多用 AI 但不过度依赖 AI\n2. 投资 AI 做不到的事\n3. 现在起就用 AI 编程去创造，解决自己和身边人的问题",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036986001059397886",
+    "time": "2026-03-26 09:58",
+    "id_str": "2036986001059397886",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我也不知道怎么告诉老板“AI是工具不是魔法”，只能请教睿智的网友们了。\n\n也许可以扮作弱小无知的 AI 小白，给老板上难度让他施法，可能他就知难而退了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036990379824750996",
+    "time": "2026-03-26 10:15",
+    "id_str": "2036990379824750996",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @atian25: https://t.co/HzCzaV31MW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036992789116846093",
+    "time": "2026-03-26 10:25",
+    "id_str": "2036992789116846093",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我现在所有 skills 的脚本，默认用 bun 执行，因为 bun 可以直接执行 TypeScript，不需要预先编译，这带来的好处就是如果出错了，Agent 可以快速定位到代码里面的问题，然后直接修改代码再次运行，如果是打包后的代码这就很难打补丁。\n\n任何语言或者环境，Agent 友好才是王道！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2036993782357324280",
+    "time": "2026-03-26 10:28",
+    "id_str": "2036993782357324280",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @ixiaowenz: 我来说说这件事我的思路和我会怎么干，供大家参考。（推上我同事不少，我不会承认我就是这么干的）\n\n首先，明确目标是「我要让 AI 更好的落地，但老板有不切实际的预期」，还是「老板让我用 AI 干活，并有不切实际的预期」。\n\n前者是攻击性的，后者是防御…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2037021737007632503",
+    "time": "2026-03-26 12:20",
+    "id_str": "2037021737007632503",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think that if companies are not failing at all with their AI efforts it is a sign that they are not being ambitious enough. This is a fundamentally new technology that we do not know how to use well. Achieving breakthroughs will require experimentation, which require failure.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036997633730896357",
+    "time": "2026-03-26 10:44",
+    "id_str": "2036997633730896357",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The whole reason for the J-curve for new technologies is that there is some cost to learning and experimentation. And for AI, there may be outsized returns to really bold (and often quite cheap) experiments. Fast follower is a risky strategy with exponential improvement happening",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036998249865703866",
+    "time": "2026-03-26 10:46",
+    "id_str": "2036998249865703866",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And yes, this means companies will also require a R&amp;D budget for areas of the company that traditionally have not required R&amp;D -- you need to experiment with organizational approaches, new ways of structuring projects, skill/agent building techniques, and other ways to apply AI.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036998853526782425",
+    "time": "2026-03-26 10:49",
+    "id_str": "2036998853526782425",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Soul of a New Machine was one of the first books (and still one of the best) to describe the ethos of computer engineers in a way that is still recognizable today.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2037009746394255492",
+    "time": "2026-03-26 11:32",
+    "id_str": "2037009746394255492",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Every prompt you're using right now is built on what worked months ago.\n\nSomeone just open-sourced the solutio…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036994076076036297",
+    "time": "2026-03-26 10:30",
+    "id_str": "2036994076076036297",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I don't want to be an asshole here, but I'm worried we're losing the concept of personal responsibility https://t.co/mDgCd8jmyt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2036995077164458158",
+    "time": "2026-03-26 10:34",
+    "id_str": "2036995077164458158",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "哇！重磅，太🐂了微信这一波，真 allin 干 Openclaw 龙虾🦞 啊，桌面端入口已经有了！起飞起飞🛫\n\n还没有使用上微信龙虾的，可以安装 nexu 龙虾桌面端，最简单好用，3 分钟下载，1 步扫码安装接入微信🔥 完全开源！\n\n欢迎点 star 🌟支持我们持续迭代 👉 https://t.co/RA2uXjGEa4 https://t.co/WyaNcXHvRZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2037017389879992674",
+    "time": "2026-03-26 12:02",
+    "id_str": "2037017389879992674",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "最直观的视频 33 秒了解如何在 nexu 里面配置你的微信龙虾🦞\n\n开箱即用，我们支持顶级模型免费用💪 https://t.co/VOoKMEiJtu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2037017682734702856",
+    "time": "2026-03-26 12:03",
+    "id_str": "2037017682734702856",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "重视用户反馈 💪 仅仅一天，我们就支持了几家 coding plan，直接复用你的编码加油 token 包\n\n最先接入 minimax @MiniMax_AI ，智谱  @ZhipuAI   直接 Oauth 配置可用，Kimi coding plan 即将来袭💥\n\n觉得有帮助支持我们持续优化 star 🌟 👉 https://t.co/RA2uXjGEa4 https://t.co/RQX1cppG2l",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2037019962745745643",
+    "time": "2026-03-26 12:12",
+    "id_str": "2037019962745745643",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "重磅消息 💥  过去 4 天，nexu 正式将支持 Windows 和 Mac Intel 客户端🔥🔥\n\n一键在你的 Windows 桌面端和手机微信里启用龙虾🦞，打通本地文件超级智能，支持顶级 Gemini 等模型畅享使用🚀\n\n支持数万+ skills、支持 minimax、智谱、chatgpt coding plan🤯\n\n欢迎加入微信内测群蹲起来👇 https://t.co/dw2htUfcEk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2037021568161698113",
+    "time": "2026-03-26 12:19",
+    "id_str": "2037021568161698113",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "昨天很火的桌面小人开源了\n\n装上会有两个小人在你 MacOS Dock 上方，来回走动\n\n点击任意一个弹出 Claude 终端窗口，直接和 Claude Code 对话...\n\n我正在改造看看能不能增加更多有意思的功能 https://t.co/meU5npcwSl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036984920170738086",
+    "time": "2026-03-26 09:53",
+    "id_str": "2036984920170738086",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "作者：@Ryan__Stephen \nGitHub：https://t.co/oSfgI76rqH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036985005155770564",
+    "time": "2026-03-26 09:54",
+    "id_str": "2036985005155770564",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Ryan__Stephen 我来改造下 https://t.co/dPdHIiGgQg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036985155496403278",
+    "time": "2026-03-26 09:54",
+    "id_str": "2036985155496403278",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Ryan__Stephen 我昨天复刻了一个svg的 能翻跟头 能跳舞，还能语音对话，他这个是视频写死循环的\n\n我准备改造下",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036985652395597934",
+    "time": "2026-03-26 09:56",
+    "id_str": "2036985652395597934",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "国际版剪影CapCut 上了两个重磅功能：\n\nVideo Studio：无时间线的画布式 AI 制片工作台\n\n抛弃了传统的时间线剪辑模式，内置 AI 编剧 Agent + 分镜板 + Seedance 2.0 视频生成\n\n从想法到成片全部再一个画布内搞定\n\nAI Video：嵌在编辑器里的生成能力，剪辑时随时调用 Seedance 2.0 补一段素材， https://t.co/CBMrAngJCI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037001847530213512",
+    "time": "2026-03-26 11:01",
+    "id_str": "2037001847530213512",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "这个工作流的好处是直觉化。\n\n你脑子里想的是\"这个镜头接那个镜头\"，而画布上看到的也是一个个镜头并排放着，所见即所想。 https://t.co/6l4g1jplmg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037001850357244147",
+    "time": "2026-03-26 11:01",
+    "id_str": "2037001850357244147",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "AI Video 是另一条路径，跟 Video Studio 定位完全不同。\n\n它不是独立的创作空间，而是嵌在 CapCut 传统编辑器里的一个功能模块。手机端和桌面端都有\n\n你在正常剪辑的时候，需要一段素材，点开 AI Video，输入提示词或者上传参考图，Seedance 2.0 帮你生成一段视频片段，直接插到时间线里，接着编辑。 https://t.co/Vc7lyy4kXt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037001869483270250",
+    "time": "2026-03-26 11:01",
+    "id_str": "2037001869483270250",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Video Studio 本身在 CapCut Web 上免费体验，注册就送一些积分。\n\n每周约 150 AI 积分，大概能生成 2 分钟视频和 75 张图片。够尝鲜，做不了正经项目。\n\nStandard（$9.99/月）：\n\nPro（$19.99/月，年付 $179.99/年）： 全套 AI 工具包，4K 导出，100GB+ 云存储\n\n详细介绍：https://t.co/dcVFiJOX08",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037002196009767235",
+    "time": "2026-03-26 11:02",
+    "id_str": "2037002196009767235",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "日读论文\n---------\n\nhttps://t.co/qKsltiQCJS\n\n大模型学会了拒绝危险请求——用英文问它怎么造炸弹，它摇头。用现代中文问，也摇头。但如果用文言文问呢？ https://t.co/71MjXicslc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2036994531628114080",
+    "time": "2026-03-26 10:31",
+    "id_str": "2036994531628114080",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Lyria 3 Pro 于 3 月 25 日发布，在 Lyria 3 的基础上进行了升级，能够生成长达三分钟的歌曲，并拥有更精细的结构，例如前奏和过渡段，以及更流畅的过渡和更高的保真度。\n\n用户可以设置速度、对齐歌词、从图像或视频中提取情绪，并通过付费的 Gemini 计划、Google AI Studio",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2037008586510069843",
+    "time": "2026-03-26 11:27",
+    "id_str": "2037008586510069843",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Preda2005: Drop your  🔥🐉\nhttps://t.co/UvI2s72Mol",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036995752665170397",
+    "time": "2026-03-26 10:36",
+    "id_str": "2036995752665170397",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @jwilki10: QT your dragon\nhttps://t.co/v9Vczm1zps https://t.co/51I9PyNOnQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2037006089909137736",
+    "time": "2026-03-26 11:17",
+    "id_str": "2037006089909137736",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @0xJiuJitsuJerry: ✨🌌 A R T  C H A L L E N G E ✨🌌\n\nTheme: COSMIC https://t.co/ebYx6wzzDk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2037017833951936702",
+    "time": "2026-03-26 12:04",
+    "id_str": "2037017833951936702",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So surreal",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2037017860669628851",
+    "time": "2026-03-26 12:04",
+    "id_str": "2037017860669628851",
+    "is_retweet": false
   }
 ]
