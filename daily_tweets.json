@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "🚀",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036954117508309087",
+    "time": "2026-03-26 07:51",
+    "id_str": "2036954117508309087",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Imagine 🏆🏆🏆🏆",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036972742218834073",
+    "time": "2026-03-26 09:05",
+    "id_str": "2036972742218834073",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @MdeZegher: Our FU Superchargers (Folding Unit) save 20%+ on cost, improve build quality, and deploy 2X faster. \n \nThe majority of cost…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2036972994141303066",
+    "time": "2026-03-26 09:06",
+    "id_str": "2036972994141303066",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Many people think that when AI can do a task better than us, it will outcompete humans. \n\nBut token costs are not trivial, and, for many types of tasks, even skilled labor tasks, humans are much cheaper than AI. Increasing efficiency &amp; compute supply will alter those calculations",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036955561233719637",
+    "time": "2026-03-26 07:57",
+    "id_str": "2036955561233719637",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I would say that Suno is generally a better music generator at this point (though not for all songs), but Lyria is the first music creator available through an API, and seems to not have the same copyright &amp; training issues that plague Suno and restrict how it can be used.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2036962853861662917",
+    "time": "2026-03-26 08:26",
+    "id_str": "2036962853861662917",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Would you rather get AI knowledge on:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2036968649248911846",
+    "time": "2026-03-26 08:49",
+    "id_str": "2036968649248911846",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The email that started @Airbnb https://t.co/AcybkH5mIi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2036953126033584585",
+    "time": "2026-03-26 07:47",
+    "id_str": "2036953126033584585",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "虽然写代码的速度提升了\n但是思考的速度并没有提升\n如何能加快人类思考（推理）速度呢？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2036959429124599851",
+    "time": "2026-03-26 08:12",
+    "id_str": "2036959429124599851",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @yanhua1010: 这才是真正打通了知识和内容创作的最后一公里！\n\nPodwise推出Skills, 可以将任何播客内容（小宇宙、YouTube、Podwise等）一键给你生成总结、脑图、高光时刻和关键词。\n\n赶紧给你小龙虾或CC装上吧👇\nhttps://t.co/…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2036966928984469695",
+    "time": "2026-03-26 08:42",
+    "id_str": "2036966928984469695",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "一句话搞定公众号排版、封面生成、发布\n\n我做了个技能组合，可以一句话搞定公众号排版、封面生成，和一键发送到公众号草稿箱，你只需点下发布即可。\n\n已经开源了\n有20种主题颜色可选\n\n最重要的是它会自动分析你的内容，进行自动排版，不是Markdown文件也没关系。\n\n全程不需要你操作，人机协作典范 https://t.co/jnxNuOHHtT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036980730711204276",
+    "time": "2026-03-26 09:37",
+    "id_str": "2036980730711204276",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "我这个工具多了一层 AI 分析：\n\n它会读你的文章，判断你内容的结构和具体内容部分适合什么排版，它会自动分析自，然后自动做排版增强。\n\n检测到对话体内容套上聊天气泡，发现连续截图变成横向画廊，识别到金句加高亮框。你不用手动调，它替你想好了\n\n非常适合小白 https://t.co/y2N4yTjVan",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036980733525582125",
+    "time": "2026-03-26 09:37",
+    "id_str": "2036980733525582125",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细教程和方法：https://t.co/Ikp6cWzeoH\n\nGitHub：：https://t.co/Zpe7y4s8wq\n\n装上试一下，排版这件事以后不用再操心了。\n\n第一次搞可能有很多问题，可能也会有很多bug，多多反馈和指教，嘿嘿",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2036981187076653164",
+    "time": "2026-03-26 09:38",
+    "id_str": "2036981187076653164",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "为编程智能体赋予 Gemini API 开发者技能。✨\n\n这项技能为智能体提供了最新的 SDK 知识：\n🛠️ API 功能集\n📱 当前的模型与 SDK\n⌨️ 示例代码\n📚 文档链接\n\n欢迎查阅相关研究，了解 Gemini API 技能是如何构建的，以及它是如何针对 117 个提示词进行评估的：https://t.co/ttOaxYs7Sh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036976903417192900",
+    "time": "2026-03-26 09:21",
+    "id_str": "2036976903417192900",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "所有大型语言模型（LLMs）在个性化方面都存在一个通病，那就是“记忆”似乎会对模型造成干扰。\n\n举例来说，仅仅是两个月前针对某个话题随口问过的一个问题，模型却会将其误判为我的一项“深切兴趣”，继而在后续的互动中无休止地、过度地反复提及——这种表现，简直就像是在“用力过猛”。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2036978846369800340",
+    "time": "2026-03-26 09:29",
+    "id_str": "2036978846369800340",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "✨🌌A R T  C H A L L E N G E 🌌✨\n\nTheme: COSMIC https://t.co/JCxGIIB9hi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036950626190368848",
+    "time": "2026-03-26 07:37",
+    "id_str": "2036950626190368848",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @TheOrdering: Excellent work by @AdobeFirefly there is no limit to imagination .... https://t.co/IXEC8uSjaM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036951176730615835",
+    "time": "2026-03-26 07:39",
+    "id_str": "2036951176730615835",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How lucky we are to live now. When we can take any story and visualize it and share with the world. AI is truly wonderful and I wish it existed sooner in a way it exists now. I can only imagine what my amazing  Grandmother would create with it and all our grandparents.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2036952846382289285",
+    "time": "2026-03-26 07:46",
+    "id_str": "2036952846382289285",
+    "is_retweet": false
+  }
+]
