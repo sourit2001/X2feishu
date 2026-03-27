@@ -278,5 +278,135 @@
     "time": "2026-03-27 21:52",
     "id_str": "2037528284360282243",
     "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Last year everyone spoke about over building of AI data centers, likely this year will start to demonstrate that there is not nearly enough compute to meet demand \n\nI think to degree to which AI is currently subsidized depends on the model, but agree with everything else here",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2037541006237733217",
+    "time": "2026-03-27 22:43",
+    "id_str": "2037541006237733217",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "MCP lost 17 to 3 on the streets of SF.\n\nNot a single developer under 35 voted for it.\n\nThe community already made the call. CLI won. \n\n@composio shipped it. One command. No config hell. No bloat.\n\nMCP is the new Java. And you already know how that story ends.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2037554955427435002",
+    "time": "2026-03-27 23:38",
+    "id_str": "2037554955427435002",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Anduril President Matthew Steckman says parts of Lattice—even from their first Sentry Tower in 2017—live on in today’s autonomous fighter jet:\n\n \"The first product we built was a sensing tower.\"\n\n\"This was like—old school CV AI—in 2017, and just allowed you to spot threats at a https://t.co/S2jN5KNDXf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2037537750585606222",
+    "time": "2026-03-27 22:30",
+    "id_str": "2037537750585606222",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Anduril President Matthew Steckman says there are two red flags for new defense companies: not realizing that what they're doing already exists, and an overestimation of TAM:\n\n\"There's too much hubris in the technology market that, as high-tech people, we can do everything better https://t.co/vArR6Iq0XY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2037545396017496245",
+    "time": "2026-03-27 23:00",
+    "id_str": "2037545396017496245",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"Your fund size is also conviction in the future.\"\n\nDavid Haber on what venture fund size actually signals:\n\n\"It's kind of the famous Marc quote that software is eating the world.\"\n\n\"Companies are staying private longer, and ultimately outcomes could be much larger than people https://t.co/T7zjeukS5G",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2037552863292059721",
+    "time": "2026-03-27 23:30",
+    "id_str": "2037552863292059721",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "两张图告诉你北京人有多惨 https://t.co/mmQWwUU7mK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2037538509138063686",
+    "time": "2026-03-27 22:33",
+    "id_str": "2037538509138063686",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "兄弟们，泰裤辣，真良心啊🔥\n\nnexu 开源龙虾🦞客户端支持了小米最新的 SOTA 模型，Mimo v2 Pro 模型限量免费使用💥\n\n更有 9 大模型随心选，免费用\n\n真掀桌子了，支持一把这个开源项目吧 👉 https://t.co/RA2uXjGEa4 https://t.co/HPhdj4YE0g",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2037550956452176078",
+    "time": "2026-03-27 23:22",
+    "id_str": "2037550956452176078",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "卧槽，钉钉宣布其 CLI 直接开源\n\n一行命令调用钉钉全部产品能力\n\n首批开放 AI 表格、日历、日志、待办、机器人、通讯录、DING 消息、考勤、开放平台文档、工作台共 10 项核心产品能力...\n\n原生支持 Claude Code、小龙虾 等主流 AI Agent 执行环境。\n\n三个关键设计：\n\n① 所有输出都是结构化 JSON：AI https://t.co/cwUbiWIQMn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037533774175772773",
+    "time": "2026-03-27 22:14",
+    "id_str": "2037533774175772773",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "首批开放 10 项能力\n\n\"即将推出\"的能力：文档、邮箱、AI 听记、钉盘、视频会议、Teambition、AI 应用、直播、技能市场。 https://t.co/MwWwC1mfuT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037533776931336468",
+    "time": "2026-03-27 22:14",
+    "id_str": "2037533776931336468",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GitHub：https://t.co/M6pM1Xinxk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037533997841219873",
+    "time": "2026-03-27 22:15",
+    "id_str": "2037533997841219873",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Gemini 3.1 Flash Live 测试\n\n响应速度确实是快\n多语言自由切换\n\n视频来自@livekit https://t.co/jNN3L4Szc0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2037547449523593435",
+    "time": "2026-03-27 23:09",
+    "id_str": "2037547449523593435",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "新增一个skill, 用来分析各种 relationship，看见自己，看见对方，看见双方的关系:\n\nhttps://t.co/wEfvV6Odj7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2037551996048412880",
+    "time": "2026-03-27 23:27",
+    "id_str": "2037551996048412880",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is cool \nPage made by @danberte",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2037553612692365543",
+    "time": "2026-03-27 23:33",
+    "id_str": "2037553612692365543",
+    "is_retweet": false
   }
 ]
