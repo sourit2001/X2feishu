@@ -98,5 +98,55 @@
     "time": "2026-03-28 16:47",
     "id_str": "2037813936565928240",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "飞书真牛逼，刚刚开源了他们的 CLI 工具！\n\n现在任何的 AI Agent 产品都可以调用飞书的所有能力。\n\n飞书现在是全国所有产品里边，AI Agent 的友好度和开放程度、产品适配度都是最高的。\n\n不只是小龙虾，哪怕是 CodeX、Claude Code 或者是其他类似的本地 AI 产品。 https://t.co/Yvr0rjTCz1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2037838579372896631",
+    "time": "2026-03-28 18:25",
+    "id_str": "2037838579372896631",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "跟你的 AI 这么说就能安装：  \n\n帮我通过以下命令安装 lark-cli npm install -g @larksuite/cli 然后通过以下命令安装相关 skills npx skills add https://t.co/CvVUocfzRD -y -g 安装完成后，请给我发送应用配置链接，引导我完成应用的配置。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2037838625648566407",
+    "time": "2026-03-28 18:26",
+    "id_str": "2037838625648566407",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 HOLY SHIT... Google AI just proved that fine-tuning Gemini 2.5 made it dumber on hard queries.\n\n&gt; Standard fine-tuning s…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2037825345811100055",
+    "time": "2026-03-28 17:33",
+    "id_str": "2037825345811100055",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: AI won't take your job.\n\nYour coworker who knows how to prompt will.\n\nSteal these 7 Claude prompts to 10x your…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2037825614309441878",
+    "time": "2026-03-28 17:34",
+    "id_str": "2037825614309441878",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: BREAKING: Claude can now build and launch your online course in 30 days (for free).\n\nHere are 6 insane Claude prompts that…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2037829604220510271",
+    "time": "2026-03-28 17:50",
+    "id_str": "2037829604220510271",
+    "is_retweet": true
   }
 ]
