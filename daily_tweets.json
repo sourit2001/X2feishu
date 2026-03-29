@@ -58,5 +58,135 @@
     "time": "2026-03-29 09:32",
     "id_str": "2038066839637704718",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @TheCaptainEli: Ricky, an amazing 71-year-old man, bought his first Tesla solely for the Tesla Self-Driving software. Without it, he wou…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2038109196701544698",
+    "time": "2026-03-29 12:21",
+    "id_str": "2038109196701544698",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "昨天最牛逼的开源项目 Pretext\n\n快速而且精准的文本测量算法，可以实现类似报纸的动态图文环绕效果。\n\n这个对 AI 时代的 UI 实时生成非常有用。\n\n有了这个以后，AI 就能清楚地知道每个字符的宽度和总宽度，不会出现闪烁、超出范围和抖动等问题。\n\nhttps://t.co/4J4ItS8Rkv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2038095651234627600",
+    "time": "2026-03-29 11:27",
+    "id_str": "2038095651234627600",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "想今天把它搞到 Codepilot 那个生成式 UI 的组件里试试。\n\n详情：https://t.co/nBihvSqSim",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2038095749159022800",
+    "time": "2026-03-29 11:27",
+    "id_str": "2038095749159022800",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这个还有一个非常好的用处是网页指定区域渲染图片。\n\n我们经常会出现一个情况：网页看的时候是对的，但截图生成以后就出问题了（比如内容超出去了或者重叠了）。\n\n用这个项目就可以很好地解决这个问题。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2038097334677160111",
+    "time": "2026-03-29 11:34",
+    "id_str": "2038097334677160111",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @wwwgoubuli: 不只是 skills，而是几乎所有流程都可以用这个方式。\n\n每个环节，或者说每个维度，都有若干选项。让用户自己来决定或者让 AI 根据实际情况来选择。\n\n但很多时候用户自己选一下更好，一个是更精准的表达意图，二个是可能组合出的角度比 AI 的随大…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2038107652383764554",
+    "time": "2026-03-29 12:15",
+    "id_str": "2038107652383764554",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Want to talk to the past?\n\nHere is an LLM \"trained entirely from scratch on a  corpus of over 28,000 Victorian-era British texts published between 1837 and 1899, drawn from a dataset made available by the British Library.\"\n\nQuite different from an LLM roleplaying a Victorian. https://t.co/5jl7SyJjAP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038084424810537215",
+    "time": "2026-03-29 10:42",
+    "id_str": "2038084424810537215",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Very cool work, I wonder what other eras have a large enough corpus for training? https://t.co/ZQTVQZjKbA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038084621674459406",
+    "time": "2026-03-29 10:43",
+    "id_str": "2038084621674459406",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I wish the corpus from the era was big enough that we could do counterfactual history. I wonder if you can generate enough synthetic data to get it to work.\n\nIf I could, I'd love to assign a Victorian agentic scientist to discover the luminous aether. Very @nealstephenson",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038086516103115138",
+    "time": "2026-03-29 10:51",
+    "id_str": "2038086516103115138",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@nealstephenson Luminiferous aether, I mean.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038105214889214455",
+    "time": "2026-03-29 12:05",
+    "id_str": "2038105214889214455",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "写个新软件，10 分钟\n打包 electron， 一小时。。。。。。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2038086158815760419",
+    "time": "2026-03-29 10:49",
+    "id_str": "2038086158815760419",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "玉伯老师给的新定义：\nSaaS：Skill as a Service\nDAU：Daily Agent User",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2038088203085955554",
+    "time": "2026-03-29 10:57",
+    "id_str": "2038088203085955554",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "把遇到的问题分为两类：通用类和私有类。\n\n通用类需求，比如获取任意网页内容，一定有很专业的人在研究，没必要重新发明轮子，不论是开源的或是付费的，直接找到最好用的取用即可。\n\n私有类需求，比如你读书时就喜欢使用某种自己沉淀下来分析框架，外面哪怕有再多相关",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2038090572800606262",
+    "time": "2026-03-29 11:07",
+    "id_str": "2038090572800606262",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "没有谁是天生就会的，\n\n周一到周五熬夜学，\n\n周六周日就能作为‘资深大厂’产品经理，\n\n给一屋子学生上课。\n\n想起一个人对我说过的话：\n\n出门在外，身份是自己给的。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2038074720315486244",
+    "time": "2026-03-29 10:04",
+    "id_str": "2038074720315486244",
+    "is_retweet": false
   }
 ]
