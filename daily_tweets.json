@@ -28,5 +28,25 @@
     "time": "2026-03-29 20:17",
     "id_str": "2038229104596758719",
     "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "惊悚的乌龙时刻来了\n我在写完测试的时候发现\n两个软件一起打开的时候\n有时候 ColaMD 不能实时更新，有时候 Typora 不能实时更新\n我似乎是碰到了一个文件系统机制的问题...\nTypora 确实是有一个实时刷新机制的，虽然原理上不太一样",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2038257462986612844",
+    "time": "2026-03-29 22:10",
+    "id_str": "2038257462986612844",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @sasha_flyer_art: Dripping through the dark — purple hypnotic flow 🌌 https://t.co/gEjongeiBr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2038255432242741695",
+    "time": "2026-03-29 22:02",
+    "id_str": "2038255432242741695",
+    "is_retweet": true
   }
 ]
