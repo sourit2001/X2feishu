@@ -138,5 +138,185 @@
     "time": "2026-03-30 09:09",
     "id_str": "2038423253228654848",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XcorpJP: Grokの自動翻訳によって日本のX好きが世界に急速にバレ始めています...！\n\nこのポストもきっとバレるので、みなさんがなぜXを使っているのかを、リプライか引用ポストで教えてください。世界規模で意見交換できるかも🌎️",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2038453152505299116",
+    "time": "2026-03-30 11:07",
+    "id_str": "2038453152505299116",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "https://t.co/ktbRhs1oVL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2038450054688915868",
+    "time": "2026-03-30 10:55",
+    "id_str": "2038450054688915868",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "企业微信甚至都做了 MCP！\n\n写了一篇文章分析了一下，为什么一夜之间大家都开始做 CLI 了，甚至是国内这些以封闭著称的厂商。\n\n从 CLI 为什么突然变重要，到如何为 AI 构建 CLI。\n\n和我在 CodePilot 里让 AI 管理自己工具的实验。\n\n而且对关键概念都做了解释，即使你是个小白也能看懂。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2038453125733102021",
+    "time": "2026-03-30 11:07",
+    "id_str": "2038453125733102021",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @shao__meng: 刚刚加入 OpenAI Codex 的著名 iOS/macOS 开发者 Thomas Ricouard 开源了「Review Swarm」Skill\n\nreview-swarm 是一个只读、Multi Agents 并行审查的工作流 Skill，…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2038435973156024717",
+    "time": "2026-03-30 09:59",
+    "id_str": "2038435973156024717",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "买了 Mac Mini 当服务器，没显示器怎么办？一招搞定\n\n最近不少人因为 OpenClaw（龙虾🦞）入手了 Mac Mini，打算拿来跑模型或当开发服务器。但问题来了：专门给它配一台显示器，既占地方又浪费钱。其实 macOS 自带的\"屏幕共享\"功能就能完美解决这个问题——用你现有的 Mac 直接远程操控 Mac https://t.co/FwOHe1G56h",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2038441251037434192",
+    "time": "2026-03-30 10:20",
+    "id_str": "2038441251037434192",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果你需要一个 skill 帮你创建那种为 agents 写的 cli，可以试试这个：\nhttps://t.co/HtPP947GmQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2038463140799689080",
+    "time": "2026-03-30 11:47",
+    "id_str": "2038463140799689080",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果你担心 cli 更新了 skills 版本没更新，也就是 cli 已经升级了，skill 还在用老的命令参数。\n\n可以在skill 里面加一个版本检测：\n使用前先 cli --version 获取版本号，如果当前skill 版本落后于 cli 版本，那么去skills的repo拉取更新最新版本的 skill",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2038464485422215493",
+    "time": "2026-03-30 11:53",
+    "id_str": "2038464485422215493",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "为了用 SeeDance 不排队，凌晨上班 https://t.co/uXR1COtc4m",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2038465272160325924",
+    "time": "2026-03-30 11:56",
+    "id_str": "2038465272160325924",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Real failure of imagination as to what it would mean to have a superhuman intelligence in the replies\n\nIf it helps, I teach at a business school &amp; many of my smartest students are hired by funds because they can reliably turn their only-human smarts into strategies &amp; profits.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038468659585208561",
+    "time": "2026-03-30 12:09",
+    "id_str": "2038468659585208561",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I am using Codex more than ever\nVery, very good",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2038465802748211235",
+    "time": "2026-03-30 11:58",
+    "id_str": "2038465802748211235",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "兄弟们，真的变天了 💥 越来越有意思\n\n连最封闭的微信都开始开源了 ，正式开源 CLI，让你的 Agent 自由调度企业微信能力 🔥\n\n7 大业务品类、12 个 AI Agent Skills，覆盖通讯录、待办、会议、消息、日程、文档与智能表格\n\n百模打战 -&gt; 百🦐大战 -&gt; 百 CLI 大战\n\n开源地址 https://t.co/XvW9Fop4zl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2038443518159458444",
+    "time": "2026-03-30 10:29",
+    "id_str": "2038443518159458444",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "连 Github 都没有识别出 logo 就知道这次企业微信 CLI 开源有多仓促，被赶鸭子上架",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2038443694861218291",
+    "time": "2026-03-30 10:30",
+    "id_str": "2038443694861218291",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Pretext: 纯 TypeScript 文本测量引擎  \n\n解锁了 30 年来 Web 做不到的排版问题\n\n前 React 核心团队成员、ReasonML 作者、现 Midjourney 工程师 Cheng Lou 开源了 Pretext，一个纯 TypeScript 写的文本测量和排版库。\n\n能让你不用真的把文字放到网页上，就能提前知道文字会占多大空间。\n\n先打个比方。 https://t.co/cVOqGWOoE4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2038437154322628736",
+    "time": "2026-03-30 10:04",
+    "id_str": "2038437154322628736",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "有什么用？\n\n消息气泡不浪费空间了：\n\n 你发一段长消息，气泡宽度按最长那行来，最后一行很短的时候后面全是空白。\n\nCSS 做不到\"找到保持同样行数的最窄宽度\"。Pretext 能算出来，气泡每个像素都不浪费。 https://t.co/iHGDBNA6mv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2038437156704944514",
+    "time": "2026-03-30 10:04",
+    "id_str": "2038437156704944514",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "AI 生成界面时知道文字会不会溢出\n\nAI 生成了一个按钮写着\"立即获取限时优惠\"，在手机上放不放得下？\n\n以前只能渲染出来才知道。有了 Pretext，生成阶段就能算出来，超了就换措辞。 https://t.co/zwcazUuRG1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2038437159104049422",
+    "time": "2026-03-30 10:04",
+    "id_str": "2038437159104049422",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "语言支持\n\n支持所有语言，包括中文、日文、韩文、阿拉伯文（RTL）、混合双向文本、emoji。Demo 里用的示例文字就是中英阿混合加 emoji 的。\n\n支持 pre-wrap 模式（保留空格、tab、换行符），适合 textarea 场景。 https://t.co/NtVIKU1Um2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2038437161390026901",
+    "time": "2026-03-30 10:04",
+    "id_str": "2038437161390026901",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/wz6za7BeKJ\n在线Demo：https://t.co/2pnzi6zaFU https://t.co/0fTNCzhYoC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2038437359365300595",
+    "time": "2026-03-30 10:05",
+    "id_str": "2038437359365300595",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "思考一个「概念」时，如何快速先到达60分的位置？\n\nskill:  https://t.co/PTdcjYwGat\n\n我通常会用这个skill生成初步的信息文本，用十五分钟阅读理解吸收。\n\n把这个理解当作起点，调用 ljg-roundtable 再看看不同学科视角的取景框。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2038470203496149218",
+    "time": "2026-03-30 12:15",
+    "id_str": "2038470203496149218",
+    "is_retweet": false
   }
 ]
