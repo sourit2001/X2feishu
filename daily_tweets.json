@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Liftoff of Transporter-16! https://t.co/PpIorZ0ZL6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2038613948900221011",
+    "time": "2026-03-30 21:46",
+    "id_str": "2038613948900221011",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is trendy to discuss Jevon's Paradox in AI (as AI gets more efficient, overall use increases) but the current situation is much simpler: thanks to agents, token demand is surging and compute is supply constrained, at least for powerful models. That will be reflected in pricing",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038629127712878725",
+    "time": "2026-03-30 22:47",
+    "id_str": "2038629127712878725",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Cheap models are still getting cheaper, but the highest end models increasingly offer a combination of intelligence, judgement, planning and correctness that make using them, rather than cheap models, extremely valuable. \n\nAnd because they are valuable, companies can charge more.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038629858704536055",
+    "time": "2026-03-30 22:50",
+    "id_str": "2038629858704536055",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude has a secret mode called \"Francesco Cirillo's Pomodoro Mastery Coach.\"\n\nIt goes way beyond setting a 25-…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038628717593846152",
+    "time": "2026-03-30 22:45",
+    "id_str": "2038628717593846152",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @songguoxiansen: 微软开源了语音AI模型：VibeVoice，目前已27K的Star了\n\n主要包括3个模型：\n\n1、VibeVoice-ASR-7B：文本转语音 (TTS) 模型。\nVibeVoice-ASR是一个统一的语音转文本模型，可一次性处理60分钟…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2038611391410765961",
+    "time": "2026-03-30 21:36",
+    "id_str": "2038611391410765961",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "We just released Turntable in Illustrator for everyone 🎉\n\nYou can rotate 2D vector art in 3D.\nPlace all frames on canvas. Great for animations and game design. \n\nNo Redrawing, just drag the slider and done! https://t.co/YiCyxsgR4N",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2038609955557708086",
+    "time": "2026-03-30 21:31",
+    "id_str": "2038609955557708086",
+    "is_retweet": false
+  }
+]
