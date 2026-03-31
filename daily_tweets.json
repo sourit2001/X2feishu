@@ -148,5 +148,115 @@
     "time": "2026-04-01 00:47",
     "id_str": "2039021688059306251",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Am referring to this",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039038115046961285",
+    "time": "2026-04-01 01:52",
+    "id_str": "2039038115046961285",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Neuralink enables people with ALS to speak again",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039038898811343008",
+    "time": "2026-04-01 01:55",
+    "id_str": "2039038898811343008",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Stand By Me",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039046398566625501",
+    "time": "2026-04-01 02:25",
+    "id_str": "2039046398566625501",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "看鸭哥写的：《AI 工程的真实代价：从 Claude Code 泄露源码看新模型接入的工程现实》\nhttps://t.co/Qu7e40ZPTe\n\n里面提到了 Anthropic 在 Claude Code 里埋了三层反蒸馏机制，专门防竞争对手用 API 输出来训练自己的模型。泄露的源码把这套系统完整暴露了出来。\n\n第一层：往输出里掺假。API https://t.co/AZU9DqkZEL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039042306871906655",
+    "time": "2026-04-01 02:09",
+    "id_str": "2039042306871906655",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果想提前看看 claude code 的愚人节菜单：buddy 伴侣精灵\n\nhttps://t.co/Jkpw9XKJic",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039052386128273620",
+    "time": "2026-04-01 02:49",
+    "id_str": "2039052386128273620",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What's the #1 thing you use AI for every single day in your business?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039050539590115717",
+    "time": "2026-04-01 02:41",
+    "id_str": "2039050539590115717",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: BREAKING: Claude can now make any habit atomic like Benjamin Franklin's system that built his entire empire (for free).\n\nF…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039051205498777855",
+    "time": "2026-04-01 02:44",
+    "id_str": "2039051205498777855",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: Claude Code source code just leaked\n\nEveryone says they went through 600K lines of the code\n\nThe irony is that Claude itself went through 600K lines of the code and gave users the answers",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039051678930935889",
+    "time": "2026-04-01 02:46",
+    "id_str": "2039051678930935889",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: The first conference where your submission isn't a paper.\n\nIt's a SKILL.md file Claude can execute, review, and reproduce…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039051928072548530",
+    "time": "2026-04-01 02:47",
+    "id_str": "2039051928072548530",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Marc Andreessen says 99.9999% of the value of AI will accrue to the users of AI, not the companies who create it:\n\n\"If you look at the total amount of economic value creation downstream of the internet—something like 99% of that accrued to the users of the internet, not the https://t.co/lV243TvqA9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2039045233607127544",
+    "time": "2026-04-01 02:20",
+    "id_str": "2039045233607127544",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Marc Andreessen: The most memorable first founder meeting I've ever had was with Mark Zuckerberg.\n\n\"Mark's like 19, and it was Mark and Sean Parker.\"\n\n\"Sean literally talked the entire time.\"\n\n\"Mark didn't talk, so Sean and I talked the whole time, and Mark sat and listened.\"\n\n\"I https://t.co/hxPqeUtb4a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2039052743332258137",
+    "time": "2026-04-01 02:50",
+    "id_str": "2039052743332258137",
+    "is_retweet": false
   }
 ]
