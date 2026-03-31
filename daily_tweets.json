@@ -98,5 +98,25 @@
     "time": "2026-04-01 05:31",
     "id_str": "2039093130490687773",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "虽然混淆后js代码能还原，但是\n1. 50 万行代码还原代价极大，让它还原后还能运行现在AI也做不到\n2. 你看不到注释\n3. 你看不到代码结构，看不到代码是怎么组织的",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039100369108603136",
+    "time": "2026-04-01 05:59",
+    "id_str": "2039100369108603136",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "RT @omooretweets: Being a non-technical person in 2026 https://t.co/39xnm7RlaM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2039100592413704384",
+    "time": "2026-04-01 06:00",
+    "id_str": "2039100592413704384",
+    "is_retweet": true
   }
 ]
