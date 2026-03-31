@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads.\n\nScanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The installed version (luckily)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2038849654423798197",
+    "time": "2026-03-31 13:23",
+    "id_str": "2038849654423798197",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Good note that PubMed is automatically pulling in preprints from other servers for NIH funded research, though. (It doesn't provide md format, but you can get articles in XML). https://t.co/hQ89hqRHx7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2038843622116794408",
+    "time": "2026-03-31 12:59",
+    "id_str": "2038843622116794408",
+    "is_retweet": false
+  }
+]
