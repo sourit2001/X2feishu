@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "OpenAI 现在比 Anthropic 开放多了！\n\n现在能在 Claude Code 里调用 Codex 帮你审查代码！\n\n省得我来回复制了，还想自己写一个来着，没想到官方的就来了。\n\nOpen AI 出了一个官方插件，可以帮你在 Claude Code 里调用 Codex\n\n总共支持 3 个命令：\n\n/codex:review 运行标准的只读 Codex 审查。 https://t.co/SwVTOh7YDj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2038793945053098484",
+    "time": "2026-03-31 09:42",
+    "id_str": "2038793945053098484",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "昨晚果子（Apple）在中国推送了 Apple Intelligence。\n\n然后早上古尔曼（Mark Gurman）说是失误，本来不应该上线的，现在已经被下掉了。\n\n但是很多人说，升级 iOS 26.4 以后依然可以更新和安装，而且这个功能没有被关闭，想要体验的可以试试。 https://t.co/jvPf9lUsBR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2038794973932576782",
+    "time": "2026-03-31 09:46",
+    "id_str": "2038794973932576782",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "yeah",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2038766480746233856",
+    "time": "2026-03-31 07:53",
+    "id_str": "2038766480746233856",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You’re probably overpaying for AI inference.\n\nResearchers just proved a small model with the right scaffolding crushes a model 50x its size on long-context tasks.\n\nRead this thread and you’ll know how to get better results with fewer resources:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038780486500118585",
+    "time": "2026-03-31 08:48",
+    "id_str": "2038780486500118585",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The problem: LLMs choke on long inputs.\n\nThe usual fix? Bigger context windows. More parameters. More RAM.\n\nBut there’s a deeper issue. When you let a model write its own recursive code to manage memory, \n\nyou get infinite loops, broken outputs, and unpredictable costs.\n\nBrute",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038780489171865963",
+    "time": "2026-03-31 08:48",
+    "id_str": "2038780489171865963",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "λ-RLM flips the approach.\nInstead of letting the model generate arbitrary code, it runs a typed functional runtime grounded in lambda calculus.\n\nThink: a fixed library of pre-verified operations (SPLIT, MAP, REDUCE). \n\nThe model only handles small, bounded leaf problems.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038780492632269292",
+    "time": "2026-03-31 08:48",
+    "id_str": "2038780492632269292",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The results across 9 models and 4 long-context tasks:\n\n→ Outperformed standard recursive models in 29 of 36 comparisons\n\n→ +21.9 accuracy points on weaker model tiers\n\n→ Up to 4.1x faster\n\n→ 8B model matched 70B performance while being 3.1x quicker\n\nSmall model + good",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038780495224598680",
+    "time": "2026-03-31 08:48",
+    "id_str": "2038780495224598680",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Why lambda calculus and not just “a Python script”?\n\nBecause Python can’t prove your code terminates on all inputs. Can’t give you a closed-form cost bound. \n\nCan’t guarantee accuracy scales predictably with recursion depth.\nLambda calculus isn’t the implementation. It’s the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038780505781325862",
+    "time": "2026-03-31 08:48",
+    "id_str": "2038780505781325862",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The takeaway for builders:\nThe future of reliable AI isn’t just bigger parameters.\n\nIt’s giving models structured, verifiable environments to reason in. \n\nTyped control flow &gt; open-ended code generation.\n\nPaper: https://t.co/XTktu17i3P\nCode: https://t.co/aSUftizxh9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038780508251840581",
+    "time": "2026-03-31 08:48",
+    "id_str": "2038780508251840581",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://t.co/LXq3siyyWc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038781453199134978",
+    "time": "2026-03-31 08:52",
+    "id_str": "2038781453199134978",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "most people read self-help books that expire in 6 months.\n\nthese 5 “banned” books have been relevant for 50+ years:\n\n• The Gulag Archipelago\n• 1984\n• Brave New World\n• The Sovereign Individual\n• The Creature from Jekyll Island\n\nthey don’t teach you tactics. they teach you https://t.co/0e5406xBHm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038782858068734390",
+    "time": "2026-03-31 08:58",
+    "id_str": "2038782858068734390",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "here’s a prompt i use after finishing a heavy book:\n\n“I just finished [book title] by [author]. Act as a world-class philosopher and critical thinker. \n\nGive me: 1) the 5 most dangerous ideas from this book that most readers miss, 2) how each idea applies to the modern world in",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038783191868149898",
+    "time": "2026-03-31 08:59",
+    "id_str": "2038783191868149898",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "one prompt. five books. more clarity than most college courses.\n\ntry it with whatever you’re reading right now.\n\nif this was useful, repost the first tweet so others find it too.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038783393349902497",
+    "time": "2026-03-31 09:00",
+    "id_str": "2038783393349902497",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Two letters: CC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038784154679026060",
+    "time": "2026-03-31 09:03",
+    "id_str": "2038784154679026060",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Mr. Claude is everyone’s best friend right now",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2038784327861817449",
+    "time": "2026-03-31 09:03",
+    "id_str": "2038784327861817449",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Marc Andreessen says AI is the \"silver bullet excuse\" for companies laying people off, but most layoffs are actually due to higher interest rates and overstaffing during COVID:\n\n\"This entire labor displacement thing is 100% incorrect. It's completely wrong. It's classic zero-sum https://t.co/KkaYgyaN5S",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2038760847473009083",
+    "time": "2026-03-31 07:30",
+    "id_str": "2038760847473009083",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Instacart on an iPhone 4s. https://t.co/1sJGPpjwfQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2038774596430975480",
+    "time": "2026-03-31 08:25",
+    "id_str": "2038774596430975480",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Computer use 功能现在登陆 Claude Code \n\nClaude Code现在能自己操控电脑了\n\n以前 Claude Code 的写完代码交给你处理，\n\n现在它可以在写代码、编译后，自己启动 App、点击 UI、找 bug、修复、验证，一句话 全搞定。\n\n全程不用你动手。\n\nSwiftUI、Electron这些没有 CLI 的 GUI 工具，也都支持。\n\nPro / https://t.co/e0QDSJuepY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2038790407568642223",
+    "time": "2026-03-31 09:28",
+    "id_str": "2038790407568642223",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Just tested Turnable on pixel art and it works great https://t.co/DZILvNmJHQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2038768915472326947",
+    "time": "2026-03-31 08:02",
+    "id_str": "2038768915472326947",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How beautiful are these examples of rotating 2D vectors in 3D with Turntable in Illustrator",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2038783747877642363",
+    "time": "2026-03-31 09:01",
+    "id_str": "2038783747877642363",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Tamaken-san is one of my favorite designers from Japan! \n\nThese are great examples of Turntable in Illustrator that came out of beta today.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2038786602873286849",
+    "time": "2026-03-31 09:12",
+    "id_str": "2038786602873286849",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: We just released Turntable in Illustrator for everyone 🎉\n\nYou can rotate 2D vector art in 3D.\nPlace all frames on canvas.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2038794737172292003",
+    "time": "2026-03-31 09:45",
+    "id_str": "2038794737172292003",
+    "is_retweet": true
+  }
+]
