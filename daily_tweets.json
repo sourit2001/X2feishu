@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "恰恰相反，codex cli 做的很难用，不如 claude code 代码有价值。\n\n但如果你只是要做一个 ai agent，没必要用 claude code 或者 codex 代码，pi-mono 这种轻量级的库更适合你。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039072519852888360",
+    "time": "2026-04-01 04:09",
+    "id_str": "2039072519852888360",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 How it feels knowing Anthropic is now officially more open than OpenAI https://t.co/vaQTCX8f1U",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039072006420017292",
+    "time": "2026-04-01 04:07",
+    "id_str": "2039072006420017292",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Claude Code source code just leaked\n\nEveryone says they went through 600K lines of the code\n\nThe irony is that…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039073802827575428",
+    "time": "2026-04-01 04:14",
+    "id_str": "2039073802827575428",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 How it feels knowing Anthropic is now officially more open than OpenAI https://t.co/vaQTCX8f1U",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039076090539315456",
+    "time": "2026-04-01 04:23",
+    "id_str": "2039076090539315456",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"The grid itself is civilization.\"\n\nRadiant CEO Doug Bernauer on productizing nuclear energy:\n\n\"Nuclear reactors as products has never been seen before.\"\n\n\"They're always usually these giant mega projects where you dig a huge hole in the ground and you take 5 to 10 years.\" https://t.co/L3VHtgwWzI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2039069876405559796",
+    "time": "2026-04-01 03:58",
+    "id_str": "2039069876405559796",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "What. The. Fuuu....",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2039068934637556124",
+    "time": "2026-04-01 03:54",
+    "id_str": "2039068934637556124",
+    "is_retweet": false
+  }
+]
