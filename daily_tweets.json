@@ -8,5 +8,55 @@
     "time": "2026-04-02 04:19",
     "id_str": "2039437446413197684",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 终端全屏渲染模式\n\nClaude Code 推出了一个新的终端渲染模式，代号 NO_FLICKER。启用方式很简单：CLAUDE_CODE_NO_FLICKER=1 claude。\n\n用过 Claude Code 的人大概都有体感：对话一长，终端就开始闪屏、跳屏，VS Code 内置终端和 tmux 里尤其明显。这是终端渲染的先天限制，ANSI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039447849675469060",
+    "time": "2026-04-02 05:00",
+    "id_str": "2039447849675469060",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "RT @useLunel: Introducing Lunel\n\nYour entire dev environment, now in your pocket.\n\nNo login. No signup.\nJust scan the code and start buildi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2039445420624003344",
+    "time": "2026-04-02 04:50",
+    "id_str": "2039445420624003344",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "AI voice tools transform my audio content creation\nThey offer cost-effective, professional quality solutions\n• Select the best tool\n• Integrate seamlessly\n• Elevate your brand\n\n🔗 Click below to read more: \nhttps://t.co/9GoRA8J3uM https://t.co/oNUwWfNLMT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039444699086254375",
+    "time": "2026-04-02 04:48",
+    "id_str": "2039444699086254375",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "AI doesn't think. You do.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039447612252733924",
+    "time": "2026-04-02 04:59",
+    "id_str": "2039447612252733924",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 How it feels knowing Anthropic is now officially more open than OpenAI https://t.co/vaQTCX8f1U",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039450701739470958",
+    "time": "2026-04-02 05:11",
+    "id_str": "2039450701739470958",
+    "is_retweet": true
   }
 ]
