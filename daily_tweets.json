@@ -268,5 +268,255 @@
     "time": "2026-04-01 09:48",
     "id_str": "2039157805655990737",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Sentient machines",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039199192288231835",
+    "time": "2026-04-01 12:32",
+    "id_str": "2039199192288231835",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @benjitaylor: I’ve been extremely impressed at just how much every engineer at 𝕏/xAI genuinely cares about design and craft. Everyone wa…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039199299901526350",
+    "time": "2026-04-01 12:32",
+    "id_str": "2039199299901526350",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @JoNationLive: Picked up a pizza order. As I walked out, an elderly couple was getting out of their new Tesla Model Y. I said, “Beautifu…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039199466331460057",
+    "time": "2026-04-01 12:33",
+    "id_str": "2039199466331460057",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Custom orders of the Tesla Model S &amp; X have come to an end. All that’s left are some in inventory.\n\nWe will have an official ceremony to mark the ending of an era. I love those cars. \n\nThis was me at production launch 14 years ago: https://t.co/6kvCf9HTHc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039202381683110191",
+    "time": "2026-04-01 12:45",
+    "id_str": "2039202381683110191",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谷歌发布了 V1.3.1 Lite 模型，价格大幅降低！\n\n相较于 V1.3.1 模型，价格降了 8 倍，同时他们的 V1.3.1 Fast 模型价格也降了。 https://t.co/cA39AZGura",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039167939635708176",
+    "time": "2026-04-01 10:28",
+    "id_str": "2039167939635708176",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "迫于泄露 Claude Code 的宠物模式已经提前上线\n\n输入 /Buddy 就可以开启，会有简单的介绍和不同的属性\n\n而且你在工作的时候他会在输入框旁边陪伴你\n\n感觉比较轻量，支持的命令也比较少，可以叫他名字来获取见解 https://t.co/VuwLwjVaoF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039181223269142828",
+    "time": "2026-04-01 11:21",
+    "id_str": "2039181223269142828",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这里发现的https://t.co/4tSgYNVDhG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039181751055261876",
+    "time": "2026-04-01 11:23",
+    "id_str": "2039181751055261876",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "第二步是以点带线，以线带面。\n\n从一个具体的功能点入手，看这个功能做什么，这个功能点从输入到输出经过了哪些模块，每个模块的作用是什么，模块的关系是什么样的。 https://t.co/lC4xc19tkJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039163563684622754",
+    "time": "2026-04-01 10:10",
+    "id_str": "2039163563684622754",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "比如说你想了解 Agent Loop，可以打印/收集所有 API 请求，看它请求的Prompt和API返回的结果，这样你就很容易建立对 Agent 如何分析要求如何调用工具有直观的认识。\n\n以前我就是借助claude-trace分析的，可惜后来用不了，现在有代码了可以做类似的事情了\nhttps://t.co/8HaLt7OVUv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039166629481791549",
+    "time": "2026-04-01 10:23",
+    "id_str": "2039166629481791549",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "分块是因为一次没法太多，重叠是因为避免切分不好把内容从中间强行分开了\nhttps://t.co/BkQio6xn2M",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039166872118088072",
+    "time": "2026-04-01 10:24",
+    "id_str": "2039166872118088072",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "不，AI Friendly 才是最重要的，mono repo 必然是最优选择。\n不能因噎废食。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039167517487177940",
+    "time": "2026-04-01 10:26",
+    "id_str": "2039167517487177940",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "第三步，二次开发，基于它去大胆修改定制\n光看是学不好的，另起炉灶也没必要，对于成熟的项目，直接二次开发。\n比如给/buddy加个小宠物\n甚至于去自己实现一个 /buddy 的功能\n\n由于它的架构已经相对稳定了，你只要基于它的架构填充功能，这其实并不会太难，最好都不要借助AI辅助。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039173267018191155",
+    "time": "2026-04-01 10:49",
+    "id_str": "2039173267018191155",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "第二步：以点带面的看\nhttps://t.co/4cruulibZf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039173446471385281",
+    "time": "2026-04-01 10:50",
+    "id_str": "2039173446471385281",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "第三步：二次开发，边做边学\n\nhttps://t.co/9gmrGPWYUK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039173574049571270",
+    "time": "2026-04-01 10:50",
+    "id_str": "2039173574049571270",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这次 Claude Code 源代码泄漏不是因为 bun，是因为开发者失误😅",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039173976275009799",
+    "time": "2026-04-01 10:52",
+    "id_str": "2039173976275009799",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: The people doing interesting things in AI are people with billions of dollars in funding or zero dollars and a ton of free…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2039163614796591423",
+    "time": "2026-04-01 10:11",
+    "id_str": "2039163614796591423",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 How it feels knowing Anthropic is now officially more open than OpenAI https://t.co/vaQTCX8f1U",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039163903738007552",
+    "time": "2026-04-01 10:12",
+    "id_str": "2039163903738007552",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "You’re blackpilling?\n\nWe’re generating Pixar-grade shorts with AI and you’re blackpilling? https://t.co/7l3NAVPBt8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2039169548054896977",
+    "time": "2026-04-01 10:34",
+    "id_str": "2039169548054896977",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I've seen this video posted by multiple creators but I think I managed to hunt down the original for the video ⬆️ - rinatosz on IG.\n\nHe doesn't say what model he used. \n\nHowever, I found a similar video (from u/DataGirlTraining) that used Seedance 2.\n\nPrompt is HEFTY: \n\"Stylized https://t.co/ECEM63W6iA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2039185662151397826",
+    "time": "2026-04-01 11:38",
+    "id_str": "2039185662151397826",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code 泄露代码隐藏的87个未发布功能 暴露其野心...\n\n全文：https://t.co/O4QvirQ5mj https://t.co/tLseafGR19",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039184295596879924",
+    "time": "2026-04-01 11:33",
+    "id_str": "2039184295596879924",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们，Google 大发善心 \n\nGmail 用户名可以自由修改了\n\n而且不是重新注册账号\n可直接在原账号上直接更换：\n\n•  数据、邮件、Drive 全保留\n•  旧邮箱变 alias 还能用\n•  每年可改一次，最多三次\n\n👉 改完之后：\n\n• 旧邮箱不会被回收\n• 会变成你的“别名（alias）”\n• 你依然可以：\n• https://t.co/DhONndazum",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039192482936938502",
+    "time": "2026-04-01 12:05",
+    "id_str": "2039192482936938502",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "步骤很简单：\n\n1️⃣ 打开\n👉 https://t.co/QpRLJXS67o\n\n2️⃣ 点：Personal info（个人信息）\n\n3️⃣ 点：Email → Google Account email\n\n4️⃣ 如果你能看到：\n👉 Change Google Account email（更改邮箱）\n\n5️⃣ 输入新用户名 → 确认",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039193159226573093",
+    "time": "2026-04-01 12:08",
+    "id_str": "2039193159226573093",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My work view is cyberpunk \n\nAdobe office at Times Square https://t.co/rnlWfwK2qE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039174472020750527",
+    "time": "2026-04-01 10:54",
+    "id_str": "2039174472020750527",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Can you guess how many posts I wrote on X to grow this account?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039181412541083782",
+    "time": "2026-04-01 11:21",
+    "id_str": "2039181412541083782",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "People don’t realize how big this is for game dev.\n\nYou can generate full character rotations from a single illustration.\n\nNo redraw.\nNo rigging.\nSeconds.\n\nThis changes how assets are made.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039200217753395545",
+    "time": "2026-04-01 12:36",
+    "id_str": "2039200217753395545",
+    "is_retweet": false
   }
 ]
