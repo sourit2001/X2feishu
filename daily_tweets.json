@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Grok Imagine is just amazing! https://t.co/VtZB0rcn3R",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039154596166451472",
+    "time": "2026-04-01 09:35",
+    "id_str": "2039154596166451472",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ukhomeoffice: The grooming gangs scandal is one of the darkest moments in our country’s history - where the most vulnerable were abused…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039154985334911070",
+    "time": "2026-04-01 09:36",
+    "id_str": "2039154985334911070",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039155164100321771",
+    "time": "2026-04-01 09:37",
+    "id_str": "2039155164100321771",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Sam 太猛了啊\n\nOpenAI 新一轮融资额度高达 1250 亿美元\n\n卧槽，咋能凑这么多钱啊，不是估值是融资额 给投资人下药了啊",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039159449559220442",
+    "time": "2026-04-01 09:54",
+    "id_str": "2039159449559220442",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "SentrySearch：用自然语言搜索视频内容的开源工具\n\n在几个小时的行车记录仪视频里找到\"一辆红色卡车闯了停牌\"那个画面，SentrySearch 能让你像搜文字一样搜视频，输入描述，直接导出对应片段。\n\n这个开源命令行工具的原理并不复杂：把视频切成带重叠的片段，用 Google Gemini Embedding API 或本地的 https://t.co/AMwLFveKTj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039147493355634989",
+    "time": "2026-04-01 09:07",
+    "id_str": "2039147493355634989",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "不可能开源的，倒不是代码多值钱，不开源好处很多：\n\n不用担心代码质量差一点，比如一个 React 文件几千行开源出来会被喷，闭源谁知道，又不是不能跑\n\n可以暗搓搓加料，比如防止蒸馏、记录用户标识的，甚至“不小心”导致第三方 prompt caching 失效的bug，这种都不担心被抓包",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039151725680980209",
+    "time": "2026-04-01 09:23",
+    "id_str": "2039151725680980209",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "绝大部分是AI解析的，也能看出使用模型的好坏🤪",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039161030333362291",
+    "time": "2026-04-01 10:00",
+    "id_str": "2039161030333362291",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Oh no i wrote the post in Claude style (its not X its Y). Damn it. Was this because I read too many Claudisms? Is it my natural style? Who knows anymore. \n\nWhats doing the heavy lifting here is…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2039135431774622162",
+    "time": "2026-04-01 08:19",
+    "id_str": "2039135431774622162",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The AI labs have actually done a bad job explaining what the future they are building towards will actually look like for most of us.\n\nEven “Machines of Loving Grace” has very few well-articulated visions of what Anthropic hopes life will be like if they succeed at their goals.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2039142905156153428",
+    "time": "2026-04-01 08:48",
+    "id_str": "2039142905156153428",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "They are really good at vivid explanations of bad outcomes, however.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2039159600742637794",
+    "time": "2026-04-01 09:55",
+    "id_str": "2039159600742637794",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "RT @krishnanrohit: This paper's been going around, but its got serious methodological flaws. Couple major errors I've seen:\n- They calculat…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2039159820993847734",
+    "time": "2026-04-01 09:56",
+    "id_str": "2039159820993847734",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "字节要被取代了，取代它的是 token。\n\nKarpathy 昨天在推上回了 Python 之父 Guido 一句话：\nLLM = CPU，Agent = 操作系统内核。\n但他补了一个很关键的细节：\n\nLLM 处理的数据单位不是字节，是 token。\n这个操作系统的运行方式不是确定性的，而是统计性的。\n这是一种底层计算的范式转移。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2039128633995034954",
+    "time": "2026-04-01 07:52",
+    "id_str": "2039128633995034954",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "RT @Tz_2022: @oran_ge 我想到一个绝妙的愚人节笑话：\n\nByteDance 字节跳动宣布将公司正式更名为 TokenDance 词元跳动，以反映真实世界人类与AI的变化关系。。。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2039155259348816357",
+    "time": "2026-04-01 09:37",
+    "id_str": "2039155259348816357",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "可能很多人今天都还不知道\n\nOpenAI 的 Codex 其实一直是开源的\n\n🔗https://t.co/KUD2eBl4kp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039135152757153999",
+    "time": "2026-04-01 08:18",
+    "id_str": "2039135152757153999",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们 好消息 \n\nGoogle 发布 Veo 3.1 Lite\n\n最具性价比的视频模型 $0.05/秒起\n\n720p 起步价不到 Veo 3.1 Fast 的一半，速度一样。\n\n算一笔账：用 Lite 生成一条 8 秒 720p 视频，成本 $0.40。\n\n同样的视频用 Fast 要 $1.20。差了 3 倍。如果跟 Standard 比，差 8 倍。 https://t.co/ikwJGiBO0R",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039142444516995432",
+    "time": "2026-04-01 08:46",
+    "id_str": "2039142444516995432",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "两个关键限制\n\n不支持 4K 输出，不支持视频延伸（Extension）功能。\n\n这两个只有 Standard 版才有。\n\nVeo 3.1 Lite 的发布补全了整个 Veo 3.1 模型家族 https://t.co/CSuZZ1F0Eu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039142447297785941",
+    "time": "2026-04-01 08:46",
+    "id_str": "2039142447297785941",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "另外的好消息是：\n\n4 月 7 日起，Veo 3.1 Fast 全线降价：\n\n720p 从 $0.15 降到 $0.10（降 5 分）\n1080p 从 $0.18 降到 $0.15（降 3 分）\n4K 从 $0.40 降到 $0.35（降 5 分）\n\n详细介绍：https://t.co/38mJzsq8aJ https://t.co/27vcKScM0X",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039142701103497689",
+    "time": "2026-04-01 08:48",
+    "id_str": "2039142701103497689",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @googleaidevs: Connect your coding agent to the latest Gemini API docs with our new MCP server and developer skills. Run a single comman…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039147081152307706",
+    "time": "2026-04-01 09:05",
+    "id_str": "2039147081152307706",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @Cloudflare: Magic Transit customers can now program their own DDoS mitigation logic and deploy it across Cloudflare’s global network. T…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039147249226408356",
+    "time": "2026-04-01 09:06",
+    "id_str": "2039147249226408356",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "253\nICYMI：我们发布了 Spanner 列式引擎的预览版，它能让您以 Spanner 的规模优势和低延迟来托管您的 Iceberg Lakehouse 数据！ 快来看看新功能，例如向量化执行、自动查询处理等等 ↓",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039148447279063272",
+    "time": "2026-04-01 09:10",
+    "id_str": "2039148447279063272",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "萨姆·奥特曼：“市场上为数不多的套利机会之一就是时间。”\n\n“我认为在很多方面你都无法战胜市场，但我能做到的一点是，对某件事做出长期承诺。\n\n我现在坚信，对于我投资的那些最优秀的公司，我应该永远持有它们的股票。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039148563733889360",
+    "time": "2026-04-01 09:11",
+    "id_str": "2039148563733889360",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "萨姆·奥特曼：“市场上为数不多的套利机会之一就是时间。”\n\n“我认为在很多方面你都无法战胜市场，但我能做到的一点是，对某件事做出长期承诺。\n\n我现在坚信，对于我投资的那些最优秀的公司，我应该永远持有它们的股票。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039148595589607732",
+    "time": "2026-04-01 09:11",
+    "id_str": "2039148595589607732",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "萨姆·奥特曼：“市场上为数不多的套利机会之一就是时间。”\n\n“我认为在很多方面你都无法战胜市场，但我能做到的一点是，对某件事做出长期承诺。\n\n我现在坚信，对于我投资的那些最优秀的公司，我应该永远持有它们的股票。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039148624777732426",
+    "time": "2026-04-01 09:11",
+    "id_str": "2039148624777732426",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @StartupArchive_: Sam Altman: “One of the few arbitrage opportunities left in the market is time”\n\n“I don’t think you can beat the marke…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039148669430272397",
+    "time": "2026-04-01 09:11",
+    "id_str": "2039148669430272397",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Rivet 发布 agentOS Beta 版，基于 WASM 和 V8 隔离区的开源 AI 代理操作系统\n\nRivet 发布了 agentOS Beta 版，这是一款专为 AI 代理设计的可移植开源操作系统。\n\n它使用 WebAssembly 和 V8 隔离区实现轻量级隔离，冷启动时间仅需约 6 毫秒，并支持挂载 S3 和 SQLite 等文件系统。\n\n该系统包含",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039155397492437489",
+    "time": "2026-04-01 09:38",
+    "id_str": "2039155397492437489",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Believe in yourself and tell stories only you can tell with whatever tools that work for you. AI is okay. Good people use AI.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039150693425074183",
+    "time": "2026-04-01 09:19",
+    "id_str": "2039150693425074183",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: We just released Turntable in Illustrator for everyone 🎉\n\nYou can rotate 2D vector art in 3D.\nPlace all frames on canvas.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039157805655990737",
+    "time": "2026-04-01 09:48",
+    "id_str": "2039157805655990737",
+    "is_retweet": true
+  }
+]
