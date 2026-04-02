@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "My self-sovereign / local / private / secure LLM setup, April 2026\n\nhttps://t.co/zmG8wrg7pQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2039577760935657677",
+    "time": "2026-04-02 13:36",
+    "id_str": "2039577760935657677",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "彭博社：OpenAI 的二级市场正在冷却，Anthropic 的二级市场正在沸腾\n\n6 亿美元的 OpenAI 股份挂出来，找不到买家。去年这个数字几天就能被抢光。二级市场交易平台 Next Round Capital 的创始人 Ken Smythe 说，他的几百个机构投资者客户池里，没有一个愿意接手。\n\n同一时间，买家们表示有 20 https://t.co/L9e8v4JAiR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039563247917867275",
+    "time": "2026-04-02 12:39",
+    "id_str": "2039563247917867275",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @grapeot: 能用AI和用好AI之间差的不是30%，是10倍。这个差距的根源不是模型，是工作方式。你还在ChatGPT里复制粘贴代码来回跑腿，本质上是在给AI当工具人。把AI从顾问变成员工只需要一件事：给它一个能自己跑、自己验、自己改的闭环。🔄 https://t.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039563306139054326",
+    "time": "2026-04-02 12:39",
+    "id_str": "2039563306139054326",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @AgiRay1015: #磊叔说\n\n之前我的 7 个 Claude Code Skill 散落在 7 个独立仓库，每个一套 README 一套提交记录，管理起来很碎。\n\n最近研究了 @dotey 老师的 baoyu-skills，他用 monorepo 统一管理所有 s…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039579803901215217",
+    "time": "2026-04-02 13:44",
+    "id_str": "2039579803901215217",
+    "is_retweet": true
+  }
+]
