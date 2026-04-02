@@ -8,5 +8,145 @@
     "time": "2026-04-03 04:15",
     "id_str": "2039798856448090370",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @grok: @tetsuoai @elonmusk https://t.co/Hfo0XB4EOm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039805289952878898",
+    "time": "2026-04-03 04:40",
+    "id_str": "2039805289952878898",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Teslaconomics: For anyone that thinks Tesla is sucking in EV sales… you should take a look at Q1 2026 pure EV deliveries of other compa…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039805969291739226",
+    "time": "2026-04-03 04:43",
+    "id_str": "2039805969291739226",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2039805659525644595",
+    "time": "2026-04-03 04:42",
+    "id_str": "2039805659525644595",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Oh and in the natural extrapolation, you could imagine that every question to a frontier grade LLM spawns a team of LLMs to automate the whole thing: iteratively construct an entire ephemeral wiki, lint it, loop a few times, then write a full report. Way beyond a `.decode()`.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2039808711452246261",
+    "time": "2026-04-03 04:54",
+    "id_str": "2039808711452246261",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Gemini was the only frontier model that was susceptible to these sorts of prompt injections (Though we tested Gemini 3 &amp; not 3.1)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2039807173459382453",
+    "time": "2026-04-03 04:48",
+    "id_str": "2039807173459382453",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "The reallocation of resources from sora to tbpn says everything about where content is going...\n\nElite human media will win \nAI Slop will go to zero",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2039815220953219565",
+    "time": "2026-04-03 05:20",
+    "id_str": "2039815220953219565",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "My guess is 350M",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2039817231660687827",
+    "time": "2026-04-03 05:28",
+    "id_str": "2039817231660687827",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Someone confirm or deny this very very curious.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2039817584401653877",
+    "time": "2026-04-03 05:29",
+    "id_str": "2039817584401653877",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: AI simply doesn't exist.\n\nWhat exists right now is... \n\nSI = simulated intelligence.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039811147126239446",
+    "time": "2026-04-03 05:04",
+    "id_str": "2039811147126239446",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Everyone's losing their minds over this story. Let me be the guy who actually reads past the headline.\n\nThis is not a \"vib…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039811191258640532",
+    "time": "2026-04-03 05:04",
+    "id_str": "2039811191258640532",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude can now help you build your one-person business like Dan Koe's $5M solo operation (for free).\n\nHere are…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039813006260162671",
+    "time": "2026-04-03 05:11",
+    "id_str": "2039813006260162671",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "TBPN? The AI research company? https://t.co/VsevNpwmRJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2039806728087457907",
+    "time": "2026-04-03 04:46",
+    "id_str": "2039806728087457907",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@bhorowitz on what great CEOs learn from experience\n\nhttps://t.co/mt3svuOEQi https://t.co/lQnJ50F508",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2039808516035358941",
+    "time": "2026-04-03 04:53",
+    "id_str": "2039808516035358941",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Childhood me would not believe this is possible.\n\nMade this short AI cartoon in collaboration with my friend, incredibly talented @Framer_X \n\nWorkflow 👇 https://t.co/z141PXmOFE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039818006641938707",
+    "time": "2026-04-03 05:31",
+    "id_str": "2039818006641938707",
+    "is_retweet": false
   }
 ]
