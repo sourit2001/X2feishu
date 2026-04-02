@@ -88,5 +88,175 @@
     "time": "2026-04-03 01:40",
     "id_str": "2039759957269348775",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Starlink: Starlink’s high-speed internet is available in your area.\n\nExperience speeds up to 400+ Mbps to stream your favorite shows an…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039767291756519842",
+    "time": "2026-04-03 02:09",
+    "id_str": "2039767291756519842",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Important reminder",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039767500955746503",
+    "time": "2026-04-03 02:10",
+    "id_str": "2039767500955746503",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Troubling",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039774424682156214",
+    "time": "2026-04-03 02:38",
+    "id_str": "2039774424682156214",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Inspiring new merch idea: rocket pocket underpants! 🚀 🩳\n\nUnderpants with a handy pocket for your rocket, which contains a real scale model rocket with an easy pull out ability. Guaranteed to be a hit at parties!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039775656188494173",
+    "time": "2026-04-03 02:43",
+    "id_str": "2039775656188494173",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Maybe something like this 😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039776866375213554",
+    "time": "2026-04-03 02:47",
+    "id_str": "2039776866375213554",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2039773740586918137",
+    "time": "2026-04-03 02:35",
+    "id_str": "2039773740586918137",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @johncoogan: TBPN has been acquired by OpenAI!\n\nThe show is staying the same and we’ll continue to go live at 11am pacific every weekday…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2039773754801422750",
+    "time": "2026-04-03 02:35",
+    "id_str": "2039773754801422750",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "团队内的 skills 管理和维护的一点经验分享（以 codex cli 用的 .agents/skills 目录为例）：\n\n1. Git 管理是一定要的。\n版本控制太重要了，而且 Skills 都是 Markdown 和脚本文件，天然适合 Git。\n\n2. 用好 Symlink。\n不要把 Skills 整个拷贝到 .agents/skills，而是通过 Symlink 直接链接到原始 https://t.co/vTxmzdMIKx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039762741284553033",
+    "time": "2026-04-03 01:51",
+    "id_str": "2039762741284553033",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @stark_nico99: 开源一个 Claude Code 风格的信息图 Skill，也可用作PPT\n觉得特别好看\n\n**内容组织原则**：\n- 主标题区：左上或左侧，使用超大号衬线体- 核心结论框：用砖红色背景框突出最重要的判断或理念- 模块化内容区：右侧或下方，使…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039764668995059798",
+    "time": "2026-04-03 01:59",
+    "id_str": "2039764668995059798",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "参考第2条，通过symlink指向唯一源头\nhttps://t.co/fmxK4pSkTB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039767164681412925",
+    "time": "2026-04-03 02:09",
+    "id_str": "2039767164681412925",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 发了一篇新研究，揭开了一个有意思的发现：Claude 内部存在类似“情绪”的机制，而且这些“情绪”会实实在在地影响它的行为，有时候还会把它带歪。\n\n研究团队用 Sonnet 4.5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039768399685828616",
+    "time": "2026-04-03 02:14",
+    "id_str": "2039768399685828616",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "晚点 LatePost 发了一篇 DeepSeek 深度报道《V4 发布前的 DeepSeek：特质、组织和梁文锋的独特目标》\nhttps://t.co/E0GffDtruU\n\n时间点卡在 V4 发布前夕。信息密度很高，摘几个最值得关注的点。\n\n【1】核心成员离职，但没有成组流失\n\n四位已确认离开的成员里，分量最重的是 DeepSeek-R1 https://t.co/0kg5TciTd3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039770487832641595",
+    "time": "2026-04-03 02:22",
+    "id_str": "2039770487832641595",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 SHOCKING: MIT just proved ChatGPT can drive rational people insane.\n\n&gt; Not crazy people. Normal people. The chatbot agre…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039764897719107664",
+    "time": "2026-04-03 02:00",
+    "id_str": "2039764897719107664",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Open the schools https://t.co/eCdxKZBOLf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2039761322091626742",
+    "time": "2026-04-03 01:46",
+    "id_str": "2039761322091626742",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @drashyakuruwa: Somewhere in the Multiverse.. https://t.co/Ik1AULTHt7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039764604369125592",
+    "time": "2026-04-03 01:59",
+    "id_str": "2039764604369125592",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Show others your favourite creation with AI this week. Support and connect with other creators.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039769743146553703",
+    "time": "2026-04-03 02:19",
+    "id_str": "2039769743146553703",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This is absolutely wild to me! Did not see that coming.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2039763438529102279",
+    "time": "2026-04-03 01:54",
+    "id_str": "2039763438529102279",
+    "is_retweet": false
   }
 ]
