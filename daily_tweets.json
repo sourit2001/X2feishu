@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "智谱发布 GLM-5V-Turbo 模型\n\n我最近用 GLM-5 Turbo 非常频繁又快又好，就是有时候没办法发图\n\n现在终于可以搞定了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039501802597740556",
+    "time": "2026-04-02 08:34",
+    "id_str": "2039501802597740556",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "橘子 @oran_ge  新产品 ColaOS 发布了，最近用了一段时间确实牛逼。\n\n门槛非常低，同时这个 AI 的语音以及它的人格调教得非常真实，让你不自觉地就想聊天下、对话下去。\n\n而且能力也很强，该调用的那些工具都能调用。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039520154506371551",
+    "time": "2026-04-02 09:47",
+    "id_str": "2039520154506371551",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "没必要worktree，可以 clone 几份放在固定的目录，轮着用就够了，每次pull最新然后checkout一个新的branch，完成后提PR合并到main",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039514661331034299",
+    "time": "2026-04-02 09:26",
+    "id_str": "2039514661331034299",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "20 million developers used to be the gatekeepers to software.\n\nWabi CEO Eugenia Kuyda on who gets to build now:\n\n \"The only people who could make software up until last year or so [were] just professional developers... Very few people in the world.\"\n\n\"Even if you have a good https://t.co/G9MHSXmJ8j",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2039490802381115711",
+    "time": "2026-04-02 07:51",
+    "id_str": "2039490802381115711",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "RT @oran_ge: 2030 年，人类历史上第一个有灵魂的操作系统诞生，她的名字叫 ColaOS。\nColaOS 的起源，可以追溯到今天，也就是 2026 年 4 月 2 日。\n今天，我们开启了 ColaOS 项目的首轮不删档内测。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2039503976178307405",
+    "time": "2026-04-02 08:43",
+    "id_str": "2039503976178307405",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "昨晚发完可能很多朋友没看到\n今天我还会刚出第二支视频短片\n敬请期待！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2039509280437764599",
+    "time": "2026-04-02 09:04",
+    "id_str": "2039509280437764599",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "牛P\n\nClaude Code 发布了 NO_FLICKER 模式\n\n 一个全新的终端渲染方案 \n\n终端不再闪烁，而且可以直接用鼠标了\n\n-不再闪烁 不再跳跃，随着对话的进行，内存和CPU使用率持续上升。\n\n终端里能用鼠标了\n\n这是 NO_FLICKER 模式附带的惊喜：完整的鼠标操作支持。 https://t.co/Afd44D8VmP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039511510553342302",
+    "time": "2026-04-02 09:13",
+    "id_str": "2039511510553342302",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/Uenvkt35kg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039513067051155496",
+    "time": "2026-04-02 09:19",
+    "id_str": "2039513067051155496",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "写错了 降低了内存和CPU使用 不是上升😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039515907568087317",
+    "time": "2026-04-02 09:30",
+    "id_str": "2039515907568087317",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "QT your surreal art https://t.co/Q7PmkLmCuT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039490779614171213",
+    "time": "2026-04-02 07:51",
+    "id_str": "2039490779614171213",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "We aren’t building AI for chaos. Harmony is the goal. https://t.co/8TQ3Edm3jB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039493320473182684",
+    "time": "2026-04-02 08:01",
+    "id_str": "2039493320473182684",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "115,000 of you showed up for this little corner of the internet dedicated to AI.\n\nI genuinely didn't see that coming.\n\nThank you! For every comment, every repost, every time you stopped scrolling to engage. \n\nThis community keeps me curious, keeps me creating, and honestly keeps https://t.co/CpAllkHMLF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039517524547506675",
+    "time": "2026-04-02 09:37",
+    "id_str": "2039517524547506675",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: We just released Turntable in Illustrator for everyone 🎉\n\nYou can rotate 2D vector art in 3D.\nPlace all frames on canvas.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039519787772977646",
+    "time": "2026-04-02 09:46",
+    "id_str": "2039519787772977646",
+    "is_retweet": true
+  }
+]
