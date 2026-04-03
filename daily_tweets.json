@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Video Killed the Radio Star",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040103821528179054",
+    "time": "2026-04-04 00:27",
+    "id_str": "2040103821528179054",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Imagine",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040103981784211696",
+    "time": "2026-04-04 00:27",
+    "id_str": "2040103981784211696",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/QrPaYGxGB4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040105047611367774",
+    "time": "2026-04-04 00:32",
+    "id_str": "2040105047611367774",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "可以在 Codepilot 爽用谷歌新的本地模型 Gamma 4 了！\n\nCodepilot 0.46.0 更新了 Ollama 本地模型的接入\n\n启动 Ollama 安装 Gemma 4 就可以在 Codepilot 里面爽用了\n\n但是在终端里很快，然后传输到 Claude Code 就很慢，不知道 Ollama 这个里边是不是有一些问题。 https://t.co/Xz6UsjyLSv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2040105334833062293",
+    "time": "2026-04-04 00:33",
+    "id_str": "2040105334833062293",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这里尝试：https://t.co/6Dfac8nIlc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2040105430740013311",
+    "time": "2026-04-04 00:33",
+    "id_str": "2040105430740013311",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The RAG era was short-lived, but intense. \n\n(Not that RAG is not useful, but it is no longer the dominant paradigm for supplying context to agents)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040094108853600646",
+    "time": "2026-04-03 23:48",
+    "id_str": "2040094108853600646",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Here’s an independent domain extension of METR’s famous time-horizon analysis, applying it to offensive cybersecurity with real human expert timing data\n\nSimilar to METR: 5.7 months doubling time. Frontier models now succeed 50% of the time at tasks that take human experts 10.5h. https://t.co/7qzxaZUe96",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040097443807641982",
+    "time": "2026-04-04 00:01",
+    "id_str": "2040097443807641982",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Heres the report: https://t.co/hog5OtR42C",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040098451355013136",
+    "time": "2026-04-04 00:05",
+    "id_str": "2040098451355013136",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "RT @kai_brokering: I think we just fixed Siri https://t.co/LcUP5Yu8aK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2040100906600189973",
+    "time": "2026-04-04 00:15",
+    "id_str": "2040100906600189973",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: https://t.co/W1xh6apUca",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040094979616370764",
+    "time": "2026-04-03 23:52",
+    "id_str": "2040094979616370764",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude can now help you build your one-person business like Dan Koe's $5M solo operation (for free).\n\nHere are…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040099965754851791",
+    "time": "2026-04-04 00:11",
+    "id_str": "2040099965754851791",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @baglino: https://t.co/rxEiZjZsr7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2040097801179427295",
+    "time": "2026-04-04 00:03",
+    "id_str": "2040097801179427295",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Tech spend is going to AI\n\nMore charts: https://t.co/tusDMkBz8W https://t.co/K1zWLNV5d4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2040098262112444484",
+    "time": "2026-04-04 00:05",
+    "id_str": "2040098262112444484",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GPT-realtime-1.5 模型最新演示\n\n用语音实时操控修改PPT\n\n- 语音说\"下一页\"，幻灯片自动翻页\n\n- 发现幻灯片上有拼写错误（\"Tool culling\"应该是\"Tool calling\"），语音说\"切到编辑模式，帮我改一下\"，AI 直接改了\n\n- 语音说\"跳到基准测试那页\"，AI 自动跳转\n\n- https://t.co/iMwoVS6139",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2040100830918090927",
+    "time": "2026-04-04 00:15",
+    "id_str": "2040100830918090927",
+    "is_retweet": false
+  }
+]
