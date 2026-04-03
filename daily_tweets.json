@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "文档平台 Mintlify 发了一篇工程博客，讲了一件挺有意思的事：他们给自家 AI 文档助手造了一套假的文件系统，叫 ChromaFs，让 AI 以为自己在用 grep、cat、ls 这些命令浏览文件，实际上每个命令都被拦截、翻译成了数据库查询。\n\n效果很直接：会话启动时间从原来沙箱方案的 46 秒降到 100 https://t.co/oSoziZerxn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040157640442229153",
+    "time": "2026-04-04 04:01",
+    "id_str": "2040157640442229153",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "充分利用 AI 情绪提升生成结果的 Prompt 应用案例：\n\n先让 AI 扮演仇人挑刺，AI 给出犀利又中肯的意见；然后基于这些意见去写一版本更好的气死仇人 \n\n可能 AI 明白了什么是同仇敌忾😂 https://t.co/LB6Tea4wHX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040159519607587304",
+    "time": "2026-04-04 04:08",
+    "id_str": "2040159519607587304",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Likely the most widely-distributed photograph in history, the original Blue Marble, taken by an unknown astronaut in 1972 from Apollo 17, and becoming the model for many images of Earth. \n\nNow we have a sequel, from Artemis (the second image). Other photos in the quote tweet. https://t.co/pNQXRyaP4F",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040163288621650225",
+    "time": "2026-04-04 04:23",
+    "id_str": "2040163288621650225",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: ignore the hype and start using perplexity computer.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040156191381127287",
+    "time": "2026-04-04 03:55",
+    "id_str": "2040156191381127287",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @rufusd: @icreatelife Here's the animated version I did some time ago using Express 😅 https://t.co/sCbwkZRQ19",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2040159764856934446",
+    "time": "2026-04-04 04:09",
+    "id_str": "2040159764856934446",
+    "is_retweet": true
+  }
+]
