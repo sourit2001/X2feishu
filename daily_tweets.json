@@ -218,5 +218,65 @@
     "time": "2026-04-04 01:26",
     "id_str": "2040118755863499138",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "鸭哥说的对，让 Agent 能高质量出活的关键是给 Agent 建立好 feedback loop，让它能自己去验证自己的结果，这样它就能反复调整验证，直到任务完成，而不需要过多的人工确认",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040126382152233456",
+    "time": "2026-04-04 01:56",
+    "id_str": "2040126382152233456",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This new Nature paper (using old models) illustrates the point of my latest Substack post on AI interfaces. AI did a good job diagnosing medical issues, but when users had to interact with chatbots the interface led to confusion &amp; worse answers\n\nMy post: https://t.co/yRxaSHTQrX https://t.co/HX6ntur1JI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040122884371140787",
+    "time": "2026-04-04 01:42",
+    "id_str": "2040122884371140787",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Nature article: https://t.co/3fulB2A8dL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040123720254071282",
+    "time": "2026-04-04 01:46",
+    "id_str": "2040123720254071282",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Monitoring the shipping situation: Freight carriers are busy &amp; turning down work at the highest rate in years\n\nMore charts: https://t.co/tusDMkBz8W https://t.co/SN9warAcAw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2040127244799189123",
+    "time": "2026-04-04 02:00",
+    "id_str": "2040127244799189123",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Only 3% of households are paying for AI. But once they get a taste, they come back for more.\n\nMore charts: https://t.co/tusDMkBz8W https://t.co/T6CkbHTZD3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2040134762392928564",
+    "time": "2026-04-04 02:30",
+    "id_str": "2040134762392928564",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "良い週末を 🌸",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2040136806994153550",
+    "time": "2026-04-04 02:38",
+    "id_str": "2040136806994153550",
+    "is_retweet": false
   }
 ]
