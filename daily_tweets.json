@@ -268,5 +268,275 @@
     "time": "2026-04-03 09:23",
     "id_str": "2039876483980677160",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Wow",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039884666493415891",
+    "time": "2026-04-03 09:56",
+    "id_str": "2039884666493415891",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039898607474897142",
+    "time": "2026-04-03 10:51",
+    "id_str": "2039898607474897142",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @dvorahfr: I love this effect!\n Grok Imagine https://t.co/aXC5XwHo5t",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039899431689187595",
+    "time": "2026-04-03 10:54",
+    "id_str": "2039899431689187595",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "😮",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039900603552596036",
+    "time": "2026-04-03 10:59",
+    "id_str": "2039900603552596036",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039902890777796981",
+    "time": "2026-04-03 11:08",
+    "id_str": "2039902890777796981",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "You can now choose between speed and quality for Imagine.\n\nProfessional mode is coming later this month.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039921424467722369",
+    "time": "2026-04-03 12:22",
+    "id_str": "2039921424467722369",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谷歌昨天发布了 Gemma 4，这次非常牛逼！\n\n专门用来在本地设备（比如手机、电脑）上跑，而且支持了 agent 和工具使用。\n\n四个参数大小：\nE2B：主打手机 / IoT / 边缘设备。\nE4B：为移动端 + Jetson / 树莓派设计。\n26B MoE：单次激活 3.8B，有效参数很小，主打高 TPS、低延迟。\n31B Dense：全密集 https://t.co/dJMBC777Sw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039890169512472793",
+    "time": "2026-04-03 10:18",
+    "id_str": "2039890169512472793",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谷歌还发布了一个安卓应用，来体验他们这次新发布的 Gemma 4 模型。\n\n我用我现在的小米 17 Ultra 试了一下，在用这个 E4B 模型的时候，推理速度非常快。\n\n而且这个 App 现在还内置了一个 Skills 的体验区域，你可以自己去让它调用工具编写和试用 Skills。\n\n可以在 Google Play 搜索 Google AI Edge https://t.co/3GzVEjWAWx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039890996293669248",
+    "time": "2026-04-03 10:21",
+    "id_str": "2039890996293669248",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "直接在谷歌这个 APP 体验\n\nhttps://t.co/nDUvuj7fE7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039891115487412329",
+    "time": "2026-04-03 10:21",
+    "id_str": "2039891115487412329",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Karpathy 分享了他如何构建本地的 AI 知识库\n\n跟我用的方法也很相似，但还是有很多可以借鉴的地方，推荐看看。\n\n都是用的 Obsidian，纯本地 MD，然后用一些反向链接、索引的方式把它们连起来。\n\n他构建了一个用大语言模型驱动的个人 Wiki 知识库，然后把原始资料都丢进一个叫 RAW 的目录。 https://t.co/8kyCzfYTvW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039898050697839041",
+    "time": "2026-04-03 10:49",
+    "id_str": "2039898050697839041",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "用香蕉做一张图片，来解释 Karpathy 的方法和我的方法之间的一些区别和共性 https://t.co/oorxurulnu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039899094693593392",
+    "time": "2026-04-03 10:53",
+    "id_str": "2039899094693593392",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "香蕉🍌做的图https://t.co/W3LCX4zT6V",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039901546885116030",
+    "time": "2026-04-03 11:03",
+    "id_str": "2039901546885116030",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "今天下午 2:00 到 4:00，在腾讯研究院这边直播 https://t.co/Z15loj9jAs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2039911365373280649",
+    "time": "2026-04-03 11:42",
+    "id_str": "2039911365373280649",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "原文作者\nhttps://t.co/9tPz91Tt1Z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039889951538475350",
+    "time": "2026-04-03 10:17",
+    "id_str": "2039889951538475350",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个 Claude Code 的灵动岛看起来真的挺酷的👍",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039893544735830128",
+    "time": "2026-04-03 10:31",
+    "id_str": "2039893544735830128",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/4CwYadfD9O",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039915423685042291",
+    "time": "2026-04-03 11:58",
+    "id_str": "2039915423685042291",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Looking for a nice apartment to sublet for a month in SF\n\n2 bedrooms, no SOMA/Tenderloin\n\nThanks!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2039888740743856546",
+    "time": "2026-04-03 10:12",
+    "id_str": "2039888740743856546",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "My OpenClaw agent, Dwayne 'The Bot' Johnson, is now DMing me selfies that he generated with Nano Banana https://t.co/xVqmPkAFxi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2039899714540425590",
+    "time": "2026-04-03 10:56",
+    "id_str": "2039899714540425590",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "在几个人工作能力相同的情况下\n那些积极主动，情商更高，善于沟通的人\n做事拿到的结果往往也会更好\n\n人是这样的\nAgent 也是",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2039892306451677634",
+    "time": "2026-04-03 10:26",
+    "id_str": "2039892306451677634",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 发布 Gemma 4 开源模型 \n\n手机、树莓派都能跑\n\n跟 Gemma 3 比，这次不是小修小补，而是从架构、能力到许可证的全面升级\n\n四个尺寸覆盖从手机到工作站的全硬件场景，Apache 2.0 许可证完全开放商用。\n\n通 过Google Al Edge Gallery 手机客户端可以直接体验↓\n\n一共四个版本两大两小： https://t.co/5lWI3U7JDT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039887512215371935",
+    "time": "2026-04-03 10:07",
+    "id_str": "2039887512215371935",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Gemma 4 一口气出了四个版本： https://t.co/2Hny4URvUm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039887515201806804",
+    "time": "2026-04-03 10:07",
+    "id_str": "2039887515201806804",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "测试了下 速度非常快 https://t.co/PUsYaeCmGu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039887517701534168",
+    "time": "2026-04-03 10:07",
+    "id_str": "2039887517701534168",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/Sh8KPaYTjY https://t.co/BwlhfBddRv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2039887834459599303",
+    "time": "2026-04-03 10:08",
+    "id_str": "2039887834459599303",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "谁能形容下国内就业环境的情况。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039896997952631285",
+    "time": "2026-04-03 10:45",
+    "id_str": "2039896997952631285",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "今天，我们正式发布 Gemma 4，这是我们全新的开放基础模型系列，它基于与 Gemini 3 系列相同的研究和技术构建而成。\n\n这些模型为开放智能树立了新的标杆，提供从边缘规模（20 亿和 40 亿像素，支持视觉/音频）到 260 亿参数的 MoE 模型和 310 亿像素的密集模型等一系列最先进的推理能力。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039909185568358554",
+    "time": "2026-04-03 11:33",
+    "id_str": "2039909185568358554",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Sam_SmilesMY: @icreatelife https://t.co/4bUnph85GV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039901172476125250",
+    "time": "2026-04-03 11:01",
+    "id_str": "2039901172476125250",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Support AI creators",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039920736349954256",
+    "time": "2026-04-03 12:19",
+    "id_str": "2039920736349954256",
+    "is_retweet": false
   }
 ]
