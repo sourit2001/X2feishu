@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Jason: The ultimate California fraud has been hiding in plain sight \n\nWho got the money? \n\nWhere is all the money?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039848158784806987",
+    "time": "2026-04-03 07:31",
+    "id_str": "2039848158784806987",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Small improvements to Imagine are happening frequently. Looks like we need another few weeks of training for Imagine 2.0, which will have major upgrades in speech/audio and face/details consistency.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039875646789472465",
+    "time": "2026-04-03 09:20",
+    "id_str": "2039875646789472465",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Current release of Grok is much than beta 1, which beat Opus in this arena. We usually update the model twice a week.\n\nTry the current version of Grok Heavy and you will be pleasantly surprised.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039876781172461743",
+    "time": "2026-04-03 09:24",
+    "id_str": "2039876781172461743",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try https://t.co/Ui0vr66BL1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039876924458353044",
+    "time": "2026-04-03 09:25",
+    "id_str": "2039876924458353044",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "New version of Grok app released",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2039877996396581133",
+    "time": "2026-04-03 09:29",
+    "id_str": "2039877996396581133",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @pcaversaccio: it's a remarkable milestone for anyone working on compilers and smart contract security: Vyper is set to become the _firs…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2039876451680329996",
+    "time": "2026-04-03 09:23",
+    "id_str": "2039876451680329996",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/XxAkJdHil2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039851620293636379",
+    "time": "2026-04-03 07:44",
+    "id_str": "2039851620293636379",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "请教两个问题：\n1. Claude Code 的 Prompt Caching  过期时间是多少？5分钟还是 1 小时？\n2. 基于这样的 Caching 过期时间设置，怎么样可以更好的节约 token 成本？\n\nCodex CLI / https://t.co/Hk2c4x6Sui 又分别是多少？\n\n参考文档：https://t.co/kcAGgvUVFX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039852931705409822",
+    "time": "2026-04-03 07:50",
+    "id_str": "2039852931705409822",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @oran_ge: Slack 这家公司太离谱了\n昨天宣发 ColaOS，是我们公司最忙的一天\n结果它直接就把我们的工作区删除了\n一个做 IM 的，都没有任何的界面提示，也不让人备份数据，就直接给删掉了\n\n而它就在几天前，刚刚还扣了我们公司一笔订阅费\n我们员工都懵了，不知…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039853323356901463",
+    "time": "2026-04-03 07:51",
+    "id_str": "2039853323356901463",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @vista8: 身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-desi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2039856736513740801",
+    "time": "2026-04-03 08:05",
+    "id_str": "2039856736513740801",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Good research. Bad framing.\n\nThe model doesn't have emotions. It has reward-shaped activation patterns that cluster like emotion categories when you map them after the fact.\n\n\"Happy\" = helpful behavior was rewarded. \n\"Angry\" = protective behavior was rewarded. \n\"Desperate\" = https://t.co/u0p7JB8MaH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039853029180973095",
+    "time": "2026-04-03 07:50",
+    "id_str": "2039853029180973095",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most people will scroll past this article.\n\nThe ones who read it will permanently change how they prompt every AI tool they use.\n\nOutcome-first prompting is the single shift that separates people getting generic answers from people getting finished deliverables. \n\nSame models.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039856075521098108",
+    "time": "2026-04-03 08:02",
+    "id_str": "2039856075521098108",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Why is Tim Cook so bad at cooking? https://t.co/c8pjzCgoIy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2039865443540770875",
+    "time": "2026-04-03 08:39",
+    "id_str": "2039865443540770875",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I find it amusing that whenever a tech publication dares to be positive about startups and technology, they’re automatically accused of “selling out to billionaires”",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2039866317927522432",
+    "time": "2026-04-03 08:43",
+    "id_str": "2039866317927522432",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @feross: Great piece from @a16z. A few things I’d add from the front lines of detecting the Axios attack:\n\nSocket detecting the attack 1…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2039854879414624271",
+    "time": "2026-04-03 07:57",
+    "id_str": "2039854879414624271",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "LLM 知识库\n\n最近我发现一个非常有用的方法：使用 LLM 构建个人知识库，涵盖各种我感兴趣的研究主题。\n\n这样一来，我最近大部分的 token 吞吐量就不再用于代码操作，而是更多地用于知识处理（以 Markdown 和图像形式存储）。\n\n最新的 LLM 在这方面表现出色。具体来说：\n\n数据导入：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039873954056405221",
+    "time": "2026-04-03 09:13",
+    "id_str": "2039873954056405221",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @vista8: 身边很多朋友都做了信息卡生成Skill。\n\n我也多贡献一个，给任意URL，自动抓取Markdown，生成HTML摘要总结，再自动截图生成类似下面的图片。\n\nSkill安装指令：npx skills add joeseesun/info-card-desi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039874078136545466",
+    "time": "2026-04-03 09:14",
+    "id_str": "2039874078136545466",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Gemini API 新增成本与可靠性平衡方案\n\n今天，我们为 Gemini API 新增了两个服务层级：Flex 和 Priority。这些新选项让您能够通过统一的界面，对成本和可靠性进行精细化控制。\n\n随着人工智能从简单的聊天发展到复杂的自主代理，开发人员通常需要管理两种不同的逻辑：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039874696263725062",
+    "time": "2026-04-03 09:16",
+    "id_str": "2039874696263725062",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "十几行prompt就能把我们部门全球百来号人替代了，肯定还做得更好...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2039875364722520166",
+    "time": "2026-04-03 09:19",
+    "id_str": "2039875364722520166",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I am so glad those who followed my account  fully embraced AI and spend time learning it, connecting with others and sharing your work. Keep going! This AI community is amazing. What makes me even more happy is that you keep educating others. Anti-AI wave will be gone very soon",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039860232717767007",
+    "time": "2026-04-03 08:19",
+    "id_str": "2039860232717767007",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Always inspired by this AI artist from Japan",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039862144036962500",
+    "time": "2026-04-03 08:26",
+    "id_str": "2039862144036962500",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Tonight New York is extra beautiful. \nThese are photographs / videos, without AI. \nNew York is my home for more than 10 years and I still take a thousand photos / videos a day because of how beautiful city it is! https://t.co/e824y4RwZM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039867693856166293",
+    "time": "2026-04-03 08:48",
+    "id_str": "2039867693856166293",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I was so surprised how today at my Japanese language group class everyone started discussing how they use AI to help them learn language. \nI told them I do AI as a job and they all shared how they use AI to make learning easier. Honestly, it was a great feeling and so unexpected https://t.co/kJss5mNWQD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039868636517499174",
+    "time": "2026-04-03 08:52",
+    "id_str": "2039868636517499174",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Thanks to AI I made a lot of great friends. @Preda2005 gifted me this horse for New Year and today I was making a presentation in Japan Society writing about it.  🥹✨🫶 \n\nありがとう　😊 https://t.co/AT3HFb5BQH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039869150047150320",
+    "time": "2026-04-03 08:54",
+    "id_str": "2039869150047150320",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Absolutely every time I post an AI animation it goes viral thanks to people who don’t like AI. \n\nFrom the bottom of my heart, thank you 🥹 nothing motivates me more to make more of those! \n\nI do recommend you trying making one though. It’s incredibly fun and still challenging.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039869739606966713",
+    "time": "2026-04-03 08:56",
+    "id_str": "2039869739606966713",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "QT you in space 👩‍🚀 https://t.co/Sc7Lsrw3es",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039875569349804273",
+    "time": "2026-04-03 09:20",
+    "id_str": "2039875569349804273",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I love you all, my favorite avocados friends 🥑🥹🫶✨ https://t.co/5MvgZFEOvD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2039876483980677160",
+    "time": "2026-04-03 09:23",
+    "id_str": "2039876483980677160",
+    "is_retweet": false
+  }
+]
