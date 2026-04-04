@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "claude -p --output-format json ... \n卧槽，claude -p 这种方式从 4 月 4 日起居然也会被 Anthropic 算作第三方用量，需要开通 Extra Usage。\n\nhttps://t.co/1magMOTvxg https://t.co/sxD3by8IoR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040281402906738746",
+    "time": "2026-04-04 12:12",
+    "id_str": "2040281402906738746",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Overheard a very smart engineer say: \n\n\"Today I looked up something on Google and it took me to an article, and I read 3 paragraphs, and i was like no i can't do this anymore, then i went to claude\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2040282154538819861",
+    "time": "2026-04-04 12:15",
+    "id_str": "2040282154538819861",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "How many lines of code do you think it takes to clone Delve? Somewhere in SF Garry Tan has 8 concurrent claude code instances up. He's on the case, give him 3 days. Matter fact give him 2 days because GStack gives him a head start.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2040295331796332650",
+    "time": "2026-04-04 13:08",
+    "id_str": "2040295331796332650",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Agent 即 Unix\n来自 @pmarca 的播客 https://t.co/Ggjhy6Iiqu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2040285813536379253",
+    "time": "2026-04-04 12:30",
+    "id_str": "2040285813536379253",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "都去看看你的Claude 后台\n\n送钱了\n\n会对应送你订阅金额的赠送金\n\n可以在你用量用完的情况下启动这个赠送额度，但是记得要设置限额，不然肯能超了要扣你卡… https://t.co/WPngxov9VG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2040304438896972264",
+    "time": "2026-04-04 13:44",
+    "id_str": "2040304438896972264",
+    "is_retweet": false
+  }
+]
