@@ -138,5 +138,135 @@
     "time": "2026-04-04 08:48",
     "id_str": "2040230029850706315",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "早上起来时间线上都在骂。\n\nAnthropic 宣布说，不能用 Claude 账户中的额度使用 OpenClaw 这种三方的产品了。\n\n他们会送你一个月的额度进行过渡，之后就得购买单独额度。\n\n关于 Claude Code 的额度消耗异常问题，昨天也回复了，意思是不存在问题。\n\n真太傻逼了，当大家傻子。\n\n与此同时，Codex https://t.co/lP7y9nV7Pw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2040245390814085270",
+    "time": "2026-04-04 09:49",
+    "id_str": "2040245390814085270",
+    "is_retweet": false
+  },
+  {
+    "username": "lexfridman",
+    "nickname": "Lex",
+    "text": "@karpathy Same, I have a similar setup. A mix of Obsidian, Cursor (for md), and vibe-coded web terminals as front-end.\n\nSince I do a podcast, the number/diversity of research interests is very large. But the knowledge-base approach has been working great.\n\nFor answers, I often have it",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lexfridman/status/2039841897066414291",
+    "time": "2026-04-03 07:06",
+    "id_str": "2039841897066414291",
+    "is_retweet": false
+  },
+  {
+    "username": "lexfridman",
+    "nickname": "Lex",
+    "text": "RT @lexfridman: @karpathy Same, I have a similar setup. A mix of Obsidian, Cursor (for md), and vibe-coded web terminals as front-end.\n\nSin…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lexfridman/status/2040248919905443847",
+    "time": "2026-04-04 10:03",
+    "id_str": "2040248919905443847",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "一个提示词技巧：如何让 Gemini/nano banana 帮你去掉照片水印\n\n如果你直接让 Gemini 去水印，有些水印它是不给去的，但是你换个思路就可以。\n\n第一步：不要说去水印，让它把背景和文字都去掉，换个颜色。\n参考提示词：\n&gt; 人物形象不变，但是衣服和帽子换成红色，干净背景没有文字 https://t.co/OXxGVDLnHG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040260984703520792",
+    "time": "2026-04-04 10:51",
+    "id_str": "2040260984703520792",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenClaw 创始人 Peter Steinberger 说自己一觉醒来满屏都是这条消息，还透露他和 Dave Morin 曾试图劝 Anthropic 回心转意，最终只争取到推迟一周执行。\n\n最后一句扎心了：时间线太巧了，先把开源社区的热门功能抄进自家封闭产品，然后把开源挡在门外。\nhttps://t.co/PjQsYcTjfQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040270472026194199",
+    "time": "2026-04-04 11:29",
+    "id_str": "2040270472026194199",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "还有一个重要细节值得补充。有开发者追问：那些在本地包装 Claude Code 的个人工具（比如 T3 Code），订阅还能用吗？Boris Cherny 确认可以，并表示正在把这条边界写得更清楚。Theo（T3 Code 作者）随即宣布自家工具安全过关。\n\n但 Anthropic 工程师 Thariq 马上补了一句冷水：这个确认仅限于包装 https://t.co/xGik3guNc8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040278308298928335",
+    "time": "2026-04-04 12:00",
+    "id_str": "2040278308298928335",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I feel like there would have been way less backlash if they didn’t do the fake street interviews lol\n\nGood luck",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2040261211967902012",
+    "time": "2026-04-04 10:52",
+    "id_str": "2040261211967902012",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Similarly, AGI will be achieved when society’s collective IQ is obliterated due to LLMs and Instagram Reels\n\nThe models don’t need to get any better!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2040264862262264314",
+    "time": "2026-04-04 11:07",
+    "id_str": "2040264862262264314",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Three new image models have hit the Arena 👀\n\nThey're named maskingtape, packingtape, and gaffertape.\n\nI'm particularly impressed by the amount of \"world knowledge\" these models have - as well as the text rendering.\n\nThese were simple prompts: \n\"average engineer's screen\" and https://t.co/3b29M6su8K",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2040273845748449724",
+    "time": "2026-04-04 11:42",
+    "id_str": "2040273845748449724",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "These models have a remarkable ability to know what specific locations in the real world look like. \n\nThese are a couple examples, prompts were also simple: \n\n\"Poster hall at NeurIPS 2025\"\n\"POV from a biker riding around the Stanford campus\"\n\nZoom in on the poster text 😲 https://t.co/WRr9c8ZZnn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2040276591000117690",
+    "time": "2026-04-04 11:53",
+    "id_str": "2040276591000117690",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "They aren't perfect - but there are some real flashes of brilliance here.\n\nThis one was \"screengrab of a16z podcast on YouTube.\"\n\nThe YouTube interface and text are insanely good (look at those timestamps!)\n\nThat's not quite Marc and David...but we'll take it 😂 https://t.co/woErUJEk2x",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2040277476119896352",
+    "time": "2026-04-04 11:57",
+    "id_str": "2040277476119896352",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude 正式给所有订阅用户发布消息\n\n彻底封杀OpenClaw 等第三方\n\n邮件明确说明：Claude 订阅将不再涵盖 OpenClaw 等第三方工具的使用额度。\n\n根据Anthropic的政策文档：在任何非官方工具中使用OAuth token，是违反消费者服务条款，执行手段包括服务器端拦截和自动封号。\n\n您好： https://t.co/n9kSBc3bOH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2040247606966964448",
+    "time": "2026-04-04 09:58",
+    "id_str": "2040247606966964448",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "把这期播客，用  /ljg-card -c 跑了一下：\n\nhttps://t.co/1rc3eVnOvr https://t.co/YWwIQy762S",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2040273696171163896",
+    "time": "2026-04-04 11:42",
+    "id_str": "2040273696171163896",
+    "is_retweet": false
   }
 ]
