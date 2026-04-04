@@ -28,5 +28,55 @@
     "time": "2026-04-04 21:46",
     "id_str": "2040425829251895395",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Big deal paper here: field experiment on 515 startups, half shown case studies of how startups are successfully using AI.\n\nThose firms used AI 44% more, had 1.9x higher revenue, needed 39% less capital:\n1) AI accelerates businesses\n2) The challenge is understanding how to use it https://t.co/3verMMjO3e",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040436307176898897",
+    "time": "2026-04-04 22:28",
+    "id_str": "2040436307176898897",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude can now refine your startup idea like Paul Graham evaluates YC startups (for free).\n\nMost ideas sound go…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040426600735338885",
+    "time": "2026-04-04 21:49",
+    "id_str": "2040426600735338885",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I tested 200+ workflows on Perplexity Computer.\n\nThe ones that failed all had the same problem: they were prompted like ChatGPT conversations.\n\nThe ones that delivered McKinsey-grade output? All used one framework.\n\nIt's called the Dispatch Brief. Full breakdown inside.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040432418549535085",
+    "time": "2026-04-04 22:12",
+    "id_str": "2040432418549535085",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Claude burns 75% of its tokens saying things you never asked for.\n\nI built a system prompt called \"Kevin Mode\" that kills…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040432494718148687",
+    "time": "2026-04-04 22:13",
+    "id_str": "2040432494718148687",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "boss上有的老板的岗位要求写得也是挺烂的 ...\n\n1. 招使用 springboot 的全栈工程师，还要回用 uniapp 做移动前端...\n\n2. 招会爬虫技术和逆向API（黑客）技术的大模型预训练工程师，要求 从数据获取 、数据清洗 、 数据预训练 、 模型评估、 后训练，独立开发一个人搞定...\n\n上面几个技能跨度可大了...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2040436081645195729",
+    "time": "2026-04-04 22:27",
+    "id_str": "2040436081645195729",
+    "is_retweet": false
   }
 ]
