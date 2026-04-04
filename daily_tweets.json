@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Hi @grok summarize this in 6 words, too long.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2040343244169712056",
+    "time": "2026-04-04 16:18",
+    "id_str": "2040343244169712056",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Claude can now build your personal brand like Seth Godin built a $100M empire with zero ads (for free).\n\nHere…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040347116061732934",
+    "time": "2026-04-04 16:33",
+    "id_str": "2040347116061732934",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude can now help you build your one-person business like Dan Koe's $5M solo operation (for free).\n\nHere are…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040347303358476765",
+    "time": "2026-04-04 16:34",
+    "id_str": "2040347303358476765",
+    "is_retweet": true
+  }
+]
