@@ -58,5 +58,25 @@
     "time": "2026-04-06 05:03",
     "id_str": "2040898061480911163",
     "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Unappreciated fact is the second scaling law does not seem to completely plateau in many tasks: throw more tokens at a reasoning AI model and get better answers, especially with a simple harness.\n\nBenchmark performance is actually limited by token usage. https://t.co/jP3TgIsT2T https://t.co/DQs6OJvNTy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040911007392903231",
+    "time": "2026-04-06 05:54",
+    "id_str": "2040911007392903231",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Real world example: raising token limits from 3M to 10M tripled the amount of work that Codex could do independently on cybersecurity tasks. From 3.1 hours to 10.5 hours.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040912749849432258",
+    "time": "2026-04-06 06:01",
+    "id_str": "2040912749849432258",
+    "is_retweet": false
   }
 ]
