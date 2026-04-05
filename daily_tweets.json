@@ -28,5 +28,65 @@
     "time": "2026-04-06 00:15",
     "id_str": "2040825692544500159",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @doganuraldesign: Grok Imagine just got a huge upgrade!\n\nNow you can create realistic cinematic shots. I’ve created a prompt template to…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040829334320218337",
+    "time": "2026-04-06 00:30",
+    "id_str": "2040829334320218337",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "What makes the API update interesting",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040829476511285517",
+    "time": "2026-04-06 00:30",
+    "id_str": "2040829476511285517",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "刚我也测试了下，用“ --append-system-prompt”和“-p”是可以的，但是不能有 OpenClaw 关键字在 system prompt https://t.co/vkn6ZAUpTX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040830616032206967",
+    "time": "2026-04-06 00:35",
+    "id_str": "2040830616032206967",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "图2来自\nhttps://t.co/jw3ye66lCD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040830685187850752",
+    "time": "2026-04-06 00:35",
+    "id_str": "2040830685187850752",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Most companies running cross-border payments are losing 4-6% on every transaction and don't realize it because the fees are spread across three different line items. \n\nThe way it works: you sell in USD, your payment processor converts it to your home currency. That's fee one.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2040838016479133935",
+    "time": "2026-04-06 01:04",
+    "id_str": "2040838016479133935",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @luisao82: QT your Surreal Art https://t.co/vVNn6jnxL2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2040838349116645826",
+    "time": "2026-04-06 01:05",
+    "id_str": "2040838349116645826",
+    "is_retweet": true
   }
 ]
