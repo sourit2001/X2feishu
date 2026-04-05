@@ -78,5 +78,55 @@
     "time": "2026-04-05 09:45",
     "id_str": "2040606636142686493",
     "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Told someone at a hackathon that I don’t use GStack and they shot me",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2040629117142622278",
+    "time": "2026-04-05 11:14",
+    "id_str": "2040629117142622278",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GPT Image 2 开始灰度测试了\n\n中文文字渲染能力应该是和🍌一个水平了\n\n应该很快要发布了\n\n我测试了下，我还没灰度到😅\n\nTz测试看很多，感觉效果确实不错 https://t.co/jNFLSIhZrM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2040620032133374065",
+    "time": "2026-04-05 10:38",
+    "id_str": "2040620032133374065",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 归纳一下当前的评论区，有哪些类别的观点和评论，目前总体点评如何。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2040613196135067820",
+    "time": "2026-04-05 10:11",
+    "id_str": "2040613196135067820",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "利用 Cloud Run、Vertex AI、BigQuery 和 Dataflow 生成个性化产品推荐。\n\n此示例架构使用 AI 模型，根据点击流指标的洞察生成个性化产品推荐 → https://t.co/5PpFFcWKPO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2040648253092585535",
+    "time": "2026-04-05 12:30",
+    "id_str": "2040648253092585535",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: New Grok is so fine https://t.co/b1kMkPFSMt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2040649715138638062",
+    "time": "2026-04-05 12:36",
+    "id_str": "2040649715138638062",
+    "is_retweet": true
   }
 ]
