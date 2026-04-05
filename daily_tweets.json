@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Gemma 4 E4B on my iPhone gives a sense of why Apple thinks Gemini on-device models might be their solution. Very fast, GPT-4ish performance. Some agent work with harness. Skills implementations. Really impressive\n\nBut it still has the problems of small models:  fragility &amp; errors",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040767335657611325",
+    "time": "2026-04-05 20:23",
+    "id_str": "2040767335657611325",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Can’t pass the Lem Test, but close! https://t.co/Kbw5BRnnNQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040769112704516305",
+    "time": "2026-04-05 20:30",
+    "id_str": "2040769112704516305",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude can now refine your startup idea like Paul Graham evaluates YC startups (for free).\n\nMost ideas sound go…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2040756550667813134",
+    "time": "2026-04-05 19:40",
+    "id_str": "2040756550667813134",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "用 https://t.co/amPmlk52dx 看了下关于memory 的研究脉络：\n\n-------------------\n\n* 溯源地图\n\n[2020] Lewis et al. - RAG (Retrieval-Augmented Generation)\n  |\n  | 问题: 模型参数存的知识是死的，不能更新，不能追溯\n  | 解法: 生成时从外部文档库检索，拼进输入\n  v\n[2023.04] Park et al. -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2040764325850472797",
+    "time": "2026-04-05 20:11",
+    "id_str": "2040764325850472797",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "https://t.co/Il8HbQmwX1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2040764713483763982",
+    "time": "2026-04-05 20:13",
+    "id_str": "2040764713483763982",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "RT @yibie: Skills Manager 上线了。\n\n和之前说的：\n\n1.  能够妥善管理 Skill 的生命周期。发现，安装，测试，保留。 \n2.  提供 try 这个功能，让人在尝试之后，不满意的情况下，不保留该 Skill。\n\n劳烦大家移步到以下网站下载，如果觉…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2040768458586194414",
+    "time": "2026-04-05 20:28",
+    "id_str": "2040768458586194414",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "我一直在思考一个问题——我非常看好人们（在人工智能的赋能下）能够提升政府的透明度、可读性和问责制。\n\n历史上，政府一直致力于提升社会的透明度​​（例如，“像国家一样思考”是常用的说法），但借助人工智能，社会可以反过来显著提升自身的透明度。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2040770235624800317",
+    "time": "2026-04-05 20:35",
+    "id_str": "2040770235624800317",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "彼得·蒂尔：创业公司CEO的薪水“极具预测性”\n\n在2012年的一次采访中，蒂尔解释说，投资者能问的最好的问题之一就是“CEO的薪水是多少？”\n\n在他看来，即使在A轮融资之后，合适的答案也应该低于15万美元。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2040770358806970487",
+    "time": "2026-04-05 20:35",
+    "id_str": "2040770358806970487",
+    "is_retweet": false
+  }
+]
