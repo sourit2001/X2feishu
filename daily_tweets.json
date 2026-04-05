@@ -88,5 +88,65 @@
     "time": "2026-04-06 01:05",
     "id_str": "2040838349116645826",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @binghe: 如何利用 AI设计出你心目中的优秀界面设计？\n\nCoding 了个软件，但是 claude code 和 Codex 的前端设计的。。总是不太满意。。\n\n我又口喷不出来个所以然，但我在抖音发现了一个大兄弟，比较巧秒的做法，特别适合我们这些编程小白使用。……",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040844181942194353",
+    "time": "2026-04-06 01:29",
+    "id_str": "2040844181942194353",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "开源项目推荐：Claude Island\nMac 灵动岛 Claude Code 通知管理器\n\nClaude Code 用得越多，越离不开终端，但也越烦一个事：它每次要执行文件操作或运行命令时都需要你切回终端窗口点批准。开发者 farouqaldori 做了个小工具 Claude Island，把这个流程搬到了 MacBook 的刘海区域。\n\n这是一个 macOS https://t.co/J4XUzT4Mct",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040850151405707702",
+    "time": "2026-04-06 01:52",
+    "id_str": "2040850151405707702",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "小米 MiMo 团队负责人罗福莉：\n全球算力跟不上 Agent 时代的 Token 消耗，出路不是更便宜的 Token，而是更省 Token 的框架和更高效的模型共同进化。\n\n一个技术细节：\nOpenClaw 的上下文管理做得非常糟糕。一个用户请求会触发多轮低价值的工具调用，每次都带着超过 10 万 Token",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040854097838952598",
+    "time": "2026-04-06 02:08",
+    "id_str": "2040854097838952598",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Michaelzsguo : 很多浪费其实都来自设计不佳的 harness，小龙虾就是一个例子。\nhttps://t.co/dzQOdW4JQa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040854544779755670",
+    "time": "2026-04-06 02:10",
+    "id_str": "2040854544779755670",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "谢谢补充：\n原始Repo（没维护了）：https://t.co/2FKd9jceLI\n还在维护的fork：\nhttps://t.co/S5TQASuaYO\n\nhttps://t.co/9paqfcc3fi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2040855834838659408",
+    "time": "2026-04-06 02:15",
+    "id_str": "2040855834838659408",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Gemma 4 E4B is impressive for an on-device LLM. GPT-4ish quality, and expect hallucinations.\n\nHere is: “List five sociological theories starting with u and what they are. Then describe them in a rhyming verse”\n\nIts in real time, the last is a little bit of a stretch, but not bad! https://t.co/nJ5HuQsFSB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040851723774808310",
+    "time": "2026-04-06 01:59",
+    "id_str": "2040851723774808310",
+    "is_retweet": false
   }
 ]
