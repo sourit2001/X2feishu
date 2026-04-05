@@ -78,5 +78,55 @@
     "time": "2026-04-06 06:01",
     "id_str": "2040912749849432258",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I am impressed by Gemma 4, there’s a lot of power for an on-device model at fast speeds. But I am not convinced you can get real agentic workflows out of a small model on device. So much depends on model judgement, self-correction, and accuracy. Small models are too weak there. https://t.co/Adi9vlYL24",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040925197767762425",
+    "time": "2026-04-06 06:51",
+    "id_str": "2040925197767762425",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Diagrams from here: https://t.co/D557qQbs5g\n\nThe Apple bet appears to be they can pull this all off with on-device models. Really not sure that is the case. There is a reason agentic workflows only took off with recent frontier models. We shall see.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2040925705836405097",
+    "time": "2026-04-06 06:53",
+    "id_str": "2040925705836405097",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "原来 Agent 连 Mac 的日历根本不需要任何 mcp skill api cli 什么的\n通过 Mac 系统就直接连上了... https://t.co/9Pb6B4dDVB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2040927727646359664",
+    "time": "2026-04-06 07:01",
+    "id_str": "2040927727646359664",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Learn one thing, one technique, one algorithm of AI/ML every day. In a year you will be ahead of the majority.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2040929871551975704",
+    "time": "2026-04-06 07:09",
+    "id_str": "2040929871551975704",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @McConnellJ22629: @icreatelife https://t.co/pvvCz6S10v",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2040930861265141818",
+    "time": "2026-04-06 07:13",
+    "id_str": "2040930861265141818",
+    "is_retweet": true
   }
 ]
