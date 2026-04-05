@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @PaulYacoubian: Elon’s data centers are absolute units https://t.co/uJM4MthnUa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040575646557261915",
+    "time": "2026-04-05 07:42",
+    "id_str": "2040575646557261915",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @yunta_tsai: One day. https://t.co/95c0QJ5xDk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040597982555562006",
+    "time": "2026-04-05 09:10",
+    "id_str": "2040597982555562006",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: ChatGPT literally just flagged the Seven Last Words of Jesus on Good Friday....hit a policy violation &amp; marked it as \"dangerou…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2040599116825444861",
+    "time": "2026-04-05 09:15",
+    "id_str": "2040599116825444861",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2040572272944324650",
+    "time": "2026-04-05 07:28",
+    "id_str": "2040572272944324650",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Went to a party in SF and this dude comes up to me and asks the following questions within 60 seconds:\n\n- what are you building?\n- did you do YC? (when I said no, he said 'what? why not?')\n- what is your revenue?\n\n(Im not joking)\n\nBut yea in other news I just moved to SF 🤙 hi!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2040584264488767498",
+    "time": "2026-04-05 08:16",
+    "id_str": "2040584264488767498",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "我想分享一个可能略有改进的版本，放在一个“想法文件”里。这个想法文件的核心在于，在如今的LLM（学习管理）智能体时代，分享具体的代码/应用已经不再那么必要，你只需要分享想法，对方的智能体就会根据你的具体需求进行定制和构建。\n\n以下是想法的gist版本：https://t.co/fNqr7yq4xg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2040585629512437792",
+    "time": "2026-04-05 08:21",
+    "id_str": "2040585629512437792",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "由于人工智能代理的强大功能，Peter Steinberger 提议将开源项目中的 PR 重新定义为“快速请求”。\n\nPeter Steinberger 指出，人工智能代理可以实现大多数想法，因此无需提交代码生成的拉取请求，并建议将 PR 改为“快速请求”。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2040606599841193995",
+    "time": "2026-04-05 09:45",
+    "id_str": "2040606599841193995",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A rose a day,\nreminds the heart to stay\n\nShare yours 🥀 https://t.co/fpKhjdvmK7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2040606636142686493",
+    "time": "2026-04-05 09:45",
+    "id_str": "2040606636142686493",
+    "is_retweet": false
+  }
+]
