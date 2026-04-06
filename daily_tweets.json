@@ -38,5 +38,45 @@
     "time": "2026-04-06 20:53",
     "id_str": "2041137227653099610",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @alex_prompter: 🚨 BREAKING: Google DeepMind just mapped the attack surface that nobody in AI is talking about.\n\nWebsites can already det…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041140175846154705",
+    "time": "2026-04-06 21:05",
+    "id_str": "2041140175846154705",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: MIPT just ran the largest AI agent coordination experiment ever\n\n25,000 tasks, 8 models, 4 to 256 agents and f…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041141709275644299",
+    "time": "2026-04-06 21:11",
+    "id_str": "2041141709275644299",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "小龙虾发布重大更新\n\nOpenClaw 2026.4.5 发布，这是一个大版本\n\n主要变化是五个：\n\n- 可以直接生成视频和音乐了\n\n- 推出 \"Dreaming\"记忆巩固机制，借鉴人类睡眠后的记忆巩固机制，将短期记忆转化为长期忆。\n\n- 抛弃 Claude CLI 作为新用户的默认后端，转向 GPT-5.4\n\n- Prompt cache 命中率优化\n\n- https://t.co/wLU2H2NB7c",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041143031555047780",
+    "time": "2026-04-06 21:16",
+    "id_str": "2041143031555047780",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "聊天里用 /dreaming core 就能开启。还可以通过 recencyHalfLifeDays（衰减半衰期）和 maxAgeDays（最大保留天数）微调回忆老化行为。\n\n详细介绍：https://t.co/6F5hRD8bqE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041143400813285827",
+    "time": "2026-04-06 21:18",
+    "id_str": "2041143400813285827",
+    "is_retweet": false
   }
 ]
