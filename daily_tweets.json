@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "X API 大改版：按量付费 + 原生 MCP 支持 \n\n全面面向 AI Agent 开发者\n\n核心变化是三个：\n\n- 付费模式从月度套餐改成按量计费，同一条推文 24 小时内重复请求只收一次\n\n- 原生支持 MCP 协议让 Agent 能直接操作平台，直接直接搜推文、发帖、查用户、收发私信，不用自己封装 API 了。\n\n- 以及发布了官方 https://t.co/lD8kYNqUAN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041133217743540409",
+    "time": "2026-04-06 20:37",
+    "id_str": "2041133217743540409",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "按量付费：不用了不花钱\n\n最核心的变化是定价模型。从固定月费切换到按量付费（Pay-Per-Use），预充值信用额度，按 API 请求扣费，没有合同、没有订阅、没有最低消费。\n\n额外福利：购买 X API 积分时，根据总消费额最高返还 20% 的 xAI API 积分（Grok 的 API）。 https://t.co/emSBcdaeem",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041133220872466585",
+    "time": "2026-04-06 20:37",
+    "id_str": "2041133220872466585",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "XMCP：官方 MCP Server\n\n基于 FastMCP 的本地 MCP 服务器，把 𝕏 API 的 OpenAPI 规范自动转化为 MCP 工具。\n\nAI 可以通过 MCP 直接读取和操作 𝕏 平台：搜索推文、发帖、查看用户信息、管理书签、收发私信等。\n\n支持工具白名单过滤，只暴露需要的 API 端点。\n\n详细介绍：https://t.co/bIfvzo6g8F",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041133453509571034",
+    "time": "2026-04-06 20:38",
+    "id_str": "2041133453509571034",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Have a creative week, everyone! https://t.co/epCbehlECs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2041137227653099610",
+    "time": "2026-04-06 20:53",
+    "id_str": "2041137227653099610",
+    "is_retweet": false
+  }
+]
