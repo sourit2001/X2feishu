@@ -1,1 +1,162 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @NASA: On the shoulders of giants... 🧑🏼‍🚀\n\nThe Artemis II crew aboard Integrity have officially traveled farther into space than any hum…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2041326712252956991",
+    "time": "2026-04-07 09:26",
+    "id_str": "2041326712252956991",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "NASA Artemis passing close to the Moon https://t.co/jLvGoW1IR9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2041328344499888579",
+    "time": "2026-04-07 09:32",
+    "id_str": "2041328344499888579",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Telegram 这个更新牛蛙\n\n你的机器人可以自主创建和管理其他机器人了，不需要你的审批和操作。\n\n这样你的龙虾或者 Claude Code 就可以帮你创建带有复杂功能的机器人 https://t.co/eha3fIhONg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2041332295710462453",
+    "time": "2026-04-07 09:48",
+    "id_str": "2041332295710462453",
+    "is_retweet": false
+  },
+  {
+    "username": "lexfridman",
+    "nickname": "Lex",
+    "text": "This life is fucking amazing. I'm so grateful to be alive, with all of you on this miracle of a planet. \n\nOh and I'm sorry if I fuck things up sometimes. I'm a flawed human. But I promise to do whatever I can to try to add some more understanding and love to this world. \n\nAfter",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lexfridman/status/2041326004308787410",
+    "time": "2026-04-07 09:23",
+    "id_str": "2041326004308787410",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 年化收入突破 300 亿美元，超过 OpenAI\n\n2024 年 12 月，Anthropic 的年化收入（run-rate revenue，把当月收入乘以 12 得到的数字）刚到 10 亿美元。2025 年底涨到 90 亿，今年 2 月 140 亿，3 月 190 亿，今天 Anthropic 官方确认：300 亿。\n\n300 亿是什么概念？OpenAI 目前月收入约 20",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2041307413777883484",
+    "time": "2026-04-07 08:09",
+    "id_str": "2041307413777883484",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @orenmeetsworld: the content is the product",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2041315216097677486",
+    "time": "2026-04-07 08:40",
+    "id_str": "2041315216097677486",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "继语音输入法泛滥之后\nisland 也泛滥了 \n资本主义还是低估了人类\n人们没有商业利益人类也可以卷\n😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2041311599131271170",
+    "time": "2026-04-07 08:26",
+    "id_str": "2041311599131271170",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这篇文章，看完的人都会陷入迷茫\n产品技术已经没有任何壁垒的时代\n是要寻求他处了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2041313313569780136",
+    "time": "2026-04-07 08:33",
+    "id_str": "2041313313569780136",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "大家不要把算法大牛的那些终局思考放到现实中来\n终局的东西，没有考虑时间，而时机非常重要\n比如 Claude Code，终局就不应该写硬规则，全是苦涩的教训\n可是没有 CC 的工程现实，也许就不会有这么专注 coding AGI 的公司，也许就不会有终局\n就像摩尔定律不是一个终局思考，而是人们努力达成的自我实现",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2041316879244140593",
+    "time": "2026-04-07 08:47",
+    "id_str": "2041316879244140593",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "新的 office 三件套\nmd csv html",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2041330343064850893",
+    "time": "2026-04-07 09:40",
+    "id_str": "2041330343064850893",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 工程师的 Agent Skills技能包\n\nGoogle Chrome 团队工程负责人 Addy Osmani 开源了一套叫 Agent Skills 的技能包\n\n这些技能都来自 Google 内部的工程实践，19 个结构化技能，覆盖从想法到上线的完整开发流程。\n\n安装之后，Agent 不再是\"能写代码\"，而是\"按高级工程师的标准写代码\"。\n\nMIT https://t.co/fldrAUdznN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041327832681554358",
+    "time": "2026-04-07 09:30",
+    "id_str": "2041327832681554358",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "19 个技能都覆盖了什么 https://t.co/zR2rYEx5gK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041327835672146139",
+    "time": "2026-04-07 09:30",
+    "id_str": "2041327835672146139",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "除了技能本身，还有什么\n\n3 个预配置 Agent 角色：\n\ncode-reviewer：Staff Engineer 视角做代码审查，标准是\"一个 Staff Engineer 会不会批准这个 PR\"\n\ntest-engineer：QA 视角检查测试策略和覆盖率\n\nsecurity-auditor：安全工程师视角做漏洞检测和威胁建模\n\n配合4 https://t.co/T0uzwBBcoz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041327838431994069",
+    "time": "2026-04-07 09:30",
+    "id_str": "2041327838431994069",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/YRQeVYwGln\n\nGitHub：https://t.co/kHgnScyqG2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041327928668291455",
+    "time": "2026-04-07 09:31",
+    "id_str": "2041327928668291455",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "在 AI 面前，人成了压缩包。\n\n费曼这样的人，名字输进去，思维方式、表达风格、行为习惯全解压出来了，是一个巨大的压缩包。\n\n有的人，AI 得现场搜索、调研、拼凑，勉强攒出一个小压缩包。\n\n还有的人，名字进去，就是一个 token。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2041324946669150572",
+    "time": "2026-04-07 09:19",
+    "id_str": "2041324946669150572",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "本月（2026 年 3 月）谷歌云 AI 重要发布\n3 月是谷歌云 AI 团队的密集更新月，我们正式发布了Gemini Embedding 2、高性价比视频模型Veo 3.1 Lite，并完成对云安全厂商Wiz的收购，全面升级 AI 时代的安全能力。同时推出多份官方指南，覆盖提示词优化、TPU 训练加速、AI 智能体落地等场景。\n核心更新",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2041324617986674822",
+    "time": "2026-04-07 09:18",
+    "id_str": "2041324617986674822",
+    "is_retweet": false
+  }
+]
