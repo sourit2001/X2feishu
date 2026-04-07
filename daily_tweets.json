@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: MIPT just ran the largest AI agent coordination experiment ever\n\n25,000 tasks, 8 models, 4 to 256 agents and f…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041428532963029415",
+    "time": "2026-04-07 16:11",
+    "id_str": "2041428532963029415",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Duke researchers just proved that coding agents are better at processing long documents than models with milli…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041434681141559714",
+    "time": "2026-04-07 16:35",
+    "id_str": "2041434681141559714",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨BREAKING: Claude can now structure your focus like Nikola Tesla’s system that produced world-changing inventions (for fre…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041435942075203884",
+    "time": "2026-04-07 16:40",
+    "id_str": "2041435942075203884",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "被团队蒸馏了 💀\n\nAI 给我的标签：超级信息搬运工，22 点活跃高峰\n\n模拟我回答问题，跟我上周说的几乎一样\n\n准是真准，怕也是真怕 🫣\n\n多写东西吧，不然蒸馏出来的你很无聊 😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2041446289045356976",
+    "time": "2026-04-07 17:21",
+    "id_str": "2041446289045356976",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "AI 编程工具 TRAE，刚出了一个独立产品叫 SOLO\n\n不是之前的TRAE SOLO模式\n\n不是给程序员的，是给打工人的桌面 AI 助手，有点类似Claude Cowork\n\n它可以读取你的文件、处理数据、联网查资料、写代码在本地跑脚本、生成 PPT 等，全都有 https://t.co/xuDelZK9dK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041434056663974233",
+    "time": "2026-04-07 16:33",
+    "id_str": "2041434056663974233",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "它有两个模式：MTC模式和 Code 模式。\n\nMTC 模式就是日常办公，处理文件、写材料、做分析；\n\nCode 模式可以写代码、搭网页、做工具，两个模式无缝切换，一个界面搞定\n\n跟 Claude Code 比，SOLO 没有终端恐惧症。跟 OpenClaw 比不用养不用调不用配\n\n跟 Cowork 比，是中文原生，便宜又好用 https://t.co/PGiSyiRAGe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041434060325810475",
+    "time": "2026-04-07 16:33",
+    "id_str": "2041434060325810475",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "假如你是一个奶茶店老板，美团饿了么门店手记四份格式全不一样的表格，扔给 SOLO\n\n20 分钟后：3643 行清洗合并好的总表 + 一份给合伙人看的分析 PPT\n\n你不需要知道它用了 Python 还是 pandas，不需要会 Excel 公式。 https://t.co/pO1XoC7j3P",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041434062813077962",
+    "time": "2026-04-07 16:33",
+    "id_str": "2041434062813077962",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "行政场景：\n\n一堆文件名乱七八糟的合同发票混在一起，让 SOLO 自动分类 + 提取关键信息 + 汇总 Excel\n\n5 分钟搞定。这种事人工做至少半天 https://t.co/8jJP69EmCM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041434065354809487",
+    "time": "2026-04-07 16:33",
+    "id_str": "2041434065354809487",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "也有技能市场\n\n装一个 Skill，以后类似的任务直接丢给它，不用每次重新解释。 https://t.co/6RyxryosSs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041434067988836570",
+    "time": "2026-04-07 16:33",
+    "id_str": "2041434067988836570",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "目前处于内测阶段，需要邀请码激活\n桌面端目前只支持 macOS\n\n中国版入口：https://t.co/lYnqYvftBa\n国际版入口：https://t.co/ipRCIFGBwW\n\n这里有我的想象评测报告：https://t.co/7rGgzQAQJC\n这里有100个邀请码：https://t.co/SGMYqpVsIT https://t.co/3B5y7ogw1i",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041434342409511381",
+    "time": "2026-04-07 16:34",
+    "id_str": "2041434342409511381",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "还有几个邀请码：\n\nhttps://t.co/UXRIdFIGAU https://t.co/r3ZqM1PgSD https://t.co/GRfaIXnITM https://t.co/rBXBDe1OrE https://t.co/bCrrODlxxX https://t.co/t6Sb8iKMrc https://t.co/2l6i5ElMBA https://t.co/CTCJSL3F2K",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041440573350166643",
+    "time": "2026-04-07 16:58",
+    "id_str": "2041440573350166643",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "刚才的邀请码有误，这里：https://t.co/9BnNHykDuu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2041452288980738369",
+    "time": "2026-04-07 17:45",
+    "id_str": "2041452288980738369",
+    "is_retweet": false
+  }
+]
