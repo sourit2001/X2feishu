@@ -128,5 +128,155 @@
     "time": "2026-04-08 23:41",
     "id_str": "2041904263480099146",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Seems like a good model from Meta that is still trailing the current series of releases.\n\nThe most important thing to note is that it is not open weights. That was the main reason that Meta's models were so important. Without that, it is a lot harder to predict the value of Spark",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2041924282964394085",
+    "time": "2026-04-09 01:01",
+    "id_str": "2041924282964394085",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think the most obvious is that Meta has its own frontier model and can use that to extract additional value out of its customer base/explore new markets for its products.\n\nVery few companies can say that, and it has value on its own.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2041924885459480984",
+    "time": "2026-04-09 01:03",
+    "id_str": "2041924885459480984",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "RT @MishaTeplitskiy: Very interesting paper shows some suggestive evidence that release of AlphaFold caused researchers to work with more n…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2041935969209794623",
+    "time": "2026-04-09 01:47",
+    "id_str": "2041935969209794623",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @claudeai: On @vibecodeapp_, developers can now spin up agent infrastructure at least 10x faster with Managed Agents, going from a promp…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2041936485772095807",
+    "time": "2026-04-09 01:49",
+    "id_str": "2041936485772095807",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: Claude can now analyze and grow your Bitcoin portfolio like Jack Dorsey's $100M team (for free).\n\nHere are 5 insane Claude prompts that replace your crypto advisor, security consultant, and portfolio tracker.\n\n(Save for later.) https://t.co/Rejp0yuFj5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041929780657058147",
+    "time": "2026-04-09 01:22",
+    "id_str": "2041929780657058147",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1/ UNDERSTAND BITCOIN BEFORE YOU BUY\n\nPrompt:\n\n&lt;role&gt;Act as a Bitcoin educator who explains exactly how Bitcoin works, why it's different from every other cryptocurrency, and why Jack Dorsey calls everything else a scam.&lt;/role&gt;\n\n&lt;task&gt;Give me a complete beginner's understanding",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041929792971473391",
+    "time": "2026-04-09 01:22",
+    "id_str": "2041929792971473391",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "2/ BUILD YOUR BITCOIN INVESTMENT PLAN\n\nPrompt:\n\n&lt;role&gt;Act as a Bitcoin investment strategist who builds long-term accumulation plans based on Jack Dorsey's core principle: hold for 5-10 years, never panic sell.&lt;/role&gt;\n\n&lt;task&gt;Build a personalized Bitcoin investment plan based on",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041929804828832051",
+    "time": "2026-04-09 01:22",
+    "id_str": "2041929804828832051",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "3/ STORE YOUR BITCOIN SAFELY\n\nPrompt:\n\n&lt;role&gt;Act as a Bitcoin security specialist who protects holdings from exchange hacks, government seizure, and human error — the three ways most people lose Bitcoin.&lt;/role&gt;\n\n&lt;task&gt;Build a complete Bitcoin security plan that gets my coins off",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041929816937816318",
+    "time": "2026-04-09 01:23",
+    "id_str": "2041929816937816318",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "4/ TRACK YOUR BITCOIN PORTFOLIO\n\nPrompt:\n\n&lt;role&gt;Act as a Bitcoin portfolio analyst who tracks performance, calculates real returns, and keeps emotion out of long-term holding decisions.&lt;/role&gt;\n\n&lt;task&gt;Build a complete Bitcoin portfolio tracking system that shows my real returns,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041929829986267382",
+    "time": "2026-04-09 01:23",
+    "id_str": "2041929829986267382",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "5/ USE BITCOIN AS A SOLOPRENEUR\n\nPrompt:\n\n&lt;role&gt;Act as a Bitcoin business integration specialist who helps solopreneurs accept Bitcoin payments, send money globally, and reduce dependency on banks and payment processors.&lt;/role&gt;\n\n&lt;task&gt;Build a complete plan for integrating Bitcoin",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041929841923256663",
+    "time": "2026-04-09 01:23",
+    "id_str": "2041929841923256663",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I should charge $99 for each of these.\nBut every single guide on this page is free.\n\n→ Gemini Mastery Guide\n→ Prompt Engineering Guide\n→ Claude Mastery Guide\n→ OpenAI Mastery Guide\n→ + more dropping &amp; updating regularly\n\nZero cost. Zero catch.\n\nJust open and learn 👇",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041929853663113627",
+    "time": "2026-04-09 01:23",
+    "id_str": "2041929853663113627",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I'm impressed with Grok as a visual video model, how fast it emerged and keeps improving. I hope every platform will have Grok model as a choice of 3rd party models. I use it a lot for my AI animations. https://t.co/UhOjrqfdT7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2041933636090351639",
+    "time": "2026-04-09 01:38",
+    "id_str": "2041933636090351639",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @HeyGen: We solved character consistency. Forever\n\nAvatar V captures you in 15 seconds and holds your identity across every video.\n\nChan…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2041932882953040187",
+    "time": "2026-04-09 01:35",
+    "id_str": "2041932882953040187",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @claudeai: Introducing Claude Managed Agents: everything you need to build and deploy agents at scale.\n\nIt pairs an agent harness tuned…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2041933733121712440",
+    "time": "2026-04-09 01:38",
+    "id_str": "2041933733121712440",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @FactoryAI: Today we're releasing the Factory desktop app. A native interface for autonomous AI agents that work across every part of yo…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2041936375084372187",
+    "time": "2026-04-09 01:49",
+    "id_str": "2041936375084372187",
+    "is_retweet": true
   }
 ]
