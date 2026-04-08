@@ -278,5 +278,215 @@
     "time": "2026-04-09 01:49",
     "id_str": "2041936375084372187",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Only a few hundred Tesla Model S &amp; X cars left in inventory. Order now if you want one.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2041965338817069499",
+    "time": "2026-04-09 03:44",
+    "id_str": "2041965338817069499",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 今天发布了 Claude Managed Agents，一套托管式 Agent 构建和部署 API，现已开放公测。\n\n核心卖点一句话说清楚：以前做一个生产级 Agent，光基础设施（沙箱、状态管理、权限、链路追踪）就要搭几个月，现在这些全交给 Anthropic",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2041949451053400353",
+    "time": "2026-04-09 02:41",
+    "id_str": "2041949451053400353",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @berryxia: AWS也不市场吃素的啊！ 把 S3 彻底改写成“文件系统”了！\n\n昨天（4月7日）官宣 Amazon S3 Files —— S3 20年来最大更新！\n\n现在你可以：\n→ 把 S3 Bucket 直接挂载成原生文件系统  \n→ 亚毫秒级文件访问速度…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2041961429247328472",
+    "time": "2026-04-09 03:28",
+    "id_str": "2041961429247328472",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Hallucinations remain in LLMs, but note that over centuries we have developed complicated, successful machines that take uncertain output from unreliable sources &amp; reduce the risk of errors.\n\nWe call those machines organizational structures &amp; we can apply similar approaches to AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2041959937580875931",
+    "time": "2026-04-09 03:22",
+    "id_str": "2041959937580875931",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Some approaches:\n1) Multiple reviews. Some papers already show having many AI team members review a problem reduces errors\n2) Building in tests and checkpoints \n3) Multiple independent answers that are cross-checked\n4) Clear processes that escalate to smarter systems for review",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2041966357458071681",
+    "time": "2026-04-09 03:48",
+    "id_str": "2041966357458071681",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I’ve been following AI since mid 2022 (Dall e 2 and midjourney).\n\nWhat made this space so fun is anyone with $20-200 could be at the frontier. \n\nThis is what separated LLMs and diffusion models from most innovations in history. \n\nNow, this is no longer true. \nIt’s just kinda…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2041953565300945096",
+    "time": "2026-04-09 02:57",
+    "id_str": "2041953565300945096",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "RT @ludwigABAP: @AdvicebyAimar \"we have matched 5.4 Pro after many months but have less compute than our competitor. However, we have manag…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2041956221088100639",
+    "time": "2026-04-09 03:07",
+    "id_str": "2041956221088100639",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "This is still important btw. Doesn't matter if you're using 4o or 4.6 Opus or Mythos. \n\nMake sure it understands your frame of mind before you tell it go off and do something. Chances are it's missing nuance.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2041958179563827696",
+    "time": "2026-04-09 03:15",
+    "id_str": "2041958179563827696",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: You can now turn Claude into any billionaire coach you want.\n\nNaval for leverage. Hormozi for offers. Bezos fo…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041946711955009805",
+    "time": "2026-04-09 02:30",
+    "id_str": "2041946711955009805",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Claude can now analyze and grow your Bitcoin portfolio like Jack Dorsey's $100M team (for free).\n\nHere are 5 i…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2041949294253556060",
+    "time": "2026-04-09 02:40",
+    "id_str": "2041949294253556060",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"Based on our analysis, 29% of the Fortune 500 and ~19% of the Global 2000 are live, paying customers of a leading AI startup.\"\n\nhttps://t.co/uiooUsHrMi https://t.co/KtSyIY2Hzc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2041944966537384036",
+    "time": "2026-04-09 02:23",
+    "id_str": "2041944966537384036",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "GitButler is redesigning the version control experience for you and your agents. We're very excited to lead their Series A.\n\nIn this conversation, GitButler CEO Scott Chacon joins a16z GP Matt Bornstein to discuss:\n\n- Why Scott came back to version control after GitHub\n- Why https://t.co/la5FonSycJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2041966452148977681",
+    "time": "2026-04-09 03:48",
+    "id_str": "2041966452148977681",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Read more: https://t.co/7NdHiWbKox",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2041966975581311187",
+    "time": "2026-04-09 03:50",
+    "id_str": "2041966975581311187",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Fill your feed with cute giants in your city. \n\nPrompt: New York dramatic cinematic view from inside a high-rise skyscraper window looking out at a colossal cute giant playfully stomping through the city streets, the giant is adorable with big sparkling eyes, soft rounded https://t.co/P1MZkqLZmz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2041952368376307929",
+    "time": "2026-04-09 02:52",
+    "id_str": "2041952368376307929",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Three years ago I saved your comments about AI replacing every pixel. Time to open the capsule.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2041954232425685293",
+    "time": "2026-04-09 03:00",
+    "id_str": "2041954232425685293",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @rufusd: From sketch to vectors. This opens up a whole new set of possibilities",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2041956829064741267",
+    "time": "2026-04-09 03:10",
+    "id_str": "2041956829064741267",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @elonmusk: OpenAI’s Nonprofit to Get Any Damages From Lawsuit https://t.co/SVXdEVFCWD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2041964833021575541",
+    "time": "2026-04-09 03:42",
+    "id_str": "2041964833021575541",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "If you could visualise your state of mind, what would it be? \n\nHere’s mine. https://t.co/6SyG30lCW1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2041967252279267383",
+    "time": "2026-04-09 03:51",
+    "id_str": "2041967252279267383",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "There's a few people out there who have seen the current day narrative repeated over and over again... I present to you an article from 2019 that describes why GPT-2 is too dangerous to release to the public. https://t.co/zKb4JTcdU2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2041952504485966169",
+    "time": "2026-04-09 02:53",
+    "id_str": "2041952504485966169",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Original article: https://t.co/ZA35QJi34E",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2041952546525421820",
+    "time": "2026-04-09 02:53",
+    "id_str": "2041952546525421820",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "\"Last week, the nonprofit research group OpenAI revealed that it had developed a new text-generation model that can write coherent, versatile prose given a certain subject matter prompt. However, the organization said, it would not be releasing the full algorithm due to “safety",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2041952971714654464",
+    "time": "2026-04-09 02:55",
+    "id_str": "2041952971714654464",
+    "is_retweet": false
   }
 ]
