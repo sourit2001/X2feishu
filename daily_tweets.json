@@ -298,5 +298,45 @@
     "time": "2026-04-10 02:31",
     "id_str": "2042309483297456537",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 推出了一个叫“顾问工具”（advisor tool）的新 API 功能，核心思路是：让便宜的模型干活，遇到难题时请贵的模型出主意。\n\n具体来说，Sonnet 或 Haiku 作为\"执行者\"全程跑任务、调工具、处理结果。碰到自己搞不定的决策，就把上下文递给 Opus，Opus 给出方案或纠正，执行者接着干。Opus",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2042324560700154312",
+    "time": "2026-04-10 03:31",
+    "id_str": "2042324560700154312",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I miss when Claude used to tell me I was absolutely right",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2042320307688784124",
+    "time": "2026-04-10 03:14",
+    "id_str": "2042320307688784124",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Karpathy built his second brain with hacky Python scripts over months.\n\nI built a prompt that gives you the same system in…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2042317289853165941",
+    "time": "2026-04-10 03:02",
+    "id_str": "2042317289853165941",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"There's many things that are working in AI right now, and the thing that's easy to miss is that when these technology revolutions happen, 80% of the value is actually received by the consumer.\"\n\na16z GP Anish Acharya on how massive value is coming to the consumer because of AI: https://t.co/rlE34hGWCE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2042316940585365606",
+    "time": "2026-04-10 03:01",
+    "id_str": "2042316940585365606",
+    "is_retweet": false
   }
 ]
