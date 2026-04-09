@@ -168,5 +168,35 @@
     "time": "2026-04-10 06:33",
     "id_str": "2042370284770992495",
     "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @a16z: Replit CEO Amjad Masad: Being 'terminally online' may be an advantage.\n\n\"If you want to work on a skill, it's going to be about i…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2042385447478050832",
+    "time": "2026-04-10 07:33",
+    "id_str": "2042385447478050832",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "RT @zhufengme: 把我们内部的转录服务开放了，优势首先是便宜，最低的每小时中文内容转录成本大概是0.14人民币。其次是提供了all-in-one的API，把转录文字、时间戳、VAD、说话人识别（含向量值）、声音事件都返回。同时也有一个cli工具，方便集成到Agent…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2042381510851117290",
+    "time": "2026-04-10 07:17",
+    "id_str": "2042381510851117290",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Create creatures that don’t exist with AI\n\nI'd love to see it https://t.co/BN1R1kQn9O",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2042375703295893815",
+    "time": "2026-04-10 06:54",
+    "id_str": "2042375703295893815",
+    "is_retweet": false
   }
 ]
