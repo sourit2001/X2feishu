@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042484654004191388",
+    "time": "2026-04-10 14:07",
+    "id_str": "2042484654004191388",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @pmarca: Yep!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042486111843598555",
+    "time": "2026-04-10 14:13",
+    "id_str": "2042486111843598555",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "🌍 🌎 🌏",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042487754534305883",
+    "time": "2026-04-10 14:20",
+    "id_str": "2042487754534305883",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Relatively smart\nfor a human, but\nnot by AI standards",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042488382438482407",
+    "time": "2026-04-10 14:22",
+    "id_str": "2042488382438482407",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @waitbutwhy: We're all in this pic (except for those four astronauts) https://t.co/DgnXvWD1Om",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042488466760737063",
+    "time": "2026-04-10 14:22",
+    "id_str": "2042488466760737063",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Teams encapsulated the Cygnus XL spacecraft ahead of Falcon 9’s fourth launch of @northropgrumman's commercial resupply mission…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042488569344950474",
+    "time": "2026-04-10 14:23",
+    "id_str": "2042488569344950474",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Download the Tesla Robotaxi app",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042489137887133807",
+    "time": "2026-04-10 14:25",
+    "id_str": "2042489137887133807",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @beffjezos: the masculine urge to grab your laptop, a starlink receiver, clear your schedule and go to a cabin in the woods for a few we…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042489858342694995",
+    "time": "2026-04-10 14:28",
+    "id_str": "2042489858342694995",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Elon Musk’s mindset in the early days of SpaceX is a masterclass in resilience 🚀\n\nAfter 3 consecutive rocket failures, all the…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042493251685642404",
+    "time": "2026-04-10 14:41",
+    "id_str": "2042493251685642404",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude 推出一个API 新工具：Advisor Tool\n\n这玩意很有意思😅\n\n让 Sonnet 请教 Opus 成本降了，智商涨了\n\n开发者都面临一个两难：\n\n用 Opus 跑全流程，效果好，但贵\n用 Sonnet 跑全流程，便宜，但容易翻车\n\n这个工具让便宜模型在关键时刻请教贵的模型，用接近 Sonnet 的价格拿到接近 Opus 的智能。 https://t.co/TPNIyaHXZ7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2042476270576185460",
+    "time": "2026-04-10 13:34",
+    "id_str": "2042476270576185460",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "实测数据：\n\nSonnet 配 Opus 顾问 vs 单跑 Sonnet（SWE-bench Multilingual）：\n\n得分提升 +2.7 个百分点\n每任务成本 降低 11.9%\n性能更好，钱反而花得更少。 https://t.co/Ey2lUVaExN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2042476272933355618",
+    "time": "2026-04-10 13:34",
+    "id_str": "2042476272933355618",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Haiku 配 Opus 顾问 vs 单跑 Haiku（BrowseComp）：\n\n得分从 19.7% 跳到 41.2%（翻倍以上）\n跟单跑 Sonnet 比，分数低 29%，但成本只有它的 85%\n\n这个对比的意义更大：如果你原本用 Haiku 做大批量任务，加 Opus 顾问后能力直接逼近 Sonnet 一档，但成本依然比 Sonnet 便宜。 https://t.co/loj6WhH7z6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2042476275273777376",
+    "time": "2026-04-10 13:34",
+    "id_str": "2042476275273777376",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "计费方式：执行者按执行者模型计费，顾问按顾问模型计费，分开算。\n\nEve Legal 的机器学习工程师 Anuraj Pandey 提到，在结构化文档提取任务上，Haiku 4.5 通过 Advisor 工具按需咨询 Opus 4.6，能在成本降低 5 倍的情况下达到前沿模型的质量。\n\n详细介绍：https://t.co/1CS9Seknxp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2042476601460637879",
+    "time": "2026-04-10 13:35",
+    "id_str": "2042476601460637879",
+    "is_retweet": false
+  }
+]
