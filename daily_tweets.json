@@ -108,5 +108,155 @@
     "time": "2026-04-11 09:08",
     "id_str": "2042771667261493418",
     "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "详情：https://t.co/VskEtgWmEV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2042787847128912128",
+    "time": "2026-04-11 10:12",
+    "id_str": "2042787847128912128",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "龙虾作者 Peter  的 Claude 账号早上被封了，发出来之后 Anthropic 给他解了，这一天天的 https://t.co/1SEoggopV3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2042801282407371027",
+    "time": "2026-04-11 11:05",
+    "id_str": "2042801282407371027",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 刚发了一则安全公告：第三方开发库 Axios 出了安全漏洞，属于一次波及整个行业的供应链安全事件。OpenAI 表示没有证据显示用户数据被访问、系统被入侵或软件被篡改。\n\n但出于谨慎，OpenAI 正在更新 macOS 应用的安全签名证书。所有 macOS 用户需要把 ChatGPT 桌面端、Codex 应用、Codex CLI 和",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2042788780243911135",
+    "time": "2026-04-11 10:16",
+    "id_str": "2042788780243911135",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "推荐学习👍\n这属于自己“蒸馏”自己了😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2042803584090145203",
+    "time": "2026-04-11 11:15",
+    "id_str": "2042803584090145203",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 昨天刚发布 Claude Managed Agents 公测，API 团队的 Michael Cohen 的科普：Agent 要替用户操作第三方服务，怎么安全地管理这些账号密钥？\n\n答案是 Vaults。\n\nVaults 是 CMA 里专门管理终端用户凭证的组件。开发者给每个用户创建一个 Vault，把这个用户访问外部服务的密钥（比如 Linear 的",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2042805474681118988",
+    "time": "2026-04-11 11:22",
+    "id_str": "2042805474681118988",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "William Blake's \"The Ancient of Days,\" the great vision completed as the creator intended. The sound is worth it. https://t.co/XoVFEGgHOO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2042793747289702425",
+    "time": "2026-04-11 10:35",
+    "id_str": "2042793747289702425",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Neat experiment finds AI fact checks are rated as more helpful &amp; less ideological than human ones\n\n\"LLM-generated Community Notes can achieve broader cross-ideological acceptance than human-written notes, receiving more positive ratings from raters across the political spectrum\" https://t.co/Ofg1kYNxYe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2042797671094665254",
+    "time": "2026-04-11 10:51",
+    "id_str": "2042797671094665254",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Paper: https://t.co/8PmhRYXANQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2042800706608836844",
+    "time": "2026-04-11 11:03",
+    "id_str": "2042800706608836844",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "https://t.co/9sWFFGaies",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2042798971714945040",
+    "time": "2026-04-11 10:56",
+    "id_str": "2042798971714945040",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Tough to answer some of the TurboTax questions regarding my income from posting on X dot com https://t.co/cA39T5LR7R",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2042804851974054168",
+    "time": "2026-04-11 11:20",
+    "id_str": "2042804851974054168",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @nexudotio: SBTI 赛博人格测试全网刷屏，直接把它做成了开源 Skill \n\n装进 nexu，你能测，你的龙虾也能测\n\n测完一键生成分享页，直接发朋友圈\n\nSkill 开源地址：https://t.co/IbYXQJoW4W",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2042813818410078330",
+    "time": "2026-04-11 11:55",
+    "id_str": "2042813818410078330",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code 新增 /ultraplan 命令\n\n这个功能很好：\n\n计划在云端起草，执行传回本地终端\n\n它把\"做计划\"这件事从本地终端拿走，交给Web端的一个云会话去跑\n\n跑完你可以在浏览器里读plan、修改plan，改满意了再一键\"传送\"回本地终端接着干。\n\n之前在终端plan 修改很不方便，现在你可以像改文档一样修改 https://t.co/2lngEpAQQ2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2042813023543566559",
+    "time": "2026-04-11 11:52",
+    "id_str": "2042813023543566559",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "目前面向所有开通了 Web 端 Claude Code 的用户开放预览。 详细内容：https://t.co/w6NW0kIidO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2042813208516530485",
+    "time": "2026-04-11 11:53",
+    "id_str": "2042813208516530485",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "🥹✨🫶",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2042790329032626583",
+    "time": "2026-04-11 10:22",
+    "id_str": "2042790329032626583",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @nonbiri_AI: @icreatelife クリスさん、いつも素敵な投稿ありがとう！\nお気に入りの線画videoです！ https://t.co/swKM7VmO0S",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2042796882108334192",
+    "time": "2026-04-11 10:48",
+    "id_str": "2042796882108334192",
+    "is_retweet": true
   }
 ]
