@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok can be quite funny 😂 https://t.co/kopVI70H32",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042770839633039635",
+    "time": "2026-04-11 09:04",
+    "id_str": "2042770839633039635",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "🇺🇸🇺🇸 Welcome home! 🇺🇸🇺🇸",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2042771312792473723",
+    "time": "2026-04-11 09:06",
+    "id_str": "2042771312792473723",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "一个新的实时可交互世界模型 Waypoint-1.5\n\n主角动作流畅还能跟武器交互，运行也非常流畅\n\n https://t.co/LbmZqCXfci",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2042781932061364524",
+    "time": "2026-04-11 09:49",
+    "id_str": "2042781932061364524",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Sam Altman 凌晨 3 点 45 分被一枚燃烧弹砸醒了。\n\n有人向他家扔了一枚莫洛托夫鸡尾酒（一种简易燃烧瓶），幸运的是燃烧弹从房子上弹开，家人没有受伤。Altman 在博客里罕见地贴出了全家福照片，说希望这张照片能让下一个想动手的人犹豫一下。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2042748811014013435",
+    "time": "2026-04-11 07:37",
+    "id_str": "2042748811014013435",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI Codex 团队的 Nick Baumann 分享了一个他日常用 Codex 干活的心得：与其每次把一堆文档、日志、API 输出丢给 AI 去啃，不如给它造几个专用的命令行小工具。\n\n他的逻辑很直接：MCP 连接器（比如 Slack、Linear、Sentry 这些）解决的是“能不能访问”的问题，但很多时候原始数据太大、太杂，AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2042777337398210713",
+    "time": "2026-04-11 09:30",
+    "id_str": "2042777337398210713",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "What works once becomes the template becomes the slop.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2042747610138923214",
+    "time": "2026-04-11 07:32",
+    "id_str": "2042747610138923214",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: You were never losing because you’re bad at trading.\n\nYou were losing because you didn’t have the tools.\n\nHori…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2042752185856069874",
+    "time": "2026-04-11 07:50",
+    "id_str": "2042752185856069874",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "昨晚凌晨，Sam Altman 突然惊醒，那是他家第一次被陌生人投掷燃烧瓶。\n他知道这不会是唯一一个燃烧瓶，于是晒出自己孩子的照片，试图让下一个人共情，不要再伤害他的家人。\n这件事其实非常严重。这件事的根源是人们对AI深深的焦虑。\n这种焦虑，真实，紧张，让人类对自己的未来非常悲观。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2042757260322230650",
+    "time": "2026-04-11 08:10",
+    "id_str": "2042757260322230650",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "“浏览器渲染”功能现已开放 Chrome DevTools 协议支持，这意味着您可以让您的 MCP 客户端访问远程浏览器。\n\n只需更新您的 MCP 配置，您的代理即可执行页面导航、截屏、性能审计以及 JavaScript 调试等操作。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2042769389414477979",
+    "time": "2026-04-11 08:59",
+    "id_str": "2042769389414477979",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @knowledgefxg: 实用小工具推荐：Hyper-Extract\n使用 LLM 将非结构化文本转换为结构化知识。你可以把一大段乱糟糟的文字丢进去，它能帮你用 LLM 自动提炼结构并生成知识图谱，自带命令行工具，一行命令就能跑起来，还预置了 80 多个领域模板，金融…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2042770965940125894",
+    "time": "2026-04-11 09:05",
+    "id_str": "2042770965940125894",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @sama: I wrote this early this morning and I wasn't sure if I would actually publish it, but here it is:\n\nhttps://t.co/7Dw9UFpeep",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2042771667261493418",
+    "time": "2026-04-11 09:08",
+    "id_str": "2042771667261493418",
+    "is_retweet": true
+  }
+]
