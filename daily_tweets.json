@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is notable that we are all debating exactly which markdown files are most important to feed AI (skills, memory, tool instructions) and in which order to feed them to get the best output. Feels that this is likely a temporary state of affairs in the development of agents",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2043354298650702101",
+    "time": "2026-04-12 23:43",
+    "id_str": "2043354298650702101",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: The playbook is simple…\n\nNerf the current model, right before the release of a smarter model\n\nRelease the smarter model, w…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2043353849042235456",
+    "time": "2026-04-12 23:41",
+    "id_str": "2043353849042235456",
+    "is_retweet": true
+  }
+]
