@@ -178,5 +178,115 @@
     "time": "2026-04-15 00:31",
     "id_str": "2044091109245145374",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: NEWS: SpaceX is now using a voice-based AI assistant powered by Grok to handle Starlink customer support calls. The voice soun…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044107361258999891",
+    "time": "2026-04-15 01:35",
+    "id_str": "2044107361258999891",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ChananBos: People wonder if FSD is safe on narrow European roads. Well have a look what it did when a tractor took up more than half of…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044108172731003129",
+    "time": "2026-04-15 01:39",
+    "id_str": "2044108172731003129",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude Code 新发布的 routines 功能很强啊！\n\n把云端和本地环境连起来了，可以在云端跑定时任务不需要开机。\n\n跑完的任务本地还能接上，等你工作的时候继续处理。\n\n你可以把「提示词 + 仓库 + 环境 + 连接器」打包成一个云端自动任务，让 Claude 在你电脑关着时也能按计划或事件自动跑。 https://t.co/XglgjIGwUp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2044107108283727997",
+    "time": "2026-04-15 01:34",
+    "id_str": "2044107108283727997",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "RT @sparkjsdev: Spark 2.0 is here! 🚀\n\nWe’re redefining what’s possible on the web with a streamable LoD system for 3D Gaussian Splatting.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2044103722482196926",
+    "time": "2026-04-15 01:21",
+    "id_str": "2044103722482196926",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "RT @martin_casado: Sparkjs 2.0 is out! Support for arbitrarily large splats on web, mobile, and VR. Tons of features: LoD, streaming, editi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2044108755047235763",
+    "time": "2026-04-15 01:41",
+    "id_str": "2044108755047235763",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "/loop 是最轻量的，会话级别。在当前终端里跑，关掉终端就没了，7 天自动过期。适合“盯一下这个部署跑完没有”这种临时监控，就是在你当前会话里定时重复执行一条指令。https://t.co/gwWr1OfDBZ\n\nDesktop 桌面端定时任务，比 /loop 持久一点。任务保存在本地，重启 app",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044100820304835000",
+    "time": "2026-04-15 01:09",
+    "id_str": "2044100820304835000",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "好文章，摘录几段：\n\n&gt; 文科内部长期存在一批“伪能力”——那些在没有AI的时代看起来有价值，本质上只是对已有知识进行低阶重组与表达的能力。\n\n&gt; 一篇关于葛兰西（Antonio",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044105265948041234",
+    "time": "2026-04-15 01:27",
+    "id_str": "2044105265948041234",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "和博主意见略同，首先 harness engineering 不是什么新鲜事，不过就是回归了“优秀的工程实践”：写好测试、搭好架构、做好模块化。\n\n然后企业现在就必须赶紧下足血本投资两件事：模块化以及严密的验证循环。\n\n否则只会把自己逼进死胡同，被庞大的“屎山代码” 死死困住。\n\n原推译文：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044107506679447688",
+    "time": "2026-04-15 01:36",
+    "id_str": "2044107506679447688",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我昨天写的\nhttps://t.co/FgFZZKywDZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044108282864783599",
+    "time": "2026-04-15 01:39",
+    "id_str": "2044108282864783599",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "把反馈回路打通很重要\n\nhttps://t.co/HbbTknWWQF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044110643515576742",
+    "time": "2026-04-15 01:48",
+    "id_str": "2044110643515576742",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @handotdev: We just raised a $45M Series B at a $500M valuation led by @a16z and @SalesforceVC to build the knowledge infrastructure for…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2044100596312224178",
+    "time": "2026-04-15 01:08",
+    "id_str": "2044100596312224178",
+    "is_retweet": true
   }
 ]
