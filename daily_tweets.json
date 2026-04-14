@@ -48,5 +48,25 @@
     "time": "2026-04-14 16:40",
     "id_str": "2043972595947843596",
     "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: 🚨 BREAKING: Claude has a secret mode called \"SOLO SYSTEM.\"\n\nIt reads Justin Welsh’s entire one-person business model and a…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044002825374703681",
+    "time": "2026-04-14 18:40",
+    "id_str": "2044002825374703681",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "正在 ROG Strix SCAR 18（搭载 5090 显卡）上，利用 CUDA 12.8 编译 llama.cpp。\n\n这里使用的是移动版 5090 显卡，在一台笔记本电脑中集成了 24GB 显存。其显存规格与我常用于跑分测试的那台台式机版 3090 显卡处于同一级别，只不过现在具备了便携性。这意味着我现在可以在任何地方执行这些测试了。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2044004381301842012",
+    "time": "2026-04-14 18:46",
+    "id_str": "2044004381301842012",
+    "is_retweet": false
   }
 ]
