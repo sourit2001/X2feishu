@@ -178,5 +178,185 @@
     "time": "2026-04-14 09:50",
     "id_str": "2043869481186074768",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "更多迭代版本 https://t.co/c0PkxtVWJr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2043896958704812474",
+    "time": "2026-04-14 11:39",
+    "id_str": "2043896958704812474",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我去，这效果确实牛逼，非常的上流！\n\n探索出了一条用 Gemini 和 NanaBana2 配合来生成 logo 以及 logo 展示图的工作流。 https://t.co/6mLdXBgzZe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2043913881526120528",
+    "time": "2026-04-14 12:46",
+    "id_str": "2043913881526120528",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "配合 Nano Banana  2 效果更牛批了\n\nhttps://t.co/RoIisbgiBO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2043914149529567716",
+    "time": "2026-04-14 12:48",
+    "id_str": "2043914149529567716",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "具体的流程和提示词还在打磨，应该能做成一个 Skills。\n\n这个 Skills 可能就得在 Gemini CLI 里用了，或者你的 agent 要换成 Gemini 去驱动。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2043916311479378163",
+    "time": "2026-04-14 12:56",
+    "id_str": "2043916311479378163",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @indie_maker_fox: 这个技能画出来的架构图的质量是真的太高了！\n\nhttps://t.co/xPijG1GFTH\n\n下面是OpenHarness的架构图，配色很舒服 https://t.co/lQ9SiNzP53",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2043898700531896576",
+    "time": "2026-04-14 11:46",
+    "id_str": "2043898700531896576",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Vercel 开源了 Open Agents，一个用来搭建企业自有编程 Agent 平台的参考实现。\n\nCEO Guillermo Rauch 说：现成的编程 Agent 在大型代码仓库上表现不行，也不了解你公司的知识体系和内部流程，所以 Stripe、Spotify、Block 这些公司都在造自己的 AI 软件工厂。\n\nOpen Agents 绑定了 Vercel 自家的 https://t.co/scgyEDpWBb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2043904844608532640",
+    "time": "2026-04-14 12:11",
+    "id_str": "2043904844608532640",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @xicilion: Agent 和执行环境必须分离，这个结论是对的。不过他们实现有些差别。关注沙箱可以了解一下 @anthropic-ai/sandbox-runtime，实现原理和 boxsh 一样，区别在于 sandbox-runtime 目标在于安全，boxsh…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2043911437697888290",
+    "time": "2026-04-14 12:37",
+    "id_str": "2043911437697888290",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is going to be like what happened in coding: as soon as models crossed a certain threshold (Opus 4.5, GPT-5.2, Gemini 3), suddenly Claude Code &amp; Codex were viable. Before that, it was all about coding assistance, afterwards it was all about agents from relatively small gains.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2043901043499520174",
+    "time": "2026-04-14 11:55",
+    "id_str": "2043901043499520174",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "(This is a big part of what was called emergence in earlier academic work on unexpected LLM ability gains)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2043902050732294160",
+    "time": "2026-04-14 11:59",
+    "id_str": "2043902050732294160",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Interesting: \"Currently, 38% of Americans live within 5 miles of at least one operational data center... Living near a data center doesn’t have much of an effect on public opinion about the facilities.\"\n\nFrom now on, it looks like most DCs will be rural. https://t.co/URcr0s4L40",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2043904225944514728",
+    "time": "2026-04-14 12:08",
+    "id_str": "2043904225944514728",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @JoyLi629: https://t.co/HNgFuiXttL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2043881880873808165",
+    "time": "2026-04-14 10:39",
+    "id_str": "2043881880873808165",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "一个人停下来，什么都不想，什么都不做，只是站在阳光下，这件事在现代社会几乎是一种反叛行为。\n\n空意味着你和自己待在一起，而大多数人最不想见的人就是自己。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2043878920421097732",
+    "time": "2026-04-14 10:28",
+    "id_str": "2043878920421097732",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "思考是一个具体的人，带着他具体的历史、身体、恐惧和渴望，面对一个具体的处境。\n\n思考是主权行为。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2043880859921723774",
+    "time": "2026-04-14 10:35",
+    "id_str": "2043880859921723774",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "日读论文：学习，即遗忘。理解，即压缩。\n\nhttps://t.co/H5B10gEqVR\n\n大模型训练了几万亿 token，但它脑子里到底留下了什么？ https://t.co/NiJ29vTBkC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2043886141712273591",
+    "time": "2026-04-14 10:56",
+    "id_str": "2043886141712273591",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "五年前读过一篇文章《不要大喊大叫》（https://t.co/1IF6MUj4uc），是在讨论网络上不断使用各种标记符号来突出文本重点。\n\n奇怪的是，自从读过这篇文章，每当我写点东西要对外发布时，脑海中总会响起一声「不要大喊大叫」的提醒声。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2043893118114902273",
+    "time": "2026-04-14 11:24",
+    "id_str": "2043893118114902273",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Anthropic shipped 120 features in 90 days. I think, I use most of them. \nSo inspiring.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2043880115478704596",
+    "time": "2026-04-14 10:32",
+    "id_str": "2043880115478704596",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Kyrannio: I'm stressed, friends. The more I'm touching grass outside of our bubble lately, the more I'm realizing we really have an iss…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2043884190324724058",
+    "time": "2026-04-14 10:48",
+    "id_str": "2043884190324724058",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Correct me if I'm wrong. Just kidding. This is 𝕏. You'll correct me even if I'm right.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2043886545212420129",
+    "time": "2026-04-14 10:58",
+    "id_str": "2043886545212420129",
+    "is_retweet": false
   }
 ]
