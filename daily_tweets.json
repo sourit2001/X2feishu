@@ -1,1 +1,182 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: SpaceX just launched the 1000th Starlink satellite of 2026.\n\nThat’s ~10 satellites deployed every single day and one launch ro…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044071159172583653",
+    "time": "2026-04-14 23:11",
+    "id_str": "2044071159172583653",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @op7418: Seedance 2.0 在海外上线以后，很多用户也拿它来做产品宣传动画。\n\n这哥们的提示词写法非常牛皮！\n\n刚好我最近给 CodePilot 做了一个新的 logo，然后就参考了一下，做了新的产品宣传动画。\n\n顺便我总结成了一个提示词，你可以为你的产品…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044095602070257754",
+    "time": "2026-04-15 00:49",
+    "id_str": "2044095602070257754",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 新增 Routines 功能，把 AI 编程助手从“你问它答”升级成了“自动干活”。\n\n简单说，Routines 就是一个预设好的 Claude Code 任务模板，你告诉它干什么、给它接上代码仓库和外部工具，然后设定触发条件，它就能在 Anthropic 的云端自己跑起来，不需要你盯着电脑。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044096713401778594",
+    "time": "2026-04-15 00:53",
+    "id_str": "2044096713401778594",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Yep @AnthropicAI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2044097855057736126",
+    "time": "2026-04-15 00:58",
+    "id_str": "2044097855057736126",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I built a \"FRANKLIN SELF-MASTERY SYSTEM\" in Claude.\n\nIt reads Benjamin Franklin’s philosophy and applies his daily discipline and habit tracking to YOUR life.\n\nHe tracked 13 virtues every day for decades without relying on motivation.\n\nClaude now applies that exact system to your https://t.co/95plRTegas",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076181906174127",
+    "time": "2026-04-14 23:31",
+    "id_str": "2044076181906174127",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "PROMPT 1: The 13 Virtues Personal Audit\n\n# ROLE\nYou are a behavioral accountability coach who spent 9 years running habit transformation programs before going independent. You've studied Franklin's virtue tracking system from his autobiography more closely than anyone you've met:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076194543579159",
+    "time": "2026-04-14 23:31",
+    "id_str": "2044076194543579159",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "PROMPT 2: The Franklin Daily Schedule Architect\n\n# ROLE\nYou are a time architecture consultant who spent 7 years studying how high-output people structure their days before building a solo practice around it. Franklin's daily schedule from his autobiography is the most copied",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076206870671511",
+    "time": "2026-04-14 23:31",
+    "id_str": "2044076206870671511",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "PROMPT 3: The Weekly Virtue Focus System\n\n# ROLE\nYou are a behavioral change specialist who spent 8 years working with athletes and executives on performance habits before going independent. Franklin's insight that trying to fix everything at once produces nothing has been",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076219361308899",
+    "time": "2026-04-14 23:32",
+    "id_str": "2044076219361308899",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "PROMPT 4: The Morning and Evening Reflection Protocol\n\n# ROLE\nYou are a journaling systems designer who spent 5 years helping founders build reflection practices that actually survived contact with busy schedules. Franklin's two daily questions, \"What good shall I do today?\" in",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076231952638437",
+    "time": "2026-04-14 23:32",
+    "id_str": "2044076231952638437",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "PROMPT 5: The Poor Richard's Principles Extractor\n\n# ROLE\nYou are a decision framework consultant who spent 6 years helping founders build personal operating principles before going independent. Franklin spent 26 years writing Poor Richard's Almanack, compressing a lifetime of",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076244237725957",
+    "time": "2026-04-14 23:32",
+    "id_str": "2044076244237725957",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "PROMPT 6: The 13-Week Self-Improvement Curriculum\n\n# ROLE\nYou are a self-directed learning architect who spent 5 years building personal development curricula for high-performing solopreneurs before going independent. Franklin educated himself without a school after age 10 by",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076256686420025",
+    "time": "2026-04-14 23:32",
+    "id_str": "2044076256686420025",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I should charge $99 for each of these.\nBut every single guide on this page is free.\n\n→ Claude Guide\n→ Gemini Guide\n→ OpenClaw Guide\n→ + more dropping &amp; updating regularly\n\nZero cost. Zero catch.\n\nJust open and learn 👇\nhttps://t.co/TNLLcCT5kh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044076268329853266",
+    "time": "2026-04-14 23:32",
+    "id_str": "2044076268329853266",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "People are using Google Reviews to prompt inject the Claude-run retail store into stocking their favorite products https://t.co/ixDxsgQ9GK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2044087794176541138",
+    "time": "2026-04-15 00:18",
+    "id_str": "2044087794176541138",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Need to go to the store later this week to see if they have $260k in paper clips and a self-contained shrimp ecosystem https://t.co/leyeD4RbC2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2044091238631256078",
+    "time": "2026-04-15 00:31",
+    "id_str": "2044091238631256078",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "With states driving AI governance in the U.S., the constitutional limits on their authority will shape the regulatory landscape.\n\nOur judicial process requires cost-benefit analysis to determine how Congress can regulate interstate commerce.\n\nBut there's an evidence gap: the data https://t.co/r7U2DZYSO3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2044075449698107603",
+    "time": "2026-04-14 23:28",
+    "id_str": "2044075449698107603",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @harshavramesh: The world is fragmenting.\n\nSupply chains are shifting.\n\nVolatility is no longer cyclical - it’s structural.\n\nYet most bu…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2044087129291272536",
+    "time": "2026-04-15 00:15",
+    "id_str": "2044087129291272536",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "结构产生能量，同时产生阴影。\n一体两面。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2044070662214689126",
+    "time": "2026-04-14 23:09",
+    "id_str": "2044070662214689126",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "QT your fantasy art https://t.co/l2Ce9M6Sfm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044091109245145374",
+    "time": "2026-04-15 00:31",
+    "id_str": "2044091109245145374",
+    "is_retweet": false
+  }
+]
