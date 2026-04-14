@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "They are calling for the genocide of Whites",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044169550112141790",
+    "time": "2026-04-15 05:42",
+    "id_str": "2044169550112141790",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 的 Claude Code 桌面端负责人 Anthony Morris 宣布 Claude Code 桌面应用完成了一次从底层开始的重新设计，核心目标是让用户更容易同时跑多个 Claude 编程任务。\n\nMorris 说自己已经好几周没打开过 IDE 和终端了。\n\nClaude Code 桌面端此前已经支持 Git worktree",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044145889707774000",
+    "time": "2026-04-15 04:08",
+    "id_str": "2044145889707774000",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @xicilion: 没有谁该 first，至少很长一段时间，AI 和人类在开发中的关系，是结对关系。谁也离不开谁。\n哪种完全撒手让 AI 从头干到尾的，看起来很潮，实际上是执行人根本不知道自己想要什么，也根本不知道 AI 在干什么。因为 AI 干出什么，他们都会觉得超出…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044156620666495126",
+    "time": "2026-04-15 04:51",
+    "id_str": "2044156620666495126",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "is the new claude desktop app live yet?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2044167028182003907",
+    "time": "2026-04-15 05:32",
+    "id_str": "2044167028182003907",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "TTS presets are dead ☠️\n\nThe old way:\npick a voice from a list and hope it sounds right.\n\nThe new way:\ndescribe the voice you want in plain text.\n\nVoxCPM 2 generates it from scratch.\n\n30+ languages. 48kHz. Open source. Zero reference audio.\n\nHere’s why this changes everything 👇 https://t.co/ek3BFj87yT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044154904038780994",
+    "time": "2026-04-15 04:44",
+    "id_str": "2044154904038780994",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most TTS models convert audio into discrete tokens.\n\nThat compression strips acoustic detail. Emotional texture gets flattened.\n\nTimbre gets approximated.\n\nVoxCPM 2 uses a Diffusion-Autoregressive Continuous Representation framework instead.\n\nContinuous signal. Less information",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044154916042850398",
+    "time": "2026-04-15 04:44",
+    "id_str": "2044154916042850398",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What this unlocks in practice:\n\n&gt; Generate any voice from a text description with zero reference audio\n&gt; Clone voices at 48kHz across 30+ languages\n&gt; Native support for 8 Southeast Asian languages and 8 Chinese dialects\n&gt; Character voice synthesis for gaming, animation, and https://t.co/EBuvrrLXzT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044154985836097665",
+    "time": "2026-04-15 04:45",
+    "id_str": "2044154985836097665",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "VoxCPM 2 vs Qwen3-TTS, directly:\n\nAcoustic representation: Continuous vs discrete tokens.\n\nVoxCPM 2 preserves more of the original acoustic signal at every step.\n\nAudio quality ceiling: 48kHz vs 24kHz industry standard.\n\nZero-shot voice generation from text: VoxCPM 2.\n\nQwen3-TTS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044154998238622012",
+    "time": "2026-04-15 04:45",
+    "id_str": "2044154998238622012",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Try it now 👇\n\nDemo: https://t.co/2Z0PDi7O9L\n\nModel: https://t.co/aIg1TuOQCo\n\nGitHub: https://t.co/dlLkEBVL5S",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044155009856881067",
+    "time": "2026-04-15 04:45",
+    "id_str": "2044155009856881067",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: I built a \"FRANKLIN SELF-MASTERY SYSTEM\" in Claude.\n\nIt reads Benjamin Franklin’s philosophy and applies his daily discipl…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044168992173240649",
+    "time": "2026-04-15 05:40",
+    "id_str": "2044168992173240649",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "X has outage issues. It’ll be back. You are not alone.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044162672774570200",
+    "time": "2026-04-15 05:15",
+    "id_str": "2044162672774570200",
+    "is_retweet": false
+  }
+]
