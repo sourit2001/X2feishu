@@ -168,5 +168,65 @@
     "time": "2026-04-15 23:31",
     "id_str": "2044438583038062661",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Gemini 也出 Mac 版了，用了一下，不怎么好用，连 Gem 都不支持，不如网页版本，虽然网页版槽点也很多。\n\n感觉 Google 这迭代速度真慢！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044462907023368269",
+    "time": "2026-04-16 01:08",
+    "id_str": "2044462907023368269",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 的 Agents SDK 最近做了一次重要升级，增加了两个关键功能：内置沙箱执行环境和模型原生执行框架（Harness）。这次更新的目标，是帮助开发者更容易地创建安全可靠、能长时间稳定运行的 Agent。\n\n以前开发者使用 OpenAI 的模型来搭建 Agent",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044474625510318235",
+    "time": "2026-04-16 01:55",
+    "id_str": "2044474625510318235",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Three months ago https://t.co/kWw1dAMOZg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2044460353350996414",
+    "time": "2026-04-16 00:58",
+    "id_str": "2044460353350996414",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The worst part of building isn’t shipping.\n\nIt’s the pile of emails, follow-ups, and random ops work waiting for you right after.\n\nBeen using Wingman in beta and waking up to a cleaned up inbox + drafted replies is hard to give up now.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044471642718454188",
+    "time": "2026-04-16 01:43",
+    "id_str": "2044471642718454188",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The dominant paradigm in AI today is organized around language and code.\n\nBut physical AI is maturing concurrently, and the pace of progress over the past 18 months suggests that new fields could soon enter a scaling regime of their own.\n\na16z's Oliver Hsu on robot learning, https://t.co/orUo1xDDGk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2044467723464523878",
+    "time": "2026-04-16 01:27",
+    "id_str": "2044467723464523878",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "If you're an AI creator, you know the drill: Nano Banana for frame refs, Kling 3 Omni for character consistency, then Photoshop, Premiere and After Effects to stitch it all together.\n\nWhat if one AI agent could orchestrate all of it?\n\nThat's what my team at Adobe is building. https://t.co/ZAMlJe3wqF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044469719781044668",
+    "time": "2026-04-16 01:35",
+    "id_str": "2044469719781044668",
+    "is_retweet": false
   }
 ]
