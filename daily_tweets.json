@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Watch Falcon 9 launch 25 @Starlink satellites to orbit from California https://t.co/j86tO4yG2I",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044277514223374390",
+    "time": "2026-04-15 12:51",
+    "id_str": "2044277514223374390",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我觉得今年这句话更重要了。\n\n只是解构会慢慢地、慢慢地把自己也解构掉，还是要做点东西",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2044277383310749912",
+    "time": "2026-04-15 12:51",
+    "id_str": "2044277383310749912",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "现在各家的 Code plan 采用 Anthropic 兼容模式的时候太难搞了，尤其是对我们这些非 Claude Code 又兼容这套逻辑的开发者。\n\n你根本不知道最后用的模型是哪个，因为最后都会被传成 Claude Code 那三个模型。\n\n而且模型发布也没有 API，或者说 API 不会返回模型真正的名称，每次上新模型都得更新代码。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2044278656768635054",
+    "time": "2026-04-15 12:56",
+    "id_str": "2044278656768635054",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Anthropic 重构了 Claude 桌面端，现在侧边栏的所有内容都统一到一个地方，并且支持分屏了。\n\n其实很多人不知道 CodePilot 也是支持分屏的，而且非常早就支持了。 https://t.co/imAELQVUPa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2044290912151580811",
+    "time": "2026-04-15 13:45",
+    "id_str": "2044290912151580811",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Vibe Coding 是中年男人的钓鱼\n\n我发现 AI 对于很多中年男人来说，就跟钓鱼一样，是一种合法且体面的独处方式。\n\n中年男人的生活，大多处在一种身份叠加的夹缝之中。白天，他可能是部门经理，需要照顾团队绩效与上下级关系； https://t.co/qqiTwYil3z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044285265586340066",
+    "time": "2026-04-15 13:22",
+    "id_str": "2044285265586340066",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @lifesinger: 如何写出美好的东西\n\n有个叫阿兰 · 德波顿（Alain de Botton）的人，写了好多好多书，在 YouTube 上有将近一千万粉丝。有人问他：你怎么写出那么好的东西。\n\n德波顿的回答特别有意思。总结起来，有五大写作秘密。\n\n秘密一：写作就…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044288089745465398",
+    "time": "2026-04-15 13:33",
+    "id_str": "2044288089745465398",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 订阅用户缓存 1 小时信息来源\nhttps://t.co/j8aIqB3dKE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044289277706555519",
+    "time": "2026-04-15 13:38",
+    "id_str": "2044289277706555519",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @turingbook: DeepSeek的绝对核心郭达雅已经到字节上班了。中山大学印鉴和微软研究院周明老师联合培养的博士。 https://t.co/HoZK11GQge",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044295863967637838",
+    "time": "2026-04-15 14:04",
+    "id_str": "2044295863967637838",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @intuitiveml: @dotey 我认为很多人可能误解了宝玉在“AI First”这个问题上的观点，所以我也想在这里做一些澄清，因为我对此非常有共鸣。\n\n我写这篇文章的目的，并不是想让所有人盲目地去采用“AI First”。相反，我想表达的是，把 AI 真正有效地…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044306736358596938",
+    "time": "2026-04-15 14:48",
+    "id_str": "2044306736358596938",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Why does Anthropic keep releasing stuff that breaks every 2 seconds \n\nIs Mythos writing the code",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2044300276782510384",
+    "time": "2026-04-15 14:22",
+    "id_str": "2044300276782510384",
+    "is_retweet": false
+  }
+]
