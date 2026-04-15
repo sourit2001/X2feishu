@@ -158,5 +158,185 @@
     "time": "2026-04-15 09:37",
     "id_str": "2044228684022685750",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starship static fire successful!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044250132296986737",
+    "time": "2026-04-15 11:03",
+    "id_str": "2044250132296986737",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Starlink: For those impacted by Super Typhoon Sinlaku, Starlink is providing free service through May 15th to new and existing customer…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044250567057518953",
+    "time": "2026-04-15 11:04",
+    "id_str": "2044250567057518953",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Falcon 9 launches 29 @Starlink satellites from Florida https://t.co/LArWOnC3tD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044250602839101743",
+    "time": "2026-04-15 11:04",
+    "id_str": "2044250602839101743",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @tesla_na: Tesla Insurance update\n\nWith the latest version of Safety Score (v3.0), every mile you drive with FSD Supervised enabled will…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2044250667783688205",
+    "time": "2026-04-15 11:05",
+    "id_str": "2044250667783688205",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Codepilot 0.50.1 版本更新\n\n现在飞书连接支持一键搞定了，直接打开网页创建应用并拿到全部权限。\n\n添加了子 Agent 展示 UI，你可以看到进度\n\n添加了消息队列能力，AI 正在回复也可以继续发消息\n\n增加草稿保存，输入框的内容切换聊天也不会消失\n\n还修复了一堆桥接已经存在的问题 https://t.co/RSiS3hwJaP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2044246216989651385",
+    "time": "2026-04-15 10:47",
+    "id_str": "2044246216989651385",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "https://t.co/zw41OF5Q0n",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2044246307351736531",
+    "time": "2026-04-15 10:47",
+    "id_str": "2044246307351736531",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @Khazix0918: https://t.co/HYoStio00F",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044268943209083378",
+    "time": "2026-04-15 12:17",
+    "id_str": "2044268943209083378",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "开源项目推荐：BlockNote\n\nBlockNote 是一个开源的 React 富文本编辑器，基于 ProseMirror 和 Tiptap 构建，走的是 Notion 风格的 Block 编辑体验，拖拽、嵌套、斜杠菜单、格式工具栏这些开箱即用。\n\n对于需要在自己的应用里嵌入编辑器的开发者来说，它最大的吸引力在两个地方。 https://t.co/ZYttltOK2S",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044274537903100401",
+    "time": "2026-04-15 12:40",
+    "id_str": "2044274537903100401",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Cursor, Codex, and Claude Code desktop look exactly the same now.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2044249970220642732",
+    "time": "2026-04-15 11:02",
+    "id_str": "2044249970220642732",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: TTS presets are dead ☠️\n\nThe old way:\npick a voice from a list and hope it sounds right.\n\nThe new way:\ndescribe the voice…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044246975022018879",
+    "time": "2026-04-15 10:50",
+    "id_str": "2044246975022018879",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "日读论文：CPU 与主板的隐喻\n\nhttps://t.co/xdxU93Dk1j\n\n为什么这两年模型没怎么变大，Agent 却突然能干活了？\n\n过去三年的故事很熟悉：参数一路堆上去，从十亿到万亿，GPT-4 Gemini DeepSeek 一层层盖。大家信 scaling https://t.co/LarD8cBMha",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2044259907374067770",
+    "time": "2026-04-15 11:41",
+    "id_str": "2044259907374067770",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "我喜欢的人，大抵有两种特质：纯粹和赤诚。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2044262531846565993",
+    "time": "2026-04-15 11:52",
+    "id_str": "2044262531846565993",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "https://t.co/SZWOClPRbS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2044263375090397500",
+    "time": "2026-04-15 11:55",
+    "id_str": "2044263375090397500",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "别说 双休 、 高薪 了，现在市面上 996 的工作都难找 ...\n有没有人有一样的感觉？\n今年这就业市场简直是炼狱模式 ...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2044237162363646321",
+    "time": "2026-04-15 10:11",
+    "id_str": "2044237162363646321",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @jwilki10: QT your Fantasy Art\nhttps://t.co/cS3j1rllzP https://t.co/kyjI5vVpEi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044250305848545775",
+    "time": "2026-04-15 11:03",
+    "id_str": "2044250305848545775",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is awesome",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044262540201353335",
+    "time": "2026-04-15 11:52",
+    "id_str": "2044262540201353335",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: QT your fantasy art https://t.co/l2Ce9M6Sfm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044267727024500794",
+    "time": "2026-04-15 12:13",
+    "id_str": "2044267727024500794",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @defyong: @icreatelife The Tree of Life https://t.co/rAEvBWtNaH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044267842271383925",
+    "time": "2026-04-15 12:13",
+    "id_str": "2044267842271383925",
+    "is_retweet": true
   }
 ]
