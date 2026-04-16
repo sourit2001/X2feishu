@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Lots of major improvements to Codex!\n\nComputer use is a real update for me; it feels even more useful than I expected. It can use all of the apps on your Mac, in parallel and without interfering with your direct work.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2044858862042591378",
+    "time": "2026-04-17 03:21",
+    "id_str": "2044858862042591378",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Codex can learn from experience and proactively suggest things it can do for you.\n\nIt now has an in-app browser, many new plugins, and so much more.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2044858863246323811",
+    "time": "2026-04-17 03:21",
+    "id_str": "2044858863246323811",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @AriX: This is the first time I've ever seen an LLM operate a GUI as fast as a person, and it's surreal. https://t.co/5kjwGMDpvd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2044858929491202435",
+    "time": "2026-04-17 03:22",
+    "id_str": "2044858929491202435",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这封面不错😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044856258230886601",
+    "time": "2026-04-17 03:11",
+    "id_str": "2044856258230886601",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Boris Cherny 根据自己最近几周深度使用 Claude Opus 4.7 的经验，分享了几个实用技巧，让你也能高效发挥这款新模型的威力。\n\n首先是新上线的“自动模式”(Auto mode)。\n\nOpus 4.7 很适合复杂且长期运行的任务，比如深度调研、代码重构或功能迭代。 https://t.co/UT6pcTyPWB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044868344256381254",
+    "time": "2026-04-17 03:59",
+    "id_str": "2044868344256381254",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "要想编程效果好，就得学会“黑话”😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044869059808727427",
+    "time": "2026-04-17 04:02",
+    "id_str": "2044869059808727427",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "额度果然重置了 https://t.co/yk053zcqXW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2044869569303441451",
+    "time": "2026-04-17 04:04",
+    "id_str": "2044869569303441451",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I have found that asking for a sestina regularly triggers Opus 4.7's safety guardrails.\n\nThe forbidden poetic form! https://t.co/5Jnfhx0Qff",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2044863531900686775",
+    "time": "2026-04-17 03:40",
+    "id_str": "2044863531900686775",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think the adaptive thinking requirement in Claude Opus 4.7 is bad in the ways that all AI effort routers are bad, but magnified by the fact that there is no manual override like in ChatGPT.\n\nIt regularly decides that non-math/code stuff is \"low effort\" &amp; produces worse results. https://t.co/OEMM6TUpOL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2044864822076969268",
+    "time": "2026-04-17 03:45",
+    "id_str": "2044864822076969268",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It basically rarely seems to think on analysis, writing, or research tasks, which means it isn't using tools or web search. Haven't tested everything yet, so not definitive, but I am often getting lower quality answers for that sort of use case that Opus 4.6 Extended Thinking. https://t.co/svmp46CkTJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2044867046685413670",
+    "time": "2026-04-17 03:54",
+    "id_str": "2044867046685413670",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is not well-explained, but with the adaptive switch off, I get no thinking.\n\nI can set thinking levels in Claude Code, but not in Claude Cowork. AI companies keep seeming to assume that coding/technical work is the only kind of important intellectual work out there (it is not)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2044868563626824062",
+    "time": "2026-04-17 04:00",
+    "id_str": "2044868563626824062",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Maybe because of this paper? https://t.co/yIPuGArZSF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2044874149923848682",
+    "time": "2026-04-17 04:22",
+    "id_str": "2044874149923848682",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This is exactly what i was hoping for... \n- Full permissions\n- no \"cowork\" like feature which limits agent abilities\n- Just codex...\n\nIf you ask for coding task it writes code and gives you a preview. If you ask for a presentation or doc it gives you a presentation or doc. https://t.co/mInQcukmOf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2044867357252927535",
+    "time": "2026-04-17 03:55",
+    "id_str": "2044867357252927535",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "There will never be a 1-person billion dollar company",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2044873661077930278",
+    "time": "2026-04-17 04:20",
+    "id_str": "2044873661077930278",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: The dirty secret of AI video:\n\nThe workflow still sucks.\n\nZooClaw just dropped Vibe Drama, a way to turn one conversation…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2044876172610417079",
+    "time": "2026-04-17 04:30",
+    "id_str": "2044876172610417079",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Kalshi is doing ~$3B in weekly volume, up from ~$100M one year ago\n\nhttps://t.co/5WUzByX3XS https://t.co/6LQ4LQoxs4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2044860907508162752",
+    "time": "2026-04-17 03:30",
+    "id_str": "2044860907508162752",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@signulll says we're still in the stone age of AI tools:\n\n\"I don't think most people are utilizing them anything beyond the basics.\"\n\n\"We're in the stone ages of how people view and perceive and use these things, even though there's a billion people utilizing them, but they're https://t.co/VHf94gSQGl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2044868651841696042",
+    "time": "2026-04-17 04:00",
+    "id_str": "2044868651841696042",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@pmarca: \"The person who writes down the thing has tremendous power.\"\n\n\"There are so few people who will just like write down the thing.\n\nAnd so we see this at companies all the time, which is, one of the ways you find the up-and-comers at a tech company is just, okay, who wrote https://t.co/lOyTi3WklV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2044876078834155896",
+    "time": "2026-04-17 04:30",
+    "id_str": "2044876078834155896",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Post your art. Support other creators.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044855969922871578",
+    "time": "2026-04-17 03:10",
+    "id_str": "2044855969922871578",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @ToshiArte: @icreatelife 🫶 https://t.co/nIBIgNWDD1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044858634455179477",
+    "time": "2026-04-17 03:21",
+    "id_str": "2044858634455179477",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Xgoddess_visual: She dances with the moon, and the tides answer. 🌒 https://t.co/E3eg2Vhfgv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044866541888401783",
+    "time": "2026-04-17 03:52",
+    "id_str": "2044866541888401783",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @illusionkrafter: You are not empty… you are an ocean learning to flow. https://t.co/4SV65HHLLL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2044866571428921500",
+    "time": "2026-04-17 03:52",
+    "id_str": "2044866571428921500",
+    "is_retweet": true
+  }
+]
