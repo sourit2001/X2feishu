@@ -198,5 +198,165 @@
     "time": "2026-04-18 09:24",
     "id_str": "2045312380020691036",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @benjitaylor: We launched our new Grok Voice APIs and they’re extremely good. Strongly suggest giving them a try.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045329507284844939",
+    "time": "2026-04-18 10:32",
+    "id_str": "2045329507284844939",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @EthanHe_42: grok speech-to-text and tts apis are out. multilingual multi-speaker is huge for me personally. https://t.co/7ABBCUCTO6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045332210727666118",
+    "time": "2026-04-18 10:42",
+    "id_str": "2045332210727666118",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @tetsuoai: xAI just made Speech to Text generally available.\n\n25 languages.\nbatch uploads + live streaming.\nword-level timestamps.\nmulti…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045335397215899688",
+    "time": "2026-04-18 10:55",
+    "id_str": "2045335397215899688",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: \"People get confused sometimes they think an economy is money. Money is a database for exchange of goods &amp; services. Money doe…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045335456930205785",
+    "time": "2026-04-18 10:55",
+    "id_str": "2045335456930205785",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @wmorrill3: also\nhttps://t.co/kiK19J80rF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045335671724810315",
+    "time": "2026-04-18 10:56",
+    "id_str": "2045335671724810315",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Ominousind: Grok 4.3 Beta browser os test result, gta clone and voice control apps https://t.co/GqvWIkT5x2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045338535113142532",
+    "time": "2026-04-18 11:08",
+    "id_str": "2045338535113142532",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/vPEtJ7N1XZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2045323919570182384",
+    "time": "2026-04-18 10:09",
+    "id_str": "2045323919570182384",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 自家设计师 Ryan Mather，一人负责公司 7 个产品线。他发的几条自己用 Claude Design 的心得，结合官方教程：\n\n1. 别急着干活，先花一小时搭你的设计系统。\n\n把代码库、设计稿、品牌素材全塞给 Claude，让它抽出一套 UI Kit",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2045327385763913731",
+    "time": "2026-04-18 10:23",
+    "id_str": "2045327385763913731",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://t.co/coJnHvLASI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2045337105014968598",
+    "time": "2026-04-18 11:02",
+    "id_str": "2045337105014968598",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "What’s “email”? Sounds very interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2045329479237845473",
+    "time": "2026-04-18 10:32",
+    "id_str": "2045329479237845473",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "emacs theme: ef-cyprus 真好看 https://t.co/xcnIbw7Evg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2045326790441508925",
+    "time": "2026-04-18 10:21",
+    "id_str": "2045326790441508925",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "先码住再阅读",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2045329945963180219",
+    "time": "2026-04-18 10:33",
+    "id_str": "2045329945963180219",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "实现 LLM 推理效率前沿的 5 种技术：\n\n1. 跨模型层的语义路由\n\n2. 预填充和解码分解\n\n3. 量化：以精度换取速度\n\n4. 上下文路由：大多数团队忽略的关键杠杆\n\n5. 推测性解码",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2045330075672076785",
+    "time": "2026-04-18 10:34",
+    "id_str": "2045330075672076785",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @Cloudflare: Today, we’re excited to give you a sneak peek of our support for shared compression dictionaries, show you how it improves…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2045331101363937417",
+    "time": "2026-04-18 10:38",
+    "id_str": "2045331101363937417",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @Cloudflare: Soft directives don’t stop crawlers from ingesting deprecated content. Redirects for AI Training allows anybody on Cloudfla…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2045351321285632284",
+    "time": "2026-04-18 11:58",
+    "id_str": "2045351321285632284",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "根据Boss直聘最新财报数据：\n\n1. 活跃用户规模 (MAU)\n指标表现： 2025 年全年的平均月活跃用户（MAU）达到 6,070 万，同比增长 14.5%。\n\n关注逻辑： 招聘平台的核心是“双边网络效应”。在互联网流量红利见顶的背景下，BOSS 直聘仍能保持两位数的 MAU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2045353308286812316",
+    "time": "2026-04-18 12:06",
+    "id_str": "2045353308286812316",
+    "is_retweet": false
   }
 ]
