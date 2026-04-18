@@ -1,1 +1,202 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok 4.3 is still an early beta that will improve almost every day, but try it out!\n\nWe will publish release notes as we fix bugs and add functionality.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045285099680252417",
+    "time": "2026-04-18 07:35",
+    "id_str": "2045285099680252417",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok groks",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045292691248840918",
+    "time": "2026-04-18 08:05",
+    "id_str": "2045292691248840918",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @teslaownersSV: Grok 4.3 just leveled up — it can create slides. 🚀📊 https://t.co/liuZfaClCy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045292855854260710",
+    "time": "2026-04-18 08:06",
+    "id_str": "2045292855854260710",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok groks https://t.co/oVPY7yElAZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045293976287141993",
+    "time": "2026-04-18 08:10",
+    "id_str": "2045293976287141993",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @minchoi: Here we go...  Grok 4.3 just dropped.\n\nNow it can create other file formats like Slides, Sheets, PDFs, Docs, etc. https://t.co…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045295535561560197",
+    "time": "2026-04-18 08:17",
+    "id_str": "2045295535561560197",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla engineering redesigned lithium refining from physics first principles",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045309037848272993",
+    "time": "2026-04-18 09:10",
+    "id_str": "2045309037848272993",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Lmaooo https://t.co/pPVoCcN8tm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045317075783020756",
+    "time": "2026-04-18 09:42",
+    "id_str": "2045317075783020756",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "1080p 已经支持了\nhttps://t.co/phvuut5aV2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2045301415828938984",
+    "time": "2026-04-18 08:40",
+    "id_str": "2045301415828938984",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think Artificial Analysis does a good job overall and provides transparency in benchmarking, but GDPval-AA is not a good benchmark and needs to stop being reported. It is Gemini 3.1 judging other models on the output of the public questions from GDPval, which tells us nothing.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2045305504679842279",
+    "time": "2026-04-18 08:56",
+    "id_str": "2045305504679842279",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "GDPval is one of the most important benchmarks of AI ability because it is based on human expertise. It compares expert human performance to AI performance using expert human judges who spend an average of an hour evaluating each answer. It also has holdout questions that are not",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2045307368993374597",
+    "time": "2026-04-18 09:04",
+    "id_str": "2045307368993374597",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Anyhow, I realize nobody cares and all the AI labs have started presenting their GDPval-AA score, but it is an incredibly gameable output with low face validity and we really need trustworthy measures of AI ability.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2045307639752487028",
+    "time": "2026-04-18 09:05",
+    "id_str": "2045307639752487028",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "One of the premier journals in my field...\n\nI think there are very valid reasons to set rules on AI in peer review (including disclosure), but the idea that all AI models steal your data is very 2023. Require people to use enterprise accounts or models with training turned off.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2045311526945394722",
+    "time": "2026-04-18 09:20",
+    "id_str": "2045311526945394722",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A major lesson to take away from Opus 4.7 is that, while there is a lot of arguments about implementation choices and personality, models keep improving measurably on economically important tasks with each release (it has been two months since Opus 4.6), with no signs of slowdown",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2045314251804324080",
+    "time": "2026-04-18 09:31",
+    "id_str": "2045314251804324080",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And, we have not seen Mythos (or whatever OpenAI and Google are releasing)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2045317220302025147",
+    "time": "2026-04-18 09:43",
+    "id_str": "2045317220302025147",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "One thing thing about AI, for better and worse, is that \"everything around me is somebody's life work\" is no longer a true assumption going forward. https://t.co/Ul02G271yq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2045318277958709540",
+    "time": "2026-04-18 09:47",
+    "id_str": "2045318277958709540",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "My Codex Setup Cannot be beat\n\n&gt; Codex 5.4 Xhigh for most tasks\n&gt; Opus 4.7 for some design and video stuff in terminal\n\nRemotion Plugin\nMobile App Design Skill (Made today)\nVercel Plugin (deploy immediately) \nIos-app-builder plugin\nPowerpoint Skill\nDocx Skill\n\n- Codex Web preview https://t.co/mwpZtgJ0aI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2045308572951777479",
+    "time": "2026-04-18 09:08",
+    "id_str": "2045308572951777479",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "推荐看看《时间规划局》\n然后把时间换成 Token",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2045284885242454190",
+    "time": "2026-04-18 07:34",
+    "id_str": "2045284885242454190",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "下周的日程，又是 E 版橘子营业的一周：\n周三，北京，43 talks 讲 AI 组织转型\n周四，深圳，和硬件大佬们学习\n周日，北京，十字路口开放麦分享 Cola\n有缘相见。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2045286387650646369",
+    "time": "2026-04-18 07:40",
+    "id_str": "2045286387650646369",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "May wonderful things happen to you https://t.co/vns95HqRFs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2045291241563095471",
+    "time": "2026-04-18 08:00",
+    "id_str": "2045291241563095471",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I need a speed up function in Grok https://t.co/IQIMtMsyua",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2045312380020691036",
+    "time": "2026-04-18 09:24",
+    "id_str": "2045312380020691036",
+    "is_retweet": false
+  }
+]
