@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try it out!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045891479378542927",
+    "time": "2026-04-19 23:45",
+    "id_str": "2045891479378542927",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @andst7: Alex Soros alla conferenza dei progressisti a Barcellona, insieme a Elly Schlein, che attacca Elon Musk. Non solo presenza: Sor…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045892441551835502",
+    "time": "2026-04-19 23:49",
+    "id_str": "2045892441551835502",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "More observations on X algorithm. \n\n1) one liners and memes don’t get any views even when good \n2) 30 seconds videos with dialog have great performance (when interesting) \n3) put less brand names in your captions, people scroll through, treated as ads \n4) reply with meaningful",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2045901314203283707",
+    "time": "2026-04-20 00:24",
+    "id_str": "2045901314203283707",
+    "is_retweet": false
+  }
+]
