@@ -12,8 +12,10 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout code
+      - name: Checkout main branch
         uses: actions/checkout@v3
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -29,11 +31,29 @@ jobs:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python digest.py
 
-      - name: Commit and push changes
+      - name: Commit data back to main
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add daily_tweets.json obsidian_sync/*.md || true
-          git commit -m "Update unified 2-hourly digest (Feishu + Obsidian)" || true
-          git pull --rebase
-          git push
+          git add daily_tweets.json || true
+          git commit -m "Update tweet queue and last processed IDs" || true
+          git push origin main || echo "No data changes to push"
+
+      - name: Push reports to posts branch
+        run: |
+          # Store reports temporarily
+          mkdir -p ../temp_reports
+          cp obsidian_sync/*.md ../temp_reports/ || echo "No reports to copy"
+          
+          # Switch to posts branch (create if not exists)
+          git fetch origin posts:posts || git checkout --orphan posts
+          git checkout posts
+          
+          # Clean existing files and copy new ones
+          git rm -rf . || echo "Branch is already empty"
+          cp ../temp_reports/*.md . || echo "No new reports found"
+          
+          # Commit and push to posts branch
+          git add .
+          git commit -m "Update latest X reports [skip ci]" || echo "No changes to reports"
+          git push origin posts
