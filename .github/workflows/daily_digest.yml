@@ -49,8 +49,11 @@ jobs:
           git fetch origin posts:posts || git checkout --orphan posts
           git checkout posts
           
-          # Clean existing files and copy new ones
-          git rm -rf . || echo "Branch is already empty"
+          # Clean existing files and untracked leftovers
+          git rm -rf . || true
+          git clean -xfd
+          
+          # Copy new ones to root
           cp ../temp_reports/*.md . || echo "No new reports found"
           
           # Commit and push to posts branch
