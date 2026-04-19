@@ -4,22 +4,24 @@ import requests
 from datetime import datetime, timedelta
 from openai import OpenAI
 
+# --- Configuration ---
 DAILY_TWEETS_FILE = "daily_tweets.json"
-
+OBSIDIAN_SYNC_DIR = "obsidian_sync"
 
 def load_daily_tweets():
     """Load accumulated tweets from the daily tweets file"""
     if os.path.exists(DAILY_TWEETS_FILE):
         with open(DAILY_TWEETS_FILE, 'r') as f:
-            return json.load(f)
+            try:
+                return json.load(f)
+            except:
+                return []
     return []
-
 
 def clear_daily_tweets():
     """Clear the daily tweets file after digest is sent"""
     with open(DAILY_TWEETS_FILE, 'w') as f:
         json.dump([], f)
-
 
 def group_tweets_by_blogger(tweets):
     """Group tweets by blogger nickname"""
@@ -35,52 +37,42 @@ def group_tweets_by_blogger(tweets):
         groups[key]['tweets'].append(tweet)
     return groups
 
+def build_unified_prompt(groups):
+    """Build a prompt for high-quality WeChat Official Account style summary (Unified)"""
+    prompt = """你是一位顶尖的科技自媒体主编，擅长撰写深度、客观且极具吸引力的“公众号式”新闻综述。
+请根据以下 X (Twitter) 上的博主动态，创作一篇内容精良、排版美观的推文综述。
 
-def build_summary_prompt(groups):
-    """Build the prompt for DeepSeek to generate a summary"""
-    prompt = """你是一个专业的社交媒体分析师。请根据以下各博主在 X (Twitter) 上发布的最新推文，生成一份中文简报。
+**写作风格：**
+1. **标题：** 请拟定一个极具吸引力、带点“标题党”风味但不过分的深度标题。
+2. **前言：** 用 100 字左右概述过去几小时全球 AI 和技术圈发生的重大变化或核心情绪。
+3. **🔥 今日深度洞察：** 
+   - 提取 3 个最核心的变化或观点。
+   - 每一个要点都要有深度分析（为什么重要？可能的影响是什么？）。
+   - **务必嵌入来源链接：** 在每个要点结束时，使用 [🔗 查看原推](url) 的格式。
+4. **👤 博主动态精选：**
+   - 按博主分组，用一段话（30-50字）精彩地点评该博主的最新观点。
+   - 在该博主段落末尾，列出其推文链接：[推文1](url), [推文2](url)...
+5. **结语：** 简短的点评或一个启发性的问题，引导读者思考。
 
-要求：
-1. 首先提炼出 3-5 条最重要、最值得关注的要点（跨所有博主），**请在每个要点末尾附上最相关的推文链接，格式为 [🔗](链接)**
-2. 然后按博主分组，每个博主用 1-3 句话总结其推文内容
-3. **在每个博主的总结段落末尾，按顺序列出该博主今日所有推文的完整链接，格式为：[推文1](链接), [推文2](链接)...**
-4. 如果推文包含引用转发（quoted_tweet），请结合原推和评论一起理解，说明谁引用了谁的观点
-5. 语言简洁有力，像新闻简报一样。输出使用中文。
+**排版建议：**
+- 使用 Markdown 语法。
+- 使用适当的 Emoji 增加趣味性。
+- 层级分明，使用二级标题 (##) 和三级标题 (###)。
 
-以下是推文数据：
+以下是推文原始数据：
 
 """
     for nick, group in groups.items():
-        prompt += f"\n--- {nick} (@{group['username']}) 共 {len(group['tweets'])} 条 ---\n"
+        prompt += f"\n--- {nick} (@{group['username']}) ---\n"
         for i, t in enumerate(group['tweets'], 1):
             rt_tag = "(转帖) " if t.get('is_retweet') else ""
             prompt += f"\n[推文{i} - {t['time']}] {rt_tag}{t['text']}\n链接: {t['url']}"
             if t.get('quoted_tweet'):
                 qt = t['quoted_tweet']
-                prompt += f"\n  └─ 引用 @{qt['username']}: {qt['text']}"
+                prompt += f"\n  └─ 引用自 @{qt['username']}: {qt['text']}"
             prompt += "\n"
 
-    prompt += """
-
-请严格按以下格式输出（使用飞书 Markdown 语法）：
-
-🔥 **今日要点**
-1. [要点1] [🔗](url)
-2. [要点2] [🔗](url)
-...
-
-👤 **各博主动态**
-
-🐦 **[博主昵称]** (@username) — X条
-[总结内容]
-[推文1](url), [推文2](url)...
-
-🐦 **[博主昵称]** (@username) — X条
-[总结内容]
-[推文1](url), [推文2](url)...
-"""
     return prompt
-
 
 def generate_summary(prompt, api_key):
     """Call DeepSeek API to generate summary"""
@@ -94,38 +86,52 @@ def generate_summary(prompt, api_key):
         messages=[
             {
                 "role": "system",
-                "content": "你是一个专业的社交媒体分析师，擅长从推文中提炼关键信息并生成简洁的中文简报。输出使用飞书 Markdown 格式。"
+                "content": "你是一个专业的自媒体主编，擅长撰写极具吸引力且专业度高的公众号文章稿件。输出使用标准 Markdown 格式。"
             },
             {
                 "role": "user",
                 "content": prompt
             }
         ],
-        temperature=0.3,
-        max_tokens=2000
+        temperature=0.6,
+        max_tokens=3000
     )
 
     return response.choices[0].message.content
 
+def save_to_obsidian_sync(content):
+    """Save the content for local Obsidian sync"""
+    if not os.path.exists(OBSIDIAN_SYNC_DIR):
+        os.makedirs(OBSIDIAN_SYNC_DIR, exist_ok=True)
 
-def build_feishu_digest_card(summary, total_tweets, total_bloggers, date_str, time_range):
-    """Build a Feishu card for the daily digest"""
+    now = datetime.utcnow() + timedelta(hours=8)
+    filename = f"{now.strftime('%Y-%m-%d %H%M')} X简报.md"
+    file_path = os.path.join(OBSIDIAN_SYNC_DIR, filename)
+
+    try:
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write("---\n")
+            f.write(f"date: {now.strftime('%Y-%m-%d %H:%M:%S')}\n")
+            f.write("type: X-Daily-Digest\n")
+            f.write("tags: [X, AI, Summary]\n")
+            f.write("---\n\n")
+            f.write(content)
+        print(f"✅ Saved to local Obsidian sync folder: {file_path}")
+        return True
+    except Exception as e:
+        print(f"❌ Failed to save for Obsidian: {e}")
+        return False
+
+def build_feishu_card(summary, date_str):
+    """Build a Feishu card using the unified WeChat-style summary"""
     return {
         "msg_type": "interactive",
         "card": {
             "header": {
-                "title": {"tag": "plain_text", "content": f"📋 X (Twitter) 简报 — {date_str}"},
+                "title": {"tag": "plain_text", "content": f"📝 X 帖子动态综述 — {date_str}"},
                 "template": "blue"
             },
             "elements": [
-                {
-                    "tag": "div",
-                    "text": {
-                        "tag": "lark_md",
-                        "content": f"📊 **概览**\n共监控 **{total_bloggers}** 位博主，本时间段内共发布 **{total_tweets}** 条推文"
-                    }
-                },
-                {"tag": "hr"},
                 {
                     "tag": "div",
                     "text": {
@@ -138,96 +144,51 @@ def build_feishu_digest_card(summary, total_tweets, total_bloggers, date_str, ti
                     "tag": "div",
                     "text": {
                         "tag": "lark_md",
-                        "content": f"⏰ 统计时段：{time_range}\n🤖 摘要由 DeepSeek 生成"
+                        "content": "⏰ 此摘要已同步至 Obsidian\n🤖 Powered by DeepSeek"
                     }
                 }
             ]
         }
     }
 
-
 def main():
-    # Load environment variables
     api_key = os.getenv("DEEPSEEK_API_KEY")
     webhook_url = os.getenv("FEISHU_WEBHOOK")
 
-    if not api_key or not webhook_url:
-        print("Error: Missing DEEPSEEK_API_KEY or FEISHU_WEBHOOK.")
+    if not api_key:
+        print("Error: Missing DEEPSEEK_API_KEY.")
         return
 
     # Load tweets
     tweets = load_daily_tweets()
+    if not tweets:
+        print("No new tweets to summarize.")
+        return
 
     # Date info (Beijing time)
     now = datetime.utcnow() + timedelta(hours=8)
-    date_str = now.strftime('%Y-%m-%d')
-    yesterday = now - timedelta(days=1)
-    time_range = f"{yesterday.strftime('%m-%d %H:%M')} ~ {now.strftime('%m-%d %H:%M')}"
+    date_str = now.strftime('%Y-%m-%d %H:%M')
 
-    if not tweets:
-        print("No tweets to summarize. Sending empty digest.")
-        payload = {
-            "msg_type": "interactive",
-            "card": {
-                "header": {
-                    "title": {"tag": "plain_text", "content": f"📋 X (Twitter) 简报 — {date_str}"},
-                    "template": "blue"
-                },
-                "elements": [
-                    {
-                        "tag": "div",
-                        "text": {
-                            "tag": "lark_md",
-                            "content": f"📭 过去 4 小时内没有监控到新的推文动态。\n\n⏰ 统计时段：{time_range}"
-                        }
-                    }
-                ]
-            }
-        }
-        requests.post(webhook_url, json=payload)
-        return
-
-    # Group tweets by blogger
+    print(f"Generating unified summary for {len(tweets)} tweets...")
+    
     groups = group_tweets_by_blogger(tweets)
+    prompt = build_unified_prompt(groups)
+    summary = generate_summary(prompt, api_key)
 
-    # Batch bloggers to avoid hitting context/output limits
-    blogger_nicknames = list(groups.keys())
-    batch_size = 5
-    all_summaries = []
-    
-    # Calculate stats
-    total_tweets = len(tweets)
-    total_bloggers = len(groups)
-    
-    print(f"Generating digest for {total_tweets} tweets from {total_bloggers} bloggers in batches...")
-    
-    for i in range(0, total_bloggers, batch_size):
-        batch_nicks = blogger_nicknames[i:i + batch_size]
-        batch_groups = {nick: groups[nick] for nick in batch_nicks}
-        
-        print(f"Processing batch {i//batch_size + 1}: {', '.join(batch_nicks)}")
-        prompt = build_summary_prompt(batch_groups)
-        
-        # Adjust prompt for subsequent batches if needed, but for now, we just want summaries
-        batch_summary = generate_summary(prompt, api_key)
-        all_summaries.append(batch_summary)
-        
-    # Combine summaries (DeepSeek usually returns the formatted card content)
-    # We'll merge them by stripping the "今日要点" from later batches if they repeat, 
-    # but for simplicity and safety, we combine the relevant sections.
-    final_summary = "\n\n".join(all_summaries)
-    
-    print(f"All batches processed successfully.")
+    # 1. Save for Obsidian (local repo folder)
+    save_to_obsidian_sync(summary)
 
-    # Build and send Feishu card
-    payload = build_feishu_digest_card(final_summary, total_tweets, total_bloggers, date_str, time_range)
-    response = requests.post(webhook_url, json=payload)
-    print(f"Digest pushed to Feishu. Status: {response.status_code}")
+    # 2. Push to Feishu
+    if webhook_url:
+        payload = build_feishu_card(summary, date_str)
+        response = requests.post(webhook_url, json=payload)
+        print(f"Digest pushed to Feishu. Status: {response.status_code}")
+    else:
+        print("Warning: FEISHU_WEBHOOK not set, skipping Feishu push.")
 
-    # Clear daily tweets after successful push
+    # 3. Clear daily tweets
     clear_daily_tweets()
     print("Daily tweets cleared.")
-
 
 if __name__ == "__main__":
     main()

@@ -1,8 +1,8 @@
-name: Daily X (Twitter) Digest
+name: X (Twitter) Unified 2-Hourly Digest
 
 on:
   schedule:
-    - cron: '0 */4 * * *'   # Every 4 hours (UTC)
+    - cron: '0 */2 * * *'   # Every 2 hours
   workflow_dispatch:        # Allow manual trigger
 
 jobs:
@@ -23,17 +23,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run daily digest
+      - name: Run unified digest
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python digest.py
 
-      - name: Commit and push if changed
+      - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
-          git add daily_tweets.json || true
-          git commit -m "Clear daily tweets after digest" || true
+          git add daily_tweets.json obsidian_sync/*.md || true
+          git commit -m "Update unified 2-hourly digest (Feishu + Obsidian)" || true
           git pull --rebase
           git push
