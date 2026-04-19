@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @battleangelviv: These redwoods are older than many civilizations \n\nMany were already growing while the Roman Empire was still around ht…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2045756657834377654",
+    "time": "2026-04-19 14:49",
+    "id_str": "2045756657834377654",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "小技巧，如何在 GitHub Copilot 的 Agent 中避免老是确认权限，类似于 claude --dangerously-skip-permissions\n\n在 Settings -&gt; Claude Agent: Allow Dangerously Skip Permissions 中勾选 Allow bypass permissions mode. Recommended only for sandboxes with no internet access. https://t.co/iJSdWvH9h9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2045756332112838710",
+    "time": "2026-04-19 14:48",
+    "id_str": "2045756332112838710",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @ctjlewis: This place has been annoying as fuck recently. At least it’s no longer some schizo secret that 80% of “launch” traction has b…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2045756785840324946",
+    "time": "2026-04-19 14:50",
+    "id_str": "2045756785840324946",
+    "is_retweet": true
+  }
+]
