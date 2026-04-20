@@ -41,9 +41,9 @@ jobs:
 
       - name: Push reports to posts branch
         run: |
-          # Store reports temporarily in the correct structure
-          mkdir -p ../temp_structure/X帖子
-          cp obsidian_sync/*.md ../temp_structure/X帖子/ || echo "No reports to copy"
+          # Store reports temporarily
+          mkdir -p ../temp_reports
+          cp obsidian_sync/*.md ../temp_reports/ || echo "No reports to copy"
           
           # Switch to posts branch
           git fetch origin posts:posts || git checkout --orphan posts
@@ -53,8 +53,8 @@ jobs:
           git rm -rf . || true
           git clean -xfd
           
-          # Copy the structure
-          cp -r ../temp_structure/X帖子 .
+          # Copy new ones to root
+          cp ../temp_reports/*.md . || echo "No new reports found"
           
           # Commit and push to posts branch
           git add .
