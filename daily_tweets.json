@@ -28,5 +28,65 @@
     "time": "2026-04-21 05:46",
     "id_str": "2046344754200531126",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Classic study gave 146 economist teams the same dataset &amp; got wildly different answers\n\nNew paper reruns it with agentic AI. Claude Code &amp; Codex land near the human median, but with far tighter dispersion &amp; no extremes.\n\nSuggests that AI is now useful for doing scalable research. https://t.co/4Dq9sxxIPl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2046362044786458648",
+    "time": "2026-04-21 06:55",
+    "id_str": "2046362044786458648",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AI reviewers then ranked the submissions, and gave the same ordering every time, regardless of model doing the ranking: Codex GPT-5.4 &gt; GPT-5.3-Codex &gt; Opus 4.6 &gt; humans. \n\nPaper: https://t.co/o1faQgyZxP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2046363118343770219",
+    "time": "2026-04-21 06:59",
+    "id_str": "2046363118343770219",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Does OpenAI have plans in making the codex browser a FULL browser. If so this could be insane. I would love to be able to just open my notion doc directly inside codex. \n\nThe one thing i'm lacking is a place to write things down just as a note.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2046364360839508115",
+    "time": "2026-04-21 07:04",
+    "id_str": "2046364360839508115",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Thoughts on Improvements to Codex.\n- Markdown files should be editable (Or like i just wish there was a notebook, a place i could write things down that's not in a prompt box)\n- Browser should remember my logins\n- Links that ai sends you should be openable in the actual codex https://t.co/xkWS2O6sZ9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2046372241303335134",
+    "time": "2026-04-21 07:35",
+    "id_str": "2046372241303335134",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"Speed wins.\"\n\n\"You have to be willing to commit to being fast. You can't have long bureaucratic processes. You can't have a risk-averse posture.\"\n\n@pmarca explains the OODA loop and why speed defines the narrative:\n\n\"There's a framework called the OODA loop, originally developed https://t.co/By6BQLR8xH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2046358493805052367",
+    "time": "2026-04-21 06:40",
+    "id_str": "2046358493805052367",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "《同乐者》的设定太有趣了\n让人思考 AGI 和人类的关系",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2046372515765965297",
+    "time": "2026-04-21 07:36",
+    "id_str": "2046372515765965297",
+    "is_retweet": false
   }
 ]
