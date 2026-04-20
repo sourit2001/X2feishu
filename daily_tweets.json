@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "🎯",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2046308075947405581",
+    "time": "2026-04-21 03:20",
+    "id_str": "2046308075947405581",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Timcast: I worked as a fund raiser for several top NGOs\n\nIts all fake\n\nLies, tricks, and legal loopholes to get money for nothing.\n\nWe…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2046308563031867886",
+    "time": "2026-04-21 03:22",
+    "id_str": "2046308563031867886",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try it out",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2046313895447716230",
+    "time": "2026-04-21 03:43",
+    "id_str": "2046313895447716230",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 给 Codex 加了一个新功能 Chronicle，让它能“看”你的屏幕。\n\n简单说，Codex 现在可以记住你最近在屏幕上干了什么。你跟它说“这个报错”“那个文件”，它不用你解释就知道指的是什么。过去你得复制粘贴一堆上下文才能让 AI 理解你在做什么，现在它自己会从屏幕内容里补齐。\n\n背景：Codex",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2046316977711452560",
+    "time": "2026-04-21 03:56",
+    "id_str": "2046316977711452560",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "👀",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2046294374108344810",
+    "time": "2026-04-21 02:26",
+    "id_str": "2046294374108344810",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@pmarca on the Current Thing: \"Everybody has to have an opinion on the Current Thing. It's the most important thing in the world.\n\nAnd then 24 hours later it's like it never happened because something else has become the Current Thing.\"\n\n\"As long as the internet is the medium of https://t.co/1dO5lb6Nh5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2046291003460727124",
+    "time": "2026-04-21 02:12",
+    "id_str": "2046291003460727124",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @andrewchen: ok - dropping big dates/news for a16z speedrun:\n\n- starting TODAY, founders can apply for the 2026 program that runs July 2…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2046299247981756647",
+    "time": "2026-04-21 02:45",
+    "id_str": "2046299247981756647",
+    "is_retweet": true
+  }
+]
