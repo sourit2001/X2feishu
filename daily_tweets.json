@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @wholemars: It hit me yesterday when I was going to pick up lunch.\n\nI pre-cooled the Tesla Model 3 from my phone, and set the destinatio…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2046387188535861419",
+    "time": "2026-04-21 08:35",
+    "id_str": "2046387188535861419",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @BrianRoemmele: @GreenTechWizard @elonmusk I hope this helps. If you need more help let me know:\n\nConnecting OpenClaw to the X API is st…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2046387953086140472",
+    "time": "2026-04-21 08:38",
+    "id_str": "2046387953086140472",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Only the fraud was stopped by DOGE and, even then, only some of the fraud",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2046404769040810159",
+    "time": "2026-04-21 09:44",
+    "id_str": "2046404769040810159",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2046405057332097524",
+    "time": "2026-04-21 09:46",
+    "id_str": "2046405057332097524",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @leanprover: The Beneficial AI Foundation asks: \"Can we prove that Signal's cryptography is secure — not just on paper, but in actual co…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2046373297995018361",
+    "time": "2026-04-21 07:39",
+    "id_str": "2046373297995018361",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我今天也刚配置了 opus-4.6，有时候写东西还是 opus 4.6 稳一些，而且省 token，但是 /model 不能选了，不过可以通过配置切换，下面是配置：\n\n~/.claude/settings.json\n{\n  \"model\": \"claude-opus-4-6\"\n} https://t.co/sZlgtX1RY9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2046408595437191636",
+    "time": "2026-04-21 10:00",
+    "id_str": "2046408595437191636",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A useful ward against slop story/science posts on X is noting which is in the character limit.\n\nAll of the models struggle to do 280 character summaries on their first pass, and most of the people creating slop posts that start with 🚨 emojis don’t bother to prompt them better.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2046374457124528519",
+    "time": "2026-04-21 07:44",
+    "id_str": "2046374457124528519",
+    "is_retweet": false
+  }
+]
