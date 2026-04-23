@@ -1,1 +1,282 @@
-[]
+[
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "GPT-5.5 is here! We hope it's useful to you. I personally like it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047378253313106112",
+    "time": "2026-04-24 02:13",
+    "id_str": "2047378253313106112",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "It is smart and fast; per-token speed matches 5.4 and it uses significantly fewer tokens per task.\n\nIn my experience, it \"gets what to do\".\n\nRolling out today in ChatGPT and Codex. We are working with API customers on security and safeguards and plan to launch in API very soon.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047378254575685707",
+    "time": "2026-04-24 02:13",
+    "id_str": "2047378254575685707",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Also, a ton of new Codex features coming soon! Fun little bundle w/the new model.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047378431260664058",
+    "time": "2026-04-24 02:13",
+    "id_str": "2047378431260664058",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @DeryaTR_: I’d been part of OpenAI early tester group for GPT-5.5. I believe with GPT-5.5 Pro we reached another inflection point-compar…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047378669627113928",
+    "time": "2026-04-24 02:14",
+    "id_str": "2047378669627113928",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "API pricing will be $5 per 1 million input tokens and $30 per 1 million output tokens, with a 1 million context window.\n\n(Remember, you will need less tokens per task than 5.4!)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047379036419014928",
+    "time": "2026-04-24 02:16",
+    "id_str": "2047379036419014928",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "1. We believe in iterative deployment; although GPT-5.5 is already a smart model, we expect rapid improvements. Iterative deployment is a big part of our safety strategy; we believe the world will be best equipped to win at the team sport of AI resilience this way.\n\n2. We believe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047379615589777666",
+    "time": "2026-04-24 02:18",
+    "id_str": "2047379615589777666",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @polynoamial: I'm a manager at @OpenAI, but with GPT-5.5 I'm a more effective IC than I've ever been. I can now write CUDA kernels like…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047382023858184679",
+    "time": "2026-04-24 02:28",
+    "id_str": "2047382023858184679",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Really excellent work by the inference team to serve this model so efficiently!\n\nTo a significant degree, we have to become an AI inference company now.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047386068194852963",
+    "time": "2026-04-24 02:44",
+    "id_str": "2047386068194852963",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @skirano: One day while testing GPT-5.5, I had my first taste of AGI.\nWe had a branch with hundreds of visual and front-end changes, plu…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047386136494879164",
+    "time": "2026-04-24 02:44",
+    "id_str": "2047386136494879164",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "important (and very jakub-coded) jakub quote:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047386286613283180",
+    "time": "2026-04-24 02:45",
+    "id_str": "2047386286613283180",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @tszzl: there are early signs of 5.5 being a competent ai research partner. several researchers let 5.5 run variations of experiments ov…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047388773697147169",
+    "time": "2026-04-24 02:54",
+    "id_str": "2047388773697147169",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @ajambrosino: New in the Codex app:\n\n- GPT-5.5\n- Browser control\n- Sheets &amp; Slides\n- Docs &amp; PDFs\n- OS-wide dictation\n- Auto-review mode…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2047388944677863691",
+    "time": "2026-04-24 02:55",
+    "id_str": "2047388944677863691",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GPT Image 2 Prompt:\n\nClassic Bathtime Portrait of a Chicken in a Miniature Clawfoot Tub\n\nAn anime-style chicken mid-leap with a tiny katana in its wing, slashing through drifting sakura petals. The background is a blurred pastel forest of blooming cherry blossoms. The chicken https://t.co/z6LwaGjqZ4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2047370565497856013",
+    "time": "2026-04-24 01:42",
+    "id_str": "2047370565497856013",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 发布 GPT-5.5，目前向 ChatGPT 的 Plus、Pro、Business 和 Enterprise 用户开放，同步上线 Codex。API 将\"很快\"跟进。\n\nGPT-5.5 的核心卖点是\"更聪明但不变慢\"。OpenAI 声称它在实际服务中的每 token 延迟与 GPT-5.4 持平，同时完成同样的 Codex 任务消耗更少",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2047388162687684615",
+    "time": "2026-04-24 02:52",
+    "id_str": "2047388162687684615",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 和 Codex 或者其他 Agent 使用 Skills 的主要差别：\n\n1. 执行 Skills 的模型不一样\nCC 会用 Claude 模型，Codex 会用 GPT 模型，如果接 API 可能还会选择其他模型；不同模型的偏好和能力不一样，所以 Skills 里面的提示词也会有差异\n\n2. 环境（Harness）不一样\n不同的 agent https://t.co/KTWEeH01VS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2047388496944361834",
+    "time": "2026-04-24 02:53",
+    "id_str": "2047388496944361834",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I had early access to GPT-5.5. It is very good, especially the Pro version. Full writeup very shortly.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2047385074023485826",
+    "time": "2026-04-24 02:40",
+    "id_str": "2047385074023485826",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Glif is a great\n@fabianstelzer is great",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2047370236282991096",
+    "time": "2026-04-24 01:41",
+    "id_str": "2047370236282991096",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "The Season of Codex Continues.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2047377783631011933",
+    "time": "2026-04-24 02:11",
+    "id_str": "2047377783631011933",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "GPT 5.5 is only in Codex and ChatGPT.\n\nWhen you use it in Codex you can literally build anything. Thats why they call it a super app. \n\nIf you want to get started with Codex this is the most in depth guide on the internet.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2047388125375484146",
+    "time": "2026-04-24 02:52",
+    "id_str": "2047388125375484146",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Why are there more bots in the comments than ever. Every few weeks Nikita vagueposts saying some shit like 'the end is near for them' and then does absolutely nothing and more bots show up",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2047368559505084621",
+    "time": "2026-04-24 01:34",
+    "id_str": "2047368559505084621",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "They nerfed GPT 5.5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2047380818612609524",
+    "time": "2026-04-24 02:23",
+    "id_str": "2047380818612609524",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Announcing @a16z's investment in Glif 🎉\n\nThe AI creative ecosystem is exploding, but the workflow is still fragmented across too many products. \n\n@heyglif gives you ONE super agent to go from idea -&gt; output - calling models &amp; tools for you when needed.\n\nhttps://t.co/wsWbKbiMuY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2047377629762965784",
+    "time": "2026-04-24 02:10",
+    "id_str": "2047377629762965784",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@a16z @heyglif More 👇 on why we're so excited to be partnering with the Glif team.\n\nThey've done a TON of work to simplify AI creative workflows and make it so much faster &amp; easier to get great content.\n\nGlif v2 is live today, would highly recommend you test it!\n\nhttps://t.co/gRiEM3nVn1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2047379901276459451",
+    "time": "2026-04-24 02:19",
+    "id_str": "2047379901276459451",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're excited to lead Glif's Seed round.\n\nThe generative AI tool landscape has exploded. A marketer producing a short-form video might touch a half-dozen products in a single session across image, video, music, and text.\n\nThis is the problem Glif solves. Glif is a creative super https://t.co/lmmalBcazY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2047366048916365676",
+    "time": "2026-04-24 01:24",
+    "id_str": "2047366048916365676",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @lishali88: BIG PERSONAL UPDATE. I've joined a16z as a partner investing in infra and AI. I'm also stepping down as CEO of Rosebud AI. I…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2047383211274350797",
+    "time": "2026-04-24 02:32",
+    "id_str": "2047383211274350797",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: GPT Image 2 is live on Adobe Firefly Boards, immediate access \n\nGreat for: \n* typography, text rendering \n* UI and game de…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2047373185914413069",
+    "time": "2026-04-24 01:53",
+    "id_str": "2047373185914413069",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "GPT-5.5 is here\n\nChristmas came early",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2047383158518083901",
+    "time": "2026-04-24 02:32",
+    "id_str": "2047383158518083901",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Another day, another new best model in the world...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2047382872995283215",
+    "time": "2026-04-24 02:31",
+    "id_str": "2047382872995283215",
+    "is_retweet": false
+  }
+]
