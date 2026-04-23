@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "写错了，这里 Developer 的位置也是左上角",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2047305582923903363",
+    "time": "2026-04-23 21:24",
+    "id_str": "2047305582923903363",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "做了个非常牛逼的网页 PPT Skills，明天发\n\n彻底解决你的 PPT 生成难题\n\n昨天分享的内容不知道怎么样，反正很多朋友看上了我的 PPT，索性做个 Skills，明天开源一下 https://t.co/LWe3kMtSAz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2047317436157026628",
+    "time": "2026-04-23 22:11",
+    "id_str": "2047317436157026628",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're thrilled to be investing in @PetualAI.\n\nAudit and compliance are among the most universal – and most painful – functions inside large enterprises. What makes this market so compelling, and so ripe for disruption, is its combination of scale, uniformity, and pain.\n\nPetual is https://t.co/u0pKAk3Cma",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2047337107346301362",
+    "time": "2026-04-23 23:29",
+    "id_str": "2047337107346301362",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @stainlu: we built an open-source version of workspace agents \n\n- any model, self-hosted\n- per-session sandbox\n- credential isolation\n\nh…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2047307550656217319",
+    "time": "2026-04-23 21:32",
+    "id_str": "2047307550656217319",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Bros this is cinema 🎬\n\nTwo AI image models drawing each other's \"sexy girl\" version — and their art styles expose their soul.\n\nAzure GPT-Image-2 → moody, editorial, film grain.\nGemini 3 Pro Image → bright, cartoon-pop, saturated.\n\nModels have aesthetics. 🦞",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2047318494463541497",
+    "time": "2026-04-23 22:15",
+    "id_str": "2047318494463541497",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Anthropic 总结了构建 MCP 服务器的几个关键模式：\n\n  1️⃣ 做 Remote Server，覆盖 web/移动/云端\n  2️⃣ 按意图聚合工具，别一比一映射 API\n  3️⃣ 接口大就暴露代码执行（Cloudflare 用 2 个工具覆盖 2500 个端点，仅需 1K tokens）\n  4️⃣ 用 MCP Apps 返回交互式 UI\n  5️⃣ 用标准化 OAuth + CIMD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2047331187828412451",
+    "time": "2026-04-23 23:06",
+    "id_str": "2047331187828412451",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "真的太需要了！再也不用担心面试没东西写了，人人都可以成为顶级 Github 仓库贡献者🔥\n\n正式开源 「自动 Github 贡献者」Skills 🌟\n\n1. 填入 github 地址\n2. 自动扫 issues + repo，寻找最快可贡献的内容\n4. Boom！自动写代码提 PR 等待合并\n5. 成为顶级贡献者\n\n开源地址👉  https://t.co/jRspkDCLJg https://t.co/UNLygx3eC2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2047341521465122929",
+    "time": "2026-04-23 23:47",
+    "id_str": "2047341521465122929",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "最贴心找到贡献的 issues 之后还能帮你统计消耗时间和费用，❤️ https://t.co/D78WTIHUGP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2047341683457568897",
+    "time": "2026-04-23 23:47",
+    "id_str": "2047341683457568897",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "索尼 AI 发布的一段视频显示\n\n展示了一个代号为 Ace 的自主乒乓球机器人\n\n再正式规则下和人类高水平选手对打的画面\n\n该机器人在与顶尖人类球员的对决中不仅能轻松应对，有时甚至能将人类选手击败...\n\n乒乓球运动是一项需要高速感知、实时决策、精确执行的竞争性运动\n\n球速通常在 70到100 km/h... https://t.co/YmlerSS138",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2047312277137985747",
+    "time": "2026-04-23 21:50",
+    "id_str": "2047312277137985747",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "牛P了 阿联酋政府宣布\n\n将推出了一种全新的政府模式\n\n在两年内，50% 的政府部门、服务和运营将由AI Agent 代理运行...\n\n目标成为全球第一个大规模“AI政府”，最高层亲自挂帅\n\n重点不只是政务自动化\n\n他们把 AI 定义成会分析、决策、执行、持续优化的“执行伙伴”，所有联邦公务员都要接受 AI 培训 https://t.co/JvYt7go9Fr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2047321222267253074",
+    "time": "2026-04-23 22:26",
+    "id_str": "2047321222267253074",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "「具体」有一种治愈焦虑的能力：\n\n具体的东西只能活在当下，你碰它的时候，你也只能活在当下。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2047331220439310434",
+    "time": "2026-04-23 23:06",
+    "id_str": "2047331220439310434",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "看到小米官方的一篇文章，mimo说自己最新模型比 kimi 刚开源的 Kimi K 2.6 节省 40%的token。\n\n商战就这么赤裸裸...\n\n详见：https://t.co/WHhjHmjNUg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2047316339665367410",
+    "time": "2026-04-23 22:07",
+    "id_str": "2047316339665367410",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "混元 3出来了。 \n\n ----  \n\nHy3 preview是什么 Hy3 preview 是腾讯混元开源的快慢思考融合的混合专家模型，定位为”迄今最智能的模型”。\n\n模型采用 MoE 架构，用21B激活参数实现295B总参数规模，兼顾性能与推理成本。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2047332992528609641",
+    "time": "2026-04-23 23:13",
+    "id_str": "2047332992528609641",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/TFnie1S5b2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2047333492904931829",
+    "time": "2026-04-23 23:15",
+    "id_str": "2047333492904931829",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "There’s a rumor going around that reposts might hurt reach.\n\nThat doesn’t really make sense to me.\n\nReposts (and quote reposts) are how people discover each other, support artists, and help smaller accounts grow.\n\nWould be great to get some clarity on this.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2047304748596965505",
+    "time": "2026-04-23 21:21",
+    "id_str": "2047304748596965505",
+    "is_retweet": false
+  }
+]
