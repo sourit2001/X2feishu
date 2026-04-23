@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Interesting thread",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2047442415968268438",
+    "time": "2026-04-24 06:28",
+    "id_str": "2047442415968268438",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @dingyi: 就是前不久那个 Sky 团队，联合创始人 Ari Weinstein 和 Conrad Kramer 是著名 iOS 自动化应用 Workflow（Shortcuts 前身） 的开发者。当时 Sky 刚发布一个 demo 就让全网高潮了。\nhttps:/…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2047438159915393362",
+    "time": "2026-04-24 06:11",
+    "id_str": "2047438159915393362",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "GPT 5.5 Experiment:\n\nThreejs: 25 trains, hills, switch views, change speeds, crashes, Crash Counter.\n\nJust a few prompts...\nidea from @petergostev he did something similar. https://t.co/gmsYoKQliM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2047438396986143102",
+    "time": "2026-04-24 06:12",
+    "id_str": "2047438396986143102",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "https://t.co/ziHr8Fl7HA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2047438783113818385",
+    "time": "2026-04-24 06:13",
+    "id_str": "2047438783113818385",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "gpt5.5 纸面指标没得说，确实是旗舰，何况还有 5.5 pro\n跟 gpt image 2 一起训练，生图直接免费，把谷歌那边也搞了\n这次 openai 真的要翻盘了 https://t.co/RDlTodEvGH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2047432432102920448",
+    "time": "2026-04-24 05:48",
+    "id_str": "2047432432102920448",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Claude 降智的原因终于找到了\n是SDK 的 harness 出了问题\n所有基于 claude SDK 的  agent 受到了影响\n官方已经发了更新解决\n这查了得一个月吧…\n真不容易，关键时刻还得靠人类",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2047437283293536653",
+    "time": "2026-04-24 06:07",
+    "id_str": "2047437283293536653",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @blac_ai: a note about Reposting because its being misunderstood:\n\nyes, Reposted content now gets hit with ~90% less distribution (as of…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2047444445348479174",
+    "time": "2026-04-24 06:36",
+    "id_str": "2047444445348479174",
+    "is_retweet": true
+  }
+]
