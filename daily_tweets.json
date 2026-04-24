@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Not bad",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2047735226756190282",
+    "time": "2026-04-25 01:51",
+    "id_str": "2047735226756190282",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "What is the best way to test the new Deepseek model? OpenCode?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2047734309361254897",
+    "time": "2026-04-25 01:47",
+    "id_str": "2047734309361254897",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "These are the top 5 AI news stories from the past week that you should actually care about:\n\n- @OpenAI dropped GPT-5.5 that’s supposed to need less prompting for better answers\n- OpenAI also released ChatGPT Images 2.0 with people saying it beats Nano Banana\n- @AnthropicAI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2047745438757884311",
+    "time": "2026-04-25 02:32",
+    "id_str": "2047745438757884311",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "https://t.co/mJ7uLRuHyu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2047745440196489655",
+    "time": "2026-04-25 02:32",
+    "id_str": "2047745440196489655",
+    "is_retweet": false
+  }
+]
