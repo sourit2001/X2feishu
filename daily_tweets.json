@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这里的 “上下文种子” 可以理解成：专门埋在某个工具里的工具不需要，但是用来收集未来分析产品时会很有价值的信息。https://t.co/5b1QASh15i\n\n举个简单例子。\n\n假设你做了一个客户支持系统，给 AI 智能体提供一个工具：fetch_tickets，也就是“抓取工单”。\n\n最原始的设计可能只有这些参数：\n-",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2048288329582411958",
+    "time": "2026-04-26 14:29",
+    "id_str": "2048288329582411958",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yangyi: https://t.co/KXR0QAH2UD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2048296761060364756",
+    "time": "2026-04-26 15:02",
+    "id_str": "2048296761060364756",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GPT Image 2 Prompt：\n\n可爱治愈系 kawaii 猫咪插画，竖版 2:3 构图，粉色纯色背景。画面像一面猫咪相框墙，由多个不同形状的相框组成：椭圆形、圆形、方形、长方形、爱心形，相框颜色为粉色、浅蓝、浅绿、奶油黄、金色等马卡龙色。 https://t.co/WLtSpSRwCq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2048301121559564718",
+    "time": "2026-04-26 15:20",
+    "id_str": "2048301121559564718",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "https://t.co/ddvT8U8snT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2048278196596945219",
+    "time": "2026-04-26 13:49",
+    "id_str": "2048278196596945219",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Fieri Iussit https://t.co/VXEgzFIi5e",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2048280028442468753",
+    "time": "2026-04-26 13:56",
+    "id_str": "2048280028442468753",
+    "is_retweet": false
+  }
+]
