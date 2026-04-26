@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "\"post-AGI, no one is going to work and the economy is going to collapse\"\n\n\"i am switching to polyphasic sleep because GPT-5.5 in codex is so good that i can't afford to be sleeping for such long stretches and miss out on working\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2048426122854228141",
+    "time": "2026-04-26 23:37",
+    "id_str": "2048426122854228141",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "参加十字路口的开放麦\n最高兴一点就是看到\nAI Native 公司的人都用 HTML Slides 了\n不过仍有几家传统公司的人还在用 PPT 这样的落后格式\nHTML 统治线下演讲的趋势不可阻挡\n期待早日一统天下",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2048412179117080872",
+    "time": "2026-04-26 22:41",
+    "id_str": "2048412179117080872",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "一个最直观的感受，复刻 claude design 越细节越能体会到\n\n- 一个 claude managed agent platform 的第一个产品化体现，纯云端 claude code session\n- 本质上构建了一套 sandbox 有完整的 shell + 文件系统操作能力\n- 任何操作都尽量不在 UI 层实现，而是 UI 触发，丢给 agent 操作，比如导出 pptx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2048402845074849926",
+    "time": "2026-04-26 22:04",
+    "id_str": "2048402845074849926",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "我最震惊的还是 claude design 团队的 AI first 的产品设计能力，包括把 slide 导出为本地的 pptx，我以为是直接处理导出，没想到它是直接发送一条指令到左侧的 agent 会话栏，让 agent 写代码直接导出，真的 claude code/code agent 即一切 UI 的原语，界面只不过是框架 code agent 的路由而已",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2048403250408223066",
+    "time": "2026-04-26 22:06",
+    "id_str": "2048403250408223066",
+    "is_retweet": false
+  }
+]
