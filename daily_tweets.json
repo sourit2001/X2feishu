@@ -38,5 +38,25 @@
     "time": "2026-04-26 23:46",
     "id_str": "2048428561481265539",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Falcon 9 launches 25 @Starlink satellites from California https://t.co/pLB0QbQrif",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048454821527552213",
+    "time": "2026-04-27 01:31",
+    "id_str": "2048454821527552213",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Someone made a Geoguessr clone where you can travel through time 🤯 \n\nCool use case of GPT-Image-2, which can make panoramas.\n\nThe creator batch generated them and then used Codex to make an app where you guess the map location + time.\n\n(from u/Proof-Square7528) https://t.co/rjpJwR963K",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2048453326694646124",
+    "time": "2026-04-27 01:25",
+    "id_str": "2048453326694646124",
+    "is_retweet": false
   }
 ]
