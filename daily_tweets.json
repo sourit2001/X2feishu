@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Accurate",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048456433981591867",
+    "time": "2026-04-27 01:37",
+    "id_str": "2048456433981591867",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @KonstantinKisin: In shocking news, calling your political opponents Nazis makes crazy people want to kill them. Who could have predicte…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048458180800258465",
+    "time": "2026-04-27 01:44",
+    "id_str": "2048458180800258465",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @anuatluru: The best 20 minutes of a ‘podcast’ I’ve seen in a long time. This is the non-slop future I dream of. https://t.co/D9GfL0qHiR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2048468568900341780",
+    "time": "2026-04-27 02:25",
+    "id_str": "2048468568900341780",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Here's the link to try it: https://t.co/zglGizJ2cb https://t.co/mQG0iUgKMb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2048461954508067157",
+    "time": "2026-04-27 01:59",
+    "id_str": "2048461954508067157",
+    "is_retweet": false
+  }
+]
