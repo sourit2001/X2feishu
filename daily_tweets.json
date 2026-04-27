@@ -698,5 +698,45 @@
     "time": "2026-04-28 03:29",
     "id_str": "2048847029150142505",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @TonySeruga: Mocking armchair critics who have probably never touched a gun, let alone faced a crazed demon, asking “Why not tase him /…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048872771149771187",
+    "time": "2026-04-28 05:11",
+    "id_str": "2048872771149771187",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Long list",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048872949005066309",
+    "time": "2026-04-28 05:12",
+    "id_str": "2048872949005066309",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 和微软重新谈了合作协议，核心变化一句话概括：OpenAI 不再被绑在 Azure 上了。\n\n根据新协议，微软仍然是 OpenAI 的主要云合作伙伴，OpenAI 的产品也会优先在 Azure 上线。但有个关键松绑：如果微软无法或选择不支持某些能力，OpenAI 可以把产品部署到任何云平台上。这等于给了 OpenAI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2048870296531128362",
+    "time": "2026-04-28 05:01",
+    "id_str": "2048870296531128362",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@pmarca says objectivity is a relatively new idea in journalism:\n\n\"If you go back to the news business before World War II, if you start in colonial days and if you extend all the way up through the 1930s, the news business worked very differently. It was a very successful https://t.co/q2qMb8JCJt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2048872822903312880",
+    "time": "2026-04-28 05:12",
+    "id_str": "2048872822903312880",
+    "is_retweet": false
   }
 ]
