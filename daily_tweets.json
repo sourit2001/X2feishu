@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @jason_meister: They arrested the President of the United States of America 4X, charged him 91X, indicted him 4X, spied on his campaign,…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048776941306597702",
+    "time": "2026-04-27 22:51",
+    "id_str": "2048776941306597702",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Excellent point",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048777628019032335",
+    "time": "2026-04-27 22:53",
+    "id_str": "2048777628019032335",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @KatieMiller: This is the 7th consecutive week with new reporting that ChatGPT was used in connection with murder or suicide. \n\nOpenAI d…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2048779472363520290",
+    "time": "2026-04-27 23:01",
+    "id_str": "2048779472363520290",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "this is so good:\n\nhttps://t.co/GuxDNpsOZi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2048751392031203544",
+    "time": "2026-04-27 21:09",
+    "id_str": "2048751392031203544",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "we have updated our partnership with microsoft.\n\nmicrosoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.\n\nwill continue to provide them with models and products until 2032, and a revenue share through",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2048755148361707946",
+    "time": "2026-04-27 21:24",
+    "id_str": "2048755148361707946",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Wow",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2048767406345183504",
+    "time": "2026-04-27 22:13",
+    "id_str": "2048767406345183504",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "简单测试了 PixVerse 出的AI视频生成 CLI 工具\n\n一行命令生成视频，不用开浏览器，直接可以在Claude Code和小龙虾里面利用Agent生成视频\n\n不只是 PixVerse 自己的模型，Sora 2、Veo 3.1、Grok Imagine 模型都支持，都能通过同一个 CLI 调用...\n\n安装就两秒：npm install -g pixverse https://t.co/XiVs65pASx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742405667729677",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742405667729677",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "测试一下↓ https://t.co/gCb1jUQkn0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742408318497086",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742408318497086",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "生成结果 https://t.co/Ra8TUCe3Rg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742410927350166",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742410927350166",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "继续测试，一次分别生成三个\n\nSora 2 Pro\nVeo 3.1\nPixVerse V6\n\n提示词：\n\nKinetic, high-octane FPV drone POV. Shot on an 8mm fisheye lens with extreme barrel distortion and erratic, unstable camera movements. A continuous seamless single-take careening at blistering speed through a https://t.co/pLNw8o3ezA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742415180468370",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742415180468370",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "他们专门为自动化场景做的设计：\n\n→ 所有结果都能以结构化格式输出，方便脚本直接读取和处理\n\n→ 支持异步模式，发完生成指令不用傻等，可以继续处理其他任务\n\n→ 每个任务都有追踪 ID，出了问题能快速定位\n\n→生成状态清晰可见，还支持批量生成 https://t.co/QrUeiUL2fj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742417915097241",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742417915097241",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "另一组测试\n\nVeo 3.1\nSora 2 Pro\nPixVerse V6\n\n提示词：The Museum Breach &amp; Space Chase\n\nCamera &amp; POV:A 10-second, high-octane FPV drone follow-shot from a back-view perspective. A single continuous take featuring erratic FPV instability and aggressive Dutch angles. Shot on an https://t.co/Y8furZ50yw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742421098598421",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742421098598421",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Veo 3.1\nSora 2 Pro\nPixVerse V5\n\n提示词：\n\n真人写实风格，竖屏，第一人称视角。复古古着服装店内，挂满各式 vintage 服装，暖黄色灯光，墙上贴着老电影海报，角落有留声机播放爵士乐。 https://t.co/7xcegWdn1r",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742425632583754",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742425632583754",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "PixVerse CLI支持：\n\n文字→图片→视频：可以先用图像模型生成 图片，再用 视频模型动画化成视频\n\n完整视频生产线：生成→延长时长→加音效→超分辨率→下载，五步可以用工作流串起来\n\n批量生成：用 --no-wait 异步提交多个任务并行跑，不用一个个等\n\n感兴趣的可以试试 https://t.co/zlIgFwgrTR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048742430464413819",
+    "time": "2026-04-27 20:33",
+    "id_str": "2048742430464413819",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "阿里的 HappyHorse 上线了\n\n字节的回应🤣 https://t.co/hiIavjHWiF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2048775751709962681",
+    "time": "2026-04-27 22:46",
+    "id_str": "2048775751709962681",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Adobe just dropped Firefly AI Assistant in public beta \n\nI immediately turned my day into a video game \n\nOne conversation. No manual edits. The future of creative tools is here 🎮 https://t.co/6i6ePHcUH6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2048748016174063629",
+    "time": "2026-04-27 20:56",
+    "id_str": "2048748016174063629",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @jwilki10: Adobe just dropped Firefly AI Assistant in public beta.  \nYou can turn your day into a video game.\n\n2000 FREE CREDITS a day (…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2048763085138083859",
+    "time": "2026-04-27 21:55",
+    "id_str": "2048763085138083859",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @rufusd: As a designer, I always wanted to see my logos on objects to get a quick sense of how they scale. That was time-consuming. With…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2048778593350599074",
+    "time": "2026-04-27 22:57",
+    "id_str": "2048778593350599074",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Forgot to mention. Enjoy 2,000 complimentary credits per day using our Firefly AI Assistant. You can even generate images / video with models like Nano Banana 2 and Veo 3.1 \n\nCredits reset at midnight and are free for limited time.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2048780012862558528",
+    "time": "2026-04-27 23:03",
+    "id_str": "2048780012862558528",
+    "is_retweet": false
+  }
+]
