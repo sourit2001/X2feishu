@@ -29,6 +29,7 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_WEBHOOK_DIGEST: ${{ secrets.FEISHU_WEBHOOK_DIGEST }}
         run: python digest.py
 
       - name: Commit data back to main

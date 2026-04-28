@@ -153,7 +153,8 @@ def build_feishu_card(summary, date_str):
 
 def main():
     api_key = os.getenv("DEEPSEEK_API_KEY")
-    webhook_url = os.getenv("FEISHU_WEBHOOK")
+    # Prefer FEISHU_WEBHOOK_DIGEST for summaries to avoid getting drowned out by individual tweets
+    webhook_url = os.getenv("FEISHU_WEBHOOK_DIGEST") or os.getenv("FEISHU_WEBHOOK")
 
     if not api_key:
         print("Error: Missing DEEPSEEK_API_KEY.")
