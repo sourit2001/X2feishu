@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Cursor 今天开放了官方 TypeScript SDK 公测，把驱动自家编辑器、CLI 和网页版的智能体（agent，可自主执行编码任务的 AI 助手）整套打包交给开发者。装上 npm install @cursor/sdk 就能用。\n\n调用方式很灵活。Agent 可以跑在本机，也可以塞到 Cursor 云端的独立虚拟机里。云端模式下每个 agent",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2049541257756811517",
+    "time": "2026-04-30 01:28",
+    "id_str": "2049541257756811517",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: Learn 95% of Codex in 28 minutes\n\nThese are the 7 knowledge work capabilities...\ninside Codex, the super-app\n\n00:00 Intro\n0…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2049552276914885106",
+    "time": "2026-04-30 02:11",
+    "id_str": "2049552276914885106",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "GPT-5.5 shipped 7 days after Claude Opus 4.7.\n\nEveryone picked a winner based on headlines.\n\nI looked at every benchmark both labs published.\n\nThe real story isn't what most people are reporting: https://t.co/Alg3sfeILs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049567413088272848",
+    "time": "2026-04-30 03:12",
+    "id_str": "2049567413088272848",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "On the 10 benchmarks where both OpenAI and Anthropic report scores, here's the split:  \n\nClaude Opus 4.7 leads on 6. GPT-5.5 leads on 4. \n\n But the leads aren't random. They cluster by category.   \n\nAnd that changes what \"winning\" means entirely. https://t.co/fnzbihvchk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049567600070275489",
+    "time": "2026-04-30 03:12",
+    "id_str": "2049567600070275489",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Deep reasoning and code precision:\n\nClaude Opus 4.7 \n→ SWE-Bench Pro: 64.3% ✅ \n→ GPT-5.5: 58.6% ❌\n→ MCP Atlas: 79.1% ✅ \n→ GPT-5.5: 75.3% ❌\n→ GPQA Diamond, HLE (with and without tools), \nFinanceAgent v1.1: all Opus 4.7 ✅\n\nWhen the task requires architectural thinking",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049567792609841353",
+    "time": "2026-04-30 03:13",
+    "id_str": "2049567792609841353",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Long-running agentic execution:\n\nGPT-5.5\n→ Terminal-Bench 2.0: 82.7% ✅\n→ Claude Opus 4.7: 69.4% ❌\nThat's a 13-point gap. Not noise.\n→ OSWorld-Verified: 78.7% vs 78.0% ✅\n→ BrowseComp ✅\n→ CyberGym ✅\n\nWhen the task requires driving a terminal, recovering from errors, and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049567879633207741",
+    "time": "2026-04-30 03:13",
+    "id_str": "2049567879633207741",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Token efficiency is where things get interesting.\n\nGPT-5.5 uses 72% fewer output tokens than Opus 4.7 on the same coding tasks.\n\nFewer tokens means lower cost per task, even though GPT-5.5 costs $30/M output vs Claude's $25/M.\n\nBut Claude's time-to-first-token is roughly 0.5s vs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049567941230756310",
+    "time": "2026-04-30 03:14",
+    "id_str": "2049567941230756310",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Tom's Guide ran 7 head-to-head tests. Claude won all 7.\n\nOpenAI's own benchmark table shows GPT-5.5 leading on 14 categories. \n\nBut that table includes tests where only OpenAI published a Claude score. \n\nAnthropic's own numbers tell a different story on several of those.\n\nThe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049568000441827638",
+    "time": "2026-04-30 03:14",
+    "id_str": "2049568000441827638",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The definitive ranking doesn't exist. Here's what does:\n\n→ Complex reasoning, code review, multi-file refactoring: Claude Opus 4.7\n→ Agentic execution, terminal workflows, tool orchestration: GPT-5.5\n→ Interactive speed: Claude\n→ Cost at scale: GPT-5.5\n\nThe professionals",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049568062127448324",
+    "time": "2026-04-30 03:14",
+    "id_str": "2049568062127448324",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "And this is the part nobody is talking about:\nBoth models ship with 1M-token context. \n\nBoth are within a few points of each other on most tasks. The gap between them is smaller than the gap between a good prompt and a bad one.\n\nThe model is maybe 20% of your result. Your",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049568194499907709",
+    "time": "2026-04-30 03:15",
+    "id_str": "2049568194499907709",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "We've moved to a world where image models are judged on accuracy - text, infographics, photorealism, rendering products / logos.\n\nThese models are great and have many valuable use cases.\n\nBut I sometimes find myself missing the age of aesthetics and random serendipity.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2049543034061345180",
+    "time": "2026-04-30 01:35",
+    "id_str": "2049543034061345180",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @Alex_Danco: https://t.co/o9dyp7cqzW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2049549899411181644",
+    "time": "2026-04-30 02:02",
+    "id_str": "2049549899411181644",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Love the hype ❤️🙌\n\nWould really value your take after you try it, cuz builders shipping real products are the feedback we care about most",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2049561776610476483",
+    "time": "2026-04-30 02:49",
+    "id_str": "2049561776610476483",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "HDR renders change what motion design can even mean🤔\n\nWe're integrating HyperFrames into our open-source Claude Design alt — open-design, which got 3,000+ ⭐ on GitHub in 24h.\n\nShipping in hours.\nhttps://t.co/aq2K0XbQcM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2049566672973959502",
+    "time": "2026-04-30 03:09",
+    "id_str": "2049566672973959502",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Xgoddess_visual: @icreatelife I love it Kris 🤍🤍🥰 https://t.co/zdY70WhZRJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2049568521508557104",
+    "time": "2026-04-30 03:16",
+    "id_str": "2049568521508557104",
+    "is_retweet": true
+  }
+]
