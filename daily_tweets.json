@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我就说你们咋逆向 Claude Design 的 System Prompt 的，原来都在请求的 Payload 里面，包括调用啥工具都有。\n\n可惜额度太少了，用几次就没了 https://t.co/cV3zgH18yx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2049586049907667168",
+    "time": "2026-04-30 04:26",
+    "id_str": "2049586049907667168",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Coming soon. \nI’m not fully sure GitHub is the best for knowledge work. \nTrying to think this one through for our team.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2049577278217298282",
+    "time": "2026-04-30 03:51",
+    "id_str": "2049577278217298282",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @PaulSolt: Here’s Codex in 28 minutes.\n\nIt’s more than just code now.\n\nIntelligence for any task.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2049586866618601891",
+    "time": "2026-04-30 04:29",
+    "id_str": "2049586866618601891",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "RT @ItzSuds: I incubated an AI transformation co in Jan that’s absolutely ripping.\n\nThey have multiple 7 figure ARR contracts &amp; have way to…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2049570801507246236",
+    "time": "2026-04-30 03:25",
+    "id_str": "2049570801507246236",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: GPT-5.5 shipped 7 days after Claude Opus 4.7.\n\nEveryone picked a winner based on headlines.\n\nI looked at every benchmark b…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049593598723641517",
+    "time": "2026-04-30 04:56",
+    "id_str": "2049593598723641517",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@pmarca on the 5 key traits of a real innovator:\n\n1. \"Just flat-out open to new ideas... And the nature of trait openness means you're not just open to new ideas in one category, you're open to many different kinds of new ideas.\"\n\n2. \"You need somebody who's really willing to https://t.co/VXSu6LE7Bs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2049584181676740793",
+    "time": "2026-04-30 04:18",
+    "id_str": "2049584181676740793",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Adobe just dropped Firefly AI Assistant in public beta \n\nI immediately turned my day into a video game \n\nOne conversation.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2049584585625792518",
+    "time": "2026-04-30 04:20",
+    "id_str": "2049584585625792518",
+    "is_retweet": true
+  }
+]
