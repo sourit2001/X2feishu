@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Major upgrade to 𝕏 advertising",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2049866769180053558",
+    "time": "2026-04-30 23:01",
+    "id_str": "2049866769180053558",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SawyerMerritt: The Tesla Model X was the fastest-selling used vehicle in the U.S. in March 2026, according to a new study by iSeeCars.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2049870862921474086",
+    "time": "2026-04-30 23:17",
+    "id_str": "2049870862921474086",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Falcon Heavy launches the @viasat-3 F3 mission to orbit from Florida https://t.co/InhpZOjPMg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2049871483544248736",
+    "time": "2026-04-30 23:20",
+    "id_str": "2049871483544248736",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ResisttheMS: Big Balls explains what working with Elon Musk taught him.\n\n\"You've gotta do what you think is right. That's the biggest t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2049871537025777895",
+    "time": "2026-04-30 23:20",
+    "id_str": "2049871537025777895",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Just uploaded my Apple Watch data straight into Grok… and it was insanely good\n\nGrok gave me a full, detailed analysis of ever…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2049871702793064656",
+    "time": "2026-04-30 23:21",
+    "id_str": "2049871702793064656",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "侧边栏会话有很多诟病，但用户已经习惯了。\n\n现在 Agent 产品有两类主流交互：\n\n第一类是左边是对话列表，右边是代码或者文档，代表性的是 Codex、Cursor 的 Agent 模式\n\n第二类是左边像传统软件，Agent 对话在右边，比如 GitHub Copilot\n\n第一类是 Agent 为中心，用户主要操作是通过对话指挥 AI https://t.co/sWGTL7xRnr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2049888645369200671",
+    "time": "2026-05-01 00:28",
+    "id_str": "2049888645369200671",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "试用下来 CodexPotter 不错，推荐下。它不是基于 Codex 插件机制，它本身是一个 cli，然后会后台启动 codex cli，把指令传给 codex，同步显示 codex cli 结果。\n\nCodexPotter 先把想要的结果写进一个 MAIN.md 文件，然后工具在后台不停地启动新的 Codex 会话，每一轮都用全新、干净的上下文，对照 https://t.co/9nZ4taRLyx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2049892890323697859",
+    "time": "2026-05-01 00:45",
+    "id_str": "2049892890323697859",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Increasingly, I think, we will see a gap between what you can do with frontier model APIs &amp; what you can do with the native apps from the frontier labs (Codex, Claude Code). Models developed and trained with their native harnesses in mind have more capabilities in their harnesses",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2049865091739209868",
+    "time": "2026-04-30 22:54",
+    "id_str": "2049865091739209868",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "For better or worse, regulation for closed-source models served by a few (quite large) companies is easy. It is not as easy to imagine how you regulate open-source models that can be served by a range of decentralized players. Suspect that will become a big policy discussion soon",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2049880544477913271",
+    "time": "2026-04-30 23:56",
+    "id_str": "2049880544477913271",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "\"Load bearing,\" \"I keep coming back to,\" \"Not X, but Y\" \n\nA curse of using AI a lot is that you realize how much of the writing around you is just AI, now\n\nPeople who don't use AI have been unable to identify AI prose on sight, but those who use it a lot can spot the tells easily https://t.co/JwbY6RtzZj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2049894109318459798",
+    "time": "2026-05-01 00:50",
+    "id_str": "2049894109318459798",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "GPT-5.5 is the smartest model ever tested. It's also the most confidently wrong.\n\nThat's not an opinion. That's what the benchmarks say when you read both columns.\n\nArtificial Analysis runs AA-Omniscience, a benchmark designed to penalize models that guess instead of saying \"I https://t.co/FH4GY99dq1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049885072291975422",
+    "time": "2026-05-01 00:14",
+    "id_str": "2049885072291975422",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The routing cheat sheet:\n\n→ GPT-5.5: first drafts, code generation, agentic multi-step tasks, terminal workflows, anything where reasoning speed matters\n\n→ Claude Opus 4.7: fact-checking, citation-heavy research, legal and financial review, anything where a confident wrong",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049885192307765403",
+    "time": "2026-05-01 00:14",
+    "id_str": "2049885192307765403",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The models are getting smarter and more confident at the same pace. Your verification system is now more valuable than your prompting system.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2049885238361256223",
+    "time": "2026-05-01 00:15",
+    "id_str": "2049885238361256223",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Agents are the future of AI creative tools.\n\nAnd the new @grok Imagine Agent is a great one!\n\nIt feels like a smart partner that you can brainstorm and iterate with - it does the heavy lifting of writing prompts + building out the canvas.\n\n Watch me build a froyo brand 👇 https://t.co/KxeGu9l2ge",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2049847288256692421",
+    "time": "2026-04-30 21:44",
+    "id_str": "2049847288256692421",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @katiekirsch: Today, we're thrilled to announce the @a16z Design Engineer Fellowship!\n\nA new 8-week cohort of AI-native design leaders w…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2049879899746468104",
+    "time": "2026-04-30 23:53",
+    "id_str": "2049879899746468104",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @MTSlive: We are live with @balajis and @TaylorLorenz https://t.co/YEquSpfFrl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2049899060526780771",
+    "time": "2026-05-01 01:09",
+    "id_str": "2049899060526780771",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @MTSlive: We are witnessing history https://t.co/OPh1nwoWLo",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2049899939506135466",
+    "time": "2026-05-01 01:13",
+    "id_str": "2049899939506135466",
+    "is_retweet": true
+  }
+]
