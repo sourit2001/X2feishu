@@ -28,5 +28,15 @@
     "time": "2026-05-03 17:19",
     "id_str": "2050867849464258652",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Its getting hard to benchmark frontier agent performance on longer tasks. Repeated measurement is very expensive and there are differences between using models in harnesses versus via APIs.\n\nI suspect benchmarks understate progress, they are built for models, not harnessed agents",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2050892355331354850",
+    "time": "2026-05-03 18:56",
+    "id_str": "2050892355331354850",
+    "is_retweet": false
   }
 ]
