@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: I just use this in my custom instructions:\n\n- Think in first principles, be direct, adapt to context. Skip \"great question…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2051585804779000141",
+    "time": "2026-05-05 16:52",
+    "id_str": "2051585804779000141",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "俞浩一针见血地指出了美团的问题\n其实问题这个词是不严谨的，是 pattern ，中性词，不好不坏\n中国的企业家做梦的时候，一般会得到其他人的嗤之以鼻的反应\n安分守己的思维，做好自己的事情\n这是在资源稀缺的时代生存本能带来的思维惯性\n在资源丰饶的时代反而成了束缚 https://t.co/Md5g3aSHBD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2051584248268886476",
+    "time": "2026-05-05 16:46",
+    "id_str": "2051584248268886476",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @eke_ng_: Thanks for sharing I’ll definitely check it out!! @claudeai is super lit🔥",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2051610006982709280",
+    "time": "2026-05-05 18:28",
+    "id_str": "2051610006982709280",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "以下是策略梯度（Policy Gradients）从 REINFORCE 到 PPO（以及 GRPO）的完整发展历程：\n\n- REINFORCE：你在环境中收集轨迹（trajectories）。利用在轨迹采样（rollout）过程中观察到的奖励，计算每个时间步的累积回报（returns）。随后，提高那些出现在高回报轨迹中的动作的选中概率。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2051594785958334639",
+    "time": "2026-05-05 17:28",
+    "id_str": "2051594785958334639",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @MindOS_Lisa: https://t.co/0CFR2QgGHu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2051595095707652106",
+    "time": "2026-05-05 17:29",
+    "id_str": "2051595095707652106",
+    "is_retweet": true
+  }
+]
