@@ -138,5 +138,75 @@
     "time": "2026-05-07 06:05",
     "id_str": "2052147746925084830",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Boris Cherny（Anthropic 工程负责人）在最近的红杉 AI Ascent 大会上说，他现在大部分工作从手机完成。Claude App 里常驻 5 到 10 个 session、几百个 Agent，夜里有几千个在跑深度任务。他管这种做法叫 Loop，让 Claude 用 cron 起一个定时任务，可以每分钟、每五分钟、或者每天跑一次。 https://t.co/t6pwxFETea",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2052172481650159690",
+    "time": "2026-05-07 07:43",
+    "id_str": "2052172481650159690",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这几天正好官方在做星巴克送咖啡活动，详情见：https://t.co/hQpVSwd5qK https://t.co/hIvB9Q3UfX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2052172483709550886",
+    "time": "2026-05-07 07:43",
+    "id_str": "2052172483709550886",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "“How’s the software job market?” https://t.co/zx43dAc3tc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2052169363541622794",
+    "time": "2026-05-07 07:31",
+    "id_str": "2052169363541622794",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Some of you have never seen real autism and it shows",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2052163441352384528",
+    "time": "2026-05-07 07:07",
+    "id_str": "2052163441352384528",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://t.co/LXAFbvahIX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2052163288574877959",
+    "time": "2026-05-07 07:07",
+    "id_str": "2052163288574877959",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "DeepSeek V4 太笨了，跟他交流我感觉是在浪费自己宝贵的生命。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2052165536583385451",
+    "time": "2026-05-07 07:16",
+    "id_str": "2052165536583385451",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Don’t ask Claude a question, give it a task and context like you would give to a new hire",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2052164983077609527",
+    "time": "2026-05-07 07:13",
+    "id_str": "2052164983077609527",
+    "is_retweet": false
   }
 ]
