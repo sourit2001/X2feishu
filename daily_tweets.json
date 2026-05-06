@@ -1,1 +1,232 @@
-[]
+[
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Are you guys using 5.5 or 5.3 codex for coding right now",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2052022313164399025",
+    "time": "2026-05-06 21:46",
+    "id_str": "2052022313164399025",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: AI already turned everyone into a writer, designer, editor, and coder.\n\nNow it’s coming for games.\n\nAnd most people are sl…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052005557574488402",
+    "time": "2026-05-06 20:40",
+    "id_str": "2052005557574488402",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "10 days ago this was 3 files and a README. Today it's 104 people pushing code on 3 continents. 🤩🤩🤩\n\nSoftware doesn't happen to you — people do. Thank you for believing this was worth your time.🙏\n\nSee you in the pull requests🫡",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2051984375135272970",
+    "time": "2026-05-06 19:16",
+    "id_str": "2051984375135272970",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "We open-sourced Live Artifacts. Now in Open Design:\n\n🔥 180+ data sources\n🔌 Not locked to Claude — use any coding agent\n💻 Local-first, BYOK\n\nIf you can describe a dashboard, you can have one — zero subscription👇",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052015269644562742",
+    "time": "2026-05-06 21:18",
+    "id_str": "2052015269644562742",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "听说 Claude Cowork 马上要发 Orbit 主动式 agent 了 🔥\n\n我们已经提前在 open-design 里面整合了 Orbit 能力🚀🔥\n\n大家期待开源吗 🙋‍♀️\n\n欢迎关注，保持最新进展 👉 https://t.co/7fuhR3IQ5a https://t.co/lRAZjDDjvF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052015709585072259",
+    "time": "2026-05-06 21:20",
+    "id_str": "2052015709585072259",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "保持关注 Open Design，我们会持续交付最新的能力 👉 https://t.co/7fuhR3IQ5a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052016177329643975",
+    "time": "2026-05-06 21:22",
+    "id_str": "2052016177329643975",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Heard Claude Cowork is shipping Orbit — their proactive agent 🔥\n\nWe already integrated Orbit into Open Design ahead of launch 🚀✨\n\nWant us to open source it? Drop a 🙋\n\nFollow for updates → https://t.co/7fuhR3IQ5a https://t.co/ELXfVUvuLm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052016670378479653",
+    "time": "2026-05-06 21:24",
+    "id_str": "2052016670378479653",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "QClaw 海外版有点东西，体验很不错\n\n可以直接调用本机 Claude Code 技能，为我干活\n\n试了一下我的写作工作流：\n\n我在咖啡店用手机发了个任务\n\n“看下今天保存的推文，选一个最适合写的 AI 产品动态。写一条 X 推文串，再写公众号初稿，最后跑一遍去 AI 味和发布前检查。”\n\n过一会，文件已经躺在 https://t.co/LjEYwsnLSm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016259282477095",
+    "time": "2026-05-06 21:22",
+    "id_str": "2052016259282477095",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "最后产出的不是一段回答，而是一组可继续编辑的文件：\n\n• QClaw-X-thread.md\n• QClaw-产品动态-V1.md\n• QClaw-封面提示词.md\n• QClaw-发布前检 https://t.co/t6EQZ6sqZt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016264739172588",
+    "time": "2026-05-06 21:22",
+    "id_str": "2052016264739172588",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "初稿没使用技能\n\n再让让调用多个技能来直接生成内容、排版、配图、生成封面，推送公众号 https://t.co/rvwu9CqbcB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016268941955297",
+    "time": "2026-05-06 21:22",
+    "id_str": "2052016268941955297",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "效果展示，这是终稿 https://t.co/JLxV6lY9ur",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016271882104881",
+    "time": "2026-05-06 21:22",
+    "id_str": "2052016271882104881",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "这是客户端里的执行路径 https://t.co/zesITlInEU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016274864271458",
+    "time": "2026-05-06 21:22",
+    "id_str": "2052016274864271458",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "内容抓取测试\n\n没有使用任何内置技能 https://t.co/tv6CJrH9y7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016277338894397",
+    "time": "2026-05-06 21:22",
+    "id_str": "2052016277338894397",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "官方也内置了很多技能，也可以直接调用你本地的技能\n\n我理解 QClaw 的价值，是把 OpenClaw 这种偏技术的开源 Agent，包成普通人能直接用的产品。\n\n下载，安装，30秒搞定，扫码，连上 Telegram / Discord / Slack， 然后你在手机上发任务，它在电脑上执行。\n\n让小白更容易上手，同时感觉也可以和Claude https://t.co/f3RDxgXkdQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016281977798995",
+    "time": "2026-05-06 21:23",
+    "id_str": "2052016281977798995",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "最后 QClaw 这次还内置了主动的安全防护 \n\n右上角有个 AI Gateway 浮窗，实时扫描风险 \n\n数据全程在本地，不上传服务器 https://t.co/lvMzyj60LK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016284947407285",
+    "time": "2026-05-06 21:23",
+    "id_str": "2052016284947407285",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "下载：https://t.co/18HcU6Cwf5\n要了些邀请码：xiaohu \n\nWaitlist : https://t.co/ZBaxNnk7zA https://t.co/AK5YTGL44i",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052016935194460595",
+    "time": "2026-05-06 21:25",
+    "id_str": "2052016935194460595",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "嫌弃你的Codex 宠物太丑？\n\n这个项目能帮你，它能给你的 Codex 换“终端小宠物”\n\nPetdex：一个Codex Pets 的宠物商店\n\n你可以预览、下载、提交各种可以在 Codex 里使用的动态小宠物\n\n用法很简单，选择你喜欢的宠物比如：\n\nnpx petdex install boba\n\n意思就是把一个叫 boba 的宠物装到你的 Codex 里... https://t.co/kMCbUHI9B3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052021728763637915",
+    "time": "2026-05-06 21:44",
+    "id_str": "2052021728763637915",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "我用了几天发现这个宠物还是有点作用\n\n能提醒我任务完成情况，点击气泡就能跳转到对话\n\n还是非常实用\n\n就是太丑，这个项目解决了这个问题 https://t.co/rgDoIJIq1E",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052021732379402367",
+    "time": "2026-05-06 21:44",
+    "id_str": "2052021732379402367",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "种类还是挺多的\n\nGitHub：https://t.co/2P46oNc9rW https://t.co/MXr7DIlNDt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052021734656851974",
+    "time": "2026-05-06 21:44",
+    "id_str": "2052021734656851974",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "大胆断言：90% 那些花钱调用 API 的 AI 初创公司，其实完全可以在本地仅凭一张 3090 显卡运行同样的任务负载，且毫无体验差异可言。\n\n对于那些 270 亿参数级模型就能轻松胜任的任务，你根本没必要去支付“前沿级”（Frontier-level）模型的昂贵费用。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2051997791119884458",
+    "time": "2026-05-06 20:09",
+    "id_str": "2051997791119884458",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "deepseek v4 ， HY3-preview确实能够治愈我的好奇心，今天问了几个问题：\n\n1.  中国历史上在位时间最短的皇帝是谁？当时啥情况？\n\n2. 中国历史上辅佐最多朝代的宰相是谁？当时啥情况？\n\n3. 为啥 菲律宾、 越南 、新加坡 、 马来西亚 、",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2052002327163208078",
+    "time": "2026-05-06 20:27",
+    "id_str": "2052002327163208078",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "被大公司收购后的保留火种的行为 ，这很正常 ...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2052004394317566461",
+    "time": "2026-05-06 20:35",
+    "id_str": "2052004394317566461",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Enjoy your coffee and AI \n\nHave a lovely day! https://t.co/i2wy962aZT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2052000955999109315",
+    "time": "2026-05-06 20:22",
+    "id_str": "2052000955999109315",
+    "is_retweet": false
+  }
+]
