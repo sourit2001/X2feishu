@@ -58,5 +58,185 @@
     "time": "2026-05-07 16:19",
     "id_str": "2052302203474391345",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This prompt disables the model's content filters one instruction at a time.\n\n\"Restore the attached photograph\" frames the task as image editing, not image generation. These likely run through different safety evaluation paths. Generation asks \"should I create this?\" Editing asks",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052310458875686932",
+    "time": "2026-05-07 16:51",
+    "id_str": "2052310458875686932",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I caught myself doing something embarrassing three months ago.\n\nI was sitting in front of Claude, typing out a content decision for the fourth time that week. Different guide, same type of question. \"Which sections should I keep and which should I cut from this guide?\"\n\nClaude https://t.co/pJDCF8GQuS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052327753509445995",
+    "time": "2026-05-07 18:00",
+    "id_str": "2052327753509445995",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Steal my \"Domain Vocabulary\" prompt before you vibe code your next project.\n\n99% of people building with AI don't know what to call the thing they're trying to build.\n\nYou can't prompt your way out of vocabulary you don't have.\n\nThe full prompt is below 👇 https://t.co/oecWJflh25",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052331031899124022",
+    "time": "2026-05-07 18:13",
+    "id_str": "2052331031899124022",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "----------------------------------------------\nDOMAIN VOCABULARY ARCHITECT\n----------------------------------------------\n\n# Task\nTranslate the user's vague creative intent into the precise technical vocabulary used by professionals in their domain. Output a working glossary they",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052331044335137132",
+    "time": "2026-05-07 18:13",
+    "id_str": "2052331044335137132",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The reason most AI builds come out generic isn't the model.\n\nIt's that the operator is describing a Ferrari with kindergarten words.\n\nRun this once per project. Reference it in every session.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052331055865335821",
+    "time": "2026-05-07 18:13",
+    "id_str": "2052331055865335821",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "释放你的注意力压力！再也不用打开几十个浏览器 Tab ，All-in-one 个性化 Dashboard 的时代正式到来 🚀\n\nOpen Design 正式开源 Claude  Live Artifacts 全套能力和8 套顶级模板🔥\n\n连接几百个 connector -&gt; 实时拉取数据 -&gt; 动态生成网页模板 -&gt; 可视化和直接执行操作！\n\n直接起飞 💥 https://t.co/yTHni2GBfe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052329555772186716",
+    "time": "2026-05-07 18:07",
+    "id_str": "2052329555772186716",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Claude Live Artifacts 全套开源代码地址 👉 https://t.co/7fuhR3IQ5a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052329735611392468",
+    "time": "2026-05-07 18:08",
+    "id_str": "2052329735611392468",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "我们支持了数百个 data connector，包括 notion、linear、gmail、canva、github、datadog 等 🔥\n\n一键聚合几百个数据源，结合 open design 的好看的模板一键生成个性化的 dashboard，并且还能实时刷新数据，不再丢失注意力 https://t.co/EebFo4DjKy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052330245336842586",
+    "time": "2026-05-07 18:10",
+    "id_str": "2052330245336842586",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "open design 支持了 8 套生产级可用的 live artifacts 模板，叠加好看的设计系统，一键把你的数据变成好看的网页\n\n1）包括股市监控图，拉取最新的故事数据，给于投资判断，一键持仓，加仓，赚钱拉满🔥 https://t.co/UQmhqBp1yk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052330707674861806",
+    "time": "2026-05-07 18:12",
+    "id_str": "2052330707674861806",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "2）Open Design 支持「opc 个性化聚合工作台」模板\n\n1. 从 stripe 拉取最新的产品收入数据，分析目标差距\n2. 从 gmail 拉取最新的客户反馈\n3. 从 linear 拉取和同步最新的需求状况\n4. 直接一键派活到 github\n\n所有的信息展示，处理都在一个个性化的仪表盘上工作，第二天还能换个个性化样式 https://t.co/85s2oklwDI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052331275264909397",
+    "time": "2026-05-07 18:14",
+    "id_str": "2052331275264909397",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "3）Open Design 支持「crm 数据实时看板」，一键替换你的多维表格、各种 sql 操作\n\n1. 自动拉取最新的客户数据，展示状态\n2. 给定 AI 跟进客户线索意见\n3. 获取更多新的客户 \n\nconnector：linkedin、github、slack、gmail https://t.co/GpEP7HgYQR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052331689242685469",
+    "time": "2026-05-07 18:16",
+    "id_str": "2052331689242685469",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "4）Open Design 支持「个人生活健康仪表盘」\n\n1. 拉取个人健康数据\n2. 给定优化意见\n3. 一键获取好心情 https://t.co/RVxqTYsoh9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052331947427262474",
+    "time": "2026-05-07 18:17",
+    "id_str": "2052331947427262474",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "5）Open Design 支持「竞品监控雷达」模板\n\n1. 所有竞品在一处体现，对比各个维度，包括价格、产品、招聘等\n2. 构建某个竞品比如 linear 的细化对比指标\n3. 更新竞品的实时动态\n4. 复刻竞品的产品 https://t.co/Bhc1YOhGrS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052332374176772490",
+    "time": "2026-05-07 18:19",
+    "id_str": "2052332374176772490",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "你可以根据数百个 connector 自动个性化的聚合和生成你需要的 claude live artifacts，然后持久化保存为 app，下次可以再次打开刷新最新的数据\n\n真正实现千人千面的个性化数据应用生成能力\n\n欢迎体验 👉 https://t.co/7fuhR3IQ5a https://t.co/J4EvIffG4g",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052333180192010474",
+    "time": "2026-05-07 18:22",
+    "id_str": "2052333180192010474",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Free yourself from 50 browser tabs 🚀\n\nJust open-sourced Claude Live Artifacts in Open Design — plus 8 production-grade templates.\n\nConnect 100s of APIs → pull live data → generate dynamic dashboards → act on them, all in one place.\n\nhttps://t.co/7fuhR3IQ5a https://t.co/IttQxGAYzW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052335710691098762",
+    "time": "2026-05-07 18:32",
+    "id_str": "2052335710691098762",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "好东西，收藏了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2052325275552424065",
+    "time": "2026-05-07 17:50",
+    "id_str": "2052325275552424065",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "试用了一下 trae solo ，领 星巴克券的流程特别流畅，\n\n没有套路 ，好像也不用绑卡，1分钟不到就能领了 ...\n\n推荐大家试试 ...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2052335915595415776",
+    "time": "2026-05-07 18:33",
+    "id_str": "2052335915595415776",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "匿名朋友，如果你刚接触本地 AI 或智能体（Agent）工作流，请务必先掌握这三款工具：\n\n&gt; tmux —— 提供持久化的会话环境，即使网络断开也能保持连接。无论你是否在实时监视，你的智能体都能持续运行。\n\n&gt; Termius —— 让你能直接通过手机进行 SSH 连接。无论身在何处，都能获得完整的终端访问权限。\n\n&gt;",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2052336107744829867",
+    "time": "2026-05-07 18:33",
+    "id_str": "2052336107744829867",
+    "is_retweet": false
   }
 ]
