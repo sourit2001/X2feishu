@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 上线了官方命令行工具 openai-cli，开发者可以直接在终端里调 API，不用再写 SDK 代码。\n\n项目开源在 GitHub (openai/openai-cli)，Apache 2.0 协议，可通过 Homebrew 或 Go 安装。命令走资源化结构，比如 openai responses create --input \"...\" --model &lt;model&gt; 这样的写法。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2052512560264380737",
+    "time": "2026-05-08 06:15",
+    "id_str": "2052512560264380737",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "So Mythos was, indeed, not marketing hype. \n\nRemember this is a general purpose model that just happens to be good at finding exploits because good models are good at lots of things. Expect similar from OpenAI &amp; Google. And from open models in 8 months. https://t.co/KbhalQYX8R https://t.co/UoxtGXrOAw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2052519946651947216",
+    "time": "2026-05-08 06:44",
+    "id_str": "2052519946651947216",
+    "is_retweet": false
+  }
+]
