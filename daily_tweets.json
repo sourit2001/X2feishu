@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @RichardGrenell: Anyone in LA who isn’t voting for @spencerpratt is a total idiot. \n\nThis isn’t even close.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2052270710744404449",
+    "time": "2026-05-07 14:14",
+    "id_str": "2052270710744404449",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Will_Tanner_1: Pictures from a vanished civilization",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2052294013290791100",
+    "time": "2026-05-07 15:46",
+    "id_str": "2052294013290791100",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @Saccc_c: Riley (@rileybrown)是你最值得关注的 AI 博主，其制作的 AI 视频质量非常高\n\n我许多的推文灵感都来自他的视频\n\n以 Codex + Remotion 玩法为例，我是中推最早发相关视频的博主\n（HyperFrames 本质和 Re…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2052297914178015256",
+    "time": "2026-05-07 16:02",
+    "id_str": "2052297914178015256",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: AI already turned everyone into a writer, designer, editor, and coder.\n\nNow it’s coming for games.\n\nAnd most people are sl…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052292420415750320",
+    "time": "2026-05-07 15:40",
+    "id_str": "2052292420415750320",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @mradamjafer: Today we're launching Pit, with $16M in funding led by a16z.\n\nFor 20 years, companies have adapted themselves around rigid…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2052273544810422778",
+    "time": "2026-05-07 14:25",
+    "id_str": "2052273544810422778",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "其实 claude code 、 codex 、 gemini cli 以及各大国产大模型都做得不够好（有很大改进机会）的一个点时，提高并发量。\n\n即允许用户异步地把sub-agent任务丢到云端，然后处理完后再返回回来干净的经过验证和测试的代码，或者自己反思和调优过认为最优秀的内容。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2052302203474391345",
+    "time": "2026-05-07 16:19",
+    "id_str": "2052302203474391345",
+    "is_retweet": false
+  }
+]
