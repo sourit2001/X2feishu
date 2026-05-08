@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I keep coming back to this tweet. The phrase “the list” is doing the heavy lifting. The post deserves the weight. It is a load bearing post.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2052739383451615591",
+    "time": "2026-05-08 21:16",
+    "id_str": "2052739383451615591",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "(Generally, any excessive architectural analogies are Claude coded. )",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2052739766009856023",
+    "time": "2026-05-08 21:17",
+    "id_str": "2052739766009856023",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Steal my \"Domain Vocabulary\" prompt before you vibe code your next project.\n\n99% of people building with AI don't know wha…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052710258406232081",
+    "time": "2026-05-08 19:20",
+    "id_str": "2052710258406232081",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Left: the watermark GPT Image 2 embeds into every image it generates.\nRight: SynthID, the fingerprint Google bakes into every Nano Banana and Gemini image.\n\nInvisible to the human eye. Applied during generation, not added after. Designed to survive screenshots, crops, and https://t.co/zkEU4zKulf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2052735566748570008",
+    "time": "2026-05-08 21:01",
+    "id_str": "2052735566748570008",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "有点意外马斯克在 xAI 上的第一次尝试竟然失败了\n小扎也是失败了一次\n过去成功的方法论在大模型领域似乎无法复用",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2052734420122275878",
+    "time": "2026-05-08 20:56",
+    "id_str": "2052734420122275878",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "我最喜欢的媒体都来找我约稿了\n我们的文章是写得是越来越好了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2052736150775931212",
+    "time": "2026-05-08 21:03",
+    "id_str": "2052736150775931212",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Open Design 0.5.0 版本发布！✨\n\n💪💪💪这次我们带来了：\n• 上线 Live-data 实时看板，让设计告别静态 mock，直接对接真实数据\n• 新增 Inspect 逐元素调参模式，不用反复等待渲染，直接在预览里改样式 \n• 全平台主题色自定义、Critique Theater 第五阶段升级\n• 支持 Qoder CLI 代理 + Nano Banana",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2052731696944910843",
+    "time": "2026-05-08 20:45",
+    "id_str": "2052731696944910843",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Stainless 、 Speakeasy 、Fern 、 Modern Treasury、Scale",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2052716456337346641",
+    "time": "2026-05-08 19:45",
+    "id_str": "2052716456337346641",
+    "is_retweet": false
+  }
+]
