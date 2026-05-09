@@ -438,5 +438,165 @@
     "time": "2026-05-10 05:11",
     "id_str": "2053221336722653585",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Full stack engineering",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2053229960849211692",
+    "time": "2026-05-10 05:45",
+    "id_str": "2053229960849211692",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/PFrtSyBVgp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2053230433299771580",
+    "time": "2026-05-10 05:47",
+    "id_str": "2053230433299771580",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ArthurMacwaters: Sufficiently advanced engineering is indistinguishable from art https://t.co/9wbZJEJL64",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2053230624228683951",
+    "time": "2026-05-10 05:48",
+    "id_str": "2053230624228683951",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Proximity to SF doesn't matter if you use Twitter Correctly. \n\nhttps://t.co/fIBkJVm26e is 2 months ahead of SV/founders/eng\n(if you curate your feed correctly and are in the right group chats)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2053241304646348955",
+    "time": "2026-05-10 06:30",
+    "id_str": "2053241304646348955",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://t.co/vt3cbzt1Ia",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2053231582396182701",
+    "time": "2026-05-10 05:52",
+    "id_str": "2053231582396182701",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RIP your old Claude prompts ☠️\n\nOpus 4.7 dropped 3 weeks ago and it follows instructions LITERALLY now.\n\nIt scores 87.6% on SWE-bench (vs 80.8% on 4.6) but every prompt tuned for 4.6 is silently failing.\n\n7 fixes that stopped my outputs from getting worse: 👇 https://t.co/jeB2UKkST7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237413137281401",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237413137281401",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The shift is simple but devastating:\n\nOpus 4.6 inferred your intent and filled in the gaps.\nOpus 4.7 does EXACTLY what you ask. Nothing more.\n\nTranslation: the same prompt now produces narrower, terser, sometimes broken results.\n\nHere's how to fix it 👇",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237417985843459",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237417985843459",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1. Delete \"think step by step\" from your prompts.\n\nThat phrase was scaffolding that compensated for 4.6's reasoning gap.\n\nOpus 4.7 has that depth built in at high effort. Keeping it now wastes tokens AND can degrade output.\n\nFix: raise the effort level instead.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237421043536003",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237421043536003",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "2. Stop writing prompts that assume the model \"gets it.\"\n\n❌ 4.6 prompt: \"help me with my pitch deck\"\n(4.6 inferred you wanted structure + hooks + content tips)\n\n✅ 4.7 prompt: \"review the 10 slides below. flag weak hooks, missing stats, and confusing transitions. output as a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237424067936577",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237424067936577",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "3. Switch from markdown to XML tags.\n\nOpus 4.7 responds to XML structure the way other models respond to markdown headers.\n\nWrap your sections in &lt;context&gt;, &lt;task&gt;, &lt;constraints&gt;, &lt;output_format&gt;.\n\nThe model treats them as attention anchors. Same content, dramatically better",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237426986893563",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237426986893563",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "4. Sandwich long documents with your task.\n\nWhen pasting 50+ pages, place the task BEFORE the doc AND restate it AFTER.\n\n[task] → [document] → [restate task]\n\n1M context handles the length, but task proximity to the doc boundary locks the model's attention on what you actually",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237429776142337",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237429776142337",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "5. Override verbosity. Explicitly.\n\nOpus 4.7 defaults to thorough. If you want concise, you have to ASK.\n\n❌ \"Summarize this article\"\n✅ \"Summarize in 3 bullets. No preamble. Output directly.\"\n\nYou get what you specify. Never what you assume.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237434368831932",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237434368831932",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "6. Add pause-and-reflect to agentic prompts.\n\nAfter each tool call, instruct:\n\n\"reflect in &lt;thinking&gt; tags. did this result answer what I needed? what's the next step?\"\n\nThis stops \"optimistic chaining\" where the model proceeds on results it never verified.\n\n(This is how the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237437430681690",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237437430681690",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "7. Never trust tone as a reliability signal.\n\nOpus 4.7 is unusually confident when it's wrong. It told one user \"strawberry\" has two Ps.\n\nBuild verification INTO your prompts:\n\n→ \"cite the source for every claim\"\n→ \"flag uncertainty in &lt;warnings&gt; tags\"\n→ \"list 3 ways this",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237440584860131",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237440584860131",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Bonus: raise your effort level.\n\nAnthropic's official guidance:\n→ xhigh for coding and agentic work\n→ minimum high for intelligence-sensitive tasks\n\nHex's CTO benchmarked it: low-effort 4.7 ≈ medium-effort 4.6.\n\nIf your output feels worse than 4.6, you're probably running 4.7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237541676159176",
+    "time": "2026-05-10 06:15",
+    "id_str": "2053237541676159176",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Opus 4.6 was a helpful assistant.\nOpus 4.7 is a precise operator.\n\nStop writing prompts. \nStart writing specs.\n\nThe model is stronger. Your prompts just need to catch up.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053237656310493230",
+    "time": "2026-05-10 06:16",
+    "id_str": "2053237656310493230",
+    "is_retweet": false
   }
 ]
