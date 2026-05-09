@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "当前 AI 产品演进已经确立了一个清晰的行业共识：\n\n采取数据与表现分离的架构，以 Markdown 负责底层逻辑与记忆的纯净存储，用 HTML 实现对外的高密度交互与展示。\n\n这个思路的脉络是，前几天借着 Obsidian 作者提出 Markdown 是 AI 内容谢林点的观点，我发散讨论了当前 AI 原生格式主要分为 Markdown https://t.co/pPuoM92djE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2052943672556274040",
+    "time": "2026-05-09 10:48",
+    "id_str": "2052943672556274040",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "哎，这些用 AI 回复的哥们儿真是删都删不完。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2052961068918677554",
+    "time": "2026-05-09 11:57",
+    "id_str": "2052961068918677554",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GPT Image 2 Prompt：中文科技新闻爆款封面生成器\n\n--- Prompt ---\n\n你是一名顶级中文科技媒体视觉设计师。\n\n你的任务是：\n\n根据用户输入的一整篇文章内容，自动提取核心新闻、关键数字、核心产品、行业情绪和信息层级，并生成一张高冲击力的中文科技新闻文章封面图。\n\n图片比例：16:9 横版。\n\n--- https://t.co/7IBEFzvVbr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2052942818570543550",
+    "time": "2026-05-09 10:44",
+    "id_str": "2052942818570543550",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GPT Image 2 Prompt：水墨风格 Slides/PPT \n\n可以把下面的提示词模板发给 Agent，让 Agent 帮你生成每一页 Slides 的画图 Prompt，Codex 这样有画图能力的直接出图。\n\n--- 提示词模板 ---\n\nTitle: [在此输入幻灯片标题]\n\nKey Points:\n- [要点 1：简洁的描述]\n- [要点 2：核心数据或事实]\n- [要点 https://t.co/xMWAQVsAto",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2052948362668732781",
+    "time": "2026-05-09 11:06",
+    "id_str": "2052948362668732781",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "https://t.co/fIMfdfeQbR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2052939864492925180",
+    "time": "2026-05-09 10:33",
+    "id_str": "2052939864492925180",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I dunno I think at this point it must take some special effort to keep the names as baffling as they are.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2052942152632562123",
+    "time": "2026-05-09 10:42",
+    "id_str": "2052942152632562123",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The great thing is that the names are so baffling that the most important models OpenAI released were names davinci-002, GPT-3.5, GPT-4, o1-preview, o3, GPT-5 Pro, and you would never know the ways they are connected (my listing was chronological)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2052944463165612166",
+    "time": "2026-05-09 10:51",
+    "id_str": "2052944463165612166",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Try this strange thing with ChatGPT.\n\nDON’T attach any reference image\n\nPrompt: Restore the attached photo. Apologies for…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2052941702608953679",
+    "time": "2026-05-09 10:40",
+    "id_str": "2052941702608953679",
+    "is_retweet": true
+  }
+]
