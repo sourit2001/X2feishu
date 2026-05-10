@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "interesting",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2053566155571560868",
+    "time": "2026-05-11 04:01",
+    "id_str": "2053566155571560868",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @SebastienBubeck: @roydanroy What he talks about couldn't have happened before GPT-5.5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2053571254721093791",
+    "time": "2026-05-11 04:21",
+    "id_str": "2053571254721093791",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "what if we name the next model \"goblin\"\n\nalmost worth it to make you all happy...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2053572868936761350",
+    "time": "2026-05-11 04:28",
+    "id_str": "2053572868936761350",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Been enjoying the Paper MCP with codex alot. \n\nI wish there was a tool like Paper that opened in the Codex browser. \n\nA codex native canvas board like this. https://t.co/05I4Dgh342",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2053568378162532490",
+    "time": "2026-05-11 04:10",
+    "id_str": "2053568378162532490",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Good idea",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2053569064526815558",
+    "time": "2026-05-11 04:13",
+    "id_str": "2053569064526815558",
+    "is_retweet": false
+  }
+]
