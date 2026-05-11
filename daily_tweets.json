@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Launch rehearsal complete. During a flight-like countdown, more than 5,000 metric tonnes (11+ million pounds) of propellant wer…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2053954397802012934",
+    "time": "2026-05-12 05:44",
+    "id_str": "2053954397802012934",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "OpenAI is launching Daybreak, our effort to accelerate cyber defense and continuously secure software.\n\nAI is already good and about to get super good at cybersecurity; we'd like to start working with as many companies as possible now to help them continuously secure themselves.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2053951874408276193",
+    "time": "2026-05-12 05:34",
+    "id_str": "2053951874408276193",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Please get in touch if this sounds interesting!\n\nhttps://t.co/xbJsamECrL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2053951875654054011",
+    "time": "2026-05-12 05:34",
+    "id_str": "2053951875654054011",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yetone: 注意这个 Agent Pets 是依赖 MCP 实现的，所以某种程度上，它可能会干扰 Agent 正在执行的真实任务。\n\n原因很简单：模型需要时刻记得去调用 Agent Pets MCP。\n这等于给大模型额外增加了一层心智负担。\n但问题是，调用这个 MC…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2053936809608978758",
+    "time": "2026-05-12 04:34",
+    "id_str": "2053936809608978758",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 的野心，MCP 和 Skill 的下一步\n\n这段时间我在密集使用 Codex App、Cursor 等 Agent 应用，有件事越来越觉得有意思。\n\n去年大家争的是谁家模型更强，今年争的好像变成了谁家窗口右侧更好用。\n\nCodex、Claude 桌面版、Cursor 3.0、TRAE SOLO，这几家最顶尖的 https://t.co/Tzu5dUY6Ms",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2053940091970580736",
+    "time": "2026-05-12 04:47",
+    "id_str": "2053940091970580736",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Cursor 最大的劣势是没自己的顶尖模型，最大的优势是可以用任何一家模型\nhttps://t.co/cM6NSwe5L8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2053943794165318109",
+    "time": "2026-05-12 05:02",
+    "id_str": "2053943794165318109",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @DashHuang: 这东西很蠢，还在以传统人类的认知局限来安排 AI Agent 的工作。游戏工作室要那么多岗位是因为大部分人太弱鸡，能力太有限了。AI 明明有更全面的能力，可以纵览全局，却还要用人类的职业习惯困住他们手脚，把他限制成螺丝钉。可笑！\n另外烦透了这种“卧…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2053954148010270846",
+    "time": "2026-05-12 05:43",
+    "id_str": "2053954148010270846",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 今天上线了一个新功能：agent view，让开发者可以在一个界面里统管所有正在运行的 AI 编程会话。\n\n过去用 Claude Code 同时跑多个任务，只能靠一堆终端标签页和 tmux 分屏拼凑，脑子里还得记着每个任务跑到哪了。现在不用这么折腾了。\n\n在任意会话里按左箭头，或者直接在终端跑 claude",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2053958143411888437",
+    "time": "2026-05-12 05:59",
+    "id_str": "2053958143411888437",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is one reason why I think the push for smaller, local models is more complicated than people think. If you want good answers, especially good answers to unexpected problems, frontier models will generally outperform smaller models on a wide range of tasks.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2053944757160706420",
+    "time": "2026-05-12 05:06",
+    "id_str": "2053944757160706420",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Incredible https://t.co/R6kwjgQALY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2053956365052240263",
+    "time": "2026-05-12 05:52",
+    "id_str": "2053956365052240263",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "RT @thinkymachines: People talk, listen, watch, think, and collaborate at the same time, in real time. We've designed an AI that works with…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2053953945580827097",
+    "time": "2026-05-12 05:42",
+    "id_str": "2053953945580827097",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @miramurati: Today we're sharing our work on interaction models. A new class of model trained from scratch to handle real-time interacti…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2053946940363301217",
+    "time": "2026-05-12 05:14",
+    "id_str": "2053946940363301217",
+    "is_retweet": true
+  }
+]
