@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "来了！藏师傅的 PPT Skill 更新了第二套主题\n\n新主题更加简洁美观，适合讲一些数据和事实性的内容\n\n而且支持 4 种颜色、20 多个版式。\n\n支持用 Codex 内置的 GPT-2.0 帮你生成配图和美化截图。\n\n还能让它帮你生成各种平台的封面，以及公众号配图。\n\n文章里详细讲了一下怎么用，还有一些小技巧。 https://t.co/ufaA3OzzWf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2053743942097911952",
+    "time": "2026-05-11 15:48",
+    "id_str": "2053743942097911952",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: RIP your old Claude prompts ☠️\n\nOpus 4.7 dropped 3 weeks ago and it follows instructions LITERALLY now.\n\nIt scores 87.6% o…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053733533861003770",
+    "time": "2026-05-11 15:06",
+    "id_str": "2053733533861003770",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Left: the watermark GPT Image 2 embeds into every image it generates.\nRight: SynthID, the fingerprint Google bakes into ev…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053736548491751834",
+    "time": "2026-05-11 15:18",
+    "id_str": "2053736548491751834",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: The team that built Claude Code stopped using Markdown.\n\nThis isn't from a random AI account farming engagement. Thariq Sh…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053754683563647303",
+    "time": "2026-05-11 16:30",
+    "id_str": "2053754683563647303",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Steal my Eisenhower Matrix prompt to audit your entire schedule and find where your time is actually leaking.\n\nBuilt for s…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2053755276336242912",
+    "time": "2026-05-11 16:33",
+    "id_str": "2053755276336242912",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "最近 Claude Code 核心成员把 HTML 带火了 🔥\n\n从普通的各种文本变成一个可交付的 HTML，以及现在 Agent 写 HTML 到底到了一个什么样的地步，大家可能没有一个很好的感受？\n\n所以我写了一个编辑器，可以把一些 Markdown 文本、数据、csv、excel 等转成 HTML\n\n有人希望开源吗🙋‍♀️ https://t.co/x6w2jAfQc8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2053769766343434328",
+    "time": "2026-05-11 17:30",
+    "id_str": "2053769766343434328",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "支持 deck 模式，输入 md、text、csv、excel、json、sql、yaml 等\n\n一键基于模板可以转成顶级的 html、slides/PPT\n\n将任何枯燥的文本，一键可视化出来\n\n然后可以修改对应的文本数据，让 agent 直接帮你基于更新的文本再反馈到 html https://t.co/DzBcEFOQxZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2053770743079407997",
+    "time": "2026-05-11 17:34",
+    "id_str": "2053770743079407997",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "我想了个词，感觉可以叫做 Agentic HTML Editor 🚀\n\n就是人可以默认用自己想表达任何原始数据，然后由 Agent 根据模板转成高信息量的 HTML\n\n然后人可以任意修改，Agent 可以实时反馈和更新 HTML\n\n实现人读和写文本，然后 Agent 读和写更易看懂的 HTML\n\n闭环了，这可能是新时代的 HTML 编辑器？💥 https://t.co/7C7Abd7uik",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2053778345087717516",
+    "time": "2026-05-11 18:04",
+    "id_str": "2053778345087717516",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "我想了个词，感觉可以叫做 Agentic HTML Editor 🚀\n\n 就是人可以默认用自己想表达任何原始数据，然后由 Agent 根据模板转成高信息量的 HTML  \n\n然后人可以任意修改，Agent 可以实时反馈和更新 HTML  实现人读和写文本，然后 Agent 读和写更易看懂的 HTML  闭环了\n\n这可能是新时代的 HTML 编辑器？ https://t.co/QO7whyBCkk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2053781298460696996",
+    "time": "2026-05-11 18:16",
+    "id_str": "2053781298460696996",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "给这个世界的一份答卷:\n\nhttps://t.co/q9JL7v4nXv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2053772293864857859",
+    "time": "2026-05-11 17:40",
+    "id_str": "2053772293864857859",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "现在如果要对外做分享,  准备材料的时间分配:\n\n1. 与 AI 讨论我的思考框架: 三小时\n2. 撰写 orgmode 文稿: 半小时\n3. 调用 /ljg-present 生成HTML: 五分钟",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2053774964302721355",
+    "time": "2026-05-11 17:51",
+    "id_str": "2053774964302721355",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "LongCat-2.0-Preview 第二阶段内测已开启，每日09:00:00（UTC+8）限量开放，先到先得。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2053725408869195851",
+    "time": "2026-05-11 14:34",
+    "id_str": "2053725408869195851",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "我大概明白了， \n火山的 agentplan 大概就是在 codeplan的基础上，\n增加了 seedance 的plan能力。\n如果你不用 hermes agent 、也不想搞漫剧 ，这玩意对你没用；",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2053727038561739141",
+    "time": "2026-05-11 14:40",
+    "id_str": "2053727038561739141",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "帮转，还有人在找工作吗？\nNVIDIA 上海 | 具身智能团队热招中！\n工作地点：上海（张江区域）。\n语言能力：能够以英语作为工作语言。\n人才画像：具备“硬件意识”的代码高手，不惧怕操作烙铁或螺丝刀。\n职位特色：产学研结合，支持发表顶会论文，兼具初创公司的执行速度。\n简历发到：togong@nvidia.com",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2053735832918401029",
+    "time": "2026-05-11 15:15",
+    "id_str": "2053735832918401029",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "梁文锋现在40岁 （ 公开资料一致显示他出生于1985年 ）。\n\n他能个人一次性掏出 200亿人民币。\n\n问：如果他通过创业 10年（假设） ， 现金储备结余 200亿，请问他一共最少要交多少个人所得税？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2053757507164647617",
+    "time": "2026-05-11 16:42",
+    "id_str": "2053757507164647617",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "感觉 很多自媒体小学 数学都不及格 ...\n看起来都不是真人维护的，更像是 Agent 在全自动瞎吹造神 ，而平台容忍这种瞎 J8 忽悠的行为，也是罪大恶极。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2053758659851681812",
+    "time": "2026-05-11 16:46",
+    "id_str": "2053758659851681812",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "很多公司的实习薪资是真的低...\n\n腾讯和字节的实习薪资断崖式领先 ...\n\n----\n\n实习福利:\n1、实习补贴本科100元/天，研究生120元/天\n2、不定期明星扫楼，周边礼品签名等\n3、公司食堂免费早餐，免费健身房，mentor关怀(奶茶/咖啡)等\n4、工作安排合理，团队氛围超级nice~\n\n工作地点:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2053759800257716595",
+    "time": "2026-05-11 16:51",
+    "id_str": "2053759800257716595",
+    "is_retweet": false
+  }
+]
