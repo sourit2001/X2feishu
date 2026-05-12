@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Alice_Weidel: AfD bei 28%, inzwischen hat sich der Abstand zur Union (22%) auf 6 Punkte vergrößert. Gleichzeitig sinkt auch das Verstän…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054235385673437575",
+    "time": "2026-05-13 00:20",
+    "id_str": "2054235385673437575",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "🇺🇸🇺🇸",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054238640243622236",
+    "time": "2026-05-13 00:33",
+    "id_str": "2054238640243622236",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @corcoranwill: There's a new chapter starting for the Protocol cluster. We're welcoming new leads and coordinators, and continuing our w…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2054227833858195795",
+    "time": "2026-05-12 23:50",
+    "id_str": "2054227833858195795",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Expect your feed to look more and more like this in the coming weeks and months. https://t.co/kcnHnnCVya",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054214126516228582",
+    "time": "2026-05-12 22:56",
+    "id_str": "2054214126516228582",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Had an interesting exchange with roon of OpenAI last night over whether super intelligent AI would actually be able to navigate organizational challenges. https://t.co/2i9wYO24s1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054235906924556801",
+    "time": "2026-05-13 00:23",
+    "id_str": "2054235906924556801",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most AI apps are still burning money by sending every prompt to the most expensive model.\n\nThat won’t last.\n\nThe real unlock is routing: cheap models for simple jobs, stronger models when it actually matters, fallback when providers break.\n\nThis is the infra layer everyone",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2054207748657541298",
+    "time": "2026-05-12 22:31",
+    "id_str": "2054207748657541298",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Make image models artistic again ✨\n\nI've been playing with Krea 2 over the last week - and I'm blown away by the aesthetics.\n\nMy favorite feature may be moodboards, which guide your generations in more unique styles.\n\nHow they work + my tips 👇 https://t.co/oq0IrEBBAR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2054219469086732605",
+    "time": "2026-05-12 23:17",
+    "id_str": "2054219469086732605",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "It's insanely fun to scroll a feed of images and use them to make different moodboards.\n\nI have 10 - and each generates images in a unique style. You can turn up or down the strength while generating.\n\nYou can also upload your own images to train a moodboard on your style 👀 https://t.co/uNF7RyvETk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2054221817062338702",
+    "time": "2026-05-12 23:27",
+    "id_str": "2054221817062338702",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "We can generate beautiful things \n\n(made with @krea_ai K2 🫶) https://t.co/Dzux2qGUqs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2054246078040662101",
+    "time": "2026-05-13 01:03",
+    "id_str": "2054246078040662101",
+    "is_retweet": false
+  }
+]
