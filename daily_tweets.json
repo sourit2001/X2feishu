@@ -1,1 +1,152 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Falcon 9 is vertical at pad 40 in Florida ahead of tomorrow’s launch of Dragon’s 34th Commercial Resupply Services mission to t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2053988390178349186",
+    "time": "2026-05-12 07:59",
+    "id_str": "2053988390178349186",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @StateDept: Last week, the United States refused to participate in the UN’s review of the Global Compact on Migration.\n\nThe United State…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2053989674847481911",
+    "time": "2026-05-12 08:04",
+    "id_str": "2053989674847481911",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "前 OpenAI CTO Mira 的公司 Thinking Machines 发了一个非常创新的模型，他们叫交互模型。\n\n这个模型能够持续接收音频、视频、文本等原生的多模态内容，并且实时进行思考、响应和行动。\n\n它不像之前那种 Agent 脚手架，把多个模型、多个模态的模型通过 Agent 串起来，而是所有模态都在一整个模型里。 https://t.co/cFnEvxjTwA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054023602874491326",
+    "time": "2026-05-12 10:19",
+    "id_str": "2054023602874491326",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude Code 昨天更新了一个新的功能：Agent 视图。你可以在一个终端标签页里管理多个正在运行的 Agent。\n\n你可以启动新的 Agent 并将其放在后台，Agent 视图会标注每个 Agent 的状态，包括：已完成、需要输入、正在进行。\n\n你可以通过以下两种方式打开 Agent 视图：\n\n1. 在任何会话点按左箭头\n2. https://t.co/n9orDhb2Pv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054024888567070925",
+    "time": "2026-05-12 10:24",
+    "id_str": "2054024888567070925",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "一般赚钱的不发推，闷声发大财才是最优解；赔钱的也不发推，丢人；发的可能是卖课的卖流量的🐶",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2053987620732944869",
+    "time": "2026-05-12 07:56",
+    "id_str": "2053987620732944869",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 现在真是把 TUI 玩出花来了，但普通用户可能还是更习惯 GUI 一些。\n\nhttps://t.co/XZPeFkHqyP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2054012031922057677",
+    "time": "2026-05-12 09:33",
+    "id_str": "2054012031922057677",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "gpt-realtime-2 is a great voice model (with a typically bad OpenAI name). Voice models are natively processing speech, not transcribing it, so the intelligence of the model matters. The old voice model was GPT-4o level, this is much smarter (how smart? OpenAI gave no benchmarks)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2053998691040583882",
+    "time": "2026-05-12 08:40",
+    "id_str": "2053998691040583882",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think frontier model writing is good! It often has a sense of style &amp; tone, variations in sentence structure &amp; length, some great phrasing, etc\n\nBut it also has some weak spots (fiction!) &amp; clear tics. Mostly there is just far too much of it online which makes it all so cliche",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2053999533550399634",
+    "time": "2026-05-12 08:43",
+    "id_str": "2053999533550399634",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Though the smartness comes with a cost: all of the prompts that were written for the old realtime voice model now need to be revised for a more capable, and better instruction following, model.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054001075477246450",
+    "time": "2026-05-12 08:49",
+    "id_str": "2054001075477246450",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Hahahaha. The comments. Proving my point for me.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054005813233004864",
+    "time": "2026-05-12 09:08",
+    "id_str": "2054005813233004864",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "VARICK IS HIRING\nALWAYS\n\nApply today and you could have an offer in hand by the end of the week https://t.co/ysxzlO9IGA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2054021920081825947",
+    "time": "2026-05-12 10:12",
+    "id_str": "2054021920081825947",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://t.co/vk66n9Ka0B",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2054021921960780009",
+    "time": "2026-05-12 10:12",
+    "id_str": "2054021921960780009",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "\"Only older people are buying the magic beans of AI.\" \n\nIt's fascinating how people just make shit up like this and assume no one will fact check?\n\nThe majority of ChatGPT users (on Web) are under 35. Mobile and other products like Claude are even MORE skewed towards youths. https://t.co/4DJDh82BmQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2053988399426760930",
+    "time": "2026-05-12 07:59",
+    "id_str": "2053988399426760930",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "小 Cola 内测一个多月了，很多内测用户说「我的朋友看我天天玩羡慕了，我能不能也邀请他也来玩？」\n\n今天，好友邀请码分享功能正式上线了！\n\n使用方法非常简单，就是在 ColaOS 的设置菜单里，找到你的邀请码，然后发送给好友就行。\n\nColaOS 邀请码的具体规则：\n\n1. 好友注册后你们会各得 💰 $2，最多 https://t.co/PcKQYXvuE4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2053999419062882764",
+    "time": "2026-05-12 08:43",
+    "id_str": "2053999419062882764",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "太酷了！\n\n欢迎体验 open-design  ❤️ https://t.co/7fuhR3IQ5a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054009525926010986",
+    "time": "2026-05-12 09:23",
+    "id_str": "2054009525926010986",
+    "is_retweet": false
+  }
+]
