@@ -198,5 +198,125 @@
     "time": "2026-05-13 10:32",
     "id_str": "2054389362201104673",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @DJSnM: Finally we're going to get shots of Starship from a deployed payload: https://t.co/G7tMXCjPT8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054394669963125188",
+    "time": "2026-05-13 10:53",
+    "id_str": "2054394669963125188",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ApoStructura: Every rocket launched in 2026 https://t.co/Spe5ErTfM3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054418136934535388",
+    "time": "2026-05-13 12:27",
+    "id_str": "2054418136934535388",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SERobinsonJr: SPACEX: Marmac 31 \"You'll Thank Me Later\" now has a cover installed. This barge will transport the Super Heavy Boosters f…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054420100917399828",
+    "time": "2026-05-13 12:34",
+    "id_str": "2054420100917399828",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谷歌昨天安卓 I/O 大会最大的跟 AI 相关的发布，是发布了 Gemini Intelligence\n\n会先在三星 Galaxy 和 Pixel 手机上推出，后面会拓展到其他所有类型的安卓设备。\n\n具体功能上，首先它可以帮你自动完成在多个 App 上操作的繁琐任务，而且可以跨多个软件去操作。 https://t.co/hNh1ibHcvp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054395133182042326",
+    "time": "2026-05-13 10:55",
+    "id_str": "2054395133182042326",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "很多模型厂商开始发现开源 Agent 框架和客户端的价值。\n\n大家都开始要么补贴客户端本身，要么补贴客户端用户。\n\n但是我觉得还有一个非常重要的盲点。\n\n就是像藏师傅、宝玉、乔木、一泽这种头部的 Skills 开发者。他们的 Skills 装机量其实非常大，遍布各种 Agent。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054414353731109224",
+    "time": "2026-05-13 12:12",
+    "id_str": "2054414353731109224",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "前几天去天津玩，去五大道的时候，无意间问了一下 AI 这里的历史，发现还是挺复杂的。\n\n基本上近代好多名人和好多事件都与住在这儿的人有关系。\n\n所以我就试了一下，用我的这个 PPT Skills 讲一下这些人的故事。\n\n新增了一个排版：\n1. 左侧是卡片\n2. 右边是地图（这个地图是可以交互的，内嵌在了 PPT https://t.co/S1E28hKGvM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054418678918291482",
+    "time": "2026-05-13 12:29",
+    "id_str": "2054418678918291482",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@ 一下提到的几个人 @dotey @vista8 @eze_is_1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054421417270346049",
+    "time": "2026-05-13 12:40",
+    "id_str": "2054421417270346049",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "人物卡片 https://t.co/fZRkEVMJzs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054423566423413001",
+    "time": "2026-05-13 12:48",
+    "id_str": "2054423566423413001",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@dotey @vista8 @eze_is_1 跟 @lepadphone 老师聊了一下：\n\n我们需要一个聚焦的公共空间，去分发、展示、曝光和连接。还有就是服务好开发者尤其是优质开发者。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054428529736245652",
+    "time": "2026-05-13 13:08",
+    "id_str": "2054428529736245652",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Skills 已经更新了这个带地图的版式和地图组件\n\n大家让自己的 AI 更新这个 Skills 就行。\n\n地图支持放大缩小和拖动，以及 AI 可以在地图上做任意的标记。 https://t.co/RB1dV8Pi0b",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054433146532479266",
+    "time": "2026-05-13 13:26",
+    "id_str": "2054433146532479266",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "My entire IG feed is influencers doing the AI baseball trend but the only ones I care about are these guys https://t.co/byc5O5itA3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2054425029589508481",
+    "time": "2026-05-13 12:54",
+    "id_str": "2054425029589508481",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Preda2005: QT your Green 💚 https://t.co/0YtZLOsZYd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054398006149951925",
+    "time": "2026-05-13 11:07",
+    "id_str": "2054398006149951925",
+    "is_retweet": true
   }
 ]
