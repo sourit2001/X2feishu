@@ -68,5 +68,165 @@
     "time": "2026-05-13 21:38",
     "id_str": "2054556905519943969",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054579507697504446",
+    "time": "2026-05-13 23:08",
+    "id_str": "2054579507697504446",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @Khazix0918: 半年前，我写了10个创作心法，没想到大家反响都特别好。\n\n而这段时间，我给内部写的内容方法论也更新到了2.0。再加上最近我们有新的小伙伴入职，为了帮大家更好地做内容，所以决定给大家做个内部分享。\n想了下，也把总结的部分发在这里，希望能对大家有帮助…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2054575043951112589",
+    "time": "2026-05-13 22:50",
+    "id_str": "2054575043951112589",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @bkingfilm: 一个游戏项目最危险的时候，可能不是没人看好，而是突然被公司重视。\n\n3个人做 demo，3个月搭起来，效果不错，老板问：一个月一个英雄要多少人？\n\n团队从几十人快速冲到七八十人，资源来了，管理也来了。\n\n但制作人管理经验却跟不上，还没空去盯产品了…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2054600263189582234",
+    "time": "2026-05-14 00:30",
+    "id_str": "2054600263189582234",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "要做好字幕 SRT，断句最重要，其次是纠正拼写错误。这些可以借助 AI 或者 Agent 来做了。\n\n不过前提是先生成单词级别的时间戳，这样才能在组合后拼回去，现在主流语音识别模型都支持输出 json 格式，每个单词都标注清楚start和end的timestamp。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2054609453467517363",
+    "time": "2026-05-14 01:07",
+    "id_str": "2054609453467517363",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The UK’s state AI Security iIstitute findings:\n1) Mythos is a big gain in cyber capabilities. But so is GPT-5.5\n2) It is hard to establish an upper bound on Mythos/GPT-5.5, which appear to be limited by tokens used, rather than ability.\n3) Capability doubling time is 4.5 months https://t.co/k9bPGiAUwt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054595505712165154",
+    "time": "2026-05-14 00:11",
+    "id_str": "2054595505712165154",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All of this aligns with METR’s results as well. \n\nReport: https://t.co/LRbpe6yNAR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054596048622899643",
+    "time": "2026-05-14 00:14",
+    "id_str": "2054596048622899643",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Really curious when Gemini is going to join the Cowork &amp; Codex race to build a local app that isn’t just for developers. Antigravity hasn’t posted updates to X in a month, and remains very software focused. Meanwhile we see accelerated updates and releases from OpenAI &amp; Anthropic",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054610285114097697",
+    "time": "2026-05-14 01:10",
+    "id_str": "2054610285114097697",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "There is near insatiable demand for AI customer support that actually works",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2054584694709375093",
+    "time": "2026-05-13 23:28",
+    "id_str": "2054584694709375093",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Anyone have cleaners in SF they recommend?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2054607020431642974",
+    "time": "2026-05-14 00:57",
+    "id_str": "2054607020431642974",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Last month Salesforce announced it would open its APIs and launch a headless product, essentially betting that in an agentic world, its value lies in the data layer, not the UI.\n\nThe announcement is a useful prompt for a more interesting question: if you strip away the UI and https://t.co/QStjdw17Lj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2054588904041537982",
+    "time": "2026-05-13 23:45",
+    "id_str": "2054588904041537982",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Everyone drop something green  🌿 https://t.co/NiDh399EfX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054587728377811034",
+    "time": "2026-05-13 23:41",
+    "id_str": "2054587728377811034",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How absolutely stunning is this! \nI love all your Green submissions! \nShall we collaborate on a green AI video?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054587880186499281",
+    "time": "2026-05-13 23:41",
+    "id_str": "2054587880186499281",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I've been quietly helping build this AI storyboarding tool - Firefly Boards - for 2 years. Now I'm using it to animate my first pilot episode.\n\nMaking it as a part of my friend's @Framer_X animation course. Then going to make my own about my life.\n\nWhat about you? https://t.co/lM5udPgQB1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054588488670945526",
+    "time": "2026-05-13 23:44",
+    "id_str": "2054588488670945526",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Testing new Firefly Video Editor (beta) and it's pretty great that Adobe is working on an AI-first video editor. You can generate videos and sound effects right there. https://t.co/eCmVEiFLul",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054600281317327004",
+    "time": "2026-05-14 00:30",
+    "id_str": "2054600281317327004",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "QT your portrait https://t.co/ik3TC3zkKS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054604476871319985",
+    "time": "2026-05-14 00:47",
+    "id_str": "2054604476871319985",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I can't stop laughing 😅😅😅Here's a funny prompt for you to boost your humpday mood! \n\nI'd love to see your experiments to laugh together😅\n\nprompt: Turn this photo into a funny ugly doodle drawing. Make it look like: a quick sketch using a cheap marker or crayon messy, rough, https://t.co/Dj7MosER3O",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054608768244072578",
+    "time": "2026-05-14 01:04",
+    "id_str": "2054608768244072578",
+    "is_retweet": false
   }
 ]
