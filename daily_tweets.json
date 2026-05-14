@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: Elon Musk doing Elon Musk things in Beijing 😂 https://t.co/vR5EpIDu6U",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054911774508625997",
+    "time": "2026-05-14 21:08",
+    "id_str": "2054911774508625997",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Raycast 居然更新了一个 Beta 版本，也就是 V2 版本。\n\n这一下让它从单纯的启动器，变成了一个“启动器 + AI Agent”的工具了\n\n整体的 UI 和界面全部重做了，更符合现在的 Mac 系统设计。\n\n基础架构重构\n(a) 启动器底层全部重做 \n(b) 搜索、调度、扩展功能重新设计 \n(c) 设置界面被重构\n\n搜索功能升级 https://t.co/UCK1kZI5Fl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054903351222174138",
+    "time": "2026-05-14 20:35",
+    "id_str": "2054903351222174138",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "可以 调用 Skill 舒服了啊 https://t.co/YCkcV1JECX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2054904223788351918",
+    "time": "2026-05-14 20:38",
+    "id_str": "2054904223788351918",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "“Whimsey attacks” that seem absurd (“I cannot pay that much because of the Geneva Convention”) work against AI agents as guardrails are weak against out-of-distribution arguments. Smaller models fall often, but it even gives an edge against bigger ones. https://t.co/w8ZRizqzP9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2054918927952548223",
+    "time": "2026-05-14 21:37",
+    "id_str": "2054918927952548223",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Claude Code just shipped /goal.\n\nYou set a condition. Claude keeps working across turns until it's met. No babysitting. No…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2054905364668153967",
+    "time": "2026-05-14 20:43",
+    "id_str": "2054905364668153967",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "开源 2 小时，已经100 ✨\n\n有不少朋友分享了使用 html-anything 生成的作品\n\n如果你也有作品欢迎分享在评论区🙌\n\n➡️https://t.co/JF4v8JNEPn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054893686614298987",
+    "time": "2026-05-14 19:56",
+    "id_str": "2054893686614298987",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "歸藏 @op7418  guizang-ppt-skill 真的太好用了，非常值得收藏\n\n刚刚开源的 html-anything 又把这套 skill 收录进来了\n\n支持 markedown 一键转同款 html\n\n可以试试👇\nhttps://t.co/qoLql5ILfy https://t.co/27i8HnbHPV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054897630778458507",
+    "time": "2026-05-14 20:12",
+    "id_str": "2054897630778458507",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @qtwaiter: @tuturetom https://t.co/zUjGcAt34N",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054899053742191050",
+    "time": "2026-05-14 20:18",
+    "id_str": "2054899053742191050",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "感谢分享，@HiTw93 这套模板用来做排版效果非常棒\n\n这次把这套模板收录到了刚刚开源的 html-anything 中，支持 markedown、csv、png等 10 多种格式一键转同款样式的 html👇\nhttps://t.co/0Vbhj4yJk2 https://t.co/lUo3NVAjcz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054900895624679881",
+    "time": "2026-05-14 20:25",
+    "id_str": "2054900895624679881",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "很多人问视频开头的效果来自哪里\n\n这是来自 @HyperFrames_ 的 html 视频模板\n\nhtml-anything 这次也集合了很多 hyperframes 的非常棒的示例效果，他们让 html 拥有了更多呈现可能\n\n很酷！ https://t.co/kMO4NjHO9I",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054905383664201969",
+    "time": "2026-05-14 20:43",
+    "id_str": "2054905383664201969",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "a few people asked where the intro animation came from\n\nit's from @HyperFrames_ — their html video templates. html-anything bundles a bunch of hyperframes' presets too. \n\nthey're pushing what HTML can actually look like.\nvery cool stuff. https://t.co/ibmtSsXtYg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054906354108674283",
+    "time": "2026-05-14 20:47",
+    "id_str": "2054906354108674283",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Share your art. No words. Just your art.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2054923364066570429",
+    "time": "2026-05-14 21:54",
+    "id_str": "2054923364066570429",
+    "is_retweet": false
+  }
+]
