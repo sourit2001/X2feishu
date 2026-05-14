@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @AdamLowisz: Grok 4.3 is next level. I've been using it quite a bit for everything.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2054821657211289617",
+    "time": "2026-05-14 15:10",
+    "id_str": "2054821657211289617",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Cursor 的设计模式还挺好用的。\n\n但是有个细节问题，当我 \"Plan New Idea\"，如果提示词使用的中文，那么生成的设计文档最好也是中文。现在每次我中文提示词，设计文档都是英文。\n\n简单来说，设计文档语言默认应该和提示词语言一致。\n\ncc @ryolu_ https://t.co/ebrfSo6dIh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2054818046515073316",
+    "time": "2026-05-14 14:56",
+    "id_str": "2054818046515073316",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: \"Every complaint about Claude is secretly a workflow confession.\"\n\nA FAANG engineer posted this on Reddit. 1,100 upvotes.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2054842483344121870",
+    "time": "2026-05-14 16:33",
+    "id_str": "2054842483344121870",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Claude Code just shipped /goal.\n\nYou set a condition. Claude keeps working across turns until it's met. No babysitting. No prompting each step.\n\nA separate AI checks the work after every turn. Not Claude judging itself.\n\nSet it. Walk away. Come back to finished work.\n\nI made a https://t.co/Kzpew512pA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2054847074731278686",
+    "time": "2026-05-14 16:51",
+    "id_str": "2054847074731278686",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Full /goal documentation from Anthropic:\nhttps://t.co/6q3GvyNvua",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2054847086760472797",
+    "time": "2026-05-14 16:51",
+    "id_str": "2054847086760472797",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We are thrilled to lead Stitch’s Series A, and honored to make this our first investment in Saudi Arabia.\n\n@StitchHQ is building an operating system for modern financial institutions, starting in the Middle East. Its API-first platform enables banks, fintechs, and non-financial https://t.co/jR9uFkdWhr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2054811331635920931",
+    "time": "2026-05-14 14:29",
+    "id_str": "2054811331635920931",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "0.8.0-beta版本我们干了件事——把整个核心重写了🛠\n\n之前 Open Design 跟 Figma 一样，是个你得\"打开\"的 app。现在不用了。它是 headless 的，可以直接活在你已经在用的 agent 里——Claude Code、Codex、你自己的 IM 都行。\n\n还很糙，欢迎来 Discord 一起测试👇\nhttps://t.co/V0Ht0SQAm5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054843272925761548",
+    "time": "2026-05-14 16:36",
+    "id_str": "2054843272925761548",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Open Design的可爱桌宠们，情感陪伴该有还是要有的\n👉",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054851688347980194",
+    "time": "2026-05-14 17:09",
+    "id_str": "2054851688347980194",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @nexudotio: A long day.\n\nA quiet desktop.\n\nA small friend who waited.\n\nPick a companion to float over your workspace👉https://t.co/ts4ha8…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2054851721621356997",
+    "time": "2026-05-14 17:10",
+    "id_str": "2054851721621356997",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 问问大家：现在2B企业业务中，倒签和垫资很普遍吗？你们公司有这种情况吗？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2054813837568745740",
+    "time": "2026-05-14 14:39",
+    "id_str": "2054813837568745740",
+    "is_retweet": true
+  }
+]
