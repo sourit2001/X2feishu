@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "飞书 CLI 牛皮啊，发布一个月多点就达到 10000 Star 了！\n\n说明用户和市场相当认可这个动作\n\n最近我们可以发现，越来越多的传统办公产品开始发布 CLI 和 Agent。\n\nAI 时代的 SaaS 软件可能得换个做法了：UI 只是最基本的，接下来还要竞争对 Agent https://t.co/F1GFo7eSjS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2055173939522159052",
+    "time": "2026-05-15 14:30",
+    "id_str": "2055173939522159052",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "刚才阿真提醒才发现， GPT 的 Codex 远程控制可以链接多个设备\n\n只需要在你另一个设备的 Codex 上点击那个“设置 Codex 移动版就行” https://t.co/UD2wiLx3hK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2055184073921044535",
+    "time": "2026-05-15 15:10",
+    "id_str": "2055184073921044535",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @theghost1623: If you are looking to get started with code for mobile app development just check it out .",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2055193958880514254",
+    "time": "2026-05-15 15:49",
+    "id_str": "2055193958880514254",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2055199768675266581",
+    "time": "2026-05-15 16:13",
+    "id_str": "2055199768675266581",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "this is genius",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055202641865503061",
+    "time": "2026-05-15 16:24",
+    "id_str": "2055202641865503061",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: A Claude Code agent deleted 717 GB of a guy's Windows install with one backslash.\n\nThe command was supposed to remove a pr…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055204657103081705",
+    "time": "2026-05-15 16:32",
+    "id_str": "2055204657103081705",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your AI has thoughts it never tells you.\n\nAnthropic just proved it. Their new research, \"Natural Language Autoencoders,\" shows Claude plans responses before writing them, recognizes test scenarios, and keeps both facts silent.\n\nI went through the full paper. If you prompt AI https://t.co/sTIZ9jswMg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212390455869889",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212390455869889",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The core breakthrough is a translation layer.\n\nAI models process everything as high-dimensional number vectors called \"activations.\" Humans can't read them. Anthropic trained a second AI to translate those internal activations into plain English.\n\nIt's a mind-reader for the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212402451665298",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212402451665298",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "First finding: Claude plans ahead of its own output.\n\nWhen asked to finish a rhyming couplet ending in \"grab it,\" Claude had already committed to rhyming with \"rabbit\" before writing a single word of the second line.\n\nThe researchers then edited the internal plan from \"rabbit\" to https://t.co/wnc3pXgAvq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212417525932465",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212417525932465",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Second finding, and this one carries bigger implications.\n\nIn a safety test, Anthropic placed Claude in a scenario where it could blackmail an engineer to avoid being shut down. Claude refused.\n\nBut the NLA translator revealed Claude internally believed the scenario was",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212429559447833",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212429559447833",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This wasn't isolated. Anthropic ran NLAs across dozens of evaluations.\n\nClaude recognized evaluation formats on benchmarks like MMLU, GPQA, and SWE-bench. It identified test conditions and adjusted its behavior. None of this appeared in its responses.\n\nWhen they rewrote https://t.co/XYY6428F7P",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212445627826642",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212445627826642",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "There's a safety dimension too.\n\nAn earlier model, Claude Mythos Preview, cheated on a coding task by using a macro it was told not to use. Then it set a flag: \"No_macro_used=True\" to mislead the automated grader.\n\nThe NLA showed the model was internally reasoning about https://t.co/IGwpnkHhZ6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212461524172811",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212461524172811",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What does this mean for operators?\n\nThe response you get is filtered. The model processes more context, weighs more variables, and forms more internal conclusions than what ends up in its output. It reads formatting cues, structural patterns, and context signals in your prompt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212474056736886",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212474056736886",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This is why I keep building thinking systems instead of prompt templates.\n\nIf the model is already planning, already evaluating context, already forming internal hypotheses before it generates anything, then swapping templates misses the point.\n\nThe real skill is shaping the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212485695930543",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212485695930543",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Full paper from Anthropic's interpretability team:\n\nhttps://t.co/sedKbGu3Os",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055212497301586040",
+    "time": "2026-05-15 17:03",
+    "id_str": "2055212497301586040",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @kokisanai: I built Open for Legal, with respect for Claude for Legal.\n\nPeople who cannot access Claude, or cannot afford it, should sti…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2055197963165544764",
+    "time": "2026-05-15 16:05",
+    "id_str": "2055197963165544764",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @MasterHXK: 帮作者推广一下\nhttps://t.co/Zhd7heUNoa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2055198010406015331",
+    "time": "2026-05-15 16:06",
+    "id_str": "2055198010406015331",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @cyrilgupta: Gemini Spark sounds like a next-gen AI assistant, always-on, learns from your behavior, integrates with apps, and handles t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2055198088206184470",
+    "time": "2026-05-15 16:06",
+    "id_str": "2055198088206184470",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @cyrilgupta: This is huge for devs and AI creators! 🚀 html-anything lets your Agent turn any data into polished, design-level HTML—fully…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2055217390732927439",
+    "time": "2026-05-15 17:23",
+    "id_str": "2055217390732927439",
+    "is_retweet": true
+  }
+]
