@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "吐槽一下 Claude Code Desktop 的设计：\n\n1. 如果你上一个会话是用了 Plan mode，那么下一次会话默认就会是 Plan mode，这会导致新开会话忘记改掉的话，简单任务也要写个 plan\n\n2. 左侧 sidebar 完全不会根据 Projects 分组，一大坨放在一起，新建会话，需要二次点击才能设置正确的 Project\n\n3. 右侧的 https://t.co/NmfnoIpqJM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2055777343222808744",
+    "time": "2026-05-17 06:28",
+    "id_str": "2055777343222808744",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Make a calendar of things you love \n\nWorks best if your memory is on and you add a photo of you\n\nPrompt: “Knowing everythi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2055780031218258192",
+    "time": "2026-05-17 06:38",
+    "id_str": "2055780031218258192",
+    "is_retweet": true
+  }
+]
