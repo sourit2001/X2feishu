@@ -108,5 +108,55 @@
     "time": "2026-05-16 22:13",
     "id_str": "2055652787115938023",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @bennyjohnson: After the Reform Party HUMILIATED Labour in elections, Keir Starmer smeared the ‘Unite the Kingdom’ rally as “extremist”…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2055674506442613149",
+    "time": "2026-05-16 23:39",
+    "id_str": "2055674506442613149",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic is pushing HTML artifacts as the future of AI workflows.\n\nWhat they're not telling you: a markdown report costs ~800 tokens. The same content in styled HTML costs 2,500-4,000.\n\nThat's 3-5x more tokens burned on divs and CSS instead of reasoning and depth.\n\nMore tokens https://t.co/StGN91qJUa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055664651057418704",
+    "time": "2026-05-16 23:00",
+    "id_str": "2055664651057418704",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @__ni__nni__ku: このプロンプト、とてもかわいいの出てきた https://t.co/8YM1IGOsyI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2055676607235490089",
+    "time": "2026-05-16 23:47",
+    "id_str": "2055676607235490089",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Turn your selfie into a tiny storybook twin in the real world\n\nAny selfie works, but mirror selfies, I think, work best\n\nN…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2055676738416570635",
+    "time": "2026-05-16 23:48",
+    "id_str": "2055676738416570635",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Make a calendar of things you love \n\nWorks best if your memory is on and you add a photo of you\n\nPrompt: “Knowing everythi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2055676778312876308",
+    "time": "2026-05-16 23:48",
+    "id_str": "2055676778312876308",
+    "is_retweet": true
   }
 ]
