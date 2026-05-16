@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The talk about AI &amp; politics seems to be oddly missing a segment (a) assumes extremely capable AI is possible soon and (b) has a strong belief about how to use this technology to make human life better according to the political project they believe in. It is a moment of action.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2055648045610483897",
+    "time": "2026-05-16 21:54",
+    "id_str": "2055648045610483897",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The Industrial Revolution was full of movements that took the power of industrial machines seriously and argued how they should be used to shape the world: from Saint-Simonianism to many strains of 19th century socialism. I have seen less of that (so far) in discussions around AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2055651521623146680",
+    "time": "2026-05-16 22:08",
+    "id_str": "2055651521623146680",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "xAI just open-sourced the new X algorithm. I read the full codebase.\n\nGrok doesn't \"help\" the algorithm anymore. Grok IS the algorithm.\n\nEvery major component of your For You feed now runs on the same transformer that powers Grok the chatbot.\n\nHere's what changed and what it https://t.co/EbtpxeOKnx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645485306962046",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645485306962046",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The old system used a hand-tuned neural network with manual feature engineering. SimClusters. TwHIN embeddings. Dozens of hand-crafted signals.\n\nThat system is gone.\n\nThe new ranking model is called Phoenix. It's ported directly from Grok-1. The repo says it plainly:\n\n\"We have",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645497424257300",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645497424257300",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Here's what Grok now controls:\n\n→ Ranking: Phoenix transformer scores every candidate post\n→ Retrieval: Two-Tower model finds out-of-network content using the same Grok architecture\n→ Content understanding: A \"Grox\" pipeline classifies, embeds, and screens every post\n→ Topic",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645509101248878",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645509101248878",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The prediction model expanded from roughly 10 engagement types to 15.\n\nThe new additions are all negative signals:\n\n→ P(not_interested)\n→ P(block_author)\n→ P(mute_author)\n→ P(report)\n\nEach carries negative weight in the final score.\n\nA single block now mathematically pushes",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645520794886568",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645520794886568",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The core engagement weights survived the full rewrite unchanged:\n\n→ Reply that gets a reply: 75x\n→ Quote tweet: 25x\n→ Repost: 20x\n→ Reply: 13.5x\n→ Profile click: 12x\n→ Bookmark: 10-12x\n→ Like: 1x (baseline)\n\nThese multipliers are structural, not experimental. Reply depth",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645532627124516",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645532627124516",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Two things in the codebase worth watching closely.\n\nFirst: a classifier called \"banger_initial_screen.\" This appears to detect viral potential early. Posts flagged as high-potential likely get accelerated distribution. The system isn't just passively scoring anymore. It's",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645544345964607",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645544345964607",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What this means for content strategy:\n\n1. Negative signals matter more than ever. Block, mute, report, and \"not interested\" are now explicit prediction targets with negative weights.\n\n2. Grok evaluates tone. Constructive framing gets wider distribution. Combative framing gets",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645555997786473",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645555997786473",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The X algorithm is no longer a recommendation system with some AI features.\n\nIt's a Grok deployment that happens to recommend posts.\n\nThe question for creators isn't \"how does the algorithm work?\" anymore.\n\nIt's \"what does Grok think of my content?\"\n\nBuild content that a thinking",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2055645568253522276",
+    "time": "2026-05-16 21:44",
+    "id_str": "2055645568253522276",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "wow 非常棒的课程👏 支持 @yihui_indie \n\n期待更多人能够了解和使用  Open Design @nexudotio  ❤️ https://t.co/7fuhR3IQ5a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2055652787115938023",
+    "time": "2026-05-16 22:13",
+    "id_str": "2055652787115938023",
+    "is_retweet": false
+  }
+]
