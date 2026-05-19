@@ -1,1 +1,372 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @TukiFromKL: 🚨 holy shit.. a woman just pleaded guilty to running a voter fraud scheme on Skid Row for 20 years and nobody caught her un…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2056748064673517606",
+    "time": "2026-05-19 22:45",
+    "id_str": "2056748064673517606",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True https://t.co/OEpuW3n8JQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2056749520151593392",
+    "time": "2026-05-19 22:51",
+    "id_str": "2056749520151593392",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Build … everyday we shuffling",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2056750034599711035",
+    "time": "2026-05-19 22:53",
+    "id_str": "2056750034599711035",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ResisttheMS: Greg Gutfeld: \"You can thank [Elon] Musk for buying Twitter. Remember the old line - 'a lie can travel halfway around the…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2056750811082899874",
+    "time": "2026-05-19 22:56",
+    "id_str": "2056750811082899874",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Asking people whether they like \"AI\" is not going to be a useful poll question soon, if it ever was.\n\nThey will be incredibly grateful for their personal AI that guides them through medical or legal or management issues. They will be anxious or excited about AI at their work,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056750803793174658",
+    "time": "2026-05-19 22:56",
+    "id_str": "2056750803793174658",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RIP \"think step by step.\" ☠️\n\nNanjing University and Baidu just published a paper that proves longer AI reasoning actively flips correct answers to wrong ones, and the implications are brutal for every prompt engineer using chain-of-thought. https://t.co/6MuGbWoMlZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056710234098569695",
+    "time": "2026-05-19 20:15",
+    "id_str": "2056710234098569695",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Here's what it means for prompt engineering:\n\nThey tracked individual answers across 32 reasoning budgets from 500 to 16,000 tokens.\n\nAt ~7,000 tokens, something flips. The model starts abandoning correct answers MORE often than it finds new ones.\n\nThey call it \"negative flips.\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056710246484324814",
+    "time": "2026-05-19 20:15",
+    "id_str": "2056710246484324814",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "67.5% of these flips are genuine overthinking.\n\nThe model explicitly reconsiders a correct answer, says \"wait, let me double-check,\" and then replaces it with a wrong one.\n\nNot a glitch. Not hallucination. The model second-guesses itself into failure.\n\nThe tell? Phrases like",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056710258266104120",
+    "time": "2026-05-19 20:15",
+    "id_str": "2056710258266104120",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "It gets worse for simple questions.\n\nEasy problems hit the overthinking zone at 2,000 tokens. Hard problems don't hit it until 8,000.\n\nTranslation: the simpler the question, the faster the model starts hurting its own answer by thinking longer.\n\nOptimal reasoning length varies",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056710269938847777",
+    "time": "2026-05-19 20:15",
+    "id_str": "2056710269938847777",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The most useful finding for anyone using AI daily:\n\nWhen they capped reasoning at 60% of the model's natural length, it maintained 97% of peak accuracy.\n\nLonger natural outputs also correlated with lower accuracy. 71.9% accuracy under 4K tokens. 44.7% accuracy above 12K.\n\nThe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056710281708101673",
+    "time": "2026-05-19 20:15",
+    "id_str": "2056710281708101673",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The assumption that \"more thinking = better answers\" was never tested until now.\n\nThis paper tested it. The answer is no.\n\nFor operators: if your AI output feels overengineered, bloated, or keeps second-guessing itself, the model isn't being thorough. It's losing confidence.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056710293447954515",
+    "time": "2026-05-19 20:15",
+    "id_str": "2056710293447954515",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Read the paper here:\n\nhttps://t.co/WQk6DRgDXD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056710305355546806",
+    "time": "2026-05-19 20:15",
+    "id_str": "2056710305355546806",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "this is fire ngl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056715472104566887",
+    "time": "2026-05-19 20:35",
+    "id_str": "2056715472104566887",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Julius Brussee's caveman plugin hit 51,000+ GitHub stars in two weeks.\n\nIt cuts Claude's output tokens by 65%.\n\nI turned i…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056731727024750944",
+    "time": "2026-05-19 21:40",
+    "id_str": "2056731727024750944",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @oskarblock: We just raised $10.5M led by @a16z. \n\nPatents protect the world's most important innovations, but the analysis to actually…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2056722247356911906",
+    "time": "2026-05-19 21:02",
+    "id_str": "2056722247356911906",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @davidu: https://t.co/fBMcmDd8PH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2056727915044409607",
+    "time": "2026-05-19 21:25",
+    "id_str": "2056727915044409607",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/RgVesJBAD2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056711091129118741",
+    "time": "2026-05-19 20:18",
+    "id_str": "2056711091129118741",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "今天全国都在应急响应 ， \n有个开源前端软件被供应链攻击了，\n用了它的会被蠕虫感染，大家快排查和升级。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056712225210163341",
+    "time": "2026-05-19 20:23",
+    "id_str": "2056712225210163341",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Anthropic 收购 Stainless（SDK 管道控制权）\n\n事件：Anthropic 收购了 Stainless——OpenAI 和 Gemini 都依赖的 SDK 生成管道。Stainless 同时拥有最成熟的 MCP Server 工具栈。\n\n信号：Anthropic 同时掌控了 MCP 协议（开源标准）和最主流的协议实现工具链。虽然 MCP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056714805420187789",
+    "time": "2026-05-19 20:33",
+    "id_str": "2056714805420187789",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "OpenAI + Anthropic 网络安全军备竞赛（影响极大）\n\n事件：OpenAI 发布 Daybreak 网络安全计划，基于 GPT-5.5 + Agentic Codex 框架，分三层：标准 GPT-5.5、带 Trusted Access 的防御版、以及用于红队渗透测试的 GPT-5.5-Cyber。同日 Anthropic 发布",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056714842476785740",
+    "time": "2026-05-19 20:33",
+    "id_str": "2056714842476785740",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Meta 广告 MCP Server：广告主用 ChatGPT/Claude 管理 Meta 广告\n\n事件：Meta 推出了 Ads MCP Server，允许广告主通过外部 Agent（ChatGPT、Claude 等）自动管理 Meta 广告投放。但实践中广告主遇到了大量自动化挑战。\n\n信号：这是 MCP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056714906381197663",
+    "time": "2026-05-19 20:33",
+    "id_str": "2056714906381197663",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "AWS Strands：AI 自动生成 CLI 工具（Self-Extending Tools）\n\n事件：AWS 发布了一个原型 CLI Creator，能够运行时自动生成、加载和执行新的 CLI 命令。组合了 Amazon Bedrock 推理 + Strands Agents SDK + MCP 协议。\n\n信号：这是\"AI 自我扩展能力\"的工程实践——工具不再是静态的，Agent",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056714961867731320",
+    "time": "2026-05-19 20:33",
+    "id_str": "2056714961867731320",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "OpenAI DeployCo：40 亿美元成立 AI 部署公司\n\n事件：OpenAI 成立 Deployment Company (DeployCo)，获超 40 亿美元投资，配备 150 名\"Forward Deployed Engineers\"直接嵌入财富 500 强企业。\n\n信号：OpenAI 从\"卖 API\"转向\"卖部署服务\"，直接抢夺原本属于微软、埃森哲的企业级 AI 咨询市场。前微软 VP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056715010441908497",
+    "time": "2026-05-19 20:34",
+    "id_str": "2056715010441908497",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "OpenAI Symphony：开源多 Agent 编排框架\n\n事件：OpenAI 开源了 Symphony，一个用项目管理工具（如 Issue Tracker）作为控制面板来协调多个 Coding Agent 的编排器。\n\n信号：从\"人管理 Agent\"转向\"Agent 管理 Agent\"，用任务系统而非代码来编排多智能体协作。\n\n信息差：InfoQ 报道，国内 AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056715048345894920",
+    "time": "2026-05-19 20:34",
+    "id_str": "2056715048345894920",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "ChatGPT 连接 12,000 家银行，成为金融科技平台\n\n事件：ChatGPT 推出 Finance Dashboard，接入 12,000 家银行。即将与 Intuit 合作提供信用卡推荐、税务分析、预约税务专家等功能。\n\n信号：OpenAI 从通用 AI 助手转向垂直领域平台。4 月收购 Hiro 的意图现在清晰了——构建金融垂直生态。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056715078096003383",
+    "time": "2026-05-19 20:34",
+    "id_str": "2056715078096003383",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "ChatGPT 连接 12,000 家银行，成为金融科技平台\n\n事件：ChatGPT 推出 Finance Dashboard，接入 12,000 家银行。即将与 Intuit 合作提供信用卡推荐、税务分析、预约税务专家等功能。\n\n信号：OpenAI 从通用 AI 助手转向垂直领域平台。4 月收购 Hiro 的意图现在清晰了——构建金融垂直生态。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056715126406074478",
+    "time": "2026-05-19 20:34",
+    "id_str": "2056715126406074478",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/BBTbEOQqb5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056715852914032662",
+    "time": "2026-05-19 20:37",
+    "id_str": "2056715852914032662",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "1. OpenAI GPT-5.5 发布：1M 上下文 + 内置计算机操作（影响极大）\n\n  事件：OpenAI 发布 GPT-5.5，支持 100 万 token 上下文窗口，内置图像输入、结构化输出、函数调用、Prompt 缓存、Batch、工具搜索、内置 Computer Use、Hosted Shell、Apply Patch、Skills、MCP、Web Search。同时发布 GPT-5.5 Pro",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724182579167450",
+    "time": "2026-05-19 21:10",
+    "id_str": "2056724182579167450",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "2. DeepSeek V4 预览版发布：双模态 + 1M 上下文（影响大）\n\n  事件：DeepSeek 发布 V4 Preview，提供 deepseek-v4-pro 和 deepseek-v4-flash 两个模型，支持 1M 上下文和双模式（Thinking / Non-Thinking）。同时兼容 OpenAI ChatCompletions 和 Anthropic API。旧模型 deepseek-chat 和",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724420215890022",
+    "time": "2026-05-19 21:11",
+    "id_str": "2056724420215890022",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "3. xAI Grok Voice Agent API 正式发布（影响中高）\n\n  事件：xAI 发布 Grok Voice Agent API，开发者可以通过 API 构建语音交互 Agent。同时更新了基础模型 API。\n\n  信号：这是继 OpenAI Realtime API 之后，第二个提供原生语音 Agent 能力的主要 AI 平台。语音 Agent 正在成为 AI SaaS 的标配能力。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724484237713754",
+    "time": "2026-05-19 21:11",
+    "id_str": "2056724484237713754",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "4. Amazon Nova 模型 GA：SageMaker 全链路定制推理（影响中高）\n\n  事件：AWS 宣布 Amazon Nova 模型在 SageMaker Inference 上正式 GA。用户可以端到端地训练 Nova Micro、Nova Lite、Nova 2 Lite 的推理能力版本，并无缝部署到托管推理基础设施。\n\n  信号：AWS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724589481210098",
+    "time": "2026-05-19 21:12",
+    "id_str": "2056724589481210098",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "5. Lovable 达到 $100M ARR + 发布 Agent Mode（影响中高）\n\n  事件：AI 编程平台 Lovable 达到 1 亿美元 ARR，估值 18 亿美元（成立仅 8 个月），融资 2 亿美元。同时发布 Agent Mode (Beta)——让 Lovable 能够自主思考、规划和执行操作。还新增了 Custom MCP Server 支持、SCIM 配置、Plan Mode",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724657579905227",
+    "time": "2026-05-19 21:12",
+    "id_str": "2056724657579905227",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "6. Pinecone 2026 重大更新：Marketplace + 全文搜索（影响中）\n\n  事件：Pinecone 发布 2026 年 5 月更新：Public Preview 的 Pinecone Marketplace、Full-text Search 支持（混合向量+全文搜索）、新的 Builder 计划。\n\n  信号：向量数据库正在从\"纯向量检索\"进化到\"混合搜索\"（向量 +",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724705260810416",
+    "time": "2026-05-19 21:12",
+    "id_str": "2056724705260810416",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "7. Milvus 3.0-beta + Zilliz Cloud Serverless GA（影响中）\n\n  事件：Milvus 发布 3.0-beta（2026-05-09），集成开放湖仓生态。Zilliz Cloud Serverless 正式 GA，支持自动扩缩容，成本降低最高 50 倍。新增稀疏向量、多向量混合搜索、模糊匹配倒排索引。\n\n  信号：Milvus 3.0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724752878698978",
+    "time": "2026-05-19 21:12",
+    "id_str": "2056724752878698978",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "8. Cloudflare Workers：Durable Objects 免费版 + Agents SDK 更新（影响中）\n\n  事件：Cloudflare 宣布 Durable Objects 可在 Workers Free 计划中使用（零成本），同时更新了 Agents SDK，提供开箱即用的 AI Agent 构建模板。\n\n  信号：这意味着开发者可以零成本构建有状态的 AI Agent",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056724816636379228",
+    "time": "2026-05-19 21:13",
+    "id_str": "2056724816636379228",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/wphXuheCPJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056725288327762398",
+    "time": "2026-05-19 21:14",
+    "id_str": "2056725288327762398",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Turn yourself into a grotesque humorous fashion caricature sketch\n\nThis is the funniest prompt! I’d love to see what you g…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056737610383638725",
+    "time": "2026-05-19 22:03",
+    "id_str": "2056737610383638725",
+    "is_retweet": true
+  }
+]
