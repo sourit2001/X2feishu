@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Antigravity 2.0 和 Codex 长一个样😂\nGoogle 舍得拉下脸抄一下 UI/UX 也不是坏事，这样不会像 Gemini UI 那样难用了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2056862526239908047",
+    "time": "2026-05-20 06:20",
+    "id_str": "2056862526239908047",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The Odyssey and the Iliad get so many movie treatments but the sequel, the Roman Aeneid, is entirely ignored.\n\nHere is a teaser trailer from one prompt to Gemini Omni. The first pass made all the flags Danish(?) but Omni is capable of editing video, so I asked for their removal. https://t.co/TQ7uMHzunW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056855332127711387",
+    "time": "2026-05-20 05:51",
+    "id_str": "2056855332127711387",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Google appears to have removed all thinking traces on the Gemini site. That includes even the minimal summaries they had before\n\nThis effectively makes the Gemini site unusable for any serious purpose. You can't figure out what it did or tell what is real &amp; what is hallucination",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056871685052047627",
+    "time": "2026-05-20 06:56",
+    "id_str": "2056871685052047627",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Why do people hate AI. \n\nHere's a report by codex after analyzing 20,000 comments on anti-ai youtube videos\n\nhttps://t.co/uCb2ZlvtwO https://t.co/3SYEZJ3Ci5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2056856246318465091",
+    "time": "2026-05-20 05:55",
+    "id_str": "2056856246318465091",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I got to \"play\" a world model in real life.\n\nThe @GoogleDeepMind folks set up a crazy demo for Genie.\n\nYou select glowing orbs to represent your scene and character. It loads the world in the model, and you navigate with joysticks like a video game 🕹️ https://t.co/j347XMTt0M",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2056864452096754150",
+    "time": "2026-05-20 06:27",
+    "id_str": "2056864452096754150",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Gemini flash 3.5 昨晚发布，现已可用。\n- 模型效果大幅超越 3.1 Pro，指标和 gpt 5.5 接近，比 gpt5.5 好的是 Agentic 和 多模态。\n- 价格只要 gpt5.5 的三分之一，缓存价格只要六分之一。\n- API 定价 $1.50 / $9.00 per 1M token(输入/输出)，缓存 输入 $0.15。上下文窗口 1M token。\n- https://t.co/0q17f8pu1i",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2056860218387321054",
+    "time": "2026-05-20 06:11",
+    "id_str": "2056860218387321054",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "看 Google IO 的的感受是这样的：\n前半段，Google 太强了，真的什么都做了，从模型到应用，牛逼\n后半段，Google 太乱了，怎么什么都做三遍，功能都一样，累了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2056871307401449911",
+    "time": "2026-05-20 06:55",
+    "id_str": "2056871307401449911",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: You choose a character and an environment and Project Genie generates the world you can move inside and it’s generated in…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056852083308134586",
+    "time": "2026-05-20 05:38",
+    "id_str": "2056852083308134586",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What matters most is what you do with all this technology",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056852409142681841",
+    "time": "2026-05-20 05:40",
+    "id_str": "2056852409142681841",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "#google",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056853008106000833",
+    "time": "2026-05-20 05:42",
+    "id_str": "2056853008106000833",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Grok needs a conference too",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056853875181957263",
+    "time": "2026-05-20 05:45",
+    "id_str": "2056853875181957263",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A lot of AI creators share they struggle with impressions. Mine has been pretty good, because I observed one thing. \n\nYou need to let your personal brand rest. \n\nWhat I need by that: we all support and tag a lot of AI tools, for a bit try to post only contributing posts, no",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056855587326198173",
+    "time": "2026-05-20 05:52",
+    "id_str": "2056855587326198173",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @alliekmiller: Front row for the Sundar session at Google IO 👀 \n\nI spy with my Google eye (oh) some fellow creators: @minchoi @siliconva…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2056862919380648419",
+    "time": "2026-05-20 06:21",
+    "id_str": "2056862919380648419",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Super cool to see my buddy @MatthewBerman on stage with @sundarpichai at Google I/O. What a journey he’s been on lately! So amazing to see. https://t.co/VaGlCMZBfe",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2056865854588096644",
+    "time": "2026-05-20 06:33",
+    "id_str": "2056865854588096644",
+    "is_retweet": false
+  }
+]
