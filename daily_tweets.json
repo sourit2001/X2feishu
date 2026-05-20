@@ -1,1 +1,452 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @xai: Starting today, use your Grok or X Premium subscription in @openclaw. \n\nChat with your agent, generate images and videos, or searc…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2056947288631828577",
+    "time": "2026-05-20 11:57",
+    "id_str": "2056947288631828577",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Release notes for Grok Build will be published daily",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2056947567548862739",
+    "time": "2026-05-20 11:58",
+    "id_str": "2056947567548862739",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "i am excited to see what will happen with tokenmaxxing startups, both for how they work internally and the products they can build.\n\nopenai offered to invest $2M in tokens into every startup in the current yc batch.\n\nhappy building!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2056933166875857290",
+    "time": "2026-05-20 11:00",
+    "id_str": "2056933166875857290",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "昨天谷歌 I/O 大会在编程上的动作，主要是把 Antigravit 的整个生态整合了。\n\nGemini 的 CLI 现在也叫 Antigravit CLI，还发布了对应的 SDK。\n\nAntigravit 这个软件本身也迭代到了 2.0 版本，现在更像 Codex，而不像原来的 Cursor。\n\n我大概试了一下。\n\n用我的 PPT Skills 和一个文档测试了 Gemini 3.5 https://t.co/amvMZ4BQbz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2056904254175281353",
+    "time": "2026-05-20 09:06",
+    "id_str": "2056904254175281353",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "AI Studio 昨晚更新主要有两个：\n\n1. 支持从 Google Docs 和 Google Sheets 里面拉数据。你可以把谷歌表格直接作为开发应用的数据库。\n\n2. 支持在网页里开发安卓应用程序。\n\n我试了一下，这个 3.1 Pro 的安卓开发水平确实不如前端。\n\n但更吊的是，它在 Studio 里塞了一个安卓模拟器，我去，太离谱了！ https://t.co/zSKoBgVmoH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2056913908489937395",
+    "time": "2026-05-20 09:44",
+    "id_str": "2056913908489937395",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "AI Studio 的安卓客户端还是没有上线",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2056914890481357138",
+    "time": "2026-05-20 09:48",
+    "id_str": "2056914890481357138",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谷歌 Genie 3 这个新功能很有意思\n\n可以选择美国谷歌街景的任何一个地点作为首帧图片，然后生成 Google Genie 3 可互动的世界。\n\n比如非常知名的黄石公园啊，城市之类的地方，然后你就可以进去游览了，代入感很强\n\n而且你可以对这个街景的内容做风格化，比如：变成海底世界、末日后的世界之类的 https://t.co/cTOXZNkyjj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2056931266038239274",
+    "time": "2026-05-20 10:53",
+    "id_str": "2056931266038239274",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Codex 不语，只是一味重置额度 https://t.co/1rgYIFbT3X",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2056943517658911013",
+    "time": "2026-05-20 11:42",
+    "id_str": "2056943517658911013",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "虽然没能去到谷歌 I/O 大会的现场，但是收到了谷歌这次大会的伴手礼，感谢谷歌和微博 \n\n谷歌还是工程师文化重啊，送的这个伴手礼里边的小东西每个都很实用，数据线、支架之类的，感觉都能用上 https://t.co/5c90wsmu7Q",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2056958833474646253",
+    "time": "2026-05-20 12:42",
+    "id_str": "2056958833474646253",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Ugh. I meant July 2024. Sorry.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056890224588812793",
+    "time": "2026-05-20 08:10",
+    "id_str": "2056890224588812793",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Got to play with a little of this before launch as well. My experience as a social scientist was that it was more bioscience focused right now, but I think Google has been the leading lab in releasing serious AI tools to accelerate science &amp; expect to see them improve fast.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056893178855199111",
+    "time": "2026-05-20 08:22",
+    "id_str": "2056893178855199111",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Except the humans know that the Minds are smarter &amp; they are content to leave all the big decisions (Contact, Special Circumstances, etc) to the AIs so they can do whatever they want personally aside from run the world (which they would be bad at, so there really isn’t an option)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056924547304075626",
+    "time": "2026-05-20 10:26",
+    "id_str": "2056924547304075626",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "For those seeking GSV I Need More Context https://t.co/j11nOWl2Fx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056925676511383623",
+    "time": "2026-05-20 10:31",
+    "id_str": "2056925676511383623",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It’s pretty funny that I can’t tell whether the intelligent comments are from people who actually read the book or whether they are bots that know a lot about The Culture. AIs, even small models, love The Culture.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056928270671647176",
+    "time": "2026-05-20 10:41",
+    "id_str": "2056928270671647176",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This tweet got more views than Google iO ($75M event)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2056905038484893778",
+    "time": "2026-05-20 09:09",
+    "id_str": "2056905038484893778",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @theonenicka: I’ve been using a personal (AI) agent for a few weeks. Not OpenClaw - thought about it, tried, but didn’t enjoy the experi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2056914057509380287",
+    "time": "2026-05-20 09:45",
+    "id_str": "2056914057509380287",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "文字详细解说版，嘿嘿\n\nhttps://t.co/5RKNANL5pE https://t.co/DNj1GHwuEk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2056894141746053251",
+    "time": "2026-05-20 08:25",
+    "id_str": "2056894141746053251",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "理解一个东西，就是找到它的最短描述。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2056947271695233224",
+    "time": "2026-05-20 11:57",
+    "id_str": "2056947271695233224",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "6. AI 行业整体\"反向试用\"（Reverse Trial）趋势\n  - RevenueCat 2026 报告：AI 应用正在缩短免费试用期、减少免费额度\n  - \"Reverse Trial\"策略（先给完整体验再降级）成为主流\n  - 这对所有做 AI SaaS 的创业者都有定价参考价值",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056938941400694796",
+    "time": "2026-05-20 11:23",
+    "id_str": "2056938941400694796",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "9. AI Agent 平台格局：开源阵营全面成熟\n  - Dify、n8n、Flowise、LangChain/LangGraph 组成免费开源第一梯队\n  - Botpress、CrewAI、AutoGen 提供不同层次的免费入口\n  - 国内对 Dify 的报道较多，但对 n8n（柏林团队、欧盟数据合规优势）关注不足",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056939027111301196",
+    "time": "2026-05-20 11:24",
+    "id_str": "2056939027111301196",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "一、今日最大单笔融资（国内几乎未报道）\n\n  1. Armada — $2.3亿 Series B，AI 基础设施\n  - 投资方：BlackRock、Overmatch、8090 Industries 联合领投，Johnson Controls、Founders Fund、Lux Capital 等跟投\n  - 累计融资近 $5亿\n  - 定位：西方 AI 技术栈的底层基础设施层，与 Johnson Controls",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056939952563495166",
+    "time": "2026-05-20 11:27",
+    "id_str": "2056939952563495166",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "二、薪资信号（直接影响人才流动方向）\n\n  4. OpenAI/Anthropic 薪资天花板：MTS 最高 $530,000\n  - Member of Technical Staff: $210,000 - $530,000\n  - MTS Research Scientist: $245,000 - $440,000\n  - MTS Hardware Engineer: $360,000\n  - 即使是非技术岗（Communications Staff）也有 $216,000",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056940921942646908",
+    "time": "2026-05-20 11:31",
+    "id_str": "2056940921942646908",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "老外也是两极分化严重 ...\n工资高的人，工资很高 ...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056941481982832725",
+    "time": "2026-05-20 11:34",
+    "id_str": "2056941481982832725",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "信息差：BAT 三巨头正在机器人赛道同时重仓——字节投自变量、阿里投逐际动力、百度投智平方。国内报道了单笔融资，但没有系统性地指出\"BAT 机器人军备竞赛\"这个格局。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056945960253899132",
+    "time": "2026-05-20 11:51",
+    "id_str": "2056945960253899132",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "二、它石智航 — $1.2 亿天使轮（国内天使轮纪录级别）\n\n  - Pre-A 轮：高瓴、红杉、美团龙珠、中金、启明五大机构联合\n  - 天使轮：$1.2 亿美元\n  - 具身智能 + 人形机器人方向\n  -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056946009771745403",
+    "time": "2026-05-20 11:51",
+    "id_str": "2056946009771745403",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "信息差：\n  - 星环聚能做商业聚变能，A 轮就吸引了 50+ 家机构——这在中国硬科技融资中极为罕见，暗示聚变技术可能比市场预期更快进入商业化阶段\n  - 曦望做推理 GPU——在全球 AI 算力竞争背景下，中国推理 GPU 赛道正在悄然成形\n  - 国内对这三个赛道的讨论远不如机器人热，但融资密度同样很高",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056946068391362805",
+    "time": "2026-05-20 11:52",
+    "id_str": "2056946068391362805",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "四、万卷智能 \"Colleague+\" — 中国版 \"AI Coworker\"\n\n  - 核心产品：Colleague+（智能同事），由 Engineer Agents 驱动的企业级工作平台\n  - 天使轮，见识资本投资\n  - 信息差：前面分析的国际融资中，Viktor 拿了 $7500万做 \"AI Coworkers\"。万卷智能是中国同类产品，但国内对 \"AI 同事\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056946139895853177",
+    "time": "2026-05-20 11:52",
+    "id_str": "2056946139895853177",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "五、Paraform — 精英招聘平台，投资人阵容逆天\n\n  - A 轮投资人：Felicis、BOND、DST Global + Canva 联合创始人 + Instacart 联合创始人 + YouTube 联合创始人 + xAI 联合创始人 + Shyam Sankar（Palantir CTO）\n  - 信息差：xAI 联合创始人和 Palantir CTO 同时投资一个招聘平台——这暗示 AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056946210477637788",
+    "time": "2026-05-20 11:52",
+    "id_str": "2056946210477637788",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "六、腾讯投资阶跃 — AI 赛道布局信号\n\n  - 腾讯 2026年5月投资阶跃（AI 领域硬科技企业）\n  - 具体方向未披露\n  - 信息差：腾讯在 AI 领域的投资节奏一直较慢，这笔投资可能标志着腾讯 AI 战略的加速",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056946261715218799",
+    "time": "2026-05-20 11:52",
+    "id_str": "2056946261715218799",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "七、蚂蚁集团 + 百度风投联合投资 https://t.co/EypHCNz9Lv — 多智能体系统\n\n  - 蚂蚁集团、凯辉基金、BV 百度风投联合投资\n  - 方向：多智能体系统，服务视频内容创作者商业化\n  - 信息差：蚂蚁和百度同时投资多智能体系统——\"AI Agent",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056946303456948550",
+    "time": "2026-05-20 11:53",
+    "id_str": "2056946303456948550",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "三、开源 Agent 生态爆发\n\n  6. CowAgent（原 chatgpt-on-wechat）— 开源超级 AI 助理\n  - 支持接入微信、飞书、钉钉、企微、QQ、网页\n  - 支持 GPT-5.4、Claude Opus 4.6、Gemini 3.1、Kimi K2.6、MiniMax M2.7\n  - 有 Skills 系统、长期记忆、知识库\n  - 信息差：这是中国最活跃的开源 Agent",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056947420802765268",
+    "time": "2026-05-20 11:57",
+    "id_str": "2056947420802765268",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "最近这个开源工具挺火的。\n\n看起来像是 钉钉悟空 、 字节 aily的开源版本。\n\n你可以基于它来实现自己的agent 并且接入到上述的 即时通讯平台之中。\n\n有的哥们基于这个改吧改吧，就能给投资人演示，拿到了不小规模的估值 。 \n\n让投资人记忆深刻的 slogan 可以是 ‘将想法变成可销售的产品最简洁的路径’。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056949472190447680",
+    "time": "2026-05-20 12:05",
+    "id_str": "2056949472190447680",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "1. Basis：AI会计自动化获$1亿B轮，估值$11.5亿 — Agentic AI进入专业服务深水区\n\n  事件：Basis（https://t.co/MPBNvUlsij）完成$1亿B轮融资，估值$11.5亿。这是2026年2月当周最大的非基础设施类GenAI融资之一。\n\n  信息差要点：\n  - 核心逻辑：会计行业面临严重人手短缺+合规要求上升，AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056950074056355962",
+    "time": "2026-05-20 12:08",
+    "id_str": "2056950074056355962",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "2. ChipAgents：$2100万A轮 — AI Agent进入芯片设计核心流程\n\n  事件：ChipAgents获$2100万A轮，Bessemer Venture Partners领投，Micron、MediaTek、Ericsson等半导体巨头战略投资。\n\n  信息差要点：\n  - 赛道定义：AI Agent用于RTL设计、调试和验证——这是芯片设计最耗时、最依赖经验的环节\n  -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056950118419447870",
+    "time": "2026-05-20 12:08",
+    "id_str": "2056950118419447870",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "3. KeychainOS：首个CPG制造业AI操作系统 — 垂直SaaS向Agent OS进化\n\n  事件：Keychain获$3000万B轮（Wellington Management领投），推出KeychainOS——专为CPG（快消品）制造打造的AI操作系统。\n\n  信息差要点：\n  -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056950164665815081",
+    "time": "2026-05-20 12:08",
+    "id_str": "2056950164665815081",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "4. Anything：2周ARR $200万 — \"Vibe-coding\"平台爆发式增长\n\n  事件：Anything（前Google工程师创办）获$1100万A轮，估值$1亿。2025年4月重启后，2周内达到$200万年化收入。\n\n  信息差要点：\n  - 核心能力：用英语自然语言直接生成完整Web应用（含后端、支付系统），零代码门槛\n  -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056950217543491597",
+    "time": "2026-05-20 12:08",
+    "id_str": "2056950217543491597",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "5. 英国Q1 2026数据：AI初创占VC总额74%，总额$58亿 — 欧洲AI投资井喷\n\n  事件：HSBC Innovation Banking + Dealroom数据：英国Q1 2026创新企业融资$78亿，同比增长60%，其中AI初创$58亿（占74%）。\n\n  信息差要点：\n  - 集中度惊人：AI占英国VC的近3/4，说明资金极度向AI集中\n  -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056950272358863219",
+    "time": "2026-05-20 12:08",
+    "id_str": "2056950272358863219",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "6. Fyxer AI：€2550万B轮 — AI Agent从\"工具\"到\"同事\"的范式转变\n\n  事件：英国Fyxer AI获€2550万B轮（Madrona领投），3个月内团队翻倍，主攻美国市场。\n\n  信息差要点：\n  - 范式定义：投资人原话——\"从帮助我们工作的工具，到与我们一起工作的Agent\"（from tools that help us work to agents that",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2056950329061548161",
+    "time": "2026-05-20 12:09",
+    "id_str": "2056950329061548161",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "After days like today I just want to make more AI stuff for good and be there for the community. Heart is so full",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056890518534258882",
+    "time": "2026-05-20 08:11",
+    "id_str": "2056890518534258882",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "what did Ilya see",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056893385001369771",
+    "time": "2026-05-20 08:22",
+    "id_str": "2056893385001369771",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So many people came to me and said that my repost or shout out meant a lot for their career. If you are a bigger account, support others. You can’t imagine how much it means to someone. \n\n Thank you so much to everyone who supported my AI work. I have a dream life thanks to you",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056895171367997810",
+    "time": "2026-05-20 08:29",
+    "id_str": "2056895171367997810",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Heart is very full after day 1 of Google I/O \n\nDeep thinking about all the positive impact we can have with the help of AI. \nAI for science, medicine, health and transport inspired me the most today. \n\n#Google https://t.co/Bj1ZwGohse",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056897498695045581",
+    "time": "2026-05-20 08:39",
+    "id_str": "2056897498695045581",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Excited to share with you Adobe where I work full time partners with Google DeepMind 🎉 \n\nAdobe for creativity is coming to Google Gemini. Soon, hundreds of millions of users will be able to simply describe what they want to create, and Adobe's pro-grade tools across imaging, https://t.co/TrY4hpe9hI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056902571877617687",
+    "time": "2026-05-20 08:59",
+    "id_str": "2056902571877617687",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Turn yourself into a Tiny Clone Crew\n\nWould love to see your squad! \n\nPrompt👇\n\n#Google https://t.co/uOtgTkq3NR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056935021626405174",
+    "time": "2026-05-20 11:08",
+    "id_str": "2056935021626405174",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt: Create a stylish dreamy “mini cartoon clone” edit from my uploaded photo.Keep the real me in the center in full body with same face, hairstyle, outfit, and shoes as the uploaded image.Around her, create 5 cute chibi/cartoon versions of her in different poses and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2056935024340111521",
+    "time": "2026-05-20 11:08",
+    "id_str": "2056935024340111521",
+    "is_retweet": false
+  }
+]
