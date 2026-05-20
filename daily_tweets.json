@@ -138,5 +138,195 @@
     "time": "2026-05-20 06:33",
     "id_str": "2056865854588096644",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Google has hidden thinking traces on the Gemini site. You have to use the 3 dot menu to pull up summaries, which are so minimal as to be unusable. \n\nDid it do web searches? Did it check results? You can't tell. This makes Gemini unsuitable for any serious work you need correct. https://t.co/Qy84JiN0sW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056873271572738259",
+    "time": "2026-05-20 07:02",
+    "id_str": "2056873271572738259",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "(I originally wrote that Gemini removed thinking traces. People in the comments pointed out that they are accessible from a menu, so I did a new tweet. But I cannot believe how useless the thinking traces are. It makes Gemini outputs completely unauditable and thus untrustworthy)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056873685777002673",
+    "time": "2026-05-20 07:04",
+    "id_str": "2056873685777002673",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I find this continually frustrating. Gemini 3.5 Flash is excellent, as is Gemini 3.1 Pro. But you absolutely cannot use them for any serious purpose right now, especially for any enterprise work. Compare to Claude or ChatGPT: you can understand what the model did &amp; how to correct https://t.co/isIjokLmGW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056874846663909702",
+    "time": "2026-05-20 07:09",
+    "id_str": "2056874846663909702",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The crazy thing is that Antigravity does this quite well! So it isn't like Google is hiding these thinking traces because of distillation or because they are full of insane mutterings.\n\nI guess you need to either do the work in Antigravity or not at all? https://t.co/QE1uwIvjpO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056876252951171102",
+    "time": "2026-05-20 07:14",
+    "id_str": "2056876252951171102",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Fascinatingly Antigravity is actually the best tool so far at providing this sort of transparency, doing something by default that Codex and Code do not: offering a summary of exactly what it did at the end of a task.\n\nJust add this to Gemini! (But also cite sources more) https://t.co/aVo4XgKhUi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056878959208345831",
+    "time": "2026-05-20 07:25",
+    "id_str": "2056878959208345831",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The gap between what you can do on ChatGPT/Codex and Claude/Code/Cowork is closing, as Anthropic &amp; OpenAI converge on a single experience.\n\nGoogle's experiences are diverging: Studio &amp; Gemini &amp; Antigravity &amp; the other Google AI apps are increasingly different.\n\nWhich will win?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056879946316886119",
+    "time": "2026-05-20 07:29",
+    "id_str": "2056879946316886119",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And the Great Powers have become aware of this thread. https://t.co/sQwQNAE5MD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056881816372449651",
+    "time": "2026-05-20 07:36",
+    "id_str": "2056881816372449651",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "For those saying \"the tomato sauce blood from the sword wound that flying Shakespeare inflicted on the pizza robot while the otters discussed Spirit Airlines wasn't thick enough\" or whatever...\n\nthis was state of the art in July 2025 (2 years) for \"an otter using wifi on a plane\" https://t.co/ky1f6nYHvV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2056884715366310053",
+    "time": "2026-05-20 07:48",
+    "id_str": "2056884715366310053",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: Codex and Claude Code are now being used for marketing and content creation. \n\nHere are 7 Skills / Plugins I use daily for…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2056872764573946201",
+    "time": "2026-05-20 07:00",
+    "id_str": "2056872764573946201",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Opus 4.7 is ignoring project instructions, skipping MCP servers, and burning through usage limits on tasks Opus 4.6 handle…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056874334879146475",
+    "time": "2026-05-20 07:07",
+    "id_str": "2056874334879146475",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://t.co/qCQiSOmJ7N",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056874932848427031",
+    "time": "2026-05-20 07:09",
+    "id_str": "2056874932848427031",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "So.. everybody’s joining Anthropic now? https://t.co/OsVih3Fck5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2056875483426324781",
+    "time": "2026-05-20 07:11",
+    "id_str": "2056875483426324781",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "同事说现在 Codex 给的太多太多了，实在用不完\n于是在 Cola 里加了个 Codex 登录功能\n这样用户就可以直接用 Codex 套餐驱动 Cola 了\n双厨狂喜\n此外，Cola 现在也支持用户填写自己的 key 了\n目前支持了 GPT 和 Claude https://t.co/F6wBgxgMLi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2056878350728351918",
+    "time": "2026-05-20 07:23",
+    "id_str": "2056878350728351918",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "看看 Gemini Omni的实力\n\n一句话就是：视频版的香蕉🍌\n\n当然远不至于视频的编辑能力，它应该是世界模型的雏形...\n\n通用AGI的初始形态... https://t.co/PJADzozspk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2056880322076352844",
+    "time": "2026-05-20 07:30",
+    "id_str": "2056880322076352844",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Omni 接通了 Gemini 的世界知识库\n\n它可以做\"蛋白质折叠\"的黏土动画教程视频，或者\"26 个字母对应 26 个奇怪物品\"的节奏感的讲解视频 https://t.co/avYkYBqWtF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2056880323607298286",
+    "time": "2026-05-20 07:30",
+    "id_str": "2056880323607298286",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "通过任意输入组合创作视频 https://t.co/gqRYZAs2Gg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2056880325444427791",
+    "time": "2026-05-20 07:30",
+    "id_str": "2056880325444427791",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "能模拟真实的物理世界规律 https://t.co/6Y8jLHql60",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2056880846397911243",
+    "time": "2026-05-20 07:33",
+    "id_str": "2056880846397911243",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google I/O 2026 开发者大会\n\n完整中英文双语视频\n\nGoogle I/O 2026：Gemini 3.5 Flash、Spark、Omni 三剑齐发\n\nGemini 3.5 Flash升级为：行动大脑\n\nGemini Spark：远端个人 AIAgent 入口\n\nGemini Omni：多模态世界模型雏形 https://t.co/5c03ViwgFB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2056886402785411247",
+    "time": "2026-05-20 07:55",
+    "id_str": "2056886402785411247",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 智能眼镜 展示\n\n让你\"不用掏手机\"就能完成日常的事情\n\n让 Gemini 帮你 点咖啡，手机放兜里，眼镜只在最后一步确认时提示即可 https://t.co/RuF3Qx5BFT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2056889452929446208",
+    "time": "2026-05-20 08:07",
+    "id_str": "2056889452929446208",
+    "is_retweet": false
   }
 ]
