@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "a general-purpose model solved a major open problem in mathematics.\n\nwe'll be saying this a lot over the coming years, but this is a kinda big milestone.\n\ni'm very excited for AI to greatly extend our understanding of the world, but still, i have complicated feelings today.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2057203171198636251",
+    "time": "2026-05-21 04:53",
+    "id_str": "2057203171198636251",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @polynoamial: Today, we’re sharing that a general-purpose internal @openai model achieved a breakthrough on one of the best-known combin…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2057203288131694884",
+    "time": "2026-05-21 04:54",
+    "id_str": "2057203288131694884",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @SebastienBubeck: https://t.co/eHlpgdNDmw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2057203380028916099",
+    "time": "2026-05-21 04:54",
+    "id_str": "2057203380028916099",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @SherylHsu02: It’s a really special time to be alive…some thoughts from training this model 🧵",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2057204170407727590",
+    "time": "2026-05-21 04:57",
+    "id_str": "2057204170407727590",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "three of the things we are most excited about:\n\n1. AGI accelerating research\n2. AGI accelerating companies\n3. personal AGI accelerating everyone in achieving their goals\n\ntoday it was great to announce the unit distance result.\n\nyesterday it was great to announce that we are",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2057218997503086888",
+    "time": "2026-05-21 05:56",
+    "id_str": "2057218997503086888",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "补充下：我之所以认为会有内存问题，是因为两个交互设计对用户心里预期的不同导致的实现方式可能会有不同。https://t.co/48wyRuW4k4\n\n假设一个场景，用户打开一个很长的对话，这个对话已经完整加载，并且在浏览中间部分",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2057193368224923853",
+    "time": "2026-05-21 04:14",
+    "id_str": "2057193368224923853",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @eraera: @dotey 这才是今天迷茫的年轻人需要的，而不是什么：“你们要拥抱AI” 这样的说教。 https://t.co/MSvQDSfj4e",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2057215630915338748",
+    "time": "2026-05-21 05:43",
+    "id_str": "2057215630915338748",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "More on the solution: https://t.co/LkEMH9Q5MO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2057191957449822612",
+    "time": "2026-05-21 04:09",
+    "id_str": "2057191957449822612",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The frontier is still jagged though (here is Gemini 3.5 Flash messing up counting letters in words) https://t.co/8FiacTlpPQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2057194651409396001",
+    "time": "2026-05-21 04:20",
+    "id_str": "2057194651409396001",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Did we ever learn what model won gold at the IMO from OpenAI? It was a year ago and it was called an unreleased internal general purpose model back then. Has GPT-5.5 Pro Extended caught up with whatever it was?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2057196459259301933",
+    "time": "2026-05-21 04:27",
+    "id_str": "2057196459259301933",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Its The Graph again (not the METR graph, the one from the o1 launch).\n\nAlthough no logarithmic decay of ability with increasing compute...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2057197215093764490",
+    "time": "2026-05-21 04:30",
+    "id_str": "2057197215093764490",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "As much as I love the codex remote.\n\n99% of the general agent tasks I do, do not need a physical computer. \n\nSandboxes are the future for agentic tasks for knowledge work.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2057195702535778652",
+    "time": "2026-05-21 04:24",
+    "id_str": "2057195702535778652",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "The future of *agents* personal computers is in the cloud.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2057211321054367833",
+    "time": "2026-05-21 05:26",
+    "id_str": "2057211321054367833",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Cursor 的 Composer 2.5 大家用的体感如何？\n在他们内部的指标上，性价比是爆棚的。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2057207731162091807",
+    "time": "2026-05-21 05:11",
+    "id_str": "2057207731162091807",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "昨天遇到了一件让我很难忘的事。\n\n昨天下午参加量子位线下的圆桌讨论，结束后一位阿姨过来找我交流。\n阿姨有些激动，她说她今年70岁了，是我们的忠实用户。\n这让我很是意外，就问她在做什么。\n\n阿姨说她在一个儿童公益组织里工作，最近用 ColaOS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2057213771337347174",
+    "time": "2026-05-21 05:35",
+    "id_str": "2057213771337347174",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Absolutely surreal to see my art at Times Square in New York https://t.co/JuxjZEgLgq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2057207848808189974",
+    "time": "2026-05-21 05:12",
+    "id_str": "2057207848808189974",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What is one person who is into AI you wish you could take a selfie with?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2057208723010134246",
+    "time": "2026-05-21 05:15",
+    "id_str": "2057208723010134246",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Today I met the original Nano Banana 🍌\nThis is Naina who works at  DeepMind who named NanoBanana model \n\nShe shared that she was submitting the model to LMArena and it was late at night and she came up with a code name NanoBanana because friends called her NanaBanana and Nano https://t.co/bKknEmkFWm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2057218486666137847",
+    "time": "2026-05-21 05:54",
+    "id_str": "2057218486666137847",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @CodeByPoonam: X community at #google\n\n@icreatelife \n@jerrod_lew \n@jacalulu \n@mreflow \n\nThank you @GoogleIndia and @GeminiApp for this 🩵…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2057215956456501344",
+    "time": "2026-05-21 05:44",
+    "id_str": "2057215956456501344",
+    "is_retweet": true
+  }
+]
