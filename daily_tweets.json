@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "都在推特上，你拿我图还给我打个码，没必要吧？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2058163649525727718",
+    "time": "2026-05-23 20:30",
+    "id_str": "2058163649525727718",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This works because you're adding a layer of oversight between you and the output.\n\nWhen you ask Codex to do something directly, it executes. When you ask Codex to ask Codex, the first agent becomes your project manager. It plans, delegates, and reviews the work before you ever",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2058159773460365446",
+    "time": "2026-05-23 20:15",
+    "id_str": "2058159773460365446",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Most “multimodal AI” is duct tape.\n\nImage model here.\nText model there.\nReasoning bolted on after.\nAdapters everywhere.\n\nS…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2058171097884029197",
+    "time": "2026-05-23 21:00",
+    "id_str": "2058171097884029197",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @jiangding01: 眼看着open-design越来越强大越来越受欢迎，我也感到非常欣慰。作为一个开源社区的菜鸟，经过几次的折腾，我也算是为open-design项目贡献了一点点力量。我继续加油，希望后边还能帮上忙，添砖加瓦就行。\n\n#opendesign #Op…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2058148303007604888",
+    "time": "2026-05-23 19:29",
+    "id_str": "2058148303007604888",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "约束是一把刀，它把逻辑上的可能性空间切割为实际的可能性空间。  \n\n看一个公司，或者看一个人，从控制论的视角，先看对方的面临的「约束」是什么，约束切割出了对方的行动空间。\n\n大家不是在空白画布上任意挥毫，而是在约束形成的「行动空间」中从一个状态到另一个状态做选择。\n\n行动范围，可预测。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2058152119438565586",
+    "time": "2026-05-23 19:44",
+    "id_str": "2058152119438565586",
+    "is_retweet": false
+  }
+]
