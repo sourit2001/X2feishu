@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2058556766833541290",
+    "time": "2026-05-24 22:32",
+    "id_str": "2058556766833541290",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @jon: Grok Build is pretty amazing.   Not just for enterprise software.   My son loves the Chicago Cubs.  We built a Cubs app, with a li…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2058556872760664467",
+    "time": "2026-05-24 22:32",
+    "id_str": "2058556872760664467",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @frankwrighter: I went up to Makerfield to canvass for @RestoreBritain_ - and explained why Restore is the only party which will save th…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2058557255503503713",
+    "time": "2026-05-24 22:34",
+    "id_str": "2058557255503503713",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/V2wesrSM9F",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2058544316587376710",
+    "time": "2026-05-24 21:43",
+    "id_str": "2058544316587376710",
+    "is_retweet": false
+  }
+]
