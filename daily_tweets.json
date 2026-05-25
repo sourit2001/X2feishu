@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @xai: Grok Build is now available in Beta for all SuperGrok and X Premium+ users.\n\nUse Plan Mode, create images and videos with Imagine,…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059000644313166044",
+    "time": "2026-05-26 03:56",
+    "id_str": "2059000644313166044",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This trend will continue for many years",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059002244305973472",
+    "time": "2026-05-26 04:02",
+    "id_str": "2059002244305973472",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @JasonBud: We've expanded the Beta to many more people. Go to https://t.co/B5TRN3q1DU to give it a try. \n\nOur entire engineering team wi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059002390397747331",
+    "time": "2026-05-26 04:03",
+    "id_str": "2059002390397747331",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059002579707654199",
+    "time": "2026-05-26 04:04",
+    "id_str": "2059002579707654199",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @VladTheInflator: Chicago is basically just a warzone https://t.co/4s0gtgRSuX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059005185867792572",
+    "time": "2026-05-26 04:14",
+    "id_str": "2059005185867792572",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @yunta_tsai: My favorite prompt:\n\na) make a plan for &lt;task&gt;\nb) orchestrate and launch sub-agents to execute the plan\nc) validate the res…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059005390201704834",
+    "time": "2026-05-26 04:15",
+    "id_str": "2059005390201704834",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Build is still in beta for another month or so, but is already quite useful for production tasks",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059016015644614797",
+    "time": "2026-05-26 04:57",
+    "id_str": "2059016015644614797",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Its very limiting that a big set of very hard problems that we have just lying around are Erdos problems. Don’t get me wrong, they are quite cool, but we really need hard problems repositories for many fields, including areas that have less specified answers &amp; require judges.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059012803009151444",
+    "time": "2026-05-26 04:44",
+    "id_str": "2059012803009151444",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @free_ai_guides: NEWS FLASH: RL agents are the next big thing coming to AI.\n\nThey learn through trial, error, and feedback loops instead…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2058992942040199429",
+    "time": "2026-05-26 03:25",
+    "id_str": "2058992942040199429",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Xai的 CLI：Grok Build \n\n开启测试了 \n\n对标 Claude Code、Codex\n\nSuperGrok 和 X Premium+ 用户可以直接安装并授权账户即可使用，使用订阅的用量\n\n安装：curl -fsSL https://t.co/lMklBgKIJe | bash\n\n启动：grok\n\nGrok Build 基本功能清单：\n\n核心模式\n\nPlan https://t.co/bZbibMBIPV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2059012699330424884",
+    "time": "2026-05-26 04:44",
+    "id_str": "2059012699330424884",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "两种运行方式\n\n交互式 TUI：终端里全屏、可鼠标操作\nHeadless 无人值守：grok -p 加指令，塞进脚本自动跑\n\n支持切换任意自定义模型，不绑死 Grok\n同款模型 grok-build-0.1 也单独开放在 API 上\nmacOS / Linux / Windows 都能装\n\n详细：https://t.co/SsloyY8b95 https://t.co/GkCvMFxgqO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2059012701205180435",
+    "time": "2026-05-26 04:44",
+    "id_str": "2059012701205180435",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Turn yourself into a tiny 3D character standing in front of your own 𝕏 profile \n\nPrompt below 👇 https://t.co/91nUNwiyq0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2058993362305454238",
+    "time": "2026-05-26 03:27",
+    "id_str": "2058993362305454238",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Turn your name into a luxury editorial collage inspired by you ✨\n\nEvery letter of your name becomes a different version of…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059015875932590080",
+    "time": "2026-05-26 04:56",
+    "id_str": "2059015875932590080",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Happy Memorial Day, everyone! \n\nGood bye, SF! See you soon, New York! https://t.co/MC7wtZbGl4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059016588951728209",
+    "time": "2026-05-26 04:59",
+    "id_str": "2059016588951728209",
+    "is_retweet": false
+  }
+]
