@@ -1,1 +1,382 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Paste screenshots into Grok Build",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059287487273382024",
+    "time": "2026-05-26 22:56",
+    "id_str": "2059287487273382024",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @robynMmurray: Endometriosis 💛 https://t.co/h3qGtzVZzm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059291337095065686",
+    "time": "2026-05-26 23:11",
+    "id_str": "2059291337095065686",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": ".@kassandraETH @ncsgy and others have been working hard for nearly a year on Kohaku.\n\nKohaku's goal is to make two twin properties:\n\n* Security (and trustlessness)\n* Privacy (read and write)\n\na reality on the access layer.\n\nSecurity and privacy on Ethereum must be normal.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2059239031133634783",
+    "time": "2026-05-26 19:43",
+    "id_str": "2059239031133634783",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @soispoke: 🪾New EIP-8272: Recent Roots for Frame Transactions 🪾\n\nby @soispoke, @nero_eth and @VitalikButerin\n\nAnother EIP to enable nati…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2059269234585227378",
+    "time": "2026-05-26 21:43",
+    "id_str": "2059269234585227378",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "日活跃粉丝比例是 56%，挺高啊 https://t.co/bfTB3y5feT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059198510105514327",
+    "time": "2026-05-26 17:02",
+    "id_str": "2059198510105514327",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "藏师傅的小红书 Skill，当然你如果提供的图片本身质量高的话\n\nAI 会选择这种侵入性比较低的排版方式，突出你的图片质量。\n\n在旅行和美妆以及别的这种看图片质量的情况下，效果比较好。 https://t.co/YIErSEvNCt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059230887561060539",
+    "time": "2026-05-26 19:11",
+    "id_str": "2059230887561060539",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "如果图片质量高的话，也有对应的排版：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059231497412845902",
+    "time": "2026-05-26 19:13",
+    "id_str": "2059231497412845902",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "笑死 3:4 这比例一上真成杂志了 https://t.co/i1FP8HBwSL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059258742831784053",
+    "time": "2026-05-26 21:01",
+    "id_str": "2059258742831784053",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "哈哈 确实适合写日记 https://t.co/rQSjBdPIlM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059262018109210990",
+    "time": "2026-05-26 21:14",
+    "id_str": "2059262018109210990",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I found this Wired article on AI fact-checking frustrating. It could have been about why we continue to need human fact checkers (talk to people, use judgement, resolve conflict). Instead it is full of old info &amp; stuff about free models\n\nGPT-5.5 Pro checked it (&amp; I checked GPT) https://t.co/Xwi4wbxynv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059277092315869650",
+    "time": "2026-05-26 22:14",
+    "id_str": "2059277092315869650",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "We still do need human fact-checkers! And AI is not perfect! But running a few experiments with the free version of ChatGPT and citing work with old models (pre-agentic systems) and without access to web search is not a good way to understand the nature of these systems &amp; flaws.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059277470105301330",
+    "time": "2026-05-26 22:16",
+    "id_str": "2059277470105301330",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In fact, I would be sympathetic to the conclusion that we probably need even more fact checkers, and much more of their time can be freed up to do complex and interesting work by using AI for first-pass help.\n\nArticle: https://t.co/m5jo5Jcjv9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059279760660787707",
+    "time": "2026-05-26 22:25",
+    "id_str": "2059279760660787707",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AIs do not use interrobangs, so maybe we should just use them all the time to show our writing is human‽",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059285896797585500",
+    "time": "2026-05-26 22:49",
+    "id_str": "2059285896797585500",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is not a serious proposal.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059287264182644867",
+    "time": "2026-05-26 22:55",
+    "id_str": "2059287264182644867",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I don't comment on every article that uses out-of-date measures on AI ability, but I felt (probably wrongly) that the article was a response to my viral tweet, so I felt I needed to say something! https://t.co/G8VCTQYigg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059287567871143972",
+    "time": "2026-05-26 22:56",
+    "id_str": "2059287567871143972",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This is a MANDATORY listen. So good https://t.co/4igLtR8YMX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2059223397301964812",
+    "time": "2026-05-26 18:41",
+    "id_str": "2059223397301964812",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @cdhiraj40: long overdue update: joined @chorus_agent\n\nbeen working with the team heads down to make agents that do real work on the pla…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2059277873005871467",
+    "time": "2026-05-26 22:17",
+    "id_str": "2059277873005871467",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Just landed in NYC.\n\nWhats the best coffee shop in Chelsea?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2059280109454942687",
+    "time": "2026-05-26 22:26",
+    "id_str": "2059280109454942687",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "An Anthropic engineer pointed Claude Code at his old startup's infrastructure and told it to find ways to save money.\n\nIt audited the full stack, identified 3 unused Redis instances he'd been paying for, proposed deleting them, and after he approved each step, executed the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059202893203583258",
+    "time": "2026-05-26 17:20",
+    "id_str": "2059202893203583258",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Here's a version of this for Claude Code.\n\nRebuilt the evidence stack for Claude's memory architecture: Session Memory, MEMORY. md, CLAUDE. md, git history, .claude/skills/, and hooks.\n\nRemoved the Chronicle reference (no Claude Code equivalent yet).\n\nFull prompt in the image. https://t.co/3Nqh1tvHvt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059209193446621688",
+    "time": "2026-05-26 17:45",
+    "id_str": "2059209193446621688",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The text version of the prompt:\n\n\"Look back over my recent work from the last 30 days using all available context.\n\nUse available evidence in this order:\n- Session Memory summaries and MEMORY. md entries\n- Git log and recent commit history across branches\n- CLAUDE. md and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059209206188867758",
+    "time": "2026-05-26 17:45",
+    "id_str": "2059209206188867758",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "If you find this useful, also check this out.\n\nTurn Claude into 20+ different specialists for marketing &amp; business.\n\nInstall real expertise, not just prompts.\n\nGet my Claude skills bundle 👇\nhttps://t.co/4GX8faMyEP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059209217823940862",
+    "time": "2026-05-26 17:45",
+    "id_str": "2059209217823940862",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your best prompt/workflow shouldn’t die in a folder.\n\nCapafy turns Skills into products people can use while you get paid per run.\n\nClosed-source.\nOnline.\nMonetized.\n\nThis is where AI workflows stop being “cool demos” and start becoming assets.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059280264950374752",
+    "time": "2026-05-26 22:27",
+    "id_str": "2059280264950374752",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Hot take 🔥\n\nMost AI products don’t have a model problem.\n\nThey have a “we blindly worship benchmarks built for someone else’s use case” problem.\n\nYour users don’t care what model won Twitter this week.\n\nThey care if your product works.\n\nThat’s why routers are the real unlock.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059287838600929621",
+    "time": "2026-05-26 22:57",
+    "id_str": "2059287838600929621",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: An Anthropic engineer pointed Claude Code at his old startup's infrastructure and told it to find ways to save money.\n\nIt…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059293742344102174",
+    "time": "2026-05-26 23:21",
+    "id_str": "2059293742344102174",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @free_ai_guides: Boris Cherny's #1 tip for getting the most out of Claude Code:\n\nUse Auto Mode.\n\nNo more permission prompts. No more bab…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059295793295528120",
+    "time": "2026-05-26 23:29",
+    "id_str": "2059295793295528120",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Here's a version of this for Claude Code.\n\nRebuilt the evidence stack for Claude's memory architecture: Session Memory, ME…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059295813679915417",
+    "time": "2026-05-26 23:29",
+    "id_str": "2059295813679915417",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @lucas_fabric: I built an AI system that automates product video creation for entire e-commerce catalogs.\n\n(Saves ~$20K+ per collection…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059297754690519108",
+    "time": "2026-05-26 23:36",
+    "id_str": "2059297754690519108",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @alihussaincs: Today @MeetArc announces our $10.76M Seed led by @a16z, with participation from @Adverbvc , Broadway Restaurant Group, an…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2059277928421274096",
+    "time": "2026-05-26 22:18",
+    "id_str": "2059277928421274096",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @jamdac: https://t.co/TeV8e3ndp7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2059285246655508742",
+    "time": "2026-05-26 22:47",
+    "id_str": "2059285246655508742",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Compliance officers are one of the fastest growing occupations in America.\n\nCompliance is a bigger business than you'd think. Every dollar that leaves or enters a business: paying employees, reporting revenue, and moving capital are subject to compliance.\n\nAs AI clears the \"good https://t.co/FnRc5JR5rh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2059299533830635984",
+    "time": "2026-05-26 23:44",
+    "id_str": "2059299533830635984",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "最近越来越理解塔勒布了，他说有些事情虽然概率极低，但其后果严重不可逆，那就不要做\n\n因为：\n概率极低x不断重试=必然发生\n\n虽然他说的是期权交易的事情\n但用来衡量人生的每一件事都是成立的\n工作，婚姻，特别是健康的决策\n勿以概率小而为之",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2059242977697091811",
+    "time": "2026-05-26 19:59",
+    "id_str": "2059242977697091811",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "🚨💥5000 美金 credit pool 已经开放，AMR early test 可以来试了！\n\nOpen Design 不应该只属于已经配好 本地 Agent CLI 的人。\n\nAMR 把这道门槛拆掉了：\n不用装、不用配，也能直接跑 Open Design workflow。\n\n先跑起来，先生成东西，先看到 agent 真的在帮你做设计。\n\n5000 美金 credit",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2059227033230602662",
+    "time": "2026-05-26 18:55",
+    "id_str": "2059227033230602662",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们，这个产品理念好啊，我之前也做了的工作流商店demo，但是没解决的一个痛点，它解决了…\n\n就是，现在Skills 很火，但是创建者却赚不到钱\n\n为什么？\n\n因为目前的 Skill 生态默认是开源的\n\n你一发布，任何人都能复制它、转卖它。所以你只能开源赚赚名声...\n\n还有很多人他们有很多好的 Skill",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2059292072830722231",
+    "time": "2026-05-26 23:14",
+    "id_str": "2059292072830722231",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "openai 的 codex 一步到位，基于 rust 来写.\n如果你想知道细节，你可以用 claude code + mimo 来做逆向分析。\n使用AI  harness工具 ， 从代码 直接还原为 业务需求 ，\n然后从业务需求出发， 生成一个类似的产品.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059237199153889549",
+    "time": "2026-05-26 19:36",
+    "id_str": "2059237199153889549",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "2. 微软悄然撤退 Claude Code，企业 AI 编码成本真相（信息差大）\n\n  来源: The Next Web\n\n  核心信息:\n  - 微软 2025 年 12 月让数千员工使用 Claude Code，6 个月后在\"体验与设备\"部门大规模取消许可证，要求迁回 GitHub Copilot CLI\n  - Uber 案例：全年 AI 编码预算 4 个月耗尽，5000",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059259837133804021",
+    "time": "2026-05-26 21:06",
+    "id_str": "2059259837133804021",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "3. Google 推出 AI-first Search + Gemini 3.5 + \"信息代理\"（信息差中等）\n\n  来源: https://t.co/2Yk7ugCkmQ\n\n  核心信息:\n  - Google 搜索全面转向 AI-first，集成 Gemini 3.5\n  - 引入 \"always-on information agents\"（常驻信息代理）概念\n  - 结合 5 月 20 日的发布会，Google 同时推出了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059259973016650008",
+    "time": "2026-05-26 21:06",
+    "id_str": "2059259973016650008",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Turn yourself into a chaotic sketchbook character living inside your city.\n\nMine turned into coffee, AI, Pablo 🐢 ,overthin…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059284269600551375",
+    "time": "2026-05-26 22:43",
+    "id_str": "2059284269600551375",
+    "is_retweet": true
+  }
+]
