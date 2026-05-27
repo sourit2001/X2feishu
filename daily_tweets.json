@@ -1,1 +1,312 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @xai: Thank you so much for all the feedback on the Grok Build Beta.\n\nSome of you reported hitting limits quickly. Our team found areas…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059424348440846745",
+    "time": "2026-05-27 08:00",
+    "id_str": "2059424348440846745",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Wow",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059472491115123177",
+    "time": "2026-05-27 11:11",
+    "id_str": "2059472491115123177",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @UnderSecPD: Policymakers worried about the rise of the so-called “far right” should avoid criminalizing accurate, data-driven  politica…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059473112006320238",
+    "time": "2026-05-27 11:13",
+    "id_str": "2059473112006320238",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @skcd42: Bug fixes shipping to Grok Build 0.2.3 (release notes will be available in the TUI)\n\n- add “Yes, and don't ask again for anythi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059483977879376292",
+    "time": "2026-05-27 11:56",
+    "id_str": "2059483977879376292",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我去，小米 MiMo API大幅降价 \n\n2.5 Pro 输入降价幅度高达 99%！输出也有80%！\n\n而且Token plan 额度也大幅提升，相较以前多了5-8倍。\n\n同时重置了所有人的额度。 https://t.co/5DPoDTrZCL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059437482748637513",
+    "time": "2026-05-27 08:52",
+    "id_str": "2059437482748637513",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "MiniMax M3模型要上了，好久没发新模型了他们",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059454592010924329",
+    "time": "2026-05-27 10:00",
+    "id_str": "2059454592010924329",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Qwen 3.7 Max 在 Arena Coding Agent 上排第四 https://t.co/oC1elKR1E2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059472466666455144",
+    "time": "2026-05-27 11:11",
+    "id_str": "2059472466666455144",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "OpenRouter 获得 1.3 亿美元的 B 轮融资\n\n感觉这个估值有点低了，这种聚合 API 后面应该是新的 Token 经济的基础平台",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059472896322625733",
+    "time": "2026-05-27 11:12",
+    "id_str": "2059472896322625733",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @blackanger: 这组材料放在一起，结论并不是“软件工程要结束了”。恰恰相反，软件工程正在变得更工程化。\n\n当 AI 只能补全代码时，我们关心模型能力。当 AI 能参与任务流时，我们开始关心环境、上下文、规则和反馈。当 AI 进入组织生产系统时，我们必须关心成本、…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2059426345713582316",
+    "time": "2026-05-27 08:07",
+    "id_str": "2059426345713582316",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "以我的经验，只有明确的可以程序自动验收标准的 Skills 才能自我进化，比如说你写个 Skill 去优化代码性能，这个代码性能是可测量可量化的，那么给一些测试样例去优化 Skill，那么能越来越好。\n\n对于一些没有明确的验收标准的 Skill，比如你写一个写作的",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2059434459783389397",
+    "time": "2026-05-27 08:40",
+    "id_str": "2059434459783389397",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "可能你不需要 skill 管理工具，真正常用的只有几个 Skills，少量放全局 Skills，其他跟着项目走就够了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2059442357196439956",
+    "time": "2026-05-27 09:11",
+    "id_str": "2059442357196439956",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @DashHuang: 把 AI 想象成数字员工，一个人管理的下属员工的薪资，和自己的薪资 1 : 1，甚至 1 : 10 其实都是正常的。所以未来 AI Token 的费用成本和员工工资齐平或超过都是可预期的。当然投产比的衡量标准也会和团队人数、薪资成本一样。你的团队招…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2059471328529297595",
+    "time": "2026-05-27 11:06",
+    "id_str": "2059471328529297595",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Gemini 2.5 Pro 之前，Google 模型没有超过 GPT-4 的好么\n现在 Gemini 又开始掉队了……",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2059487940506501614",
+    "time": "2026-05-27 12:12",
+    "id_str": "2059487940506501614",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is cliché at this point, but most people don't realize how capable the current generation of AI systems in their harnesses really are\n\n(And, as opposed to previous times where non-lawyers or non-mathematicians were making these comments about law &amp; math, now it is the experts)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2059431958447317381",
+    "time": "2026-05-27 08:30",
+    "id_str": "2059431958447317381",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Bro, what????",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2059465573478629639",
+    "time": "2026-05-27 10:43",
+    "id_str": "2059465573478629639",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I didn’t watch the Enhanced Games but I’m going to assume this is exactly how it went \n\n(from channelneinnewsaus) https://t.co/Qw0T3eKBmj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2059482261742067725",
+    "time": "2026-05-27 11:50",
+    "id_str": "2059482261742067725",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "贫瘠时代：我要平替的，性价比\n丰饶时代：我要最好的，更好的\n\n时代已经在变了\n只是人还没跟上\n\n原因也很简单\n丰饶时代人最稀缺的\n依然是注意力和时间",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2059451633848008798",
+    "time": "2026-05-27 09:48",
+    "id_str": "2059451633848008798",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @nexudotio: 1,000+ members in the Open Design Discord ✨\n\nHuge thanks to everyone who has joined, shared work, asked questions, given fee…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2059475937641554429",
+    "time": "2026-05-27 11:25",
+    "id_str": "2059475937641554429",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "信息差：\n\n小米 MiMo（大模型系列）最近确实在大降价，而且是今天（2026年5月27日）正式生效的永久大幅降价！\n\n具体情况小米 MiMo 是小米自研的大语言模型系列（MiMo-V2.5 系列等），专注于推理、编程、Agent（智能体）场景，支持多模态。\n\n今天官方宣布对 MiMo-V2.5 系列 API",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059470835815940195",
+    "time": "2026-05-27 11:04",
+    "id_str": "2059470835815940195",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "关键词：\n\n1.   tts 免费；\n2.  大模型降价 99%；",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059470928942182861",
+    "time": "2026-05-27 11:05",
+    "id_str": "2059470928942182861",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "1. Microsoft CEO 震撼消息（影响力最高）\n\n  来源: TheStreet | 约 34.6 小时前\n\n  关键信息：\n  - Claude Code 已在微软内部使用（2025年12月就在 Experiences and Devices 部门上线）\n  - 微软工程师被要求转向 GitHub Copilot CLI，截止日期 2026年6月30日\n  - Uber AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059472965461262720",
+    "time": "2026-05-27 11:13",
+    "id_str": "2059472965461262720",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "2. OpenRouter 估值翻倍至 13 亿美元\n\n  来源: TechCrunch | 约 8.6 小时前\n\n  关键信息：\n  - AI 从训练 → 推理 → Agent 的趋势转移\n  - OpenRouter 作为 AI 模型网关，提供 400+ 模型访问\n  - 声称 800万全球用户，处理 100万亿 tokens\n\n  信息差价值: 国内对 OpenRouter",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059473108851884035",
+    "time": "2026-05-27 11:13",
+    "id_str": "2059473108851884035",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "4. Anthropic AI Fluency 评分卡\n\n  来源: TestingCatalog | 约 13 小时前\n\n  关键信息：\n  - Claude 将引入个人AI熟练度评分系统\n  - 基于用户对话记录评估AI使用能力\n  - 包括：批判性思维、上下文提供、功能使用频率等维度\n\n  信息差价值:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059473203840328132",
+    "time": "2026-05-27 11:14",
+    "id_str": "2059473203840328132",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "分享一个帮助营销的skill，最近更新：\n\n新增技能：prospecting（获客）\n\n  在一个技能中支持三种获客场景：SaaS、B2B、本地中小企业。三者共享同一套五阶段流程框架，但数据来源和筛选逻辑各有不同。\n\n  五阶段流程\n\n  1. ICP 定义 — 明确理想客户画像\n  2. 发现线索 — 从各渠道挖掘潜在客户\n  3.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059475199427289388",
+    "time": "2026-05-27 11:22",
+    "id_str": "2059475199427289388",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @DashHuang: 把 AI 想象成数字员工，一个人管理的下属员工的薪资，和自己的薪资 1 : 1，甚至 1 : 10 其实都是正常的。所以未来 AI Token 的费用成本和员工工资齐平或超过都是可预期的。当然投产比的衡量标准也会和团队人数、薪资成本一样。你的团队招…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2059475359754563814",
+    "time": "2026-05-27 11:22",
+    "id_str": "2059475359754563814",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How have you been while I was traveling? Any AI projects you’ve been working on? \n\nLove being back to New York \nAdobe office view is my favourite and this AI community. Also there’s Claude ad on all the screens. So cool. \n\nLove you all 🥹❤️🫶 https://t.co/owAsMieOnH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059450379864011141",
+    "time": "2026-05-27 09:43",
+    "id_str": "2059450379864011141",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I highly recommend this friend’s AI animation course. Also he built a great community around the course. I highly enjoy it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059451954128949683",
+    "time": "2026-05-27 09:49",
+    "id_str": "2059451954128949683",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Would you believe something like this would be possible with AI two years ago?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059475378935115831",
+    "time": "2026-05-27 11:22",
+    "id_str": "2059475378935115831",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love this prompt of turning your photo into a hand drawn sketch \n\nthis is me as a kid with my first rescue cat Chacha, and I'd love to see you turning a meaningful photo into a sketch\n\nI used Adobe Firefly Boards and GPT Image 2 model for this particular prompt \n\nPrompt 👇 https://t.co/9sf1mjKpdo",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059486366811967995",
+    "time": "2026-05-27 12:06",
+    "id_str": "2059486366811967995",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt: Generate an image from the uploaded photo that reimagines the subject as an ultra-detailed 3D graphite pencil sketch on textured white notebook paper. Emphasize crisp paper grain, subtle imperfections, and natural surface fibers. Show the subject being actively drawn,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2059486369324384727",
+    "time": "2026-05-27 12:06",
+    "id_str": "2059486369324384727",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Saw someone sharing this video without crediting the creator so giving some love to the original. Awesome examples of using Gemini Omni.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2059463425374527645",
+    "time": "2026-05-27 10:35",
+    "id_str": "2059463425374527645",
+    "is_retweet": false
+  }
+]
