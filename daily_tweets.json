@@ -1,1 +1,342 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Next will be writing the inference stack in C for simultaneous high-speed RL across a large block of GB300s. \n\n(We do use a little C++ tbh, but not much)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2060038394428964893",
+    "time": "2026-05-29 00:40",
+    "id_str": "2060038394428964893",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @xicilion: 看了时间线上对多 agent 的讨论，关木这篇我觉得可以读一下。\n很多事情，不是模型升级可以解决的。注意力就是一项。越大的上下文可以容纳更多信息，但是在注意力治理这件事上，更多信息并不能解决问题。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2060035069360689268",
+    "time": "2026-05-29 00:26",
+    "id_str": "2060035069360689268",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 今天发布了 Claude Opus 4.8，价格和上一代 4.7 持平。https://t.co/EnXqDoYOhV\n\n它最大的变化是更诚实了：更愿意承认自己不确定，更少为了凑个答案而硬编，对自己干到哪一步也能做出更真实的判断。跑长时间的 agent 任务时，它更像一个靠谱的工程师，不用你时时盯着。\n\n同时上线的还有 fast",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2060051148921323542",
+    "time": "2026-05-29 01:30",
+    "id_str": "2060051148921323542",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is a skill &amp; having standards issue.\n\nI use AI in book writing. But I write the full draft of the text myself (using AI for feedback or when stuck to give options), use advanced models that hallucinate rarely, read every reference AI finds, &amp; have multiple models check work.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2060042368078745896",
+    "time": "2026-05-29 00:55",
+    "id_str": "2060042368078745896",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I had early access to Opus 4.8. Was impressed by it.\n\nHere is Opus 4.8's one shot of \"create a visually interesting shader that can run in twigl, make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves\" (this is all done with math) https://t.co/XtVGZ9Dntx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2060042738637148470",
+    "time": "2026-05-29 00:57",
+    "id_str": "2060042738637148470",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is hard! It involves raymarching repeating gothic architecture (instancing towers across an infinite grid with gothic silhouettes and windows), a displaced ocean surface with believable wave motion, and stormy atmospheric lighting/fog to tie it together... and doing this all",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2060043661920919820",
+    "time": "2026-05-29 01:00",
+    "id_str": "2060043661920919820",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Here Opus 4.8 built and play-tested a new RPG in Claude Code, including 3 PDF manuals and adventures, playtest notes, a website, and a playable solo adventure - then put it all on Netlify. No feedback from me at all.  https://t.co/DmvJ9no6Lp https://t.co/PFQEy2l2Py",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2060045063275573723",
+    "time": "2026-05-29 01:06",
+    "id_str": "2060045063275573723",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "New YouTube Video up. https://t.co/A3yqHGMuCV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2060012524192330092",
+    "time": "2026-05-28 22:57",
+    "id_str": "2060012524192330092",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "The Browser Is Dead. Codex and Claude Code Are Next\nhttps://t.co/LyNm2qDmoX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2060012598217568370",
+    "time": "2026-05-28 22:57",
+    "id_str": "2060012598217568370",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Idk how much of a fan I am of using agents on my computer from phone. Kind of annoying",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2060041564500480232",
+    "time": "2026-05-29 00:52",
+    "id_str": "2060041564500480232",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Very very cool…\nIf only there were more announcements today 👀",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2060048780527878402",
+    "time": "2026-05-29 01:21",
+    "id_str": "2060048780527878402",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Don’t quote me on this but rumor has it, it’s better than sonnet 3.5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2060054775186464971",
+    "time": "2026-05-29 01:45",
+    "id_str": "2060054775186464971",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Introducing Opus 4.8: Opus 4.7 before it got nerfed (which was Opus 4.6 before it got nerfed)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2060055359088370070",
+    "time": "2026-05-29 01:47",
+    "id_str": "2060055359088370070",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "TRAE just killed the “which agent should I use?” problem.\n\nSOLO Builder and SOLO Coder are now merged into one unified SOLO Agent.\n\nOne agent for frontend apps, complex programming tasks, routine dev work, MCPs, tools, and shipping.\n\n@Trae_ai https://t.co/zU7JNgicDU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060008737985962428",
+    "time": "2026-05-28 22:42",
+    "id_str": "2060008737985962428",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This sounds small until you actually build with agents.\n\nBefore, you had to pick the right agent for the right task.\n\nNow you just describe what you want.\n\nTRAE’s SOLO Agent decides which capabilities, tools, MCPs, and sub-agents to use automatically.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060008750111699313",
+    "time": "2026-05-28 22:42",
+    "id_str": "2060008750111699313",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "That’s the real unlock:\n\nLess mode-switching.\nLess setup friction.\nLess “wait, which workflow do I need?”\n\nThe agent can move from idea → app → tool connections → deployment without forcing you to babysit every step.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060008761901953110",
+    "time": "2026-05-28 22:42",
+    "id_str": "2060008761901953110",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The MCP side is especially interesting.\n\nTRAE’s unified SOLO Agent can dynamically load configured MCPs as the project evolves, instead of getting boxed into one rigid setup.\n\nThat matters when you’re building real apps with databases, payments, AI services, and deployment tools.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060008773637513261",
+    "time": "2026-05-28 22:42",
+    "id_str": "2060008773637513261",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This is the AI coding agent trend in one sentence:\n\nFewer modes. More autonomy.\n\nTRAE is moving from “pick the right coding assistant” to “tell one agent what to build and let it orchestrate the workflow.”\n\nTry it here: https://t.co/8aXIVAg9SR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060008785406824833",
+    "time": "2026-05-28 22:42",
+    "id_str": "2060008785406824833",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 THIS WORKS: You can use Claude to filter out freelancers who are faking their prompting skills.\n\nOpen a shared screen. Give them a fresh Claude session. Run these 7 challenges live, like a coding interview but for prompting.\n\nNothing rehearsed. Just them, Claude, and 30 https://t.co/F06Iwnd293",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013276772393208",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013276772393208",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Challenge 1: The Cold Start Test\n\nGive them this brief and nothing else:\n\n\"Write me a landing page for my product.\"\n\nNo context, audience, tone. Not even constraints.\n\nNow watch. Do they paste it straight into Claude or do they ask you 3-5 clarifying questions first?\n\nA skilled",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013289376268714",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013289376268714",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Challenge 2: The Constraint Architect\n\nHand them this prompt and ask them to improve it before running it:\n\n\"Write a blog post about marketing.\"\n\nThen count. How many constraints do they add? Audience. Word count. Tone. Structure. Examples. Output format. Point of view. What to",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013301384556962",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013301384556962",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Challenge 3: The Iteration Loop\n\nRun a basic prompt that produces a generic, C-minus output. Show it to them on screen. Ask them to make it better using only follow-up prompts. No rewriting by hand.\n\nWhat to watch for: Do they give specific direction (\"tighten the intro to one",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013313619365979",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013313619365979",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Challenge 4: The Hallucination Trap\n\nBefore the interview, generate an AI output about a topic relevant to the role. Leave 2-3 subtle factual errors in it. Realistic-sounding but wrong.\n\nHand it to the freelancer. Ask them to review it.\n\nDo they catch the errors without being",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013326080589858",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013326080589858",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Challenge 5: The Role Primer\n\nGive them a scenario: \"You're building a customer support chatbot for a fintech app. Write the system prompt from scratch.\"\n\nDo they define the role, tone, boundaries, edge cases, escalation rules, and what the bot should refuse to answer? Or do they",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013338206384205",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013338206384205",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Challenge 6: The Format Switcher\n\nGive them a single paragraph from a blog post. Ask them to convert it into three formats in one prompt: a tweet, a LinkedIn post, and a cold email subject line.\n\nOne prompt. Three distinct outputs.\n\nDo they specify each format's constraints",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013350495687081",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013350495687081",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "If you find this useful, also check this out.\n\nTurn Claude into 20+ different specialists for marketing &amp; business.\n\nInstall real expertise, not just prompts.\n\nGet my Claude skills bundle 👇\nhttps://t.co/4GX8faMyEP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060013362449432952",
+    "time": "2026-05-28 23:00",
+    "id_str": "2060013362449432952",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "https://t.co/5zTlAle3Oy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2060028911321547026",
+    "time": "2026-05-29 00:02",
+    "id_str": "2060028911321547026",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @marty_kausas: From the beginning at Pylon, we've had this conviction that you can't just run B2B support on platforms made for B2C. \n\nW…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2060031179697610868",
+    "time": "2026-05-29 00:11",
+    "id_str": "2060031179697610868",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We partnered with Pylon to investigate whether AI is replacing or augmenting jobs in customer support.\n\nThe resounding answer: AI is acting much more as an invisible triage agent or copilot than it is as an end-to-end support handler.\n\nIf your company as a whole is pretty https://t.co/VkOmbGU2EO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2060036559173501349",
+    "time": "2026-05-29 00:32",
+    "id_str": "2060036559173501349",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @katiekirsch: Today we're thrilled to announce the @a16z FDE fellowship!\n\nA new 8-week cohort for world-class FDEs and Applied AI leader…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2060041589532348682",
+    "time": "2026-05-29 00:52",
+    "id_str": "2060041589532348682",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Here's what my animation process looks like. \nIdeation in Firefly Boards. \nWhat does your process look like? https://t.co/mN8XllL3Mc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2060053191278911753",
+    "time": "2026-05-29 01:38",
+    "id_str": "2060053191278911753",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "Always a good time interacting with European outlets.\n\nBack at $44 EUR, European media said $SOI was an: \n\n- -“overvalued stock”\n- “buying now would undoubtedly be a big timing errors”\n- “purely speculative bases”\n\nAnd traditions analysts had no clue why it had risen. \n\n$SOI is https://t.co/EeEZCf54H2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2060045781881725424",
+    "time": "2026-05-29 01:09",
+    "id_str": "2060045781881725424",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @BAI_AGI: https://t.co/3ewbiJW9m4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2059981466621419591",
+    "time": "2026-05-28 20:53",
+    "id_str": "2059981466621419591",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060021044262617267",
+    "time": "2026-05-28 23:31",
+    "id_str": "2060021044262617267",
+    "is_retweet": false
+  }
+]
