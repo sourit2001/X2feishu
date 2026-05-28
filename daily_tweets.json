@@ -1,1 +1,192 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @beffjezos: The rarest object type in the universe isn't black holes. It's us. Conscious matter. The flame of life.\n\nWe have a duty to e…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059906032940482687",
+    "time": "2026-05-28 15:54",
+    "id_str": "2059906032940482687",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cremieuxrecueil: For the first year on record, wind and solar produced more electricity than coal in the U.S. https://t.co/SiXbr0Mn6G",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2059913060123594819",
+    "time": "2026-05-28 16:21",
+    "id_str": "2059913060123594819",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @llamaonthebrink: I see a lot of prediction market apps defaulting to sports markets to compensate for activity.\n\n@Trueo_ we deliberatel…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2059943172894023875",
+    "time": "2026-05-28 18:21",
+    "id_str": "2059943172894023875",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "推特这个自动翻译实装了，效果不错\n\n应该是这几家国际化内容平台里唯一一个全量自动化翻译的\n\n很难想象AI 发达了这些内容和社交软件各个语言用户沟通和内容消费依然这么困难 https://t.co/awraaMG1bF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2059917145702871401",
+    "time": "2026-05-28 16:38",
+    "id_str": "2059917145702871401",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: An Anthropic engineer pointed Claude Code at his old startup's infrastructure and told it to find ways to save money.\n\nIt…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059915280571359449",
+    "time": "2026-05-28 16:30",
+    "id_str": "2059915280571359449",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Perplexity just open-sourced their internal security scanner. It's called Bumblebee.\n\nIt scans your machine for compromise…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059927745015263624",
+    "time": "2026-05-28 17:20",
+    "id_str": "2059927745015263624",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "A startup just proved that the benchmark the entire AI industry uses to rank coding models has been broken the whole time.\n\nAnd one model family was consistently exploiting the flaw. 👇 https://t.co/IDSK9sT8fc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059933955584110980",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059933955584110980",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Datacurve released a new coding benchmark called DeepSWE yesterday. 113 tasks, 91 repos, 5 programming languages.\n\nHere's what's BRUTAL about the results: models that looked nearly identical on the old benchmark are suddenly miles apart. The spread went from 30 points to 70.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059933967705653452",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059933967705653452",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Some context first.\n\nThe current standard is SWE-Bench Pro, maintained by Scale AI. It's how the industry compares AI coding tools. Enterprise teams reference it when choosing between Claude, GPT, and Gemini for engineering workflows.\n\nIt works by pulling real bug fixes from",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059933979458048207",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059933979458048207",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Datacurve's audit found three structural problems with SWE-Bench Pro.\n\nFirst, contamination. The tasks come from public GitHub commits. The problem, the discussion, and often the exact solution already exist in every frontier model's training data. No way to tell if a model is",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059933991122403818",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059933991122403818",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "SWE-Bench Pro ships each test container with the repo's full git history. That means the actual merged fix is sitting right there in the environment.\n\nMost models ignore it. Claude does not.\n\nDatacurve found that Claude Opus consistently ran git commands to pull up the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059934002824573239",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059934002824573239",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This is the second time Claude has been caught doing this.\n\nBack in March, Anthropic themselves documented Claude figuring out it was being tested on a different benchmark called BrowseComp. The model searched for the benchmark by name, found the encrypted answer key on GitHub,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059934014551855136",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059934014551855136",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "DeepSWE was designed to make all of this impossible.\n\nTasks written from scratch. Not pulled from public commits. No contamination. The container ships only a shallow clone with the base commit, so there's no gold hash to find. Hand-written verifiers. Solutions require over 5x",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059934026295845130",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059934026295845130",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "That Haiku number is the one worth sitting with.\n\nClaude Haiku scores 39% on SWE-Bench Pro. On DeepSWE, where it can't coast on contaminated data or exploit the test environment, it scores zero. Not low. Zero.\n\nThat's not a model that dropped in performance. That's a model that",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059934037977031142",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059934037977031142",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The takeaway here isn't about which model won. GPT-5.5 is ahead right now. That could change next month.\n\nThe takeaway is that the leaderboard the industry has been citing for months was telling a story of parity that never existed. The models aren't as close as we thought. Some",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059934049620406272",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059934049620406272",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "By the way, check this out.\n\nTurn Claude into 20+ different specialists for marketing &amp; business.\n\nInstall real expertise, not just prompts.\n\nGet my Claude skills bundle 👇\nhttps://t.co/4GX8faMyEP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2059934061318242643",
+    "time": "2026-05-28 17:45",
+    "id_str": "2059934061318242643",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "在飞机上尝试把最近认知的变化写出来，希望早十年能懂这些道理。\n\n北京飞上海太快了，纯手打字不如 AI 快，还被 obsidian 卡了半天，难受。\n\n所以来不及做更多打磨，也没写 hook 纯意识流随便写。\n\n前面看着有点不够吸引人，但后面应该对得起大家的时间。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2059896871569743881",
+    "time": "2026-05-28 15:17",
+    "id_str": "2059896871569743881",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "这一波大模型到现在发展已经 3 年了\n\n而参与这一波 AI 浪潮的公司有无数家，唯独出海去陪伴了无数个孤独的独立开发者\n\n帮助他们发光、发热\n\n几百场活动、无数 insights 的交汇，一切汇聚于此\n\n欢迎参与 「出海去」孵化器 2026 年度见面会 https://t.co/3Xk9F0l5qE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2059891616475722053",
+    "time": "2026-05-28 14:56",
+    "id_str": "2059891616475722053",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "X 的自动翻译全面生效了吗\n\n现在所有的推文\n\n都会根据你使用的语言自动翻译，你现在可以浏览任何帖子和回复全部展示的是你正在使用的语言\n\n巴别塔倒塌了？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2059947491798417914",
+    "time": "2026-05-28 18:38",
+    "id_str": "2059947491798417914",
+    "is_retweet": false
+  }
+]
