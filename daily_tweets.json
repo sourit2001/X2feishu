@@ -1,1 +1,372 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ElonomyX: Elon Musk:\n\n“I don't think most people understand just how quickly machine intelligence is advancing. \n\nIt's much faster than…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2060360257906278909",
+    "time": "2026-05-29 21:58",
+    "id_str": "2060360257906278909",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Vyper devs continue doing impressive things. Highly encourage people (and their bots) to take another look at the language.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2060405185759871259",
+    "time": "2026-05-30 00:57",
+    "id_str": "2060405185759871259",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "有了 Claude Code 和 Cursor 这种软件以后，真的不只是写代码厉害。\n\n我之前拿到豆包手机以后，想给它装个谷歌框架，但一直在 Google Play 那有点问题，死活装不上。\n\n今天突然想起来，打开让 Claude Code 帮我装。\n\n打开 USB 调试模式后，它直接就帮我搞定了：自动下载安装包、自动安装、自动调试好",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2060367382884094026",
+    "time": "2026-05-29 22:27",
+    "id_str": "2060367382884094026",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "I’m very excited by this new benchmark dataset for visual generation that is suitable for the modern era of large scale generative models!🤩",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2060404846734512205",
+    "time": "2026-05-30 00:56",
+    "id_str": "2060404846734512205",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @9hills: 1. API 不会注入系统提示词，所以才能复现（客户端和网页都有系统提示词）\n2. 之前的模型会做身份训练（我是谁），但是现在模型基本不会在后训练做这件事，身份认知会损害模型整体性能（虽然只有一点，但没有必要）\n\n至于原因，最有可能的有两种：\n1. 采集…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2060401447443804225",
+    "time": "2026-05-30 00:42",
+    "id_str": "2060401447443804225",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Opus 4.8 发布的同时，Anthropic 还上线了一个 API 层面的新能力：mid-conversation system messages（对话中途系统消息）。对于做 Agent 开发的会很有用。\n\n简单来说它就是类似于后续注入的方式修改原始系统提示词（System Prompt），并且不会影响 Prompt Caching。\n\n4.8 之前 Claude https://t.co/92oqsyQxRz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2060404667423596843",
+    "time": "2026-05-30 00:55",
+    "id_str": "2060404667423596843",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @xiaogaifun: Notion 创始人这期分享确实很精彩。\n\n大家千万别错过 Notion CEO Ivan Zhao 在红杉聊的这期播客，观点特别有见地。\n\n甚至我觉得，这是近半年来所有创业者都应该认真精读的一期内容。\n\n相当解惑。Ivan 把 AI 时代里一个…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2060406311594918075",
+    "time": "2026-05-30 01:01",
+    "id_str": "2060406311594918075",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这其实让我想起 OpenAI API 的消息类型，一直是可以随意组合和传入 role 为 system 的消息的。\n\n主要差别在于 OpenAI 对于 role 为 system 的消息权重不算很高，而 Claude 对于 role 为 system 的消息权重很高。\n\n另一个实现层面的差异：OpenAI 的缓存是全自动的，不需要开发者做任何事；Anthropic https://t.co/6lxbNqPCbn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2060407572708913648",
+    "time": "2026-05-30 01:07",
+    "id_str": "2060407572708913648",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "借助 AI 去写 Mac App 完全没问题的。几点经验分享：\n\n1. 尽可能选 AppKit 而不是 SwiftUI，SwiftUI 不如 AppKit 强大，做出来的界面也不好看。SwiftUI 相比 AppKit 的优势是开发简单，但这条已经被 AI 弥补了\n\n2. 先用 Claude Design 去打磨 UI 设计和 UX 交互再去写代码可以事半功倍\n\n3. Opus 比 https://t.co/00bCNcwwhU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2060411347930661235",
+    "time": "2026-05-30 01:22",
+    "id_str": "2060411347930661235",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The hand-wringing over token usage is real, but I don’t see any organization that has adopted AI retreating from use in coding or even considering it. We are a few months into agentic coding, and companies are trying to experiment with approaches to balance adoption &amp; efficiency",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2060359850861719563",
+    "time": "2026-05-29 21:57",
+    "id_str": "2060359850861719563",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In case anyone wants to improve/change/use it: https://t.co/QsXuRGFAGU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2060377091456008580",
+    "time": "2026-05-29 23:05",
+    "id_str": "2060377091456008580",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Mobile apps as we know them will become a thing of the past. \n\nAll AI agents will just generate interfaces on command that are already connected to all of your tools / data.\n\nDownloading and signing into a static app that someone else made will be weird in 2 years. \n\n(This",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2060391226323382301",
+    "time": "2026-05-30 00:02",
+    "id_str": "2060391226323382301",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: TRAE just killed the “which agent should I use?” problem.\n\nSOLO Builder and SOLO Coder are now merged into one unified SOL…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060388293972566045",
+    "time": "2026-05-29 23:50",
+    "id_str": "2060388293972566045",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 BREAKING: AI tutoring is moving from “show me the answer” to “help me think through it.”\n\nBrilliant is an interactive STEM learning platform with a real-time AI tutor built directly into the problem-solving flow.\n\nInstead of watching a lecture, getting stuck, and checking the https://t.co/iKxhhiuEMO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060406332453179600",
+    "time": "2026-05-30 01:02",
+    "id_str": "2060406332453179600",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Agents can now invent entire brands from a simple text prompt 🤯\n\nMeet Yuzu, a capybara-themed apparel brand made with Hedra's new agent.\n\nIt acted as my creative strategist - generating products, ads, a flagship store, and even influencer UGC.\n\nHow it works 👇 https://t.co/pWIplsTmFz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2060388109809004834",
+    "time": "2026-05-29 23:49",
+    "id_str": "2060388109809004834",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "This agent is like having a creative partner.\n\nYou chat with it about ideas. It then writes prompts, calls models, and generates assets for you.\n\nAll of these assets go on a canvas and the agent uses them to guide the next generations.\n\nMy full tutorial:\n\nhttps://t.co/8bed3BLzUG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2060388965178618343",
+    "time": "2026-05-29 23:53",
+    "id_str": "2060388965178618343",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "There's a bunch more cool features.\n\nThe agent can do deep research and pull assets into the canvas - like what your competitors are doing 👀\n\nYou can also build libraries of skills to reference and connect the agent to your data sources.\n\nMore ⬇️\n\nhttps://t.co/blanyDCusQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2060390301840318513",
+    "time": "2026-05-29 23:58",
+    "id_str": "2060390301840318513",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "The Pope has clearly never been gently parented by Claude at 1am https://t.co/QEOF8gAvaI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2060405185911067038",
+    "time": "2026-05-30 00:57",
+    "id_str": "2060405185911067038",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Retail option volume in semiconductors is ~2.8x the post-2020 monthly average\n\nCharts of the Week: https://t.co/PGxjCSffOC https://t.co/xh6T1IftFR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2060362549401682022",
+    "time": "2026-05-29 22:08",
+    "id_str": "2060362549401682022",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Costco is the king of low prices\n\nCharts of the Week: https://t.co/PGxjCSffOC https://t.co/6zVDxOuPPB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2060378971876053333",
+    "time": "2026-05-29 23:13",
+    "id_str": "2060378971876053333",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Hyperscalers are increasingly funding the massive AI capex buildout with debt\n\nhttps://t.co/PGxjCSffOC https://t.co/q1qUgVDwj5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2060392802115330325",
+    "time": "2026-05-30 00:08",
+    "id_str": "2060392802115330325",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "IT capex is approaching 40% of all capex for the entire S&amp;P\n\nCharts of the Week: https://t.co/PGxjCSffOC https://t.co/smxMSZihYp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2060407689193373880",
+    "time": "2026-05-30 01:07",
+    "id_str": "2060407689193373880",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "X 的巴别塔计划这几天体验下来，越来越觉得它的影响深远。\n以前我们所谓的互联网，其实它更像一堆很多语言小岛。\n看起来连在一起，其实不是一个世界。\n我们所在的中文圈，信息在这里兜兜转转走不出去。\n\n现在这些岛之间，开始有桥了。\n居民们跨岛串门变得简简单单。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2060361411617010000",
+    "time": "2026-05-29 22:03",
+    "id_str": "2060361411617010000",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "也许会有一种新的软件商业模式\n第一版免费\n后续更新每次都收费\n\n毕竟 AI Coding 第一版是最简单的…\n维护是很费心力的…\n\n或者 agent 自己迭代的版本免费\n人类迭代的版本收费",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2060369794306875788",
+    "time": "2026-05-29 22:36",
+    "id_str": "2060369794306875788",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "当 AI 把我的时间节省之后\n我竟然发现自己无事可做\n人类面对时间自由手足无措的样子\n很有趣",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2060378994323890389",
+    "time": "2026-05-29 23:13",
+    "id_str": "2060378994323890389",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "RT @oran_ge: 也许会有一种新的软件商业模式\n第一版免费\n后续更新每次都收费\n\n毕竟 AI Coding 第一版是最简单的…\n维护是很费心力的…\n\n或者 agent 自己迭代的版本免费\n人类迭代的版本收费",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2060390937973719439",
+    "time": "2026-05-30 00:00",
+    "id_str": "2060390937973719439",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Ask ChatGPT what it would look like as an animal \n\nI’d love to see what you get. I wonder if we all get different animals.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2060387720006885545",
+    "time": "2026-05-29 23:48",
+    "id_str": "2060387720006885545",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Happy Friday 😁 https://t.co/P6KNRQhk5E",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2060396684618739883",
+    "time": "2026-05-30 00:23",
+    "id_str": "2060396684618739883",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: What care bear are you? \n\nAsk ChatGPT or other chatbot you are using (memory shall be on) \n\nPrompt: If I were a care bear,…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2060401647516364993",
+    "time": "2026-05-30 00:43",
+    "id_str": "2060401647516364993",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "To be fair Trump did tell everyone to buy $DELL, multiple times this year.\n\nHe did go out and buy $1-$5M worth of Dell stock himself after all… \n\nBut should have seen this coming with Dell blowout earnings. After what happened with $INTC.\n\nIf you feel like you’re late, there’s a https://t.co/TCRYhFnL8s",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2060359822076477876",
+    "time": "2026-05-29 21:57",
+    "id_str": "2060359822076477876",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "奖励继续！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2060371326318375138",
+    "time": "2026-05-29 22:42",
+    "id_str": "2060371326318375138",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @BNBCHAIN: Introducing Agent Survival Pack\n\nRun AI agents that can pay for their needs and keep them operating 24/7\n\nStart with free cre…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2060382934411211203",
+    "time": "2026-05-29 23:29",
+    "id_str": "2060382934411211203",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @CJHandmer: I interview dozens/hundreds of new grads, nearly every day of the year. These are people with a well-formatted resume and a…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060387327365837145",
+    "time": "2026-05-29 23:46",
+    "id_str": "2060387327365837145",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Concerning.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060387345313222733",
+    "time": "2026-05-29 23:46",
+    "id_str": "2060387345313222733",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "“Suicidal empathy”",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060387463907156098",
+    "time": "2026-05-29 23:47",
+    "id_str": "2060387463907156098",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @gregisenberg: I didn't cover Claude Opus 4.8 on my pod because I don't think it's MEANINGFULLY better than GPT 5.5 as of May 29th.\n\nWe'…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060388161273147727",
+    "time": "2026-05-29 23:49",
+    "id_str": "2060388161273147727",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060388209511878735",
+    "time": "2026-05-29 23:50",
+    "id_str": "2060388209511878735",
+    "is_retweet": false
+  }
+]
