@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Two categories of tools tried to solve this problem before ego lite.\n\nBrowser automation frameworks (browser-use, Agent Browser) don't ship a browser. They hijack yours. Logins break. Your tabs fight the agent for the same window.\n\nAI browsers (ChatGPT Atlas, Perplexity Comet)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808509885997288",
+    "time": "2026-05-31 03:40",
+    "id_str": "2060808509885997288",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I pulled a full week of @OpenAI's X analytics without an API key, a scraper, or a single line of code 🤯\n\nOne prompt. 30 seconds.\n\nThe tool that made this possible isn't Claude, Cursor, or ChatGPT. It's a browser called ego lite: https://t.co/HHu42pKDCn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808562314772519",
+    "time": "2026-05-31 03:40",
+    "id_str": "2060808562314772519",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "ego lite is a Chromium-based browser where AI agents run tasks in their own isolated Spaces while your tabs stay yours.\n\nClaude Code, Codex, Cursor, any agent that writes JS code can drive it through ego-browser. No vendor lock-in. No built-in agent you're stuck with.\n\nYour",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808574461477208",
+    "time": "2026-05-31 03:40",
+    "id_str": "2060808574461477208",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Here's that X data pull in action.\n\nego lite logged into my real X session, pulled @OpenAI's last 7 days of posts, skipped pinned and retweets, ranked the top 5 by views, and calculated average engagement rate.\n\nThis is the kind of workflow that usually turns into a messy stack https://t.co/oy3TGszNCk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808644133097828",
+    "time": "2026-05-31 03:40",
+    "id_str": "2060808644133097828",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Then I pointed it at Redfin.\n\n\"Find me a single-family home in Austin, $500K-$600K, and run the mortgage math.\"\n\nego lite searched, filtered, opened a listing, changed the down payment to 20% on the on-page mortgage calculator, and reported back address, price, and monthly https://t.co/223idCLPDu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808713058009398",
+    "time": "2026-05-31 03:40",
+    "id_str": "2060808713058009398",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Then LinkedIn.\n\nego lite searched \"Agent Developer\" roles (US remote, full-time), found a match at a public SaaS company, opened the application, uploaded a local resume PDF, filled every required field from the resume.\n\nThen it stopped. Before clicking Submit.\n\nYour real https://t.co/jjiabd67dQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808790208061726",
+    "time": "2026-05-31 03:41",
+    "id_str": "2060808790208061726",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The technical gap that makes this work:\n\nego-browser exposes browser capabilities as JavaScript functions. The agent writes one snippet that runs multiple actions in a single pass instead of chaining CLI calls one at a time.\n\nCrazily up to 245% faster. Fewer tokens burned per",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808802086318579",
+    "time": "2026-05-31 03:41",
+    "id_str": "2060808802086318579",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "One line from the ego team's launch post stuck with me.\n\n\"As AI takes on more of the work, the human judgment behind it becomes more valuable, not less.\"\n\nThey named it \"ego\" as a direct counter to the \"low ego\" wave flooding tech right now.\n\nThe best agent workflows I've built",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808813834613030",
+    "time": "2026-05-31 03:41",
+    "id_str": "2060808813834613030",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Two categories of tools tried to solve this problem before ego lite.\n\nBrowser automation frameworks (browser-use, Agent Browser) don't ship a browser. They hijack yours. Logins break. Your tabs fight the agent for the same window.\n\nAI browsers (ChatGPT Atlas, Perplexity Comet)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060808825507319894",
+    "time": "2026-05-31 03:41",
+    "id_str": "2060808825507319894",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060822689200382050",
+    "time": "2026-05-31 04:36",
+    "id_str": "2060822689200382050",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @johnennis: In the middle of my longest Codex run ever, coming up on 3 straight days\n\nI've adapated @elves_skill with a workflow for pur…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2060822697119203577",
+    "time": "2026-05-31 04:36",
+    "id_str": "2060822697119203577",
+    "is_retweet": true
+  }
+]
