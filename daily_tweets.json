@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "iOS 上我做的那个 HTML 和 Markdown 预览的 App （即览）差不多了，感觉晚上就能给大家发测试资格了 https://t.co/cMdAzMrEGL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2060689179642916894",
+    "time": "2026-05-30 19:46",
+    "id_str": "2060689179642916894",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your prompt isn't broken. One word inside it is.\n\nSame structure. Same model. Same context. Change one word and the output shifts completely.\n\nMost people treat synonyms as interchangeable inside prompts. LLMs don't. Here are 3 common ones that mean very different things to an https://t.co/HNDeEWYBOv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060689820108910985",
+    "time": "2026-05-30 19:48",
+    "id_str": "2060689820108910985",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "\"Explain\" vs. \"Describe\"\n\nThese feel identical. They're not.\n\n\"Explain RAG to me\" gets you retrieval mechanics, why chunks are embedded, how context windows are populated, and where the architecture breaks.\n\n\"Describe RAG to me\" gets you a surface-level overview. What it looks",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060689832133935137",
+    "time": "2026-05-30 19:48",
+    "id_str": "2060689832133935137",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "\"Professional\" vs. \"Formal\"\n\nThis one causes the most pain.\n\nYou type \"write this in a formal tone\" and wonder why the output reads like a legal notice.\n\nYou meant \"professional.\" Clear, competent, workplace-sharp.\n\n\"Formal\" triggers ceremony. Stiff structure. Elevated register.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060689843768934524",
+    "time": "2026-05-30 19:48",
+    "id_str": "2060689843768934524",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "\"Detailed\" vs. \"Comprehensive\"\n\n\"Give me a detailed report\" and \"Give me a comprehensive report\" sound like the same request.\n\nOne goes deep. The other goes wide.\n\n\"Detailed\" tells the model to expand on each point with depth, nuance, and specifics.\n\"Comprehensive\" tells the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060689855391338708",
+    "time": "2026-05-30 19:48",
+    "id_str": "2060689855391338708",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Now here's what matters more than any of this.\n\nOne precise word helps. But a sentence of context beats a perfect synonym every time.\n\nInstead of agonizing over \"formal\" vs. \"professional,\" just write: \"Write this for a workplace audience. Clear, confident, no stiff language.\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060689867038990647",
+    "time": "2026-05-30 19:48",
+    "id_str": "2060689867038990647",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic just gave Claude Code a \"don't stop until it's done\" mode.\n\n/goal lets you set a completion condition, walk away, and Claude keeps iterating across turns until the condition is met. Hours. Sometimes days.\n\nThe capability is real. So is the bill.\n\nEvery turn reprocesses",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2060696477115339136",
+    "time": "2026-05-30 20:15",
+    "id_str": "2060696477115339136",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "拉手 PTSD 如何深刻重塑了朱啸虎的“闪电战策略”？\n\n拉手网的惨痛代价，直接转化为了朱啸虎后续在移动互联网风口争夺中的“偏执三板斧”：\n\n1. “快”：极力压缩退出周期，绝不在烂泥潭里打持久战\n拉手教训：战线拖得越长，行业的不确定性、内部管理的雷点以及竞争对手的反扑概率就呈指数级上升。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2060682480793907395",
+    "time": "2026-05-30 19:19",
+    "id_str": "2060682480793907395",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 以上信息客观真实吗？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2060682555624497587",
+    "time": "2026-05-30 19:19",
+    "id_str": "2060682555624497587",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "Per Foxconn shareholder meeting:\n\nCPO switch products expected to begin Q3. 10K units 2026, explosive grow to next year.\n\nAims/expected to be #1 globally. \n\nAnyone remember which Foxconn subsidiary handles their advanced optical work?\n\ncough.. cough.. Shunsin (6451).\n\nLot of https://t.co/kO55eyS2LJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2060685584365150508",
+    "time": "2026-05-30 19:31",
+    "id_str": "2060685584365150508",
+    "is_retweet": false
+  }
+]
