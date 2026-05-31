@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Your prompt isn't broken. One word inside it is.\n\nSame structure. Same model. Same context. Change one word and the output…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2061067757719007741",
+    "time": "2026-05-31 20:50",
+    "id_str": "2061067757719007741",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "这种小费我是很愿意给的\n\n哈哈哈哈 https://t.co/c8rkGYQTVn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2061085220364079284",
+    "time": "2026-05-31 21:59",
+    "id_str": "2061085220364079284",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "冷知识：为什么幻方量化 能 在大部分散户都亏钱的市场里，无风险仅凭不到100人，赚到这么多钱（ 人均 ROI 这么高）？\n\n极速 C++ API 在新股相关的什么场景下有用？\n\n虽然极速 C++ API 对“新股申购”无用，但在新股上市后的二级市场交易中，极速通道是顶级游资和量化高频机构的“致命武器”：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061069707239719302",
+    "time": "2026-05-31 20:58",
+    "id_str": "2061069707239719302",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "依赖/受益于 GPU 的量化开源框架\n如果您准备在策略开发中引入 GPU 算力，以下是业界最为主流的开源框架：\n\n1. 微软 Qlib (AI 导向的量化投资平台)\n语言：Python (PyTorch / LightGBM)\nGPU 作用：Qlib 是目前 AI 量化界最强大的开源全栈平台。它内置了大量前沿的深度学习模型（如",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061070613918228728",
+    "time": "2026-05-31 21:01",
+    "id_str": "2061070613918228728",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "依赖 GPU 的核心量化算法与模型\n在量化投研中，以下几种主流算法和模型如果不使用 GPU 几乎无法投入实盘：\n\nAlphaNet（端到端时序神经网络因子挖掘模型）原理：由华泰证券提出，旨在用神经网络代替人工挖掘因子。它通过在网络底层构建自定义的时序算力算子（如 ts_correlation 时序相关性、ts_stddev",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061070686739701870",
+    "time": "2026-05-31 21:01",
+    "id_str": "2061070686739701870",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "传统的量化交易（如多因子模型、统计套利）主要依赖 CPU 进行序列计算。但近年来，量化行业转向了海量数据与深度学习，这让 GPU 成为刚需：\n\n海量高频数据的处理（日均数十亿级）中国 A 股的 Level-2 逐笔行情和订单簿数据（Limit Order Book）每天产生海量更新。如果对全市场 5000",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061070727520891048",
+    "time": "2026-05-31 21:02",
+    "id_str": "2061070727520891048",
+    "is_retweet": false
+  }
+]
