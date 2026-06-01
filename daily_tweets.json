@@ -1,1 +1,792 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @RaminNasibov: Anyone who used a computer between 1985-2010. What’s the one game you still think about?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2061437401445388360",
+    "time": "2026-06-01 21:19",
+    "id_str": "2061437401445388360",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @yunta_tsai: I like how Grok Build steadily updates the experiment notes for the optimization goal I gave it this weekend.\n\nIt’s a big j…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2061437778886603076",
+    "time": "2026-06-01 21:20",
+    "id_str": "2061437778886603076",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @pmarca: I have found it, the Platonic form of every New York Times op-ed. https://t.co/YgYhFElgOg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2061442791960609260",
+    "time": "2026-06-01 21:40",
+    "id_str": "2061442791960609260",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @frank_thelen: Endlich konnte ich FSD in Deutschland testen. Wir sind fast eine Stunde durch Dörfer, über Landstraßen und Autobahnen gef…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2061443182077100303",
+    "time": "2026-06-01 21:42",
+    "id_str": "2061443182077100303",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @GadSaad: I LOVE the United States.  That's it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2061475209132331136",
+    "time": "2026-06-01 23:49",
+    "id_str": "2061475209132331136",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @RupertLowe10: I want the world to hear what we heard. https://t.co/2DtCS0QztE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2061492642228412796",
+    "time": "2026-06-02 00:58",
+    "id_str": "2061492642228412796",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "This is why:\n\n* Self-sovereign identity, data and money (so you control your account, not a third-party provider)\n* CROPS AI (so other people cannot do this to *your computer* https://t.co/zmG8wrfzAi )",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061435858897572032",
+    "time": "2026-06-01 21:13",
+    "id_str": "2061435858897572032",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @mullvadnet: The EU age verification app is presented as “completely anonymous”. But the risk is that member states (the countries are s…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061449324827918798",
+    "time": "2026-06-01 22:06",
+    "id_str": "2061449324827918798",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "See also: my criticism of the idea that ZK alone, even if well implemented, is sufficient to make \"identity verification\" pro-freedom: https://t.co/rye1q5G90G\n\n(And some alternative ideas for how to solve underlying goals)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061449694761320809",
+    "time": "2026-06-01 22:08",
+    "id_str": "2061449694761320809",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Building index-tracking assets on top of options instead of debt\n\nhttps://t.co/isSkr3901W\n\nWhat if the use options as the base of defi, instead of CDPs and liquidations? So instead of extreme price movements creating a sharp and global \"you get liquidated\" effect, instead your",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061469961416032653",
+    "time": "2026-06-01 23:28",
+    "id_str": "2061469961416032653",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "See also: the bottom half of this earlier post\n\nhttps://t.co/Y2jOdoltdT\n\nMoving away from fiat currency, and toward price stability through each person and institution getting their own customized basket.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061470005292642561",
+    "time": "2026-06-01 23:28",
+    "id_str": "2061470005292642561",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @tcoratger: We’re currently putting a significant effort into improving leanSpec.\n\nThe goals are simple:\n• Simplicity\n• Clarity\n• Correc…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061475695474217470",
+    "time": "2026-06-01 23:51",
+    "id_str": "2061475695474217470",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "One of the many things I dislike about the style of \"make AI go well\" discourse from frontier AI companies is how nationalist the whole thing has gotten.\n\nIn the 2010s, it was: \"we're here to benefit all of humanity\"\n\nIn the 2020s, \"we're here to benefit all of 4% of humanity\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061478751586701415",
+    "time": "2026-06-02 00:03",
+    "id_str": "2061478751586701415",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @AyaMiyagotchi: Vitalik shared his perspective on where @ethereumfndn is heading. Here is mine, another part of the same story.\n\nThe EF…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2061478789213782150",
+    "time": "2026-06-02 00:03",
+    "id_str": "2061478789213782150",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Codepilot 的重构版本终于好了！\n\nCodePilot 0.55.0-preview.5 \n\n相当多的内容优化，UI 整体重构，支持将 Codex 作为 Agent 引擎\n\n可以使用 Codex 内置模型也可以自定义模型\n\n目前是测试版本没有推送，不排除有大 bug，如果有问题欢迎带日志反馈 https://t.co/DsmLXme0fu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2061426771267125649",
+    "time": "2026-06-01 20:36",
+    "id_str": "2061426771267125649",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "客户端：https://t.co/G5zE442vaT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2061426855157326299",
+    "time": "2026-06-01 20:37",
+    "id_str": "2061426855157326299",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "其实都搞好了，被苹果审核卡脖子了 https://t.co/xumTWgvVWN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2061456989969133796",
+    "time": "2026-06-01 22:37",
+    "id_str": "2061456989969133796",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "你不能指望一个模型在什么地方都是最强的，要像渣男一样才能用好 AI：去爱很多模型，去发掘他们的优秀点，东食西宿，组合着用\n\nOpus 4.8 在写作不太行，但是在 UI 设计，UI 实现比 GPT-5.5 要好很多，推荐你多用用 Claude Design，然后把 Claude Design 设计好的结果分别给 GPT-5.5 和 Opus 4.8 https://t.co/DqlYBdPfel",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2061463713941492062",
+    "time": "2026-06-01 23:03",
+    "id_str": "2061463713941492062",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @vista8: 在 X 上看了不少文章封面，发现普遍都很丑，包括自己的。\n\n我让@xiaoxiaodong01 发了一个他满意的提示词。\n\n在此基础让 ChatGPT优化，把硬性限定词都去掉，给 AI 充分的发挥空间。\n\n以后任意一篇文章丢给ChatGPT或Codex都…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2061466277105811683",
+    "time": "2026-06-01 23:13",
+    "id_str": "2061466277105811683",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Lots of companies are in the \"encourage AI adoption\" phase, whether teaching them ChatGPT/Claude or (sigh) tokenmaxxing.\n\nThat dodges the harder problems of firm leadership: What do you want people to use AI for? What work should be reserved for people? What else needs to change?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2061483942310477999",
+    "time": "2026-06-02 00:24",
+    "id_str": "2061483942310477999",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "\"Just use AI\" can be useful (I call it The Crowd in my informal framework I gave in my post below), but you also need a Lab where people can go with their ideas and Leadership to make decisions about how to incentivize people and what to do: https://t.co/bHvjoVo8Jb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2061484580092211706",
+    "time": "2026-06-02 00:26",
+    "id_str": "2061484580092211706",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Hahahaha this had me 💀💀💀\n@DaveShapi @theo https://t.co/QBtVjgZtUd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061428570346406057",
+    "time": "2026-06-01 20:44",
+    "id_str": "2061428570346406057",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This prompt allows me to duplicate my codex setup to a persistent cloud agent that i can talk to on iMessage. \n\nCodex ➡️ @github  ➡️ @text_chorus https://t.co/HCHsArqqKw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061452146864689545",
+    "time": "2026-06-01 22:17",
+    "id_str": "2061452146864689545",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Opus 4.8 released last week...\nAnd Codex released a ton of new features \n(most we're not announced) \n\nMy weekly summary of everything up on YouTube. https://t.co/uhAisnXnuf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061463163539701944",
+    "time": "2026-06-01 23:01",
+    "id_str": "2061463163539701944",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "YouTube: https://t.co/Z3a1imfkHP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061463390938189887",
+    "time": "2026-06-01 23:02",
+    "id_str": "2061463390938189887",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: YouTube: https://t.co/Z3a1imfkHP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061464635060916478",
+    "time": "2026-06-01 23:07",
+    "id_str": "2061464635060916478",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Good morning everyone...\nI feel like it's going to be an awesome week. \n\n(Sent from Codex Browser Use)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061464989307736118",
+    "time": "2026-06-01 23:08",
+    "id_str": "2061464989307736118",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "bro wispr flow went down for me... \n\ni'm so cooked lol i hate typing.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061474913165148194",
+    "time": "2026-06-01 23:48",
+    "id_str": "2061474913165148194",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: Good morning everyone...\nI feel like it's going to be an awesome week. \n\n(Sent from Codex Browser Use)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061477780030734426",
+    "time": "2026-06-01 23:59",
+    "id_str": "2061477780030734426",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @jeremydevz: how to open multiple browser tabs in the codex app sidebar ⬇️\n\nthanks @rileybrown for showing me this! https://t.co/E3uGver…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061491247236231234",
+    "time": "2026-06-02 00:53",
+    "id_str": "2061491247236231234",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Memory infra layer for agents, massive unlock",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2061466097623376006",
+    "time": "2026-06-01 23:13",
+    "id_str": "2061466097623376006",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We gave agents tools before we gave them memory.\n\nThat was backwards.\n\nNow they can browse, code, email, book meetings, hit APIs…\n\n…but still wake up tomorrow with no idea what they learned yesterday.\n\nThat is not an agent stack. That is a very expensive goldfish with https://t.co/vH1kBgbqNt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2061465235270107516",
+    "time": "2026-06-01 23:09",
+    "id_str": "2061465235270107516",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Stanford ran 3,680 sessions on Claude, GPT-5.2, and Gemini.\n\nOverworked AI agents started questioning the system they ran…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2061465732349849670",
+    "time": "2026-06-01 23:11",
+    "id_str": "2061465732349849670",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Going to CVPR in Denver this week?\n\nOur team at @a16z and several of our portfolio companies are hosting events!\n\nCome hang with us - links 👇 https://t.co/NWOzK6RiuH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061460189513974004",
+    "time": "2026-06-01 22:49",
+    "id_str": "2061460189513974004",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@a16z This isn't the first event (chronologically), but it's the biggest one.\n\nWe're hosting a happy hour on Friday with several members of our investment team + a bunch of our portfolio companies.\n\nShould be very fun, RSVP ⬇️\n\nhttps://t.co/x0xoWxkNd7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061460783599350041",
+    "time": "2026-06-01 22:52",
+    "id_str": "2061460783599350041",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@a16z We're hosting two luncheons on Thursday and Friday. \n\nThursday is generative media, and Friday is multimodal infra &amp; systems.\n\nhttps://t.co/6flZeMjbXz\n\nhttps://t.co/cR6WXpWXTk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061461085694116234",
+    "time": "2026-06-01 22:53",
+    "id_str": "2061461085694116234",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@a16z Our portfolio company Luma (@LumaLabsAI) is hosting a happy hour on Thursday.\n\nCome chat with members of the research team: https://t.co/FPll34JHBL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061461433087299601",
+    "time": "2026-06-01 22:54",
+    "id_str": "2061461433087299601",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@a16z @LumaLabsAI And last but certainly not least - Black Forest Labs (@bfl_ai) is hosting a drinks party on Saturday.\n\nAlways an incredibly fun group!\n\nhttps://t.co/th4zFFibmH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061461841478316039",
+    "time": "2026-06-01 22:56",
+    "id_str": "2061461841478316039",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@a16z @LumaLabsAI @bfl_ai Also shoutout to our portfolio companies that will be in attendance this week: \n\n@fal - gen media cloud\n@overshootai - realtime vision API\n@krea_ai - AI creative tools\n@ideogram_ai - AI design models + tools\n@LumaLabsAI - AI agents for creative work\n\ncont. ⬇️",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061465704654635312",
+    "time": "2026-06-01 23:11",
+    "id_str": "2061465704654635312",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@a16z @LumaLabsAI @bfl_ai @fal @overshootai @krea_ai @ideogram_ai @bfl_ai - open source generative models\n@PhotaLabs - AI-powered photo tools\n@theworldlabs - 3D world models\n@ShizukuAILabs - AI character lab\n@QuiverAI - foundation models for vector graphics",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061466454591987893",
+    "time": "2026-06-01 23:14",
+    "id_str": "2061466454591987893",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Live footage of everyone trying to buy a house in the Bay Area https://t.co/ckONaM3kYD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061484396004139066",
+    "time": "2026-06-02 00:25",
+    "id_str": "2061484396004139066",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We’re thrilled to be leading Endra’s Series A.\n\nThe built world runs on software older than some of the engineers using it.\n\nEndra is doing something about it. They automate the design work done by mechanical, electrical, and plumbing (MEP) consultants, the engineers who design https://t.co/5kOw8FQnEk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2061468521935352238",
+    "time": "2026-06-01 23:22",
+    "id_str": "2061468521935352238",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "American defense companies are proving that operations can run at \"machine speed\".\n\nThe Pentagon hasn’t yet figured out how to support them in the field at the same tempo.\n\nIn fact, past automation efforts went poorly and ended up actually needing more people.\n\nThat’s obviously a https://t.co/SR4mEDtiPx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2061490405531848936",
+    "time": "2026-06-02 00:49",
+    "id_str": "2061490405531848936",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "给播客设计封面，我想让 AI 在橘色的背景中放置一把舒适的椅子，但是 AI 试了多次，我始终不满意\n我只好去翻找人类设计师做过的经典的椅子\n翻了几页，一眼就看上了这把 \nBall Chair 星球椅\n这把椅子本身就很像一只被刀切开的橘子\n世界上怎么会有这么完美地契合「橘座」这个名字的椅子呢？ https://t.co/S7z0jOrl8T",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2061444194506506505",
+    "time": "2026-06-01 21:46",
+    "id_str": "2061444194506506505",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "今天 AI 已经让越来越多人有能力做出漂亮、有用、有想象力的东西。\n\n但真正的鸿沟，不再只是“谁能做出来”，而是“谁能被看见”。\n\n所以我们要把 Open Design 变成一个舞台。\n\n只要你用它做了 plugin、skill、template、workflow，或者任何值得被看见的实验，发给我们。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2061452583902834897",
+    "time": "2026-06-01 22:19",
+    "id_str": "2061452583902834897",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI Voice Hack Night 上一个团队的现场 demo\n\n为手机做的 \"agentic 操作系统\"\n\n这个应该是我们大家都向往的AI助理形态，而且也是会颠覆手机商业模式的一种全新形态\n\n因为演示的所有界面都是「即时生成」的，无需调用任何APP界面，也就是苹果的App Store商业模式要完蛋了...\n\n核心思路是是「UI https://t.co/vCrrJU51lo",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2061414052916547705",
+    "time": "2026-06-01 19:46",
+    "id_str": "2061414052916547705",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "原视频：https://t.co/QpT0LundQ0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2061422358888644783",
+    "time": "2026-06-01 20:19",
+    "id_str": "2061422358888644783",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "分享《2026-06-01 海外信息差监控报告》 ，详细报告：\nhttps://t.co/zqlxeNBAy0 https://t.co/wy4o0T02lm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061431425576923243",
+    "time": "2026-06-01 20:55",
+    "id_str": "2061431425576923243",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "数字游民的收入，在所有兼职工种里面算是最高的 ... https://t.co/k6KgMA4g9j",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061434756688953848",
+    "time": "2026-06-01 21:08",
+    "id_str": "2061434756688953848",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "在这里查看： https://t.co/BzzYpVdFpl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061434813689593963",
+    "time": "2026-06-01 21:08",
+    "id_str": "2061434813689593963",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "冷知识：本科生是最好找工作的学历，没有之一。\n\n本科、专科、硕士、博士的处境更艰难；\n\n工作年限越低越好找工作，\n\n 工作10年以上的人，处境更艰难。\n\n分享 《2026年6月1日 JobLeap 每日岗位速报》，\nhttps://t.co/h7QNICld0c\n\n有兴趣的朋友可以读一下。 https://t.co/d2x4yK2xb6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061458570059665661",
+    "time": "2026-06-01 22:43",
+    "id_str": "2061458570059665661",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "冷知识： 目前比较火的经常给大家讲幸福课的 纳瓦尔 ，如何从一贫如洗经历多次失败，还是能翻身成为大富翁...\n\n他所用的方法，在国内无法复制 。在国内叫做 ‘非法集资’，是要入狱的 ...\n\n他自己搞的一级市场区域性股权交易所，在国内是牌照生意，普通人，根本就不被允许 ...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061486795506778371",
+    "time": "2026-06-02 00:35",
+    "id_str": "2061486795506778371",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @vista8: 在 X 上看了不少文章封面，发现普遍都很丑，包括自己的。\n\n我让@xiaoxiaodong01 发了一个他满意的提示词。\n\n在此基础让 ChatGPT优化，把硬性限定词都去掉，给 AI 充分的发挥空间。\n\n以后任意一篇文章丢给ChatGPT或Codex都…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061489800884941175",
+    "time": "2026-06-02 00:47",
+    "id_str": "2061489800884941175",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Excited to share with you Adobe where I work full time partners with NVIDIA 🎉 \n\nAdobe is partnering with NVIDIA to optimize creative workflows across apps like Photoshop, Premiere, and Substance 3D with NVIDIA RTX Spark, helping creators spend less time waiting and more time https://t.co/afEcusRtAH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061497655289926143",
+    "time": "2026-06-02 01:18",
+    "id_str": "2061497655289926143",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "$NBIS has anime plot armor!\n\nHappy to hear Weebius has been outperforming the market and Neocloud basket ( $IREN / $CIFR ).\n\nLast year post MSFT earnings, I gave a prediction after Q4 earnings, Nebius would reach a $100B MC.\n\nWe’re currently sitting at $60B MC, getting close! https://t.co/e96TirkJT8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061425895307608561",
+    "time": "2026-06-01 20:33",
+    "id_str": "2061425895307608561",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "$NVDA, Siemens, and $FLNC develop reference power architectures for Vera Rubin N72.\n\nThis comes at the time FLNC has 2 likely hyperscaler deals coming up. \n\nJust in case why you’re wondering it’s up 36%. https://t.co/8f4gAhJeTE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061442981102764171",
+    "time": "2026-06-01 21:41",
+    "id_str": "2061442981102764171",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "There's a new $SIVE short seller with 0 clue what they're talking about. \n\n1. $MRVL Celestial is likely buying lasers directly with $SIVE as the laser supplier, not through $POET. \n\nAs they've been identified as a likely direct customer since 2023. \n\nAn analogy is if O-Net / https://t.co/XDrPS6OVNG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061456212303221196",
+    "time": "2026-06-01 22:33",
+    "id_str": "2061456212303221196",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "A special thank you to the only European stock green today: $IQE. \n\nUp to $54, from when I went long at $12-13, 4 months ago. \n\nUnfortunately lot of volatility with the other ones from $LPK, $SOI, $XFAB, and $ALRIB. https://t.co/FysZyHk5OK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061466217911853429",
+    "time": "2026-06-01 23:13",
+    "id_str": "2061466217911853429",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "And a few months later... my $EWY leaps are now up 485%. \n\nFrom IV expansion and directional memory longs. \n\nUnfortunately I did see a lot of people sell during the Iran volatility, due to doomposting everywhere on X.\n\nBut returns going long on the memory sector from Samsing SK https://t.co/WC7GD5RWka",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061470490083143996",
+    "time": "2026-06-01 23:30",
+    "id_str": "2061470490083143996",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "Holy sht, plot armor confirmed with $NBIS https://t.co/1QwwKSRxSt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061479663181189201",
+    "time": "2026-06-02 00:07",
+    "id_str": "2061479663181189201",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "$ARM is just ridiculous.\n\n$134 straight to $413 in just 2 1/2 months. \n\nShould have went options, would have been up thousands of percent instead of only 3x. https://t.co/tF335Qp656",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061486607870652876",
+    "time": "2026-06-02 00:34",
+    "id_str": "2061486607870652876",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "I did say $AAOI was my favorite US optical long...\n\n+20.1% today. \n\nIf you want the next $SNDK, you're looking at it. \n\nI think H1 entering H2 2027 will likely be that massive inflection point for photonics players. \n\nWe're just a tad early entering H2 2026 while everyone is https://t.co/0JuWJFrz32",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061498698098708676",
+    "time": "2026-06-02 01:22",
+    "id_str": "2061498698098708676",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Let's see how M3 performs on @BAI_AGI !",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2061411551429710275",
+    "time": "2026-06-01 19:36",
+    "id_str": "2061411551429710275",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "全网最低价！MiniMax M3 限时低至 2.5 折",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2061480541015417135",
+    "time": "2026-06-02 00:10",
+    "id_str": "2061480541015417135",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Lowest Price! Access MiniMax M3 at 75% OFF on https://t.co/nMjQcILxG5 @MiniMax_AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2061487607352328239",
+    "time": "2026-06-02 00:38",
+    "id_str": "2061487607352328239",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @TMTLongShort: Since ChatGPT came out something like  $10T in market cap has been added due to the AI boom. \n\nAlmost entirely driven by…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061470426761752826",
+    "time": "2026-06-01 23:30",
+    "id_str": "2061470426761752826",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061470455224303806",
+    "time": "2026-06-01 23:30",
+    "id_str": "2061470455224303806",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @LoganDobson: I don’t want to tell you what to think, I simply insist that you ask yourself why America’s rivals want you to hate Americ…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061471015763685397",
+    "time": "2026-06-01 23:32",
+    "id_str": "2061471015763685397",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061471058721648907",
+    "time": "2026-06-01 23:32",
+    "id_str": "2061471058721648907",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @resistancemoney: cypherpunk humanism — this is my view\n\nhumanism: it is good to be us, and to pursue human excellence. this is what we…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061471783006638192",
+    "time": "2026-06-01 23:35",
+    "id_str": "2061471783006638192",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061471804959621188",
+    "time": "2026-06-01 23:35",
+    "id_str": "2061471804959621188",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @stspanho: 🏃‍♂️ I've gamified my own run so I can race my own ghost with the Meta Ray-Ban Display.  \n\nI built a web app for the glasses,…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061472355315278221",
+    "time": "2026-06-01 23:38",
+    "id_str": "2061472355315278221",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Amazing.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061472374881677585",
+    "time": "2026-06-01 23:38",
+    "id_str": "2061472374881677585",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @davidsenra: Ivanka @IvankaTrump and @eladgil are \nworking on a project that uses Al to translate the world's great public-domain books…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061472648404840533",
+    "time": "2026-06-01 23:39",
+    "id_str": "2061472648404840533",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Amazing.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061472663420444699",
+    "time": "2026-06-01 23:39",
+    "id_str": "2061472663420444699",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @MattPerault: .@ESPriceWright on data centers: “This is investment going into teaching us how to build mega projects again in the US.”…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061475516256076088",
+    "time": "2026-06-01 23:50",
+    "id_str": "2061475516256076088",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Many people are saying!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061475538406187291",
+    "time": "2026-06-01 23:50",
+    "id_str": "2061475538406187291",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @dhaber: The way we design and construct buildings hasn't fundamentally changed since 1997.\n\nEndra is bringing AI to the MEP industry -…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061477758665126347",
+    "time": "2026-06-01 23:59",
+    "id_str": "2061477758665126347",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "It’s time to build.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061477779724767347",
+    "time": "2026-06-01 23:59",
+    "id_str": "2061477779724767347",
+    "is_retweet": false
+  }
+]
