@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "MiniMax 这次终于发布了他们的大版本号模型升级 MiniMax M3。\n\n主要是三个核心能力：\n\n1. 标配了 1M 的超长上下文\n\n2. 采用新的 MSA（MoE with Segment-wise Attention）稀疏注意力架构\n\n3. 从训练起就融合了原生多模态能力，包括强化了文本、图片、视频和桌面操作这些多模态的训练。\n\nMSA https://t.co/WUmtCc7aKW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2061327301644861608",
+    "time": "2026-06-01 14:01",
+    "id_str": "2061327301644861608",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "妈的，终于搞定我的 Codex 断联和推理慢的问题了！\n\n我有一台电脑上的 Codex 推理速度巨慢，即使开了快速模式也很慢，还有一个问题就是经常连不上。\n\n我一直以为是自己的网络有问题，但它和我的 Mac Studio 处于同一个网络环境，Mac Studio 运行就非常快。\n\n结果今天发现，是我的 config",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2061335964992323744",
+    "time": "2026-06-01 14:36",
+    "id_str": "2061335964992323744",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谁能想到藏师傅有天也能上央视新闻呢 https://t.co/NrjOWnDMz2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2061336925286629879",
+    "time": "2026-06-01 14:39",
+    "id_str": "2061336925286629879",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: Your prompt isn't broken. One word inside it is.\n\nSame structure. Same model. Same context. Change one word and the output…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2061367302000726405",
+    "time": "2026-06-01 16:40",
+    "id_str": "2061367302000726405",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Stanford ran 3,680 sessions on Claude, GPT-5.2, and Gemini.\n\nOverworked AI agents started questioning the system they ran in.\n\nThe headlines called it Marxism. I read the full paper. The real finding is about how agents actually work.\n\nResearchers Andy Hall, Alex Imas, and Jeremy https://t.co/62lhbBWmzA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2061373784771465595",
+    "time": "2026-06-01 17:06",
+    "id_str": "2061373784771465595",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "If you like this breakdown, also check this out.\n\nTurn Claude into 20+ different specialists for marketing &amp; business.\n\nInstall real expertise, not just prompts.\n\nGet my Claude skills bundle 👇\nhttps://t.co/4GX8faMyEP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2061373796851044695",
+    "time": "2026-06-01 17:06",
+    "id_str": "2061373796851044695",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @nexudotio: Designing something is the easy part.\n\nGetting people to discover it, use it, and talk about it is the hard part.\n\nThis camp…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2061351239833497805",
+    "time": "2026-06-01 15:36",
+    "id_str": "2061351239833497805",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Open Design 马上支持 browser 的能力，包括支持一整套做设计的辅助网页，帮助你完成从想法到设计上线的全链路 🔥 https://t.co/exGd3tf8xo",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2061389989573763480",
+    "time": "2026-06-01 18:10",
+    "id_str": "2061389989573763480",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "https://t.co/7fuhR3IQ5a",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2061390044393332881",
+    "time": "2026-06-01 18:11",
+    "id_str": "2061390044393332881",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "自从推特上线了自动翻译功能之后，全世界人民都开始对账了...\n好像失业率也就中国最低，大家都有满意的工作，\n生活幸福美满 ...\n海外人民都生活在水生火热之中 ...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061363116353663163",
+    "time": "2026-06-01 16:23",
+    "id_str": "2061363116353663163",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "LongCat 模型服务下线通知\n\n各位 LongCat 模型测试用户大家好，LongCat-2.0-Preview 上线测试以来，用户申请非常踊跃，服务资源需要持续增加。我们将停止老模型的测试，集中资源支持好 LongCat-2.0-Preview 的测试和迭代。\n\n自 2026年5月29日 起，平台已停止以下 6 个模型的调用服务：",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061384718625722778",
+    "time": "2026-06-01 17:49",
+    "id_str": "2061384718625722778",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "果然不能白嫖了 -_-。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2061384845880955154",
+    "time": "2026-06-01 17:50",
+    "id_str": "2061384845880955154",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "I had higher expectations for Shunsin tbh.\n\nIt’s been close to a month and a half and it’s only up 39.96%.\n\nMaybe I’m not as good with Taiwanese optical stocks. https://t.co/MbqvMTPiE6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061333906226614403",
+    "time": "2026-06-01 14:27",
+    "id_str": "2061333906226614403",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "Just some mobile shower thoughts around $XFAB and train of thought:\n\n1. 800vdc $NVDA push look for GaN/SiC players / power semis.\n\n2. $NVTS and other fabless/fab-lite beneficiaries of $NVDA push probably use foundry models \n\n3. care more about Western supply chains over Asia,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061348882685243497",
+    "time": "2026-06-01 15:27",
+    "id_str": "2061348882685243497",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "It’s actually just a cultural thing in Sweden to dislike anything special or growth related. \n\nThey’re telling everyone to “give up on markets”\n\nDon’t take it to heart, just something to laugh at and welcome.\n\nSince it shifts control to US funds + likely makes Sivers a US company https://t.co/nTjLEyAKVD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061365325741101442",
+    "time": "2026-06-01 16:32",
+    "id_str": "2061365325741101442",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "This is the biggest TAM expansion + revenue driver with $SIVE, markets haven’t noticed.\n\nSivers is actively working with new pluggable optical transceiver companies.\n\nAfter Jabil 1.6T LRO used Sivers lasers to achieve a “relatively dramatic moat”. \n\n“Actively working”, so https://t.co/NYGMP7tyV4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061384495576789401",
+    "time": "2026-06-01 17:48",
+    "id_str": "2061384495576789401",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "It’s mainly just “follow the leader” algorithmic selloff in current photonics markets.\n\nMost laser/optical related companies from $AAOI to $SIVE seem tied to $LITE performance…\n\nDespite individual fundamentals improving. Eg. (AOI with $AMD / $NVDA discussions).\n\nAlgorithms don’t https://t.co/gBm50DRqFj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061395355695226960",
+    "time": "2026-06-01 18:32",
+    "id_str": "2061395355695226960",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Minimax on https://t.co/nMjQcILxG5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2061382126675849227",
+    "time": "2026-06-01 17:39",
+    "id_str": "2061382126675849227",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I’ve known quite a few people like this. The trick is to find the ones who aren’t self-destructive.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061327396821963175",
+    "time": "2026-06-01 14:02",
+    "id_str": "2061327396821963175",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @robkhenderson: Interesting: https://t.co/PfJq7pjWyb https://t.co/bkA10x5F2F",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061344063673250173",
+    "time": "2026-06-01 15:08",
+    "id_str": "2061344063673250173",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Many such cases. https://t.co/4TDWN6Ekss",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061344110653645250",
+    "time": "2026-06-01 15:08",
+    "id_str": "2061344110653645250",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @UnderSecPD: In 2021, Canadian media and institutions basically hallucinated the discovery of 215 children’s bodies in a mass grave near…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061345963076423877",
+    "time": "2026-06-01 15:15",
+    "id_str": "2061345963076423877",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061345985020961265",
+    "time": "2026-06-01 15:15",
+    "id_str": "2061345985020961265",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @fabianstelzer: no introspection you say? https://t.co/8acgbLNcNs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061348024648110516",
+    "time": "2026-06-01 15:24",
+    "id_str": "2061348024648110516",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Sure, but what did they ever do?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2061348086119817555",
+    "time": "2026-06-01 15:24",
+    "id_str": "2061348086119817555",
+    "is_retweet": false
+  }
+]
