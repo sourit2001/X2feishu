@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "RT @trq212: https://t.co/R6exTuF7P8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2061928642029158853",
+    "time": "2026-06-03 05:51",
+    "id_str": "2061928642029158853",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "RT @DKThomp: This has quietly been a miracle month in medicine. \n\nIn the last 5 weeks we’ve got news on:  \n\n- retatrutide, the triple agoni…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2061930040003280905",
+    "time": "2026-06-03 05:56",
+    "id_str": "2061930040003280905",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @vista8: 我去，一句话建网站啊，还能分享给别人查看。\n\n企业版，注意必须企业版更新Codex后， @ site 使用。\n\nCodex这次更新有点强！\n\nAnthropic 只是Design，OpenAI更进一步，包设计，还包网站生成。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2061917292410069109",
+    "time": "2026-06-03 05:06",
+    "id_str": "2061917292410069109",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I wish the logos and textbox-at-the-bottom interfaces for Discord and Codex did not look so alike at a glance. I have confused the two a couple of times, leading to a confused GPT-5.5 and a confused groupchat.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2061905595360272648",
+    "time": "2026-06-03 04:19",
+    "id_str": "2061905595360272648",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is difficult to know how good MAI-Thinking-1 is from the scores alone (like weirdly low GPQA &amp; Terminal Bench 2.0)\n\nBut Microsoft makes it really hard to try its models upon release (a general issue with many Microsoft AI products), so I dunno. Stats below Meta Spark, though.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2061907785768489127",
+    "time": "2026-06-03 04:28",
+    "id_str": "2061907785768489127",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Kudos to the team on a really good technical write-up, though, which a lot of AI labs are no longer providing. https://t.co/CuRv7ro3Tm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2061908259137523824",
+    "time": "2026-06-03 04:30",
+    "id_str": "2061908259137523824",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The everything apps still look a lot like hybrids between chatbots and IDEs, rather than something built for general knowledge work.\n\nToo much assuming linearity &amp; that final outputs are the only goal, too little connection to research, not enough chances to steer or select, etc.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2061931631124914452",
+    "time": "2026-06-03 06:03",
+    "id_str": "2061931631124914452",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: If you want to get started using Codex here are my last 5 videos:  \n\nVideo 1: Learning 95% of Codex in 28 min \n(Knowledge W…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2061931549587624220",
+    "time": "2026-06-03 06:02",
+    "id_str": "2061931549587624220",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I've arrived in Denver for #CVPR2026\n\nWould love to chat if you're thinking about founding or joining a startup (now or in the future) 👀\n\nWe work with many researcher founders at @a16z and always enjoy hearing the things you're excited about. https://t.co/pZv6kuM8C4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2061933811030474846",
+    "time": "2026-06-03 06:11",
+    "id_str": "2061933811030474846",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Opus 4.7、4.8 的接连失败令人费解\n价格更贵，效果无提升，甚至负提升\n看看日历，突然意识到\nClaude 已经停滞了 4 个月\n即便是掌握了模型训练的方法，即便内部已经有了 Mythos 这样的开发利器\n模型的进步还是没有太多加速，依然半年一次大更新？ https://t.co/eDTgiMmogg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2061934587350335566",
+    "time": "2026-06-03 06:14",
+    "id_str": "2061934587350335566",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "当 CEO 发现 Token 很贵\n https://t.co/we8Yf9Q4WB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2061941345003118888",
+    "time": "2026-06-03 06:41",
+    "id_str": "2061941345003118888",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Super grateful for all of your support of my AI work",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061918292533534722",
+    "time": "2026-06-03 05:10",
+    "id_str": "2061918292533534722",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A bot purge is currently happening on X. \nIt's not you. Curious how many you lost. I lost 40 bots. \nEarlier I blocked 10 verified bots. So 50 bots in total.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061918892432211992",
+    "time": "2026-06-03 05:12",
+    "id_str": "2061918892432211992",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Share 5 jobs you had, let’s get to know each other. \n\nHere’re mine:\n\n- Software engineer \n- Photographer\n- AI Consultant \n- Head of AI \n- Sr. Creative AI Evangelist &amp; Community Advocate",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061928895830540445",
+    "time": "2026-06-03 05:52",
+    "id_str": "2061928895830540445",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Congratulations, Aeri 🎉 \nI recommended you to Firefly Ambassadors program and so glad you got selected",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061929212877971766",
+    "time": "2026-06-03 05:53",
+    "id_str": "2061929212877971766",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Congratulations, Billy! \nSo glad you got selected. I love your work and recommended you for this wave.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061929561898602758",
+    "time": "2026-06-03 05:54",
+    "id_str": "2061929561898602758",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I’ve been part of Cartoon Hero community from day 1. \n\nFramer is a dear friend and his AI video courses are amazing. I highly recommend it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061929796070707489",
+    "time": "2026-06-03 05:55",
+    "id_str": "2061929796070707489",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @macbethAI: Fractilization https://t.co/SY9FOcJ9gB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061929899523244531",
+    "time": "2026-06-03 05:56",
+    "id_str": "2061929899523244531",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Drop your art and connect with everyone who dropped theirs https://t.co/W9pPcScZTP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061930852393574474",
+    "time": "2026-06-03 05:59",
+    "id_str": "2061930852393574474",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Always",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061931008249766353",
+    "time": "2026-06-03 06:00",
+    "id_str": "2061931008249766353",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How beautiful",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2061934204288475317",
+    "time": "2026-06-03 06:13",
+    "id_str": "2061934204288475317",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "Okay yeah should have trusted Jensen more on $MRVL after what he did with $NBIS.\n\nHe actually gave a $1T price target this time with Marvell. \n\nMarvell up 35% with one remark… https://t.co/Evv6QF8oMO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2061914361120362678",
+    "time": "2026-06-03 04:54",
+    "id_str": "2061914361120362678",
+    "is_retweet": false
+  }
+]
