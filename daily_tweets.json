@@ -1,1 +1,252 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This provides some sense of scale",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2062613724523864464",
+    "time": "2026-06-05 03:13",
+    "id_str": "2062613724523864464",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @BasilTheGreat: 🚨BREAKING: SPECIALIST DOCTOR SAYS HENRY NOWAK COULD HAVE LIVED IF NOT FOR POLICE\n\nIn summary:\n\n- Henry was alive when th…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2062614031546880033",
+    "time": "2026-06-05 03:14",
+    "id_str": "2062614031546880033",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "产品设计的重要性：）",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2062593766658015636",
+    "time": "2026-06-05 01:54",
+    "id_str": "2062593766658015636",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 给 ChatGPT 的记忆系统做了一次大升级，新架构叫“Dreaming”（做梦）。核心变化：ChatGPT 不再需要你主动说“记住这个”，它会在后台自动从你的聊天记录里提炼、整合、更新记忆。https://t.co/jV9IaUKRdy \n\n旧版记忆 2024 年 4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2062616573790265543",
+    "time": "2026-06-05 03:24",
+    "id_str": "2062616573790265543",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Based on anecdotal conversations with peers, there is enthusiasm for AI among academics in the humanities (while still being worried - rightly - about the negative consequences as well), but they generally don't post their opinions about it on social media, for obvious reasons.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2062602236434251784",
+    "time": "2026-06-05 02:27",
+    "id_str": "2062602236434251784",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Some very cool stuff happening among historians, for example. https://t.co/pdpbloSjIi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2062602745509560555",
+    "time": "2026-06-05 02:29",
+    "id_str": "2062602745509560555",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "An engineer at Anthropic just shared how the team prompts Claude internally.\n\nIt looks nothing like the 3,000-word mega-templates the gurus sell you, and the difference is the entire lesson.\n\nLook at what it contains.\n\nIt names real tools from memory: /goal, AskUserQuestion, the",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062603189363552498",
+    "time": "2026-06-05 02:31",
+    "id_str": "2062603189363552498",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "By the way, check this out.\n\nTurn Claude into 20+ different specialists for marketing &amp; business.\n\nInstall real expertise, not just prompts.\n\nGet my Claude skills bundle 👇\nhttps://t.co/4GX8faMyEP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062603201875218833",
+    "time": "2026-06-05 02:31",
+    "id_str": "2062603201875218833",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We replaced a $60k junior developer with a proactive AI agent that casually ran up a $150k API bill in three weeks. Corporate efficiency at its finest https://t.co/VDBnoVCblT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062612813890093497",
+    "time": "2026-06-05 03:09",
+    "id_str": "2062612813890093497",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Exa CEO Will Bryk explains why retrieval can help solve the tokenpocalypse:\n\n\"We should not be using gigantic models for every task.\"\n\n\"You should use a family of models of different sizes. The big model decides what to do, and it dishes out commands to the small models, and https://t.co/bYl3DsgLKV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2062596692495778293",
+    "time": "2026-06-05 02:05",
+    "id_str": "2062596692495778293",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "No comment \n\n#99u https://t.co/2SvhElKhH2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062590890745483511",
+    "time": "2026-06-05 01:42",
+    "id_str": "2062590890745483511",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Do you use AI to develop yourself or to shrink your brain?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062591650484867239",
+    "time": "2026-06-05 01:45",
+    "id_str": "2062591650484867239",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Keep growing your brain",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062593869829619819",
+    "time": "2026-06-05 01:54",
+    "id_str": "2062593869829619819",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I’m not high, I am at Adobe 99u conference and it’s really inspiring \n\nExpect 300 posts today 😅  you can watch the conference online for free. Conversations about AI and creativity are unexpectedly (to me) enlightening.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062594997140983871",
+    "time": "2026-06-05 01:59",
+    "id_str": "2062594997140983871",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I promise to respond to all of your amazing replies and messages. I appreciate you a lot.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062595200522838157",
+    "time": "2026-06-05 01:59",
+    "id_str": "2062595200522838157",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I met @superama_ and @wildy_martinez and the heart is so full. \n\nAmazing artists from our AI community. I am on a mission to meet all of you in person\n\n#99u https://t.co/rSpG2MmGnT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062601455538745641",
+    "time": "2026-06-05 02:24",
+    "id_str": "2062601455538745641",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Told @karenxcheng that I am obsessed with her work and cried in my room when I first listened to her talk at Adobe MAX about algorithms. I could resonate so much. \n\nShe gave me a hug. A HUG. She is an incredible creator and takes AI work on another level. \n\n#99u https://t.co/Fgk4nE0Iz9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062604198953316526",
+    "time": "2026-06-05 02:35",
+    "id_str": "2062604198953316526",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "すごいね😍",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062604354528370922",
+    "time": "2026-06-05 02:36",
+    "id_str": "2062604354528370922",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @hi_personality: entrenched https://t.co/tLvIh5P1bx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062606692697686157",
+    "time": "2026-06-05 02:45",
+    "id_str": "2062606692697686157",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "You can just vibe code things \n\nIncredible presentation with @DonAllenIII and the thing he built with Claude \n\n#99u https://t.co/2e3zOh3MBj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062612134836449568",
+    "time": "2026-06-05 03:07",
+    "id_str": "2062612134836449568",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @PERFECTL00P: 𝙲𝚘𝚙𝚢𝚒𝚗𝚐... 📁📰📂🟦 https://t.co/Qtu6BXdkjj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062614217664925938",
+    "time": "2026-06-05 03:15",
+    "id_str": "2062614217664925938",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @UnderSecPD: “We” are the international consensus who care about freedom.  You know — the one NATO member nations invoke when they want…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2062594018513752439",
+    "time": "2026-06-05 01:55",
+    "id_str": "2062594018513752439",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "The United States government stands up for free speech.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2062594103297372213",
+    "time": "2026-06-05 01:55",
+    "id_str": "2062594103297372213",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @noam_dworman: Second for second, @tylercowen packs more substance into a talk than anyone I'm aware of. This is a clear, non-hysterical…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2062595174451319025",
+    "time": "2026-06-05 01:59",
+    "id_str": "2062595174451319025",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Self recommending.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2062595200401420719",
+    "time": "2026-06-05 01:59",
+    "id_str": "2062595200401420719",
+    "is_retweet": false
+  }
+]
