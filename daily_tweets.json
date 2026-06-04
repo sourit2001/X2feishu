@@ -388,5 +388,265 @@
     "time": "2026-06-04 16:15",
     "id_str": "2062448174808310079",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: The dumbest-looking line in my CLAUDE. md is the most useful thing in it.\n\nIt tells Claude to call me \"God\" in every singl…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062452596422644055",
+    "time": "2026-06-04 16:33",
+    "id_str": "2062452596422644055",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: TRAE just killed the “which agent should I use?” problem.\n\nSOLO Builder and SOLO Coder are now merged into one unified SOL…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062452986413273374",
+    "time": "2026-06-04 16:34",
+    "id_str": "2062452986413273374",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: For a year, every AI account on this app has said the same thing: \"Hollywood is cooked. Anyone can make a movie now.\"\n\nThe…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062454378863493335",
+    "time": "2026-06-04 16:40",
+    "id_str": "2062454378863493335",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "AI 3D just got way harder to ignore.\n\nBefore: cool front view, cursed backside.\nNow: 1M-polygon models in seconds, cleaner 360° textures, and high-detail geometry that can hit 10M+ polygons.\n\nRodin Gen-2.5 is not a tiny upgrade.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062492709865275691",
+    "time": "2026-06-04 19:12",
+    "id_str": "2062492709865275691",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The crazy part is speed.\n\nRodin can generate 1M-polygon models in as little as 4 seconds.\n\nThat means you can explore ideas almost instantly instead of waiting forever for one output that may not even work. https://t.co/SnrV4lcUwv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062492796293120334",
+    "time": "2026-06-04 19:12",
+    "id_str": "2062492796293120334",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "But it’s not just fast.\n\nYou can control the quality window:\n\n4s for rough drafts\n20s for balanced assets\n40s for richer structure\n80s for extreme detail\n\nAt the top end, it can preserve tiny surface details like skin microstructures. https://t.co/dJATeoYLp8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062492869823533109",
+    "time": "2026-06-04 19:13",
+    "id_str": "2062492869823533109",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The texture upgrade matters even more.\n\nMost AI 3D tools collapse when you inspect the model.\n\nRodin’s new 3D-native texture system gives full 360° coverage, better surface faithfulness, and PBR materials that look more usable in real pipelines. https://t.co/ZgIN1EdXNs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062492950450647205",
+    "time": "2026-06-04 19:13",
+    "id_str": "2062492950450647205",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "And with parallel batch generation, you can create multiple directions at once instead of gambling on one result.\n\nBut for faster ideation, props, concepts, and production workflows?\n\nThis is the kind of AI upgrade people actually use.\n\nTry Hyper3D Rodin Gen-2.5:",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062492962572087493",
+    "time": "2026-06-04 19:13",
+    "id_str": "2062492962572087493",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "正式开源 html-video 🚀 html版剪映来了！\n\n你的 Agent 现在可以通过写 html轻松做出世界级水准的产品宣传、知识解说视频，成本极低！🔥\n\n历时 3 天，3 万行代码！支持20多套顶尖视频风格模板，分页编辑，mp4 导出，支持包括Claude Code、Codex、hermes、cursor等主流 Agent接入即用💥地址见评论区 https://t.co/jsgztt2j32",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062470358687498470",
+    "time": "2026-06-04 17:43",
+    "id_str": "2062470358687498470",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "1）html-video 项目基于 hyperframes 框架构建， @HyperFrames_  ，Apache 2.0 开源，由 Open Design 团队原班人马打造\nrepo 地址👉https://t.co/x0AgNRKysb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062470446960836840",
+    "time": "2026-06-04 17:44",
+    "id_str": "2062470446960836840",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "@HyperFrames_ 2）html-video 内置了 20 多套顶级 html 视频模板，适合用来做产品宣传、知识解说、数据可视化...\n只需丢给 Agent 一个网站链接、文件、公众号文章...Agent 就能帮你生成动态mp4 视频\n所有模板同样可在 Open Design 中找到：https://t.co/7fuhR3IQ5a https://t.co/8xk1BboFts",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062471097782534474",
+    "time": "2026-06-04 17:46",
+    "id_str": "2062471097782534474",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "@HyperFrames_ 3）html-video 支持分页预览、分页编辑和帧文字编辑，修改视频更快更方便，不用每改一次就要导出一次看效果\n\n同步支持 横屏16:9 / 视频9:16 / 方形 1:1 / 小红书 4:5 等多种视频尺寸 https://t.co/MIfdhKVeiq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062471315366285460",
+    "time": "2026-06-04 17:47",
+    "id_str": "2062471315366285460",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "@HyperFrames_ 4）html-video 自动识别本地 6 种 code agent cli——Codex、Claude Code、hermes、cursor agent...顶部栏一键切换，无需额外配置任何 API key\n\n没有本地 Agent 的用户也可以直接使用官方AMR接入 https://t.co/Ffe3pmkOAS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062471462452158793",
+    "time": "2026-06-04 17:48",
+    "id_str": "2062471462452158793",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "@HyperFrames_ 5）html-video 已接入 Minimax @MiniMax_AI  ，支持直接根据视频内容生成配音和配乐 https://t.co/jkt2cPvieN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062471625681912067",
+    "time": "2026-06-04 17:48",
+    "id_str": "2062471625681912067",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "@HyperFrames_ @MiniMax_AI 6）html-video 站在这些开源项目的肩膀上，感谢：\n➡️hyperframes视频生成框架和模板 @HyperFrames_，repo：https://t.co/MUzGA37hP1\n➡️multica多 CLI agent 探测策略@jiayuan_jy，repo：https://t.co/qSi0zRsdbj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062471724172525661",
+    "time": "2026-06-04 17:49",
+    "id_str": "2062471724172525661",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "HyperFrames is what got us hooked on the \"agent writes HTML, ffmpeg renders MP4\" loop. We ended up building html-video on top of it — same DNA, just a studio + CLI wrapped around the workflow. Open-sourced today.\n\nHuge thanks to @HeyGen 🙏\n\nhttps://t.co/VPhe4Mekyb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062476599035904197",
+    "time": "2026-06-04 18:08",
+    "id_str": "2062476599035904197",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "html-video 已经支持上传 @HeyGen 最新推出的 frames.md 来定义视频运动规范🔥，同时也支持通过design.md 定义视觉风格\n\n本地 Coding Agent 接入即用👉https://t.co/x0AgNRKysb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062489654419440003",
+    "time": "2026-06-04 19:00",
+    "id_str": "2062489654419440003",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "后面几天持续分享用 html-video 做的案例\n欢迎大家一起分享\n以及你想加入哪些模板，欢迎提 PR 和留言",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2062490787359682629",
+    "time": "2026-06-04 19:04",
+    "id_str": "2062490787359682629",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "https://t.co/pHyoKUSQG4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2062460284355444846",
+    "time": "2026-06-04 17:03",
+    "id_str": "2062460284355444846",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 分享 《 AI 信息差分析报告 - 2026-06-03 》 ，有兴趣的朋友可以查看：\n1.  Anthropic 将 Project Glasswing 扩展到 15 个国家的约 150 个组织.\n2. Mistral AI 商业模式转型.\n3. N…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2062468916522213752",
+    "time": "2026-06-04 17:38",
+    "id_str": "2062468916522213752",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 建议：新手别滥用 viber coding 。\n\n混用 中国和海外的大模型，viber coding ，我把所有研发坑都踩完了 :\n\n1.  时区问题，中国的大模型看 北京时间 ，美国的大模型看 美国时间 ...\n2.  Error code 到底是…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2062468939779657821",
+    "time": "2026-06-04 17:38",
+    "id_str": "2062468939779657821",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @Cloudflare: BGP is vulnerable to routing hijacks and path leaks that negatively impact traffic on the Internet. RPKI helps solve some o…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2062499147953955246",
+    "time": "2026-06-04 19:38",
+    "id_str": "2062499147953955246",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: I can't stop laughing at this meme prompt 😆\n\nWould love to see your experiments with it, as always. \n\nprompt 👇 https://t.c…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062494846644859285",
+    "time": "2026-06-04 19:21",
+    "id_str": "2062494846644859285",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "LOL. I’m honestly laughing there’s new media articles for each one of my X posts.\n\nI appreciate any objective coverage though since it helps combat a lot of the disinformation online. \n\nAm I that popular now? https://t.co/1fOsuqI9px",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2062452880980975633",
+    "time": "2026-06-04 16:34",
+    "id_str": "2062452880980975633",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "This timeline keeps getting more and more unreal…\n\n$NVDA Jensen Huang to meet Faker (League of Legends)\n\nI did talk with Jensen few years back about PUBG and GPU shortages for mining. \n\nAnd he was enthusiastic about ideas for cross-platform gaming + getting enough allocation to https://t.co/GoYNi0hPDY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2062465797558292937",
+    "time": "2026-06-04 17:25",
+    "id_str": "2062465797558292937",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Protect users. Fight crime. \n\nKeep building a safer crypto industry.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2062491462802248186",
+    "time": "2026-06-04 19:07",
+    "id_str": "2062491462802248186",
+    "is_retweet": false
   }
 ]
