@@ -1,1 +1,402 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/LRwFkKpB0x",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2062548455570985377",
+    "time": "2026-06-04 22:54",
+    "id_str": "2062548455570985377",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Well said  https://t.co/ks2LNlMy4C",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2062561362719498706",
+    "time": "2026-06-04 23:45",
+    "id_str": "2062561362719498706",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "RT @OpenAI: It's time to fly. https://t.co/ObUaCZ07EM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2062587844338561351",
+    "time": "2026-06-05 01:30",
+    "id_str": "2062587844338561351",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "说一下 guizang PPT Skills 还会继续更新啊。\n\n得益于最近的几个赞助，可以找时间去更新第三套主题了，依旧非常惊艳。\n\n同时，在小红书那个图文卡片部分积累的好经验，也会用到 PPT Skills 的新版里面。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2062558698107797562",
+    "time": "2026-06-04 23:34",
+    "id_str": "2062558698107797562",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "即览的新版已经上传，各位可以去 TestFlight 里面更新新版了。\n\n本次更新内容：\n1. 修复了一堆 Bug\n2. 同时支持了 iOS 17 和 iOS 18 系统 https://t.co/xLMVKQYy1b",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2062563287225733565",
+    "time": "2026-06-04 23:53",
+    "id_str": "2062563287225733565",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "CodePilot v0.55.0 正式版已经更新！\n\n重构完成的正式版：\n\n多执行引擎（Claude Code / 自建 Native / OpenAI Codex）、上下文用量可视化、Codex 账号原生能力全部落地为稳定版，并集中修复了 macOS 视觉与托盘、Windows 安装与交互、服务商型号映射等内测反馈问题。\n\n🆕新增功能 https://t.co/RdK90NRJ5E",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2062567442568933720",
+    "time": "2026-06-05 00:09",
+    "id_str": "2062567442568933720",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "详情：https://t.co/wI2cSBZobV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2062567543076987098",
+    "time": "2026-06-05 00:09",
+    "id_str": "2062567543076987098",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @evanyou: I've left most of what I want to say in the VoidZero blog post. But worth repeating:\n\nThank you @voidzerodev team for trusting…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2062558744261566756",
+    "time": "2026-06-04 23:34",
+    "id_str": "2062558744261566756",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我知道的所有做AI Agent的团队都很拼，不是老板逼着的，是为了心中理想，所以心甘情愿加班和搞封闭开发👍\n\n有点我好奇的是：Kimi 团队在开发 Kimi Code 的时候，是自家模型 token 用的多还是 Claude 或者 GPT 模型的 Token 用的多呢？ 🤔",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2062583066594287901",
+    "time": "2026-06-05 01:11",
+    "id_str": "2062583066594287901",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果有条件的话，选你能用的上的最聪明的 2-3 个就够了。只有你很在乎成本的情况下或者要做一些研究工作，才需要去使用其他便宜些的模型。\n\n再聪明的模型一个也不够，因为不够稳定和全面，比如最近 GPT-5.5 就不如 Opus 4.8 稳定，甚至写东西还得退回 Opus 4.6。翻译我还是最喜欢 Gemini 3.1 Pro",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2062586895779946817",
+    "time": "2026-06-05 01:26",
+    "id_str": "2062586895779946817",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A real problem with feeling the acceleration viscerally is that current models are really good and it is hard to feel the vibe difference on most individual tasks with new models, even as AIs continue to increase in ability by large amounts (which they actually are doing).",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2062573152547279042",
+    "time": "2026-06-05 00:32",
+    "id_str": "2062573152547279042",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "\"As of May 2026, more than 80% of the code we merge into Anthropic’s codebase was authored by Claude.\"\n\nMatches independent measures. There really is no sign this is slowing down (which doesn't mean there aren't organizational challenges to absorbing this much productivity gain) https://t.co/cNoxQnduKF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2062580212768936344",
+    "time": "2026-06-05 01:00",
+    "id_str": "2062580212768936344",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "From this post, full of other interesting insights: https://t.co/A5yxryBjHv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2062580420588306942",
+    "time": "2026-06-05 01:01",
+    "id_str": "2062580420588306942",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think it is really worth reading this piece on RSI at Anthropic.\n\nThere is a bit of navel-gazing, some marketing, and a lot of very sincere beliefs about what Anthropic thinks is likely in the near future of AI that you probably want to be aware of. https://t.co/A5yxryBjHv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2062582362194460698",
+    "time": "2026-06-05 01:08",
+    "id_str": "2062582362194460698",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Hardest part about making educational content about AI is how frequently you have to remake videos. \n\nSo many updates since I made these https://t.co/OuyzvdnSLB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2062567808593011032",
+    "time": "2026-06-05 00:11",
+    "id_str": "2062567808593011032",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Thoughts about as a long form \"content creator\" in the age of AI agents.\n\nI think you need to balance: \n\n1. Agents seeing you as a reputable source\n2. The core value of your content is \"un-summarizable\"\n\nIf your content is fully scripted and predictable, even with nice edits,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2062576634025353444",
+    "time": "2026-06-05 00:46",
+    "id_str": "2062576634025353444",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "X is where startups live these days - has your buyers, hires, and investors",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2062561385306108127",
+    "time": "2026-06-04 23:45",
+    "id_str": "2062561385306108127",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The best startup launches on X don’t “go viral” anymore.\n\nThey’re engineered.\n\nFounder video. Press timing. Creator waves. Repost armies. Live reply war rooms.\n\nDistribution became its own product category.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062566187838431391",
+    "time": "2026-06-05 00:04",
+    "id_str": "2062566187838431391",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @alex_prompter: Anthropic published a security guide that basically tells you to stop trusting your own AI agents.\n\nIf you're running ag…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062573867420336456",
+    "time": "2026-06-05 00:35",
+    "id_str": "2062573867420336456",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @godofprompt: AI 3D just got way harder to ignore.\n\nBefore: cool front view, cursed backside.\nNow: 1M-polygon models in seconds, cleaner…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2062585257619284050",
+    "time": "2026-06-05 01:20",
+    "id_str": "2062585257619284050",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Happy hour at #CVPR2026 tomorrow 🍸\n\nCome meet @a16z infra + a dozen of the best generative media &amp; computer vision teams in one place.\n\nI can promise great food, drinks, and company!\n\nRSVP👇 https://t.co/ELSiQ7ffM3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2062581520179847342",
+    "time": "2026-06-05 01:05",
+    "id_str": "2062581520179847342",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Excited to meet folks w/ @stuffyokodraws and @appenz.\n\nPartiful link: https://t.co/fgy8ouBRYc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2062581726321484199",
+    "time": "2026-06-05 01:06",
+    "id_str": "2062581726321484199",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @jkhamehl: Technology is how countries dominate now -- economically, militarily, culturally.\n\nThat changes what founders need from their…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2062548956845146309",
+    "time": "2026-06-04 22:56",
+    "id_str": "2062548956845146309",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@pmarca: \"Everywhere we go, people want to talk about tech, they want to learn about tech.\"\n\n\"When Ben wrote his book and went on a tour, it didn't matter what country he went to, thousands of kids show up and they want to learn how to do this.\"\n\n\"Global knowledge is way up. https://t.co/5YCufdbgtq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2062570136805294241",
+    "time": "2026-06-05 00:20",
+    "id_str": "2062570136805294241",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @AnneNeuberger: Today, I’m excited to join Andreessen Horowitz as a General Partner and Head of Global Affairs.\n\nThis is my next chapter…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2062572875710910710",
+    "time": "2026-06-05 00:31",
+    "id_str": "2062572875710910710",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "@pmarca Disclosures regarding this article/content: Not an offer or solicitation. None of the above should be taken as investment advice or an advertisement for investment services. Please see https://t.co/v6JJd7PTEP for more information.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2062589801552036295",
+    "time": "2026-06-05 01:38",
+    "id_str": "2062589801552036295",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "SpaceX IPO路演视频\n\n由SpaceX CFO Bret-Johnsen通过17分钟的视频详细阐述SpaceX的财务情况和愿景\n\nStarlink 现在 9600+ 颗在轨\n\n• 440 万(24 底)→ 890 万(25 底)→ 1030 万(Q1)\n• 一年翻倍，覆盖 164 国 30 亿人\n• 直连手机已经覆盖 19 亿人（覆盖不等于使用）\n\n手里有全球最大的一体化超算中心 https://t.co/3dCltWsdxl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2062560594784616566",
+    "time": "2026-06-04 23:42",
+    "id_str": "2062560594784616566",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What is the main problem do you have right now as an AI creator?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062547112349344239",
+    "time": "2026-06-04 22:48",
+    "id_str": "2062547112349344239",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Coding is problem solving. \nDesign is problem solving. \nAI is problem solving.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062547270608826687",
+    "time": "2026-06-04 22:49",
+    "id_str": "2062547270608826687",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I brought 60 people from X into Adobe Firefly Ambassadors program. It wasn’t easy as I am not in charge of the program and who gets selected. I will keep recommending people from this community. Especially people who are supportive of others and show up every day.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062548985164836912",
+    "time": "2026-06-04 22:56",
+    "id_str": "2062548985164836912",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @etiennejcb: https://t.co/r8RuOOFGcF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062553119054025052",
+    "time": "2026-06-04 23:12",
+    "id_str": "2062553119054025052",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "No more boring AI videos. Let’s just have more fun and play. I challenge you to create something that will make you laugh for at least 5 minutes but better for  ten.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062554730602090786",
+    "time": "2026-06-04 23:19",
+    "id_str": "2062554730602090786",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "You were born shining \n\n#99u https://t.co/bRcH8nBsD6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062556578662760650",
+    "time": "2026-06-04 23:26",
+    "id_str": "2062556578662760650",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I used to have a small account here for many years and I never expected it would ever grow. \n\nI think, that’s why it grew. I let go of the idea that I’ll ever be an influencer or have a big account.\nI just found my passion to AI and I was so into it that I shared and shared. It",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062558583611445359",
+    "time": "2026-06-04 23:34",
+    "id_str": "2062558583611445359",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Does this remind you of something? \n\n#99u https://t.co/xpqk6mR8HZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062584844790399447",
+    "time": "2026-06-05 01:18",
+    "id_str": "2062584844790399447",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Turn your life into a cute doodle drawing \n\nUse multiple images as references \n\nPrompt 👇 https://t.co/XmKZkZE4XZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2062588921016361378",
+    "time": "2026-06-05 01:34",
+    "id_str": "2062588921016361378",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "aleabitoreddit",
+    "text": "$RDDT was driving me insane.\n\n&gt; massive earnings beat\n&gt; just printing FCF since they’re too profitable\n&gt; 69% Y/Y revenue growth.\n&gt; biggest moat against AI vibe coding from network effect\n&gt; 91.5% gross margin. \n\nWas just flat for months. Glad to see it getting more attention. https://t.co/umUxYdXkz7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2062552171502330188",
+    "time": "2026-06-04 23:08",
+    "id_str": "2062552171502330188",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "华尔街来Tron了！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2062556280053809449",
+    "time": "2026-06-04 23:25",
+    "id_str": "2062556280053809449",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @Altimor: Pulled the trigger today and switched 100% of Lindy traffic to DeepSeek v4, churning from Anthropic models. \nSaves us millions…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2062574949676752975",
+    "time": "2026-06-05 00:39",
+    "id_str": "2062574949676752975",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2062574975341699368",
+    "time": "2026-06-05 00:39",
+    "id_str": "2062574975341699368",
+    "is_retweet": false
+  }
+]
