@@ -38,26 +38,27 @@ def group_tweets_by_blogger(tweets):
     return groups
 
 def build_unified_prompt(groups):
-    """Build a prompt for high-quality WeChat Official Account style summary (Unified)"""
-    prompt = """你是一位顶尖的科技自媒体主编，擅长撰写深度、客观且极具吸引力的“公众号式”推文简报。
-请根据以下 X (Twitter) 上的博主动态，创作一篇内容精良、排版美观且富有干货的推文综述。
+    """Build a prompt for an action-focused digest grouped by blogger."""
+    prompt = """你是一位专业的科技信息分析编辑。
+请根据以下 X (Twitter) 上的博主动态，输出一篇简洁、可执行的中文简报。
 
 **写作格式要求：**
-1. **标题：** 拟定一个吸引人且概括性强的标题，反映本时段最核心的技术动态。
-2. **前言：** 简要概述过去几小时关注圈的热议话题或核心基调。
-3. **👤 博主深度速递：**
-   - **请按博主分别进行详细总结**（针对推文内容质量高的博主进行深度挖掘）。
-   - 每个博主的总结包含以下三部分：
-     - **主要内容：** 详细总结该博主最新帖子的核心叙事或事件。
-     - **核心观点：** 提炼博主表达出的具体洞察、态度或预测。
-     - **实用工具/资源：** 如果帖子中提到了任何 AI 工具、开源项目、论文或链接，请务必列出。
-     - **来源链接：** 在段落末尾列出推文链接，格式为 [推文1](url), [推文2](url)...
-4. **🔥 综合启发：** 结合上述所有博主的动态，总结出 2-3 条对开发者或 AI 使用者的具体启发或行动建议。
+1. 不要写文章标题。
+2. 不要写前言、导语、开场白或总体概述。
+3. 不要输出 YAML、表格、笔记属性、日期、type、tags 等元信息。
+4. 正文直接按博主分组输出，每个博主只写中文名字，不要写 X 账号、用户名或括号。
+5. 每个博主下面只保留两类内容：
+   - **要点：** 用 1-3 条 bullet 总结值得关注的信息，避免复述无关细节。
+   - **可以行动：** 用 1-3 条 bullet 写用户可以采取的行动、验证方式、进一步研究方向或值得跟进的问题。
+6. 不要单独写“实用工具/资源”“来源链接”“综合启发”等章节。
+7. 如需保留来源，只在对应 bullet 末尾放一个简短链接，例如 [原文](url)。
+8. 如果某个博主内容价值不高或没有可行动信息，可以跳过。
 
 **排版建议：**
 - 使用 Markdown 语法。
-- 使用适当的 Emoji 增加趣味性。
-- 层级分明，使用二级标题 (##) 和三级标题 (###)。
+- 每个博主使用二级标题，例如 `## 宝玉`。
+- 标题下面只使用 `**要点：**` 和 `**可以行动：**` 两个小段。
+- 语言要短、直接、信息密度高，减少形容词和公众号腔。
 
 以下是推文原始数据：
 
@@ -86,7 +87,7 @@ def generate_summary(prompt, api_key):
         messages=[
             {
                 "role": "system",
-                "content": "你是一个专业的自媒体主编，擅长撰写极具吸引力且专业度高的公众号文章稿件。输出使用标准 Markdown 格式。"
+                "content": "你是一个专业的科技信息分析编辑。输出标准 Markdown，只保留按博主分组的要点和可行动建议，不写标题、前言或元信息。"
             },
             {
                 "role": "user",
@@ -110,11 +111,6 @@ def save_to_obsidian_sync(content):
 
     try:
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write("---\n")
-            f.write(f"date: {now.strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write("type: X-Daily-Digest\n")
-            f.write("tags: [X, AI, Summary]\n")
-            f.write("---\n\n")
             f.write(content)
         print(f"✅ Saved to local Obsidian sync folder: {file_path}")
         return True
