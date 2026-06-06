@@ -388,6 +388,24 @@ def main():
         if not tweets:
             continue
 
+        if user.lower() in get_web_feed_usernames():
+            web_limit = int(os.getenv("WEB_FEED_TIMELINE_LIMIT") or os.getenv("WEB_FEED_LIMIT") or WEB_FEED_DEFAULT_LIMIT)
+            print(f"Syncing recent web feed timeline for {user}.")
+            for tweet in reversed(tweets[:web_limit]):
+                web_record = {
+                    "username": user,
+                    "nickname": nick,
+                    "text": tweet['text'],
+                    "quoted_tweet": tweet.get('quoted_tweet'),
+                    "url": tweet['url'],
+                    "time": format_time(tweet['created_at']),
+                    "created_at": tweet.get('created_at'),
+                    "id_str": tweet['id_str'],
+                    "is_retweet": tweet.get('is_retweet', False)
+                }
+                sync_to_web_feed(web_record)
+                time.sleep(0.2)
+
         max_id = max(t['id'] for t in tweets)
         old_id = int(last_ids.get(user, 0))
 
