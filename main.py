@@ -116,7 +116,7 @@ def get_web_feed_usernames():
 
 def get_web_feed_bloggers():
     """Return extra bloggers monitored specifically for the public web feed."""
-    raw = os.getenv("WEB_FEED_BLOGGERS", "aleabitoreddit:Serenity")
+    raw = os.getenv("WEB_FEED_BLOGGERS") or "aleabitoreddit:Serenity"
     bloggers = []
 
     for item in raw.split(","):
@@ -381,6 +381,9 @@ def main():
     if should_force_web_feed_test():
         run_web_feed_test(auth_token, ct0)
         return
+
+    print("Syncing web feed accounts before general monitor pass.")
+    run_web_feed_test(auth_token, ct0)
 
     for blogger in get_monitored_bloggers():
         user = blogger['username']
