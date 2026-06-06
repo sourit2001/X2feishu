@@ -32,6 +32,13 @@ jobs:
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           BITABLE_APP_TOKEN: ${{ secrets.BITABLE_APP_TOKEN }}
           BITABLE_TABLE_ID: ${{ secrets.BITABLE_TABLE_ID }}
+          WEB_FEED_GITHUB_TOKEN: ${{ secrets.WEB_FEED_GITHUB_TOKEN }}
+          WEB_FEED_REPO: ${{ vars.WEB_FEED_REPO }}
+          WEB_FEED_BRANCH: ${{ vars.WEB_FEED_BRANCH }}
+          WEB_FEED_PATH: ${{ vars.WEB_FEED_PATH }}
+          WEB_FEED_BLOGGERS: ${{ vars.WEB_FEED_BLOGGERS }}
+          WEB_FEED_USERNAMES: ${{ vars.WEB_FEED_USERNAMES }}
+          WEB_FEED_LIMIT: ${{ vars.WEB_FEED_LIMIT }}
         run: python main.py
 
       - name: Commit and push if changed

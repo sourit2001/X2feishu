@@ -3,6 +3,7 @@ import requests
 import json
 import time
 import re
+import base64
 from datetime import datetime, timedelta
 from bitable_sync import sync_to_bitable
 
@@ -36,6 +37,8 @@ BLOGGERS = [
 ]
 LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
+WEB_FEED_DEFAULT_PATH = "data/signals.json"
+WEB_FEED_DEFAULT_LIMIT = 80
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
@@ -97,6 +100,143 @@ def get_feishu_card(nickname, username, content, link, pub_time, quoted_tweet=No
             ]
         }
     }
+
+def get_web_feed_usernames():
+    """Return usernames that should also be published to the public web feed."""
+    raw = os.getenv("WEB_FEED_USERNAMES")
+    if not raw:
+        return {item["username"].lower() for item in get_web_feed_bloggers()}
+
+    return {
+        item.strip().lstrip("@").lower()
+        for item in raw.split(",")
+        if item.strip()
+    }
+
+def get_web_feed_bloggers():
+    """Return extra bloggers monitored specifically for the public web feed."""
+    raw = os.getenv("WEB_FEED_BLOGGERS", "serenity:Serenity")
+    bloggers = []
+
+    for item in raw.split(","):
+        if not item.strip():
+            continue
+
+        username, _, nickname = item.partition(":")
+        username = username.strip().lstrip("@")
+        if username:
+            bloggers.append({
+                "username": username,
+                "nickname": nickname.strip() or username
+            })
+
+    return bloggers
+
+def get_monitored_bloggers():
+    """Combine the existing Feishu monitor list with public web feed accounts."""
+    bloggers = []
+    seen = set()
+
+    for item in get_web_feed_bloggers() + BLOGGERS:
+        username = item["username"].lower()
+        if username in seen:
+            continue
+
+        seen.add(username)
+        bloggers.append(item)
+
+    return bloggers
+
+def get_cashtags(text):
+    """Extract stock cashtags such as $MU and $LITE for the web UI."""
+    return sorted(set(re.findall(r"\$([A-Z][A-Z0-9]{0,5})\b", text or "")))
+
+def get_github_json_file(repo, path, branch, headers):
+    url = f"https://api.github.com/repos/{repo}/contents/{path}"
+    response = requests.get(url, headers=headers, params={"ref": branch}, timeout=30)
+
+    if response.status_code == 404:
+        return None, {"updatedAt": None, "sources": [], "tweets": []}
+
+    response.raise_for_status()
+    payload = response.json()
+    content = base64.b64decode(payload.get("content", "")).decode("utf-8")
+    return payload.get("sha"), json.loads(content)
+
+def put_github_json_file(repo, path, branch, headers, sha, content):
+    url = f"https://api.github.com/repos/{repo}/contents/{path}"
+    body = {
+        "message": "Update Serenity web feed",
+        "content": base64.b64encode(
+            json.dumps(content, ensure_ascii=False, indent=2).encode("utf-8")
+        ).decode("utf-8"),
+        "branch": branch,
+    }
+
+    if sha:
+        body["sha"] = sha
+
+    response = requests.put(url, headers=headers, json=body, timeout=30)
+    response.raise_for_status()
+    return response
+
+def sync_to_web_feed(tweet_record):
+    """Publish selected tweets to the Track Serenity website repository."""
+    token = os.getenv("WEB_FEED_GITHUB_TOKEN")
+    repo = os.getenv("WEB_FEED_REPO")
+    branch = os.getenv("WEB_FEED_BRANCH") or "main"
+    path = os.getenv("WEB_FEED_PATH") or WEB_FEED_DEFAULT_PATH
+    limit = int(os.getenv("WEB_FEED_LIMIT") or WEB_FEED_DEFAULT_LIMIT)
+    target_usernames = get_web_feed_usernames()
+    username = tweet_record.get("username", "").lower()
+
+    if username not in target_usernames:
+        return
+
+    if not token or not repo:
+        print("Web feed credentials missing; skipping website sync.")
+        return
+
+    headers = {
+        "Authorization": f"Bearer {token}",
+        "Accept": "application/vnd.github+json",
+    }
+
+    try:
+        sha, feed = get_github_json_file(repo, path, branch, headers)
+        tweets = feed.get("tweets", [])
+        tweet_id = tweet_record.get("id_str")
+
+        if any(item.get("id") == tweet_id for item in tweets):
+            print(f"Web feed already has tweet: {tweet_id}")
+            return
+
+        tweets.insert(0, {
+            "id": tweet_id,
+            "username": tweet_record.get("username"),
+            "nickname": tweet_record.get("nickname"),
+            "author": tweet_record.get("nickname"),
+            "text": tweet_record.get("text"),
+            "url": tweet_record.get("url"),
+            "createdAt": tweet_record.get("created_at", ""),
+            "displayTime": tweet_record.get("time", ""),
+            "quotedTweet": tweet_record.get("quoted_tweet"),
+            "isRetweet": tweet_record.get("is_retweet", False),
+            "cashtags": get_cashtags(tweet_record.get("text", "")),
+        })
+
+        feed["updatedAt"] = datetime.utcnow().isoformat() + "Z"
+        feed["sources"] = [
+            {"username": item["username"], "nickname": item["nickname"]}
+            for item in get_web_feed_bloggers()
+            if item["username"].lower() in target_usernames
+        ]
+        feed["tweets"] = tweets[:limit]
+
+        put_github_json_file(repo, path, branch, headers, sha, feed)
+        print(f"Synced to web feed: {tweet_id}")
+    except Exception as e:
+        print(f"Web feed sync failed: {e}")
 
 def fetch_tweets(username, auth_token, ct0):
     """Fetches tweets using Twitter Syndication API with support for Note Tweets (long tweets)"""
@@ -190,7 +330,7 @@ def main():
         print("Error: Missing credentials or webhook URL.")
         return
 
-    for blogger in BLOGGERS:
+    for blogger in get_monitored_bloggers():
         user = blogger['username']
         nick = blogger['nickname']
         print(f"--- Checking {nick} (@{user}) ---")
@@ -240,16 +380,19 @@ def main():
                 print(f"Skipping real-time push for {nick}'s retweet: {tweet['id_str']}")
 
             # Save to daily tweets for digest
-            daily_tweets.append({
+            daily_record = {
                 "username": user,
                 "nickname": nick,
                 "text": tweet['text'],
                 "quoted_tweet": tweet.get('quoted_tweet'),
                 "url": tweet['url'],
                 "time": pub_time,
+                "created_at": tweet.get('created_at'),
                 "id_str": tweet['id_str'],
                 "is_retweet": tweet.get('is_retweet', False)
-            })
+            }
+            daily_tweets.append(daily_record)
+            sync_to_web_feed(daily_record)
             time.sleep(1)
 
     with open(LAST_IDS_FILE, 'w') as f:
