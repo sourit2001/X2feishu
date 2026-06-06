@@ -309,6 +309,46 @@ def fetch_tweets(username, auth_token, ct0):
         print(f"Error parsing {username}: {e}")
         return []
 
+def should_force_web_feed_test():
+    return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
+
+def run_web_feed_test(auth_token, ct0):
+    """Publish the latest configured web-feed tweet without touching Feishu or last_ids."""
+    target_usernames = get_web_feed_usernames()
+    tested = False
+
+    for blogger in get_web_feed_bloggers():
+        user = blogger["username"]
+        nick = blogger["nickname"]
+
+        if user.lower() not in target_usernames:
+            continue
+
+        tested = True
+        print(f"--- Force web feed test: {nick} (@{user}) ---")
+        tweets = fetch_tweets(user, auth_token, ct0)
+
+        if not tweets:
+            print("No tweets found for web feed test.")
+            continue
+
+        tweet = tweets[0]
+        daily_record = {
+            "username": user,
+            "nickname": nick,
+            "text": tweet["text"],
+            "quoted_tweet": tweet.get("quoted_tweet"),
+            "url": tweet["url"],
+            "time": format_time(tweet["created_at"]),
+            "created_at": tweet.get("created_at"),
+            "id_str": tweet["id_str"],
+            "is_retweet": tweet.get("is_retweet", False)
+        }
+        sync_to_web_feed(daily_record)
+
+    if not tested:
+        print("No matching web feed users configured for test.")
+
 def main():
     if os.path.exists(LAST_IDS_FILE):
         with open(LAST_IDS_FILE, 'r') as f:
@@ -328,6 +368,10 @@ def main():
 
     if not (auth_token and ct0 and webhook_url):
         print("Error: Missing credentials or webhook URL.")
+        return
+
+    if should_force_web_feed_test():
+        run_web_feed_test(auth_token, ct0)
         return
 
     for blogger in get_monitored_bloggers():

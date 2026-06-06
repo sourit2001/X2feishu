@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 * * * *' # Every hour on the hour
   workflow_dispatch:      # Allow manual trigger
+    inputs:
+      force_web_feed_test:
+        description: 'Force publish the latest web-feed tweet for testing'
+        required: false
+        default: 'false'
 
 jobs:
   build:
@@ -39,6 +44,7 @@ jobs:
           WEB_FEED_BLOGGERS: ${{ vars.WEB_FEED_BLOGGERS }}
           WEB_FEED_USERNAMES: ${{ vars.WEB_FEED_USERNAMES }}
           WEB_FEED_LIMIT: ${{ vars.WEB_FEED_LIMIT }}
+          FORCE_WEB_FEED_TEST: ${{ github.event.inputs.force_web_feed_test }}
         run: python main.py
 
       - name: Commit and push if changed
