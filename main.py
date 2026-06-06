@@ -148,8 +148,11 @@ def get_monitored_bloggers():
     return bloggers
 
 def get_cashtags(text):
-    """Extract stock cashtags such as $MU and $LITE for the web UI."""
-    return sorted(set(re.findall(r"\$([A-Z][A-Z0-9]{0,5})\b", text or "")))
+    """Extract stock symbols such as $MU, $LITE, and A-share codes like 688017."""
+    value = text or ""
+    symbols = set(re.findall(r"\$([A-Z][A-Z0-9]{0,5})\b", value))
+    symbols.update(re.findall(r"(?<!\d)(?:[036]\d{5})(?!\d)", value))
+    return sorted(symbols)
 
 def get_github_json_file(repo, path, branch, headers):
     url = f"https://api.github.com/repos/{repo}/contents/{path}"
