@@ -316,8 +316,9 @@ def should_force_web_feed_test():
     return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
 
 def run_web_feed_test(auth_token, ct0):
-    """Publish the latest configured web-feed tweet without touching Feishu or last_ids."""
+    """Publish recent configured web-feed tweets without touching Feishu or last_ids."""
     target_usernames = get_web_feed_usernames()
+    limit = int(os.getenv("WEB_FEED_TEST_LIMIT") or 20)
     tested = False
 
     for blogger in get_web_feed_bloggers():
@@ -335,19 +336,20 @@ def run_web_feed_test(auth_token, ct0):
             print("No tweets found for web feed test.")
             continue
 
-        tweet = tweets[0]
-        daily_record = {
-            "username": user,
-            "nickname": nick,
-            "text": tweet["text"],
-            "quoted_tweet": tweet.get("quoted_tweet"),
-            "url": tweet["url"],
-            "time": format_time(tweet["created_at"]),
-            "created_at": tweet.get("created_at"),
-            "id_str": tweet["id_str"],
-            "is_retweet": tweet.get("is_retweet", False)
-        }
-        sync_to_web_feed(daily_record)
+        print(f"Publishing up to {limit} recent tweets for web feed test.")
+        for tweet in reversed(tweets[:limit]):
+            daily_record = {
+                "username": user,
+                "nickname": nick,
+                "text": tweet["text"],
+                "quoted_tweet": tweet.get("quoted_tweet"),
+                "url": tweet["url"],
+                "time": format_time(tweet["created_at"]),
+                "created_at": tweet.get("created_at"),
+                "id_str": tweet["id_str"],
+                "is_retweet": tweet.get("is_retweet", False)
+            }
+            sync_to_web_feed(daily_record)
 
     if not tested:
         print("No matching web feed users configured for test.")
