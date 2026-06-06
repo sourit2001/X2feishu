@@ -39,6 +39,7 @@ LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
 WEB_FEED_DEFAULT_PATH = "data/signals.json"
 WEB_FEED_DEFAULT_LIMIT = 80
+WEB_FEED_BUILD = "web-feed-timeline-sync-v2"
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
@@ -355,6 +356,8 @@ def run_web_feed_test(auth_token, ct0):
         print("No matching web feed users configured for test.")
 
 def main():
+    print(f"WEB_FEED_BUILD={WEB_FEED_BUILD}")
+
     if os.path.exists(LAST_IDS_FILE):
         with open(LAST_IDS_FILE, 'r') as f:
             last_ids = json.load(f)
@@ -388,7 +391,7 @@ def main():
         if not tweets:
             continue
 
-        if user.lower() in get_web_feed_usernames():
+        if user.lower() == "aleabitoreddit" or user.lower() in get_web_feed_usernames():
             web_limit = int(os.getenv("WEB_FEED_TIMELINE_LIMIT") or os.getenv("WEB_FEED_LIMIT") or WEB_FEED_DEFAULT_LIMIT)
             print(f"Syncing recent web feed timeline for {user}.")
             for tweet in reversed(tweets[:web_limit]):

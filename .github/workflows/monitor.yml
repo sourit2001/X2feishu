@@ -20,6 +20,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Show checked out commit
+        run: git log -1 --oneline
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
