@@ -186,7 +186,7 @@ def put_github_json_file(repo, path, branch, headers, sha, content):
 def sync_to_web_feed(tweet_record):
     """Publish selected tweets to the Track Serenity website repository."""
     token = os.getenv("WEB_FEED_GITHUB_TOKEN")
-    repo = os.getenv("WEB_FEED_REPO")
+    repo = os.getenv("WEB_FEED_REPO") or "sourit2001/trackserenity"
     branch = os.getenv("WEB_FEED_BRANCH") or "main"
     path = os.getenv("WEB_FEED_PATH") or WEB_FEED_DEFAULT_PATH
     limit = int(os.getenv("WEB_FEED_LIMIT") or WEB_FEED_DEFAULT_LIMIT)
