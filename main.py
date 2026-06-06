@@ -115,7 +115,7 @@ def get_web_feed_usernames():
 
 def get_web_feed_bloggers():
     """Return extra bloggers monitored specifically for the public web feed."""
-    raw = os.getenv("WEB_FEED_BLOGGERS", "serenity:Serenity")
+    raw = os.getenv("WEB_FEED_BLOGGERS", "aleabitoreddit:Serenity")
     bloggers = []
 
     for item in raw.split(","):
