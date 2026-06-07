@@ -97,5 +97,38 @@
     "created_at": "Sun Jun 07 02:50:57 +0000 2026",
     "id_str": "2063453632163410132",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @theskory: A super useful feature I like that we have in Grok Build: we load your .envrc and pass it straight into the agent’s shell env…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2063472771342950806",
+    "time": "2026-06-07 12:07",
+    "created_at": "Sun Jun 07 04:07:00 +0000 2026",
+    "id_str": "2063472771342950806",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "最近为了研究 Claude Design，专门写了一个工具，可以解析 HAR 文件，解密 Claude Design 传输的二进制内容，这样可以方便的看到请求的 Prompt https://t.co/bcQgNnTRZ5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2063475943402872982",
+    "time": "2026-06-07 12:19",
+    "created_at": "Sun Jun 07 04:19:37 +0000 2026",
+    "id_str": "2063475943402872982",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "据英国金融时报：OpenAI正在准备对ChatGPT进行其推出以来规模最大的一次改版。\n\n该公司计划将ChatGPT转型为结合编码工具和人工智能体的“超级应用”，并添加高管们认为能够创造更多收入的产品。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2063476092917494105",
+    "time": "2026-06-07 12:20",
+    "created_at": "Sun Jun 07 04:20:12 +0000 2026",
+    "id_str": "2063476092917494105",
+    "is_retweet": false
   }
 ]
