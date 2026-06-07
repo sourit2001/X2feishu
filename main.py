@@ -184,9 +184,16 @@ def put_github_json_file(repo, path, branch, headers, sha, content):
     response.raise_for_status()
     return response
 
+def normalize_github_token(value):
+    token = re.sub(r"[\s\r\n\t]+", "", value or "")
+    for prefix in ("Bearer", "bearer", "token", "Token"):
+        if token.startswith(prefix):
+            return token[len(prefix):]
+    return token
+
 def sync_to_web_feed(tweet_record):
     """Publish selected tweets to the Track Serenity website repository."""
-    token = re.sub(r"[\s\r\n\t]+", "", os.getenv("WEB_FEED_GITHUB_TOKEN") or "")
+    token = normalize_github_token(os.getenv("WEB_FEED_GITHUB_TOKEN"))
     repo = (os.getenv("WEB_FEED_REPO") or "sourit2001/trackserenity").strip()
     branch = (os.getenv("WEB_FEED_BRANCH") or "main").strip()
     path = (os.getenv("WEB_FEED_PATH") or WEB_FEED_DEFAULT_PATH).strip()
@@ -200,6 +207,8 @@ def sync_to_web_feed(tweet_record):
     if not token or not repo:
         print("Web feed credentials missing; skipping website sync.")
         return
+
+    print(f"Web feed token loaded: length={len(token)}")
 
     headers = {
         "Authorization": f"Bearer {token}",
