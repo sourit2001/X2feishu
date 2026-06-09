@@ -1,1 +1,211 @@
-[]
+[
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2064409694761054332",
+    "time": "2026-06-10 02:10",
+    "created_at": "Tue Jun 09 18:10:00 +0000 2026",
+    "id_str": "2064409694761054332",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我去！没想到 Anthropic 的 Mythos 模型今天真的发布了。\n\n不过他们这次发布的是 Mythos 的一个低配版本，命名为 Fable 5。\n\n它的测评基准非常惊人，甚至比之前的 Mythos Preview 模型还要高。在 Agent Coding 方面，它的主要长处在于 Coding、Agent 以及工具调用，基准得分比 Opus 4.8 高出非常多。 https://t.co/kySb5kopej",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2064399444523782377",
+    "time": "2026-06-10 01:29",
+    "created_at": "Tue Jun 09 17:29:16 +0000 2026",
+    "id_str": "2064399444523782377",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Some fun examples, I just gave basic prompts and the AI executed:\nBalatro, but for coin flipping (all the design and ideas was Fable): https://t.co/wgrd6KEUQq\nThe best self-aware snake game: https://t.co/KOIp52aGzg \nAn isochronic map using real data: https://t.co/6BJjYDcWI3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2064403828506591444",
+    "time": "2026-06-10 01:46",
+    "created_at": "Tue Jun 09 17:46:42 +0000 2026",
+    "id_str": "2064403828506591444",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Fable: \"create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves.\" \"Make it better\"\n\nAll of this is procedurally generated. https://t.co/ky0q5ho643",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2064424775527624736",
+    "time": "2026-06-10 03:09",
+    "created_at": "Tue Jun 09 19:09:56 +0000 2026",
+    "id_str": "2064424775527624736",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "First Fable (Mythos) test (on cowork).\n\nUploaded a McKinsey Report and told it to create a doc of the same quality... https://t.co/bqvs5g8Uuw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2064407515752722521",
+    "time": "2026-06-10 02:01",
+    "created_at": "Tue Jun 09 18:01:21 +0000 2026",
+    "id_str": "2064407515752722521",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "nvm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2064427196085903849",
+    "time": "2026-06-10 03:19",
+    "created_at": "Tue Jun 09 19:19:33 +0000 2026",
+    "id_str": "2064427196085903849",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @zeely_ai: Nano Banana 2 &amp; Zeely 🍌🍌\n\nYou loved this ad so much, we recreated it to show you that endless variations are possible. Take a…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2064407315902550370",
+    "time": "2026-06-10 02:00",
+    "created_at": "Tue Jun 09 18:00:33 +0000 2026",
+    "id_str": "2064407315902550370",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I just got bullied by AGI https://t.co/SRX7zgEA71",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2064414107743526954",
+    "time": "2026-06-10 02:27",
+    "created_at": "Tue Jun 09 18:27:32 +0000 2026",
+    "id_str": "2064414107743526954",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "American Dynamism at its best.\n\n@Saronic is remarkable. https://t.co/zssP6KdPt2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2064403114346922265",
+    "time": "2026-06-10 01:43",
+    "created_at": "Tue Jun 09 17:43:51 +0000 2026",
+    "id_str": "2064403114346922265",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Rillet is making ERP AI-native:\n\n- A ledger that's always accurate, complete, and reviewable is \"continuously closed.\"\n- That means no more month-end scramble. There's almost no manual work left at the end of the month.\n- The manual journal entry is nearly extinct. Entries are https://t.co/w8DzZa49Ln",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2064411883613127040",
+    "time": "2026-06-10 02:18",
+    "created_at": "Tue Jun 09 18:18:42 +0000 2026",
+    "id_str": "2064411883613127040",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@pmarca on why God models don't eat all AI usage:\n\n\"There's one version of the world in which you have a small number of what we sometimes call God models... millions of processors, with billions or hundreds of billions or trillions of dollars of CapEx and training, investment https://t.co/DBzqSzb5Yl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2064434304130875596",
+    "time": "2026-06-10 03:47",
+    "created_at": "Tue Jun 09 19:47:48 +0000 2026",
+    "id_str": "2064434304130875596",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Curious who of my audience are using Adobe products on a regular basis. I have an idea and would like to know.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2064399526337593373",
+    "time": "2026-06-10 01:29",
+    "created_at": "Tue Jun 09 17:29:36 +0000 2026",
+    "id_str": "2064399526337593373",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "https://t.co/xtabOJByja",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2064422243740860512",
+    "time": "2026-06-10 02:59",
+    "created_at": "Tue Jun 09 18:59:52 +0000 2026",
+    "id_str": "2064422243740860512",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Support other AI creators. This community is one of a kind.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2064423633456374215",
+    "time": "2026-06-10 03:05",
+    "created_at": "Tue Jun 09 19:05:24 +0000 2026",
+    "id_str": "2064423633456374215",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "One year ago was my most proud moment when, as a result of my advocacy, Adobe added different 3rd party models. \n\nSince then Adobe partnered with a lot of amazing AI companies / startups and the list is only growing\n\nLook at all the AI video models we have now: https://t.co/ijGer1eB6y",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2064426273871483191",
+    "time": "2026-06-10 03:15",
+    "created_at": "Tue Jun 09 19:15:53 +0000 2026",
+    "id_str": "2064426273871483191",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @KTmBoyle: “The unmanned surface vessel, a Saronic Corsair, located the crew, who had spent two hours in the waters off the coast of Oma…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2064401437786865751",
+    "time": "2026-06-10 01:37",
+    "created_at": "Tue Jun 09 17:37:12 +0000 2026",
+    "id_str": "2064401437786865751",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Cc @slatestarcodex",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2064401477771129150",
+    "time": "2026-06-10 01:37",
+    "created_at": "Tue Jun 09 17:37:21 +0000 2026",
+    "id_str": "2064401477771129150",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Amazing!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2064401525330280816",
+    "time": "2026-06-10 01:37",
+    "created_at": "Tue Jun 09 17:37:33 +0000 2026",
+    "id_str": "2064401525330280816",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Go @Saronic 🛥️🇺🇸 https://t.co/cbQc00WtcM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2064422608901194190",
+    "time": "2026-06-10 03:01",
+    "created_at": "Tue Jun 09 19:01:19 +0000 2026",
+    "id_str": "2064422608901194190",
+    "is_retweet": false
+  }
+]
