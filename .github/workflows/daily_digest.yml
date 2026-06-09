@@ -50,8 +50,7 @@ jobs:
           git fetch origin posts:posts || git checkout --orphan posts
           git checkout posts
           
-          # Clean existing files and untracked leftovers
-          git rm -rf . || true
+          # Clean untracked leftovers but keep existing tracked files
           git clean -xfd
           
           # Copy new ones to root
