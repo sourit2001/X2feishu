@@ -1,1 +1,255 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Basically this… and it’s how cycles work.\n\nRetail was early and completely frontran institutions on next architectural shifts.\n\nThere was close to 0 US institutional ownership on $SIVE.\n\nAnd now you see active institutions like JP Morgan, Fidelity Research, and others on the cap",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2064884912667439129",
+    "time": "2026-06-11 09:38",
+    "created_at": "Thu Jun 11 01:38:21 +0000 2026",
+    "id_str": "2064884912667439129",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @KingBobIIV: Since Blair - 30 years ago - people voted against mass immigration. \n\nEvery election, they got up, got dressed, found a pil…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2064860984842285340",
+    "time": "2026-06-11 08:03",
+    "created_at": "Thu Jun 11 00:03:16 +0000 2026",
+    "id_str": "2064860984842285340",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @benhabib6: Sky News suggesting Northern Ireland has a racism problem. \n\nNo, it does not. Stop distracting from the truth. \n\nIt has an o…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2064876190561710548",
+    "time": "2026-06-11 09:03",
+    "created_at": "Thu Jun 11 01:03:42 +0000 2026",
+    "id_str": "2064876190561710548",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Starlink: Starlink keeps you connected to high-speed internet on the go 🛰️🛣️",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2064899960747729191",
+    "time": "2026-06-11 10:38",
+    "created_at": "Thu Jun 11 02:38:09 +0000 2026",
+    "id_str": "2064899960747729191",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Yup",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2064900551821648123",
+    "time": "2026-06-11 10:40",
+    "created_at": "Thu Jun 11 02:40:30 +0000 2026",
+    "id_str": "2064900551821648123",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "8. PRD 和线框图原型最好搭配着来。 https://t.co/1c5zx6l6mg\nPRD是文本的，AI友好，好管理版本，但无法直观看到啥样子\n线框图原型有交互，可以直观看到布局和交互，可以互动，调整起来也方便\n\n通常我的顺序是：\n1). 先手写 PRD\n不用讲究格式、结构，想到哪写到哪。这部分也可以配合 Chat、Cowork 之类",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2064862863898882059",
+    "time": "2026-06-11 08:10",
+    "created_at": "Thu Jun 11 00:10:44 +0000 2026",
+    "id_str": "2064862863898882059",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "9. 设计结果要用版本管理起来\n\nClaude Design 交付的结果是 HTML + CSS + React + data.js，通过 CSS 一下就可以看清楚设计系统的颜色系统、尺寸规范，通过 React 可以看清楚组件结构，通过 data 可以知道数据结构什么样子。\n\n这几个组合可比 figma 对于 AI 来说友好多了，尤其是",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2064863783349317762",
+    "time": "2026-06-11 08:14",
+    "created_at": "Thu Jun 11 00:14:23 +0000 2026",
+    "id_str": "2064863783349317762",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "10. 把 Claude Design 当做唯一设计源\n\n设计好了，在开发的时候做调整很正常，但是一定要先改设计稿，再改代码。哪怕临时改了代码，也要在设计稿那边同步一下，不然时间一长两边的版本就无法同步了。\n\n好的设计同步流程应该是单向的：Claude Design -&gt; Code",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2064864295540728054",
+    "time": "2026-06-11 08:16",
+    "created_at": "Thu Jun 11 00:16:26 +0000 2026",
+    "id_str": "2064864295540728054",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "11. 使用 CLAUDE.md\n\n可能很多人不知道 Claude Design 是支持 CLAUDE.md 文件的，你可以通过左侧聊天窗口初始化 CLAUDE.md ，把一些需要反复叮嘱的事情放到里面，和在 Claude Code 里面用 CLAUDE.md 一样的 https://t.co/vAZMi0OCsh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2064876738161651846",
+    "time": "2026-06-11 09:05",
+    "created_at": "Thu Jun 11 01:05:52 +0000 2026",
+    "id_str": "2064876738161651846",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这段视频展示了一个极其前沿且硬核的视频制作方式：视频完全没有使用传统的非编软件（如 Premiere 或 Final Cut），而是由 Claude Code 配合 Fable 5 通过全自动编写代码和调用命令行工具“剪辑”而成的。\n\n整个工作流被抽象成了一个软件工程项目，主要包含以下几个关键步骤：\n\n1.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2064904545298194855",
+    "time": "2026-06-11 10:56",
+    "created_at": "Thu Jun 11 02:56:22 +0000 2026",
+    "id_str": "2064904545298194855",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @ivanburazin: Yesterday, @rileybrown oneshotted a working Replit clone with Fable. He used @daytonaio for sandboxing and @convex for db.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2064866641544941963",
+    "time": "2026-06-11 08:25",
+    "created_at": "Thu Jun 11 00:25:45 +0000 2026",
+    "id_str": "2064866641544941963",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: Uhm Guys… Mythos (Fable) is AGI.\n\nOn the left is the ACTUAL Lovable Mobile App. \n\nOn the right is my Lovable version I buil…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2064891486517289068",
+    "time": "2026-06-11 10:04",
+    "created_at": "Thu Jun 11 02:04:28 +0000 2026",
+    "id_str": "2064891486517289068",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://t.co/mvMmmR6Aeq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2064858536514122155",
+    "time": "2026-06-11 07:53",
+    "created_at": "Wed Jun 10 23:53:32 +0000 2026",
+    "id_str": "2064858536514122155",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "在写完这篇文章后\n我把配图过程蒸馏成了一个「橙线插画」Skill\n\n免费开源\n安装地址：\nhttps://t.co/dlfIKcQpUa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2064861625883222114",
+    "time": "2026-06-11 08:05",
+    "created_at": "Thu Jun 11 00:05:49 +0000 2026",
+    "id_str": "2064861625883222114",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 开源其扩散架构模型：DiffusionGemma\n\n区别于Transformers 模型像打字机一样逐词一个一个生成\n\nDiffusionGemma 可一次性生成大段或者整篇内容，然后再逐步优化\n\n大幅度提高生成的速度：\n\n在H100 上可实现 1000+ tokens/s，RTX 5090 上 700+ tokens/s\n\n26B，18GB 显存能跑\n一次可同时生成 256 个 https://t.co/wzPQmn86Ix",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2064898950986133832",
+    "time": "2026-06-11 10:34",
+    "created_at": "Thu Jun 11 02:34:08 +0000 2026",
+    "id_str": "2064898950986133832",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "DiffusionGemma 的整体输出质量低于标准 Gemma 4。对于要求最高质量的应用，建议部署标准 Gemma 4。\n\n它适合的是对响应速度有强需求但对输出质量可以容忍一定下降的场景。 https://t.co/d6gSjic4W8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2064898953133576351",
+    "time": "2026-06-11 10:34",
+    "created_at": "Thu Jun 11 02:34:09 +0000 2026",
+    "id_str": "2064898953133576351",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "不过模型支持微调。\n\nUnsloth 团队已经演示了通过微调让 DiffusionGemma 学会解数独，利用双向注意力的优势解决自回归模型天然吃亏的全局约束问题。在特定垂直任务上，微调后的质量是有可能追上来的。 https://t.co/7LwUyCP4AE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2064898955293655442",
+    "time": "2026-06-11 10:34",
+    "created_at": "Thu Jun 11 02:34:09 +0000 2026",
+    "id_str": "2064898955293655442",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细介绍：https://t.co/77VtBH6yMp https://t.co/tEbHk0K88Z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2064898957730554113",
+    "time": "2026-06-11 10:34",
+    "created_at": "Thu Jun 11 02:34:10 +0000 2026",
+    "id_str": "2064898957730554113",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "日本✨🥹",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2064884169310605688",
+    "time": "2026-06-11 09:35",
+    "created_at": "Thu Jun 11 01:35:24 +0000 2026",
+    "id_str": "2064884169310605688",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Fable 5 + Firefly Boards = a fully playable game starring my pet turtle Pablo 🤯\n\nTook me less than an hour \n\nEvery asset m…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2064902709854048450",
+    "time": "2026-06-11 10:49",
+    "created_at": "Thu Jun 11 02:49:04 +0000 2026",
+    "id_str": "2064902709854048450",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Someone should write a science fiction novel about this scenario.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2064878727478256063",
+    "time": "2026-06-11 09:13",
+    "created_at": "Thu Jun 11 01:13:46 +0000 2026",
+    "id_str": "2064878727478256063",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "And then translate it to English.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2064878862623015422",
+    "time": "2026-06-11 09:14",
+    "created_at": "Thu Jun 11 01:14:19 +0000 2026",
+    "id_str": "2064878862623015422",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Dog bites man.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2064880774621577401",
+    "time": "2026-06-11 09:21",
+    "created_at": "Thu Jun 11 01:21:54 +0000 2026",
+    "id_str": "2064880774621577401",
+    "is_retweet": false
+  }
+]
