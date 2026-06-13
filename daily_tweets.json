@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 操作浏览器有两种模式，一种是 Chrome 插件，一种是内置浏览器。用了一段时间之后，我总结一下两者的差异和各自适合的场景。\n\n【1】先说一个被低估的用法：拿 Codex 当爬虫\n\n传统爬虫用 requests 或者 Playwright https://t.co/D68PYgpey0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2065857399425032522",
+    "time": "2026-06-14 02:02",
+    "created_at": "Sat Jun 13 18:02:40 +0000 2026",
+    "id_str": "2065857399425032522",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "首先这个 Skill 很好，另外提供一个额外选择： 可以试试用 Claude Design 生成一份简历试试，也许你会喜欢",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2065863609507258631",
+    "time": "2026-06-14 02:27",
+    "created_at": "Sat Jun 13 18:27:21 +0000 2026",
+    "id_str": "2065863609507258631",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "为啥 Codex 还不推出类似 Codex Design 的产品？\n\nAnthropic 最近推出了 Claude Design，是我除了编程之外用得最多的 Agent，也推荐过很多次。效果真的好：你用一句话描述想要的 App，它直接给你生成一个可交互的原型，点哪哪都有反应，不仔细看还以为在操作真实的 App。\n\n有网友问：为啥 Codex https://t.co/Q3ukGZUiwn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2065874894563463660",
+    "time": "2026-06-14 03:12",
+    "created_at": "Sat Jun 13 19:12:11 +0000 2026",
+    "id_str": "2065874894563463660",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I get that Mistral has largely given up on building frontier models, as many comments have pointed out, but it absolutely did not start out that way. (&amp; a bet on being a vendor of frontier open weights models is only a good bet as long as Chinese labs are allowed to release them)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2065846187580608588",
+    "time": "2026-06-14 01:18",
+    "created_at": "Sat Jun 13 17:18:07 +0000 2026",
+    "id_str": "2065846187580608588",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think the assumption that you should use smaller models for less important tasks is flawed (or at least deserves much more careful consideration). Big models are generally better at everything but cost, so it is worth considering whether gains in non-key tasks would be valuable",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2065858389322670201",
+    "time": "2026-06-14 02:06",
+    "created_at": "Sat Jun 13 18:06:36 +0000 2026",
+    "id_str": "2065858389322670201",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In fact, areas that are not important in your organization could benefit even more from applying smarter models, since the organizational capabilities &amp; human capital in those areas are weak, and good AI might be a cheap way to increase capacity!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2065860129321300240",
+    "time": "2026-06-14 02:13",
+    "created_at": "Sat Jun 13 18:13:31 +0000 2026",
+    "id_str": "2065860129321300240",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Currently working a very autonomous marketing/content agent that doesn't produce pure slop (like ALL of the products on the market). \n\nIt will be most useful agent on the market for actual creators and marketers. I use it every day. If you would like to test this agent / help us",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2065852678085677543",
+    "time": "2026-06-14 01:43",
+    "created_at": "Sat Jun 13 17:43:54 +0000 2026",
+    "id_str": "2065852678085677543",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This is why we can’t have nice things.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2065851249145331860",
+    "time": "2026-06-14 01:38",
+    "created_at": "Sat Jun 13 17:38:14 +0000 2026",
+    "id_str": "2065851249145331860",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @DavidSacks: I’ve had a number of conversations with folks inside and outside government about the current situation with Anthropic, and…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2065859339001471148",
+    "time": "2026-06-14 02:10",
+    "created_at": "Sat Jun 13 18:10:22 +0000 2026",
+    "id_str": "2065859339001471148",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @AlistairCarns: This week the most advanced AI model on the planet got switched off by a foreign government. British researchers were st…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2065868373989507271",
+    "time": "2026-06-14 02:46",
+    "created_at": "Sat Jun 13 18:46:16 +0000 2026",
+    "id_str": "2065868373989507271",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2065868392406609963",
+    "time": "2026-06-14 02:46",
+    "created_at": "Sat Jun 13 18:46:21 +0000 2026",
+    "id_str": "2065868392406609963",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Five dimensional chess doesn’t exist. Everyone is furiously improvising all the time. The future is utterly uncertain.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2065868849271156971",
+    "time": "2026-06-14 02:48",
+    "created_at": "Sat Jun 13 18:48:10 +0000 2026",
+    "id_str": "2065868849271156971",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Some people are a thousand times better at furiously improvising than other people. Some are a million times better.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2065869076845793778",
+    "time": "2026-06-14 02:49",
+    "created_at": "Sat Jun 13 18:49:04 +0000 2026",
+    "id_str": "2065869076845793778",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I know three people who are exceptions to this.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2065872080269410375",
+    "time": "2026-06-14 03:01",
+    "created_at": "Sat Jun 13 19:01:00 +0000 2026",
+    "id_str": "2065872080269410375",
+    "is_retweet": false
+  }
+]
