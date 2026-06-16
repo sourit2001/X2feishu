@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @pmarca: (1) What",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2067000103987253555",
+    "time": "2026-06-17 05:43",
+    "created_at": "Tue Jun 16 21:43:22 +0000 2026",
+    "id_str": "2067000103987253555",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Rothmus: At least 250,000 white British girls have been groomed, raped, and brutalized.\n\nOut of 4.2 million white British girls under 1…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2067000194504466906",
+    "time": "2026-06-17 05:43",
+    "created_at": "Tue Jun 16 21:43:44 +0000 2026",
+    "id_str": "2067000194504466906",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Separation confirmed! Dragon is performing four departure burns to move away from the @Space_Station. Splashdown in ~20 hours o…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2067016413961916731",
+    "time": "2026-06-17 06:48",
+    "created_at": "Tue Jun 16 22:48:11 +0000 2026",
+    "id_str": "2067016413961916731",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Starlink: Starlink Mobile is now providing data in Ukraine with @TwiyKyivstar @VeonGroup, enabling millions of people to stay connected…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2067016526516138023",
+    "time": "2026-06-17 06:48",
+    "created_at": "Tue Jun 16 22:48:37 +0000 2026",
+    "id_str": "2067016526516138023",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @dongxi_nlp: https://t.co/lnLnSmr1Dc",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2066995310333694212",
+    "time": "2026-06-17 05:24",
+    "created_at": "Tue Jun 16 21:24:19 +0000 2026",
+    "id_str": "2066995310333694212",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个提示词挺酷的，可以把照片变成融入了涂鸦元素的平面插图。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2067007173272420615",
+    "time": "2026-06-17 06:11",
+    "created_at": "Tue Jun 16 22:11:27 +0000 2026",
+    "id_str": "2067007173272420615",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yuyy614893671: Bloomberg 获得了上周五美国商务部长卢特尼克写给Anthropic CEO 的信，信中命令Anthropic公司未经商务部许可，不得向世界任何地方的外国公民提供其Fable 5和Mythos 5人工智能模型；并威胁称，如果不遵守规定…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2067009965693235278",
+    "time": "2026-06-17 06:22",
+    "created_at": "Tue Jun 16 22:22:33 +0000 2026",
+    "id_str": "2067009965693235278",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This was not a good benchmark before it was updated and it is not a good benchmark now. Having AIs evaluate the work of other AIs on publicly available questions from a different closed benchmark doesn’t tell you very much.\n\nAnd it is unclear how they establish the human ELO. https://t.co/tmZG8MDkRA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2067009697207427534",
+    "time": "2026-06-17 06:21",
+    "created_at": "Tue Jun 16 22:21:29 +0000 2026",
+    "id_str": "2067009697207427534",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think artificial analysis fills a useful spot in the ecosystem for independent assessment, but the index has very little validity compared to real world tasks. It is just lucky that basically every measure is correlated so you can pick any set of benchmarks and they kinda work",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2067011007222804976",
+    "time": "2026-06-17 06:26",
+    "created_at": "Tue Jun 16 22:26:41 +0000 2026",
+    "id_str": "2067011007222804976",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "SpaceX Acquired Cursor and their intentions are clear: \n\nTo Build a General Agent Super-App that competes with Claude Desktop and Codex. This video, I cover:\n\n&gt; The Cursor SpaceX aquisition (60B) \n&gt; The new Cursor interface (It's just like Codex)\n&gt; How to transfer skills and https://t.co/J201zqSIcG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2066993170886599023",
+    "time": "2026-06-17 05:15",
+    "created_at": "Tue Jun 16 21:15:49 +0000 2026",
+    "id_str": "2066993170886599023",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "▶️",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2066999322789450123",
+    "time": "2026-06-17 05:40",
+    "created_at": "Tue Jun 16 21:40:16 +0000 2026",
+    "id_str": "2066999322789450123",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: Notice how Cursor isn’t saying “for developers”. Just “Useful AI”.\n\nCursor will likely become a direct competitor to Codex…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2066999344947962196",
+    "time": "2026-06-17 05:40",
+    "created_at": "Tue Jun 16 21:40:21 +0000 2026",
+    "id_str": "2066999344947962196",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: SpaceX Acquired Cursor and their intentions are clear: \n\nTo Build a General Agent Super-App that competes with Claude Deskt…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2067010358594646478",
+    "time": "2026-06-17 06:24",
+    "created_at": "Tue Jun 16 22:24:07 +0000 2026",
+    "id_str": "2067010358594646478",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @rryssf: this is kind of crazy.\n\nit drops straight into claude code, opencode, openclaw on day one.\n\nso your orchestrator stays frontier…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2066999778471256285",
+    "time": "2026-06-17 05:42",
+    "created_at": "Tue Jun 16 21:42:04 +0000 2026",
+    "id_str": "2066999778471256285",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Fuck Fable\n\nI have just swapped the model I am using for rebuilding the godofprompt website\n\nsaving 11x on the token costs! https://t.co/m4Bp5KPLhM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2067000773045518840",
+    "time": "2026-06-17 05:46",
+    "created_at": "Tue Jun 16 21:46:01 +0000 2026",
+    "id_str": "2067000773045518840",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Aura https://t.co/GTiLpcOJHH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2066992608640139478",
+    "time": "2026-06-17 05:13",
+    "created_at": "Tue Jun 16 21:13:35 +0000 2026",
+    "id_str": "2066992608640139478",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "This material is solely for educational purposes and is not investment advice or an offer of investment advisory services. This material should not be used as the basis for an investment decision. a16z is an investor in SpaceX through its managed funds, and thus has a financial",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2066992620862341578",
+    "time": "2026-06-17 05:13",
+    "created_at": "Tue Jun 16 21:13:38 +0000 2026",
+    "id_str": "2066992620862341578",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @theworldlabs: The future of AI should be grounded in human agency, creativity, and understanding.\n\n@FastCompany explores the rise of wo…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2067000396305056240",
+    "time": "2026-06-17 05:44",
+    "created_at": "Tue Jun 16 21:44:32 +0000 2026",
+    "id_str": "2067000396305056240",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The SpaceX iteration loop:\n\n1. Question every requirement.\n2. Delete any part or process you can.\n3. Simplify and optimize.\n4. Accelerate cycle time.\n5. Automate.\n\nMost engineering organizations skip directly to step five. They take a process that should not exist and then https://t.co/EZo4XrGsGg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2067004120612126790",
+    "time": "2026-06-17 05:59",
+    "created_at": "Tue Jun 16 21:59:20 +0000 2026",
+    "id_str": "2067004120612126790",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "This material is solely for educational purposes and is not investment advice or an offer of investment advisory services. This material should not be used as the basis for an investment decision. a16z is an investor in SpaceX through its managed funds, and thus has a financial",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2067004132976910773",
+    "time": "2026-06-17 05:59",
+    "created_at": "Tue Jun 16 21:59:23 +0000 2026",
+    "id_str": "2067004132976910773",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @dhh: Another fun/insane anecdote from the peak-woke era was when an employee of ours tried to get our terms of service amended such tha…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067005521010606116",
+    "time": "2026-06-17 06:04",
+    "created_at": "Tue Jun 16 22:04:53 +0000 2026",
+    "id_str": "2067005521010606116",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "It is hard to overstate how pervasive the SPLC’s control was in the tech industry, and in fact still is in many companies.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067005759783915693",
+    "time": "2026-06-17 06:05",
+    "created_at": "Tue Jun 16 22:05:50 +0000 2026",
+    "id_str": "2067005759783915693",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @infinitefun_: most of what is considered \"taste\" (read: design) is in the realm of zero sum signaling games\n\nyour tasteslop will just b…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067017669296238929",
+    "time": "2026-06-17 06:53",
+    "created_at": "Tue Jun 16 22:53:10 +0000 2026",
+    "id_str": "2067017669296238929",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067017687931486309",
+    "time": "2026-06-17 06:53",
+    "created_at": "Tue Jun 16 22:53:14 +0000 2026",
+    "id_str": "2067017687931486309",
+    "is_retweet": false
+  }
+]
