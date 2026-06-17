@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @t_blom: I’m astonished more people aren’t raving about Tesla’s full self driving.\n\nI no longer need to drive my car.\n\nThe only time I t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2067377229605310921",
+    "time": "2026-06-18 06:41",
+    "created_at": "Wed Jun 17 22:41:56 +0000 2026",
+    "id_str": "2067377229605310921",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这篇文章写的有点玄乎，估计是为了蹭现在流行的 Loop Engineering 的概念。\n\n核心内容是两个循环：内循环和外循环\n\n所谓内循环，就是干活的定时任务，每 2 小时检查下有没有新邮件，如果有邮件，就去自动检索相关上下文，自动帮你写个草稿，但是不发送，让你自己修改后发送。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2067376170145075206",
+    "time": "2026-06-18 06:37",
+    "created_at": "Wed Jun 17 22:37:43 +0000 2026",
+    "id_str": "2067376170145075206",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "写作风格 Skill：https://t.co/Pfh7FfLiLs",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2067376402400202858",
+    "time": "2026-06-18 06:38",
+    "created_at": "Wed Jun 17 22:38:38 +0000 2026",
+    "id_str": "2067376402400202858",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Big issue with AI strategies at big companies which realized the importance of AI last year (which is only a small subset, most are still not moving fast) is that, in the best case, they developed their strategy in late 2025, before the agentic revolution\n\nThings changed since... https://t.co/hlFqsAZglj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2067344183870836985",
+    "time": "2026-06-18 04:30",
+    "created_at": "Wed Jun 17 20:30:37 +0000 2026",
+    "id_str": "2067344183870836985",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I need help changing the username of one of our instagram accounts for our business. I can't get ahold of anyone at @Meta, and it just gets stuck in \"Review\"... Can anyone help with this.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2067343892895133885",
+    "time": "2026-06-18 04:29",
+    "created_at": "Wed Jun 17 20:29:28 +0000 2026",
+    "id_str": "2067343892895133885",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Can someone let me know what computer I should buy to run Unreal Engine? Would love a dedicated computer to do this stuff on.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2067350276298748119",
+    "time": "2026-06-18 04:54",
+    "created_at": "Wed Jun 17 20:54:50 +0000 2026",
+    "id_str": "2067350276298748119",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "cc @bilawalsidhu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2067350354090430881",
+    "time": "2026-06-18 04:55",
+    "created_at": "Wed Jun 17 20:55:08 +0000 2026",
+    "id_str": "2067350354090430881",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1100! \n\nWill hit 10k sooner than expected https://t.co/P06F2547rC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2067369535842259070",
+    "time": "2026-06-18 06:11",
+    "created_at": "Wed Jun 17 22:11:21 +0000 2026",
+    "id_str": "2067369535842259070",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Ground truth &gt; snap judgments.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067358097472168008",
+    "time": "2026-06-18 05:25",
+    "created_at": "Wed Jun 17 21:25:54 +0000 2026",
+    "id_str": "2067358097472168008",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @costofglory: Did autodidacts found Western Culture?\n\nThe first occurrence of the word \"autodidact\" (αὐτοδίδακτος) is in Homer's Odyssey…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067362617669378156",
+    "time": "2026-06-18 05:43",
+    "created_at": "Wed Jun 17 21:43:52 +0000 2026",
+    "id_str": "2067362617669378156",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067362637432971552",
+    "time": "2026-06-18 05:43",
+    "created_at": "Wed Jun 17 21:43:57 +0000 2026",
+    "id_str": "2067362637432971552",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @nickgillespie: 'Why is a flat-screen TV affordable and a college education not?...Because Congress has spent 60 years trying to make co…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067370509856301538",
+    "time": "2026-06-18 06:15",
+    "created_at": "Wed Jun 17 22:15:14 +0000 2026",
+    "id_str": "2067370509856301538",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Interesting.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067370527581417895",
+    "time": "2026-06-18 06:15",
+    "created_at": "Wed Jun 17 22:15:18 +0000 2026",
+    "id_str": "2067370527581417895",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @VigilantFox: Joe Rogan just revealed that presidents and former presidents personally pressured Spotify to have him removed for \"vaccin…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067373041542373753",
+    "time": "2026-06-18 06:25",
+    "created_at": "Wed Jun 17 22:25:17 +0000 2026",
+    "id_str": "2067373041542373753",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Concerning.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2067373058655170735",
+    "time": "2026-06-18 06:25",
+    "created_at": "Wed Jun 17 22:25:21 +0000 2026",
+    "id_str": "2067373058655170735",
+    "is_retweet": false
+  }
+]
