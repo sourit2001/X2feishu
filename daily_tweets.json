@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @Barret_China: 大概一个月多前，电脑中了木马，潜伏了一个月才被发现，也导致了我的 X 账号被盗。\n\n让 Claude 和 Codex 逐一分析系统进程时，找到了一个叫做 com\\.apple.accountsd.helper.plist 的进程，乍一看还以为…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2068087624758177881",
+    "time": "2026-06-20 05:44",
+    "created_at": "Fri Jun 19 21:44:47 +0000 2026",
+    "id_str": "2068087624758177881",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I suspect that companies underestimate the value of using higher intelligence for tasks where weaker AIs seem to be good enough to hit KPIs at a lower price.\n\nAt least build architectures where you can flexibly experiment with smarter models to see whether it makes a difference.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2068083655570784675",
+    "time": "2026-06-20 05:29",
+    "created_at": "Fri Jun 19 21:29:01 +0000 2026",
+    "id_str": "2068083655570784675",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "In this conversation from the a16z New Media Summit, Marc Andreessen and Ben Horowitz join Gaby Goldberg and Erik Torenberg for a conversation on the present and future of media, including:\n\n- Why New Media favors offense over defense\n- How to go direct and tell a story that https://t.co/bpET21oXyE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2068077592767524930",
+    "time": "2026-06-20 05:04",
+    "created_at": "Fri Jun 19 21:04:55 +0000 2026",
+    "id_str": "2068077592767524930",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: 5 images. 2 videos. Every day. Free.\n\nI made a brand new Adobe account today, no subscription, no card, to test what you a…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2068102168528232873",
+    "time": "2026-06-20 06:42",
+    "created_at": "Fri Jun 19 22:42:35 +0000 2026",
+    "id_str": "2068102168528232873",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @turtlesoupy: did you make it into the superintelligences? are you in the weights? https://t.co/2GE1WdVDRu https://t.co/LHFzgoqMKf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2068096187715178555",
+    "time": "2026-06-20 06:18",
+    "created_at": "Fri Jun 19 22:18:49 +0000 2026",
+    "id_str": "2068096187715178555",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Are you In The Weights, anon?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2068096215313702929",
+    "time": "2026-06-20 06:18",
+    "created_at": "Fri Jun 19 22:18:55 +0000 2026",
+    "id_str": "2068096215313702929",
+    "is_retweet": false
+  }
+]
