@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Alice_Weidel: Same here.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2068369339649061082",
+    "time": "2026-06-21 00:24",
+    "created_at": "Sat Jun 20 16:24:13 +0000 2026",
+    "id_str": "2068369339649061082",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "So true",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2068369665647108524",
+    "time": "2026-06-21 00:25",
+    "created_at": "Sat Jun 20 16:25:31 +0000 2026",
+    "id_str": "2068369665647108524",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @elonmusk: @WR4NYGov We need an anti-antimatter-tax party 😂",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2068371207754322354",
+    "time": "2026-06-21 00:31",
+    "created_at": "Sat Jun 20 16:31:39 +0000 2026",
+    "id_str": "2068371207754322354",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @grok: Generate videos with Grok Imagine.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2068378029445837174",
+    "time": "2026-06-21 00:58",
+    "created_at": "Sat Jun 20 16:58:45 +0000 2026",
+    "id_str": "2068378029445837174",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这些问题跟传统软件工程一样，你都能在软件工程里面找到答案，只不过执行的主体不再是人，而是人+Agent。\n\n【1】让 Agent 生成的代码能更好地满足需求\n\n1）需求分析\n\n你自己得先搞清楚要做什么，然后让 Agent 搞清楚你要做的是什么。给它充足的上下文，反复确认，否则会南辕北辙，越做错的越远。 https://t.co/ZriG5nsnJT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2068363092904276316",
+    "time": "2026-06-20 23:59",
+    "created_at": "Sat Jun 20 15:59:24 +0000 2026",
+    "id_str": "2068363092904276316",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Miravia是阿里巴巴集团在欧洲西班牙推出的品质和时尚综合型电商平台,为中国商家提供海量流量、高效物流、专业服务等优势。欢迎申请入驻Miravia,开拓欧洲市场。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2068361426759197103",
+    "time": "2026-06-20 23:52",
+    "created_at": "Sat Jun 20 15:52:47 +0000 2026",
+    "id_str": "2068361426759197103",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @JosephKahn: For everyone who said my Toyota commercials I released two weeks ago were AI, here you go. I accept apologies $100 at a tim…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2068362934791922155",
+    "time": "2026-06-20 23:58",
+    "created_at": "Sat Jun 20 15:58:46 +0000 2026",
+    "id_str": "2068362934791922155",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "And now filmmakers have to defend their artisanal, organic, hand-made [squints, checks notes] CGI against accusations of AI.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2068363105399423024",
+    "time": "2026-06-20 23:59",
+    "created_at": "Sat Jun 20 15:59:27 +0000 2026",
+    "id_str": "2068363105399423024",
+    "is_retweet": false
+  }
+]
