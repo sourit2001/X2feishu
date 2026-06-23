@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink coming to @AmericanAir next year!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2069535601892987275",
+    "time": "2026-06-24 05:38",
+    "created_at": "Tue Jun 23 21:38:32 +0000 2026",
+    "id_str": "2069535601892987275",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2069535856491483484",
+    "time": "2026-06-24 05:39",
+    "created_at": "Tue Jun 23 21:39:32 +0000 2026",
+    "id_str": "2069535856491483484",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2069547676849557725",
+    "time": "2026-06-24 06:26",
+    "created_at": "Tue Jun 23 22:26:31 +0000 2026",
+    "id_str": "2069547676849557725",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google Workspace CLI 这项目当时我还转发过，没想到几个月过去，作者 Justin Poehnelt 因为这个项目被开除了。\n\nJustin 在 Google 干了将近七年，岗位是 Workspace 开发者关系工程师。今年 3 月初，他用 Rust 写了一个 Google Workspace CLI，放在了 Google 官方 GitHub",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2069537208378302874",
+    "time": "2026-06-24 05:44",
+    "created_at": "Tue Jun 23 21:44:55 +0000 2026",
+    "id_str": "2069537208378302874",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @oran_ge: 看到即梦上的新模型这么贵，联想到最近总结出来的一个ROI 定律。\n大模型训练和使用都遵循 ROI 定律\n今天大家都去做coding和短剧\n就是因为 算力、精力、时间有限的情况下，RL 肯定选择价值最高的场景，不会去做价格很低的场景。…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2069544470756905104",
+    "time": "2026-06-24 06:13",
+    "created_at": "Tue Jun 23 22:13:46 +0000 2026",
+    "id_str": "2069544470756905104",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Harnesses like Claude Code and Codex took over in the past year. We've spent the past year building them for finance, procurement, and other departments at companies we automated, and this article goes over what we've learned about each part of the development process.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2069553373649781198",
+    "time": "2026-06-24 06:49",
+    "created_at": "Tue Jun 23 22:49:09 +0000 2026",
+    "id_str": "2069553373649781198",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "你的 AI 数字员工，Claude Tag 正式发布了\nClaude 的思考和其他产品有点不同\n不是基于三省六部给身份，也不是基于 team context 让 Agent 知道一切。\n他们选择了一个 channel based context，因此来界定 multi Agent\n这也是 Claude 内部使用数字员工的方式。\n很有意思，正在实践 AI 新组织的可以看看",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2069534869047447920",
+    "time": "2026-06-24 05:35",
+    "created_at": "Tue Jun 23 21:35:37 +0000 2026",
+    "id_str": "2069534869047447920",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "看到即梦上的新模型这么贵，联想到最近总结出来的一个ROI 定律。\n大模型训练和使用都遵循 ROI 定律\n今天大家都去做coding和短剧\n就是因为 算力、精力、时间有限的情况下，RL 肯定选择价值最高的场景，不会去做价格很低的场景。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2069540524101652915",
+    "time": "2026-06-24 05:58",
+    "created_at": "Tue Jun 23 21:58:05 +0000 2026",
+    "id_str": "2069540524101652915",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "每次搬家都要处理几天下水道反味这样的事情\n似乎上一家的租客们都不在意这些东西\n让贝壳的人来修，每次都用最烂的物料，修完几天就又坏了\n最后的结果就是自己掌握了完整的下水道治理技能（和供应链 https://t.co/O5j9hJCVjL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2069545198036852787",
+    "time": "2026-06-24 06:16",
+    "created_at": "Tue Jun 23 22:16:40 +0000 2026",
+    "id_str": "2069545198036852787",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Be original",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2069538368510177502",
+    "time": "2026-06-24 05:49",
+    "created_at": "Tue Jun 23 21:49:31 +0000 2026",
+    "id_str": "2069538368510177502",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How absolutely incredible this web game is",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2069538829749399640",
+    "time": "2026-06-24 05:51",
+    "created_at": "Tue Jun 23 21:51:21 +0000 2026",
+    "id_str": "2069538829749399640",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: I'm working on a community zine \"Gallery of the Future\". To take part:\n\n1. Submit your work (link in comments)\n2. Repost t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2069549283859120130",
+    "time": "2026-06-24 06:32",
+    "created_at": "Tue Jun 23 22:32:54 +0000 2026",
+    "id_str": "2069549283859120130",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @liangsays: update: i’m joining @MTSlive as co-founder and ceo\n\nwe are at the foothills of the singularity. mts will be fully based in s…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2069533108194742631",
+    "time": "2026-06-24 05:28",
+    "created_at": "Tue Jun 23 21:28:37 +0000 2026",
+    "id_str": "2069533108194742631",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "It is time to monitor the situation.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2069533135524749791",
+    "time": "2026-06-24 05:28",
+    "created_at": "Tue Jun 23 21:28:44 +0000 2026",
+    "id_str": "2069533135524749791",
+    "is_retweet": false
+  }
+]
