@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "品味是一个人的损失函数。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2069749334028300583",
+    "time": "2026-06-24 19:47",
+    "created_at": "Wed Jun 24 11:47:49 +0000 2026",
+    "id_str": "2069749334028300583",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "RT @foxshuo: 主流模型的每百万Tokens定价。 https://t.co/HemQpachk7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2069751275210907798",
+    "time": "2026-06-24 19:55",
+    "created_at": "Wed Jun 24 11:55:32 +0000 2026",
+    "id_str": "2069751275210907798",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "RT @dotey: 分享一下我管理 Skills 的方式，偏极客风格，不一定适合所有人，但可以给大家提供一个思路。\n\n一、Skills 只装在项目里，不装全局\n\nAgent 的 Skills 可以装在全局（所有项目共享）或者项目内（只有当前项目能用）。我选择只装在项目内，最主…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2069751370606084447",
+    "time": "2026-06-24 19:55",
+    "created_at": "Wed Jun 24 11:55:55 +0000 2026",
+    "id_str": "2069751370606084447",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "3.93M active addresses in 24h. Keep on building! 💪",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2069743613454725537",
+    "time": "2026-06-24 19:25",
+    "created_at": "Wed Jun 24 11:25:06 +0000 2026",
+    "id_str": "2069743613454725537",
+    "is_retweet": false
+  }
+]
