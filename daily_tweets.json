@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest rates through year-end (no rate hikes). \n\nMichael Gapen said incoming data since the June FOMC meeting has made it \"marginally more comfortable\" in its no-hike baseline. https://t.co/9OL7od94JP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2070536700519178493",
+    "time": "2026-06-26 23:56",
+    "created_at": "Fri Jun 26 15:56:32 +0000 2026",
+    "id_str": "2070536700519178493",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Full duration single-engine static fire test of Starship https://t.co/nfR8PvHpze",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2070509762366554135",
+    "time": "2026-06-26 22:09",
+    "created_at": "Fri Jun 26 14:09:30 +0000 2026",
+    "id_str": "2070509762366554135",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Great experiment testing how good AIs are getting at very ambitious end-to-end coding tasks. Opus 4.7, in 14 hours, was able to build a software package that would take 2-17 weeks of human engineering work. It cost $251.\n\nThe models are still not perfect, but are improving fast. https://t.co/cZ26ycnO7X",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2070537422027342085",
+    "time": "2026-06-26 23:59",
+    "created_at": "Fri Jun 26 15:59:24 +0000 2026",
+    "id_str": "2070537422027342085",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Paper: https://t.co/JC57sYlOVn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2070538214595535348",
+    "time": "2026-06-27 00:02",
+    "created_at": "Fri Jun 26 16:02:33 +0000 2026",
+    "id_str": "2070538214595535348",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "New Media.\n\nhttps://t.co/raHYpF1tc9 https://t.co/WdWHMArdL7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2070507721632444752",
+    "time": "2026-06-26 22:01",
+    "created_at": "Fri Jun 26 14:01:23 +0000 2026",
+    "id_str": "2070507721632444752",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI native startups run lean\n\nCharts of the Week: https://t.co/qmjdkZzisp https://t.co/Xd2ThUS3cv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2070531376890495293",
+    "time": "2026-06-26 23:35",
+    "created_at": "Fri Jun 26 15:35:23 +0000 2026",
+    "id_str": "2070531376890495293",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "有点意思 ....\n\nhttps://t.co/v4ii5fexbR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2070520697831710806",
+    "time": "2026-06-26 22:52",
+    "created_at": "Fri Jun 26 14:52:57 +0000 2026",
+    "id_str": "2070520697831710806",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "2. 小米与 TileRT 是什么关系？\n小米并不是 TileRT 的拥有者，而是它的重要深度应用方和技术合作方。\n\n小米在自研的 MiMo 系列大模型中，为了解决端侧和云侧的推理延迟，采用了 TileRT 的系统级优化（System-level Optimization）方案，用以加速和重构底层的 GPU 算子，提升生成速度。\n3. 智谱 AI 与",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2070521252415254619",
+    "time": "2026-06-26 22:55",
+    "created_at": "Fri Jun 26 14:55:09 +0000 2026",
+    "id_str": "2070521252415254619",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "3. 智谱 AI 与 TileRT 的关系 除了小米，国内头部大模型公司智谱 AI（Zhipu AI）也是 TileRT 的核心合作者：  智谱在推出其大模型（如 GLM-5.1 高速版）的极速推理服务时，就深度采用了 TileRT 引擎。通过静态编译和持久化 CUDA Kernel",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2070521276075221229",
+    "time": "2026-06-26 22:55",
+    "created_at": "Fri Jun 26 14:55:15 +0000 2026",
+    "id_str": "2070521276075221229",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "TileRT 属于中国本土学术界（北京大学等）孵化并开源的 AI 底层基础设施。正因为它性能极强，所以被小米、智谱 AI 等国内主流大模型厂商广泛采用并深度合作，作为提升大模型推理速度的“加速器”。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2070521337974858191",
+    "time": "2026-06-26 22:55",
+    "created_at": "Fri Jun 26 14:55:30 +0000 2026",
+    "id_str": "2070521337974858191",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "和 mimo 比起来， kimi 又慢又贵 ...\nhttps://t.co/SewEWGfuGu",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2070526975094276268",
+    "time": "2026-06-26 23:17",
+    "created_at": "Fri Jun 26 15:17:54 +0000 2026",
+    "id_str": "2070526975094276268",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "5 people to 117,000 followers. \n\nThis is insane. I didn't expect my community will grow so much",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2070514127655633254",
+    "time": "2026-06-26 22:26",
+    "created_at": "Fri Jun 26 14:26:50 +0000 2026",
+    "id_str": "2070514127655633254",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How is everyone doing? Making anything with AI this weekend? \n\nI'm working on our community zine and on the exhibition at Times Square. It's happening, loves.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2070524479164367083",
+    "time": "2026-06-26 23:07",
+    "created_at": "Fri Jun 26 15:07:58 +0000 2026",
+    "id_str": "2070524479164367083",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I'm close to 117,000 people following me here and I want to reflect on what I want to do for this community and each of you. \n\nYou know how I am interested in new tech and AI, but what really occupies my mind every minute of every day is for all people around me to have",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2070527953302151354",
+    "time": "2026-06-26 23:21",
+    "created_at": "Fri Jun 26 15:21:47 +0000 2026",
+    "id_str": "2070527953302151354",
+    "is_retweet": false
+  }
+]
