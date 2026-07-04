@@ -1,1 +1,211 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "baoyu-design skill 更新： 支持 PPT 动画了\n\n现在有很多朋友用这个 Skill 做 PPT 了，我自己也用，真的挺好用的。有朋友问能不能支持 PPT 动画，但当前这个skill生成的是 HTML 格式的 PPT，然后借助 PptxGenJS 导出为 PPTX，这个库有个局限就是不支持 PPT 的动画。\n\n之前借助 Opus 4.8 https://t.co/woSnuz8TOr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2073286406558949828",
+    "time": "2026-07-04 14:02",
+    "created_at": "Sat Jul 04 06:02:53 +0000 2026",
+    "id_str": "2073286406558949828",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "不知道又发什么疯\n\n豆包和千问的智能体应用全部下架了\n\n估计上面又发现了什么华点... https://t.co/R15BKkR7hG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2073258123260039276",
+    "time": "2026-07-04 12:10",
+    "created_at": "Sat Jul 04 04:10:30 +0000 2026",
+    "id_str": "2073258123260039276",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "书架上的书，是你大脑的训练语料。\n\n你不会往语言模型里灌垃圾数据，你知道数据质量决定模型质量。但很多人对自己的书架毫无门槛：畅销榜推什么读什么，等于拿互联网噪声训练自己的神经网络。\n\n\"多\"不是一个好指标。关键问题只有一个：你允许谁的思想进入你的权重？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2073257106657116186",
+    "time": "2026-07-04 12:06",
+    "created_at": "Sat Jul 04 04:06:28 +0000 2026",
+    "id_str": "2073257106657116186",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Such beautiful creatures that don't exist today!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2073282394472223156",
+    "time": "2026-07-04 13:46",
+    "created_at": "Sat Jul 04 05:46:57 +0000 2026",
+    "id_str": "2073282394472223156",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @LyanLab: \"Ethereal Unicorn and Butterfly in the mist\"\nremix within @zeng_wt environments for our collab😊 \nThanks again for the opportun…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2073283629715689493",
+    "time": "2026-07-04 13:51",
+    "created_at": "Sat Jul 04 05:51:51 +0000 2026",
+    "id_str": "2073283629715689493",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "The only benchmark I care about these days... lol https://t.co/UvTDFgsbOW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2073286985847095622",
+    "time": "2026-07-04 14:05",
+    "created_at": "Sat Jul 04 06:05:11 +0000 2026",
+    "id_str": "2073286985847095622",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "TRON keeps building for what comes next.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2073292986474205436",
+    "time": "2026-07-04 14:29",
+    "created_at": "Sat Jul 04 06:29:02 +0000 2026",
+    "id_str": "2073292986474205436",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "YOUNG WASHINGTON https://t.co/mBUcszFbVV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073259045826552267",
+    "time": "2026-07-04 12:14",
+    "created_at": "Sat Jul 04 04:14:10 +0000 2026",
+    "id_str": "2073259045826552267",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Hell yeah. 🇺🇸 https://t.co/Kl505FgxuC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073259243965395052",
+    "time": "2026-07-04 12:14",
+    "created_at": "Sat Jul 04 04:14:57 +0000 2026",
+    "id_str": "2073259243965395052",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "🇺🇸 https://t.co/X4zcvsUMLn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073260266343866531",
+    "time": "2026-07-04 12:19",
+    "created_at": "Sat Jul 04 04:19:01 +0000 2026",
+    "id_str": "2073260266343866531",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "🇺🇸 https://t.co/eulJmkulkA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073260468748394709",
+    "time": "2026-07-04 12:19",
+    "created_at": "Sat Jul 04 04:19:49 +0000 2026",
+    "id_str": "2073260468748394709",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "🇺🇸 https://t.co/ooUkgH25ps",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073260635203481723",
+    "time": "2026-07-04 12:20",
+    "created_at": "Sat Jul 04 04:20:29 +0000 2026",
+    "id_str": "2073260635203481723",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "🇺🇸 https://t.co/Gi2lKVnpRn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073260875503534148",
+    "time": "2026-07-04 12:21",
+    "created_at": "Sat Jul 04 04:21:26 +0000 2026",
+    "id_str": "2073260875503534148",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "🇺🇸 https://t.co/dqZ512NaFK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073261199790408146",
+    "time": "2026-07-04 12:22",
+    "created_at": "Sat Jul 04 04:22:44 +0000 2026",
+    "id_str": "2073261199790408146",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "YOUNG WASHINGTON https://t.co/M6nU8Lu2Fh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073263472796910035",
+    "time": "2026-07-04 12:31",
+    "created_at": "Sat Jul 04 04:31:45 +0000 2026",
+    "id_str": "2073263472796910035",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @sdmat123: Asking Fable to explain a hard concept, I understand something of how Galileo and Huygens must have felt looking through thei…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073265244382908502",
+    "time": "2026-07-04 12:38",
+    "created_at": "Sat Jul 04 04:38:48 +0000 2026",
+    "id_str": "2073265244382908502",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Cc @slatestarcodex  https://t.co/G7bk18Ggky",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073267731391221915",
+    "time": "2026-07-04 12:48",
+    "created_at": "Sat Jul 04 04:48:41 +0000 2026",
+    "id_str": "2073267731391221915",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @jforozcop: “Above the Enemy Clouds”\n\nMade with Runway using the new Runway Agents.\n\nCreated by J. Felipe Orozco. https://t.co/e48H3wBVp5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073286678316491202",
+    "time": "2026-07-04 14:03",
+    "created_at": "Sat Jul 04 06:03:58 +0000 2026",
+    "id_str": "2073286678316491202",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "WOW. 🇺🇸",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2073286727565992372",
+    "time": "2026-07-04 14:04",
+    "created_at": "Sat Jul 04 06:04:10 +0000 2026",
+    "id_str": "2073286727565992372",
+    "is_retweet": false
+  }
+]
