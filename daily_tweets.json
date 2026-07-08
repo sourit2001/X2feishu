@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Correct",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2074889665119740341",
+    "time": "2026-07-09 00:13",
+    "created_at": "Wed Jul 08 16:13:40 +0000 2026",
+    "id_str": "2074889665119740341",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "We will continue to make refinements to the Grok Build harness and the 1.5T foundation model almost every day in response to user requests.\n\nThe 2T model will finish training this month and be available to customers next month.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2074893922812252354",
+    "time": "2026-07-09 00:30",
+    "created_at": "Wed Jul 08 16:30:35 +0000 2026",
+    "id_str": "2074893922812252354",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @yunta_tsai: Has been my regular work horse for weeks. Impressive indeed.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2074896252148322617",
+    "time": "2026-07-09 00:39",
+    "created_at": "Wed Jul 08 16:39:50 +0000 2026",
+    "id_str": "2074896252148322617",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Mitchell 的评测，这个比喻很有画面感：\n“GPT 5.6 Sol 就像一个魅力十足、高效能干、才华横溢的同事，让你有点嫉妒。Fable 则是个天才隐士，它在自己的痴迷领域里无比出色，但不爱出门、不谈恋爱，你也不太想和它多相处！”\n\n另外这点总结很重要：\nFable",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2074878817500328286",
+    "time": "2026-07-08 23:30",
+    "created_at": "Wed Jul 08 15:30:34 +0000 2026",
+    "id_str": "2074878817500328286",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @dontbesilent: 创业经历.mp4 https://t.co/KliyYK7PkR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2074904651728597475",
+    "time": "2026-07-09 01:13",
+    "created_at": "Wed Jul 08 17:13:13 +0000 2026",
+    "id_str": "2074904651728597475",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This one was unexpected...\n\nI was not excited for voice models until I tried this one.\nIt's VERY realistic, almost spooky. \n\nThe coolest part.. the model can search the internet.. fast. And if you've spent any time with GPT-Realtime-2 You know, these voice models are getting very",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2074903393747771717",
+    "time": "2026-07-09 01:08",
+    "created_at": "Wed Jul 08 17:08:13 +0000 2026",
+    "id_str": "2074903393747771717",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This graphic from @thinkymachines seems relevant to the GPT Voice Release... they are (from my understanding) very similar. \n\nReal time voice models have an interaction model that can run background models that use tools.\n\nYou don't need to wait for the voice model to finish https://t.co/d9DAf3dydR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2074904734180278757",
+    "time": "2026-07-09 01:13",
+    "created_at": "Wed Jul 08 17:13:33 +0000 2026",
+    "id_str": "2074904734180278757",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "看到哥飞这个帖子正是我想说的\nAI 能改变很多东西，但不能改变不赚钱这个事实\n\n以前，你一个月写一个没人用的 App。\n​现在，你一个月花一万块钱 Token 写了37个没人用的 App。\n​生产效率提高了，并不能让你赚到钱，反而可能还更浪费钱也浪费时间。 https://t.co/iKhNtGsXqh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2074879874091958407",
+    "time": "2026-07-08 23:34",
+    "created_at": "Wed Jul 08 15:34:46 +0000 2026",
+    "id_str": "2074879874091958407",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @OpenAI: Listen up.\n\nLivestream at 10am. https://t.co/tfqMb74Ri6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2074894250957996088",
+    "time": "2026-07-09 00:31",
+    "created_at": "Wed Jul 08 16:31:53 +0000 2026",
+    "id_str": "2074894250957996088",
+    "is_retweet": true
+  }
+]
