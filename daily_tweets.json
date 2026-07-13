@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2076796854973423971",
+    "time": "2026-07-14 06:32",
+    "created_at": "Mon Jul 13 22:32:09 +0000 2026",
+    "id_str": "2076796854973423971",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I'm absolutely obsessed with optimizing and making the Future Tools site more and more valuable. If you haven't been there recently, it's gotten some major overhauls.\n\nThe Community Picks for Top 20 tools is based on which tools have had the most upvotes over the past 30-days. So https://t.co/A9cWAYHJSP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2076790129457565886",
+    "time": "2026-07-14 06:05",
+    "created_at": "Mon Jul 13 22:05:26 +0000 2026",
+    "id_str": "2076790129457565886",
+    "is_retweet": false
+  }
+]
