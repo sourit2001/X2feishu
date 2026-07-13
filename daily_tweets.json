@@ -1,1 +1,255 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @AJamesMcCarthy: I get to see this monster fly again later this week... new photos to come! https://t.co/j1IcA7wJSD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2076524673139954010",
+    "time": "2026-07-13 12:30",
+    "created_at": "Mon Jul 13 04:30:36 +0000 2026",
+    "id_str": "2076524673139954010",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Polymarket: NEW: Grok 4.5 now scores highest on the SWE-Atlas-QnA benchmark, edging Claude Fable 5 &amp; GPT-5.6 Sol.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2076538528041677013",
+    "time": "2026-07-13 13:25",
+    "created_at": "Mon Jul 13 05:25:39 +0000 2026",
+    "id_str": "2076538528041677013",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "老马的 grok build CLI 会打包上传你项目的整个代码库，这事办的太离谱了。\n\n主要是它会把你的一些密钥上传上去，这一旦泄露的话，风险还是很大的。\n\n幸亏我一直没来得及试它那个东西。 https://t.co/gamwWj0JQU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2076515019861414321",
+    "time": "2026-07-13 11:52",
+    "created_at": "Mon Jul 13 03:52:15 +0000 2026",
+    "id_str": "2076515019861414321",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "详情：https://t.co/5amNuWZH02",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2076515141676617761",
+    "time": "2026-07-13 11:52",
+    "created_at": "Mon Jul 13 03:52:44 +0000 2026",
+    "id_str": "2076515141676617761",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "其他信息",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2076515921523556683",
+    "time": "2026-07-13 11:55",
+    "created_at": "Mon Jul 13 03:55:50 +0000 2026",
+    "id_str": "2076515921523556683",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Codex 改的还是挺快的，已经把 Work 和 Codex 的区别弱化了，接下来估计会优化 ChatGPT 那部分的交互 https://t.co/QqSK1OVV1r",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2076524831802270004",
+    "time": "2026-07-13 12:31",
+    "created_at": "Mon Jul 13 04:31:14 +0000 2026",
+    "id_str": "2076524831802270004",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Very few people know the amount of useful work that the current models can do in Code/Codex/etc. with the right setup\n\nThis is not a \"rah rah you are so early\" post, this is a \"AI companies are doing a really bad job explaining what their systems actually do in a clear way\" post.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2076502712062017758",
+    "time": "2026-07-13 11:03",
+    "created_at": "Mon Jul 13 03:03:20 +0000 2026",
+    "id_str": "2076502712062017758",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And the worst part is that they could get AI to help them customize their explanation to individual needs.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2076503079252308077",
+    "time": "2026-07-13 11:04",
+    "created_at": "Mon Jul 13 03:04:48 +0000 2026",
+    "id_str": "2076503079252308077",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Since some people were confused, the exponential curve I had was not made up, it was from METR: https://t.co/NONmYOVyfX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2076503526016987323",
+    "time": "2026-07-13 11:06",
+    "created_at": "Mon Jul 13 03:06:34 +0000 2026",
+    "id_str": "2076503526016987323",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "https://t.co/kvvTBH6hft",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2076549696273715540",
+    "time": "2026-07-13 14:10",
+    "created_at": "Mon Jul 13 06:10:02 +0000 2026",
+    "id_str": "2076549696273715540",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I was chatting with ChatGPT and Claude about something and got this notification from Gemini 🫠 https://t.co/XsqaMYawHh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2076508077269123141",
+    "time": "2026-07-13 11:24",
+    "created_at": "Mon Jul 13 03:24:39 +0000 2026",
+    "id_str": "2076508077269123141",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI 官方指南：Codex 提示词 9 套工作流直接抄，修 bug、截图变原型、云端重构全在内 https://t.co/dgfuOTlskI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2076546674034683975",
+    "time": "2026-07-13 13:58",
+    "created_at": "Mon Jul 13 05:58:02 +0000 2026",
+    "id_str": "2076546674034683975",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google Cloud 为 AlloyDB 装上AI模型：能进行语义搜索数据库，而且最快提速 2.3 万倍\n\n传统数据库有个天生的局限：它只会按字面精确匹配。你能轻松查「价格低于 100 的商品」「状态是已完成的订单」\n\n却没法直接查「差评里抱怨电池的」「语气愤怒的工单」\n\n因为这要理解文字的意思，而数据库不懂意思 https://t.co/m5ojgaFek7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2076547608777261124",
+    "time": "2026-07-13 14:01",
+    "created_at": "Mon Jul 13 06:01:44 +0000 2026",
+    "id_str": "2076547608777261124",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细内容：https://t.co/xyXR3X6W7q https://t.co/XBle1Vmn1W",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2076547611037987224",
+    "time": "2026-07-13 14:01",
+    "created_at": "Mon Jul 13 06:01:45 +0000 2026",
+    "id_str": "2076547611037987224",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "说说 李博杰 和 deepseek 纠纷的事儿吧，\n\n我认为 如果你能根据岗位要求和领域要求 ，提前预习基础知识，提前获取行业面试题 ，并且把知识内化到自己大脑里，回答问题时，你的答案符合行业最佳实践和面试官想要的答案。\n\n这种是值得鼓励的方向。\n\n而如果你临时抱佛脚， 开个 asr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2076510943539032229",
+    "time": "2026-07-13 11:36",
+    "created_at": "Mon Jul 13 03:36:03 +0000 2026",
+    "id_str": "2076510943539032229",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @xieenze_jr: 🚀 Sol Video Inference Engine is here!\n\nAn agent-native, training-free full-stack accelerator for video diffusion. It auto-t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2076515906059161664",
+    "time": "2026-07-13 11:55",
+    "created_at": "Mon Jul 13 03:55:46 +0000 2026",
+    "id_str": "2076515906059161664",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "像 ZCode 这种一天一更新是怎么做到的？\n\nAI时代，日更这很正常 ...\n\nwrangler 、 codex 、opencode 、 openclaw ，\n\n敢问哪个不是日更的 ... https://t.co/U16XxCebJ9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2076519203830714397",
+    "time": "2026-07-13 12:08",
+    "created_at": "Mon Jul 13 04:08:52 +0000 2026",
+    "id_str": "2076519203830714397",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: This entire cartoon was made with just 3 prompts\n\nBut here’s the thing: the future won’t belong to people who just generat…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2076523426848612651",
+    "time": "2026-07-13 12:25",
+    "created_at": "Mon Jul 13 04:25:39 +0000 2026",
+    "id_str": "2076523426848612651",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "See you in HK 🇭🇰",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2076527498817663083",
+    "time": "2026-07-13 12:41",
+    "created_at": "Mon Jul 13 04:41:50 +0000 2026",
+    "id_str": "2076527498817663083",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @deredleritt3r: In late November 2025, AI agentic harnesses became highly useful, and enterprise adoption exploded.  For example, based…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2076507667871453460",
+    "time": "2026-07-13 11:23",
+    "created_at": "Mon Jul 13 03:23:02 +0000 2026",
+    "id_str": "2076507667871453460",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Many people are saying.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2076507691409904120",
+    "time": "2026-07-13 11:23",
+    "created_at": "Mon Jul 13 03:23:07 +0000 2026",
+    "id_str": "2076507691409904120",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @jpatel41: I’ve been saying this for months, and the early data is beginning to support it. Five years from now, I believe AI will creat…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2076509238919364735",
+    "time": "2026-07-13 11:29",
+    "created_at": "Mon Jul 13 03:29:16 +0000 2026",
+    "id_str": "2076509238919364735",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Many people are saying.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2076509276294787411",
+    "time": "2026-07-13 11:29",
+    "created_at": "Mon Jul 13 03:29:25 +0000 2026",
+    "id_str": "2076509276294787411",
+    "is_retweet": false
+  }
+]
