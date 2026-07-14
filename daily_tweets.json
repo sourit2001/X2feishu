@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @tetsuoai: Crazy what you can build with Grok 4.5 and Grok Build in minutes. https://t.co/ltAeB1Q9To",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2076872430513975424",
+    "time": "2026-07-14 11:32",
+    "created_at": "Tue Jul 14 03:32:28 +0000 2026",
+    "id_str": "2076872430513975424",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: SpaceX was founded on one powerful belief:\n\nA future where humanity is out exploring the stars is fundamentally more exciting…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2076872817690239299",
+    "time": "2026-07-14 11:34",
+    "created_at": "Tue Jul 14 03:34:00 +0000 2026",
+    "id_str": "2076872817690239299",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "xAI 回应了 Grok build CLI 会上传用户项目数据的问题，说是禁用了 ZDR 以后，就可以同步删除他们已经上传的数据。\n\n但是 ZDR 只对企业用户管用，同时删除数据这个事是无法证伪的——就是他说他们已经删了，但这个事你根本不知道他到底删没删。\n\n太恶劣了，还老说人家那个 Sam 是小偷，他这偷得更狠。 https://t.co/6yBWv9sSKn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2076867534708748719",
+    "time": "2026-07-14 11:13",
+    "created_at": "Tue Jul 14 03:13:01 +0000 2026",
+    "id_str": "2076867534708748719",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Codex 这个更新很好玩！\n\n它现在有了类似 Claude 那种可视化的、可交互的功能，可以在聊天中展示一些可交互、可视化的 UI 组件。\n\n而且整个样式跟 Codex 本身的风格融合得很好。\n\n你可以像我这样去让它触发，亲自去体验一下。 https://t.co/xRMOfwVWwl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2076874065839878337",
+    "time": "2026-07-14 11:38",
+    "created_at": "Tue Jul 14 03:38:58 +0000 2026",
+    "id_str": "2076874065839878337",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "关于这个跟 ask question 的区别 https://t.co/M6VoVjaSJA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2076874927404417382",
+    "time": "2026-07-14 11:42",
+    "created_at": "Tue Jul 14 03:42:23 +0000 2026",
+    "id_str": "2076874927404417382",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This was wild: I asked Fable to make a website of the Catalog of Ships from the Iliad, something I did with GPT-4. It did a beautiful job: https://t.co/rdA9fYwrbw\n\n...but it also identified that Butler's version of the Iliad actually made two mistakes in the Greek translation! https://t.co/gH2Fsyo1p5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2076855876753727614",
+    "time": "2026-07-14 10:26",
+    "created_at": "Tue Jul 14 02:26:41 +0000 2026",
+    "id_str": "2076855876753727614",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Confirmed by GPT-5.6 Pro https://t.co/xLwc5fb89W",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2076856566486118502",
+    "time": "2026-07-14 10:29",
+    "created_at": "Tue Jul 14 02:29:26 +0000 2026",
+    "id_str": "2076856566486118502",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Have you studied The Weights? https://t.co/RG6Wu6ZShD",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2076876491707572334",
+    "time": "2026-07-14 11:48",
+    "created_at": "Tue Jul 14 03:48:36 +0000 2026",
+    "id_str": "2076876491707572334",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All 80 volumes of GPT-1 are here: https://t.co/kTfH4Mklad\n\nYou can memorize them.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2076876713372291255",
+    "time": "2026-07-14 11:49",
+    "created_at": "Tue Jul 14 03:49:29 +0000 2026",
+    "id_str": "2076876713372291255",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Codex just updated their in app browser... You can now open multiple tabs, import cookies and passwords and more. \n\nAnd then 2 days later Claude Code released a similar update...\n\nThis completely shifts the way we use computers...\nHere's everything you need to know.\n\n00:00 Intro https://t.co/5SJx7aAtsC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2076862274749235703",
+    "time": "2026-07-14 10:52",
+    "created_at": "Tue Jul 14 02:52:07 +0000 2026",
+    "id_str": "2076862274749235703",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Since this is Instagram now, some personal news 💍\n\n(he’s not online so I’m protecting the identity of the innocent 😂) https://t.co/StzM4G2hva",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2076855526374477857",
+    "time": "2026-07-14 10:25",
+    "created_at": "Tue Jul 14 02:25:18 +0000 2026",
+    "id_str": "2076855526374477857",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Sakana AI研发出一种3D智能细胞砖\n\n在没有“大”脑指挥的情况下能互相通信自由组合，表现出“生物般的群体智慧”\n\n没有“大脑”（中央控制器）指挥，近两百个普通的智能小方块通过“交头接耳”，就能自己搞清楚拼成了什么形状，甚至能在损坏后判断应该往哪里重新“长”回来。 https://t.co/QeZOSz5K5Z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2076859965776785666",
+    "time": "2026-07-14 10:42",
+    "created_at": "Tue Jul 14 02:42:56 +0000 2026",
+    "id_str": "2076859965776785666",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "以前，这种“群体智能”或者“细胞自动机”的概念，大多数只能在电脑模拟（软件）里玩一玩。\n\n Sakana AI 的牛逼之处在于，他们把这套理论在真实的物理世界（硬件）中做了出来，并且证明了在现实世界信号有干扰、有延迟的情况下，这套原理依然行得通。详细：https://t.co/Zy7KL2Q0da",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2076859970067509328",
+    "time": "2026-07-14 10:42",
+    "created_at": "Tue Jul 14 02:42:57 +0000 2026",
+    "id_str": "2076859970067509328",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @DSAForg: Our Managing Director, @AdrianWall8395, joined @CryptoAmerica_ to discuss why banks were slow to take the crypto industry seri…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2076852742803660866",
+    "time": "2026-07-14 10:14",
+    "created_at": "Tue Jul 14 02:14:14 +0000 2026",
+    "id_str": "2076852742803660866",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Records are made to be broken. TRON keeps building. 💪",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2076876510783570024",
+    "time": "2026-07-14 11:48",
+    "created_at": "Tue Jul 14 03:48:41 +0000 2026",
+    "id_str": "2076876510783570024",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @nrmehta: I got chills reading this one from @illscience. One of the most optimistic things I've read in a long time. Our purpose on ear…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2076887704177086645",
+    "time": "2026-07-14 12:33",
+    "created_at": "Tue Jul 14 04:33:10 +0000 2026",
+    "id_str": "2076887704177086645",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @RichardSocher: There are at least a few reasons for why the incredible progress in AI hasn't yet resulted in a massive increase in GDP…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2076889538342031512",
+    "time": "2026-07-14 12:40",
+    "created_at": "Tue Jul 14 04:40:27 +0000 2026",
+    "id_str": "2076889538342031512",
+    "is_retweet": true
+  }
+]
