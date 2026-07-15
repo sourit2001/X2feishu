@@ -471,5 +471,126 @@
     "created_at": "Wed Jul 15 04:38:04 +0000 2026",
     "id_str": "2077251326166376945",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @michaelnicollsx: Congrats to the @Starlink team on the release of the new Starlink V5 terminal, designed with high performance, reliabi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2077269478010761313",
+    "time": "2026-07-15 13:50",
+    "created_at": "Wed Jul 15 05:50:12 +0000 2026",
+    "id_str": "2077269478010761313",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @EFDevcon: Mumbai is calling. 🇮🇳\n\nGlobal tickets for Devcon 8 are now live.\n\nThis is the one to be in the room for.\n\nNovember 3-6 https:…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2077284138022052040",
+    "time": "2026-07-15 14:48",
+    "created_at": "Wed Jul 15 06:48:27 +0000 2026",
+    "id_str": "2077284138022052040",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我在开发 BaoCut 这个 App 的时候，是基于一个 Loop 来的：\n\n1. 在开发新功能之前先设计原型（参考图1），借助的是 baoyu-design skill （https://t.co/POuwOWSuwe ），配合 Claude Code App 内置的浏览器实施预览调整，模型 Opus 4.8 就很好了，都不需要 Fable 5.\n\nGPT 5.6 Sol 设计能力还是不如 Opus https://t.co/DqePLdTji0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2077281462433223043",
+    "time": "2026-07-15 14:37",
+    "created_at": "Wed Jul 15 06:37:49 +0000 2026",
+    "id_str": "2077281462433223043",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Notion 终于支持 markdown 文件了…\n在 AI 已经快四年的时候…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2077255640209297646",
+    "time": "2026-07-15 12:55",
+    "created_at": "Wed Jul 15 04:55:12 +0000 2026",
+    "id_str": "2077255640209297646",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "语言的污染是很可怕的\n很多人说话和写文已经越来越GPT味儿了...\n平时没事儿还是多换几个模型换着用",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2077262448541974584",
+    "time": "2026-07-15 13:22",
+    "created_at": "Wed Jul 15 05:22:16 +0000 2026",
+    "id_str": "2077262448541974584",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "DoorDash 如何做好 AI 购物助手：不全靠模型，靠工具和记忆落地 \n\nDoorDash 从2026年6月起连续发布三篇工程博客，详解一款刚上线的 AI 购物助手 Ask DoorDash：它的运行时架构、记忆系统，还有支撑它上线的评测框架。\n\n用一句自然语言描述想吃什么、想买什么，AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2077283151240716471",
+    "time": "2026-07-15 14:44",
+    "created_at": "Wed Jul 15 06:44:31 +0000 2026",
+    "id_str": "2077283151240716471",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @DSAForg: Stablecoins are becoming the backbone of global digital finance, offering speed, transparency, and accessibility that traditio…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2077265331329151463",
+    "time": "2026-07-15 13:33",
+    "created_at": "Wed Jul 15 05:33:43 +0000 2026",
+    "id_str": "2077265331329151463",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Another step forward for institutional access to TRON.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2077288589734695270",
+    "time": "2026-07-15 15:06",
+    "created_at": "Wed Jul 15 07:06:08 +0000 2026",
+    "id_str": "2077288589734695270",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "https://t.co/RfijWnBzFf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2077280008088035481",
+    "time": "2026-07-15 14:32",
+    "created_at": "Wed Jul 15 06:32:02 +0000 2026",
+    "id_str": "2077280008088035481",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @millerman: be honest (though I assume this is one of those things where what people think they want and what they actually want can dif…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2077280711955173756",
+    "time": "2026-07-15 14:34",
+    "created_at": "Wed Jul 15 06:34:50 +0000 2026",
+    "id_str": "2077280711955173756",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I have liked every single written work I’ve read, of which someone said “he needs an editor”.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2077281020811129285",
+    "time": "2026-07-15 14:36",
+    "created_at": "Wed Jul 15 06:36:04 +0000 2026",
+    "id_str": "2077281020811129285",
+    "is_retweet": false
   }
 ]
