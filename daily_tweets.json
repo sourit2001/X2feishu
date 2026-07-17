@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @yunta_tsai: Our lifespan is a session. Our memory is a context.\nOur senses are the input stream. Our thoughts are the reasoning steps.…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078194299385049273",
+    "time": "2026-07-18 03:05",
+    "created_at": "Fri Jul 17 19:05:06 +0000 2026",
+    "id_str": "2078194299385049273",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok 4.5 is arguably #1 when taking speed and cost into account",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078195617877143895",
+    "time": "2026-07-18 03:10",
+    "created_at": "Fri Jul 17 19:10:20 +0000 2026",
+    "id_str": "2078195617877143895",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "买 Mac 是没错的，现在主流 Agent 应用都是 Mac 支持最好，比如 Compter Use，只有 Mac 支持的好。\n\n对于开发者来说，开发 App 肯定也优先 Mac。我之前也试过 Electron，性能还是远比不上原生的。\n\n如果不需要移动办公 Mac Mini 或者 Mac Studio 也挺好，但是内存一定要高，16 G",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2078195610696482895",
+    "time": "2026-07-18 03:10",
+    "created_at": "Fri Jul 17 19:10:19 +0000 2026",
+    "id_str": "2078195610696482895",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is all interesting but specifically, I, too, am curious about this. The US &amp; UK clearly see the models being released today from the closed labs as presenting genuine cyber risk (as well as offensive capabilities), it is interesting that China does not seem to believe that. https://t.co/DDSpG1HR9i",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2078191705585553717",
+    "time": "2026-07-18 02:54",
+    "created_at": "Fri Jul 17 18:54:48 +0000 2026",
+    "id_str": "2078191705585553717",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Specifically, if there is an offensive/defensive capabilities edge that is real, China is ceding that to the US alone, when it could be for China and the US and no one else.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2078192902258229744",
+    "time": "2026-07-18 02:59",
+    "created_at": "Fri Jul 17 18:59:33 +0000 2026",
+    "id_str": "2078192902258229744",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Ordering an uber in NYC is wild. 3 times this week my uber arrived 30 seconds after ordering it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2078181887407747110",
+    "time": "2026-07-18 02:15",
+    "created_at": "Fri Jul 17 18:15:47 +0000 2026",
+    "id_str": "2078181887407747110",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Hey Codex feature request. Would love if my real time voice chats could see and pull from my Codex chat sessions. \n\nI would use this ALL the time to talk through new features, emails, documents and video scripts etc.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2078182756467491048",
+    "time": "2026-07-18 02:19",
+    "created_at": "Fri Jul 17 18:19:14 +0000 2026",
+    "id_str": "2078182756467491048",
+    "is_retweet": false
+  }
+]
