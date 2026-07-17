@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/NQj2euaQdh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078006929188606315",
+    "time": "2026-07-17 14:40",
+    "created_at": "Fri Jul 17 06:40:34 +0000 2026",
+    "id_str": "2078006929188606315",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Build upgrades",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078007993296179568",
+    "time": "2026-07-17 14:44",
+    "created_at": "Fri Jul 17 06:44:47 +0000 2026",
+    "id_str": "2078007993296179568",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Imagine",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078008818764505356",
+    "time": "2026-07-17 14:48",
+    "created_at": "Fri Jul 17 06:48:04 +0000 2026",
+    "id_str": "2078008818764505356",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @kentcdodds: Grok 4.5 is the first time I feel like I can regularly use a Grok model for building software.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078011289696137669",
+    "time": "2026-07-17 14:57",
+    "created_at": "Fri Jul 17 06:57:53 +0000 2026",
+    "id_str": "2078011289696137669",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try Grok",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078014448267104664",
+    "time": "2026-07-17 15:10",
+    "created_at": "Fri Jul 17 07:10:26 +0000 2026",
+    "id_str": "2078014448267104664",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "As promised",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078015422931091486",
+    "time": "2026-07-17 15:14",
+    "created_at": "Fri Jul 17 07:14:19 +0000 2026",
+    "id_str": "2078015422931091486",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @no4core: @saneord also 29 days ago. https://t.co/jUsiEiy0EX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078018021507932480",
+    "time": "2026-07-17 15:24",
+    "created_at": "Fri Jul 17 07:24:38 +0000 2026",
+    "id_str": "2078018021507932480",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @uge198568: 这几天油管的这类vox风格的视频我看了一轮，给大家避下坑\n1，所谓的某AI+某AI可以做出这样的作品，这话没错，但这里有个巨坑是，这并不是你给一个主题，给一个文案就能一键做出这样效果的。…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2077995430999171078",
+    "time": "2026-07-17 13:54",
+    "created_at": "Fri Jul 17 05:54:52 +0000 2026",
+    "id_str": "2077995430999171078",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "最早我做字幕翻译的时候，语音转文字是用的 Whisper，但是 Whisper 有几个问题：\n\n一个问题是时间戳不准，时间戳不准拆分的就是就可能字幕和语音对不上，很影响效果，需要人工去从头到尾校对一遍\n\n一个问题是中英文混排支持不好，中文其实支持也不算太好，所以中文的转录就效果很差 https://t.co/sleGYwbE6Y",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2078003883855524314",
+    "time": "2026-07-17 14:28",
+    "created_at": "Fri Jul 17 06:28:28 +0000 2026",
+    "id_str": "2078003883855524314",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Kimi K3 现已上架到 Cola\n欢迎体验，不过这个模型有点爆，可能会比较慢 https://t.co/hh2SXUnaJ4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2077996538312417582",
+    "time": "2026-07-17 13:59",
+    "created_at": "Fri Jul 17 05:59:16 +0000 2026",
+    "id_str": "2077996538312417582",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Kimi K3 现已上架到 Cola\n智能水平仅次于 Fable 和 GPT 5.6\n欢迎体验，不过这个模型有点爆，可能会比较慢 https://t.co/romtTEtprz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2077997018132468063",
+    "time": "2026-07-17 14:01",
+    "created_at": "Fri Jul 17 06:01:11 +0000 2026",
+    "id_str": "2077997018132468063",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @trondao: 400M accounts on #TRON is just around the corner. 🚀\n\nMilestones like this reflect a growing global user base on the TRON netwo…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2078004867168395425",
+    "time": "2026-07-17 14:32",
+    "created_at": "Fri Jul 17 06:32:22 +0000 2026",
+    "id_str": "2078004867168395425",
+    "is_retweet": true
+  }
+]
