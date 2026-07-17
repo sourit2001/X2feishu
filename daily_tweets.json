@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Cool",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078200590765535431",
+    "time": "2026-07-18 03:30",
+    "created_at": "Fri Jul 17 19:30:06 +0000 2026",
+    "id_str": "2078200590765535431",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 刚才短暂下架了 Fable 5，然后又恢复了。有个朋友比较倒霉，因为开启了“Usage credits”，一个正在进行中的任务就开始使用 API 额度了，一小会轻松 $18 就没了。\n\n他们要真下了也挺好，我周末就可以好好放松一下了，现在要忙于把剩余额度在周末消耗完，不然 19 日到期就不能再在 Claude https://t.co/Wrp9Qr8KkB",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2078199263415205978",
+    "time": "2026-07-18 03:24",
+    "created_at": "Fri Jul 17 19:24:50 +0000 2026",
+    "id_str": "2078199263415205978",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "可以添加专门的 AI 时间线，看到更多 AI 相关信息 https://t.co/0SuDsVpD9r",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2078205785100652663",
+    "time": "2026-07-18 03:50",
+    "created_at": "Fri Jul 17 19:50:45 +0000 2026",
+    "id_str": "2078205785100652663",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Markets price the future.\n\nCharts of the Week: https://t.co/b6vvV3acMy https://t.co/CcAL46b96Z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2078199413642821832",
+    "time": "2026-07-18 03:25",
+    "created_at": "Fri Jul 17 19:25:25 +0000 2026",
+    "id_str": "2078199413642821832",
+    "is_retweet": false
+  }
+]
