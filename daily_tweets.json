@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "this is cool:\n\nhttps://t.co/X4HEmFym68",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2078244242993164716",
+    "time": "2026-07-18 06:23",
+    "created_at": "Fri Jul 17 22:23:34 +0000 2026",
+    "id_str": "2078244242993164716",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: “Gallery of the Future”printed zines have arrived 🎉 they look good! \n\nI’ll start sending them out next week! https://t.co/…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2078238835146707016",
+    "time": "2026-07-18 06:02",
+    "created_at": "Fri Jul 17 22:02:04 +0000 2026",
+    "id_str": "2078238835146707016",
+    "is_retweet": true
+  }
+]
