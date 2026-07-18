@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Remember this?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2078596715544728025",
+    "time": "2026-07-19 05:44",
+    "created_at": "Sat Jul 18 21:44:10 +0000 2026",
+    "id_str": "2078596715544728025",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @kepano: formats evolve over decades, apps over months, intelligence is evolving every day\n\nin terms of pace layers \"file over app\" defi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2078605838210507229",
+    "time": "2026-07-19 06:20",
+    "created_at": "Sat Jul 18 22:20:25 +0000 2026",
+    "id_str": "2078605838210507229",
+    "is_retweet": true
+  }
+]
