@@ -75,5 +75,71 @@
     "created_at": "Sat Jul 18 14:44:23 +0000 2026",
     "id_str": "2078491076046794987",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cyrilXBT: MARC ANDREESSEN WENT ON ROGAN FOR OVER 3 HOURS. HERE ARE THE 17 THINGS WORTH YOUR ATTENTION.\n\n1. AGI is already here, in his…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078494377660313888",
+    "time": "2026-07-18 22:57",
+    "created_at": "Sat Jul 18 14:57:30 +0000 2026",
+    "id_str": "2078494377660313888",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try Grok Build\n\nhttps://t.co/qrq6Gn3HCS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078495013936206287",
+    "time": "2026-07-18 23:00",
+    "created_at": "Sat Jul 18 15:00:02 +0000 2026",
+    "id_str": "2078495013936206287",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GUI 自动化测试首先主要的流程依赖于自动化的 E2E（端到端）测试，比如说 Web 可以借助Playwright 这样的自动化测试框架，另外还可以借助 Agent 的 Computer Use 做自动化测试，但是成本要高不少，稳定性也要差一些，不过可以做很多传统 E2E 做不到的事情，代替很大一部分人工",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2078492444270661802",
+    "time": "2026-07-18 22:49",
+    "created_at": "Sat Jul 18 14:49:49 +0000 2026",
+    "id_str": "2078492444270661802",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "模型发布苦不苦，想想 Gemini 3.5 (pro)\n\n好歹都高光过，总比胎死腹中要好……",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2078493011177005136",
+    "time": "2026-07-18 22:52",
+    "created_at": "Sat Jul 18 14:52:05 +0000 2026",
+    "id_str": "2078493011177005136",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "(More boringly, but financially important, it is also the golden age of data &amp; code migration from old computer systems to new ones)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2078503896293482982",
+    "time": "2026-07-18 23:35",
+    "created_at": "Sat Jul 18 15:35:20 +0000 2026",
+    "id_str": "2078503896293482982",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "https://t.co/nMjQcILxG5 全部支持",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2078491737337778320",
+    "time": "2026-07-18 22:47",
+    "created_at": "Sat Jul 18 14:47:01 +0000 2026",
+    "id_str": "2078491737337778320",
+    "is_retweet": false
   }
 ]
