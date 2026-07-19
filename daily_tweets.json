@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @PeterDiamandis: SpaceX's newest satellites carry about 1,024 gigabits of bandwidth each. The generation before carried 96. That is a te…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078939898870903135",
+    "time": "2026-07-20 04:27",
+    "created_at": "Sun Jul 19 20:27:51 +0000 2026",
+    "id_str": "2078939898870903135",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @PeterDiamandis: The first phone call across the Atlantic, in 1927, cost about seventy five dollars for three minutes, more than a thous…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078940289226482120",
+    "time": "2026-07-20 04:29",
+    "created_at": "Sun Jul 19 20:29:24 +0000 2026",
+    "id_str": "2078940289226482120",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Going to AI-generate a World Cup where they actually score some goals",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2078948954730053655",
+    "time": "2026-07-20 05:03",
+    "created_at": "Sun Jul 19 21:03:50 +0000 2026",
+    "id_str": "2078948954730053655",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Argentina’s goalie is like Fable dodging my attempts to expose API keys in my vibecoded app",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2078956163299934251",
+    "time": "2026-07-20 05:32",
+    "created_at": "Sun Jul 19 21:32:29 +0000 2026",
+    "id_str": "2078956163299934251",
+    "is_retweet": false
+  }
+]
