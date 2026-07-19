@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @ScottPresler: Olive Garden implemented the SAVE America Act more quickly than the US Senate. https://t.co/LoHZpLLrfL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078637846693310690",
+    "time": "2026-07-19 08:27",
+    "created_at": "Sun Jul 19 00:27:36 +0000 2026",
+    "id_str": "2078637846693310690",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @milichab: Big updates next week :)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078637932986892680",
+    "time": "2026-07-19 08:27",
+    "created_at": "Sun Jul 19 00:27:57 +0000 2026",
+    "id_str": "2078637932986892680",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "分享一个之前搞的工具站，里面就是各种高频刚需常用功能，看看有没有对你有帮助的。\n地址： https://t.co/wdIxiTGSe3 https://t.co/QBWfPFLLyg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078631143164006463",
+    "time": "2026-07-19 08:00",
+    "created_at": "Sun Jul 19 00:00:58 +0000 2026",
+    "id_str": "2078631143164006463",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "再分享一个 微信公众号排版工具 \n对于知识创作者还是蛮有帮助的\n\nhttps://t.co/2rg18KoZof https://t.co/dkqg7Kb2il",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078631424673141247",
+    "time": "2026-07-19 08:02",
+    "created_at": "Sun Jul 19 00:02:05 +0000 2026",
+    "id_str": "2078631424673141247",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这个demo举得并不恰当，你自己写一个 mcp ，mcp 里面有个弹计算器的功能，然后就说 claude code 有 漏洞？\n\n现在所有 agent harness 都有 computer-use 的能力 和 browser-use 的能力 ，\n\n你不能把任何问题都恶意解读成是漏洞，吓唬人，\n\n有本事别瞎安装来历不明的mcp 和 skill 啊...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078632750756901369",
+    "time": "2026-07-19 08:07",
+    "created_at": "Sun Jul 19 00:07:21 +0000 2026",
+    "id_str": "2078632750756901369",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这个 agent harness 把ui 搞得很酷炫的样子。\n但是又比 openclaw 干净（没那么多垃圾 提示词 和 广告后门），\n随着 openclaw 每日更新接入越来越多的平台和中转站，\n资源消耗越来越大，运行得也越来越慢。 https://t.co/xkN8vqCSy6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078636771571879981",
+    "time": "2026-07-19 08:23",
+    "created_at": "Sun Jul 19 00:23:20 +0000 2026",
+    "id_str": "2078636771571879981",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "地址：  https://t.co/d1JslkWiTJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078636849661419964",
+    "time": "2026-07-19 08:23",
+    "created_at": "Sun Jul 19 00:23:38 +0000 2026",
+    "id_str": "2078636849661419964",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "看来 kimi 是要上市了，不知道是港股还是美股。\n连老外都关注到了，如果能在美国上市，\n是不是全美股第一个 大模型公司 ？\nopenai 和 claude 要紧张一下下了。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078637882638753804",
+    "time": "2026-07-19 08:27",
+    "created_at": "Sun Jul 19 00:27:45 +0000 2026",
+    "id_str": "2078637882638753804",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/Lph0Em851f\n\n- 2.8 万亿参数，全球首个开放的 3T 级模型。 \n\n- 采用 Kimi Delta Attention + Attention Residuals + Stable LatentMoE（激活 16/896 专家），2.5 倍缩放效率提升。 \n\n- 原生多模态 + 100 万 token 上下文。 \n\n- 专为长时程编码、知识工作、深度推理设计，在",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078638218879398147",
+    "time": "2026-07-19 08:29",
+    "created_at": "Sun Jul 19 00:29:05 +0000 2026",
+    "id_str": "2078638218879398147",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "有点意思，分享，我也试试。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078648710653936085",
+    "time": "2026-07-19 09:10",
+    "created_at": "Sun Jul 19 01:10:46 +0000 2026",
+    "id_str": "2078648710653936085",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/v0Rh29jUjA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078649090775433258",
+    "time": "2026-07-19 09:12",
+    "created_at": "Sun Jul 19 01:12:17 +0000 2026",
+    "id_str": "2078649090775433258",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "我解除关注 猫笔刀一小段时间，昨天又加回来。\n\n冷知识：\n\n1. 感觉大佬写文章还是有风格套路的，也难怪有这么多受众，\n2. 擅长用 AI的人，可以把他的所有文章都扒下来，然后蒸馏成skill ，\n3. 未来可以每日帮你把你想表达的内容整理成 猫笔刀风格的公众号，多一些人味，很容易粉丝量暴涨",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078651130117226631",
+    "time": "2026-07-19 09:20",
+    "created_at": "Sun Jul 19 01:20:23 +0000 2026",
+    "id_str": "2078651130117226631",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "交作业了，\n让这个skill分析了阿里巴巴，说是：低估，值得买入。\n有人冲吗？ https://t.co/CgQdDswfQ9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078653816866766882",
+    "time": "2026-07-19 09:31",
+    "created_at": "Sun Jul 19 01:31:04 +0000 2026",
+    "id_str": "2078653816866766882",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @threejs: https://t.co/Sum5DdPmG9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078654576606208251",
+    "time": "2026-07-19 09:34",
+    "created_at": "Sun Jul 19 01:34:05 +0000 2026",
+    "id_str": "2078654576606208251",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "假期做了个 youtube 访谈 to  微信公众号文章 的 小demo .\n\n这玩意儿很容易用于 基于 Agent 来运营 微信公众号，\n\n理论上一个人可以运营 100 个小号，只需要你再外接一个爬虫和标注能力就好，\n\n通常情况下，原先只有英文 ，只有访谈，而没有中文的知识密集型内容，你都可以把它们归一化为中文 + https://t.co/o3q1VQtcK9",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078657248495325614",
+    "time": "2026-07-19 09:44",
+    "created_at": "Sun Jul 19 01:44:42 +0000 2026",
+    "id_str": "2078657248495325614",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "高质量原创的前提是：\n\n你爬取和转化的内容，在英文的世界里本身就是高质量的（而非灌水），且还没有被中国人广泛转发和讨论。\n\n注：如果你上 medium 上找垃圾营销广告水文，上面转化出来的中文微信公众号内容的质量也是一般的。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078657585151102996",
+    "time": "2026-07-19 09:46",
+    "created_at": "Sun Jul 19 01:46:02 +0000 2026",
+    "id_str": "2078657585151102996",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @threejsassets: New Three.js City Asset Pack is out now!\n\n🏙️ 66 assets — towers, shops, street furniture, a full vehicle fleet\n🎨 4 palet…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078661766784118997",
+    "time": "2026-07-19 10:02",
+    "created_at": "Sun Jul 19 02:02:39 +0000 2026",
+    "id_str": "2078661766784118997",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "The whole point of this platform for me is to support other creators",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2078630907196444813",
+    "time": "2026-07-19 08:00",
+    "created_at": "Sun Jul 19 00:00:02 +0000 2026",
+    "id_str": "2078630907196444813",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: “Gallery of the Future”printed zines have arrived 🎉 they look good! \n\nI’ll start sending them out next week! https://t.co/…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2078649488458076443",
+    "time": "2026-07-19 09:13",
+    "created_at": "Sun Jul 19 01:13:52 +0000 2026",
+    "id_str": "2078649488458076443",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: This entire cartoon was made with just 3 prompts\n\nBut here’s the thing: the future won’t belong to people who just generat…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2078659411417985153",
+    "time": "2026-07-19 09:53",
+    "created_at": "Sun Jul 19 01:53:17 +0000 2026",
+    "id_str": "2078659411417985153",
+    "is_retweet": true
+  }
+]
