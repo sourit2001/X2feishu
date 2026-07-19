@@ -1,1 +1,211 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @WallStreetApes: Every person living in a western nation needs to listen to every word of this\n\nKatherine Berbalsingh went to the Univer…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078689260136169631",
+    "time": "2026-07-19 11:51",
+    "created_at": "Sun Jul 19 03:51:54 +0000 2026",
+    "id_str": "2078689260136169631",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try Grok Build",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078692662345888102",
+    "time": "2026-07-19 12:05",
+    "created_at": "Sun Jul 19 04:05:25 +0000 2026",
+    "id_str": "2078692662345888102",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Grok Build is becoming a complete environment for building, deploying and managing real-world applications\n\nIts plugin marketp…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078692697607446828",
+    "time": "2026-07-19 12:05",
+    "created_at": "Sun Jul 19 04:05:34 +0000 2026",
+    "id_str": "2078692697607446828",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @robotaxi: Gold rush https://t.co/MWQoEAD76Z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2078692738610913527",
+    "time": "2026-07-19 12:05",
+    "created_at": "Sun Jul 19 04:05:43 +0000 2026",
+    "id_str": "2078692738610913527",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Interesting: People don’t want editing https://t.co/tLYCi95JfL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2078692494213050788",
+    "time": "2026-07-19 12:04",
+    "created_at": "Sun Jul 19 04:04:45 +0000 2026",
+    "id_str": "2078692494213050788",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "“People want to watch you think” \nI think this is right. (And yes, ray)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2078693110603718803",
+    "time": "2026-07-19 12:07",
+    "created_at": "Sun Jul 19 04:07:12 +0000 2026",
+    "id_str": "2078693110603718803",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "RT @vista8: 写了个 AI 自动视频剪辑 skill，感觉立马可以抖音小红书起号了，嘿嘿。\n\n买个33台词会员，没有也可以用pexels免费空镜头，加上Listenhub账号，完全可以让AI做各种视频了。\n\nhttps://t.co/muG7CETfCj\n\n安装指令：…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2078700698355765738",
+    "time": "2026-07-19 12:37",
+    "created_at": "Sun Jul 19 04:37:21 +0000 2026",
+    "id_str": "2078700698355765738",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 内部对谈：Harness 那套外壳流程，正在被拆掉\n\n套在模型外面那层代码（harness）正在变薄：它编码的是「模型做不到什么」的假设，而这些假设正在随着模型能力的提升而过期...\n\n旧 harness",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2078684808067293238",
+    "time": "2026-07-19 11:34",
+    "created_at": "Sun Jul 19 03:34:12 +0000 2026",
+    "id_str": "2078684808067293238",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "a16z 报告：软件股正在被抛售，但市场只杀没有护城河的那一半\n\na16z 的「本周图表」栏目最近一期，用近 20 张数据图挑了当下四个最流行的担忧，一个一个摆数据：软件公司要被 AI 团灭、便宜模型会把前沿大模型拖垮、AI 正在抢走人的工作、数据中心正在推高你家的电费。\n\n详细：https://t.co/rZUeMzwTtK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2078685245122195590",
+    "time": "2026-07-19 11:35",
+    "created_at": "Sun Jul 19 03:35:57 +0000 2026",
+    "id_str": "2078685245122195590",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Gemini作为老外的大模型，怎么就这么了解国内情况呢？\n\n1. 邹市明 和 冉莹颖 到现在欠了多少钱？\n\n2. 比较大的负债支出有哪些？\n\n3. 现在主要靠什么方式获得资金以便还款？ https://t.co/Lj5aJSnFA6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078666716620681491",
+    "time": "2026-07-19 10:22",
+    "created_at": "Sun Jul 19 02:22:19 +0000 2026",
+    "id_str": "2078666716620681491",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这个 skill 也有用， 搜索关键词 ‘/agent-reach‘。 https://t.co/Vj269exZzA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078669406352322561",
+    "time": "2026-07-19 10:33",
+    "created_at": "Sun Jul 19 02:33:00 +0000 2026",
+    "id_str": "2078669406352322561",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "别再考虑只用 大模型生成 PPT了，\n\n使用 mimo 很容易生成 适用于 科技讲解 视频 （类似 小lin说 ） 的 动画！以下是HBM 原理为例子！ https://t.co/K1fXKHSbds",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078671485636575666",
+    "time": "2026-07-19 10:41",
+    "created_at": "Sun Jul 19 02:41:16 +0000 2026",
+    "id_str": "2078671485636575666",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "继续生成新动画 ，虽然画面丑，但是丑也是一种风格. https://t.co/V10dBDuMPO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078672513014587762",
+    "time": "2026-07-19 10:45",
+    "created_at": "Sun Jul 19 02:45:21 +0000 2026",
+    "id_str": "2078672513014587762",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "今天基于 mimo 做了一款在线视频会议系统！\n（怕被滥用，地址先不公开吧） https://t.co/KdeFNcr0Yj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078674665179164972",
+    "time": "2026-07-19 10:53",
+    "created_at": "Sun Jul 19 02:53:54 +0000 2026",
+    "id_str": "2078674665179164972",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "负债 减去 所有者权益 ， 才是资产。\n\n感觉很多明星也通常容易利用 卖惨人设来博同情，\n\n说自己巨亏多少多少亿，然后现在1-2年后，只剩下总负债的20%什么的，很多人转发，好像是个励志故事一样。\n\n你要说有人能1年赚1个亿，并且还款，\n\n那么一旦把负债缩减完毕后，每年赚1个亿也是挺恐怖的，",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078698838307877158",
+    "time": "2026-07-19 12:29",
+    "created_at": "Sun Jul 19 04:29:58 +0000 2026",
+    "id_str": "2078698838307877158",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "所以大家拿融资的时候，千万不要签署‘以个人名义按照 x%的利率回购‘的条约，\n\n譬如你要是亏了 1个亿 ，你要按照回购条款填上，\n\n那么 真拿出 高额个人所得税的税后1个亿，还不完的部分每年 8% 利滚利，你可能真一辈子都还不完了。\n\n像罗永浩那种是公司名义欠的钱，享受税盾，税前的钱就能还钱。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2078699623468986789",
+    "time": "2026-07-19 12:33",
+    "created_at": "Sun Jul 19 04:33:05 +0000 2026",
+    "id_str": "2078699623468986789",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Original content you can create. \nPart 1. \n\n• tutorials on AI / animation / coding \n• longer form AI animations / films \n• prompts and storyboard references \n• behind the scenes \n• tips and tricks \n\n(to be continued)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2078664168639504672",
+    "time": "2026-07-19 10:12",
+    "created_at": "Sun Jul 19 02:12:12 +0000 2026",
+    "id_str": "2078664168639504672",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "New York tonight for you https://t.co/qdPUQDEDb2",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2078708931396857897",
+    "time": "2026-07-19 13:10",
+    "created_at": "Sun Jul 19 05:10:04 +0000 2026",
+    "id_str": "2078708931396857897",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @dubcreationX: This is what a real art movement looks like. AI is an art movement.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2078711245172097110",
+    "time": "2026-07-19 13:19",
+    "created_at": "Sun Jul 19 05:19:16 +0000 2026",
+    "id_str": "2078711245172097110",
+    "is_retweet": true
+  }
+]
