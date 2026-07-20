@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Folks, Gemma is a good model &amp; very useful for some purposes, it is not anywhere near the frontier. Inkling is an interesting model, it is nowhere near the frontier. \n\nThis is pretty obvious, you can look at the stats or look at my weird little benchmark: https://t.co/zN2uHY1gl8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2079301153855058239",
+    "time": "2026-07-21 04:23",
+    "created_at": "Mon Jul 20 20:23:21 +0000 2026",
+    "id_str": "2079301153855058239",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "We're in such desperate need of better video understanding models.\n\nGenerate an AI video with some kind of mirror reflection, take it to an LLM (GPT-5.6, Gemini, Fable), and ask if it makes sense.\n\nYou'll get weird hallucinations and contradictory reasoning from all of them 🙃",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2079310158325571605",
+    "time": "2026-07-21 04:59",
+    "created_at": "Mon Jul 20 20:59:08 +0000 2026",
+    "id_str": "2079310158325571605",
+    "is_retweet": false
+  }
+]
