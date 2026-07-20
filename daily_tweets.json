@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I mean Thursday (duh)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2079010090036641831",
+    "time": "2026-07-20 09:06",
+    "created_at": "Mon Jul 20 01:06:46 +0000 2026",
+    "id_str": "2079010090036641831",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Riley has been doing some truly wonderful experiments with Fable. Also this is crazy.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2078994785935774073",
+    "time": "2026-07-20 08:05",
+    "created_at": "Mon Jul 20 00:05:57 +0000 2026",
+    "id_str": "2078994785935774073",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Fable, Sol Pro, Kimi K3: \"write me a short but good poem using the Odyssey as a basis, think Tennyson or Cavafy\"\n\nI think this is a Fable victory. Kimi's is literally a blend of Tennyson's &amp; Cavafy's poems themes with some odd bits, and Sol is pretty thematically incoherent. https://t.co/oNnLLgq2Hk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2079024884315828351",
+    "time": "2026-07-20 10:05",
+    "created_at": "Mon Jul 20 02:05:33 +0000 2026",
+    "id_str": "2079024884315828351",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "One of the weird things about AI is some models just turn out to be much better than others and then the next model in line falls back to the mean.\n\nA great historical example was Updated Sonnet 3.5 (sometimes called Sonnet 3.6), it was a anomalous jump over what had come before.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2079027267137601724",
+    "time": "2026-07-20 10:15",
+    "created_at": "Mon Jul 20 02:15:01 +0000 2026",
+    "id_str": "2079027267137601724",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Meet `mimofan`: An Open-Source, Rust-powered Terminal AI Coding Agent for Xiaomi MiMo &amp; DeepSeek 🚀\n\n`mimofan` is a ultra-fast, lightweight CLI &amp; TUI AI coding assistant built in Rust. It helps you edit code, create plans, run tests, and fix bugs autonomously directly inside your",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2079011035626054081",
+    "time": "2026-07-20 09:10",
+    "created_at": "Mon Jul 20 01:10:31 +0000 2026",
+    "id_str": "2079011035626054081",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "最近播客类节目很火，我用 mimo 做了一款 播客类的 demo. https://t.co/p6eKx6xE28",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2079018267872731214",
+    "time": "2026-07-20 09:39",
+    "created_at": "Mon Jul 20 01:39:16 +0000 2026",
+    "id_str": "2079018267872731214",
+    "is_retweet": false
+  }
+]
