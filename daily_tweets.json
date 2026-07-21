@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Children are the future",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2079660702592086188",
+    "time": "2026-07-22 04:12",
+    "created_at": "Tue Jul 21 20:12:04 +0000 2026",
+    "id_str": "2079660702592086188",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @engineers_feed: Enough with everyone trying to be an influencer. We need electricians and mechanics.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2079660834884583443",
+    "time": "2026-07-22 04:12",
+    "created_at": "Tue Jul 21 20:12:35 +0000 2026",
+    "id_str": "2079660834884583443",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cursor_ai: We've doubled usage limits for all individual and teams plans!\n\nThese limits apply to Grok, Composer, and any new Cursor mod…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2079660988895301910",
+    "time": "2026-07-22 04:13",
+    "created_at": "Tue Jul 21 20:13:12 +0000 2026",
+    "id_str": "2079660988895301910",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.\n\nhttps://t.co/2o2VfR6PIa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/sama/status/2079661132302995790",
+    "time": "2026-07-22 04:13",
+    "created_at": "Tue Jul 21 20:13:46 +0000 2026",
+    "id_str": "2079661132302995790",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @chorus_agent: The App Store is dead. The Agent Store is coming.\n\n🟦🟦🟦🟦🟦🟦🟦🟦⬛️ (90%) https://t.co/VJcIQ07m4h",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2079648449897853207",
+    "time": "2026-07-22 03:23",
+    "created_at": "Tue Jul 21 19:23:23 +0000 2026",
+    "id_str": "2079648449897853207",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://t.co/RxMQo3TPVU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2079652786359480326",
+    "time": "2026-07-22 03:40",
+    "created_at": "Tue Jul 21 19:40:37 +0000 2026",
+    "id_str": "2079652786359480326",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"In 2017, the autonomy industry shared a collective prediction: one of a small number of vertically-integrated companies would solve self-driving cars, operate the vehicles, and capture the entire market.\"\n\n\"The industry had plenty of conviction about autonomy but very little https://t.co/BTM84UpqrV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2079666900037239050",
+    "time": "2026-07-22 04:36",
+    "created_at": "Tue Jul 21 20:36:41 +0000 2026",
+    "id_str": "2079666900037239050",
+    "is_retweet": false
+  }
+]
