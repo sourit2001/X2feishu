@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "And Miami",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2079606389631332659",
+    "time": "2026-07-22 00:36",
+    "created_at": "Tue Jul 21 16:36:15 +0000 2026",
+    "id_str": "2079606389631332659",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SawyerMerritt: Tesla's Robotaxi/ride-hailing service is now available in 7 areas:\n\n• Orlando: Unsupervised Model Y rides only (new)\n• M…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2079606437517701460",
+    "time": "2026-07-22 00:36",
+    "created_at": "Tue Jul 21 16:36:26 +0000 2026",
+    "id_str": "2079606437517701460",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Anc_Aesthetics: Someone tipped me off to a website where it compiles all the real ratings for movies on Rotten Tomatoes and compares it…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2079607760145293552",
+    "time": "2026-07-22 00:41",
+    "created_at": "Tue Jul 21 16:41:41 +0000 2026",
+    "id_str": "2079607760145293552",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2079610838143623371",
+    "time": "2026-07-22 00:53",
+    "created_at": "Tue Jul 21 16:53:55 +0000 2026",
+    "id_str": "2079610838143623371",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "The world is not just made of words, and spatial intelligence was never just about perceiving and generating worlds. It's about interacting with them.\n\nToday, SceniX is joining World Labs. 🌎🤖👇 https://t.co/qThtkjgd3f",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2079597384510898377",
+    "time": "2026-07-22 00:00",
+    "created_at": "Tue Jul 21 16:00:28 +0000 2026",
+    "id_str": "2079597384510898377",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@YunzhuLiYZ, @fast_sploosh, and @xhsonny have built a remarkable team that is training and evaluating robots in high-fidelity simulation – proven not only in lab demos, but in live deployments on real hardware.\n\nLast month, we wrote that the boundaries between rendering,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2079597386616471682",
+    "time": "2026-07-22 00:00",
+    "created_at": "Tue Jul 21 16:00:28 +0000 2026",
+    "id_str": "2079597386616471682",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "RT @KZouAPT: https://t.co/74U3uhCebz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2079593595850637503",
+    "time": "2026-07-21 23:45",
+    "created_at": "Tue Jul 21 15:45:24 +0000 2026",
+    "id_str": "2079593595850637503",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Been very interesting seeing more companies expand their CLI offerings. It’s exactly what we said would happen: companies will open the kimono to API connectivity so that agents can run the entire platform. \n\nDoorDash last week announced you can order food via their API. Whop",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2079594698700931494",
+    "time": "2026-07-21 23:49",
+    "created_at": "Tue Jul 21 15:49:47 +0000 2026",
+    "id_str": "2079594698700931494",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @drfeifei: The world is not just made of words, and spatial intelligence was never just about perceiving and generating worlds. It's abo…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2079598145122828364",
+    "time": "2026-07-22 00:03",
+    "created_at": "Tue Jul 21 16:03:29 +0000 2026",
+    "id_str": "2079598145122828364",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @qasar: For 9+ years we’ve been building simulators, data engines, data pipelines, scenario editors, RL environments, what's now world m…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2079605838478815524",
+    "time": "2026-07-22 00:34",
+    "created_at": "Tue Jul 21 16:34:03 +0000 2026",
+    "id_str": "2079605838478815524",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 一口气发布三款模型 \n\n但是没有 Gemini 3.5 Pro\n\n三款新模型：Gemini 3.6 Flash、3.5 Flash-Lite 和专攻网络安全的 3.5 Flash Cyber\n\n版本号现在很诡异...\n\nGemini 3.6 Flash：最大亮点（极致省 Token）：比上一代 3.5 Flash 节省了约 17% 的输出 Token（部分编程场景甚至少用 65% 的 Token） https://t.co/GA8CqDCK7u",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2079594431922184326",
+    "time": "2026-07-21 23:48",
+    "created_at": "Tue Jul 21 15:48:44 +0000 2026",
+    "id_str": "2079594431922184326",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Gemini 3.5 Flash-Lite：极致性价比与速度\n\n定位：主打极速、高吞吐量，专门用来支撑大规模、高并发的 Agent 任务（如大规模商品数据提取、批量单据翻译与摘要）。\n\n速度极快：输出速度高达 350 Token/秒\n\n价格：输入 $0.30  输出 $2.50 https://t.co/vfxc69wBHE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2079594434187162053",
+    "time": "2026-07-21 23:48",
+    "created_at": "Tue Jul 21 15:48:44 +0000 2026",
+    "id_str": "2079594434187162053",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Gemini 3.5 Flash Cyber：网络安全“修补匠”\n\n定位：专门针对网络安全漏洞检测与修复进行微调的特定模型。\n\n应用场景：搭载在 Google 的安全 Agent 平台 CodeMender 中，多个 Cyber 模型协作，能在极低成本下自动找漏洞、修 Bug。 https://t.co/kwyM5q5ZsA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2079594436783423519",
+    "time": "2026-07-21 23:48",
+    "created_at": "Tue Jul 21 15:48:45 +0000 2026",
+    "id_str": "2079594436783423519",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Cowork 也发发布了一个类似Codex的看屏幕学习你操作的新功能：\n\n教 会Claude 一项技能\n\n你可以把你经常需要重复的操作，在你在执行任务时录制屏幕，边做边讲解\n\nClaude 会学习你的操作，并将其转化为一项它可以再次运行的技能\n\n下次只需要告诉他运行这个技能即可，它就能模仿你...\n\n你可以在 https://t.co/Uan98Z6vem",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2079599223922974934",
+    "time": "2026-07-22 00:07",
+    "created_at": "Tue Jul 21 16:07:46 +0000 2026",
+    "id_str": "2079599223922974934",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: This entire cartoon was made with just 3 prompts\n\nBut here’s the thing: the future won’t belong to people who just generat…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2079596194372706550",
+    "time": "2026-07-21 23:55",
+    "created_at": "Tue Jul 21 15:55:44 +0000 2026",
+    "id_str": "2079596194372706550",
+    "is_retweet": true
+  }
+]
