@@ -350,5 +350,104 @@
     "created_at": "Wed Jul 22 06:53:10 +0000 2026",
     "id_str": "2079822041147126033",
     "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "有点牛P啊\n \n中国模型继承了中国学生的数学能力😅\n \n第67届国际数学奥林匹克竞赛（IMO）公布官方评卷结果\n \n小红书大模型 dots-note-3.0 以 42 分满分的成绩获得“满分金牌”认证，超过本届金牌线 13 分。\n \n成为\n \n- 中国首个在 IMO 中斩获金牌的大模型。\n- 全球首个在 IMO 官方评卷中斩获满分的大模型 https://t.co/61CY6hYKjR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2079845712142147603",
+    "time": "2026-07-22 16:27",
+    "created_at": "Wed Jul 22 08:27:14 +0000 2026",
+    "id_str": "2079845712142147603",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 公开代码迁移六步法：Bun 百万行两周从 Zig 搬到 Rust \n\nAnthropic 官方账号 ClaudeDevs 发的一篇实操文，讲他们内部这一个月怎么用 Claude Code 做代码迁移，把一个跑在生产环境的代码库，整体搬到另一种语言上。https://t.co/KjGk6biXt1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2079875199621906510",
+    "time": "2026-07-22 18:24",
+    "created_at": "Wed Jul 22 10:24:24 +0000 2026",
+    "id_str": "2079875199621906510",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "在特定 Benchmark（如使用 GPT-2/Qwen 的分词规则，在大规模文本数据集 OpenWebText 上测试）中，\n\n它的吞吐量可达数 GB/s，确实跑出了比 HuggingFace tokenizers 快 ~1000 倍、比 OpenAI tiktoken 快 ~100 倍的成绩。\n\n1. 速度提升的“真实性”与适用场景\n\nNative 模式下最快： 宣称的 100~1000",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2079855074407514347",
+    "time": "2026-07-22 17:04",
+    "created_at": "Wed Jul 22 09:04:26 +0000 2026",
+    "id_str": "2079855074407514347",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这个加速主要用在大批量、高吞吐量的离线文本处理任务中。\n\n在日常使用大模型（比如你和 ChatGPT 聊天）时，这个加速确实几乎没有用。因为聊天时，\n\n瓶颈在于大模型生成下一个词的计算（GPU 瓶颈），分词器（Tokenizer）把你的输入变成 Token 只需要几毫秒，\n\n即使加速 1000",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2079857039170555948",
+    "time": "2026-07-22 17:12",
+    "created_at": "Wed Jul 22 09:12:14 +0000 2026",
+    "id_str": "2079857039170555948",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @trondao: Around 90% of all stablecoin payment volume settles on TRON.\n\nThe latest analysis from @eco explores how payment activity acro…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2079858178163098104",
+    "time": "2026-07-22 17:16",
+    "created_at": "Wed Jul 22 09:16:46 +0000 2026",
+    "id_str": "2079858178163098104",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Grok 4.5 in https://t.co/nMjQcILxG5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2079873272360095754",
+    "time": "2026-07-22 18:16",
+    "created_at": "Wed Jul 22 10:16:44 +0000 2026",
+    "id_str": "2079873272360095754",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Gemini on https://t.co/nMjQcILxG5",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2079873511372517662",
+    "time": "2026-07-22 18:17",
+    "created_at": "Wed Jul 22 10:17:41 +0000 2026",
+    "id_str": "2079873511372517662",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "USDD is on fire",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2079874305966706844",
+    "time": "2026-07-22 18:20",
+    "created_at": "Wed Jul 22 10:20:51 +0000 2026",
+    "id_str": "2079874305966706844",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RT @mkratsios47: In response to @POTUS's call for a revival of America's scientific enterprise, today I’m releasing Science: A New Golden A…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/pmarca/status/2079846189034553533",
+    "time": "2026-07-22 16:29",
+    "created_at": "Wed Jul 22 08:29:07 +0000 2026",
+    "id_str": "2079846189034553533",
+    "is_retweet": true
   }
 ]
