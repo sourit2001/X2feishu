@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/yMnPF5qb4t",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2081428541585899753",
+    "time": "2026-07-27 01:16",
+    "created_at": "Sun Jul 26 17:16:50 +0000 2026",
+    "id_str": "2081428541585899753",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Jensen is awesome",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2081433297846935762",
+    "time": "2026-07-27 01:35",
+    "created_at": "Sun Jul 26 17:35:44 +0000 2026",
+    "id_str": "2081433297846935762",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @aakashgupta: The Matrix took its name from a 1984 novel written on a manual typewriter by a man who didn't own a computer. 42 years lat…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2081434282497658970",
+    "time": "2026-07-27 01:39",
+    "created_at": "Sun Jul 26 17:39:38 +0000 2026",
+    "id_str": "2081434282497658970",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "When you learn a skill and can sell a service, you now have something you can vibecode for. \n\nBuild software to amplify your value. The era of software BEING the value is coming to a close, fast.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2081415877438664757",
+    "time": "2026-07-27 00:26",
+    "created_at": "Sun Jul 26 16:26:30 +0000 2026",
+    "id_str": "2081415877438664757",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "wow.. currently testing Claude's Excel extension... \nI'm shook. \n\nThis was one prompt w/ Opus 5. It researched for 37 minutes and created this in depth analysis on NVIDIA based on all public data (Many different sources), I'll put prompt below. https://t.co/5RJNqplvoh",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2081421165113880978",
+    "time": "2026-07-27 00:47",
+    "created_at": "Sun Jul 26 16:47:31 +0000 2026",
+    "id_str": "2081421165113880978",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Prompt\n\"\nUse web research to find NVIDIA’s latest annual report or 10-K. Use only NVIDIA Investor Relations and SEC filings as primary sources.\n\nCreate a new Excel workbook containing:\n\n1. A Sources tab with every source URL, filing date, reporting period, page number where",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2081421166825111572",
+    "time": "2026-07-27 00:47",
+    "created_at": "Sun Jul 26 16:47:31 +0000 2026",
+    "id_str": "2081421166825111572",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @icreatelife: Make epic stuff with AI https://t.co/mUZ5O0upUU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2081438062920241487",
+    "time": "2026-07-27 01:54",
+    "created_at": "Sun Jul 26 17:54:40 +0000 2026",
+    "id_str": "2081438062920241487",
+    "is_retweet": true
+  }
+]
