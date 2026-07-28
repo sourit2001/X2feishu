@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Common sense",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2081973255296934043",
+    "time": "2026-07-28 13:21",
+    "created_at": "Tue Jul 28 05:21:19 +0000 2026",
+    "id_str": "2081973255296934043",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: A throwback to Elon Musk walking through the engineering behind Falcon 9’s payload fairing\n\nExplaining the massive carbon-comp…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2081974644114911715",
+    "time": "2026-07-28 13:26",
+    "created_at": "Tue Jul 28 05:26:51 +0000 2026",
+    "id_str": "2081974644114911715",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @oran_ge: 3月，他们开发了自己的 JIRA，完全抛弃了买来的项目 SaaS 软件，又好用，功能又多！开发者甚至只是个 QA 主管。 \n7月，他们已经重新回到 Linear，因为内部工具的维护成本占用了实际工作的精力。\n一个东西很好开发，并不代表它就值得被开发出来…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2082000023575781694",
+    "time": "2026-07-28 15:07",
+    "created_at": "Tue Jul 28 07:07:41 +0000 2026",
+    "id_str": "2082000023575781694",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Codex 5.6 Ultra total of 8 prompts.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2081973846572249283",
+    "time": "2026-07-28 13:23",
+    "created_at": "Tue Jul 28 05:23:40 +0000 2026",
+    "id_str": "2081973846572249283",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Kimi K3 技术报告解读\n\n2.8 万亿参数，靠三处架构改动把算力效率提到 2.5 倍 \n\nK3 MoE（混合专家）数量高达 896 个，每次激活 16 个，训练用掉 5122 万个沙箱...\n\nhttps://t.co/ispuXMELmG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2081975401967202758",
+    "time": "2026-07-28 13:29",
+    "created_at": "Tue Jul 28 05:29:51 +0000 2026",
+    "id_str": "2081975401967202758",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "真，不欺己；\n诚，不欺人；\n勇，不避事；\n敬，不强人。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/lijigang/status/2082004393013186572",
+    "time": "2026-07-28 15:25",
+    "created_at": "Tue Jul 28 07:25:03 +0000 2026",
+    "id_str": "2082004393013186572",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Another step toward expanding regulated market access to TRX in the U.S. 🇺🇸",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2081992493651120564",
+    "time": "2026-07-28 14:37",
+    "created_at": "Tue Jul 28 06:37:46 +0000 2026",
+    "id_str": "2081992493651120564",
+    "is_retweet": false
+  }
+]
