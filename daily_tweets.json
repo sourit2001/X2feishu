@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "To show solidarity with the $IREN holders:\n\nI now own 1 share of IREN.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2082557648298516918",
+    "time": "2026-07-30 04:03",
+    "created_at": "Wed Jul 29 20:03:30 +0000 2026",
+    "id_str": "2082557648298516918",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try the new Grok Voice",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082545217455243373",
+    "time": "2026-07-30 03:14",
+    "created_at": "Wed Jul 29 19:14:06 +0000 2026",
+    "id_str": "2082545217455243373",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: BREAKING: SpaceXAI's newly released Grok Voice Think Fast 2.0 beats voice models from OpenAI, Google, Alibaba, and DeepSlate i…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082552133598208047",
+    "time": "2026-07-30 03:41",
+    "created_at": "Wed Jul 29 19:41:35 +0000 2026",
+    "id_str": "2082552133598208047",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: SpaceXAI has built the best voice model I’ve ever used\n\nOnce you experience how precisely Grok Voice recognizes speech and und…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082559141999161404",
+    "time": "2026-07-30 04:09",
+    "created_at": "Wed Jul 29 20:09:26 +0000 2026",
+    "id_str": "2082559141999161404",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @dvorahfr: Happy birthday Grok Imagine ❣️ https://t.co/ryR5NvD9wZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082559185720582470",
+    "time": "2026-07-30 04:09",
+    "created_at": "Wed Jul 29 20:09:36 +0000 2026",
+    "id_str": "2082559185720582470",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XBusiness: A joint statement from the WFA and X Corp.\n\nToday the World Federation of Advertisers (WFA) and X Corp. are putting the liti…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082559615158665638",
+    "time": "2026-07-30 04:11",
+    "created_at": "Wed Jul 29 20:11:18 +0000 2026",
+    "id_str": "2082559615158665638",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Voice is now #1 in agentic performance",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082559894264430870",
+    "time": "2026-07-30 04:12",
+    "created_at": "Wed Jul 29 20:12:25 +0000 2026",
+    "id_str": "2082559894264430870",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @DirtyTesLa: The Economist uploaded their full Elon interview to YouTube and left the comments on 🔥 😂 https://t.co/KZpp88HGRj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082560043724214495",
+    "time": "2026-07-30 04:13",
+    "created_at": "Wed Jul 29 20:13:01 +0000 2026",
+    "id_str": "2082560043724214495",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "今年以来，我在使用 Coding Agent 方面有一个很大的变化，就是从 TL（Teach Lead） 的角色变成了 EM（Engineering Manager） 的角色。\n\n这两个角色主要差别在技术参与深度多少。\n\n之前我更像一个 TL，虽然不是说事必躬亲，但是系统设计、代码审查什么的肯定是少不了的，说到底还是对 AI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2082557559177941304",
+    "time": "2026-07-30 04:03",
+    "created_at": "Wed Jul 29 20:03:08 +0000 2026",
+    "id_str": "2082557559177941304",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "之所以我现在不用 Hook（我用过一段时间），是因为hook是在任何任务结束都会触发，但是大多数时候你不需要去 commit，不如让 Agent 自己去决定是不是要 commit，而且只 commit 相关的",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2082558900876779987",
+    "time": "2026-07-30 04:08",
+    "created_at": "Wed Jul 29 20:08:28 +0000 2026",
+    "id_str": "2082558900876779987",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这种自我优化代码的任务并没有太大挑战，也不是模型的自我进化。\n\n模型的自我进化意味着它能修改自己的权重参数，K3 做不到吧？\n\n而 Cline 做的事只是让模型去优化 Harness，而且它有清晰的 Benchmark，这是 Agent 最擅长的事：有清晰的验收标准，反复尝试反复优化，直到达到一个更好的分数。\n\n这样的 https://t.co/Awjkh1iqqt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2082560653353501071",
+    "time": "2026-07-30 04:15",
+    "created_at": "Wed Jul 29 20:15:26 +0000 2026",
+    "id_str": "2082560653353501071",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Opus 5 is token-hungry and incredibly stupid. \n\nUnder-explains its changes, over-indexes on meaningless words. \n\nAvoid.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2082557019685519684",
+    "time": "2026-07-30 04:01",
+    "created_at": "Wed Jul 29 20:01:00 +0000 2026",
+    "id_str": "2082557019685519684",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Browsing Chinese takes on the open source drama on Rednote and they’re actually really funny https://t.co/LRYCApG43R",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2082544010422559167",
+    "time": "2026-07-30 03:09",
+    "created_at": "Wed Jul 29 19:09:18 +0000 2026",
+    "id_str": "2082544010422559167",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Happy birthday, Grok Imagine \n\nOne year today 🎂 and one of my fav models for (especially 2D) animation\n\nI still can’t believe this video got 10 million views",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2082544805687460324",
+    "time": "2026-07-30 03:12",
+    "created_at": "Wed Jul 29 19:12:28 +0000 2026",
+    "id_str": "2082544805687460324",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Keep going, keep creating! \n\nLife is so short and each of us can truly make a positive impact. Be true and kind to yourself and others.\n\n#aiartcommunity https://t.co/qwvu8aQs9y",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2082556616818245693",
+    "time": "2026-07-30 03:59",
+    "created_at": "Wed Jul 29 19:59:24 +0000 2026",
+    "id_str": "2082556616818245693",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What are your absolutely favorite AI tools at the moment?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2082557313286623715",
+    "time": "2026-07-30 04:02",
+    "created_at": "Wed Jul 29 20:02:10 +0000 2026",
+    "id_str": "2082557313286623715",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I talked to a school teacher today and he told me how much we need education around AI and teach kids how. to use AI safely and the right way. That conversation keeps on repeat in my head. I'll dedicate time to see how we can all help with this as a community.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2082565498504364138",
+    "time": "2026-07-30 04:34",
+    "created_at": "Wed Jul 29 20:34:41 +0000 2026",
+    "id_str": "2082565498504364138",
+    "is_retweet": false
+  }
+]
