@@ -306,5 +306,126 @@
     "created_at": "Wed Jul 29 08:05:28 +0000 2026",
     "id_str": "2082376952082821620",
     "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "AsterMem 这个项目有点意思，它是一个第三方的 memory 系统，可以给你的任何 AI Agent 接上长期记忆。\n\n支持任何格式：比如 Markdown、文本、书签等。 你的长内容会被自动切成一些语义片段，打上标签，并加上向量搜索和向量索引。\n\n数据可以直接读取 Markdown，也可以读数据库或向量库。 https://t.co/bbdZmqMM0X",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2082397091062513738",
+    "time": "2026-07-29 17:25",
+    "created_at": "Wed Jul 29 09:25:30 +0000 2026",
+    "id_str": "2082397091062513738",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most businesses don't need to add more. They need to cut the right things.\n\nThis prompt audits every product, meeting, and process you run. It maps what to stop, when to stop it, and where to redirect the freed capacity across a 90-day plan.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2082405798215594339",
+    "time": "2026-07-29 18:00",
+    "created_at": "Wed Jul 29 10:00:06 +0000 2026",
+    "id_str": "2082405798215594339",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Full prompt:\n\nhttps://t.co/EESg4ZIydb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2082405810429460550",
+    "time": "2026-07-29 18:00",
+    "created_at": "Wed Jul 29 10:00:09 +0000 2026",
+    "id_str": "2082405810429460550",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Follow if you want prompts that help you build a leaner, faster business.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2082405822139916350",
+    "time": "2026-07-29 18:00",
+    "created_at": "Wed Jul 29 10:00:11 +0000 2026",
+    "id_str": "2082405822139916350",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @369Serena: 哇哦！Codex 以后是不是可以连接万物了！\n\n做设计的朋友们可以关注下 Open Design https://t.co/9aONBmnkHt",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2082385039707271299",
+    "time": "2026-07-29 16:37",
+    "created_at": "Wed Jul 29 08:37:36 +0000 2026",
+    "id_str": "2082385039707271299",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 发布全新的 MCP 规范：可将 MCP 服务器部署到云上\n\n以前 MCP 服务器有个毛病：客户端得先握手拿一个会话 ID，之后每次请求都必须回到同一台机器\n\n加机器扩容没用，serverless 也跑不了\n\n新规范把这条规矩废了：握手和会话 ID",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2082395244264645056",
+    "time": "2026-07-29 17:18",
+    "created_at": "Wed Jul 29 09:18:09 +0000 2026",
+    "id_str": "2082395244264645056",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI 发布 \n\ngpt-transcribe 和 gpt-live-transcribe 语音转录模型\n\n真实录音词错误率下降一半，价格便宜 25%\n\n真实世界录音基准上，gpt-transcribe 词错误率 8.98%，同一项上 whisper-1 是 15.21%\n\n每分钟 $0.0045，比 whisper-1 的 $0.006 便宜 25%，准确率和价格这次往同一个方向走了",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2082396984275812552",
+    "time": "2026-07-29 17:25",
+    "created_at": "Wed Jul 29 09:25:04 +0000 2026",
+    "id_str": "2082396984275812552",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Trae Work 官方知识库\n\n是一个面向 AI 办公各种场景打造，非常全面的实操知识库\n\n实战指南，共计 40w+ 字\n覆盖真实工作场景\n学习成长、写作沟通、数据处理、视觉设计、汇报演示、信息采集、开发自动化、办公协作等核心工作领域\n\n直接或者稍微改下就能在其他工具里也能使用\n\n我拔下来做了个互动课程↓ https://t.co/gFUFUu7Ayx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2082418552175514001",
+    "time": "2026-07-29 18:50",
+    "created_at": "Wed Jul 29 10:50:46 +0000 2026",
+    "id_str": "2082418552175514001",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细实操演示：https://t.co/DhggfSFsnI\n互动课程：https://t.co/1SzE5lqS0x\n知识库地址：https://t.co/KOrE2C95zm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2082418554348208565",
+    "time": "2026-07-29 18:50",
+    "created_at": "Wed Jul 29 10:50:47 +0000 2026",
+    "id_str": "2082418554348208565",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @trondao: TRON’s Q2 momentum extended across network growth, institutional adoption, compliance, education, and emerging AI infrastructu…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2082402044456132632",
+    "time": "2026-07-29 17:45",
+    "created_at": "Wed Jul 29 09:45:11 +0000 2026",
+    "id_str": "2082402044456132632",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "TRX is now live on @Backpack 🎒",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2082412770780454948",
+    "time": "2026-07-29 18:27",
+    "created_at": "Wed Jul 29 10:27:48 +0000 2026",
+    "id_str": "2082412770780454948",
+    "is_retweet": false
   }
 ]
