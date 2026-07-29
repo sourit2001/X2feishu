@@ -1,1 +1,178 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starship still floating in the ocean https://t.co/eYm4OjDMf6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2082340308680135085",
+    "time": "2026-07-29 13:39",
+    "created_at": "Wed Jul 29 05:39:52 +0000 2026",
+    "id_str": "2082340308680135085",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这个能力已经在 Codepilot 上线了，我自己最近一直也在用，太爽了！\n\n充分发挥各个模型的能力长处，而且可以帮你节省成本。\n\n你可以在一个聊天里启用、由不同模型驱动的 subagent，利用它们自己的能力去帮你完成事情，而且也可以减少比较贵的模型的消耗。\n\n比如这个任务，就是用 Grok 去检索 Twitter https://t.co/D6yFpRAKDS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2082313658277732747",
+    "time": "2026-07-29 11:53",
+    "created_at": "Wed Jul 29 03:53:58 +0000 2026",
+    "id_str": "2082313658277732747",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这里尝试：https://t.co/n7iELgnzwj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2082313723717525835",
+    "time": "2026-07-29 11:54",
+    "created_at": "Wed Jul 29 03:54:13 +0000 2026",
+    "id_str": "2082313723717525835",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "一句非常简单的提示词，就调用了三个不同能力的模型，帮我完成了昨天 Twitter 上的 AI 热点事件统计。\n\n时效性非常强，跟我早上起来刷 Twitter 搜集到的差不多，而且还有几个我漏掉的信息。\n\n具体分工如下：\n• 信息爬取：内容爬取是 Grok 做的\n• 网页生成：Kimi 生成的\n• 文案撰写：DeepSeek 写的 https://t.co/76LsFAR0eZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2082315101080879424",
+    "time": "2026-07-29 11:59",
+    "created_at": "Wed Jul 29 03:59:42 +0000 2026",
+    "id_str": "2082315101080879424",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "示例任务结果：https://t.co/m3TAqKKtzy",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2082315307235115409",
+    "time": "2026-07-29 12:00",
+    "created_at": "Wed Jul 29 04:00:31 +0000 2026",
+    "id_str": "2082315307235115409",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我操，Codex 又重置了！\n\n同时他们还说在调查体感上 GPT-5.6 Sol 的消耗速度比较快的问题。\n\n然后在调查期间也会暂停 5 小时限额。 https://t.co/kjeicShpOn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2082318038800740807",
+    "time": "2026-07-29 12:11",
+    "created_at": "Wed Jul 29 04:11:22 +0000 2026",
+    "id_str": "2082318038800740807",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "看错了，朋友们，是从今天开始恢复了 5 小时限额，原来 5 小时限额只是临时取消的",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2082321046863335505",
+    "time": "2026-07-29 12:23",
+    "created_at": "Wed Jul 29 04:23:19 +0000 2026",
+    "id_str": "2082321046863335505",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Those who follow my feed know that I test new video models by having them show an otter using a laptop on an airplane.\n\nThe new Flux 3 video model is really good, so I had it do a variation on theme, which will become apparent a couple seconds in. See the change from 2 years ago. https://t.co/lssZAeQlGV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2082319924987351510",
+    "time": "2026-07-29 12:18",
+    "created_at": "Wed Jul 29 04:18:52 +0000 2026",
+    "id_str": "2082319924987351510",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "1990s movie version (the otter sounds like Christian Slater?) https://t.co/p5Wm0A4IoG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2082322141505040500",
+    "time": "2026-07-29 12:27",
+    "created_at": "Wed Jul 29 04:27:40 +0000 2026",
+    "id_str": "2082322141505040500",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Original prompt: a hacker movie where an otter on a standard commercial plane sitting and using a laptop needs to hack into the mainframe to turn off the alarm before the otters entering the vault are captured. the otters all speak in human voices.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2082322715751399426",
+    "time": "2026-07-29 12:29",
+    "created_at": "Wed Jul 29 04:29:57 +0000 2026",
+    "id_str": "2082322715751399426",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Flux 3 is pretty darn impressive. This is what it produced with the prompt: \"tracking shot that follows a female astronaut with her helmet open as she walks through a regency dance in a traditional manor, with a mural on the wall painted by Rothko. Pushing people out of the way https://t.co/Fk2BPwebUl",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2082339882031026392",
+    "time": "2026-07-29 13:38",
+    "created_at": "Wed Jul 29 05:38:10 +0000 2026",
+    "id_str": "2082339882031026392",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "总感觉 远程实习不太可控 ， 一方面担心信息泄露 ，领了任务不干活，贻误时间； 总之，信任问题还是蛮重要的一个问题。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2082316276593197407",
+    "time": "2026-07-29 12:04",
+    "created_at": "Wed Jul 29 04:04:22 +0000 2026",
+    "id_str": "2082316276593197407",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "《TSRC 关于AI辅助漏洞挖掘报告的提交规范》 笑死，\n\n一些白帽子拿垃圾模型挖漏洞并且自动提交，都是误报，徒增 TSRC 审核人员工作负担。\n\n一个漏洞少说也800元，多则 5万一个 ，就舍不得换好一点的模型（譬如使用 claude ）来进行漏洞挖掘么。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2082319364670607862",
+    "time": "2026-07-29 12:16",
+    "created_at": "Wed Jul 29 04:16:38 +0000 2026",
+    "id_str": "2082319364670607862",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "拿国内的融资的话，\n如果不能 上市卖给散户，\n那么创始人通常要签署8%-10% 年化利率的回购对赌。 https://t.co/pJ3D6zYHUb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2082327572646686759",
+    "time": "2026-07-29 12:49",
+    "created_at": "Wed Jul 29 04:49:15 +0000 2026",
+    "id_str": "2082327572646686759",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "之前分析的校园大使 远程实习 的薪资结构还是乐观了，\n现在普遍流行的是 100-160 元 /天。 https://t.co/0j7IrdRvms",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2082328325578727869",
+    "time": "2026-07-29 12:52",
+    "created_at": "Wed Jul 29 04:52:15 +0000 2026",
+    "id_str": "2082328325578727869",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "More users are choosing TRON every day.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2082330339343814849",
+    "time": "2026-07-29 13:00",
+    "created_at": "Wed Jul 29 05:00:15 +0000 2026",
+    "id_str": "2082330339343814849",
+    "is_retweet": false
+  }
+]
