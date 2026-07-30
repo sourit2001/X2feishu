@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "RT @LefterisJP: It's hard to believe it's already been 11 years.\n\nOn July 30 2015 we launched Ethereum from a small scrappy office in Berli…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2082803808766222496",
+    "time": "2026-07-30 20:21",
+    "created_at": "Thu Jul 30 12:21:39 +0000 2026",
+    "id_str": "2082803808766222496",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "reddits 锐评工程师现在的角色\n其实是大模型和产品两者之间的…\n安全套\n\nemmm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2082822642823012825",
+    "time": "2026-07-30 21:36",
+    "created_at": "Thu Jul 30 13:36:29 +0000 2026",
+    "id_str": "2082822642823012825",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Mimofan 今日更新 (2026-07-30)\n\n  核心能力\n\n  - [x] 主动任务通知 -- 后台任务完成后自动通知模型，无需手动轮询\n  - [x] 自定义 Agent -- 通过 Markdown + YAML frontmatter 定义领域专属 Agent\n  - [x] 子智能体并行执行 -- 只读工具并发执行，大代码库分析速度翻倍\n  - [x] /fast 速度模式 --",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2082801500087304222",
+    "time": "2026-07-30 20:12",
+    "created_at": "Thu Jul 30 12:12:28 +0000 2026",
+    "id_str": "2082801500087304222",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://t.co/2LlhBDwD8z",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2082806580840644938",
+    "time": "2026-07-30 20:32",
+    "created_at": "Thu Jul 30 12:32:40 +0000 2026",
+    "id_str": "2082806580840644938",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "May your cup overflow! \n\nHave a great day, loves https://t.co/AeRQ9DblQg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2082822407027331281",
+    "time": "2026-07-30 21:35",
+    "created_at": "Thu Jul 30 13:35:33 +0000 2026",
+    "id_str": "2082822407027331281",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Original image, feel free to remix or play with it https://t.co/KBaVWxQlaN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2082822866223968756",
+    "time": "2026-07-30 21:37",
+    "created_at": "Thu Jul 30 13:37:22 +0000 2026",
+    "id_str": "2082822866223968756",
+    "is_retweet": false
+  }
+]
