@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "频繁到 80% 并不是什么大问题，compact 并不会频繁执行，因为执行太多一方面影响正在执行任务上下文准确性（也许压缩后，需要重新补充上下文），一方面也不能充分利用 Prompt Caching。https://t.co/f4Vd06lGhb\n\n并不用太担心上下文 80%",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2083639136250916926",
+    "time": "2026-08-02 03:40",
+    "created_at": "Sat Aug 01 19:40:56 +0000 2026",
+    "id_str": "2083639136250916926",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Humans have always been shaped by our technology. In fact, our brains co-evolved with tools. Tools extend our nervous system: we can sense where the impact is on a rod we are holding, unconsciously, from its modes of vibration. Also, complex tools &amp; complex language are linked https://t.co/QZRm622lh7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2083633444685295764",
+    "time": "2026-08-02 03:18",
+    "created_at": "Sat Aug 01 19:18:19 +0000 2026",
+    "id_str": "2083633444685295764",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I was waiting for the verdict from one of the most level-headed and AI-aware math professors.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2083637197157101708",
+    "time": "2026-08-02 03:33",
+    "created_at": "Sat Aug 01 19:33:14 +0000 2026",
+    "id_str": "2083637197157101708",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @agentnative_: GPT Work is basically an agent with a computer in the cloud. \n\nHere are all of the built in Tools GPT Work has access to…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2083650859557085251",
+    "time": "2026-08-02 04:27",
+    "created_at": "Sat Aug 01 20:27:31 +0000 2026",
+    "id_str": "2083650859557085251",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "This is pretty insane.\n\nI gave Seedance 2.5 a photo of me, a clip of me talking, and a couple pictures of our SF office.\n\nIt cloned my voice and image to generate me giving a walkthrough of @a16z SF - this was all one prompt 🤯 https://t.co/VwBt3VWVVo",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2083641481911492619",
+    "time": "2026-08-02 03:50",
+    "created_at": "Sat Aug 01 19:50:16 +0000 2026",
+    "id_str": "2083641481911492619",
+    "is_retweet": false
+  }
+]
