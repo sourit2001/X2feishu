@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "wow ，看看我解决的问题， deepseek 自己官方有没有解决，另外，也看看有没有一些 deepseek 官方 记忆机制 ，省token的方案， mimofan没有支持。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083524515947331896",
+    "time": "2026-08-01 20:05",
+    "created_at": "Sat Aug 01 12:05:29 +0000 2026",
+    "id_str": "2083524515947331896",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @_akhaliq: DeepSeek-V4-Flash-0731 is out\n\nhttps://t.co/1AoQWSXfp6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083525438576775197",
+    "time": "2026-08-01 20:09",
+    "created_at": "Sat Aug 01 12:09:09 +0000 2026",
+    "id_str": "2083525438576775197",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "5. 目前除了 vllm 和 sglang ，还有哪些强有力的同类产品？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083529613377241559",
+    "time": "2026-08-01 20:25",
+    "created_at": "Sat Aug 01 12:25:44 +0000 2026",
+    "id_str": "2083529613377241559",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "感觉我也可以魔改 sglang 、 vllm ，用于调试 DSpark 这类新能力， 看看效果是不是和吹的一样好。\n\n现在租用一个 GPU又不贵。\n\n大模型预训练需要烧很多钱，烧很多数据才能验证，\n\n大模型推理看起来门槛并没那么高，小成本也可以验证/验收能力。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083531023372206344",
+    "time": "2026-08-01 20:31",
+    "created_at": "Sat Aug 01 12:31:20 +0000 2026",
+    "id_str": "2083531023372206344",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "当你问一个人，它主要的领域是啥，他说他是做预训练的，\n\n然后你追问，预训练的具体什么模块，\n\n预训练也是一个很长的管线，\n\n他要是说不出个所以然来，很可能他只是做自媒体的。\n\n大模型预训练是一个比较复杂的管线过程，不是一个人端到端能搞定的。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083532813572493592",
+    "time": "2026-08-01 20:38",
+    "created_at": "Sat Aug 01 12:38:27 +0000 2026",
+    "id_str": "2083532813572493592",
+    "is_retweet": false
+  }
+]
