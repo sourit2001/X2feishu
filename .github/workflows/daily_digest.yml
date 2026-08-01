@@ -5,6 +5,10 @@ on:
     - cron: '0 */2 * * *'   # Every 2 hours
   workflow_dispatch:        # Allow manual trigger
 
+concurrency:
+  group: x2feishu-tweet-queue
+  cancel-in-progress: false
+
 jobs:
   digest:
     runs-on: ubuntu-latest
