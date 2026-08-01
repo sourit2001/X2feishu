@@ -119,30 +119,60 @@ def build_unified_prompt(groups):
 
     return prompt
 
-def generate_summary(prompt, api_key):
-    """Call DeepSeek API to generate summary"""
+def generate_summary(prompt, api_key, max_attempts=2):
+    """Call DeepSeek API with thinking disabled and reject empty output."""
     client = OpenAI(
         api_key=api_key,
         base_url="https://api.deepseek.com"
     )
 
-    response = client.chat.completions.create(
-        model="deepseek-v4-flash",
-        messages=[
-            {
-                "role": "system",
-                "content": "你是一位优秀的科技记者。输出标准 Markdown，按博主分组以讲故事和行业观察的方式写作总结短文（每位博主150-300字），严禁使用“值得关注的是”、“可以看出”等套话，直接陈述事实与观点，并附带原文链接与本期趋势。"
-            },
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ],
-        temperature=0.6,
-        max_tokens=3000
-    )
+    last_error = None
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = client.chat.completions.create(
+                model="deepseek-v4-flash",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "你是一位优秀的科技记者。输出标准 Markdown，按博主分组以讲故事和行业观察的方式写作总结短文（每位博主150-300字），严禁使用“值得关注的是”、“可以看出”等套话，直接陈述事实与观点，并附带原文链接与本期趋势。"
+                    },
+                    {
+                        "role": "user",
+                        "content": prompt
+                    }
+                ],
+                temperature=0.6,
+                max_tokens=3000,
+                extra_body={"thinking": {"type": "disabled"}}
+            )
 
-    return response.choices[0].message.content
+            if not response.choices:
+                raise RuntimeError("DeepSeek returned no choices.")
+
+            choice = response.choices[0]
+            content = choice.message.content or ""
+            finish_reason = getattr(choice, "finish_reason", None)
+            print(
+                f"DeepSeek attempt {attempt}/{max_attempts}: "
+                f"finish_reason={finish_reason}, content_chars={len(content.strip())}"
+            )
+
+            if content.strip():
+                return content.strip()
+
+            last_error = RuntimeError(
+                f"DeepSeek returned empty content (finish_reason={finish_reason})."
+            )
+        except Exception as exc:
+            last_error = exc
+            print(f"DeepSeek attempt {attempt}/{max_attempts} failed: {exc}")
+
+        if attempt < max_attempts:
+            print("Retrying DeepSeek summary generation...")
+
+    raise RuntimeError(
+        "DeepSeek failed to generate a non-empty digest; tweet queue preserved."
+    ) from last_error
 
 def save_to_obsidian_sync(content):
     """Save the content for local Obsidian sync"""
@@ -191,6 +221,26 @@ def build_feishu_card(summary, date_str):
         }
     }
 
+def send_to_feishu(webhook_url, payload):
+    """Send a digest and verify both HTTP and Feishu business status."""
+    response = requests.post(webhook_url, json=payload, timeout=30)
+    response.raise_for_status()
+
+    try:
+        result = response.json()
+    except ValueError as exc:
+        raise RuntimeError("Feishu returned a non-JSON response.") from exc
+
+    business_code = result.get("code", result.get("StatusCode"))
+    if business_code not in (0, "0"):
+        message = result.get("msg", result.get("StatusMessage", "unknown error"))
+        raise RuntimeError(
+            f"Feishu rejected the digest: code={business_code}, message={message}"
+        )
+
+    print(f"Digest pushed to Feishu. HTTP {response.status_code}, code={business_code}")
+    return result
+
 def main():
     api_key = os.getenv("DEEPSEEK_API_KEY")
     # Prefer FEISHU_WEBHOOK_DIGEST for summaries to avoid getting drowned out by individual tweets
@@ -217,17 +267,17 @@ def main():
     summary = generate_summary(prompt, api_key)
 
     # 1. Save for Obsidian (local repo folder)
-    save_to_obsidian_sync(summary)
+    if not save_to_obsidian_sync(summary):
+        raise RuntimeError("Digest could not be saved; tweet queue preserved.")
 
     # 2. Push to Feishu
-    if webhook_url:
-        payload = build_feishu_card(summary, date_str)
-        response = requests.post(webhook_url, json=payload)
-        print(f"Digest pushed to Feishu. Status: {response.status_code}")
-    else:
-        print("Warning: FEISHU_WEBHOOK not set, skipping Feishu push.")
+    if not webhook_url:
+        raise RuntimeError("Missing FEISHU_WEBHOOK; tweet queue preserved.")
 
-    # 3. Clear daily tweets
+    payload = build_feishu_card(summary, date_str)
+    send_to_feishu(webhook_url, payload)
+
+    # 3. Clear only after the report and Feishu delivery both succeeded
     clear_daily_tweets()
     print("Daily tweets cleared.")
 
