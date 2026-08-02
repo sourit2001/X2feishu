@@ -75,5 +75,27 @@
     "created_at": "Sun Aug 02 06:50:15 +0000 2026",
     "id_str": "2083807573203968027",
     "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 发布了第八代 TPU \n\n最核心的变化：以前一颗芯片什么活都干，这次拆成了两颗，各管一头。\n\n- TPU 8t — 专门用来训练模型\n- TPU 8i — 专门用来推理，跑模型\n\n为什么要拆？ 因为这两件事要的东西已经彻底不一样了：\n\n训练要的是\"能一次吞下海量数据\"，慢一点无所谓； https://t.co/fx1R8PWXpb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2083829267797041580",
+    "time": "2026-08-02 16:16",
+    "created_at": "Sun Aug 02 08:16:27 +0000 2026",
+    "id_str": "2083829267797041580",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "今年 搞 大模型的实习生，日薪 就 已经卷到 5000 元了，略夸张。\n\n人才好稀缺，大厂都在抢，有钱都抢不到。 ​​​就差让P9 - P10 跪下来求人才了。\n\nmeta 被裁员的大模型的朋友可以看看国内的公司， 阿里qwen实验室 ， deepseek ， minimax ，字节豆包实验室 这些，待遇确实也很不错的。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083830450905100769",
+    "time": "2026-08-02 16:21",
+    "created_at": "Sun Aug 02 08:21:09 +0000 2026",
+    "id_str": "2083830450905100769",
+    "is_retweet": false
   }
 ]
