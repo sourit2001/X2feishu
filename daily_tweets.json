@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Trump announced that US has cancelled its attack on Iran.\n\nAnd that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program.\n\nAnyone else feel like they’ve aged a few years in the past 6 months? https://t.co/4PK671c548",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2083760320062083406",
+    "time": "2026-08-02 11:42",
+    "created_at": "Sun Aug 02 03:42:29 +0000 2026",
+    "id_str": "2083760320062083406",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @FFmpeg: Thank you, @cursor_ai, for providing free credits to several FFmpeg developers. These credits will support their ongoing work o…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2083743602627297283",
+    "time": "2026-08-02 10:36",
+    "created_at": "Sun Aug 02 02:36:03 +0000 2026",
+    "id_str": "2083743602627297283",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for https://t.co/ybIpXhYSsj",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/karpathy/status/2083749667410727319",
+    "time": "2026-08-02 11:00",
+    "created_at": "Sun Aug 02 03:00:09 +0000 2026",
+    "id_str": "2083749667410727319",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Karpathy去了 Anthropic 以后，第一次发长帖。\n\n他想了一个新的测试，就是摆脱那种靠画“骑着自行车的鹈鹕”之类的测试方式，给了 Opus 5 大概 100 万个 Token 的预算，要求它生成三个渲染版本去讲述《指环王》的故事。然后 Opus 5 给他整了一个 3D 的出来。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2083764056994017647",
+    "time": "2026-08-02 11:57",
+    "created_at": "Sun Aug 02 03:57:20 +0000 2026",
+    "id_str": "2083764056994017647",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "可不只有我一个人说 Opus 4.6 写作是最好的😅\n\nhttps://t.co/l2vKsONh16",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2083781651776119065",
+    "time": "2026-08-02 13:07",
+    "created_at": "Sun Aug 02 05:07:15 +0000 2026",
+    "id_str": "2083781651776119065",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "AJ 这 3D 渲染测试确实比鹈鹕骑自行车靠谱多了👍",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2083783368475361697",
+    "time": "2026-08-02 13:14",
+    "created_at": "Sun Aug 02 05:14:04 +0000 2026",
+    "id_str": "2083783368475361697",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I remember back when we had to do our chain-of-thought by hand, the old-fashioned way.  You know, back in summer 2024. https://t.co/g6z7TkkI1r",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2083772653156925650",
+    "time": "2026-08-02 12:31",
+    "created_at": "Sun Aug 02 04:31:29 +0000 2026",
+    "id_str": "2083772653156925650",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In case you were wondering, we did test \"think step by step\" and it no longer works in modern models to improve results. https://t.co/wpRO6K5T39",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2083773822579216424",
+    "time": "2026-08-02 12:36",
+    "created_at": "Sun Aug 02 04:36:08 +0000 2026",
+    "id_str": "2083773822579216424",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "AI should transform and carry your inputs it shouldn’t make your inputs\n\nIt’s that simple",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2083771709359055118",
+    "time": "2026-08-02 12:27",
+    "created_at": "Sun Aug 02 04:27:44 +0000 2026",
+    "id_str": "2083771709359055118",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @askalphaxiv: “AREX: Towards a Recursively Self-Improving Agent for Deep Research”\n\nDeep research agents often fail not because they nee…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083738458896343517",
+    "time": "2026-08-02 10:15",
+    "created_at": "Sun Aug 02 02:15:37 +0000 2026",
+    "id_str": "2083738458896343517",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "现在 https://t.co/bGKCuvUoKQ 似乎可以免费试用，\n有兴趣的朋友可以试一试。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083744299326259313",
+    "time": "2026-08-02 10:38",
+    "created_at": "Sun Aug 02 02:38:49 +0000 2026",
+    "id_str": "2083744299326259313",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @grok: @seclink @anirudhbv_ce @huggingface 有工业意义。KV cache是长上下文推理内存瓶颈，约6x压缩可提升并发、延长上下文或降成本，适用于服务、RAG、边缘等场景。\n\n开源完整：GitHub代码+论文 https://t.c…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2083759385545732266",
+    "time": "2026-08-02 11:38",
+    "created_at": "Sun Aug 02 03:38:46 +0000 2026",
+    "id_str": "2083759385545732266",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "AI job opportunity, \non-site, Santa Monica, US \n\nhttps://t.co/yLn0F0CMqL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2083756716861129199",
+    "time": "2026-08-02 11:28",
+    "created_at": "Sun Aug 02 03:28:10 +0000 2026",
+    "id_str": "2083756716861129199",
+    "is_retweet": false
+  }
+]
