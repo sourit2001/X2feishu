@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Describe it once. Watch Grok Imagine bring your imaginations to life https://t.co/HM3jOwQX25",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2084367069403812133",
+    "time": "2026-08-04 03:53",
+    "created_at": "Mon Aug 03 19:53:29 +0000 2026",
+    "id_str": "2084367069403812133",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "现在我很多复杂一点的任务都是 Fable 5 写方案，Codex 去执行，Fable 5 验收，相对来说可以做出比较靠谱的方案，以及兼顾性价比。具体是这么做的：\n\n1. Fable 5 的产出是技术方案文档（图1）\n\n一方面文档方便批注修改，另一方面文档方便其他 Agent 快速上手\n\n2. 文档确认后在当前先 /compact 一次 https://t.co/GcVSythKdZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2084361778377404715",
+    "time": "2026-08-04 03:32",
+    "created_at": "Mon Aug 03 19:32:28 +0000 2026",
+    "id_str": "2084361778377404715",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "small yet useful tip for codex or gpt work: \n\nask for a response in an \"Editable text block\" \n\nthe response will be in a format that you can:\n\n1. easily edit manually\n2. edit with ai\n3. copy to clipboard https://t.co/ETvVojSRWX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2084350923568971948",
+    "time": "2026-08-04 02:49",
+    "created_at": "Mon Aug 03 18:49:20 +0000 2026",
+    "id_str": "2084350923568971948",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "One-shot MiniMax H3 generation 🤯\n\nPrompt was \"Jim and Dwight from The Office discuss autonomous coding agents\" https://t.co/G7CnSo6SUd",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2084353489061499021",
+    "time": "2026-08-04 02:59",
+    "created_at": "Mon Aug 03 18:59:31 +0000 2026",
+    "id_str": "2084353489061499021",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "American supermarkets draw more peak power than every hyperscale data center in the country combined https://t.co/EVJPfw7Dxi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2084353707647627413",
+    "time": "2026-08-04 03:00",
+    "created_at": "Mon Aug 03 19:00:23 +0000 2026",
+    "id_str": "2084353707647627413",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@pmarca on the proposal that would end open-source software:\n\n\"It's a kill shot to the industry. How can any software developer anticipate the use of the software down the road?\"\n\n\"If I run a hotel and a criminal stays at the hotel and they plan their operation, does that make https://t.co/E4qCPk4viH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2084364962173202696",
+    "time": "2026-08-04 03:45",
+    "created_at": "Mon Aug 03 19:45:07 +0000 2026",
+    "id_str": "2084364962173202696",
+    "is_retweet": false
+  }
+]
