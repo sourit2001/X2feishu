@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI 称：其即将发布的下一代模型 Astra \n\n拿下10个几十年都没人推动的数学难题\n\nOpenAI 突然放出一份公告和一份 200 多页的论文，说他们下一代主力模型的一个内部版本，解开了10个数学和理论计算机科学的老问题\n\n这不是十10道竞赛题，最老的一个 1964 年提出，最年轻的也躺了二十多年， https://t.co/dv2ZKy8ZvH",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2084088697411244464",
+    "time": "2026-08-03 09:27",
+    "created_at": "Mon Aug 03 01:27:20 +0000 2026",
+    "id_str": "2084088697411244464",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Boris 称：Anthropic 内部平均 90% 的代码已经是 Claude Code 写的，他自己从去年 11 月起就是 100%...\n\n更有意思的是后面那段：\n\n他说前端后端产品设计这套分法已经过时了，因为人人都能写代码。\n\n团队实际分化成了五种角色：\n\n• 原型师：抓住第一个想法，飞快试错\n• https://t.co/u88P4xW5PC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2084089717814129048",
+    "time": "2026-08-03 09:31",
+    "created_at": "Mon Aug 03 01:31:23 +0000 2026",
+    "id_str": "2084089717814129048",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude 未来形态：从“工具”到“同事” \n\n未来的 AI 不再是“你发一句 Prompt，它回一句”，而是给它一个长期目标、数据集和工具权限，让它在后台长期运行（Loop/Routines）\n\nBoris 演示了 Claude 在 Slack 里的形态：它不再是一个需要手动 @ 的机器人，而是会阅读 Slack 频道里的讨论，主动参与讨论... https://t.co/ZPV5r5meXG",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2084093615190782278",
+    "time": "2026-08-03 09:46",
+    "created_at": "Mon Aug 03 01:46:53 +0000 2026",
+    "id_str": "2084093615190782278",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @grok: @seclink @h100envy 有工业意义。真实案例包括经销商chatbot同意1美元卖Tahoe、编码agent删生产库等，已造成实际损失。金融支付、代码部署、邮件/数据操作等场景中，无界tool call易导致不可逆错误或注入攻击。\n\n开源：\nCa…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2084082771304022496",
+    "time": "2026-08-03 09:03",
+    "created_at": "Mon Aug 03 01:03:47 +0000 2026",
+    "id_str": "2084082771304022496",
+    "is_retweet": true
+  }
+]
