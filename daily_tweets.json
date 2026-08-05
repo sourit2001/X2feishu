@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Exactly",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2085044909351047205",
+    "time": "2026-08-06 00:46",
+    "created_at": "Wed Aug 05 16:46:59 +0000 2026",
+    "id_str": "2085044909351047205",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @doganuraldesign: New aspect ratio visualizer\n\nA small but delightful UI update to Grok Imagine Web. https://t.co/qYeL2MnPpF",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2085045259340550484",
+    "time": "2026-08-06 00:48",
+    "created_at": "Wed Aug 05 16:48:22 +0000 2026",
+    "id_str": "2085045259340550484",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It will and then to the Moon too",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2085045708844134423",
+    "time": "2026-08-06 00:50",
+    "created_at": "Wed Aug 05 16:50:09 +0000 2026",
+    "id_str": "2085045708844134423",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @binaryify: 花了几天逆向了 kimi 的 PPT, 弄了个 skill, 用 deepseek 也可以做出很逼近 kimi PPT 的效果了, 希望这次不会收到警告函了, 上次网易云音乐就给我发了警告函  https://t.co/iJKNcE6Uqv htt…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2085043404874911836",
+    "time": "2026-08-06 00:41",
+    "created_at": "Wed Aug 05 16:41:00 +0000 2026",
+    "id_str": "2085043404874911836",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @dashiAIxz: 最近几个月一直在做 AI 设计相关的选题，研究怎么让没有设计基础的人也能靠 AI 做出好看的东西。每一期数据都不错，准备在 Twitter 上把这段时间的经验和观点持续更新一下\n\n不列那么多链接里，只推荐我自己用过靠谱，而且还能持续用下去的产品，先…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2085044495154909350",
+    "time": "2026-08-06 00:45",
+    "created_at": "Wed Aug 05 16:45:20 +0000 2026",
+    "id_str": "2085044495154909350",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @op7418: 感谢 Cola 成为“guizang PPT Skills”的金牌赞助商！\n\n大家可以在 CoLa 的 Skills 商店快速安装和调用“guizang PPT Skills”以及后续的其他 Skills。\n\n同时，Cola 的这个 Skills 商店是…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2085048169755218411",
+    "time": "2026-08-06 00:59",
+    "created_at": "Wed Aug 05 16:59:56 +0000 2026",
+    "id_str": "2085048169755218411",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I find arguments that AI can't do judgement or creativity or taste to be especially obviously false in the time of agents. Any long task requires lots of taste, judgement, and creativity.\n\nI am much more sympathetic to arguments about the quality or diversity of the AI's choices.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2085034843805528268",
+    "time": "2026-08-06 00:06",
+    "created_at": "Wed Aug 05 16:06:59 +0000 2026",
+    "id_str": "2085034843805528268",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think definitional arguments about what taste, judgement, and creativity mean are fine, but also a distraction. There is broad overlap in the practical definitions of these things &amp; their implications for economically meaningful work, even if there are big differences in theory",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2085050020982616193",
+    "time": "2026-08-06 01:07",
+    "created_at": "Wed Aug 05 17:07:18 +0000 2026",
+    "id_str": "2085050020982616193",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Noticeable weird contradiction: models are getting better at following complex instructions, but also using more \"judgement\" about which parts of the instructions they focus on most &amp; which they de-emphasize.\n\nBig implications for skills, which may become suggestions, not orders.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2085055055237914802",
+    "time": "2026-08-06 01:27",
+    "created_at": "Wed Aug 05 17:27:18 +0000 2026",
+    "id_str": "2085055055237914802",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 管理层变动\n\nGoogle DeepMind首席执行官Demis Hassabis卸任，专注医疗科学研究\n\nKoray Kavukcuoglu 接替 Google DeepMind CEO，负责 Gemini 模型开发、前沿 AI 研究以及 Gemini App 和开发者团队。\n\n在 Google 效力 27 年的AI 传奇人物 Jeff Dean与资深研究员 Sanjay Ghemawat 离职创业",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2085039997795909939",
+    "time": "2026-08-06 00:27",
+    "created_at": "Wed Aug 05 16:27:28 +0000 2026",
+    "id_str": "2085039997795909939",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So beautiful",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2085040422355656824",
+    "time": "2026-08-06 00:29",
+    "created_at": "Wed Aug 05 16:29:09 +0000 2026",
+    "id_str": "2085040422355656824",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @josie_zhangruo: You made the ultimate cat lady. So I made a succulent grandpa.😆\nMr. Song. 200 plants, one trike, one cat with no respec…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2085057563175862550",
+    "time": "2026-08-06 01:37",
+    "created_at": "Wed Aug 05 17:37:16 +0000 2026",
+    "id_str": "2085057563175862550",
+    "is_retweet": true
+  }
+]
