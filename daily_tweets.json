@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/Atfa3oFHdr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2085937755062685951",
+    "time": "2026-08-08 11:54",
+    "created_at": "Sat Aug 08 03:54:50 +0000 2026",
+    "id_str": "2085937755062685951",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://t.co/ue7NOSuFt4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2085940169245356114",
+    "time": "2026-08-08 12:04",
+    "created_at": "Sat Aug 08 04:04:25 +0000 2026",
+    "id_str": "2085940169245356114",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A thing that people don't get about academia is that we have a whole bunch of parallel fights about academic stuff (ranging from high-minded philosophical debates to petty rivalries about credit) that spill over into X in ways that are non-obvious to those outside a given field.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2085947647160967365",
+    "time": "2026-08-08 12:34",
+    "created_at": "Sat Aug 08 04:34:08 +0000 2026",
+    "id_str": "2085947647160967365",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is not a subtweet of any one academic rivalry on X, by the way. There are lots of them.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2085948380815970351",
+    "time": "2026-08-08 12:37",
+    "created_at": "Sat Aug 08 04:37:03 +0000 2026",
+    "id_str": "2085948380815970351",
+    "is_retweet": false
+  }
+]
