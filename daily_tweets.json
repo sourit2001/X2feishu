@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @John_M_Q: It had to be this way—Q. https://t.co/mi84f4k17u",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2086328804763410456",
+    "time": "2026-08-09 13:48",
+    "created_at": "Sun Aug 09 05:48:43 +0000 2026",
+    "id_str": "2086328804763410456",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Literally \n\nWhat you Imagine\n\nCan be made real https://t.co/XMmY8VHfVL",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2086337315375345832",
+    "time": "2026-08-09 14:22",
+    "created_at": "Sun Aug 09 06:22:32 +0000 2026",
+    "id_str": "2086337315375345832",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Telling Sol in Codex that I want to speak to the manager: \"I want you, not your agents, to go through everything. Stop delegating this task to the reports of dumber agent and elaborate test harnesses, they are missing things you would have caught by glancing at it.\"",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2086338988520927368",
+    "time": "2026-08-09 14:29",
+    "created_at": "Sun Aug 09 06:29:11 +0000 2026",
+    "id_str": "2086338988520927368",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Yes, it worked.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2086339745626362174",
+    "time": "2026-08-09 14:32",
+    "created_at": "Sun Aug 09 06:32:12 +0000 2026",
+    "id_str": "2086339745626362174",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "用字节豆包模型挖掘到一个新 0day ，只在 fastjson2 最新版本发布，没安全公告。\n\n最现实的链：GenericFastJsonRedisSerializer + 攻击者控制 Redis\n  1. Spring Boot 应用用 new GenericFastJsonRedisSerializer()（默认开启 SupportAutoType，无白名单）做 Redis 序列化。\n  2. Redis",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2086340740838543627",
+    "time": "2026-08-09 14:36",
+    "created_at": "Sun Aug 09 06:36:09 +0000 2026",
+    "id_str": "2086340740838543627",
+    "is_retweet": false
+  }
+]
