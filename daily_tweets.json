@@ -97,5 +97,93 @@
     "created_at": "Mon Aug 10 16:25:11 +0000 2026",
     "id_str": "2086851362831098050",
     "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Every day i'm finding more fun ways to get AI to take a large amount of data (in any format) and create useful / fun visuals. \n\nBoth Fable and 5.6 Sol are great at this \n(This specific use case does not need Fable however)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2086862233921847457",
+    "time": "2026-08-11 01:08",
+    "created_at": "Mon Aug 10 17:08:23 +0000 2026",
+    "id_str": "2086862233921847457",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "someone built a free, open-source toolkit for agents that watch, listen, and understand video in real time.\n\nit's called Vision Agents. low latency by design, production ready, builds real-time video AI that works with your own models and edge layer.\n\nplugs into pretty much https://t.co/OIhGa7CWwz",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2086867705307742556",
+    "time": "2026-08-11 01:30",
+    "created_at": "Mon Aug 10 17:30:07 +0000 2026",
+    "id_str": "2086867705307742556",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "this is how to actually build AI agents, free:\n\nhttps://t.co/FTrr6nlMQN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2086867717471285524",
+    "time": "2026-08-11 01:30",
+    "created_at": "Mon Aug 10 17:30:10 +0000 2026",
+    "id_str": "2086867717471285524",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://t.co/AGXMvKHudZ\n\nfollow if you're building agents and want to understand the how, not just wire up the tools.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2086867729290805466",
+    "time": "2026-08-11 01:30",
+    "created_at": "Mon Aug 10 17:30:13 +0000 2026",
+    "id_str": "2086867729290805466",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "冷知识：\n\nRust 冷编译慢且文件重叠 ，开发效率其实不如 nodeJs应用的。\n\nnodeJs 做 harness code agent 的时候，可以开多个 worktree 并行实现能力， \n\n而 rust 的冷编译锁的问题存在，通常只能串行搞开发。\n\n不知道有没有其他用 rust 的同学有经验，提高 rust 的编程效率 ...\n\n这么下去，我真想转",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2086857079122456929",
+    "time": "2026-08-11 00:47",
+    "created_at": "Mon Aug 10 16:47:54 +0000 2026",
+    "id_str": "2086857079122456929",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "If you only knew how much I want to see all of your art and videos on those screens at Times Square. Working to make it happen. https://t.co/8GCEnwnoLm",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2086865063588061188",
+    "time": "2026-08-11 01:19",
+    "created_at": "Mon Aug 10 17:19:37 +0000 2026",
+    "id_str": "2086865063588061188",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @SpotifyEng: We just launched Xirp, a vendor-neutral agentic development environment. One place to manage agent sessions across @ClaudeD…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2086857586805276782",
+    "time": "2026-08-11 00:49",
+    "created_at": "Mon Aug 10 16:49:55 +0000 2026",
+    "id_str": "2086857586805276782",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "RT @alexandr_wang: 1/ big announcement today: we will be releasing an open weight version of muse spark 1.2 soon.\n\nwe also are releasing mu…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2086860651667063196",
+    "time": "2026-08-11 01:02",
+    "created_at": "Mon Aug 10 17:02:06 +0000 2026",
+    "id_str": "2086860651667063196",
+    "is_retweet": true
   }
 ]
