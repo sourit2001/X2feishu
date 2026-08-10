@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @lifesinger: Anthropic 的产品，为什么这么厉害。 刚看了公众号《海外独角兽》的最新文章。非常不错，强烈推荐。\n\nAnthropic 公司里有个 Labs 团队。\n\nLabs 团队会围绕不同的技术判断播下大量种子，再把它们放进 Anthropic… h…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2086845551195144533",
+    "time": "2026-08-11 00:02",
+    "created_at": "Mon Aug 10 16:02:05 +0000 2026",
+    "id_str": "2086845551195144533",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI agents at Kavak sell the cars, underwrite the loans, coach the mechanics, and in one Mexican city, run the entire operation.\n\nThe Latin American used-car marketplace bet on agents three years ago. Today ~95% of interactions and transactions run end-to-end on AI: NPS tripled, https://t.co/hK64T9u9z4",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2086845184785203468",
+    "time": "2026-08-11 00:00",
+    "created_at": "Mon Aug 10 16:00:38 +0000 2026",
+    "id_str": "2086845184785203468",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"I'm incapable of managing\"\n\n\"There's really no recipe to any of this stuff\"\n\n@mansourtarek_ in NYT https://t.co/RJcfcSFY6w",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2086853415775437176",
+    "time": "2026-08-11 00:33",
+    "created_at": "Mon Aug 10 16:33:20 +0000 2026",
+    "id_str": "2086853415775437176",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "学习一下蒸馏模型所需的数据格式，\n\n以及做后训练需要多少数据量级。\n\n只要高质量的数据集给得足够 ， 算力（卡）给得足够 ，很多模型训练其实都只是用固定的算法范式最佳实践搞搞组合。\n\n难点还是在于高质量已标注的独家数据如何获取。\n\n基于Web的RAG其实并不靠谱，\n\n你以为是白嫖搜索引擎的数据， https://t.co/5pzpW9dmge",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2086849021688397933",
+    "time": "2026-08-11 00:15",
+    "created_at": "Mon Aug 10 16:15:53 +0000 2026",
+    "id_str": "2086849021688397933",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "灵巧手的数据格式：\n\ntask_info/task_327.json：\n  {\n    \"episode_id\": 649078,\n    \"task_id\": 327,\n    \"task_name\": \"Picking items in Supermarket\",\n    \"init_scene_text\": \"The robot is in front of the fruit shelf...\",\n    \"lable_info\": {\n      \"action_config\": [",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2086852475932537033",
+    "time": "2026-08-11 00:29",
+    "created_at": "Mon Aug 10 16:29:36 +0000 2026",
+    "id_str": "2086852475932537033",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "为什么双足 locomotion 数据\"少听说\"——四个根因\n\n  1. 物理成本极高，且\"摔一次很贵\"\n\n  - 操作数据：机械臂/灵巧手在桌面上抓，掉地上代价小，可 7×24 小时无人采集。\n\n  -",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2086853484935278937",
+    "time": "2026-08-11 00:33",
+    "created_at": "Mon Aug 10 16:33:37 +0000 2026",
+    "id_str": "2086853484935278937",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "双足行走靠仿真+RL 已能解决大部分平地场景，\n\n真正缺的是\"在复杂地形/被推搡时稳定行走\"的鲁棒数据，\n\n那一块未来会升温。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2086853799721988207",
+    "time": "2026-08-11 00:34",
+    "created_at": "Mon Aug 10 16:34:52 +0000 2026",
+    "id_str": "2086853799721988207",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "We always have a lot of job roles at Adobe \n\nAs always, happy to do internal referral if you need it",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2086844138394161425",
+    "time": "2026-08-10 23:56",
+    "created_at": "Mon Aug 10 15:56:28 +0000 2026",
+    "id_str": "2086844138394161425",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @Tibbzzee: Support AI creators, like - share - comment on their work if you like it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2086851362831098050",
+    "time": "2026-08-11 00:25",
+    "created_at": "Mon Aug 10 16:25:11 +0000 2026",
+    "id_str": "2086851362831098050",
+    "is_retweet": true
+  }
+]
