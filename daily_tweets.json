@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Indeed all tools should be about augmenting human agency, including AI! I had a fun chat with @hubermanlab .",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2086912906969719062",
+    "time": "2026-08-11 04:29",
+    "created_at": "Mon Aug 10 20:29:44 +0000 2026",
+    "id_str": "2086912906969719062",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "RT @hubermanlab: Because it’s trained on the internet, AI has but also lacks certain capabilities that human brains possess. What does a be…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/drfeifei/status/2086913216618394103",
+    "time": "2026-08-11 04:30",
+    "created_at": "Mon Aug 10 20:30:58 +0000 2026",
+    "id_str": "2086913216618394103",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "An hour of agentic computer use may now be cheaper than an hour of human labor:\n\nComputer-use agent: $6-8\nOffshore outsourced talent: ~$10\nUS talent: $30-45\n\n\"The math only gets better - inference keeps getting cheaper, and open-source models are getting good enough for a growing https://t.co/E45nFvn598",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2086906363947737406",
+    "time": "2026-08-11 04:03",
+    "created_at": "Mon Aug 10 20:03:44 +0000 2026",
+    "id_str": "2086906363947737406",
+    "is_retweet": false
+  }
+]
