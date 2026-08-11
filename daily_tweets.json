@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Just putting it out there for people that think AAOI is a one year cycle...\n\n$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028.\n\n400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue capacity added as a new distinct (&gt;50%",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2087249406638862506",
+    "time": "2026-08-12 02:46",
+    "created_at": "Tue Aug 11 18:46:52 +0000 2026",
+    "id_str": "2087249406638862506",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "They can’t handle the truth is the real issue here",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2087235939055591862",
+    "time": "2026-08-12 01:53",
+    "created_at": "Tue Aug 11 17:53:21 +0000 2026",
+    "id_str": "2087235939055591862",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Impressive work!\n\nFor comparison, an H100 can do roughly 100-200 tok/s of Muse 30B for raw inference single-thread, going up to low thousands of tok/s with a large number of threads - and I am sure that for the massively-multi-threaded case they can optimize the prover further.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2087241620618088674",
+    "time": "2026-08-12 02:15",
+    "created_at": "Tue Aug 11 18:15:56 +0000 2026",
+    "id_str": "2087241620618088674",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Ok I made a mistake you can create group chats! Couldn’t find it when testing.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2087245339615019326",
+    "time": "2026-08-12 02:30",
+    "created_at": "Tue Aug 11 18:30:42 +0000 2026",
+    "id_str": "2087245339615019326",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic released a full guide on how to actually build skills for claude.\n\na skill is a folder of instructions you build once, and claude loads it automatically whenever it's relevant. no more re-explaining your workflow, your style guide, or your process every single https://t.co/usS7duuNWn",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2087245171897594151",
+    "time": "2026-08-12 02:30",
+    "created_at": "Tue Aug 11 18:30:02 +0000 2026",
+    "id_str": "2087245171897594151",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "building your first skill from scratch still takes trial and error, even with the guide open next to you.\n\nthis is where i find claude skills that skip that part:\n\nhttps://t.co/l28hCCk2dA",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2087245184346300649",
+    "time": "2026-08-12 02:30",
+    "created_at": "Tue Aug 11 18:30:05 +0000 2026",
+    "id_str": "2087245184346300649",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://t.co/AGXMvKHudZ\n\nfollow if you want claude skills already built instead of a guide on how to build them.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2087245196866265495",
+    "time": "2026-08-12 02:30",
+    "created_at": "Tue Aug 11 18:30:08 +0000 2026",
+    "id_str": "2087245196866265495",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Introducing Grok Bot https://t.co/bhgHp1Vkhv",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2087237549215698949",
+    "time": "2026-08-12 01:59",
+    "created_at": "Tue Aug 11 17:59:45 +0000 2026",
+    "id_str": "2087237549215698949",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Datadog CISO Emilio Escobar on Securing Agents at Scale\n\nIn this conversation, Emilio Escobar joins a16z's Joel de la Garza at Black Hat to cover what happens when you hand coding agents to 4,000 engineers, why the permissioning that worked for a decade broke the moment agents https://t.co/GljHhExRqY",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2087246629124575511",
+    "time": "2026-08-12 02:35",
+    "created_at": "Tue Aug 11 18:35:50 +0000 2026",
+    "id_str": "2087246629124575511",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How cute is the edit of my photo 🥹✨",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087236533514350975",
+    "time": "2026-08-12 01:55",
+    "created_at": "Tue Aug 11 17:55:43 +0000 2026",
+    "id_str": "2087236533514350975",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Interesting part is that asking to respect AI creators is a controversial subject nowadays!",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087238406275281221",
+    "time": "2026-08-12 02:03",
+    "created_at": "Tue Aug 11 18:03:09 +0000 2026",
+    "id_str": "2087238406275281221",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I love seeing over 60 creators being sponsored by Adobe Ambassadors program. When I joined Adobe 3 years ago I advocated for this program. I will keep recommending the best creators to be included. And I hope to see you in person at Adobe MAX in November",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087238992295014843",
+    "time": "2026-08-12 02:05",
+    "created_at": "Tue Aug 11 18:05:29 +0000 2026",
+    "id_str": "2087238992295014843",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Anthropic is adding invisible watermarks to text from new Claude models.\n\nSo will I. From now I’ll add twice as many very visible spelling mistakes (gift pf dyslexia)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087239829855596944",
+    "time": "2026-08-12 02:08",
+    "created_at": "Tue Aug 11 18:08:49 +0000 2026",
+    "id_str": "2087239829855596944",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A spot in a Pilates class 😅🤭\n\nOf all the good things it could get for us, it chose.. torture",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087244083752272160",
+    "time": "2026-08-12 02:25",
+    "created_at": "Tue Aug 11 18:25:43 +0000 2026",
+    "id_str": "2087244083752272160",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Past month was a rollercoaster for me.\nBut every day I found an escape in creating this animation I am about to share with you. It's the longest I worked on: two minutes and twenty four seconds. \n\nThere were moments when it was heavy and hard and this animation kept me going. https://t.co/6iljQWElx8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087249778778189908",
+    "time": "2026-08-12 02:48",
+    "created_at": "Tue Aug 11 18:48:21 +0000 2026",
+    "id_str": "2087249778778189908",
+    "is_retweet": false
+  }
+]
