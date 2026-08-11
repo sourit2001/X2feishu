@@ -20,6 +20,28 @@ def completion(content, finish_reason="stop"):
 
 
 class DigestTests(unittest.TestCase):
+    def test_build_unified_prompt_prioritizes_source_grounded_human_writing(self):
+        prompt = digest.build_unified_prompt(
+            {
+                "测试博主": {
+                    "username": "tester",
+                    "tweets": [
+                        {
+                            "time": "2026-08-01 10:00",
+                            "text": "发布了一个工具。",
+                            "url": "https://x.com/tester/status/1",
+                        }
+                    ],
+                }
+            }
+        )
+
+        self.assertIn("不要编造推文没有提到的场景、动机、心理", prompt)
+        self.assertIn("推文信息较少时可以少写", prompt)
+        self.assertIn("不要添加“今日深度洞察”“结语”", prompt)
+        self.assertNotIn("用讲故事和行业观察的方式", prompt)
+        self.assertNotIn("为什么值得关注", prompt)
+
     @patch("digest.OpenAI")
     def test_generate_summary_disables_thinking_and_retries_empty_content(self, openai):
         create = openai.return_value.chat.completions.create
