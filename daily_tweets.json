@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try out Grok 4.6!\n\nDouble your tokens for next 7 days.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2087601785833951705",
+    "time": "2026-08-13 02:07",
+    "created_at": "Wed Aug 12 18:07:06 +0000 2026",
+    "id_str": "2087601785833951705",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try out Grok @Bot",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2087602469778166195",
+    "time": "2026-08-13 02:09",
+    "created_at": "Wed Aug 12 18:09:49 +0000 2026",
+    "id_str": "2087602469778166195",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SERobinsonJr: SPACEXAI: Grok 4.6 leads on the two strongest knowledge-work / real-world productivity benchmarks (GDPVal-AA and AA-Brief…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2087602571687178700",
+    "time": "2026-08-13 02:10",
+    "created_at": "Wed Aug 12 18:10:13 +0000 2026",
+    "id_str": "2087602571687178700",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @paranoidream: In case you missed it yesterday, here is the full video of Elon Musk giving a company update on the future of SpaceX: htt…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2087602782127915153",
+    "time": "2026-08-13 02:11",
+    "created_at": "Wed Aug 12 18:11:03 +0000 2026",
+    "id_str": "2087602782127915153",
+    "is_retweet": true
+  }
+]
