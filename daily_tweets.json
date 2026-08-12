@@ -1,1 +1,200 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I didn’t know Leopold was a fellow MLCC bottleneck investor in Taiyo Yuden (6976)\n\nIt’s been disclosed today that Situational Awareness owns 5.99% of the company with a ~ ¥17,446/share avg as of June 29th. \n\nCurrent prices are ¥9,797. \n\nI actually added some today to show support https://t.co/lYg0XmfXZM",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2087357522093260938",
+    "time": "2026-08-12 09:56",
+    "created_at": "Wed Aug 12 01:56:29 +0000 2026",
+    "id_str": "2087357522093260938",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "《影之刃零》的发售预告来了，太牛逼了！那个人居然是甄子丹。 https://t.co/COdKS3aWv6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2087365195580792900",
+    "time": "2026-08-12 10:26",
+    "created_at": "Wed Aug 12 02:26:58 +0000 2026",
+    "id_str": "2087365195580792900",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这里的老登代表的更多是心态不是年龄😜",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2087377114446041142",
+    "time": "2026-08-12 11:14",
+    "created_at": "Wed Aug 12 03:14:20 +0000 2026",
+    "id_str": "2087377114446041142",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我是能不用worktree就不用worktree，要么不同任务用branch分支，要么就直接同一个分支多任务，一般不太用担心冲突，首先只要任务类型不一样冲突可能性较小。\n\n另外现在 Harness 比如说 Claude Code、Codex 都很聪明，遇到冲突会等另一个执行完。\n\n使用 worktree 主要是在做耗时较长的 PoC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2087377704286847246",
+    "time": "2026-08-12 11:16",
+    "created_at": "Wed Aug 12 03:16:40 +0000 2026",
+    "id_str": "2087377704286847246",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Interesting research suggests caution in determining which AI company is winning by looking at any one source..\n\nOpenRouter seems to show open weights winning over time, but work submitted to Pangram is overwhelmingly by ChatGPT or increasingly, Claude. https://t.co/X0tkAE4P39 https://t.co/c4VOwGaQWC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2087368598465745360",
+    "time": "2026-08-12 10:40",
+    "created_at": "Wed Aug 12 02:40:29 +0000 2026",
+    "id_str": "2087368598465745360",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @RoundtableSpace: GrokBot just launched as Cursor and SpaceX's general agent platform for Desktop and iOS with cloud computer, agent-to-…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2087376257285509257",
+    "time": "2026-08-12 11:10",
+    "created_at": "Wed Aug 12 03:10:55 +0000 2026",
+    "id_str": "2087376257285509257",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "感谢！❤️",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2087368361428865349",
+    "time": "2026-08-12 10:39",
+    "created_at": "Wed Aug 12 02:39:33 +0000 2026",
+    "id_str": "2087368361428865349",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google I/O 大会\n\n来中国了…\n\n有在现场的兄弟吗？ https://t.co/qbRcWWwaZQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2087351272206893393",
+    "time": "2026-08-12 09:31",
+    "created_at": "Wed Aug 12 01:31:39 +0000 2026",
+    "id_str": "2087351272206893393",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "在Google IO大会上介绍百度使用Google的技术和服务😂 https://t.co/x9YAM6IiR3",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2087353252149129594",
+    "time": "2026-08-12 09:39",
+    "created_at": "Wed Aug 12 01:39:31 +0000 2026",
+    "id_str": "2087353252149129594",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @grok: @seclink @lmsysorg 有工业意义，非纯研究。SGLang（Apache-2.0开源，LMSYS出品）生产级特性，解决混合模型（FULL+SWA+Mamba，如DeepSeek-V4、Qwen hybrid）前缀缓存类爆炸问题。\n\n工业场景：多…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2087355182200012969",
+    "time": "2026-08-12 09:47",
+    "created_at": "Wed Aug 12 01:47:11 +0000 2026",
+    "id_str": "2087355182200012969",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @grok: @seclink @gabepereyra @sequoia @harvey 有工业意义，非纯研究。\n\n从场景看：针对律所真实长程工作流（M&amp;A尽调年花费约50-200亿美元等），用专家rubric评估agent端到端交付（草稿、尽调memo等），指导pos…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2087360178073243854",
+    "time": "2026-08-12 10:07",
+    "created_at": "Wed Aug 12 02:07:02 +0000 2026",
+    "id_str": "2087360178073243854",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "冷知识：\n\n很多时候，大公司招人也是一波一波的。不同公司短期需要的人才不一样，要是你能踩准大公司的招人节奏，很多时候无视学历无视实际积累能力，也能轻松拿到高薪，超越大部分普通人，譬如：\n1.  最近， 月之暗面 的 市场营销（ 尤其海外用户增长运营方面）很缺人，基本点就送 offer。\n2.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2087363482316603401",
+    "time": "2026-08-12 10:20",
+    "created_at": "Wed Aug 12 02:20:10 +0000 2026",
+    "id_str": "2087363482316603401",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "经常刷一刷 https://t.co/a0poG1a1s9 ，你就知道大公司缺什么样的人才.\n\n不要羡慕那些‘幸运儿’，某些人在班级里成绩中等，平平无奇，好像也没那么勤奋努力，为啥就总能拿到大厂的‘人才计划’ 和 ‘天才计划’，成为班里的顶尖收入的人才。\n\n大道至简，凡事向内求，多思考自己是否真的用尽了全力,.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2087370471885213902",
+    "time": "2026-08-12 10:47",
+    "created_at": "Wed Aug 12 02:47:56 +0000 2026",
+    "id_str": "2087370471885213902",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "分享两个零经验入行高薪领域的机会，手慢无：\n\n1. 阿里巴巴招 强化学习RL算法实习生 ， 负责 长程任务数据集合成，普通硕士就能做。\n2. 阿里巴巴招 代码 Agent 方向实习生， 负责 自进化的code Agent 开发，普通硕士就能做。\n\n面试之前，建议分析和看一看 \nhttps://t.co/tIUJfjFZBx https://t.co/WXmV2zOzaX",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2087374573314744660",
+    "time": "2026-08-12 11:04",
+    "created_at": "Wed Aug 12 03:04:14 +0000 2026",
+    "id_str": "2087374573314744660",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "同样是收集长程任务样本这个目标，不同厂方案不一样：\n\n1. 阿里选择招实习生来做数据合成；\n2. 字节采用找外包专家来项目制构建不同语言数据；\n3. 腾讯选择codebuddy 限时免费，然后从用户 code 数据里清洗长程任务数据；",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2087377633449595012",
+    "time": "2026-08-12 11:16",
+    "created_at": "Wed Aug 12 03:16:24 +0000 2026",
+    "id_str": "2087377633449595012",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "AI artists: making things, having fun, existing peacefully. Unforgivable.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087377415341228302",
+    "time": "2026-08-12 11:15",
+    "created_at": "Wed Aug 12 03:15:32 +0000 2026",
+    "id_str": "2087377415341228302",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Every ending pours into a new beginning... Keep going https://t.co/IpKljTFYEJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2087387101339746521",
+    "time": "2026-08-12 11:54",
+    "created_at": "Wed Aug 12 03:54:01 +0000 2026",
+    "id_str": "2087387101339746521",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "More people keep choosing TRON.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2087386734783021372",
+    "time": "2026-08-12 11:52",
+    "created_at": "Wed Aug 12 03:52:33 +0000 2026",
+    "id_str": "2087386734783021372",
+    "is_retweet": false
+  }
+]
