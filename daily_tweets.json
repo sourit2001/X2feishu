@@ -53,5 +53,82 @@
     "created_at": "Thu Aug 13 16:37:02 +0000 2026",
     "id_str": "2087941507059945843",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我只是作为一个“普通用户”的角度去用 DeepSeek Harness，一些感受：\n\n1. 启动方式偏极客，程序员没问题，但是普通用户估计都没有nodejs环境，很难跑起来\n\n2. 速度飞快，这点特别好\n\n3. Thinking 部分由于 Flash https://t.co/TK5JcZucpR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2087953969498706138",
+    "time": "2026-08-14 01:26",
+    "created_at": "Thu Aug 13 17:26:33 +0000 2026",
+    "id_str": "2087953969498706138",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: Learn 99% of ChatGPT Work in 61 minutes:\n\nGPT Work is like Codex in the cloud. \nIt works on phone, web, and desktop.\nAnd I'…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2087956852843712996",
+    "time": "2026-08-14 01:38",
+    "created_at": "Thu Aug 13 17:38:00 +0000 2026",
+    "id_str": "2087956852843712996",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "someone just open-sourced something that quietly rewrites how a lean team operates.\n\nit's called Buzz. 25.9k stars already, Apache 2.0, a workspace where your AI agents work as real teammates, not bots you poke from outside.\n\nchat, search, Git, and workflows in 1 log you own. you https://t.co/VdlNv4j7O8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2087954852450390349",
+    "time": "2026-08-14 01:30",
+    "created_at": "Thu Aug 13 17:30:03 +0000 2026",
+    "id_str": "2087954852450390349",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://t.co/5RXglwhp8Y",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2087954864953520509",
+    "time": "2026-08-14 01:30",
+    "created_at": "Thu Aug 13 17:30:06 +0000 2026",
+    "id_str": "2087954864953520509",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "but 10 agents still ship generic work if the system prompt behind each one is generic. the tool gives them access. the prompt gives them judgment.\n\nhere's how to write that prompt:\n\nhttps://t.co/yDNs1bT1CP",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2087954876827586841",
+    "time": "2026-08-14 01:30",
+    "created_at": "Thu Aug 13 17:30:09 +0000 2026",
+    "id_str": "2087954876827586841",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://t.co/QbTXyXRlOk\n\nfollow if you're wiring up AI agents and want each one to ship like a senior teammate, not a demo.\nchat, search, Git, and automation all live in 1 place, on a relay you host yourself. every message, code patch, review, and",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2087954888986869866",
+    "time": "2026-08-14 01:30",
+    "created_at": "Thu Aug 13 17:30:12 +0000 2026",
+    "id_str": "2087954888986869866",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z GP Andy McCall on advice for starting a sales career, and the hire founders wait too long to make:\n\n\"I made this mistake early in my career. I was chasing where can I make the most commission... At the end of the day, none of that matters.\"\n\n\"You want to find the great https://t.co/2A99swqSrx",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2087958743942316498",
+    "time": "2026-08-14 01:45",
+    "created_at": "Thu Aug 13 17:45:31 +0000 2026",
+    "id_str": "2087958743942316498",
+    "is_retweet": false
   }
 ]
