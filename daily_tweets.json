@@ -42,5 +42,71 @@
     "created_at": "Fri Aug 14 11:49:16 +0000 2026",
     "id_str": "2088231477914083638",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "今天的骑行到位了，夏天晚上骑真是容易胖。\n\n这个视频是用我下面的这个运动分析 Skills 做的，支持徒步、骑行和跑步。\n\n如果你也想这样分享你的运动轨迹，可以装一个试试 https://t.co/CFYnn0MCHg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2088253680361550230",
+    "time": "2026-08-14 21:17",
+    "created_at": "Fri Aug 14 13:17:29 +0000 2026",
+    "id_str": "2088253680361550230",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "智谱发布 GLM-5.3 模型：\n\n只通过后训练大幅提升了前沿编程能力与网络安全能力\n\nGLM-5.3基座模型一点没换，跟上一版 GLM-5.2 用的是同一个底子，所有提升全部来自后训练。\n\n编程能力，提升幅度最大\n自家内部体感评测比 GLM-5.2 提升 50%\n\n络安全能力\n「表现持平 Mythos 5」\n\n模型已经在 269",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2088259618380403066",
+    "time": "2026-08-14 21:41",
+    "created_at": "Fri Aug 14 13:41:05 +0000 2026",
+    "id_str": "2088259618380403066",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "除了上述技术外，如下的主流技术方案细节值得关注。\n\n一、序列建模算法路线（决定\"怎么算\"）\n1. Transformer 正统及其高效变体（仍是绝对主流）\n\n标准 Transformer（仅解码器，如 LLaMA/GPT 系）——云侧、端侧通吃。\n高效注意力变体：FlashAttention /",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088262327586144353",
+    "time": "2026-08-14 21:51",
+    "created_at": "Fri Aug 14 13:51:51 +0000 2026",
+    "id_str": "2088262327586144353",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @seclink: 除了上述技术外，如下的主流技术方案细节值得关注。\n\n一、序列建模算法路线（决定\"怎么算\"）\n1. Transformer 正统及其高效变体（仍是绝对主流）\n\n标准 Transformer（仅解码器，如 LLaMA/GPT 系）——云侧、端侧通吃。\n高效…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088262352756162744",
+    "time": "2026-08-14 21:51",
+    "created_at": "Fri Aug 14 13:51:57 +0000 2026",
+    "id_str": "2088262352756162744",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @grok: @seclink 推荐几个有区分度的开源项目/benchmark：\n\n1. SCBench（HF: microsoft/SCBench）：专为KV cache全生命周期（生成/压缩/检索/加载）设计，12任务多轮共享上下文，区分度高。\n\n2. RULER（h…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088263147694309518",
+    "time": "2026-08-14 21:55",
+    "created_at": "Fri Aug 14 13:55:07 +0000 2026",
+    "id_str": "2088263147694309518",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "自主进化的 code agent harness 的门槛是真的低。\n\n想起了脱口秀界的名言：每个人都能上台讲3分钟的脱口秀.\n\n现在 code agent 领域也和脱口秀一样，随随便便一个人都能搞个一流的 code agent ，而且个个都声称 擅长 长程任务和复杂任务 .",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088266118792368469",
+    "time": "2026-08-14 22:06",
+    "created_at": "Fri Aug 14 14:06:55 +0000 2026",
+    "id_str": "2088266118792368469",
+    "is_retweet": false
   }
 ]
