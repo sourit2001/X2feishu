@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这篇 Pi 压缩的文章，太过于朴实无华，就真的只是写个 prompt 让 LLM 把上下文总结一下，然后保留前面的system prompt 和工具调用，在摘要后可能还会保留最近几次对话。\n\n这种压缩是有损的，不知道是不是有机制会去历史会话检索上下文？\n\n当然这确实是压缩上下文的最简单有效方案。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2088330456022311109",
+    "time": "2026-08-15 02:22",
+    "created_at": "Fri Aug 14 18:22:34 +0000 2026",
+    "id_str": "2088330456022311109",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "RT @martin_casado: 🚀Thank you Cursor for the honor of a career to work together. You changed how software is written. While I'm sad to step…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/venturetwins/status/2088334614217867478",
+    "time": "2026-08-15 02:39",
+    "created_at": "Fri Aug 14 18:39:06 +0000 2026",
+    "id_str": "2088334614217867478",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"We are in a market that's had an iPod moment, and it's gonna have an iPhone moment, and another iPhone moment.\"\n\nMichael Truell on why AI coding is nowhere near finished:\n\n\"Despite the headlines, despite how much demand there is in this market, it's so far away from being https://t.co/4qqRM1WUz8",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2088329877477032059",
+    "time": "2026-08-15 02:20",
+    "created_at": "Fri Aug 14 18:20:16 +0000 2026",
+    "id_str": "2088329877477032059",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Good bye, New York! ✈️ https://t.co/pD5hxpZN0Q",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088327145533640904",
+    "time": "2026-08-15 02:09",
+    "created_at": "Fri Aug 14 18:09:25 +0000 2026",
+    "id_str": "2088327145533640904",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I see AI everywhere in New York \nThis is probably one of the most unexpected places, so many questions https://t.co/PujzBitibr",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088333367003492724",
+    "time": "2026-08-15 02:34",
+    "created_at": "Fri Aug 14 18:34:08 +0000 2026",
+    "id_str": "2088333367003492724",
+    "is_retweet": false
+  }
+]
