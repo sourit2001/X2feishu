@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @a16z: \"Cursor and SpaceXAI are a deep cultural fit with one another. They both work with a pace and intensity that borders on the absur…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2088302714576896342",
+    "time": "2026-08-15 00:32",
+    "created_at": "Fri Aug 14 16:32:20 +0000 2026",
+    "id_str": "2088302714576896342",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "智谱发了一篇关于他们为 GLM-5.3 开源发布做准备的文章，主要是关于他们开源模型的网络防御观点：\n\n网络防御能力不应该掌握在少数资源雄厚的机构手中，开源维护者、独立开发者和小型团队同样需要这些工具。\n\n这次 5.3 版本大幅强化了网络安全任务的能力。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2088304412657901833",
+    "time": "2026-08-15 00:39",
+    "created_at": "Fri Aug 14 16:39:05 +0000 2026",
+    "id_str": "2088304412657901833",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Travis Kalanick says new media is why he's back after eight years of silence:\n\n\"The media landscape 10 years ago, 90% of what was said was very negative. Business had become politics, and we didn't know it... If it bleeds, it leads, right?\"\n\n\"Now the media landscape is like, https://t.co/Xb4MKiIbxq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2088299152212111602",
+    "time": "2026-08-15 00:18",
+    "created_at": "Fri Aug 14 16:18:11 +0000 2026",
+    "id_str": "2088299152212111602",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "All my em dashes are human written",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088295753005322466",
+    "time": "2026-08-15 00:04",
+    "created_at": "Fri Aug 14 16:04:40 +0000 2026",
+    "id_str": "2088295753005322466",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @goo_vision: Floral Support System https://t.co/MpVyfxAnyS",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088303468725375314",
+    "time": "2026-08-15 00:35",
+    "created_at": "Fri Aug 14 16:35:20 +0000 2026",
+    "id_str": "2088303468725375314",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Another one.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2088294977243947375",
+    "time": "2026-08-15 00:01",
+    "created_at": "Fri Aug 14 16:01:35 +0000 2026",
+    "id_str": "2088294977243947375",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I’ve been itching to do another livestream. Going to jump on live on Tuesday. What should we deep-dive on? What should we test out?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/mreflow/status/2088295249768825085",
+    "time": "2026-08-15 00:02",
+    "created_at": "Fri Aug 14 16:02:40 +0000 2026",
+    "id_str": "2088295249768825085",
+    "is_retweet": false
+  }
+]
