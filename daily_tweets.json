@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Donald Trump signs a proclamation to strengthen US supply chains for drones.\n\nBenefiting U.S. drone component suppliers like $UMAC to UAS manufacturers like $ONDS + $RCAT. \n\n TLDR, 100% tariffs on:\n- UAS docking stations + certain critical components\n- certain parts for &gt;25 kg https://t.co/ZwHZtTp1Tq",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/aleabitoreddit/status/2088181416148562017",
+    "time": "2026-08-14 16:30",
+    "created_at": "Fri Aug 14 08:30:20 +0000 2026",
+    "id_str": "2088181416148562017",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "GLM-5.3 发布了，看了一下，着重提升的主要是两部分：\n\n1. 安全能力：看来 Hugging Face 在拿 GLM-5.2 防御了 OpenAI 的模型入侵以后，智谱也看到了这方面的价值，尤其是大家最近都在聊这块，他们针对性地做了一些优化。\n\n2. 长程任务的执行： https://t.co/4Ia0qO7tLf",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2088180816128143829",
+    "time": "2026-08-14 16:27",
+    "created_at": "Fri Aug 14 08:27:57 +0000 2026",
+    "id_str": "2088180816128143829",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "15 张数据图帮你了解 DeepSeek Harness\n\n昨天 DeepSeek Harness 发布，于是就想着让 Codex 分析一下，找到了一个很好的角度，就是从一些数据上向大家介绍这个产品。\n\n确实也发现了一些很有意思的东西：\n\n插件系统与 Koishi 高度相似： 他们主打的插件系统与 Koishi 的插件平台相似度高达 https://t.co/hNXAgk9c6T",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2088199058313957734",
+    "time": "2026-08-14 17:40",
+    "created_at": "Fri Aug 14 09:40:27 +0000 2026",
+    "id_str": "2088199058313957734",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Google just dropped Gemini 3.7 Flash\n\nit's Google's cheap \"workhorse\" model, out just 3 weeks after 3.6 Flash. same 1M-token context, built for coding and agents at volume.\n\nwhere it actually got better:\n\n- web dev: 1588 elo on webdev arena, up from 1538. more complete apps in",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2088183222756892682",
+    "time": "2026-08-14 16:37",
+    "created_at": "Fri Aug 14 08:37:31 +0000 2026",
+    "id_str": "2088183222756892682",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "a cheap model copies exactly what you feed it, though. a vague brief builds a vague app. want it building like the demos? start here:\n\nhttps://t.co/74upFt9rJ1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2088183234811269354",
+    "time": "2026-08-14 16:37",
+    "created_at": "Fri Aug 14 08:37:34 +0000 2026",
+    "id_str": "2088183234811269354",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the expensive model isn't the moat anymore. the brief is.\n\nthe rest of the library is at https://t.co/QbTXyXRlOk\n\nfollow if you're building with cheap models and want the output to look expensive.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2088183246551220487",
+    "time": "2026-08-14 16:37",
+    "created_at": "Fri Aug 14 08:37:37 +0000 2026",
+    "id_str": "2088183246551220487",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "DeepSeek just open-sourced its own agent harness, built on 1 idea: everything is a plugin.\n\nit's called DeepSeek Harness (dsh), out now as a v0.1 developer preview. the model, tools, skills, memory, sandbox, loops, and even the UI are all plugins. swap or replace any of them",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2088188927555604810",
+    "time": "2026-08-14 17:00",
+    "created_at": "Fri Aug 14 09:00:11 +0000 2026",
+    "id_str": "2088188927555604810",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "if you're building your own agents, start here:\n\nhttps://t.co/FTrr6nlMQN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2088188940692197434",
+    "time": "2026-08-14 17:00",
+    "created_at": "Fri Aug 14 09:00:14 +0000 2026",
+    "id_str": "2088188940692197434",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://t.co/QbTXyXRlOk\n\nfollow if you're assembling your own agents and want them to ship real work, not demos.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2088188952335536218",
+    "time": "2026-08-14 17:00",
+    "created_at": "Fri Aug 14 09:00:17 +0000 2026",
+    "id_str": "2088188952335536218",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "来了！Open Design 即将推出全新的 Go 订阅计划 🚀\n\n首月只要 5 美元，就能在 Open Design 畅享 DeepSeek V4 Pro 等 8 款热门模型，不用配置 API Key，开箱即用。更便宜、更简单，让更多人都能用上设计智能。 https://t.co/RXp0trLteb",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2088183404324171807",
+    "time": "2026-08-14 16:38",
+    "created_at": "Fri Aug 14 08:38:14 +0000 2026",
+    "id_str": "2088183404324171807",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "加入我们的飞书群或者Discord来了解更多资讯，第一时间享受各种优惠福利及资源！\nDiscord👉https://t.co/dg2Y587I9R\n飞书👉 https://t.co/UmF7ovvPY7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2088183409990615491",
+    "time": "2026-08-14 16:38",
+    "created_at": "Fri Aug 14 08:38:16 +0000 2026",
+    "id_str": "2088183409990615491",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "RT @trondao: #TRON’s latest network upgrade is here. 🔨\n\nGreatVoyage-v4.8.2 brings new updates designed to strengthen compatibility and supp…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2088194740697379121",
+    "time": "2026-08-14 17:23",
+    "created_at": "Fri Aug 14 09:23:17 +0000 2026",
+    "id_str": "2088194740697379121",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "HTX is No.8 @HuobiGlobal @HTX_Global",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2088201158523515175",
+    "time": "2026-08-14 17:48",
+    "created_at": "Fri Aug 14 09:48:47 +0000 2026",
+    "id_str": "2088201158523515175",
+    "is_retweet": false
+  }
+]
