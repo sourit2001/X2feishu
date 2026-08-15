@@ -9,5 +9,49 @@
     "created_at": "Sat Aug 15 07:50:20 +0000 2026",
     "id_str": "2088533737390682302",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @ewind_dev: 我可以讲清楚这种启发具体是什么。\n\n所谓 “一切皆插件” 至少有三四种不同的架构含义，很多人会将其误解为类似 Webpack 和 Pi 中的 hook 模式，或 VSCode 中在主创团队决策下开放给第三方的插件场景。\n\n然而我对 DSH 插件架构…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2088546892841910691",
+    "time": "2026-08-15 16:42",
+    "created_at": "Sat Aug 15 08:42:37 +0000 2026",
+    "id_str": "2088546892841910691",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @QuantumTransf: deepseek harness 文章已更新（https://t.co/Vwnt9nMaYp） \ndsh 内部的心智模型其实没那么简单，我在写这篇文章的时候也挣扎了很久；不过，对于写一个插件的人来说，却没有那么复杂。 文章有对此阐述，「复杂…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2088547300352147702",
+    "time": "2026-08-15 16:44",
+    "created_at": "Sat Aug 15 08:44:14 +0000 2026",
+    "id_str": "2088547300352147702",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "关键词，有兴趣的朋友可以自行查询：\n\nRLHF -&gt; RLAIF -&gt; RLTHF 。\n\n2025年开始就 RLTHF 了 , 专家工时砍掉 93% 。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088548769772294187",
+    "time": "2026-08-15 16:50",
+    "created_at": "Sat Aug 15 08:50:04 +0000 2026",
+    "id_str": "2088548769772294187",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Sunrise from the plane above Norway https://t.co/IGyYkms3q0",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088542164368195885",
+    "time": "2026-08-15 16:23",
+    "created_at": "Sat Aug 15 08:23:49 +0000 2026",
+    "id_str": "2088542164368195885",
+    "is_retweet": false
   }
 ]
