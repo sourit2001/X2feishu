@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "deekseek harness 在招人，帮转.\n现在很缺人，接受0经验（ harness领域本来 水浅王八多 ，大一大二的新人稍微有一点灵性，简单培训 0.5 人日就能自助上手了）",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088560659797860529",
+    "time": "2026-08-15 17:37",
+    "created_at": "Sat Aug 15 09:37:19 +0000 2026",
+    "id_str": "2088560659797860529",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "都是 AI 自动写代码， 人只需要 不断按回车就好 ...\n不要被学历吓唬到，这玩意儿不需要博士硕士都能做的很好.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088560942955327782",
+    "time": "2026-08-15 17:38",
+    "created_at": "Sat Aug 15 09:38:27 +0000 2026",
+    "id_str": "2088560942955327782",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "唯一门槛就是 算力 + GPU 卡，  \n技术上没门槛 ，薄薄的一层窗户纸，普通人一学就会。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088562018014171595",
+    "time": "2026-08-15 17:42",
+    "created_at": "Sat Aug 15 09:42:43 +0000 2026",
+    "id_str": "2088562018014171595",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "今天读了一下 小红书 开源的 大模型权重 和 方法 的论文有一下亮点：\n\n1.  反复强调用 了 11.2 T 的真实、非合成高质量数据。\n\n2.  三阶段数据处理 + 数据飞轮 （初筛、精筛 、 多样性配调）\n\n3. 多模态标注：重度依赖 OCR ，定位（grounding） 、 图表、公式、多语言结构化标注。\n\n280B/16B 多模态",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088569637395190071",
+    "time": "2026-08-15 18:12",
+    "created_at": "Sat Aug 15 10:12:59 +0000 2026",
+    "id_str": "2088569637395190071",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "先提升广度，再提升深度",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2088566147147063390",
+    "time": "2026-08-15 17:59",
+    "created_at": "Sat Aug 15 09:59:07 +0000 2026",
+    "id_str": "2088566147147063390",
+    "is_retweet": false
+  }
+]
