@@ -31,5 +31,27 @@
     "created_at": "Sun Aug 16 20:03:56 +0000 2026",
     "id_str": "2089080740851961956",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "已经有移除文本水印的开源项目了\nhttps://t.co/gvgLMPhVdC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2089090706023346452",
+    "time": "2026-08-17 04:43",
+    "created_at": "Sun Aug 16 20:43:32 +0000 2026",
+    "id_str": "2089090706023346452",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Tibo 分享了 Codex 开启 1M 上下文的方法。不过我不是很有动力去修改，感觉当前还挺流畅的，我相信他们已经针对这个上下文调优过，只要压缩得当，上下文短一些性能会更好也更便宜。\n\n具体方法很简单，只要在 ~/.codex/config.toml 中设置：\n\n```\nmodel = \"gpt-5.6-sol\"\nmodel_context_window = 1000000",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2089094793078952339",
+    "time": "2026-08-17 04:59",
+    "created_at": "Sun Aug 16 20:59:46 +0000 2026",
+    "id_str": "2089094793078952339",
+    "is_retweet": false
   }
 ]
