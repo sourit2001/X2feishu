@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I’ll bite, what is this?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2088831928463921414",
+    "time": "2026-08-16 11:35",
+    "created_at": "Sun Aug 16 03:35:15 +0000 2026",
+    "id_str": "2088831928463921414",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "当时国内外都没有这么全的数据 （ 那个数据集里，很多已知的0day 无 CVE ） .\n\n这种网络安全的‘钻石矿’数据，经过这么多年发展，只多不少.\n\n2026年了，我看到一些 乙方公司 挖漏洞方面还在古法复现漏洞 和 古法人肉review代码。\n\n还有公司号 / 安全培训机构号 在公众号之中",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088813940017098900",
+    "time": "2026-08-16 10:23",
+    "created_at": "Sun Aug 16 02:23:46 +0000 2026",
+    "id_str": "2088813940017098900",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "方法就这么个方法，中小公司 （尤其想训自己的安全大模型），如果 不买 这些安全数据。\n\n安全数据标注 ，安全数据对齐  方面， 想要自建， 600万肯定不够你造，不仅人员成本，设备成本，时间成本，安全专家人才（不是 0基础人员）这么贵，600万要价其实是低了的。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088815923851649178",
+    "time": "2026-08-16 10:31",
+    "created_at": "Sun Aug 16 02:31:39 +0000 2026",
+    "id_str": "2088815923851649178",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "We just shipped JSEF v1.4.0-benchmark 🚀\nA Spring Boot 3.x Java vuln-mining benchmark, now +85 samples (503→588 checkpoints), all passing dual-source validation.\nMapped to OWASP BenchmarkJava, java-sec-code, JavaSecLab, micro_service_seclab, WebGoat &amp; CodeQL.\nSSRF, JWT, IDOR,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088820781551870397",
+    "time": "2026-08-16 10:50",
+    "created_at": "Sun Aug 16 02:50:57 +0000 2026",
+    "id_str": "2088820781551870397",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "1/ What's JSEF? A Spring Boot 3.x security-teaching framework + a benchmark for evaluating SAST tools &amp; LLM vuln-finding. Every sample carries a machine-readable // [CHECKPOINT] + CSV pair with a hard gate (validate exits 0 or it's not\n  done).",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088820857934393471",
+    "time": "2026-08-16 10:51",
+    "created_at": "Sun Aug 16 02:51:15 +0000 2026",
+    "id_str": "2088820857934393471",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "2/ This release closes gaps vs 5 top Java vuln benchmarks + CodeQL's Java query suite. New categories:\n  • SSRF, JWT, open-redirect, CRLF\n  • weak randomness/crypto, IDOR, missing authz, race conditions\n  • Log4j2 JNDI, Shiro, Fastjson, XStream/Jackson/SnakeYAML",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088820901806801033",
+    "time": "2026-08-16 10:51",
+    "created_at": "Sun Aug 16 02:51:26 +0000 2026",
+    "id_str": "2088820901806801033",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "3/ Bonus for SAST eval: 13 \"looks-vuln-but-safe\" FP-trap samples (generic numeric SQL, MyBatis #{}, allowlist paths, htmlEscape…) so tools are scored on false positives too — true TN/FP, not just recall.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088820956475302017",
+    "time": "2026-08-16 10:51",
+    "created_at": "Sun Aug 16 02:51:39 +0000 2026",
+    "id_str": "2088820956475302017",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "4/ Safety-first: component CVE samples only show the dangerous trigger + safe config. No exploit payloads, no live JNDI/gadget chains. Every vuln ships with a sec fix counterpart.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088821003556368582",
+    "time": "2026-08-16 10:51",
+    "created_at": "Sun Aug 16 02:51:50 +0000 2026",
+    "id_str": "2088821003556368582",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "5/ All 588 checkpoints pass validate_checkpoints.py (0 orphans / duplicates / drift). Try it: python3 benchmark/scripts/scorecard.py\n  Full notes 👉 https://t.co/lBeV7mWnRE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088821053472796734",
+    "time": "2026-08-16 10:52",
+    "created_at": "Sun Aug 16 02:52:02 +0000 2026",
+    "id_str": "2088821053472796734",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "推特 和 微博的区别是，\n\n在推特，你如果长期关注 AI 相关 和 点评 AI相关 ， timeline 真的会给你推 AI相关的 初创公司 ， AI新论文 ，AI新产品。\n\n而在 微博 ， 永远都只会给你推垃圾营销 （ 脱发 、 中药 、 明星八卦 、 周边娱乐 、 无聊洗脑新闻【那种跪舔文】 ） ，商业卖产品文 ，",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2088828075442409543",
+    "time": "2026-08-16 11:19",
+    "created_at": "Sun Aug 16 03:19:56 +0000 2026",
+    "id_str": "2088828075442409543",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It was absolutely incredible to see “Scream” by Munch in Oslo \n\nThe museum shows 3 versions of the Scream:\na lithograph, a drawing and a painting.\nEach is shown in rotation for 30 min and then hidden from light to preserve it longer\n\nI feel so inspired to create now https://t.co/3DMawTjZSO",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088821126495367237",
+    "time": "2026-08-16 10:52",
+    "created_at": "Sun Aug 16 02:52:19 +0000 2026",
+    "id_str": "2088821126495367237",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Thank you all for supporting my content while I travel and explore this world. \n\nI made a change recently what and how I share and you all resonated. \n\nWe need to support each other and share more honestly. Artists are inseparable from their art and community. https://t.co/GVnueiF7IE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088822403904279003",
+    "time": "2026-08-16 10:57",
+    "created_at": "Sun Aug 16 02:57:24 +0000 2026",
+    "id_str": "2088822403904279003",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Most of the time the comments are more entertaining and enlightening than the post",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088823973345698052",
+    "time": "2026-08-16 11:03",
+    "created_at": "Sun Aug 16 03:03:38 +0000 2026",
+    "id_str": "2088823973345698052",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Focus your energy on something you’re excited about, something you actually enjoy. If it involves using AI in your creative process, it’s okay",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2088824260672254381",
+    "time": "2026-08-16 11:04",
+    "created_at": "Sun Aug 16 03:04:46 +0000 2026",
+    "id_str": "2088824260672254381",
+    "is_retweet": false
+  }
+]
