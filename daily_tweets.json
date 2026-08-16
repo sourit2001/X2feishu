@@ -64,5 +64,49 @@
     "created_at": "Sun Aug 16 05:50:10 +0000 2026",
     "id_str": "2088865884848677076",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @MyWestLord: Elon Musk stood in a Hollywood living room in 2008, 12 days from bankruptcy, and pitched a $109,000 car to people who thoug…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2088876212718539256",
+    "time": "2026-08-16 14:31",
+    "created_at": "Sun Aug 16 06:31:13 +0000 2026",
+    "id_str": "2088876212718539256",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @SpaceX: Falcon 9’s first stage lands on the Of Course I Still Love You droneship https://t.co/XWTfEHhqJp",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2088876346227494962",
+    "time": "2026-08-16 14:31",
+    "created_at": "Sun Aug 16 06:31:45 +0000 2026",
+    "id_str": "2088876346227494962",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code （Claude Desktop）这个功能很好用，就是你5小时限制到了，可以自动继续，不只是主 Agent 到时间继续，子 Agent 到时间也会继续。不需要手工输入 return，也不需要重新开 subagent，可以重用之前的 subagent https://t.co/D7mbGSIKcw",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2088877534859473370",
+    "time": "2026-08-16 14:36",
+    "created_at": "Sun Aug 16 06:36:28 +0000 2026",
+    "id_str": "2088877534859473370",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @dongxi_nlp: 事实有据，权限有度。\n\nDeepSeek Harness，把边界写成契约。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2088880989938372847",
+    "time": "2026-08-16 14:50",
+    "created_at": "Sun Aug 16 06:50:12 +0000 2026",
+    "id_str": "2088880989938372847",
+    "is_retweet": true
   }
 ]
