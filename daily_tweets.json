@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://t.co/bjfFL2ecIi",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2089436710257959073",
+    "time": "2026-08-18 03:38",
+    "created_at": "Mon Aug 17 19:38:26 +0000 2026",
+    "id_str": "2089436710257959073",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Companies that don't implement agent-native interfaces and deep CLI-integration are going to lose. \n\nWhop has a CLI so you can give your agent context on all things rev-ops related, and with a partnership with XAI you're getting dirt-cheap yet frontier performance baked in.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2089445862720029170",
+    "time": "2026-08-18 04:14",
+    "created_at": "Mon Aug 17 20:14:48 +0000 2026",
+    "id_str": "2089445862720029170",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "A common thesis is software gets severely commoditized from here on out. Stripe's Will Gaybrick says their data shows the opposite:\n\n\"It's plausible. We're either in the singularity or creeping towards the singularity, and it's very hard to estimate what a future looks like where https://t.co/ZQfjZBYSpQ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2089433152569901080",
+    "time": "2026-08-18 03:24",
+    "created_at": "Mon Aug 17 19:24:18 +0000 2026",
+    "id_str": "2089433152569901080",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "RT @eriktorenberg: We're hiring again at New Media.\n\nOur team does storytelling for our firm and our companies (and in part, our industry)…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2089442218906153243",
+    "time": "2026-08-18 04:00",
+    "created_at": "Mon Aug 17 20:00:19 +0000 2026",
+    "id_str": "2089442218906153243",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@cdixon on \"Climbing the wrong hill\": https://t.co/sYYjcC1XmR",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2089444662788665436",
+    "time": "2026-08-18 04:10",
+    "created_at": "Mon Aug 17 20:10:02 +0000 2026",
+    "id_str": "2089444662788665436",
+    "is_retweet": false
+  }
+]
