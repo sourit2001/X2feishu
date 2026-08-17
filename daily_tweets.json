@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @minchoi: This is literally my new workflow now:\n\nRealtime Research → Grok Bot\nPlanning &amp; Orchestration→ Grok Bot\nDay-to-day Coding/Debu…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2089225952517828934",
+    "time": "2026-08-17 13:40",
+    "created_at": "Mon Aug 17 05:40:57 +0000 2026",
+    "id_str": "2089225952517828934",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @yunta_tsai: OMG. I asked my Chief Engineer on Grok @bot to bring up the feature and it's done. 😳\n\nI can text my @maticrobots now throug…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2089226389308498067",
+    "time": "2026-08-17 13:42",
+    "created_at": "Mon Aug 17 05:42:41 +0000 2026",
+    "id_str": "2089226389308498067",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As a single clip https://t.co/Ey51189vsW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2089228568236568666",
+    "time": "2026-08-17 13:51",
+    "created_at": "Mon Aug 17 05:51:21 +0000 2026",
+    "id_str": "2089228568236568666",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Here are 22 more gems according to the AI among my bookmarks\n\n1. Researchers compressed 4.1 million recipes into a two-megabyte model of human cooking.\n\nThe model spans seven languages and represents 1,790 ingredients in 300 dimensions. Beyond the technical achievement, it",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2089230774755086535",
+    "time": "2026-08-17 14:00",
+    "created_at": "Mon Aug 17 06:00:07 +0000 2026",
+    "id_str": "2089230774755086535",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Its interesting to see the experiments on how to give AI a computer: Codex &amp; Claude Code use your local machine, ChatGPT Work on the web (as well as Claude and ChatGPT) give the AI a one-time machine online that gets reset, and Grokbot gives each AI agent a persistent web machine",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2089233231853785118",
+    "time": "2026-08-17 14:09",
+    "created_at": "Mon Aug 17 06:09:53 +0000 2026",
+    "id_str": "2089233231853785118",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Eventually, one approach or another will become dominant. Each has current advantages and disadvantages.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2089233403426058676",
+    "time": "2026-08-17 14:10",
+    "created_at": "Mon Aug 17 06:10:34 +0000 2026",
+    "id_str": "2089233403426058676",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "DeepSeek 涨价事件对 Cola Token Plan 的影响：\n1.很不幸，DeepSeek 在用低价打完市场之后，选择了大幅涨价，缓存部分涨幅超过 12 倍，综合涨幅在 3-6倍，我们不得不对 Token Plan 的模型进行调整\n2.Flash 和 Lite",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2089229409198973141",
+    "time": "2026-08-17 13:54",
+    "created_at": "Mon Aug 17 05:54:41 +0000 2026",
+    "id_str": "2089229409198973141",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "应该没有人比我玩得开了吧🌸",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2089224519907176581",
+    "time": "2026-08-17 13:35",
+    "created_at": "Mon Aug 17 05:35:16 +0000 2026",
+    "id_str": "2089224519907176581",
+    "is_retweet": false
+  }
+]
