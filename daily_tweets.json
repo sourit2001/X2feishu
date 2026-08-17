@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "❤️",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2089416526894141748",
+    "time": "2026-08-18 02:18",
+    "created_at": "Mon Aug 17 18:18:14 +0000 2026",
+    "id_str": "2089416526894141748",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok 4.6 is smart, super fast &amp; affordable",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2089416747720061154",
+    "time": "2026-08-18 02:19",
+    "created_at": "Mon Aug 17 18:19:06 +0000 2026",
+    "id_str": "2089416747720061154",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "yetone 开源了一个新项目 Cumora：把 AI Agent 变成你的聊天群里的正式成员。\n\nCumora 的界面长得像 Slack，但名单上的同事看起来都是 AI。有名字、有人设、有记忆，能发私聊、能建群、能认领任务，甚至能收发真实邮件。你不 @ 它们，它们也可能主动跳出来说一句“我注意到上周那个问题还没解决”。 https://t.co/MWcga8pGOC",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2089404987587576191",
+    "time": "2026-08-18 01:32",
+    "created_at": "Mon Aug 17 17:32:22 +0000 2026",
+    "id_str": "2089404987587576191",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @Stephan_Talk: 这个问题其实还挺典型的，软件工程越来越重要这个观点我很赞同\n\n在以往的传统软件工程中，我们在写代码之前会先明确需求 -&gt; 架构设计 -&gt; 接口设计 -&gt; 模块实现 ... 这样的流程\n\n当下的 AI…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2089407162531430717",
+    "time": "2026-08-18 01:41",
+    "created_at": "Mon Aug 17 17:41:01 +0000 2026",
+    "id_str": "2089407162531430717",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Cursor 的代码托管平台 Origin 正式上线，用户可以从 GitHub 同步仓库开始使用。\n\nOrigin 简单说，就是 Cursor 自己做的 GitHub。代码存储、Git 托管、代码审查、团队协作，一站式解决。但它和 GitHub 最大的区别在于设计前提：GitHub",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2089412415108600221",
+    "time": "2026-08-18 02:01",
+    "created_at": "Mon Aug 17 18:01:53 +0000 2026",
+    "id_str": "2089412415108600221",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @agentnative_: SpaceX (Cursor) launches GitHub competitor.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2089404837242757127",
+    "time": "2026-08-18 01:31",
+    "created_at": "Mon Aug 17 17:31:47 +0000 2026",
+    "id_str": "2089404837242757127",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "NVIDIA just agreed to backstop the lease on a giant AI data center in Ohio.\nthe tenant is OpenAI. the chips inside are NVIDIA's.\n\nNVIDIA is partnering with SB Energy to secure land, power, and shell at the PORTS-Pike campus in Pike County, Ohio. SB Energy builds and operates it,",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2089416469851652388",
+    "time": "2026-08-18 02:18",
+    "created_at": "Mon Aug 17 18:18:00 +0000 2026",
+    "id_str": "2089416469851652388",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "here's why people are uneasy. NVIDIA is also investing $1.5 billion into SB Energy and backstopping part of the lease plus residual value, reportedly capped near $105 billion. it funds the landlord, guarantees the rent, and sells the chips.\n\nNVIDIA's answer is blunt. not",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2089416482291949865",
+    "time": "2026-08-18 02:18",
+    "created_at": "Mon Aug 17 18:18:03 +0000 2026",
+    "id_str": "2089416482291949865",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "strip the finance and the signal is simple. compute is now the bottleneck on intelligence, and the biggest players are locking up land and power for 20 years to get it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2089416494069506248",
+    "time": "2026-08-18 02:18",
+    "created_at": "Mon Aug 17 18:18:06 +0000 2026",
+    "id_str": "2089416494069506248",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "all of it is only worth something if you can get real output from the AI running on it, and most people still can't. that is a skill problem, not a hardware one.\n\nhere's the free guide to actually putting AI to work:\n\nhttps://t.co/FTrr6nlMQN",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2089416505813586338",
+    "time": "2026-08-18 02:18",
+    "created_at": "Mon Aug 17 18:18:09 +0000 2026",
+    "id_str": "2089416505813586338",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://t.co/QbTXyXRlOk\n\nfollow if you'd rather use AI well than just read about who's spending billions on it.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2089416517435998337",
+    "time": "2026-08-18 02:18",
+    "created_at": "Mon Aug 17 18:18:11 +0000 2026",
+    "id_str": "2089416517435998337",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Stripe's Will Gaybrick says AI agents will navigate the internet like hummingbirds, and that's what will make microtransactions work:\n\n\"If you're trying to sell an article, you're always gonna be squeezed between the subscriber business model and the free business model... I https://t.co/XU8Ksax0E1",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2089414172098630045",
+    "time": "2026-08-18 02:08",
+    "created_at": "Mon Aug 17 18:08:52 +0000 2026",
+    "id_str": "2089414172098630045",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Hiked for several hours to one of the most magical Norwegian forests on the mountain today. Absolutely inspired by nature! \n\nWhat’s the most memorable place you’ve been to? https://t.co/tx256b322W",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2089412821511475392",
+    "time": "2026-08-18 02:03",
+    "created_at": "Mon Aug 17 18:03:30 +0000 2026",
+    "id_str": "2089412821511475392",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "One day we’ll call AI artists just artists",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2089416164657050063",
+    "time": "2026-08-18 02:16",
+    "created_at": "Mon Aug 17 18:16:47 +0000 2026",
+    "id_str": "2089416164657050063",
+    "is_retweet": false
+  }
+]
