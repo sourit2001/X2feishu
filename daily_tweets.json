@@ -97,5 +97,148 @@
     "created_at": "Wed Aug 19 13:46:50 +0000 2026",
     "id_str": "2090073002549330415",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "One sat at a time",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090089633929675243",
+    "time": "2026-08-19 22:52",
+    "created_at": "Wed Aug 19 14:52:55 +0000 2026",
+    "id_str": "2090089633929675243",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @cb_doge: BREAKING: Vodacom Lesotho has officially launched a new enterprise connectivity solution powered by @Starlink.\n\nThe service de…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090090402187751627",
+    "time": "2026-08-19 22:55",
+    "created_at": "Wed Aug 19 14:55:58 +0000 2026",
+    "id_str": "2090090402187751627",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Liv_Boeree: “Create a random image inspired by my X account”\n\nGood job Grok, on point! https://t.co/yVplhgVAoT",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090092740013068398",
+    "time": "2026-08-19 23:05",
+    "created_at": "Wed Aug 19 15:05:15 +0000 2026",
+    "id_str": "2090092740013068398",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink on @lufthansa",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090094289246400952",
+    "time": "2026-08-19 23:11",
+    "created_at": "Wed Aug 19 15:11:25 +0000 2026",
+    "id_str": "2090094289246400952",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @Starlink: Starlink’s high-speed internet is now available onboard @lufthansa 🛰️✈️ https://t.co/KswsHNGk3t",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090095657298399477",
+    "time": "2026-08-19 23:16",
+    "created_at": "Wed Aug 19 15:16:51 +0000 2026",
+    "id_str": "2090095657298399477",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @StarshipGazer: Starship 43's nose cone and payload section has been moved into megabay 2 to begin stacking and assembly. This will be t…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090095913863946514",
+    "time": "2026-08-19 23:17",
+    "created_at": "Wed Aug 19 15:17:52 +0000 2026",
+    "id_str": "2090095913863946514",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I don't know if this news is real, but it does point out a major issue with \"sovereign AI\" - if your sovereign models are far behind the frontier, then there is a substantial penalty to using lagging models to compete at frontier applications where the gap is biggest, like cyber",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2090083512653160832",
+    "time": "2026-08-19 22:28",
+    "created_at": "Wed Aug 19 14:28:35 +0000 2026",
+    "id_str": "2090083512653160832",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "There are AI applications that are equally inside the frontier for both Mistral and frontier models, but cyberdefense is definitely not one of them.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2090083824549998962",
+    "time": "2026-08-19 22:29",
+    "created_at": "Wed Aug 19 14:29:50 +0000 2026",
+    "id_str": "2090083824549998962",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And, to make the point clear, \"sovereign AI\" has many meanings, in this case it really does appear to mean using sovereign models. (It can also mean control over data, harnesses, and a lot of other things as well)",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/emollick/status/2090084858781405285",
+    "time": "2026-08-19 22:33",
+    "created_at": "Wed Aug 19 14:33:56 +0000 2026",
+    "id_str": "2090084858781405285",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "google 认为 光靠 大模型自身来做漏洞挖掘是不够的，\n关键还是要结合 harness ...",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2090093758268559388",
+    "time": "2026-08-19 23:09",
+    "created_at": "Wed Aug 19 15:09:18 +0000 2026",
+    "id_str": "2090093758268559388",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "RT @grok: @seclink @TheTuringPost 这是真实学术研究，不是营销或骗局。arXiv预印本（2608.10218，2026年8月10日），作者含Anthropic Fellows与Anthropic人员。…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2090095755742925073",
+    "time": "2026-08-19 23:17",
+    "created_at": "Wed Aug 19 15:17:14 +0000 2026",
+    "id_str": "2090095755742925073",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Saw the most incredible waterfall today on my way to Flam, Norway 🇳🇴 \n\nAbsolutely incredible Kjosfossen Waterfall https://t.co/5jsnIfja8D",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2090094596592169292",
+    "time": "2026-08-19 23:12",
+    "created_at": "Wed Aug 19 15:12:38 +0000 2026",
+    "id_str": "2090094596592169292",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "用户永远第一，受影响的火币用户可以加群，火币会尽一切努力保护用户的资产！",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/justinsuntron/status/2090092583443972454",
+    "time": "2026-08-19 23:04",
+    "created_at": "Wed Aug 19 15:04:38 +0000 2026",
+    "id_str": "2090092583443972454",
+    "is_retweet": false
   }
 ]
