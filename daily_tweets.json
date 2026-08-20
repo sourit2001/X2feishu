@@ -108,5 +108,27 @@
     "created_at": "Thu Aug 20 06:10:00 +0000 2026",
     "id_str": "2090320424814911580",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @yetone: 在 Agent 领域，从 Tauri 迁移到 Electron 的越来越多了。上一个比较大动作的是 OpenCode Desktop 版，这一次轮到了 Paseo。理由都是一样的，先因为氛围选择了 Tauri 后因为现实迁移到…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2090327218354319866",
+    "time": "2026-08-20 14:36",
+    "created_at": "Thu Aug 20 06:36:59 +0000 2026",
+    "id_str": "2090327218354319866",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "模型不知道自己对应的壳子更新了什么内容\n是不是很割裂\n\n比如 ChatGP 更新了ChatGPT Work \n但是 GPT 本身不知道自己有这个功能，它需要去搜索\n\n但是搜索的结果只是知道有这个功能\n并不知道这个功能模式能干什么，有哪些能力，怎么用\n\n用户就会认为 模型很傻逼 \n自己有什么功能 你自己都不知道吗 https://t.co/5EaIjt18R7",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2090332516460777798",
+    "time": "2026-08-20 14:58",
+    "created_at": "Thu Aug 20 06:58:03 +0000 2026",
+    "id_str": "2090332516460777798",
+    "is_retweet": false
   }
 ]
