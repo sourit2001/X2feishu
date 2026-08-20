@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @JasonBud: Our goal is to make Grok Build as easy to use as possible.\n\nWhat are tasks you find harder to do with Grok Build compared to…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090470977305985039",
+    "time": "2026-08-21 00:08",
+    "created_at": "Thu Aug 20 16:08:14 +0000 2026",
+    "id_str": "2090470977305985039",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @XFreeze: Qatar Airways is rolling out Starlink at an incredible pace\n\nThe airline now has 150 widebody aircraft equipped with Starlink…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090471450650063288",
+    "time": "2026-08-21 00:10",
+    "created_at": "Thu Aug 20 16:10:07 +0000 2026",
+    "id_str": "2090471450650063288",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok @Bot",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090471974313001026",
+    "time": "2026-08-21 00:12",
+    "created_at": "Thu Aug 20 16:12:12 +0000 2026",
+    "id_str": "2090471974313001026",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok @Bot",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090472194946080795",
+    "time": "2026-08-21 00:13",
+    "created_at": "Thu Aug 20 16:13:05 +0000 2026",
+    "id_str": "2090472194946080795",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个跨 Session 消息通知功能我至今没找到关闭的地方，而且它极其愚蠢的会通知所有历史会话，一堆早已结束了的没有 Cache 的 Session 被唤起，Token 一下子消耗的飞起！ https://t.co/eSJXirCAqK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2090462021640729074",
+    "time": "2026-08-20 23:32",
+    "created_at": "Thu Aug 20 15:32:39 +0000 2026",
+    "id_str": "2090462021640729074",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "赶紧加上(~/.claude/settings.json)：\n\n\"crossSessionInbound\": \"refuse\"\n\nhttps://t.co/tvKjHVv7PI",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2090473398249959801",
+    "time": "2026-08-21 00:17",
+    "created_at": "Thu Aug 20 16:17:51 +0000 2026",
+    "id_str": "2090473398249959801",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "RT @eptwts: i extracted all the lessons from my 14,000 tweets &amp; turned them into a browsable knowledge-base...\n\nyou can read them here: htt…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2090464068792352903",
+    "time": "2026-08-20 23:40",
+    "created_at": "Thu Aug 20 15:40:47 +0000 2026",
+    "id_str": "2090464068792352903",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "You need to learn how to design UX but for agents. \n\nCalled AX.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vasuman/status/2090464223251841422",
+    "time": "2026-08-20 23:41",
+    "created_at": "Thu Aug 20 15:41:24 +0000 2026",
+    "id_str": "2090464223251841422",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Over 40% of the a16z Apps team's investments over the last two years went to international founders. Half are headquartered outside the US.\n\nAngela Strange and Gabriel Vasquez own the bet behind that number, a bet that the best founders can come from anywhere. In Poland, https://t.co/AJd3oYcasZ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/a16z/status/2090462994967003596",
+    "time": "2026-08-20 23:36",
+    "created_at": "Thu Aug 20 15:36:31 +0000 2026",
+    "id_str": "2090462994967003596",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Hope you are all ready for the next zine collaboration",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2090464757782319116",
+    "time": "2026-08-20 23:43",
+    "created_at": "Thu Aug 20 15:43:31 +0000 2026",
+    "id_str": "2090464757782319116",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "AI will not replace great people. \nBe too good to replace.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2090467359957844252",
+    "time": "2026-08-20 23:53",
+    "created_at": "Thu Aug 20 15:53:52 +0000 2026",
+    "id_str": "2090467359957844252",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I spent few hours hiking and then sitting silently in front of this waterfall in Norway. There were no people where I sat because that way was steep. \n\nWhile struggling to go all the way up and then down I realized, I am not the strongest or fastest, never been, but it’s https://t.co/64nZfJaPbg",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2090469524579467715",
+    "time": "2026-08-21 00:02",
+    "created_at": "Thu Aug 20 16:02:28 +0000 2026",
+    "id_str": "2090469524579467715",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @kawaii_ai_zoo: 大迫力🎬️ https://t.co/GJWWRY3PnJ",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2090470258544927122",
+    "time": "2026-08-21 00:05",
+    "created_at": "Thu Aug 20 16:05:23 +0000 2026",
+    "id_str": "2090470258544927122",
+    "is_retweet": true
+  }
+]
