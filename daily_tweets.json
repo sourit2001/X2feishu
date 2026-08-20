@@ -9,5 +9,27 @@
     "created_at": "Thu Aug 20 13:49:36 +0000 2026",
     "id_str": "2090436086229073994",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "靠 Skill 差别不大，要设计好没 AI 味，最重要的当然是人的审美；其次是模型，GPT 就做不好设计，Claude 就强很多；最后靠的是个性化的设计系统（design system）有一套设计的规范和组件，而不是一堆不能怎么设计的规则",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2090451525726294225",
+    "time": "2026-08-20 22:50",
+    "created_at": "Thu Aug 20 14:50:57 +0000 2026",
+    "id_str": "2090451525726294225",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "最近写好几个 自动化运维 Agent ，我也能用上 GPU卡了。\n\n需要 GPU 时临时启动项目直接拉预装好环境的Docker ，不需要时直接下线，按秒计费。\n\n下一步要调研的是，看看能不能快速拉GPU集群。\n\n就像大厂的项目组 ， GPU 就是我的特种兵部队： 挥之即来， 来之能战 ，战之能胜 ，胜之即散。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2090452323541901692",
+    "time": "2026-08-20 22:54",
+    "created_at": "Thu Aug 20 14:54:07 +0000 2026",
+    "id_str": "2090452323541901692",
+    "is_retweet": false
   }
 ]
