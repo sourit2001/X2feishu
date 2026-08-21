@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "RT @TheChiefNerd: TRUMP: \"I want to thank @elonmusk because Elon was able to get us communication systems. As you know, Starlink ... I thin…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090627201884717288",
+    "time": "2026-08-21 10:29",
+    "created_at": "Fri Aug 21 02:29:01 +0000 2026",
+    "id_str": "2090627201884717288",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/elonmusk/status/2090628549745291611",
+    "time": "2026-08-21 10:34",
+    "created_at": "Fri Aug 21 02:34:22 +0000 2026",
+    "id_str": "2090628549745291611",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "RT @rileybrown: Fun fact I posted the first EVER video about ChatGPT on TikTok back in 2022. \n\nThis was it - 11M views. https://t.co/PG5TBg…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2090630491976122772",
+    "time": "2026-08-21 10:42",
+    "created_at": "Fri Aug 21 02:42:05 +0000 2026",
+    "id_str": "2090630491976122772",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Cola 上线全新模型 Ox 牛来了！\n多模态，小参数，强后训练，Terra 能力级别，flash 的速度！\n\n目前限时免费体验中，欢迎体验。\n温馨提示：beta 模型没有技术支持，且可能存在一定问题，请谨慎使用。\n如有问题可以在这个帖子集中反馈。\n\n体验地址：https://t.co/K9517ktkDi https://t.co/wJmFoIegNk",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2090635985331818920",
+    "time": "2026-08-21 11:03",
+    "created_at": "Fri Aug 21 03:03:55 +0000 2026",
+    "id_str": "2090635985331818920",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI 将 Codex 的底层核心框 Harness开源  \n\n你可以轻松将Agent接入到自己业务系统中\n\n对开发者：少造一层基础设施。\n 上下文记忆、工具调用、沙箱、进度和审批机制，都可以复用 Codex 已有的开源组件。\n\n对产品：AI 可以进入现有软件\n 物流后台、工单系统、报税软件和监控看板都可以成为 Codex",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2090634335812821194",
+    "time": "2026-08-21 10:57",
+    "created_at": "Fri Aug 21 02:57:22 +0000 2026",
+    "id_str": "2090634335812821194",
+    "is_retweet": false
+  }
+]
