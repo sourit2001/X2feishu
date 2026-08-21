@@ -53,5 +53,38 @@
     "created_at": "Fri Aug 21 12:24:20 +0000 2026",
     "id_str": "2090777016216031391",
     "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "My third (and last) post in my series on obfuscation (iO): local mixing\n\nhttps://t.co/Du1c052w1Z\n\nLocal mixing is a very different philosophy from the other two, no prior background in lattices required, and very different tradeoffs (eg. in terms of computational overhead, it's",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/vitalikbuterin/status/2090780765076455919",
+    "time": "2026-08-21 20:39",
+    "created_at": "Fri Aug 21 12:39:13 +0000 2026",
+    "id_str": "2090780765076455919",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "RT @OpenDesignHQ: What will you design this weekend? Tell us below, build it with OpenDesign Go, and share your work by Monday.\n\nTop submis…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/tuturetom/status/2090793767154450865",
+    "time": "2026-08-21 21:30",
+    "created_at": "Fri Aug 21 13:30:53 +0000 2026",
+    "id_str": "2090793767154450865",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @artetuyo: Thanks MasterKris @icreatelife for creating and bringing “Gallery of the Future” to life. It’s so nice to finally have the zi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2090790750006939792",
+    "time": "2026-08-21 21:18",
+    "created_at": "Fri Aug 21 13:18:54 +0000 2026",
+    "id_str": "2090790750006939792",
+    "is_retweet": true
   }
 ]
