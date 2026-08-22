@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "RT @rryssf: 64,000 people starred a free Microsoft repo that teaches the exact curriculum bootcamps charge $3,000 to $5,000 for.\n\nIt's call…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/godofprompt/status/2091279709757653271",
+    "time": "2026-08-23 05:41",
+    "created_at": "Sat Aug 22 21:41:51 +0000 2026",
+    "id_str": "2091279709757653271",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "昨天和 @op7418 藏师傅交流的时候聊到\n国产的 flash 级别的模型 ox 和 ds flash 都有一个严重的问题\n就是经常疯狂思考，最严重的有时候思考十几分钟才吐一个字\n越复杂的任务越是这样，体验很差，感觉他们得解决一下这个问题\n有点怀疑是过度后训练导致的，超出了模型的参数所能承受的极限？",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2091284339728470145",
+    "time": "2026-08-23 06:00",
+    "created_at": "Sat Aug 22 22:00:15 +0000 2026",
+    "id_str": "2091284339728470145",
+    "is_retweet": false
+  }
+]
