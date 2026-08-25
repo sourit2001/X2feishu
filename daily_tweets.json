@@ -53,5 +53,181 @@
     "created_at": "Mon Aug 24 23:54:26 +0000 2026",
     "id_str": "2092037850032386292",
     "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "In most cases yes. Build products for agents.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2092058117735317543",
+    "time": "2026-08-25 09:14",
+    "created_at": "Tue Aug 25 01:14:58 +0000 2026",
+    "id_str": "2092058117735317543",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "以前的深度研究 AI 基本就是搜搜公开资料，最后给你一篇总结。\n\nApodex 不太一样，它能直接读你本地的数据文件、文献、表格，然后真的去跑代码做分析，最后给你一个可核查的结论。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2092072307410010475",
+    "time": "2026-08-25 10:11",
+    "created_at": "Tue Aug 25 02:11:21 +0000 2026",
+    "id_str": "2092072307410010475",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "行级静态应用安全测试（SAST）的能力边界较为明确，\n\n要进一步降低漏报与误报，需要补齐以下四类分析能力：\n\n过程间 / 跨文件分析：构建调用图，跟踪桩方法内部的白名单逻辑以及跨类字段的传播路径——当前多数漏报源于跨方法调用与 gadget 链的识别不足。\n\n分支敏感 +",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2092057373330587975",
+    "time": "2026-08-25 09:12",
+    "created_at": "Tue Aug 25 01:12:01 +0000 2026",
+    "id_str": "2092057373330587975",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "某些 中转站实现免 key 开用的原理：\n\nKilo provider 默认 apiKey=\"anonymous\"（packages/core/src/plugin/provider/kilo.ts:30，packages/kilo-gateway/src/api/constants.ts:52,58），默认模型 kilo-auto/free（constants.ts:40-43）；\n\n网关 https://t.co/fQiWUGtIsY 暴露 OpenRouter 兼容",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2092067953386963258",
+    "time": "2026-08-25 09:54",
+    "created_at": "Tue Aug 25 01:54:03 +0000 2026",
+    "id_str": "2092067953386963258",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "May you all challenge yourself to do difficult things from the place of love and compassion. Had one of the most profound days on so many levels. I wish I could put in words. It was so good. Heart is full with love to every human in my life including YOU",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092056002149360002",
+    "time": "2026-08-25 09:06",
+    "created_at": "Tue Aug 25 01:06:34 +0000 2026",
+    "id_str": "2092056002149360002",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Dealing with a lot of loss and accompanying grief in past few weeks I realized something. We can’t stop people from leaving us due to impermanence of life. But what we can do is make sure they knew how much we loved them and how happy we were our paths crossed. Love you all ❤️❤️",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092057656479375752",
+    "time": "2026-08-25 09:13",
+    "created_at": "Tue Aug 25 01:13:08 +0000 2026",
+    "id_str": "2092057656479375752",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Pins I made for you “AI art is art” have arrived and look great on my backpack! \n\nThey are ready to be gifted to you. I ordered one hundred. \n\n* thanks Google for the backpack 🎒 I wear it with fond memories from Google I/O https://t.co/1xXA7EXRhE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092063458086863268",
+    "time": "2026-08-25 09:36",
+    "created_at": "Tue Aug 25 01:36:11 +0000 2026",
+    "id_str": "2092063458086863268",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I am lucky to know Paul in person and each time we spend time together I am mind blown by his creativity. Another banger",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092066524777378009",
+    "time": "2026-08-25 09:48",
+    "created_at": "Tue Aug 25 01:48:22 +0000 2026",
+    "id_str": "2092066524777378009",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @illusionkrafter: Consciousness has no roots. https://t.co/M0X7Wcu5cV",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092066688682315975",
+    "time": "2026-08-25 09:49",
+    "created_at": "Tue Aug 25 01:49:01 +0000 2026",
+    "id_str": "2092066688682315975",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Have you tried Grok Bot?",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092066785772089740",
+    "time": "2026-08-25 09:49",
+    "created_at": "Tue Aug 25 01:49:25 +0000 2026",
+    "id_str": "2092066785772089740",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "You can do this AI nowadays",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092066999664853027",
+    "time": "2026-08-25 09:50",
+    "created_at": "Tue Aug 25 01:50:16 +0000 2026",
+    "id_str": "2092066999664853027",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Grok 4.7 will be 🚀",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092067742140567732",
+    "time": "2026-08-25 09:53",
+    "created_at": "Tue Aug 25 01:53:13 +0000 2026",
+    "id_str": "2092067742140567732",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "The smartest people support small accounts on 𝕏",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092068024492667131",
+    "time": "2026-08-25 09:54",
+    "created_at": "Tue Aug 25 01:54:20 +0000 2026",
+    "id_str": "2092068024492667131",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @keshiAIart: おはようございます～！ViduQ3 https://t.co/oaZMcEPAoK",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092068101344928204",
+    "time": "2026-08-25 09:54",
+    "created_at": "Tue Aug 25 01:54:38 +0000 2026",
+    "id_str": "2092068101344928204",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @shironagasu_ai: 👩🐈🌃 https://t.co/dCv1wh1W2W",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092068822840697180",
+    "time": "2026-08-25 09:57",
+    "created_at": "Tue Aug 25 01:57:30 +0000 2026",
+    "id_str": "2092068822840697180",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @dvorahfr: \"I dream my painting and I paint my dream.\"\n-Vincent van Gogh\n\nGrok imagine https://t.co/9oH7ZaPBxW",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2092069977473826942",
+    "time": "2026-08-25 10:02",
+    "created_at": "Tue Aug 25 02:02:06 +0000 2026",
+    "id_str": "2092069977473826942",
+    "is_retweet": true
   }
 ]
