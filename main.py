@@ -34,7 +34,8 @@ BLOGGERS = [
     {"username": "aleabitoreddit", "nickname": "aleabitoreddit"},
     {"username": "justinsuntron", "nickname": "孙宇晨"},
     {"username": "pmarca", "nickname": "Marc Andreessen"},
-    {"username": "thsottiaux", "nickname": "thsottiaux"}
+    {"username": "thsottiaux", "nickname": "thsottiaux"},
+    {"username": "johnternus", "nickname": "John Ternus"}
 ]
 LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
