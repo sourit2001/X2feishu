@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Grok bot 终于上安卓了。这种东西，手头没手机的时候是真的好用。\n\n把一些常用工具和上下文，比如一些 skill 之类的连接上去以后，临时处理个文案图片之类的很方便。\n\n这个配图就是用安卓 Gork 处理的。 https://t.co/DtfDCcUQH6",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/op7418/status/2095327194411360683",
+    "time": "2026-09-03 09:45",
+    "created_at": "Thu Sep 03 01:45:07 +0000 2026",
+    "id_str": "2095327194411360683",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 刚开源了一个 /claude-api 的 skill，内置到了 Claude Code。\n\n这个 Skill 的使用场景是帮你优化 Claude API 调用的，针对 Agent 开发或者基于 Claude API 开发，如果你只是 Claude Code 用户，那么不需要管，或者你不是用的 Claude 模型，那效果估计要差一点，但也会有效果。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2095329314778607932",
+    "time": "2026-09-03 09:53",
+    "created_at": "Thu Sep 03 01:53:32 +0000 2026",
+    "id_str": "2095329314778607932",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "RT @LinearUncle: 研究表明，管理你机器上乱七八糟的skills，你每个月的AI tokens 至少可以节省 10-20%! \n\n终于有人把「宝玉哥的软链接Skill 管理方案」做成Mac GUI app 了！ 今天推荐开源skill管理器： Kitter.\n\n1…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/dotey/status/2095333742155887029",
+    "time": "2026-09-03 10:11",
+    "created_at": "Thu Sep 03 02:11:08 +0000 2026",
+    "id_str": "2095333742155887029",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Codex with browser is still goat for knowledge work.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/rileybrown/status/2095321400420536633",
+    "time": "2026-09-03 09:22",
+    "created_at": "Thu Sep 03 01:22:05 +0000 2026",
+    "id_str": "2095321400420536633",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "一句话理解 FDE",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/oran_ge/status/2095328701705822219",
+    "time": "2026-09-03 09:51",
+    "created_at": "Thu Sep 03 01:51:06 +0000 2026",
+    "id_str": "2095328701705822219",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 给出了去除 Claude AI味的提示指南：  \n\nRemove all mannered prose. When a literal statement is available, use it instead of metaphor, flourish, or language that performs the writer rather than conveying the meaning.",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2095333603639198182",
+    "time": "2026-09-03 10:10",
+    "created_at": "Thu Sep 03 02:10:35 +0000 2026",
+    "id_str": "2095333603639198182",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "测试对GPT也管用",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/xiaohu/status/2095338726230732911",
+    "time": "2026-09-03 10:30",
+    "created_at": "Thu Sep 03 02:30:56 +0000 2026",
+    "id_str": "2095338726230732911",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "又一个开源样本 ...\n换平时都要花钱买的，不过话说，既然开源，肯定是手上相对价值不高的拿来开源。",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/seclink/status/2095332208533991569",
+    "time": "2026-09-03 10:05",
+    "created_at": "Thu Sep 03 02:05:02 +0000 2026",
+    "id_str": "2095332208533991569",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @JeanninePennArt: I loved this so much for Volume 1, I had to do something for Volume 2 ... anyone can participate @icreatelife is amazi…",
+    "quoted_tweet": null,
+    "url": "https://twitter.com/icreatelife/status/2095300085617680760",
+    "time": "2026-09-03 07:57",
+    "created_at": "Wed Sep 02 23:57:23 +0000 2026",
+    "id_str": "2095300085617680760",
+    "is_retweet": true
+  }
+]
