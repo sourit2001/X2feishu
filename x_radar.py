@@ -45,7 +45,16 @@ def refresh_access_token():
         headers={"Content-Type": "application/x-www-form-urlencoded"},
         timeout=30,
     )
-    response.raise_for_status()
+    if response.status_code >= 400:
+        try:
+            error = response.json()
+            detail = error.get("error_description") or error.get("detail") or error.get("error")
+        except ValueError:
+            detail = response.text[:200]
+        raise RuntimeError(
+            f"X OAuth token refresh failed (HTTP {response.status_code}): {detail or 'unknown error'}. "
+            "Check X_CLIENT_ID, X_CLIENT_SECRET, and X_USER_REFRESH_TOKEN."
+        )
     payload = response.json()
     if not payload.get("access_token"):
         raise RuntimeError("X token refresh returned no access token.")
