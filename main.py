@@ -42,6 +42,8 @@ DAILY_TWEETS_FILE = "daily_tweets.json"
 WEB_FEED_DEFAULT_PATH = "data/signals.json"
 WEB_FEED_DEFAULT_LIMIT = 80
 WEB_FEED_BUILD = "web-feed-timeline-sync-v2"
+FETCH_MAX_ATTEMPTS = 3
+FETCH_INTERVAL_SECONDS = 2
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
@@ -262,15 +264,29 @@ def fetch_tweets(username, auth_token, ct0):
     }
     
     try:
-        response = requests.get(url, headers=headers, timeout=30)
+        response = None
+        for attempt in range(1, FETCH_MAX_ATTEMPTS + 1):
+            response = requests.get(url, headers=headers, timeout=30)
+            if response.status_code != 429 or attempt == FETCH_MAX_ATTEMPTS:
+                break
+
+            retry_after = response.headers.get("Retry-After")
+            try:
+                delay = min(float(retry_after), 30.0)
+            except (TypeError, ValueError):
+                delay = float(5 * (2 ** (attempt - 1)))
+            print(f"X rate limited {username} (attempt {attempt}/{FETCH_MAX_ATTEMPTS}); retrying in {delay:g}s")
+            time.sleep(delay)
+
         if response.status_code != 200:
             print(f"Failed to fetch {username}: HTTP {response.status_code}")
-            return []
+            return None
             
         html = response.text
         match = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', html)
         if not match:
-            return []
+            print(f"Failed to parse {username}: missing timeline payload")
+            return None
             
         data = json.loads(match.group(1))
         timeline = data.get('props', {}).get('pageProps', {}).get('timeline', {})
@@ -322,17 +338,18 @@ def fetch_tweets(username, auth_token, ct0):
         return result
     except Exception as e:
         print(f"Error parsing {username}: {e}")
-        return []
+        return None
 
 def should_force_web_feed_test():
     return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
 
-def run_web_feed_test(auth_token, ct0):
+def run_web_feed_test(auth_token, ct0, fetch_cache=None):
     """Publish recent configured web-feed tweets without touching Feishu or last_ids."""
     target_usernames = get_web_feed_usernames()
     limit = int(os.getenv("WEB_FEED_TEST_LIMIT") or 20)
     tested = False
 
+    fetch_cache = fetch_cache if fetch_cache is not None else {}
     for blogger in get_web_feed_bloggers():
         user = blogger["username"]
         nick = blogger["nickname"]
@@ -342,8 +359,14 @@ def run_web_feed_test(auth_token, ct0):
 
         tested = True
         print(f"--- Force web feed test: {nick} (@{user}) ---")
-        tweets = fetch_tweets(user, auth_token, ct0)
+        if user.lower() not in fetch_cache:
+            fetch_cache[user.lower()] = fetch_tweets(user, auth_token, ct0)
+            time.sleep(FETCH_INTERVAL_SECONDS)
+        tweets = fetch_cache[user.lower()]
 
+        if tweets is None:
+            print("Web feed test fetch failed; aborting this test.")
+            continue
         if not tweets:
             print("No tweets found for web feed test.")
             continue
@@ -389,19 +412,29 @@ def main():
         print("Error: Missing credentials or webhook URL.")
         return
 
+    fetch_cache = {}
     if should_force_web_feed_test():
-        run_web_feed_test(auth_token, ct0)
+        run_web_feed_test(auth_token, ct0, fetch_cache)
         return
 
     print("Syncing web feed accounts before general monitor pass.")
-    run_web_feed_test(auth_token, ct0)
+    run_web_feed_test(auth_token, ct0, fetch_cache)
 
+    fetch_failures = 0
+    successful_fetches = 0
     for blogger in get_monitored_bloggers():
         user = blogger['username']
         nick = blogger['nickname']
         print(f"--- Checking {nick} (@{user}) ---")
-        tweets = fetch_tweets(user, auth_token, ct0)
+        if user.lower() not in fetch_cache:
+            fetch_cache[user.lower()] = fetch_tweets(user, auth_token, ct0)
+            time.sleep(FETCH_INTERVAL_SECONDS)
+        tweets = fetch_cache[user.lower()]
         
+        if tweets is None:
+            fetch_failures += 1
+            continue
+        successful_fetches += 1
         if not tweets:
             continue
 
@@ -478,6 +511,11 @@ def main():
             daily_tweets.append(daily_record)
             sync_to_web_feed(daily_record)
             time.sleep(1)
+
+    if fetch_failures and not successful_fetches:
+        raise RuntimeError(
+            f"All {fetch_failures} monitored X accounts failed to fetch; refusing to report success."
+        )
 
     with open(LAST_IDS_FILE, 'w') as f:
         json.dump(last_ids, f, indent=2)
