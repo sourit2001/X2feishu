@@ -31,6 +31,29 @@ def _get(path, token, params=None):
     return response.json()
 
 
+def refresh_access_token():
+    """Exchange the long-lived refresh token for a short-lived user token."""
+    refresh_token = os.getenv("X_USER_REFRESH_TOKEN")
+    client_id = os.getenv("X_CLIENT_ID")
+    client_secret = os.getenv("X_CLIENT_SECRET")
+    if not refresh_token or not client_id:
+        raise RuntimeError("Missing X_USER_REFRESH_TOKEN or X_CLIENT_ID.")
+    response = requests.post(
+        "https://api.x.com/2/oauth2/token",
+        data={"refresh_token": refresh_token, "grant_type": "refresh_token", "client_id": client_id},
+        auth=(client_id, client_secret) if client_secret else None,
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+        timeout=30,
+    )
+    response.raise_for_status()
+    payload = response.json()
+    if not payload.get("access_token"):
+        raise RuntimeError("X token refresh returned no access token.")
+    if payload.get("refresh_token") and payload["refresh_token"] != refresh_token:
+        print("WARNING: X returned a rotated refresh token; update X_USER_REFRESH_TOKEN in GitHub Secrets.")
+    return payload["access_token"]
+
+
 def get_personalized_queries(token):
     payload = _get("/users/personalized_trends", token,
                     {"personalized_trend.fields": "trend_name,post_count,trending_since"})
@@ -80,9 +103,7 @@ def build_prompt(posts):
 
 
 def main():
-    token = os.getenv("X_USER_ACCESS_TOKEN")
-    if not token:
-        raise RuntimeError("Missing X_USER_ACCESS_TOKEN; Personalized Trends requires a user OAuth token.")
+    token = refresh_access_token()
     max_requests = int(os.getenv("X_RADAR_MAX_SEARCH_REQUESTS", "8"))
     queries = list(dict.fromkeys(CORE_QUERIES))
     try:

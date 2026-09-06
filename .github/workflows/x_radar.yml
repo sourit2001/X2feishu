@@ -20,7 +20,9 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Run X Radar
         env:
-          X_USER_ACCESS_TOKEN: ${{ secrets.X_USER_ACCESS_TOKEN }}
+          X_USER_REFRESH_TOKEN: ${{ secrets.X_USER_REFRESH_TOKEN }}
+          X_CLIENT_ID: ${{ secrets.X_CLIENT_ID }}
+          X_CLIENT_SECRET: ${{ secrets.X_CLIENT_SECRET }}
           X_RADAR_MAX_SEARCH_REQUESTS: ${{ vars.X_RADAR_MAX_SEARCH_REQUESTS || '8' }}
           X_RADAR_RESULTS_PER_QUERY: ${{ vars.X_RADAR_RESULTS_PER_QUERY || '20' }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
