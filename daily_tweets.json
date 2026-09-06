@@ -64,5 +64,83 @@
     "created_at": "Sun Sep 06 16:47:31 +0000 2026",
     "id_str": "2096641454408167544",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "还记得三年 GPT-4 玩 Minecraft 吗？那时候还要借助专门的脚本，还要自己做记忆库技能库。\n\n现在 GPT-6 Astra 借助 Computer Use 就可以直接搞定了。\n\n但现在看 Voyager 依然很了不起，那时候就已经实现了 Skill 的自进化和记忆功能，算是最早的 Harness 雏形之一了。",
+    "quoted_tweet": {
+      "author": "Jim Fan",
+      "username": "DrJimFan",
+      "text": "What if we set GPT-4 free in Minecraft? ⛏️\n\nI’m excited to announce Voyager, the first lifelong learning agent that plays Minecraft purely in-context. Voyager continuously improves itself by writing, refining, committing, and retrieving *code* from a skill library.\n\nGPT-4 unlocks a new paradigm: “training” is code execution rather than gradient descent. “Trained model” is a codebase of skills that Voyager iteratively composes, rather than matrices of floats. We are pushing no-gradient architecture to its limit.\n\nVoyager rapidly becomes a seasoned explorer. In Minecraft, it obtains 3.3× more unique items, travels 2.3× longer distances, and unlocks key tech tree milestones up to 15.3× faster than prior methods.\n\nWe open-source everything. Let generalist agents emerge in Minecraft! Welcome you all to try today: https://voyager.minedojo.org/\nPaper: https://arxiv.org/abs/2305.16291\nCode: https://github.com/MineDojo/Voyager\n\nDeep dive with me: 🧵"
+    },
+    "url": "https://x.com/dotey/status/2096662772872315103",
+    "time": "2026-09-07 02:12",
+    "created_at": "Sun Sep 06 18:12:13 +0000 2026",
+    "id_str": "2096662772872315103",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "据说 Blender MCP 比用 Computer Use 操作 Blender 效果更好",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096664052575486330",
+    "time": "2026-09-07 02:17",
+    "created_at": "Sun Sep 06 18:17:18 +0000 2026",
+    "id_str": "2096664052575486330",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@PatrikarSanket @dotey Already on it! https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "quoted_tweet": null,
+    "url": "https://x.com/simonw/status/2096664616092991844",
+    "time": "2026-09-07 02:19",
+    "created_at": "Sun Sep 06 18:19:33 +0000 2026",
+    "id_str": "2096664616092991844",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Incredible writeup and well worth 10 minutes of your time today",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2095378321588826112"
+    },
+    "url": "https://x.com/threepointone/status/2096588976773607725",
+    "time": "2026-09-06 21:18",
+    "created_at": "Sun Sep 06 13:18:59 +0000 2026",
+    "id_str": "2096588976773607725",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Incredible writeup and well worth 10 minutes of your time today",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2095378321588826112"
+    },
+    "url": "https://x.com/threepointone/status/2096588976773607725",
+    "time": "2026-09-06 21:18",
+    "created_at": "Sun Sep 06 13:18:59 +0000 2026",
+    "id_str": "2096588976773607725",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@threepointone Appreciate it Sunil!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096655984357699748",
+    "time": "2026-09-07 01:45",
+    "created_at": "Sun Sep 06 17:45:15 +0000 2026",
+    "id_str": "2096655984357699748",
+    "is_retweet": false
   }
 ]
