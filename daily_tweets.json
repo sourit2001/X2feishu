@@ -138,5 +138,215 @@
     "created_at": "Sun Sep 06 18:18:42 +0000 2026",
     "id_str": "2096664402556748069",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "These are unusually terrible replies, I feel like all the bots replying to this should at least try and play the games first. (Masque of the Red Death is compelling and fast)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096695514993447398",
+    "time": "2026-09-07 04:22",
+    "created_at": "Sun Sep 06 20:22:20 +0000 2026",
+    "id_str": "2096695514993447398",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Both the funniest and scariest part of this post is that the median researcher at OpenAI was spending $0 a day on coding agents in feb this year. So much for all the hype they generated around all models prior to then",
+    "quoted_tweet": {
+      "author": "Noam Brown",
+      "username": "polynoamial",
+      "text": "One of the most interesting blog posts we've released: details on internal research acceleration at @OpenAI. I expect these trends to continue.\n\nWe also share some details on how we've paced model development to prioritize monitoring, alignment, and security."
+    },
+    "url": "https://x.com/oneill_c/status/2096643427219972115",
+    "time": "2026-09-07 00:55",
+    "created_at": "Sun Sep 06 16:55:21 +0000 2026",
+    "id_str": "2096643427219972115",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "OpenAI’s banked reset sounds great until you look at the numbers 😭\n\nYou get roughly HALF the normal weekly allowance, but your next real reset still gets pushed back by 7 days.\n\nHow does that make sense?",
+    "quoted_tweet": null,
+    "url": "https://x.com/hiarun02/status/2096656457609724173",
+    "time": "2026-09-07 01:47",
+    "created_at": "Sun Sep 06 17:47:08 +0000 2026",
+    "id_str": "2096656457609724173",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I'm genuinely curious. Do you guys prefer Astra or Fable?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rezoundous/status/2096673536995717318",
+    "time": "2026-09-07 02:55",
+    "created_at": "Sun Sep 06 18:55:00 +0000 2026",
+    "id_str": "2096673536995717318",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@hiarun02 Not the case. There is no difference between usage you get before or after a reset.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096686370848989558",
+    "time": "2026-09-07 03:46",
+    "created_at": "Sun Sep 06 19:46:00 +0000 2026",
+    "id_str": "2096686370848989558",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096688770523467947",
+    "time": "2026-09-07 03:55",
+    "created_at": "Sun Sep 06 19:55:32 +0000 2026",
+    "id_str": "2096688770523467947",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "OpenAI or Anthropic? Back in february I switched to Claude but I'm really thinking about switch to OpenAI again lol",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra."
+    },
+    "url": "https://x.com/pfernan95dev/status/2096689133888450960",
+    "time": "2026-09-07 03:56",
+    "created_at": "Sun Sep 06 19:56:58 +0000 2026",
+    "id_str": "2096689133888450960",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "The only thing you forgot to mention is that even on Low reasoning, Astra burns through limits faster than Sol on Max!",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra."
+    },
+    "url": "https://x.com/TJeparskis/status/2096689149998682509",
+    "time": "2026-09-07 03:57",
+    "created_at": "Sun Sep 06 19:57:02 +0000 2026",
+    "id_str": "2096689149998682509",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@TJeparskis Should not be the case, between those two it's about ~50% cheaper per task at roughly equivalent output.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096689650257805558",
+    "time": "2026-09-07 03:59",
+    "created_at": "Sun Sep 06 19:59:01 +0000 2026",
+    "id_str": "2096689650257805558",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@pfernan95dev Welcome back Pablo. See DM for a little gift.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096689792281117103",
+    "time": "2026-09-07 03:59",
+    "created_at": "Sun Sep 06 19:59:35 +0000 2026",
+    "id_str": "2096689792281117103",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@rezoundous Fable, in most instances. Also, my usage has expired and won't reset for a while.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Gelassoldat/status/2096690263561306468",
+    "time": "2026-09-07 04:01",
+    "created_at": "Sun Sep 06 20:01:28 +0000 2026",
+    "id_str": "2096690263561306468",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Gelassoldat @rezoundous Who says it won't reset in a while 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096692394435752258",
+    "time": "2026-09-07 04:09",
+    "created_at": "Sun Sep 06 20:09:56 +0000 2026",
+    "id_str": "2096692394435752258",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux @oneill_c Who wrote this above reply AI or Tibo",
+    "quoted_tweet": null,
+    "url": "https://x.com/gadi_neelesh/status/2096692431010087142",
+    "time": "2026-09-07 04:10",
+    "created_at": "Sun Sep 06 20:10:04 +0000 2026",
+    "id_str": "2096692431010087142",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@gadi_neelesh @oneill_c I have a rule for Twitter. I only hand-type things. Neurons to letters, with only the keyboard inbetween",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096692856543182879",
+    "time": "2026-09-07 04:11",
+    "created_at": "Sun Sep 06 20:11:46 +0000 2026",
+    "id_str": "2096692856543182879",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux @gadi_neelesh @oneill_c Can you see my reply? Tibo",
+    "quoted_tweet": null,
+    "url": "https://x.com/Sujay__Raj/status/2096693169815740710",
+    "time": "2026-09-07 04:13",
+    "created_at": "Sun Sep 06 20:13:01 +0000 2026",
+    "id_str": "2096693169815740710",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Astra on NVIDIA GPUs every morning: You're not talking to somebody who woke up a loser. That loser attitude, that loser premise makes no sense to me. We are not a car. Brrrrrrr",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096698561971064864",
+    "time": "2026-09-07 04:34",
+    "created_at": "Sun Sep 06 20:34:26 +0000 2026",
+    "id_str": "2096698561971064864",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Sujay__Raj @gadi_neelesh @oneill_c I can",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096698720440213943",
+    "time": "2026-09-07 04:35",
+    "created_at": "Sun Sep 06 20:35:04 +0000 2026",
+    "id_str": "2096698720440213943",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "The number of people who don't get it in the comments is concerning to me. Go ask Astra.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096700527753245068",
+    "time": "2026-09-07 04:42",
+    "created_at": "Sun Sep 06 20:42:15 +0000 2026",
+    "id_str": "2096700527753245068",
+    "is_retweet": false
   }
 ]
