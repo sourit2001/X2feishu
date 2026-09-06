@@ -7,6 +7,11 @@ import base64
 from datetime import datetime, timedelta
 from bitable_sync import sync_to_bitable
 
+try:
+    from tweetkit_x import TweetKit
+except ImportError:
+    TweetKit = None
+
 # --- Configuration ---
 # User list to monitor (ID from their profile URL)
 BLOGGERS = [
@@ -41,9 +46,10 @@ LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
 WEB_FEED_DEFAULT_PATH = "data/signals.json"
 WEB_FEED_DEFAULT_LIMIT = 80
-WEB_FEED_BUILD = "web-feed-timeline-sync-v2"
+WEB_FEED_BUILD = "web-graphql-timeline-v3"
 FETCH_MAX_ATTEMPTS = 3
 FETCH_INTERVAL_SECONDS = 2
+_tweetkit_client = None
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
@@ -255,8 +261,56 @@ def sync_to_web_feed(tweet_record):
     except Exception as e:
         print(f"Web feed sync failed: {e}")
 
-def fetch_tweets(username, auth_token, ct0):
-    """Fetches tweets using Twitter Syndication API with support for Note Tweets (long tweets)"""
+def get_tweetkit_client(auth_token, ct0):
+    """Build one authenticated X web client and reuse it for the whole run."""
+    global _tweetkit_client
+    if _tweetkit_client is None:
+        if TweetKit is None:
+            raise RuntimeError("tweetkit-x is not installed")
+        cookie = f"auth_token={auth_token}; ct0={ct0}"
+        _tweetkit_client = TweetKit(cookie=cookie, timeout=30)
+    return _tweetkit_client
+
+
+def fetch_tweets_via_graphql(username, auth_token, ct0):
+    """Fetch a user timeline through the same private GraphQL endpoint used by x.com."""
+    client = get_tweetkit_client(auth_token, ct0)
+    rows = client.get_tweets(username=username, limit=40, include_replies=True)
+
+    # The GraphQL response may contain nested quoted/retweeted posts. Prefer
+    # rows authored by the requested timeline owner so nested posts do not get
+    # emitted as standalone updates.
+    owned_rows = [
+        row for row in rows
+        if (row.get("author") or "").lower() == username.lower()
+    ]
+    if owned_rows:
+        rows = owned_rows
+
+    result = []
+    for row in rows:
+        tweet_id = str(row.get("id") or "")
+        if not tweet_id:
+            continue
+        text = row.get("text") or ""
+        author = row.get("author") or username
+        result.append({
+            "id": int(tweet_id),
+            "id_str": tweet_id,
+            "text": text,
+            "url": row.get("url") or f"https://x.com/{username}/status/{tweet_id}",
+            "author": author,
+            "created_at": row.get("created_at"),
+            "quoted_tweet": None,
+            "is_retweet": text.startswith("RT @") or author.lower() != username.lower(),
+        })
+
+    result.sort(key=lambda item: item["id"], reverse=True)
+    return result
+
+
+def fetch_tweets_via_syndication(username, auth_token, ct0):
+    """Fallback to the legacy Syndication page when X web GraphQL is unavailable."""
     url = f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -339,6 +393,17 @@ def fetch_tweets(username, auth_token, ct0):
     except Exception as e:
         print(f"Error parsing {username}: {e}")
         return None
+
+
+def fetch_tweets(username, auth_token, ct0):
+    """Fetch a timeline from X web GraphQL, with Syndication as a fallback."""
+    try:
+        tweets = fetch_tweets_via_graphql(username, auth_token, ct0)
+        print(f"Fetched {len(tweets)} tweets for {username} via X web GraphQL.")
+        return tweets
+    except Exception as e:
+        print(f"X web GraphQL failed for {username}: {e}; trying Syndication fallback.")
+        return fetch_tweets_via_syndication(username, auth_token, ct0)
 
 def should_force_web_feed_test():
     return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
