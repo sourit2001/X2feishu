@@ -2583,5 +2583,234 @@
     "created_at": "Sun Sep 06 07:04:28 +0000 2026",
     "id_str": "2096494725318762951",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "An important post from Jakub:",
+    "quoted_tweet": {
+      "author": "Jakub Pachocki",
+      "username": "merettm",
+      "text": "I wrote about the state of AI, why I’m concerned about the next few years, and the choices we need to make to keep the future in humanity’s hands.\n\nAn Alien Mind: https://openai.com/index/an-alien-mind/"
+    },
+    "url": "https://x.com/sama/status/2096647371983880383",
+    "time": "2026-09-07 01:11",
+    "created_at": "Sun Sep 06 17:11:01 +0000 2026",
+    "id_str": "2096647371983880383",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "穷玩车，富玩表，顶富 astra 说你好",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096627891383767178",
+    "time": "2026-09-06 23:53",
+    "created_at": "Sun Sep 06 15:53:37 +0000 2026",
+    "id_str": "2096627891383767178",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "哈哈 玩个梗",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096628627865788843",
+    "time": "2026-09-06 23:56",
+    "created_at": "Sun Sep 06 15:56:33 +0000 2026",
+    "id_str": "2096628627865788843",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey Token 消耗是哪里看的？🫣",
+    "quoted_tweet": null,
+    "url": "https://x.com/Bill_Jobss/status/2096554514396729430",
+    "time": "2026-09-06 19:02",
+    "created_at": "Sun Sep 06 11:02:02 +0000 2026",
+    "id_str": "2096554514396729430",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@han_zi34380 @dotey 同问",
+    "quoted_tweet": null,
+    "url": "https://x.com/tanghao_yu/status/2096578748221169679",
+    "time": "2026-09-06 20:38",
+    "created_at": "Sun Sep 06 12:38:20 +0000 2026",
+    "id_str": "2096578748221169679",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我来说一个GTP 6 Astra结合Blender的正确用法。\n目前让GPT 6直接建3D模型还是太勉强了，尤其设计人物造型的时候。\n明明生成3D模型有更好的方法，就是用图片生成3D的AI模型来直接生成（请来个模型商赞助我，后续出个详细教程），生成的是一个整体模型，但是细节和品质都很高。\n生成一个glb模型后，再让GPT把这个模型拆分成组件，加上骨骼，然后就能做动画了。\n\n请看效果视频。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Gorden_Sun/status/2096600967378813329",
+    "time": "2026-09-06 22:06",
+    "created_at": "Sun Sep 06 14:06:38 +0000 2026",
+    "id_str": "2096600967378813329",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "研究 hermes 时发现了个惊喜：\n\n@dotey 宝玉哥的 skill 已经是 hermes 官方默认 skill 包之一！",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinearUncle/status/2096631135614984639",
+    "time": "2026-09-07 00:06",
+    "created_at": "Sun Sep 06 16:06:30 +0000 2026",
+    "id_str": "2096631135614984639",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "研究 hermes 时发现了个惊喜：\n\n@dotey 宝玉哥的 skill 已经是 hermes 官方默认 skill 包之一！",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinearUncle/status/2096631135614984639",
+    "time": "2026-09-07 00:06",
+    "created_at": "Sun Sep 06 16:06:30 +0000 2026",
+    "id_str": "2096631135614984639",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "没有用 Skill，one shot：\nhttps://chatgpt.com/share/6a9d9128-070c-83ea-9a1b-f8de43367566",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096632991267033444",
+    "time": "2026-09-07 00:13",
+    "created_at": "Sun Sep 06 16:13:53 +0000 2026",
+    "id_str": "2096632991267033444",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@tanghao_yu @han_zi34380 没有的，one shot 就行，不过是 ChatGPT 里面的 GPT-6 Pro",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096633135395995759",
+    "time": "2026-09-07 00:14",
+    "created_at": "Sun Sep 06 16:14:27 +0000 2026",
+    "id_str": "2096633135395995759",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Bill_Jobss 设置里面可以看",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096633802244211015",
+    "time": "2026-09-07 00:17",
+    "created_at": "Sun Sep 06 16:17:06 +0000 2026",
+    "id_str": "2096633802244211015",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 原来你早知道啦。\n我是刚才整理hermes skills 发现的。\n能被内置，不管 1 个还是 3 个也算是实力的体现了，太顶了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinearUncle/status/2096635020912066686",
+    "time": "2026-09-07 00:21",
+    "created_at": "Sun Sep 06 16:21:57 +0000 2026",
+    "id_str": "2096635020912066686",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "this is going to be my new “pelican on the bike” benchmark\n\nwe’re so early!",
+    "quoted_tweet": {
+      "author": "Vaibhav (VB) Srivastav",
+      "username": "reach_vb",
+      "text": "okay Astra time to rickroll"
+    },
+    "url": "https://x.com/reach_vb/status/2096635913170268283",
+    "time": "2026-09-07 00:25",
+    "created_at": "Sun Sep 06 16:25:29 +0000 2026",
+    "id_str": "2096635913170268283",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LinearUncle 看这篇吐槽 😂\nhttps://x.com/theo/status/2061019720552525963?s=20",
+    "quoted_tweet": {
+      "author": "Theo - t3.gg",
+      "username": "theo",
+      "text": "Hermes Agent comes with a truly absurd number of skills pre-enabled. Over 100 of them. This is roughly half.\n\nI get what they're going for - they want an agent that comes \"ready out of the box\".\n\nI just don't get why every user has to have a polymarket skill, 3 baoyu art skills (? never heard of this), a headless Pokemon skill, and Minecraft modpack server skills, all available the first time they run it.\n\nI guess Hermes Agent just isn't for me."
+    },
+    "url": "https://x.com/dotey/status/2096637878184927408",
+    "time": "2026-09-07 00:33",
+    "created_at": "Sun Sep 06 16:33:18 +0000 2026",
+    "id_str": "2096637878184927408",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "用 blender 做视频应该会成为新的模型测试基准，鹈鹕骑车已经不够用了，提示词（来自作者）很简单：\ncreate a side by side video of rickroll & a version created w/ blender, use a subagents to verify your output as you go.   Use web search to get necessary assets for the task.",
+    "quoted_tweet": {
+      "author": "Vaibhav (VB) Srivastav",
+      "username": "reach_vb",
+      "text": "okay Astra time to rickroll"
+    },
+    "url": "https://x.com/dotey/status/2096644068516217095",
+    "time": "2026-09-07 00:57",
+    "created_at": "Sun Sep 06 16:57:54 +0000 2026",
+    "id_str": "2096644068516217095",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "World Labs co-founders Justin Johnson and Dr. Fei-Fei Li say Atlas unifies the two things computer vision has always kept apart:\n\nJustin: \"Historically, reconstruction has been its own subfield in computer vision with its own specialized tasks and models. Generation is what all the text-to-video models are really good at.\"\n\n\"Those are great for creative applications if I want to imagine something that's never been there before.\"\n\n\"But now with Atlas, for the first time, we're putting these two different parts of visual intelligence together in one model. It can do both 3D reconstruction and generation together in one architecture.\"\n\n\"We had to make it multimodal from the start. This thing natively works on text, images, videos, and camera poses as a native input to the model... It uses 3D as a native modality that it works on.\"\n\nFei-Fei: \"Computer vision has been around for more than half a century... Our field traditionally has multiple tracks. You go to a computer vision conference: you have the pixel generation track, you have some recognition track, and you have a 3D reconstruction track.\"\n\n\"This is an elegant model that unifies the problem of reconstruction and generation by anchoring on viewpoints and viewpoint estimation. That's just incredibly powerful.\"\n\n@jcjohnss @drfeifei",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "World Labs co-founders Fei-Fei Li, Justin Johnson, Ben Mildenhall, and a16z's Martin Casado on Atlas, a world model for spatial intelligence:\n\nLLMs are built on next token prediction. Video models are built on next frame prediction. Atlas is built on new view prediction, and it's the first model to unify pixel generation and pixel reconstruction, two problems computer vision has kept in separate tracks for half a century.\n\nThe practical result is a 50 to 100x reduction in what it takes to digitally capture a 3D representation of a space. Previously, you needed 100 to 300 photos of a single room. Atlas can work from just three.\n\nIn this conversation, they get into the slow motion shot from The Matrix that took hundreds of cameras and now takes three iPhones, the overnight Slack message that made them bet the company in five seconds, why robotics is bottlenecked on data rather than chips, and the case that new view prediction is AI-complete.\n\n00:00 Intro\n01:50 The Matrix slow motion scene now takes three iPhones\n02:48 Why new view prediction is the primitive\n07:10 Unifying generation and reconstruction\n11:15 Gaussian splats became the bottleneck\n14:17 Dense capture used to mean 300 photos\n17:30 Why reconstruction needs generation to fill the gaps\n18:44 The LLM lesson image models missed\n23:39 The video that made them go all in\n28:04 3D design is 95% revisions\n30:50 The problem in robotics is data, not chips\n32:48 Why a robot policy can't be trained like an image model\n34:44 When the simulator becomes the planner\n36:45 Frozen time required footage full of movement\n40:57 Why new view prediction is AI-complete\n42:43 Nature gave animals eyes but not trees\n\nYouTube: https://www.youtube.com/watch?v=qn1QDDBnTA0\n\n@drfeifei @jcjohnss @BenMildenhall @theworldlabs @martin_casado"
+    },
+    "url": "https://x.com/a16z/status/2096644736874639388",
+    "time": "2026-09-07 01:00",
+    "created_at": "Sun Sep 06 17:00:33 +0000 2026",
+    "id_str": "2096644736874639388",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "The way\nMidjourney 8.2",
+    "quoted_tweet": null,
+    "url": "https://x.com/KsunnyWazowski/status/2096632768755085643",
+    "time": "2026-09-07 00:13",
+    "created_at": "Sun Sep 06 16:13:00 +0000 2026",
+    "id_str": "2096632768755085643",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I asked GPT-6 Astra to draw me in Photoshop  🤯 \n\nIt did it in two different styles! \n\nAlso you can save a lot of tokens by asking Astra to make a script and then run those in Photoshop (doesn’t cost any gen credits). Same goes for Illustrator, After Effects, Premiere, etc.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096637608180793561",
+    "time": "2026-09-07 00:32",
+    "created_at": "Sun Sep 06 16:32:14 +0000 2026",
+    "id_str": "2096637608180793561",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@KsunnyWazowski Dreamy visuals",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096638418851676319",
+    "time": "2026-09-07 00:35",
+    "created_at": "Sun Sep 06 16:35:27 +0000 2026",
+    "id_str": "2096638418851676319",
+    "is_retweet": false
   }
 ]
