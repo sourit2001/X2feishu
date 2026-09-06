@@ -64,8 +64,11 @@ def refresh_access_token():
     payload = response.json()
     if not payload.get("access_token"):
         raise RuntimeError("X token refresh returned no access token.")
-    if payload.get("refresh_token") and payload["refresh_token"] != refresh_token:
-        print("WARNING: X returned a rotated refresh token; update X_USER_REFRESH_TOKEN in GitHub Secrets.")
+    rotated = payload.get("refresh_token")
+    if rotated and rotated != refresh_token:
+        with open(".x_radar_rotated_refresh_token", "w", encoding="utf-8") as file:
+            file.write(rotated)
+        print("X returned a rotated refresh token; it will be saved by the workflow.")
     return payload["access_token"]
 
 

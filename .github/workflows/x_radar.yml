@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      actions: write
     steps:
       - uses: actions/checkout@v3
         with:
@@ -29,6 +30,13 @@ jobs:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           FEISHU_WEBHOOK_DIGEST: ${{ secrets.FEISHU_WEBHOOK_DIGEST }}
         run: python x_radar.py
+      - name: Persist rotated refresh token
+        if: ${{ always() && hashFiles('.x_radar_rotated_refresh_token') != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh secret set X_USER_REFRESH_TOKEN < .x_radar_rotated_refresh_token
+          rm -f .x_radar_rotated_refresh_token
       - name: Save radar data
         run: |
           git config user.name "GitHub Action"
