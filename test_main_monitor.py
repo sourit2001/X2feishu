@@ -41,12 +41,44 @@ class MonitorBatchTests(unittest.TestCase):
     @mock.patch("main.requests.get")
     def test_rate_limit_is_not_retried(self, get):
         response = mock.Mock(status_code=429)
+        response.raise_for_status.side_effect = main.requests.HTTPError("429")
         get.return_value = response
 
         with self.assertRaises(main.XRateLimitError):
             main.fetch_tweets("example", "auth", "ct0")
 
-        get.assert_called_once()
+        self.assertEqual(get.call_count, 2)
+
+    @mock.patch("main.requests.get")
+    def test_fxtwitter_is_primary_and_does_not_send_x_cookies(self, get):
+        response = mock.Mock()
+        response.raise_for_status.return_value = None
+        response.json.return_value = {
+            "results": [
+                {
+                    "type": "status",
+                    "id": "2096605093986787380",
+                    "text": "Fresh post",
+                    "url": "https://x.com/example/status/2096605093986787380",
+                    "created_at": "Sun Sep 06 14:23:02 +0000 2026",
+                    "author": {"name": "Example", "screen_name": "example"},
+                    "quote": {
+                        "text": "Quoted post",
+                        "author": {"name": "Quoted", "screen_name": "quoted"},
+                    },
+                }
+            ]
+        }
+        get.return_value = response
+
+        tweets = main.fetch_tweets("example", "private-auth", "private-ct0")
+
+        self.assertEqual(tweets[0]["id_str"], "2096605093986787380")
+        self.assertEqual(tweets[0]["quoted_tweet"]["username"], "quoted")
+        self.assertFalse(tweets[0]["is_retweet"])
+        _, kwargs = get.call_args
+        self.assertNotIn("Cookie", kwargs["headers"])
+        self.assertIn("api.fxtwitter.com", get.call_args.args[0])
 
 
 if __name__ == "__main__":

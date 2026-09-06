@@ -42,10 +42,11 @@ LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
 WEB_FEED_DEFAULT_PATH = "data/signals.json"
 WEB_FEED_DEFAULT_LIMIT = 80
-WEB_FEED_BUILD = "github-staggered-batches-v7"
+WEB_FEED_BUILD = "fxtwitter-primary-v8"
 MONITOR_BATCH_COUNT = 3
 FETCH_INTERVAL_MIN_SECONDS = 3
 FETCH_INTERVAL_MAX_SECONDS = 7
+FXTWITTER_BASE_URL = "https://api.fxtwitter.com"
 
 
 class XRateLimitError(RuntimeError):
@@ -299,8 +300,66 @@ def sync_to_web_feed(tweet_record):
     except Exception as e:
         print(f"Web feed sync failed: {e}")
 
-def fetch_tweets(username, auth_token, ct0):
-    """Fetch one public timeline without retrying an X rate limit."""
+def normalize_fxtwitter_status(status, username):
+    """Convert one FxTwitter v2 status into the monitor's tweet shape."""
+    tweet_id = str(status.get("id") or "")
+    if not tweet_id.isdigit():
+        return None
+
+    author = status.get("author") or {}
+    author_username = author.get("screen_name") or username
+    quote = status.get("quote")
+    quote_author = quote.get("author") if isinstance(quote, dict) else None
+    quoted_info = None
+    if isinstance(quote, dict) and quote.get("text"):
+        quoted_info = {
+            "author": (quote_author or {}).get("name") or "未知",
+            "username": (quote_author or {}).get("screen_name") or "",
+            "text": quote.get("text") or "",
+        }
+
+    return {
+        "id": int(tweet_id),
+        "id_str": tweet_id,
+        "text": status.get("text") or status.get("raw_text") or "",
+        "url": status.get("url") or f"https://x.com/{username}/status/{tweet_id}",
+        "author": author.get("name") or username,
+        "created_at": status.get("created_at") or "",
+        "quoted_tweet": quoted_info,
+        "is_retweet": bool(status.get("reposted_by")) or author_username.lower() != username.lower(),
+    }
+
+
+def fetch_tweets_via_fxtwitter(username):
+    """Fetch a fresh public timeline without sending X login cookies."""
+    url = f"{FXTWITTER_BASE_URL}/2/profile/{username}/statuses"
+    response = requests.get(
+        url,
+        params={"count": 20},
+        headers={"User-Agent": "X2Feishu/1.0 (https://github.com/sourit2001/X2feishu)"},
+        timeout=40,
+    )
+    response.raise_for_status()
+    payload = response.json()
+    rows = payload.get("results")
+    if not isinstance(rows, list):
+        raise RuntimeError("FxTwitter response is missing results")
+
+    result = []
+    for row in rows:
+        # groupthreads is disabled, but ignore non-status records defensively.
+        if not isinstance(row, dict) or row.get("type") not in (None, "status"):
+            continue
+        tweet = normalize_fxtwitter_status(row, username)
+        if tweet:
+            result.append(tweet)
+
+    result.sort(key=lambda item: item["id"], reverse=True)
+    return result
+
+
+def fetch_tweets_via_syndication(username, auth_token, ct0):
+    """Fallback to X's legacy Syndication page without retrying rate limits."""
     url = f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -377,6 +436,17 @@ def fetch_tweets(username, auth_token, ct0):
         print(f"Error parsing {username}: {e}")
         return None
 
+
+def fetch_tweets(username, auth_token, ct0):
+    """Use FxTwitter first and keep Syndication only as a best-effort fallback."""
+    try:
+        tweets = fetch_tweets_via_fxtwitter(username)
+        print(f"Fetched {len(tweets)} tweets for @{username} via FxTwitter.")
+        return tweets
+    except Exception as exc:
+        print(f"FxTwitter failed for @{username}: {exc}; trying Syndication fallback.")
+        return fetch_tweets_via_syndication(username, auth_token, ct0)
+
 def should_force_web_feed_test():
     return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
 
@@ -408,7 +478,12 @@ def run_web_feed_test(auth_token, ct0, fetch_cache=None):
             print("No tweets found for web feed test.")
             continue
 
-        print(f"Publishing up to {limit} recent tweets for web feed test.")
+        latest = tweets[0]
+        print(
+            f"Web feed backfill received {len(tweets)} timeline items; "
+            f"latest={latest['id_str']} at {format_time(latest['created_at'])}. "
+            "These items are not necessarily new Feishu updates."
+        )
         for tweet in reversed(tweets[:limit]):
             daily_record = {
                 "username": user,
@@ -479,8 +554,8 @@ def main():
         if tweets is None:
             fetch_failures += 1
             continue
-        successful_fetches += 1
         if not tweets:
+            successful_fetches += 1
             continue
 
         if user.lower() == "aleabitoreddit" or user.lower() in get_web_feed_usernames():
@@ -503,6 +578,22 @@ def main():
 
         max_id = max(t['id'] for t in tweets)
         old_id = int(last_ids.get(user, 0))
+        latest_tweet = max(tweets, key=lambda item: item['id'])
+        print(
+            f"Timeline check @{user}: fetched={len(tweets)}, "
+            f"latest={max_id} at {format_time(latest_tweet['created_at'])}, "
+            f"stored={old_id or 'none'}."
+        )
+
+        if old_id and max_id < old_id:
+            fetch_failures += 1
+            print(
+                f"Stale timeline rejected for @{user}: fetched latest {max_id} "
+                f"is older than stored {old_id}."
+            )
+            continue
+
+        successful_fetches += 1
 
         to_push = []
         if old_id == 0:
@@ -520,7 +611,7 @@ def main():
             last_ids[user] = str(max_id)
             to_push.reverse()
         else:
-            print(f"No new updates.")
+            print(f"No new updates for @{user}; fetched latest matches stored ID {old_id}.")
 
         for tweet in to_push:
             pub_time = format_time(tweet['created_at'])
