@@ -101,5 +101,86 @@
     "created_at": "Sun Sep 06 22:40:40 +0000 2026",
     "id_str": "2096730328090189914",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "https://x.com/i/trending/2096647841427161215",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavidMoss/status/2096695276035621272",
+    "time": "2026-09-07 04:21",
+    "created_at": "Sun Sep 06 20:21:23 +0000 2026",
+    "id_str": "2096695276035621272",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Just speaking mathematically, if a party gets \"at least 44% of the vote\", in a multi-party race where the second place only got 17%, do you still get to call them \"far-right\"?\n\nAre you actually describing their extremism -- or are you really describing yours?",
+    "quoted_tweet": {
+      "author": "BBC Breaking News",
+      "username": "BBCBreaking",
+      "text": "Far-right AfD party projected to win East German state election with at least 44% of vote, exit polls say https://bbc.in/4dn6hkJ"
+    },
+    "url": "https://x.com/ezralevant/status/2096700608594026935",
+    "time": "2026-09-07 04:42",
+    "created_at": "Sun Sep 06 20:42:34 +0000 2026",
+    "id_str": "2096700608594026935",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ezralevant Far-center is more accurate",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2096730803560480902",
+    "time": "2026-09-07 06:42",
+    "created_at": "Sun Sep 06 22:42:33 +0000 2026",
+    "id_str": "2096730803560480902",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@Alice_Weidel @UlrichSiegmund @AfD_LSA Gut gemacht!",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2096732358690910551",
+    "time": "2026-09-07 06:48",
+    "created_at": "Sun Sep 06 22:48:44 +0000 2026",
+    "id_str": "2096732358690910551",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Startup Idea: Make a platform that hosts video games and makes them multiplayer. \n\nDon't build an agent that builds video games. \nWaste of time. \n\nBuild an agent native app that allows me to go to your site, copy a link, paste it into codex, claude or grok and say... \"Please make this game multiplayer so i can play it with my friends\"\n\nAnd their agent will look at your docs and efficiently host and list the game on your platform. \n\nAny type of game, just get the little things right like real time db, latency, and any other small details that make the games more fun. \n\nHave a little friction as possible. And make it free. \n\nAfter you get enough people on the platform implement a GAMEBUCKS... or something and let people add purchases to their games, and take a cut of that. \n\nYou'll find ways to monetize. \n\nBut only do games, and make the games on the platform discoverable.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2096722060546601159",
+    "time": "2026-09-07 06:07",
+    "created_at": "Sun Sep 06 22:07:49 +0000 2026",
+    "id_str": "2096722060546601159",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown So Roblox?",
+    "quoted_tweet": null,
+    "url": "https://x.com/ReezyResells/status/2096729804775235765",
+    "time": "2026-09-07 06:38",
+    "created_at": "Sun Sep 06 22:38:35 +0000 2026",
+    "id_str": "2096729804775235765",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@ReezyResells Can you do what I said exactly?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2096730523745832970",
+    "time": "2026-09-07 06:41",
+    "created_at": "Sun Sep 06 22:41:26 +0000 2026",
+    "id_str": "2096730523745832970",
+    "is_retweet": false
   }
 ]
