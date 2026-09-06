@@ -52,6 +52,7 @@ jobs:
           WEB_FEED_USERNAMES: ${{ vars.WEB_FEED_USERNAMES }}
           WEB_FEED_LIMIT: ${{ vars.WEB_FEED_LIMIT }}
           FORCE_WEB_FEED_TEST: ${{ github.event.inputs.force_web_feed_test }}
+          PYTHONUNBUFFERED: '1'
         run: python main.py
 
       - name: Commit and push if changed
