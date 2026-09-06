@@ -4,8 +4,14 @@ import json
 import time
 import re
 import base64
+import atexit
 from datetime import datetime, timedelta
 from bitable_sync import sync_to_bitable
+
+try:
+    from playwright.sync_api import sync_playwright
+except ImportError:
+    sync_playwright = None
 
 # --- Configuration ---
 # User list to monitor (ID from their profile URL)
@@ -41,15 +47,22 @@ LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
 WEB_FEED_DEFAULT_PATH = "data/signals.json"
 WEB_FEED_DEFAULT_LIMIT = 80
-WEB_FEED_BUILD = "mac-syndication-timeline-v4"
+WEB_FEED_BUILD = "mac-browser-timeline-v5"
 FETCH_MAX_ATTEMPTS = 3
 FETCH_INTERVAL_SECONDS = 2
+_playwright = None
+_browser = None
+_browser_context = None
+_browser_page = None
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
     try:
         # Twitter format example: "Sat Jan 31 00:00:00 +0000 2026"
-        dt = datetime.strptime(time_str, '%a %b %d %H:%M:%S +0000 %Y')
+        if "T" in time_str:
+            dt = datetime.fromisoformat(time_str.replace("Z", "+00:00")).replace(tzinfo=None)
+        else:
+            dt = datetime.strptime(time_str, '%a %b %d %H:%M:%S +0000 %Y')
         # To Beijing Time
         beijing_dt = dt + timedelta(hours=8)
         return beijing_dt.strftime('%Y-%m-%d %H:%M')
@@ -255,8 +268,114 @@ def sync_to_web_feed(tweet_record):
     except Exception as e:
         print(f"Web feed sync failed: {e}")
 
-def fetch_tweets(username, auth_token, ct0):
-    """Fetch tweets from Syndication; the monitor runs on the user's Mac network."""
+def close_browser():
+    global _playwright, _browser, _browser_context, _browser_page
+    if _browser:
+        _browser.close()
+    if _playwright:
+        _playwright.stop()
+    _playwright = _browser = _browser_context = _browser_page = None
+
+
+atexit.register(close_browser)
+
+
+def get_browser_page(auth_token, ct0):
+    """Launch one real Chromium session and reuse it for the entire monitor run."""
+    global _playwright, _browser, _browser_context, _browser_page
+    if _browser_page is not None:
+        return _browser_page
+    if sync_playwright is None:
+        raise RuntimeError("playwright is not installed")
+
+    _playwright = sync_playwright().start()
+    _browser = _playwright.chromium.launch(
+        headless=True,
+        args=["--disable-blink-features=AutomationControlled"],
+    )
+    _browser_context = _browser.new_context(
+        locale="en-US",
+        user_agent=(
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/140.0.0.0 Safari/537.36"
+        ),
+        viewport={"width": 1280, "height": 900},
+    )
+    _browser_context.add_cookies([
+        {
+            "name": "auth_token", "value": auth_token, "domain": ".x.com",
+            "path": "/", "secure": True, "httpOnly": True,
+        },
+        {
+            "name": "ct0", "value": ct0, "domain": ".x.com",
+            "path": "/", "secure": True,
+        },
+    ])
+    _browser_page = _browser_context.new_page()
+    return _browser_page
+
+
+def fetch_tweets_via_browser(username, auth_token, ct0):
+    """Read a profile timeline from the rendered x.com page."""
+    page = get_browser_page(auth_token, ct0)
+    page.goto(
+        f"https://x.com/{username}",
+        wait_until="domcontentloaded",
+        timeout=45000,
+    )
+    page.wait_for_selector('article[data-testid="tweet"]', timeout=30000)
+    for _ in range(2):
+        page.mouse.wheel(0, 1400)
+        page.wait_for_timeout(1200)
+
+    tweets = {}
+    articles = page.locator('article[data-testid="tweet"]')
+    for index in range(min(articles.count(), 25)):
+        article = articles.nth(index)
+        links = article.locator('a[href*="/status/"]')
+        status_url = None
+        tweet_id = None
+        for link_index in range(links.count()):
+            href = links.nth(link_index).get_attribute("href") or ""
+            match = re.search(r"/status/(\d+)", href)
+            if match:
+                tweet_id = match.group(1)
+                status_url = f"https://x.com{href.split('?')[0]}"
+                break
+        if not tweet_id or tweet_id in tweets:
+            continue
+
+        text_nodes = article.locator('[data-testid="tweetText"]')
+        text = text_nodes.first.inner_text() if text_nodes.count() else ""
+        time_nodes = article.locator("time")
+        created_at = time_nodes.first.get_attribute("datetime") if time_nodes.count() else ""
+        author_nodes = article.locator('[data-testid="User-Name"]')
+        author_text = author_nodes.first.inner_text() if author_nodes.count() else username
+        author = author_text.splitlines()[0].strip() or username
+        social_nodes = article.locator('[data-testid="socialContext"]')
+        social_text = social_nodes.first.inner_text().lower() if social_nodes.count() else ""
+        is_retweet = "repost" in social_text or "转帖" in social_text or "转推" in social_text
+
+        tweets[tweet_id] = {
+            "id": int(tweet_id),
+            "id_str": tweet_id,
+            "text": text,
+            "url": status_url,
+            "author": author,
+            "created_at": created_at,
+            "quoted_tweet": None,
+            "is_retweet": is_retweet,
+        }
+
+    result = sorted(tweets.values(), key=lambda item: item["id"], reverse=True)
+    if not result:
+        raise RuntimeError(f"no tweet cards found; page={page.url} title={page.title()}")
+    return result
+
+
+def fetch_tweets_via_syndication(username, auth_token, ct0):
+    """Fallback to the legacy Syndication page."""
     url = f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -339,6 +458,17 @@ def fetch_tweets(username, auth_token, ct0):
     except Exception as e:
         print(f"Error parsing {username}: {e}")
         return None
+
+
+def fetch_tweets(username, auth_token, ct0):
+    """Fetch through a real local browser, with Syndication as fallback."""
+    try:
+        tweets = fetch_tweets_via_browser(username, auth_token, ct0)
+        print(f"Fetched {len(tweets)} tweets for {username} via local Chromium.")
+        return tweets
+    except Exception as e:
+        print(f"Local Chromium failed for {username}: {e}; trying Syndication fallback.")
+        return fetch_tweets_via_syndication(username, auth_token, ct0)
 
 def should_force_web_feed_test():
     return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
