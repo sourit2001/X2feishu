@@ -47,6 +47,7 @@ MONITOR_BATCH_COUNT = 3
 FETCH_INTERVAL_MIN_SECONDS = 3
 FETCH_INTERVAL_MAX_SECONDS = 7
 FXTWITTER_BASE_URL = "https://api.fxtwitter.com"
+FXTWITTER_TIMELINE_LIMIT = 100
 _web_feed_disabled_reason = None
 
 
@@ -347,7 +348,7 @@ def fetch_tweets_via_fxtwitter(username):
     url = f"{FXTWITTER_BASE_URL}/2/profile/{username}/statuses"
     response = requests.get(
         url,
-        params={"count": 20},
+        params={"count": FXTWITTER_TIMELINE_LIMIT},
         headers={"User-Agent": "X2Feishu/1.0 (https://github.com/sourit2001/X2feishu)"},
         timeout=40,
     )

@@ -81,6 +81,7 @@ class MonitorBatchTests(unittest.TestCase):
         self.assertFalse(tweets[0]["is_retweet"])
         _, kwargs = get.call_args
         self.assertNotIn("Cookie", kwargs["headers"])
+        self.assertEqual(kwargs["params"]["count"], 100)
         self.assertIn("api.fxtwitter.com", get.call_args.args[0])
 
     @mock.patch("main.requests.get")
