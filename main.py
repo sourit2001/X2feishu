@@ -4,14 +4,9 @@ import json
 import time
 import re
 import base64
-import atexit
+import random
 from datetime import datetime, timedelta
 from bitable_sync import sync_to_bitable
-
-try:
-    from playwright.sync_api import sync_playwright
-except ImportError:
-    sync_playwright = None
 
 # --- Configuration ---
 # User list to monitor (ID from their profile URL)
@@ -47,13 +42,14 @@ LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
 WEB_FEED_DEFAULT_PATH = "data/signals.json"
 WEB_FEED_DEFAULT_LIMIT = 80
-WEB_FEED_BUILD = "mac-browser-timeline-v6"
-FETCH_MAX_ATTEMPTS = 3
-FETCH_INTERVAL_SECONDS = 2
-_playwright = None
-_browser = None
-_browser_context = None
-_browser_page = None
+WEB_FEED_BUILD = "github-staggered-batches-v7"
+MONITOR_BATCH_COUNT = 3
+FETCH_INTERVAL_MIN_SECONDS = 3
+FETCH_INTERVAL_MAX_SECONDS = 7
+
+
+class XRateLimitError(RuntimeError):
+    pass
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
@@ -165,6 +161,41 @@ def get_monitored_bloggers():
 
     return bloggers
 
+
+def get_scheduled_bloggers(bloggers=None):
+    """Select one stable round-robin account batch for this workflow run."""
+    bloggers = list(bloggers if bloggers is not None else get_monitored_bloggers())
+    raw_index = (os.getenv("MONITOR_BATCH_INDEX") or "all").strip().lower()
+    if raw_index in {"", "all"}:
+        print(f"Monitoring all {len(bloggers)} accounts (manual mode).")
+        return bloggers
+
+    batch_count = int(os.getenv("MONITOR_BATCH_COUNT") or MONITOR_BATCH_COUNT)
+    batch_index = int(raw_index)
+    if batch_count < 1 or not 0 <= batch_index < batch_count:
+        raise ValueError(
+            f"Invalid monitor batch {batch_index}; expected 0..{batch_count - 1}"
+        )
+
+    selected = [
+        blogger for position, blogger in enumerate(bloggers)
+        if position % batch_count == batch_index
+    ]
+    usernames = ", ".join(f"@{item['username']}" for item in selected)
+    print(
+        f"Monitoring batch {batch_index + 1}/{batch_count}: "
+        f"{len(selected)} accounts ({usernames})"
+    )
+    return selected
+
+
+def sleep_between_fetches():
+    minimum = float(os.getenv("FETCH_INTERVAL_MIN_SECONDS") or FETCH_INTERVAL_MIN_SECONDS)
+    maximum = float(os.getenv("FETCH_INTERVAL_MAX_SECONDS") or FETCH_INTERVAL_MAX_SECONDS)
+    if maximum < minimum:
+        minimum, maximum = maximum, minimum
+    time.sleep(random.uniform(minimum, maximum))
+
 def get_cashtags(text):
     """Extract stock symbols such as $MU, $LITE, and A-share codes like 688017."""
     value = text or ""
@@ -268,125 +299,8 @@ def sync_to_web_feed(tweet_record):
     except Exception as e:
         print(f"Web feed sync failed: {e}")
 
-def close_browser():
-    global _playwright, _browser, _browser_context, _browser_page
-    if _browser:
-        _browser.close()
-    if _playwright:
-        _playwright.stop()
-    _playwright = _browser = _browser_context = _browser_page = None
-
-
-atexit.register(close_browser)
-
-
-def get_browser_page(auth_token, ct0):
-    """Launch one real Chromium session and reuse it for the entire monitor run."""
-    global _playwright, _browser, _browser_context, _browser_page
-    if _browser_page is not None:
-        return _browser_page
-    if sync_playwright is None:
-        raise RuntimeError("playwright is not installed")
-
-    _playwright = sync_playwright().start()
-    _browser = _playwright.chromium.launch(
-        headless=True,
-        args=["--disable-blink-features=AutomationControlled"],
-    )
-    _browser_context = _browser.new_context(
-        locale="en-US",
-        user_agent=(
-            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/140.0.0.0 Safari/537.36"
-        ),
-        viewport={"width": 1280, "height": 900},
-    )
-    _browser_context.add_cookies([
-        {
-            "name": "auth_token", "value": auth_token, "domain": ".x.com",
-            "path": "/", "secure": True, "httpOnly": True,
-        },
-        {
-            "name": "ct0", "value": ct0, "domain": ".x.com",
-            "path": "/", "secure": True,
-        },
-    ])
-    _browser_page = _browser_context.new_page()
-    return _browser_page
-
-
-def fetch_tweets_via_browser(username, auth_token, ct0):
-    """Read a profile timeline from the rendered x.com page."""
-    page = get_browser_page(auth_token, ct0)
-    page.goto(
-        f"https://x.com/{username}",
-        wait_until="domcontentloaded",
-        timeout=45000,
-    )
-    try:
-        page.wait_for_selector('article[data-testid="tweet"]', timeout=30000)
-    except Exception as exc:
-        debug_path = f"/private/tmp/x2feishu-{username}-browser-debug.png"
-        try:
-            page.screenshot(path=debug_path, full_page=True)
-        except Exception:
-            debug_path = "unavailable"
-        raise RuntimeError(
-            f"tweet cards unavailable; page={page.url} title={page.title()} "
-            f"local_screenshot={debug_path}"
-        ) from exc
-    for _ in range(2):
-        page.mouse.wheel(0, 1400)
-        page.wait_for_timeout(1200)
-
-    tweets = {}
-    articles = page.locator('article[data-testid="tweet"]')
-    for index in range(min(articles.count(), 25)):
-        article = articles.nth(index)
-        links = article.locator('a[href*="/status/"]')
-        status_url = None
-        tweet_id = None
-        for link_index in range(links.count()):
-            href = links.nth(link_index).get_attribute("href") or ""
-            match = re.search(r"/status/(\d+)", href)
-            if match:
-                tweet_id = match.group(1)
-                status_url = f"https://x.com{href.split('?')[0]}"
-                break
-        if not tweet_id or tweet_id in tweets:
-            continue
-
-        text_nodes = article.locator('[data-testid="tweetText"]')
-        text = text_nodes.first.inner_text() if text_nodes.count() else ""
-        time_nodes = article.locator("time")
-        created_at = time_nodes.first.get_attribute("datetime") if time_nodes.count() else ""
-        author_nodes = article.locator('[data-testid="User-Name"]')
-        author_text = author_nodes.first.inner_text() if author_nodes.count() else username
-        author = author_text.splitlines()[0].strip() or username
-        social_nodes = article.locator('[data-testid="socialContext"]')
-        social_text = social_nodes.first.inner_text().lower() if social_nodes.count() else ""
-        is_retweet = "repost" in social_text or "转帖" in social_text or "转推" in social_text
-
-        tweets[tweet_id] = {
-            "id": int(tweet_id),
-            "id_str": tweet_id,
-            "text": text,
-            "url": status_url,
-            "author": author,
-            "created_at": created_at,
-            "quoted_tweet": None,
-            "is_retweet": is_retweet,
-        }
-
-    result = sorted(tweets.values(), key=lambda item: item["id"], reverse=True)
-    if not result:
-        raise RuntimeError(f"no tweet cards found; page={page.url} title={page.title()}")
-    return result
-
-
-def fetch_tweets_via_syndication(username, auth_token, ct0):
-    """Fallback to the legacy Syndication page."""
+def fetch_tweets(username, auth_token, ct0):
+    """Fetch one public timeline without retrying an X rate limit."""
     url = f"https://syndication.twitter.com/srv/timeline-profile/screen-name/{username}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
@@ -394,19 +308,10 @@ def fetch_tweets_via_syndication(username, auth_token, ct0):
     }
     
     try:
-        response = None
-        for attempt in range(1, FETCH_MAX_ATTEMPTS + 1):
-            response = requests.get(url, headers=headers, timeout=30)
-            if response.status_code != 429 or attempt == FETCH_MAX_ATTEMPTS:
-                break
+        response = requests.get(url, headers=headers, timeout=30)
 
-            retry_after = response.headers.get("Retry-After")
-            try:
-                delay = min(float(retry_after), 30.0)
-            except (TypeError, ValueError):
-                delay = float(5 * (2 ** (attempt - 1)))
-            print(f"X rate limited {username} (attempt {attempt}/{FETCH_MAX_ATTEMPTS}); retrying in {delay:g}s")
-            time.sleep(delay)
+        if response.status_code == 429:
+            raise XRateLimitError(f"X rate limited @{username} (HTTP 429)")
 
         if response.status_code != 200:
             print(f"Failed to fetch {username}: HTTP {response.status_code}")
@@ -466,23 +371,11 @@ def fetch_tweets_via_syndication(username, auth_token, ct0):
         # Sort by ID descending
         result.sort(key=lambda x: x['id'], reverse=True)
         return result
+    except XRateLimitError:
+        raise
     except Exception as e:
         print(f"Error parsing {username}: {e}")
         return None
-
-
-def fetch_tweets(username, auth_token, ct0):
-    """Fetch through a real local browser, with Syndication as fallback."""
-    try:
-        tweets = fetch_tweets_via_browser(username, auth_token, ct0)
-        print(f"Fetched {len(tweets)} tweets for {username} via local Chromium.")
-        return tweets
-    except Exception as e:
-        print(f"Local Chromium failed for {username}: {e}")
-        if should_force_web_feed_test():
-            return None
-        print(f"Trying Syndication fallback for {username}.")
-        return fetch_tweets_via_syndication(username, auth_token, ct0)
 
 def should_force_web_feed_test():
     return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
@@ -505,7 +398,7 @@ def run_web_feed_test(auth_token, ct0, fetch_cache=None):
         print(f"--- Force web feed test: {nick} (@{user}) ---")
         if user.lower() not in fetch_cache:
             fetch_cache[user.lower()] = fetch_tweets(user, auth_token, ct0)
-            time.sleep(FETCH_INTERVAL_SECONDS)
+            sleep_between_fetches()
         tweets = fetch_cache[user.lower()]
 
         if tweets is None:
@@ -561,18 +454,26 @@ def main():
         run_web_feed_test(auth_token, ct0, fetch_cache)
         return
 
-    print("Syncing web feed accounts before general monitor pass.")
-    run_web_feed_test(auth_token, ct0, fetch_cache)
+    monitored_bloggers = get_scheduled_bloggers()
+    monitored_usernames = {item["username"].lower() for item in monitored_bloggers}
+    if monitored_usernames & get_web_feed_usernames():
+        print("Syncing this batch's web feed accounts before general monitor pass.")
+        run_web_feed_test(auth_token, ct0, fetch_cache)
 
     fetch_failures = 0
     successful_fetches = 0
-    for blogger in get_monitored_bloggers():
+    for blogger in monitored_bloggers:
         user = blogger['username']
         nick = blogger['nickname']
         print(f"--- Checking {nick} (@{user}) ---")
         if user.lower() not in fetch_cache:
-            fetch_cache[user.lower()] = fetch_tweets(user, auth_token, ct0)
-            time.sleep(FETCH_INTERVAL_SECONDS)
+            try:
+                fetch_cache[user.lower()] = fetch_tweets(user, auth_token, ct0)
+            except XRateLimitError as exc:
+                fetch_failures += 1
+                print(f"{exc}; stopping this batch and waiting for its next scheduled run.")
+                break
+            sleep_between_fetches()
         tweets = fetch_cache[user.lower()]
         
         if tweets is None:

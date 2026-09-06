@@ -2,9 +2,15 @@ name: X (Twitter) Monitor
 
 on:
   schedule:
-    - cron: '0 * * * *' # Every hour on the hour
+    - cron: '0 * * * *'  # Batch 1
+    - cron: '20 * * * *' # Batch 2
+    - cron: '40 * * * *' # Batch 3
   workflow_dispatch:      # Allow manual trigger
     inputs:
+      batch_index:
+        description: 'Account batch to run (0, 1, 2, or all)'
+        required: false
+        default: '0'
       force_web_feed_test:
         description: 'Force publish the latest web-feed tweet for testing'
         required: false
@@ -16,7 +22,8 @@ concurrency:
 
 jobs:
   build:
-    runs-on: x2feishu
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write     # Allow script to save progress back to repo
 
@@ -27,8 +34,28 @@ jobs:
       - name: Show checked out commit
         run: git log -1 --oneline
 
-      - name: Verify local Python runtime
-        run: /Users/lizhu/Automations/x2feishu-runtime/bin/python --version
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Select account batch
+        env:
+          REQUESTED_BATCH: ${{ github.event.inputs.batch_index }}
+          SCHEDULE_EXPRESSION: ${{ github.event.schedule }}
+        run: |
+          if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "MONITOR_BATCH_INDEX=${REQUESTED_BATCH:-0}" >> "$GITHUB_ENV"
+          elif [ "$SCHEDULE_EXPRESSION" = "20 * * * *" ]; then
+            echo "MONITOR_BATCH_INDEX=1" >> "$GITHUB_ENV"
+          elif [ "$SCHEDULE_EXPRESSION" = "40 * * * *" ]; then
+            echo "MONITOR_BATCH_INDEX=2" >> "$GITHUB_ENV"
+          else
+            echo "MONITOR_BATCH_INDEX=0" >> "$GITHUB_ENV"
+          fi
 
       - name: Run monitor
         env:
@@ -47,8 +74,11 @@ jobs:
           WEB_FEED_USERNAMES: ${{ vars.WEB_FEED_USERNAMES }}
           WEB_FEED_LIMIT: ${{ vars.WEB_FEED_LIMIT }}
           FORCE_WEB_FEED_TEST: ${{ github.event.inputs.force_web_feed_test }}
+          MONITOR_BATCH_COUNT: '3'
+          FETCH_INTERVAL_MIN_SECONDS: '3'
+          FETCH_INTERVAL_MAX_SECONDS: '7'
           PYTHONUNBUFFERED: '1'
-        run: /Users/lizhu/Automations/x2feishu-runtime/bin/python main.py
+        run: python main.py
 
       - name: Commit and push if changed
         if: github.event.inputs.force_web_feed_test != 'true'
