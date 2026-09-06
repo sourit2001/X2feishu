@@ -8,6 +8,21 @@ class FetchTweetsTests(unittest.TestCase):
     def tearDown(self):
         main._tweetkit_client = None
 
+    def test_client_bootstrap_session_receives_auth_cookie(self):
+        fake_client = Mock()
+        fake_client._session.headers = {}
+        with patch.object(main, "TweetKit", return_value=fake_client) as factory:
+            client = main.get_tweetkit_client("auth-value", "csrf-value")
+
+        self.assertIs(client, fake_client)
+        self.assertEqual(
+            client._session.headers["Cookie"],
+            "auth_token=auth-value; ct0=csrf-value",
+        )
+        factory.assert_called_once_with(
+            cookie="auth_token=auth-value; ct0=csrf-value", timeout=30
+        )
+
     def test_graphql_fetch_filters_nested_tweets_and_normalizes_rows(self):
         client = Mock()
         client.get_tweets.return_value = [

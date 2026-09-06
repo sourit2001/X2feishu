@@ -269,6 +269,10 @@ def get_tweetkit_client(auth_token, ct0):
             raise RuntimeError("tweetkit-x is not installed")
         cookie = f"auth_token={auth_token}; ct0={ct0}"
         _tweetkit_client = TweetKit(cookie=cookie, timeout=30)
+        # tweetkit-x sends the cookie on GraphQL calls, but its transaction-id
+        # bootstrap fetches x.com through the shared session first. Ensure that
+        # bootstrap request sees the same authenticated page as the browser.
+        _tweetkit_client._session.headers.update({"Cookie": cookie})
     return _tweetkit_client
 
 
