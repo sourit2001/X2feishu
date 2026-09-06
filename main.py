@@ -47,6 +47,7 @@ MONITOR_BATCH_COUNT = 3
 FETCH_INTERVAL_MIN_SECONDS = 3
 FETCH_INTERVAL_MAX_SECONDS = 7
 FXTWITTER_BASE_URL = "https://api.fxtwitter.com"
+_web_feed_disabled_reason = None
 
 
 class XRateLimitError(RuntimeError):
@@ -242,6 +243,10 @@ def normalize_github_token(value):
 
 def sync_to_web_feed(tweet_record):
     """Publish selected tweets to the Track Serenity website repository."""
+    global _web_feed_disabled_reason
+    if _web_feed_disabled_reason:
+        return
+
     token = normalize_github_token(os.getenv("WEB_FEED_GITHUB_TOKEN"))
     repo = (os.getenv("WEB_FEED_REPO") or "sourit2001/trackserenity").strip()
     branch = (os.getenv("WEB_FEED_BRANCH") or "main").strip()
@@ -299,6 +304,13 @@ def sync_to_web_feed(tweet_record):
         print(f"Synced to web feed: {tweet_id}")
     except Exception as e:
         print(f"Web feed sync failed: {e}")
+        response = getattr(e, "response", None)
+        if response is not None and response.status_code in (401, 403):
+            _web_feed_disabled_reason = f"HTTP {response.status_code}"
+            print(
+                "Disabling web feed sync for the rest of this run after "
+                f"{_web_feed_disabled_reason}; X monitoring will continue."
+            )
 
 def normalize_fxtwitter_status(status, username):
     """Convert one FxTwitter v2 status into the monitor's tweet shape."""

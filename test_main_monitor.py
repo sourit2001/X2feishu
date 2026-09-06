@@ -6,6 +6,9 @@ import main
 
 
 class MonitorBatchTests(unittest.TestCase):
+    def tearDown(self):
+        main._web_feed_disabled_reason = None
+
     def test_three_batches_cover_every_account_once(self):
         bloggers = [
             {"username": f"user{index}", "nickname": f"User {index}"}
@@ -79,6 +82,23 @@ class MonitorBatchTests(unittest.TestCase):
         _, kwargs = get.call_args
         self.assertNotIn("Cookie", kwargs["headers"])
         self.assertIn("api.fxtwitter.com", get.call_args.args[0])
+
+    @mock.patch("main.requests.get")
+    def test_web_feed_auth_error_disables_repeated_sync_attempts(self, get):
+        response = mock.Mock(status_code=401)
+        get.side_effect = main.requests.HTTPError("401", response=response)
+        record = {"username": "example", "id_str": "1", "text": "test"}
+
+        with mock.patch.dict(
+            os.environ,
+            {"WEB_FEED_GITHUB_TOKEN": "invalid", "WEB_FEED_USERNAMES": "example"},
+            clear=False,
+        ):
+            main.sync_to_web_feed(record)
+            main.sync_to_web_feed(record)
+
+        get.assert_called_once()
+        self.assertEqual(main._web_feed_disabled_reason, "HTTP 401")
 
 
 if __name__ == "__main__":
