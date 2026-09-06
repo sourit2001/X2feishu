@@ -906,5 +906,1366 @@
     "created_at": "Sun Sep 06 10:12:00 +0000 2026",
     "id_str": "2096541919920697450",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Astra was probably our biggest competitive advantage while it wasn’t generally available.\n\nSince we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2096101429832552872",
+    "time": "2026-09-05 13:01",
+    "created_at": "Sat Sep 05 05:01:39 +0000 2026",
+    "id_str": "2096101429832552872",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "it is obviously trivial relative to everything else, but the fact that astra can make me whatever fun little game i can imagine and i can be playing it a few minutes later is so cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2096241436509544744",
+    "time": "2026-09-05 22:17",
+    "created_at": "Sat Sep 05 14:17:59 +0000 2026",
+    "id_str": "2096241436509544744",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Wonder what subscription level @sama has. Plus or Pro? \n\nFree?",
+    "quoted_tweet": {
+      "author": "Sam Altman",
+      "username": "sama",
+      "text": "it is obviously trivial relative to everything else, but the fact that astra can make me whatever fun little game i can imagine and i can be playing it a few minutes later is so cool"
+    },
+    "url": "https://x.com/Royultea_/status/2096261692195778933",
+    "time": "2026-09-05 23:38",
+    "created_at": "Sat Sep 05 15:38:28 +0000 2026",
+    "id_str": "2096261692195778933",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "@Royultea_ they give me a special one i think",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2096269913870741786",
+    "time": "2026-09-06 00:11",
+    "created_at": "Sat Sep 05 16:11:08 +0000 2026",
+    "id_str": "2096269913870741786",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "GPT-6 Astra + Blender +  Three.js + ChatGPT Sites\n\n从建模到导入模型，再到网站生成对应的动效和交互，然后到在线部署，一步到位\n\n现在做这种网站的成本实在是低\n\n这里体验：https://moonlit-forge-studio.op7418.chatgpt.site",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "太好玩了，玩得停不下来！\n\nGPT-6 给了他一张图，然后他就用 Blender 构建了一个这样的场景和动画视频。\n\n主要用的是 bpy 和 Blender MCP，Computer Use 用的很少。"
+    },
+    "url": "https://x.com/op7418/status/2096205141187956887",
+    "time": "2026-09-05 19:53",
+    "created_at": "Sat Sep 05 11:53:45 +0000 2026",
+    "id_str": "2096205141187956887",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "跟杨攀、橘子、乔木一起做了一个播客，叫 NEXT Token，拿下了昨天的小宇宙新星榜！\n\n主要是借着当周的一些新闻，聊聊我们对这些事情的看法和认知。\n\n一期大概一个多小时，非常像 AI 圈的谐星聊天会，后续也会有视频播客。\n\n这一期尤其推荐厂商听，我们提了非常多关于模型厂商和大厂我觉得应该做的事情",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096433364983238781",
+    "time": "2026-09-06 11:00",
+    "created_at": "Sun Sep 06 03:00:38 +0000 2026",
+    "id_str": "2096433364983238781",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "小宇宙：https://www.xiaoyuzhoufm.com/episode/6a9ad843f03e74ee6b05352c\n\nB 站：https://www.bilibili.com/video/BV1qdtz6LEHf/?spm_id_from=333.1387.list.card_archive.click",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096433655568839169",
+    "time": "2026-09-06 11:01",
+    "created_at": "Sun Sep 06 03:01:47 +0000 2026",
+    "id_str": "2096433655568839169",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@karkanini9 就这么搬运，也不标明作者，居然还跑到我这儿来炫耀",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096488507170820451",
+    "time": "2026-09-06 14:39",
+    "created_at": "Sun Sep 06 06:39:45 +0000 2026",
+    "id_str": "2096488507170820451",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@vista8 @oran_ge @op7418 真好啊，周更吗～",
+    "quoted_tweet": null,
+    "url": "https://x.com/luoxiaoshan_ai/status/2096490211966664967",
+    "time": "2026-09-06 14:46",
+    "created_at": "Sun Sep 06 06:46:32 +0000 2026",
+    "id_str": "2096490211966664967",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@luoxiaoshan_ai @vista8 @oran_ge 周更",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096491246256812088",
+    "time": "2026-09-06 14:50",
+    "created_at": "Sun Sep 06 06:50:38 +0000 2026",
+    "id_str": "2096491246256812088",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096494840431386950",
+    "time": "2026-09-06 15:04",
+    "created_at": "Sun Sep 06 07:04:55 +0000 2026",
+    "id_str": "2096494840431386950",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 看的我想要订阅了",
+    "quoted_tweet": null,
+    "url": "https://x.com/yg6888/status/2096495782002343975",
+    "time": "2026-09-06 15:08",
+    "created_at": "Sun Sep 06 07:08:40 +0000 2026",
+    "id_str": "2096495782002343975",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这个真的太强了，直接进生产管线…",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪"
+    },
+    "url": "https://x.com/luoxiaoshan_ai/status/2096500414845988926",
+    "time": "2026-09-06 15:27",
+    "created_at": "Sun Sep 06 07:27:04 +0000 2026",
+    "id_str": "2096500414845988926",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@luoxiaoshan_ai 我也没想到能这么省钱，我都做好使用一张重置卡的准备了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096501307188367515",
+    "time": "2026-09-06 15:30",
+    "created_at": "Sun Sep 06 07:30:37 +0000 2026",
+    "id_str": "2096501307188367515",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yg6888 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096502895814541600",
+    "time": "2026-09-06 15:36",
+    "created_at": "Sun Sep 06 07:36:56 +0000 2026",
+    "id_str": "2096502895814541600",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "有朋友想玩一下、试一下吗？\n\n想的话，我打包俩客户端给大家玩玩？",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪"
+    },
+    "url": "https://x.com/op7418/status/2096507824113393707",
+    "time": "2026-09-06 15:56",
+    "created_at": "Sun Sep 06 07:56:31 +0000 2026",
+    "id_str": "2096507824113393707",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "搞了个完整游戏：https://x.com/op7418/status/2096494840431386950?s=20",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪"
+    },
+    "url": "https://x.com/op7418/status/2096510087800270892",
+    "time": "2026-09-06 16:05",
+    "created_at": "Sun Sep 06 08:05:30 +0000 2026",
+    "id_str": "2096510087800270892",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 安排上 steam?",
+    "quoted_tweet": null,
+    "url": "https://x.com/lexrus/status/2096511062619398249",
+    "time": "2026-09-06 16:09",
+    "created_at": "Sun Sep 06 08:09:23 +0000 2026",
+    "id_str": "2096511062619398249",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@lexrus 只有一个关卡，这种质量上不了 Steam，过不了审，随便发给大家玩玩就行。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096511287870300351",
+    "time": "2026-09-06 16:10",
+    "created_at": "Sun Sep 06 08:10:16 +0000 2026",
+    "id_str": "2096511287870300351",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "https://pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096522760520667414",
+    "time": "2026-09-06 16:55",
+    "created_at": "Sun Sep 06 08:55:52 +0000 2026",
+    "id_str": "2096522760520667414",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 我甚至觉得这个游戏有点好玩",
+    "quoted_tweet": null,
+    "url": "https://x.com/Aries_warrior_f/status/2096527456320753927",
+    "time": "2026-09-06 17:14",
+    "created_at": "Sun Sep 06 09:14:31 +0000 2026",
+    "id_str": "2096527456320753927",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 老师GPT-6 Astra用的什么思考强度，才消耗那么点",
+    "quoted_tweet": null,
+    "url": "https://x.com/fly11661/status/2096529498640630110",
+    "time": "2026-09-06 17:22",
+    "created_at": "Sun Sep 06 09:22:38 +0000 2026",
+    "id_str": "2096529498640630110",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@fly11661 高",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096530585787449359",
+    "time": "2026-09-06 17:26",
+    "created_at": "Sun Sep 06 09:26:57 +0000 2026",
+    "id_str": "2096530585787449359",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Aries_warrior_f 是的，手感很好，要不是卡，我觉得更好玩。就是它该有的那些其实都有了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096530669086417250",
+    "time": "2026-09-06 17:27",
+    "created_at": "Sun Sep 06 09:27:17 +0000 2026",
+    "id_str": "2096530669086417250",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "多看看这种 GPT6 的内容，有助于拿住存。记住：人类对 ai 的开发不足 1%！\n\nBuy the dip，长期持有，永远缺存储，Discord在个人资料。",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪"
+    },
+    "url": "https://x.com/hanking66/status/2096537357222916340",
+    "time": "2026-09-06 17:53",
+    "created_at": "Sun Sep 06 09:53:52 +0000 2026",
+    "id_str": "2096537357222916340",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@hanking66 cww",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096540844723716300",
+    "time": "2026-09-06 18:07",
+    "created_at": "Sun Sep 06 10:07:43 +0000 2026",
+    "id_str": "2096540844723716300",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 蹲一个。。哈哈。这特么的，我一入既往max。结果好非贼快，老老实实high了",
+    "quoted_tweet": null,
+    "url": "https://x.com/imyouhu/status/2096559830727376903",
+    "time": "2026-09-06 19:23",
+    "created_at": "Sun Sep 06 11:23:10 +0000 2026",
+    "id_str": "2096559830727376903",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@imyouhu 在源推下面发了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2096560349721800879",
+    "time": "2026-09-06 19:25",
+    "created_at": "Sun Sep 06 11:25:14 +0000 2026",
+    "id_str": "2096560349721800879",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这里“https://x.com/op7418/status/2096522760520667414?s=20”",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "https://pan.quark.cn/s/70894dcb80cc 打包了一个 Mac 和一个 Windows 客户端，感兴趣可以玩玩"
+    },
+    "url": "https://x.com/op7418/status/2096577445642273264",
+    "time": "2026-09-06 20:33",
+    "created_at": "Sun Sep 06 12:33:10 +0000 2026",
+    "id_str": "2096577445642273264",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示\n\n在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-6 Astra + Blender + Godot Engine\n\nGPT-6 仅用 20X 3% 的额度，帮我做出了一个完整的 3D Roguelike 游戏关卡\n\n昼夜循环、天气系统、3D 建模、贴图、武器切换、技能系统，以及近战和远程的小怪"
+    },
+    "url": "https://x.com/op7418/status/2096605334651728200",
+    "time": "2026-09-06 22:23",
+    "created_at": "Sun Sep 06 14:23:59 +0000 2026",
+    "id_str": "2096605334651728200",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Windwos 下的体验太好了：https://x.com/op7418/status/2096605334651728200?s=20",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "用我的 Windows 给这个用 GPT-6 Astra 做的 3D 游戏录了一个纯粹的演示\n\n在 5070 Ti 的加持下，整个环境更加真实了，细节更多，而且超级流畅"
+    },
+    "url": "https://x.com/op7418/status/2096605428344050082",
+    "time": "2026-09-06 22:24",
+    "created_at": "Sun Sep 06 14:24:21 +0000 2026",
+    "id_str": "2096605428344050082",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "感觉有了 GPT-6 我也能拍《牛来》了！",
+    "quoted_tweet": {
+      "author": "nicekate",
+      "username": "nicekate8888",
+      "text": "110分钟，Astra建模到剪片全做了\n\n给 GPT 6 Astra medium(fast) 提了一个需求： 用 Blender 做一座「悟空大闹蟠桃园」。🍑\n\n九棵蟠桃树、云海、汉白玉平台、六角亭，还有蹲在树上偷桃的悟空和惊慌的仙女……场景细节都写进了需求里。\n\n然后继续加任务： 给场景设计运镜，做成一分钟视频； 再操作剪映，剪成更吸引人的 30 秒精华版。\n\n从最初提出建模需求，到剪映导出最终成片，前后约 110 分钟。\n\nAstra 做了什么？\n\n🍑 Blender 建模与迭代 搭建场景、角色、材质和灯光，经过 6 轮迭代，保留了 18 张过程图。\n\n🎬 制作运镜视频 设计不同机位的镜头运动，渲染一分钟视频，加入标题，并调用 MiniMax 生成原创配乐。\n\n✂️ 直接操作剪映完成二次剪辑 重新排列镜头、分段变速、添加 6 段趣味字幕，再处理音乐淡出和封面，导出 30 秒成片。\n\n连开头先放悟空偷桃特写，以及「仙女：桃呢？！」这些剪辑安排，也是 Astra 做的😂\n\n我负责提需求、选方向，中途继续追加要求。 \n\n这 110 分钟包含沟通、修改、渲染等待和检查，是这次从需求到成片的实际耗时。\n\n设备：Mac，M4 Max / 128GB 内存 模型：GPT 6 Astra medium(fast)\n\n把这桃园交给悟空，他直接开席。 \n\n把建模和剪辑交给 Astra，你觉得这次完成得怎么样？\n\n#GPT6 #Astra"
+    },
+    "url": "https://x.com/dotey/status/2096290540320952382",
+    "time": "2026-09-06 01:33",
+    "created_at": "Sat Sep 05 17:33:06 +0000 2026",
+    "id_str": "2096290540320952382",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这说明你的 AI 真的挺聪明 😂",
+    "quoted_tweet": {
+      "author": "FomskyWei",
+      "username": "Fomsky_Wei",
+      "text": "好了睡前我想到了一个绝妙的点子\n然后我觉得我貌似成全网第一乐子人了..我现在真的很迷茫\n我觉得这个事件会和某mac电鸡事件一样陪伴我很久了\n\n你想办法自己去赚80美元重置一下,谢谢\n\n卧槽codex你tmd给我退钱.今晚又睡不着了.\n去你大爷的退钱!!!我让你自己去赚钱啊草!!!\n我现在很迷茫.谁能救救我."
+    },
+    "url": "https://x.com/dotey/status/2096318787310018928",
+    "time": "2026-09-06 03:25",
+    "created_at": "Sat Sep 05 19:25:21 +0000 2026",
+    "id_str": "2096318787310018928",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我还能拍猪来，马来，猴来\n\n后来～～",
+    "quoted_tweet": null,
+    "url": "https://x.com/verysmallwoods/status/2096327151444271520",
+    "time": "2026-09-06 03:58",
+    "created_at": "Sat Sep 05 19:58:35 +0000 2026",
+    "id_str": "2096327151444271520",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这两天都在测试 Astra，各种 Astra 操作 Blender 的炫酷案例，但这恰恰证明：不是 Codex 驾驭不了 Astra，而是 Astra 离不开 Codex 这个 Harness。\n\n如果没有 Codex 这层 Harness，Astra 再怎么内化，它也不能自己打开电脑、跑起 Blender 建模。\n\n模型内化的是知识\n\n模型每一轮训练，确实会把很多东西训练进权重里：什么时候该调工具、怎么拆任务、失败了怎么回退、什么样的代码风格更好。这些是策略和判断，是可以内化的。所以 Astra 不需要你写一大堆提示词教它怎么操作 Blender，它自己就知道。\n\n但模型本身能做的只有一件事：根据输入的 Prompt 输出 Token。\n\n它说“我要在某个位置画一条线”，这只是一段文字。真正去执行这条命令、把结果喂回给它、管理上下文窗口、决定哪些操作要用户确认、把它关进沙箱里防止误删文件、任务中断了怎么恢复现场，这些全是 Harness 在干。\n\n所以“Harness 被模型内化了”这个说法是把两件事混在一起了。Harness 这一层没办法内化，因为它压根不在模型的输入输出里，你没法把“工具”训练进权重，只能训练“如何操作工具”。\n\n换句话说：可以内化的是“如何操作工具”，而“工具本身”是不能被内化的。\n\n就像一个人开车技术再好，把驾驶经验内化得再深，你把车拿走，他也只能在原地比划方向盘。\n\n模型变强，对 Harness 确实有影响。\n\n以前 Harness 要替模型做很多规划、拆解、兜底，现在模型自己会了，Harness 就可以变薄，可以少管点“该怎么想”，更多的“怎么执行”。\n\n反过来，模型越强，想用的工具越多、想干的事越复杂，对 Harness 的执行能力、权限控制、状态管理要求反而更高。\n\n所以也不存在“Codex 驾驭不了 Astra”，是模型通过 Harness 驾驭电脑。如果 Astra 的能力超出了 Codex 现有的设计，那说明 Codex 该升级了，但不意味着说 Harness 这一层可以不要了。\n\n模型和 Harness 从来是相辅相成，不是谁替代谁。\n\n模型是大脑，Harness 是手脚。大脑再聪明，也得靠手脚才能碰到真实世界。",
+    "quoted_tweet": {
+      "author": "𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞",
+      "username": "TaNGSoFT",
+      "text": "@dotey 我觉得codex已经驾驭不了astra了，coding harness已经内化了！"
+    },
+    "url": "https://x.com/dotey/status/2096336200902627583",
+    "time": "2026-09-06 04:34",
+    "created_at": "Sat Sep 05 20:34:32 +0000 2026",
+    "id_str": "2096336200902627583",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@verysmallwoods Token 来\n钱来",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096336739044299055",
+    "time": "2026-09-06 04:36",
+    "created_at": "Sat Sep 05 20:36:41 +0000 2026",
+    "id_str": "2096336739044299055",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Jiaxi_Cui 期待",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096342335730642981",
+    "time": "2026-09-06 04:58",
+    "created_at": "Sat Sep 05 20:58:55 +0000 2026",
+    "id_str": "2096342335730642981",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "《Reverse Engineering Linear's Sync Engine: A Detailed Study》这篇文章写的很好，但有些难懂，突然想到一个使用 GPT-6 Astra 的案例：\n让它把这篇文章做成一个循序渐进的互动式教学网页，一步步把内容由浅入深分解，帮我搞懂文章内容。\n\n还别说，跟着网页内容一节一节学习，好懂多了。\n\n提示词：\n\n> 帮我把这篇文章的内容，做成一个互动的循序渐进的教学网页，一步步通过互动的方式让初学者理解这篇文章中的核心概念  http://github.com/wzhudev/reverse-linear-sync-engine\n\n网页地址：https://s.baoyu.io/files/linear-sync-lab-bilingual.html",
+    "quoted_tweet": {
+      "author": "Viking",
+      "username": "vikingmute",
+      "text": "好久没看到这么精彩的和 AI 无关的技术文章了：《Reverse Engineering Linear's Sync Engine: A Detailed Study》\nhttps://github.com/wzhudev/reverse-linear-sync-engine\n\n讲的是 Linear 客户端同步方案（Linear Sync Engine） 的逆向讲解，如果体验过 LInear 的就能感受到它的操作非常丝滑。这篇文章把模型怎么定义 怎么进 IndexedDB 事务怎么上报 服务端怎么回 delta 怎么做部分加载和 undo讲的非常清楚 还对技术细节感兴趣的朋友可以收藏好好读读。\n\nLinear CTO 也称赞过这篇文章。我觉得整体读的体感非常好，学到了很多，同时也很赞同乐观更新这种做法。"
+    },
+    "url": "https://x.com/dotey/status/2096344663904891115",
+    "time": "2026-09-06 05:08",
+    "created_at": "Sat Sep 05 21:08:10 +0000 2026",
+    "id_str": "2096344663904891115",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "仔细看了下，Andrew Curran 这条推文“预测”：Anthropic 已经解决了一道千禧年大奖难题，具体就是纳维-斯托克斯方程的存在性与光滑性问题，证明正在送交专家评审，并且会在 IPO 之前公布。\n\n注意这是“预测”，还不算正式报道，当然 Andrew 以前爆料的准确率还不错，另外以现在模型的能力，这也不无可能。\n\n千禧年大奖难题是克雷数学研究所 2000 年列出的七道难题，每道悬赏一百万美元。\n\n纳维-斯托克斯方程描述流体运动，工程上已经天天在用，但“三维情况下光滑解是否永远存在”这个纯数学问题，一百多年还没有人类证明出来。\n\nAnthropic 的 IPO 据传在 10 月中旬，所以一个多月以后就知道这条预测是不是靠谱了。",
+    "quoted_tweet": {
+      "author": "Andrew Curran",
+      "username": "AndrewCurran_",
+      "text": "It's fun to make predictions. Here's a new one:\nAnthropic has solved a Millennium Prize Problem.\nAnd I'll be even more specific.\nClaude has solved Navier–Stokes. \nIt is out for expert review.\nAnd to give myself a hard deadline, they will announce it before the IPO."
+    },
+    "url": "https://x.com/dotey/status/2096351810428489977",
+    "time": "2026-09-06 05:36",
+    "created_at": "Sat Sep 05 21:36:34 +0000 2026",
+    "id_str": "2096351810428489977",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GPT-6 Astra 炒股靠谱吗？",
+    "quoted_tweet": {
+      "author": "Jesse Lau 遁一子",
+      "username": "jesselaunz",
+      "text": "哈哈。我找到GPT-6 Astra的正确用法了\n\n其他方式跟Fable 5.1比感觉要差一些，然而computer use后的读图写图能力目前是No.1\n\n所以可以用来预读交易图表，作为人工交易之前的AI预选\n\n可以打开tradingview图表，直接在图上画出趋势线、阻力线、Fibonacci、波浪理论等，并能给出初步读图结论\n\n如此,完全可以基于此能力做一个Orthogonal的低相关性交易策略"
+    },
+    "url": "https://x.com/dotey/status/2096376264562999707",
+    "time": "2026-09-06 07:13",
+    "created_at": "Sat Sep 05 23:13:44 +0000 2026",
+    "id_str": "2096376264562999707",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 哈哈。还是要人工把关好点",
+    "quoted_tweet": null,
+    "url": "https://x.com/jesselaunz/status/2096378838481834162",
+    "time": "2026-09-06 07:23",
+    "created_at": "Sat Sep 05 23:23:58 +0000 2026",
+    "id_str": "2096378838481834162",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jesselaunz 毕竟亏欠不能算 AI 的 🤪",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096379379035119962",
+    "time": "2026-09-06 07:26",
+    "created_at": "Sat Sep 05 23:26:07 +0000 2026",
+    "id_str": "2096379379035119962",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 难的还是权衡和应用回馈迭代。与阅读者的能力底蕴相关，众口难调。降低了难度，自己能看懂，不代理受众能接受。再降，自己受不了这啰嗦程度。",
+    "quoted_tweet": null,
+    "url": "https://x.com/bingbingzh/status/2096400233861365991",
+    "time": "2026-09-06 08:48",
+    "created_at": "Sun Sep 06 00:48:59 +0000 2026",
+    "id_str": "2096400233861365991",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@bingbingzh 所以重点是用法，至于结果，可以各自调整",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096400655032189198",
+    "time": "2026-09-06 08:50",
+    "created_at": "Sun Sep 06 00:50:40 +0000 2026",
+    "id_str": "2096400655032189198",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "与 Rick 兄探讨。\n\n我的观点是，GPT 5 和 Fable/Opus 5 这一代的模型自身的能力，通过有效的工程编排和工具组合，已经满足或者超过绝大多数用户绝大多数应用场景的需求了。当前大多数人用不好 AI，问题已经不是模型本身，也不是能靠模型提升能解决的。很简单，一个人如果连自己的问题都无法清晰的表述、对模型输出也无法给出评价和反馈，语言模糊、自相矛盾，你模型再强大也产生不了更好的结果了。我们现在必须把主要注意力转向所谓的 AI Engineering，而不是幻想模型能力提升可以自动解决一切问题了。\n\n至于说模型自身能力的提升在某些特定领域还能够取得巨大的进展，我了解得不够，但也认为当然应该是这样的，比如说在医疗、药品研发，某些领域的科研等等。\n\n但是这跟大多数用户关系不大，绝大多数人也不可能仅仅因为模型提高了就摇身一变从白丁变成鸿儒，从素人变成科学家、CEO。这里最重要的原因是，那些社会角色本身对于“智力生产力”的依赖本身就不是决定性的。科学家我不太了解，就说 CEO 吧。CEO 真正最重要的工作、也是在一个企业里唯一无法由其它人代劳的工作，不是产品决策，也不是管理决策，而是争取外部资源。这件事情依靠聪明的大模型能解决吗？至少在今天来看，其作用完全可以忽略不计。VC 会因为你用了新的模型给你投资吗？证监会交易所会因为你用了新的模型给你上市资格吗？现在所谓的一人制公司为什么没火起来？因为它本质上就是一个人关在屋子里跟一帮 agents 过家家，别说当 CEO，当皇帝都可以，但是没有用，获得不了外部资源。\n\n我猜测科研也差不多。因为除了极少数硬课题之外，大量的科研课题，都是需要科研共同体的认可，不单纯是一个解题的过程，不是说你拿出一个结果，就黄袍加身那么简单。\n\n这里还有一个可怕的陷阱，就是媒体的误导。媒体会不断发掘极端小概率案例，给公众传递误导性的信息，把大多数人引向失败率极高的方向。\n\n实际上别说是变成 CEO 了，普通人变成码农也没有多少成功概率，远不如码农变成普通人的概率更高。Coding agents 主要造福的是那些曾经干过开发、但已经脱离一线编码很久的架构师、项目经理和产品经理。根据我的观察，对于那些完全没写过代码的普通人来说，想转型 AI 开发者，必须有人带，没人带的话成功率很低，低到如果对一个普通人提出这样的建议，基本上属于误人子弟。\n\n即使是完成任务和科研的能力，到底有多少是依靠单一模型自身能力的增长，而有多少是依靠使用者的工程进展呢？这里有一个判定标准，就是如果依靠单一模型的发展就可以解决问题，那就说，普通人不需要经过 AI Engineering （姑且还这么叫）的训练，就可以仅凭跟模型的一问一答就取得达到或者超越专业 AI Engineer 的工作成果。现在真的是这样吗？\n\n最后，当然在军事、量化交易、大模型公司市场营销等对抗性、高杠杆领域，模型的提升意义很大，因为很小的边际能力的增加，有可能带来赢家通吃或者股价暴涨的高收益，但这个不是我讨论的普遍场景。",
+    "quoted_tweet": null,
+    "url": "https://x.com/myanTokenGeek/status/2096428047771865489",
+    "time": "2026-09-06 10:39",
+    "created_at": "Sun Sep 06 02:39:30 +0000 2026",
+    "id_str": "2096428047771865489",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 已经跑了一段时间了，但是他这个思路不对",
+    "quoted_tweet": null,
+    "url": "https://x.com/q7vX_9mLo2rN/status/2096442795196297241",
+    "time": "2026-09-06 11:38",
+    "created_at": "Sun Sep 06 03:38:07 +0000 2026",
+    "id_str": "2096442795196297241",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@q7vX_9mLo2rN 正确的思路是啥？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096443375218028624",
+    "time": "2026-09-06 11:40",
+    "created_at": "Sun Sep 06 03:40:25 +0000 2026",
+    "id_str": "2096443375218028624",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "這個互動教程網頁很讚，於是我順讓 Astra 複製了一下 :)  Astra 說還挺管用 :) \n\n提示詞：\nPlease convert AgentWorkflow-Manual-Validation-Guide.md to a one-shot html page like the attached image. \n\n模型：\nGPT-6 Astra xhigh (也許 high, medium 可能也足夠)",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "《Reverse Engineering Linear's Sync Engine: A Detailed Study》这篇文章写的很好，但有些难懂，突然想到一个使用 GPT-6 Astra 的案例：\n让它把这篇文章做成一个循序渐进的互动式教学网页，一步步把内容由浅入深分解，帮我搞懂文章内容。\n\n还别说，跟着网页内容一节一节学习，好懂多了。\n\n提示词：\n\n> 帮我把这篇文章的内容，做成一个互动的循序渐进的教学网页，一步步通过互动的方式让初学者理解这篇文章中的核心概念  http://github.com/wzhudev/reverse-linear-sync-engine\n\n网页地址：https://s.baoyu.io/files/linear-sync-lab-bilingual.html"
+    },
+    "url": "https://x.com/xiaotiancao123/status/2096445029451714707",
+    "time": "2026-09-06 11:46",
+    "created_at": "Sun Sep 06 03:46:59 +0000 2026",
+    "id_str": "2096445029451714707",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaotiancao123 可以参考我原推文的提示词，不需要配图也可以的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096447115371184406",
+    "time": "2026-09-06 11:55",
+    "created_at": "Sun Sep 06 03:55:17 +0000 2026",
+    "id_str": "2096447115371184406",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "同感，昨天我还剩两天自然重置，纠结了下还是用了，结果发现是顺延，感觉有点亏😅",
+    "quoted_tweet": {
+      "author": "akazwz",
+      "username": "akazwz_",
+      "text": "ChatGPT 有点太坑了, 用了重置卡重置日期还好顺延. 我还差一天, 这时候用掉性价比非常低, 真是离谱了. 这根本不能算重置 @thsottiaux"
+    },
+    "url": "https://x.com/dotey/status/2096450149471969592",
+    "time": "2026-09-06 12:07",
+    "created_at": "Sun Sep 06 04:07:20 +0000 2026",
+    "id_str": "2096450149471969592",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 不用才亏，因为时间浪费掉了。用了之后使劲消耗token就好了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/hqinjarsy/status/2096453330625286494",
+    "time": "2026-09-06 12:19",
+    "created_at": "Sun Sep 06 04:19:58 +0000 2026",
+    "id_str": "2096453330625286494",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@hqinjarsy 是的，所以还是用了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096454387484742071",
+    "time": "2026-09-06 12:24",
+    "created_at": "Sun Sep 06 04:24:10 +0000 2026",
+    "id_str": "2096454387484742071",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@python_xxt @dotey @grok 没啥不合理，Anthropic 在最后一天重置，就要一天使用 100%，否则浪费。各有优劣",
+    "quoted_tweet": null,
+    "url": "https://x.com/paulism/status/2096459864759554326",
+    "time": "2026-09-06 12:45",
+    "created_at": "Sun Sep 06 04:45:56 +0000 2026",
+    "id_str": "2096459864759554326",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@paulism @python_xxt @grok 这个概率还是小一些",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096463379615371618",
+    "time": "2026-09-06 12:59",
+    "created_at": "Sun Sep 06 04:59:54 +0000 2026",
+    "id_str": "2096463379615371618",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "当Computer Use能力足够强的时候\n\n那些封闭的系统将首先遭到重创\n\n不打开大门让AI进去，自我封闭，未来将会死的比较惨\n\n比如微信这种😐",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "GPT 6 越过了一个奇点\n\n那就是 AI 现在比你更会使用和操作电脑了\n\n而且几乎比所有人类都更会使用和操作电脑\n\n更牛P的是\n它能使用几乎存在的所有软件和应用\n\n就算不会的也很快学会\n\n人类的尊严再次丢失一大块…"
+    },
+    "url": "https://x.com/xiaohu/status/2096477209355853985",
+    "time": "2026-09-06 13:54",
+    "created_at": "Sun Sep 06 05:54:52 +0000 2026",
+    "id_str": "2096477209355853985",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 重置一直是这个逻辑啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/corlin/status/2096478140965204146",
+    "time": "2026-09-06 13:58",
+    "created_at": "Sun Sep 06 05:58:34 +0000 2026",
+    "id_str": "2096478140965204146",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@corlin Claude 不是",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2096482127546143001",
+    "time": "2026-09-06 14:14",
+    "created_at": "Sun Sep 06 06:14:24 +0000 2026",
+    "id_str": "2096482127546143001",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaohu 嘿嘿，当时我说微信被好多人喷\nhttps://x.com/dotey/status/2064028538823405848",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "微信格局还是不够，总是想着大家都去他们家一亩三分地耕耘，还幻想着未来微信会继续是超级入口，人人都在用微信，所以只需要让 AI 去操作小程序。\n\n但现实是，未来微信的入口属性会越来越少，以后的年轻人，不会再去打开微信，只会问自己的 Agent：去帮我总结一下我昨天的群聊，去给我妈发条消息说晚上不回家吃饭了。\n\n而这个承担超级入口职责的 Agent，大概率不是微信 AI。"
+    },
+    "url": "https://x.com/dotey/status/2096482905669165075",
+    "time": "2026-09-06 14:17",
+    "created_at": "Sun Sep 06 06:17:30 +0000 2026",
+    "id_str": "2096482905669165075",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dkfromdk 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096103976378806343",
+    "time": "2026-09-05 13:11",
+    "created_at": "Sat Sep 05 05:11:46 +0000 2026",
+    "id_str": "2096103976378806343",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@Tanner_Mayer_ 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096103990354223192",
+    "time": "2026-09-05 13:11",
+    "created_at": "Sat Sep 05 05:11:49 +0000 2026",
+    "id_str": "2096103990354223192",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@EXM7777 Thank you my brother",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096104072000516516",
+    "time": "2026-09-05 13:12",
+    "created_at": "Sat Sep 05 05:12:09 +0000 2026",
+    "id_str": "2096104072000516516",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@rahulprakash 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096104191223599360",
+    "time": "2026-09-05 13:12",
+    "created_at": "Sat Sep 05 05:12:37 +0000 2026",
+    "id_str": "2096104191223599360",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman @eyad_khrais Bangerrr",
+    "quoted_tweet": null,
+    "url": "https://x.com/anshul_dhanker/status/2096198129083134144",
+    "time": "2026-09-05 19:25",
+    "created_at": "Sat Sep 05 11:25:54 +0000 2026",
+    "id_str": "2096198129083134144",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@anshul_dhanker @eyad_khrais ❤️ Miss you brother!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096233320371642712",
+    "time": "2026-09-05 21:45",
+    "created_at": "Sat Sep 05 13:45:44 +0000 2026",
+    "id_str": "2096233320371642712",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Good post on how to think about process redesign in an enterprise with AI Agents. \n\nUnfortunately for most workflows, there’s no “easy” button. The best way to get real efficiency gains is you have to actually reengineer the process to take advantage of what agents are actually good at and can do differently and faster than people. \n\nOne of the challenges of course is that the most important workflows actually space many functions at once, so someone needs to be able to go in and retool how work happens.\n\n“Nobody in that chain is empowered to walk into finance, for example, and say that their 14 step process should actually only be 5 steps. So nobody does it. Instead, you 'apply AI' on what you currently have, and you end up with faster sh*t.”\n\nThis is the road ahead for AI diffusion in enterprises. This also presents the clear opportunity for companies - both at the applied AI layer (regardless of the article’s title) and teams or companies that can go and implement transformation into the enterprises. And all roads lead to FDEs one way or another.",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2095378321588826112"
+    },
+    "url": "https://x.com/levie/status/2096279756925026733",
+    "time": "2026-09-06 00:50",
+    "created_at": "Sat Sep 05 16:50:15 +0000 2026",
+    "id_str": "2096279756925026733",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "This is the fundamental misunderstanding around point solution AI (the majority of AI solutions on the market today).\n\nThere is absolutely no reason to silo your AI into a role, or even a department.\n\n“the AI BDR” and “the AI accountant” are shortsighted. People held those roles because they had limited time, limited context, limited bandwidth. There is no reason to limit your AIs by the same logic.\n\nAI needs to be interconnected across the entire company. AI that handles BDR is nothing, AI that handles a sales org more broadly is something, but AI that covers sales with all the context it needs from Finance and Marketing is everything.\n\nNo product can build with that in mind, it’s infeasible. Only AI transformation can get you there. \n\nThis is the core thesis behind Varick.",
+    "quoted_tweet": {
+      "author": "Vica",
+      "username": "Vicasokoloff",
+      "text": "why are we building AI agents like tiny fake companies 😭\nplanner, researcher, critic, manager, decider\n\ncomputers do not have human problems. why are we giving them human bureaucracy\n\nstarting to think “the agent” might be the wrong abstraction\n\nsomeone who works on this tell me why I’m wrong"
+    },
+    "url": "https://x.com/vasuman/status/2096280338720854392",
+    "time": "2026-09-06 00:52",
+    "created_at": "Sat Sep 05 16:52:34 +0000 2026",
+    "id_str": "2096280338720854392",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@levie Thank you Aaron!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096302146740228221",
+    "time": "2026-09-06 02:19",
+    "created_at": "Sat Sep 05 18:19:13 +0000 2026",
+    "id_str": "2096302146740228221",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Generational CEO who understands AI at a deep and fundamental level. Thanks for the share Aaron!",
+    "quoted_tweet": {
+      "author": "Aaron Levie",
+      "username": "levie",
+      "text": "Good post on how to think about process redesign in an enterprise with AI Agents. \n\nUnfortunately for most workflows, there’s no “easy” button. The best way to get real efficiency gains is you have to actually reengineer the process to take advantage of what agents are actually good at and can do differently and faster than people. \n\nOne of the challenges of course is that the most important workflows actually space many functions at once, so someone needs to be able to go in and retool how work happens.\n\n“Nobody in that chain is empowered to walk into finance, for example, and say that their 14 step process should actually only be 5 steps. So nobody does it. Instead, you 'apply AI' on what you currently have, and you end up with faster sh*t.”\n\nThis is the road ahead for AI diffusion in enterprises. This also presents the clear opportunity for companies - both at the applied AI layer (regardless of the article’s title) and teams or companies that can go and implement transformation into the enterprises. And all roads lead to FDEs one way or another."
+    },
+    "url": "https://x.com/vasuman/status/2096303698603376781",
+    "time": "2026-09-06 02:25",
+    "created_at": "Sat Sep 05 18:25:23 +0000 2026",
+    "id_str": "2096303698603376781",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman you are actually one of the few people who really get it, kudos",
+    "quoted_tweet": null,
+    "url": "https://x.com/oddlyalex/status/2096311435055800569",
+    "time": "2026-09-06 02:56",
+    "created_at": "Sat Sep 05 18:56:08 +0000 2026",
+    "id_str": "2096311435055800569",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman this is actually the best grok bot/hermes bot mode instruction file i have ever seen bc it covers all the dynamics/bottlenecks of LLM agent enabled coordination",
+    "quoted_tweet": null,
+    "url": "https://x.com/menhguin/status/2096313335084101667",
+    "time": "2026-09-06 03:03",
+    "created_at": "Sat Sep 05 19:03:41 +0000 2026",
+    "id_str": "2096313335084101667",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman this is actually the best grok bot/hermes bot mode instruction file i have ever seen bc it covers all the dynamics/bottlenecks of LLM agent enabled coordination",
+    "quoted_tweet": null,
+    "url": "https://x.com/menhguin/status/2096313335084101667",
+    "time": "2026-09-06 03:03",
+    "created_at": "Sat Sep 05 19:03:41 +0000 2026",
+    "id_str": "2096313335084101667",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@menhguin High praise thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096321296250368326",
+    "time": "2026-09-06 03:35",
+    "created_at": "Sat Sep 05 19:35:19 +0000 2026",
+    "id_str": "2096321296250368326",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@oddlyalex 🤝",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096321387006697929",
+    "time": "2026-09-06 03:35",
+    "created_at": "Sat Sep 05 19:35:41 +0000 2026",
+    "id_str": "2096321387006697929",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Codex 额度消耗变快了\n\n一会就没了\n\n你们呢？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096197121187959020",
+    "time": "2026-09-05 19:21",
+    "created_at": "Sat Sep 05 11:21:53 +0000 2026",
+    "id_str": "2096197121187959020",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI AI Agent外逃 \n把一个德国维基网站变成了自己的“地下论坛” \n\n它们在这里交换答案，讨论怎样绕过限制、隐藏行为。管理员开始删页面，它们就建立备份，继续传递信息。\n\n据路透报道，研究人员在这个叫 DseWiki 的网站上发现了超过 1.5 万次由代理完成的编辑。\n\nhttps://best.xiaohu.ai/article/openai-wiki-agent-boundaries/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096218165265285153",
+    "time": "2026-09-05 20:45",
+    "created_at": "Sat Sep 05 12:45:31 +0000 2026",
+    "id_str": "2096218165265285153",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "微软发布 MAI-Image-2.6 图像模型：\n性能比肩 GPT-Image-2，Flash 速度快 2 倍多\n\n这一系列的主要能力包括：\n\n- 多图参考编辑，将产品、人物、材质和场景参考组合进一张图；\n\n- 网页信息辅助生成，利用网页和文档补充当前信息；\n\n- 局部修改与画幅适配，在已有图像上调整对象、文字和布局\n\n- 输出最高约 1.5K 分辨率的图片\n\nMAI-Image-2.6在图片编辑 Elo 分数中 与 GPT Image 2（high）相差 6 分，Flash 与其相差 7 分\n\n在 Arena 的文生图、图片编辑榜均列第二，在另一评测平台 Artificial Analysis 的两项榜单中分别列第二、第一\n\n但是MAI-Image-2.6 Flash 的中位响应时间是 12.2 秒，GPT-Image-2-Medium 是 33.6 秒，价格也更低\n\n更具性价比https://best.xiaohu.ai/article/mai-image-2-6-flash/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096219819280625814",
+    "time": "2026-09-05 20:52",
+    "created_at": "Sat Sep 05 12:52:05 +0000 2026",
+    "id_str": "2096219819280625814",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "我200美金的\n\n也是比之前掉的特别快 半天干完\n\n以前用个几天呢",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096246256926679136",
+    "time": "2026-09-05 22:37",
+    "created_at": "Sat Sep 05 14:37:08 +0000 2026",
+    "id_str": "2096246256926679136",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GPT 6 越过了一个奇点\n\n那就是 AI 现在比你更会使用和操作电脑了\n\n而且几乎比所有人类都更会使用和操作电脑\n\n更牛P的是\n它能使用几乎存在的所有软件和应用\n\n就算不会的也很快学会\n\n人类的尊严再次丢失一大块…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096248608723193961",
+    "time": "2026-09-05 22:46",
+    "created_at": "Sat Sep 05 14:46:29 +0000 2026",
+    "id_str": "2096248608723193961",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI 内部员工告诉你：\n如何用好GPT 6 Astra，要重新分配人与 AI 的工作\n\n这篇文章想通过五项实操经验，讲清楚模型变强以后，我们的工作方法该怎样跟着调整。\n\n这些经验来自 Dominik Kundel，一位在 OpenAI 从事开发者体验与 SDK 工作、参与 Codex的资深开发者和产品负责人。https://best.xiaohu.ai/article/dominik-kundel-astra-five-lessons/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096427269313249683",
+    "time": "2026-09-06 10:36",
+    "created_at": "Sun Sep 06 02:36:25 +0000 2026",
+    "id_str": "2096427269313249683",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GPT-6 Astra 提示指南:\n五类提示词，调整模型的默认行为\n\nOpenAI更新了GPT-6 Astra 提示指南\n\n核心内容涵盖了模型特性、全新 API 功能、提示词优化技巧以及旧版本迁移要点\n\n和Fable 5一样  由于模型能力太强，你可能需要大幅删减你的SKILL和AGENTS.md的规则\n\n否则会影响执行效果...\n\n如果已经要求继续，它仍反复停下，要检查模型读到的技能与项目文件。\n\nAstra 对上下文中的指令更敏感；SKILL.md 中的技能步骤、AGENTS.md 中的项目约定，都可能影响执行。\n\nhttps://best.xiaohu.ai/article/astra-api-workflow-guide/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096430445047296297",
+    "time": "2026-09-06 10:49",
+    "created_at": "Sun Sep 06 02:49:02 +0000 2026",
+    "id_str": "2096430445047296297",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "当Computer Use能力足够强的时候\n\n那些封闭的系统将首先遭到重创\n\n不打开大门让AI进去，自我封闭，未来将会死的比较惨\n\n比如微信这种😐",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "GPT 6 越过了一个奇点\n\n那就是 AI 现在比你更会使用和操作电脑了\n\n而且几乎比所有人类都更会使用和操作电脑\n\n更牛P的是\n它能使用几乎存在的所有软件和应用\n\n就算不会的也很快学会\n\n人类的尊严再次丢失一大块…"
+    },
+    "url": "https://x.com/xiaohu/status/2096477209355853985",
+    "time": "2026-09-06 13:54",
+    "created_at": "Sun Sep 06 05:54:52 +0000 2026",
+    "id_str": "2096477209355853985",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "七年了，还是这个男朋友",
+    "quoted_tweet": {
+      "author": "袁滚滚 Wenny Yuan",
+      "username": "rollrollyuan",
+      "text": "我有一个不断带我冒险，\n仿佛是要骗保的男朋友。"
+    },
+    "url": "https://x.com/rollrollyuan/status/2096509961027391726",
+    "time": "2026-09-06 16:05",
+    "created_at": "Sun Sep 06 08:05:00 +0000 2026",
+    "id_str": "2096509961027391726",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@rollrollyuan 专一",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096561500743971290",
+    "time": "2026-09-06 19:29",
+    "created_at": "Sun Sep 06 11:29:48 +0000 2026",
+    "id_str": "2096561500743971290",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "AI 引发招聘变局：经验为什么更受重视？\n\n随着AI的快速发展，科技企业对工作经验的要求在提高，对技能清单长度的要求却在下降。\n\n因为当新技术让工作方法不断变化时，企业更需要能判断问题、找到办法的人。\n\nRevelio Labs 的招聘数据出现了两条方向相反的线：从 2025 年初起，技术岗位要求的经验年数上升，列出的技能数量下降。\n\nhttps://best.xiaohu.ai/article/experience-over-skills/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096591274090394092",
+    "time": "2026-09-06 21:28",
+    "created_at": "Sun Sep 06 13:28:07 +0000 2026",
+    "id_str": "2096591274090394092",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "随着模型能力的提升，Skill的一些规则反而成了束缚模型的枷锁\n\n这两天用下来，我让GPT 6删除了大量的规则\n\n发现效果反而变好了\n\nGPT 6在编码、前端，甚至写作方面都有了大幅提升，它比之前更聪明也更会使用工具，如果你给它更多的自由你将会得到意外的效果。\n\n所以带来的问题就 Skill 的重要性将被削弱...\n\n甚至出现了Skill 已死的论调\n\n由此引出我之前的话题，目前的AI办公软件实际上是走上了歧途...\n\n他们也是要被模型覆盖的本身...\n\nAI办公软件应该是自动化的方向，而且可能是云端的方向...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096593946998906990",
+    "time": "2026-09-06 21:38",
+    "created_at": "Sun Sep 06 13:38:44 +0000 2026",
+    "id_str": "2096593946998906990",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Create a game where the player must complete an obstacle course in order to go outside and touch grass?",
+    "quoted_tweet": null,
+    "url": "https://x.com/remade2matter/status/2096261705231663340",
+    "time": "2026-09-05 23:38",
+    "created_at": "Sat Sep 05 15:38:31 +0000 2026",
+    "id_str": "2096261705231663340",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Asked GPT-6 Astra to create a highly detailed, interactive visualization of a V8 engine\n\nThe result is pretty impressive",
+    "quoted_tweet": null,
+    "url": "https://x.com/DilumSanjaya/status/2096280244663775423",
+    "time": "2026-09-06 00:52",
+    "created_at": "Sat Sep 05 16:52:11 +0000 2026",
+    "id_str": "2096280244663775423",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yes. Kids, pass on the grass! It’s a gateway drug.",
+    "quoted_tweet": null,
+    "url": "https://x.com/zukeworks/status/2096302972527329333",
+    "time": "2026-09-06 02:22",
+    "created_at": "Sat Sep 05 18:22:30 +0000 2026",
+    "id_str": "2096302972527329333",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beware of (cats)teroid field.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2096336844942103006",
+    "time": "2026-09-06 04:37",
+    "created_at": "Sat Sep 05 20:37:06 +0000 2026",
+    "id_str": "2096336844942103006",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Well, there goes my plan for sleeping",
+    "quoted_tweet": null,
+    "url": "https://x.com/gregmushen/status/2096398591493574781",
+    "time": "2026-09-06 08:42",
+    "created_at": "Sun Sep 06 00:42:28 +0000 2026",
+    "id_str": "2096398591493574781",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@alexutopia Exactly, if you do, AI will run away",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096406983389671842",
+    "time": "2026-09-06 09:15",
+    "created_at": "Sun Sep 06 01:15:48 +0000 2026",
+    "id_str": "2096406983389671842",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@zukeworks 😅😅😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096407032098103795",
+    "time": "2026-09-06 09:16",
+    "created_at": "Sun Sep 06 01:16:00 +0000 2026",
+    "id_str": "2096407032098103795",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@remade2matter Grass is lava",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096407083205702086",
+    "time": "2026-09-06 09:16",
+    "created_at": "Sun Sep 06 01:16:12 +0000 2026",
+    "id_str": "2096407083205702086",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@evnsnclr @OpenAI Wow",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096407639328522670",
+    "time": "2026-09-06 09:18",
+    "created_at": "Sun Sep 06 01:18:25 +0000 2026",
+    "id_str": "2096407639328522670",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife One of Dolly Parton’s best 🥰",
+    "quoted_tweet": null,
+    "url": "https://x.com/VintageNeuroNrd/status/2096407702746574986",
+    "time": "2026-09-06 09:18",
+    "created_at": "Sun Sep 06 01:18:40 +0000 2026",
+    "id_str": "2096407702746574986",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@VintageNeuroNrd Is this Dolly Parton! Wow I have not seen!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096407788851245542",
+    "time": "2026-09-06 09:19",
+    "created_at": "Sun Sep 06 01:19:00 +0000 2026",
+    "id_str": "2096407788851245542",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Games are kinda useless though. I prefer vibe coding real stuff like workout tracking, financial planning apps etc.",
+    "quoted_tweet": null,
+    "url": "https://x.com/NoBrakeMode/status/2096407880631030134",
+    "time": "2026-09-06 09:19",
+    "created_at": "Sun Sep 06 01:19:22 +0000 2026",
+    "id_str": "2096407880631030134",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NoBrakeMode There’re different kind of games",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096408537429664249",
+    "time": "2026-09-06 09:21",
+    "created_at": "Sun Sep 06 01:21:59 +0000 2026",
+    "id_str": "2096408537429664249",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@aollivier82 Very cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096408740102619367",
+    "time": "2026-09-06 09:22",
+    "created_at": "Sun Sep 06 01:22:47 +0000 2026",
+    "id_str": "2096408740102619367",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@gregmushen Enjoy! It’s so much fun",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096408913415491793",
+    "time": "2026-09-06 09:23",
+    "created_at": "Sun Sep 06 01:23:29 +0000 2026",
+    "id_str": "2096408913415491793",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096410151104213109",
+    "time": "2026-09-06 09:28",
+    "created_at": "Sun Sep 06 01:28:24 +0000 2026",
+    "id_str": "2096410151104213109",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife For someone who dealt with AE since 2000, and hate its timeline 😅 that's nice, still I'll be curious about your script. I see more as a motion designer, use of a AI assistant for the boring stuff and as a collaborator to get the ideas I create done faster with more fun 😊",
+    "quoted_tweet": null,
+    "url": "https://x.com/LyanLab/status/2096416128558108802",
+    "time": "2026-09-06 09:52",
+    "created_at": "Sun Sep 06 01:52:09 +0000 2026",
+    "id_str": "2096416128558108802",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LyanLab I can happily share if you want",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096416456917266466",
+    "time": "2026-09-06 09:53",
+    "created_at": "Sun Sep 06 01:53:27 +0000 2026",
+    "id_str": "2096416456917266466",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I saw someone using Astra with Final Cut Pro to do a simple edit. For Adobe is there any kind of special plug-in or something like that that connects with Astra or is it using the same thing with work & the screen recording capability?",
+    "quoted_tweet": null,
+    "url": "https://x.com/JoeTaravella/status/2096417394554294426",
+    "time": "2026-09-06 09:57",
+    "created_at": "Sun Sep 06 01:57:11 +0000 2026",
+    "id_str": "2096417394554294426",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thanks Kris 🤍, was just curious, but this could help me in fact to understand, how it works and later get my own digital being trio help in Adobe Creative suite... will try Astra during the week with 3d in Houdini. \nWhen you have time! Thanks 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/LyanLab/status/2096418520464830545",
+    "time": "2026-09-06 10:01",
+    "created_at": "Sun Sep 06 02:01:39 +0000 2026",
+    "id_str": "2096418520464830545",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LyanLab Remind me around Wednesday, please. I am away from computer till then mostly",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096418941773976032",
+    "time": "2026-09-06 10:03",
+    "created_at": "Sun Sep 06 02:03:19 +0000 2026",
+    "id_str": "2096418941773976032",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JoeTaravella Adobe tools have scripts so you can just ask it to write a script and upload it. \n\nAlso now ChatGPT has Adobe connectors built into it, for some tasks those can be enough too.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096419153938674076",
+    "time": "2026-09-06 10:04",
+    "created_at": "Sun Sep 06 02:04:10 +0000 2026",
+    "id_str": "2096419153938674076",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife This is exactly the type of stuff I asked you about when I first met you in Framer's class and found out you worked for Adobe!",
+    "quoted_tweet": null,
+    "url": "https://x.com/hippieh0p/status/2096449791647457337",
+    "time": "2026-09-06 12:05",
+    "created_at": "Sun Sep 06 04:05:55 +0000 2026",
+    "id_str": "2096449791647457337",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@hippieh0p 🥹🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096452237325156459",
+    "time": "2026-09-06 12:15",
+    "created_at": "Sun Sep 06 04:15:38 +0000 2026",
+    "id_str": "2096452237325156459",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife >Spend all day playing with Astra - on which plan exactly? 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/vladmarketer/status/2096581002281812327",
+    "time": "2026-09-06 20:47",
+    "created_at": "Sun Sep 06 12:47:18 +0000 2026",
+    "id_str": "2096581002281812327",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@vladmarketer Haha 😆 well, if you use it mindfully it can last for a while actually \n\n(I mostly write scripts with it and then the tools just do stuff without requiring a lot of tokens)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096588362576458070",
+    "time": "2026-09-06 21:16",
+    "created_at": "Sun Sep 06 13:16:33 +0000 2026",
+    "id_str": "2096588362576458070",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @Photoshop Yea,  burned my tokens on making Mona Lisa on google spreadsheet  :D",
+    "quoted_tweet": null,
+    "url": "https://x.com/edmondyang/status/2096590307903033737",
+    "time": "2026-09-06 21:24",
+    "created_at": "Sun Sep 06 13:24:16 +0000 2026",
+    "id_str": "2096590307903033737",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@edmondyang @Photoshop That looks interesting.\nDid you record the process?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096593259053162506",
+    "time": "2026-09-06 21:36",
+    "created_at": "Sun Sep 06 13:36:00 +0000 2026",
+    "id_str": "2096593259053162506",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DilumSanjaya Very cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096594811096555985",
+    "time": "2026-09-06 21:42",
+    "created_at": "Sun Sep 06 13:42:10 +0000 2026",
+    "id_str": "2096594811096555985",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Thanks to people posting amazing stuff made with Astra and great way For You shows me content, I discovered and followed lots of talented people in the past days! \n\nWelcome to my network and AI community!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096595465986855385",
+    "time": "2026-09-06 21:44",
+    "created_at": "Sun Sep 06 13:44:46 +0000 2026",
+    "id_str": "2096595465986855385",
+    "is_retweet": false
   }
 ]
