@@ -47,7 +47,7 @@ LAST_IDS_FILE = "last_ids.json"
 DAILY_TWEETS_FILE = "daily_tweets.json"
 WEB_FEED_DEFAULT_PATH = "data/signals.json"
 WEB_FEED_DEFAULT_LIMIT = 80
-WEB_FEED_BUILD = "mac-browser-timeline-v5"
+WEB_FEED_BUILD = "mac-browser-timeline-v6"
 FETCH_MAX_ATTEMPTS = 3
 FETCH_INTERVAL_SECONDS = 2
 _playwright = None
@@ -324,7 +324,22 @@ def fetch_tweets_via_browser(username, auth_token, ct0):
         wait_until="domcontentloaded",
         timeout=45000,
     )
-    page.wait_for_selector('article[data-testid="tweet"]', timeout=30000)
+    try:
+        page.wait_for_selector('article[data-testid="tweet"]', timeout=30000)
+    except Exception as exc:
+        debug_path = f"/private/tmp/x2feishu-{username}-browser-debug.png"
+        try:
+            page.screenshot(path=debug_path, full_page=True)
+        except Exception:
+            debug_path = "unavailable"
+        try:
+            body_text = " ".join(page.locator("body").inner_text(timeout=5000).split())[:500]
+        except Exception:
+            body_text = "unavailable"
+        raise RuntimeError(
+            f"tweet cards unavailable; page={page.url} title={page.title()} "
+            f"body={body_text!r} screenshot={debug_path}"
+        ) from exc
     for _ in range(2):
         page.mouse.wheel(0, 1400)
         page.wait_for_timeout(1200)
@@ -467,7 +482,10 @@ def fetch_tweets(username, auth_token, ct0):
         print(f"Fetched {len(tweets)} tweets for {username} via local Chromium.")
         return tweets
     except Exception as e:
-        print(f"Local Chromium failed for {username}: {e}; trying Syndication fallback.")
+        print(f"Local Chromium failed for {username}: {e}")
+        if should_force_web_feed_test():
+            return None
+        print(f"Trying Syndication fallback for {username}.")
         return fetch_tweets_via_syndication(username, auth_token, ct0)
 
 def should_force_web_feed_test():
