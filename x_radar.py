@@ -120,6 +120,20 @@ def build_prompt(posts):
 """ + json.dumps(posts, ensure_ascii=False, indent=2)
 
 
+def build_fallback_summary(posts):
+    """Keep delivery working when the summarizer rejects user-generated content."""
+    lines = ["## X Radar（原文摘要服务暂不可用，以下为热度排序原始候选）", ""]
+    for index, post in enumerate(posts, 1):
+        signal = " · 💡 Product Signal" if post.get("product_signal") else ""
+        text = post.get("text", "").replace("\n", " ").strip()
+        lines.append(
+            f"### {index}. @{post.get('username') or 'unknown'}{signal}\n"
+            f"{text}\n\n"
+            f"[查看原帖]({post['url']}) · 👍 {post['likes']} · 🔁 {post['reposts']} · 💬 {post['replies']}"
+        )
+    return "\n\n".join(lines)
+
+
 def main():
     token = refresh_access_token()
     max_requests = int(os.getenv("X_RADAR_MAX_SEARCH_REQUESTS", "8"))
@@ -137,7 +151,13 @@ def main():
     stamp = (datetime.utcnow() + timedelta(hours=8)).strftime("%Y-%m-%d")
     with open(f"x_radar/{stamp}.json", "w", encoding="utf-8") as f:
         json.dump(ranked, f, ensure_ascii=False, indent=2)
-    summary = digest.generate_summary(build_prompt(ranked), os.environ["DEEPSEEK_API_KEY"])
+    try:
+        summary = digest.generate_summary(build_prompt(ranked), os.environ["DEEPSEEK_API_KEY"])
+    except RuntimeError as exc:
+        if "Content Exists Risk" not in str(exc):
+            raise
+        print("DeepSeek rejected X content; using structured fallback summary.")
+        summary = build_fallback_summary(ranked)
     digest.save_to_obsidian_sync(summary)
     webhook = os.getenv("FEISHU_WEBHOOK_DIGEST") or os.getenv("FEISHU_WEBHOOK")
     if not webhook:
