@@ -27,7 +27,13 @@ SIGNAL_PHRASES = ("i wish there was", "is there a tool that", "does anyone know"
 def _get(path, token, params=None):
     response = requests.get(f"{API_ROOT}{path}", headers={"Authorization": f"Bearer {token}"},
                             params=params, timeout=30)
-    response.raise_for_status()
+    if response.status_code >= 400:
+        try:
+            error = response.json()
+            detail = error.get("detail") or error.get("title") or error.get("error")
+        except ValueError:
+            detail = response.text[:200]
+        raise RuntimeError(f"X API request failed (HTTP {response.status_code}): {detail or 'unknown error'}")
     return response.json()
 
 
@@ -67,7 +73,7 @@ def get_personalized_queries(token):
     payload = _get("/users/personalized_trends", token,
                     {"personalized_trend.fields": "trend_name,post_count,trending_since"})
     trends = payload.get("data", [])
-    return [t["trend_name"] for t in trends
+    return ['"' + t["trend_name"].replace('\\', ' ').replace('"', '\\"') + '"' for t in trends
             if any(word in t.get("trend_name", "").lower() for word in TOPIC_WORDS)]
 
 
