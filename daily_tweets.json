@@ -348,5 +348,46 @@
     "created_at": "Sun Sep 06 20:42:15 +0000 2026",
     "id_str": "2096700527753245068",
     "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": {
+      "text": "https://t.co/rnGYJoUElT",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2096691851365634048",
+          "display": "pic.x.com/rnGYJoUElT",
+          "original": "https://t.co/rnGYJoUElT",
+          "replacement": "https://x.com/vasuman/status/2096691858357301694/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2096691858357301694",
+    "time": "2026-09-07 04:07",
+    "created_at": "Sun Sep 06 20:07:48 +0000 2026",
+    "id_str": "2096691858357301694",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The window to patch software bugs is collapsing\n\nOf the bugs hackers actually exploit, ~87% are now being attacked on or before the day the bug is public knowledge\n\nThat share was 23% in 2020\n\nCharts of the Week: https://www.a16z.news/p/chart-of-the-week-experience-skills",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2096682353712320826",
+    "time": "2026-09-07 03:30",
+    "created_at": "Sun Sep 06 19:30:02 +0000 2026",
+    "id_str": "2096682353712320826",
+    "is_retweet": false
   }
 ]
