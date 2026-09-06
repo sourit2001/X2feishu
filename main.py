@@ -332,13 +332,9 @@ def fetch_tweets_via_browser(username, auth_token, ct0):
             page.screenshot(path=debug_path, full_page=True)
         except Exception:
             debug_path = "unavailable"
-        try:
-            body_text = " ".join(page.locator("body").inner_text(timeout=5000).split())[:500]
-        except Exception:
-            body_text = "unavailable"
         raise RuntimeError(
             f"tweet cards unavailable; page={page.url} title={page.title()} "
-            f"body={body_text!r} screenshot={debug_path}"
+            f"local_screenshot={debug_path}"
         ) from exc
     for _ in range(2):
         page.mouse.wheel(0, 1400)
