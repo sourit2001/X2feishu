@@ -27,13 +27,8 @@ jobs:
       - name: Show checked out commit
         run: git log -1 --oneline
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Verify local Python runtime
+        run: /Users/lizhu/Automations/x2feishu-runtime/bin/python --version
 
       - name: Run monitor
         env:
@@ -53,7 +48,7 @@ jobs:
           WEB_FEED_LIMIT: ${{ vars.WEB_FEED_LIMIT }}
           FORCE_WEB_FEED_TEST: ${{ github.event.inputs.force_web_feed_test }}
           PYTHONUNBUFFERED: '1'
-        run: python main.py
+        run: /Users/lizhu/Automations/x2feishu-runtime/bin/python main.py
 
       - name: Commit and push if changed
         run: |
