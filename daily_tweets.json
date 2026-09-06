@@ -1,1 +1,515 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I’m not sure how OpenAI was likely holding off their IPO to 2027.\n\nBecause they had concerns about a $1T valuation 3 months ago.\n\nThen Anthropic investors go and say **** it, lets one-up $SPCX and IPO at $2T next month?",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2096455073580908908",
+    "time": "2026-09-06 12:26",
+    "created_at": "Sun Sep 06 04:26:54 +0000 2026",
+    "id_str": "2096455073580908908",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I asked OpenAI Astra Ultra + Anthropic Fable 5.1 Max to make me a 5x-10x return type portfolio in 1 year. \n\nBurnt a lot of credits, and the results are in: \n\nOpenAI: - $KYTX (autoimmune CAR-T results)\n- $PRQR (human RNA-editing datasets)\n- $VSTM (KRAS cancer-drug)\n- $CNTB (asthma and COPD)\n- $RANI (oral biologics)\n- $IVA (MASH)\n- $SILC (networking + inference hardware)\n- $AMPX (batteries)\n- $EOSE (batteries)\n- $ZVRA (rare-disease drug growth)\n\nAnthropic: - $INO (respiratory papillomatosis)\n- $CAPR (PDUFA for deramiocel)\n- $GOSS (seralutinib)\n- $SLS (Phase 3 binary)\n- $IREN (familiar face)\n- $WULF (familiar face)\n- $OKLO (nuclear)\n- $SMR (nuclear)\n- $RGTI (quantum)\n- $QBTS (quantum)\n\n*Disclosure don't own any of these aside from 1 share in IREN, not a recommendation, just TLDR of LLM output for educational purposes. \n\nSo very interesting results:\n\nOur beloved AGI Astra prefers really obscure biotech I've never heard about. And a few familiar names like $EOSE and $AMPX. \n\nAnd Fable... yeah idk, feels like it learned a little too much from /r/wallstreetbets and X but maybe it's right, who knows.  \n\nAnyway no judgement, I'll save this and revisit it in a few months. If one of them actually delivers... I'll be impressed.",
+    "quoted_tweet": {
+      "author": "Serenity",
+      "username": "aleabitoreddit",
+      "text": "OpenAI's Astra is now available."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2096605093986787380",
+    "time": "2026-09-06 22:23",
+    "created_at": "Sun Sep 06 14:23:02 +0000 2026",
+    "id_str": "2096605093986787380",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "We are running a public testnet for the EIPs behind Ethereum's privacy roadmap, built on top of Glamsterdam.\n\nIt runs EIP-8141 (Frame Transactions), EIP-8250 (Keyed Nonces), EIP-8272 (Recent Roots), EIP-7805 (FOCIL), and EIP-8369 (VOPS profiles), each implementation up to date with its spec. The frames implementation matches the latest execution spec tests release.\n\nAnyone can sync, peer, transact, and use the faucet to fund test accounts. The only permissioned part of the network is validator entry. If your client team is working on any of these EIPs and wants to validate, reach out to us, and we'll get you set up with deposit tokens.\n\nRPC, explorer, and tooling notes: https://faucet.privacy.ethrex.xyz/",
+    "quoted_tweet": null,
+    "url": "https://x.com/ethrex_client/status/2095897077955899638",
+    "time": "2026-09-04 23:29",
+    "created_at": "Fri Sep 04 15:29:37 +0000 2026",
+    "id_str": "2095897077955899638",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "A lot of important progress on Frames (EIP-8141) has been quietly happening over the last few months. Highly recommend reading this, also the updated EIP https://eips.ethereum.org/EIPS/eip-8141\n https://firefly.social/post/x/2096267670912143774",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2096370186094076098",
+    "time": "2026-09-06 06:49",
+    "created_at": "Sat Sep 05 22:49:35 +0000 2026",
+    "id_str": "2096370186094076098",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Also, @ethrex_client has a testnet for Frames, FOCIL plus companion EIPs that together allow privacy protocols on top of Ethereum to behave as full first-class citizens:\n\nhttps://x.com/ethrex_client/status/2095897077955899638?s=20",
+    "quoted_tweet": {
+      "author": "ethrex",
+      "username": "ethrex_client",
+      "text": "We are running a public testnet for the EIPs behind Ethereum's privacy roadmap, built on top of Glamsterdam.\n\nIt runs EIP-8141 (Frame Transactions), EIP-8250 (Keyed Nonces), EIP-8272 (Recent Roots), EIP-7805 (FOCIL), and EIP-8369 (VOPS profiles), each implementation up to date with its spec. The frames implementation matches the latest execution spec tests release.\n\nAnyone can sync, peer, transact, and use the faucet to fund test accounts. The only permissioned part of the network is validator entry. If your client team is working on any of these EIPs and wants to validate, reach out to us, and we'll get you set up with deposit tokens.\n\nRPC, explorer, and tooling notes: https://faucet.privacy.ethrex.xyz/"
+    },
+    "url": "https://x.com/VitalikButerin/status/2096370315861590507",
+    "time": "2026-09-06 06:50",
+    "created_at": "Sat Sep 05 22:50:06 +0000 2026",
+    "id_str": "2096370315861590507",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "One positive consequence of all the recent detailed thinking about transaction formats - not just 8141, also \"future of state\" discussions eg. UTXOs, PBT, keyed nonces, and also recursive STARK mempool - is that we have a much more explicit understanding of how transactions have \"actions\" and \"dependencies\", and we can engineer around optimizing the two separately.\n\nAn action is an effect that a transaction has.\n\nA dependency is a fact about the transaction and/or the state that must be true for the transaction to be valid.\n\neg. a signature is a dependency, a Merkle proof of a UTXO is a dependency, a ZK-SNARK (or STARK) is a dependency, a call that sends ETH is an action\n\nDependencies can be processed in parallel. Dependencies that involve state can be reasoned about by a mempool, especially if the specific state accessed is statically declared. Dependencies that are pure (no state calling allowed) can be processed once at the mempool layer and never need to be processed again - and potentially even replaced with a STARK verifying them, allowing not just execution but also data to be elided.\n\nIn principle, dependencies and actions can all be expressed as calls (if needed, calls to precompiles). This would make the transaction format itself very bare-bones and minimalist (a list of calls, flags for the type of each call eg. dependencies would be static or pure calls, and origin, nonce, etc) and allows maximum cross-compatibility even if different EVM chains have different features.\n\nIn 2015-era Ethereum, thinking explicitly about these differences was not very important: execution was execution, there were few enough transactions that we could process them all serially, and single-key ECDSA accounts were good enough for everyone.\n\nEthereum's current scaling strategy, however, requires moving beyond that paradigm. Ethereum is beloved by many developers because the execution and state model is so dynamic and flexible. But dynamic and flexible is not friendly to scaling. Fortunately, >90% of Ethereum's activity by volume does not require anything dynamic and flexible. So, we require contracts, accounts and transactions to more explicitly specify what is dynamic and flexible and what is more statically-analyzable but more restrictive, and more statically-analyzable things get the lowest gas cost and thus scale the most. Effectively, learning from the best of both the 2015-era Ethereum model and a more Bitcoin-like model (reminder: Bitcoin has had what I call account abstraction since the beginning), and making a mixture of both (really, the full spectrum between both) available, with gas costs appropriate for the level of scale involved. \n\nNew state types, the recursive STARK mempool, keyed nonces, etc all go in this direction.\n\nThis all relates to transaction types, because a general-purpose transaction type is a very natural interface layer on top of which all of this can be implemented, and the current thinking around the EIP-8141 transaction type is going in this exact direction that is friendly to these kinds of future generalizations.\n\nSo in that sense, 8141 done well is not just a culmination of 10 years of account abstraction work, it's also preparation for the next few years of responsible decentralization-friendly hyper-scaling.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2096378061377900881",
+    "time": "2026-09-06 07:20",
+    "created_at": "Sat Sep 05 23:20:53 +0000 2026",
+    "id_str": "2096378061377900881",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Many years of hard work went into the Poseidon family of hashes, and they have provided great real-world value on Ethereum and elsewhere and will continue to do so for several years. They are the reason why it's fast to generate a client-side SNARK for a modern privacy-protocol.\n\nThe fact that we have ultra-fast general-purpose STARKs (mid-three-digit overhead for basically any batched computation) and may well soon drop to double-digit or even lower is more amazing than anything that we had been hoping for in the early 2020s.\n\nBig congratulations to all involved in Poseidon, and all involved in STARKs.\n https://firefly.social/post/x/2087905684180418733",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2096587349635616865",
+    "time": "2026-09-06 21:12",
+    "created_at": "Sun Sep 06 13:12:31 +0000 2026",
+    "id_str": "2096587349635616865",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "One optimistic and still very-non-consensus belief I have about the far future of cryptography:\n\nI think that there is a 33% chance that, for average real-world computation, there exist ways to implement all three of what I call the Egyptian God Protocols (SNARK, FHE, iO) with 1+ε factor overhead (meaning, for large enough instances, the added overhead of cryptographizing a computation becomes arbitrarily small compared to the base cost of doing the computation itself)\n\nAnd a 60% chance that all three can be done with single-digit overhead (ie. <10x, measured in total cost of energy plus amortized compute)\n\nI think there's a good chance we'll get one of these (probably SNARKs with single-digit overhead) by the end of this decade. After all, we're already there for specialized hash functions and for some LLM inference.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2096589479305961591",
+    "time": "2026-09-06 21:20",
+    "created_at": "Sun Sep 06 13:20:59 +0000 2026",
+    "id_str": "2096589479305961591",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Frames can be hard to grasp at first because they build on a decade of work to bring native account abstraction to programmable blockchains. \n\nBut they are the stepping stone we need to build a private, secure, post-quantum future on Ethereum.\n\nTo me it boils down to focus on shipping a few key EIPs in Hegota:\n- EIP-8141: Frame Transactions, the core, already scheduled for inclusion\n- EIP-8250 and EIP-8272: Enable native, trustless private transactions\n- EIP-7906: Helps protect users against wallet drainers and malicious transactions\n\nFrames are also about scaling. It’s often overlooked, but they unlock signature and STARK aggregation (e.g., EIP-8288), reducing the bandwidth and verification costs that make post-quantum transactions so heavy.\n\nSecurity, UX, and scaling in one EIP\n\nHard to beat",
+    "quoted_tweet": {
+      "author": "ً",
+      "username": "lightclients",
+      "text": "Frames are all you need.\nhttps://lightclient.io/blog/frames-are-all-you-need/"
+    },
+    "url": "https://x.com/soispoke/status/2096594725348278436",
+    "time": "2026-09-06 21:41",
+    "created_at": "Sun Sep 06 13:41:50 +0000 2026",
+    "id_str": "2096594725348278436",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "World Labs co-founders Justin Johnson and Dr. Fei-Fei Li say LLMs use next-token prediction, but spatial intelligence has its own equivalent:\n\nJustin: \"The soft definition of AI-completeness is there's this fundamental primitive that's an AI task. But if I could solve this AI task in its full, broadest generality, it would solve any intelligence problem.\"\n\n\"The classic example in LLMs is that next-token prediction is AI-complete... I think from Ilya: there's a mystery novel, the thing has to read the whole novel, and the final sentence is, 'And the killer was.' Predict the next token. You could basically frame any kind of intelligence task in terms of that.\"\n\n\"So clearly next-token prediction is something people believe is AI-complete.\"\n\n\"New-view prediction, this primitive that we have in Atlas, especially generative new-view prediction, is also AI-complete.\"\n\n\"I want to have a world where Martin is writing a proof of the Riemann hypothesis on the blackboard, and then the camera pans over to the next whiteboard.\"\n\nFei-Fei: \"Evolution had to solve new-viewpoint prediction by making animals move. Nature gave animals eyes, but nature didn't give trees eyes. Why? Because when you move, you see a new viewpoint... We do believe very strongly that next-viewpoint prediction is the equivalent of next-token prediction.\"\n\n@jcjohnss @drfeifei @martin_casado",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "World Labs co-founders Fei-Fei Li, Justin Johnson, Ben Mildenhall, and a16z's Martin Casado on Atlas, a world model for spatial intelligence:\n\nLLMs are built on next token prediction. Video models are built on next frame prediction. Atlas is built on new view prediction, and it's the first model to unify pixel generation and pixel reconstruction, two problems computer vision has kept in separate tracks for half a century.\n\nThe practical result is a 50 to 100x reduction in what it takes to digitally capture a 3D representation of a space. Previously, you needed 100 to 300 photos of a single room. Atlas can work from just three.\n\nIn this conversation, they get into the slow motion shot from The Matrix that took hundreds of cameras and now takes three iPhones, the overnight Slack message that made them bet the company in five seconds, why robotics is bottlenecked on data rather than chips, and the case that new view prediction is AI-complete.\n\n00:00 Intro\n01:50 The Matrix slow motion scene now takes three iPhones\n02:48 Why new view prediction is the primitive\n07:10 Unifying generation and reconstruction\n11:15 Gaussian splats became the bottleneck\n14:17 Dense capture used to mean 300 photos\n17:30 Why reconstruction needs generation to fill the gaps\n18:44 The LLM lesson image models missed\n23:39 The video that made them go all in\n28:04 3D design is 95% revisions\n30:50 The problem in robotics is data, not chips\n32:48 Why a robot policy can't be trained like an image model\n34:44 When the simulator becomes the planner\n36:45 Frozen time required footage full of movement\n40:57 Why new view prediction is AI-complete\n42:43 Nature gave animals eyes but not trees\n\nYouTube: https://www.youtube.com/watch?v=qn1QDDBnTA0\n\n@drfeifei @jcjohnss @BenMildenhall @theworldlabs @martin_casado"
+    },
+    "url": "https://x.com/a16z/status/2096283613352579197",
+    "time": "2026-09-06 01:05",
+    "created_at": "Sat Sep 05 17:05:35 +0000 2026",
+    "id_str": "2096283613352579197",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Another neat one: I had GPT-6 Astra build a model of a famous never-built building, Boullée’s 1784 Centotaph. There were only a few black and white sketches to work with, along with a description.\n\nIt built a full Blender model & directed a dramatic narrated walkthrough of it.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Never built architecture and AI.\n\nGemini image generator (nano banana) does a pretty good job imaging what Boullée’s Centograph, his fantastical (and never built) tomb for Isaac Newton would have looked like.\n\nI gave it the original 1784 black and white drawings to work with."
+    },
+    "url": "https://x.com/emollick/status/2096270461122347131",
+    "time": "2026-09-06 00:13",
+    "created_at": "Sat Sep 05 16:13:19 +0000 2026",
+    "id_str": "2096270461122347131",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The original drawings (and as you can see from the quoted tweet, a year ago it was amazing that image generators could make an image of the building, sort of).",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096271324276523171",
+    "time": "2026-09-06 00:16",
+    "created_at": "Sat Sep 05 16:16:45 +0000 2026",
+    "id_str": "2096271324276523171",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I did play through 80% of the game, and it does appear to have all 60 rooms fully built out and the puzzles all solveable. If you spot anything wrong, I'll have it fixed.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096302191229157553",
+    "time": "2026-09-06 02:19",
+    "created_at": "Sat Sep 05 18:19:24 +0000 2026",
+    "id_str": "2096302191229157553",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The last week further indicates how much frontier models are a two-company race right now.\n\nGoogle released a great flash model as did Z. Muse Spark 1.3 shows Meta is still advancing, and GLM 5.3 is only a couple weeks old... but there just isn't anything close to Astra or Fable.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096312830903337184",
+    "time": "2026-09-06 03:01",
+    "created_at": "Sat Sep 05 19:01:41 +0000 2026",
+    "id_str": "2096312830903337184",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "An effect of the rapid acceleration of AI is we are losing an empirical handle on what is happening in the actual micro-processes of work in the post-2026 long-running agentic era.\n\nWe have some academic knowledge of the impact of chatbots on work, much less on impacts of agents.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096320688265044038",
+    "time": "2026-09-06 03:32",
+    "created_at": "Sat Sep 05 19:32:54 +0000 2026",
+    "id_str": "2096320688265044038",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I don’t think you can effectively turn memory “off” with either Fable or Astra running locally. They write little notes about you in various markdown files, they can look at other work to get a sense of what you are doing, etc. Aside from the other implications, it makes it hard to compare your outputs to others, your outputs are always contaminated with what the AI assumes are your perceived preferences.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096332111389356334",
+    "time": "2026-09-06 04:18",
+    "created_at": "Sat Sep 05 20:18:17 +0000 2026",
+    "id_str": "2096332111389356334",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Note this is separate from privacy - you can make sure your data is not used for training by turning that off in OpenAI and Claude. You can also use an open weights model, but as they continue to improve, they will have the same issue.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096333750594343208",
+    "time": "2026-09-06 04:24",
+    "created_at": "Sat Sep 05 20:24:48 +0000 2026",
+    "id_str": "2096333750594343208",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Someone pointed out that the original Zork description said the house was in a field, with forests further out. The AI fixed. To be fair to the AI, Grand Inquisitor & Return to Zork had similar woods.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096351771920679266",
+    "time": "2026-09-06 05:36",
+    "created_at": "Sat Sep 05 21:36:25 +0000 2026",
+    "id_str": "2096351771920679266",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "From GPT-4 to GPT-6.\n\nSparks was a remarkably prescient paper that got a lot of pushback at the time, but absolutely sensed where the vibes were heading with LLMs based on a lot of qualitative experiments. It deserves credit in retrospect.",
+    "quoted_tweet": {
+      "author": "Adam.GPT",
+      "username": "TheRealAdamG",
+      "text": "https://www.microsoft.com/en-us/research/publication/sparks-of-artificial-general-intelligence-early-experiments-with-gpt-4/\n\n“Sparks of Artificial General Intelligence: Early experiments with GPT-4” - March 2023"
+    },
+    "url": "https://x.com/emollick/status/2096360320268689769",
+    "time": "2026-09-06 06:10",
+    "created_at": "Sat Sep 05 22:10:23 +0000 2026",
+    "id_str": "2096360320268689769",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "If you don't get the reference, the Sparks paper made a big deal of the ability of GPT-4 to draw a unicorn-like thing in TiKZ, a language for graphing scientific results, not drawing images. They reasoned it showed creativity & problem solving, the \"sparks of AGI\" in the paper.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096362248914468915",
+    "time": "2026-09-06 06:18",
+    "created_at": "Sat Sep 05 22:18:03 +0000 2026",
+    "id_str": "2096362248914468915",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Given the outputs from AI are often interactive programs, more non-technical people will need to find a lightweight hosting service (I use Netlify but there are many).\n\nChatGPT Sites & Claude artifacts are useful but who knows how long they will be maintained & you lack control.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096436667863236812",
+    "time": "2026-09-06 11:13",
+    "created_at": "Sun Sep 06 03:13:46 +0000 2026",
+    "id_str": "2096436667863236812",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AI rewards expertise (at least for now). Expertise lets you judge AI output quality and find the shape of the jagged frontier quickly. It also gives you more options for how to try to improve quality by knowing what changes to ask for. Non-experts are often stuck with defaults.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2096605475794014536",
+    "time": "2026-09-06 22:24",
+    "created_at": "Sun Sep 06 14:24:33 +0000 2026",
+    "id_str": "2096605475794014536",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most people never touch Cursor's settings, and it's costing them.\n\nFollow these 8 steps to cut over 50% Grok Bot usage.\n\n1. Open Cursor's desktop settings.\n\n2. Go to Models in the side menu.\n\n3. Turn off any model you don't use.\n\n4. Set task models at the top to a model that’s cost efficient. Don't leave it on default. By default, task models can auto switch to a faster tier and bill you 2x.\n\n5. Click cloud agents in the side menu.\n\n6. Scroll to preferences and open the default model.\n\n7. Set that to a cost efficient model too. Left on default, cloud agents can pull the same pricier tier again.\n\n8. Bonus for heavy users: on the spending page, cap on-demand usage instead of leaving it as ‘unlimited’.\n\nThe menus themselves are the confusing part. Find out below what to actually put into Grok Bot once the bill is under control.",
+    "quoted_tweet": {
+      "author": "God of Prompt",
+      "username": "godofprompt",
+      "text": "https://x.com/i/article/2093423323946647552"
+    },
+    "url": "https://x.com/godofprompt/status/2096176643870224736",
+    "time": "2026-09-05 18:00",
+    "created_at": "Sat Sep 05 10:00:31 +0000 2026",
+    "id_str": "2096176643870224736",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Every prompt in this library can become a Grok Bot. Copy one, paste it into Bot settings, and it already works:\n\nhttps://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096176667769426199",
+    "time": "2026-09-05 18:00",
+    "created_at": "Sat Sep 05 10:00:37 +0000 2026",
+    "id_str": "2096176667769426199",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather spend 5 minutes on settings once than re-explain\nyourself to Grok Bot every session.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096176679337312578",
+    "time": "2026-09-05 18:00",
+    "created_at": "Sat Sep 05 10:00:40 +0000 2026",
+    "id_str": "2096176679337312578",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most coding agents get worse the longer you leave them alone.\n\nA new paper called Harness-of-Harness digs into that.\n\nHere’s how it works.\n\nIt wraps whatever coding harness you already use into short loops of planning, coding and testing, each one checked separately.\n\nTested across GameCraft-Bench, FrontierSWE and ProgramBench, with 3 harness and model pairs.\n\nAverage gain after 3 iterations: 52.25 percent. Best case: 82.86 percent.\n\nOver 70 iterations, it built a fully playable FPS game alone: story, mechanics, visuals, audio.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096248697055285714",
+    "time": "2026-09-05 22:46",
+    "created_at": "Sat Sep 05 14:46:50 +0000 2026",
+    "id_str": "2096248697055285714",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Paper here: https://arxiv.org/abs/2609.01481",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096248709147484352",
+    "time": "2026-09-05 22:46",
+    "created_at": "Sat Sep 05 14:46:53 +0000 2026",
+    "id_str": "2096248709147484352",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Free prompts and guides at https://godofprompt.ai\n\nFollow if you'd rather your agent get better on iteration 70 than quietly get worse.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096248720815972599",
+    "time": "2026-09-05 22:46",
+    "created_at": "Sat Sep 05 14:46:56 +0000 2026",
+    "id_str": "2096248720815972599",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "🚨 Anthropic just showed a 27-minute workshop on how to actually write prompts for Claude.\n\nFree. No registration. No paywall.\n\nStraight from the people who built it.\n\nWatch it now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096551241866482079",
+    "time": "2026-09-06 18:49",
+    "created_at": "Sun Sep 06 10:49:02 +0000 2026",
+    "id_str": "2096551241866482079",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Watching this is one half. Having prompts already built the same way is the other. 30 principles and 10+ ready mega prompts for Claude, free:\n\nhttps://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096551244039143816",
+    "time": "2026-09-06 18:49",
+    "created_at": "Sun Sep 06 10:49:03 +0000 2026",
+    "id_str": "2096551244039143816",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather build the habit once than take another $300 course that skips it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2096551246027174131",
+    "time": "2026-09-06 18:49",
+    "created_at": "Sun Sep 06 10:49:03 +0000 2026",
+    "id_str": "2096551246027174131",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "🎉 Next Token 拿下小宇宙新星榜第一名！\nAI 圈的谐星聊天会\n下期会在上海 AGI bar 录制\n欢迎来玩",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096388968531349656",
+    "time": "2026-09-06 08:04",
+    "created_at": "Sun Sep 06 00:04:13 +0000 2026",
+    "id_str": "2096388968531349656",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "当一个评论里出现“当”这个字就是 AI 评论无疑了\n特别是出现在第二段的时候\n因为正常人不会用这个字回复别人",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096429140727742745",
+    "time": "2026-09-06 10:43",
+    "created_at": "Sun Sep 06 02:43:51 +0000 2026",
+    "id_str": "2096429140727742745",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "天呐第一次看《肖申克的救赎》\n是在20年前的电脑上看的盗版\n细节都已经忘光了\n今天在电影院看完第二遍\n瘫坐在椅子上\n内心大喊牛逼",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096489015725965769",
+    "time": "2026-09-06 14:41",
+    "created_at": "Sun Sep 06 06:41:46 +0000 2026",
+    "id_str": "2096489015725965769",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "只有一个例外就是：当时\n人才会说当时\nAI 是不会用这个词的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096492546197516345",
+    "time": "2026-09-06 14:55",
+    "created_at": "Sun Sep 06 06:55:48 +0000 2026",
+    "id_str": "2096492546197516345",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "用 AI 做惊艳的 demo 发到社交媒体\n除了让用户的感兴趣阈值极速上涨之外\n似乎并没有任何意义\n从 demo 到 product/service 之间有着一万步要走\n做 demo 做好的人也不会把它产品化商业化\n但是因为阈值上涨了，很多人辛苦打磨的东西，用户看完就觉得 vibe coding 也可以做\n既然如此，为什么还要下载/付钱？\n\n这是一个阶段性的困境",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096517129692684423",
+    "time": "2026-09-06 16:33",
+    "created_at": "Sun Sep 06 08:33:29 +0000 2026",
+    "id_str": "2096517129692684423",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "为什么我的 Astra 连绘图工具都懒得用\n直接用代码来画。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096590018521522581",
+    "time": "2026-09-06 21:23",
+    "created_at": "Sun Sep 06 13:23:07 +0000 2026",
+    "id_str": "2096590018521522581",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "科技给你自由",
+    "quoted_tweet": {
+      "author": "Colin Wu",
+      "username": "colinwu",
+      "text": "替尔泊肽 GLP 最伟大的地方是：\n\n给我自由\n\n没有它之前，人会被饥饿、习惯、环境刺激、情绪、胰岛素抵抗控制\n\n自律给你自由，很难\n\n自律—控制饮食—暴饮暴食—罪恶感—挫败感—循环，才是常态\n\n现在，饿了也可以不吃，不想吃就不吃，想吃就吃，不会过量\n\n每月 500 元，就真正拥有掌握自己身体的自由"
+    },
+    "url": "https://x.com/oran_ge/status/2096591979903873490",
+    "time": "2026-09-06 21:30",
+    "created_at": "Sun Sep 06 13:30:55 +0000 2026",
+    "id_str": "2096591979903873490",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "在3D建模的案例看吐了之后...这个小清新的案例很有意思\nGPT-6 Astra 以巴洛克风格创作了一首小提琴奏鸣曲\n创作曲谱，然后用midi演奏出来的效果是这样的\n作者也给了提示词",
+    "quoted_tweet": {
+      "author": "Auggie",
+      "username": "aug5thmusic",
+      "text": "GPT-6 Astra writes a violin sonata in the Baroque style. This is the best result I’ve seen on this benchmark by far.\n\nExtra High effort, one-shot prompt, first attempt:"
+    },
+    "url": "https://x.com/oran_ge/status/2096593801930481665",
+    "time": "2026-09-06 21:38",
+    "created_at": "Sun Sep 06 13:38:09 +0000 2026",
+    "id_str": "2096593801930481665",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "看这个视频的时候第一次意识到\n直播在中国已经不是自媒体行为\n而是一种真实的生活方式了\n\n在一艘船上只有水手和农民\n他们直播给网站的观众看看这里艰苦的日常生活\n和评论区的人们对话\n这就是他们每天的生活\nhttps://www.youtube.com/watch?v=qYWhjW08-pc",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096606894219841574",
+    "time": "2026-09-06 22:30",
+    "created_at": "Sun Sep 06 14:30:11 +0000 2026",
+    "id_str": "2096606894219841574",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "人生目标当如此",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2096609719578513740",
+    "time": "2026-09-06 22:41",
+    "created_at": "Sun Sep 06 14:41:24 +0000 2026",
+    "id_str": "2096609719578513740",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "ƒ「心里升起关心某个人的念头时，立马去做。」",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2096253785618383072",
+    "time": "2026-09-05 23:07",
+    "created_at": "Sat Sep 05 15:07:03 +0000 2026",
+    "id_str": "2096253785618383072",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Astra + Computer Use is the absolute craziest experience. I’ve been having so much fun asking it to go take control of other apps and it seems to impress me every time.",
+    "quoted_tweet": {
+      "author": "Emm | scenario.com",
+      "username": "emmanuel_2m",
+      "text": "Another \"I know Kung Fu\" moment 🤯\n\nGPT 6 built this studio-quality tugboat in @Blender  from one image and one prompt, in about 10 min.\n\nFully autonomous.\n\n@IsThisA3DModel - This is actually a real 3D model 🥹 😂"
+    },
+    "url": "https://x.com/mreflow/status/2096289094867599431",
+    "time": "2026-09-06 01:27",
+    "created_at": "Sat Sep 05 17:27:22 +0000 2026",
+    "id_str": "2096289094867599431",
+    "is_retweet": false
+  }
+]
