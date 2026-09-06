@@ -4,13 +4,14 @@ import json
 import time
 import re
 import base64
+import asyncio
 from datetime import datetime, timedelta
 from bitable_sync import sync_to_bitable
 
 try:
-    from tweetkit_x import TweetKit
+    from twikit import Client as TwikitClient
 except ImportError:
-    TweetKit = None
+    TwikitClient = None
 
 # --- Configuration ---
 # User list to monitor (ID from their profile URL)
@@ -49,7 +50,8 @@ WEB_FEED_DEFAULT_LIMIT = 80
 WEB_FEED_BUILD = "web-graphql-timeline-v3"
 FETCH_MAX_ATTEMPTS = 3
 FETCH_INTERVAL_SECONDS = 2
-_tweetkit_client = None
+_twikit_client = None
+_twikit_loop = None
 
 def format_time(time_str):
     """Converts Twitter's created_at to Beijing Time (UTC+8)"""
@@ -261,52 +263,62 @@ def sync_to_web_feed(tweet_record):
     except Exception as e:
         print(f"Web feed sync failed: {e}")
 
-def get_tweetkit_client(auth_token, ct0):
+def get_twikit_client(auth_token, ct0):
     """Build one authenticated X web client and reuse it for the whole run."""
-    global _tweetkit_client
-    if _tweetkit_client is None:
-        if TweetKit is None:
-            raise RuntimeError("tweetkit-x is not installed")
-        cookie = f"auth_token={auth_token}; ct0={ct0}"
-        _tweetkit_client = TweetKit(cookie=cookie, timeout=30)
-        # tweetkit-x sends the cookie on GraphQL calls, but its transaction-id
-        # bootstrap fetches x.com through the shared session first. Ensure that
-        # bootstrap request sees the same authenticated page as the browser.
-        _tweetkit_client._session.headers.update({"Cookie": cookie})
-    return _tweetkit_client
+    global _twikit_client
+    if _twikit_client is None:
+        if TwikitClient is None:
+            raise RuntimeError("twikit is not installed")
+        _twikit_client = TwikitClient("en-US")
+        _twikit_client.set_cookies({"auth_token": auth_token, "ct0": ct0})
+    return _twikit_client
+
+
+def run_twikit(coroutine):
+    """Run Twikit calls on one persistent event loop."""
+    global _twikit_loop
+    if _twikit_loop is None:
+        _twikit_loop = asyncio.new_event_loop()
+    return _twikit_loop.run_until_complete(coroutine)
 
 
 def fetch_tweets_via_graphql(username, auth_token, ct0):
     """Fetch a user timeline through the same private GraphQL endpoint used by x.com."""
-    client = get_tweetkit_client(auth_token, ct0)
-    rows = client.get_tweets(username=username, limit=40, include_replies=True)
+    client = get_twikit_client(auth_token, ct0)
 
-    # The GraphQL response may contain nested quoted/retweeted posts. Prefer
-    # rows authored by the requested timeline owner so nested posts do not get
-    # emitted as standalone updates.
-    owned_rows = [
-        row for row in rows
-        if (row.get("author") or "").lower() == username.lower()
-    ]
-    if owned_rows:
-        rows = owned_rows
+    async def load_timeline():
+        user = await client.get_user_by_screen_name(username)
+        return await client.get_user_tweets(user.id, "Tweets", count=40)
+
+    rows = run_twikit(load_timeline())
 
     result = []
-    for row in rows:
-        tweet_id = str(row.get("id") or "")
+    for tweet in rows:
+        tweet_id = str(getattr(tweet, "id", "") or "")
         if not tweet_id:
             continue
-        text = row.get("text") or ""
-        author = row.get("author") or username
+        text = getattr(tweet, "full_text", None) or getattr(tweet, "text", "") or ""
+        tweet_user = getattr(tweet, "user", None)
+        author = getattr(tweet_user, "name", None) or username
+        retweeted_tweet = getattr(tweet, "retweeted_tweet", None)
+        quoted = getattr(tweet, "quote", None)
+        quoted_user = getattr(quoted, "user", None) if quoted else None
+        quoted_tweet = None
+        if quoted:
+            quoted_tweet = {
+                "author": getattr(quoted_user, "name", None) or "未知",
+                "username": getattr(quoted_user, "screen_name", None) or "",
+                "text": getattr(quoted, "full_text", None) or getattr(quoted, "text", ""),
+            }
         result.append({
             "id": int(tweet_id),
             "id_str": tweet_id,
             "text": text,
-            "url": row.get("url") or f"https://x.com/{username}/status/{tweet_id}",
+            "url": f"https://x.com/{username}/status/{tweet_id}",
             "author": author,
-            "created_at": row.get("created_at"),
-            "quoted_tweet": None,
-            "is_retweet": text.startswith("RT @") or author.lower() != username.lower(),
+            "created_at": getattr(tweet, "created_at", None),
+            "quoted_tweet": quoted_tweet,
+            "is_retweet": retweeted_tweet is not None or text.startswith("RT @"),
         })
 
     result.sort(key=lambda item: item["id"], reverse=True)
