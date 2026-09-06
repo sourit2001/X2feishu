@@ -1,0 +1,36 @@
+name: X Radar Daily
+
+on:
+  schedule:
+    - cron: '0 23 * * *' # 07:00 Asia/Shanghai
+  workflow_dispatch:
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - run: pip install -r requirements.txt
+      - name: Run X Radar
+        env:
+          X_USER_ACCESS_TOKEN: ${{ secrets.X_USER_ACCESS_TOKEN }}
+          X_RADAR_MAX_SEARCH_REQUESTS: ${{ vars.X_RADAR_MAX_SEARCH_REQUESTS || '8' }}
+          X_RADAR_RESULTS_PER_QUERY: ${{ vars.X_RADAR_RESULTS_PER_QUERY || '20' }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+          FEISHU_WEBHOOK_DIGEST: ${{ secrets.FEISHU_WEBHOOK_DIGEST }}
+        run: python x_radar.py
+      - name: Save radar data
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add x_radar
+          git commit -m "Save X Radar daily results" || true
+          git push origin main || true
