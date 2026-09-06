@@ -348,7 +348,7 @@ def fetch_tweets_via_fxtwitter(username):
     url = f"{FXTWITTER_BASE_URL}/2/profile/{username}/statuses"
     response = requests.get(
         url,
-        params={"count": FXTWITTER_TIMELINE_LIMIT},
+        params={"count": FXTWITTER_TIMELINE_LIMIT, "with_replies": "1"},
         headers={"User-Agent": "X2Feishu/1.0 (https://github.com/sourit2001/X2feishu)"},
         timeout=40,
     )

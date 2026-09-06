@@ -82,6 +82,7 @@ class MonitorBatchTests(unittest.TestCase):
         _, kwargs = get.call_args
         self.assertNotIn("Cookie", kwargs["headers"])
         self.assertEqual(kwargs["params"]["count"], 100)
+        self.assertEqual(kwargs["params"]["with_replies"], "1")
         self.assertIn("api.fxtwitter.com", get.call_args.args[0])
 
     @mock.patch("main.requests.get")
