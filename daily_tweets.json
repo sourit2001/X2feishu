@@ -1,1 +1,352 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@guansi 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2097002330931736905",
+    "time": "2026-09-08 00:41",
+    "created_at": "Mon Sep 07 16:41:30 +0000 2026",
+    "id_str": "2097002330931736905",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ynglng781175692 如果是 Plus 在 ChatGPT 没有，需要 Pro",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097001889309045134",
+    "time": "2026-09-08 00:39",
+    "created_at": "Mon Sep 07 16:39:45 +0000 2026",
+    "id_str": "2097001889309045134",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@XchenEvan @jakevin7 感谢推荐",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097002129646842342",
+    "time": "2026-09-08 00:40",
+    "created_at": "Mon Sep 07 16:40:42 +0000 2026",
+    "id_str": "2097002129646842342",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jakevin7 多谢，去学习下",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097002217379082348",
+    "time": "2026-09-08 00:41",
+    "created_at": "Mon Sep 07 16:41:03 +0000 2026",
+    "id_str": "2097002217379082348",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "帮转，DeepSeek 社招资深后端/服务端工程师",
+    "quoted_tweet": {
+      "author": "Tianyi Cui",
+      "username": "tianyi",
+      "text": "DeepSeek 社招资深后端/服务端工程师，新开放约 150 个 HC，好多好多新方向新系统新需求需要搞。简历建议直接扫码或邮箱投递，私信我简历的话会看但不一定能及时处理。"
+    },
+    "url": "https://x.com/dotey/status/2097003962763239841",
+    "time": "2026-09-08 00:47",
+    "created_at": "Mon Sep 07 16:47:59 +0000 2026",
+    "id_str": "2097003962763239841",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 确实很有潜力。比起一次生成成片，我更想知道：没有建模经验的普通用户，能否继续在 Blender 里修改细节，并把结果稳定地用于日常创作？",
+    "quoted_tweet": null,
+    "url": "https://x.com/XiaohangLi62900/status/2097012692313952261",
+    "time": "2026-09-08 01:22",
+    "created_at": "Mon Sep 07 17:22:41 +0000 2026",
+    "id_str": "2097012692313952261",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LufzzLiz 好酷，感谢分享👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097013556537393322",
+    "time": "2026-09-08 01:26",
+    "created_at": "Mon Sep 07 17:26:07 +0000 2026",
+    "id_str": "2097013556537393322",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@XiaohangLi62900 这我也不太懂，因为我也没建模经验",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097014145740595695",
+    "time": "2026-09-08 01:28",
+    "created_at": "Mon Sep 07 17:28:27 +0000 2026",
+    "id_str": "2097014145740595695",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Skill 更像是一个给 Agent 用的说明书，而且只需要说那些模型不知道的部分。\n\n至于执行，就是工具（脚本、cli、app等等）去做的，是给模型直接调用的。\n\n换句话说，模型不知道怎么用（或者不能高效使用）特定的工具或者执行特定的流程，而 Skill 就是弥补这个差距的存在。",
+    "quoted_tweet": {
+      "author": "黄赟",
+      "username": "huangyun_122",
+      "text": "哈，从宝玉老师的 BaoCut App 中悟道一个灵感:\n\nSkill 的设计逻辑，与执行逻辑要分开。这很好地解释了，为什么 Skill 够强大，我们却还离不开 UI\n\n1、每次口喷去执行一个 skill 的衍生逻辑，需要喝大量的水，而依云很贵\n\n2、有一个 UI 来承载具体的执行逻辑，具体的事情“点点点”就能配置好\n\n3、交给"
+    },
+    "url": "https://x.com/dotey/status/2097032509343076503",
+    "time": "2026-09-08 02:41",
+    "created_at": "Mon Sep 07 18:41:25 +0000 2026",
+    "id_str": "2097032509343076503",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师,一定要多分享呀,不要藏着好东西呀.\n另外话说,这种评论区,什么福 什么骚的\nElon就做不到全部禁止么,难点在哪里",
+    "quoted_tweet": null,
+    "url": "https://x.com/coco25655929/status/2097035843164864696",
+    "time": "2026-09-08 02:54",
+    "created_at": "Mon Sep 07 18:54:40 +0000 2026",
+    "id_str": "2097035843164864696",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@coco25655929 我一直在分享的呢……\n\nElon 重心就不在这上面，想做一件事总有办法，不想做总有借口",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097040425051685207",
+    "time": "2026-09-08 03:12",
+    "created_at": "Mon Sep 07 19:12:53 +0000 2026",
+    "id_str": "2097040425051685207",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "今天6pm PST要重置了",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nThanks for reading. We will do a global reset of the usage for all paid subscriptions so that you can keep enjoying Astra after burning through all of it doing fun 3D modeling in blender. The work week is about to start.\n\nLands around 6pm PST today."
+    },
+    "url": "https://x.com/dotey/status/2097046856643563890",
+    "time": "2026-09-08 03:38",
+    "created_at": "Mon Sep 07 19:38:26 +0000 2026",
+    "id_str": "2097046856643563890",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Tech hiring is favoring data veterans\n\nJob postings mentioning data organization now ask for 3 more years of experience than they did in 2023\n\n6 out of the 10 biggest jumps in years of experience requirements are data related\n\nMore charts: https://www.a16z.news/p/chart-of-the-week-experience-skills",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Tech hiring is changing. Requirements per job post, since early 2025:\n\n- Number of skills fell from ~29 to 22\n- Years of experience rose from 4.6 to 4.85\n\nCharts of the Week: https://www.a16z.news/p/chart-of-the-week-experience-skills"
+    },
+    "url": "https://x.com/a16z/status/2097007019811336462",
+    "time": "2026-09-08 01:00",
+    "created_at": "Mon Sep 07 17:00:08 +0000 2026",
+    "id_str": "2097007019811336462",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Happy Monday, loves! \n\nEnjoy your coffee 😁☕️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097002473634345272",
+    "time": "2026-09-08 00:42",
+    "created_at": "Mon Sep 07 16:42:04 +0000 2026",
+    "id_str": "2097002473634345272",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Need some coffee with your blue water lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/wilzap/status/2097002952166641882",
+    "time": "2026-09-08 00:43",
+    "created_at": "Mon Sep 07 16:43:58 +0000 2026",
+    "id_str": "2097002952166641882",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Happy Monday! 🩷",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2097005202977042677",
+    "time": "2026-09-08 00:52",
+    "created_at": "Mon Sep 07 16:52:55 +0000 2026",
+    "id_str": "2097005202977042677",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Happy Monday Kris, let's all accomplish great things today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2097006310986305877",
+    "time": "2026-09-08 00:57",
+    "created_at": "Mon Sep 07 16:57:19 +0000 2026",
+    "id_str": "2097006310986305877",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone Yes, Rufus! Have a good one!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097006761513230759",
+    "time": "2026-09-08 00:59",
+    "created_at": "Mon Sep 07 16:59:07 +0000 2026",
+    "id_str": "2097006761513230759",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely Happy Monday, dear",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097006800671330643",
+    "time": "2026-09-08 00:59",
+    "created_at": "Mon Sep 07 16:59:16 +0000 2026",
+    "id_str": "2097006800671330643",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap Yesss \nOcean coffee 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097006851174842857",
+    "time": "2026-09-08 00:59",
+    "created_at": "Mon Sep 07 16:59:28 +0000 2026",
+    "id_str": "2097006851174842857",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Happy Monday, Kris 🫶 \nHave a great day!",
+    "quoted_tweet": null,
+    "url": "https://x.com/creatoroff/status/2097007596045492595",
+    "time": "2026-09-08 01:02",
+    "created_at": "Mon Sep 07 17:02:26 +0000 2026",
+    "id_str": "2097007596045492595",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "That's one refreshing coffee!\n☕️☕️☕️",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Happy Monday, loves! \n\nEnjoy your coffee 😁☕️"
+    },
+    "url": "https://x.com/RAYSITI/status/2097007985541492820",
+    "time": "2026-09-08 01:03",
+    "created_at": "Mon Sep 07 17:03:58 +0000 2026",
+    "id_str": "2097007985541492820",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RAYSITI Have a good day!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097010955611762784",
+    "time": "2026-09-08 01:15",
+    "created_at": "Mon Sep 07 17:15:47 +0000 2026",
+    "id_str": "2097010955611762784",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@creatoroff You too, Nataly!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097010993981268346",
+    "time": "2026-09-08 01:15",
+    "created_at": "Mon Sep 07 17:15:56 +0000 2026",
+    "id_str": "2097010993981268346",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Success is the best revenge",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097018896477831324",
+    "time": "2026-09-08 01:47",
+    "created_at": "Mon Sep 07 17:47:20 +0000 2026",
+    "id_str": "2097018896477831324",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Perfect ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2097019273570857326",
+    "time": "2026-09-08 01:48",
+    "created_at": "Mon Sep 07 17:48:50 +0000 2026",
+    "id_str": "2097019273570857326",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Real bench in New York City park!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097019552764744166",
+    "time": "2026-09-08 01:49",
+    "created_at": "Mon Sep 07 17:49:56 +0000 2026",
+    "id_str": "2097019552764744166",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You truely deserve it from what I see and know now from you. Well done ! 👍🏾",
+    "quoted_tweet": null,
+    "url": "https://x.com/pensezavous/status/2097031381847093709",
+    "time": "2026-09-08 02:36",
+    "created_at": "Mon Sep 07 18:36:57 +0000 2026",
+    "id_str": "2097031381847093709",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@pensezavous Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097032421417890036",
+    "time": "2026-09-08 02:41",
+    "created_at": "Mon Sep 07 18:41:04 +0000 2026",
+    "id_str": "2097032421417890036",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kawaii_ai_zoo かわいい😍",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097038082444861475",
+    "time": "2026-09-08 03:03",
+    "created_at": "Mon Sep 07 19:03:34 +0000 2026",
+    "id_str": "2097038082444861475",
+    "is_retweet": false
+  }
+]
