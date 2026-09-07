@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "像 Meta、Google 这样的大厂，都有大量自己内部用的工具，有很多人专门就是开发维护这种工具。\n\n现在随着很多前 Meta 的员工加入 OpenAI，他们想在 OpenAI 内部也组件这样的团队去构建内部工具，但是被 OpenAI 的管理层制止了，他们表示，在一个“AGI 优先”的世界里，是不需要内部工具团队的。\n\n这样的思路确实更 AI Native，毕竟需要什么工具都可以快速 Vibe 出来，而且可以完全个性化定制。",
+    "quoted_tweet": {
+      "author": "Gergely Orosz",
+      "username": "GergelyOrosz",
+      "text": "Super interesting detail from inside OpenAI:\n\nThe company hired a bunch of ex-Meta people. Some of these people wanted to invest heavily into internal tooling teams (Meta did it, worked great)\n\nOpenAI leadership resisted, saying that in an AGI-first world, there will be no internal tooling teams.\n\nAnd they were right: now, with Codex, there's a massive internal tools explosion, without having any internal tooling teams!"
+    },
+    "url": "https://x.com/dotey/status/2097068079771500664",
+    "time": "2026-09-08 05:02",
+    "created_at": "Mon Sep 07 21:02:46 +0000 2026",
+    "id_str": "2097068079771500664",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "现在 ChatGPT  支持设置你的写作风格了，你可以连接你的一些常用的文档工具、团队协作工具或者Gmial，它会自动学习你之前文档的写作风格是什么样\n\n快速设置→_→https://chatgpt.com/?surface=work&writing_style=setup\n\n但是好像对不使用老外这些工具的中文用户不管用😅",
+    "quoted_tweet": {
+      "author": "ChatGPT",
+      "username": "ChatGPT",
+      "text": "ChatGPT Work can now pick up on what makes your writing sound like… you. Your favorite phrases. Your very specific sign-off. your capitalizations quirks.\n\nConnect the tools you use every day, like Gmail, Google Drive, Slack, and SharePoint, and ChatGPT Work will learn your writing style from your emails, messages, and files—and carry it into whatever you write next."
+    },
+    "url": "https://x.com/xiaohu/status/2097097331585982689",
+    "time": "2026-09-08 06:59",
+    "created_at": "Mon Sep 07 22:59:00 +0000 2026",
+    "id_str": "2097097331585982689",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Artedeingenio No, for the most part. People like you, @techhalla  or @icreatelife responds. The rest meh. I'm starting to unfollow accounts that never interact back in any way.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavizCF7777/status/2097084862905684242",
+    "time": "2026-09-08 06:09",
+    "created_at": "Mon Sep 07 22:09:27 +0000 2026",
+    "id_str": "2097084862905684242",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DavizCF7777 @Artedeingenio @techhalla I always do my best to respond ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097087892308815917",
+    "time": "2026-09-08 06:21",
+    "created_at": "Mon Sep 07 22:21:30 +0000 2026",
+    "id_str": "2097087892308815917",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @Artedeingenio @techhalla You're great my dear, one of the greatest persons in the whole AI space 🙌🙌🙌♥️♥️♥️",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavizCF7777/status/2097089730592542747",
+    "time": "2026-09-08 06:28",
+    "created_at": "Mon Sep 07 22:28:48 +0000 2026",
+    "id_str": "2097089730592542747",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DavizCF7777 @Artedeingenio @techhalla Too kind thank you 🥹❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097096111575933080",
+    "time": "2026-09-08 06:54",
+    "created_at": "Mon Sep 07 22:54:09 +0000 2026",
+    "id_str": "2097096111575933080",
+    "is_retweet": false
+  }
+]
