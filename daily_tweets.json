@@ -72,5 +72,64 @@
     "created_at": "Mon Sep 07 22:54:09 +0000 2026",
     "id_str": "2097096111575933080",
     "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I used my banked an hour ago\n\n…",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nThanks for reading. We will do a global reset of the usage for all paid subscriptions so that you can keep enjoying Astra after burning through all of it doing fun 3D modeling in blender. The work week is about to start.\n\nLands around 6pm PST today."
+    },
+    "url": "https://x.com/blueemi99/status/2097051352723550534",
+    "time": "2026-09-08 03:56",
+    "created_at": "Mon Sep 07 19:56:18 +0000 2026",
+    "id_str": "2097051352723550534",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Super interesting detail from inside OpenAI:\n\nThe company hired a bunch of ex-Meta people. Some of these people wanted to invest heavily into internal tooling teams (Meta did it, worked great)\n\nOpenAI leadership resisted, saying that in an AGI-first world, there will be no internal tooling teams.\n\nAnd they were right: now, with Codex, there's a massive internal tools explosion, without having any internal tooling teams!",
+    "quoted_tweet": null,
+    "url": "https://x.com/GergelyOrosz/status/2097055218173423886",
+    "time": "2026-09-08 04:11",
+    "created_at": "Mon Sep 07 20:11:40 +0000 2026",
+    "id_str": "2097055218173423886",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I challenge this a bit\n\n(a) Codex was started as an internal tool. The goal was explicitly to build what was the highest leverage tool to accelerate infrastructure buildout.\n(b) I don’t think the Meta vs non-Meta is particularly enlightening here. Most of us who came from older tech companies were surprised at how far OpenAI had taken Python scripts and had a desire to scale OpenAI further.\n(c) A ton of infrastructure and internal tools were built over the last few years, it’s not the case that we were just waiting for AGI to appear.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097084139627561041",
+    "time": "2026-09-08 06:06",
+    "created_at": "Mon Sep 07 22:06:35 +0000 2026",
+    "id_str": "2097084139627561041",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I think I can officially say: we are so back",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097088586843816330",
+    "time": "2026-09-08 06:24",
+    "created_at": "Mon Sep 07 22:24:15 +0000 2026",
+    "id_str": "2097088586843816330",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@blueemi99 My condolences",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097088648768635068",
+    "time": "2026-09-08 06:24",
+    "created_at": "Mon Sep 07 22:24:30 +0000 2026",
+    "id_str": "2097088648768635068",
+    "is_retweet": false
   }
 ]
