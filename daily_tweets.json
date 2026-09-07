@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The AI buildout is printing electrician and HVAC jobs\n\nGoldman attributes 300k+ construction jobs to it since 2022, ~75k in the past year\n\nThese trades are growing ~2% a year, roughly double construction overall\n\nCharts of the Week: https://www.a16z.news/p/chart-of-the-week-experience-skills",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Data center construction is going vertical\n\nSpend has jumped more than $25B in six months, roughly what it gained over the previous two years combined\n\nConstruction job openings bottomed near 200k last year and are back above 300k\n\nCharts of the Week: https://www.a16z.news/p/chart-of-the-week-experience-skills"
+    },
+    "url": "https://x.com/a16z/status/2096716325553078608",
+    "time": "2026-09-07 05:45",
+    "created_at": "Sun Sep 06 21:45:01 +0000 2026",
+    "id_str": "2096716325553078608",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "推荐阅读：\n\nClaude 官方频道发布了一个约 22 分钟的访谈 ：Claude Code 团队的几位主要成员聊了他们日常开发工作，也回顾了这一年工作方式的变化\n\n从写代码到推进产品目标...\n\n过去，他们更多是给 Claude 一条具体指令，例如写一个函数，然后检查结果、提出修改意见。\n\n现在，他们开始把更完整的工作交给 Claude：讨论产品方案、制作原型、编写代码、运行测试，甚至在工具投入使用后持续整理反馈。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096752904107602273",
+    "time": "2026-09-07 08:10",
+    "created_at": "Mon Sep 07 00:10:22 +0000 2026",
+    "id_str": "2096752904107602273",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "有人过去喜欢钻研性能优化，有人曾用一天时间精细复刻 macOS Aqua 按钮的 CSS 渐变。如今，他们更愿意把这些具体实现交给 Claude，把精力投入新想法，让原型更快走向可用产品。\n\n详细文字版：https://best.xiaohu.ai/article/claude-code-team-goal-workflows/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2096752907085656419",
+    "time": "2026-09-07 08:10",
+    "created_at": "Mon Sep 07 00:10:23 +0000 2026",
+    "id_str": "2096752907085656419",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My token spend is that of a much wealthier man",
+    "quoted_tweet": null,
+    "url": "https://x.com/petergostev/status/2096704394783842492",
+    "time": "2026-09-07 04:57",
+    "created_at": "Sun Sep 06 20:57:37 +0000 2026",
+    "id_str": "2096704394783842492",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@petergostev 😅we can all relate",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2096718705325441382",
+    "time": "2026-09-07 05:54",
+    "created_at": "Sun Sep 06 21:54:29 +0000 2026",
+    "id_str": "2096718705325441382",
+    "is_retweet": false
+  }
+]
