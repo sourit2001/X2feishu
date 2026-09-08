@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "How",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2097399066959491480",
+    "time": "Tue Sep 08 18:58:00 +0000 2026",
+    "created_at": "Tue Sep 08 18:58:00 +0000 2026",
+    "id_str": "2097399066959491480",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Atlas runs on real-time!!🚀",
+    "quoted_tweet": {
+      "author": "World Labs",
+      "username": "theworldlabs",
+      "text": "One more thing…"
+    },
+    "url": "https://x.com/drfeifei/status/2097389221548118144",
+    "time": "Tue Sep 08 18:18:52 +0000 2026",
+    "created_at": "Tue Sep 08 18:18:52 +0000 2026",
+    "id_str": "2097389221548118144",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is a big one.\n\n(And yes, the fights over academic credit and what happened when in the race for the proof need to be resolved, but it is still a big one.)",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics.\n\nThe proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra.\n\nThe problem concerns whether the description of smooth three-dimensional fluid motion modeled by the Navier-Stokes equations can break down. It has remained unresolved for roughly 90 years."
+    },
+    "url": "https://x.com/emollick/status/2097376492074266907",
+    "time": "Tue Sep 08 17:28:17 +0000 2026",
+    "created_at": "Tue Sep 08 17:28:17 +0000 2026",
+    "id_str": "2097376492074266907",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Wikipedia hasn't even caught up",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097380452877180988",
+    "time": "Tue Sep 08 17:44:02 +0000 2026",
+    "created_at": "Tue Sep 08 17:44:02 +0000 2026",
+    "id_str": "2097380452877180988",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "However compute we have, it is increasingly likely that we are going to need more compute.",
+    "quoted_tweet": {
+      "author": "Abhishek Nagaraj",
+      "username": "abhishekn",
+      "text": "By my calculations, just the compute here (300 BILLION output tokens) would cost a regular user $20-$30 million in tokens. How do we sustain this level of investment in science once the AI companies have decided that its no longer worth their time/effort to go after everything thats not a millenium problem.\n\nalso -- totally 🤯 - going to be hard to focus on another other research seminar/topic for a while."
+    },
+    "url": "https://x.com/emollick/status/2097402304525697507",
+    "time": "Tue Sep 08 19:10:51 +0000 2026",
+    "created_at": "Tue Sep 08 19:10:51 +0000 2026",
+    "id_str": "2097402304525697507",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow I’ve only had home for last 5 years, but wanted to have a studio outside of home so I could record without having to ask my children to be quiet (not fair to them)",
+    "quoted_tweet": null,
+    "url": "https://x.com/danielcberk/status/2097371099990299115",
+    "time": "Tue Sep 08 17:06:52 +0000 2026",
+    "created_at": "Tue Sep 08 17:06:52 +0000 2026",
+    "id_str": "2097371099990299115",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@danielcberk Fair. My kids are both in middle school now so there are long stretches everyday where I have the house to myself.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2097374386827497765",
+    "time": "Tue Sep 08 17:19:55 +0000 2026",
+    "created_at": "Tue Sep 08 17:19:55 +0000 2026",
+    "id_str": "2097374386827497765",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "ChatGPT Images 2.5—faster, sharper, smarter, with better tools for creating whatever you can dream of.\n\n- Faster image generation to keep your ideas flowing\n\n- Improved fidelity for more natural, recognizable images\n\n- Consistent details across multiple edits\n\n- Comment-based edits to change only what you want",
+    "quoted_tweet": null,
+    "url": "https://x.com/OpenAI/status/2097394956457623964",
+    "time": "Tue Sep 08 18:41:39 +0000 2026",
+    "created_at": "Tue Sep 08 18:41:39 +0000 2026",
+    "id_str": "2097394956457623964",
+    "is_retweet": true
+  }
+]
