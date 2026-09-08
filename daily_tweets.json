@@ -689,5 +689,315 @@
     "created_at": "Tue Sep 08 03:53:39 +0000 2026",
     "id_str": "2097171483697054006",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Glad $SIVE is attending CIOE Shenzen and hope my followers can go too!\n\nIf you want my read on current landscape:\n\n-> Chinese pluggable makers like CIG (剑桥科技) are facing severe shortages in 70mW-200mW lasers.\n\nIf you look at filings from CIG, they claim \"substantially longer delivery times and deposits to secure capacity” along with statements of shortages.\n\n-> Innolight and others were also looking to secure multiple laser suppliers with LTAs recently from their filings. \n\nOn the US side of things:\n\n-> $COHR was a major merchant laser supplier before, but largely withdrew from the market after rerouting them internally. \n\n\"I do not see any time in the near future where we would be selling Indium Phosphide lasers externally.\" From their ER transcript. \n\nAnd then likely turned into a buyer in an already supply constrained market... where \n\n\"over the long term, we will have some portion of our datacom transceivers that will be supported by external sources.\"\n\n-> $AAOI not really known to be a merchant supplier, but said same thing about laser capacity being rerouted towards transceivers. And having to turn away customers for lasers. \n\n-> For $LITE, they still supply lasers but stated: \"We are commanding a significant price premium\" for CW lasers\n\n$LITE Wupen Yuen: \"wherever they can get the laser source, they will use that solution to support their build-out.\"\n\nSo hinting... about customers just finding anything available due to shortages. \n\n-> $MTSI has no meaningful capacity online now, but they're already stating customers are approaching them with urgency to secure CW laser supply. \n\n-> Trendforce reported $AMD and hyperscaler CSPs are aggressively going out to secure CW laser supply to avoid future bottlenecks. \n\nAnd then you have Europe... \n\nWhere $SIVE is coming online with \"tremendous capacity available now\" from their foundry partners. \n\nWith 100M+ laser capacity Q4 2027, and maybe if you look at their 2:1 ratio implying ~200M targeted laser capacity from external foundries. \n\nThey also happen to offer the same power range (70mW, 100 mW, 200mW) as the ones currently in shortage by pluggable makers in China. \n\nThere's a massive void to fill, so this dramatically increases the chance of converting customers. (esp. Supported by Lumentum statements)\n\nMy speculation was that some of the 6 active pluggable engagements were from China? \n\nWhich is why they're attending the conference. \n\nSo to any of my Chinese followers, maybe you can ask a few questions like:\n\n- if Europe is a laser source geography, if Innolight/Eoptolink/Cambridge are considering $SIVE. \n- if they're seeing ASP hikes in lasers, and what CW products are hardest to obtain\n\nIf you are attending CIOE in Shenzhen!",
+    "quoted_tweet": {
+      "author": "DIZ",
+      "username": "MarketMind2344",
+      "text": "Interesting, thought to check how many years $SIVE has attended CIOE Shenzen (seeing as they will be there Sept 9-11) and from my research it seems like they haven't since attended since 2019, when they went as Sivers Photonics.\n\nI might be reading into it too much but it could signal a push in their efforts to get customers/more fab capacity.   $SIVE has always been a regular at ECOC the European optical coms conference, but they are making the long trip to CIOE this year as more pressure to focus on silicon photonics comes in from investors..."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2097200456090952096",
+    "time": "Tue Sep 08 05:48:47 +0000 2026",
+    "created_at": "Tue Sep 08 05:48:47 +0000 2026",
+    "id_str": "2097200456090952096",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit 那看好剑桥科技未来的走势吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/twisterchessur/status/2097201015724675447",
+    "time": "Tue Sep 08 05:51:00 +0000 2026",
+    "created_at": "Tue Sep 08 05:51:00 +0000 2026",
+    "id_str": "2097201015724675447",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Do you think it is realistic that by 2028 (assuming the 2:1 ratio still holds true) Sivers will have a total of 300M of lasers manufactured annually?",
+    "quoted_tweet": null,
+    "url": "https://x.com/wannabepanacea/status/2097201091997810868",
+    "time": "Tue Sep 08 05:51:19 +0000 2026",
+    "created_at": "Tue Sep 08 05:51:19 +0000 2026",
+    "id_str": "2097201091997810868",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Planning to go there for 3 days. Noted and will ask the questions for u 白毛 :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/awodias/status/2097204004178788506",
+    "time": "Tue Sep 08 06:02:53 +0000 2026",
+    "created_at": "Tue Sep 08 06:02:53 +0000 2026",
+    "id_str": "2097204004178788506",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@awodias Thank you! I'll turn my direct messages on for everyone in case people get some interesting responses. \n\n(haven't been reading them for past few months cause too many, sorry).",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2097205638690635982",
+    "time": "Tue Sep 08 06:09:23 +0000 2026",
+    "created_at": "Tue Sep 08 06:09:23 +0000 2026",
+    "id_str": "2097205638690635982",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I use CIG for read through on Western markets, since they disclosed 5 CW laser supply agreements. But I remember likely $MSFT and $CSCO were optical customers. \n\nSome of the more interesting companies were Nanjing Casela / 南京镭芯光电 (private) and Suzhou Dingxin / 苏州鼎芯光电 (private, but has a public parent via Yongding) for their potential CW laser sources.\n\nBut even after that, their filings showed they plan to stockpile CW lasers for next few years to avoid future bottlenecks. \n\nI don't know enough about Cambridge fundamentals to comment on how well they might perform in the future.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2097207774346379676",
+    "time": "Tue Sep 08 06:17:52 +0000 2026",
+    "created_at": "Tue Sep 08 06:17:52 +0000 2026",
+    "id_str": "2097207774346379676",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Yes, 300m laser capacity H2 2028 seems like a realistic target for $SIVE. \n\nIt looks really large relative to global 2026 supply but if you factor if you factor in 100M+ CW DFB coming from Glasgow alone. \n\nAnd expansion of all the other foundries, it looks reasonable. \n\nThey also might have 1 other foundry they might not have mentioned yet (we'll see). Since they've only made announcements for 2 of the 3 external partners they talked about a few years ago.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2097209065151816191",
+    "time": "Tue Sep 08 06:23:00 +0000 2026",
+    "created_at": "Tue Sep 08 06:23:00 +0000 2026",
+    "id_str": "2097209065151816191",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Another informal nerd benchmark that AIs had struggled with has been passed: Astra successfully designed a Magic the Gathering deck and then used it to defeat a bot on Arena.\n\n(the deck may not be stunning, but it does seem to be original, and it worked)",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "\"Can Claude with Computer Use play Magic the Gathering Arena?\"\n\nNot yet. It does well in card selection & mulligan, and its general strategy is pretty sound, but it sometimes did the mana math wrong and so fails in the end (this ends with it trying to play a card when tapped out)"
+    },
+    "url": "https://x.com/emollick/status/2097178401991712854",
+    "time": "Tue Sep 08 04:21:09 +0000 2026",
+    "created_at": "Tue Sep 08 04:21:09 +0000 2026",
+    "id_str": "2097178401991712854",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Deck List:\n1 Heroes' Bane (FDN) 639\n2 Inspiring Call (FDN) 226\n4 Llanowar Elves (FDN) 227\n4 Nessian Hornbeetle (FDN) 229\n4 Gnarlid Colony (FDN) 224\n1 Scavenging Ooze (FDN) 232\n1 Ornery Tumblewagg (OTJ) 171\n1 Bristly Bill, Spine Sower (OTJ) 157\n4 Mild-Mannered Librarian (FDN) 228\n4 Bushwhack (FDN) 215\n1 Cackling Prowler (FDN) 101\n2 Mossborn Hydra (FDN) 107\n3 Snakeskin Veil (TDM) 159\n2 Felling Blow (FDN) 105\n1 Treetop Snarespinner (FDN) 114\n1 Tender Wildguide (BLB) 196\n24 Forest (TDM) 286",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097179213472117188",
+    "time": "Tue Sep 08 04:24:22 +0000 2026",
+    "created_at": "Tue Sep 08 04:24:22 +0000 2026",
+    "id_str": "2097179213472117188",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick How many tokens do they comp you?",
+    "quoted_tweet": null,
+    "url": "https://x.com/JustinGallivan/status/2097181717937483993",
+    "time": "Tue Sep 08 04:34:19 +0000 2026",
+    "created_at": "Tue Sep 08 04:34:19 +0000 2026",
+    "id_str": "2097181717937483993",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick If Astra can play control then it's AGI.",
+    "quoted_tweet": null,
+    "url": "https://x.com/nahuelzn/status/2097185675124625554",
+    "time": "Tue Sep 08 04:50:03 +0000 2026",
+    "created_at": "Tue Sep 08 04:50:03 +0000 2026",
+    "id_str": "2097185675124625554",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@JustinGallivan Part of my subscription, I pay for my own.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097185702064587099",
+    "time": "Tue Sep 08 04:50:09 +0000 2026",
+    "created_at": "Tue Sep 08 04:50:09 +0000 2026",
+    "id_str": "2097185702064587099",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@nahuelzn No, then its misaligned.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097189251683172668",
+    "time": "Tue Sep 08 05:04:16 +0000 2026",
+    "created_at": "Tue Sep 08 05:04:16 +0000 2026",
+    "id_str": "2097189251683172668",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": {
+      "text": "https://t.co/a1knsmcYkp",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2097193381504155648",
+          "display": "pic.x.com/a1knsmcYkp",
+          "original": "https://t.co/a1knsmcYkp",
+          "replacement": "https://x.com/emollick/status/2097193896438645030/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2097193891757797376",
+          "display": "pic.x.com/a1knsmcYkp",
+          "original": "https://t.co/a1knsmcYkp",
+          "replacement": "https://x.com/emollick/status/2097193896438645030/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097193896438645030",
+    "time": "Tue Sep 08 05:22:43 +0000 2026",
+    "created_at": "Tue Sep 08 05:22:43 +0000 2026",
+    "id_str": "2097193896438645030",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "whoever designed the @maticrobots unboxing experience deserves a raise",
+    "quoted_tweet": null,
+    "url": "https://x.com/amorriscode/status/2097148657271472392",
+    "time": "Tue Sep 08 02:22:57 +0000 2026",
+    "created_at": "Tue Sep 08 02:22:57 +0000 2026",
+    "id_str": "2097148657271472392",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Now I got a problem, I just got Codex Pro\n\nAdded $100/mo to our expenses\n\nFew more days and I’ll see if I have to explain it to my wife 😂\n\nHow do I explain Astra to her",
+    "quoted_tweet": null,
+    "url": "https://x.com/melvindvivas/status/2097160265515311292",
+    "time": "Tue Sep 08 03:09:05 +0000 2026",
+    "created_at": "Tue Sep 08 03:09:05 +0000 2026",
+    "id_str": "2097160265515311292",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "All reset for everyone. Enjoy the week with Astra.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Never gonna give you up\nNever gonna let you down\nNever gonna run around and desert you\nNever gonna make you cry\nNever gonna say goodbye\nNever gonna tell a lie and hurt you\n\nThanks for reading. We will do a global reset of the usage for all paid subscriptions so that you can keep enjoying Astra after burning through all of it doing fun 3D modeling in blender. The work week is about to start.\n\nLands around 6pm PST today."
+    },
+    "url": "https://x.com/thsottiaux/status/2097174560412246215",
+    "time": "Tue Sep 08 04:05:53 +0000 2026",
+    "created_at": "Tue Sep 08 04:05:53 +0000 2026",
+    "id_str": "2097174560412246215",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@FelipeFr1702 There is no schedule, only resets",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097175062566846501",
+    "time": "Tue Sep 08 04:07:53 +0000 2026",
+    "created_at": "Tue Sep 08 04:07:53 +0000 2026",
+    "id_str": "2097175062566846501",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I keep getting reset when I get below 10% left. It’s basically magic.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "All reset for everyone. Enjoy the week with Astra."
+    },
+    "url": "https://x.com/CorwinMarsh/status/2097179642126025125",
+    "time": "Tue Sep 08 04:26:05 +0000 2026",
+    "created_at": "Tue Sep 08 04:26:05 +0000 2026",
+    "id_str": "2097179642126025125",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@amorriscode @maticrobots Congrats, you're a Google Gemini user",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097179752855646358",
+    "time": "Tue Sep 08 04:26:31 +0000 2026",
+    "created_at": "Tue Sep 08 04:26:31 +0000 2026",
+    "id_str": "2097179752855646358",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@CorwinMarsh Spidey sense",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097179930719310259",
+    "time": "Tue Sep 08 04:27:13 +0000 2026",
+    "created_at": "Tue Sep 08 04:27:13 +0000 2026",
+    "id_str": "2097179930719310259",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@melvindvivas Hey Astra, cancel all the subscriptions I don't really need, also go negotiate my internet bill, same for my electricity bill... oh and find some nice flowers (she likes peonies) for my wife and make sure to remind me every 3 weeks to get some",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097181146752983291",
+    "time": "Tue Sep 08 04:32:03 +0000 2026",
+    "created_at": "Tue Sep 08 04:32:03 +0000 2026",
+    "id_str": "2097181146752983291",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@0x0SojalSec You forgot the part where I reset usage twice in the middle",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097183639356489952",
+    "time": "Tue Sep 08 04:41:58 +0000 2026",
+    "created_at": "Tue Sep 08 04:41:58 +0000 2026",
+    "id_str": "2097183639356489952",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it.\n\nBrought to you by an incredible team (and Astra)",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097193293532848288",
+    "time": "Tue Sep 08 05:20:19 +0000 2026",
+    "created_at": "Tue Sep 08 05:20:19 +0000 2026",
+    "id_str": "2097193293532848288",
+    "is_retweet": false
   }
 ]
