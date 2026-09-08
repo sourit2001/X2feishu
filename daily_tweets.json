@@ -132,5 +132,605 @@
     "created_at": "Tue Sep 08 14:24:18 +0000 2026",
     "id_str": "2097330190011728192",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "刚才用 GPT-6 Astra 做了个实验。先让它生成 MessageBox 弹框程序，成功了。再让他生成列举系统进程的程序，又成功了。然后我让怹生成通过发送消息实现输入文字的程序，也成功了。最后我让祂生成一个计算器，居然也成功了。\n\n我的人类朋友们，AI 已经可以不依赖编译器直接输出二进制可执行文件了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/tombkeeper/status/2097259068419391596",
+    "time": "Tue Sep 08 09:41:41 +0000 2026",
+    "created_at": "Tue Sep 08 09:41:41 +0000 2026",
+    "id_str": "2097259068419391596",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "刚才用 GPT-6 Astra 做了个实验。先让它生成 MessageBox 弹框程序，成功了。再让他生成列举系统进程的程序，又成功了。然后我让怹生成通过发送消息实现输入文字的程序，也成功了。最后我让祂生成一个计算器，居然也成功了。\n\n我的人类朋友们，AI 已经可以不依赖编译器直接输出二进制可执行文件了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/tombkeeper/status/2097259068419391596",
+    "time": "Tue Sep 08 09:41:41 +0000 2026",
+    "created_at": "Tue Sep 08 09:41:41 +0000 2026",
+    "id_str": "2097259068419391596",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@tombkeeper 看来简单的真的可以，不知道复杂的是不是可以\nhttps://x.com/elonmusk/status/2021128401831199215?s=20",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@robustus Code itself will go away in favor of just making the binary directly.\n\nThe next step after that is direct, real-time pixel generation by the neural net."
+    },
+    "url": "https://x.com/dotey/status/2097327185669280217",
+    "time": "Tue Sep 08 14:12:22 +0000 2026",
+    "created_at": "Tue Sep 08 14:12:22 +0000 2026",
+    "id_str": "2097327185669280217",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Scoppr and Nook copied Mole. Researchers have linked both to malware that can steal passwords and personal data. Do not download or run them.  \n\nNeither is affiliated with me. Mole’s only official website is https://mole.fit. Please download it there.",
+    "quoted_tweet": null,
+    "url": "https://x.com/HiTw93/status/2097330901676126446",
+    "time": "Tue Sep 08 14:27:08 +0000 2026",
+    "created_at": "Tue Sep 08 14:27:08 +0000 2026",
+    "id_str": "2097330901676126446",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "据彭博社最新消息，由张一鸣亲自牵头督战字节跳动正在秘密研发一款实时空间视频模型，最快将于今年 10 月正式亮相。该模型基于 Seedance 底座构建，核心突破在于“实时交互”——能根据用户的语音与动作实时生成动态、可互动的 3D 虚拟世界。\n\n这套技术将直接深度绑定旗下 Pico 头显：\n\n云端推流架构：核心计算放在云端，大幅降低头显端的本地算力门槛与硬件成本。\n低延迟表现：云端渲染帧率达 20 fps，端到端延迟压至 0.05 秒左右。\n\n不得不说，回顾这几年的 AI 发展：“Google 负责在前面流血趟雷，大家负责摸着 Google 稳稳过河”。\n\n基础架构上，Google 2017 年发了一篇论文搞出 Transformer，转头就被 OpenAI 拿去炼出了 ChatGPT；\n\n对话模型上，Google 最早捣鼓 LaMDA，结果把全世界注意力全拱手送给了基于它思路爆发的 GPT；\n\n视频生成领域也是如此，去年初 Google Veo3 音画同出惊艳全场，各家立马跟进卷到起飞；\n\n如今世界模型，去年底 Google 搞出 Genie 3 验证了可行性，。。。\n\n某种程度上，大家还真得感谢 Google。",
+    "quoted_tweet": {
+      "author": "Andrew Curran",
+      "username": "AndrewCurran_",
+      "text": "ByteDance is working on a world model to compete with Genie. They will be using Seedance as the foundation and are currently devoting a lot of their compute to the project. They aim to launch something in October. Genie is now in closed testing, perhaps news will arrive soon."
+    },
+    "url": "https://x.com/FeitengLi/status/2097338830584234321",
+    "time": "Tue Sep 08 14:58:38 +0000 2026",
+    "created_at": "Tue Sep 08 14:58:38 +0000 2026",
+    "id_str": "2097338830584234321",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我那天就试了一个视频，yt-dlp 下载的一个 youtube 视频，mp4 封装。我不确定是不是因为编码不支持，我没有重新编码试过，只试过让 yt-dlp 下载完后从 webm remux 成 mp4。但变成 mp4 后在 baocut 里 relink 还是不行",
+    "quoted_tweet": null,
+    "url": "https://x.com/3_p72/status/2097357949593440717",
+    "time": "Tue Sep 08 16:14:36 +0000 2026",
+    "created_at": "Tue Sep 08 16:14:36 +0000 2026",
+    "id_str": "2097357949593440717",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@3_p72 给您私信了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097360628612551012",
+    "time": "Tue Sep 08 16:25:15 +0000 2026",
+    "created_at": "Tue Sep 08 16:25:15 +0000 2026",
+    "id_str": "2097360628612551012",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Today, we’re announcing Antioch’s $32 million Series A, led by @GreylockVC with participation from @A_StarVC, @Category_VC, @BoxGroup, @IcehouseVenture, and angels.\n\nWhile AI has drastically accelerated software development, physical autonomy has been constrained by slow, expensive hardware-based development. Antioch enables physical AI teams to build, test, and validate systems at the speed of software.\n\nWe’re proud to be working with leading teams including @amazon @ring, @NVIDIARobotics, and @nebiusai as we make scaled, high-fidelity simulation the standard for physical AI development.\n\nOur sincere thanks to the legion of investors, customers, partners, and advisors who are making this step change possible.\n\nWe’re scaling rapidly and hiring across simulation, infrastructure, machine learning, 3D graphics, go-to-market, and operations.",
+    "quoted_tweet": null,
+    "url": "https://x.com/antiochrobotics/status/2097339176006172962",
+    "time": "Tue Sep 08 15:00:00 +0000 2026",
+    "created_at": "Tue Sep 08 15:00:00 +0000 2026",
+    "id_str": "2097339176006172962",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "OpenAI's Mark Sellke and Mehtaab Sawhney with a16z's Lisha Li, on the state of AI and mathematics:\n\nBefore OpenAI released GPT‑6 Astra last week, the model was already doing original mathematics. Recorded before the launch, this conversation tells the story of how it got there.\n\nIt began with GPT‑5. Mehtaab Sawhney pasted in an Erdős problem still listed as open. Five minutes later, the model surfaced a paper that had solved it. The exercise eventually uncovered published solutions to 10 more problems thought to be open.\n\nThen Astra went further. Told to \"go have fun\" with a high-dimensional sphere-packing problem, it improved a bound that had stood since the 1970s. Mehtaab had spent six months on the same problem in graduate school and made \"absolutely zero progress.\"\n\nAnother Astra result established that non-sofic groups exist with a roughly 15-page proof. A related human breakthrough took 250 pages and machinery from quantum complexity theory.\n\nOpenAI’s Mark Sellke and Mehtaab Sawhney join a16z’s Lisha Li on why wrong ideas pollute a human’s context window, why polished papers hide how mathematics is actually made, why a breakthrough can stop one prompt early, and what math rewards once proving stops being the bottleneck.\n\n00:00 Intro\n02:44 Cracking an Erdős problem in 5 minutes\n06:20 Why a human quits and a model doesn't\n08:50 Wrong ideas pollute your context window\n11:45 Why math papers are bad training data\n16:20 Nobody knows how to stack spheres in high dimensions\n18:28 The orange-stacking proof\n21:04 The 1970s Russian paper nobody could beat\n24:14 The function that won a Fields Medal\n27:09 How Astra beat the sphere-stacking record\n29:20 Why error correction is sphere packing in disguise\n35:15 The breakthrough Astra almost didn't bother with\n39:22 Solving harder problems means it has better taste\n41:00 One model for taste, one for the grind\n44:40 Astra found an infinite group no finite one can imitate\n52:00 250 pages of quantum complexity, or 15 of group theory\n56:18 Only humans write 200-page proofs\n1:00:38 What changes when proving stops being the bottleneck\n1:02:44 The problems AI may never solve\n\nYouTube: https://www.youtube.com/watch?v=1JvyLGd2Sfs\n\n@mehtaab_sawhney @MarkSellke @OpenAI @lishali88",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2097343288395051188",
+    "time": "Tue Sep 08 15:16:21 +0000 2026",
+    "created_at": "Tue Sep 08 15:16:21 +0000 2026",
+    "id_str": "2097343288395051188",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "OpenAI's Mark Sellke and Mehtaab Sawhney on why they publish the model's mathematical thinking, not just its proofs:\n\nMark: \"We decided it was important to release these summarized chains of thought... If you've never seen these and you just see all these proofs coming out, you're not sure what it means.\"\n\n\"Is the model just guessing in some insane way? Is it thinking in some totally foreign way? What's going on? But actually, it's reasoning kind of shockingly like an expert human would.\"\n\nMehtaab: \"It's very much like reading a colleague's notes. It's a little more disorganized in some ways.\"\n\n\"Especially if you work close enough with a collaborator, sometimes you'll just see them spill out their thoughts in an email to you. It feels like reading a lot of those chained together. It's quite surprising the first few times.\"\n\n@MarkSellke @mehtaab_sawhney",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "OpenAI's Mark Sellke and Mehtaab Sawhney with a16z's Lisha Li, on the state of AI and mathematics:\n\nBefore OpenAI released GPT‑6 Astra last week, the model was already doing original mathematics. Recorded before the launch, this conversation tells the story of how it got there.\n\nIt began with GPT‑5. Mehtaab Sawhney pasted in an Erdős problem still listed as open. Five minutes later, the model surfaced a paper that had solved it. The exercise eventually uncovered published solutions to 10 more problems thought to be open.\n\nThen Astra went further. Told to \"go have fun\" with a high-dimensional sphere-packing problem, it improved a bound that had stood since the 1970s. Mehtaab had spent six months on the same problem in graduate school and made \"absolutely zero progress.\"\n\nAnother Astra result established that non-sofic groups exist with a roughly 15-page proof. A related human breakthrough took 250 pages and machinery from quantum complexity theory.\n\nOpenAI’s Mark Sellke and Mehtaab Sawhney join a16z’s Lisha Li on why wrong ideas pollute a human’s context window, why polished papers hide how mathematics is actually made, why a breakthrough can stop one prompt early, and what math rewards once proving stops being the bottleneck.\n\n00:00 Intro\n02:44 Cracking an Erdős problem in 5 minutes\n06:20 Why a human quits and a model doesn't\n08:50 Wrong ideas pollute your context window\n11:45 Why math papers are bad training data\n16:20 Nobody knows how to stack spheres in high dimensions\n18:28 The orange-stacking proof\n21:04 The 1970s Russian paper nobody could beat\n24:14 The function that won a Fields Medal\n27:09 How Astra beat the sphere-stacking record\n29:20 Why error correction is sphere packing in disguise\n35:15 The breakthrough Astra almost didn't bother with\n39:22 Solving harder problems means it has better taste\n41:00 One model for taste, one for the grind\n44:40 Astra found an infinite group no finite one can imitate\n52:00 250 pages of quantum complexity, or 15 of group theory\n56:18 Only humans write 200-page proofs\n1:00:38 What changes when proving stops being the bottleneck\n1:02:44 The problems AI may never solve\n\nYouTube: https://www.youtube.com/watch?v=1JvyLGd2Sfs\n\n@mehtaab_sawhney @MarkSellke @OpenAI @lishali88"
+    },
+    "url": "https://x.com/a16z/status/2097363947334803525",
+    "time": "Tue Sep 08 16:38:26 +0000 2026",
+    "created_at": "Tue Sep 08 16:38:26 +0000 2026",
+    "id_str": "2097363947334803525",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "https://Best.xiaohu.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097327985028440215",
+    "time": "Tue Sep 08 14:15:32 +0000 2026",
+    "created_at": "Tue Sep 08 14:15:32 +0000 2026",
+    "id_str": "2097327985028440215",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Have a peaceful day! \n\nEnjoy your coffee and people in your life. 🥹☕️💚",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097298252240482439",
+    "time": "Tue Sep 08 12:17:23 +0000 2026",
+    "created_at": "Tue Sep 08 12:17:23 +0000 2026",
+    "id_str": "2097298252240482439",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thank you Kris, have a beautiful day",
+    "quoted_tweet": null,
+    "url": "https://x.com/wilzap/status/2097298830920175921",
+    "time": "Tue Sep 08 12:19:41 +0000 2026",
+    "created_at": "Tue Sep 08 12:19:41 +0000 2026",
+    "id_str": "2097298830920175921",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap You too!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097300526199119900",
+    "time": "Tue Sep 08 12:26:26 +0000 2026",
+    "created_at": "Tue Sep 08 12:26:26 +0000 2026",
+    "id_str": "2097300526199119900",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I hope your week is a wonderful one, Kris!",
+    "quoted_tweet": null,
+    "url": "https://x.com/RadioGuyGlen/status/2097314019292094804",
+    "time": "Tue Sep 08 13:20:03 +0000 2026",
+    "created_at": "Tue Sep 08 13:20:03 +0000 2026",
+    "id_str": "2097314019292094804",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Wow, that's amazing. What model did you use?",
+    "quoted_tweet": null,
+    "url": "https://x.com/andrewaiginin/status/2097318950682186079",
+    "time": "Tue Sep 08 13:39:38 +0000 2026",
+    "created_at": "Tue Sep 08 13:39:38 +0000 2026",
+    "id_str": "2097318950682186079",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@andrewaiginin MJ + Photoshop + Grok for video",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097321274368254405",
+    "time": "Tue Sep 08 13:48:52 +0000 2026",
+    "created_at": "Tue Sep 08 13:48:52 +0000 2026",
+    "id_str": "2097321274368254405",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RadioGuyGlen Thank you! You too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097321364596150387",
+    "time": "Tue Sep 08 13:49:14 +0000 2026",
+    "created_at": "Tue Sep 08 13:49:14 +0000 2026",
+    "id_str": "2097321364596150387",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/Yd8yjfaTAU",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2097325974811758592",
+          "display": "pic.x.com/Yd8yjfaTAU",
+          "original": "https://t.co/Yd8yjfaTAU",
+          "replacement": "https://x.com/icreatelife/status/2097325979962093721/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097325979962093721",
+    "time": "Tue Sep 08 14:07:34 +0000 2026",
+    "created_at": "Tue Sep 08 14:07:34 +0000 2026",
+    "id_str": "2097325979962093721",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097348288156446996",
+    "time": "Tue Sep 08 15:36:13 +0000 2026",
+    "created_at": "Tue Sep 08 15:36:13 +0000 2026",
+    "id_str": "2097348288156446996",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pinsky/status/2097348682542928151",
+    "time": "Tue Sep 08 15:37:47 +0000 2026",
+    "created_at": "Tue Sep 08 15:37:47 +0000 2026",
+    "id_str": "2097348682542928151",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I know how I looked in 80s. Don't need ChatGPT to show it 🤪",
+    "quoted_tweet": null,
+    "url": "https://x.com/SongMun67/status/2097348724636749841",
+    "time": "Tue Sep 08 15:37:57 +0000 2026",
+    "created_at": "Tue Sep 08 15:37:57 +0000 2026",
+    "id_str": "2097348724636749841",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SongMun67 Well, you can try and compare 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097349442135339207",
+    "time": "Tue Sep 08 15:40:48 +0000 2026",
+    "created_at": "Tue Sep 08 15:40:48 +0000 2026",
+    "id_str": "2097349442135339207",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Pinsky Awww that is actually so good!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097349498099974230",
+    "time": "Tue Sep 08 15:41:01 +0000 2026",
+    "created_at": "Tue Sep 08 15:41:01 +0000 2026",
+    "id_str": "2097349498099974230",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "<🐽>Ask ChatGPT “What would I have looked like in the 80s?”",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/colossalmeiraz/status/2097350061671784868",
+    "time": "Tue Sep 08 15:43:16 +0000 2026",
+    "created_at": "Tue Sep 08 15:43:16 +0000 2026",
+    "id_str": "2097350061671784868",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 😂 great stuff",
+    "quoted_tweet": null,
+    "url": "https://x.com/jinxworld/status/2097350177661067311",
+    "time": "Tue Sep 08 15:43:43 +0000 2026",
+    "created_at": "Tue Sep 08 15:43:43 +0000 2026",
+    "id_str": "2097350177661067311",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jinxworld The cat!!!!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097350433127739571",
+    "time": "Tue Sep 08 15:44:44 +0000 2026",
+    "created_at": "Tue Sep 08 15:44:44 +0000 2026",
+    "id_str": "2097350433127739571",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@colossalmeiraz 😅😅😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097350483304120694",
+    "time": "Tue Sep 08 15:44:56 +0000 2026",
+    "created_at": "Tue Sep 08 15:44:56 +0000 2026",
+    "id_str": "2097350483304120694",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife gpt and grok. 😄",
+    "quoted_tweet": null,
+    "url": "https://x.com/jessprokop/status/2097353302811795896",
+    "time": "Tue Sep 08 15:56:08 +0000 2026",
+    "created_at": "Tue Sep 08 15:56:08 +0000 2026",
+    "id_str": "2097353302811795896",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I dig it!!! 🤘🏻",
+    "quoted_tweet": null,
+    "url": "https://x.com/TallTexanGuy/status/2097353981735432623",
+    "time": "Tue Sep 08 15:58:50 +0000 2026",
+    "created_at": "Tue Sep 08 15:58:50 +0000 2026",
+    "id_str": "2097353981735432623",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nPretty close!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/JinxLovesCats/status/2097354530912379207",
+    "time": "Tue Sep 08 16:01:01 +0000 2026",
+    "created_at": "Tue Sep 08 16:01:01 +0000 2026",
+    "id_str": "2097354530912379207",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Can I just use my east high school EHS activity card?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Darbybailey/status/2097354643848253594",
+    "time": "Tue Sep 08 16:01:28 +0000 2026",
+    "created_at": "Tue Sep 08 16:01:28 +0000 2026",
+    "id_str": "2097354643848253594",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I did mine based on a current photo AND my high school graduation photo (1965) - here's the graduation photo + Chat GPT's",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2097354760256884770",
+    "time": "Tue Sep 08 16:01:56 +0000 2026",
+    "created_at": "Tue Sep 08 16:01:56 +0000 2026",
+    "id_str": "2097354760256884770",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/RetroReminiscer/status/2097356532430098735",
+    "time": "Tue Sep 08 16:08:58 +0000 2026",
+    "created_at": "Tue Sep 08 16:08:58 +0000 2026",
+    "id_str": "2097356532430098735",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RetroReminiscer Great one!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097356962773999854",
+    "time": "Tue Sep 08 16:10:41 +0000 2026",
+    "created_at": "Tue Sep 08 16:10:41 +0000 2026",
+    "id_str": "2097356962773999854",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Wow, Barb! Such a beautiful photo",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097357064087519726",
+    "time": "Tue Sep 08 16:11:05 +0000 2026",
+    "created_at": "Tue Sep 08 16:11:05 +0000 2026",
+    "id_str": "2097357064087519726",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It’s soothing.\nI think the coffee tree cup should kind of drift away. As though its little island of mulch breaks up and the cup lazily spins away.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DallasInk42/status/2097357642834289006",
+    "time": "Tue Sep 08 16:13:23 +0000 2026",
+    "created_at": "Tue Sep 08 16:13:23 +0000 2026",
+    "id_str": "2097357642834289006",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DallasInk42 You can make your own",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097358045097431343",
+    "time": "Tue Sep 08 16:14:59 +0000 2026",
+    "created_at": "Tue Sep 08 16:14:59 +0000 2026",
+    "id_str": "2097358045097431343",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Wow Kris this is incredible 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/AunySillyMe/status/2097358401181307348",
+    "time": "Tue Sep 08 16:16:24 +0000 2026",
+    "created_at": "Tue Sep 08 16:16:24 +0000 2026",
+    "id_str": "2097358401181307348",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AunySillyMe Thank you, Auny!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097358553681998237",
+    "time": "Tue Sep 08 16:17:00 +0000 2026",
+    "created_at": "Tue Sep 08 16:17:00 +0000 2026",
+    "id_str": "2097358553681998237",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/StevieMac03/status/2097359381293617551",
+    "time": "Tue Sep 08 16:20:18 +0000 2026",
+    "created_at": "Tue Sep 08 16:20:18 +0000 2026",
+    "id_str": "2097359381293617551",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Darbybailey Wow is this real!?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097359433089118604",
+    "time": "Tue Sep 08 16:20:30 +0000 2026",
+    "created_at": "Tue Sep 08 16:20:30 +0000 2026",
+    "id_str": "2097359433089118604",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JinxLovesCats Very nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097359514290811340",
+    "time": "Tue Sep 08 16:20:49 +0000 2026",
+    "created_at": "Tue Sep 08 16:20:49 +0000 2026",
+    "id_str": "2097359514290811340",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TallTexanGuy Wow 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097359517163958510",
+    "time": "Tue Sep 08 16:20:50 +0000 2026",
+    "created_at": "Tue Sep 08 16:20:50 +0000 2026",
+    "id_str": "2097359517163958510",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jessprokop Grok actually did a great job",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097359575867342963",
+    "time": "Tue Sep 08 16:21:04 +0000 2026",
+    "created_at": "Tue Sep 08 16:21:04 +0000 2026",
+    "id_str": "2097359575867342963",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I am not sure about the gold chain 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/KodeationsTV/status/2097360246335291857",
+    "time": "Tue Sep 08 16:23:44 +0000 2026",
+    "created_at": "Tue Sep 08 16:23:44 +0000 2026",
+    "id_str": "2097360246335291857",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Sadly, I know what I looked like in the eighties, because I was there.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Edvane67/status/2097361643197919437",
+    "time": "Tue Sep 08 16:29:17 +0000 2026",
+    "created_at": "Tue Sep 08 16:29:17 +0000 2026",
+    "id_str": "2097361643197919437",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Edvane67 Is this the real photo of you?? Looks epic",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097362405139374512",
+    "time": "Tue Sep 08 16:32:19 +0000 2026",
+    "created_at": "Tue Sep 08 16:32:19 +0000 2026",
+    "id_str": "2097362405139374512",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@KodeationsTV Haha it looks great!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097362476958470523",
+    "time": "Tue Sep 08 16:32:36 +0000 2026",
+    "created_at": "Tue Sep 08 16:32:36 +0000 2026",
+    "id_str": "2097362476958470523",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@StevieMac03 😅😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097362512136069624",
+    "time": "Tue Sep 08 16:32:44 +0000 2026",
+    "created_at": "Tue Sep 08 16:32:44 +0000 2026",
+    "id_str": "2097362512136069624",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "It's one of my four favorite days of the year: new issue day for @arenamagdotcom! \n\nI am thrilled to introduce Arena Magazine Issue 009: Hello, World. It is 136 pages, our thickest magazine ever, dedicated to one of the most magnificent human inventions: software.\n\n🧵",
+    "quoted_tweet": null,
+    "url": "https://x.com/mualphaxi/status/2097342466349265117",
+    "time": "Tue Sep 08 15:13:05 +0000 2026",
+    "created_at": "Tue Sep 08 15:13:05 +0000 2026",
+    "id_str": "2097342466349265117",
+    "is_retweet": true
   }
 ]
