@@ -1,1 +1,136 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Every three years the OECD, a club of mostly rich countries, releases the results of international school tests sat by 15-year-olds all across the world. Anyone who cares about the young of today should be alarmed at this year’s scores  https://bit.ly/4zXPj6g",
+    "quoted_tweet": null,
+    "url": "https://x.com/TheEconomist/status/2097308993915900171",
+    "time": "Tue Sep 08 13:00:04 +0000 2026",
+    "created_at": "Tue Sep 08 13:00:04 +0000 2026",
+    "id_str": "2097308993915900171",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@TheEconomist @jeffreytucker Idiocracy",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2097329129737609537",
+    "time": "Tue Sep 08 14:20:05 +0000 2026",
+    "created_at": "Tue Sep 08 14:20:05 +0000 2026",
+    "id_str": "2097329129737609537",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@merettm Interesting",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2097339813951050176",
+    "time": "Tue Sep 08 15:02:32 +0000 2026",
+    "created_at": "Tue Sep 08 15:02:32 +0000 2026",
+    "id_str": "2097339813951050176",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Hopefully soon in Europe too",
+    "quoted_tweet": {
+      "author": "Rob2628",
+      "username": "rob2628",
+      "text": "Just tried a CyberCab ride here in Austin Texas 🤩  Super smooth experience. The style is just unmatched especially vs Waymo which I tried last year.\n\nHope it’s not gonna take years until this is possible in Germany. Come on EU 🤞"
+    },
+    "url": "https://x.com/elonmusk/status/2097353262588383244",
+    "time": "Tue Sep 08 15:55:59 +0000 2026",
+    "created_at": "Tue Sep 08 15:55:59 +0000 2026",
+    "id_str": "2097353262588383244",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Well said",
+    "quoted_tweet": {
+      "author": "Lewis Miles",
+      "username": "Maga4liberty",
+      "text": "Rubio just blew my mind‼️ The man who understood communism the most, just explained it to the least of us."
+    },
+    "url": "https://x.com/elonmusk/status/2097357638044443029",
+    "time": "Tue Sep 08 16:13:22 +0000 2026",
+    "created_at": "Tue Sep 08 16:13:22 +0000 2026",
+    "id_str": "2097357638044443029",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "LLMs have a structural advantage over humans when it comes to cracking unsolved math problems.\n\nThey’re not necessarily better at coming up w/ ideas - but they’ll grind on the details and don’t get “polluted” by bad approaches.\n\nFrom @OpenAI’s @mehtaab_sawhney and @MarkSellke 👇",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "OpenAI's Mark Sellke and Mehtaab Sawhney with a16z's Lisha Li, on the state of AI and mathematics:\n\nBefore OpenAI released GPT‑6 Astra last week, the model was already doing original mathematics. Recorded before the launch, this conversation tells the story of how it got there.\n\nIt began with GPT‑5. Mehtaab Sawhney pasted in an Erdős problem still listed as open. Five minutes later, the model surfaced a paper that had solved it. The exercise eventually uncovered published solutions to 10 more problems thought to be open.\n\nThen Astra went further. Told to \"go have fun\" with a high-dimensional sphere-packing problem, it improved a bound that had stood since the 1970s. Mehtaab had spent six months on the same problem in graduate school and made \"absolutely zero progress.\"\n\nAnother Astra result established that non-sofic groups exist with a roughly 15-page proof. A related human breakthrough took 250 pages and machinery from quantum complexity theory.\n\nOpenAI’s Mark Sellke and Mehtaab Sawhney join a16z’s Lisha Li on why wrong ideas pollute a human’s context window, why polished papers hide how mathematics is actually made, why a breakthrough can stop one prompt early, and what math rewards once proving stops being the bottleneck.\n\n00:00 Intro\n02:44 Cracking an Erdős problem in 5 minutes\n06:20 Why a human quits and a model doesn't\n08:50 Wrong ideas pollute your context window\n11:45 Why math papers are bad training data\n16:20 Nobody knows how to stack spheres in high dimensions\n18:28 The orange-stacking proof\n21:04 The 1970s Russian paper nobody could beat\n24:14 The function that won a Fields Medal\n27:09 How Astra beat the sphere-stacking record\n29:20 Why error correction is sphere packing in disguise\n35:15 The breakthrough Astra almost didn't bother with\n39:22 Solving harder problems means it has better taste\n41:00 One model for taste, one for the grind\n44:40 Astra found an infinite group no finite one can imitate\n52:00 250 pages of quantum complexity, or 15 of group theory\n56:18 Only humans write 200-page proofs\n1:00:38 What changes when proving stops being the bottleneck\n1:02:44 The problems AI may never solve\n\nYouTube: https://www.youtube.com/watch?v=1JvyLGd2Sfs\n\n@mehtaab_sawhney @MarkSellke @OpenAI @lishali88"
+    },
+    "url": "https://x.com/venturetwins/status/2097358457242579384",
+    "time": "Tue Sep 08 16:16:37 +0000 2026",
+    "created_at": "Tue Sep 08 16:16:37 +0000 2026",
+    "id_str": "2097358457242579384",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "This is a clip from an incredibly well-timed pod featuring @a16z’s own resident math PhD @lishali88!\n\nThey’re discussing the unit distance problem here, but the principles are relevant to other discoveries (like Navier-Stokes 👀)\n\nhttps://youtu.be/1JvyLGd2Sfs?is=_UkYLSgwNG3_GYAZ",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2097359580443681060",
+    "time": "Tue Sep 08 16:21:05 +0000 2026",
+    "created_at": "Tue Sep 08 16:21:05 +0000 2026",
+    "id_str": "2097359580443681060",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "TRX走向主流！",
+    "quoted_tweet": {
+      "author": "Tonys🔸Tucker｜「火币余币宝13%」",
+      "username": "Baby__BTC",
+      "text": "Tron Inc.同时纳入罗2000/2500/3000：TRX资金战略获得华尔街的认可！\n\n纳斯达克上市公司 Tron Inc.（股票代码：TRON） 在2026年6月底罗素指数年度重组中，同时进入罗素2000、罗素2500与罗素3000指数。这不是简单的“入榜”，而是传统资本市场对这家执行 $TRX 资金战略的上市公司给出的一次制度性认可！\n\n罗素指数是什么？为什么重要？\n\n罗素指数由FTSE Russell编制，是全球被动资金跟踪最广的美股基准之一：\n\n1/ 罗素3000：覆盖约3000家美国上市公司，代表美股整体市场\n\n2/ 罗素2000：罗素3000中市值较小的约2000只股票，是小盘股核心基准（对应ETF如IWM）\n\n3/ 罗素2500：中小盘组合，覆盖范围介于大盘与小盘之间\n\n每年一次的重组完全按市值与流动性规则执行，几乎不看主观叙事。一旦进入，跟踪这些指数的被动基金、ETF和量化产品必须按权重买入，带来持续的配置资金与流动性提升。\n\n纳入指数意味着什么？\n\n对Tron Inc.而言，核心变化有三层：\n\n1/ 被动资金强制配置：指数基金必须持有，提升成交量与机构可见度\n\n2/ 合规与认知升级：从“加密概念股”进入主流小盘股池，进入更多机构筛选名单\n\n3/ 融资与战略空间打开：更高流动性有利于后续增发、可转债等融资，继续加仓TRX\n\n这相当于把一家以TRX为核心资产的上市公司，正式接入美股被动资金体系。\n\n作为执行 $TRX 资金战略的上市公司，这对TRX意味着什么？\n\nTron Inc.作为公开市场最大的企业级TRX持有者，持续通过股权融资与日常买入积累TRX，并质押获取收益，模式对标Strategy的比特币资金战略。截至目前，其持仓已超过7.134亿枚TRX。\n\n指数纳入对TRX的影响，不在于“立刻拉盘”，而在于结构：\n\n1/ 传统资金间接暴露TRX：不愿直接持币的机构，可通过持有TRON股票获得TRX敞口\n\n2/ 持续买盘预期强化：公司融资能力与可见度提升后，加仓TRX的能力更强、更可持续\n\n3/ 叙事从链上走向华尔街：TRX不再只是链上稳定币结算网络的燃料，而是被纳入美股指数体系的企业储备资产\n\n4/ DAT模式获得验证：数字资产金库（DAT）公司能进入罗素指数，说明市场开始用市值与流动性规则接纳这一模式\n\n一句话：指数纳入把“公司买TRX”变成了“被动资金间接支持公司继续买TRX”的闭环。\n\nTron Inc.进入罗素2000/2500/3000，不是终点，而是TRX从加密原生资产走向传统金融配置工具的关键一步。\n\n公司持续积累、质押并计划更深融入TRON生态，指数身份将放大这一战略的资本效率！\n\n@justinsuntron @trondaoCN #TRONEcostar"
+    },
+    "url": "https://x.com/justinsuntron/status/2097292027755172279",
+    "time": "Tue Sep 08 11:52:39 +0000 2026",
+    "created_at": "Tue Sep 08 11:52:39 +0000 2026",
+    "id_str": "2097292027755172279",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "波场三连击！",
+    "quoted_tweet": {
+      "author": "0xMoon",
+      "username": "0xMoon",
+      "text": "罗素指数+TRX ETF+TRON = 飞轮开转\n \n最近TRX两条消息非常重要，第一是TRX的ETF（代码TRXS）将于9月9日在Cboe上市，第二是Tron Inc.（纳斯达克：$TRON），已被纳入罗素 2000、罗素 2500 和罗素 3000 指数。这两件事情单一都是巨大的利好，结合起来更是非常爆炸！\n \n1/ TRX的ETF准备上市，意味着机构和全球投资者开始用ETF配置TRX，同时参与质押生态，说明TRON的生态正在被主流认可，从支付和结算到全球投资者进场，TRON和TRX的叙事价值其实正在被重估。\n \n2/ Tron Inc被纳入罗素 2000、罗素 2500 和罗素 3000 指数。众所周知罗素体系被超 10万亿–12万亿美元 资金跟踪。入选后，指数基金、ETF、养老金等被动资金会按权重配置。Tron Inc将迎来巨大的流动性支持。\n \n那飞轮怎么开转？\n \n1/ 链上需求带动质押收益，波场作为稳定币结算的头部生态，日均数百亿稳定币转账，能量需求极高，带动了质押和租借能量的收益，推动了ETF的收益和Tron Inc公司储备的收益。\n \n2/ 储备收益带动融资能力，Tron Inc持续购买TRX储备并质押，一边赚取质押收益，一边获得币价涨幅，公司储备营收高，会获得更好的融资能力，从而购买更多的TRX，带动币价涨幅。\n \n3/ 罗素指数是被动的水龙头，罗素指数会被有十万亿美金体量的资金按照权重配置，进一步促进公司的估值和融资能力，从而让Tron Inc的囤币质押之路更加顺利。\n \n 真实的需求带动了收益 — 收益吸引了资金流 — ETF和罗素指数推动Tron Inc买币质押 — 更多的流通量被锁仓价格进一步上涨 — 价格上涨促进公司和ETF收益 — 再次吸引资金\n \n链上结算持续产生真实需求，能量和质押把需求变成可计算的收益；上市公司 Tron Inc. 不断买币、接近满仓质押，又进入罗素 2000/2500/3000，让被动资金先配股票、再反哺囤币；质押型 ETF TRXS 让传统账户直接买到「价格+质押收益」，申购即买币、即锁仓；公司锁、ETF 锁、网络锁一起抽薄流通盘、加固结算网络，用的人更多、买的人更多、锁的币更多，飞轮就转起来了。\n\n@justinsuntron @trondaoCN #TRONEcoStar"
+    },
+    "url": "https://x.com/justinsuntron/status/2097327212001481131",
+    "time": "Tue Sep 08 14:12:28 +0000 2026",
+    "created_at": "Tue Sep 08 14:12:28 +0000 2026",
+    "id_str": "2097327212001481131",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Live now",
+    "quoted_tweet": {
+      "author": "Trust Wallet",
+      "username": "TrustWallet",
+      "text": "Using @trondao on Trust Wallet? Good news.\n\nFrom today, users can now rent energy from Tronify while interacting with TronDAO dApps. \n\nAdditionally, enjoy a cleaner, more readable interface on Trust Wallet as you explore renting energy with Tronify.\n\nNavigate the Tron ecosystem with Trust, now easier, simpler and cheaper with Tronify energy rental enabled."
+    },
+    "url": "https://x.com/justinsuntron/status/2097330190011728192",
+    "time": "Tue Sep 08 14:24:18 +0000 2026",
+    "created_at": "Tue Sep 08 14:24:18 +0000 2026",
+    "id_str": "2097330190011728192",
+    "is_retweet": false
+  }
+]
