@@ -261,5 +261,443 @@
     "created_at": "Tue Sep 08 20:57:46 +0000 2026",
     "id_str": "2097429208947732781",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "I heard a rumor that Anthropic discovered a room temperature superconductor... Hopefully no Anthropic competitors throw 88 hours of 10,000 post-Astra agents at this to pre-empt the press release...",
+    "quoted_tweet": {
+      "author": "Sam Altman",
+      "username": "sama",
+      "text": "I spent much of the weekend talking with the team who did this work. Seb--and everyone else--acted with integrity and generosity throughout.\n\nInitially we believed the other team had also solved the problem. We wanted to collaborate and do a joint release. \n\nWhen we learned that they had Euler but not Navier-Stokes, we offered to let them go first, to suggest that they should be the ones to get the prize, and optionally for Tristan to be the lead author on a rewrite of the OpenAI proof. We felt it was challenging to offer the same to Levent (an Anthropic employee), who was not willing to talk or coordinate with us anyway. We were open to other solutions.\n\nWe would have greatly preferred coordination. We did not rush to publish even though the other team wasn't communicating with us. The team threatened us with unfounded accusations of plagarism.\n\nNow that we can see their work, the approaches appear to be different. It is also worth noting that our latest model can solve many, many other math problems.\n\nIt is true that we tried this because there were rumors on the internet last week that Anthropic's models had solved a millennium problem and we were curious if ours could do it too."
+    },
+    "url": "https://x.com/anabology/status/2097450250067689558",
+    "time": "Tue Sep 08 22:21:23 +0000 2026",
+    "created_at": "Tue Sep 08 22:21:23 +0000 2026",
+    "id_str": "2097450250067689558",
+    "is_retweet": true
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "i want one!",
+    "quoted_tweet": {
+      "author": "thijs",
+      "username": "cdngdev",
+      "text": "i gave astra a robot, a paint brush, and a camera then asked it to paint the golden gate bridge in real life!\n\nit figured out how to control the robot, and progressively got better throughout its attempts. the timelapse is sick"
+    },
+    "url": "https://x.com/sama/status/2097450292996604189",
+    "time": "Tue Sep 08 22:21:33 +0000 2026",
+    "created_at": "Tue Sep 08 22:21:33 +0000 2026",
+    "id_str": "2097450292996604189",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "@anabology you know what\n\nlet's try",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2097450412995735755",
+    "time": "Tue Sep 08 22:22:01 +0000 2026",
+    "created_at": "Tue Sep 08 22:22:01 +0000 2026",
+    "id_str": "2097450412995735755",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 发布了 ChatGPT Images 2.5，对其图像生成能力做了一次全面升级。核心改进有三个方向：速度更快（延迟比上一代降低约 50%），画面更逼真（光影和纹理更自然，人物面部特征保持得更好），以及编辑更精准（能只改你指定的部分，其余细节不动）。\n\n目前 ChatGPT 每周的图像生成量已经超过 30 亿张，这次升级直接影响的就是这个庞大的用户群体。\n\n除了模型本身的提升，OpenAI 还上线了几个实用功能。一个叫 Sketch，可以直接在 ChatGPT 里画草图，比如你画个大致的布局或轮廓，ChatGPT 会把它变成完整的图像。有时候画比说更快，这个功能就解决了\"想法在脑子里但描述不出来\"的问题。在对话框输入 @Sketch 就能用。\n\n另一个是模板功能，提供了海报、商品图等常见格式的模板，不用每次都从零开始描述。还有一个图片评论编辑功能，可以直接在图上标注你想修改的地方，比反复用文字描述\"把左上角那个东西改一下\"要直观得多。\n\n对开发者来说，API 端同步推出了两个新模型。GPT-Image-2.5 Flare 和 ChatGPT 里的体验一致，速度快、质量好，适合大多数场景。GPT-Image-2.5 Sunburst 则是面向高端创意工作的，生成时间更长但精度更高，适合做需要精细控制的品牌素材或产品图。\n\nChatGPT Images 2.5 今天起向所有 ChatGPT、ChatGPT Work 和 Codex 用户开放，覆盖桌面端、移动端和网页端。",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Some ideas are easier to draw than describe.\n\nUse Sketch to draw right in ChatGPT and show it exactly what you have in mind.\n\nJust type “@ Sketch” in ChatGPT."
+    },
+    "url": "https://x.com/dotey/status/2097436643963842954",
+    "time": "Tue Sep 08 21:27:19 +0000 2026",
+    "created_at": "Tue Sep 08 21:27:19 +0000 2026",
+    "id_str": "2097436643963842954",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "DoorDash's first office, a Stanford student housing dorm, 2013",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2097450626745872438",
+    "time": "Tue Sep 08 22:22:52 +0000 2026",
+    "created_at": "Tue Sep 08 22:22:52 +0000 2026",
+    "id_str": "2097450626745872438",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GPT Image2.5 发布 \n\n更快 更强 更逼真自然\n\n更强大的编辑能力，支持非常精细化的点对点的编辑\n\n只需描述你想编辑的图像部分即可\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097450450610274355",
+    "time": "Tue Sep 08 22:22:10 +0000 2026",
+    "created_at": "Tue Sep 08 22:22:10 +0000 2026",
+    "id_str": "2097450450610274355",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "在 ChatGPT 中输入“@ Sketch”\n\n即可随便涂鸦进行画板创作\n\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097450783159832625",
+    "time": "Tue Sep 08 22:23:30 +0000 2026",
+    "created_at": "Tue Sep 08 22:23:30 +0000 2026",
+    "id_str": "2097450783159832625",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "支持各种模板、版式直接参考创作\n\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097450984830382332",
+    "time": "Tue Sep 08 22:24:18 +0000 2026",
+    "created_at": "Tue Sep 08 22:24:18 +0000 2026",
+    "id_str": "2097450984830382332",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI 还在  API 中引入了两个新图像模型：\n\nGPT-Image-2.5 Flare 带来了相同的品质、编辑能力，但是生成速度更快\n\nGPT-Image-2.5 Sunburst 则为详细的创意工作带来更加精确度，和高质量的图像，但生成时间更长\n\nhttps://openai.com/index/introducing-chatgpt-images-2-5/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097452286943633897",
+    "time": "Tue Sep 08 22:29:28 +0000 2026",
+    "created_at": "Tue Sep 08 22:29:28 +0000 2026",
+    "id_str": "2097452286943633897",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Good luck to everyone applying to Original Content Rewards Program on X today",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097419847927771375",
+    "time": "Tue Sep 08 20:20:34 +0000 2026",
+    "created_at": "Tue Sep 08 20:20:34 +0000 2026",
+    "id_str": "2097419847927771375",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Good luck Kris!",
+    "quoted_tweet": null,
+    "url": "https://x.com/HauntedAI/status/2097420092174663734",
+    "time": "Tue Sep 08 20:21:32 +0000 2026",
+    "created_at": "Tue Sep 08 20:21:32 +0000 2026",
+    "id_str": "2097420092174663734",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife best of luck Kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/UNRE3L/status/2097420942804930793",
+    "time": "Tue Sep 08 20:24:55 +0000 2026",
+    "created_at": "Tue Sep 08 20:24:55 +0000 2026",
+    "id_str": "2097420942804930793",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This guy needs a name.\n\nDrop your best idea in the comments.\n\nMy favorite wins Cartoon Hero lifetime access 👊",
+    "quoted_tweet": null,
+    "url": "https://x.com/Framer_X/status/2097421484931301735",
+    "time": "Tue Sep 08 20:27:04 +0000 2026",
+    "created_at": "Tue Sep 08 20:27:04 +0000 2026",
+    "id_str": "2097421484931301735",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@UNRE3L Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097421882479841713",
+    "time": "Tue Sep 08 20:28:39 +0000 2026",
+    "created_at": "Tue Sep 08 20:28:39 +0000 2026",
+    "id_str": "2097421882479841713",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@HauntedAI Thanks!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097421903489060873",
+    "time": "Tue Sep 08 20:28:44 +0000 2026",
+    "created_at": "Tue Sep 08 20:28:44 +0000 2026",
+    "id_str": "2097421903489060873",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife *crosses fingers*",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2097422168636248365",
+    "time": "Tue Sep 08 20:29:47 +0000 2026",
+    "created_at": "Tue Sep 08 20:29:47 +0000 2026",
+    "id_str": "2097422168636248365",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte Good luck!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097422465764856239",
+    "time": "Tue Sep 08 20:30:58 +0000 2026",
+    "created_at": "Tue Sep 08 20:30:58 +0000 2026",
+    "id_str": "2097422465764856239",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My feed. \nYou all looked great in 80s 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097422634845618489",
+    "time": "Tue Sep 08 20:31:39 +0000 2026",
+    "created_at": "Tue Sep 08 20:31:39 +0000 2026",
+    "id_str": "2097422634845618489",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife i have a lot of work to do to get there.",
+    "quoted_tweet": null,
+    "url": "https://x.com/tmophoto/status/2097423020478673011",
+    "time": "Tue Sep 08 20:33:10 +0000 2026",
+    "created_at": "Tue Sep 08 20:33:10 +0000 2026",
+    "id_str": "2097423020478673011",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife One day I'll get enough impressions to apply 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pinsky/status/2097423425430311406",
+    "time": "Tue Sep 08 20:34:47 +0000 2026",
+    "created_at": "Tue Sep 08 20:34:47 +0000 2026",
+    "id_str": "2097423425430311406",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Pinsky How many impressions are you missing?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097424187711189414",
+    "time": "Tue Sep 08 20:37:49 +0000 2026",
+    "created_at": "Tue Sep 08 20:37:49 +0000 2026",
+    "id_str": "2097424187711189414",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tmophoto You can do it!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097424261191250129",
+    "time": "Tue Sep 08 20:38:06 +0000 2026",
+    "created_at": "Tue Sep 08 20:38:06 +0000 2026",
+    "id_str": "2097424261191250129",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Almost all of them 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pinsky/status/2097425404575519057",
+    "time": "Tue Sep 08 20:42:39 +0000 2026",
+    "created_at": "Tue Sep 08 20:42:39 +0000 2026",
+    "id_str": "2097425404575519057",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097425457289314564",
+    "time": "Tue Sep 08 20:42:51 +0000 2026",
+    "created_at": "Tue Sep 08 20:42:51 +0000 2026",
+    "id_str": "2097425457289314564",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Good Luck Kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/KSJ_Kreative/status/2097425547089334763",
+    "time": "Tue Sep 08 20:43:13 +0000 2026",
+    "created_at": "Tue Sep 08 20:43:13 +0000 2026",
+    "id_str": "2097425547089334763",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Pinsky Just wait till MAX and I’m sure you will qualify with all our juicy sneaks posts",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097425720897052688",
+    "time": "Tue Sep 08 20:43:54 +0000 2026",
+    "created_at": "Tue Sep 08 20:43:54 +0000 2026",
+    "id_str": "2097425720897052688",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@KSJ_Kreative Thank you ☺️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097425762173263968",
+    "time": "Tue Sep 08 20:44:04 +0000 2026",
+    "created_at": "Tue Sep 08 20:44:04 +0000 2026",
+    "id_str": "2097425762173263968",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Here's what I really looked like in the 1980s",
+    "quoted_tweet": null,
+    "url": "https://x.com/HacimRamalla1/status/2097425984404509065",
+    "time": "Tue Sep 08 20:44:57 +0000 2026",
+    "created_at": "Tue Sep 08 20:44:57 +0000 2026",
+    "id_str": "2097425984404509065",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@HacimRamalla1 Great photos! Thanks for sharing",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097426972531888536",
+    "time": "Tue Sep 08 20:48:53 +0000 2026",
+    "created_at": "Tue Sep 08 20:48:53 +0000 2026",
+    "id_str": "2097426972531888536",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What I actually looked like in the 80s",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/icreatelife/status/2097430147288711304",
+    "time": "Tue Sep 08 21:01:30 +0000 2026",
+    "created_at": "Tue Sep 08 21:01:30 +0000 2026",
+    "id_str": "2097430147288711304",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Framer_X Aooooooo",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097434266493714445",
+    "time": "Tue Sep 08 21:17:52 +0000 2026",
+    "created_at": "Tue Sep 08 21:17:52 +0000 2026",
+    "id_str": "2097434266493714445",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Another bit of fun with Kris.\n\nAsk \"what would I have looked like in the 1980s?\"\n\nI decided to throw in a picture of my wife and I to see what we would look like 😂 I'll show it to her in the morning.",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/B_AD_tokyohound/status/2097436667997286443",
+    "time": "Tue Sep 08 21:27:24 +0000 2026",
+    "created_at": "Tue Sep 08 21:27:24 +0000 2026",
+    "id_str": "2097436667997286443",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@B_AD_tokyohound Aww that is adorable! Hope she likes it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097436859085279260",
+    "time": "Tue Sep 08 21:28:10 +0000 2026",
+    "created_at": "Tue Sep 08 21:28:10 +0000 2026",
+    "id_str": "2097436859085279260",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Lmao  😆",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2097438526841213099",
+    "time": "Tue Sep 08 21:34:47 +0000 2026",
+    "created_at": "Tue Sep 08 21:34:47 +0000 2026",
+    "id_str": "2097438526841213099",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely 😁🤭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097438729904243056",
+    "time": "Tue Sep 08 21:35:36 +0000 2026",
+    "created_at": "Tue Sep 08 21:35:36 +0000 2026",
+    "id_str": "2097438729904243056",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What I actually looked like in the 80s",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097439092959039590",
+    "time": "Tue Sep 08 21:37:02 +0000 2026",
+    "created_at": "Tue Sep 08 21:37:02 +0000 2026",
+    "id_str": "2097439092959039590",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MelvinNerdster @icreatelife My real look wasn’t far off, the foofy hair and all (I was a teenager)",
+    "quoted_tweet": null,
+    "url": "https://x.com/D_the_Designer/status/2097442609186943188",
+    "time": "Tue Sep 08 21:51:01 +0000 2026",
+    "created_at": "Tue Sep 08 21:51:01 +0000 2026",
+    "id_str": "2097442609186943188",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@D_the_Designer @MelvinNerdster Do you have any real photos left? I so wish I lived and was a teen in 80s!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097444848160612529",
+    "time": "Tue Sep 08 21:59:55 +0000 2026",
+    "created_at": "Tue Sep 08 21:59:55 +0000 2026",
+    "id_str": "2097444848160612529",
+    "is_retweet": false
   }
 ]
