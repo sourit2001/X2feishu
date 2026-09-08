@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "atlas lets you walk around any zillow listing in realtime",
+    "quoted_tweet": null,
+    "url": "https://x.com/BenMildenhall/status/2097417305630335232",
+    "time": "Tue Sep 08 20:10:28 +0000 2026",
+    "created_at": "Tue Sep 08 20:10:28 +0000 2026",
+    "id_str": "2097417305630335232",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Our new Atlas model now runs real-time after some intense inference optimization! Generating and navigating worlds is so much more visceral when it's interactive.\n\nInference runs on both B200 and MI355X with similar performance. Both devices are incredible workhorses!",
+    "quoted_tweet": {
+      "author": "World Labs",
+      "username": "theworldlabs",
+      "text": "One more thing…"
+    },
+    "url": "https://x.com/jcjohnss/status/2097423245742141907",
+    "time": "Tue Sep 08 20:34:04 +0000 2026",
+    "created_at": "Tue Sep 08 20:34:04 +0000 2026",
+    "id_str": "2097423245742141907",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AI seems to be beating the expectations of the best forecasters.",
+    "quoted_tweet": {
+      "author": "Kevin A. Bryan",
+      "username": "Afinetheorem",
+      "text": "Nov 2025 LEAP panel of AI experts and superforecasters: 10% chance of AI helping solve a Millennium problem by 2027. \"One expert cites the Clay president's June 2025 claim: “We're very far away from AI being able to say anything serious about any of those problems” (Heaven 2025)\""
+    },
+    "url": "https://x.com/emollick/status/2097416156566921632",
+    "time": "Tue Sep 08 20:05:54 +0000 2026",
+    "created_at": "Tue Sep 08 20:05:54 +0000 2026",
+    "id_str": "2097416156566921632",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Quick, spread some rumors about other really hard problems that Anthropic is on the verge of solving.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097447954076303733",
+    "time": "Tue Sep 08 22:12:15 +0000 2026",
+    "created_at": "Tue Sep 08 22:12:15 +0000 2026",
+    "id_str": "2097447954076303733",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Awh I need 133,900 more impressions to apply to the Original Content Rewards Program",
+    "quoted_tweet": null,
+    "url": "https://x.com/saradietschy/status/2097403848755204583",
+    "time": "Tue Sep 08 19:17:00 +0000 2026",
+    "created_at": "Tue Sep 08 19:17:00 +0000 2026",
+    "id_str": "2097403848755204583",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "One reason I don't think we actually have AGI yet (at least not publicly available) is that AI is still REALLY bad at spotting AI. \n\nAI images and videos that most humans can clearly spot as being AI are often flagged as not AI or inconclusive. I've been testing a lot of the platforms that are available out there that claim they can determine if something is AI or not and none of them are ever conclusive, even on things most humans would clearly determine are AI. You can even give images or videos to the latest, greatest models, like Astra and Fable 5.1 and Gemini with video understanding... None of them will accurately tell you if what they're seeing is AI.\n\nIf AGI is intelligence that's as good as the smartest humans at almost everything, why don't we have anything that can accurately spot AI as good as a human could without the original piece having an embedded watermark?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2097419134971875702",
+    "time": "Tue Sep 08 20:17:44 +0000 2026",
+    "created_at": "Tue Sep 08 20:17:44 +0000 2026",
+    "id_str": "2097419134971875702",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@saradietschy Same boat.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2097420257342456187",
+    "time": "Tue Sep 08 20:22:12 +0000 2026",
+    "created_at": "Tue Sep 08 20:22:12 +0000 2026",
+    "id_str": "2097420257342456187",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow detectors are trained on last year's artifacts. the generators moved and the detectors didn't. it's less that ai can't spot ai, more that nobody's retraining the detector at the same rate.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BhavyaShah1205/status/2097430880537251993",
+    "time": "Tue Sep 08 21:04:24 +0000 2026",
+    "created_at": "Tue Sep 08 21:04:24 +0000 2026",
+    "id_str": "2097430880537251993",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@BhavyaShah1205 Why can't an AI model, that's supposedly AGI now, not detect other AIs? Forget about the detectors... If something is AGI, that AGI should be able to spot AI as well as a human, no?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2097443215351885963",
+    "time": "Tue Sep 08 21:53:25 +0000 2026",
+    "created_at": "Tue Sep 08 21:53:25 +0000 2026",
+    "id_str": "2097443215351885963",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "OpenAI still not given us any info as to what this change actually is.\n\nI have my own conspiracy theory and will share soon if we don't get any official word lol",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "We've made some improvements that improve usage on the long tail for power users of Astra when logged in with your ChatGPT account.\n\nNo change in quality and a pure win that on the long tail can result in up to 3-4X less usage being drawn from the subscription."
+    },
+    "url": "https://x.com/theo/status/2097213946315071504",
+    "time": "Tue Sep 08 06:42:23 +0000 2026",
+    "created_at": "Tue Sep 08 06:42:23 +0000 2026",
+    "id_str": "2097213946315071504",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo Not that an official word would stop you. But really it's an optimization related to scheduling and routing of request that combined with long context and workload we have on 1P subscriptions that yields a significant saving in long tail of long-running sessions",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097415471251464582",
+    "time": "Tue Sep 08 20:03:11 +0000 2026",
+    "created_at": "Tue Sep 08 20:03:11 +0000 2026",
+    "id_str": "2097415471251464582",
+    "is_retweet": false
+  }
+]
