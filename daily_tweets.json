@@ -172,5 +172,418 @@
     "created_at": "Wed Sep 09 00:08:40 +0000 2026",
     "id_str": "2097477250442833946",
     "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "ChatGPT Images 2.5\n\n有点东西",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097460743151161751",
+    "time": "Tue Sep 08 23:03:04 +0000 2026",
+    "created_at": "Tue Sep 08 23:03:04 +0000 2026",
+    "id_str": "2097460743151161751",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "信息图也能实现精准的局部编辑\n\n和版式调节",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097460747492323406",
+    "time": "Tue Sep 08 23:03:05 +0000 2026",
+    "created_at": "Tue Sep 08 23:03:05 +0000 2026",
+    "id_str": "2097460747492323406",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "依次点亮蜡烛",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097460749534998854",
+    "time": "Tue Sep 08 23:03:06 +0000 2026",
+    "created_at": "Tue Sep 08 23:03:06 +0000 2026",
+    "id_str": "2097460749534998854",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "📢好消息：\n\nGrok Bot 正式打通了 X 平台\n机器人现在可以直接调用 X 的数据和能力\n\n福利：付费的 Grok Bot 用户在首次绑定连接时，会免费赠送一部分 X API 额度（Starter Credits），供上手试用体验\n\n接入流程： 进入 Grok Bot 的 Marketplace（应用市场） $\\rightarrow$ 搜索并添加 X 插件 $\\rightarrow$ 登录 X 账号完成授权，直到账号状态显示为已连接即可\n\n主要功能：\n\n自动读取与监控： 抓取 @ 提及里的用户反馈、将关注流/首页时间线提炼为“每日简报”、追踪最新热点趋势，并把感兴趣的内容自动存入书签。\n\n私信与评论管理： 分类整理私信（DM）；如果推文评论区问题太多，机器人能聚合归类所有提问，辅助生成回复并自动化批量发布。\n\n智能个性化助理（X Scout）： 作者举例了一个叫 X Scout 的机器人，它能学习你的工作习惯与历史发帖，自动去 X 上寻找值得抄作业的 Grok Bot 玩法并推荐给你。\n\nAI 生成标签： 由 Grok Bot 代发的推文，系统会自动打上 “Made with AI” 的透明度标识。",
+    "quoted_tweet": {
+      "author": "eric zakariasson",
+      "username": "ericzakariasson",
+      "text": "https://x.com/i/article/2097340198145425408"
+    },
+    "url": "https://x.com/xiaohu/status/2097469976768897186",
+    "time": "Tue Sep 08 23:39:46 +0000 2026",
+    "created_at": "Tue Sep 08 23:39:46 +0000 2026",
+    "id_str": "2097469976768897186",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "比 GPT-6 Astra 更强的下一代模型曝光\n\nOpenAI宣布，公司内部的一个AI模型解出了纳维斯托克斯方程的存在性与光滑性问题\n\n这是克莱数学研究所2000年提出的七个千禧年大奖难题之一，每个悬赏100万美元\n\n此前只有一个千禧年难题被解开过\n\n该模型调动了多达1万个Agent 并行工作约88小时...\n\n算力成本高达数百万美元，最后产出一份165页的证明，外加用Lean（一种能逐步验证数学论证逻辑正确性的编程语言）做的形式化验证）...\n\n而做出这个证明的是一个还没公开、比GPT-6 Astra更强的下一代内部模型。\n\nOpenAI表示不打算去领这100万美元奖金\n\n有趣的是OpenAI这次公告发布前12小时，纽约大学的Tristan Buckmaster 和 Anthropic 的 Levent Alpöge刚宣布借助多种AI模型解出了几个密切相关的问题\n\nOpenAI承认自己这次的工作在一定程度上是被这个传闻刺激的。\n\n但双方对接后OpenAI发现，那两人解的其实是一个相关但不同的问题，受迫欧拉方程，并不是纳维斯托克斯本身...",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics.\n\nThe proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra.\n\nThe problem concerns whether the description of smooth three-dimensional fluid motion modeled by the Navier-Stokes equations can break down. It has remained unresolved for roughly 90 years."
+    },
+    "url": "https://x.com/xiaohu/status/2097477721672855994",
+    "time": "2026-09-09 08:10",
+    "created_at": "Wed Sep 09 00:10:32 +0000 2026",
+    "id_str": "2097477721672855994",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "GPT-Image 2.5 本次最大的升级是超乎你想象的强大的可控编辑能力\n\n就是你能完全精确控制图像哪里变哪里不变，而且只需要通过文字描述即可对图像进行非常精细和精准的编辑，可以说是完全替代 Photoshop 级别的更新...\n\n分享个15个精准编辑场景提示词 Prompt都能直接复制：\n\n1，多图分工合并\n\n指定每张参考图各管一个部分，身份、服装、场景、构图分开来，最后合成一张。\n\n\"Image 1 = subject identity. Image 2 = outfit. Image 3 = setting. Image 4 = framing. Use each source only for its assigned role and merge them into one realistic scene.\"\n\n2，锁定基准图\n\n把某张图设为基准版本，之后每次改动只动你点名的那一处，其他全部锁死。\n\n\"Lock this image as the base version. Every attribute stays fixed unless I name it directly. On future edits, touch only the variable I mention, leave everything else exactly as is.\"\n\n3，精准局部编辑\n\n只改你指定的那一块，材质光线角度全部保持原样。\n\n\"Edit only the [ELEMENT] I specify. Keep the surrounding anatomy, material, lighting and angle untouched. Nothing else in the frame should change.\"\n\n4，产品图直接放进完整场景\n\n产品本身的形状材质颜色logo都不能变，只换背景光线和机位。\n\n\"Treat the uploaded product shot as fixed, exact shape, materials, color and branding. Drop it into [SCENE], only adjust the backdrop, light and camera angle.\"\n\n5，批量做A/B测试素材\n\n一次生成多个版本，只改你要测试的那一个变量，其余全部保持一致。\n\n\"Produce [N] versions of this creative. Keep product, layout, type and lighting identical across all of them. Vary only [ONE VARIABLE].\"\n\n6，改比例不裁切\n\n换成新的画幅比例，靠智能扩展和重排来补全画面，而不是简单裁掉。\n\n\"Rebuild this image for [ASPECT RATIO] without cropping. Keep the subject and visual hierarchy, extend and rearrange the rest of the frame intelligently.\"\n\n7，界面截图放进宣传图\n\n上传的界面设计原样不动，直接嵌进一个高级设备或宣传场景里。\n\n\"Keep the uploaded interface exactly as designed, no redesign. Place it inside a premium [DEVICE/SETTING] scene with realistic reflections, lighting and negative space.\"\n\n8，把平面图案印上实体产品\n\n图案的构图颜色不变，按材质本身的褶皱和纹理规律真实地印上去。\n\n\"Take the artwork in image 1 exactly as is, same composition and colors. Apply it onto [PRODUCT] the way print actually behaves on that material, following its folds and texture.\"\n\n9，分镜连续性\n\n把这张图设为角色服装场景的基准，生成下一镜，只变机位构图和姿势。\n\n\"Use this as the fixed reference for character, outfit and location. Generate the next shot: [SHOT DESCRIPTION]. Only camera angle, framing and pose should change.\"\n\n10，生成3D建模参考图\n\n用一张图作为角色基准，生成指定视角的标准站姿全身图，用于建模参考。\n\n\"Use image 1 as the character reference. Generate a [VIEW] full body A pose version. Keep silhouette, proportions, materials and details matched, neutral studio light.\"\n\n11，只换身上某一件衣服\n\n人物姿势光线背景都不动，只换指定的那一件服装。\n\n\"Keep identity, pose, camera, lighting and background untouched. Replace only [GARMENT], using image 2 as reference for cut, material and color.\"\n\n12，室内单一元素改造\n\n房屋结构门窗机位全部保持原样，只改你指定的那一个元素。\n\n\"Keep architecture, dimensions, perspective, doors and windows exactly as shown. Change only [ELEMENT] to [NEW VERSION].\"\n\n13，文案本地化\n\n产品构图光线不变，只替换画面里的文字内容，适配目标市场。\n\n\"Keep product, layout and lighting exactly as is. Replace only the visible text with '[NEW TEXT]', adjust background details minimally for [MARKET]. No extra text added.\"\n\n14，草图变成精美信息图\n\n每个节点和标签都保留，只优化排版间距和视觉层次。\n\n\"Turn this rough sketch into a clean [DIAGRAM/INFOGRAPHIC]. Keep every node, connection and label exactly as drawn. Only refine spacing, alignment and hierarchy.\"\n\n15，电商图抠图清理\n\n产品本身不动，去掉背景，只修复边缘细节，不动颜色形状和logo。\n\n\"Keep the product exactly as is. Remove the background, isolate it on [transparent/plain background]. Only clean up edge artifacts, no changes to color, shape or branding.\"\n\nOpenAI 还在  API 中引入了两个新图像模型：  \n\nGPT-Image-2.5 Flare 带来了相同的品质、编辑能力，但是生成速度更快  \n\nGPT-Image-2.5 Sunburst 为详细高要求创意工作带来更加精确度和高质量的图像，但生成时间更长\n\n如果你没有API，想体验的话，在Higgsfield上都能用，这些Prompt可以直接拿自己的图去试。\n\n看看两个模型的区别...",
+    "quoted_tweet": {
+      "author": "Higgsfield AI 🧩",
+      "username": "higgsfield",
+      "text": "GPT-Image 2.5 Sunburst & Flare are live on Higgsfield 🧩\n\nOpenAI's SOTA image model, now with flawless text rendering, advanced context understanding and shaper product detailing.\n\nNow live on Higgsfield."
+    },
+    "url": "https://x.com/xiaohu/status/2097486974261362853",
+    "time": "2026-09-09 08:47",
+    "created_at": "Wed Sep 09 00:47:18 +0000 2026",
+    "id_str": "2097486974261362853",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Spent the last 30 minutes looking for more paper",
+    "quoted_tweet": {
+      "author": "cate bligh",
+      "username": "catebligh",
+      "text": "I want to go full boomer and print a docx right from ChatGPT, I don't want to open it again."
+    },
+    "url": "https://x.com/catebligh/status/2097464135457866149",
+    "time": "Tue Sep 08 23:16:33 +0000 2026",
+    "created_at": "Tue Sep 08 23:16:33 +0000 2026",
+    "id_str": "2097464135457866149",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Make a mind map of your life with GPT Image 2.5 in Firefly Boards \n\nThis way you can introduce yourself and tell your story. \n\nAs always I’d love to see yours. Here’s mine. \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097480602966446545",
+    "time": "2026-09-09 08:21",
+    "created_at": "Wed Sep 09 00:21:59 +0000 2026",
+    "id_str": "2097480602966446545",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Cool idea thanks 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/COLORINGBOOKDJS/status/2097481723969691784",
+    "time": "2026-09-09 08:26",
+    "created_at": "Wed Sep 09 00:26:26 +0000 2026",
+    "id_str": "2097481723969691784",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Seems like one of the biggest upgrades in GPT Image 2.5 is how much cleaner the images look.\n\nThat signature GPT image noise is gone. You know what I’m talking about.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097483313174757757",
+    "time": "2026-09-09 08:32",
+    "created_at": "Wed Sep 09 00:32:45 +0000 2026",
+    "id_str": "2097483313174757757",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@COLORINGBOOKDJS Thank you for giving it a go!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097483967511290155",
+    "time": "2026-09-09 08:35",
+    "created_at": "Wed Sep 09 00:35:21 +0000 2026",
+    "id_str": "2097483967511290155",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I love mind maps, thanks for giving my prompt a try",
+    "quoted_tweet": {
+      "author": "GREAT DJS OF THE WORLD",
+      "username": "COLORINGBOOKDJS",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2097484105566896411",
+    "time": "2026-09-09 08:35",
+    "created_at": "Wed Sep 09 00:35:54 +0000 2026",
+    "id_str": "2097484105566896411",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I run mine on Thursdays for the past 4 years. \nUsually I recommend doing it not every day, once a week tops. Then I respond to most people posting and repost 10-15 artworks during next couple of days. I was never penalized. \nEverything is good in moderation. Besides, new reward program pays for original content not engagement farming, so people who overdo it will likely lose interest in doing it now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097485338126299509",
+    "time": "2026-09-09 08:40",
+    "created_at": "Wed Sep 09 00:40:48 +0000 2026",
+    "id_str": "2097485338126299509",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Job opportunity to work for an AI startup. Only in person work opportunity in New York (Brooklyn), but they are good people 👇",
+    "quoted_tweet": {
+      "author": "weber",
+      "username": "weberwongwong",
+      "text": "I’m hiring a Creative Producer at FLORA.\n\nYou’ll work directly with me and the creative team to conceive, direct, produce, and ship work across campaigns, films, social, launches, editorial, and cultural experiments. You'll play a significant role in shaping the development of the tool itself as well.\n\nLmk if you or anyone you know might be interested, link below. NYC based only (this would be where you’d sit probably)"
+    },
+    "url": "https://x.com/icreatelife/status/2097485768331522378",
+    "time": "2026-09-09 08:42",
+    "created_at": "Wed Sep 09 00:42:31 +0000 2026",
+    "id_str": "2097485768331522378",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@weberwongwong Great opportunity for the right person. Sharing with my network",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097485851529740397",
+    "time": "2026-09-09 08:42",
+    "created_at": "Wed Sep 09 00:42:51 +0000 2026",
+    "id_str": "2097485851529740397",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I was thinking about my content recently and what I want to share with you and realized: as long as I ask myself “is this content beneficial to someone? Is it useful?” And benefit can be professional and also can be entertaining (happy people tend to work better and live longer)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097487410200289786",
+    "time": "2026-09-09 08:49",
+    "created_at": "Wed Sep 09 00:49:02 +0000 2026",
+    "id_str": "2097487410200289786",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yes, have not seen anything like it so far.\nOverfit on certain styles seems reduced as well, can do decent classic anime.",
+    "quoted_tweet": null,
+    "url": "https://x.com/HgbrdCeline/status/2097489056414171281",
+    "time": "2026-09-09 08:55",
+    "created_at": "Wed Sep 09 00:55:35 +0000 2026",
+    "id_str": "2097489056414171281",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@HgbrdCeline Interesting! I will experiment with anime. Thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097489521193492844",
+    "time": "2026-09-09 08:57",
+    "created_at": "Wed Sep 09 00:57:25 +0000 2026",
+    "id_str": "2097489521193492844",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BrianRoemmele Good luck!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097489595038371978",
+    "time": "2026-09-09 08:57",
+    "created_at": "Wed Sep 09 00:57:43 +0000 2026",
+    "id_str": "2097489595038371978",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "🪩",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097490577222664394",
+    "time": "2026-09-09 09:01",
+    "created_at": "Wed Sep 09 01:01:37 +0000 2026",
+    "id_str": "2097490577222664394",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Hi I'm Glenn!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Make a mind map of your life with GPT Image 2.5 in Firefly Boards \n\nThis way you can introduce yourself and tell your story. \n\nAs always I’d love to see yours. Here’s mine. \n\nPrompt 👇"
+    },
+    "url": "https://x.com/GlennHasABeard/status/2097491665862770785",
+    "time": "2026-09-09 09:05",
+    "created_at": "Wed Sep 09 01:05:57 +0000 2026",
+    "id_str": "2097491665862770785",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@swaymolina Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097491953294200833",
+    "time": "2026-09-09 09:07",
+    "created_at": "Wed Sep 09 01:07:05 +0000 2026",
+    "id_str": "2097491953294200833",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Dear X team, I see a day old posts on For You feed. Even posts from your team that would be more valuable if I saw those instantly, not a day later. Noticed this very recently. If you see this a day later, please, let me know. So the team can fix it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097493012687314944",
+    "time": "2026-09-09 09:11",
+    "created_at": "Wed Sep 09 01:11:18 +0000 2026",
+    "id_str": "2097493012687314944",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I see this post of yours 44 seconds after you posted it",
+    "quoted_tweet": null,
+    "url": "https://x.com/Warrior0fKeys/status/2097493369257689503",
+    "time": "2026-09-09 09:12",
+    "created_at": "Wed Sep 09 01:12:43 +0000 2026",
+    "id_str": "2097493369257689503",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Warrior0fKeys Great! I don’t see any new posts at all \nOnly day long ones",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097494385738809724",
+    "time": "2026-09-09 09:16",
+    "created_at": "Wed Sep 09 01:16:45 +0000 2026",
+    "id_str": "2097494385738809724",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "The prompt for turning a life mind map into a single image was so interesting and beautiful! \nThank you for sharing it.\nI made my own Map too. \nLooking back on my story was really fun.\n@icreatelife \n\n😸ᩚPartial correction\n\nG\nGracefully pace yourself （自分に合ったペースを守る）\n\nA\nAlways hold on （あきらめず踏みとどまる）\n\nO\n Overcome setbacks （落ち込みや失敗を乗り越える）",
+    "quoted_tweet": null,
+    "url": "https://x.com/r732018/status/2097494799075234068",
+    "time": "2026-09-09 09:18",
+    "created_at": "Wed Sep 09 01:18:24 +0000 2026",
+    "id_str": "2097494799075234068",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "The prompt for turning a life mind map into a single image was so interesting and beautiful! \nThank you for sharing it.\nI made my own Map too. \nLooking back on my story was really fun.\n@icreatelife \n\n😸ᩚPartial correction\n\nG\nGracefully pace yourself （自分に合ったペースを守る）\n\nA\nAlways hold on （あきらめず踏みとどまる）\n\nO\n Overcome setbacks （落ち込みや失敗を乗り越える）",
+    "quoted_tweet": null,
+    "url": "https://x.com/r732018/status/2097494799075234068",
+    "time": "2026-09-09 09:18",
+    "created_at": "Wed Sep 09 01:18:24 +0000 2026",
+    "id_str": "2097494799075234068",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@r732018 This is so lovely",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097494914527379752",
+    "time": "2026-09-09 09:18",
+    "created_at": "Wed Sep 09 01:18:51 +0000 2026",
+    "id_str": "2097494914527379752",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Same lately. My For You feed is filled with 16-24 hour old posts. I have to try refreshing multiple times. Maybe because I've not been able to be on here like normal?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Iamtomblake/status/2097494919594029141",
+    "time": "2026-09-09 09:18",
+    "created_at": "Wed Sep 09 01:18:53 +0000 2026",
+    "id_str": "2097494919594029141",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Iamtomblake Tom, I am chronically online but same thing.. I don’t know why it shows me old posts, lots are not even relevant anymore",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097495123432980722",
+    "time": "2026-09-09 09:19",
+    "created_at": "Wed Sep 09 01:19:41 +0000 2026",
+    "id_str": "2097495123432980722",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I think the algo is going through its growing pains. Again. 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/Iamtomblake/status/2097495897827332098",
+    "time": "2026-09-09 09:22",
+    "created_at": "Wed Sep 09 01:22:46 +0000 2026",
+    "id_str": "2097495897827332098",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Ok why does this look almost exactly like my sister(1992)as she went to prom",
+    "quoted_tweet": null,
+    "url": "https://x.com/MarsmanMelvin/status/2097496137674453250",
+    "time": "2026-09-09 09:23",
+    "created_at": "Wed Sep 09 01:23:43 +0000 2026",
+    "id_str": "2097496137674453250",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Iamtomblake Yes!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097496228191748125",
+    "time": "2026-09-09 09:24",
+    "created_at": "Wed Sep 09 01:24:05 +0000 2026",
+    "id_str": "2097496228191748125",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MarsmanMelvin The reference was this (it’s a meme that’s been going on today all day)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097496356554183008",
+    "time": "2026-09-09 09:24",
+    "created_at": "Wed Sep 09 01:24:35 +0000 2026",
+    "id_str": "2097496356554183008",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@catebligh 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097496449487458358",
+    "time": "2026-09-09 09:24",
+    "created_at": "Wed Sep 09 01:24:57 +0000 2026",
+    "id_str": "2097496449487458358",
+    "is_retweet": false
   }
 ]
