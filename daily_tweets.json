@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Literally thought the same thing. \n\nI want a dedicated computer running codex 24x7, this as my phone and computer that can remotely control codex.",
+    "quoted_tweet": {
+      "author": "Pietro Schirano",
+      "username": "skirano",
+      "text": "I know we all thinking the same thing"
+    },
+    "url": "https://x.com/rileybrown/status/2097779818121122268",
+    "time": "2026-09-10 04:10",
+    "created_at": "Wed Sep 09 20:10:58 +0000 2026",
+    "id_str": "2097779818121122268",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@sahkho @OpenAI Nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2097781961125216498",
+    "time": "2026-09-10 04:19",
+    "created_at": "Wed Sep 09 20:19:29 +0000 2026",
+    "id_str": "2097781961125216498",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Did you miss this? https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+    "quoted_tweet": null,
+    "url": "https://x.com/reidjjackson/status/2097781081369882899",
+    "time": "2026-09-10 04:15",
+    "created_at": "Wed Sep 09 20:15:59 +0000 2026",
+    "id_str": "2097781081369882899",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@reidjjackson The bio stuff they’re doing is very cool, + the image and video gen has historically been quite good (though I wish they shipped more regular updates!) \n\nI remain a bit puzzled by the language model side",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2097792429881725147",
+    "time": "2026-09-10 05:01",
+    "created_at": "Wed Sep 09 21:01:05 +0000 2026",
+    "id_str": "2097792429881725147",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "The Canary Staked TRX ETF is now live on @RobinhoodApp. \n\nKeep building 💪",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": "The Canary Staked TRX ETF is live on @RobinhoodApp. \n\nExpanding exposure to TRX through traditional financial markets and bringing the TRON ecosystem to a broader audience.\n\nFor $TRXS details please see: https://canaryetfs.com/trxs/"
+    },
+    "url": "https://x.com/justinsuntron/status/2097776776596672538",
+    "time": "2026-09-10 03:58",
+    "created_at": "Wed Sep 09 19:58:53 +0000 2026",
+    "id_str": "2097776776596672538",
+    "is_retweet": false
+  }
+]
