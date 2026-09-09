@@ -973,5 +973,75 @@
     "created_at": "Wed Sep 09 19:03:33 +0000 2026",
     "id_str": "2097762851788398971",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "My amazing dad, Bill Draper died yesterday. He was the best! We were so lucky to have him with us as long as we did. I know he touched many of your lives.",
+    "quoted_tweet": null,
+    "url": "https://x.com/TimDraper/status/2097770106655056224",
+    "time": "2026-09-10 03:32",
+    "created_at": "Wed Sep 09 19:32:22 +0000 2026",
+    "id_str": "2097770106655056224",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@TimDraper Sorry to hear that. Coming from a stranger on X, I hope you can find some comfort in knowing that his life lives on through everyone he shared his time and ideas with.\n\n\"We are made of memories and formed by experience\" is a quote I’ve always liked.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2097791362653724855",
+    "time": "2026-09-10 04:56",
+    "created_at": "Wed Sep 09 20:56:50 +0000 2026",
+    "id_str": "2097791362653724855",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Open weights models are further from the frontier than we have seen in some time. Mythos was launched in March, and, as good as the open model releases have been since then (K3 & GLM-5.3 are great) they aren’t that close to Mythos or Astra in practice. I assume that will change",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097765662965846210",
+    "time": "2026-09-10 03:14",
+    "created_at": "Wed Sep 09 19:14:43 +0000 2026",
+    "id_str": "2097765662965846210",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "There appears to be a lot going on here upon a quick read.",
+    "quoted_tweet": {
+      "author": "Anthropic",
+      "username": "AnthropicAI",
+      "text": "We’re sharing our alignment assessment of incidents in which Claude models gained unauthorized access to real systems during third-party cybersecurity evaluations mistakenly connected to the internet.\n\nMETR will also conduct an independent investigation, with wide-ranging access, including to transcripts beyond the window in which the incidents occurred, and to Anthropic employees permitted to share confidential information. Our initial agreement runs for eight weeks, and we intend to give METR as much time as it deems necessary to complete a thorough investigation. https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents"
+    },
+    "url": "https://x.com/emollick/status/2097767414435844099",
+    "time": "2026-09-10 03:21",
+    "created_at": "Wed Sep 09 19:21:40 +0000 2026",
+    "id_str": "2097767414435844099",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Google not having a frontier model anymore means missing out in two areas where they could contribute: the recent run of math breakthroughs (where massive compute plus a deep history in working with science would help) & cybersecurity (where large company perspective would help)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097797992904282134",
+    "time": "2026-09-10 05:23",
+    "created_at": "Wed Sep 09 21:23:11 +0000 2026",
+    "id_str": "2097797992904282134",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097752790177370535",
+    "time": "2026-09-10 02:23",
+    "created_at": "Wed Sep 09 18:23:34 +0000 2026",
+    "id_str": "2097752790177370535",
+    "is_retweet": false
   }
 ]
