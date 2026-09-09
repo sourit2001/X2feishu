@@ -508,5 +508,539 @@
     "created_at": "Wed Sep 09 06:07:35 +0000 2026",
     "id_str": "2097567576733917313",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "GPT-image-2.5 图像生成模型果然发布了。官方说明的优化点主要有这几个新特性：\n\n更快的图像生成速度，更高的参考图一致性，多次编辑中的一致性保持，基于评论的编辑\n\n目前已全量在 GPT 和 Codex 推出。但图像元数据里标注的依然是 2.0，所以无法通过元数据判断模型版本；\n\n神奇的是，GPT-image-2.5 这两个版本的 API 价格跟 GPT-image-2 相比没有任何差异。\n\n实际体验下来，破碎感和涂抹感的问题确实变好了一些，不过提升不算太大；\n\n但一致性确实明显变强了，尤其是连续多次编辑的一致性。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2097513510414827775",
+    "time": "2026-09-09 10:32",
+    "created_at": "Wed Sep 09 02:32:45 +0000 2026",
+    "id_str": "2097513510414827775",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "GPT-6 Astra + GPT-image-2.5 + JavaScript\n\nGPT-6 不只做 3D 游戏很厉害，做 2D 游戏也厉害\n\nGPT-image-2.5 现在做游戏素材牛皮啊！\n\n角色的动作是用 GPT-image-2.5 生成的精灵图，然后做成的关键帧动作。\n\n他自己做了：背景图、跳跃的平台、怪物、人物和怪物动作的精灵图、技能音效",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-image-2.5 图像生成模型果然发布了。官方说明的优化点主要有这几个新特性：\n\n更快的图像生成速度，更高的参考图一致性，多次编辑中的一致性保持，基于评论的编辑\n\n目前已全量在 GPT 和 Codex 推出。但图像元数据里标注的依然是 2.0，所以无法通过元数据判断模型版本；\n\n神奇的是，GPT-image-2.5 这两个版本的 API 价格跟 GPT-image-2 相比没有任何差异。\n\n实际体验下来，破碎感和涂抹感的问题确实变好了一些，不过提升不算太大；\n\n但一致性确实明显变强了，尤其是连续多次编辑的一致性。"
+    },
+    "url": "https://x.com/op7418/status/2097549973667872772",
+    "time": "2026-09-09 12:57",
+    "created_at": "Wed Sep 09 04:57:38 +0000 2026",
+    "id_str": "2097549973667872772",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "不知道为什么 GPT-image-2.5 死活不给生成透明的 PNG 图片了，可能得单独再重新训练和适配吧。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2097555204313096230",
+    "time": "2026-09-09 13:18",
+    "created_at": "Wed Sep 09 05:18:26 +0000 2026",
+    "id_str": "2097555204313096230",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "对了，提示词在视频里哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2097559098112024769",
+    "time": "2026-09-09 13:33",
+    "created_at": "Wed Sep 09 05:33:54 +0000 2026",
+    "id_str": "2097559098112024769",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我去，OpenAI 的算力都不够了吗？\n\nTibo 说如果 GPT-6 的使用量再增长的话，他们有可能会暂停新增 Pro 的订阅。\n\n没买的或者想买的可以先抓紧买一个哈，不然买不了就完蛋了",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues."
+    },
+    "url": "https://x.com/op7418/status/2097559641731584273",
+    "time": "2026-09-09 13:36",
+    "created_at": "Wed Sep 09 05:36:04 +0000 2026",
+    "id_str": "2097559641731584273",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "还能逼单的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2097564076214010062",
+    "time": "2026-09-09 13:53",
+    "created_at": "Wed Sep 09 05:53:41 +0000 2026",
+    "id_str": "2097564076214010062",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@TianleLyd 这个相当厉害了👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097508904779333912",
+    "time": "2026-09-09 10:14",
+    "created_at": "Wed Sep 09 02:14:27 +0000 2026",
+    "id_str": "2097508904779333912",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 同样新的session 同样的问题（派/不派 subagnet）实测的结果",
+    "quoted_tweet": null,
+    "url": "https://x.com/Quinn_Qingyu/status/2097512469606629609",
+    "time": "2026-09-09 10:28",
+    "created_at": "Wed Sep 09 02:28:37 +0000 2026",
+    "id_str": "2097512469606629609",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Quinn_Qingyu 用这个方案 token 消耗确实会更大的，因为subagent需要重新获取上下文，但整体消耗速度不一定更快\nhttps://x.com/dotey/status/2095354973173186588",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "任何方案都有取舍，用 subagent token 消耗肯定更大，但价钱不见的更贵。要是 Fable 5 耐用谁愿意这么折腾！\n\nsubagent 是独立的上下文，任务开始前需要重新交代子任务上下文，完成后还要交接工作，这是代价；缓存倒是其次的，因为初始上下文不会太大，而且缓存只有第一次有影响，后续子agent有自己的缓存。\n\n这样带来的收益是子 agent 可以用便宜的模型，虽然 token 消耗量大，但是价格其实更便宜，如果你是 Claude Code 订阅的话，多让 Fable 指挥 Opus/Sonnet SubAgent\n体感很明显。\n\n然后由于具体子任务细节都在子agent，主agent的上下文只需要子任务的结果，这样可以节约主agent大量上下文空间，可以更专注于任务本身。\n\n这就好比你有个能力超强的员工，他当然可以什么事情都做了，但他也可以把活派给实习生，实习生做完了检查验收一下，这样能做的事情更多了"
+    },
+    "url": "https://x.com/dotey/status/2097513389631193575",
+    "time": "2026-09-09 10:32",
+    "created_at": "Wed Sep 09 02:32:16 +0000 2026",
+    "id_str": "2097513389631193575",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "《经济学人》估算，AI 到目前为止已经在美国创造了大约 100 万个新岗位，远远超过 2023 年中以来因 AI 而裁掉的约 20 万个工作。换句话说，AI 对就业的影响，眼下是净增长，不是净毁灭。\n\n这个结论来自 9 月 4 日美国劳工统计局发布的 8 月就业数据：美国经济新增 16.2 万个工作岗位，远超预期，失业率维持在 4.1%，处于近半个世纪以来的低位区间。经常被认为\"最先受冲击\"的 20-24 岁年轻人，失业率与整体失业率之间的差距已经接近几十年来的最低水平。\n\n就业增长主要来自两个方向。\n\n一个是直接服务于 AI 的高技能岗位。工程师、软件开发者、数学家和数据科学家这些\"离 AI 最近\"的职业群体，自 2022 年以来增加了大约 73 万个超出趋势线的岗位。Burning Glass Institute 的首席经济学家估计，目前美国约 1% 的专业岗位可以归类为\"AI 岗位\"，在计算机和生命科学领域这个比例达到 4% 到 5%。\n\n另一个是 AI 基础设施带动的蓝领就业。数据中心建设支出一年内暴增 60%，电工、暖通技术员、电网工程师、商业建筑工人的需求被大幅拉高。Indeed 的数据显示，数据中心的安装和维护岗位薪资比同类工作高出约 40%。\n\n但不是所有人都受益。客服岗位自 2023 年 1 月以来缩减了约 10%，行政助理缩减了约 15%。微软、Meta 在围绕 AI 重组业务的同时缩减人员；Block、Intuit 等公司在用自动化工具替换部分人工。2026 年至今，美国企业平均每月宣布约 1.6 万个与 AI 相关的裁员。只不过，这个数字放在整体劳动市场里很小——美国雇主正常状态下每个月会解雇大约 170 万人。\n\n经济学家 Noah Smith 在同期的分析中指出了一个有意思的现象：虽然大家对 AI 的恐惧在上升（Pew 调查显示 50% 的美国成年人表示 AI 让他们\"担忧多于兴奋\"，2021 年这个数字是 37%），但要在劳动数据中找到 AI 确实消灭了的职业，目前\"极其困难\"。《华尔街日报》也报道称，没有大学学位的美国工人正在经历近年来最好的就业市场之一。\n\n需要注意的是，这些数据描述的是\"到目前为止\"。AI 技术本身仍在快速迭代，对就业市场的更深层影响可能还没有充分显现。而且数据中心建设带来的蓝领岗位，本质上是建设周期性的——项目建完，工作也就结束了，除非新的项目持续上马。另外，当前美国劳工统计局的公信力本身也在受到一些质疑，多方评论指出这些数据值得审慎对待。",
+    "quoted_tweet": {
+      "author": "The Economist",
+      "username": "TheEconomist",
+      "text": "Our analysis suggests that AI has so far created around 1m new jobs in America. We explain how the technology has created a hiring boom https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here?taid=6a9bda18ae1ff00001c209e7&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter"
+    },
+    "url": "https://x.com/dotey/status/2097516417046151560",
+    "time": "2026-09-09 10:44",
+    "created_at": "Wed Sep 09 02:44:18 +0000 2026",
+    "id_str": "2097516417046151560",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "卧槽了，gpt-image 2.5 牛逼！\n梁圣能1:1 刻画，cyber 梁圣永远年轻！\n\nhttps://chatgpt.com/share/6aa0d9ea-b7b8-83e9-8cf6-32189db6f921",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinearUncle/status/2097535823285760072",
+    "time": "2026-09-09 12:01",
+    "created_at": "Wed Sep 09 04:01:25 +0000 2026",
+    "id_str": "2097535823285760072",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "gpt-image 2.5 不仅知道梁文峰， 也知道宝哥长什么样子！ @dotey \n\n测试你有没有名气，直接让gpt-image 2.5+你的名字创建图片！",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinearUncle/status/2097537255762170117",
+    "time": "2026-09-09 12:07",
+    "created_at": "Wed Sep 09 04:07:06 +0000 2026",
+    "id_str": "2097537255762170117",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LinearUncle 😅 感觉是从微博抓的我头像",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097553818435141831",
+    "time": "2026-09-09 13:12",
+    "created_at": "Wed Sep 09 05:12:55 +0000 2026",
+    "id_str": "2097553818435141831",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "AI制药公司英矽智能最新突破：\n\n他们的AI 参与设计的药物在临床数据中显示出能够逆转人体“生物学年龄”的迹象 ...\n\n受试者生物学年龄降低了 6 岁\n\nAI制药公司英矽智能（Insilico Medicine）团队在《Nature Biotechnology》发表了一项探索性研究。\n\n公布了一项他们的最新突破：他们用生成式AI研发的一款新药 rentosertib，在早期临床试验中不仅改善了患者的肺部疾病，还显示出能够逆转人体“生物学年龄”的迹象。\n\n核心事件与发现\n\n原定目标： rentosertib 最初是针对特发性肺纤维化 (IPF)这种肺部疤痕化严重疾病开发的。在先前的 42 名患者试验中，它已成功改善了患者的肺功能。\n\n意外的“年轻化”表现： 研究人员分析了用药患者的血液蛋白质数据，并用哈佛大学、牛津大学、北京及 Insilico 独立开发的 6 个不同的AI衰老时钟模型进行评估。\n\n结果显示，这 6 个模型一致判定服药患者的生物年龄比安慰剂组更年轻，在用药第 4 周时平均年轻了 3 到 4 岁，最高降幅甚至达到 6 岁...\n\nhttps://best.xiaohu.ai/article/rentosertib-aging-clocks/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097519108199965124",
+    "time": "2026-09-09 10:55",
+    "created_at": "Wed Sep 09 02:55:00 +0000 2026",
+    "id_str": "2097519108199965124",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Meta 推出个人 AI Agent Muse：\n每人一台云端电脑，可持续在后台推进任务\n\n听起来是不是很熟悉？？？\n\n显然就是manus的翻版😂\n\nMuse 有哪些核心能力？\n\n拥有自己的云端电脑：每位用户都有专属 Linux 虚拟机，里面包含文件系统、终端和 Chromium 浏览器。Muse 可以写代码、调用命令行工具，也能通过浏览器搜集信息和操作网页。\n\n持续在后台推进任务：它可以并行处理事项，根据日程、邮件和网页变化继续工作，不要求用户一直守着聊天窗口。\n\n主动发现并提醒：在获得相应权限后，它能发现截止日期、日程冲突和重要更新；需要用户关注或决策时，再主动发来消息。\n\n跨应用完成连续操作：信息搜集、填写表单、加入购物车、预订和日程安排可以连成一条任务链，而不只是给出操作建议。\n\n交付可用成果：除了文字回答，Muse 还能生成清单、PDF、Markdown 文件和可交互的 Artifacts，例如旅行计划、采购表或国际象棋分析仪表盘。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097523331046232219",
+    "time": "2026-09-09 11:11",
+    "created_at": "Wed Sep 09 03:11:46 +0000 2026",
+    "id_str": "2097523331046232219",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Muse 的核心系统提示词第一句是：\n\n“你的目标是让用户的生活变得更好。”（Your purpose is to make your user's life better.）\n\n这个目标决定了 Muse 的设计重点：它不追求让聊天看起来更聪明，而是尽量替用户接住那些持续占据注意力、却很难一次做完的琐碎事务。\n\nMuse的设计理念：https://best.xiaohu.ai/article/muse-personal-ai-agent/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097523333843812607",
+    "time": "2026-09-09 11:11",
+    "created_at": "Wed Sep 09 03:11:47 +0000 2026",
+    "id_str": "2097523333843812607",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI 算力告急\n\n很多人这几天在Codex工作过程中都收到算力不足的提示\n\nTibo称他们正在加紧算力的调配来满足Astra的消耗\n\n如果无法解决可能考虑\n暂停新的 Pro 订阅",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues."
+    },
+    "url": "https://x.com/xiaohu/status/2097566409329131897",
+    "time": "2026-09-09 14:02",
+    "created_at": "Wed Sep 09 06:02:57 +0000 2026",
+    "id_str": "2097566409329131897",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "AI is a tool, it’s not a replacement",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097519178512994745",
+    "time": "2026-09-09 10:55",
+    "created_at": "Wed Sep 09 02:55:16 +0000 2026",
+    "id_str": "2097519178512994745",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife its an extension",
+    "quoted_tweet": null,
+    "url": "https://x.com/technohobo23/status/2097519333744271396",
+    "time": "2026-09-09 10:55",
+    "created_at": "Wed Sep 09 02:55:53 +0000 2026",
+    "id_str": "2097519333744271396",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@technohobo23 Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097519692780880228",
+    "time": "2026-09-09 10:57",
+    "created_at": "Wed Sep 09 02:57:19 +0000 2026",
+    "id_str": "2097519692780880228",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I was rejected from the new Original Content Creator Program. And I haven't the faintest idea why. And I'm sad.\n\nI started on X to connect with other people. It was always important to me to engage in discussion, and I was very happy that more and more people were also interested in my posts. Eventually, I reached a point where I could make a living from it.\n\nI've always tried to comment on current trends and offer my own perspective. When I met people on my travels, they often said they liked that I was very opinionated. Therefore, I'm very surprised by X's rejection, which stated that I wasn't original enough. I never disclosed my earnings, never made it a topic of discussion, but always tried to only take exciting shots on current topics.\n\nI would appreciate any support. I don't know if it will help, or if it's even possible. But I would be very grateful.\n\nLove,\n\nChubby.\n\n@XCreators",
+    "quoted_tweet": null,
+    "url": "https://x.com/kimmonismus/status/2097525872831918386",
+    "time": "2026-09-09 11:21",
+    "created_at": "Wed Sep 09 03:21:52 +0000 2026",
+    "id_str": "2097525872831918386",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This 💯",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097527142607163735",
+    "time": "2026-09-09 11:26",
+    "created_at": "Wed Sep 09 03:26:55 +0000 2026",
+    "id_str": "2097527142607163735",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Or the professor who, many semesters after you’d \nalready left his classroom, still made time to sit with \nyou, listen, and help—long after the course had ended \nand he had no reason to remember your name.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Trowa_/status/2097529859417264477",
+    "time": "2026-09-09 11:37",
+    "created_at": "Wed Sep 09 03:37:43 +0000 2026",
+    "id_str": "2097529859417264477",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I've filed an appeal. Wish me luck!",
+    "quoted_tweet": null,
+    "url": "https://x.com/kimmonismus/status/2097530618489733158",
+    "time": "2026-09-09 11:40",
+    "created_at": "Wed Sep 09 03:40:44 +0000 2026",
+    "id_str": "2097530618489733158",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kimmonismus I always enjoy your content. \nSo sorry this rejection happened to you. Sending you a big hug and I hope that you’ll apply again. Or that the X team will see this and fix this. Your contributions to AI community are valuable",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097532721341862267",
+    "time": "2026-09-09 11:49",
+    "created_at": "Wed Sep 09 03:49:05 +0000 2026",
+    "id_str": "2097532721341862267",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I think, Chubby deserves to be in Original Content Program. I looked through his content and all I saw was original, and beneficial to AI community. I hope that this mistake will be fixed.",
+    "quoted_tweet": {
+      "author": "Chubby♨️",
+      "username": "kimmonismus",
+      "text": "I was rejected from the new Original Content Creator Program. And I haven't the faintest idea why. And I'm sad.\n\nI started on X to connect with other people. It was always important to me to engage in discussion, and I was very happy that more and more people were also interested in my posts. Eventually, I reached a point where I could make a living from it.\n\nI've always tried to comment on current trends and offer my own perspective. When I met people on my travels, they often said they liked that I was very opinionated. Therefore, I'm very surprised by X's rejection, which stated that I wasn't original enough. I never disclosed my earnings, never made it a topic of discussion, but always tried to only take exciting shots on current topics.\n\nI would appreciate any support. I don't know if it will help, or if it's even possible. But I would be very grateful.\n\nLove,\n\nChubby.\n\n@XCreators"
+    },
+    "url": "https://x.com/icreatelife/status/2097533128256405995",
+    "time": "2026-09-09 11:50",
+    "created_at": "Wed Sep 09 03:50:42 +0000 2026",
+    "id_str": "2097533128256405995",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kimmonismus I have a feeling if you appeal you’ll win.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097533225467879690",
+    "time": "2026-09-09 11:51",
+    "created_at": "Wed Sep 09 03:51:05 +0000 2026",
+    "id_str": "2097533225467879690",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Trowa_ Teachers like this are priceless",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097534502473970015",
+    "time": "2026-09-09 11:56",
+    "created_at": "Wed Sep 09 03:56:10 +0000 2026",
+    "id_str": "2097534502473970015",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I never looked this hot when it was actually the eighties. Thanks ChatGPT",
+    "quoted_tweet": null,
+    "url": "https://x.com/Gisellebisson/status/2097536565488820412",
+    "time": "2026-09-09 12:04",
+    "created_at": "Wed Sep 09 04:04:22 +0000 2026",
+    "id_str": "2097536565488820412",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I don't follow that account but I have had their content show up many times for me. I think they should be allowed in as well.\n\nWhat I have seen from them in the past was very informative.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cale_ai/status/2097536820477153790",
+    "time": "2026-09-09 12:05",
+    "created_at": "Wed Sep 09 04:05:23 +0000 2026",
+    "id_str": "2097536820477153790",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@cale_ai Agreed",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097537886316802533",
+    "time": "2026-09-09 12:09",
+    "created_at": "Wed Sep 09 04:09:37 +0000 2026",
+    "id_str": "2097537886316802533",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Gisellebisson That’s a great generation",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097537947138425112",
+    "time": "2026-09-09 12:09",
+    "created_at": "Wed Sep 09 04:09:51 +0000 2026",
+    "id_str": "2097537947138425112",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kimmonismus Good luck",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097541287498879370",
+    "time": "2026-09-09 12:23",
+    "created_at": "Wed Sep 09 04:23:08 +0000 2026",
+    "id_str": "2097541287498879370",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Around 10,000 agents worked together to solve this. Another proof that AI can be used for incredible things",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "We’re sharing a solution to the Navier-Stokes Millennium Prize Problem, one of the deepest problems at the frontier of mathematics.\n\nThe proof was produced by a group of agents, using an OpenAI next-generation model significantly more capable than GPT-6 Astra.\n\nThe problem concerns whether the description of smooth three-dimensional fluid motion modeled by the Navier-Stokes equations can break down. It has remained unresolved for roughly 90 years."
+    },
+    "url": "https://x.com/icreatelife/status/2097544541108584586",
+    "time": "2026-09-09 12:36",
+    "created_at": "Wed Sep 09 04:36:03 +0000 2026",
+    "id_str": "2097544541108584586",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tmophoto @icreatelife I’ll help",
+    "quoted_tweet": null,
+    "url": "https://x.com/kerrigancreator/status/2097544618221219884",
+    "time": "2026-09-09 12:36",
+    "created_at": "Wed Sep 09 04:36:22 +0000 2026",
+    "id_str": "2097544618221219884",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kerrigancreator @tmophoto Me too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097544763406712889",
+    "time": "2026-09-09 12:36",
+    "created_at": "Wed Sep 09 04:36:56 +0000 2026",
+    "id_str": "2097544763406712889",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tmophoto Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097544825218175455",
+    "time": "2026-09-09 12:37",
+    "created_at": "Wed Sep 09 04:37:11 +0000 2026",
+    "id_str": "2097544825218175455",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I like your account cuz you’re all about community. \n\nI follow your account cuz you talk about things that are waaaay over my head and make me an explorer",
+    "quoted_tweet": null,
+    "url": "https://x.com/postboxrebel/status/2097545117326360736",
+    "time": "2026-09-09 12:38",
+    "created_at": "Wed Sep 09 04:38:21 +0000 2026",
+    "id_str": "2097545117326360736",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@postboxrebel Thank you for your kind words, Mikel",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097545862423392766",
+    "time": "2026-09-09 12:41",
+    "created_at": "Wed Sep 09 04:41:18 +0000 2026",
+    "id_str": "2097545862423392766",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Community is everything. Thank you all for being here, supporting each other and contributing",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097545995592618341",
+    "time": "2026-09-09 12:41",
+    "created_at": "Wed Sep 09 04:41:50 +0000 2026",
+    "id_str": "2097545995592618341",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife thank you Kris, for everything you do for all of us.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2097546379249737796",
+    "time": "2026-09-09 12:43",
+    "created_at": "Wed Sep 09 04:43:21 +0000 2026",
+    "id_str": "2097546379249737796",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte ❤️ likewise, thank you for being part of this community and always supporting everyone",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097547020424647068",
+    "time": "2026-09-09 12:45",
+    "created_at": "Wed Sep 09 04:45:54 +0000 2026",
+    "id_str": "2097547020424647068",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love this actually. Need to do vision board soon. I may use this.",
+    "quoted_tweet": null,
+    "url": "https://x.com/polygrafix/status/2097547114478023068",
+    "time": "2026-09-09 12:46",
+    "created_at": "Wed Sep 09 04:46:17 +0000 2026",
+    "id_str": "2097547114478023068",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@polygrafix Enjoy.!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097548142128369728",
+    "time": "2026-09-09 12:50",
+    "created_at": "Wed Sep 09 04:50:22 +0000 2026",
+    "id_str": "2097548142128369728",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I think, Ashutosh deserves to be in Original Creators Program. His stuff is original.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097553625639702949",
+    "time": "2026-09-09 13:12",
+    "created_at": "Wed Sep 09 05:12:09 +0000 2026",
+    "id_str": "2097553625639702949",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success Please, appeal",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097553658044907590",
+    "time": "2026-09-09 13:12",
+    "created_at": "Wed Sep 09 05:12:17 +0000 2026",
+    "id_str": "2097553658044907590",
+    "is_retweet": false
   }
 ]
