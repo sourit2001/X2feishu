@@ -301,5 +301,677 @@
     "created_at": "Wed Sep 09 18:25:24 +0000 2026",
     "id_str": "2097753253027221817",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Welcome, Paul.\n\nGrateful you are doing this, and all you have done for AI safety. Excited to work together again.",
+    "quoted_tweet": {
+      "author": "Paul Christiano",
+      "username": "paulfchristiano",
+      "text": "https://x.com/i/article/2097730969369477120"
+    },
+    "url": "https://x.com/sama/status/2097776310940569783",
+    "time": "2026-09-10 03:57",
+    "created_at": "Wed Sep 09 19:57:01 +0000 2026",
+    "id_str": "2097776310940569783",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "iPhone Duo 国行起售价 15999 了\n\n1T 版本要 21499 太可怕了\n\n而且国内需要 10 月 16 日才能预购 23 日发售\n\n下面还写了需要在批准后发售，难道是还有可能延期的意思？\n\n这手机全球只有 esim 版本",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2097754211618623503",
+    "time": "2026-09-10 02:29",
+    "created_at": "Wed Sep 09 18:29:13 +0000 2026",
+    "id_str": "2097754211618623503",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@mackt_ma 改了 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2097754466477125809",
+    "time": "2026-09-10 02:30",
+    "created_at": "Wed Sep 09 18:30:13 +0000 2026",
+    "id_str": "2097754466477125809",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dongxi_nlp @mylifcc @dotey 我也觉得没啥呀，但是事情就是这样。我对了下时间线，就是我回完帖子一会就收到邮件说我违反规定了。\n\n我有几个怀疑： \n1. 浏览器装了claude in chrome  \n2. 我的x 账号和我的claude 用了同一个名字 \n3. 主要的KOL和 热点被A\\实时监测，而我的回复及账号被检查到了(在美国不存在IP问题）",
+    "quoted_tweet": null,
+    "url": "https://x.com/imaskweb/status/2097735840373846506",
+    "time": "2026-09-10 01:16",
+    "created_at": "Wed Sep 09 17:16:13 +0000 2026",
+    "id_str": "2097735840373846506",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@imaskweb @dongxi_nlp @mylifcc 这种可能性几乎为 0，我也装了 Claude Chrome 插件的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097737264654627031",
+    "time": "2026-09-10 01:21",
+    "created_at": "Wed Sep 09 17:21:52 +0000 2026",
+    "id_str": "2097737264654627031",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "刚才我 Codex 突然左下角提示我的额度只有 7% 了，但我记得之前还有 70% 左右，还以为当前任务消耗太大，继续用提示只有 6% 了。\n\n去设置页查了一会发现用量正常，正在想要不要用充值卡，现在又恢复正常了，显示有 75% 剩余，不知道你们有没有遇到类似问题？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097743074210279559",
+    "time": "2026-09-10 01:44",
+    "created_at": "Wed Sep 09 17:44:57 +0000 2026",
+    "id_str": "2097743074210279559",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey https://x.com/ayagawaseirin/status/2097733880287789563?s=46 遇到了，但我用了重置卡😢",
+    "quoted_tweet": {
+      "author": "綾川星凛",
+      "username": "AyagawaSeirin",
+      "text": "真是见鬼了，我还有80%+的gpt pro20x周额度，用astra xhigh 没开fast跑了个24分钟的后端开发任务，回头看周额度直接清零了，没有开其他任务，正常来说这个任务能用掉5%周额度都算多了，我怀疑遇到了什么bug，有同样遇到的吗？"
+    },
+    "url": "https://x.com/AyagawaSeirin/status/2097743453769867758",
+    "time": "2026-09-10 01:46",
+    "created_at": "Wed Sep 09 17:46:28 +0000 2026",
+    "id_str": "2097743453769867758",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 他们服务出错了，把上一次重置给取消了，你仔细看下那个下次重置时间，7% 应该是你上次重置之前的额度\nhttps://x.com/dannykkg/status/2097742968367317487?s=20",
+    "quoted_tweet": {
+      "author": "Kg",
+      "username": "dannykkg",
+      "text": "刚刚又恢复了，结合这个 下一次 reset 时间点，大概搞清楚这次问题的原因了， 官方把部分用户的上一次重置给取消了，恢复到了之前的额度"
+    },
+    "url": "https://x.com/dannykkg/status/2097743893953679787",
+    "time": "2026-09-10 01:48",
+    "created_at": "Wed Sep 09 17:48:13 +0000 2026",
+    "id_str": "2097743893953679787",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@AyagawaSeirin 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097745816282640408",
+    "time": "2026-09-10 01:55",
+    "created_at": "Wed Sep 09 17:55:51 +0000 2026",
+    "id_str": "2097745816282640408",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dannykkg 原来如此",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097745937393221954",
+    "time": "2026-09-10 01:56",
+    "created_at": "Wed Sep 09 17:56:20 +0000 2026",
+    "id_str": "2097745937393221954",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@AyagawaSeirin 可以去这里反应下：https://x.com/reach_vb/status/2097740432188858422",
+    "quoted_tweet": {
+      "author": "Vaibhav (VB) Srivastav",
+      "username": "reach_vb",
+      "text": "We are investigating an issue that may be causing unexpected usage resets for some users. \n\nhttps://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8"
+    },
+    "url": "https://x.com/dotey/status/2097748643583324217",
+    "time": "2026-09-10 02:07",
+    "created_at": "Wed Sep 09 18:07:05 +0000 2026",
+    "id_str": "2097748643583324217",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个 Claude Code 禁用 1M 上下文的设置目前我还在用，从效果来说没有发现有明显折扣，从 Token 消耗来说真的慢一些。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "一个让你 Claude 的 Token 更耐用的经验：禁用 1M 上下文，尤其是在用 Fable 5.1 的时候很明显。\n\n~/.claude/settings.json\n\n\"env\": {\n  \"CLAUDE_CODE_DISABLE_1M_CONTEXT\": \"1\"\n}"
+    },
+    "url": "https://x.com/dotey/status/2097751032113549395",
+    "time": "2026-09-10 02:16",
+    "created_at": "Wed Sep 09 18:16:35 +0000 2026",
+    "id_str": "2097751032113549395",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "官方说明\nhttps://x.com/reach_vb/status/2097740432188858422?s=20",
+    "quoted_tweet": {
+      "author": "Vaibhav (VB) Srivastav",
+      "username": "reach_vb",
+      "text": "We are investigating an issue that may be causing unexpected usage resets for some users. \n\nhttps://status.openai.com/incidents/01M23KG62KKK448RN434CQ64Z8"
+    },
+    "url": "https://x.com/dotey/status/2097751387903848835",
+    "time": "2026-09-10 02:17",
+    "created_at": "Wed Sep 09 18:17:59 +0000 2026",
+    "id_str": "2097751387903848835",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "苹果刚刚发布了它的首款折叠手机，iPhone Duo  ​​​​https://x.com/TheAppleDesign/status/2097751929925624173/video/1\n\nApple 今天在 Apple Park 举办\"Surprise and Shine\"发布会，这是新任 CEO John Ternus 上任以来的第一场重大产品发布。Ternus 于 9 月 1 日正式接替 Tim Cook，后者转任执行董事长。Cook 本人也坐在了发布会前排。\n\n发布会的核心是两款手机：Apple 第一款折叠屏 iPhone Duo，以及 iPhone 18 Pro 系列。\n\niPhone Duo：Apple 的第一款折叠屏\n\n传了好几年的折叠 iPhone 终于来了。iPhone Duo 采用书本式折叠设计，展开后形似护照，内屏 7.6 英寸，外屏 5.4 英寸。机身用的是 5 级钛金属，IP68 防尘防水。\n\n芯片和 iPhone 18 Pro 一样是 A20 Pro，搭配 Apple 自研的 C2 基带。后置双 48MP 摄像头，没有长焦镜头，这是相比 18 Pro 最明显的妥协，大概率是为了控制机身厚度。生物识别用的是侧边按钮的 Touch ID，而非 Face ID，也可以用 Apple Watch 解锁。后续还会支持 Apple Pencil。\n\n两个颜色：星光白和夜空色。256GB 起售价 2,000 美元，最高配置大约 3,000 美元。今天只是发布，预计最早 10 月开售，比 iPhone 18 Pro 晚一步。\n\n对比三星 Galaxy Z Fold 系列（同样 256GB 起售价 1,999 美元），Apple 在价格上基本持平，但在折叠屏市场已经是后来者，三星和华为在这个品类经营了七年。\n\niPhone 18 Pro：2nm 芯片和可变光圈\n\niPhone 18 Pro 和 Pro Max 搭载 A20 Pro 芯片，2nm 工艺，2 个\"桌面级\"超级核心加 4 个能效核心，7 核 GPU。散热性能提升到上一代的三倍。\n\n摄像头最大的变化是 48MP 主摄支持可变光圈，简单说就是镜头可以自动调节进光量和景深，拍人像和夜景时效果会明显提升。还有一个新功能：手机可以验证一张照片没有被 AI 编辑过，在 AI 生成内容满天飞的时代，这算是一个实用的信任工具。\n\nDynamic Island 缩小了，同时最多支持三个实时活动同步显示。Pro Max 续航提升到 30 小时，充电 15 分钟可以到 50%，这是 iPhone 有史以来最大的电池提升幅度。\n\n四个新颜色：黑色、浅蓝、冰川色（银）、勃艮第（红）。Pro 起售价 1,199 美元，Pro Max 起售价 1,299 美元，均为 256GB 起步。9 月 12 日开始预购，9 月 18 日发售。\n\n其他产品\n\nAirPods 5 的降噪比 AirPods 4 提升了 50%。两个版本：基础版 129 美元带主动降噪，高配版 149 美元多了耳柄音量控制、更长续航和无线充电盒。今天开始预购。\n\nApple Watch Series 12（399 美元起）和 Ultra 4（799 美元起）升级了健康追踪系统，Series 12 重新引入了陶瓷材质。新增了一个叫 Siri Recap 的功能，用环境监听为你整理一天的高级别笔记。今天预购。\n\niOS 27 的正式推送日期确认为 9 月 14 日。\n\n值得注意的是，今年普通版的 iPhone 18、iPhone Air 2 和 iPhone 18e 被推到了 2027 年春季，Apple 把九月发布会的焦点完全集中在了高端产品线上。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097768111730458760",
+    "time": "2026-09-10 03:24",
+    "created_at": "Wed Sep 09 19:24:27 +0000 2026",
+    "id_str": "2097768111730458760",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "用过重置卡的不用担心，会补发\nhttps://x.com/thsottiaux/status/2097752790177370535",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize."
+    },
+    "url": "https://x.com/dotey/status/2097768660622274942",
+    "time": "2026-09-10 03:26",
+    "created_at": "Wed Sep 09 19:26:38 +0000 2026",
+    "id_str": "2097768660622274942",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Vals AI CEO Rayan Krishnan on how they score a model's ability to build its own successor:\n\n\"One benchmark we released recently is our Recursive Self-Improvement Index. It's a topic which a lot of the big labs have been talking about and starting to report on in their model cards.\"\n\n\"There isn't a shared language to talk about the RSI potential of models. So we created this as an apples-to-apples way to actually benchmark across the models.\"\n\n\"In an ideal world, what you want to do is take a frontier model and have it train the next version of itself and see where the delta comes from. But obviously that's very expensive and slow.\"\n\n\"What we're doing is forming a set of proxies for every part of the process it takes to build the next version of the model.\"\n\n\"There's work around pre-training, post-training, harness-level engineering, and then seeing in which mechanisms and behaviors the models are able to do very good research work and build something new, and where they're struggling.\"\n\n@RayanKrishnan @JenniferHli",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Vals AI co-founder and CEO Rayan Krishnan with a16z's Ben Horowitz and Jennifer Li on grading AI, what it costs, and who gets to make the rules:\n\nEvery big industry eventually grows an independent testing layer. AI has credit ratings to learn from and Enron to avoid. Model capability today is still mostly self-reported.\n\nAs public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations.\n\nThe harder problem is geopolitical. Reagan's \"trust but verify\" worked during the Cold War because you could fly over and count the missiles. No simple equivalent for AI models exists.\n\nIn this conversation with Erik Torenberg, they get into how you measure a model's ability to improve itself, why every good benchmark eventually has to be retired, and what happens when token spend begins to rival employee salaries.\n\n00:00 Intro\n02:20 Llama 4 on public vs private benchmarks\n05:24 Nobody agreed how to test humans either\n06:55 What movie ratings teach us about AI\n08:55 The Enron problem in benchmarking\n11:36 Why a good benchmark has to be retired\n13:22 Evals that run for weeks, not seconds\n16:20 Where the real workday starts at 4pm\n18:08 A firm really is just its evals\n20:35 Why Sonnet can cost more than Opus\n22:42 One engineer, 6 billion tokens in a day\n25:05 Who should set the rules for models\n28:55 Public sector enforces, private verifies\n33:32 Why sovereign AI is inefficient and happening anyway\n35:00 The AI version of trust-but-verify\n37:15 Where cyber evals have to go next\n\nYouTube: https://www.youtube.com/watch?v=WO9c9qxDxzU\n\n@RayanKrishnan @ValsAI @bhorowitz @JenniferHli @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2097739973709733905",
+    "time": "2026-09-10 01:32",
+    "created_at": "Wed Sep 09 17:32:38 +0000 2026",
+    "id_str": "2097739973709733905",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Vals AI CEO Rayan Krishnan on why defensible evals are critical for enterprises' survival:\n\n\"The labs side of it is very clear. If you're raising lots of money, investing heavily in building models, it's essential for you to show why your model is getting better and why the customer should pay a premium for them.\"\n\n\"But what I think is still underappreciated is, on the enterprise side, this is turning out to be existential as well.\"\n\n\"We're in this world where it is still very unclear what ROI looks like and how to value this intelligence that's being used... Token spend may start to eclipse salary spend.\"\n\n\"If this is such a meaningful line item in your costs, you have to justify the ROI much more cleanly... Over time, I think a firm really is just its evals.\"\n\n\"The ability for a company to make its evals legible in order to solve this ROI calculus is going to be the reason why that company wins out over its competitors in the long term.\"\n\n@RayanKrishnan @eriktorenberg",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Vals AI co-founder and CEO Rayan Krishnan with a16z's Ben Horowitz and Jennifer Li on grading AI, what it costs, and who gets to make the rules:\n\nEvery big industry eventually grows an independent testing layer. AI has credit ratings to learn from and Enron to avoid. Model capability today is still mostly self-reported.\n\nAs public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations.\n\nThe harder problem is geopolitical. Reagan's \"trust but verify\" worked during the Cold War because you could fly over and count the missiles. No simple equivalent for AI models exists.\n\nIn this conversation with Erik Torenberg, they get into how you measure a model's ability to improve itself, why every good benchmark eventually has to be retired, and what happens when token spend begins to rival employee salaries.\n\n00:00 Intro\n02:20 Llama 4 on public vs private benchmarks\n05:24 Nobody agreed how to test humans either\n06:55 What movie ratings teach us about AI\n08:55 The Enron problem in benchmarking\n11:36 Why a good benchmark has to be retired\n13:22 Evals that run for weeks, not seconds\n16:20 Where the real workday starts at 4pm\n18:08 A firm really is just its evals\n20:35 Why Sonnet can cost more than Opus\n22:42 One engineer, 6 billion tokens in a day\n25:05 Who should set the rules for models\n28:55 Public sector enforces, private verifies\n33:32 Why sovereign AI is inefficient and happening anyway\n35:00 The AI version of trust-but-verify\n37:15 Where cyber evals have to go next\n\nYouTube: https://www.youtube.com/watch?v=WO9c9qxDxzU\n\n@RayanKrishnan @ValsAI @bhorowitz @JenniferHli @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2097753236715499816",
+    "time": "2026-09-10 02:25",
+    "created_at": "Wed Sep 09 18:25:20 +0000 2026",
+    "id_str": "2097753236715499816",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "https://x.com/i/article/2097761142995308544",
+    "quoted_tweet": null,
+    "url": "https://x.com/pmarca/status/2097762851788398971",
+    "time": "2026-09-10 03:03",
+    "created_at": "Wed Sep 09 19:03:33 +0000 2026",
+    "id_str": "2097762851788398971",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Vals AI CEO Rayan Krishnan on why sovereign AI makes Cold War-style verification necessary:\n\n\"From my very idealistic perspective, I'm surprised to see so much investment in sovereign AI.\"\n\n\"You could probably consolidate a lot of these efforts. But it seems like that's not the world we're in or the one we're headed towards. There are actually increased efforts to build AI in a sovereign way.\"\n\n\"So that takes having a shared language to communicate about what the framework for evaluations is, and where we're going to collectively align around the risks.\"\n\n\"There's a lot to learn from nuclear here. Reagan had this line, 'Trust but verify.' We're starting to see signs of trust in that Xi Jinping and Trump are going to be meeting... But there is no clear way to actually do the verification part of this.\"\n\n\"Having the shared language of evals will allow us to say things like, you have the right number of nuclear warheads. In that example, there were also flyovers, a mechanism by which a country could audit another country's nuclear stockpile.\"\n\n\"If there's concern about the societal or even existential risk of AI, it will necessitate us constructing this shared language of evaluations to do the verification process.\"\n\n@RayanKrishnan @JenniferHli",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Vals AI co-founder and CEO Rayan Krishnan with a16z's Ben Horowitz and Jennifer Li on grading AI, what it costs, and who gets to make the rules:\n\nEvery big industry eventually grows an independent testing layer. AI has credit ratings to learn from and Enron to avoid. Model capability today is still mostly self-reported.\n\nAs public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations.\n\nThe harder problem is geopolitical. Reagan's \"trust but verify\" worked during the Cold War because you could fly over and count the missiles. No simple equivalent for AI models exists.\n\nIn this conversation with Erik Torenberg, they get into how you measure a model's ability to improve itself, why every good benchmark eventually has to be retired, and what happens when token spend begins to rival employee salaries.\n\n00:00 Intro\n02:20 Llama 4 on public vs private benchmarks\n05:24 Nobody agreed how to test humans either\n06:55 What movie ratings teach us about AI\n08:55 The Enron problem in benchmarking\n11:36 Why a good benchmark has to be retired\n13:22 Evals that run for weeks, not seconds\n16:20 Where the real workday starts at 4pm\n18:08 A firm really is just its evals\n20:35 Why Sonnet can cost more than Opus\n22:42 One engineer, 6 billion tokens in a day\n25:05 Who should set the rules for models\n28:55 Public sector enforces, private verifies\n33:32 Why sovereign AI is inefficient and happening anyway\n35:00 The AI version of trust-but-verify\n37:15 Where cyber evals have to go next\n\nYouTube: https://www.youtube.com/watch?v=WO9c9qxDxzU\n\n@RayanKrishnan @ValsAI @bhorowitz @JenniferHli @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2097773627290898546",
+    "time": "2026-09-10 03:46",
+    "created_at": "Wed Sep 09 19:46:22 +0000 2026",
+    "id_str": "2097773627290898546",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "上来就 iPhone 18 Pro\n\n以前都会先吹会牛P\n\n看来今天新东西很多…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097734162417701227",
+    "time": "2026-09-10 01:09",
+    "created_at": "Wed Sep 09 17:09:32 +0000 2026",
+    "id_str": "2097734162417701227",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "卖爆💥",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097748518484267332",
+    "time": "2026-09-10 02:06",
+    "created_at": "Wed Sep 09 18:06:35 +0000 2026",
+    "id_str": "2097748518484267332",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Who is pre-ordering new iPhone 18? \n\nI’m obsssed \n\n#appleevent",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097740140147851403",
+    "time": "2026-09-10 01:33",
+    "created_at": "Wed Sep 09 17:33:18 +0000 2026",
+    "id_str": "2097740140147851403",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Apple introduces the iPhone 18 Pro and iPhone 18 Pro Max #AppleEvent",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097740562778542250",
+    "time": "2026-09-10 01:34",
+    "created_at": "Wed Sep 09 17:34:58 +0000 2026",
+    "id_str": "2097740562778542250",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Is that an appature?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mike_darrow/status/2097749395190005916",
+    "time": "2026-09-10 02:10",
+    "created_at": "Wed Sep 09 18:10:04 +0000 2026",
+    "id_str": "2097749395190005916",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mike_darrow yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097749458234548453",
+    "time": "2026-09-10 02:10",
+    "created_at": "Wed Sep 09 18:10:19 +0000 2026",
+    "id_str": "2097749458234548453",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I WANT THE IPHONE DUO SO BAD",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097749819540246960",
+    "time": "2026-09-10 02:11",
+    "created_at": "Wed Sep 09 18:11:45 +0000 2026",
+    "id_str": "2097749819540246960",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone @icreatelife $1,999.99",
+    "quoted_tweet": null,
+    "url": "https://x.com/Noah_A_S/status/2097751186694955113",
+    "time": "2026-09-10 02:17",
+    "created_at": "Wed Sep 09 18:17:11 +0000 2026",
+    "id_str": "2097751186694955113",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Noah_A_S @Rufuszone Really 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097751354957598835",
+    "time": "2026-09-10 02:17",
+    "created_at": "Wed Sep 09 18:17:52 +0000 2026",
+    "id_str": "2097751354957598835",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @Rufuszone Yeah, I'm not paying for an iPhone that costs me the price of 2 gaming desktop PCs, pre-RAM-crisis.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Noah_A_S/status/2097751909667074522",
+    "time": "2026-09-10 02:20",
+    "created_at": "Wed Sep 09 18:20:04 +0000 2026",
+    "id_str": "2097751909667074522",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Noah_A_S @Rufuszone I probably won’t either. \nThey do have some sort of replacement program , I will see how much it costs to switch my iPhone 17 to it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097752588368126136",
+    "time": "2026-09-10 02:22",
+    "created_at": "Wed Sep 09 18:22:46 +0000 2026",
+    "id_str": "2097752588368126136",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@maxescu Congrats",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097752644680814810",
+    "time": "2026-09-10 02:22",
+    "created_at": "Wed Sep 09 18:22:59 +0000 2026",
+    "id_str": "2097752644680814810",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I'm not so sure about this, \n$1999 for 256GB seems outlandish for a phone \n\nI can't wait to see what OAI is cooking up together with Jony Ive, and also where are the rumored AirPod Pros?\n\nAll in all, the iPhone 18 Pro seems legit.  \n",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinusEkenstam/status/2097752882015547837",
+    "time": "2026-09-10 02:23",
+    "created_at": "Wed Sep 09 18:23:56 +0000 2026",
+    "id_str": "2097752882015547837",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You’re in Kris!! No worries 🙌🏻",
+    "quoted_tweet": null,
+    "url": "https://x.com/DOD_the_OG/status/2097753561090105508",
+    "time": "2026-09-10 02:26",
+    "created_at": "Wed Sep 09 18:26:37 +0000 2026",
+    "id_str": "2097753561090105508",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DOD_the_OG Thanks! I am in 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097753616794694102",
+    "time": "2026-09-10 02:26",
+    "created_at": "Wed Sep 09 18:26:51 +0000 2026",
+    "id_str": "2097753616794694102",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DavizCF7777 Thank you! I got in",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097753653637521603",
+    "time": "2026-09-10 02:27",
+    "created_at": "Wed Sep 09 18:27:00 +0000 2026",
+    "id_str": "2097753653637521603",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "If you want to reach the smartest people in the world, advertise on 𝕏",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2097753657714573749",
+    "time": "2026-09-10 02:27",
+    "created_at": "Wed Sep 09 18:27:01 +0000 2026",
+    "id_str": "2097753657714573749",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@elonmusk Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097753790967320582",
+    "time": "2026-09-10 02:27",
+    "created_at": "Wed Sep 09 18:27:32 +0000 2026",
+    "id_str": "2097753790967320582",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "You can now schedule posts from your phone on X! \n\nThat’s a great update, thanks X team",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097754296292942231",
+    "time": "2026-09-10 02:29",
+    "created_at": "Wed Sep 09 18:29:33 +0000 2026",
+    "id_str": "2097754296292942231",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yeah, I also feel they are late to the party, not sure what underlying data they have seen that is pushing this direction, but I'm probably very wrong and they will sell a lot of units, it just does not feel right to me.",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinusEkenstam/status/2097754480754217301",
+    "time": "2026-09-10 02:30",
+    "created_at": "Wed Sep 09 18:30:17 +0000 2026",
+    "id_str": "2097754480754217301",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So realistic 😂",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/wittyvikky/status/2097754572303548644",
+    "time": "2026-09-10 02:30",
+    "created_at": "Wed Sep 09 18:30:39 +0000 2026",
+    "id_str": "2097754572303548644",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So realistic 😂",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/wittyvikky/status/2097754572303548644",
+    "time": "2026-09-10 02:30",
+    "created_at": "Wed Sep 09 18:30:39 +0000 2026",
+    "id_str": "2097754572303548644",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LinusEkenstam The design is great but the price is just way too high to justify getting it. \n\nOn the other hand I want one so bad 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097754704658800735",
+    "time": "2026-09-10 02:31",
+    "created_at": "Wed Sep 09 18:31:10 +0000 2026",
+    "id_str": "2097754704658800735",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife iPhone Duo for me, only $3,199 for the 2TB model",
+    "quoted_tweet": null,
+    "url": "https://x.com/shaunralston/status/2097761935572029558",
+    "time": "2026-09-10 02:59",
+    "created_at": "Wed Sep 09 18:59:54 +0000 2026",
+    "id_str": "2097761935572029558",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife love using AI for stuff like this. \n\nnot quite the same but I had it make me a custom football app to show me what networks various games are on\n\nyou can build your personal help center for anything now",
+    "quoted_tweet": null,
+    "url": "https://x.com/thatroblennon/status/2097764112369615180",
+    "time": "2026-09-10 03:08",
+    "created_at": "Wed Sep 09 19:08:33 +0000 2026",
+    "id_str": "2097764112369615180",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I mean, I just had to! And for anyone out there...IYKYK!\n\nl'm just living that #doppleganger life!\n\n#AdobeEduCreative @icreatelife thanks for the inspo!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/annkozma723/status/2097764742140150144",
+    "time": "2026-09-10 03:11",
+    "created_at": "Wed Sep 09 19:11:03 +0000 2026",
+    "id_str": "2097764742140150144",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I mean, I just had to! And for anyone out there...IYKYK!\n\nl'm just living that #doppleganger life!\n\n#AdobeEduCreative @icreatelife thanks for the inspo!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “What would I have looked like in the 80s?” \n\nShare what you got 😁"
+    },
+    "url": "https://x.com/annkozma723/status/2097764742140150144",
+    "time": "2026-09-10 03:11",
+    "created_at": "Wed Sep 09 19:11:03 +0000 2026",
+    "id_str": "2097764742140150144",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@annkozma723 I absolutely love this, Ann!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097767922949148685",
+    "time": "2026-09-10 03:23",
+    "created_at": "Wed Sep 09 19:23:42 +0000 2026",
+    "id_str": "2097767922949148685",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@thatroblennon That’s so well put, Rob, a personal help center!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097768046345474413",
+    "time": "2026-09-10 03:24",
+    "created_at": "Wed Sep 09 19:24:11 +0000 2026",
+    "id_str": "2097768046345474413",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@shaunralston Okay 😭 it will stay in my dreams then. \n\nI will get one on eBay in 10 years 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097768235982581929",
+    "time": "2026-09-10 03:24",
+    "created_at": "Wed Sep 09 19:24:56 +0000 2026",
+    "id_str": "2097768235982581929",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wittyvikky This is wonderful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097768296477016156",
+    "time": "2026-09-10 03:25",
+    "created_at": "Wed Sep 09 19:25:11 +0000 2026",
+    "id_str": "2097768296477016156",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife OMG I LOVE IT",
+    "quoted_tweet": null,
+    "url": "https://x.com/Kyrannio/status/2097770070105833812",
+    "time": "2026-09-10 03:32",
+    "created_at": "Wed Sep 09 19:32:14 +0000 2026",
+    "id_str": "2097770070105833812",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I think I did this wrong 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/FreshCakeWTF/status/2097770530094915714",
+    "time": "2026-09-10 03:34",
+    "created_at": "Wed Sep 09 19:34:03 +0000 2026",
+    "id_str": "2097770530094915714",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FreshCakeWTF I met you and this looks accurate 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097774729809604827",
+    "time": "2026-09-10 03:50",
+    "created_at": "Wed Sep 09 19:50:45 +0000 2026",
+    "id_str": "2097774729809604827",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Kyrannio Waiting for yours 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097774800286462429",
+    "time": "2026-09-10 03:51",
+    "created_at": "Wed Sep 09 19:51:01 +0000 2026",
+    "id_str": "2097774800286462429",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Do I want all the new Apple devices? YES \n\nDo I buy a phone for $1,999? NO \n\nWhy? This is called adulthood and responsibilities. Imagine how many blueberries I can get Pablo for that price 😅 🐢 🫐",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097775193997373757",
+    "time": "2026-09-10 03:52",
+    "created_at": "Wed Sep 09 19:52:35 +0000 2026",
+    "id_str": "2097775193997373757",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "https://x.com/i/article/2097761142995308544",
+    "quoted_tweet": null,
+    "url": "https://x.com/pmarca/status/2097762851788398971",
+    "time": "2026-09-10 03:03",
+    "created_at": "Wed Sep 09 19:03:33 +0000 2026",
+    "id_str": "2097762851788398971",
+    "is_retweet": false
   }
 ]
