@@ -1407,5 +1407,64 @@
     "created_at": "Wed Sep 09 16:42:55 +0000 2026",
     "id_str": "2097727463434359008",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "If you hid the ticker, you would think this was an AI bottleneck name.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2097743984596861401",
+    "time": "2026-09-10 01:48",
+    "created_at": "Wed Sep 09 17:48:34 +0000 2026",
+    "id_str": "2097743984596861401",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "A note on recursive STARK mempools (EIP-8288) https://eips.ethereum.org/EIPS/eip-8288\n\nThis is an EIP that I am hoping we can get included in I-star (the fork after Hegota) that you can think of as the next step after Frames, that would unlock extreme amounts of power. Particularly:\n\n* Ultra-cheap quantum-safe signatures (SPHINCS-). Much of the cost savings comes from the fact that the signature data (~3 kB) does not have to go onchain\n* Ultra-cheap quantum-safe privacy protocols. Status quo minimum cost for private txs is ~300k if you engineer very well (no one does), status quo quantum-safe is ~10M gas, this could reduce it to low tens of thousands.\n* Universal support for your favorite new signature or proof scheme without needing EVM changes. Whatever you use (Falcon, ML-DSA, some other lattice-based thing, something code-based or isogeny-based or even more esoteric), you can just wrap it client-side in a STARK, onchain gas cost low tens of thousands just like privacy protocols. Hopefully, Ethereum will never need \"please support my favorite cryptographic algo\" politics again.\n* Private account abstraction: keep your account logic private, and in a private location onchain. Then you can make one transaction to change the ownership of all your onchain state - accounts, defi positions, privacy protocol notes, everything - without revealing which objects' ownership you're changing.\n\nHere's how it works.\n\nYour transaction can include a type of frame that we call a \"dependency frame\". The frame is a list of statements, asserting claims like \"message hash M was signed by SPHINCS- public key P\" and \"data hash D was proven to satisfy a statement defined by verification key V\".\n\nWhen you send your transaction, you send it in an envelope, which includes a signature or a STARK for each statement in a dependency frame.\n\nOnce the transaction reaches the mempool, nodes aggregate them. Each node runs a loop: wait one tick (eg. 500ms), aggregate all new envelopes (either single-tx or multi-tx) that you've seen, remove any transactions that are expired, generate a STARK recursively proving all dependencies, and send a new multi-tx envelope containing that STARK.\n\nHence, the bandwidth load is bounded: each node's outbound is one STARK (~100-300 kB) per tick, plus each transaction getting broadcasted through the network once (as happens already).\n\nThe block builder acts as \"yet another mempool node\", receiving envelopes from the mempool (plus any side channels), generates its own STARK covering the subset of transactions it intends to include in the block, and adds that STARK to the block.\n\nTotal onchain overhead: one STARK (100-300 kB), plus 96 bytes for each statement being proven.\n\nThis is what I've called before ( https://www.youtube.com/watch?v=TSLUpOpsPF0 ) \"The Proof Singularity\". Today, we have all the ingredients to actually implement it.\n\nAs a developer, this requires a somewhat different workflow than you are used to, but it is conceptually simple. Any signatures or STARKs, you put into a separate frame. Then the main logic that today is verifying a signature or STARK, you replace with checking for the existence of a frame that includes the correct statement as a dependency.\n\nExamples of useful statements:\n\n* [tx sighash] verifies against [the pubkey at sload(0)]\n* there exists a secret and a merkle branch such that hashing secret+0 and applying the merkle branch outputs (public) root R, and hashing secret+1 outputs (public) nullifier N\n* there exists a secret address A, salt S and signature Z such that sload(0) = hash(A, S) and a merkle proof of address A inside a recent ethereum state contains some pubkey D where [tx sighash] was signed by D [this is private account abstraction; all variables except [tx sighash] and sload(0) are private; you can also make D a STARK verification key]\n* there exists an ML-DSA signature signing [tx sighash], that verifies against an ML-DSA pubkey whose hash is sload(0)\n\nAt the core, this is moving any compute and data other than bookkeeping \"business logic\" outside the core path of Ethereum execution, sharding and parallelizing it via the mempool.\n\nNotice also that this requires agreeing on a _language_ (aka. an ISA) for the recursive STARKs to define statements in. The current leading candidate is RISC-V. So this would also de-facto be Ethereum adding RISC-V (or something else we decide on) as a canonical ISA - a big decision that should be done carefully, but that I think will be necessary to drive Ethereum forward.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2097711433073172837",
+    "time": "2026-09-09 23:39",
+    "created_at": "Wed Sep 09 15:39:13 +0000 2026",
+    "id_str": "2097711433073172837",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "A year ago, we soft-launched Tor VPN Beta as a way to extend Tor's privacy protections beyond the browser to an entire Android device. Since then, we've been able to learn from how people are actually using it in real-world scenarios. Learn more about what makes our per-app circuit isolation different from commercial VPNs, the surprising UX lesson when trying to bypass blocks, and the mobile foundation we're building for what's next. https://blog.torproject.org/tor-vpn-beta/",
+    "quoted_tweet": null,
+    "url": "https://x.com/torproject/status/2097744936187859425",
+    "time": "2026-09-10 01:52",
+    "created_at": "Wed Sep 09 17:52:21 +0000 2026",
+    "id_str": "2097744936187859425",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The choices around a Wait Calculation",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097702092970377270",
+    "time": "2026-09-09 23:02",
+    "created_at": "Wed Sep 09 15:02:07 +0000 2026",
+    "id_str": "2097702092970377270",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Worth clarifying that this is flatly false and the two options are just two independent ways to opt-out.\n\nWe respect our users' choice whether to use their data to “improve our models for everyone” regardless of where they express that choice. Users can opt out in the in-app settings or indeed also in our privacy portal. They do not need to opt out in both places, and we will make this clearer in our Help Center.\n\nhttps://privacy.openai.com/policies/en/",
+    "quoted_tweet": {
+      "author": "Edoardo Contente",
+      "username": "edoardocontente",
+      "text": "There is a super shady data control setting on everyone's ChatGPT which makes it seem like your data can be used for training even if you explicitly say to *NOT* improve the model for everyone (1/9)"
+    },
+    "url": "https://x.com/thsottiaux/status/2097746417012166816",
+    "time": "2026-09-10 01:58",
+    "created_at": "Wed Sep 09 17:58:14 +0000 2026",
+    "id_str": "2097746417012166816",
+    "is_retweet": false
   }
 ]
