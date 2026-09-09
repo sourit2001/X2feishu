@@ -336,5 +336,174 @@
     "created_at": "Wed Sep 09 21:25:24 +0000 2026",
     "id_str": "2097798549534601407",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Anthropic's Economic Scenario publication was a pretty interesting read:\n\n1. Anthropic's \"extreme\" scenario has GDP growth reaching 15.4% in 2030\n\nSo around 7.3x current rates (~2.1% Y/Y), which is consistent with what Elon Musk is saying about outgrowing the national debt with AI.  \n\n2. Almost all of the divergence happens after 2027. \n\nTheir model shows relatively little separation in 2026-2027, then the curves bend sharply into 2028-2030. \n\nSo my read is that it points to 2026-2027 as buildout years and 2028-2030 as economic acceleration. \n\nKinda gets mapped as well when you look at $AMZN / $META / $GOOGL capex, and short term FCF headwinds (but massive projected profitability post 2028)\n\n3. In an extreme scenario, unemployment of knowledge workers goes to 17.9%. With 11.9% economy-wide unemployment\n\n\"At the individual level, it means coders and call service center agents may have to switch to jobs like electrician and nurse, which are less exposed to AI.\"\n\nGG computer science majors. \n\n4. Non-cognitive wages: +33.6% vs. baseline in an extreme scenario. \n\nSo your electricians/construction-type labor becomes extremely valuable? (but this isn't factoring in humanoids yet...)\n\nWhereas -11.5% for knowledge workers in 2030 vs. baseline. \n\n5. Aggregate capital income is ~81% higher than it would have been without AI\n\nProductivity explodes -> aggregate labor income barely changes -> essentially all of the incremental GDP accrues to capital.\n\nSo that makes ownership of capital rather than labor... so equities like compute, power, semis, networking, robotics, etc. become pretty important... \n\nTLDR:\n\n- Economic growth go brr\n- Jobs that require thinking = unemployment + lower wages\n- Physical labor = more important, like electricians. \n- AI equities go brrr.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2097815176838017066",
+    "time": "2026-09-10 06:31",
+    "created_at": "Wed Sep 09 22:31:28 +0000 2026",
+    "id_str": "2097815176838017066",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "University leaders should make sure they reason about the broader trend.\n\nAround 2020, Fei-Fei and others at Stanford identified the growing compute divide between industry and academia, and the need for policy response in pushing for the National Research Cloud.\n\nIn 2021, the same point was made when applied to model training in the foundation models paper. \n\nIn 2022, the same point was made when applied to model evaluation in HELM among other works.\n\nIn 2026, the same point was made when applied to model use. OpenAI spent more than $6.5 million to resolve Navier Stokes (Astra prices for 130B output tokens only). \n\nThe stakes are not just the academic computer scientists doing frontier research on how to build AI models. The stakes are about the whole university system doing frontier research. \n\nCoping with \"scarcity is the mother of invention\" won't cut it, and we should trust the \"godmother of AI\" on that.",
+    "quoted_tweet": {
+      "author": "Fei-Fei Li",
+      "username": "drfeifei",
+      "text": "The world of R&D is forking into two paths: the token-abundant research, and the token-starved research. The future is in the former - evidentially, the progress by today's top AI industry teams and neolabs is breathtaking, where researchers’ human brilliance is super charged by AI’s assistance. Every research university president should be reading this report and reflecting on what the future of higher education research should be.\nhttp://openai.com/index/research-acceleration-view-inside-openai"
+    },
+    "url": "https://x.com/RishiBommasani/status/2097797245613875364",
+    "time": "2026-09-10 05:20",
+    "created_at": "Wed Sep 09 21:20:13 +0000 2026",
+    "id_str": "2097797245613875364",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I am deskilling myself with AI so quickly on so many annoying tasks I don't want or need to be skilled at. Cannot deskill on these fast enough.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2097821020375708020",
+    "time": "2026-09-10 06:54",
+    "created_at": "Wed Sep 09 22:54:41 +0000 2026",
+    "id_str": "2097821020375708020",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 典型的 AI 味界面呢🌚",
+    "quoted_tweet": null,
+    "url": "https://x.com/zway_ai/status/2097700491379744969",
+    "time": "2026-09-09 22:55",
+    "created_at": "Wed Sep 09 14:55:45 +0000 2026",
+    "id_str": "2097700491379744969",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "给 X 友们分享一个赚钱的小事，我也是这几天才知道的，顺手做一下就行。我们新发布的 AI 通行证刚在小红书上架 10 多天，还挺火的。\n有几位薯友，东西都还没有收到，只是写了一篇帖子，就能拿到几千块钱的提成。后来我才知道，原来 0 粉丝的账号都可以开橱窗，只要有人通过你的橱窗下单了，大概就能有 10% 的提成。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lewangx/status/2097709412760584594",
+    "time": "2026-09-09 23:31",
+    "created_at": "Wed Sep 09 15:31:12 +0000 2026",
+    "id_str": "2097709412760584594",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@zway_ai 是的，这是公司第一个 AI 写了 100% 产品和代码的产品",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2097817183489519645",
+    "time": "2026-09-10 06:39",
+    "created_at": "Wed Sep 09 22:39:26 +0000 2026",
+    "id_str": "2097817183489519645",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@iamcheyan 太真实了…",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2097822682742239298",
+    "time": "2026-09-10 07:01",
+    "created_at": "Wed Sep 09 23:01:17 +0000 2026",
+    "id_str": "2097822682742239298",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@JsonsP22174 😂\n只能说审美这个东西因人而异吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2097831634985005088",
+    "time": "2026-09-10 07:36",
+    "created_at": "Wed Sep 09 23:36:52 +0000 2026",
+    "id_str": "2097831634985005088",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@JsonsP22174 https://listenhub.ai 也许更符合你的审美一些\nlabnana 是偏二次元的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2097832032353370390",
+    "time": "2026-09-10 07:38",
+    "created_at": "Wed Sep 09 23:38:27 +0000 2026",
+    "id_str": "2097832032353370390",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@lewangx 小红书现在做电商是真的很激进了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2097832579479298491",
+    "time": "2026-09-10 07:40",
+    "created_at": "Wed Sep 09 23:40:37 +0000 2026",
+    "id_str": "2097832579479298491",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Vincent_Song 当时差点摔出去，还挺刺激的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2097833047630786630",
+    "time": "2026-09-10 07:42",
+    "created_at": "Wed Sep 09 23:42:29 +0000 2026",
+    "id_str": "2097833047630786630",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "If you use Codex, @thsottiaux needs no introduction. We talked 100% about Codex (fun fact: he started building it!), and 0% about resets. Timestamps:\n\n00:00 Intro\n07:21 Working at Google\n12:41 What drew Tibo to OpenAI\n15:19 The early days of Codex\n18:20 Why Codex was built in Rust\n21:15 Why Codex is open source\n25:50 Codex plays nice with other models: why?\n32:09 How the harness works\n36:44 Harness and model improvements\n41:19 The SDLC behind Codex\n46:39 Code reviews at Codex\n52:09 Maintenance and architecture\n56:43 How AI tools expand what engineers can do\n1:02:30 The Merge: ChatGPT + Codex\n1:07:16 How Tibo uses Codex and ChatGPT\n1:10:44 Advice for engineers who want to work in AI\n\nBrought to you by:\n\n• @turbopuffer  – a vector and full-text search engine built on object storage. It’s fast, cheap, and extremely scalable. https://turbopuffer.com/pragmatic\n\n• @AntithesisHQ  – verify your system’s correctness without human review or traditional integration tests – and avoid bugs or outages. https://antithesis.com/pragmatic\n\n• @EntireHQ  – Git hosting, rebuilt for the agentic era. Entire hosts your code in-region, and is up to 89x faster than any other competitor. https://entire.io/pragmatic\n\nOh, and to those still reading and wondering about resets: there was one yesterday already 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/GergelyOrosz/status/2097798203613516142",
+    "time": "2026-09-10 05:24",
+    "created_at": "Wed Sep 09 21:24:01 +0000 2026",
+    "id_str": "2097798203613516142",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "i feel like @thsottiaux's point that all you have to do is uphold the invariants directly contradicts his later statement about making sure the box contains well thought out abstractions. The main thing i am looking at in code review now-a-days is exactly that - how does this scale - not is the logic sound. Even before ai I was rarely finding \"logic\" issues.",
+    "quoted_tweet": null,
+    "url": "https://x.com/TheHolyCoder/status/2097803763704541412",
+    "time": "2026-09-10 05:46",
+    "created_at": "Wed Sep 09 21:46:07 +0000 2026",
+    "id_str": "2097803763704541412",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@TheHolyCoder @GergelyOrosz What’s in the box doesn’t matter, but what the box invariants are does (in/out contract, data access, security guarantees, …)",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097824089323045037",
+    "time": "2026-09-10 07:06",
+    "created_at": "Wed Sep 09 23:06:53 +0000 2026",
+    "id_str": "2097824089323045037",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Happy to be building here with you all. Lots to explore",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2097829053147582782",
+    "time": "2026-09-10 07:26",
+    "created_at": "Wed Sep 09 23:26:36 +0000 2026",
+    "id_str": "2097829053147582782",
+    "is_retweet": false
   }
 ]
