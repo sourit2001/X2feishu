@@ -791,5 +791,621 @@
     "created_at": "Wed Sep 09 13:02:41 +0000 2026",
     "id_str": "2097672038781763614",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "This would suck, but we will prioritize great service for customers until we can get back on top of things.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues."
+    },
+    "url": "https://x.com/sama/status/2097695001341829212",
+    "time": "2026-09-09 22:33",
+    "created_at": "Wed Sep 09 14:33:56 +0000 2026",
+    "id_str": "2097695001341829212",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "ocarina of time remake is the best news in a long time.\n\ni will be unavailable november 5 and 6; need to find a case of mountain dew.",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2097696043492143157",
+    "time": "2026-09-09 22:38",
+    "created_at": "Wed Sep 09 14:38:04 +0000 2026",
+    "id_str": "2097696043492143157",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "鉴于 DS V4.1 Flash 模型在性能、费用、速度、总用时等各项指标上都全面超越了 V4 Pro。再以更高的价格、更慢的速度和更多的算力消耗给 DS 用户提供原有的性能较差的 V4 Pro 模型会不太合适。V4.1 Flash 正式上线之后，V4.1 Pro 上线之前，V4 Pro 模型的请求都会被路由到 V4.1 Flash，并按 Flash 的价格计费。",
+    "quoted_tweet": null,
+    "url": "https://x.com/tianyi/status/2097584362770530674",
+    "time": "2026-09-09 15:14",
+    "created_at": "Wed Sep 09 07:14:17 +0000 2026",
+    "id_str": "2097584362770530674",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "延续昨天的话题https://x.com/tombkeeper/status/2097259068419391596 刚才先让 AI 不用编译器写一个五子棋游戏。检查中发现 AI 先用 Python 构造了一个汇编器。虽然这不算违规，但接下来我要求 AI 必须直接输出十六进制，调用 OpenGL，写一个哆啦A梦吃铜锣烧的 2D 动画程序。结果 AI 也做出来了。虽然动画有点丑，但程序没问题。",
+    "quoted_tweet": {
+      "author": "Yang Yu",
+      "username": "tombkeeper",
+      "text": "刚才用 GPT-6 Astra 做了个实验。先让它生成 MessageBox 弹框程序，成功了。再让他生成列举系统进程的程序，又成功了。然后我让怹生成通过发送消息实现输入文字的程序，也成功了。最后我让祂生成一个计算器，居然也成功了。\n\n我的人类朋友们，AI 已经可以不依赖编译器直接输出二进制可执行文件了。"
+    },
+    "url": "https://x.com/tombkeeper/status/2097593942606815520",
+    "time": "2026-09-09 15:52",
+    "created_at": "Wed Sep 09 07:52:21 +0000 2026",
+    "id_str": "2097593942606815520",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "复古和真实感，是我最近超喜欢的创作方向",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaojietongxue/status/2097617139280613446",
+    "time": "2026-09-09 17:24",
+    "created_at": "Wed Sep 09 09:24:32 +0000 2026",
+    "id_str": "2097617139280613446",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "复古和真实感，是我最近超喜欢的创作方向",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaojietongxue/status/2097617139280613446",
+    "time": "2026-09-09 17:24",
+    "created_at": "Wed Sep 09 09:24:32 +0000 2026",
+    "id_str": "2097617139280613446",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 想问下中文文字渲染这版有没有明显改善？之前中文文本在图像里经常出错，不知道 2.5 是不是一并解决了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Ykziug/status/2097670953841135854",
+    "time": "2026-09-09 20:58",
+    "created_at": "Wed Sep 09 12:58:22 +0000 2026",
+    "id_str": "2097670953841135854",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Ykziug 看起来好一些了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097702748095442949",
+    "time": "2026-09-09 23:04",
+    "created_at": "Wed Sep 09 15:04:43 +0000 2026",
+    "id_str": "2097702748095442949",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dongxi_nlp  @dotey @mylifcc  今早看 X 时刷到关于数学家和OpenAI的事件。边刷边回了一些帖子，并且吐槽了一波Anthropic，大概回了3个知名中文推主接着在10分钟内，Claude就被封了，被封时都没有使用。\n\n这是第二次在美国因言获罪。记得最早是刚到美国不久后有个老师问是否觉得美国的黑人同学和白人同学分属两个不同的圈子，我说没看出来，感觉他们玩得挺好的。然后被教育了一顿普及了下美国的历史\n\n第二次就是这次 x 上吐槽，接着被Anthropic 把账户Hold了。坦白讲挺怕的因为所有的私人信息和资料都在上面，怕因言获罪，怕对方一个技术不小心，自己的资料就变成了公共的资料。\n\n看到说Anthropic公司一个资深的AI研究员突然离职了，因为担心人工智能的风险，我忽然觉得他/她可能不是担心AI失控而是担心AI的掌控者失控。当诗人屈原投江时是对人类感到失望么？ 不 他是对当时所服务的楚国失望了。一个人如果不是对自己服务的主体失望，就算千难万难也会和服务的主体一起面对去改变他眼里那个灾难的未来。古人说哀大于心死，但凡屈原对楚国有一丝信心，他也会坚持与楚国共渡难关而不是毅然赴死。 \n\n对于普通民众来说，最可怕的从来不是工具有了思维，而是掌控工具的人开始觉得自己应当掌控一切，开始觉得别人应该按照自己的意愿说话，\n\n我曾听一个学者说：不要在意那些刺耳的言论，无论他们是对或者错误，因为上帝造人时不是为你我而造。",
+    "quoted_tweet": null,
+    "url": "https://x.com/imaskweb/status/2097712831873343831",
+    "time": "2026-09-09 23:44",
+    "created_at": "Wed Sep 09 15:44:47 +0000 2026",
+    "id_str": "2097712831873343831",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@mylifcc @dongxi_nlp @dotey 另外从严重性上我怀疑是回你的帖子，从扩展范围上我怀疑是回宝玉和马东锡的帖子😑",
+    "quoted_tweet": null,
+    "url": "https://x.com/imaskweb/status/2097716809621229716",
+    "time": "2026-09-10 00:00",
+    "created_at": "Wed Sep 09 16:00:35 +0000 2026",
+    "id_str": "2097716809621229716",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@imaskweb @mylifcc @dongxi_nlp 我觉得应该是误解了，按理说应该先封我账号才对😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097717965802045494",
+    "time": "2026-09-10 00:05",
+    "created_at": "Wed Sep 09 16:05:11 +0000 2026",
+    "id_str": "2097717965802045494",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "提醒一下读者们 这篇推文里的许多细节都不符合硅谷大厂的运行规律 我有理由怀疑推文作者在创造一个虚构的人设 \n\n最基本的： 整个 org 要裁员多少比例的消息基本上是 VP 拿主意，绝不会如此传递到一个 TL 线上。况且如果是“裁员决定会”，那么名单早就定好了，绝对不需要一线管理人员去写什么东西  要你写就是谈判 — 管理者从不谈判 \n\n虽然其实在大厂工作的人推特上比比皆是，但许多人可能真的不知道其工作机理，因此穿凿附会出许多想象中的场景\n\n欢迎私信来沟通 愿意在验证事实后删除推文",
+    "quoted_tweet": {
+      "author": "美研芒格君",
+      "username": "Kay2289123",
+      "text": "这个时代很残忍，目前我在硅谷一家一线厂任职 team lead。今天被管理层拉到了一个裁员决定会，说整个 org 要裁员10-15%。让我详细论证我组里的每一个 headcount 在 AI 的加持下都能为公司创造价值\n\n我有两点 takeaway，给大家敲个警钟\n\n1. 资本并没有把我们每一个员工当做一个真正的人。不管你是 中层还是一线干活的。在他们眼里，这只是人力，是电池，是耗材，不要太把自己当回事了\n\n2. 当前大多数人还没被裁员的原因，就是人比 AI 便宜。但已经开始行动了\n\n我需要在这周五之前提交报告，没有 qualified 的可能会被直接裁掉\n\nAGI已经到来，它目前还仅仅收敛在一小部分拥有顶尖资源的人手里，还太贵了。\n\n大家不妨问自己一个问题：当 AI 比你便宜的时候，你是否能依旧论证你的独特价值？\n\n如果可以，那才是过关了"
+    },
+    "url": "https://x.com/xleaps/status/2097718108999889307",
+    "time": "2026-09-10 00:05",
+    "created_at": "Wed Sep 09 16:05:45 +0000 2026",
+    "id_str": "2097718108999889307",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaojietongxue 有创意👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2097722536360370480",
+    "time": "2026-09-10 00:23",
+    "created_at": "Wed Sep 09 16:23:21 +0000 2026",
+    "id_str": "2097722536360370480",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "From my POV, this is an extremely cogent and practical view of how enterprise transformation with AI actually can work.",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2095378321588826112"
+    },
+    "url": "https://x.com/nrmehta/status/2097552678385864846",
+    "time": "2026-09-09 13:08",
+    "created_at": "Wed Sep 09 05:08:23 +0000 2026",
+    "id_str": "2097552678385864846",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "why you need to capture/rethink the whole job and process! \"AI labs and companies, on the flip side, have the opposite problem. They can build an agent (most of the time, at least), but they've never sat down with both finance and operations to break down a workflow where both departments disagree about ownership and who is upstream of whom, so instead they'll slap AI onto a broken process and call it automated, instead of gutting and redesigning that process like it should have been months ago.\"",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2095378321588826112"
+    },
+    "url": "https://x.com/seema_amble/status/2097666959999693089",
+    "time": "2026-09-09 20:42",
+    "created_at": "Wed Sep 09 12:42:30 +0000 2026",
+    "id_str": "2097666959999693089",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@seema_amble Thanks for the share Seema!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2097686623081435263",
+    "time": "2026-09-09 22:00",
+    "created_at": "Wed Sep 09 14:00:38 +0000 2026",
+    "id_str": "2097686623081435263",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@nrmehta Cheers Nick!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2097686770897088543",
+    "time": "2026-09-09 22:01",
+    "created_at": "Wed Sep 09 14:01:13 +0000 2026",
+    "id_str": "2097686770897088543",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2097704025194172416",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2097704032571883990",
+    "time": "2026-09-09 23:09",
+    "created_at": "Wed Sep 09 15:09:49 +0000 2026",
+    "id_str": "2097704032571883990",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2097704025194172416",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2097704032571883990",
+    "time": "2026-09-09 23:09",
+    "created_at": "Wed Sep 09 15:09:49 +0000 2026",
+    "id_str": "2097704032571883990",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@EXM7777 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2097704360633622871",
+    "time": "2026-09-09 23:11",
+    "created_at": "Wed Sep 09 15:11:07 +0000 2026",
+    "id_str": "2097704360633622871",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Today we're announcing @lightfld's $47M Series A led by @a16z to reimagine CRM as a world model of a business.\n\nFor agents to do customer-facing work, they need to understand how your business actually works.\n\nSalesforce wasn't designed for this. It was built 20+ years ago for humans to update records. Layer agentic processes on top and you get low quality output, because the underlying data is incomplete and lacks the structure agents need.\n\n@lightfld updates itself from every interaction, forming a trustworthy model of your business for people and agents. Since launching last November, 5,000+ companies have signed up - and we're ripping out legacy CRM at mature organizations with hundreds of users.\n\nCompanies on Lightfield grow faster than their competitors. It finds prospects that look like your best customers and books meetings with them. It captures commitments from every conversation and automates follow-ups. It diagnoses weaknesses in your funnel and learns from your best sellers to codify what works.\n\nThe companies of the future will run on a business world model, not a Salesforce-era database. Our mission is to put that capability in the hands of every employee, and every agent, at every company.",
+    "quoted_tweet": null,
+    "url": "https://x.com/keithpeiris/status/2097716708861751651",
+    "time": "2026-09-10 00:00",
+    "created_at": "Wed Sep 09 16:00:11 +0000 2026",
+    "id_str": "2097716708861751651",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Today we're announcing @lightfld's $47M Series A led by @a16z to reimagine CRM as a world model of a business.\n\nFor agents to do customer-facing work, they need to understand how your business actually works.\n\nSalesforce wasn't designed for this. It was built 20+ years ago for humans to update records. Layer agentic processes on top and you get low quality output, because the underlying data is incomplete and lacks the structure agents need.\n\n@lightfld updates itself from every interaction, forming a trustworthy model of your business for people and agents. Since launching last November, 5,000+ companies have signed up - and we're ripping out legacy CRM at mature organizations with hundreds of users.\n\nCompanies on Lightfield grow faster than their competitors. It finds prospects that look like your best customers and books meetings with them. It captures commitments from every conversation and automates follow-ups. It diagnoses weaknesses in your funnel and learns from your best sellers to codify what works.\n\nThe companies of the future will run on a business world model, not a Salesforce-era database. Our mission is to put that capability in the hands of every employee, and every agent, at every company.",
+    "quoted_tweet": null,
+    "url": "https://x.com/keithpeiris/status/2097716708861751651",
+    "time": "2026-09-10 00:00",
+    "created_at": "Wed Sep 09 16:00:11 +0000 2026",
+    "id_str": "2097716708861751651",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@keithpeiris @lightfld @a16z Insane. Congrats!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2097722960538992867",
+    "time": "2026-09-10 00:25",
+    "created_at": "Wed Sep 09 16:25:02 +0000 2026",
+    "id_str": "2097722960538992867",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We’ve raised $550M at a $15.5B valuation, led by @DiffusionVC and @LightSpeedVP.\n\nWe’ve crossed $400M in ARR and serve 3,000 customers, including 80% of the top 100 law firms, 20% of the Fortune 500, and half of the Fortune 10.\n\nWe are investing the capital from this round into our two most important resources: people and compute.\n\nOur product is expanding into new verticals and more specialized solutions for areas like contracting, litigation, deals, and compliance.\n\nAs usage grows, we’re investing heavily in inference and model training to deliver frontier legal intelligence at the best possible price.\n\nBuilding on Tenet, our first model post-trained on open-weight models, this round will let us scale the compute and data behind future generations of our models.\n\nWe believe the most successful application-layer companies will become full-stack AI companies, building across applications, agents, and models.\n\nBecoming a full-stack AI company will help our customers own more of their intelligence and build their vision of a frontier legal organization.\n\nWe’re also grateful to @Sequoia, @KleinerPerkins , @A16Z , @CoatueMgmt, @Conviction, @EladGil, Evantic, GIC, @GoldmanSachs, Sapphire Ventures and Whale Rock for participating in the round and backing that vision.",
+    "quoted_tweet": {
+      "author": "Harvey",
+      "username": "harvey",
+      "text": "We’ve raised $550M at a $15.5B valuation co-led by @lightspeedvp and @DiffusionVC.\n\nWe're using this funding to help law firms, in-house legal teams, and professional services build and own their intelligence."
+    },
+    "url": "https://x.com/gabepereyra/status/2097662388753584354",
+    "time": "2026-09-09 20:24",
+    "created_at": "Wed Sep 09 12:24:20 +0000 2026",
+    "id_str": "2097662388753584354",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're thrilled to invest in Covenant, emerging from stealth after raising $250M.\n\nThe West’s long-range strike capabilities cost too much to field in quantities a real conflict can demand.\n\n@HQ_Covenant's answer is Anthem – a low-cost, long-range, heavy-payload missile designed to be manufactured at scale. Already, Anthem has flown 250+ test flights since August 2025, with government customers under contract and production lines going up in Dallas and Germany.\n\nWe’re excited to partner with @KaufmanMic, Abby Denburg, and the entire Covenant team as they make long-range defense affordable.",
+    "quoted_tweet": {
+      "author": "Michael Kaufman",
+      "username": "KaufmanMic",
+      "text": "Today, Covenant is emerging from stealth and introducing Anthem: a heavy-payload deep precision strike capability designed for mass production, with deliveries beginning in the thousands in 2027.\n\nWe’ve raised $250 million, flown Anthem in more than 200 tests, and secured approximately $150 million in orders, including contracts with the U.S. Army, U.S. Navy, and key international allies.\n\nWe’re building Anthem at our 105,000-square-foot production facility in Dallas, alongside factories in Germany and Israel.\n\nCovenant is backed by @a16z, @foundersfund, @Lux_Capital, @lightspeedvp, @8vc, @aleph, and @AltimeterCap. \n\nDeep precision strike is the biggest gap in the arsenal of the West, and we spent the last two years building Anthem to fill it. \n\nNow we deliver at scale."
+    },
+    "url": "https://x.com/a16z/status/2097689353267122587",
+    "time": "2026-09-09 22:11",
+    "created_at": "Wed Sep 09 14:11:29 +0000 2026",
+    "id_str": "2097689353267122587",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Vals AI co-founder and CEO Rayan Krishnan with a16z's Ben Horowitz and Jennifer Li on grading AI, what it costs, and who gets to make the rules:\n\nEvery big industry eventually grows an independent testing layer. AI has credit ratings to learn from and Enron to avoid. Model capability today is still mostly self-reported.\n\nAs public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations.\n\nThe harder problem is geopolitical. Reagan's \"trust but verify\" worked during the Cold War because you could fly over and count the missiles. No simple equivalent for AI models exists.\n\nIn this conversation with Erik Torenberg, they get into how you measure a model's ability to improve itself, why every good benchmark eventually has to be retired, and what happens when token spend begins to rival employee salaries.\n\n00:00 Intro\n02:20 Llama 4 on public vs private benchmarks\n05:24 Nobody agreed how to test humans either\n06:55 What movie ratings teach us about AI\n08:55 The Enron problem in benchmarking\n11:36 Why a good benchmark has to be retired\n13:22 Evals that run for weeks, not seconds\n16:20 Where the real workday starts at 4pm\n18:08 A firm really is just its evals\n20:35 Why Sonnet can cost more than Opus\n22:42 One engineer, 6 billion tokens in a day\n25:05 Who should set the rules for models\n28:55 Public sector enforces, private verifies\n33:32 Why sovereign AI is inefficient and happening anyway\n35:00 The AI version of trust-but-verify\n37:15 Where cyber evals have to go next\n\nYouTube: https://www.youtube.com/watch?v=WO9c9qxDxzU\n\n@RayanKrishnan @ValsAI @bhorowitz @JenniferHli @eriktorenberg",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2097697391860232572",
+    "time": "2026-09-09 22:43",
+    "created_at": "Wed Sep 09 14:43:26 +0000 2026",
+    "id_str": "2097697391860232572",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Vals AI CEO Rayan Krishnan on the unlimited tokens experiment that revealed an anxious obligation for engineers to use models all the time, everywhere:\n\n\"I wanted to do a tokenmaxxing experiment. I was able to get unlimited access for our team for a month for some of the coding tools. We had a lot of engineers spending between one to two billion tokens a day.\"\n\n\"I went back and did some math, and it looked like in that month, we spent roughly $1.5 million worth of tokens... It was actually 10x more we were spending in tokens than employee salary for that month.\"\n\n\"We cannot continue with this mode of operation for the next month. How do we intelligently figure out what are the right tools we should use, for what teams, and what projects?\"\n\n\"We found some pretty surprising insights. The Cognition Devin tool is actually very token-efficient, and so that's a place we've chosen to adopt more.\"\n\n\"There are a lot of places where you can get better pricing models out of subscriptions as opposed to token-based pricing.\"\n\n\"It's actually informed our strategy for how we can effectively tokenmaxx without spending $1.5 million per month.\"\n\n@RayanKrishnan @JenniferHli",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Vals AI co-founder and CEO Rayan Krishnan with a16z's Ben Horowitz and Jennifer Li on grading AI, what it costs, and who gets to make the rules:\n\nEvery big industry eventually grows an independent testing layer. AI has credit ratings to learn from and Enron to avoid. Model capability today is still mostly self-reported.\n\nAs public benchmarks saturate and models get better at optimizing for the tests themselves, Rayan makes the case for independent, continuously evolving evaluations.\n\nThe harder problem is geopolitical. Reagan's \"trust but verify\" worked during the Cold War because you could fly over and count the missiles. No simple equivalent for AI models exists.\n\nIn this conversation with Erik Torenberg, they get into how you measure a model's ability to improve itself, why every good benchmark eventually has to be retired, and what happens when token spend begins to rival employee salaries.\n\n00:00 Intro\n02:20 Llama 4 on public vs private benchmarks\n05:24 Nobody agreed how to test humans either\n06:55 What movie ratings teach us about AI\n08:55 The Enron problem in benchmarking\n11:36 Why a good benchmark has to be retired\n13:22 Evals that run for weeks, not seconds\n16:20 Where the real workday starts at 4pm\n18:08 A firm really is just its evals\n20:35 Why Sonnet can cost more than Opus\n22:42 One engineer, 6 billion tokens in a day\n25:05 Who should set the rules for models\n28:55 Public sector enforces, private verifies\n33:32 Why sovereign AI is inefficient and happening anyway\n35:00 The AI version of trust-but-verify\n37:15 Where cyber evals have to go next\n\nYouTube: https://www.youtube.com/watch?v=WO9c9qxDxzU\n\n@RayanKrishnan @ValsAI @bhorowitz @JenniferHli @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2097717408807202838",
+    "time": "2026-09-10 00:02",
+    "created_at": "Wed Sep 09 16:02:58 +0000 2026",
+    "id_str": "2097717408807202838",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're excited to lead Lightfield's $47M Series A.\n\nEvery company runs on a CRM, and almost no one likes the one they have.\n\n@lightfld is the CRM for the agentic era – a data model that needs no configuration, builds itself from your emails and calls in minutes, and fits your business rather than the other way around. Agents do the work that piles up around the record: the updates, the follow-ups, the handoffs, the reporting.\n\nSince launching late last year, thousands of companies have adopted Lightfield.\n\nCongrats, @keithpeiris, @hliriani, and the Lightfield team!\n\nBy @joeschmidtiv, @arampell, and @fabrisera2000",
+    "quoted_tweet": {
+      "author": "Keith Peiris",
+      "username": "keithpeiris",
+      "text": "Today we're announcing @lightfld's $47M Series A led by @a16z to reimagine CRM as a world model of a business.\n\nFor agents to do customer-facing work, they need to understand how your business actually works.\n\nSalesforce wasn't designed for this. It was built 20+ years ago for humans to update records. Layer agentic processes on top and you get low quality output, because the underlying data is incomplete and lacks the structure agents need.\n\n@lightfld updates itself from every interaction, forming a trustworthy model of your business for people and agents. Since launching last November, 5,000+ companies have signed up - and we're ripping out legacy CRM at mature organizations with hundreds of users.\n\nCompanies on Lightfield grow faster than their competitors. It finds prospects that look like your best customers and books meetings with them. It captures commitments from every conversation and automates follow-ups. It diagnoses weaknesses in your funnel and learns from your best sellers to codify what works.\n\nThe companies of the future will run on a business world model, not a Salesforce-era database. Our mission is to put that capability in the hands of every employee, and every agent, at every company."
+    },
+    "url": "https://x.com/a16z/status/2097719088542040193",
+    "time": "2026-09-10 00:09",
+    "created_at": "Wed Sep 09 16:09:39 +0000 2026",
+    "id_str": "2097719088542040193",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "今天有新 iPhone 发布是吗，但我觉得 iPhone 出折叠是何意味啊，这不就是一个 iPad mini 吗。",
+    "quoted_tweet": null,
+    "url": "https://x.com/CuiMao/status/2097656867547967735",
+    "time": "2026-09-09 20:02",
+    "created_at": "Wed Sep 09 12:02:24 +0000 2026",
+    "id_str": "2097656867547967735",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@CuiMao 你说的一点都对",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097662318113169753",
+    "time": "2026-09-09 20:24",
+    "created_at": "Wed Sep 09 12:24:03 +0000 2026",
+    "id_str": "2097662318113169753",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 官方开发团队分享\n\n如何让 Claude API 降本不降质：缓存、提示词与 Effort 的三类优化策略\n\n很多团队看到 Claude API 账单上涨，第一反应是换更便宜的模型、缩短输入，或者让模型少思考。但这些做法都可能直接伤到结果质量，于是降本与性能看起来像一道单选题。\n\nAnthropic 官方开发团队提醒：在做这道选择题之前，应该先排除另一种情况——系统正在为没有产生额外价值的工作付费。\n\n要重点检查一次请求中的三个层面：\n\n输入层：重复内容被重新 Prefill，检查缓存前缀、模型绑定和 TTL。\n\n指令层：旧规则与新模型能力不再匹配，检查核验仪式、强制步骤、陈旧样例和冲突规则\n\n推理层：思考投入与任务难度不匹配，用自己的评测扫过多个 Effort 和模型组合；过高可能浪费，过低则可能损害表现。\n\nhttps://best.xiaohu.ai/article/reducing-cost-improving-performance-claude-platform/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097664725873992054",
+    "time": "2026-09-09 20:33",
+    "created_at": "Wed Sep 09 12:33:38 +0000 2026",
+    "id_str": "2097664725873992054",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@AndyHu44502446 https://best.xiaohu.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2097722825310371966",
+    "time": "2026-09-10 00:24",
+    "created_at": "Wed Sep 09 16:24:30 +0000 2026",
+    "id_str": "2097722825310371966",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My appeal was successful, and I’m now enrolled in the Original Content Rewards Program. \n\nThank you everyone for the support. Really appreciate it. 🧡",
+    "quoted_tweet": {
+      "author": "AshutoshShrivastava",
+      "username": "ai_for_success",
+      "text": "I deleted my earlier post. Thanks everyone for the support. I’ve submitted my appeal, so I’ll just wait and I’m sure it will get cleared."
+    },
+    "url": "https://x.com/ai_for_success/status/2097643564687859720",
+    "time": "2026-09-09 19:09",
+    "created_at": "Wed Sep 09 11:09:32 +0000 2026",
+    "id_str": "2097643564687859720",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thanks alot for all the help 🤍 you are awesome.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ai_for_success/status/2097708070390689929",
+    "time": "2026-09-09 23:25",
+    "created_at": "Wed Sep 09 15:25:52 +0000 2026",
+    "id_str": "2097708070390689929",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success ❤️🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097708424561664239",
+    "time": "2026-09-09 23:27",
+    "created_at": "Wed Sep 09 15:27:16 +0000 2026",
+    "id_str": "2097708424561664239",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Inspired by @ashebytes, I asked ChatGPT Astra to build a page that pulls apart Photoshop, tool by tool, and provides a breakdown of each one.\n\nNeeds some tweaking but could be a fun experience.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pinsky/status/2097708943909032235",
+    "time": "2026-09-09 23:29",
+    "created_at": "Wed Sep 09 15:29:20 +0000 2026",
+    "id_str": "2097708943909032235",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "16 years on, this portrait still brings me joy.\n\n@tsevis built it from CS5 Master Collection icons and called it Adobecadabra. Still one of my favorites. Thank you, Charis.\n\nCan you recognize all of the icons?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2097713072471158993",
+    "time": "2026-09-09 23:45",
+    "created_at": "Wed Sep 09 15:45:44 +0000 2026",
+    "id_str": "2097713072471158993",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Pinsky @ashebytes This is so cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097714571326771584",
+    "time": "2026-09-09 23:51",
+    "created_at": "Wed Sep 09 15:51:42 +0000 2026",
+    "id_str": "2097714571326771584",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is so cool",
+    "quoted_tweet": {
+      "author": "Howard Pinsky",
+      "username": "Pinsky",
+      "text": "Inspired by @ashebytes, I asked ChatGPT Astra to build a page that pulls apart Photoshop, tool by tool, and provides a breakdown of each one.\n\nNeeds some tweaking but could be a fun experience."
+    },
+    "url": "https://x.com/icreatelife/status/2097714625126998210",
+    "time": "2026-09-09 23:51",
+    "created_at": "Wed Sep 09 15:51:54 +0000 2026",
+    "id_str": "2097714625126998210",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "X app added a new heart ❤️ animation for the Apple Event! Press like to see it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097716130399801601",
+    "time": "2026-09-09 23:57",
+    "created_at": "Wed Sep 09 15:57:53 +0000 2026",
+    "id_str": "2097716130399801601",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife This is what we need across all the Adobe tools and beyond, an easier way to see what they can do and how to find each effect/tool!",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrod_lew/status/2097717523471085647",
+    "time": "2026-09-10 00:03",
+    "created_at": "Wed Sep 09 16:03:25 +0000 2026",
+    "id_str": "2097717523471085647",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Great! And that’s a special Apple event with Ternus as CEO",
+    "quoted_tweet": null,
+    "url": "https://x.com/matt_brunel/status/2097718490241118700",
+    "time": "2026-09-10 00:07",
+    "created_at": "Wed Sep 09 16:07:16 +0000 2026",
+    "id_str": "2097718490241118700",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew I agree with you 100%. Especially for After Effects and Premiere Pro!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097718821775634719",
+    "time": "2026-09-10 00:08",
+    "created_at": "Wed Sep 09 16:08:35 +0000 2026",
+    "id_str": "2097718821775634719",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Amazing! First time I fall for this kind of things and it’s true 🤣🤣🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/SoftRenderAi/status/2097721056261714364",
+    "time": "2026-09-10 00:17",
+    "created_at": "Wed Sep 09 16:17:28 +0000 2026",
+    "id_str": "2097721056261714364",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SoftRenderAi It really is",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097721851938050477",
+    "time": "2026-09-10 00:20",
+    "created_at": "Wed Sep 09 16:20:37 +0000 2026",
+    "id_str": "2097721851938050477",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@matt_brunel Yes!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097721919936049209",
+    "time": "2026-09-10 00:20",
+    "created_at": "Wed Sep 09 16:20:54 +0000 2026",
+    "id_str": "2097721919936049209",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @tsevis Thanks, Kris. I remember the days of Creative Suite vividly, and this portrait always brings me joy",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2097722049338687636",
+    "time": "2026-09-10 00:21",
+    "created_at": "Wed Sep 09 16:21:25 +0000 2026",
+    "id_str": "2097722049338687636",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd @tsevis You experienced all the history of Adobe!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097722251911008592",
+    "time": "2026-09-10 00:22",
+    "created_at": "Wed Sep 09 16:22:13 +0000 2026",
+    "id_str": "2097722251911008592",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @tsevis Haha! Let's say that I was an early adopter and enthusiast",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2097722558766276789",
+    "time": "2026-09-10 00:23",
+    "created_at": "Wed Sep 09 16:23:26 +0000 2026",
+    "id_str": "2097722558766276789",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd @tsevis A pioneer!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097723747318821268",
+    "time": "2026-09-10 00:28",
+    "created_at": "Wed Sep 09 16:28:09 +0000 2026",
+    "id_str": "2097723747318821268",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @tsevis Yup. Shifting pixels in Photoshop 1",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2097724683458084911",
+    "time": "2026-09-10 00:31",
+    "created_at": "Wed Sep 09 16:31:53 +0000 2026",
+    "id_str": "2097724683458084911",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd @tsevis I hope one day you'll write a memoir! I'd read it and so many people would too!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2097727463434359008",
+    "time": "2026-09-10 00:42",
+    "created_at": "Wed Sep 09 16:42:55 +0000 2026",
+    "id_str": "2097727463434359008",
+    "is_retweet": false
   }
 ]
