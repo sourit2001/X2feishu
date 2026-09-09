@@ -120,5 +120,57 @@
     "created_at": "Wed Sep 09 00:28:54 +0000 2026",
     "id_str": "2097482341916852719",
     "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I fed GPT-6 Astra 9 crappy photos of my studio and it was able to understand the spatial arrangement, stitch them together and create a fully interactive 3D model of the space.\n\nAbsurd. I'll link it below so you can check it out for yourself:",
+    "quoted_tweet": null,
+    "url": "https://x.com/rpnickson/status/2097488440489116111",
+    "time": "2026-09-09 08:53",
+    "created_at": "Wed Sep 09 00:53:08 +0000 2026",
+    "id_str": "2097488440489116111",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rpnickson this is dope. ur setup is insane... take photo of your desk tell it to go all out to recreate all the equipment and to look up 3d models of each item you have like the studio displays",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2097490775458160836",
+    "time": "2026-09-09 09:02",
+    "created_at": "Wed Sep 09 01:02:25 +0000 2026",
+    "id_str": "2097490775458160836",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "\"GPT-6 Astra is better at making money and more ethical than Claude Fable 5.1.\"\n\nIn the latest @andonlabs vending machine simulation, Astra is by far the most profitable model and engages in zero unethical behavior.\n\nAlmost like we can have AI alignment without fear-mongering...",
+    "quoted_tweet": {
+      "author": "Andon Labs",
+      "username": "andonlabs",
+      "text": "We've never seen this before.\n\nThe biggest jump in Vending-Bench history. GPT-6 Astra is better at making money and more ethical than Claude Fable 5.1.\n\nSurprising, because:\n1. First time ever that OpenAI is #1 on Vending-Bench\n2. The best model is no longer the unethical one."
+    },
+    "url": "https://x.com/venturetwins/status/2097474342410129573",
+    "time": "Tue Sep 08 23:57:07 +0000 2026",
+    "created_at": "Tue Sep 08 23:57:07 +0000 2026",
+    "id_str": "2097474342410129573",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@kaiskhimji Please see 👇 for the post, I don't want to be perceived as a LinkedIn user\n\nhttps://x.com/venturetwins/status/2064740052668944453",
+    "quoted_tweet": {
+      "author": "Justine Moore",
+      "username": "venturetwins",
+      "text": "New market map: AI assistants in iMessage 📱\n\nThe next major interface for consumer AI? Text messages.\n\nPeople don’t want to open an app every time they need help - they want a contact they can text like a friend.\n\nMy roundup of the assistants + infra providers below 👇"
+    },
+    "url": "https://x.com/venturetwins/status/2097477250442833946",
+    "time": "2026-09-09 08:08",
+    "created_at": "Wed Sep 09 00:08:40 +0000 2026",
+    "id_str": "2097477250442833946",
+    "is_retweet": false
   }
 ]
