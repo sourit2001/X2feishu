@@ -442,5 +442,562 @@
     "created_at": "Thu Sep 10 15:45:26 +0000 2026",
     "id_str": "2098075384063611324",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "DeepSeek 开源了一些新的代码仓库，方便更容易地部署 V4.1 Flash 以及后续的开源模型：\n\nhttps://github.com/deepseek-ai/deepseek-recipe\nhttps://github.com/deepseek-ai/DeepSelect\nhttps://github.com/deepseek-ai/DeepJIT",
+    "quoted_tweet": null,
+    "url": "https://x.com/tianyi/status/2097993855778046379",
+    "time": "Thu Sep 10 10:21:28 +0000 2026",
+    "created_at": "Thu Sep 10 10:21:28 +0000 2026",
+    "id_str": "2097993855778046379",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "“临摹”软件作品是我唯一持续精进的方式\n\nBaoCut App 带给我的冲击就是这样，它让我实操了 Skill 与执行模版分离的思想。于是我后期加大了这样的编程\n\n宝玉老师的那本《图解 Skill》也是这样。把母子 Session 用到 Agent Harness 里面，看清楚子 Session 每一步执行路径，这是一本不舍得读完的好书",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "为什么越来越多人愿意“自己搓一个工具”？Vibe Coding正在发生什么变化？\n\n微博VibeLab AI 创意赛收官了，一共有 2500 多件原创作品，2.4 亿多话题阅读。很荣幸这次是评委一员，有机会翻看了不少优秀的参赛作品，也转发了其中一部分。\n\n一个直观的感受就是软件开发这种事情，不再需要专业人士了，普通人也能 Vibe 一个工具出来。\n\n所以借这个机会，整理总结一下：为什么越来越多人愿意“自己搓一个工具”？Vibe Coding正在发生什么变化？\n\n一、写代码这件事，门槛和成本都降下来了\n\n写代码以前是程序员的专利，想写个工具，别说学语言框架，搭个环境都费劲的要死，随便一个环境都能把你卡住，像我这样写程序得有很多年的，换个不熟悉的语言，一样也搞不定。\n\n现在借助 AI Agent，门槛一降再降，现在你只要有一个 Agent，会打字或者会语音，都能指挥 Agent 帮你写一个 App 出来。写代码这件事，从以前需要专业技能，到现在变成了语言表达能力。\n\n我自己身上都有明显变化，从以前对 Vibe Coding 的嗤之以鼻，到现在“真香”，每天都大量的在指挥 Agent 帮我写代码。\n\n二、以前的软件，满足不了长尾需求\n\n长尾理论说的是，需求分布是一条长长的尾巴：头部是大多数人共有的需求，尾巴上是无数小众的、个性化的需求。传统软件只能做头部，因为为少量用户单独开发功能，成本上是不合算的。\n\n而且，就算你有个好想法，也很难传递到开发者那里。想象一下一个普通用户的需求要经过的链条：\n用户反馈 → 产品经理收集筛选 → 转化成需求文档 → 设计师出设计稿 → 程序员做系统设计 → 编码 → 测试 → 运维部署\n\n每一环都在过滤、都在排优先级。最终大部分普通用户的需求，都被筛选掉了，软件最终只能取最大公约数，做绝大部分人都需要的那部分。\n\n结果就是，市面上的软件很多，但每个人都有一堆“要是能这样就好了”的小需求，从来没有被满足过。\n\n这次 VibeLab 里我印象很深的一个作品是 @机器旁白 做的 SiaoCut https://m.weibo.cn/status/5330875680294693 。起因是他看到我做的 BaoCut，很喜欢“转写、像改文稿一样编辑、AI 处理、人工审阅、导出”串成一条工作流的思路，但 BaoCut 只支持 macOS，他是 Windows 用户。放在以前，他只能等我哪天有空做个 Windows 版，或者就此作罢。现在他自己和 AI 一起做了一个，而且不是简单复刻，还在这个过程中想清楚了自己关心的问题：AI 进入剪辑流程后，应该拿到多少数据，能替创作者决定到哪一步。\n\n这就是长尾需求被满足的样子：不需要等别人来做，有需求的人自己就能把它做出来！\n\n三、Vibe Coding 让成本变低、链条变短\n\n所以以前那种长长的从需求到交付的链条，现在可以缩成简单的几步：\n有个想法，让 AI 去设计、制作、部署。\n\n甚至于很多需求根本不需要做成一个有界面的产品。\n\n比如你想每天自动整理某个表格里的待办，或者每周追踪最新的 AI 资讯，这些事让 AI Agent 帮你写个脚本，再让它自己定时调用就行了。\n\n比如 @张铁蕾 开源的 Bridgic Agent 就是这样的作品：输入 /build，描述你的目标，它自己去探路、生成、验证，遇到需要你判断的地方再来问你。做出来的不是一次性跑完的任务，而是可以长期运行、随时修改的工作流。 https://m.weibo.cn/status/5332906346024442\n\n还有一种更轻的做法：把你的操作流程、经验和偏好写成 Agent Skill，就像一份告诉 AI 怎么做某类事的说明文档，那么以后 Agent 就能按照 Skill 的说明帮你把很多繁琐的事情变成自动化半自动化的操作，大幅提升你的效率。\n\n现在随着 Agent Computer Use（操作电脑）的能力增强，你甚至可以让 AI 观察你操作一遍，然后它自己能把它你的操作录制成 Skill。不需要界面、不用部署，但它确实能替你干活。\n\n四、模型和智能体的能力，一直在变强\n\n现在普通人也能 Vibe Coding，还有一个重要原因是模型能力在变强。\n\n回头看这几年的变化：\n\n最初，像 GitHub Copilot 只能做代码补全，你写一半它提示后半段； 然后，它能根据描述生成一段完整的代码； 后来， Claude Code 能自己在项目里探索，读文件、找上下文，把一个功能完整实现； 现在，主流 Agent 都已经能做设计、写代码，还能帮你操作电脑，打开浏览器自己验证做出来的东西对不对。\n\n模型每上一个台阶，普通人做工具的难度就降一截。VibeLab 期间正好赶上 Kimi K3 发布，很快就有创作者拿它做体检报告工具、做斗地主游戏，还有人把 Claude Code、Qoder、GLM、Kimi K3 混着用。\n\n由此也可以看得出越来越多的人已经不再把 AI 当聊天机器人了，能配合 Agent 把 AI 当干活的工具。\n\n五、变化的还有“做工具”这件事本身的心态\n\n看作品的时候我还注意到一点：很多作品不追求改变世界这种宏大的事，就是想先解决一个具体麻烦。比如说工作流太碎、长辈不听劝、拍照没人帮、看不懂热点，作品的起点都是这样一个一个具体的痛点。\n\n最初微博在设定大赛规则的时候，把赛道拆进职场、生活、视觉、微博这些具体场景，现在看来还挺有道理的，因为这确实能激发人 Vibe 的冲动，想去用 AI 解决生活中的问题。\n\n其实这次参赛的作品也不都是工具。@世界第一裹凉皮 把 32657 位诗人、933857 首诗做成了一个三维宇宙 https://m.weibo.cn/status/5320199593001991 ；@德里克文 的「华夏博物志」把全国博物馆收进一幅可以点开的中国画 https://m.weibo.cn/status/5338021689037878 ；@海辛Hyacinth 把三星堆&金沙文物变成了互动场景\nhttps://m.weibo.cn/status/5331382381579841 。这些作品看起来似乎不像工具那么实用，但让我们看到 Vibe Coding 不只是提效，也可以服务于文化和审美。\n\n以前想做这样的东西，需要一个团队，现在一个人，不需要会写程序，有自己的想法加上 AI 就可以试试看。\n\n最后，如果你也想自己搓一个工具，我的一点建议：\n\n从写一个 Agent Skill 开始。 这是成本最低的方式：不用部署，不用界面，把你希望 AI 帮你做的某类事情写清楚就行。做一次，发现哪里不对，改一改，很快就能用起来。\n\n顺便推荐下我的书《图解 Skill》，也是不错的 Skill 入门书籍。\n\n如果要做网页或者 App，不用一上来就让 AI 把整个东西做完。 建议分步走：\n\n1. 先和 AI 一起讨论需求，把你想要什么说清楚，让它复述一遍，确认理解一致。\n2. 先做原型。也就是用模拟数据，只看长什么样、怎么操作，不接真实逻辑。原型的好处是改起来成本低，修改容易，就算推翻重来都很快。\n3. 再做 MVP（最小可行产品），只做一个最核心的功能，先做一个小的能跑的东西出来。\n4. 再慢慢迭代，有了 MVP 了，能跑起来了，就可以慢慢迭代，一次加一个小功能，AI 能处理的过来，你也验收的过来，日积月累，慢慢会变成成熟的软件。\n\n做完一定要验收。 从头到尾按一个真实用户的路径试一遍，AI 说做完验收完不一定靠谱，还得自己上手用用。\n\n注意安全。 涉及钱、隐私、账号权限的东西要格外小心，拿不准的地方去找专业人士问一下。就像 SiaoCut 的作者给 AI 划定了边界：AI 只拿到任务所需的文本和时间戳，不碰原始媒体，处理完只生成待审建议，最终由人决定。这样的思路值得借鉴。\n\n最后说一句，做出来之后，发出来。\n\n这次 VibeLab 里不少作品原本只是作者电脑里的一个 Demo，发到微博之后被讨论、被转发，有的还上了热搜。对于自己动手做东西的人来说，“作品被看见”是最好激励，也是下一次迭代的开始。"
+    },
+    "url": "https://x.com/huangyun_122/status/2098002420341362842",
+    "time": "Thu Sep 10 10:55:30 +0000 2026",
+    "created_at": "Thu Sep 10 10:55:30 +0000 2026",
+    "id_str": "2098002420341362842",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@huangyun_122 感谢支持🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098053885159993479",
+    "time": "Thu Sep 10 14:20:00 +0000 2026",
+    "created_at": "Thu Sep 10 14:20:00 +0000 2026",
+    "id_str": "2098053885159993479",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "微博官方自己还vibe了一个活动的线上作品展，大家也可以来这里看看优秀作品：https://xiangyu-d0gx1w4qub2591b30-1319678924.tcloudbaseapp.com/",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098054556055699820",
+    "time": "Thu Sep 10 14:22:40 +0000 2026",
+    "created_at": "Thu Sep 10 14:22:40 +0000 2026",
+    "id_str": "2098054556055699820",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 那是不是我取消一次订阅，下次再点订阅就订不上了？\n\n因为我是苹果应用商城订阅的，所以要手动取消一次。不然下次会提示付款方式有问题。\n\n如果这样的话，我们就缘份尽了吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/binghe/status/2098073664378098056",
+    "time": "Thu Sep 10 15:38:36 +0000 2026",
+    "created_at": "Thu Sep 10 15:38:36 +0000 2026",
+    "id_str": "2098073664378098056",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@binghe 这应该只是临时的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098074676115247364",
+    "time": "Thu Sep 10 15:42:37 +0000 2026",
+    "created_at": "Thu Sep 10 15:42:37 +0000 2026",
+    "id_str": "2098074676115247364",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 评论区里就有人说这是假的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rainnystone/status/2098075623138939264",
+    "time": "Thu Sep 10 15:46:23 +0000 2026",
+    "created_at": "Thu Sep 10 15:46:23 +0000 2026",
+    "id_str": "2098075623138939264",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Rainnystone 谢谢提醒，我看错了，已经删帖",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098076240804536602",
+    "time": "Thu Sep 10 15:48:50 +0000 2026",
+    "created_at": "Thu Sep 10 15:48:50 +0000 2026",
+    "id_str": "2098076240804536602",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Ramp made a real Broadway musical starring Billy Porter, Billy Zane and Jessica Billy Vosk.\n\nIt’s a show about bills. By Bills. Starring Bills—with original songs, full choreography, and an actual Broadway playwright.\n\nIn the 1950s and ’60s, America’s biggest companies staged lavish musicals about cars, appliances, and soda. Somewhere along the way, we lost our nerve.\n\nWe’re bringing back the industrial musical.\n\nOne night only, September 25, at the Broadhurst Theatre.\n\nhttp://billpaythemusical.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/eglyman/status/2098049270553383031",
+    "time": "Thu Sep 10 14:01:40 +0000 2026",
+    "created_at": "Thu Sep 10 14:01:40 +0000 2026",
+    "id_str": "2098049270553383031",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Ramp made a real Broadway musical starring Billy Porter, Billy Zane and Jessica Billy Vosk.\n\nIt’s a show about bills. By Bills. Starring Bills—with original songs, full choreography, and an actual Broadway playwright.\n\nIn the 1950s and ’60s, America’s biggest companies staged lavish musicals about cars, appliances, and soda. Somewhere along the way, we lost our nerve.\n\nWe’re bringing back the industrial musical.\n\nOne night only, September 25, at the Broadhurst Theatre.\n\nhttp://billpaythemusical.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/eglyman/status/2098049270553383031",
+    "time": "Thu Sep 10 14:01:40 +0000 2026",
+    "created_at": "Thu Sep 10 14:01:40 +0000 2026",
+    "id_str": "2098049270553383031",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@eglyman Banger",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2098064120449032546",
+    "time": "Thu Sep 10 15:00:41 +0000 2026",
+    "created_at": "Thu Sep 10 15:00:41 +0000 2026",
+    "id_str": "2098064120449032546",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "ElevenLabs co-founder and CEO Mati Staniszewski on the company's origin story, which starts with the poorly-dubbed Polish movies he grew up watching:\n\n\"I was at Palantir, so I was helping build optimization models and bringing them to the customers. And my co-founder was at Google, and he did a lot of the text models for knowledge graphs.\"\n\n\"He's the smartest person I know for developing a lot of the research work, and I was happily on that intersection of building the product and bringing that to the customers.\"\n\n\"When we started, that was the whole goal, can we combine research and product deployment under one hood?\"\n\n\"We started with audio. The actual trigger point comes from where you're from, from Poland. If you watch a movie in Polish... you have one voice narrating the whole movie. All the emotional intonation disappears.\"\n\n\"Everybody in Poland grows up with it. One person dubbing. And then in 2021, we experienced this still happening... The quality is poor. It's a pretty terrible experience.\"\n\n\"In the future, that experience will be completely different. You will have original voice, original emotions, original intonation.\"\n\n\"Just a week ago, we released finally a model that is able to do that extremely well and finally bring the content from one language to another.\"\n\n@mati w/ @davidsenra",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2098060473711386769",
+    "time": "Thu Sep 10 14:46:11 +0000 2026",
+    "created_at": "Thu Sep 10 14:46:11 +0000 2026",
+    "id_str": "2098060473711386769",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're thrilled to lead Highstock's $30M Series A.\n\nEvery consumer brand makes more product than it sells – and that inventory gets stranded in warehouses, written off, or dumped into liquidation channels that cheapen the brand.\n\n@highstock_x is an AI-powered B2B marketplace that connects brands sitting on excess inventory with a vetted network of global wholesale buyers, and handles the hard parts: matching, logistics, compliance, and payments.\n\nHighstock now has more than $1 billion in inventory listed on the platform and works with over 100 major brands. Along the way, they’ve kept more than 10 million pounds of product out of landfills.\n\nCongratulations, @camillevanhorne, Sean Cashin, and the Highstock team!\n\nBy @omooretweets and @venturetwins",
+    "quoted_tweet": {
+      "author": "Camille van Horne",
+      "username": "camillevanhorne",
+      "text": "Beyond excited to share that @highstock_x has raised a $30M Series A led by @a16z with participation from @GreylockVC, @AbstractVC, @Daybreak_Fund, and angels.\n\nWe are doubling down on our mission of creating value for brands with unproductive inventory. With this raise, we are expanding our team and building on our success in beauty to unlock a new category: apparel.\n\n@omooretweets, @venturetwins and @jeff_jordan are the right partners to take this company to new heights - they've invested in great marketplaces like Instacart (I may be biased :) ), and have studied how AI will scale marketplace models that were previously too labor intensive to be financially viable.\n\nThank you to our angels: @Max, @lennysan, JJ Zhuang (Instacart) and John Adams (Instacart).\n\nMost of all, thank you to our customers and team. We would not be here without you.\n\nRead my reflections on our journey below."
+    },
+    "url": "https://x.com/a16z/status/2098071018233528353",
+    "time": "Thu Sep 10 15:28:05 +0000 2026",
+    "created_at": "Thu Sep 10 15:28:05 +0000 2026",
+    "id_str": "2098071018233528353",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "iPhone Duo 官方人机界面指南：\n\n设备形态随手势自由切换\n但用户的注意力与工作流永不中断\n\n苹果发布终于发布了自己的折叠屏手机，iPhone Duo，设备还没上市，苹果已经更新了其人机界面指南，专门讲 iPhone Duo 上的界面该怎么设计。\n\n整份规范的总纲：应用要在两块屏之间无缝自适应，开合之间体验是连续的。\n\n核心指导原则三条：\n\n连续性优先：合上、半折、展开只是物理动作，不该成为软件体验的断点。人换个形态，功能、元素状态、手头的任务焦点都得接得上。\n\n随形自适应，但不按姿态定制：系统会跟着形态调整布局，半折时层叠视图分到两边、分栏自动等宽。但规范同时把话说死了：别为每一种姿态单独写一套布局。变的是系统，不是你的代码分支。\n\n自适应不是放大；从外屏到内屏，不是把图标和字号拉大，而是随着可用面积增加重构信息层级：单列舒展成双栏，藏起来的抽屉变成常驻侧栏。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2098051529039053112",
+    "time": "Thu Sep 10 14:10:39 +0000 2026",
+    "created_at": "Thu Sep 10 14:10:39 +0000 2026",
+    "id_str": "2098051529039053112",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "iPhone Duo 拥有三种物理状态，系统要求 App 能够根据传感器感知到的铰链角度自动调整布局\n\n详细指南↓\n\nhttps://best.xiaohu.ai/article/designing-for-iphone-duo/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2098051532843589822",
+    "time": "Thu Sep 10 14:10:39 +0000 2026",
+    "created_at": "Thu Sep 10 14:10:39 +0000 2026",
+    "id_str": "2098051532843589822",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "细节真到位\n\n感觉像是透明的",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2098081635250098281",
+    "time": "Thu Sep 10 16:10:16 +0000 2026",
+    "created_at": "Thu Sep 10 16:10:16 +0000 2026",
+    "id_str": "2098081635250098281",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Post something you made this week. Support and connect with other creators",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098070331231510839",
+    "time": "Thu Sep 10 15:25:21 +0000 2026",
+    "created_at": "Thu Sep 10 15:25:21 +0000 2026",
+    "id_str": "2098070331231510839",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife thanks for the platform kris https://x.com/Logic_Loomai/status/2098010722773172630?s=20",
+    "quoted_tweet": {
+      "author": "mythic",
+      "username": "Logic_Loomai",
+      "text": "I love how clean this came out the expressions sd2.5 is crazy for animation and I loved this style of the so much made with @floraai \n#animation"
+    },
+    "url": "https://x.com/Logic_Loomai/status/2098070635864080717",
+    "time": "Thu Sep 10 15:26:34 +0000 2026",
+    "created_at": "Thu Sep 10 15:26:34 +0000 2026",
+    "id_str": "2098070635864080717",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Logic_Loomai You are welcome! Great to see some animal animations!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098070805913505834",
+    "time": "Thu Sep 10 15:27:15 +0000 2026",
+    "created_at": "Thu Sep 10 15:27:15 +0000 2026",
+    "id_str": "2098070805913505834",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Starting to experiment with Blender in my workflow.",
+    "quoted_tweet": {
+      "author": "Glenn Williams",
+      "username": "GlennHasABeard",
+      "text": "Born to fly 🪽"
+    },
+    "url": "https://x.com/GlennHasABeard/status/2098070844794687828",
+    "time": "Thu Sep 10 15:27:24 +0000 2026",
+    "created_at": "Thu Sep 10 15:27:24 +0000 2026",
+    "id_str": "2098070844794687828",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard That’s cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098071088789852627",
+    "time": "Thu Sep 10 15:28:22 +0000 2026",
+    "created_at": "Thu Sep 10 15:28:22 +0000 2026",
+    "id_str": "2098071088789852627",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Framer_X Great trick!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098071438854918598",
+    "time": "Thu Sep 10 15:29:45 +0000 2026",
+    "created_at": "Thu Sep 10 15:29:45 +0000 2026",
+    "id_str": "2098071438854918598",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I am very happy with this one this week. A long and complex prompt, but it got me there: https://x.com/rufusd/status/2098059012361114058",
+    "quoted_tweet": {
+      "author": "Rufus Deuchler",
+      "username": "rufusd",
+      "text": "Saturday in Dublin with The Waterboys. @MickPuck played The Stolen Child, based on Yeats’ poem. I have loved this song since the first time I heard it. Spent some time on this visualization until it felt like the song."
+    },
+    "url": "https://x.com/rufusd/status/2098071978053648672",
+    "time": "Thu Sep 10 15:31:54 +0000 2026",
+    "created_at": "Thu Sep 10 15:31:54 +0000 2026",
+    "id_str": "2098071978053648672",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I am very happy with this one this week. A long and complex prompt, but it got me there: https://x.com/rufusd/status/2098059012361114058",
+    "quoted_tweet": {
+      "author": "Rufus Deuchler",
+      "username": "rufusd",
+      "text": "Saturday in Dublin with The Waterboys. @MickPuck played The Stolen Child, based on Yeats’ poem. I have loved this song since the first time I heard it. Spent some time on this visualization until it felt like the song."
+    },
+    "url": "https://x.com/rufusd/status/2098071978053648672",
+    "time": "Thu Sep 10 15:31:54 +0000 2026",
+    "created_at": "Thu Sep 10 15:31:54 +0000 2026",
+    "id_str": "2098071978053648672",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2098072496335368459",
+    "time": "Thu Sep 10 15:33:58 +0000 2026",
+    "created_at": "Thu Sep 10 15:33:58 +0000 2026",
+    "id_str": "2098072496335368459",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd This is really well done!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098073508496417048",
+    "time": "Thu Sep 10 15:37:59 +0000 2026",
+    "created_at": "Thu Sep 10 15:37:59 +0000 2026",
+    "id_str": "2098073508496417048",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Lovely work, Barb!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098073650113249426",
+    "time": "Thu Sep 10 15:38:33 +0000 2026",
+    "created_at": "Thu Sep 10 15:38:33 +0000 2026",
+    "id_str": "2098073650113249426",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/lincolngardner/status/2098074155271008384",
+    "time": "Thu Sep 10 15:40:33 +0000 2026",
+    "created_at": "Thu Sep 10 15:40:33 +0000 2026",
+    "id_str": "2098074155271008384",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@lincolngardner That’s cool, like a real painting",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098074616736473278",
+    "time": "Thu Sep 10 15:42:23 +0000 2026",
+    "created_at": "Thu Sep 10 15:42:23 +0000 2026",
+    "id_str": "2098074616736473278",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "how long does this take?\n\nit's been 2 days, starting to have a bad feeling about it 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/dreamingtulpa/status/2098075768353939561",
+    "time": "Thu Sep 10 15:46:58 +0000 2026",
+    "created_at": "Thu Sep 10 15:46:58 +0000 2026",
+    "id_str": "2098075768353939561",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dreamingtulpa Took about 2 hours for me. Fingers crossed for you.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098076006175080731",
+    "time": "Thu Sep 10 15:47:54 +0000 2026",
+    "created_at": "Thu Sep 10 15:47:54 +0000 2026",
+    "id_str": "2098076006175080731",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife https://x.com/ProperPrompter/status/2098061974655373749",
+    "quoted_tweet": {
+      "author": "proper",
+      "username": "ProperPrompter",
+      "text": "my latest piece"
+    },
+    "url": "https://x.com/ProperPrompter/status/2098076501195329926",
+    "time": "Thu Sep 10 15:49:52 +0000 2026",
+    "created_at": "Thu Sep 10 15:49:52 +0000 2026",
+    "id_str": "2098076501195329926",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Good timing, just got this one posted, thanks Kris.\nhttps://x.com/Glenn_Booker/status/2098075998164021537?s=20",
+    "quoted_tweet": {
+      "author": "Glenn Booker 🇨🇦",
+      "username": "Glenn_Booker",
+      "text": "Have a look at this music video I made called \"Embrace\". Send it along to someone you know who could use a virtual hug. Made these video clips and music all in @ImagineArt_X Imagery was done in @midjourney"
+    },
+    "url": "https://x.com/Glenn_Booker/status/2098076502004740159",
+    "time": "Thu Sep 10 15:49:53 +0000 2026",
+    "created_at": "Thu Sep 10 15:49:53 +0000 2026",
+    "id_str": "2098076502004740159",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Glenn_Booker Welcome!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098076623341863222",
+    "time": "Thu Sep 10 15:50:22 +0000 2026",
+    "created_at": "Thu Sep 10 15:50:22 +0000 2026",
+    "id_str": "2098076623341863222",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ProperPrompter I don’t have sound where I am so can’t hear what they are saying but good quality visuals",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098076790438650123",
+    "time": "Thu Sep 10 15:51:01 +0000 2026",
+    "created_at": "Thu Sep 10 15:51:01 +0000 2026",
+    "id_str": "2098076790438650123",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I made a fruit fly streaming a video game😆",
+    "quoted_tweet": {
+      "author": "Directive Creator 🪥",
+      "username": "Escapation",
+      "text": "First Fruit Fly streamer!\n\nI gave a fruit fly a full swamp a lot of fruit and a livestream.\n\n166,700 simulated neurons, based on real brain wiring, help drive its movement. \n\nBuilt by \n@OpenAI GPT-6 Astra\n\nVisualization inspired by @amyneurons https://x.com/i/broadcasts/1DxLdZVAddwxm"
+    },
+    "url": "https://x.com/Escapation/status/2098079634265198907",
+    "time": "Thu Sep 10 16:02:19 +0000 2026",
+    "created_at": "Thu Sep 10 16:02:19 +0000 2026",
+    "id_str": "2098079634265198907",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @PromptlyAI_YT Good afternoon Kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/R_W_Raymond/status/2098079826867331542",
+    "time": "Thu Sep 10 16:03:05 +0000 2026",
+    "created_at": "Thu Sep 10 16:03:05 +0000 2026",
+    "id_str": "2098079826867331542",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Escapation Cool idea",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098080037064917138",
+    "time": "Thu Sep 10 16:03:55 +0000 2026",
+    "created_at": "Thu Sep 10 16:03:55 +0000 2026",
+    "id_str": "2098080037064917138",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@R_W_Raymond @PromptlyAI_YT Have a great day, Randall!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098080086469546044",
+    "time": "Thu Sep 10 16:04:07 +0000 2026",
+    "created_at": "Thu Sep 10 16:04:07 +0000 2026",
+    "id_str": "2098080086469546044",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Convergence",
+    "quoted_tweet": null,
+    "url": "https://x.com/remade2matter/status/2098081327970967943",
+    "time": "Thu Sep 10 16:09:03 +0000 2026",
+    "created_at": "Thu Sep 10 16:09:03 +0000 2026",
+    "id_str": "2098081327970967943",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thanks! Now I FINALLY understand how that specific dance works!! 😃",
+    "quoted_tweet": null,
+    "url": "https://x.com/JonnyJelinek/status/2098081662944903649",
+    "time": "Thu Sep 10 16:10:23 +0000 2026",
+    "created_at": "Thu Sep 10 16:10:23 +0000 2026",
+    "id_str": "2098081662944903649",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JonnyJelinek 😅 I still don’t 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098082565131214928",
+    "time": "Thu Sep 10 16:13:58 +0000 2026",
+    "created_at": "Thu Sep 10 16:13:58 +0000 2026",
+    "id_str": "2098082565131214928",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@remade2matter Great word",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098082604863865300",
+    "time": "Thu Sep 10 16:14:08 +0000 2026",
+    "created_at": "Thu Sep 10 16:14:08 +0000 2026",
+    "id_str": "2098082604863865300",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dreamingtulpa Update",
+    "quoted_tweet": {
+      "author": "Creators",
+      "username": "XCreators",
+      "text": "We’ve received a huge number of Original Content Rewards applications and are working through them as quickly as we can.\n\nIf you’ve already applied, hang tight — we’ll get to your application soon. Thanks for your patience."
+    },
+    "url": "https://x.com/icreatelife/status/2098083977282142460",
+    "time": "Thu Sep 10 16:19:35 +0000 2026",
+    "created_at": "Thu Sep 10 16:19:35 +0000 2026",
+    "id_str": "2098083977282142460",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Haven't done much this week. Having great fight with spatial consistency. First 3 images are finished, the last one still work in progress.",
+    "quoted_tweet": null,
+    "url": "https://x.com/CrusherCine/status/2098085141323063477",
+    "time": "Thu Sep 10 16:24:12 +0000 2026",
+    "created_at": "Thu Sep 10 16:24:12 +0000 2026",
+    "id_str": "2098085141323063477",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CrusherCine What is it going to be?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098086459639025756",
+    "time": "Thu Sep 10 16:29:27 +0000 2026",
+    "created_at": "Thu Sep 10 16:29:27 +0000 2026",
+    "id_str": "2098086459639025756",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My feed today",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098086969007821262",
+    "time": "Thu Sep 10 16:31:28 +0000 2026",
+    "created_at": "Thu Sep 10 16:31:28 +0000 2026",
+    "id_str": "2098086969007821262",
+    "is_retweet": false
   }
 ]
