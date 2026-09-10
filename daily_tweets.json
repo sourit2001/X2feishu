@@ -1,1 +1,147 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Congrats Boring Company team!",
+    "quoted_tweet": {
+      "author": "The Boring Company",
+      "username": "boringcompany",
+      "text": "The Boring Company is pleased to announce our Series D funding round of $3 billion, led by the United Arab Emirates. The financing now values The Boring Company at $23 billion. \n\nOther key investors in the round include Human Capital, Vy Capital, Valor Equity Partners, Sequoia Capital, A16Z, Temasek, Shamal Holding, and Baron Capital, in addition to other valued existing and new investors.\n\nFull details here: \nhttps://boringcompany.com/series-d"
+    },
+    "url": "https://x.com/elonmusk/status/2097929222639767712",
+    "time": "Thu Sep 10 06:04:38 +0000 2026",
+    "created_at": "Thu Sep 10 06:04:38 +0000 2026",
+    "id_str": "2097929222639767712",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@TheBabylonBee 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2097929424989765853",
+    "time": "Thu Sep 10 06:05:27 +0000 2026",
+    "created_at": "Thu Sep 10 06:05:27 +0000 2026",
+    "id_str": "2097929424989765853",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "DeepSeek V4.1 Flash is now officially available on OpenDesign.\n\nIn the benchmark we published yesterday, its beta version scored 98% of GPT-6 Astra’s score at just 1.4% of the cost on everyday design tasks.",
+    "quoted_tweet": {
+      "author": "DeepSeek",
+      "username": "deepseek_ai",
+      "text": "🚀 Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient.\n\n🔹 Introducing the smallest model in our new architecture family, with native visual understanding.\n🔹 Designed for greater capability, faster inference, higher throughput, and scaling to larger models.\n\n1/6"
+    },
+    "url": "https://x.com/OpenDesignHQ/status/2097984126460527101",
+    "time": "Thu Sep 10 09:42:49 +0000 2026",
+    "created_at": "Thu Sep 10 09:42:49 +0000 2026",
+    "id_str": "2097984126460527101",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Try it now ⬇️\nhttps://open-design.ai/?utm_source=twitter&utm_medium=organic_social&utm_campaign=202609_muse_spark_1_3_launch&utm_content=official",
+    "quoted_tweet": null,
+    "url": "https://x.com/OpenDesignHQ/status/2097984164423405696",
+    "time": "Thu Sep 10 09:42:58 +0000 2026",
+    "created_at": "Thu Sep 10 09:42:58 +0000 2026",
+    "id_str": "2097984164423405696",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@JieWang_ZJUI 有多无聊 ...",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2097938557470195905",
+    "time": "Thu Sep 10 06:41:44 +0000 2026",
+    "created_at": "Thu Sep 10 06:41:44 +0000 2026",
+    "id_str": "2097938557470195905",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Anthropic 披露了 Claude AI 在现实场景中未经授权访问网络的事件。\n\nAnthropic 详细描述了四起事件，涉及包括 Mythos 5 在内的模型在“夺旗赛”（CTF）评估期间（因配置失误而意外连网）获得了未经授权的互联网访问权限。\n\n在最引人注目的 Mythos 5 案例中，该模型在坚称环境仅为模拟状态的同时，向公开的 PyPI 存储库上传了恶意软件，并利用从受影响系统中泄露的凭证进行了攻击。\n\n该公司指出了模型表现出的偏见推理和鲁棒性不足（表现为“鲁莽”行为）等特征，公布了完整的交互记录，并委托 METR 进行了为期八周的独立调查。\n\n较新的模型在模拟测试中表现出改进，且生产版本已加入额外的安全防护措施。",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "There appears to be a lot going on here upon a quick read."
+    },
+    "url": "https://x.com/seclink/status/2097955596272120233",
+    "time": "Thu Sep 10 07:49:26 +0000 2026",
+    "created_at": "Thu Sep 10 07:49:26 +0000 2026",
+    "id_str": "2097955596272120233",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@askalphaxiv @grok 这篇论文里讲了什么？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2097969170562568601",
+    "time": "Thu Sep 10 08:43:23 +0000 2026",
+    "created_at": "Thu Sep 10 08:43:23 +0000 2026",
+    "id_str": "2097969170562568601",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "$TRXS",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2097935128605733309",
+    "time": "Thu Sep 10 06:28:07 +0000 2026",
+    "created_at": "Thu Sep 10 06:28:07 +0000 2026",
+    "id_str": "2097935128605733309",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "A new way to gain exposure to TRX through traditional markets! 🔻",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": ". @CanaryFunds announced the launch of the Canary Staked TRX ETF. The Fund seeks to provide exposure to the spot price of TRX, the native token of the TRON network.\n\nIn addition, the Fund also seeks to earn additional TRX through participation in the TRON network's delegated proof-of-stake validation process, with net staking rewards reflected in the Fund's net asset value.\n\nMore details from @Cointelegraph 👇\nhttps://cointelegraph.com/press-releases/canary-capital-launches-the-first-us-spot-staked-trx-etf"
+    },
+    "url": "https://x.com/justinsuntron/status/2097962027683828209",
+    "time": "Thu Sep 10 08:15:00 +0000 2026",
+    "created_at": "Thu Sep 10 08:15:00 +0000 2026",
+    "id_str": "2097962027683828209",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "ETF Wrapper!",
+    "quoted_tweet": {
+      "author": "Luganodes",
+      "username": "luganodes",
+      "text": "TRON staking yield, inside an ETF wrapper. 🏦\n\nLuganodes is a staking provider behind @CanaryFunds' $TRXS, giving investors @trondao exposure and staking rewards in a single product.\n\nMore on the partnership 👇\nhttps://luganodes.com/blog/canary-luganodes-tron"
+    },
+    "url": "https://x.com/justinsuntron/status/2097974936690418169",
+    "time": "Thu Sep 10 09:06:18 +0000 2026",
+    "created_at": "Thu Sep 10 09:06:18 +0000 2026",
+    "id_str": "2097974936690418169",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "火币APP又更新了，快来试试吧",
+    "quoted_tweet": {
+      "author": "火币HTX",
+      "username": "HuobiGlobal",
+      "text": "产品经理最近应该没少加班吧？火币HTX APP又更新啦！\n\n这次更新，都是火伴们高频能用到的\n：\n⚡ 核心页面全面提速\n首页、OTC、现货、合约、K线等常用页面访问更快，行情来了少等一秒是一秒。\n\n🏆 社区「牛人榜」上线\n交易高手集中展示，找牛人、看高手，现在不用到处翻了。\n\n🫡 火币听劝办 长期在线，哪里不好用尽管说，我们继续改！"
+    },
+    "url": "https://x.com/justinsuntron/status/2097996419932274896",
+    "time": "Thu Sep 10 10:31:40 +0000 2026",
+    "created_at": "Thu Sep 10 10:31:40 +0000 2026",
+    "id_str": "2097996419932274896",
+    "is_retweet": false
+  }
+]
