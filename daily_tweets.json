@@ -272,5 +272,64 @@
     "created_at": "Thu Sep 10 22:01:40 +0000 2026",
     "id_str": "2098170066089267439",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Legacy media keep attacking Elon because every hit piece gets them clicks.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2098118060469285010",
+    "time": "Thu Sep 10 18:35:01 +0000 2026",
+    "created_at": "Thu Sep 10 18:35:01 +0000 2026",
+    "id_str": "2098118060469285010",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The @SpaceXAI team just gave me 50 free Grok @bot codes to give out which will give each person either $200 in on-demand usage or an Ultra plan.\n\nSo the first 50 people in my replies that agree Cybercab should have a steering wheel will win.\n\nGo.",
+    "quoted_tweet": null,
+    "url": "https://x.com/farzyness/status/2098149586183270842",
+    "time": "Thu Sep 10 20:40:17 +0000 2026",
+    "created_at": "Thu Sep 10 20:40:17 +0000 2026",
+    "id_str": "2098149586183270842",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@cb_doge Yup",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2098167889916551410",
+    "time": "Thu Sep 10 21:53:01 +0000 2026",
+    "created_at": "Thu Sep 10 21:53:01 +0000 2026",
+    "id_str": "2098167889916551410",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Recently got asked to make slides on the AI creative ecosystem.\n\nI'd shared thoughts on this across countless meetings, emails, Slacks, and tweets - but hunting these down would be tedious.\n\nSo I asked my @TownAI agent to do it. It collated all the insights + made the deck 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2098164888241889477",
+    "time": "Thu Sep 10 21:41:06 +0000 2026",
+    "created_at": "Thu Sep 10 21:41:06 +0000 2026",
+    "id_str": "2098164888241889477",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@TownAI This is a new feature @TownAI launched today - def worth checking out if you ever make slides.\n\nIt can also integrate with your data sources to run analyses and visualize metrics for you.\n\nAnd it can generate decks in the style of your brand!\n\nhttps://x.com/TownAI/status/2098082188222963873",
+    "quoted_tweet": {
+      "author": "Town",
+      "username": "TownAI",
+      "text": "Your Townie can now build your decks.  No more pulling data from multiple tabs or wasted hours spent formatting. They already live in your CRM, your email, and your analytics, so they find the numbers, lay them out on brand, and hand it back ready to present."
+    },
+    "url": "https://x.com/venturetwins/status/2098165581900132481",
+    "time": "Thu Sep 10 21:43:51 +0000 2026",
+    "created_at": "Thu Sep 10 21:43:51 +0000 2026",
+    "id_str": "2098165581900132481",
+    "is_retweet": false
   }
 ]
