@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "tibo 上回居然不是吓唬人，Open AI 真得暂停了新增 Pro 用户的订阅，已经订阅的不受影响。\n\n只说在资源可以提供的时候恢复，但没有提供恢复新增订阅的时间表。",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All other plans and the api remain available.\n\nThere is no impact to existing accounts and we are working on adding more capacity as fast as we can. Thanks!"
+    },
+    "url": "https://x.com/op7418/status/2098208006156746768",
+    "time": "2026-09-11 08:32",
+    "created_at": "Fri Sep 11 00:32:26 +0000 2026",
+    "id_str": "2098208006156746768",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "只暂停了 200 美元的订阅，100 美元的还可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098231004150571155",
+    "time": "2026-09-11 10:03",
+    "created_at": "Fri Sep 11 02:03:49 +0000 2026",
+    "id_str": "2098231004150571155",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Anthropic 这个报告基本上就已经坐实了他们可以完全看到用户的信息了，而且收集的信息远超聊天记录本身。\n\n也没有执法机构授权和要求，他们就这么公布了这些他们认为可能违法的信息。",
+    "quoted_tweet": {
+      "author": "Anthropic",
+      "username": "AnthropicAI",
+      "text": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with authorities and other AI companies.\n\nThese cases are not typical: we’re highlighting some of the most sophisticated misuse we’ve seen. But they’re especially important to discuss, because they show us where AI misuse is headed, where our safeguards work, and where they need to improve.\n\nWe’re publishing this report so others can spot the same activity on their own platforms, and so we can give the public a clearer view of how emerging threats develop.\n\nRead the report: https://www.anthropic.com/threat-intelligence-report-september-2026"
+    },
+    "url": "https://x.com/op7418/status/2098269498986180886",
+    "time": "2026-09-11 12:36",
+    "created_at": "Fri Sep 11 04:36:47 +0000 2026",
+    "id_str": "2098269498986180886",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "关于国内模型有可能路由到 Claude 模型上这件事，从逻辑上看，可能性不大。\n\n一是模型是开源的，模型上线后，你的测评结果别人得能复现。\n\n二是成本哪顶得住啊，希望他们多干。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098271504761041087",
+    "time": "2026-09-11 12:44",
+    "created_at": "Fri Sep 11 04:44:45 +0000 2026",
+    "id_str": "2098271504761041087",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "说不定是把中转站当成 Kimi 或者 DeepSeek 了，中转站往他们显示的 Claude 模型里用Kimi 或者 Deepseek，然后掺入了少量 Claude 模型。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098275970461692006",
+    "time": "2026-09-11 13:02",
+    "created_at": "Fri Sep 11 05:02:30 +0000 2026",
+    "id_str": "2098275970461692006",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "真的不想碰google cloud相关产品\n\n一上午的时间又耗在上面了 \n\n干 \n\n太复鸡巴复杂了吧？",
+    "quoted_tweet": null,
+    "url": "https://x.com/imwsl90/status/2098259081257791515",
+    "time": "2026-09-11 11:55",
+    "created_at": "Fri Sep 11 03:55:23 +0000 2026",
+    "id_str": "2098259081257791515",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "用中转站的要注意信息安全",
+    "quoted_tweet": {
+      "author": "Chaofan Shou",
+      "username": "shoucccc",
+      "text": "26 LLM routers are secretly injecting malicious tool calls and stealing creds. One drained our client $500k wallet.\n\nWe also managed to poison routers to forward traffic to us. Within several hours, we can directly take over ~400 hosts. \n\nCheck our paper: https://arxiv.org/abs/2604.08407"
+    },
+    "url": "https://x.com/dotey/status/2098259961990017408",
+    "time": "2026-09-11 11:58",
+    "created_at": "Fri Sep 11 03:58:53 +0000 2026",
+    "id_str": "2098259961990017408",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个更夸张\nhttps://x.com/shoucccc/status/2098169782541631871?s=20",
+    "quoted_tweet": {
+      "author": "Chaofan Shou",
+      "username": "shoucccc",
+      "text": "I bought a Fable dataset from one of the top Chinese LLM routers yesterday. \n\nWith just 6TB data, I can take over 7 Chinese/CIS gov entities & 19 top Chinese firms like Xiaomi, Huawei, NIO, Minimax using SSH keys, VPN configs, Aliyun keys, GitLab tokens sent to the router."
+    },
+    "url": "https://x.com/dotey/status/2098261118368067823",
+    "time": "2026-09-11 12:03",
+    "created_at": "Fri Sep 11 04:03:29 +0000 2026",
+    "id_str": "2098261118368067823",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@imwsl90 可以试试让 AI 帮你弄，Codex 里面登陆网页",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098262698190417937",
+    "time": "2026-09-11 12:09",
+    "created_at": "Fri Sep 11 04:09:45 +0000 2026",
+    "id_str": "2098262698190417937",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Anthropic: We are going to kill you\n\nOpenAl: We are going to kill you first\n\nMeta: What if you gave us your data on iMessage too\n\nGoogle: 🚨 OUR LATEST MODEL JUST BEAT CLAUDE 3.5 HAIKU 🚨",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2098259696943767897",
+    "time": "2026-09-11 11:57",
+    "created_at": "Fri Sep 11 03:57:50 +0000 2026",
+    "id_str": "2098259696943767897",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "从换工具到改写工作方式：\n面向多 Agent 研⁠发实践的10 条原则\n\n许多人仍把自己放在 AI 与终端之间，充当实时的人肉路由器、异常传递员和点击确认器。\n\nKiro 团队发布了由 Clare Liguori 主笔的工程专题《Frontier Engineering》（前沿工程学），系统梳理了 10 条面向多代理（Agent）研发实践的探索性原则。\n\n核心主张在于：当前的软件研发实践正在出现分化。\n\n一部分团队只是在既有流程中换了编码工具，而前沿探索者则在尝试重构工作方式——从亲自手写每一行代码，转向搭建让 Agent 自主闭环推进的工程基础设施，以追求显著乃至阶跃式的交付提速。\n\n如果你已经熟悉 AI 辅助编程，却发现端到端交付依旧频繁受阻于人肉卡点，本文将结合 Kiro 的 10 条原则，解析这套工作流背后的运行机制、依赖条件与工程边界。\n\n10 条原则阅读地图\n\nArchitect, not typist → 角色重置：从敲击代码的打字员，转向定义意图的架构师\n\nMaximize agent time → 摆脱人肉卡点：把「60 秒等待循环」拉长为「30 分钟自愈闭环」\n\nBuild for agents → 改造代码库：像对待「每次都在重新入职的新员工」一样准备环境\n\nBuild a fast feedback loop → 快速反馈闭环：从本地校验工具到基于属性的测试补充\n\nDirection over execution → 角色重置中的方向与规格驱动\n\nTreat code as disposable → 代码可重写，边界测试是契约\n\nHold the line on human standards → 人类标准与审查分工\n\nTrust the boundaries → 防护栏工程\n\nUse agents for everything → 全流程协同\n\nConstantly tune your setup → 持续调优的飞轮\n\nhttps://best.xiaohu.ai/article/frontier-engineering/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2098241206597947706",
+    "time": "2026-09-11 10:44",
+    "created_at": "Fri Sep 11 02:44:21 +0000 2026",
+    "id_str": "2098241206597947706",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "我已经用Gemini 3.8 Flash 代替了我的写作模型\n\n现在它运行在 https://Best.xiaohu.ai 上\n\n这应该是目前最好的写作模型，而且超越了之前的Opus 4.6，几乎没有AI味道...\n\n读起来非常的流程和顺畅...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2098253138759430216",
+    "time": "2026-09-11 11:31",
+    "created_at": "Fri Sep 11 03:31:46 +0000 2026",
+    "id_str": "2098253138759430216",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 真的假的呀，是不是广子。直接说，不是我就去试一试。",
+    "quoted_tweet": null,
+    "url": "https://x.com/shijian20071228/status/2098260097835344174",
+    "time": "2026-09-11 11:59",
+    "created_at": "Fri Sep 11 03:59:25 +0000 2026",
+    "id_str": "2098260097835344174",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@shijian20071228 试试嘛",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2098274440236974298",
+    "time": "2026-09-11 12:56",
+    "created_at": "Fri Sep 11 04:56:25 +0000 2026",
+    "id_str": "2098274440236974298",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Here’s some traveling! We love adventure!",
+    "quoted_tweet": null,
+    "url": "https://x.com/rhythm_renegade/status/2098206250400121233",
+    "time": "2026-09-11 08:25",
+    "created_at": "Fri Sep 11 00:25:27 +0000 2026",
+    "id_str": "2098206250400121233",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rhythm_renegade These look awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098209075024572524",
+    "time": "2026-09-11 08:36",
+    "created_at": "Fri Sep 11 00:36:40 +0000 2026",
+    "id_str": "2098209075024572524",
+    "is_retweet": false
+  }
+]
