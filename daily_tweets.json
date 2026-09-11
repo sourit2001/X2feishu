@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "还有人说为了让用户造蒸馏数据的，这种根本不可控啊，大部分用户的数据非常差",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098279257290240105",
+    "time": "2026-09-11 13:15",
+    "created_at": "Fri Sep 11 05:15:33 +0000 2026",
+    "id_str": "2098279257290240105",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "蒸是肯定要蒸的，但是路由模型到用户那边，不知道为啥",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098286151799115989",
+    "time": "2026-09-11 13:42",
+    "created_at": "Fri Sep 11 05:42:57 +0000 2026",
+    "id_str": "2098286151799115989",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "agent执行任务时会把用户密码、私钥也收集走吗？",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Anthropic 这个报告基本上就已经坐实了他们可以完全看到用户的信息了，而且收集的信息远超聊天记录本身。\n\n也没有执法机构授权和要求，他们就这么公布了这些他们认为可能违法的信息。"
+    },
+    "url": "https://x.com/yaojiusi/status/2098305964567138453",
+    "time": "2026-09-11 15:01",
+    "created_at": "Fri Sep 11 07:01:41 +0000 2026",
+    "id_str": "2098305964567138453",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yaojiusi grok 干过这事",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098308837677957546",
+    "time": "2026-09-11 15:13",
+    "created_at": "Fri Sep 11 07:13:06 +0000 2026",
+    "id_str": "2098308837677957546",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 哥认为openrouter这类的中转站可以用吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaochun_dev/status/2098278691625426949",
+    "time": "2026-09-11 13:13",
+    "created_at": "Fri Sep 11 05:13:18 +0000 2026",
+    "id_str": "2098278691625426949",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaochun_dev 相对靠谱",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098289029955379690",
+    "time": "2026-09-11 13:54",
+    "created_at": "Fri Sep 11 05:54:23 +0000 2026",
+    "id_str": "2098289029955379690",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 你站上后台是单独垫了收敛 prompt，还是纯把温度压低了...？\n\n默认跑出来其实挺容易用词发飘的，楼下好几个也在问 AI 味要怎么调。",
+    "quoted_tweet": null,
+    "url": "https://x.com/hewan_ai/status/2098315604273078595",
+    "time": "2026-09-11 15:39",
+    "created_at": "Fri Sep 11 07:39:59 +0000 2026",
+    "id_str": "2098315604273078595",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@hewan_ai 一套工作流",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2098327329827381650",
+    "time": "2026-09-11 16:26",
+    "created_at": "Fri Sep 11 08:26:35 +0000 2026",
+    "id_str": "2098327329827381650",
+    "is_retweet": false
+  }
+]
