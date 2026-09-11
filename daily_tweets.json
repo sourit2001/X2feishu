@@ -1,1 +1,171 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Now that METR long horizons is effectively saturated (Epoch found pre-Fable agents could do 18 weeks of human work), what is the best quantitative graph that shows the current exponential progress curve? \n\nFrontier Math is saturated, ARC-AGI is saturated, Millennium Prize is...",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2098534460996075568",
+    "time": "2026-09-12 06:09",
+    "created_at": "Fri Sep 11 22:09:39 +0000 2026",
+    "id_str": "2098534460996075568",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "下午去上海外滩大会做了个圆桌对话分享\n晚上竟然喜提微博热搜了？？？\n阿阿阿阿阿妹zing！！(◎_◎;)\n\n感谢CCTV，感谢MTV，感谢搞钱女孩播客，感谢观猹，感谢魔搭社区，感谢我的爸爸妈妈，感谢所有支持我的粉丝！",
+    "quoted_tweet": null,
+    "url": "https://x.com/xmmxovo/status/2098443563340370294",
+    "time": "2026-09-12 00:08",
+    "created_at": "Fri Sep 11 16:08:27 +0000 2026",
+    "id_str": "2098443563340370294",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "七点半前喝了四壶汾酒，\n现在终于醒了",
+    "quoted_tweet": null,
+    "url": "https://x.com/rollrollyuan/status/2098452129488990687",
+    "time": "2026-09-12 00:42",
+    "created_at": "Fri Sep 11 16:42:29 +0000 2026",
+    "id_str": "2098452129488990687",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "当你感觉模型降智了，模型厂商搞了什么鬼？\n\n一个现象是，刚上线的模型往往很聪明，但一旦过了一段时间，可能是用户量变大，就开始“降智”。\n\n评论区有个高赞、专业简短的回答，给了四种常见做法：\n\n（让AI解释了下）\n\n手段一：路由到小模型（最明显）\n\n系统判断用户问题难度。\"你好\"\"写个请假条\"这类简单请求，会被路由到极低成本的小模型上。\n\n只有复杂代码调试、长文本推理等任务才真正调用旗舰模型。\n\n问题在于：系统判断\"简单\"的标准不可见，你觉得需要深度思考的问题，可能被判定为\"简单\"而发给了便宜模型。\n\n手段二：调低 juice 值，减少思考 token\n\nJuice 值（社区俗称\"果汁值\"）是 OpenAI 推理模型中一个隐藏参数，控制模型在回答前被允许思考多深。\n\n正常满血版 gpt-5.5 xhigh 的 juice 约为 768，而被灰度到降配池的用户可能只有 128，缩水 6 倍。\n\n思考预算少了，模型自然\"想不深\"。\n\n参数官方没公开，是社区开发者从系统提示词中逆向提取出来的。\n\n手段三：提前中断思考，强行回答\n即使分配了思考预算，系统也可能在推理过程中提前截断，强制模型输出答案。\n\n表现为：回答速度变快，但逻辑链条变短、缺少自我检查、容易在复杂问题上跳步或出错。\n\n用户感知到的是\"它好像没认真想就答了\"。\n\n手段四：MTP 增加小模型接受概率\nMulti-Token Prediction（多 token 预测）机制下，系统会根据中间结果动态决定是否继续用大模型推理。\n\n如果小模型的中间输出\"看起来还行\"，系统就提高接受小模型结果的概率，提前终止大模型的深度推理。\n\n在用户感知不到明显差异的边界上节省算力。",
+    "quoted_tweet": {
+      "author": "Theigrams",
+      "username": "Theigrams1",
+      "text": "@vista8 1. 路由到小模型，最明显。2. 调低 juice 值，减少思考 token。3. 提前中断思考，强行回答。 4. mtp 增加小模型接受概率。"
+    },
+    "url": "https://x.com/vista8/status/2098471018641940780",
+    "time": "2026-09-12 01:57",
+    "created_at": "Fri Sep 11 17:57:33 +0000 2026",
+    "id_str": "2098471018641940780",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@SjwEsther 感觉更直接的原因是贵州…食品卫生太差了…上吐下泻之后，再也不会去了…",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098548759865299408",
+    "time": "2026-09-12 07:06",
+    "created_at": "Fri Sep 11 23:06:28 +0000 2026",
+    "id_str": "2098548759865299408",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "小米华为OPPO，都有同款尺寸的折叠屏手机\n世界大同了，有一点无聊\n谁抄谁已经不重要了\n苹果定义了这个硬件标准\n也定义了软件交互标准\n其他家的软件真的一言难尽了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098549493302178292",
+    "time": "2026-09-12 07:09",
+    "created_at": "Fri Sep 11 23:09:23 +0000 2026",
+    "id_str": "2098549493302178292",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@luoxiaoshan_ai 很实用",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098550161198952750",
+    "time": "2026-09-12 07:12",
+    "created_at": "Fri Sep 11 23:12:02 +0000 2026",
+    "id_str": "2098550161198952750",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@yaneuraou 怪不得文章读起来这么累",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098551239697199206",
+    "time": "2026-09-12 07:16",
+    "created_at": "Fri Sep 11 23:16:19 +0000 2026",
+    "id_str": "2098551239697199206",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@dongxi_nlp 精彩的类比",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098551493536399778",
+    "time": "2026-09-12 07:17",
+    "created_at": "Fri Sep 11 23:17:19 +0000 2026",
+    "id_str": "2098551493536399778",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@pmitu and Ai can’t help that much",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098552208879235310",
+    "time": "2026-09-12 07:20",
+    "created_at": "Fri Sep 11 23:20:10 +0000 2026",
+    "id_str": "2098552208879235310",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@xmmxovo @Jackywine 学习ai coding月入5w的最快方法！",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098553388938285170",
+    "time": "2026-09-12 07:24",
+    "created_at": "Fri Sep 11 23:24:51 +0000 2026",
+    "id_str": "2098553388938285170",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@rollrollyuan 见证了一下也是",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098553521985724788",
+    "time": "2026-09-12 07:25",
+    "created_at": "Fri Sep 11 23:25:23 +0000 2026",
+    "id_str": "2098553521985724788",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@vista8 是的 各种骚操作 大模型公司必备\n不过99%的query确实不配好模型\n但很难判断",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098554780717297818",
+    "time": "2026-09-12 07:30",
+    "created_at": "Fri Sep 11 23:30:23 +0000 2026",
+    "id_str": "2098554780717297818",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow I've been testing Astra's creative side too—here's a musical instrument you play with physics! 🔊\n\nIt's one of 9 experiments in my new video, alongside an RTS with talking units and a sci-fi film.\n\nWatch them here: https://youtu.be/iEup5H2FxKE",
+    "quoted_tweet": null,
+    "url": "https://x.com/codonflow/status/2098557513390031318",
+    "time": "2026-09-12 07:41",
+    "created_at": "Fri Sep 11 23:41:15 +0000 2026",
+    "id_str": "2098557513390031318",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@codonflow Super cool!",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2098559124204363802",
+    "time": "2026-09-12 07:47",
+    "created_at": "Fri Sep 11 23:47:39 +0000 2026",
+    "id_str": "2098559124204363802",
+    "is_retweet": false
+  }
+]
