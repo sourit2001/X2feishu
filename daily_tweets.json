@@ -449,5 +449,71 @@
     "created_at": "Sat Sep 12 04:48:32 +0000 2026",
     "id_str": "2098634845937103040",
     "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "在北京的食堂吃饭，食堂大师傅指着饺子说这是“猪肉混响馅”的，听了半天，觉得应该是茴香",
+    "quoted_tweet": null,
+    "url": "https://x.com/kegns/status/2098613434804036039",
+    "time": "2026-09-12 11:23",
+    "created_at": "Sat Sep 12 03:23:27 +0000 2026",
+    "id_str": "2098613434804036039",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@kegns 茴香在北京话里读hunxiang",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098661111776325839",
+    "time": "2026-09-12 14:32",
+    "created_at": "Sat Sep 12 06:32:54 +0000 2026",
+    "id_str": "2098661111776325839",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "吃完午饭，大家聊起来\n都说现在不管干啥都觉得没意义了\n然后有个人突然说3点重置\n所有人立刻打开了电脑开始布置任务...",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098665551015113120",
+    "time": "2026-09-12 14:50",
+    "created_at": "Sat Sep 12 06:50:33 +0000 2026",
+    "id_str": "2098665551015113120",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Hi Astra users. A reset and a quick update on quality issues that have been posted around.\n\nWorking with some of you, we have found and fixed the following issues:\n- Some skills written for previous models were triggering too often or preventing the model from checking its work.\n- An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it. Our rough estimate is that 4-5k users were affected by this experiment.\n- We've also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.\n\nWe’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.\n\nThe examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.\n\nAnd of course, a reset is also landing by midnight today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2098612714704891959",
+    "time": "2026-09-12 11:20",
+    "created_at": "Sat Sep 12 03:20:36 +0000 2026",
+    "id_str": "2098612714704891959",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Andy_AJT @OpenAIDevs Ohhh, I miss that place",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2098613228486152223",
+    "time": "2026-09-12 11:22",
+    "created_at": "Sat Sep 12 03:22:38 +0000 2026",
+    "id_str": "2098613228486152223",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Astra powered ships this week\n\n- Images 2.5\n- GPT-Live-1\n- Agents API\n- Data Agent\n- ChatGPT for Financial Services\n\nand yet it’s not yet DevDay. Busy plans for next week too.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2098639827084480864",
+    "time": "2026-09-12 13:08",
+    "created_at": "Sat Sep 12 05:08:20 +0000 2026",
+    "id_str": "2098639827084480864",
+    "is_retweet": false
   }
 ]
