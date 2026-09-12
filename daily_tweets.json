@@ -190,5 +190,411 @@
     "created_at": "Sat Sep 12 16:55:06 +0000 2026",
     "id_str": "2098817689976504435",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon.",
+    "quoted_tweet": {
+      "author": "Dario Amodei",
+      "username": "DarioAmodei",
+      "text": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training.\n\nYou can read the full post here: https://darioamodei.com/post/we-must-pace-the-frontier"
+    },
+    "url": "https://x.com/sama/status/2098811563415150910",
+    "time": "2026-09-13 00:30",
+    "created_at": "Sat Sep 12 16:30:45 +0000 2026",
+    "id_str": "2098811563415150910",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "真的牛批，效果特别好！\n\nYuri 的脸出现在大屏幕上时，真的很神奇。很难想象现在的 AI 能做到在这种超大巨幕、半身大脸的情况下，还能有这么精细的表现的，完全没有恐怖谷的感觉。\n\n而且音频质量的表现也巨好，唱歌的声音和他说话的声音完全就是一个人。然后音乐的质量也非常好。\n\n在 AI 视频音频以及音乐这方面的结合上，汗青真是最顶级的了，返几张图。",
+    "quoted_tweet": {
+      "author": "汗青 HQ",
+      "username": "hq4ai",
+      "text": "尤栗Yuri的演唱会圆满落地。忙到现在总算能发个帖子，几千人的现场几乎全满了，最后一首歌时，大家都没走。站在最后看着这一幕，很难相信那一刻是真实的。\n百米巨幕12k，我们证明了AIGC完全能在线下创造视觉奇观。正式节目本周陆续更新。"
+    },
+    "url": "https://x.com/op7418/status/2098790437830185040",
+    "time": "2026-09-12 23:06",
+    "created_at": "Sat Sep 12 15:06:48 +0000 2026",
+    "id_str": "2098790437830185040",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 谢谢歸师傅坐火车赶过来！",
+    "quoted_tweet": null,
+    "url": "https://x.com/hq4ai/status/2098791098609258745",
+    "time": "2026-09-12 23:09",
+    "created_at": "Sat Sep 12 15:09:26 +0000 2026",
+    "id_str": "2098791098609258745",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@hq4ai 哈哈，毕竟恐飞，也是没招了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098794102527795603",
+    "time": "2026-09-12 23:21",
+    "created_at": "Sat Sep 12 15:21:22 +0000 2026",
+    "id_str": "2098794102527795603",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@gong_yun74374 明天发",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2098794206244618623",
+    "time": "2026-09-12 23:21",
+    "created_at": "Sat Sep 12 15:21:47 +0000 2026",
+    "id_str": "2098794206244618623",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 不用粘贴，直接订阅 github 事件，自己就驱动起来了",
+    "quoted_tweet": null,
+    "url": "https://x.com/jolestar/status/2098723664212468138",
+    "time": "2026-09-12 18:41",
+    "created_at": "Sat Sep 12 10:41:28 +0000 2026",
+    "id_str": "2098723664212468138",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我觉得没必要跟这些人讨论，所谓人教人教不会，事教人一教就会",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "一、“程序员除了写代码啥也不会”，这个前提是错的\n\n严格说，从事软件开发这个职业的人叫软件工程师，不叫程序员。\n\n做一个项目，要理解需求、基于需求抽象设计、编码、验证、上线后维护，只会写代码的人从来就不是合格的工程师。\n\nAI 确实能生成代码，但代码只是软件的中间产物，除了代码还要：\n- 搞清楚要解决什么问题\n- 把模糊需求变成可验证的规格\n- 发现 AI 写错了但测试没测出来的地方\n- 让系统在生产环境里稳定运行\n- 没有安全漏洞\n- 等等\n\n如果说“程序员唯一会的东西被 100% 取代”，这话跟说医生唯一会的是开处方也差不太多，处方反正可以百度搜索一份 AI 生成一份打印出来，所以医生没用了。\n\n二、“金融、医疗、工业领域的人稍微了解一下 AI 就能做出真正有价值的东西”，太乐观了\n\n做个演示和发布产品之间还是有很长的路要走。\n\n领域专家用 AI Vibe 一个能跑的原型，早就可以做到了，但做个演示给自己用，和发布一个产品给大家用还是不一样的，原型之后有一堆事情要处理：\n- UI 细节\n- 各种边界条件\n- 高并发\n- 安全\n- 成本\n- 等等\n\n这些事不是“稍微了解一下”就能搞定的。\n\n懂 AI 本身也不是一件低门槛的事情，同样是一门工程学科：上下文工程、构建评测集、AI Agent编排、失败模式分析。谁最容易学会这些？恰恰是有工程底子的人。能成为软件工程师本来就经过了一轮筛选，这群人学新领域的速度通常也不慢。\n\n三、能力迁移是双向的\n\n领域专家可以学 AI，软件工程师一样也可以学领域知识。\n\n领域知识固然有壁垒，但通常是可学的显性知识，而工程直觉更多来自大量实践。\n\n软件工程师的核心能力是把复杂问题抽象成可执行的结构、理解系统如何失败、判断什么能造出来，这些能力是跨领域的元能力。有了这些原能力，再去学领域知识也没有想象的那么难。\n\n四、做好“AI +”（AI Native，AI 原生）和职业无关\n\n我以前有些过对 AI Native 的一些思考\n> 判断一家公司是不是 AI Native，看它做事的流程是围绕人设计的，还是围绕 AI Agent 设计的。AI 原生的核心是：AI Agent 是执行主体，人负责定义问题和验收结果。如果只是在原来的流程里加一点 AI，那不叫 AI 原生。\n\n用这个标准看，真正需要的是对行业的理解和对 AI 的理解，缺一不可，和职业无关。\n\n五、AI 改变的是流程里的一些环节，不是职业本身\n\n软件工程师的定义其实一直在变。早年的软件工程师要手写汇编、自己管内存；后来高级语言和框架接管了这些，工程师的重心转向架构和业务建模；再后来云服务把运维也抽象掉了。每一轮工具升级，写代码在工作中的占比都在下降，但软件工程师这个职业没有消失，只是把重心挪到了工具还做不了的那一层。\n\n这一轮 AI 带来的变化也一样：编码这个环节被 AI Agent 替代了，工程师的重心自然移到定义问题、拆解需求、设计验证标准、判断结果对不对。职业没有被取代，只不过职业定义又往上走了一层：从“把方案变成代码”变成“决定该做什么、验收结果对结果负责”。\n\n而且这个变化不是软件工程师独有的。\n\n金融、医疗、工业里的岗位同样在经历重新定义：整理报表、初筛读片、写标准化文档这些环节会交给 AI，从业者的价值向判断、决策和把关集中。每个职业在 AI 原生的流程里都要重新定位，AI Agent 负责执行，人负责定义问题和验收结果。\n\n这种变化正在冲击各行各业，软件工程师并不比别人离它更远，反而因为长期和工具打交道，往往更早适应这种分工。"
+    },
+    "url": "https://x.com/winter_cn/status/2098741377060470944",
+    "time": "2026-09-12 19:51",
+    "created_at": "Sat Sep 12 11:51:51 +0000 2026",
+    "id_str": "2098741377060470944",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这都不自动化吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/lyricwai/status/2098752716134867213",
+    "time": "2026-09-12 20:36",
+    "created_at": "Sat Sep 12 12:36:55 +0000 2026",
+    "id_str": "2098752716134867213",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lyricwai 自动化了体现不出价值不是😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098802209429364914",
+    "time": "2026-09-12 23:53",
+    "created_at": "Sat Sep 12 15:53:35 +0000 2026",
+    "id_str": "2098802209429364914",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@winter_cn 不是讨论，是宣传正确的观点，避免误导大众",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098802813413253134",
+    "time": "2026-09-12 23:55",
+    "created_at": "Sat Sep 12 15:55:59 +0000 2026",
+    "id_str": "2098802813413253134",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jolestar 粘贴显得好像是自己写的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2098803118825755052",
+    "time": "2026-09-12 23:57",
+    "created_at": "Sat Sep 12 15:57:12 +0000 2026",
+    "id_str": "2098803118825755052",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Trillions of dollars in value has been accruing in private markets:\n\n- A 75th percentile tech IPO lists at $3.5B\n- The ten companies on this chart cleared that by 12-500x in private rounds\n\nFull piece from a16z's @jkhamehl on why most portfolios have no exposure to this: https://www.a16z.news/p/catching-the-venture-bus",
+    "quoted_tweet": {
+      "author": "Jen Kha",
+      "username": "jkhamehl",
+      "text": "https://x.com/i/article/2098457762137272320"
+    },
+    "url": "https://x.com/a16z/status/2098811384771575811",
+    "time": "2026-09-13 00:30",
+    "created_at": "Sat Sep 12 16:30:02 +0000 2026",
+    "id_str": "2098811384771575811",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Why isn't it online?! Argh, I really wanted to see you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/patriciobruno/status/2098770745073521010",
+    "time": "2026-09-12 21:48",
+    "created_at": "Sat Sep 12 13:48:33 +0000 2026",
+    "id_str": "2098770745073521010",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Fun",
+    "quoted_tweet": {
+      "author": "Maddie D. Reese",
+      "username": "maddiedreese",
+      "text": "Sorry, couldn't get this out of my head"
+    },
+    "url": "https://x.com/icreatelife/status/2098788537399116134",
+    "time": "2026-09-12 22:59",
+    "created_at": "Sat Sep 12 14:59:15 +0000 2026",
+    "id_str": "2098788537399116134",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Can you stream that one?",
+    "quoted_tweet": null,
+    "url": "https://x.com/patriciobruno/status/2098788792437977359",
+    "time": "2026-09-12 23:00",
+    "created_at": "Sat Sep 12 15:00:16 +0000 2026",
+    "id_str": "2098788792437977359",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@patriciobruno I was told I can’t stream it from MAX. \n\nBut I can make a separate one. I do a lot of online events available for everyone to attend so I will make one that will cover these topics",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098789824513581251",
+    "time": "2026-09-12 23:04",
+    "created_at": "Sat Sep 12 15:04:22 +0000 2026",
+    "id_str": "2098789824513581251",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Create surreal art with AI and share it with others",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098789935071322416",
+    "time": "2026-09-12 23:04",
+    "created_at": "Sat Sep 12 15:04:48 +0000 2026",
+    "id_str": "2098789935071322416",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Enjoy your weekend! 🥹🫶✨\n\nAnyone else is creating with AI this weekend?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098792790662533401",
+    "time": "2026-09-12 23:16",
+    "created_at": "Sat Sep 12 15:16:09 +0000 2026",
+    "id_str": "2098792790662533401",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Jiarui_X Wow",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098792876574458085",
+    "time": "2026-09-12 23:16",
+    "created_at": "Sat Sep 12 15:16:30 +0000 2026",
+    "id_str": "2098792876574458085",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I’ll start working on the zine on Tuesday and send it to print next week! \n\nThank you all for participating. There will definitely be more “Gallery of the Future” collaborations",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "I'm working on Volume 2 of our community zine \"Gallery of the Future\". To take part:\n\n1. Submit your work (link in comments)\n2. Repost this \n3. Collaborate with others \n \nThe link is to Firefly Boards, free tool, to generate 5 images and 2 videos daily with different AI models"
+    },
+    "url": "https://x.com/icreatelife/status/2098793987746181315",
+    "time": "2026-09-12 23:20",
+    "created_at": "Sat Sep 12 15:20:55 +0000 2026",
+    "id_str": "2098793987746181315",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife it was an amazing experience to participate in, so many talents in there, such an inspiration.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2098794253195350492",
+    "time": "2026-09-12 23:21",
+    "created_at": "Sat Sep 12 15:21:58 +0000 2026",
+    "id_str": "2098794253195350492",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It's one of my favorite things to do",
+    "quoted_tweet": null,
+    "url": "https://x.com/swaymolina/status/2098794303719948446",
+    "time": "2026-09-12 23:22",
+    "created_at": "Sat Sep 12 15:22:10 +0000 2026",
+    "id_str": "2098794303719948446",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@swaymolina Your stuff is interesting to watch",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098794412989984875",
+    "time": "2026-09-12 23:22",
+    "created_at": "Sat Sep 12 15:22:36 +0000 2026",
+    "id_str": "2098794412989984875",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte Thanks for participating",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098794445692883008",
+    "time": "2026-09-12 23:22",
+    "created_at": "Sat Sep 12 15:22:44 +0000 2026",
+    "id_str": "2098794445692883008",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ever since I was a child, I wanted to hop on a quick call",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098794600471068933",
+    "time": "2026-09-12 23:23",
+    "created_at": "Sat Sep 12 15:23:21 +0000 2026",
+    "id_str": "2098794600471068933",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I forgot to share this duo with you from my Soviet childhood",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098794852783689925",
+    "time": "2026-09-12 23:24",
+    "created_at": "Sat Sep 12 15:24:21 +0000 2026",
+    "id_str": "2098794852783689925",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I designed a bunch of pins, cards and zines for you and it makes my heart so full 🥰\n\n When I meet you, I’ll gift you one. I’ll send out the rest for free as a gift. \n\nAI art is Art 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098801610742776022",
+    "time": "2026-09-12 23:51",
+    "created_at": "Sat Sep 12 15:51:12 +0000 2026",
+    "id_str": "2098801610742776022",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love this idea so much! Would love a pin to wear proudly!",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2098801962711986465",
+    "time": "2026-09-12 23:52",
+    "created_at": "Sat Sep 12 15:52:36 +0000 2026",
+    "id_str": "2098801962711986465",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman I will either hand deliver or send you one!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098802370536771868",
+    "time": "2026-09-12 23:54",
+    "created_at": "Sat Sep 12 15:54:13 +0000 2026",
+    "id_str": "2098802370536771868",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Would you ship any of those 🤩",
+    "quoted_tweet": null,
+    "url": "https://x.com/rayanabdulcader/status/2098804401460695367",
+    "time": "2026-09-13 00:02",
+    "created_at": "Sat Sep 12 16:02:17 +0000 2026",
+    "id_str": "2098804401460695367",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rayanabdulcader I will do my best",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098808563854360672",
+    "time": "2026-09-13 00:18",
+    "created_at": "Sat Sep 12 16:18:50 +0000 2026",
+    "id_str": "2098808563854360672",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Deep Learning...",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Create surreal art with AI and share it with others"
+    },
+    "url": "https://x.com/drashyakuruwa/status/2098817872583959011",
+    "time": "2026-09-13 00:55",
+    "created_at": "Sat Sep 12 16:55:49 +0000 2026",
+    "id_str": "2098817872583959011",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Deep Learning...",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Create surreal art with AI and share it with others"
+    },
+    "url": "https://x.com/drashyakuruwa/status/2098817872583959011",
+    "time": "2026-09-13 00:55",
+    "created_at": "Sat Sep 12 16:55:49 +0000 2026",
+    "id_str": "2098817872583959011",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@drashyakuruwa @midjourney Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098818136782843908",
+    "time": "2026-09-13 00:56",
+    "created_at": "Sat Sep 12 16:56:52 +0000 2026",
+    "id_str": "2098818136782843908",
+    "is_retweet": false
   }
 ]
