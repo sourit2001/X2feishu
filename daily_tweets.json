@@ -673,5 +673,90 @@
     "created_at": "Sat Sep 12 16:43:09 +0000 2026",
     "id_str": "2098814684359270845",
     "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@rcx86 If only I had thought to train it on StackOverflow instead I think it would have clicked for me that LLMs can be promptable, general purpose Q&A engines. Ah well.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2098828290152944093",
+    "time": "2026-09-13 01:37",
+    "created_at": "Sat Sep 12 17:37:13 +0000 2026",
+    "id_str": "2098828290152944093",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Imagine knowing nothing about mathematics, turning around and going “luddites, all of them” to a group led by a Fields Medalist. You remind me of GPt-4o.",
+    "quoted_tweet": null,
+    "url": "https://x.com/yugshende/status/2098823885445870020",
+    "time": "2026-09-13 01:19",
+    "created_at": "Sat Sep 12 17:19:43 +0000 2026",
+    "id_str": "2098823885445870020",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Really unfair post and exposes you/your team’s lack of understanding of how mathematical proofs work and also how frontier models generate them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/talweezy/status/2098828476560167375",
+    "time": "2026-09-13 01:37",
+    "created_at": "Sat Sep 12 17:37:57 +0000 2026",
+    "id_str": "2098828476560167375",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@yugshende Remarkable you assume I know nothing about mathematics and that all mathematicians agree with the letter. \n\nI have talked to many who are embracing AI to help them solve problems because they value having the knowledge over who gets credit…",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2098831543255130354",
+    "time": "2026-09-13 01:50",
+    "created_at": "Sat Sep 12 17:50:08 +0000 2026",
+    "id_str": "2098831543255130354",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@talweezy We have math PhDs on the team and have spoken extensively with top mathematicians both in and outside of the frontier labs.\n\nWe’re excited for AI to contribute to the expansion of human knowledge.\n\nWould recommend giving this a watch: https://x.com/a16z/status/2097343288395051188?s=46",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "OpenAI's Mark Sellke and Mehtaab Sawhney with a16z's Lisha Li, on the state of AI and mathematics:\n\nBefore OpenAI released GPT‑6 Astra last week, the model was already doing original mathematics. Recorded before the launch, this conversation tells the story of how it got there.\n\nIt began with GPT‑5. Mehtaab Sawhney pasted in an Erdős problem still listed as open. Five minutes later, the model surfaced a paper that had solved it. The exercise eventually uncovered published solutions to 10 more problems thought to be open.\n\nThen Astra went further. Told to \"go have fun\" with a high-dimensional sphere-packing problem, it improved a bound that had stood since the 1970s. Mehtaab had spent six months on the same problem in graduate school and made \"absolutely zero progress.\"\n\nAnother Astra result established that non-sofic groups exist with a roughly 15-page proof. A related human breakthrough took 250 pages and machinery from quantum complexity theory.\n\nOpenAI’s Mark Sellke and Mehtaab Sawhney join a16z’s Lisha Li on why wrong ideas pollute a human’s context window, why polished papers hide how mathematics is actually made, why a breakthrough can stop one prompt early, and what math rewards once proving stops being the bottleneck.\n\n00:00 Intro\n02:44 Cracking an Erdős problem in 5 minutes\n06:20 Why a human quits and a model doesn't\n08:50 Wrong ideas pollute your context window\n11:45 Why math papers are bad training data\n16:20 Nobody knows how to stack spheres in high dimensions\n18:28 The orange-stacking proof\n21:04 The 1970s Russian paper nobody could beat\n24:14 The function that won a Fields Medal\n27:09 How Astra beat the sphere-stacking record\n29:20 Why error correction is sphere packing in disguise\n35:15 The breakthrough Astra almost didn't bother with\n39:22 Solving harder problems means it has better taste\n41:00 One model for taste, one for the grind\n44:40 Astra found an infinite group no finite one can imitate\n52:00 250 pages of quantum complexity, or 15 of group theory\n56:18 Only humans write 200-page proofs\n1:00:38 What changes when proving stops being the bottleneck\n1:02:44 The problems AI may never solve\n\nYouTube: https://www.youtube.com/watch?v=1JvyLGd2Sfs\n\n@mehtaab_sawhney @MarkSellke @OpenAI @lishali88"
+    },
+    "url": "https://x.com/venturetwins/status/2098832352101413337",
+    "time": "2026-09-13 01:53",
+    "created_at": "Sat Sep 12 17:53:21 +0000 2026",
+    "id_str": "2098832352101413337",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Solving a big math problem is not just about the destination, it's also, or even more so, what you learn on the journey.\nhttps://x.com/Math_files/status/2098631267386528043",
+    "quoted_tweet": {
+      "author": "Math Files",
+      "username": "Math_files",
+      "text": "Andrew Wiles’s proof of Fermat’s Last Theorem was important not only because it solved a centuries-old problem, but because it developed mathematical methods that became useful beyond the original theorem. \n\nThe Taylor–Wiles method, Galois deformation theory, and modularity lifting contributed to broader developments in number theory and connections with the Langlands program.\n\nAI is now introducing a different way of working in mathematics."
+    },
+    "url": "https://x.com/ben__bradley/status/2098853368936501497",
+    "time": "2026-09-13 03:16",
+    "created_at": "Sat Sep 12 19:16:52 +0000 2026",
+    "id_str": "2098853368936501497",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "AI solving a problem doesn’t prevent anyone from continuing to work on it themselves - including exploring different proofs that produce new techniques or insights.\n\nThe only thing it really changes is the value of being first.",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2098854884070298012",
+    "time": "2026-09-13 03:22",
+    "created_at": "Sat Sep 12 19:22:53 +0000 2026",
+    "id_str": "2098854884070298012",
+    "is_retweet": false
   }
 ]
