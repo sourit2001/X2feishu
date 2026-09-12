@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@PezRadar @wudijo Nice guys",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2098784354570781062",
+    "time": "2026-09-12 22:42",
+    "created_at": "Sat Sep 12 14:42:38 +0000 2026",
+    "id_str": "2098784354570781062",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@HumanProgress Valid point. Well-deserved praise. \n\nYou can tell something is genuinely good when most of the world would be upset if it went away. That is true of Amazon.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2098784855647498749",
+    "time": "2026-09-12 22:44",
+    "created_at": "Sat Sep 12 14:44:37 +0000 2026",
+    "id_str": "2098784855647498749",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Dario is right",
+    "quoted_tweet": {
+      "author": "Dario Amodei",
+      "username": "DarioAmodei",
+      "text": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training.\n\nYou can read the full post here: https://darioamodei.com/post/we-must-pace-the-frontier"
+    },
+    "url": "https://x.com/elonmusk/status/2098789109980332057",
+    "time": "2026-09-12 23:01",
+    "created_at": "Sat Sep 12 15:01:32 +0000 2026",
+    "id_str": "2098789109980332057",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Another AI attack",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2098789559093858580",
+    "time": "2026-09-12 23:03",
+    "created_at": "Sat Sep 12 15:03:19 +0000 2026",
+    "id_str": "2098789559093858580",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok available in Microsoft Copilot",
+    "quoted_tweet": {
+      "author": "Satya Nadella",
+      "username": "satyanadella",
+      "text": "More model choice coming to Copilot. Welcome Grok!"
+    },
+    "url": "https://x.com/elonmusk/status/2098809953439904220",
+    "time": "2026-09-13 00:24",
+    "created_at": "Sat Sep 12 16:24:21 +0000 2026",
+    "id_str": "2098809953439904220",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@dogeofficialceo For sure",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2098810323578876190",
+    "time": "2026-09-13 00:25",
+    "created_at": "Sat Sep 12 16:25:49 +0000 2026",
+    "id_str": "2098810323578876190",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Next week, @mattyp @roshan_s and myself will be speedrunning building a new company using only Grok @Bot on the Grok Bot Galaxy livestream! We’ve been given just 3 days to do it, or else we might be turned into pizza 🤪 it will be so fun and I hope to see you on the livestream!\n\nI will have to miss the Cursor Compile conf in London and Amsterdam though. I will instead record an extended version of my talk and make it freely available here. So stay tuned for that post!\n\nhttps://x.ai/galaxy",
+    "quoted_tweet": null,
+    "url": "https://x.com/poteto/status/2098815981787414978",
+    "time": "2026-09-13 00:48",
+    "created_at": "Sat Sep 12 16:48:18 +0000 2026",
+    "id_str": "2098815981787414978",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Ironed out the last performance issues with my full 2.5m line codebase explorer. 120hz awesomeness. Can only upload 60fps video tho. Much nicer uncompressed",
+    "quoted_tweet": null,
+    "url": "https://x.com/rikarends/status/2098710248164868534",
+    "time": "2026-09-12 17:48",
+    "created_at": "Sat Sep 12 09:48:09 +0000 2026",
+    "id_str": "2098710248164868534",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@karpathy Thanks! It's definitely a trip to see it at 8k resolution (i have a 57\" samsung). I'm just AI-accel building everything i ever wanted. And this was one of the things.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rikarends/status/2098778272226066477",
+    "time": "2026-09-12 22:18",
+    "created_at": "Sat Sep 12 14:18:28 +0000 2026",
+    "id_str": "2098778272226066477",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@rikarends I feel like it should be 3D? Or even in 2D, you’d think it could be more modules of code somehow clustered in space, with insides showing private data/code vs boundaries depicting public interfaces connecting to call sites… collaborators zooming around and casting diffs.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2098781917076504752",
+    "time": "2026-09-12 22:32",
+    "created_at": "Sat Sep 12 14:32:57 +0000 2026",
+    "id_str": "2098781917076504752",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "I love this and really hope we can come together as an industry and make it happen.",
+    "quoted_tweet": {
+      "author": "Dario Amodei",
+      "username": "DarioAmodei",
+      "text": "We Must Pace the Frontier: I’ve written a new essay on why the AI industry should slow down, with a three-part plan for doing so.\n\nAnthropic is unilaterally committing to the first of these steps. We’ll provide third-party evaluators with permanent, employee-level access to our systems, so that they can verify adherence to our safety measures, report on incidents, and assess models’ alignment during training.\n\nYou can read the full post here: https://darioamodei.com/post/we-must-pace-the-frontier"
+    },
+    "url": "https://x.com/karpathy/status/2098811935114551617",
+    "time": "2026-09-13 00:32",
+    "created_at": "Sat Sep 12 16:32:14 +0000 2026",
+    "id_str": "2098811935114551617",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Based Waymo",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2098790619456188679",
+    "time": "2026-09-12 23:07",
+    "created_at": "Sat Sep 12 15:07:31 +0000 2026",
+    "id_str": "2098790619456188679",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Great, next is mass surveillance facial recognition via Waymo.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VCore65122/status/2098793236844462427",
+    "time": "2026-09-12 23:17",
+    "created_at": "Sat Sep 12 15:17:56 +0000 2026",
+    "id_str": "2098793236844462427",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Can't believe people keep doing the meme",
+    "quoted_tweet": {
+      "author": "Andrew Curran",
+      "username": "AndrewCurran_",
+      "text": "Twenty-five Fields Medal winners have published a joint declaration warning about what they see as a severe misalignment between AI companies and the mathematics community."
+    },
+    "url": "https://x.com/venturetwins/status/2098797777321091581",
+    "time": "2026-09-12 23:35",
+    "created_at": "Sat Sep 12 15:35:58 +0000 2026",
+    "id_str": "2098797777321091581",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@VCore65122 I mean, I'd hope an Uber driver would also report two teenagers with a loaded assault rifle and mace. But I'm glad Waymo was able to do it safely!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2098816310268617039",
+    "time": "2026-09-13 00:49",
+    "created_at": "Sat Sep 12 16:49:37 +0000 2026",
+    "id_str": "2098816310268617039",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Mathematicians",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2098817689976504435",
+    "time": "2026-09-13 00:55",
+    "created_at": "Sat Sep 12 16:55:06 +0000 2026",
+    "id_str": "2098817689976504435",
+    "is_retweet": false
+  }
+]
