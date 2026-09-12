@@ -174,5 +174,108 @@
     "created_at": "Sat Sep 12 22:45:53 +0000 2026",
     "id_str": "2098905968096719251",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "各个大厂要求前沿实验室慢下来，其实是一个典型的囚徒困境，几个玩家试图通过达成某种协议来寻找最优解\n\n各家大厂融资渠道基本都用上了，未来只有上市IPO才能满足后续的融资需求，A社马上就要上市了\n\n而IPO需要提交S1，把财报都放在二级市场投资者面前，Unit Economics就成了关注的焦点，这些大模型公司未来能产生多少现金流，能否覆盖资本投资开支？\n\n基座大模型本身没有太多护城河，用户就看哪家性能好用谁，切换成本没有那么高，这种情况下，前沿实验室需要不断烧钱来提高模型性能，就像一个永不停歇的跑步机，即使赚到的利润也需要投到新的模型训练里，最后钱都被卖硬件的人给赚走了，AKA英伟达还有其他半导体公司\n\n囚徒困境的局面就是，你不继续烧钱训练，别人烧，结果你的模型落后，就被别人抢占市场，但是如果各家继续军备竞赛，融资的压力也不允许，谷歌这些超多自由现金流的科技公司都要发债了\n\n于是这两家头部企业心照不宣的表示，前沿模型太危险了，功能太强了，我们怕会导致人类灭绝，必须达成一种共识，让开发慢下来。实际情况是大模型训练层面边际收益已经递减了，现在很多进步都是靠工程层面的提升，降低未来的训练支出，能够让这几家即将上市的公司财报不那么难看。\n\n房间里的大象是中国的模型公司，即使A社和O社达成某种君子协定不继续砸钱训练模型，中国的几家前沿实验室未必会同意，如果开源模型追上了前沿模型，那这两家头部公司未来的财务模型就站不住脚了。\n\n让美国政府下场，构建某种监管机构，会显著提高其他想要入场的玩家的合规成本，同时把中国开源模型给禁了，可以让大模型市场变成几家寡头垄断的市场，一石多鸟！",
+    "quoted_tweet": null,
+    "url": "https://x.com/kingluffywang/status/2098896390466228594",
+    "time": "2026-09-13 06:07",
+    "created_at": "Sat Sep 12 22:07:49 +0000 2026",
+    "id_str": "2098896390466228594",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "SwiftUI 的联合创造者 Kyle Macomber 对 Shopify 从 React Native 迁移到原生的点评。他说在 Apple 内部做 SwiftUI 的时候，团队有个常见笑话：“所有 bug 都是桥接 bug。”\n\nSwiftUI 本质上是在 UIKit 上面搭了一层声明式的抽象层，两层之间的衔接充满了未定义行为，尤其是更新周期的微妙时序问题，而且底层还在不断变化。即便 SwiftUI 团队和 UIKit 团队办公的地方离的很近，有明确的目标要让两个框架保持同步，也做不到完美。\n\n可以想见 React Native 团队有多难。\n\n---\n\n看完之后我更加觉得能不用 SwiftUI 还是别用 SwiftUI 😂",
+    "quoted_tweet": {
+      "author": "Kyle Macomber",
+      "username": "kylemacomber",
+      "text": "On the SwiftUI team we had a joke: \"all bugs are bridging bugs.\"\n\nIt's hard to build a declarative layer over UIKit! There's a lot of undefined behavior, especially in the subtle timing of the update cycle. And it's always changing.\n\nEven sitting in the same hallway, with an explicit goal of keeping the two frameworks in sync, we couldn't do a perfect job.\n\nI can only imagine how hard it's been for the React Native team."
+    },
+    "url": "https://x.com/dotey/status/2098897732878422344",
+    "time": "2026-09-13 06:13",
+    "created_at": "Sat Sep 12 22:13:09 +0000 2026",
+    "id_str": "2098897732878422344",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Have you tried Astra yet? I have been using it for coding, but I am keen to generate some art.",
+    "quoted_tweet": null,
+    "url": "https://x.com/NathanOrgan/status/2098897272159531092",
+    "time": "2026-09-13 06:11",
+    "created_at": "Sat Sep 12 22:11:19 +0000 2026",
+    "id_str": "2098897272159531092",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Enjoy Southampton, Cooper’s Beach \n\nHope you can touch waves 🌊 this weekend",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098904971953500198",
+    "time": "2026-09-13 06:41",
+    "created_at": "Sat Sep 12 22:41:55 +0000 2026",
+    "id_str": "2098904971953500198",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NathanOrgan Yes! Few of my Astra posts went viral in Instagram! You can find in highlights some \n\nI also mostly use it for coding and writing scripts but then you can use those scripts with Photoshop or After Effects to make art!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2098905170365075943",
+    "time": "2026-09-13 06:42",
+    "created_at": "Sat Sep 12 22:42:43 +0000 2026",
+    "id_str": "2098905170365075943",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Anyone can get my friend’s real SSN from Claude\n\nI'm Terrified of my data in training sets. Emails in databases. iMessages harvested. Cant trust the cloud as AI is crazy good at hacking\n\nSo I built Underdog for myself: on-device AI OS. Capable & 100% local. now my friends love it",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xSigil/status/2098888253235728555",
+    "time": "2026-09-13 05:35",
+    "created_at": "Sat Sep 12 21:35:29 +0000 2026",
+    "id_str": "2098888253235728555",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Underdog is your on-device AI OS.\n\nIt runs Woof, a small but mighty AI model entirely on your device. Woof 1.1 has 4B parameters, takes up <2.5GB, and handles browser use, tool calls, and long tasks.\n\nWoof runs fast and power efficiently thanks to Greyhound, our self-improving inference engine built for Apple Silicon. We’re making it faster every day.\n\nThe current Underdog Woof 4B is on par with GPT 5.0 on things we care about. We’re working towards matching current frontier model performance on consumer devices by the end of the year. Fully locally!\n\nYou own your data & AI, as you should.\n\nhttps://huggingface.co/ConwayResearch/Underdog-Woof-4B-1.1",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xSigil/status/2098888254900879494",
+    "time": "2026-09-13 05:35",
+    "created_at": "Sat Sep 12 21:35:30 +0000 2026",
+    "id_str": "2098888254900879494",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I designed Underdog as an OS because your life shouldn’t split into fragmented apps.\n\nYour email, calendar, browser, voice, files, and meetings all give the AI you own context. It works better when it can see the full picture.\n\nFly through your entire “context/life” with keyboard shortcuts, or hands free while underdog is standby.\n\nSeamless. Intuitive. At your fingertips.",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xSigil/status/2098888256528232835",
+    "time": "2026-09-13 05:35",
+    "created_at": "Sat Sep 12 21:35:30 +0000 2026",
+    "id_str": "2098888256528232835",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Underdog has been audited by one of the top security firms in the world trusted by Google, my goat @m1guelpf, Google cloud, and the a16z engineering team (approved for internal use) :^) \n\nI'm very focused on improving underdog and committed to making the app secure & private!",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xSigil/status/2098888276635779537",
+    "time": "2026-09-13 05:35",
+    "created_at": "Sat Sep 12 21:35:35 +0000 2026",
+    "id_str": "2098888276635779537",
+    "is_retweet": true
   }
 ]
