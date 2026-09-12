@@ -94,5 +94,82 @@
     "created_at": "Sat Sep 12 11:58:31 +0000 2026",
     "id_str": "2098743053137891771",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@iyoumem I’m sorry to hear about this. This came across my feed randomly.\n\nIf the family would like, I’m happy to cover all the remaining costs directly. Please reach out privately.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2098785614833520877",
+    "time": "2026-09-12 22:47",
+    "created_at": "Sat Sep 12 14:47:38 +0000 2026",
+    "id_str": "2098785614833520877",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Most people use GPT-6 Astra like a chatbot.\n\nHere's the 6-step setup that turns it into a team of 20:\n\n1. Sort tasks by risk → if it can be undone, let Astra do it\n\n2. Paste 1 instruction block → it stops Astra from asking too many questions, over-testing, and ignoring your rules\n\n3. Adjust the effort level → low for easy steps, high for hard ones. Change it per step without rewriting the prompt\n\n4. Give it a job → say what “done” looks like: sources cited and tests passing\n\n5. Run agents side by side → if the agents don't depend on each other, don't make them wait in line\n\n6. Have a second agent check the work → let a fresh agent re-run the test\n\nOnce Astra handles the steps, you stop prompting one chatbot and start managing a team.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2098784964779340134",
+    "time": "2026-09-12 22:45",
+    "created_at": "Sat Sep 12 14:45:03 +0000 2026",
+    "id_str": "2098784964779340134",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Designing the team is step 2. Briefing Astra so 1 agent does its job right is the first step. Setup in 5 minutes, how to brief it, and which plan you need, free:\n\nhttps://godofprompt.ai/guides/gpt6-astra-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2098784988963782984",
+    "time": "2026-09-12 22:45",
+    "created_at": "Sat Sep 12 14:45:09 +0000 2026",
+    "id_str": "2098784988963782984",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather run 20 agents that check each other than 1 agent that checks itself.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2098785000707772770",
+    "time": "2026-09-12 22:45",
+    "created_at": "Sat Sep 12 14:45:12 +0000 2026",
+    "id_str": "2098785000707772770",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@dotey 占便宜也没意义，是纯粹的快乐",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098749449157890258",
+    "time": "2026-09-12 20:23",
+    "created_at": "Sat Sep 12 12:23:56 +0000 2026",
+    "id_str": "2098749449157890258",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@fatwang2ai @hwwaanng trust 没了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098749827798683667",
+    "time": "2026-09-12 20:25",
+    "created_at": "Sat Sep 12 12:25:26 +0000 2026",
+    "id_str": "2098749827798683667",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@shaonvbing 人类需要汲取太阳的能量\n不同地方的太阳的能量是不一样的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2098772888606458298",
+    "time": "2026-09-12 21:57",
+    "created_at": "Sat Sep 12 13:57:04 +0000 2026",
+    "id_str": "2098772888606458298",
+    "is_retweet": false
   }
 ]
