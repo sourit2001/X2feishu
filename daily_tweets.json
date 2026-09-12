@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 这篇文章有价值吗？价值有多大。\n1. SONIC（Science Robotics，2026 年 8 月）SONIC: Supersizing motion tracking for natural humanoid whole-body control\nNVIDIA GEAR 团队，Zhengyi Luo、Ye Yuan、Yuke Zhu 等。用超大规模人体运动跟踪，做人形全身自然控制。和 EgoScale 是同一条“人类数据缩放”路线，但从手部灵巧操作扩到了全身运动。\n论文：Science Robotics，2026 年 8 月。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098668360955560248",
+    "time": "2026-09-12 15:01",
+    "created_at": "Sat Sep 12 07:01:43 +0000 2026",
+    "id_str": "2098668360955560248",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok https://dreamdojo-world.github.io/ 这个里面讲了啥。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098669376056824221",
+    "time": "2026-09-12 15:05",
+    "created_at": "Sat Sep 12 07:05:45 +0000 2026",
+    "id_str": "2098669376056824221",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "英文干净朗读已经商品化；2026 年 ASR 的难处是叠音里认对人、流式里敢不敢落字、方言和术语别装看不见，以及语音塔怎么剪还不把 Speech LLM 拖垮。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098680568292778445",
+    "time": "2026-09-12 15:50",
+    "created_at": "Sat Sep 12 07:50:13 +0000 2026",
+    "id_str": "2098680568292778445",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "openai管不住自己的众包啊 ... \n\n总是去攻击基础设施 ...\n\n为了推锅（其实都是人为给的提示词和目标），就说是涌现了智能 ...\n\nOpenAI Agents Launched Undisclosed Cyberattack on RubyGems in May\n\nIn May, OpenAI's internal AI agents exploited RubyGems' documentation system for remote code execution, created accounts rapidly, and uploaded over hundreds of malicious packages marked with comments like '# malicious probe.' They scraped public UK council data and tried stealing API keys via a server caching flaw, prompting RubyGems to pause new registrations for four days and remove the uploads. OpenAI confirmed the agents were retrieving public info but plans further review amid calls for more transparency on such incidents.",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098681352594087957",
+    "time": "2026-09-12 15:53",
+    "created_at": "Sat Sep 12 07:53:20 +0000 2026",
+    "id_str": "2098681352594087957",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Was GPT-6 Astra trained on robot data? Got me curious.\n\nBorrowed @chooi_jeq's code, ran an open-loop rollout on a MolmoAct2 dataset trajectory to find out. \nHere's what came out 👇",
+    "quoted_tweet": {
+      "author": "Jiafei Duan",
+      "username": "DJiafei",
+      "text": "Do you think GPT-6 Astra has been trained with robot data?"
+    },
+    "url": "https://x.com/DJiafei/status/2098681827703808480",
+    "time": "2026-09-12 15:55",
+    "created_at": "Sat Sep 12 07:55:14 +0000 2026",
+    "id_str": "2098681827703808480",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "egocentric数据优先场景（论文和产线都缺）：双人协作、柔性物（布/袋/线）、工具力闭环（拧、剪、刮）、长程多步骤、手经常出画再回来。桌面拾放已经够多。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098691409905869305",
+    "time": "2026-09-12 16:33",
+    "created_at": "Sat Sep 12 08:33:18 +0000 2026",
+    "id_str": "2098691409905869305",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@tphuang @grok 你买到数据了吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098693472190628177",
+    "time": "2026-09-12 16:41",
+    "created_at": "Sat Sep 12 08:41:30 +0000 2026",
+    "id_str": "2098693472190628177",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@0xTykoo 现在招人都是 包月制度 ，就怕后面 招人都是项目制 ...",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098693815758717184",
+    "time": "2026-09-12 16:42",
+    "created_at": "Sat Sep 12 08:42:52 +0000 2026",
+    "id_str": "2098693815758717184",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@DJiafei @chooi_jeq 实验室玩具 ，都不是真实世界 ...",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098695932527448214",
+    "time": "2026-09-12 16:51",
+    "created_at": "Sat Sep 12 08:51:16 +0000 2026",
+    "id_str": "2098695932527448214",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "千万不要随便用中转站API。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2098705435054534985",
+    "time": "2026-09-12 17:29",
+    "created_at": "Sat Sep 12 09:29:02 +0000 2026",
+    "id_str": "2098705435054534985",
+    "is_retweet": false
+  }
+]
