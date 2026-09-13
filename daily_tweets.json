@@ -35,5 +35,31 @@
     "created_at": "Sun Sep 13 14:19:33 +0000 2026",
     "id_str": "2099140932428009514",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Wild 24 hours for AI and lots of different proposals have been made.\n\nTLDR; the only *tangible* new fact is that OpenAI and Anthropic are going to have embedded 3rd party evaluators from unknown organizations with Dario floating METR as a possibility. Having 3rd party evaluators is smart as there is no Section 230 style liability shield for model outputs and showing a “duty of care” will be important in future litigation. Several internet companies might have gone bankrupt without Section 230 so limiting liability really matters.\n\nThere are minimal investment implications from this single new fact, but I do think that for anyone who wants a “smoother for longer” cycle then most constraints are good: wafers, watts, real rates and spreads. Excessive regulation is a different matter but I don’t think we are anywhere close to this even if the vector changed over the last 24 hours.\n\nTo summarize the events: \n\nDario made the most maximalist proposal of the weekend: embedded 3rd party evaluators, a national regulatory regime for models beyond a certain capability/ingredient threshold, a broad international regulatory pact between democracies, stricter limits on compute/distillation for China and then a different international regulatory regime that encompasses China. Before there is a national regulatory regime, he wants a Sherman act waiver so that Anthropic can safely coordinate with OpenAI and other frontier labs without antitrust fears. TBF, this latest proposal is much less maximalist than some of his prior proposals like “Policy on the AI Exponential,” where he advocated for an FAA for AI. I believe he is sincere in his beliefs. And despite all the protestations, all of this would also probably be good for his business over the long-term.\n\nSam agreed that embedded 3rd party evaluators were a good idea and stated they would implement them. Again, this is smart as should help limit future liability.\n\nElon said “Dario is right” and later specified that “Dario is right that there should be some oversight. Peer review of AI by competitors is the right way to start this off.” This would be a MPAA like self-regulatory structure for AI with regular calls between the labs plus a process where each new model is evaluated for safety by competitors for a 1-2 week period before being released. That is *wildly* different from Dario’s proposal and in-line with what David Sacks has been proposing. Elon also stated that nothing was going to slow down open-weight models.\n\nDemis said that Dario’s essay was a “step in the right direction.” Dario also said that he was also open to Demis’ idea of a FINRA like self-regulatory structure as part of his proposal. \n\nDavid Sacks had a thoughtful post where he said that Dario and Sam should pace unilaterally, called the antitrust waiver a cartel request and denied that METR was truly independent given their ties to Anthropic.\n\nSriram Krishnan, former White House AI advisor, noted that it would be important to have the 3rd party evaluators come from independent organizations that are not affiliated with any lab, which is basically an indirect statement about the relationship between METR and Anthropic which Sacks was explicit about.\n\nClem from Hugging Face said they were open to being a neutral 3rd party evaluator, which is interesting especially if Jensen was consulted before that post.\n\nAlexander Wang from Meta noted that alignment would be an increasing focus going forward.\n\nAn executive order seems likely after all this and the language in this EO is going to be really important. It is possible to democratize and distribute AI broadly and safely without centralizing it in the hands of a few corporations who might each become more powerful than any single government.\n\nI do not want a few humans in control of intelligence.\n\nI want us all to have our own intelligences that reflect our own values and human variation in all of its richness.\n\nIntelligence distribution over intelligence centralization FTW.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GavinSBaker/status/2099170698887315833",
+    "time": "2026-09-14 00:17",
+    "created_at": "Sun Sep 13 16:17:49 +0000 2026",
+    "id_str": "2099170698887315833",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "孙哥 @justinsuntron 又在搞事情了，这几天他和 @CanaryFunds 这个机构合作，搞了个波场版本的 “质押 ETF”，Ticker 是 $TRXS，现在已经在美国的 Cboe BSX 交易所上线了。\n\n这个 $TRXS 有点类似贝莱德发行的以太坊质押 ETF $ETHB\n\n买 $ETHB 除了约等于买入了以太坊现货之外，还加上了以太坊本身的质押收益，这个 $TRXS 也大概是这个意思，买入 $TRXS 就约等于买入了 $TRX 的现货，再加上其本身的质押收益。\n\n这段时间孙哥在美股的动作很多，现在美股那里，一共有两个 Ticker 是波场相关的，一个是之前的 $TRON，扮演的是波场微策略的角色，然后还有一个是今天聊的这个 $TRXS，波场的质押 ETF，类似以太坊的 $ETHB 的角色。",
+    "quoted_tweet": {
+      "author": "H.E. Justin Sun 👨‍🚀 🌞",
+      "username": "justinsuntron",
+      "text": "Looking forward to discussing the Canary Staked TRX ETF with @CanaryFunds. \n\nTune in tomorrow."
+    },
+    "url": "https://x.com/wolfyxbt/status/2099107223414907382",
+    "time": "2026-09-13 20:05",
+    "created_at": "Sun Sep 13 12:05:36 +0000 2026",
+    "id_str": "2099107223414907382",
+    "is_retweet": true
   }
 ]
