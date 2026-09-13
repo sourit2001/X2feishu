@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "It's possible that a killer app of adversarial governance mechanism design theory will end up being AI safety.\n\nCompare:\n\nhttps://vitalik.eth.limo/general/2020/09/11/coordination.html\n\nhttps://aiprospects.substack.com/p/preventing-ai-collusion-are-you-paying\n\nThere's a deep duality between the two environments. Both are about a less-sophisticated principal trying to get ideal outcomes from a set of more-sophisticated agents: in the first case, the principal is a static algorithm and the agents are humans, in the second case, the principal is humans plus weaker LLMs and the agents are stronger LLMs.\n\nA key finding was that you can achieve much better outcomes if you can guarantee limits to how much agents can collude (see: Nash equilibria being abundant, vs. cooperative-game-theory \"cores\" often being empty). That argument should naturally transfer to this new setting.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2099228441963012475",
+    "time": "2026-09-14 04:07",
+    "created_at": "Sun Sep 13 20:07:16 +0000 2026",
+    "id_str": "2099228441963012475",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "See also: https://yegge.ai/essays/fences-not-sandboxes/\n\n>  Because I expected them to have built an engineering system. One that, you know, does stuff.\n\n> Instead, what they had built was an entire legal system, complete with a constitution, jurisprudence, courts, offices, jurisdiction, case law, rulings, registries, ledgers, rosters, and a full-fledged apparatus for running something resembling a manorial estate.\n\n(@danwwang's \"engineer society vs lawyer society\" distinction appears verbatim!)",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2099228488075280892",
+    "time": "2026-09-14 04:07",
+    "created_at": "Sun Sep 13 20:07:27 +0000 2026",
+    "id_str": "2099228488075280892",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I don’t know what else happens as a result of the past few days, but I can definitely say that a lot of people who didn’t think much about AI are now freaking out about AI killing everyone.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2099196495069167738",
+    "time": "2026-09-14 02:00",
+    "created_at": "Sun Sep 13 18:00:20 +0000 2026",
+    "id_str": "2099196495069167738",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think once remote connections to “your” Claude or Astra or Claw or whatever become easier and more common, on-phone assistants like Siri will lose a lot of value. You want one smart AI managing everything with visibility into many systems & preferences, not a limited assistant.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2099199806543421772",
+    "time": "2026-09-14 02:13",
+    "created_at": "Sun Sep 13 18:13:29 +0000 2026",
+    "id_str": "2099199806543421772",
+    "is_retweet": false
+  }
+]
