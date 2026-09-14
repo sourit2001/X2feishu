@@ -587,5 +587,42 @@
     "created_at": "Mon Sep 14 00:04:03 +0000 2026",
     "id_str": "2099288028577481076",
     "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "免费、优雅的 Markdown 编辑器 ColaMD \n今天正式发布 2.1 版本\n新版本支持了标签页，可以方便地在同一个窗口里浏览多个文件\n\n- 创建标签页，⌘T\n- 关闭标签页，⌘W\n- 在文件列表中⌘+鼠标点击，可迅速打开多个标签\n\n这个版本还优化了安装包的体积，从 200 多 M 到现在 80M，瘦身 60%。\n社区用户评价，这个版本的完成度已经相当高了，就算养老都没问题，可以供大众用户稳定使用，推荐所有用户前来体验。\n\n这个版本也将作为一个阶段性的终点\n后续我们将构建开放的插件系统，把分栏、AI、工作区 等功能作为插件引入，让每个人定制自己的 Markdown 编辑器，同时不影响核心功能的稳定性\n\nColaMD 现已支持 Mac Windows Linux\n开源仓库 https://github.com/marswaveai/ColaMD\n永久官网 http://ColaMD.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2099276855451033822",
+    "time": "2026-09-14 07:19",
+    "created_at": "Sun Sep 13 23:19:39 +0000 2026",
+    "id_str": "2099276855451033822",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://x.com/i/article/2099286997743603712",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2099287581066412212",
+    "time": "2026-09-14 08:02",
+    "created_at": "Mon Sep 14 00:02:16 +0000 2026",
+    "id_str": "2099287581066412212",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "大家好，今天向大家介绍一下我和杨攀、归藏、乔木等一起创办的视频播客《Next Token 词元之外》。\nNext Token 是一档解读前沿 AI 资讯的科技周报节目。播客第一期上线一周后，小宇宙订阅数突破了 1000，单集播放量突破 3000。\n播客第二期在上海录制，主题是 iPhone Duo、GPT 6 Astra、DeepSeek Flash、大模型降智等话题。\n欢迎大家收听、留言、订阅，并转发给朋友们。",
+    "quoted_tweet": {
+      "author": "Orange AI",
+      "username": "oran_ge",
+      "text": "https://x.com/i/article/2099286997743603712"
+    },
+    "url": "https://x.com/oran_ge/status/2099288354462576947",
+    "time": "2026-09-14 08:05",
+    "created_at": "Mon Sep 14 00:05:21 +0000 2026",
+    "id_str": "2099288354462576947",
+    "is_retweet": false
   }
 ]
