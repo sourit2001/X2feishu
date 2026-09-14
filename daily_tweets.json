@@ -790,5 +790,86 @@
     "created_at": "Mon Sep 14 15:37:58 +0000 2026",
     "id_str": "2099523055017935247",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Huh.",
+    "quoted_tweet": {
+      "author": "Boris Power",
+      "username": "BorisMPower",
+      "text": "This number is way off. You’re comparing one human brain to an entire data center capable of training new models. The actual answer is:\n\nIQ points per watt:\nHumans: 5\nAI: 7 - 40 (!!)\n\nBy my rough calculations the current AI is already served more efficiently than humans for equivalently intelligent work performed!\n\nA single gpu can produce outputs and parse inputs way faster than a human and can do many of such requests in parallel. A larger model generally mostly means you need more gpus to serve it, but that often also increases how many requests you can serve in parallel, so I’m reporting on the share of the serving system, and also normalizing for speed.\n\nReally a better way to measure and report it is joules per equally good completed task, as your formulation suggests we can likely add more watts to get more iq, which isn’t correct.\n\nI did some back of the napkin calculations based on the latest serving hardware and the most powerful open source models. But even given pretty generous assumptions it turns outout computers come ahead. For example the request is allocated approximately 60 W while running, but finishes a task in about one-seventh of the human time."
+    },
+    "url": "https://x.com/emollick/status/2099465393857307092",
+    "time": "2026-09-14 19:48",
+    "created_at": "Mon Sep 14 11:48:50 +0000 2026",
+    "id_str": "2099465393857307092",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Lets see where this goes...",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2099542407972897028",
+    "time": "2026-09-15 00:54",
+    "created_at": "Mon Sep 14 16:54:52 +0000 2026",
+    "id_str": "2099542407972897028",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I admittedly am not a linguist, so unless GPT-6 says \"I can now read all Linear A and here are the translations,\" this will just be researchslop.\"\n\nAlso, I am using what is likely a terrible prompting technique, please do not use it yourself.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2099543665395851565",
+    "time": "2026-09-15 00:59",
+    "created_at": "Mon Sep 14 16:59:52 +0000 2026",
+    "id_str": "2099543665395851565",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Your AGENTS.​md is slowing Astra down. This prompt fixes it while you sleep.\n\nPaste it into Codex once:",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099509735276028067",
+    "time": "2026-09-14 22:45",
+    "created_at": "Mon Sep 14 14:45:02 +0000 2026",
+    "id_str": "2099509735276028067",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1 nightly job keeps the old instructions out. Writing new ones Astra follows is the other half. Setup in 5 minutes, how to brief it, and which plan you need, free:\n\nhttps://godofprompt.ai/guides/gpt6-astra-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099509759770763342",
+    "time": "2026-09-14 22:45",
+    "created_at": "Mon Sep 14 14:45:08 +0000 2026",
+    "id_str": "2099509759770763342",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather let Codex clean its own room than do it every Monday.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099509771443585302",
+    "time": "2026-09-14 22:45",
+    "created_at": "Mon Sep 14 14:45:11 +0000 2026",
+    "id_str": "2099509771443585302",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@SjwEsther 读书一定要慢，我都直接买纸质书",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2099487107119292907",
+    "time": "2026-09-14 21:15",
+    "created_at": "Mon Sep 14 13:15:07 +0000 2026",
+    "id_str": "2099487107119292907",
+    "is_retweet": false
   }
 ]
