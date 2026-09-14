@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 居然在 Apple Podcast 里面搜索不到。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Alon_Ann/status/2099373705130619116",
+    "time": "2026-09-14 13:44",
+    "created_at": "Mon Sep 14 05:44:30 +0000 2026",
+    "id_str": "2099373705130619116",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Alon_Ann 国区同步需要时间",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2099393670378340643",
+    "time": "2026-09-14 15:03",
+    "created_at": "Mon Sep 14 07:03:50 +0000 2026",
+    "id_str": "2099393670378340643",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 老师，MacOS 也是这套吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Zhouxiaodiovs1/status/2099389867788845144",
+    "time": "2026-09-14 14:48",
+    "created_at": "Mon Sep 14 06:48:43 +0000 2026",
+    "id_str": "2099389867788845144",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "个人建议 iOS 开发最佳组合：\n技术栈选 AppKit，不要选 SwiftUI\n先将 Figma 导入 Claude Design（Opus 5 就够了）\n然后用 Fable 照着 Claude Design 结果开发，会还原的非常好\n\n第一版做好了，后续修改，只要用 GPT 或者 Opus 5 就够了",
+    "quoted_tweet": {
+      "author": "Ding",
+      "username": "dingyi",
+      "text": "现在写 iOS 最好的模型是哪个？Grok 简直是智障了，GPT-6 太费钱了，我仅仅让它把所有界面导入 Figma，还是开的 Astra Medium，竟然都没导完就限额了。。。"
+    },
+    "url": "https://x.com/dotey/status/2099390058067280383",
+    "time": "2026-09-14 14:49",
+    "created_at": "Mon Sep 14 06:49:29 +0000 2026",
+    "id_str": "2099390058067280383",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Zhouxiaodiovs1 对，不过用 AppKit",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2099390343594545211",
+    "time": "2026-09-14 14:50",
+    "created_at": "Mon Sep 14 06:50:37 +0000 2026",
+    "id_str": "2099390343594545211",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "牛P\n\n这个好\n\n当你不注视屏幕的时候，自动模糊你笔记本的屏幕内容，用过AirPods 的头部追踪进行判断\n\n真是个脑洞大开的想法",
+    "quoted_tweet": {
+      "author": "Bryl Lim",
+      "username": "bryllim_",
+      "text": "Inspired by the iPhone Duo, I built a Mac app that blurs the side of your screen when you’re not facing your laptop screen to hide what you’re working on and uses Airpods for head tracking."
+    },
+    "url": "https://x.com/xiaohu/status/2099404067470819441",
+    "time": "2026-09-14 15:45",
+    "created_at": "Mon Sep 14 07:45:09 +0000 2026",
+    "id_str": "2099404067470819441",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Grok Bot新增了一个\"本地出口路由\"（local egress routing）功能\n\n可以让流量从你本机转一圈再出去\n\nGrok Bot 平时执行任务云端虚拟机里跑的，所以对外请求的 IP 地址是数据中心的 IP，不是你自己的 IP。\n\n现在可以把 Grok Bot 虚拟机的网络流量绕一圈，从你自己的电脑（本地机器）出去\n\n这样对方网站看到的访问来源就是你自己的 IP，而不是数据中心的 IP...\n\n有什么用：\n\n有些网站/服务会屏蔽数据中心IP（比如很多云服务商、VPS的IP段），只允许\"看起来像真人\"的家庭/办公网络IP访问，这种\"挑剔\"的网站以前 Grok Bot 直连会被拦\n\n还有些服务本来就要求必须从你本人的IP发起请求（比如一些有IP白名单限制的内部系统、银行、区域限制服务等），只有走本地IP才能用\n\n怎么开启：去 Settings（设置）> Computer（电脑）> Route egress（路由出口） 打开这个开关\n\n注意：需要先把 Grok Bot 的\"computer\"组件更新到最新版本，这个功能才能用。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099409639234289914",
+    "time": "2026-09-14 16:07",
+    "created_at": "Mon Sep 14 08:07:17 +0000 2026",
+    "id_str": "2099409639234289914",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 放了个视频\n演示 CLaude Tag 怎么帮工程师值夜班…..\n\n晚上 11点，支付接口的出错率冲破 2%，值班工程师被报警叫醒\n\n结果她还没打开电脑，CLaude 已经在查了\n\nCLaude Tag就在工作群里（ SLack 里），全程是这样：\n\n• 报警一响直接开查：拉监控数据、对比最近几次上线、翻功能开关的改动记录\n\n• 15 分钟找到原因：新功能里负责重发的程序没限制并发数，把队列冲爆了\n\n• 列出两个修复方案，推荐一个，然后 ＠ 工程师拍板\n\n• 工程师只回了一句“加上限，功能保持开着\"，它才去改代码，一共4行\n\n• 上线后自己盯 10分钟出错率，稳住了才宣布修好，还给下次留了条备注：“先查功能开关\"\n\n不只是自动瞎搞，权限有边界，能查问题、能提改代码的申请，但合并和上线必须有人批准\n\n一种自动化值班方案...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099414562516943276",
+    "time": "2026-09-14 16:26",
+    "created_at": "Mon Sep 14 08:26:51 +0000 2026",
+    "id_str": "2099414562516943276",
+    "is_retweet": false
+  }
+]
