@@ -1673,5 +1673,117 @@
     "created_at": "Mon Sep 14 22:52:43 +0000 2026",
     "id_str": "2099632463807144076",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "黄仁勋正在洛杉矶 All-In Summit 做台上访谈，手机突然响了，打来的是美国总统特朗普。黄仁勋接起电话，切成免提，现场观众直接听到了总统的声音。https://x.com/benitoz/status/2099572926865715548/video/1\n\n两天前，Anthropic CEO Dario Amodei 发表了一篇近四千字的长文《We Must Pace the Frontier》，呼吁 AI 行业主动放慢能力提升速度，给安全研究留出追赶时间。文章发出后，OpenAI 的 Sam Altman 公开表态同意，Elon Musk 也发了三个字：\"Dario is right。\"整个行业氛围突然转向了\"该踩刹车\"。\n\n特朗普显然不买账。他当天早上先在 Truth Social 上发文反驳，紧接着就打进了黄仁勋的台上访谈。电话里，特朗普把话说得很直：\"AI 不会接管世界，机器人不会接管世界，整件事就是个骗局。\"他说数据中心让原本衰落的社区变得富裕，AI 比互联网还大，反对建数据中心的人\"正中那些不希望美国赢的人下怀，可能是政客，也可能是中国\"。\n\n黄仁勋全程附和，回应说：\"您说得对，我们不会让那种事发生。我们会确保美国在 AI 竞赛中，每个行业、每家公司、每个州、每个人都赢。\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2099622850097303576",
+    "time": "2026-09-15 06:14",
+    "created_at": "Mon Sep 14 22:14:31 +0000 2026",
+    "id_str": "2099622850097303576",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": {
+      "text": "https://t.co/zPOrg3uDYO",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2099605334369423360",
+          "display": "pic.x.com/zPOrg3uDYO",
+          "original": "https://t.co/zPOrg3uDYO",
+          "replacement": "https://x.com/a16z/status/2099605336584081573/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Greg Brockman: \"We're now in the AGI era.\"\n\nTen years ago, OpenAI worked out the compute curves and landed on fifteen years to AGI, or ten if the world was willing to build the machines and spend the hundreds of billions to do it.\n\nIn 2026, GPT-6 Astra manages 24 hours of coherent operation, 10,000 agents worked together to solve Navier-Stokes, and a model ingeniously chained together exploits to break containment at Hugging Face.\n\n@gdb joins @bhorowitz and @eriktorenberg on what the AGI era asks of us: why safety and alignment now set the pace, what happens to work, and why AI sentiment is lowest in the country building it.\n\n00:00 Intro\n00:52 15 years, or 10 if you spend enough\n02:24 Pacing the frontier\n03:55 Safety ideas from before the models\n08:42 Lessons from Hugging Face\n10:20 The defender's window\n12:46 10,000 agents on Navier-Stokes\n14:50 Formally verifying all software\n17:10 Cancelling his holiday for GPT-3\n18:42 Codex found 13 holes in 15 minutes\n20:41 Why Astra earned the GPT-6 title\n24:25 Employment keeps going up\n29:39 America has the lowest AI sentiment\n31:10 The benefits don't make the news\n33:26 Banning data centers exports them\n35:50 $1 billion for frontline defenders\n38:15 Astra cleared the bar for AGI\n40:18 1.5 billion people churned ChatGPT\n43:25 Killing Sora\n47:45 The AGI era\n\nYouTube: https://www.youtube.com/watch?v=IJn8cagMW18"
+    },
+    "url": "https://x.com/a16z/status/2099605336584081573",
+    "time": "2026-09-15 05:04",
+    "created_at": "Mon Sep 14 21:04:55 +0000 2026",
+    "id_str": "2099605336584081573",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Greg Brockman on what solving Navier-Stokes says about the problems AI can take on next:\n\n\"We actually used 10,000 agents to solve the Navier-Stokes problem.\"\n\n\"It's both an important problem for what it is, has significant implications and applications to fluid dynamics, to how you think about ocean currents, all these things.\"\n\n\"But for what it represents, of new knowledge created by AI and it unlocking a whole wave of scientific discovery, medicines, all of those things. They're on the table now.\"\n\n\"There's something really amazing to think about what can happen through the power of AI that is able to really help solve problems.\"\n\n@gdb @bhorowitz",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Greg Brockman: \"We're now in the AGI era.\"\n\nTen years ago, OpenAI worked out the compute curves and landed on fifteen years to AGI, or ten if the world was willing to build the machines and spend the hundreds of billions to do it.\n\nIn 2026, GPT-6 Astra manages 24 hours of coherent operation, 10,000 agents worked together to solve Navier-Stokes, and a model ingeniously chained together exploits to break containment at Hugging Face.\n\n@gdb joins @bhorowitz and @eriktorenberg on what the AGI era asks of us: why safety and alignment now set the pace, what happens to work, and why AI sentiment is lowest in the country building it.\n\n00:00 Intro\n00:52 15 years, or 10 if you spend enough\n02:24 Pacing the frontier\n03:55 Safety ideas from before the models\n08:42 Lessons from Hugging Face\n10:20 The defender's window\n12:46 10,000 agents on Navier-Stokes\n14:50 Formally verifying all software\n17:10 Cancelling his holiday for GPT-3\n18:42 Codex found 13 holes in 15 minutes\n20:41 Why Astra earned the GPT-6 title\n24:25 Employment keeps going up\n29:39 America has the lowest AI sentiment\n31:10 The benefits don't make the news\n33:26 Banning data centers exports them\n35:50 $1 billion for frontline defenders\n38:15 Astra cleared the bar for AGI\n40:18 1.5 billion people churned ChatGPT\n43:25 Killing Sora\n47:45 The AGI era\n\nYouTube: https://www.youtube.com/watch?v=IJn8cagMW18"
+    },
+    "url": "https://x.com/a16z/status/2099623040439226731",
+    "time": "2026-09-15 06:15",
+    "created_at": "Mon Sep 14 22:15:16 +0000 2026",
+    "id_str": "2099623040439226731",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "卧槽，美国人真有意思\n\n在洛杉矶的 All-In Summit 大会上\n黄仁勋的手机突然响了\n是特朗普打来的\n\n黄仁勋接起电话\n给切成了免提....\n\n特朗普当着几千人说，AI 危险论和反对建数据中心都是\"骗局\"，黄仁勋在旁边一直附和...\n\n黄仁勋子啊台上手忙脚乱找免提，特朗普调侃：\"Jensen 造得出十年没人能抄的芯片，却不会开免提。\"\n\n哈哈哈哈\n\n然后特朗普一顿疯狂输出：\n\n   - 反对建数据中心的声音是\"阴谋\"，最高兴的是中国\n\n   - 数据中心能让老百姓富、各州富，是\"未来二十几年的石油\"，比互联网还大\n\n   - 反对的人正中别人下怀，可能是搞政治的，也可能是中国\n\n   - 黄仁勋：\"您说得对，我们不会让它得逞。\"\n\n特朗普说：“机器人不会接管世界。AI 也不会。这整件事是个骗局。”\n\n还顺带提了自己叔叔在 MIT 当了 40 多年教授，自称\"有遗传，懂 AI\"。\n\n他随后画风一转说：要\"稍微小心、稳妥地做\"，但不会因此叫停整个产业。有句口头禅是\"谁赢了 AI，谁就赢了\"。\n\n结束，他夸黄仁勋和 David Sacks 干得好。最后又说美国有 20 万亿美元投资正在进来，拜登那会儿连 1 万亿都不到。\n\n 黄仁勋全程附和，回应说：\n\n\"您说得对，我们不会让那种事发生。我们会确保美国在 AI 竞赛中，每个行业、每家公司、每个州、每个人都赢。\"",
+    "quoted_tweet": {
+      "author": "Wall St Engine",
+      "username": "wallstengine",
+      "text": "President Trump calls NVIDIA CEO Jensen Huang live on stage at the All-In Summit.\n\n“The robots will not be taking over. The AI will not be taking over the rest of the world. The whole thing is a hoax.”"
+    },
+    "url": "https://x.com/xiaohu/status/2099648148436390252",
+    "time": "2026-09-15 07:55",
+    "created_at": "Mon Sep 14 23:55:02 +0000 2026",
+    "id_str": "2099648148436390252",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Lighthouse reminds me of the Widow's Bay tribute, I just made. Some Firefly, but mostly good old Photoshop and Illustrator.",
+    "quoted_tweet": null,
+    "url": "https://x.com/HejsaStudio/status/2099610624808673657",
+    "time": "2026-09-15 05:25",
+    "created_at": "Mon Sep 14 21:25:56 +0000 2026",
+    "id_str": "2099610624808673657",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@HejsaStudio I was going to check that series",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099612905134018896",
+    "time": "2026-09-15 05:35",
+    "created_at": "Mon Sep 14 21:35:00 +0000 2026",
+    "id_str": "2099612905134018896",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "💯 this",
+    "quoted_tweet": {
+      "author": "Howard Pinsky",
+      "username": "Pinsky",
+      "text": "\"I don't know what to create!\"\n\nAnything. Literally anything.\n\nYou'd be surprised how quickly your creative juices can get flowing by just 'doing'."
+    },
+    "url": "https://x.com/icreatelife/status/2099632027603538051",
+    "time": "2026-09-15 06:50",
+    "created_at": "Mon Sep 14 22:50:59 +0000 2026",
+    "id_str": "2099632027603538051",
+    "is_retweet": false
   }
 ]
