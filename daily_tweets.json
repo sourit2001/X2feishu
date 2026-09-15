@@ -272,5 +272,204 @@
     "created_at": "Tue Sep 15 13:22:24 +0000 2026",
     "id_str": "2099851329573437571",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "$CCXI releases their Digit 5 next-generation humanoid.\n\nThoughts?",
+    "quoted_tweet": {
+      "author": "Agility",
+      "username": "agilityrobotics",
+      "text": "Introducing Digit 5.\n\nAgility’s next-generation humanoid, engineered for cooperatively safe work at scale, allowing it to work in close proximity to people without the physical safety barriers required by traditional automation.\n\nExplore Digit 5: https://www.agilityrobotics.com/solutions/digit\nWatch the full video: https://youtu.be/oyq9BOwK5XI"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2099830591663513642",
+    "time": "Tue Sep 15 12:00:00 +0000 2026",
+    "created_at": "Tue Sep 15 12:00:00 +0000 2026",
+    "id_str": "2099830591663513642",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Would it hurt to make them look cool?",
+    "quoted_tweet": null,
+    "url": "https://x.com/FabioCHZ/status/2099831836700442731",
+    "time": "Tue Sep 15 12:04:57 +0000 2026",
+    "created_at": "Tue Sep 15 12:04:57 +0000 2026",
+    "id_str": "2099831836700442731",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit What do you think about CCXI as a long term entry? 5 years max @aleabitoreddit",
+    "quoted_tweet": null,
+    "url": "https://x.com/blkslymn/status/2099832837440438588",
+    "time": "Tue Sep 15 12:08:56 +0000 2026",
+    "created_at": "Tue Sep 15 12:08:56 +0000 2026",
+    "id_str": "2099832837440438588",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@blkslymn I’m a fan of $CCXI since they’re targeting commercialization first with companies like $AMZN to $MELI.\n\nI think they could get a higher valuation from retail it looked like the terminator and can backflip.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2099838402749435966",
+    "time": "Tue Sep 15 12:31:02 +0000 2026",
+    "created_at": "Tue Sep 15 12:31:02 +0000 2026",
+    "id_str": "2099838402749435966",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@FabioCHZ I also would cheer on a futuristic redesign.\n\nI think it’s more of a Waymo “friendly companion” type vibe focused on B2B commercialization rather than exciting retail.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2099839650106126839",
+    "time": "Tue Sep 15 12:36:00 +0000 2026",
+    "created_at": "Tue Sep 15 12:36:00 +0000 2026",
+    "id_str": "2099839650106126839",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "There are things I disagree with here, but there is important stuff to learn from taking the perspective of parts of the cybersecurity industry that rogue AI incidents may be best understood as security & organizational failures that allowed rogue behavior to turn into problems.",
+    "quoted_tweet": {
+      "author": "Sayash Kapoor",
+      "username": "sayashk",
+      "text": "What does it mean to pace the frontier? \n\nOver the last month, @random_walker and I have analyzed the loss-of-control incidents at AI companies to understand what technical and policy interventions can improve safety and what companies should do to pace the frontier. The result is a new 13,000 word essay — our most substantial writing on AI safety since AI as Normal Technology.\n\nA summary of our arguments:\n\n1) The polarization between the cybersecurity and AI safety communities is counterproductive. The safety community largely sees these incidents as a crisis for alignment, and worries that these incidents will become more damaging as agents become more capable. Cybersecurity practitioners largely see companies failing to take basic security precautions. We offer a middle ground between these communities as a way forward for improving AI safety.\n\n2) We agree with security practitioners that OpenAI did not take adequate protections for controlling their agents. But this is not just a matter of applying 30-year-old security methods to a new domain. Security for AI agents — AI control — while important, is not a solved problem. While known control methods would have prevented the Hugging Face incident, as agent capabilities continue to advance, we will only be able to control them if we invest adequately in control interventions.\n\n3) We also agree with security practitioners’ implicit position that these incidents are primarily a security story. In the AI safety community, rogue agents are treated as inherently catastrophic because of the assumption that there is an endless list of risks that will arise from their development. We disagree. We have long advocated that the best approach to AI safety is to identify the risks and address those specific risks. Over the last few months, it has become clear that one urgent risk is cyberoffense, because it has unique properties that allow agents to carry it out autonomously. We should similarly invest in defenses against other specific risks, such as biorisk and risks from military AI.\n\n4) We agree with the safety community that there is an urgent need for technical and policy interventions to prevent loss-of-control incidents. But in our view, marginal investments in control are more likely to be effective compared to those in alignment. We view these incidents as illustrating the lack of emphasis on AI control within companies, despite the availability of known techniques. More broadly, there are many common-sense policy proposals that could help promote investments in AI control where we share common ground with the safety community.\n\n5) Organization governance should be a key tool for pacing the frontier. Unfortunately, AI companies are trying to reinvent basic aspects of organizational governance as a problem to be solved by improving the technology. But even developing better control techniques will not be enough if irresponsible individuals or teams within large organizations can choose not to use them. When a single misconfigured RL environment or unmonitored evaluation can cause real-world harm, individual teams should not be able to run potentially dangerous experiments without oversight from legal, security, and other teams. AI companies need processes for reviewing experiments, assigning responsibility for monitoring them, and investigating warning signs deeply before restarting experiments. If putting these processes in place requires pausing some experiments, companies should do so.\n\n6) How should we reason about AI's impact on cybersecurity? It's plausible that advances in agent capabilities upset the offense-defense balance for cybersecurity. We cannot yet be certain, but there is enough evidence that agent capabilities might soon make widespread cyberoffense possible that urgent action is warranted. We discuss potential interventions for tilting the offense-defense balance towards defenders.\n\n7) How our views have evolved over the last year. We take stock of AI progress and share how we have updated our views. In the essay, we did not pay sufficient attention to safety risks that arise during development and evaluation (as opposed to the widespread deployment of models). We were too confident that companies would take basic control precautions and underplayed the importance of jaggedness, which led us to underestimate how quickly capabilities could improve in domains such as cybersecurity. \n\n8) At the same time, many distinctive claims of AI as Normal Technology have held up. In particular, we think recent incidents support our continuity hypothesis — the behavior of \"rogue\" agents became apparent and widely publicized while they are still incompetent at causing serious harm or hiding their traces. The societal reaction to even the relatively small harms from these incidents has been fierce (and the safety community deserves credit for keeping up pressure on companies). Whether this translates into meaningful changes in companies’ behavior remains an open question, and a test of the usefulness of the AINT framework. \n\n9) In short, we’ve tried to synthesize  the AI safety and cybersecurity communities' views into a coherent plan of action: hold companies responsible, invest in control, and strengthen defenses against specific risks."
+    },
+    "url": "https://x.com/emollick/status/2099859873076764764",
+    "time": "Tue Sep 15 13:56:21 +0000 2026",
+    "created_at": "Tue Sep 15 13:56:21 +0000 2026",
+    "id_str": "2099859873076764764",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Astra: “create a series of sprites for artist (Klimt, Rothko, O’Keefe, etc) inspired pixel art knights with special attacks & build a game”\n\nOne shot as an illustration of why you can’t say AI doesn’t exercise types of “judgement” & “creativity,” even if it isn’t the same as ours",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2099881570601439445",
+    "time": "Tue Sep 15 15:22:35 +0000 2026",
+    "created_at": "Tue Sep 15 15:22:35 +0000 2026",
+    "id_str": "2099881570601439445",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "OpenAI has a banned word list for Astra to stop AI slop.\n\nPaste this once into ChatGPT and every draft follows it:",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099835811592360359",
+    "time": "Tue Sep 15 12:20:45 +0000 2026",
+    "created_at": "Tue Sep 15 12:20:45 +0000 2026",
+    "id_str": "2099835811592360359",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Or skip writing prompts and use ones that already work:\n\nhttps://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099835835873104370",
+    "time": "Tue Sep 15 12:20:50 +0000 2026",
+    "created_at": "Tue Sep 15 12:20:50 +0000 2026",
+    "id_str": "2099835835873104370",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather fix AI writing in 1 paste than edit \"delve\" out of it forever.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099835847675875718",
+    "time": "Tue Sep 15 12:20:53 +0000 2026",
+    "created_at": "Tue Sep 15 12:20:53 +0000 2026",
+    "id_str": "2099835847675875718",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You ask Codex to build a page.\n\nIt writes the code, runs the tests, and says it's done.\n\nBut it never double checked. So you find something broken and wait for another fix.\n\nAdd this to your Codex request so Astra opens and tests the page first:",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099872127369486390",
+    "time": "Tue Sep 15 14:45:03 +0000 2026",
+    "created_at": "Tue Sep 15 14:45:03 +0000 2026",
+    "id_str": "2099872127369486390",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "That's how to make Astra check its own work. How to brief it so the first build is right is here, free:\n\nhttps://godofprompt.ai/guides/gpt6-astra-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099872151482536239",
+    "time": "Tue Sep 15 14:45:09 +0000 2026",
+    "created_at": "Tue Sep 15 14:45:09 +0000 2026",
+    "id_str": "2099872151482536239",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather have Astra click the button than find out it's broken from a user.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2099872163247599744",
+    "time": "Tue Sep 15 14:45:12 +0000 2026",
+    "created_at": "Tue Sep 15 14:45:12 +0000 2026",
+    "id_str": "2099872163247599744",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "“宇宙中最可怕的事实不是它充满敌意，而是它漠不关心。无论黑暗多么广阔，我们都必须自己点亮光芒”",
+    "quoted_tweet": {
+      "author": "kepano",
+      "username": "kepano",
+      "text": "This quote by Stanley Kubrick has gotten me through a lot of hard times:\n\n“The most terrifying fact about the universe is not that it is hostile but that it is indifferent […] However vast the darkness we must supply our own light”"
+    },
+    "url": "https://x.com/oran_ge/status/2099844464038834311",
+    "time": "Tue Sep 15 12:55:08 +0000 2026",
+    "created_at": "Tue Sep 15 12:55:08 +0000 2026",
+    "id_str": "2099844464038834311",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@kepano @bryan_johnson Beautiful also true",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2099844976150810854",
+    "time": "Tue Sep 15 12:57:10 +0000 2026",
+    "created_at": "Tue Sep 15 12:57:10 +0000 2026",
+    "id_str": "2099844976150810854",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这句话适用于宇宙，也适用于 AGI",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2099861660194521256",
+    "time": "Tue Sep 15 14:03:27 +0000 2026",
+    "created_at": "Tue Sep 15 14:03:27 +0000 2026",
+    "id_str": "2099861660194521256",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "今日将心注入，竟打造出了 Windows 上最美的 Markdown 编辑器",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2099876079452504113",
+    "time": "Tue Sep 15 15:00:45 +0000 2026",
+    "created_at": "Tue Sep 15 15:00:45 +0000 2026",
+    "id_str": "2099876079452504113",
+    "is_retweet": false
   }
 ]
