@@ -378,5 +378,222 @@
     "created_at": "Tue Sep 15 06:05:13 +0000 2026",
     "id_str": "2099741308667703654",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 加拿大商店没有哦",
+    "quoted_tweet": null,
+    "url": "https://x.com/indigox/status/2099731325083439306",
+    "time": "Tue Sep 15 05:25:33 +0000 2026",
+    "created_at": "Tue Sep 15 05:25:33 +0000 2026",
+    "id_str": "2099731325083439306",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 国区竟然收不到",
+    "quoted_tweet": null,
+    "url": "https://x.com/Leefa19741020/status/2099741602227093949",
+    "time": "Tue Sep 15 06:06:23 +0000 2026",
+    "created_at": "Tue Sep 15 06:06:23 +0000 2026",
+    "id_str": "2099741602227093949",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Leefa19741020 搜得到，搜“即览 ，在聊天中”",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2099747931721228555",
+    "time": "Tue Sep 15 06:31:33 +0000 2026",
+    "created_at": "Tue Sep 15 06:31:33 +0000 2026",
+    "id_str": "2099747931721228555",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@indigox 我看看",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2099747960666173936",
+    "time": "Tue Sep 15 06:31:39 +0000 2026",
+    "created_at": "Tue Sep 15 06:31:39 +0000 2026",
+    "id_str": "2099747960666173936",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 🤣🤣是我笨，还是找不到",
+    "quoted_tweet": null,
+    "url": "https://x.com/Leefa19741020/status/2099753046939209851",
+    "time": "Tue Sep 15 06:51:52 +0000 2026",
+    "created_at": "Tue Sep 15 06:51:52 +0000 2026",
+    "id_str": "2099753046939209851",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Leefa19741020 搜索的时候，在即览后面加上在聊天中。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2099774598799901182",
+    "time": "Tue Sep 15 08:17:30 +0000 2026",
+    "created_at": "Tue Sep 15 08:17:30 +0000 2026",
+    "id_str": "2099774598799901182",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 发财了",
+    "quoted_tweet": null,
+    "url": "https://x.com/hq4ai/status/2099778958120378730",
+    "time": "Tue Sep 15 08:34:50 +0000 2026",
+    "created_at": "Tue Sep 15 08:34:50 +0000 2026",
+    "id_str": "2099778958120378730",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@hq4ai 哈哈 没多少",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2099780543537877441",
+    "time": "Tue Sep 15 08:41:08 +0000 2026",
+    "created_at": "Tue Sep 15 08:41:08 +0000 2026",
+    "id_str": "2099780543537877441",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "帮转设计师求职",
+    "quoted_tweet": {
+      "author": "Ian (伊恩)",
+      "username": "ianneo_ai",
+      "text": "有无远程岗位😁，我的主页和作品：https://ianneo.xyz/"
+    },
+    "url": "https://x.com/dotey/status/2099731889871352025",
+    "time": "Tue Sep 15 05:27:48 +0000 2026",
+    "created_at": "Tue Sep 15 05:27:48 +0000 2026",
+    "id_str": "2099731889871352025",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "上一条说，只靠测试不能保证软件质量。这条先聊也应该怎么写测试，因为这是基础。下次聊关键设计，以及 review 应该看什么。\n\n针对业务项目，我的理解大概是这么几条：\n\n1 测试行为，不测试实现。比如重复下单不会重复扣款，而不是某个方法调用了几次。业务没变，重构一下测试就碎一地，那多半写错了。AI 特别容易写这种测试。\n\n2 用 BDD，先写验收场景，再写代码。测试描述统一用 user 开头，用 Given / When / Then 描述，用户和 PM 也能看懂。别让 AI 写完代码，再照着自己的实现证明自己没错。\n\n3 禁止 mock。Redis、PostgreSQL 能用真的就用真的，外部系统不好接就注入 fake，但要校验它和真实系统的契约。时间逻辑用 fake timer，别 sleep 几秒再祈祷。AI 真的太喜欢随手 mock 了。\n\n4 我倾向大部分写 E2E，从用户入口走到可见结果，外部依赖可以 fake，实在不合适再写其他测试。测试多了就分级，按改动和依赖关系精准测试，定期完整跑。别改两行代码，等 CI 半天。\n\n5 前面做好了，再看分支覆盖率，先定个 90%。但重点是剩下的为什么没测，尤其是失败路径，别让 AI 为了凑数字再写一堆垃圾测试。\n\n6 前边的规则尽量都写成 lint",
+    "quoted_tweet": {
+      "author": "Gangqiang Yao",
+      "username": "yaogangqiang",
+      "text": "随着 vibe coding 产出大量代码，大部分项目质量并没有提高。整个软件研发历史里，写代码一直是最容易的环节，有了 AI 之后，只是让这个环节变得更容易了。\n\n我甚至听到某创业公司的人因为 bug 太多，跟我说：「我觉得可能人肉写写代码，稍微长期来看，速度更快，因为现在天天修 bug。」\n\n有很多人说：那你让 AI 写测试啊。 现实是，如果不做任何调教，AI 写出来的全都是充满 mock 的、测试实现细节的脆弱测试，而不是验证行为的测试。此外更残酷的是：即使你教会了 AI 写对测试，照样不能保证软件的质量。\n\n因为测试从来不是高质量软件的关键，Quality is designed in, not tested in."
+    },
+    "url": "https://x.com/yaogangqiang/status/2099757363519709283",
+    "time": "Tue Sep 15 07:09:01 +0000 2026",
+    "created_at": "Tue Sep 15 07:09:01 +0000 2026",
+    "id_str": "2099757363519709283",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "之前给我拒绝了\n\n申诉了好多天🦶",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099741600427757915",
+    "time": "Tue Sep 15 06:06:23 +0000 2026",
+    "created_at": "Tue Sep 15 06:06:23 +0000 2026",
+    "id_str": "2099741600427757915",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "两条视频全给我和谐了\n\n一个25000转发\n一个3600转发\n\n但是微博没有和谐我，还冲上了热搜，400多万阅读量\n\nX 上也300多万阅读了…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099742549510660178",
+    "time": "Tue Sep 15 06:10:09 +0000 2026",
+    "created_at": "Tue Sep 15 06:10:09 +0000 2026",
+    "id_str": "2099742549510660178",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 老哥是互联网那些事儿吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/aixparty/status/2099770435579658361",
+    "time": "Tue Sep 15 08:00:58 +0000 2026",
+    "created_at": "Tue Sep 15 08:00:58 +0000 2026",
+    "id_str": "2099770435579658361",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@aixparty 互联网的那点事",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099785624152949043",
+    "time": "Tue Sep 15 09:01:19 +0000 2026",
+    "created_at": "Tue Sep 15 09:01:19 +0000 2026",
+    "id_str": "2099785624152949043",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们 这个思路惊奇\n\n一个“一出生就被当成工程师培养”的专用模型\n\nAtria Dawn Preview\n面向科研与复杂 Agent 任务的基座模型\n\n该模型最大特点是依托一套可验证经验管线训练：就是只有在真实环境中经过测试、指标验证和证据闭环的有效经验，才会被沉淀到模型能力中\n\n还能可以从失败中学习🥲\n\n在完全不联网的环境下，能在 1 分钟内预测全球未来一周的天气\n\n@AtriaASI 约 三分之二 的研发成员是在校学生，96 名主要成员中有 65 名在校生，来自上海人工智能实验室联合复旦、中科院软件所、人大、中科院自动化所、华东师大和哈工大等高校，涵盖博士生、硕士生和本科生。\n\nAtria Dawn是不仅是专门照着“实干家”定向训练出来的模型本体\n\n同时还给配了专门的Agent 脚手架（Harness）与其绑定协同工作...\n\n所以能干的事情非常多....↓",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099793077531721803",
+    "time": "Tue Sep 15 09:30:56 +0000 2026",
+    "created_at": "Tue Sep 15 09:30:56 +0000 2026",
+    "id_str": "2099793077531721803",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "软件开发：直接从零搭建完整工程，甚至在 20 分钟内写出一个简易操作系统（MiniOS）",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099793089179365481",
+    "time": "Tue Sep 15 09:30:59 +0000 2026",
+    "created_at": "Tue Sep 15 09:30:59 +0000 2026",
+    "id_str": "2099793089179365481",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "感兴趣的可以看看\n\n现在注册就送1亿token 😂\n\n官网：https://atria-asi.ai/\nGitHub：https://github.com/atria-asi/Atria-Dawn-Preview\nAPI：https://api.atria-asi.ai/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099793091729465700",
+    "time": "Tue Sep 15 09:30:59 +0000 2026",
+    "created_at": "Tue Sep 15 09:30:59 +0000 2026",
+    "id_str": "2099793091729465700",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "ChatGPT 上线礼品卡\n\n面值：25、50、100、200美金\n\n可直接购买充值...\n\n目前仅限美国地区兑换，不可退款，购买后通过电子邮件发放兑换码。\n\n购买地址↓",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099803006770557068",
+    "time": "Tue Sep 15 10:10:23 +0000 2026",
+    "created_at": "Tue Sep 15 10:10:23 +0000 2026",
+    "id_str": "2099803006770557068",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "购买地址：https://www.bestbuy.com/product/openai-chatgpt-25-gift-card-digital/JJG34P73VL/sku/6688130\n\n激活地址：https://chatgpt.com/redeem",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099803887909974444",
+    "time": "Tue Sep 15 10:13:54 +0000 2026",
+    "created_at": "Tue Sep 15 10:13:54 +0000 2026",
+    "id_str": "2099803887909974444",
+    "is_retweet": false
   }
 ]
