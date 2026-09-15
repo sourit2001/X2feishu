@@ -595,5 +595,138 @@
     "created_at": "Tue Sep 15 10:13:54 +0000 2026",
     "id_str": "2099803887909974444",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "哇,中国的 AI 视频生成能力可能已经是世界第一了吧？字节跳动的 Seedance 也太强了, 强到让我开始担心…\n\n日本的动画师会不会很快就被 AI 取代？\n\n但想象一下你可以随时生成新的剧情,让故事一直延续下去, 想看多久就看多久\n\n这还挺酷的",
+    "quoted_tweet": {
+      "author": "Histoire",
+      "username": "Balalaikall",
+      "text": "Re：ゼロから始める異世界学園生活・序（同人アニメ）\n\n-#リゼロ #Reゼロ #菜月昴 #ベアトリス #Reゼロファンアニメ"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2099784954444210243",
+    "time": "Tue Sep 15 08:58:39 +0000 2026",
+    "created_at": "Tue Sep 15 08:58:39 +0000 2026",
+    "id_str": "2099784954444210243",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@beeeeckjiang 这个有点浪费左侧的tab空间",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2099742276704784645",
+    "time": "Tue Sep 15 06:09:04 +0000 2026",
+    "created_at": "Tue Sep 15 06:09:04 +0000 2026",
+    "id_str": "2099742276704784645",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I might be wrong, but I am not bullish on computer use.\n\nThe models are insanely smart. But we are forcing them to watch a screen, find a button, click it, wait, and check the result. All through an interface designed for humans.\n\nThe token economics and speed are just not good.\n\nComputer use still makes sense for legacy software with no API or agent interface. Sometimes there is no other option.\n\nBut for any sort of modern software, I think we should give agents something they can use directly: structured data, APIs, terminals, SSH, and permissioned access to the environment.\n\nAgents can read thousands of lines of logs and parameters easily. Why make them click through Chrome?",
+    "quoted_tweet": null,
+    "url": "https://x.com/hanghuang_/status/2099559078687088854",
+    "time": "2026-09-15 02:01",
+    "created_at": "Mon Sep 14 18:01:06 +0000 2026",
+    "id_str": "2099559078687088854",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "i said \"90% margins wouldn't be crazy\"\n\nas usual a bunch of people want to tell me how dumb i am and don't understand anything\n\nanthropic just reported today it's over 80%\n\npeople's ai powered confidence is getting so tiring",
+    "quoted_tweet": {
+      "author": "dax",
+      "username": "thdxr",
+      "text": "i know this is not the point but here's the math on this\n\nclaude is expensive, 90% margins wouldn't be crazy\n\nthat means if the average user of the $200 plan spends $2000, they break even. even if they offer $8000 max, the average will be less\n\nlet's say the average is $3200 - so they lose $120 per user here\n\nthe api business these users drive (which is 90% margin) just has to cover this\n\nif they have 1M $200 subscribers (probably overestimate) that's $120M in loss. they just need $133M in api spend for it to break even (which they have)\n\nif they can break even then yeah run it aggressively till you consume the world\n\nthese specific numbers are made up but hopefully you can see it's not as dumb as you imagine"
+    },
+    "url": "https://x.com/thdxr/status/2099573726039691312",
+    "time": "2026-09-15 02:59",
+    "created_at": "Mon Sep 14 18:59:19 +0000 2026",
+    "id_str": "2099573726039691312",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "2027 i will sail to hawaii with voice mode on the chatgpt desktop app",
+    "quoted_tweet": null,
+    "url": "https://x.com/jxnlco/status/2099645269910454391",
+    "time": "2026-09-15 07:43",
+    "created_at": "Mon Sep 14 23:43:36 +0000 2026",
+    "id_str": "2099645269910454391",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@hanghuang_ So they can play videogames",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2099741116925096020",
+    "time": "Tue Sep 15 06:04:28 +0000 2026",
+    "created_at": "Tue Sep 15 06:04:28 +0000 2026",
+    "id_str": "2099741116925096020",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "This week will also be a level of ships that you could have expected for DevDay 2025. Crazy",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2099744972195131850",
+    "time": "Tue Sep 15 06:19:47 +0000 2026",
+    "created_at": "Tue Sep 15 06:19:47 +0000 2026",
+    "id_str": "2099744972195131850",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thdxr I would even say it's over 9000",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2099745615118991548",
+    "time": "Tue Sep 15 06:22:20 +0000 2026",
+    "created_at": "Tue Sep 15 06:22:20 +0000 2026",
+    "id_str": "2099745615118991548",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@jxnlco bet",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2099756963429245110",
+    "time": "Tue Sep 15 07:07:26 +0000 2026",
+    "created_at": "Tue Sep 15 07:07:26 +0000 2026",
+    "id_str": "2099756963429245110",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "OpenAI already shipped Astra, GPT-Live-1 and the Agents API in a matter of days.\n\nNow @thsottiaux is teasing another packed week.\n\nThe interesting part isn’t one launch anymore. It’s the release cadence. OpenAI seems to be shipping like DevDay is every week.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "This week will also be a level of ships that you could have expected for DevDay 2025. Crazy"
+    },
+    "url": "https://x.com/MikelEcheve/status/2099757446319276255",
+    "time": "Tue Sep 15 07:09:21 +0000 2026",
+    "created_at": "Tue Sep 15 07:09:21 +0000 2026",
+    "id_str": "2099757446319276255",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@MikelEcheve Am I talking to Astra or Luna?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2099757649730691202",
+    "time": "Tue Sep 15 07:10:09 +0000 2026",
+    "created_at": "Tue Sep 15 07:10:09 +0000 2026",
+    "id_str": "2099757649730691202",
+    "is_retweet": false
   }
 ]
