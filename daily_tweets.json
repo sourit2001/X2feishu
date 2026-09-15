@@ -58,5 +58,219 @@
     "created_at": "Tue Sep 15 11:17:56 +0000 2026",
     "id_str": "2099820002534928441",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "big 🚢 this week\n\nand then for devday\n\n🚢🚢🚢🚢🚢🚢",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "This week will also be a level of ships that you could have expected for DevDay 2025. Crazy"
+    },
+    "url": "https://x.com/sama/status/2099872600977760451",
+    "time": "Tue Sep 15 14:46:56 +0000 2026",
+    "created_at": "Tue Sep 15 14:46:56 +0000 2026",
+    "id_str": "2099872600977760451",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 美区搜不到诶",
+    "quoted_tweet": null,
+    "url": "https://x.com/whiskeyocean13/status/2099823163228160405",
+    "time": "Tue Sep 15 11:30:29 +0000 2026",
+    "created_at": "Tue Sep 15 11:30:29 +0000 2026",
+    "id_str": "2099823163228160405",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@whiskeyocean13 搜索词加上一个 Markdown 试试呢？往下划拉一下。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2099825470275739687",
+    "time": "Tue Sep 15 11:39:39 +0000 2026",
+    "created_at": "Tue Sep 15 11:39:39 +0000 2026",
+    "id_str": "2099825470275739687",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "即览新版已经提交审核，进行了以下体验优化：\n\n1. 首页优化：\n2. \n(a) 首页的 list 变成可视化的卡片\n(b) 整合了筛选和搜索功能\n(c) 内容支持删除\n\n2. 增加了详细的引导网页和引导文档\n\n3. 修复了一堆体验问题：\n\n(a) 网页标题会被上面的按钮遮挡\n(b) iPad 适配的一些问题\n(c) 动画和图标的更换",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "卧槽！我开发的 Markdown 和 HTML 预览 iOS 应用「即览」终于上架了！目前国区限免！\n\n苹果上架时真的麻烦啊，审核等了十一天。\n\n主要帮大家解决 AI 时代两大主流文件在手机上无法预览的问题。\n\n手机上的各个应用对这两类文件的预览其实都不太好：Markdown 就别说了，最近有些虽然支持了但体验并不好；\n\nHTML 文件的话，即使是浏览器本身，想要打开本地的 HTML 文件也非常麻烦。\n\n你只需要在文件的打开方式中选择「即览」，就能快速打开。而且我做了很多优化，比如字号调整、夜间模式、比例调节等等，欢迎大家尝试！"
+    },
+    "url": "https://x.com/op7418/status/2099834855072882794",
+    "time": "Tue Sep 15 12:16:57 +0000 2026",
+    "created_at": "Tue Sep 15 12:16:57 +0000 2026",
+    "id_str": "2099834855072882794",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 道友 增加深色模式",
+    "quoted_tweet": null,
+    "url": "https://x.com/lanhai181/status/2099838809668215184",
+    "time": "Tue Sep 15 12:32:40 +0000 2026",
+    "created_at": "Tue Sep 15 12:32:40 +0000 2026",
+    "id_str": "2099838809668215184",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@lanhai181 好下个版本加",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2099849529755672976",
+    "time": "Tue Sep 15 13:15:15 +0000 2026",
+    "created_at": "Tue Sep 15 13:15:15 +0000 2026",
+    "id_str": "2099849529755672976",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "A personal update: I just took a position as VP of Enterprise AI Transformation at Rula, where I'll be leading how we bring AI into the core of the business.\n\nI have always felt strongly about how AI can help the human condition. We are at the dawn of superintelligence, and I want to explore the frontier of how AI can make a real difference to our mental health.\n\nGrateful to the Rula team for the trust. Excited to build.",
+    "quoted_tweet": null,
+    "url": "https://x.com/xleaps/status/2099846406420754742",
+    "time": "Tue Sep 15 13:02:51 +0000 2026",
+    "created_at": "Tue Sep 15 13:02:51 +0000 2026",
+    "id_str": "2099846406420754742",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 应该是每个任务都创建专属的 worktree，避免任务之间互相干扰。同时开很多任务但不用 worktree？合回 main？感觉活在石器时代才会这样做",
+    "quoted_tweet": null,
+    "url": "https://x.com/dualface/status/2099854073029865944",
+    "time": "Tue Sep 15 13:33:19 +0000 2026",
+    "created_at": "Tue Sep 15 13:33:19 +0000 2026",
+    "id_str": "2099854073029865944",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xleaps 恭喜恭喜",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2099863358748955041",
+    "time": "Tue Sep 15 14:10:12 +0000 2026",
+    "created_at": "Tue Sep 15 14:10:12 +0000 2026",
+    "id_str": "2099863358748955041",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@linxiaobei888 自动的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2099864187417628790",
+    "time": "Tue Sep 15 14:13:30 +0000 2026",
+    "created_at": "Tue Sep 15 14:13:30 +0000 2026",
+    "id_str": "2099864187417628790",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dualface 没有绝对优劣，看项目和任务。\n\n实际执行的时候可以灵活一点，如果改动的是不同的功能位置，冲突可能性很小，就算有冲突 harness 层也会处理。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2099869622891622418",
+    "time": "Tue Sep 15 14:35:06 +0000 2026",
+    "created_at": "Tue Sep 15 14:35:06 +0000 2026",
+    "id_str": "2099869622891622418",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "不太关心发布啥，就关心你每次发布的时候是不是一起重置一下额度？",
+    "quoted_tweet": {
+      "author": "Sam Altman",
+      "username": "sama",
+      "text": "big 🚢 this week\n\nand then for devday\n\n🚢🚢🚢🚢🚢🚢"
+    },
+    "url": "https://x.com/dotey/status/2099876773307494414",
+    "time": "Tue Sep 15 15:03:31 +0000 2026",
+    "created_at": "Tue Sep 15 15:03:31 +0000 2026",
+    "id_str": "2099876773307494414",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The FY27 defense authorization is the largest in American history.\n\nThe Pentagon's munitions plan puts 97% of its funding into legacy missiles and less than 3% into low-cost alternatives.\n\n\"It would be a generational mistake to take the largest pool of resources the Pentagon has ever been handed and simply stock up on 1970s technology.\"\n\na16z's @DefenseInDepth_ on the allocation problem behind the US munitions shortage: https://www.a16z.news/p/magazine-depth-affordability-is-a",
+    "quoted_tweet": {
+      "author": "Alex Oliver",
+      "username": "DefenseInDepth_",
+      "text": "https://x.com/i/article/2099861650576662528"
+    },
+    "url": "https://x.com/a16z/status/2099867414217580869",
+    "time": "Tue Sep 15 14:26:19 +0000 2026",
+    "created_at": "Tue Sep 15 14:26:19 +0000 2026",
+    "id_str": "2099867414217580869",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "How do you differentiate a real cultural shift from a manufactured one?\n\nCyber ethnographer Ruby Justice Thelot studies culture through TikToks. He scores thousands of them by category and sentiment to measure what people do versus what they post.\n\nIn this conversation with a16z's Elena Burger, they point that method at the wellness boom: why Silicon Valley gets credit for a peptide trend it did not start, what 400 years of thinness reveals about what we value, why the people who quantified everything are turning to energy healing and acupuncture, and why the body is the last thing left to optimize once AI handles the rest.\n\n00:00 Intro\n01:45 How to spot a fake trend\n04:55 Silicon Valley did not invent peptides\n10:15 The ten-to-one rule of trends\n12:12 Why you know Ozempic and not the company\n14:00 How to determine a trend's life stage\n16:31 Why watching something feels like doing something\n19:22 How thin became a sign of intelligence\n23:08 How a beauty standard goes mass market\n25:10 The body ideal follows the economy\n26:46 Why biohacking went mainstream\n29:28 When the Bay Area decides something is bad\n33:14 Two signs a trend has peaked\n36:38 Your tracker can make you feel worse\n39:15 Sleeping four hours and feeling rested\n\nYouTube: https://www.youtube.com/watch?v=HKZdte6exaw\n\n@being_on_line @VirtualElena",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2099879757282214107",
+    "time": "Tue Sep 15 15:15:22 +0000 2026",
+    "created_at": "Tue Sep 15 15:15:22 +0000 2026",
+    "id_str": "2099879757282214107",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "论文：https://huggingface.co/papers/2609.15818",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099848774487318767",
+    "time": "Tue Sep 15 13:12:15 +0000 2026",
+    "created_at": "Tue Sep 15 13:12:15 +0000 2026",
+    "id_str": "2099848774487318767",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Hyper3D 推出了自己的MCP服务\n\n用  GPT 6 Astra 玩了下 有点震惊到我，用它做3D 科普视频和网站，效果贼好\n\n我让 Codex 搜集天宫空间站从发射开始到现在的所有信息和内容，让它帮我制作一个天宫空间站的建造过程科普网站...\n\n试了一把，从 2021 年第一次发射一直演进到今天...\n\nCodex 通过 Hyper3D MCP 创建 3D 模型、查询生成进度并获取模型结果。\n\n然后自己利用3D模型来进行网站的设计和组装\n\n视频里的模型我做了一个模型库，只要生成过一次，以后需要用的时候不用再生成了，直接使用就行，每个模型都是零件组成的，所以动画视频自由度很高。\n\n感觉用来做知识科普和教学还是非常不错的\n\nAI 、科普、历史、知识类博主都可以慢慢积累自己的模型库，做到一定的数量后，视频的成本就会开始下降，因为可以复用的模型越来越多。\n\n航母、飞机、古建筑、产品拆解、历史事件复原，任何「实物 + 演变过程」的都适合。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099851315694514477",
+    "time": "Tue Sep 15 13:22:21 +0000 2026",
+    "created_at": "Tue Sep 15 13:22:21 +0000 2026",
+    "id_str": "2099851315694514477",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "如果你让 GPT 6 调用 Hyper3D  MCP创建所需的 3D 资产\n\n可以先使用GPT生图，然后调用Hyper3d MCP依据这个图生模型...\n\n都不再需要你寻找或制作 3D 素材",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099851326289272909",
+    "time": "Tue Sep 15 13:22:24 +0000 2026",
+    "created_at": "Tue Sep 15 13:22:24 +0000 2026",
+    "id_str": "2099851326289272909",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "我做了一个 skill\n\n你只需要说：「我想做一个 ×× 的 3D 纪录片」\n\n它就能帮你做成一个网页文件，双击就能看，也能直接发给别人\n\n从问答收集视频需求到生成适合 3D 模型的图片，到生成 3D 模型，模型库管理，生成动画，动画管理这一整套流程。https://github.com/xiaohuailabs/hyper3d-documentary",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2099851329573437571",
+    "time": "Tue Sep 15 13:22:24 +0000 2026",
+    "created_at": "Tue Sep 15 13:22:24 +0000 2026",
+    "id_str": "2099851329573437571",
+    "is_retweet": false
   }
 ]
