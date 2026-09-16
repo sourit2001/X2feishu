@@ -298,5 +298,252 @@
     "created_at": "Wed Sep 16 19:01:25 +0000 2026",
     "id_str": "2100299030110912584",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@nateparrott I may have missed this but is there a way to get Claude Design canvas to work inside Claude Code?\n\nIs it /design?",
+    "quoted_tweet": null,
+    "url": "https://x.com/petergyang/status/2100284479193661590",
+    "time": "2026-09-17 02:03",
+    "created_at": "Wed Sep 16 18:03:35 +0000 2026",
+    "id_str": "2100284479193661590",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@petergyang @nateparrott you actually can run it as a skill https://github.com/jimliu/baoyu-design\n\nhttps://x.com/dotey/status/2099590504920883548?s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "The baoyu-design skill is actually a reverse-engineered version of Claude Design—the prompts and component templates are exactly the same. The real advantage of running it locally is that you can use any model and integrate it directly with your local codebase.\n\nI use it daily alongside Claude Code (Fable, Opus, or GPT-6) to iterate on designs locally.\n\nMy typical workflow:\n\n1. Generate the v1 design on http://claude.ai/design, then download it locally.\n2. Whenever I need to tweak or add a feature, I use the baoyu-design skill to update the local prototype first. I only touch the actual app code once the prototype is confirmed.\n3. Because the design output is just React + JSON, the Agent can easily read the git diff to see my changes and apply the updated design directly to the codebase."
+    },
+    "url": "https://x.com/dotey/status/2100300028954697729",
+    "time": "2026-09-17 03:05",
+    "created_at": "Wed Sep 16 19:05:23 +0000 2026",
+    "id_str": "2100300028954697729",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "用水果的方式解释 AI",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100334375946653731",
+    "time": "2026-09-17 05:21",
+    "created_at": "Wed Sep 16 21:21:52 +0000 2026",
+    "id_str": "2100334375946653731",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "not trying is the only guaranteed failure",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2100306232661991797",
+    "time": "2026-09-17 03:30",
+    "created_at": "Wed Sep 16 19:30:02 +0000 2026",
+    "id_str": "2100306232661991797",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "“Last year, China generated more than twice as much electricity as the United States, and as energy becomes the bottleneck on industries like AI and manufacturing, that gap is becoming a national security problem.”\n\n@mikemcg0 and Erin Price-Wright of a16z profile two founders who believe cheap batteries can be part of the answer to fixing the aging US grid  https://www.a16z.news/p/base-power-and-the-future-of-electricity",
+    "quoted_tweet": null,
+    "url": "https://x.com/Substack/status/2100314026580619418",
+    "time": "2026-09-17 04:01",
+    "created_at": "Wed Sep 16 20:01:00 +0000 2026",
+    "id_str": "2100314026580619418",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Alex Rampell says the best software incumbents have hostages, not customers:\n\n\"Normally, selling into the brownfield is hard just because it's brown. What does brownfield mean? It means that it's been trampled by an incumbent.\"\n\n\"Try selling ERP and you have a product that's much, much better than SAP. There's a saying Joe's heard me use a million times: 'The best companies have hostages, not customers.' SAP has hostages. That's a brownfield.\"\n\n\"Sometimes you can break in. Cloud versus on-prem: What did cloud do? It was brownfield, but it kind of just redefined the problem.\"\n\n\"If you go back to the CRM days, you're using Siebel Systems that's running on your IBM AS/400 mainframe in your office. You're tired, the guy that maintained it quit. He was 92 years old. Maybe now you should use a cloud-based vendor. That's partially how that brownfield was done from on-prem to cloud.\"\n\n\"The other strategy is going greenfield, saying, 'I'm not going to bother with the hostages. I'm just going to build the best product in the world, and then brand new companies that are untethered from any existing software solution, they'll just use me.'\"\n\n@arampell @joeschmidtiv",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Lightfield co-founder and CEO Keith Peiris on killing a product with two million monthly users and rebuilding the CRM from scratch:\n\nLightfield's predecessor was an AI presentation tool growing faster than the team could buy inference to support it. Keith shut it down anyway. Nobody on the team liked the product.\n\nKeith decided he wanted to attack the CRM space, a vertical that's notoriously hard to break into. A company's record of its customers is scattered across a whole stack of systems that often contradict each other.\n\nHis bet is reconciling them into one coherent source of truth, what Lightfield calls a business world model. Every agent a team might run sits downstream of it.\n\nIn this conversation with a16z's Alex Rampell and Joe Schmidt: the office space they traded for their first 10 customers, why a CRM ended up modeled on the Facebook timeline, three attempts at pricing before one worked, and why nobody at a 40-person company has a fixed role.\n\n00:00 Intro\n01:24 Why 2 million users wasn't enough\n03:36 Why better models wouldn't have fixed it\n06:41 Reconciling the data was the real product\n08:16 How free rent bought their first 10 customers\n10:12 A CRM does 3 jobs and only 1 matters\n11:42 Autopilot CRM nobody has to update\n14:56 No more rigid data models\n17:11 How one customer modeled a whole marketplace\n18:48 Taking customers from an incumbent\n23:49 How to survive a new head of sales\n26:03 Why the CEO still uses a spreadsheet view\n30:55 Pricing models that failed before one worked\n36:23 Fixed roles make product pivots impossible\n40:02 Why slow shipping loses CRM customers\n43:17 What Silicon Valley customers are actually worth\n46:20 Why buyers need a reference who looks like them\n50:40 What to ignore during a pivot\n\nYouTube: https://www.youtube.com/watch?v=K5yGLO8c6T0\n\n@keithpeiris @lightfld @arampell @joeschmidtiv"
+    },
+    "url": "https://x.com/a16z/status/2100336522340044890",
+    "time": "2026-09-17 05:30",
+    "created_at": "Wed Sep 16 21:30:23 +0000 2026",
+    "id_str": "2100336522340044890",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is huge 🔥🔥🔥",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Adobe just launched Generate Sound Effects directly in Premiere (beta)!\n\nJust select a range on the timeline, describe the sound you want, and generate it directly in your edit.\n\nYou can even sync it perfectly with your footage in just one click!\n\nSound on 🔊 The quality is wild"
+    },
+    "url": "https://x.com/heydin_ai/status/2100294430670606792",
+    "time": "2026-09-17 02:43",
+    "created_at": "Wed Sep 16 18:43:08 +0000 2026",
+    "id_str": "2100294430670606792",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thank you, Kris! 🔥🔥🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/heydin_ai/status/2100294502623924351",
+    "time": "2026-09-17 02:43",
+    "created_at": "Wed Sep 16 18:43:25 +0000 2026",
+    "id_str": "2100294502623924351",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@heydin_ai 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100295499983012311",
+    "time": "2026-09-17 02:47",
+    "created_at": "Wed Sep 16 18:47:23 +0000 2026",
+    "id_str": "2100295499983012311",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@heydin_ai Welcome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100295524494491923",
+    "time": "2026-09-17 02:47",
+    "created_at": "Wed Sep 16 18:47:29 +0000 2026",
+    "id_str": "2100295524494491923",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So DaVinci Resolve and Premier Pro are all updating their tools with AI features.\n\nWho will outperform who by bringing in the craziest thing into the editing industry is what I am anticipating for",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Adobe just launched Generate Sound Effects directly in Premiere (beta)!\n\nJust select a range on the timeline, describe the sound you want, and generate it directly in your edit.\n\nYou can even sync it perfectly with your footage in just one click!\n\nSound on 🔊 The quality is wild"
+    },
+    "url": "https://x.com/Comfort_Cuts/status/2100315744873709714",
+    "time": "2026-09-17 04:07",
+    "created_at": "Wed Sep 16 20:07:50 +0000 2026",
+    "id_str": "2100315744873709714",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Another fun prompt for you to play with. It keeps the photo real and only turns people into bnw stickers. \n\nWould love to see your experiments with this one!\n\nWorks best with GPT Image 2.5. \nI used Firefly Boards for mine.\n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100316768795283577",
+    "time": "2026-09-17 04:11",
+    "created_at": "Wed Sep 16 20:11:54 +0000 2026",
+    "id_str": "2100316768795283577",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Transform the provided reference photograph into a mixed-media editorial image while preserving the original photographic scene as faithfully as possible.  1. PHOTOGRAPHIC BACKGROUND — DO NOT CHANGE  Preserve the original photograph exactly as the visual foundation.  Keep unchanged:  original composition and framing camera angle and perspective focal length and viewing distance spatial relationships and proportions buildings, streets, architecture and interior furniture, objects and environmental details background geometry materials and surface textures natural lighting highlights and shadows reflections depth and perspective atmospheric conditions photographic color and exposure realistic photographic texture  The entire background must remain fully photographic, realistic and highly detailed.  Do not repaint, redraw, simplify, blur, stylize, cartoonize or replace the background.  Do not turn the entire image into an illustration.  The contrast between the real photographic environment and the flat illustrated characters is essential.  2. CHARACTERS — CHANGE ONLY THE PEOPLE  Transform every person visible in the reference photograph into a minimalist black-and-white hand-drawn sticker.  Preserve the exact number of people. Never omit, merge, duplicate or replace anyone.  For every person, preserve:  exact pose body position gesture action direction of movement head angle gaze direction body proportions relative scale position within the scene interaction with other people and objects recognizable hairstyle and silhouette basic facial structure characteristic clothing shapes distinctive clothing details accessories and important visual features  The illustrated people must remain precisely integrated into their original positions in the photograph.  Do not invent new poses or change the action.  Do not make the characters more beautiful, younger, thinner, taller or otherwise alter their natural appearance.  3. CHARACTER ILLUSTRATION STYLE  Render the characters as minimalist monochrome hand-drawn stickers.  Style:  one-line hand-drawn illustration loose editorial sketch minimalist black ink drawing slightly uneven natural linework imperfect handmade strokes rough but intentional contours simple expressive lines flat 2D illustration contemporary Instagram/editorial collage aesthetic subtle graffiti-sketch influence handmade paper-sticker feeling  The drawing should look humanly sketched rather than digitally vectorized.  Lines should be slightly irregular, organic and imperfect.  Avoid overly polished cartoon outlines.  4. PURE BLACK & WHITE  Use only pure black and pure white for the illustrated characters.  No gray. No color. No gradients. No semi-transparent shading. No colored outlines.  Use clean black lines on white sticker areas.  Small solid black filled areas are allowed only where visually necessary:  hair deep clothing folds eyelashes small shadows selected facial or clothing details  Keep the illustration predominantly white with economical black linework.  Do not use realistic skin tones or photographic colors on the characters.  5. STICKER CUTOUT EFFECT  Surround each individual character with a clean, continuous white sticker border.  The white border should:  follow the character silhouette have a consistent thickness look like a physical die-cut sticker clearly separate the illustrated character from the photographic background remain visible around the entire character where possible  The border must be white and clean, not gray, beige or translucent.  Characters should look like physical paper stickers placed directly onto the photograph.  Do not create rectangular sticker backgrounds.  Do not place the characters inside white boxes or panels.  6. INTEGRATION WITH THE PHOTOGRAPH  The characters must appear naturally positioned on top of the original photographic environment.  Preserve the original spatial logic of the photograph.  Their scale and placement must correspond exactly to the people in the reference.  The photographic environment remains three-dimensional and realistic, while the people become flat 2D black-and-white illustrations.  This intentional visual collision is the core of the style:  REAL PHOTOGRAPH + HAND-DRAWN BLACK-AND-WHITE STICKER PEOPLE.  Do not stylize the environment to match the characters.  Do not add illustrated objects to the background.  Do not convert surrounding objects into stickers.  7. MIXED-MEDIA AESTHETIC  Overall visual language:  documentary photography + minimalist ink sketch + die-cut stickers + editorial paper collage + contemporary Instagram aesthetic + mixed media.  The result should feel like an artistic editorial photograph where real people have been replaced by handmade monochrome paper illustrations.  The image should look sophisticated, slightly playful and intentionally imperfect rather than childish or cartoon-like.  8. IMAGE QUALITY  High-resolution final image.  Extremely sharp photographic background with:  realistic textures fine environmental details natural photographic depth crisp architecture realistic materials high micro-detail  Illustrated characters should have:  crisp black linework clean white sticker borders visible handmade imperfections strong separation from the photographic background  Do not reduce the photographic quality of the original environment.  9. STRICT PRESERVATION RULE  CHANGE ONLY THE CHARACTERS.  Everything else must remain as close as possible to the original photograph.  No changes to:  background architecture objects lighting shadows perspective composition camera angle environment photographic textures weather time of day  Only the people are transformed into black-and-white hand-drawn stickers.  FORMAT  Vertical composition.  Aspect ratio: 3:4 or 9:16, depending on the selected output format.  Do not crop out any important person or essential part of the original scene.  KEY PRINCIPLE:  Original photograph remains photographic. People become black-and-white hand-drawn stickers. Nothing else is redesigned.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100316772138393695",
+    "time": "2026-09-17 04:11",
+    "created_at": "Wed Sep 16 20:11:55 +0000 2026",
+    "id_str": "2100316772138393695",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You can install any of the AI tool into your editing tool.\n\nAccess it on DavinCi, give a prompt and let it do the work.\nJust like what Adobe is doing in Premier..\n\nI love the updates though. You get to work smarter",
+    "quoted_tweet": null,
+    "url": "https://x.com/Comfort_Cuts/status/2100317766490169535",
+    "time": "2026-09-17 04:15",
+    "created_at": "Wed Sep 16 20:15:52 +0000 2026",
+    "id_str": "2100317766490169535",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Comfort_Cuts You don't have to install an AI tool into Adobe Premiere, it's right there. It's not a plug in or anything, it's right there. \n\nAlso there're more earlier tools to extend frames, etc.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100318026746757405",
+    "time": "2026-09-17 04:16",
+    "created_at": "Wed Sep 16 20:16:54 +0000 2026",
+    "id_str": "2100318026746757405",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/carolletta/status/2100322428685574454",
+    "time": "2026-09-17 04:34",
+    "created_at": "Wed Sep 16 20:34:23 +0000 2026",
+    "id_str": "2100322428685574454",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@carolletta 🥰",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100322592326287871",
+    "time": "2026-09-17 04:35",
+    "created_at": "Wed Sep 16 20:35:02 +0000 2026",
+    "id_str": "2100322592326287871",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AllaAisling Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100335460262277473",
+    "time": "2026-09-17 05:26",
+    "created_at": "Wed Sep 16 21:26:10 +0000 2026",
+    "id_str": "2100335460262277473",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@saranshvfx Really is!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100335485260300726",
+    "time": "2026-09-17 05:26",
+    "created_at": "Wed Sep 16 21:26:16 +0000 2026",
+    "id_str": "2100335485260300726",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew Agree with you and thank you for support!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100335532727222643",
+    "time": "2026-09-17 05:26",
+    "created_at": "Wed Sep 16 21:26:28 +0000 2026",
+    "id_str": "2100335532727222643",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@azed_ai Me too! Also you can separate music from ambient from sound (I'll make another video about that)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100335610099622104",
+    "time": "2026-09-17 05:26",
+    "created_at": "Wed Sep 16 21:26:46 +0000 2026",
+    "id_str": "2100335610099622104",
+    "is_retweet": false
   }
 ]
