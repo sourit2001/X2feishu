@@ -156,5 +156,427 @@
     "created_at": "Tue Sep 15 23:01:38 +0000 2026",
     "id_str": "2099997096896274533",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "BREAKING: The Government of Zambia has launched a three-year @Starlink powered digital learning programme for 70 schools. 🇿🇲\n\n• Will connect 70 schools to Starlink\n• Expand digital learning and skills\n• Bring internet to surrounding communities",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2099995060930785479",
+    "time": "Tue Sep 15 22:53:33 +0000 2026",
+    "created_at": "Tue Sep 15 22:53:33 +0000 2026",
+    "id_str": "2099995060930785479",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Last month I wrote about how we can build a positive and safe future for everyone: http://meta.com/thefutureisforeveryone\n\nEvery lab has the responsibility and incentive to move at the pace required to train its models safely, and the ability to take its own actions to ensure that happens.\n\nThe reality is:\n\n- People won't want to use agents that are misaligned with them and that don't do what they ask, so labs have a strong natural incentive to make their models more aligned.\n\nThere is a lot of debate about slowing progress on capabilities until alignment catches up. My view is that trust and alignment are quickly becoming the most important capabilities that will differentiate agents and models. Any lab that doesn't focus on alignment will fall behind.\n\n- Labs face significant liability if their models cause harm, so they have a strong incentive to prevent this as well.\n\nMeta delayed shipping Muse for several months to focus on safety and security. We didn't call for everyone else to do this before we would. We just did it as part of our day-to-day work because it was clearly the right thing for people and for us. I'm proud of the security foundations we've built.\n\n- Engaging independent evaluators and advisors is industry best practice. MSL already does this today in several areas because it helps produce better work. Other labs can just do this too. In general, it would be helpful for there to be a larger and more diverse ecosystem of evaluators.\n\n- Committing the significant majority of compute towards serving people rather than racing towards recursive self-improvement is one of the best ways to ensure we develop this technology safely. Meta has made this commitment and other labs can do this as well.\n\nI believe the key to building a positive future for everyone is maintaining the right balance of power. This is within our power to do.",
+    "quoted_tweet": null,
+    "url": "https://x.com/finkd/status/2099997096896274533",
+    "time": "Tue Sep 15 23:01:38 +0000 2026",
+    "created_at": "Tue Sep 15 23:01:38 +0000 2026",
+    "id_str": "2099997096896274533",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Elon Derangement Syndrome is real",
+    "quoted_tweet": {
+      "author": "Reddit Lies",
+      "username": "reddit_lies",
+      "text": "Redditors are turning on Snopes for saying Elon Musk didn't hack the 2024 election.\n\nActual morons."
+    },
+    "url": "https://x.com/TheRabbitHole/status/2100045185610883438",
+    "time": "2026-09-16 10:12",
+    "created_at": "Wed Sep 16 02:12:43 +0000 2026",
+    "id_str": "2100045185610883438",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "SpaceXAI engineer Lingxi Li, @lingxi, runs code cleanup while everyone else is asleep. Nobody is shipping at 3 AM, so conflicts are rare and the changes are low risk.\n\nHis bots start a research agent that sweeps the monorepo for quality issues, poor modularization, comment bloat and security gaps. He wakes up to a stack of PRs.",
+    "quoted_tweet": {
+      "author": "Grok Bot",
+      "username": "bot",
+      "text": "Three SpaceXAI employees are building a company in 3 days with Grok Bot. This is Day 1.\n\nMatt Palmer (@mattyp), Lauren Tan (@poteto), and Roshan Sadanani (@roshan_s) start with research, a plan, and a product.\n\nLive now, plus sessions for engineering, product, and founders.\n\nhttps://x.com/i/broadcasts/1AxRnZbVpjaxl"
+    },
+    "url": "https://x.com/tetsuoai/status/2100048900942094348",
+    "time": "2026-09-16 10:27",
+    "created_at": "Wed Sep 16 02:27:29 +0000 2026",
+    "id_str": "2100048900942094348",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Your Tesla keeps getting safer.  \n\nWe push over-the-air updates remotely at no cost and with no service visit needed",
+    "quoted_tweet": null,
+    "url": "https://x.com/Tesla_India/status/2100065995641753869",
+    "time": "2026-09-16 11:35",
+    "created_at": "Wed Sep 16 03:35:25 +0000 2026",
+    "id_str": "2100065995641753869",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": {
+      "author": "DHH",
+      "username": "dhh",
+      "text": "The p(doom) discussion gets all the headlines, but the p(abundance) scenery is far more like and deserves much more engagement."
+    },
+    "url": "https://x.com/elonmusk/status/2100070216902594669",
+    "time": "2026-09-16 11:52",
+    "created_at": "Wed Sep 16 03:52:11 +0000 2026",
+    "id_str": "2100070216902594669",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@CathieDWood It’s not impossible",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100070503969071230",
+    "time": "2026-09-16 11:53",
+    "created_at": "Wed Sep 16 03:53:20 +0000 2026",
+    "id_str": "2100070503969071230",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@finkd Cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100071927918612828",
+    "time": "2026-09-16 11:58",
+    "created_at": "Wed Sep 16 03:58:59 +0000 2026",
+    "id_str": "2100071927918612828",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@SciGuySpace Starship is the future",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100072151756017733",
+    "time": "2026-09-16 11:59",
+    "created_at": "Wed Sep 16 03:59:53 +0000 2026",
+    "id_str": "2100072151756017733",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@TheRabbitHole 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100076900333068384",
+    "time": "2026-09-16 12:18",
+    "created_at": "Wed Sep 16 04:18:45 +0000 2026",
+    "id_str": "2100076900333068384",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Training data is regulation by another name. Easy to add. Almost impossible to unwind.\n\nSome labels make sense when you write them. Then the taxonomy shifts, and they don’t.",
+    "quoted_tweet": null,
+    "url": "https://x.com/yunta_tsai/status/2100078150864822427",
+    "time": "2026-09-16 12:23",
+    "created_at": "Wed Sep 16 04:23:43 +0000 2026",
+    "id_str": "2100078150864822427",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@yunta_tsai 🎯",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100080112704303485",
+    "time": "2026-09-16 12:31",
+    "created_at": "Wed Sep 16 04:31:31 +0000 2026",
+    "id_str": "2100080112704303485",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@XFreeze Yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100080541186105827",
+    "time": "2026-09-16 12:33",
+    "created_at": "Wed Sep 16 04:33:13 +0000 2026",
+    "id_str": "2100080541186105827",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Build",
+    "quoted_tweet": {
+      "author": "X Freeze",
+      "username": "XFreeze",
+      "text": "Grok Build just got a pretty substantial upgrade across MCP, memory, long-running sessions, and overall agent reliability\n\nMCP tools can now return structured JSON, cancelled tool calls actually tell the server to stop working, memory can be managed directly from the /memory browser, and long-running sessions keep their compaction checkpoints instead of losing them during cleanup\n\nThere are also fixes for macOS image pasting, subagent cancellation states, /rewind, huge skill files flooding context, Windows cloning, and minimal-mode session handling\n\nA lot of edge cases cleaned up here...especially for people running heavy agent workflows for long periods\n\nRelease Notes: v1.0.33\n\nFeatures:\n• MCP tool results now include structured JSON data when the server provides it.\n• GROK_GROVE=1 now enables both clone and worktree features when specific knobs are unset; missing remote settings no longer force copy.\n• Delete memories from the /memory modal using two-press x; only actual notes (not generated indexes) can be removed.\n• Composer footer now shows the Alt+Enter chord for inserting a newline when Cmd+Enter is unavailable over SSH.\n• /memory now always opens the memory browser modal; status and toggle are available via keys inside the modal instead of command arguments.\n\nBug Fixes:\n• Fixed a bug where pasting an image on macOS could attach the wrong image.\n• MCP tool calls listed directly now show their name, arguments, and any error message.\n• Background subagent tasks now correctly show cancelled status when the parent session closes.\n• The Subagents dock no longer shows an unclickable \"Done N completed\" row after all subagents finish.\n• Cancelled or timed-out MCP tool calls now notify the server so it can stop work instead of continuing in the background.\n• /rewind no longer fails when older compaction checkpoints are missing after a session sweep; only the base checkpoint for the target matters.\n• Large skill files are now capped at the same 25k-token limit as other reads; oversized skill bodies show a truncation note instead of flooding context.\n• Long-running sessions no longer lose old compaction checkpoints or prompt offloads during the 30-day cleanup sweep.\n• Auto \"where was I\" recaps no longer appear while a scheduled task, monitor, or workflow is still running.\n• In minimal mode, confirming /delete or /exit now immediately opens a new empty session instead of appearing stuck.\n• In minimal mode, resuming a session after /new now correctly reloads its history instead of showing the wrong session.\n• MCP tools that take no arguments no longer show a stray \"{}\" line in the permission sheet.\n• Fixed Windows clone and attach failures when .git/config values contain backslashes, quotes, or other characters that must be escaped.\n• /memory modal now shows clear explanations when memory is disabled and helpful empty states instead of blank panes.\n• /memory (and on/off toggles) no longer leaves user bubbles or host turns in scrollback when opening or changing the modal.\n• Fixed Windows clone staging directories that could not be cleaned up after deadline or cancel during shallow bootstrap."
+    },
+    "url": "https://x.com/elonmusk/status/2100083283757584858",
+    "time": "2026-09-16 12:44",
+    "created_at": "Wed Sep 16 04:44:07 +0000 2026",
+    "id_str": "2100083283757584858",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": {
+      "author": "Satya Nadella",
+      "username": "satyanadella",
+      "text": "Great conversation with @chamath, @jason, @davidsacks, and @friedberg on all the work ahead when it comes to diffusing benefits of AI broadly, earning permission from communities, and ensuring AI safety and control."
+    },
+    "url": "https://x.com/elonmusk/status/2100085414161965074",
+    "time": "2026-09-16 12:52",
+    "created_at": "Wed Sep 16 04:52:35 +0000 2026",
+    "id_str": "2100085414161965074",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "😂🎯",
+    "quoted_tweet": {
+      "author": "Engineer Girlfriend",
+      "username": "enggirlfriend",
+      "text": "life cycle of a tweet\n\nyou know a post is doing well when you start getting the shut up u retard replies"
+    },
+    "url": "https://x.com/elonmusk/status/2100085873807364122",
+    "time": "2026-09-16 12:54",
+    "created_at": "Wed Sep 16 04:54:24 +0000 2026",
+    "id_str": "2100085873807364122",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "this is the coolest thing i've seen created by AI.",
+    "quoted_tweet": {
+      "author": "Kevin Ngo",
+      "username": "kevin_t_ngo",
+      "text": "Claude Opus 5 drew every frame of this animation using JavaScript. The life of a fruit fly."
+    },
+    "url": "https://x.com/rileybrown/status/2100050318457253928",
+    "time": "2026-09-16 10:33",
+    "created_at": "Wed Sep 16 02:33:07 +0000 2026",
+    "id_str": "2100050318457253928",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Only 115 minutes of focus to learn codex. \nThat's all it takes to start using agents in your business.\nYouTube Link below\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/agentnative_/status/2100052976752595453",
+    "time": "2026-09-16 10:43",
+    "created_at": "Wed Sep 16 02:43:41 +0000 2026",
+    "id_str": "2100052976752595453",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "It's true...",
+    "quoted_tweet": {
+      "author": "Agent Native",
+      "username": "agentnative_",
+      "text": "Only 115 minutes of focus to learn codex. \nThat's all it takes to start using agents in your business.\nYouTube Link below\n"
+    },
+    "url": "https://x.com/rileybrown/status/2100053246949687542",
+    "time": "2026-09-16 10:44",
+    "created_at": "Wed Sep 16 02:44:45 +0000 2026",
+    "id_str": "2100053246949687542",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Devin is overlooked. Soon OpenAI is removing their models from Cursor. It will be the only superapp left with all the different models. \n\nPlus they acquired @interaction, and are most certainly working on their own super-app to rival GrokBot, Muse, and GPT Work.\n\nDon't sleep on @cognition",
+    "quoted_tweet": null,
+    "url": "https://x.com/agentnative_/status/2100054280975622524",
+    "time": "2026-09-16 10:48",
+    "created_at": "Wed Sep 16 02:48:52 +0000 2026",
+    "id_str": "2100054280975622524",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I'm seeing way bigger productivity gains from building personal desktop apps than personal web apps. My personal super desktop app is insane. Saves me hours/wk.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2100072025054208335",
+    "time": "2026-09-16 11:59",
+    "created_at": "Wed Sep 16 03:59:22 +0000 2026",
+    "id_str": "2100072025054208335",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "It’s really unfortunate for people who genuinely care about AI safety that the movement has become so deeply entwined with EAs / rationalists.\n\nHard to get folks to take it seriously when these groups are publicly tied to SBF, polyamory, Harry Potter fanfic, and a murder cult.",
+    "quoted_tweet": {
+      "author": "New York Post",
+      "username": "nypost",
+      "text": "Anthropic CEO Dario Amodei's handpicked AI watchdog has deep ties to woke Effective Altruism movement: 'a complete joke' https://trib.al/IuA3uHW"
+    },
+    "url": "https://x.com/venturetwins/status/2100030948498927724",
+    "time": "2026-09-16 09:16",
+    "created_at": "Wed Sep 16 01:16:09 +0000 2026",
+    "id_str": "2100030948498927724",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins What does polyamory and Harry Potter fanfic has to do in this list lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/enima101/status/2100042133768118515",
+    "time": "2026-09-16 10:00",
+    "created_at": "Wed Sep 16 02:00:36 +0000 2026",
+    "id_str": "2100042133768118515",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins I post this here because I interpret Justine saying “really unfortunate for people who genuinely care about AI safety” as a claim that she cares and has cared for a while about AI Safety.\n\nI do not think that she has historically cared.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Actuallykeltan/status/2100051302692864352",
+    "time": "2026-09-16 10:37",
+    "created_at": "Wed Sep 16 02:37:02 +0000 2026",
+    "id_str": "2100051302692864352",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins You're not a good faith actor and your company has downplayed the dangers of this technology for years. It should be obvious to anyone with a brain what you are doing here. I'm not a fan of effective altruism and I can still see how you are playing this.",
+    "quoted_tweet": null,
+    "url": "https://x.com/UnrealRealist19/status/2100058253136740783",
+    "time": "2026-09-16 11:04",
+    "created_at": "Wed Sep 16 03:04:39 +0000 2026",
+    "id_str": "2100058253136740783",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I don’t agree with your brand of AI safety and ridiculous stuff like an “AI doom themed hype house” (from your bio).\n\nAnd I never claimed to be a proponent of this - I staunchly don’t believe Claude is going to wake up one day and decide to kill us all.\n\nI think there are reasonable guardrails to put in place around bad things that humans may try to do with models (as with any technology).",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2100058333910856162",
+    "time": "2026-09-16 11:04",
+    "created_at": "Wed Sep 16 03:04:58 +0000 2026",
+    "id_str": "2100058333910856162",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@UnrealRealist19 \"I'm not a fan of effective altruism\" and yet your bio links to Yudkowsky's book 🤔",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2100062341639606698",
+    "time": "2026-09-16 11:20",
+    "created_at": "Wed Sep 16 03:20:54 +0000 2026",
+    "id_str": "2100062341639606698",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@enima101 Buckle up, you're in for a wild ride 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2100063072765575588",
+    "time": "2026-09-16 11:23",
+    "created_at": "Wed Sep 16 03:23:48 +0000 2026",
+    "id_str": "2100063072765575588",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "PhysBrain 1.5: Open-source SOTA for Embodied AI\n\nA single 8B model that understands scenes, generates robot actions, and predicts future frames — all as tokens. 72.5 on 28 benchmarks, beating all open models.",
+    "quoted_tweet": null,
+    "url": "https://x.com/HuggingPapers/status/2099894590677348649",
+    "time": "Tue Sep 15 16:14:19 +0000 2026",
+    "created_at": "Tue Sep 15 16:14:19 +0000 2026",
+    "id_str": "2099894590677348649",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@dogacel0 @grok 这个是啥东西，为啥最近这么火",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100048486238658720",
+    "time": "2026-09-16 10:25",
+    "created_at": "Wed Sep 16 02:25:50 +0000 2026",
+    "id_str": "2100048486238658720",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "有点意思，学习一下...",
+    "quoted_tweet": {
+      "author": "Doğaç",
+      "username": "dogacel0",
+      "text": "4 months after its initial release, \"auto-gpu-kernel\" version 1.0 is finally out!  \n\nIt is a fully autonomous kernel generation \"meta-harness\" that evolves both the kernel and the harness layer, generating speed-of-light kernels 🧵\n\nhttps://github.com/Dogacel/auto-gpu-kernel"
+    },
+    "url": "https://x.com/seclink/status/2100056767879397541",
+    "time": "2026-09-16 10:58",
+    "created_at": "Wed Sep 16 02:58:45 +0000 2026",
+    "id_str": "2100056767879397541",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@HuggingPapers @grok 这个需要使用哪些硬件设备才能复线？一定要英伟达 的 GPU 吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100097103695642802",
+    "time": "2026-09-16 13:39",
+    "created_at": "Wed Sep 16 05:39:02 +0000 2026",
+    "id_str": "2100097103695642802",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "豆包这次很牛X , 甩其他国产大模型一大截。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "豆包大模型 2.1 Pro 发布 0915 版本更新，API 已在火山方舟全量上线。这次升级集中在四个方向：Agent 任务交付、多模态写代码、多模态理解、以及推理成本。\n\nAgent 方面的改进\n\n模型在需要多轮调用工具、联网查资料再出报告的场景里，强化了证据溯源和数据核验能力，幻觉明显减少。官方给的例子是金融投研：模型能自主拆解研究需求、检索数据源再建模分析，产出的底稿接近分析师水平。为了核实某车企财报里的一个说法，模型调度了 500 多个子 Agent、检索超 1000 个网页，还交叉比对了海事航迹、卫星影像等多源信息。这类\"不采信单方通稿、多源交叉验证\"的能力，对企业做尽调、出研报有直接价值。\n\n多模态 Coding\n\n这次最实用的变化可能是看图写代码。模型现在能直接读懂设计稿、图纸甚至操作录屏，把视觉信息转成前端代码。官方演示了一个场景：给模型一段录屏加几张草图，让它给一个没有文档的老 ERP 系统开发移动端页面——模型读懂了 28 万行 Java 代码，直接还原出可运行的移动端页面。\n\n在代码仓库理解上，模型对开源游戏 Luanti（约 38.7 万行代码）做了自主修复测试，83% 的任务达到了可合并标准。对经常要在大型项目里定位问题、跨文件修 bug 的开发者来说，这个数字值得关注。\n\n其他升级\n\n多模态理解方面，视频推理能力增强，能在视频里定位证据、跨帧整合；图像理解在 3D 物体识别（CAD 工件、游戏引擎元素）和密集图文解析（工程图纸、财报表格）上有明显提升。\n\n成本方面，图像和视频推理的 Token 消耗比上一代减少 30% 以上。\n\nAPI 使用上有两个入口：调用 Doubao-Seed-2.1-pro-0915 可以锁定版本；调用 Doubao-Seed-Evolving 则自动跟进最新版本，不用换 Model ID。豆包工作和 TRAE 也已同步接入。\n\n官方文章：https://mp.weixin.qq.com/s/Fp_mgF6wxMk0bkUVBqOKqA"
+    },
+    "url": "https://x.com/seclink/status/2100099673168269352",
+    "time": "2026-09-16 13:49",
+    "created_at": "Wed Sep 16 05:49:14 +0000 2026",
+    "id_str": "2100099673168269352",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "$94.27B USDT on TRON.",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": "TRON continues to lead in USDT activity, with $94.27B in circulating USDT and growing stablecoin activity across the network.\n\nMore from @Crypto_Briefing 👇\nhttps://cryptobriefing.com/tron-surpasses-ethereum-usdt-supply-94b/"
+    },
+    "url": "https://x.com/justinsuntron/status/2100062641830142143",
+    "time": "2026-09-16 11:22",
+    "created_at": "Wed Sep 16 03:22:05 +0000 2026",
+    "id_str": "2100062641830142143",
+    "is_retweet": false
   }
 ]
