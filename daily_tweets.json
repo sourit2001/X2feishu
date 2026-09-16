@@ -1,1 +1,83 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The state of public AI benchmarking is dire and is undermining our ability to understand how good AI is now.\n\nMost famous measures are maxed out, and, as this paper shows, the non-saturated benchmarks are riddled with so many errors that they vastly underestimate AI abilities.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100233342494925257",
+    "time": "2026-09-16 22:40",
+    "created_at": "Wed Sep 16 14:40:23 +0000 2026",
+    "id_str": "2100233342494925257",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Paper; https://arxiv.org/abs/2609.13009",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100234069543940320",
+    "time": "2026-09-16 22:43",
+    "created_at": "Wed Sep 16 14:43:17 +0000 2026",
+    "id_str": "2100234069543940320",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Codex can run Astra and GPT-5.6 Sol side by side.\n\nHere's the prompt that makes them work as a team:",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2100234511112098001",
+    "time": "2026-09-16 22:45",
+    "created_at": "Wed Sep 16 14:45:02 +0000 2026",
+    "id_str": "2100234511112098001",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1 model plans, 1 builds, and the prompt above is what keeps them from stepping on each other. Setup in 5 minutes, how to brief Astra, and which plan you need, free:\n\nhttps://godofprompt.ai/guides/gpt6-astra-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2100234523451809834",
+    "time": "2026-09-16 22:45",
+    "created_at": "Wed Sep 16 14:45:05 +0000 2026",
+    "id_str": "2100234523451809834",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather pay Astra to think than to type.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2100234535258759351",
+    "time": "2026-09-16 22:45",
+    "created_at": "Wed Sep 16 14:45:08 +0000 2026",
+    "id_str": "2100234535258759351",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "There is nothing to worry about",
+    "quoted_tweet": {
+      "author": "Robert Youssef",
+      "username": "rryssf",
+      "text": "https://x.com/i/article/2100240729805377536"
+    },
+    "url": "https://x.com/godofprompt/status/2100241589729710196",
+    "time": "2026-09-16 23:13",
+    "created_at": "Wed Sep 16 15:13:10 +0000 2026",
+    "id_str": "2100241589729710196",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@XCaptaincc 太难用了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2100211831646359606",
+    "time": "2026-09-16 21:14",
+    "created_at": "Wed Sep 16 13:14:55 +0000 2026",
+    "id_str": "2100211831646359606",
+    "is_retweet": false
+  }
+]
