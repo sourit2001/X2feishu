@@ -116,5 +116,347 @@
     "created_at": "Wed Sep 16 00:29:11 +0000 2026",
     "id_str": "2100019127796764877",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "非常棒的 FDE 入门课！\n\n最近发现有一个趋势，以前认为FDE一般是乙方公司的职位，现在看到越来越多的甲方公司也有 FDE，有没有懂行的朋友，为什么甲方公司也需要 FDE？",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Anthropic 工程师讲了一堂 FDE 入门课 \nhttps://www.youtube.com/watch?v=KwhgfwOSToQ\n\nKevin Bai 现在在 Anthropic 的 Applied AI 团队，之前是 Rippling FDE 团队的创始成员，再之前在 Palantir 干了好几年。最近他做了一个 FDE 101 的分享，把前线部署工程师这个角色讲得很清楚，值得总结一下。\n\n先说一个数据：在上市 SaaS 公司里，按平均合同金额排，Palantir 是 400 万美元，ServiceNow 120 万，Workday 60 万，剩下的没有一家能超过 50 万。Palantir 靠几千人做到了别人几万人做不到的客单价。靠的就是 FDE 模式。\n\nFDE 到底在解决什么问题？\n\nPalantir 的产品 Foundry 是一个应用构建平台，技术门槛很高，但买家是石油、消费品这些行业的非技术高管。你把一个复杂的技术平台丢给一个不会写代码的人，指望他自己搞明白怎么用，这不现实。\n\n所以 Palantir 的做法是：客户买的既不是软件产品，也不是咨询服务，而是一个\"结果\"。你派工程师过去，深入理解客户的业务场景，在平台上给他们把东西建出来。客户关心的是货架上多了多少商品、产线效率提升了多少，他们不关心数据怎么组织的，也不该关心。\n\nFDE 和外包开发有什么区别？\n\nKevin 特别强调了一点：如果你的工程师每次都从零给客户写定制代码，那你做的不是 FDE，是外包开发。FDE 模式能成立，前提是你有一个可复用的平台。工程师是在平台已有的基础能力上组装和定制，不是每次重新造轮子。没有平台，维护成本会吞掉所有利润，工程师也会因为要维护几十个毫无关联的代码库而跑路。\n\n要不要搞 FDE？两个问题就能判断。\n\n第一，你是不是必须把一个技术复杂的东西卖给非技术买家？如果你的客户本身就是工程师，比如卖 GitHub 或者 Datadog 的，不需要 FDE。如果你的产品本身就是开箱即用的，比如 Slack 或者 Jira，也不需要。只有你的产品很复杂、客户又不懂技术的时候，FDE 才有必要。\n\n第二，你有没有一个可复用的平台？或者你愿不愿意投入去建一个？没有共享的基础组件，FDE 就是不可持续的。\n\n2026 年的新变化是什么？\n\nKevin 的判断很有意思：软件行业做生意的方式本身变了，AI 让构建软件变得极其容易，几乎所有平台都在走向 Agent 化，这意味着几乎所有平台都变得高度可定制。后果就是：越来越多的客户搞不清楚你的产品到底能做什么。你把产品的成败交给客户自己去摸索，在 Agent 时代会越来越难走通。\n\n这就把 FDE 从 Palantir 独有的小众玩法，变成了更多软件公司需要认真考虑的事情。\n\n最后一个问题：什么样的人适合做 FDE？\n\nKevin 的回答很简洁：FDE 就是一个你信任到可以让他直接面对客户的软件工程师。技术能力是基本盘，但你还得放心让他代表公司去跟客户打交道。"
+    },
+    "url": "https://x.com/dongxi_nlp/status/2099992406078730623",
+    "time": "Tue Sep 15 22:43:00 +0000 2026",
+    "created_at": "Tue Sep 15 22:43:00 +0000 2026",
+    "id_str": "2099992406078730623",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 已经订阅plus的用户 是否可以申请呢，还是说需要先把订阅停掉。",
+    "quoted_tweet": null,
+    "url": "https://x.com/CodeGallop/status/2099992498219421774",
+    "time": "Tue Sep 15 22:43:22 +0000 2026",
+    "created_at": "Tue Sep 15 22:43:22 +0000 2026",
+    "id_str": "2099992498219421774",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@CodeGallop 会给你兑换码，停掉订阅就好",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2099998023837168047",
+    "time": "Tue Sep 15 23:05:19 +0000 2026",
+    "created_at": "Tue Sep 15 23:05:19 +0000 2026",
+    "id_str": "2099998023837168047",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dongxi_nlp 可能是部门之间吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2099999775365959995",
+    "time": "Tue Sep 15 23:12:17 +0000 2026",
+    "created_at": "Tue Sep 15 23:12:17 +0000 2026",
+    "id_str": "2099999775365959995",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "One missile, or seven. Same price.\n\na16z's @DefenseInDepth_ on the arsenal the US could have for the price of the one it's buying: https://www.a16z.news/p/magazine-depth-affordability-is-a",
+    "quoted_tweet": {
+      "author": "Alex Oliver",
+      "username": "DefenseInDepth_",
+      "text": "https://x.com/i/article/2099861650576662528"
+    },
+    "url": "https://x.com/a16z/status/2099992917700161666",
+    "time": "Tue Sep 15 22:45:02 +0000 2026",
+    "created_at": "Tue Sep 15 22:45:02 +0000 2026",
+    "id_str": "2099992917700161666",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Let me guess: Adobe MixTape? 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/JonnyJelinek/status/2099989753454088283",
+    "time": "Tue Sep 15 22:32:27 +0000 2026",
+    "created_at": "Tue Sep 15 22:32:27 +0000 2026",
+    "id_str": "2099989753454088283",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JonnyJelinek Haha :)))",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099990719410700372",
+    "time": "Tue Sep 15 22:36:18 +0000 2026",
+    "created_at": "Tue Sep 15 22:36:18 +0000 2026",
+    "id_str": "2099990719410700372",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Adobe just launched Generate Sound Effects directly in Premiere (beta)!\n\nJust select a range on the timeline, describe the sound you want, and generate it directly in your edit.\n\nYou can even sync it perfectly with your footage in just one click!\n\nSound on 🔊 The quality is wild",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099991714261840367",
+    "time": "Tue Sep 15 22:40:15 +0000 2026",
+    "created_at": "Tue Sep 15 22:40:15 +0000 2026",
+    "id_str": "2099991714261840367",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Oh wow that sounds amazing 🤩 🎧 🔥🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/Stardust0024/status/2099992836628455726",
+    "time": "Tue Sep 15 22:44:42 +0000 2026",
+    "created_at": "Tue Sep 15 22:44:42 +0000 2026",
+    "id_str": "2099992836628455726",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Great news for the Premier family.",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Adobe just launched Generate Sound Effects directly in Premiere (beta)!\n\nJust select a range on the timeline, describe the sound you want, and generate it directly in your edit.\n\nYou can even sync it perfectly with your footage in just one click!\n\nSound on 🔊 The quality is wild"
+    },
+    "url": "https://x.com/bressane/status/2099992850205139188",
+    "time": "Tue Sep 15 22:44:46 +0000 2026",
+    "created_at": "Tue Sep 15 22:44:46 +0000 2026",
+    "id_str": "2099992850205139188",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@bressane Thanks for sharing!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099993122071626056",
+    "time": "Tue Sep 15 22:45:50 +0000 2026",
+    "created_at": "Tue Sep 15 22:45:50 +0000 2026",
+    "id_str": "2099993122071626056",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Stardust0024 I love the sounds it generates!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099993171031646630",
+    "time": "Tue Sep 15 22:46:02 +0000 2026",
+    "created_at": "Tue Sep 15 22:46:02 +0000 2026",
+    "id_str": "2099993171031646630",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 💣",
+    "quoted_tweet": null,
+    "url": "https://x.com/shikoba_86/status/2099993303970177060",
+    "time": "Tue Sep 15 22:46:34 +0000 2026",
+    "created_at": "Tue Sep 15 22:46:34 +0000 2026",
+    "id_str": "2099993303970177060",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@shikoba_86 💥",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099993569868005708",
+    "time": "Tue Sep 15 22:47:37 +0000 2026",
+    "created_at": "Tue Sep 15 22:47:37 +0000 2026",
+    "id_str": "2099993569868005708",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Wow. This looks amazing 🤩",
+    "quoted_tweet": null,
+    "url": "https://x.com/akari_w0r1d/status/2099993828916637749",
+    "time": "Tue Sep 15 22:48:39 +0000 2026",
+    "created_at": "Tue Sep 15 22:48:39 +0000 2026",
+    "id_str": "2099993828916637749",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Finally something exciting from adobe!",
+    "quoted_tweet": null,
+    "url": "https://x.com/stimograph/status/2099994061805420989",
+    "time": "Tue Sep 15 22:49:34 +0000 2026",
+    "created_at": "Tue Sep 15 22:49:34 +0000 2026",
+    "id_str": "2099994061805420989",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@stimograph Haha, thank you :))",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099994737897766920",
+    "time": "Tue Sep 15 22:52:16 +0000 2026",
+    "created_at": "Tue Sep 15 22:52:16 +0000 2026",
+    "id_str": "2099994737897766920",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@akari_w0r1d Sounds amazing too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099994773968839109",
+    "time": "Tue Sep 15 22:52:24 +0000 2026",
+    "created_at": "Tue Sep 15 22:52:24 +0000 2026",
+    "id_str": "2099994773968839109",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Awesome!! Your tests sounds great too!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Shinebynous/status/2099995496601280933",
+    "time": "Tue Sep 15 22:55:17 +0000 2026",
+    "created_at": "Tue Sep 15 22:55:17 +0000 2026",
+    "id_str": "2099995496601280933",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@akuna_life Great photo and illustration!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099995583570149819",
+    "time": "Tue Sep 15 22:55:37 +0000 2026",
+    "created_at": "Tue Sep 15 22:55:37 +0000 2026",
+    "id_str": "2099995583570149819",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Shinebynous Thanks! Really great work by the team",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099995662297256126",
+    "time": "Tue Sep 15 22:55:56 +0000 2026",
+    "created_at": "Tue Sep 15 22:55:56 +0000 2026",
+    "id_str": "2099995662297256126",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love this. Extend sound has always been the Premiere feature I love the most.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2099995905424236833",
+    "time": "Tue Sep 15 22:56:54 +0000 2026",
+    "created_at": "Tue Sep 15 22:56:54 +0000 2026",
+    "id_str": "2099995905424236833",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone Me too! So here you can just generate it and sync to the video",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099996033908371720",
+    "time": "Tue Sep 15 22:57:25 +0000 2026",
+    "created_at": "Tue Sep 15 22:57:25 +0000 2026",
+    "id_str": "2099996033908371720",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I should learn Premiere, I just have stuck to AE for years now and never really bothered with Premiere",
+    "quoted_tweet": null,
+    "url": "https://x.com/FearofFEMA/status/2099996121687003145",
+    "time": "Tue Sep 15 22:57:46 +0000 2026",
+    "created_at": "Tue Sep 15 22:57:46 +0000 2026",
+    "id_str": "2099996121687003145",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FearofFEMA If you could learn AE, which is way way more complex, you can leant Premiere really fast. I only started editing stuff in Premiere and was surprised how intuitive it was",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099996568204009783",
+    "time": "Tue Sep 15 22:59:32 +0000 2026",
+    "created_at": "Tue Sep 15 22:59:32 +0000 2026",
+    "id_str": "2099996568204009783",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife WOW, looks amazing",
+    "quoted_tweet": null,
+    "url": "https://x.com/MO_IAI/status/2099997626632483327",
+    "time": "Tue Sep 15 23:03:44 +0000 2026",
+    "created_at": "Tue Sep 15 23:03:44 +0000 2026",
+    "id_str": "2099997626632483327",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MO_IAI Thank you from the team",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2099997898482110743",
+    "time": "Tue Sep 15 23:04:49 +0000 2026",
+    "created_at": "Tue Sep 15 23:04:49 +0000 2026",
+    "id_str": "2099997898482110743",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I wonder if i should move from after effects to premiere?  Always just been more comfortable with ae.",
+    "quoted_tweet": null,
+    "url": "https://x.com/RobopsychoAi/status/2100001492090622459",
+    "time": "Tue Sep 15 23:19:06 +0000 2026",
+    "created_at": "Tue Sep 15 23:19:06 +0000 2026",
+    "id_str": "2100001492090622459",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RobopsychoAi You can use both, they also have a great connection between the tools. I use both for different tasks",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100003518912352285",
+    "time": "Tue Sep 15 23:27:09 +0000 2026",
+    "created_at": "Tue Sep 15 23:27:09 +0000 2026",
+    "id_str": "2100003518912352285",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "We built high-throughput materials labs in Menlo Park to create a loop between experiments and models. The labs generate fresh data, the models learn from it, and then help us decide what to try next.\n\nUsing only 1,300 H200s, plus months of our experimental data, we mid-trained and RL’d an open-source model to surpass GPT-6 Astra on our analysis benchmark. We call it Neon.\n\nThis is real footage from our lab. We’re focusing first on hard problems in materials science, including superconductors, magnets, and semiconductor materials.\n\nRead our blog posts below.",
+    "quoted_tweet": null,
+    "url": "https://x.com/LiamFedus/status/2099896055030501702",
+    "time": "Tue Sep 15 16:20:08 +0000 2026",
+    "created_at": "Tue Sep 15 16:20:08 +0000 2026",
+    "id_str": "2099896055030501702",
+    "is_retweet": true
   }
 ]
