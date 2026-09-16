@@ -42,5 +42,54 @@
     "created_at": "Wed Sep 16 21:02:31 +0000 2026",
     "id_str": "2100329505571426525",
     "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": {
+      "text": "https://t.co/3gFwH8SrCi",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2100326264548798464",
+          "display": "pic.x.com/3gFwH8SrCi",
+          "original": "https://t.co/3gFwH8SrCi",
+          "replacement": "https://x.com/venturetwins/status/2100326274615144868/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Center for AI Safety",
+      "username": "CAIS",
+      "text": "Two radically different projects operate under the banner of “AI safety.”\nPro-Human Safety is not Effective Altruist Lab Safety."
+    },
+    "url": "https://x.com/venturetwins/status/2100326274615144868",
+    "time": "2026-09-17 04:49",
+    "created_at": "Wed Sep 16 20:49:40 +0000 2026",
+    "id_str": "2100326274615144868",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Introducing the #JustinSunPrize, a new academic bounty program rewarding breakthroughs in mathematics.\n\nContributors can solve eligible problems, formalize their results in Lean, and submit machine-verifiable proofs through the Prize’s open-source GitHub repository.\n\nWith five award tiers and a top prize of $1 million, the program is open to eligible contributors worldwide.\n\nSolve. Verify. Claim. \n\nLearn more: https://www.hejustinsun.com/prize",
+    "quoted_tweet": {
+      "author": "The Justin Sun Prize",
+      "username": "JustinSunPrize",
+      "text": "Introducing the #JustinSunPrize.\n\nRewarding Breakthroughs in Classic Mathematical Challenges\n\nLearn more 👇\nhttps://www.hejustinsun.com/prize"
+    },
+    "url": "https://x.com/justinsuntron/status/2100320194103275946",
+    "time": "2026-09-17 04:25",
+    "created_at": "Wed Sep 16 20:25:30 +0000 2026",
+    "id_str": "2100320194103275946",
+    "is_retweet": false
   }
 ]
