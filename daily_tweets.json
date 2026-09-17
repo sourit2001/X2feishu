@@ -256,5 +256,245 @@
     "created_at": "Thu Sep 17 08:58:30 +0000 2026",
     "id_str": "2100509689968783528",
     "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@rohanpaul_ai He really does look like Harry Potter it’s uncanny",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100492192829579718",
+    "time": "Thu Sep 17 07:48:58 +0000 2026",
+    "created_at": "Thu Sep 17 07:48:58 +0000 2026",
+    "id_str": "2100492192829579718",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": {
+      "author": "Arthur MacWaters",
+      "username": "ArthurMacwaters",
+      "text": "Starship being the only vehicle in the history of humanity that can take us to other planets does not get enough appreciation"
+    },
+    "url": "https://x.com/elonmusk/status/2100501250009686419",
+    "time": "Thu Sep 17 08:24:58 +0000 2026",
+    "created_at": "Thu Sep 17 08:24:58 +0000 2026",
+    "id_str": "2100501250009686419",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@Rothmus Optimus is cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100501754588627217",
+    "time": "Thu Sep 17 08:26:58 +0000 2026",
+    "created_at": "Thu Sep 17 08:26:58 +0000 2026",
+    "id_str": "2100501754588627217",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@alexarnault @Nike Cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2100504753750917477",
+    "time": "Thu Sep 17 08:38:53 +0000 2026",
+    "created_at": "Thu Sep 17 08:38:53 +0000 2026",
+    "id_str": "2100504753750917477",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "智谱用 GLM-5.3 自己优化了自己的推理系统\n\n智谱今天披露，GLM-5.3-Flash 的全部生产推理已运行在超过 10 万块国产 AI 加速器上。从模型首次跑通到上线生产，不到两周，端到端吞吐量提升了 3.2 倍。完成大量优化工作的不是工程师团队，而是一个由 GLM-5.3 驱动的 AI 智能体。\n\n智谱 CEO 唐杰发推说，他反复想的一件事是：干活的主力是模型自己。一个模型在帮忙优化运行它自己的系统。\n\n部署条件很苛刻。国产加速器显存容量和带宽有限，软件生态不成熟，很多该有文档的地方只能靠猜。GLM-5.3-Flash 还要支持 100 万 token 上下文和多模态请求。每一步优化都是在做交换：用计算换显存（ReplaySSM），用通信换显存（节点内张量并行），用精度换容量（INT8/FP8/BF16 混合缓存），用架构分离换调度自由度（编码-预填充-解码分离）。最终国产芯片的单 token 成本对标了主流英伟达 GPU。\n\n但唐杰说，最重要的经验不在任何一个具体优化上。\n\n智能体卡住的时候，几乎从来不是因为它写不出代码，而是因为它不知道事情为什么变差了。\"吞吐量下降了 20%\"告诉你出了问题，但不告诉你问题在哪一层、该验证什么假设、下一步该测什么。用强化学习的话说，这是一个稀疏奖励加信用分配的问题。而一次端到端基准测试要跑好几个小时，试错成本极高。\n\n资深工程师能定位问题，靠的是脑子里一套隐性的\"过程奖励\"——知道什么时候该看执行时间线，什么时候该跑微基准测试，该对比哪一层的输出。\n\n智谱做的事情是把这套隐性经验显性化，他们叫\"密集反馈\"：构建一套分层验证接口让智能体直接调用。正确性反馈回答\"算对了吗\"，系统行为反馈回答\"时间花在了哪\"，性能反馈回答\"哪个方案在什么条件下更优\"。每类信号都要求足够局部、获取成本低、可客观验证。\n\n靠这套机制，智能体发现并修复了三个真实的工程问题。\n\n第一个是精度漂移。KDA 内核在上下文并行路径中，TF32 的舍入误差通过链式状态矩阵合并不断累积，上下文越长漂移越大。修复已合并到开源项目 Flash Linear Attention。\n\n第二个是并发瓶颈。KV 缓存传输本该和计算并行，但智能体发现两者从未重叠。它沿调用链追到 Python 和 C++ 的边界，发现 DeepEP 的节点内路径没有释放全局解释器锁（GIL），传输线程一直拿不到执行权。修复后开销从超 30% 降到 1% 以下。\n\n第三个是重复计算。一个解码内核因分块方式把同一归一化运算重复做了四遍。智能体重组了计算结构，加速 1.71 倍。优化思路来自它阅读 SGLang、FLA、DeepGEMM 等项目的内核代码后提炼出的\"优化骨架\"。\n\n唐杰强调了边界：目标设定、反馈环境搭建、高风险变更审查仍然由人负责。但工程师的角色正在变化——从解决问题的人，变成设计反馈的人。\n\n他还指出一层更深的含义：一个建立在真实基础设施任务上的分层可验证反馈环境，恰恰是训练下一代模型最需要的东西。智能体完成的每一个任务，都可以成为它后继者的训练素材。\n\n唐杰说：“我们离递归自我改进还很远，但最小的闭环已经存在了。模型优化系统，系统运行模型。”\n\n有兴趣可以看看他们官方的文章：《Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure》https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "quoted_tweet": {
+      "author": "jietang",
+      "username": "jietang",
+      "text": "Two weeks.\n\nThat's how long it took to go from GLM-5.3-Flash's first run on domestic accelerators to serving all of its production traffic, with 3.2× end-to-end throughput along the way.\n\nWhat I keep thinking about is who did much of the work: an Infra Agent powered by GLM-5.3.\n\nA model helping optimize the system that serves it.\n\nThe conditions were hard. Limited memory and interconnect bandwidth. 1M-token context. Multimodal requests. An immature software stack where kernels were missing and documentation was often guesswork. Every optimization was a trade: compute for memory (ReplaySSM), communication for memory (intra-node tensor parallelism), precision for capacity (mixed INT8/FP8/BF16 caching), and disaggregation for scheduling freedom (Encode–Prefill–Decode).\n\nBut the most important lesson wasn't about any single optimization.\n\nWhen the agent got stuck, it was rarely because it couldn't write the code. It was because it didn't know *why* things got worse.\n\n\"Throughput down 20%\" tells you something broke. It doesn't tell you which layer, which hypothesis, or what to test next. In RL terms, it's a sparse reward with a credit assignment problem. And an end-to-end benchmark that takes hours makes exploration painfully slow.\n\nSenior engineers solve this with an implicit process reward in their heads. They know when to check the timeline, when to run a microbenchmark, and which layer's output to compare.\n\nSo we made that explicit. We call it dense feedback: layered verification interfaces the agent can call directly.\n\nCorrectness feedback: did it compute right?\nSystem behavior feedback: where did the time go?\nPerformance feedback: which option wins, under which conditions?\n\nEach signal has to be local, cheap, and objectively verifiable.\n\nThree things the agent found:\n\nFirst, precision drift in KDA's context-parallel path that grew with sequence length. The cause was TF32 rounding error compounding through chained state-matrix merges. The fix is now merged upstream in Flash Linear Attention (PR #1180).\n\nSecond, KV transfer never overlapped with DeepEP dispatch. The agent followed the call chain across the Python/C++ boundary and found that the intranode path never released the GIL. After the fix, transfer overhead fell from over 30% to under 1%.\n\nThird, a decode kernel recomputing the same normalization four times because of how it was chunked. The agent restructured it and got a 1.71× speedup. The idea came from \"optimization skeletons\" it had distilled by reading existing kernels across SGLang, FLA, and DeepGEMM.\n\nTo be clear about the boundaries: humans still defined the goals, built the feedback environment, and reviewed every high-risk change.\n\nBut the engineer's role is changing, from the person who solves the problem to the person who designs the feedback.\n\nThere's a deeper implication too. A layered, verifiable feedback environment built on real infrastructure tasks is exactly what training the next generation of models needs most. Every task the agent completes can become training ground for its successor.\n\nWe are still far from recursive self-improvement.\n\nBut the smallest loop now exists.\n\nThe model optimizes the system. The system serves the model."
+    },
+    "url": "https://x.com/dotey/status/2100494599475155288",
+    "time": "Thu Sep 17 07:58:32 +0000 2026",
+    "created_at": "Thu Sep 17 07:58:32 +0000 2026",
+    "id_str": "2100494599475155288",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@MTSlive @JensenHuang @grok 这里面提到的有哪些？给我归纳一下。其中可以搜索什么关键词买到对应的硬件",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100528546058023046",
+    "time": "Thu Sep 17 10:13:25 +0000 2026",
+    "created_at": "Thu Sep 17 10:13:25 +0000 2026",
+    "id_str": "2100528546058023046",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@BitRobotNetwork @GroundedSI @grok 这个多少钱一套？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100533534020841582",
+    "time": "Thu Sep 17 10:33:15 +0000 2026",
+    "created_at": "Thu Sep 17 10:33:15 +0000 2026",
+    "id_str": "2100533534020841582",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@BitRobotNetwork @grok 这个 slam 重建是需要 GPU 的吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100533683048657272",
+    "time": "Thu Sep 17 10:33:50 +0000 2026",
+    "created_at": "Thu Sep 17 10:33:50 +0000 2026",
+    "id_str": "2100533683048657272",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@BitRobotNetwork @grok @grok 此处的双 imu 有啥用 ？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100534175564730761",
+    "time": "Thu Sep 17 10:35:48 +0000 2026",
+    "created_at": "Thu Sep 17 10:35:48 +0000 2026",
+    "id_str": "2100534175564730761",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@seclink @BitRobotNetwork 双IMU位于帽冠两侧，200Hz 6DOF，捕捉头部姿态与运动。与6相机融合成视觉惯性系统，用于SLAM姿态估计、减少漂移、相机-IMU同步与标定，提升亚厘米精度与空间数据质量。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2100534330879549741",
+    "time": "Thu Sep 17 10:36:25 +0000 2026",
+    "created_at": "Thu Sep 17 10:36:25 +0000 2026",
+    "id_str": "2100534330879549741",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@dotey 反馈怎么设计，当有问题时，冻结哪一部分，更改哪一部分是最重要的，这取决于 Agent 的基建程度",
+    "quoted_tweet": null,
+    "url": "https://x.com/geyunfei/status/2100534710552440934",
+    "time": "Thu Sep 17 10:37:55 +0000 2026",
+    "created_at": "Thu Sep 17 10:37:55 +0000 2026",
+    "id_str": "2100534710552440934",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok @BitRobotNetwork @grok 这个采集帽子目前售价多少钱？有没有规格说明书",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100534808564920489",
+    "time": "Thu Sep 17 10:38:19 +0000 2026",
+    "created_at": "Thu Sep 17 10:38:19 +0000 2026",
+    "id_str": "2100534808564920489",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok @BitRobotNetwork @grok 为什么这里设计上需要 2个 imu ，1个为啥不行 ？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100535843094167817",
+    "time": "Thu Sep 17 10:42:25 +0000 2026",
+    "created_at": "Thu Sep 17 10:42:25 +0000 2026",
+    "id_str": "2100535843094167817",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@geyunfei @dotey 同问，这样 自己优化自己， 不是很容易坍塌吗？\n瞎烧token ，没有 human in loop",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100541998667354293",
+    "time": "Thu Sep 17 11:06:53 +0000 2026",
+    "created_at": "Thu Sep 17 11:06:53 +0000 2026",
+    "id_str": "2100541998667354293",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "用磁吸很容易掉啊...\n镜头磕碰一下桌面，直接落地成碎片 ...",
+    "quoted_tweet": {
+      "author": "Pablo Vela",
+      "username": "pablovelagomez1",
+      "text": "Ever since Project Aria came out, I wanted a similar experience that wasn't gatekept by Meta. These guys are doing it. The hardware is legit and API works. \n\nWorth giving them a look!"
+    },
+    "url": "https://x.com/seclink/status/2100551738101297655",
+    "time": "Thu Sep 17 11:45:35 +0000 2026",
+    "created_at": "Thu Sep 17 11:45:35 +0000 2026",
+    "id_str": "2100551738101297655",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@GroundedSI @huggingface @LeRobotHF @rerundotio @BitRobotNetwork @grok \n1. 这里提到的 hand-tracking benchmarks 和 SLAM benchmarks 是开源的吗？实际用了什么？\n\n2. 这是一家中国的公司吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100552235977687261",
+    "time": "Thu Sep 17 11:47:34 +0000 2026",
+    "created_at": "Thu Sep 17 11:47:34 +0000 2026",
+    "id_str": "2100552235977687261",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok @BitRobotNetwork @grok 如果只有 1颗 imu ，会存在什么问题",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100554282647101733",
+    "time": "Thu Sep 17 11:55:42 +0000 2026",
+    "created_at": "Thu Sep 17 11:55:42 +0000 2026",
+    "id_str": "2100554282647101733",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@EmperoAI @grok 这种通常是如何改造出来的模型？需要什么硬件和对应的型号",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2100554618183073840",
+    "time": "Thu Sep 17 11:57:02 +0000 2026",
+    "created_at": "Thu Sep 17 11:57:02 +0000 2026",
+    "id_str": "2100554618183073840",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "先做到十万亿单日",
+    "quoted_tweet": {
+      "author": "大宇",
+      "username": "BTCdayu",
+      "text": "孙哥的BAI单日吞吐量突破了1.5万亿…\n孙哥对商业的认识和执行力确实厉害"
+    },
+    "url": "https://x.com/justinsuntron/status/2100539165364588938",
+    "time": "Thu Sep 17 10:55:37 +0000 2026",
+    "created_at": "Thu Sep 17 10:55:37 +0000 2026",
+    "id_str": "2100539165364588938",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "孙宇晨奖，都来参加吧！",
+    "quoted_tweet": {
+      "author": "動區動趨 BlockTempo",
+      "username": "BlockTempo",
+      "text": "孫哥說：「我的財富建立在數學之上」，整個區塊鏈產業，都奠基於少數幾個密碼學基本與數學假設，因此決定設立 Justin Sun Prize，回饋根基。\n\n🌟 巔峰級數學難題只要能證明，每題就提供 100 萬美元（不分人類或是 AI）\n\n#JustinSunPrize"
+    },
+    "url": "https://x.com/justinsuntron/status/2100542145400807740",
+    "time": "Thu Sep 17 11:07:28 +0000 2026",
+    "created_at": "Thu Sep 17 11:07:28 +0000 2026",
+    "id_str": "2100542145400807740",
+    "is_retweet": false
   }
 ]
