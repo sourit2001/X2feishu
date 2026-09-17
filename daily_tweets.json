@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Hello X 的朋友们，我来给大家做个新人介绍 👋\n\n我是 Josh，一个 AI 从业者，也在抖音做「Josh 的 AI 笔记」。\n\n其实很早就想做 X 了。几年前上班时，同桌刚好是 X 上的大佬@op7418，当时受藏师傅影响，就动过这个念头。\n\n真正让我决定开始，是前几天我在抖音讲了@AdrianPunk115 的一篇文章，后来被他本人看到，还在 X 上转发推荐了我的视频。\n\n突然觉得：既然每天都在这里学习别人的东西，那我也应该开始留下自己的东西。\n\n我现在在大厂做 AI 创作相关产品，之前在智谱做 AI 产品设计 / PMO。\n\n平时也会参加线下分享，主要聊 AI 产品设计、创作 Skill 和自媒体创作。\n\n这周六会在 @SpaceXAI Grok Bot Meetup Beijing 分享：\n《如何让 Grok Bot 参与我的工作流：产品设计 × 内容创作》\n如果你也在，欢迎来面基。\n\n以后这里会分享我看到的、试过的、做出来的，以及一些还没完全想明白的。\n\n哦对，我还是个说唱歌手 🎤\n但最近主要在和 AI Battle。\n\nTime～",
+    "quoted_tweet": null,
+    "url": "https://x.com/Joshzhaoai/status/2100407260929523911",
+    "time": "Thu Sep 17 02:11:29 +0000 2026",
+    "created_at": "Thu Sep 17 02:11:29 +0000 2026",
+    "id_str": "2100407260929523911",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Joshzhaoai @AdrianPunk115 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2100414063763493055",
+    "time": "Thu Sep 17 02:38:31 +0000 2026",
+    "created_at": "Thu Sep 17 02:38:31 +0000 2026",
+    "id_str": "2100414063763493055",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我操，太整活了！\n\n小米 MiMo 团队居然在直播他们新模型 MiMo-V2.6 的RL 训练过程，看起来是一直在进行自动化的评估和测试。\n\n然后一个特别的点是，它显示了成本，而且成本是实时显示的。\n\n你可以看到训一个模型到底有多费钱，每一秒都在涨那个钱！",
+    "quoted_tweet": {
+      "author": "Fuli Luo",
+      "username": "_LuoFuli",
+      "text": "Nearly half a year of silence. We spent it studying one problem: how far RL can scale.\n\nMiMo-V2.6 is in the middle of its RL run right now. Three things we scaled: compute (~2B tokens per step, 1568 prompts × 16 rollouts, fully async), environments and harnesses (multi-task agentic RL, mixed across multiple harnesses in one run), and grader compute (agentic in-group credit assignment, with test-case and rubric-based rewards). We'll open-source the details piece by piece over the coming weeks.\n\nStreaming the run: https://mimo.xiaomi.com/rl/"
+    },
+    "url": "https://x.com/op7418/status/2100415629383934152",
+    "time": "Thu Sep 17 02:44:44 +0000 2026",
+    "created_at": "Thu Sep 17 02:44:44 +0000 2026",
+    "id_str": "2100415629383934152",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这也太开放了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2100415929872273846",
+    "time": "Thu Sep 17 02:45:56 +0000 2026",
+    "created_at": "Thu Sep 17 02:45:56 +0000 2026",
+    "id_str": "2100415929872273846",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "🐂🍺 Grok Bot 可以用你的 1Password 来登录你的网页和软件了，这样既不用输密码也可以避免泄露",
+    "quoted_tweet": {
+      "author": "Grok Bot",
+      "username": "bot",
+      "text": "Grok Bot can now use 1Password.\n\nShare items in a vault, approve each fill, and the secrets stay in your password manager."
+    },
+    "url": "https://x.com/op7418/status/2100421505536639231",
+    "time": "Thu Sep 17 03:08:05 +0000 2026",
+    "created_at": "Thu Sep 17 03:08:05 +0000 2026",
+    "id_str": "2100421505536639231",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "😂",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "难怪现在 Fable 额度降的飞快，Claude 配额削减已于 9 月 14 日生效\n\n>  Claude $200 计划的实证测量价值已从每月 $7200 降至约 $6000，低于 ChatGPT Pro 20x 的价值  \n> 如果你只使用 Fable，那么你获得的价值又会再削减 50%，降至每月 $3000"
+    },
+    "url": "https://x.com/mtrainier2020/status/2100391711696626047",
+    "time": "Thu Sep 17 01:09:42 +0000 2026",
+    "created_at": "Thu Sep 17 01:09:42 +0000 2026",
+    "id_str": "2100391711696626047",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@mtrainier2020 好图",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100397858243359138",
+    "time": "Thu Sep 17 01:34:07 +0000 2026",
+    "created_at": "Thu Sep 17 01:34:07 +0000 2026",
+    "id_str": "2100397858243359138",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude 新出的 Claude Docs、Claude Slides  还挺好用的，不过入口不是在普通聊天那里，要从 Artifacts 那里进去。https://claude.ai/artifacts",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Anthropic 把 Claude 的后台任务模式 Cowork 和日常聊天合并成了一个入口，今天开始向 Pro 和 Max 用户逐步推送。https://x.com/claudeai/status/2100258492590207079/video/1\n\n之前 Claude 有两个工作模式：聊天处理快问快答，Cowork 处理需要跑一阵子的大活儿——写报告、做调研、整理数据。问题是用户经常拿不准一个任务该丢到哪边，而且两边的上下文不互通。现在不用选了，所有对话都在同一个地方，Claude 自己判断任务需要什么能力。\n\n同时上线的还有三个内容创作工具：Claude Docs（文档协作）、Claude Slides（幻灯片）和 Claude Design（设计，之前是独立产品，现在也嵌进了对话）。在聊天里说一句\"帮我写个周报\"，Claude 直接生成文档，你可以在里面改、加批注、让 Claude 继续调整；说\"做五页幻灯片给领导汇报\"，slides 就出来了，改完可以直接下载成 PowerPoint 或 PDF。文档和幻灯片共享同一个对话上下文，所以内容天然一致，不用来回复制粘贴。\n\n实际使用场景大概是这样：出门前让 Claude 查上周项目进展、写周报、顺便做个汇报用的幻灯片，路上用手机看进度，到办公室直接改两笔就能发。还能设成定时任务，比如每周一自动开始写周报。Claude 默认每一步都会征求你确认，如果嫌烦也可以切成\"有问题再找我\"模式。\n\n三个创作工具目前都是 beta 状态，面向付费用户开放，企业版由管理员决定何时开启。Cowork 老用户不受影响，之前的对话、项目、连接器都还在。Team 和免费用户后续跟进，企业用户会提前 30 天收到通知。 \n\nhttps://claude.com/blog/cowork-is-now-claude"
+    },
+    "url": "https://x.com/dotey/status/2100417446200979486",
+    "time": "Thu Sep 17 02:51:57 +0000 2026",
+    "created_at": "Thu Sep 17 02:51:57 +0000 2026",
+    "id_str": "2100417446200979486",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "AI 味就是人味。是 AI 模仿大部分人类词汇和表达方式的结果。\n\n要做的不是去除 AI 味。而是提高自己的表达和写作特质。\n\n比如现在刘润的文章。卡兹克的文章。包括刘飞的声音。都一股 AI 味了。\n\n是因为太有名。被 AI 学会了。就成了 AI 味。世上本无 AI 味。都是鲁迅的路。\n\n你看我这篇。就没啥 AI 味。至少没有 AI。会像我这样只用句号标点。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lifesinger/status/2100448884908765482",
+    "time": "Thu Sep 17 04:56:53 +0000 2026",
+    "created_at": "Thu Sep 17 04:56:53 +0000 2026",
+    "id_str": "2100448884908765482",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey claude slides尤其好用，配合 design system",
+    "quoted_tweet": null,
+    "url": "https://x.com/howie_serious/status/2100449064710254782",
+    "time": "Thu Sep 17 04:57:36 +0000 2026",
+    "created_at": "Thu Sep 17 04:57:36 +0000 2026",
+    "id_str": "2100449064710254782",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@howie_serious 主要是要配合 Design System",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100449228828840433",
+    "time": "Thu Sep 17 04:58:15 +0000 2026",
+    "created_at": "Thu Sep 17 04:58:15 +0000 2026",
+    "id_str": "2100449228828840433",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lifesinger 我没有 AI 味只是因为我还不够有名🥲",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100460248314065105",
+    "time": "Thu Sep 17 05:42:02 +0000 2026",
+    "created_at": "Thu Sep 17 05:42:02 +0000 2026",
+    "id_str": "2100460248314065105",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "伊利诺伊大学厄巴纳-香槟分校（UIUC）贝克曼研究所宣布 2026 年种子基金资助项目，由信息学院助理教授汪浩瀚领衔，联合分子生理学教授 Nien-Pei Tsai 和生物工程/物理学教授 Aleksei Aksimentiev，共同成立\"协调式智能体生物学中心\"（Center for Orchestrated Agentic Biology，简称 OAB）。\n\n这个项目要解决的问题很直接：现在 AI 在生物学里已经能做很多事了：预测蛋白质结构、跑分子模拟，但这些模型各干各的，面对复杂的生物学问题时，单个模型往往力不从心。OAB 的思路是把多个专长不同的 AI 模型\"编排\"起来协同工作，让它们像一个研究团队一样分工合作、互相补充。\n\n用 AI 领域的话说，这本质上是把 AI 智能体的\"多智能体协作\"范式搬进了生物学实验室。\n\n团队选了一个具体的切入点来验证这套框架：大脑衰老。具体来说，他们要研究一条叫 E2F-p16INK4a 的细胞通路，这条通路控制着神经元的衰老过程。研究分三步走：汪教授负责搭建 AI 智能体系统，把复杂的生物力学问题拆解成子问题，再分配给不同的专业模型处理；Aksimentiev 负责用分子模拟验证 AI 预测的蛋白质结构是否在物理上说得通；Tsai 则在真实的年轻和衰老神经元上做实验，检验 AI 的预测是否与实际观察一致。\n\n如果预测和实验对得上，说明这套框架有效；对不上，就调整假设图谱，迭代重来。\n\n值得关注的是，团队明确表示这套框架不只是为了研究这一条通路，他们要做的是一个可复用的模板，理论上可以迁移到几乎任何细胞通路的研究中。如果验证成功，这意味着\"AI 智能体协作\"这个概念在生命科学领域可能找到一个非常实在的落地场景。",
+    "quoted_tweet": {
+      "author": "iSchool at Illinois",
+      "username": "iSchoolUI",
+      "text": "#iSchoolUI Assistant Professor @HaohanWang is part of a team receiving a Beckman Institute research seed grant to create a Center for Orchestrated Agentic Biology, aimed at developing an AI framework to model molecular pathways involved in brain aging ▶️ https://bit.ly/4xTyUyd"
+    },
+    "url": "https://x.com/dotey/status/2100469876745711700",
+    "time": "Thu Sep 17 06:20:18 +0000 2026",
+    "created_at": "Thu Sep 17 06:20:18 +0000 2026",
+    "id_str": "2100469876745711700",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Please build a Higgsfield competitor. We’ll even power it.\n\nHiggsfield API is live. Cheapest on the market. Seedance 2.5 in the US, with face inputs. No other provider offers that. 👀\n\nWe also open sourced everything we’ve built over the last 18 months. The code behind a $5.4B startup is on GitHub.\n\nI’ll personally give $50k to whoever builds something people actually fcking use.\n\nQT this with your demo. You have 7 days.",
+    "quoted_tweet": {
+      "author": "Higgsfield AI 🧩",
+      "username": "higgsfield",
+      "text": "Introducing Higgsfield API.\n\n50+ frontier models in one API, at lower prices than a subscription.\n\n> Get up to 50% OFF discount on your 3 favorite models\n> Lock in your max-discount within 7 days\n> Pay per use with no commitment\n\nBuild your own Higgsfield with the best prices in GenAI industry.\n\nAvailable at http://open.higgsfield.ai"
+    },
+    "url": "https://x.com/gpumaxxer/status/2100307886408912985",
+    "time": "2026-09-17 03:36",
+    "created_at": "Wed Sep 16 19:36:36 +0000 2026",
+    "id_str": "2100307886408912985",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "推荐阅读和观看，FDE讲的最好的内容\n\n企业什么时候才真的需要 FDE？\n组建 FDE 团队前，需要先通过两道闸门...\n\nKevin Bai 现任职于 Anthropic 的FDE团队，他在 AI Engineer World's Fair 的《FDE 101》演讲中，围绕什么是 FDE、企业为什么需要它，以及为什么他判断 AI 时代会让更多公司采用它展开。\n\n此前他曾在 Palantir 从事相关工作，并作为首位成员加入 Rippling 的 FDE 团队，帮助团队在一年内扩展至约 25 人。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100407090263335252",
+    "time": "Thu Sep 17 02:10:48 +0000 2026",
+    "created_at": "Thu Sep 17 02:10:48 +0000 2026",
+    "id_str": "2100407090263335252",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "文字版本：\n\nhttps://best.xiaohu.ai/article/fde-101/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100407093258051910",
+    "time": "Thu Sep 17 02:10:49 +0000 2026",
+    "created_at": "Thu Sep 17 02:10:49 +0000 2026",
+    "id_str": "2100407093258051910",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "边开车边Codex\n\n在CarPlay 上启用了 Codex\n\n边开车边通过语音和Codex交流，Codex 改设置、推代码、汇报发布进度。",
+    "quoted_tweet": {
+      "author": "Jonathan Roomer",
+      "username": "jonathanroomer",
+      "text": "I’ve got Codex (voice) in CarPlay. And it’s fantastic.\n\nI can now build things during road trips, while all 5 kids make a noise and my wife asks why I talk to the AI more than I talk to her.\n\nIt runs through my Nightblood iOS app, which gives ChatGPT Voice a face, personality and full access to Codex, my Mac and all the native tools."
+    },
+    "url": "https://x.com/xiaohu/status/2100472315868041555",
+    "time": "Thu Sep 17 06:29:59 +0000 2026",
+    "created_at": "Thu Sep 17 06:29:59 +0000 2026",
+    "id_str": "2100472315868041555",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@theogsavageaeri Thanks! It really is",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100419928775958635",
+    "time": "Thu Sep 17 03:01:49 +0000 2026",
+    "created_at": "Thu Sep 17 03:01:49 +0000 2026",
+    "id_str": "2100419928775958635",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Beautiful idea Kris, I tried with one of Ailya looking out, it's not a photograph, was curious to see the result, it looks so nice, i think i'll crop it and make a nice desktop wallpaper 😊 Thanks for the prompt 🙏\nGptImage 2 in Firefly.. distract, didnt pick 2.5  😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/LyanLab/status/2100429057741762839",
+    "time": "Thu Sep 17 03:38:06 +0000 2026",
+    "created_at": "Thu Sep 17 03:38:06 +0000 2026",
+    "id_str": "2100429057741762839",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LyanLab Beautiful!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100437427873628458",
+    "time": "Thu Sep 17 04:11:21 +0000 2026",
+    "created_at": "Thu Sep 17 04:11:21 +0000 2026",
+    "id_str": "2100437427873628458",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @davidjmalan @UniofOxford The courses with David J. Malan are my favs. He’s such a great teacher! I took CS50 (the Harvard one) introduction to computer science years ago. Maybe I’ll try CS50 with Python 🙂",
+    "quoted_tweet": null,
+    "url": "https://x.com/matt_brunel/status/2100465844643918207",
+    "time": "Thu Sep 17 06:04:16 +0000 2026",
+    "created_at": "Thu Sep 17 06:04:16 +0000 2026",
+    "id_str": "2100465844643918207",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@matt_brunel @davidjmalan @UniofOxford I recommend you watching it again. It is so interesting with AI in it. I can send you some links to lectures on YouTube",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100469107627843842",
+    "time": "Thu Sep 17 06:17:14 +0000 2026",
+    "created_at": "Thu Sep 17 06:17:14 +0000 2026",
+    "id_str": "2100469107627843842",
+    "is_retweet": false
+  }
+]
