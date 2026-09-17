@@ -91,5 +91,149 @@
     "created_at": "Wed Sep 16 20:25:30 +0000 2026",
     "id_str": "2100320194103275946",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait!",
+    "quoted_tweet": {
+      "author": "Sam Altman",
+      "username": "sama",
+      "text": "big 🚢 this week\n\nand then for devday\n\n🚢🚢🚢🚢🚢🚢"
+    },
+    "url": "https://x.com/sama/status/2100351958167220547",
+    "time": "2026-09-17 06:31",
+    "created_at": "Wed Sep 16 22:31:44 +0000 2026",
+    "id_str": "2100351958167220547",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "难怪现在 Fable 额度降的飞快，Claude 配额削减已于 9 月 14 日生效\n\n>  Claude $200 计划的实证测量价值已从每月 $7200 降至约 $6000，低于 ChatGPT Pro 20x 的价值  \n> 如果你只使用 Fable，那么你获得的价值又会再削减 50%，降至每月 $3000",
+    "quoted_tweet": {
+      "author": "Kun Chen",
+      "username": "kunchenguid",
+      "text": "reminder that claude quota reduction is already in effect since Sept. 14\n\ni reran my evals and my empirically measured value for a claude $200 plan has reduced from $7200/mo to about $6000, sitting below the value of ChatGPT Pro 20x\n\nif you only use fable (i know some people indeed do this), then that's another 50% cut on the value you get, putting you at $3000/mo\n\nstill WAY cheaper than paying at API pricing, but gradually they are crawling back the subsidization\n\ni think we're entering an era where stacking multiple subscriptions will be somewhat mainstream"
+    },
+    "url": "https://x.com/dotey/status/2100344118761161126",
+    "time": "2026-09-17 06:00",
+    "created_at": "Wed Sep 16 22:00:35 +0000 2026",
+    "id_str": "2100344118761161126",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "补充一条：\n4. 不仅给出建议，同时给出 markdown 格式的 diff 代码，让别人看了知道该怎么修改",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100350946194722832",
+    "time": "2026-09-17 06:27",
+    "created_at": "Wed Sep 16 22:27:42 +0000 2026",
+    "id_str": "2100350946194722832",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 中间1分47秒那个一闪而过的香蕉🍌，是亚麻么",
+    "quoted_tweet": null,
+    "url": "https://x.com/eraera/status/2100352914019791103",
+    "time": "2026-09-17 06:35",
+    "created_at": "Wed Sep 16 22:35:32 +0000 2026",
+    "id_str": "2100352914019791103",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@eraera 不像呀😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100356920783540287",
+    "time": "2026-09-17 06:51",
+    "created_at": "Wed Sep 16 22:51:27 +0000 2026",
+    "id_str": "2100356920783540287",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "延期了，下周发布，估计是 GPT-6 Sol",
+    "quoted_tweet": {
+      "author": "Sam Altman",
+      "username": "sama",
+      "text": "the main thing i was excited about launching this week will be next week instead, but imo worth the wait!"
+    },
+    "url": "https://x.com/dotey/status/2100361397095768561",
+    "time": "2026-09-17 07:09",
+    "created_at": "Wed Sep 16 23:09:14 +0000 2026",
+    "id_str": "2100361397095768561",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果你想看中文字幕的话",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100363265465311563",
+    "time": "2026-09-17 07:16",
+    "created_at": "Wed Sep 16 23:16:40 +0000 2026",
+    "id_str": "2100363265465311563",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mattchansky Enjoy, Matt",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100346874100080667",
+    "time": "2026-09-17 06:11",
+    "created_at": "Wed Sep 16 22:11:32 +0000 2026",
+    "id_str": "2100346874100080667",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I’ll be the contrarian and say no.\n\nBut it’s mostly because I have less time to explore its new depths.\n\nBut I’m so glad to have started with som many of you way back when.",
+    "quoted_tweet": null,
+    "url": "https://x.com/bri_guy_ai/status/2100372117225116091",
+    "time": "2026-09-17 07:51",
+    "created_at": "Wed Sep 16 23:51:50 +0000 2026",
+    "id_str": "2100372117225116091",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@bri_guy_ai Good to hear from you, Brian!! What are you up to these days?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100372790540943670",
+    "time": "2026-09-17 07:54",
+    "created_at": "Wed Sep 16 23:54:30 +0000 2026",
+    "id_str": "2100372790540943670",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Amazing!!!😱",
+    "quoted_tweet": null,
+    "url": "https://x.com/opener_ai/status/2100380719054991496",
+    "time": "Thu Sep 17 00:26:01 +0000 2026",
+    "created_at": "Thu Sep 17 00:26:01 +0000 2026",
+    "id_str": "2100380719054991496",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@opener_ai Thanks from the team",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100381842088022436",
+    "time": "Thu Sep 17 00:30:29 +0000 2026",
+    "created_at": "Thu Sep 17 00:30:29 +0000 2026",
+    "id_str": "2100381842088022436",
+    "is_retweet": false
   }
 ]
