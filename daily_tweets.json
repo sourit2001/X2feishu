@@ -1306,5 +1306,72 @@
     "created_at": "Thu Sep 17 19:28:42 +0000 2026",
     "id_str": "2100668285616529590",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 的 Projects 改版：Claude Tag 的架构 + Slack 的 Thread 功能\n\n以前就有人说现在 ChatBot、Agent 的交互就是借鉴自 Slack 的，现在看起来一点不假，Anthropic 今天重做了 Claude 的 Projects 功能，先在 Claude Code 里上线测试版，终于把我最喜欢的 Thread 功能也抄进来了。\n\n以前的 Project 是个文件夹，放资料和指令，对话还是一个个分开的。新版变成一个持续的主对话：你在里面说要做什么，Claude 自己拆任务，分给多个并行的 Thread 去干，检查结果后汇总给你。关掉电脑，活儿还在云端继续跑。\n\n【用 Slack 的 Thread 来理解】\n\n用过 Slack 或飞书的人都熟悉 Thread（飞书里叫“话题”），有时候在频道里要就某一个话题深入讨论，就可以在某个消息下评论开个 Thread，相关讨论都收在这个 Thread 下面的回复里。主频道保持干净，想看细节再点进去。\n\n新版 Projects 就是这个形态。\n\n我还没资格使用这个新功能，看了一些视频和介绍，Boris Cherny 晒了自己项目的截图：他在主对话里丢了一张截图，说“启动 cc cli 总弹这个提示”。Claude 回了句“在查了”，随即在这条消息下面开出一个 Thread，标题是“iTerm 启动时的配置变更警告”。\n\n点开 Thread，右侧面板里是完整过程：查出是 5 月加的一个 iTerm2 功能每次启动都去改终端配置，提了修复 PR（代码合并请求）#69807，PR 已合并，Thread 标记为“已解决”，需要时可以重新打开。这件事在主对话里只占一张卡片，下面写着“11 条回复”。\n\n接着他又发了句“unship this”（把这个功能撤掉），Claude 再开一个 Thread 去办。Boris 说他已经不再管理会话了，想到什么就发什么，拆分交给 Claude。\n\n【背后是多智能体】\n\n结构上是一个协调者加一群干活的。主对话里的 Claude 是协调者，负责理解需求、派活、跟进和验收。每个 Thread 是一个独立的 Claude Code 云端会话，有自己的代码分支和仓库副本，互不干扰。两个 Thread 改到同一段代码时，按普通的合并冲突处理。单个 Thread 内部还能继续拆，调用子智能体（subagent）并行处理，让大任务更快完成。\n\n过去想让几个 Claude Code 同时干活，得自己开多个终端或云端会话，自己分工，最后自己把结果拼起来。现在这层调度交给了协调者。官方的说法是，像给幕僚长交代工作一样跟它说话，几件事一起说、顺序随意都行。\n\n【和 Claude Tag 什么关系】\n\nClaude Tag 是 Anthropic 6 月 23 日推出的产品，面向 Enterprise 和 Team 客户测试。它让 Claude 作为团队成员加入 Slack 频道，频道里任何人都可以 @Claude 派活，它把任务分阶段做完，在 Thread 里回复结果，还会记住频道里的相关信息。Anthropic 当时就说，Claude Tag 是 Claude Code 演进的开端。\n\nThariq 也有推文解释：Projects 把 Claude Tag 的架构带进了 Claude Code，每个项目有一个智能体管理记忆，再按任务派出子智能体，还可以让它主动做事、定时做事。\n\n所以两者是同一套架构装在不同的地方。Claude Tag 住在 Slack 里，面向团队，一个频道所有人共用一个 Claude。\n\n新版 Projects 在 Claude 自己的产品里，面向个人，Pro 和 Max 订阅就能用，不需要公司买企业版，也不需要 Slack。\n\n【记忆和资料库】\n\n项目里所有 Thread 共享一份记忆，干活时既读也写。官方举的例子：发布日期改到了周五，导出功能为什么砍掉，动计费服务之前要先问谁。这些事说过一次，后面新开的 Thread 都知道，不用每次在提示词里重新交代。多久汇报一次、汇报写多细，也可以直接跟它说，它会记住。\n\n另有一个资料库（library），收着你上传的文件和 Claude 产出的文件。顶部的 Overview 面板列出哪些事在等你拍板，手机上也能查看和指挥任何一个 Thread。\n\n【适合什么场景】\n\n适合一次回复搞不定、又能拆成几块并行的活。官方给了两个例子。\n\n一是给项目定个目标“降低结账环节的 p75 延迟”（75% 的请求能在这个时间内完成），让 Claude 在并行的 Thread 里逐个接口做性能分析、试优化方案、提 PR。\n\n二是同时连上 API、网页端、移动端三个仓库，目标是下线一个废弃的 v1 接口。Claude 给每个仓库开一个 Thread，迁移调用方、跑测试、提 PR，最后告诉你哪个要先合并。\n\nBoris 截图里的用法也很典型：日常维护一个代码库，bug、小需求、临时想法随手丢进去，每件事自动变成一个可追踪的 Thread。改一行代码、问一个问题这类小事，开普通会话就够了。\n\n【限制和上手】\n\n每个 Thread 都是一个完整的 Claude Code 会话，几个同时跑，用量额度消耗得更快。项目里可以查看用量，也可以给协调者和干活的 Thread 分别选模型和推理强度。Boris 截图里主对话用的是 Fable 5.1，强度设为 Low。\n\nThread 目前只在云端运行，碰不到你电脑上的文件、本地工具和公司内网。Anthropic 说本地运行很快会支持。\n\n测试版今天起开放给部分 Pro 和 Max 用户，条件是在 Claude Code 里使用云端会话，且网页和桌面端没有已建的旧项目。未来一周扩大到更多 Claude Code 用户，之后才轮到聊天、Cowork 以及 Team、Enterprise 套餐。旧项目照常可用，后续统一升级。没拿到资格的可以去 http://claude.com/form/projects 排队。",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Today we're rolling out Projects in Claude Code on desktop and web.\n\nA project is one conversation with Claude. It splits the work into threads itself, runs them as parallel cloud sessions, passes context between them, and keeps going when you leave.\n\nIn beta for select users."
+    },
+    "url": "https://x.com/dotey/status/2100696009282080778",
+    "time": "Thu Sep 17 21:18:52 +0000 2026",
+    "created_at": "Thu Sep 17 21:18:52 +0000 2026",
+    "id_str": "2100696009282080778",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "fal's Gorkem Yurtseven on the Blender, Astra, and H3 Max workflow professionals are using to get exactly the shot they wanted:\n\n\"Using Blender with one of these AI models together is an extremely popular workflow for professional work.\"\n\n\"You render a low resolution of your scene, what you want to do, using Blender, previous non-AI technology. And once you add that video as a reference to an AI model, you basically get close to 100% controllability.\"\n\n\"This is an incredibly popular workflow for VFX artists, people who are doing this professionally, because they want to get exactly what they put into the model.\"\n\n\"A week after we launched H3 Max, people started generating these beautiful scenes using an LLM, Astra, in Blender, and all of a sudden it unlocked a whole new pipeline. Using an LLM to create a Blender scene and then passing that to the H3 Max model.\"\n\n\"It works very well with H3 Max because it's extremely fast and you can try many things all at once in parallel.\"\n\n@gorkem @isidentical @fal @JenniferHli",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@fal's Gorkem Yurtseven and Batuhan Taskaya on making an open source video model 35x faster, and what Hollywood wanted after they built it:\n\nLast month, MiniMax released H3, an open source video model. fal rebuilt it - they cut down the steps the model takes to make a video, rewrote the code under each stage, and got the GPUs to 70-80% of their theoretical ceiling instead of their usual 30-40%. No quality loss.\n\nVideo now generates faster than you can film it. The models have gotten so cheap and fast that end users aren't even asking for improvements in either category anymore. The gap has moved to quality, or how closely the model follows the prompt.\n\nHollywood wasn't a customer a year ago and is now fal's fastest growing segment. Studios love it for the little things - extending a shot, moving the camera, changing the lighting. Those edits land 80-90% of the time. fal is chasing 99.9%.\n\nIn this conversation with a16z's Jennifer Li:\n\n00:00 Intro\n01:45 The first open model worth rebuilding\n03:45 The industry ran out of compute in April\n06:25 35x faster without losing quality\n11:05 5s of video generated in 1.5s\n14:25 The weekend fal dropped everything\n16:15 3 viral projects nobody planned\n18:20 Teaching a video model to remember\n20:25 An hour of video that's consistent\n23:30 2x the usage of other models in 3 weeks\n26:35 The case for giving video away for free\n29:00 Blender sketch in, finished shot out\n30:40 Chasing 99.9% reliability\n34:15 Hollywood, fal's fastest-growing customer\n36:50 Why studios wouldn't touch it until now\n\nYouTube: https://youtu.be/SDbRJXQrYGY\n\n@gorkem @isidentical @fal @JenniferHli"
+    },
+    "url": "https://x.com/a16z/status/2100696082384879623",
+    "time": "Thu Sep 17 21:19:09 +0000 2026",
+    "created_at": "Thu Sep 17 21:19:09 +0000 2026",
+    "id_str": "2100696082384879623",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "This game makes $30,000,000/mo😭\n\nthats $360M per year....\n& they run 750+ Meta ads.\n\nyou can literally 1 shot this with \nGPT-6 Astra + Higgsfield API\n\nthen steal this $100M + meta ad marketing strategy:\n\n> Astra finds your competitors\nstrongest ad concepts \n\n> Recreate them for your game with Higgsfield API\n\n> Have Astra launch them \nin Meta Ads\n\n> multiply your winning ads\n\nnow you have a winning mobile game \nwith winning ads \n\ntheir $30,000,000/mo playbook\n\nis literally out in the open \nfor anyone to grab a piece of the pie",
+    "quoted_tweet": {
+      "author": "Higgsfield AI 🧩",
+      "username": "higgsfield",
+      "text": "Introducing Higgsfield API.\n\n50+ frontier models in one API, at lower prices than a subscription.\n\n> Get up to 50% OFF discount on your 3 favorite models\n> Lock in your max-discount within 7 days\n> Pay per use with no commitment\n\nBuild your own Higgsfield with the best prices in GenAI industry.\n\nAvailable at http://open.higgsfield.ai"
+    },
+    "url": "https://x.com/ErnestoSOFTWARE/status/2100588403842494784",
+    "time": "Thu Sep 17 14:11:17 +0000 2026",
+    "created_at": "Thu Sep 17 14:11:17 +0000 2026",
+    "id_str": "2100588403842494784",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I loved this, thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/GarethCotterr/status/2100696861354926119",
+    "time": "Thu Sep 17 21:22:15 +0000 2026",
+    "created_at": "Thu Sep 17 21:22:15 +0000 2026",
+    "id_str": "2100696861354926119",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GarethCotterr Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100698268392903106",
+    "time": "Thu Sep 17 21:27:50 +0000 2026",
+    "created_at": "Thu Sep 17 21:27:50 +0000 2026",
+    "id_str": "2100698268392903106",
+    "is_retweet": false
   }
 ]
