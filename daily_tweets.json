@@ -1,1 +1,109 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "GPT-6 Astra 做软件宣传视频实在是太强了！\n\n这个视频从配乐到音效到组件，全部都是 GPT-6 Astra 自己处理的。\n\n没有用任何生成模型，纯代码，而且它是基于我的 Codepilot 组件和设计语言做的。\n\n跟软件本身的风格和效果都非常搭配。\n\n如果有人需要的话，我看要不要打包个 skill 给大家用。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2100500580573827529",
+    "time": "Thu Sep 17 08:22:18 +0000 2026",
+    "created_at": "Thu Sep 17 08:22:18 +0000 2026",
+    "id_str": "2100500580573827529",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "主要是得益于整个软件都是基于 AI 开发的，所以关于设计方案、设计规则这些东西，还有组件库，都非常的规范。\n\n因此它能很快地使用，然后去调用文档，还有我的 Design.md，快速地拿到结果。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2100505863652020421",
+    "time": "Thu Sep 17 08:43:18 +0000 2026",
+    "created_at": "Thu Sep 17 08:43:18 +0000 2026",
+    "id_str": "2100505863652020421",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 請問配樂、音效，這兩者也都是純代碼嗎？ 好聽耶 😆",
+    "quoted_tweet": null,
+    "url": "https://x.com/SatisJoy/status/2100508206414074264",
+    "time": "Thu Sep 17 08:52:36 +0000 2026",
+    "created_at": "Thu Sep 17 08:52:36 +0000 2026",
+    "id_str": "2100508206414074264",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@SatisJoy 他自己找的素材",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2100519998037069919",
+    "time": "Thu Sep 17 09:39:27 +0000 2026",
+    "created_at": "Thu Sep 17 09:39:27 +0000 2026",
+    "id_str": "2100519998037069919",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@github 这什么情况，LobeHub 怎么 404 了？\nhttps://github.com/lobehub",
+    "quoted_tweet": {
+      "author": "LobeHub",
+      "username": "lobehub",
+      "text": "We’ve just discovered that the LobeHub GitHub organization has been flagged and is currently hidden from public view.\n\nWe haven’t received a clear reason for the restriction and believe this may be a mistake.\n\nLobeHub is an open-source project with 82K+ GitHub stars, and our development and community activities remain active as usual.\n\n @github   , could you please help review our organization and restore public access?\n\nhttps://github.com/lobehub\n\nWe’ll keep everyone updated here."
+    },
+    "url": "https://x.com/dotey/status/2100477393886495095",
+    "time": "Thu Sep 17 06:50:10 +0000 2026",
+    "created_at": "Thu Sep 17 06:50:10 +0000 2026",
+    "id_str": "2100477393886495095",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "智谱用 GLM-5.3 自己优化了自己的推理系统\n\n智谱今天披露，GLM-5.3-Flash 的全部生产推理已运行在超过 10 万块国产 AI 加速器上。从模型首次跑通到上线生产，不到两周，端到端吞吐量提升了 3.2 倍。完成大量优化工作的不是工程师团队，而是一个由 GLM-5.3 驱动的 AI 智能体。\n\n智谱 CEO 唐杰发推说，他反复想的一件事是：干活的主力是模型自己。一个模型在帮忙优化运行它自己的系统。\n\n部署条件很苛刻。国产加速器显存容量和带宽有限，软件生态不成熟，很多该有文档的地方只能靠猜。GLM-5.3-Flash 还要支持 100 万 token 上下文和多模态请求。每一步优化都是在做交换：用计算换显存（ReplaySSM），用通信换显存（节点内张量并行），用精度换容量（INT8/FP8/BF16 混合缓存），用架构分离换调度自由度（编码-预填充-解码分离）。最终国产芯片的单 token 成本对标了主流英伟达 GPU。\n\n但唐杰说，最重要的经验不在任何一个具体优化上。\n\n智能体卡住的时候，几乎从来不是因为它写不出代码，而是因为它不知道事情为什么变差了。\"吞吐量下降了 20%\"告诉你出了问题，但不告诉你问题在哪一层、该验证什么假设、下一步该测什么。用强化学习的话说，这是一个稀疏奖励加信用分配的问题。而一次端到端基准测试要跑好几个小时，试错成本极高。\n\n资深工程师能定位问题，靠的是脑子里一套隐性的\"过程奖励\"——知道什么时候该看执行时间线，什么时候该跑微基准测试，该对比哪一层的输出。\n\n智谱做的事情是把这套隐性经验显性化，他们叫\"密集反馈\"：构建一套分层验证接口让智能体直接调用。正确性反馈回答\"算对了吗\"，系统行为反馈回答\"时间花在了哪\"，性能反馈回答\"哪个方案在什么条件下更优\"。每类信号都要求足够局部、获取成本低、可客观验证。\n\n靠这套机制，智能体发现并修复了三个真实的工程问题。\n\n第一个是精度漂移。KDA 内核在上下文并行路径中，TF32 的舍入误差通过链式状态矩阵合并不断累积，上下文越长漂移越大。修复已合并到开源项目 Flash Linear Attention。\n\n第二个是并发瓶颈。KV 缓存传输本该和计算并行，但智能体发现两者从未重叠。它沿调用链追到 Python 和 C++ 的边界，发现 DeepEP 的节点内路径没有释放全局解释器锁（GIL），传输线程一直拿不到执行权。修复后开销从超 30% 降到 1% 以下。\n\n第三个是重复计算。一个解码内核因分块方式把同一归一化运算重复做了四遍。智能体重组了计算结构，加速 1.71 倍。优化思路来自它阅读 SGLang、FLA、DeepGEMM 等项目的内核代码后提炼出的\"优化骨架\"。\n\n唐杰强调了边界：目标设定、反馈环境搭建、高风险变更审查仍然由人负责。但工程师的角色正在变化——从解决问题的人，变成设计反馈的人。\n\n他还指出一层更深的含义：一个建立在真实基础设施任务上的分层可验证反馈环境，恰恰是训练下一代模型最需要的东西。智能体完成的每一个任务，都可以成为它后继者的训练素材。\n\n唐杰说：“我们离递归自我改进还很远，但最小的闭环已经存在了。模型优化系统，系统运行模型。”\n\n有兴趣可以看看他们官方的文章：《Toward Recursive Self-Improvement: How GLM Built Its Own Inference Infrastructure》https://z.ai/blog/glm-built-its-inference-infrastructure",
+    "quoted_tweet": {
+      "author": "jietang",
+      "username": "jietang",
+      "text": "Two weeks.\n\nThat's how long it took to go from GLM-5.3-Flash's first run on domestic accelerators to serving all of its production traffic, with 3.2× end-to-end throughput along the way.\n\nWhat I keep thinking about is who did much of the work: an Infra Agent powered by GLM-5.3.\n\nA model helping optimize the system that serves it.\n\nThe conditions were hard. Limited memory and interconnect bandwidth. 1M-token context. Multimodal requests. An immature software stack where kernels were missing and documentation was often guesswork. Every optimization was a trade: compute for memory (ReplaySSM), communication for memory (intra-node tensor parallelism), precision for capacity (mixed INT8/FP8/BF16 caching), and disaggregation for scheduling freedom (Encode–Prefill–Decode).\n\nBut the most important lesson wasn't about any single optimization.\n\nWhen the agent got stuck, it was rarely because it couldn't write the code. It was because it didn't know *why* things got worse.\n\n\"Throughput down 20%\" tells you something broke. It doesn't tell you which layer, which hypothesis, or what to test next. In RL terms, it's a sparse reward with a credit assignment problem. And an end-to-end benchmark that takes hours makes exploration painfully slow.\n\nSenior engineers solve this with an implicit process reward in their heads. They know when to check the timeline, when to run a microbenchmark, and which layer's output to compare.\n\nSo we made that explicit. We call it dense feedback: layered verification interfaces the agent can call directly.\n\nCorrectness feedback: did it compute right?\nSystem behavior feedback: where did the time go?\nPerformance feedback: which option wins, under which conditions?\n\nEach signal has to be local, cheap, and objectively verifiable.\n\nThree things the agent found:\n\nFirst, precision drift in KDA's context-parallel path that grew with sequence length. The cause was TF32 rounding error compounding through chained state-matrix merges. The fix is now merged upstream in Flash Linear Attention (PR #1180).\n\nSecond, KV transfer never overlapped with DeepEP dispatch. The agent followed the call chain across the Python/C++ boundary and found that the intranode path never released the GIL. After the fix, transfer overhead fell from over 30% to under 1%.\n\nThird, a decode kernel recomputing the same normalization four times because of how it was chunked. The agent restructured it and got a 1.71× speedup. The idea came from \"optimization skeletons\" it had distilled by reading existing kernels across SGLang, FLA, and DeepGEMM.\n\nTo be clear about the boundaries: humans still defined the goals, built the feedback environment, and reviewed every high-risk change.\n\nBut the engineer's role is changing, from the person who solves the problem to the person who designs the feedback.\n\nThere's a deeper implication too. A layered, verifiable feedback environment built on real infrastructure tasks is exactly what training the next generation of models needs most. Every task the agent completes can become training ground for its successor.\n\nWe are still far from recursive self-improvement.\n\nBut the smallest loop now exists.\n\nThe model optimizes the system. The system serves the model."
+    },
+    "url": "https://x.com/dotey/status/2100494599475155288",
+    "time": "Thu Sep 17 07:58:32 +0000 2026",
+    "created_at": "Thu Sep 17 07:58:32 +0000 2026",
+    "id_str": "2100494599475155288",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "豆包发布汽车座舱助手\n\n将豆包模型和汽车车机进行了整合\n\n支持通过多模态交互控制车内设备（如空调、车窗、导航路线规划等），并能结合车机各种应用生态，完成复杂的意图调用与任务拆解\n\n还配套了一个车载小屏幕，可以互动...\n\n看了下演示，还挺可以的",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100485533315260531",
+    "time": "Thu Sep 17 07:22:30 +0000 2026",
+    "created_at": "Thu Sep 17 07:22:30 +0000 2026",
+    "id_str": "2100485533315260531",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "和车机交互自动规划路线，具有记忆功能，知道车主和乘客信息",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100485537916469260",
+    "time": "Thu Sep 17 07:22:32 +0000 2026",
+    "created_at": "Thu Sep 17 07:22:32 +0000 2026",
+    "id_str": "2100485537916469260",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "具有记忆能力可以根据乘客喜欢自动和车机联动\n\n例如调整座位，还能自动识别意图进行任务调整",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100485540147781875",
+    "time": "Thu Sep 17 07:22:32 +0000 2026",
+    "created_at": "Thu Sep 17 07:22:32 +0000 2026",
+    "id_str": "2100485540147781875",
+    "is_retweet": false
+  }
+]
