@@ -1373,5 +1373,116 @@
     "created_at": "Thu Sep 17 21:27:50 +0000 2026",
     "id_str": "2100698268392903106",
     "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "This is my moment to share http://themozi.org, a site I vibecoded because the other free translations of the Mozi texts online were spotty and horribly formatted (left). So Claude and I made a beautiful, accessible version (right).\n\nIt also pools from different translations, because other free sites were incomplete.",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Since many people are learning about effective altruism, it's worth learning about Mozi, the ancient Chinese philosopher who was surprisingly close to being a proto-effective-altruist (particularly the global-health-focused variety, not the AI-risk-focused variety).\n\nHe valued the twin goals of (i) universal love, loving everyone and not just yourself and people similar or close to you, and (ii) being efficient about how you use your limited resources to most effectively help people.\n\nhttps://ctext.org/mozi"
+    },
+    "url": "https://x.com/taoburr/status/2100572691149287434",
+    "time": "Thu Sep 17 13:08:50 +0000 2026",
+    "created_at": "Thu Sep 17 13:08:50 +0000 2026",
+    "id_str": "2100572691149287434",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "My concern is that the bar for mass adoption is \"Can the frontier run on a phone?\" and we're still a long way off from that tech. Until then, people will default to remote hosting. So until then, we need to work toward CROPS-y _non-local_ inference",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Qwen 3.8 flash is truly impressive, and llama.cpp has been rapidly getting better and better at processing it\n\ncolumns are: pre-existing prompt, new prompt, generated, input tok/s, output tok/s\n\nThis is on my laptop (strix halo). I think we're very close to the point where you can just use local models for a large share of tasks, and for anything more advanced, workflows like \"use your local model to orchestrate queries to powerful models so your queries don't leak your personal information\" actually become viable."
+    },
+    "url": "https://x.com/darmandgwei/status/2100607223542251898",
+    "time": "Thu Sep 17 15:26:04 +0000 2026",
+    "created_at": "Thu Sep 17 15:26:04 +0000 2026",
+    "id_str": "2100607223542251898",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Mozi is a Chinese native libertarian who proposed non aggression principle two thousand years ago.",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Since many people are learning about effective altruism, it's worth learning about Mozi, the ancient Chinese philosopher who was surprisingly close to being a proto-effective-altruist (particularly the global-health-focused variety, not the AI-risk-focused variety).\n\nHe valued the twin goals of (i) universal love, loving everyone and not just yourself and people similar or close to you, and (ii) being efficient about how you use your limited resources to most effectively help people.\n\nhttps://ctext.org/mozi"
+    },
+    "url": "https://x.com/linyz0100/status/2100690077181690031",
+    "time": "Thu Sep 17 20:55:17 +0000 2026",
+    "created_at": "Thu Sep 17 20:55:17 +0000 2026",
+    "id_str": "2100690077181690031",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I agree with this and I keep trying every few months.\n\nMy killer app is having a casual info lookup / research tool that's >50% as good as internet + frontier models that can function on a fully offline phone.\n\n(As people travel with their phones to situations where they're offline all the time)\n\nThere the goal is not even just CROPS, it's utility - and the problem is that if you're literally offline, magic remote FHE inference won't help you.\n\nAnd so far I've gotten like 10 TPS with 1B models that break if you try to use them for anything interesting :(\n\nI think the right architecture for phone might be extreme MoE (including newer varieties like ngrams), eg. you want like 100B params most of which live on disk and only <1B get activated per token",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2100695863026954698",
+    "time": "Thu Sep 17 21:18:17 +0000 2026",
+    "created_at": "Thu Sep 17 21:18:17 +0000 2026",
+    "id_str": "2100695863026954698",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@linyz0100 I would say 老子 is the one closer to libertarianism.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2100700079355306354",
+    "time": "Thu Sep 17 21:35:02 +0000 2026",
+    "created_at": "Thu Sep 17 21:35:02 +0000 2026",
+    "id_str": "2100700079355306354",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@taoburr It's a beautiful site, 谢谢你的贡献！",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2100700352303804424",
+    "time": "Thu Sep 17 21:36:07 +0000 2026",
+    "created_at": "Thu Sep 17 21:36:07 +0000 2026",
+    "id_str": "2100700352303804424",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I overestimated the difficulty of orchestrating massive numbers of agents. I assumed research would be needed to build working organizations of agents, but they self-organize very well (and politely)\n\nHere is a Fable coordinator in Claude Projects passing messages between agents.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100714800527327488",
+    "time": "Thu Sep 17 22:33:32 +0000 2026",
+    "created_at": "Thu Sep 17 22:33:32 +0000 2026",
+    "id_str": "2100714800527327488",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Here is the open source repository, including all research notes and public domain source files (with a list of copyrighted source files the AI consulted): https://github.com/emollick/historical_fun",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100715745558585764",
+    "time": "Thu Sep 17 22:37:17 +0000 2026",
+    "created_at": "Thu Sep 17 22:37:17 +0000 2026",
+    "id_str": "2100715745558585764",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is now open source: https://github.com/emollick/eco-library\n\nThe AI found all the references itself. Note the highlighted part.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100721012287398312",
+    "time": "Thu Sep 17 22:58:13 +0000 2026",
+    "created_at": "Thu Sep 17 22:58:13 +0000 2026",
+    "id_str": "2100721012287398312",
+    "is_retweet": false
   }
 ]
