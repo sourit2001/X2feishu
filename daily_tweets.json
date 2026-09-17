@@ -1048,5 +1048,156 @@
     "created_at": "Thu Sep 17 19:53:47 +0000 2026",
     "id_str": "2100674596122882062",
     "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "What happens when you give a world model 32 images of a place we know very well?\n\nWorld Labs put Atlas to the test on Voyager. \n\nAtlas brings text, images, video, and 3D into a shared spatial context, enabling one model to generate new views, reconstruct scenes, and simulate worlds. With Voyager, you can now see that in action in real time.\n\nPretrained from scratch on NVIDIA Blackwell GPUs. Take a look around 👇",
+    "quoted_tweet": {
+      "author": "World Labs",
+      "username": "theworldlabs",
+      "text": "From 32 input images to real-time flight through @nvidia's Voyager headquarters.\n\nTrained on NVIDIA Blackwell GPUs, Atlas uses these images as 3D spatial context to generate new views, letting you explore with pixel-perfect camera control.\n\nTake a look around."
+    },
+    "url": "https://x.com/NVIDIAAI/status/2100636866378944626",
+    "time": "Thu Sep 17 17:23:51 +0000 2026",
+    "created_at": "Thu Sep 17 17:23:51 +0000 2026",
+    "id_str": "2100636866378944626",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "When I talk to nonprofit leaders about AI they often report widespread resistance from staff, usually because of environmental objections (that mix real issues & fake ones). It causes them frustration because they’re all under-resourced for their mission & see AI as a way to help",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100646721814737109",
+    "time": "Thu Sep 17 18:03:01 +0000 2026",
+    "created_at": "Thu Sep 17 18:03:01 +0000 2026",
+    "id_str": "2100646721814737109",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I had access to the new Claude Projects and was able to do some very complex work.\n\nHere, I asked it to go through all the images, videos and records about Umberto Eco's famous 33,000 book library & try to reconstruct it, including book locations, in 3D. https://eco-library-map.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100651315617800358",
+    "time": "Thu Sep 17 18:21:16 +0000 2026",
+    "created_at": "Thu Sep 17 18:21:16 +0000 2026",
+    "id_str": "2100651315617800358",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "What makes Claude Projects so interesting is that it handles teams of agents really well, you talk to a main orchestrator agent and it spins up specialists. Basically it creates an organization to solve your issue, mixing expensive and cheap agents depending on your preferences.\n\nFor example, I asked Fable in Claude Projects to select famous historical mysteries that it could try to resolve. It initiated research agents, selected the mysteries based on data it could access, and spun up eighteen separate threads, each with an agent each focused on one mystery. Then each thread launched additional agents (simulating avalanches, breaking codes) before summarizing those and passing them to still more agents for write up and another set of skeptical agents to fact check. It did this over a day of work, with the central orchestrator agent organizing it all. \n\nThe results were interesting if you like historical mysteries. They are also for fun and certainly not definitive or guaranteed error-free (but they are also mostly reasonable & grounded in the literature). https://historical-mysteries.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100665801800093959",
+    "time": "Thu Sep 17 19:18:50 +0000 2026",
+    "created_at": "Thu Sep 17 19:18:50 +0000 2026",
+    "id_str": "2100665801800093959",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Caveats: I take no money from the AI labs, and pay for my own accounts, but during early access there is no limit on tokens so I can’t speak to costs.\n\nAlso, I have published peer reviewed work in history but am only an interested amateur on the topics the AI selected.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100668197137678447",
+    "time": "Thu Sep 17 19:28:21 +0000 2026",
+    "created_at": "Thu Sep 17 19:28:21 +0000 2026",
+    "id_str": "2100668197137678447",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "this is why capable high intelligence local ai needs to be built into every computer, so ppl who need this technology can access it affordably and sustainably without extraordinary environmental concerns that come with cloud datacenter scaling",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "When I talk to nonprofit leaders about AI they often report widespread resistance from staff, usually because of environmental objections (that mix real issues & fake ones). It causes them frustration because they’re all under-resourced for their mission & see AI as a way to help"
+    },
+    "url": "https://x.com/TheNeuronScribe/status/2100671979485532259",
+    "time": "Thu Sep 17 19:43:23 +0000 2026",
+    "created_at": "Thu Sep 17 19:43:23 +0000 2026",
+    "id_str": "2100671979485532259",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@TheNeuronScribe Cloud computing is almost certainly more efficient though.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100672769495368149",
+    "time": "Thu Sep 17 19:46:31 +0000 2026",
+    "created_at": "Thu Sep 17 19:46:31 +0000 2026",
+    "id_str": "2100672769495368149",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Damn! This Union Alpha model inside Open Router is solid. It's apparently really good at SVGs. It's now 2nd on my BuseyBench leaderboard, behind GPT-6 Astra.\n\nAny ideas whose model this is?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2100668700705878191",
+    "time": "Thu Sep 17 19:30:21 +0000 2026",
+    "created_at": "Thu Sep 17 19:30:21 +0000 2026",
+    "id_str": "2100668700705878191",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow It’s a router not a model",
+    "quoted_tweet": null,
+    "url": "https://x.com/The_Alex/status/2100669475154784537",
+    "time": "Thu Sep 17 19:33:26 +0000 2026",
+    "created_at": "Thu Sep 17 19:33:26 +0000 2026",
+    "id_str": "2100669475154784537",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "The side-by-side of Union Alpha and GPT-6 Astra.\n\nUnion Alpha used less than 1/3rd of the tokens as Astra and did it in less than 1/2 the time. Wild.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2100669617207455838",
+    "time": "Thu Sep 17 19:33:59 +0000 2026",
+    "created_at": "Thu Sep 17 19:33:59 +0000 2026",
+    "id_str": "2100669617207455838",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@The_Alex So like a Sakana Fugu sorta situation?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2100669751462863299",
+    "time": "Thu Sep 17 19:34:31 +0000 2026",
+    "created_at": "Thu Sep 17 19:34:31 +0000 2026",
+    "id_str": "2100669751462863299",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Has anyone yet tried to get Astra and Fable to agree on the perfect styleguide? And then host it somewhere with a web mcp.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2100645454245720513",
+    "time": "Thu Sep 17 17:57:59 +0000 2026",
+    "created_at": "Thu Sep 17 17:57:59 +0000 2026",
+    "id_str": "2100645454245720513",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@vlinx_soft See you at DevDay",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2100649624860254629",
+    "time": "Thu Sep 17 18:14:33 +0000 2026",
+    "created_at": "Thu Sep 17 18:14:33 +0000 2026",
+    "id_str": "2100649624860254629",
+    "is_retweet": false
   }
 ]
