@@ -320,5 +320,130 @@
     "created_at": "Thu Sep 17 16:46:26 +0000 2026",
     "id_str": "2100627452053643604",
     "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "From 32 input images to real-time flight through @nvidia's Voyager headquarters.\n\nTrained on NVIDIA Blackwell GPUs, Atlas uses these images as 3D spatial context to generate new views, letting you explore with pixel-perfect camera control.\n\nTake a look around.",
+    "quoted_tweet": null,
+    "url": "https://x.com/theworldlabs/status/2100631511703920763",
+    "time": "Thu Sep 17 17:02:34 +0000 2026",
+    "created_at": "Thu Sep 17 17:02:34 +0000 2026",
+    "id_str": "2100631511703920763",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "OpenAI listed 5 things a model does when it misbehaves.\n\nPaste this into Codex to check your recent sessions against OpenAI’s criteria:",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2100596899619471685",
+    "time": "Thu Sep 17 14:45:02 +0000 2026",
+    "created_at": "Thu Sep 17 14:45:02 +0000 2026",
+    "id_str": "2100596899619471685",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Checking what your agent did is 1 prompt. Telling it clearly what it's allowed to do in the first place is the rest. Setup in 5 minutes, how to brief Astra, and which plan you need, free:\n\nhttps://godofprompt.ai/guides/gpt6-astra-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2100596924307157094",
+    "time": "Thu Sep 17 14:45:08 +0000 2026",
+    "created_at": "Thu Sep 17 14:45:08 +0000 2026",
+    "id_str": "2100596924307157094",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather ask your agent what it did than find out from a log 3 months later.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2100596936080572819",
+    "time": "Thu Sep 17 14:45:11 +0000 2026",
+    "created_at": "Thu Sep 17 14:45:11 +0000 2026",
+    "id_str": "2100596936080572819",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "终于看到了大语言模型之后的一个新的模型范式\nJev 是系统1模型，极速响应，价格超低，但不经过语言系统，不能说话，完全客观，也不需要语言层面的对齐。\n潜力很大，也许是通向 AGI 的另一条路。",
+    "quoted_tweet": {
+      "author": "Diogo Almeida",
+      "username": "CompleteSkeptic",
+      "text": "After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI?\n\nI’ve spent the last 2 years in stealth building a new way to train models (RLCD), and a new type of frontier AI model that we are releasing today: Jev\n\n• 20-200x faster\n• 40-400x cheaper (w/ output tokens free)\n• Frontier composable intelligence optimized for decisions\n\nAFAICT the shortest path to AI-based economic revolution"
+    },
+    "url": "https://x.com/oran_ge/status/2100571760869699880",
+    "time": "Thu Sep 17 13:05:09 +0000 2026",
+    "created_at": "Thu Sep 17 13:05:09 +0000 2026",
+    "id_str": "2100571760869699880",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 感觉最后也不是不能说话，给他一个词表让他选。也看到过别人的一个 demo，给他一个键盘，他最后也能打字了，蛮逗的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rainnystone/status/2100572366942474359",
+    "time": "Thu Sep 17 13:07:33 +0000 2026",
+    "created_at": "Thu Sep 17 13:07:33 +0000 2026",
+    "id_str": "2100572366942474359",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Rainnystone 对啊 能打字 但还是不能说话啊 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2100573364297650650",
+    "time": "Thu Sep 17 13:11:31 +0000 2026",
+    "created_at": "Thu Sep 17 13:11:31 +0000 2026",
+    "id_str": "2100573364297650650",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow No, please no. \n\nUnifying them is going to lead to usage limits in ChatGPT chats like Claude already does. \n\nChatGPT and Work can mostly do the same stuff with the caveat that Work draws from Codex usage and chat does not.",
+    "quoted_tweet": null,
+    "url": "https://x.com/tonysimons_/status/2100289667492962463",
+    "time": "2026-09-17 02:24",
+    "created_at": "Wed Sep 16 18:24:12 +0000 2026",
+    "id_str": "2100289667492962463",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@tonysimons_ Seems like an easy solution to that is for it to just ask permission before using tools and switching modes… for people who don’t care, there can be an auto mode… just like Codex does now with asking for permissions. Super easy solution for that.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2100601795609526430",
+    "time": "Thu Sep 17 15:04:30 +0000 2026",
+    "created_at": "Thu Sep 17 15:04:30 +0000 2026",
+    "id_str": "2100601795609526430",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow OpenAI never seems to come up with anything original. They just roll out the same features Anthropic introduced a few weeks earlier.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Neogermane/status/2100604006519148549",
+    "time": "Thu Sep 17 15:13:17 +0000 2026",
+    "created_at": "Thu Sep 17 15:13:17 +0000 2026",
+    "id_str": "2100604006519148549",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@Neogermane From my experience, it's literally the other way around.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2100606910731022652",
+    "time": "Thu Sep 17 15:24:49 +0000 2026",
+    "created_at": "Thu Sep 17 15:24:49 +0000 2026",
+    "id_str": "2100606910731022652",
+    "is_retweet": false
   }
 ]
