@@ -1,1 +1,324 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个结论应该只在 prototyping 阶段有效。你依然需要一个人类可以高效阅读的文档作为唯一真相源。如果没有这一层隔离，当你的项目复杂程度上到一定阶段的时候，会经常出现「按下葫芦起了瓢」的情况。因为人类很难有精力完全审查AI 在复杂项目中产出，而人类审查文档的效率更高，通过文档又可以发展出对项目的测试用例，通过测试用例，就可以更高效地管理软件开发结果。",
+    "quoted_tweet": {
+      "author": "ZEN",
+      "username": "supezen",
+      "text": "大家还在用 plan 模式吗？\n据说现在模型足够聪明，不要 plan 了，直接干就完了。"
+    },
+    "url": "https://x.com/realWeZZard/status/2100623979400823261",
+    "time": "Thu Sep 17 16:32:39 +0000 2026",
+    "created_at": "Thu Sep 17 16:32:39 +0000 2026",
+    "id_str": "2100623979400823261",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个结论应该只在 prototyping 阶段有效。你依然需要一个人类可以高效阅读的文档作为唯一真相源。如果没有这一层隔离，当你的项目复杂程度上到一定阶段的时候，会经常出现「按下葫芦起了瓢」的情况。因为人类很难有精力完全审查AI 在复杂项目中产出，而人类审查文档的效率更高，通过文档又可以发展出对项目的测试用例，通过测试用例，就可以更高效地管理软件开发结果。",
+    "quoted_tweet": {
+      "author": "ZEN",
+      "username": "supezen",
+      "text": "大家还在用 plan 模式吗？\n据说现在模型足够聪明，不要 plan 了，直接干就完了。"
+    },
+    "url": "https://x.com/realWeZZard/status/2100623979400823261",
+    "time": "Thu Sep 17 16:32:39 +0000 2026",
+    "created_at": "Thu Sep 17 16:32:39 +0000 2026",
+    "id_str": "2100623979400823261",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@realWeZZard 对，人类先确认这才是重点",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100625060348219593",
+    "time": "Thu Sep 17 16:36:56 +0000 2026",
+    "created_at": "Thu Sep 17 16:36:56 +0000 2026",
+    "id_str": "2100625060348219593",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Speed is a choice. From @patrickc's catalog:",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2100623802585715036",
+    "time": "Thu Sep 17 16:31:56 +0000 2026",
+    "created_at": "Thu Sep 17 16:31:56 +0000 2026",
+    "id_str": "2100623802585715036",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@swaymolina 🫂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100591368099725445",
+    "time": "Thu Sep 17 14:23:03 +0000 2026",
+    "created_at": "Thu Sep 17 14:23:03 +0000 2026",
+    "id_str": "2100591368099725445",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Share your art. No words. Just art. Let’s experience it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100600293515768118",
+    "time": "Thu Sep 17 14:58:31 +0000 2026",
+    "created_at": "Thu Sep 17 14:58:31 +0000 2026",
+    "id_str": "2100600293515768118",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife ✨🖖🤗\nhttps://x.com/artetuyo/status/2100355172715130982?s=20",
+    "quoted_tweet": {
+      "author": "YOel Almaguer",
+      "username": "artetuyo",
+      "text": "Good night, X friends! 🌙✨🖖🤗\n::\n📷 @AdobeFirefly"
+    },
+    "url": "https://x.com/artetuyo/status/2100600523338441126",
+    "time": "Thu Sep 17 14:59:26 +0000 2026",
+    "created_at": "Thu Sep 17 14:59:26 +0000 2026",
+    "id_str": "2100600523338441126",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@artetuyo Love your art",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100602128054067426",
+    "time": "Thu Sep 17 15:05:49 +0000 2026",
+    "created_at": "Thu Sep 17 15:05:49 +0000 2026",
+    "id_str": "2100602128054067426",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Here’s a link to “SMALL GODS, BAD TRIP”, my entry for Higgsfield Global Film Festival. You can watch it on my page, too. I mean if you want to, it’s about 18 minutes long 😄\n\n https://higgsfield.ai/@miniature_studios/projects/small-gods-bad-trip",
+    "quoted_tweet": null,
+    "url": "https://x.com/MinoruSuko/status/2100602198757360005",
+    "time": "Thu Sep 17 15:06:06 +0000 2026",
+    "created_at": "Thu Sep 17 15:06:06 +0000 2026",
+    "id_str": "2100602198757360005",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/LukeBussnick/status/2100602840024576010",
+    "time": "Thu Sep 17 15:08:39 +0000 2026",
+    "created_at": "Thu Sep 17 15:08:39 +0000 2026",
+    "id_str": "2100602840024576010",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife https://x.com/CloakedWorlds/status/2096869376792097221",
+    "quoted_tweet": {
+      "author": "Cloaked Worlds",
+      "username": "CloakedWorlds",
+      "text": "Back from the stars with stories to tell 🌌🚀🪐\n\nCreated with @grok Imagine, upscaled with Topaz Labs"
+    },
+    "url": "https://x.com/CloakedWorlds/status/2100603521666052566",
+    "time": "Thu Sep 17 15:11:21 +0000 2026",
+    "created_at": "Thu Sep 17 15:11:21 +0000 2026",
+    "id_str": "2100603521666052566",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LukeBussnick This is so good",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100603583351664766",
+    "time": "Thu Sep 17 15:11:36 +0000 2026",
+    "created_at": "Thu Sep 17 15:11:36 +0000 2026",
+    "id_str": "2100603583351664766",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/StellaGrokStar/status/2100606303291003232",
+    "time": "Thu Sep 17 15:22:24 +0000 2026",
+    "created_at": "Thu Sep 17 15:22:24 +0000 2026",
+    "id_str": "2100606303291003232",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@StellaGrokStar Beautiful, Stella",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100607622562947523",
+    "time": "Thu Sep 17 15:27:39 +0000 2026",
+    "created_at": "Thu Sep 17 15:27:39 +0000 2026",
+    "id_str": "2100607622562947523",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MinoruSuko Good luck on the festival! \n18 minutes long!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100607712480346340",
+    "time": "Thu Sep 17 15:28:00 +0000 2026",
+    "created_at": "Thu Sep 17 15:28:00 +0000 2026",
+    "id_str": "2100607712480346340",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CloakedWorlds Great visual",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100607744361271688",
+    "time": "Thu Sep 17 15:28:08 +0000 2026",
+    "created_at": "Thu Sep 17 15:28:08 +0000 2026",
+    "id_str": "2100607744361271688",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2100608326828478502",
+    "time": "Thu Sep 17 15:30:27 +0000 2026",
+    "created_at": "Thu Sep 17 15:30:27 +0000 2026",
+    "id_str": "2100608326828478502",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife https://x.com/abovethevortex/status/2100608584543281479",
+    "quoted_tweet": {
+      "author": "ABOVE THE VORTEX",
+      "username": "abovethevortex",
+      "text": "Peeples Era 2. TOUR (2004 - 2006)"
+    },
+    "url": "https://x.com/abovethevortex/status/2100609248778396025",
+    "time": "Thu Sep 17 15:34:06 +0000 2026",
+    "created_at": "Thu Sep 17 15:34:06 +0000 2026",
+    "id_str": "2100609248778396025",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@abovethevortex Did you make this for a festival?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100610152202186803",
+    "time": "Thu Sep 17 15:37:42 +0000 2026",
+    "created_at": "Thu Sep 17 15:37:42 +0000 2026",
+    "id_str": "2100610152202186803",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard Aww a new cartoon!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100610193193144653",
+    "time": "Thu Sep 17 15:37:52 +0000 2026",
+    "created_at": "Thu Sep 17 15:37:52 +0000 2026",
+    "id_str": "2100610193193144653",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It's amazing where AI animation is now",
+    "quoted_tweet": {
+      "author": "Glenn Williams",
+      "username": "GlennHasABeard",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2100610353407148164",
+    "time": "Thu Sep 17 15:38:30 +0000 2026",
+    "created_at": "Thu Sep 17 15:38:30 +0000 2026",
+    "id_str": "2100610353407148164",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I recommend posting directly in comments (not links) because this way I can quote repost your share.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100610551051071518",
+    "time": "Thu Sep 17 15:39:17 +0000 2026",
+    "created_at": "Thu Sep 17 15:39:17 +0000 2026",
+    "id_str": "2100610551051071518",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife https://x.com/TrishaCode/status/2100576505210233239",
+    "quoted_tweet": {
+      "author": "Trisha Code",
+      "username": "TrishaCode",
+      "text": "TRISHASODE 48"
+    },
+    "url": "https://x.com/TrishaCode/status/2100624349447282784",
+    "time": "Thu Sep 17 16:34:07 +0000 2026",
+    "created_at": "Thu Sep 17 16:34:07 +0000 2026",
+    "id_str": "2100624349447282784",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beautiful art shared today!",
+    "quoted_tweet": {
+      "author": "RoyalKongZ (Laurent)",
+      "username": "RoyalKongz",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2100627304426659974",
+    "time": "Thu Sep 17 16:45:51 +0000 2026",
+    "created_at": "Thu Sep 17 16:45:51 +0000 2026",
+    "id_str": "2100627304426659974",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TrishaCode Always super fun!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100627338144719300",
+    "time": "Thu Sep 17 16:45:59 +0000 2026",
+    "created_at": "Thu Sep 17 16:45:59 +0000 2026",
+    "id_str": "2100627338144719300",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love this community imagination",
+    "quoted_tweet": {
+      "author": "dΞnis kalyadine",
+      "username": "denis_kalyadine",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2100627452053643604",
+    "time": "Thu Sep 17 16:46:26 +0000 2026",
+    "created_at": "Thu Sep 17 16:46:26 +0000 2026",
+    "id_str": "2100627452053643604",
+    "is_retweet": false
+  }
+]
