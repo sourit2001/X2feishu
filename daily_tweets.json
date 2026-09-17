@@ -860,5 +860,193 @@
     "created_at": "Thu Sep 17 14:35:29 +0000 2026",
     "id_str": "2100594496585297973",
     "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I used to live just a few minutes from Baklavastory, such a warm video\n\nTake notes, this is how it’s done",
+    "quoted_tweet": {
+      "author": "Karan Goel",
+      "username": "krandiash",
+      "text": "Introducing Multilingual Voices\n\nWe partnered with Baklavastory, our neighbor in the Mission, to show what it sounds like when a business's character and warmth stay consistent, no matter who calls or what language they speak.\n\nIt's easy to translate speech, but much harder to preserve a single identity across languages. Every language has different rhythms, tones, and emphasis. When you change the language, identity tends to get lost in that shift, and your voice ends up sounding like someone else.\n\nWith Multilingual Voices, pick a voice and keep one brand identity in every market you serve: http://cartesia.ai/voices"
+    },
+    "url": "https://x.com/vasuman/status/2100648805188464738",
+    "time": "Thu Sep 17 18:11:17 +0000 2026",
+    "created_at": "Thu Sep 17 18:11:17 +0000 2026",
+    "id_str": "2100648805188464738",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman the voice consistency is actually impressive here",
+    "quoted_tweet": null,
+    "url": "https://x.com/markgalkev/status/2100649550788571586",
+    "time": "Thu Sep 17 18:14:15 +0000 2026",
+    "created_at": "Thu Sep 17 18:14:15 +0000 2026",
+    "id_str": "2100649550788571586",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@markgalkev Yeah your product actually has to be good if you want to pull this off lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2100651953802150281",
+    "time": "Thu Sep 17 18:23:48 +0000 2026",
+    "created_at": "Thu Sep 17 18:23:48 +0000 2026",
+    "id_str": "2100651953802150281",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@fal's Gorkem Yurtseven and Batuhan Taskaya on making an open source video model 35x faster, and what Hollywood wanted after they built it:\n\nLast month, MiniMax released H3, an open source video model. fal rebuilt it - they cut down the steps the model takes to make a video, rewrote the code under each stage, and got the GPUs to 70-80% of their theoretical ceiling instead of their usual 30-40%. No quality loss.\n\nVideo now generates faster than you can film it. The models have gotten so cheap and fast that end users aren't even asking for improvements in either category anymore. The gap has moved to quality, or how closely the model follows the prompt.\n\nHollywood wasn't a customer a year ago and is now fal's fastest growing segment. Studios love it for the little things - extending a shot, moving the camera, changing the lighting. Those edits land 80-90% of the time. fal is chasing 99.9%.\n\nIn this conversation with a16z's Jennifer Li:\n\n00:00 Intro\n01:45 The first open model worth rebuilding\n03:45 The industry ran out of compute in April\n06:25 35x faster without losing quality\n11:05 5s of video generated in 1.5s\n14:25 The weekend fal dropped everything\n16:15 3 viral projects nobody planned\n18:20 Teaching a video model to remember\n20:25 An hour of video that's consistent\n23:30 2x the usage of other models in 3 weeks\n26:35 The case for giving video away for free\n29:00 Blender sketch in, finished shot out\n30:40 Chasing 99.9% reliability\n34:15 Hollywood, fal's fastest-growing customer\n36:50 Why studios wouldn't touch it until now\n\nYouTube: https://youtu.be/SDbRJXQrYGY\n\n@gorkem @isidentical @fal @JenniferHli",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2100655721905803571",
+    "time": "Thu Sep 17 18:38:47 +0000 2026",
+    "created_at": "Thu Sep 17 18:38:47 +0000 2026",
+    "id_str": "2100655721905803571",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "fal's Gorkem Yurtseven says Hollywood went from almost no AI usage to their fastest-growing segment in one year:\n\n\"There's a lot of noise about how AI might disrupt Hollywood, but Hollywood usage was nonexistent a year ago. In the past year, it grew, and now it's the fastest-growing segment.\"\n\n\"Amazon MGM Studios, at their conference, released their Project Nara tool. It's mostly backed by fal infrastructure behind the scenes. We are seeing incredible pull coming from Hollywood.\"\n\n\"What they need are these small point solutions rather than generating everything from scratch. They want to be able to extend the video a little bit. They want to be able to change the camera controls. They want to change the lighting. Someone has to build these solutions for them.\"\n\n\"What Hollywood needs, what creators actually need, and what the research labs are working on, there's a little bit of a disconnect there. We believe we can come in and do these little post-training projects to close that gap.\"\n\n@gorkem @fal",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@fal's Gorkem Yurtseven and Batuhan Taskaya on making an open source video model 35x faster, and what Hollywood wanted after they built it:\n\nLast month, MiniMax released H3, an open source video model. fal rebuilt it - they cut down the steps the model takes to make a video, rewrote the code under each stage, and got the GPUs to 70-80% of their theoretical ceiling instead of their usual 30-40%. No quality loss.\n\nVideo now generates faster than you can film it. The models have gotten so cheap and fast that end users aren't even asking for improvements in either category anymore. The gap has moved to quality, or how closely the model follows the prompt.\n\nHollywood wasn't a customer a year ago and is now fal's fastest growing segment. Studios love it for the little things - extending a shot, moving the camera, changing the lighting. Those edits land 80-90% of the time. fal is chasing 99.9%.\n\nIn this conversation with a16z's Jennifer Li:\n\n00:00 Intro\n01:45 The first open model worth rebuilding\n03:45 The industry ran out of compute in April\n06:25 35x faster without losing quality\n11:05 5s of video generated in 1.5s\n14:25 The weekend fal dropped everything\n16:15 3 viral projects nobody planned\n18:20 Teaching a video model to remember\n20:25 An hour of video that's consistent\n23:30 2x the usage of other models in 3 weeks\n26:35 The case for giving video away for free\n29:00 Blender sketch in, finished shot out\n30:40 Chasing 99.9% reliability\n34:15 Hollywood, fal's fastest-growing customer\n36:50 Why studios wouldn't touch it until now\n\nYouTube: https://youtu.be/SDbRJXQrYGY\n\n@gorkem @isidentical @fal @JenniferHli"
+    },
+    "url": "https://x.com/a16z/status/2100666310996918498",
+    "time": "Thu Sep 17 19:20:51 +0000 2026",
+    "created_at": "Thu Sep 17 19:20:51 +0000 2026",
+    "id_str": "2100666310996918498",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "fal's Gorkem Yurtseven and Batuhan Taskaya on how faster-than-real-time generation unlocked continuous, interactive AI video:\n\n\"One of our engineers, Rehan, started streaming a live stream of continuous generations of H3 Max from his laptop. He was doing some prompt tricks, trying to keep a coherent story, and then he started livestreaming that on Twitch.\"\n\n\"Our ML team was essentially trying to take every single video model and apply these optimizations and tricks... You never could generate five seconds under five seconds. Once H3 Max unlocked it, the ML team was like, 'This is insane.'\"\n\n\"You can essentially stream infinitely. We capped it at an hour... I think it's the only model that can generate up to 60 minutes of continuous video that is action-controlled.\"\n\n\"You can start with a prompt, say there's an office setting and someone is working, and then 30 seconds later it just imagines by itself. 30 seconds later, you can say, 'A woman walks in through the door.' It can take the prompt and reflect it immediately, which is the most fun part.\"\n\n\"And the office is still the same office. The camera can pan back to the original person, and the original person is still there in the same state.\"\n\n@gorkem @isidentical @fal",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@fal's Gorkem Yurtseven and Batuhan Taskaya on making an open source video model 35x faster, and what Hollywood wanted after they built it:\n\nLast month, MiniMax released H3, an open source video model. fal rebuilt it - they cut down the steps the model takes to make a video, rewrote the code under each stage, and got the GPUs to 70-80% of their theoretical ceiling instead of their usual 30-40%. No quality loss.\n\nVideo now generates faster than you can film it. The models have gotten so cheap and fast that end users aren't even asking for improvements in either category anymore. The gap has moved to quality, or how closely the model follows the prompt.\n\nHollywood wasn't a customer a year ago and is now fal's fastest growing segment. Studios love it for the little things - extending a shot, moving the camera, changing the lighting. Those edits land 80-90% of the time. fal is chasing 99.9%.\n\nIn this conversation with a16z's Jennifer Li:\n\n00:00 Intro\n01:45 The first open model worth rebuilding\n03:45 The industry ran out of compute in April\n06:25 35x faster without losing quality\n11:05 5s of video generated in 1.5s\n14:25 The weekend fal dropped everything\n16:15 3 viral projects nobody planned\n18:20 Teaching a video model to remember\n20:25 An hour of video that's consistent\n23:30 2x the usage of other models in 3 weeks\n26:35 The case for giving video away for free\n29:00 Blender sketch in, finished shot out\n30:40 Chasing 99.9% reliability\n34:15 Hollywood, fal's fastest-growing customer\n36:50 Why studios wouldn't touch it until now\n\nYouTube: https://youtu.be/SDbRJXQrYGY\n\n@gorkem @isidentical @fal @JenniferHli"
+    },
+    "url": "https://x.com/a16z/status/2100676261001781448",
+    "time": "Thu Sep 17 20:00:23 +0000 2026",
+    "created_at": "Thu Sep 17 20:00:23 +0000 2026",
+    "id_str": "2100676261001781448",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/AiVickai/status/2100634981768843571",
+    "time": "Thu Sep 17 17:16:22 +0000 2026",
+    "created_at": "Thu Sep 17 17:16:22 +0000 2026",
+    "id_str": "2100634981768843571",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/AndreasRothe9/status/2100635216150667722",
+    "time": "Thu Sep 17 17:17:18 +0000 2026",
+    "created_at": "Thu Sep 17 17:17:18 +0000 2026",
+    "id_str": "2100635216150667722",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AndreasRothe9 This is lovely",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100635730598887887",
+    "time": "Thu Sep 17 17:19:20 +0000 2026",
+    "created_at": "Thu Sep 17 17:19:20 +0000 2026",
+    "id_str": "2100635730598887887",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AiVickai I love your style and color combinations a lot!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100635792305512597",
+    "time": "Thu Sep 17 17:19:35 +0000 2026",
+    "created_at": "Thu Sep 17 17:19:35 +0000 2026",
+    "id_str": "2100635792305512597",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/MartaTimmer/status/2100646369014972520",
+    "time": "Thu Sep 17 18:01:37 +0000 2026",
+    "created_at": "Thu Sep 17 18:01:37 +0000 2026",
+    "id_str": "2100646369014972520",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MartaTimmer Beautiful abstract",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100651973036937380",
+    "time": "Thu Sep 17 18:23:53 +0000 2026",
+    "created_at": "Thu Sep 17 18:23:53 +0000 2026",
+    "id_str": "2100651973036937380",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/ThatsDesignArt/status/2100672391630201009",
+    "time": "Thu Sep 17 19:45:01 +0000 2026",
+    "created_at": "Thu Sep 17 19:45:01 +0000 2026",
+    "id_str": "2100672391630201009",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hello!",
+    "quoted_tweet": null,
+    "url": "https://x.com/StaticWound_Leo/status/2100672675634971016",
+    "time": "Thu Sep 17 19:46:09 +0000 2026",
+    "created_at": "Thu Sep 17 19:46:09 +0000 2026",
+    "id_str": "2100672675634971016",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ThatsDesignArt Wow this is an awesome character",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100674551688401214",
+    "time": "Thu Sep 17 19:53:36 +0000 2026",
+    "created_at": "Thu Sep 17 19:53:36 +0000 2026",
+    "id_str": "2100674551688401214",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@StaticWound_Leo That’s really unique character",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100674596122882062",
+    "time": "Thu Sep 17 19:53:47 +0000 2026",
+    "created_at": "Thu Sep 17 19:53:47 +0000 2026",
+    "id_str": "2100674596122882062",
+    "is_retweet": false
   }
 ]
