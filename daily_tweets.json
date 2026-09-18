@@ -31,5 +31,90 @@
     "created_at": "Fri Sep 18 19:13:37 +0000 2026",
     "id_str": "2101026876647170092",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "My guess is that AI roughly doubles US GDP growth next year from ~2% to ~4%. Maybe even more.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101011740574052697",
+    "time": "2026-09-19 02:13",
+    "created_at": "Fri Sep 18 18:13:28 +0000 2026",
+    "id_str": "2101011740574052697",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "does everyone have access to this been trying to use it, looks cool. but how do i do it?",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Today we're rolling out Projects in Claude Code on desktop and web.\n\nA project is one conversation with Claude. It splits the work into threads itself, runs them as parallel cloud sessions, passes context between them, and keeps going when you leave.\n\nIn beta for select users."
+    },
+    "url": "https://x.com/rileybrown/status/2101003687988486210",
+    "time": "2026-09-19 01:41",
+    "created_at": "Fri Sep 18 17:41:28 +0000 2026",
+    "id_str": "2101003687988486210",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "New video on Jev Posted on YouTube. \n\nI talked about the different types of outputs (Choice, Score, Noul) and the difference between them. \n\nI built three apps with it that i genuinely find useful. \n\nAnd talk about the coolest ways others are using it. \nhttps://www.youtube.com/watch?v=o1CogAtWdBk",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101012654496067655",
+    "time": "2026-09-19 02:17",
+    "created_at": "Fri Sep 18 18:17:06 +0000 2026",
+    "id_str": "2101012654496067655",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I need agent portability...\n\nMy weekend project is to centralize all my skills, plugins, and keys, so that it's seamless to switch from one agent platform to another. (Codex, GrokBot, Claude Code, Muse, and more). \n\nI will be testing all the platforms that allow you to do that this weekend, and that is the one I'll use for my business.\n\nWill make video on this next week.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101027402369335382",
+    "time": "2026-09-19 03:15",
+    "created_at": "Fri Sep 18 19:15:42 +0000 2026",
+    "id_str": "2101027402369335382",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "All I have to say is @venturetwins you are just at the tip of the iceberg currently with the ethernet and your fiancé",
+    "quoted_tweet": {
+      "author": "Nick Bushak",
+      "username": "nbushak",
+      "text": "I aspire to the \"3 racks\" level of success. Grateful my wife allows me to have 1!"
+    },
+    "url": "https://x.com/seema_amble/status/2101014446105858396",
+    "time": "2026-09-19 02:24",
+    "created_at": "Fri Sep 18 18:24:13 +0000 2026",
+    "id_str": "2101014446105858396",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@seema_amble Every day it's a blessing he is not on this website and can't see things like this (as there is zero room in our house for it 😂)",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2101020909796839446",
+    "time": "2026-09-19 02:49",
+    "created_at": "Fri Sep 18 18:49:54 +0000 2026",
+    "id_str": "2101020909796839446",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Big Tech engineering org charts in 2026",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2101032189374963860",
+    "time": "2026-09-19 03:34",
+    "created_at": "Fri Sep 18 19:34:43 +0000 2026",
+    "id_str": "2101032189374963860",
+    "is_retweet": false
   }
 ]
