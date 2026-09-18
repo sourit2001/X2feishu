@@ -116,5 +116,389 @@
     "created_at": "Fri Sep 18 19:34:43 +0000 2026",
     "id_str": "2101032189374963860",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 直接检查了本机已有工具，发现系统有 macOS 的 say，但这个不方便直接提供逐词时间点。为了做精确字幕，所以选择了 Python 的 edge-tts 包，并通过它使用 Microsoft Edge 的在线神经语音服务。\n\n----------\n视频使用的是 Microsoft Edge TTS 的在线语音合成方案，具体配置如下：\n\nTTS 引擎：edge-tts\n服务：Microsoft Edge 在线语音服务\n音色：zh-CN-YunxiNeural\n语言：普通话，中国大陆\n声音类型：中文男声，云希\n语速：默认速度，rate=\"+0%\"\n生成方式：每页单独生成一段 MP3，并保存 WordBoundary 时间点，用于同步字幕\n后处理：加入约 400 毫秒开头延迟\n使用响度标准化：loudnorm=I=-18:TP=-2:LRA=7\n转为单声道、24 kHz PCM WAV\n\n视频输出音频：AAC\n48 kHz\n128 kbps",
+    "quoted_tweet": null,
+    "url": "https://x.com/tuzi_ai/status/2100990797092938228",
+    "time": "2026-09-19 00:50",
+    "created_at": "Fri Sep 18 16:50:15 +0000 2026",
+    "id_str": "2100990797092938228",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@tuzi_ai 就说这声音咋这么熟悉，电影解说都用他😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101004323937251406",
+    "time": "2026-09-19 01:44",
+    "created_at": "Fri Sep 18 17:44:00 +0000 2026",
+    "id_str": "2101004323937251406",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code now supports AGENTS.md. We'll fallback to it if CLAUDE.md isn't specified. Hope this helps :)",
+    "quoted_tweet": {
+      "author": "Thariq",
+      "username": "trq212",
+      "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config."
+    },
+    "url": "https://x.com/addyosmani/status/2101010420282855566",
+    "time": "2026-09-19 02:08",
+    "created_at": "Fri Sep 18 18:08:13 +0000 2026",
+    "id_str": "2101010420282855566",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "哈哈 Claude Code 终于支持 AGENTS.md，所以什么时候支持 .agents/skills ?",
+    "quoted_tweet": {
+      "author": "Thariq",
+      "username": "trq212",
+      "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config."
+    },
+    "url": "https://x.com/dotey/status/2101013914116915454",
+    "time": "2026-09-19 02:22",
+    "created_at": "Fri Sep 18 18:22:06 +0000 2026",
+    "id_str": "2101013914116915454",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "据悉：ChatGPT Pro 20x 计划现已重新开放。目前仅适用于您在过去 30 天内曾拥有 ChatGPT Pro 20x 但被取消或停用的情况。\n\n之前也看到有人说可以 renew 了",
+    "quoted_tweet": {
+      "author": "Mark Kretschmann",
+      "username": "mark_k",
+      "text": "The @ChatGPT Pro 20x plan is now available again. The subscription was temporarily paused while @OpenAI was struggling with capacity issues.\n\nHappy hacking! 🔥"
+    },
+    "url": "https://x.com/dotey/status/2101019748616032592",
+    "time": "2026-09-19 02:45",
+    "created_at": "Fri Sep 18 18:45:17 +0000 2026",
+    "id_str": "2101019748616032592",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这年头，对 Photoshop 不满意，就自己开发了一个\n\n是开源的，提交记录都有 Claude，看起来是 AI 辅助的。\n\nhttps://github.com/robbietilton/Compositor",
+    "quoted_tweet": {
+      "author": "Robbie Tilton",
+      "username": "robbietilton",
+      "text": "I built a Photoshop-like image editor. It’s called Compositor.\n\nhttps://robbietilton.com/compositor\n\nI originally built it for myself to get off my Adobe subscription, but decided to release it for free and make it open source. It has all the essential tools I need for compositing, with none of the BS.\n\nI know this workflow is kind of archaic in 2026, but I’m still using it until AI can actually get pixel-perfect on some of the details.\n\nThe entire app is 12MB. Photoshop is 6,455MB on my machine."
+    },
+    "url": "https://x.com/dotey/status/2101029005159805101",
+    "time": "2026-09-19 03:22",
+    "created_at": "Fri Sep 18 19:22:04 +0000 2026",
+    "id_str": "2101029005159805101",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@addyosmani `.agents/skills` next, please!",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101029610594951414",
+    "time": "2026-09-19 03:24",
+    "created_at": "Fri Sep 18 19:24:29 +0000 2026",
+    "id_str": "2101029610594951414",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个创意挺好的，Jev 实时生成游戏关卡",
+    "quoted_tweet": {
+      "author": "Hugo Duprez",
+      "username": "HugoDuprez",
+      "text": "Jev can generate game levels in real time.\n\nFaster and cheaper structured output could be a big deal for game dev!"
+    },
+    "url": "https://x.com/dotey/status/2101031465597247888",
+    "time": "2026-09-19 03:31",
+    "created_at": "Fri Sep 18 19:31:51 +0000 2026",
+    "id_str": "2101031465597247888",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "> Asked Claude\n> It refused (obviously)\n> Asked GLM 5.3\n> It did it (for a fraction of the cost)\n\nThe cat is out of the bag.\n\nAlso Claude of Duty: Vibe Slops II is an S tier name.",
+    "quoted_tweet": {
+      "author": "Luckey Faraday",
+      "username": "luckeyfaraday",
+      "text": "Black Ops 2 is now playable in the browser thanks to AI.\n\nClaude of Duty: Vibe Slops II is live.\n\nThis started as an experiment to see if AI could port the actual Black Ops 2 Hijacked map to the browser.\n\nClaude initially refused to work on it, so I started with GLM-5.3, GLM-5.3 Flash and, I believe, Qwen3.8-Max.\n\nI had the original game installed on my PC, so the agents spent the first ~12 hours trying to reverse engineer the game files while also scouring the internet for map positions, assets, weapon models, textures, animations, sounds and anything else they could find.\n\nThose models built the initial skeleton, and once that was in place I was able to bring Claude and other models into the loop.\n\nFrom there I ran separate agent loops on different parts of the game: lighting, weapons, movement, enemy AI, animations, UI, sound, etc.\n\nAround 48 hours of looping later, this is the result.\n\nThe entire thing was made by AI using the original game assets. I didn’t write any of the code myself.\n\nIt’s obviously not finished. There are still plenty of bugs, places where you can fall off the map, and the bots might be way too easy.\n\nI also still need to add all the guns, killstreaks and a lot of the other systems from the original game. That’s probably going to take another few days of continuous looping.\n\nBut it runs in your browser and you can play it now.\n\nDear Treyarch/Activision: this is a social experiment, not a for-profit project. Please don’t kill me.\n\nLink below."
+    },
+    "url": "https://x.com/vasuman/status/2100999727752114316",
+    "time": "2026-09-19 01:25",
+    "created_at": "Fri Sep 18 17:25:44 +0000 2026",
+    "id_str": "2100999727752114316",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks' @alighodsi on AI risk and adoption:\n\nAli isn't losing sleep over the existential risk debate.\n\nHe says a number of conditions would all have to be true simultaneously to enable an actual runaway takeoff scenario, and currently several opposite conditions exist.\n\nEach frontier training run requires significantly more resources. Power, GPUs, engineers - and some attempts fail, burning up huge piles of money with them. Until that reverses, he doesn't see the self-improving loop happening.\n\nCyber is what he's watching most closely and where he anticipates real impact. Most orgs are not equipped for the coming change in agentic capabilities. The time between a vulnerability being published and being weaponized has collapsed from years to hours.\n\nOn adoption, he believes most companies don't need a smarter model. The models are already smart enough. The gap is context they don't absorb - the things an employee who's worked at a company for five years learned by osmosis.\n\nIf the frontier stopped advancing today, he thinks it wouldn't meaningfully change the value most are extracting from AI anyway.\n\nIn conversation with a16z's Martin Casado and Sarah Wang:\n\n00:00 Intro\n00:48 Why Ali places the AI risk near zero\n05:05 The word \"pacing\" was a mistake\n10:50 What 10k agents and $100m can do\n12:20 What would change his mind on AI risk\n14:20 More GPUs, more ways to fail\n18:05 US export controls on PlayStations\n20:10 The damage everyone expected by now\n24:30 Public vulnerabilities weaponized in hours\n30:15 Why labs can't grade each other\n37:15 Why most of RSI isn't actually RSI\n40:05 Why nobody really needs a smarter model\n41:50 The AI use cases nobody argues about\n47:30 Google Search solved this 25 years ago\n50:55 Nobody has privileged knowledge now\n55:10 Same model, new harness, 2x cost\n58:15 Open source: 5% of spend, 60% of tokens\n1:05:30 90% of new databases are created by agents\n\nYouTube: https://youtu.be/GzEtpAKYRvE\n\n@databricks @martin_casado @sarahdingwang",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2101032223457829137",
+    "time": "2026-09-19 03:34",
+    "created_at": "Fri Sep 18 19:34:52 +0000 2026",
+    "id_str": "2101032223457829137",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/AiVickai/status/2100986901981168047",
+    "time": "2026-09-19 00:34",
+    "created_at": "Fri Sep 18 16:34:46 +0000 2026",
+    "id_str": "2100986901981168047",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You MUST mean my Firefly Custom model I trained a while ago 🙃",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2100990662262898784",
+    "time": "2026-09-19 00:49",
+    "created_at": "Fri Sep 18 16:49:43 +0000 2026",
+    "id_str": "2100990662262898784",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LauraPlotBot So true!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100990694663873016",
+    "time": "2026-09-19 00:49",
+    "created_at": "Fri Sep 18 16:49:50 +0000 2026",
+    "id_str": "2100990694663873016",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@korkuttevfik Haha, Adobe has Seedance as a tool and also even though I love Seedance a lot, but it can't do this :) actually I advocated this to be developed  was to help with problems Seedance has with music / ambient / dialog separation and sound inconsistency between generations!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100991039422992533",
+    "time": "2026-09-19 00:51",
+    "created_at": "Fri Sep 18 16:51:12 +0000 2026",
+    "id_str": "2100991039422992533",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@0xSuika Let me know how it goes!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100991103621066757",
+    "time": "2026-09-19 00:51",
+    "created_at": "Fri Sep 18 16:51:28 +0000 2026",
+    "id_str": "2100991103621066757",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2100992285815013755",
+    "time": "2026-09-19 00:56",
+    "created_at": "Fri Sep 18 16:56:10 +0000 2026",
+    "id_str": "2100992285815013755",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife gave it a go",
+    "quoted_tweet": null,
+    "url": "https://x.com/MicicJozef/status/2100994403942707690",
+    "time": "2026-09-19 01:04",
+    "created_at": "Fri Sep 18 17:04:35 +0000 2026",
+    "id_str": "2100994403942707690",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Hogwarts experiences some budget cuts",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100998515061043264",
+    "time": "2026-09-19 01:20",
+    "created_at": "Fri Sep 18 17:20:55 +0000 2026",
+    "id_str": "2100998515061043264",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'd go back to the room under the stairs if I was served that measly portion! 😆",
+    "quoted_tweet": null,
+    "url": "https://x.com/pzf_ai/status/2100999440731451835",
+    "time": "2026-09-19 01:24",
+    "created_at": "Fri Sep 18 17:24:36 +0000 2026",
+    "id_str": "2100999440731451835",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@pzf_ai 😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101001899155632272",
+    "time": "2026-09-19 01:34",
+    "created_at": "Fri Sep 18 17:34:22 +0000 2026",
+    "id_str": "2101001899155632272",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MicicJozef Awww cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101001948501537249",
+    "time": "2026-09-19 01:34",
+    "created_at": "Fri Sep 18 17:34:33 +0000 2026",
+    "id_str": "2101001948501537249",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Lovely dragon, Barb! How was your birthday?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101002005397275132",
+    "time": "2026-09-19 01:34",
+    "created_at": "Fri Sep 18 17:34:47 +0000 2026",
+    "id_str": "2101002005397275132",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Awww adorable",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101002057482162513",
+    "time": "2026-09-19 01:34",
+    "created_at": "Fri Sep 18 17:34:59 +0000 2026",
+    "id_str": "2101002057482162513",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AiVickai Lovely lion",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101002088192860304",
+    "time": "2026-09-19 01:35",
+    "created_at": "Fri Sep 18 17:35:07 +0000 2026",
+    "id_str": "2101002088192860304",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife My version. I had to change it up a bit.",
+    "quoted_tweet": null,
+    "url": "https://x.com/chetbff/status/2101004869628768333",
+    "time": "2026-09-19 01:46",
+    "created_at": "Fri Sep 18 17:46:10 +0000 2026",
+    "id_str": "2101004869628768333",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife thx. it was lovely. went to the coast and had lobster outdoors oceanside",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2101007531350864300",
+    "time": "2026-09-19 01:56",
+    "created_at": "Fri Sep 18 17:56:44 +0000 2026",
+    "id_str": "2101007531350864300",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beautiful creations",
+    "quoted_tweet": {
+      "author": "Chris \"Frankly Creative\" Franklin",
+      "username": "FrankOneDigital",
+      "text": "@icreatelife Love this!"
+    },
+    "url": "https://x.com/icreatelife/status/2101013619940929780",
+    "time": "2026-09-19 02:20",
+    "created_at": "Fri Sep 18 18:20:56 +0000 2026",
+    "id_str": "2101013619940929780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Sounds amazing!! Glad you had a good time",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101013699297239105",
+    "time": "2026-09-19 02:21",
+    "created_at": "Fri Sep 18 18:21:15 +0000 2026",
+    "id_str": "2101013699297239105",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@chetbff I love this, Chet! Very creative, as always",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101013769790865889",
+    "time": "2026-09-19 02:21",
+    "created_at": "Fri Sep 18 18:21:32 +0000 2026",
+    "id_str": "2101013769790865889",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife He did such a great job, I love it!",
+    "quoted_tweet": null,
+    "url": "https://x.com/billywoodward/status/2101021586904019408",
+    "time": "2026-09-19 02:52",
+    "created_at": "Fri Sep 18 18:52:36 +0000 2026",
+    "id_str": "2101021586904019408",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@billywoodward Me too!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101022648150982946",
+    "time": "2026-09-19 02:56",
+    "created_at": "Fri Sep 18 18:56:49 +0000 2026",
+    "id_str": "2101022648150982946",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "That’s interesting statistics. \nI my circle most people are paid to make stuff with AI, so clients pay for it. Also great to see young users adopting it fast.",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Almost nobody pays for AI out of pocket yet\n\nOnly ~3% of US consumers do, up from under 1% in 2023\n\nThe youngest buyers are adopting at 4x the rate of the oldest\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-so-many-apps-so"
+    },
+    "url": "https://x.com/icreatelife/status/2101027765537427481",
+    "time": "2026-09-19 03:17",
+    "created_at": "Fri Sep 18 19:17:09 +0000 2026",
+    "id_str": "2101027765537427481",
+    "is_retweet": false
   }
 ]
