@@ -1495,5 +1495,226 @@
     "created_at": "Thu Sep 17 23:57:34 +0000 2026",
     "id_str": "2100735948011327535",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 那个  fla cp 的问题还蛮有趣的，我团队的同学是在做训推一致的时候发现的，现象是 long context bench eval 的时候概率性说胡话，最后一路排查发现 fla cp 在 400K+ context len 上的误差会积累到不可忽视程度（e-2）。通过 agent 找到确定复现场景，再通过 agent 消融排查，方便多了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/SeTriones/status/2100732840891846777",
+    "time": "Thu Sep 17 23:45:13 +0000 2026",
+    "created_at": "Thu Sep 17 23:45:13 +0000 2026",
+    "id_str": "2100732840891846777",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@SeTriones 太厉害了👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100737644745347553",
+    "time": "2026-09-18 08:04",
+    "created_at": "Fri Sep 18 00:04:18 +0000 2026",
+    "id_str": "2100737644745347553",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Jason Wei 在 Stanford AI Club 做了一场约 30 分钟的演讲，围绕三个他认为理解 2025 年 AI 格局最基本的思维框架展开。Jason Wei 目前在 Meta Superintelligence Labs 做研究，此前在 OpenAI 参与创建了 o1 和 Deep Research，更早在 Google Brain 推动了 chain-of-thought prompting 和 instruction tuning 的研究，累计被引超过 9 万次。\n\n一、智能正在变成大宗商品\n\n他把 AI 的进步分成两个阶段：第一阶段是推前沿，模型还做不好某件事，你在解锁新能力；第二阶段是一旦能力达成，它就会迅速被商品化。用 MMLU 基准测试的数据看，每一年达到同等智能水平所需的花费都在下降，这个趋势在他看来还会持续，核心原因是深度学习历史上第一次\"自适应计算\"真正跑通了。过去不管问题多简单多难，推理用的算力是固定的；现在从 o1 开始，模型可以根据问题难度动态调整推理时的算力投入，这意味着简单任务的成本可以被压到极低。\n\n另一个维度是获取公开信息的时间。他画了一条时间线：从前互联网时代到互联网时代、聊天机器人时代、再到 AI 智能体时代，找到一条信息所需的时间在指数级缩短。他举了一个例子——\"1983 年韩国釜山有多少对夫妇结婚？\"——o3 回答不了这个问题，但 OpenAI Operator 可以，因为它能打开韩国统计数据库 KOSIS，一路点击操作直到查到答案。OpenAI 内部用一个叫 BrowseComp 的基准来衡量这种\"知道答案就秒验证，但找答案极耗时\"的任务，人类平均每题花两小时以上，很多题根本做不出来，而 Deep Research 能解决大约一半。\n\n这个趋势带来几个推论：过去靠知识门槛建立壁垒的领域会被民主化，vibe coding 和个人健康管理是典型例子；公开信息近乎免费之后，私有内部信息的相对价值反而上升了——比如你知道哪些房子没上市但可以卖，这种信息会更值钱；最终每个人将拥有一个\"个性化互联网\"，想知道什么就有一个为你定制的页面呈现给你。\n\n二、验证者定律：能衡量的就能被 AI 攻克\n\n第二个框架是他所说的\"验证不对称性\"。有些任务，生成一个解比验证一个解难得多——数独是经典例子，写出能跑 Twitter 的代码需要大量工程师，但验证它能不能用只要打开网页点几下。另一些任务则相反：写一篇看起来有道理的事实性文章很快，但逐句核实极其费时；宣称\"最好的饮食是只吃野牛肉\"只花 10 秒，但验证这个说法需要大样本和长期跟踪。\n\n他在一个二维平面上把这些任务画出来：X 轴是生成难度，Y 轴是验证难度。关键洞察是，你可以通过提供\"特权信息\"来改变任务在这个平面上的位置——竞赛数学题如果给了答案就秒验证，写代码如果给了测试用例（像 SWE-bench 那样）验证也变得简单。\n\n由此他提出了 Verifier's Law：AI 训练出来在某个任务上的能力，基本上与该任务的可验证程度成正比。具体来说，可验证性取决于五个因素：是否有客观正确答案、验证速度多快、能否大规模并行验证、噪声大不大、以及奖励信号是连续的还是二元的。几乎所有 AI benchmark 本身就是因为容易验证才被设计出来的，而这些 benchmark 确实在过去几年被逐一攻破，这恰好是 Verifier's Law 的实例。\n\n他特别推荐了 DeepMind 的 AlphaEvolve 作为利用验证不对称性的范例。AlphaEvolve 挑选满足上述五个条件的问题——比如找到 11 个六边形的最优排列使外接六边形最小——然后用大语言模型采样大量候选解，自动评分，把最优解作为下一轮采样的灵感，不断迭代。关键技巧在于它绕过了泛化问题：训练集和测试集是同一道题，你就是想知道这一道题的最优解。\n\n这个框架的实际推论是：最先被自动化的任务一定是验证成本最低的任务；而一个正在崛起的创业方向是——发明新的衡量方法，把原本难以验证的任务变得可验证，从而让 AI 去优化它。\n\n三、智能的锯齿状边缘\n\n对于\"AI 将如何改变世界\"这个问题，他看到的观点光谱极广。他的一个量化交易员朋友觉得 ChatGPT 跟自己工作无关，而他在顶级实验室的同事则认为再过两三年 AI 就会取代他们自己的工作。\n\n他明确反对\"快速起飞\"假说——即一旦 AI 跨过某个临界点就会突然变成超级智能。他的理由是，AI 的自我改进不是一个二元开关，而是一个渐进光谱：从跑不起来代码，到能训练但结果一般，到能自主训练但不如顶尖研究者，再到偶尔还需要人工干预。更重要的是，自我改进的速度应该按任务来看。AI 的能力图谱是一条锯齿线：在某些任务上已经达到山峰（竞赛数学、部分编程），但在另一些任务上仍是低谷（比如 ChatGPT 曾长期认为 9.11 大于 9.9，或者说一门只有几百人会的原住民语言 Tlingit）。\n\n他给出了判断 AI 在某个任务上进步速度的三条启发式规则。第一，AI 擅长数字化任务，核心原因是迭代速度——数字环境可以轻松扩展算力，而物理机器人的实验扩展成本高得多。第二，人类觉得容易的任务 AI 也往往容易，但有一类例外是\"人类因生理限制做不到但 AI 可以做到\"的任务，比如读过一千万张乳腺影像后发现某个人类注意力无法捕捉的模式来预测乳腺癌。第三，数据充足的任务 AI 表现好——数学推理在不同语言上的表现和该语言的训练数据量高度相关；而如果一个任务有单一客观指标，就可以通过强化学习生成合成数据来突破数据瓶颈，AlphaEvolve 和 AlphaZero 都是这个路线。\n\n他用一张表把这些启发式规则应用到具体任务上：主流语言翻译已经完成；调试基础代码 2023 年搞定；竞赛数学 2024 年搞定；AI 研究本身大概 2027 年；化学研究因为不是纯数字任务会更晚；拍电影大概 2029 年；修水管和理发因为高度物理化，短期内不太可能；乌兹别克传统地毯编织需要一组人花一个月、非数字化且缺数据，AI 不太可能碰到；至于\"带女朋友约会让她满意\"——他的判断是\"impossible，非数字化，缺数据\"，人类还能保住饭碗。\n\nhttps://www.youtube.com/watch?v=b6Doq2fz81U",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100746723178242197",
+    "time": "2026-09-18 08:40",
+    "created_at": "Fri Sep 18 00:40:23 +0000 2026",
+    "id_str": "2100746723178242197",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "可被评估的\n都会被ai取代 只是时间问题\n\n可被自动化的\n也可以被ai取代 因为人参与的部分极小\n\n当下资本为劳动时间付费\n未来资本为ai智能增量付费\n\n可怕的事情在于\nai一边在剥夺人类成为专家的刻意练习机会\n一边在规模化商品化人类的头部智能\n\n最终还是遵循二八定律\n98%的人类丧失主体性 不需要思考\n剩下2%在和ai斗智斗勇的过程中螺旋上升\n\n然而这2%的终局\n大概率也是会成为ai共生体\n才能站在巨人肩膀上前进\n\n剩余的 都将被ai寄生",
+    "quoted_tweet": null,
+    "url": "https://x.com/yangyi/status/2100748391760462174",
+    "time": "2026-09-18 08:47",
+    "created_at": "Fri Sep 18 00:47:01 +0000 2026",
+    "id_str": "2100748391760462174",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yangyi 高论👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100752921382068618",
+    "time": "2026-09-18 09:05",
+    "created_at": "Fri Sep 18 01:05:01 +0000 2026",
+    "id_str": "2100752921382068618",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "做了个小肥鱼桌宠 https://github.com/vczh/FatFishFairy 需要BYOK，openai chat completion compatible 。如果跑不起来（比如阿里云可能就跟openai会有一些细微差异），让你的codex阅读 https://vczh.net/Blog/CDB/ ，debug一下就可以上线了。\n\n程序会实时且无脱敏地把用户屏幕截图上传到LLM，最好自己host 模型🤪",
+    "quoted_tweet": null,
+    "url": "https://x.com/geniusvczh/status/2100756983611789479",
+    "time": "2026-09-18 09:21",
+    "created_at": "Fri Sep 18 01:21:09 +0000 2026",
+    "id_str": "2100756983611789479",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey",
+    "quoted_tweet": null,
+    "url": "https://x.com/geniusvczh/status/2100757467621892598",
+    "time": "2026-09-18 09:23",
+    "created_at": "Fri Sep 18 01:23:05 +0000 2026",
+    "id_str": "2100757467621892598",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我现在 ChatGPT Pro 的利用率越来越高，主要是经常用它帮我做技术方案，效果特别好，而且不占 Codex 额度。\n\n每次用的时候我直接把 GitHub 地址发给它，让它根据代码去分析去设计，写一份设计文档，甚至提交个 PR，后续我把设计文档下载到本地给 Codex 或者 Claude Code 去执行。\n\n还有时候会让它跟 Fable 赛马，同样的问题让 Fable 和 GPT 6 Pro 各自设计一个方案，然后取长补短。\n\n注意需要在设置里面连接一下自己的 GitHub 账号，这样可以访问自己的私有代码仓库和提交 PR。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100757928760262994",
+    "time": "2026-09-18 09:24",
+    "created_at": "Fri Sep 18 01:24:55 +0000 2026",
+    "id_str": "2100757928760262994",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@geniusvczh 厉害了👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100758176509370848",
+    "time": "2026-09-18 09:25",
+    "created_at": "Fri Sep 18 01:25:54 +0000 2026",
+    "id_str": "2100758176509370848",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Max used to carry me up many flights of stairs when I was inebriated after the Ramp bar crawls.\n\nnow he's going to carry me and Melius to a trillion dollars. so excited to work with you again. let's build.",
+    "quoted_tweet": {
+      "author": "Max Allen",
+      "username": "iammaxallen",
+      "text": "I spent 3 years leading engineering teams @tryramp across Fraud, Risk, and Growth\n\nRamp taught me that regulated software doesn’t have to mean slow software. Be extremely careful with auth, permissions, and money movement. Move extremely fast everywhere else.\n\nI left Ramp as coding agents were starting to actually work. It felt obvious that small, AI-native teams were going to build products and companies very differently.\n\nI spent the next year testing that idea, including starting a fintech company with former Ramp coworkers. We could build incredibly fast, but convincing large asset managers to change how they worked was another story.\n\nNow I'm working at @trymelius with @n0w00j, who was my first direct report at Ramp 😄\n\nWe’re building a platform for creatives to turn whatever they can imagine into images, video, and audio with generative models.\n\nGenerative media feels a lot like AI coding did a couple years ago: capabilities are moving incredibly fast, but getting exactly what you want is still hard.\n\nSuper excited for this journey, and I will share lessons learned as I go!"
+    },
+    "url": "https://x.com/n0w00j/status/2100688830743314675",
+    "time": "Thu Sep 17 20:50:20 +0000 2026",
+    "created_at": "Thu Sep 17 20:50:20 +0000 2026",
+    "id_str": "2100688830743314675",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@n0w00j This is insanely bullish",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2100732248651948034",
+    "time": "Thu Sep 17 23:42:52 +0000 2026",
+    "created_at": "Thu Sep 17 23:42:52 +0000 2026",
+    "id_str": "2100732248651948034",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "很多人问，日刊是怎么跑起来的，是不是背后搭了什么玩意？\n\n说白了就四步的：\n\n1️⃣ 先自己攒一批看着顺眼、信得过的信息源，宁可少而精，别一上来就贪多\n\n2️⃣ 让AI帮你理一遍筛选逻辑——怎么从一堆源里，每天筛出你真正想看的那几十条。这个逻辑可以让AI先给你输出一版，你确认调整就行，不用自己从零想\n\n3️⃣ 定个固定时间，比如每天早上6点，让它按这套逻辑自动跑一遍，剩下的交给闹钟\n\n4️⃣ 跑出来的内容先自己看，觉得还不错，想分享，就顺手做个网站同步上去，比如我这个 http://iandaily.xyz\n\n流程一旦搭起来，剩下的事就是每天打开看一眼",
+    "quoted_tweet": null,
+    "url": "https://x.com/ianneo_ai/status/2100737296878428325",
+    "time": "2026-09-18 08:02",
+    "created_at": "Fri Sep 18 00:02:56 +0000 2026",
+    "id_str": "2100737296878428325",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "马斯克旗下脑机接口公司的 Neuralink 设备在最新的一次演示中\n\n成功读取了一位失语患者的思想，并将其转换为语音\n\n这位患者因为疾病无法说话表达，通过安装脑机接口，Neuralink 可以读取它想要说的话，然后通过解码再通过语音可以播放出来...",
+    "quoted_tweet": {
+      "author": "Neuralink",
+      "username": "neuralink",
+      "text": "A beautiful surprise"
+    },
+    "url": "https://x.com/xiaohu/status/2100745594629472272",
+    "time": "2026-09-18 08:35",
+    "created_at": "Fri Sep 18 00:35:54 +0000 2026",
+    "id_str": "2100745594629472272",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@ianneo_ai 好思路 我想抄走",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100754305712283853",
+    "time": "2026-09-18 09:10",
+    "created_at": "Fri Sep 18 01:10:31 +0000 2026",
+    "id_str": "2100754305712283853",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/wolftoons/status/2100727819382718678",
+    "time": "Thu Sep 17 23:25:16 +0000 2026",
+    "created_at": "Thu Sep 17 23:25:16 +0000 2026",
+    "id_str": "2100727819382718678",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/WallyX716/status/2100738004738306458",
+    "time": "2026-09-18 08:05",
+    "created_at": "Fri Sep 18 00:05:44 +0000 2026",
+    "id_str": "2100738004738306458",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@WallyX716 That's cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100739901981442327",
+    "time": "2026-09-18 08:13",
+    "created_at": "Fri Sep 18 00:13:17 +0000 2026",
+    "id_str": "2100739901981442327",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wolftoons Well done!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100739935514828922",
+    "time": "2026-09-18 08:13",
+    "created_at": "Fri Sep 18 00:13:25 +0000 2026",
+    "id_str": "2100739935514828922",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "People create such interesting stories with visuals",
+    "quoted_tweet": {
+      "author": "Greezernaut",
+      "username": "Greezernaut",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2100751138316288503",
+    "time": "2026-09-18 08:57",
+    "created_at": "Fri Sep 18 00:57:56 +0000 2026",
+    "id_str": "2100751138316288503",
+    "is_retweet": false
   }
 ]
