@@ -223,5 +223,231 @@
     "created_at": "Fri Sep 18 22:08:23 +0000 2026",
     "id_str": "2101070858458698054",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 微信支持了 markdown\n苹果支持了 typec\nClaude code 支持了 agents.md\n这个世界太疯狂",
+    "quoted_tweet": null,
+    "url": "https://x.com/jakevin7/status/2101037339980034503",
+    "time": "2026-09-19 03:55",
+    "created_at": "Fri Sep 18 19:55:11 +0000 2026",
+    "id_str": "2101037339980034503",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jakevin7 世界大同",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101041262463688909",
+    "time": "2026-09-19 04:10",
+    "created_at": "Fri Sep 18 20:10:47 +0000 2026",
+    "id_str": "2101041262463688909",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我去，人工智能误判险些引发与中国的战争：据美国有线电视新闻网（CNN）报道，美国军方因人工智能聊天机器人错误地将一艘中国船只的货物识别为核武器部件，导致美军准备拦截该船只，险些引发与中国的战争。官员们及时发现并制止了这一错误。",
+    "quoted_tweet": {
+      "author": "Katie Bo Lillis",
+      "username": "KatieBoLillis",
+      "text": "NEW: An AI-assisted intel report sent the military scrambling to intercept a Chinese ship in the Middle East it believed was transporting components of a nuclear weapons program.\n\nIt turned out to be a hallucination. And it \"almost started a war.\" https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
+    },
+    "url": "https://x.com/yuyy614893671/status/2101060156218118448",
+    "time": "2026-09-19 05:25",
+    "created_at": "Fri Sep 18 21:25:51 +0000 2026",
+    "id_str": "2101060156218118448",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks' @alighodsi on why most companies wouldn't even notice if frontier AI models stopped advancing:\n\n\"The models are smart enough, but they just don't have the context that exists inside any organization. They have not been in every meeting. They don't know what's in everybody's heads. They don't know all the processes.\"\n\n\"There's always a couple of employees who know everything in every organization. You go tap on their shoulder, and everybody's like, 'Oh my God, what would happen if he or she quits?' [The models] don't have that context.\"\n\n\"If you just fused that and gave that context to the AI models... I think there are so many productivity gains you could get for any organization on the planet. For that, we actually don't need smarter models.\"\n\n\"We don't need a smarter model that can solve Navier-Stokes or conjectures or do better on Humanity's Last Exam.\"\n\n\"If the frontier doesn't advance, it doesn't actually matter, I think, for the vast majority of organizations on the planet. They're just so far behind in the adoption curve of actually automating things and getting value out of this stuff.\"\n\n@alighodsi",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Databricks' @alighodsi on AI risk and adoption:\n\nAli isn't losing sleep over the existential risk debate.\n\nHe says a number of conditions would all have to be true simultaneously to enable an actual runaway takeoff scenario, and currently several opposite conditions exist.\n\nEach frontier training run requires significantly more resources. Power, GPUs, engineers - and some attempts fail, burning up huge piles of money with them. Until that reverses, he doesn't see the self-improving loop happening.\n\nCyber is what he's watching most closely and where he anticipates real impact. Most orgs are not equipped for the coming change in agentic capabilities. The time between a vulnerability being published and being weaponized has collapsed from years to hours.\n\nOn adoption, he believes most companies don't need a smarter model. The models are already smart enough. The gap is context they don't absorb - the things an employee who's worked at a company for five years learned by osmosis.\n\nIf the frontier stopped advancing today, he thinks it wouldn't meaningfully change the value most are extracting from AI anyway.\n\nIn conversation with a16z's Martin Casado and Sarah Wang:\n\n00:00 Intro\n00:48 Why Ali places the AI risk near zero\n05:05 The word \"pacing\" was a mistake\n10:50 What 10k agents and $100m can do\n12:20 What would change his mind on AI risk\n14:20 More GPUs, more ways to fail\n18:05 US export controls on PlayStations\n20:10 The damage everyone expected by now\n24:30 Public vulnerabilities weaponized in hours\n30:15 Why labs can't grade each other\n37:15 Why most of RSI isn't actually RSI\n40:05 Why nobody really needs a smarter model\n41:50 The AI use cases nobody argues about\n47:30 Google Search solved this 25 years ago\n50:55 Nobody has privileged knowledge now\n55:10 Same model, new harness, 2x cost\n58:15 Open source: 5% of spend, 60% of tokens\n1:05:30 90% of new databases are created by agents\n\nYouTube: https://youtu.be/GzEtpAKYRvE\n\n@databricks @martin_casado @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2101044182475547120",
+    "time": "2026-09-19 04:22",
+    "created_at": "Fri Sep 18 20:22:23 +0000 2026",
+    "id_str": "2101044182475547120",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks' @alighodsi and a16z's Martin Casado on where the AI risk is, and what's unfolding in the cyber space:\n\nMartin: \"When the internet came out, by this point... we'd disabled hospitals, we'd taken out critical infrastructure, we'd caused tens of billions of dollars in economic damages from worms. All of that had already happened.\"\n\n\"AI has so many people that want to find risks and threats. We're running so fast, so much money has been poured into it, and we haven't seen anything commensurate with the early days of worms. What is that disconnect?\"\n\nAli: \"I am sleeping well at night, and I don't think there's existential risk right now. I do think there's a lot of infrastructure that needs to be secured.\"\n\n\"You used to have these SOC teams, security operations center people, that would look at what intrusions are happening, how are we being attacked. And now the humans just can't keep up.\"\n\n\"The whole cybersecurity space is transitioning into being fully automated, using agents for detection.\"\n\n\"If we don't do that, I do think you will start seeing those kind of things, like sites going down, whole systems that stop working for a while. And there will be consequences, not existential, but economic damage and people getting hurt.\"\n\n@martin_casado",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Databricks' @alighodsi on AI risk and adoption:\n\nAli isn't losing sleep over the existential risk debate.\n\nHe says a number of conditions would all have to be true simultaneously to enable an actual runaway takeoff scenario, and currently several opposite conditions exist.\n\nEach frontier training run requires significantly more resources. Power, GPUs, engineers - and some attempts fail, burning up huge piles of money with them. Until that reverses, he doesn't see the self-improving loop happening.\n\nCyber is what he's watching most closely and where he anticipates real impact. Most orgs are not equipped for the coming change in agentic capabilities. The time between a vulnerability being published and being weaponized has collapsed from years to hours.\n\nOn adoption, he believes most companies don't need a smarter model. The models are already smart enough. The gap is context they don't absorb - the things an employee who's worked at a company for five years learned by osmosis.\n\nIf the frontier stopped advancing today, he thinks it wouldn't meaningfully change the value most are extracting from AI anyway.\n\nIn conversation with a16z's Martin Casado and Sarah Wang:\n\n00:00 Intro\n00:48 Why Ali places the AI risk near zero\n05:05 The word \"pacing\" was a mistake\n10:50 What 10k agents and $100m can do\n12:20 What would change his mind on AI risk\n14:20 More GPUs, more ways to fail\n18:05 US export controls on PlayStations\n20:10 The damage everyone expected by now\n24:30 Public vulnerabilities weaponized in hours\n30:15 Why labs can't grade each other\n37:15 Why most of RSI isn't actually RSI\n40:05 Why nobody really needs a smarter model\n41:50 The AI use cases nobody argues about\n47:30 Google Search solved this 25 years ago\n50:55 Nobody has privileged knowledge now\n55:10 Same model, new harness, 2x cost\n58:15 Open source: 5% of spend, 60% of tokens\n1:05:30 90% of new databases are created by agents\n\nYouTube: https://youtu.be/GzEtpAKYRvE\n\n@databricks @martin_casado @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2101055014412382409",
+    "time": "2026-09-19 05:05",
+    "created_at": "Fri Sep 18 21:05:25 +0000 2026",
+    "id_str": "2101055014412382409",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks' @alighodsi on the clock that's forcing cyber and data into the same market:\n\n\"It used to be like, okay, we have data and AI... you have a bunch of data and you run AI and machine learning, and that just lives separately.\"\n\n\"And then you have the cyber world. Cyber world is, you know, we want to detect if bad people are trying to hack us.\"\n\n\"But now on the data and AI side, we have agents running internally in the company. And the agents are also doing things with other people's agents, and they're producing a lot of data. Logs, trails, fingerprints that are being left.\"\n\n\"All the data that's being produced needs to be analyzed. And the scale at which you need to do that is many, many orders of magnitude more than just one or two years ago.\"\n\n\"2018, 2019, the time it would take from a CVE, a vulnerability being published, until you see it actually weaponized in the industry would be like two, three years.\"\n\n\"That went down in 2022 significantly, but it was still like eight, nine months. So that's kind of fine, you have eight, nine months.\"\n\n\"Now if you look at this curve from 2022 until now, it's down to basically hours, basically no time. Things get immediately weaponized.\"\n\n@alighodsi",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Databricks' @alighodsi on AI risk and adoption:\n\nAli isn't losing sleep over the existential risk debate.\n\nHe says a number of conditions would all have to be true simultaneously to enable an actual runaway takeoff scenario, and currently several opposite conditions exist.\n\nEach frontier training run requires significantly more resources. Power, GPUs, engineers - and some attempts fail, burning up huge piles of money with them. Until that reverses, he doesn't see the self-improving loop happening.\n\nCyber is what he's watching most closely and where he anticipates real impact. Most orgs are not equipped for the coming change in agentic capabilities. The time between a vulnerability being published and being weaponized has collapsed from years to hours.\n\nOn adoption, he believes most companies don't need a smarter model. The models are already smart enough. The gap is context they don't absorb - the things an employee who's worked at a company for five years learned by osmosis.\n\nIf the frontier stopped advancing today, he thinks it wouldn't meaningfully change the value most are extracting from AI anyway.\n\nIn conversation with a16z's Martin Casado and Sarah Wang:\n\n00:00 Intro\n00:48 Why Ali places the AI risk near zero\n05:05 The word \"pacing\" was a mistake\n10:50 What 10k agents and $100m can do\n12:20 What would change his mind on AI risk\n14:20 More GPUs, more ways to fail\n18:05 US export controls on PlayStations\n20:10 The damage everyone expected by now\n24:30 Public vulnerabilities weaponized in hours\n30:15 Why labs can't grade each other\n37:15 Why most of RSI isn't actually RSI\n40:05 Why nobody really needs a smarter model\n41:50 The AI use cases nobody argues about\n47:30 Google Search solved this 25 years ago\n50:55 Nobody has privileged knowledge now\n55:10 Same model, new harness, 2x cost\n58:15 Open source: 5% of spend, 60% of tokens\n1:05:30 90% of new databases are created by agents\n\nYouTube: https://youtu.be/GzEtpAKYRvE\n\n@databricks @martin_casado @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2101066321211613648",
+    "time": "2026-09-19 05:50",
+    "created_at": "Fri Sep 18 21:50:21 +0000 2026",
+    "id_str": "2101066321211613648",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife This is so funny to see",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrod_lew/status/2101044814741680638",
+    "time": "2026-09-19 04:24",
+    "created_at": "Fri Sep 18 20:24:54 +0000 2026",
+    "id_str": "2101044814741680638",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "One of my favorite new additions to Adobe Premiere!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Adobe just launched Generate Sound Effects directly in Premiere (beta)!\n\nJust select a range on the timeline, describe the sound you want, and generate it directly in your edit.\n\nYou can even sync it perfectly with your footage in just one click!\n\nSound on 🔊 The quality is wild"
+    },
+    "url": "https://x.com/gcduncombe/status/2101046099993661933",
+    "time": "2026-09-19 04:30",
+    "created_at": "Fri Sep 18 20:30:00 +0000 2026",
+    "id_str": "2101046099993661933",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "One of my favorite new additions to Adobe Premiere!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Adobe just launched Generate Sound Effects directly in Premiere (beta)!\n\nJust select a range on the timeline, describe the sound you want, and generate it directly in your edit.\n\nYou can even sync it perfectly with your footage in just one click!\n\nSound on 🔊 The quality is wild"
+    },
+    "url": "https://x.com/gcduncombe/status/2101046099993661933",
+    "time": "2026-09-19 04:30",
+    "created_at": "Fri Sep 18 20:30:00 +0000 2026",
+    "id_str": "2101046099993661933",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@gcduncombe Same!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101054779426296249",
+    "time": "2026-09-19 05:04",
+    "created_at": "Fri Sep 18 21:04:29 +0000 2026",
+    "id_str": "2101054779426296249",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew AI using AI",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101054825538465834",
+    "time": "2026-09-19 05:04",
+    "created_at": "Fri Sep 18 21:04:40 +0000 2026",
+    "id_str": "2101054825538465834",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So fun",
+    "quoted_tweet": {
+      "author": "Kevin Ngo",
+      "username": "kevin_t_ngo",
+      "text": "I asked Claude to search the web, download images it liked, and then doodle on them.\n\nEvery doodle was drawn by Claude Opus 5 using JavaScript."
+    },
+    "url": "https://x.com/icreatelife/status/2101060638504280147",
+    "time": "2026-09-19 05:27",
+    "created_at": "Fri Sep 18 21:27:46 +0000 2026",
+    "id_str": "2101060638504280147",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "If you have issues with X today, I was told it’s under attack, so it’s not you.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101061783780053432",
+    "time": "2026-09-19 05:32",
+    "created_at": "Fri Sep 18 21:32:19 +0000 2026",
+    "id_str": "2101061783780053432",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife x was down today? I didn't even notice.",
+    "quoted_tweet": null,
+    "url": "https://x.com/edneme/status/2101071807558086894",
+    "time": "2026-09-19 06:12",
+    "created_at": "Fri Sep 18 22:12:09 +0000 2026",
+    "id_str": "2101071807558086894",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@edneme Not down but people report notifications and timelines had issues",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101073376479412233",
+    "time": "2026-09-19 06:18",
+    "created_at": "Fri Sep 18 22:18:23 +0000 2026",
+    "id_str": "2101073376479412233",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Super funny Soviet illustration from 80s prompt for you to try. \n\nYou also get a ridiculous poem to laugh at as a bonus 😅 I'd love to see yours. \n\nI used GPT Image 2.5 in Firefly Boards \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101077810987008054",
+    "time": "2026-09-19 06:36",
+    "created_at": "Fri Sep 18 22:36:00 +0000 2026",
+    "id_str": "2101077810987008054",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "prompt: Turn this photo into a strange vintage Soviet children's book illustration with grotesque humorous cartoon energy. Use thin shaky black ink lines, awkward anatomy, elongated limbs uncomfortable facial expressions, chaotic movement, weird proportions, sparse composition, and intentionally clumsy drawing style. Make the characters look slightly absurd nervous. and ridiculous rather than cute. Use pale faded watercolor washes, dirty paper texture, uneven coloring, washed-out muted colors, lots of empty space, careless sketchy linework, and rough old-print illustration texture Keep the background minimal and random, with small strange details and loose doodles. The mood should feel weird, humorous, slightly unsettling, and authentically like an old Eastern European children's book illustration from the 1980s. Do NOT make it polished, aesthetic, modern, cute, detailed, or realistic. Write an absurd text in English that is slightly related to the illustration, but not much, with a confusing rhyme. The font is handwritten, clumsy as an illustration style",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101077815261094133",
+    "time": "2026-09-19 06:36",
+    "created_at": "Fri Sep 18 22:36:01 +0000 2026",
+    "id_str": "2101077815261094133",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CreeCoder Very very slightly.. almost non existent. Used to be way better",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101078562363129892",
+    "time": "2026-09-19 06:39",
+    "created_at": "Fri Sep 18 22:39:00 +0000 2026",
+    "id_str": "2101078562363129892",
+    "is_retweet": false
   }
 ]
