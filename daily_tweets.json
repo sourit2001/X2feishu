@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Even if AI development stopped today, we'd have years of catching up to do. The gap between what current models can do and what almost anyone is using them for is vast.\n\nHere’s my post on The Overhang, and the four advantages that let people close it. https://open.substack.com/pub/oneusefulthing/p/the-overhang?r=i5f7&utm_medium=ios",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101010622305493013",
+    "time": "2026-09-19 02:09",
+    "created_at": "Fri Sep 18 18:09:01 +0000 2026",
+    "id_str": "2101010622305493013",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config.",
+    "quoted_tweet": null,
+    "url": "https://x.com/trq212/status/2101009392611278961",
+    "time": "2026-09-19 02:04",
+    "created_at": "Fri Sep 18 18:04:08 +0000 2026",
+    "id_str": "2101009392611278961",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@trq212 Yay! This is the way. Come to the light",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2101026876647170092",
+    "time": "2026-09-19 03:13",
+    "created_at": "Fri Sep 18 19:13:37 +0000 2026",
+    "id_str": "2101026876647170092",
+    "is_retweet": false
+  }
+]
