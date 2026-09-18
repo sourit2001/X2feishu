@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Santa Clara)\n\n- $GFS + $MRVL sign extended SiGe capacity agreement for pluggable/NPO/CPO. \"Expected to add significant capacity to support Marvell’s growing requirements.\"\n\nI like to keep an eye out on Globalfoundries related updates given $SIVE is their reference laser for SCALE.  \n\n-  $CIEN expects roughly 30% annual revenue growth, 50% adj. gross margin, 20% FCF margin, through FY2029.\n\nThe company says component availability, not demand, is limiting growth... Seems common across $NVDA to upstream suppliers that supply is the limiting factor for revenue growth.  \n\n- Winbond acquires Infineon's NOR Flash and F-RAM business for $1.12 billion. \n\nVery surprised Infineon sold considering NOR Flash ASP + importance just keep going up and up and up, but good for Winbond consolidation. \n\n- Samsung reportedly expands outsourcing of DDR5-module and SSD assembly. \n\nI think some local Taiwan reports flag Transcend and Apacer as possible beneficiaries. The report specifically identifies Dreamtech, Hanyang Digitech and SFA Semicon. \n\nI've noticed other Korean firms entering new Samsung Electronics contracts for likely legacy memory modules maybe like ~1-2m ago.. So think some media commentary probably missed this too. Maybe too small for them to notice? \n\n- $NBIS raises AI cloud prices for the 2nd time in three months (~17-21%), bullish read through for other Neoclouds like $CRWV to $IREN earnings.\n\n-  $AMZN signs $2.4B agreement with $GNRC for generator deliveries throughout 2027-2028... and received warrants tied to as much as $8B of aggregate purchases\n\nGood to keep an eye out on who Amazon signs these warrant agreements with (eg. Alchip, $AAOI, $QCOM, $MRVL, etc) and what type of infra procurement they want. \n\n- $TSEM and NewPhotonics begin volume shipments of laser integrated optical engines.\n\nNot familiar with newphotonics, so not going to leave much commentary here. But will do some research today. \n\n- Goldman Sachs reportedly sees the ABF deficit expanding from 14% to 51%. Forecast shortages are 14% in 2H26, 34% in 2027 and 51% in 2028... \n\nMore substrate bottleneck stuff, not surprising regarding demand imbalances. \n\n- Crusoe raises $3.9B at a $30.9B valuation. \n\nOkay this valuation is better than Instinct raising at a bubble $10B valuation off 100k users...  \n\n- Japan and the U.S. reportedly discuss a $12.9–19.3B $GFS run fab. \n\nThat's like half of Globalfoundries marketcap lol. Not much details here. \n\n- $ARM CEO Rene Haas said he is confident that they can secure enough supply to meet $2B in customer demand (for their AGI CPU).\n\nThere's probably a lot more demand, probably supply constrained growth as usual so good $ARM signaled confidence in securing allocations. \n\n- Supply chain sources said Kioxia has about 50% of its LTA capacity tied up, while SK Hynix/Samsung reserve about 70% of capacity for LTAs for 3-5 years. \n\nNot sure how people are bearish on memory.... \n\nI don't like posting updates one-by-one like a news reporter, so hope this saves some time of stuff I like looking at. \n\nOn a side note was surprised markets from $AMD to $INTC rallied today after rate hikes. Think high-beta overshot the selloff the most.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2100735673561174047",
+    "time": "Thu Sep 17 23:56:29 +0000 2026",
+    "created_at": "Thu Sep 17 23:56:29 +0000 2026",
+    "id_str": "2100735673561174047",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Screenshots of the Philip Morris website.\n\n(reminder: they're a leading cigarette company)\n\nIt's a good calibration point for how good modern marketing is at dressing up pretty much any corporate (or, for that matter, government) behavior and making it sound responsible and safe.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2100771291544633415",
+    "time": "2026-09-18 10:18",
+    "created_at": "Fri Sep 18 02:18:01 +0000 2026",
+    "id_str": "2100771291544633415",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think it is worth continuing to ask if the Labs just eat every valuable AI vertical, especially as their costs of product development drop lower and lower due to AI in addition to the advantages of direct pricing on token costs and access to the underlying models themselves.",
+    "quoted_tweet": {
+      "author": "spicylemonade",
+      "username": "spicey_lemonade",
+      "text": "Astra for Law shows a HUGE performance increase in our Legal Research Bench"
+    },
+    "url": "https://x.com/emollick/status/2100743641190781114",
+    "time": "2026-09-18 08:28",
+    "created_at": "Fri Sep 18 00:28:08 +0000 2026",
+    "id_str": "2100743641190781114",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Epoch continues to do some of the best public benchmarking work on AI. This is helpful (and tells us how bad the state of benchmarking is, and how terrible some of our favorite benchmarks are)",
+    "quoted_tweet": {
+      "author": "Epoch AI",
+      "username": "EpochAIResearch",
+      "text": "Introducing Benchmark Reviews: our new initiative to audit AI benchmarks. We are launching with 15 benchmarks: 4 Verified, 9 Flawed, and 2 with not enough information for a review."
+    },
+    "url": "https://x.com/emollick/status/2100744220562673683",
+    "time": "2026-09-18 08:30",
+    "created_at": "Fri Sep 18 00:30:26 +0000 2026",
+    "id_str": "2100744220562673683",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Hey Claude, \"Pick a problem or mystery that obsesses you and solve it as best you can & make a movie we can share on social media about it\"\n\nSo it took a crack at the Voynich Manuscript & failed. Then it made this movie, which is pretty interesting to watch and a good explainer.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100767116819325141",
+    "time": "2026-09-18 10:01",
+    "created_at": "Fri Sep 18 02:01:25 +0000 2026",
+    "id_str": "2100767116819325141",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As per usual, be careful not to be pulled in by the self-anthropomorphism, which was implied by the prompt. \n\nThis fit into my Claude usage limit, but the entire analysis of the manuscript (including many agents) & movie would have cost about $85 in tokens on Fable 5.1 otherwise",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100768169795227746",
+    "time": "2026-09-18 10:05",
+    "created_at": "Fri Sep 18 02:05:36 +0000 2026",
+    "id_str": "2100768169795227746",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick did it explain why it failed, or just narrate the attempt and move on to the video part",
+    "quoted_tweet": null,
+    "url": "https://x.com/ehzish/status/2100769406095626714",
+    "time": "2026-09-18 10:10",
+    "created_at": "Fri Sep 18 02:10:31 +0000 2026",
+    "id_str": "2100769406095626714",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick I'm not done! 😬",
+    "quoted_tweet": null,
+    "url": "https://x.com/riskluck_/status/2100770474812694538",
+    "time": "2026-09-18 10:14",
+    "created_at": "Fri Sep 18 02:14:46 +0000 2026",
+    "id_str": "2100770474812694538",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@ehzish It explains in the video as well. Analysis found it looked different from language, so maybe it was a process, but it couldn't find a process that worked, and neither could other researchers.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100770498737017007",
+    "time": "2026-09-18 10:14",
+    "created_at": "Fri Sep 18 02:14:51 +0000 2026",
+    "id_str": "2100770498737017007",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@riskluck_ It is done.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2100770932528751100",
+    "time": "2026-09-18 10:16",
+    "created_at": "Fri Sep 18 02:16:35 +0000 2026",
+    "id_str": "2100770932528751100",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这两天开始玩 Threads，居然意外的喜欢，非常非常像当时我刚来推特，大概 22年时候的感觉，活人感非常强，年轻人很多，没有贩卖焦虑，很有社区感，也很少看到一眼就认为是 AI 味的内容，假如你想多一些交流渠道，可以来玩玩，当然也非常欢迎已经在 Threads 的朋友来找我～\nhttps://www.threads.com/@tw93.fun",
+    "quoted_tweet": null,
+    "url": "https://x.com/HiTw93/status/2100583406631637499",
+    "time": "Thu Sep 17 13:51:25 +0000 2026",
+    "created_at": "Thu Sep 17 13:51:25 +0000 2026",
+    "id_str": "2100583406631637499",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "美美的结婚了！赶紧先挑几张发嘻嘻嘻！！好有仪式感好幸福！！！",
+    "quoted_tweet": null,
+    "url": "https://x.com/SjwEsther/status/2100612871009046947",
+    "time": "Thu Sep 17 15:48:30 +0000 2026",
+    "created_at": "Thu Sep 17 15:48:30 +0000 2026",
+    "id_str": "2100612871009046947",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "「完全客观」是誇大了。「客觀」根本不存在，因為它都是由 data 訓練出來的，所有由 Data 訓練出來的模型，就存在 data 裡本來的傾向和偏見。AI 模型只是一個投映。限制輸出JSON 只是改變了「輸出格式」，和答案的偏見和思考缺陷沒有關係。Parallel decoding 只是快，和 AR decode 第一個 token 時候的選擇機會率，沒有本質的分別。Jev 只是包裝成很特別，但已經有人用 Gemma Diffusion 測試同樣任務的正確率，發現跟 Jev 的得分相同，jev 沒有比 Gemma Diffusion 更聰明或是「更客觀」。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lstmfpga/status/2100714746161103227",
+    "time": "Thu Sep 17 22:33:19 +0000 2026",
+    "created_at": "Thu Sep 17 22:33:19 +0000 2026",
+    "id_str": "2100714746161103227",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@lstmfpga 既然不存在，也不存在夸大了\n这里是指没有经过人工语言对齐",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2100726607606579641",
+    "time": "Thu Sep 17 23:20:27 +0000 2026",
+    "created_at": "Thu Sep 17 23:20:27 +0000 2026",
+    "id_str": "2100726607606579641",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@SjwEsther 澳门的仪式感",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2100726784623005944",
+    "time": "Thu Sep 17 23:21:09 +0000 2026",
+    "created_at": "Thu Sep 17 23:21:09 +0000 2026",
+    "id_str": "2100726784623005944",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@HiTw93 threads 好友没有意义 全靠算法",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2100726856601543129",
+    "time": "Thu Sep 17 23:21:26 +0000 2026",
+    "created_at": "Thu Sep 17 23:21:26 +0000 2026",
+    "id_str": "2100726856601543129",
+    "is_retweet": false
+  }
+]
