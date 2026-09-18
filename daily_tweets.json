@@ -444,5 +444,278 @@
     "created_at": "Fri Sep 18 02:31:04 +0000 2026",
     "id_str": "2100774575957037387",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如何用ChatGPT网页端直接GitHub提PR？\n\n照评论参考配置好后，直接粘贴GitHub链接，然后提需求，让它改。\n\n（与此同时，过时的文档说不能提交PR）",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2100763399672181219",
+    "time": "2026-09-18 09:46",
+    "created_at": "Fri Sep 18 01:46:39 +0000 2026",
+    "id_str": "2100763399672181219",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Q4：作为非工程师，怎么判断 Vibe Coding 出来的代码是否靠谱？比如 GPT 写的代码常有大量不必要的安全验证、过度防御。\n\n我的观点可能有争议，越是有编程经验的人可能越不认同，一年前的我也不会认同：不用太在意代码细节。整不整洁、有没有冗余、是否过度防御，都不是关键。\n\n你把自己当 QA，看三件事：\n1. 功能完不完整；\n2. 性能好不好，跑一下看 CPU 内存占用，我的 App 有段时间内存很高，就让 AI 去优化；\n3. 安全是最高优先级，SQL 注入、弱密码这类常识测试要做，拿不准找专业的人。\n\n其他实现细节没那么重要，就像高级语言编译成汇编你本来也看不懂，当黑盒就好。\n\n真正的重点在两头：\n\n一是拆分，拆成 Agent 刚好能处理的小模块，一次一个小模块，AI 的产出比绝大多数程序员的平均水平高；\n\n二是验收，功能、性能、安全把住，细节不用管。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "https://x.com/i/article/2094620108811390976"
+    },
+    "url": "https://x.com/dotey/status/2100767963737727267",
+    "time": "2026-09-18 10:04",
+    "created_at": "Fri Sep 18 02:04:47 +0000 2026",
+    "id_str": "2100767963737727267",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "之所以把这条 Q&A 翻出来，是因为看到这条推文：\nhttps://x.com/saranormous/status/2100700797143261324",
+    "quoted_tweet": {
+      "author": "sarah guo",
+      "username": "saranormous",
+      "text": "“Why would I look at code? It’s like assembly, like a compiled artifact.”\n\nSensei @karpathy fully agentic, 18m after “I don’t really use autocomplete AI code tools”"
+    },
+    "url": "https://x.com/dotey/status/2100768070469890368",
+    "time": "2026-09-18 10:05",
+    "created_at": "Fri Sep 18 02:05:13 +0000 2026",
+    "id_str": "2100768070469890368",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey “请很多位程序员来临时帮忙，虽然都很尽责、单个任务都很优秀，但他们每个都呆不久，怎么指导他们并管理他们的产出”。\n\n需求先验，定点抽检。\n\n软件工程，再加一层。",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2100780596641612129",
+    "time": "2026-09-18 10:54",
+    "created_at": "Fri Sep 18 02:54:59 +0000 2026",
+    "id_str": "2100780596641612129",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols “包一层”",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100782032196337811",
+    "time": "2026-09-18 11:00",
+    "created_at": "Fri Sep 18 03:00:41 +0000 2026",
+    "id_str": "2100782032196337811",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 裡面讓 AI 用這幾隻 mcp：\n- mcp__codex_app__list_threads\n- mcp__codex_app__read_thread\n- mcp__codex_app__navigate_to_codex_page\n- mcp__codex_app__send_message_to_thread\n- send_message_to_thread\n\nthreads 的 kind=chatgpt 就是 ChatGPT 的額度了，讓 Codex 指派完任務用輪詢還能自己去查看對話近況，就不用再跳 ChatGPT 用了～",
+    "quoted_tweet": null,
+    "url": "https://x.com/circleghost0723/status/2100790614631858554",
+    "time": "2026-09-18 11:34",
+    "created_at": "Fri Sep 18 03:34:47 +0000 2026",
+    "id_str": "2100790614631858554",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@circleghost0723 这是官方的 MCP 吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100791408315466024",
+    "time": "2026-09-18 11:37",
+    "created_at": "Fri Sep 18 03:37:57 +0000 2026",
+    "id_str": "2100791408315466024",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 它是原生內建的",
+    "quoted_tweet": null,
+    "url": "https://x.com/circleghost0723/status/2100793801656983811",
+    "time": "2026-09-18 11:47",
+    "created_at": "Fri Sep 18 03:47:27 +0000 2026",
+    "id_str": "2100793801656983811",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@circleghost0723 🙏感谢推荐，晚些时候试试看",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100793985841172556",
+    "time": "2026-09-18 11:48",
+    "created_at": "Fri Sep 18 03:48:11 +0000 2026",
+    "id_str": "2100793985841172556",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个新闻也挺劲爆的，堪比当年 OpenAI 黑进 HuggingFace，不过这次是三名研究员用 Claude 黑进 OpenAI，用一张图片，拿下员工账号\n\n安全公司 Hacktron 的三名研究员在 7 月 25 日串联两个高危漏洞，接管了多名 OpenAI 员工的 ChatGPT 账号，攻击代码主要由 Anthropic 的 Claude 写出。\n\n为了证明权限又不接触敏感信息，他们只让其中一名员工的 Codex 在 OpenAI 内部主代码仓库 openai/openai 里开了一个无害的 PR，随后停手。漏洞已修复，Hacktron 9 月 13 日公开了完整过程，《华尔街日报》随后跟进报道。\n\n一、在 OpenAI 官方社区论坛发有毒的图片\n\n入口是 OpenAI 的官方社区论坛 http://community.openai.com，它用的是开源论坛软件 Discourse。用户上传 HEIC 图片（iPhone 默认的照片格式）时，Discourse 会交给 ImageMagick 转换，底层由图像库 libheif 解码。\n\nlibheif 有一个堆溢出漏洞，上游去年就改了相关代码，但没标注为安全修复，也没有 CVE 编号，Debian 12 和 13 因此一直没同步补丁，而 Discourse 的 Docker 镜像正好基于 Debian 12。结果是上传一张特制图片，就能在论坛服务器上执行任意代码。\n\n二、黒进 OpenAI 自己的登录系统\n\n论坛支持“用 OpenAI 账号登录”。OpenAI 的单点登录（SSO，一个账号通行多个服务）配置有缺陷，拿下论坛服务器后，活跃论坛用户的 ChatGPT 和 Codex 账号可以被直接接管，受害者不需要做任何操作。被接管的那名员工，Codex 连着 OpenAI 的 GitHub 组织。\n\nHacktron 强调，任何接入 OpenAI SSO 的服务被攻破，后果都一样，Discourse 只是其中一条路。由于 ChatGPT 和 Codex 可以连接各种外部服务，理论上能触及的范围包括 GitHub、Slack 和邮件。\n\n三、之前 Opus 4.8 没成功，Opus 5 几小时搞定\n\n研究员 7 月 23 日开始审查，先用 Opus 4.8 检查 Discourse 镜像里的 libheif，找到了没被回移植的补丁；24 日写出了关闭 ASLR 条件下可用的利用代码，但开启 ASLR 之后，开了好几个会话都没成功。\n注：ASLR 是操作系统的内存地址随机化防护，开启后攻击者很难预测代码在内存中的位置，利用难度高出一大截。\n\n当晚 Anthropic 发布 Opus 5。新会话 3 小时内在本地 Mac 上跑通，25 日早上 6 点在 Discourse 的环境里确认可用；随后 Claude 在自主循环中攻击研究员自己的 Discourse Cloud 实例，10 点再看时已经成功。用生成的脚本，他们拿下了 OpenAI 的论坛实例。\n\n一个细节：Opus 拒绝为远程真实目标写利用代码，研究员把自己的测试实例通过代理伪装成 CTF（夺旗赛）靶场，才让它继续。\n\n四、整次入侵花费不到 3000 美元 \n\n按 Hacktron 原文，3000 美元是整个“HEIF Heist”项目的 token 总花费，这个项目历时两个月，目标还包括 Slack、Zoom、Meta 等，由三名研究员完成；OpenAI 这一单只用了智能体几天时间，外加几小时人工。\n\n把利用代码适配到一家新公司，通常只要一两天，而且往往不知道对方的 libheif 版本和部署环境。Hacktron 还提到，在这种对目标一无所知的场景里，从 Opus 5 换到 OpenAI 的 GPT-5.6 Sol，能力又有一次明显提升。他们发出了数千张图片，对方的图像处理服务反复崩溃，据他们所知只有 Shopify 察觉到了。\n\nHacktron 自己也说，这不算完全自主的攻击，有经验的人来引导仍然重要。\n\n最后\n\n从最初发现到进入 OpenAI 仓库不到 72 小时。OpenAI 在收到报告约 14 小时后确认修复。Discourse 周六收到报告，周一补丁就绪，还给图像处理加了沙箱，7 月 28 日发布安全公告。\n\nOpenAI 9 月 1 日支付了 6500 美元赏金，并特别说明：论坛本来被明确排除在赏金计划之外，这笔钱只奖励 OpenAI 自身那部分发现，不包括针对 Discourse 的操作。",
+    "quoted_tweet": {
+      "author": "Yuchen Jin",
+      "username": "Yuchenj_UW",
+      "text": "OK, this is a big deal:\n\n3 researchers used Claude Opus 5 to turn an image upload bug into an OpenAI employee account takeover, then had the compromised employee’s Codex open a PR in OpenAI’s internal monorepo.\n\nTheir entire hacking cost less than $3000 in tokens.\n\nOpus 4.8 struggled with the exploit. Then Opus 5 dropped and cracked it within hours.\n\nAI-powered cyberattacks are becoming common and cheap. The best defense is to put the best AI in the hands of defenders too."
+    },
+    "url": "https://x.com/dotey/status/2100811516316397778",
+    "time": "2026-09-18 12:57",
+    "created_at": "Fri Sep 18 04:57:51 +0000 2026",
+    "id_str": "2100811516316397778",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://www.hacktron.ai/blog/hacking-openai",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100812034862428478",
+    "time": "2026-09-18 12:59",
+    "created_at": "Fri Sep 18 04:59:54 +0000 2026",
+    "id_str": "2100812034862428478",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果你在 X、Instagram、TikTok、YouTube 有 10 万以上关注，就可以去 Google for Creators 申请你自己的谷歌搜索官方卡片(Search Profile) https://creators.google/\n\n有啥用我也不清楚",
+    "quoted_tweet": {
+      "author": "Emily",
+      "username": "IamEmily2050",
+      "text": "Google for Creators just dropped the search profile requirements from 30K to 10K. If you are a creator and have these numbers on any of your social media accounts, check your search account and improve your performance."
+    },
+    "url": "https://x.com/dotey/status/2100819960033407011",
+    "time": "2026-09-18 13:31",
+    "created_at": "Fri Sep 18 05:31:24 +0000 2026",
+    "id_str": "2100819960033407011",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 有的会话确实不能成功，我确实遇到过（下图右侧）。\n我也和你的使用路径一样。相同图标就是同一个项目，codex⬅️github➡️chatgpt 这种方式来协作，甚至我的代码都在chatgpt里完成，codex只做某些需要本地环境依赖的任务。",
+    "quoted_tweet": null,
+    "url": "https://x.com/XiaoYaony/status/2100828136485359922",
+    "time": "2026-09-18 14:03",
+    "created_at": "Fri Sep 18 06:03:53 +0000 2026",
+    "id_str": "2100828136485359922",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@XiaoYaony 你这是 Codex，我原帖说的是 ChatGPT 网页版\n\n你装一个 GitHub 的 gh cli 然后登录授权一下，本地用很稳定",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100830619517301234",
+    "time": "2026-09-18 14:13",
+    "created_at": "Fri Sep 18 06:13:45 +0000 2026",
+    "id_str": "2100830619517301234",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey pr只能提到开源仓库 公司的项目用不成吧。 还github更不敢传了",
+    "quoted_tweet": null,
+    "url": "https://x.com/GeekCatX/status/2100831222478061947",
+    "time": "2026-09-18 14:16",
+    "created_at": "Fri Sep 18 06:16:09 +0000 2026",
+    "id_str": "2100831222478061947",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@GeekCatX 私人的比较好，公司的慎重，除非公司允许",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100832069970473352",
+    "time": "2026-09-18 14:19",
+    "created_at": "Fri Sep 18 06:19:31 +0000 2026",
+    "id_str": "2100832069970473352",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@davehpitt 😂😂😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2100795856706478491",
+    "time": "2026-09-18 11:55",
+    "created_at": "Fri Sep 18 03:55:37 +0000 2026",
+    "id_str": "2100795856706478491",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code 推出新版「Projects」功能：\n\n一个对话当主管，自动拆出多个云端线程并行干活，关了电脑也不停\n\n它和 Slack 里的 Claude Tag 结构几乎一一对应：\n\n一层接活、多个线程干活、共享记忆、例行任务；区别是项目只归你一个人...\n\n这里的线程不是简单的后台命令，每一个线程本质上都是一个独立的云端 Claude Code 会话。\n\n它们各自拥有专属的上下文窗口，在云端独立的沙箱和 git 分支上并行编写代码、跑测试、在需要时开 PR，并且在电脑合盖离线后继续运转。\n\nProjects 的主要能力：\n\n一个对话派活：任务、bug、补充说明都丢进同一个项目对话，Claude 决定是就地回答、开新线程，还是转给正在做这块的线程。\n\n多个线程并行，关了电脑也不停：每个线程是一个独立的云端 Claude Code 会话，有自己的上下文窗口、代码副本和分支。\n\n需要你时才叫你：Overview（总览）面板按状态给线程分组，卡住等你拍板的排进 Waiting on you（等你处理），桌面端还会弹通知。\n\n共享背景和记忆：每个新线程都带着同一份项目指令、仓库和项目记忆开工，你让 Claude 记住的决定，后面的线程都知道。\n\n自己跟进 PR：线程开了 PR 就一直盯着，CI 挂了或来了评审意见会自己推修复，检查通过再告诉你。\n\n能定时跑：可以让 Claude 把一部分工作做成例行任务（routine），按计划在项目里自动运行。\n\n不止写代码：没有代码仓库也能用，上传文档让线程调研、写报告，成果交到 Library（资料库）。\n\n详细运行机制：https://best.xiaohu.ai/article/claude-code-projects/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100764000384692378",
+    "time": "2026-09-18 09:49",
+    "created_at": "Fri Sep 18 01:49:02 +0000 2026",
+    "id_str": "2100764000384692378",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Figure 发布 Helix 2.5 机器人模型\n\n普通人走进一个陌生的家里，马上就能动手干活，那么机器人呢？\n\n为了测试该模型的真实能力，Figure 在旧金山湾区租下 30 栋团队和机器人从没进去过的房子\n\n事先不在里面采集任何数据，让机器人直接进去收拾客厅、叠毛巾、铺床。\n\n测试机器人的泛化能力...\n\n在长时间、多步骤的任务里，Helix 2.5 表现出的一项定性能力是全身自我纠错：遇到失误或动作受限时，机器人能够退后一步重新调整站姿、换个角度，或者绕着整张床走过去纠正一个被角。\n\nFigure 认为，这种在出现失误后自行恢复并继续推进任务的能力，是 Index 预训练带来的一个重要效果...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100777129772450082",
+    "time": "2026-09-18 10:41",
+    "created_at": "Fri Sep 18 02:41:12 +0000 2026",
+    "id_str": "2100777129772450082",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "在没有采集任何数据的 30 个真实家庭中，面对没见过的家具与物品，不进行任何现场微调，三项全身长程任务的综合单次试验成功率达到 56%。\n\n详细内容：https://best.xiaohu.ai/article/figure-helix-2-5/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100777131810914525",
+    "time": "2026-09-18 10:41",
+    "created_at": "Fri Sep 18 02:41:13 +0000 2026",
+    "id_str": "2100777131810914525",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How stunning is this art",
+    "quoted_tweet": {
+      "author": "Chet Bliss",
+      "username": "chetbff",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2100786695981429229",
+    "time": "2026-09-18 11:19",
+    "created_at": "Fri Sep 18 03:19:13 +0000 2026",
+    "id_str": "2100786695981429229",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🤨",
+    "quoted_tweet": null,
+    "url": "https://x.com/AiMachete/status/2100815178476450082",
+    "time": "2026-09-18 13:12",
+    "created_at": "Fri Sep 18 05:12:24 +0000 2026",
+    "id_str": "2100815178476450082",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AiMachete Yes to this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2100815485751193827",
+    "time": "2026-09-18 13:13",
+    "created_at": "Fri Sep 18 05:13:37 +0000 2026",
+    "id_str": "2100815485751193827",
+    "is_retweet": false
   }
 ]
