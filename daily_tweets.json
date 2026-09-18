@@ -224,5 +224,82 @@
     "created_at": "Fri Sep 18 11:23:50 +0000 2026",
     "id_str": "2100908651741597854",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "I disagree.\n\nIt’s not that the functionality should be good and complete\n\nIt’s that the facts, thinking, and consideration should make sense and be proven and complete. No action should be taken without complete and accurate information.\n\nWith AI able to scour sources at breakneck pace, there is no excuse for the latter.\n\nOnly someone who does not care about execution correctness would come up with that standard",
+    "quoted_tweet": null,
+    "url": "https://x.com/echantech1/status/2100834853986177387",
+    "time": "2026-09-18 14:30",
+    "created_at": "Fri Sep 18 06:30:35 +0000 2026",
+    "id_str": "2100834853986177387",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我觉得我们的观点并没有那么大的分歧\n\n第一，这个问题问的是“非工程师”怎么判断代码靠不靠谱。让一个看不懂代码的人去审查“事实、思考、推理是否完备”，这个标准他执行不了。执行不了的标准等于没有标准。他真正能做的，是从外部验证行为：功能、性能、安全。\n\n第二，即使是“工程师”这么做，我觉得也是没有问题的。因为保证正确性是“目的”，我们可以有多种手段，既可以靠读推理过程读出来的，也可以靠验证验出来的。\n\n软件工程一直如此：编译器的输出我们不逐行审，第三方库我们不通读源码，靠的都是接口契约加测试。推理看起来再完备，跑不过测试也是错的。\n\n第三，“没有完整准确的信息就不该行动”，这在现实工程里不存在。再好的人类团队也做不到信息完备才动手，靠的是小步迭代、快速验证、出错可回滚。我说的“拆成小模块”正是为此：模块越小，信息越容易完整，验证越容易充分。\n\n第四，AI 检索信息快，不等于结论对。它完全可以给出一个论证严密、引用齐全但就是错的方案。所以越是 AI 时代，越不能以“它的思考看起来合理”为准，相对来说以结果为准还更靠谱一些。\n\n“验收只能覆盖你想得到的场景”，这一点我是认同的，跟我原文的观点也不冲突：验收标准本身要想清楚，涉及安全、钱和数据的关键路径，拿不准就找专业的人。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2100838097080430884",
+    "time": "2026-09-18 14:43",
+    "created_at": "Fri Sep 18 06:43:28 +0000 2026",
+    "id_str": "2100838097080430884",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "这算是驯服AI了还是没驯服\n\n🤓",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100839106444152844",
+    "time": "2026-09-18 14:47",
+    "created_at": "Fri Sep 18 06:47:29 +0000 2026",
+    "id_str": "2100839106444152844",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "企业想搞 AI 先搞人 #FDE",
+    "quoted_tweet": null,
+    "url": "https://x.com/dontbesilent/status/2100840347819745383",
+    "time": "2026-09-18 14:52",
+    "created_at": "Fri Sep 18 06:52:25 +0000 2026",
+    "id_str": "2100840347819745383",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@dontbesilent 你说的一点都对",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100841288837046517",
+    "time": "2026-09-18 14:56",
+    "created_at": "Fri Sep 18 06:56:09 +0000 2026",
+    "id_str": "2100841288837046517",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google Research 公布了一项名为「学习互动练习（learning interactives）」的研究实验，试图用大模型改变这一现状：\n\n老师只需输入学科、年级和教学主题，Gemini自动生成带 5 个递进关卡、分层提示、解法和反馈的网页互动模拟。\n\n为了让生成的界面具备教学价值，研究团队将构建流程拆解为四个前后衔接的阶段，在文本规划、关卡设计、代码实现与教学辅导之间筑起一道道防护栏。\n\n在整套流程中，教师始终处于主导与把关的核心位置：\n\n流程由老师发起请求（包含学科、年级、主题，并可附加额外要求）；\n\n随后，AI 生成具体的学习目标，交由老师审核并可自由修改；针对通过的目标，系统为每个请求生成 5 个候选模拟，按报告的设计由老师挑出最符合教学意图的一个（在 12 位教师的实测研究中，则先由内部评审挑出最佳版本再呈现给老师）；\n\n新生成的练习最终必须经老师审核通过后，才能正式进入公开库。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100843347107893622",
+    "time": "2026-09-18 15:04",
+    "created_at": "Fri Sep 18 07:04:20 +0000 2026",
+    "id_str": "2100843347107893622",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "目前库中目前收录了 36 个经过教师逐一审核通过的成品互动练习\n\n包括开普勒行星运动定律、具有误导性的数据图表识别、火箭滑车运动学等。所有内容都是英文，以初高中的理科和数学为主，也有一个小学题目和几个计算机题目。\nhttps://best.xiaohu.ai/article/teachers-generative-ui-interactives/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2100843349263708341",
+    "time": "2026-09-18 15:04",
+    "created_at": "Fri Sep 18 07:04:20 +0000 2026",
+    "id_str": "2100843349263708341",
+    "is_retweet": false
   }
 ]
