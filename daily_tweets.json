@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I still love how there's a type of wild beast that's literally just called a \"wildebeest\".",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2101231336807899338",
+    "time": "2026-09-19 16:46",
+    "created_at": "Sat Sep 19 08:46:04 +0000 2026",
+    "id_str": "2101231336807899338",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Jev answers yes or no for less than a cent.\n\nThe best use cases 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101249980136874483",
+    "time": "2026-09-19 18:00",
+    "created_at": "Sat Sep 19 10:00:09 +0000 2026",
+    "id_str": "2101249980136874483",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Every 1 of these is the same trick: a small model making thousands of cheap yes or no calls instead of 1 expensive model doing it page by page.\n\nIf you'd rather learn how to prompt the models you already use, start here:\n\nhttps://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101250110659428497",
+    "time": "2026-09-19 18:00",
+    "created_at": "Sat Sep 19 10:00:40 +0000 2026",
+    "id_str": "2101250110659428497",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather know which model fits the job than pay the biggest one for everything.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101250122348945634",
+    "time": "2026-09-19 18:00",
+    "created_at": "Sat Sep 19 10:00:43 +0000 2026",
+    "id_str": "2101250122348945634",
+    "is_retweet": false
+  }
+]
