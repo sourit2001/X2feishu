@@ -183,5 +183,156 @@
     "created_at": "Sat Sep 19 10:33:01 +0000 2026",
     "id_str": "2101258250725494973",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "用归藏老师的新skill为我的黑蜂高情商助手 做了个宣传片,确实夯!",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "用 GPT 做了个可以基于你的代码库生成产品更新宣传片的 skill（guizang-product-video-skill）\n\n它可以直接读你的代码库，把你的组件、配色、logo 和其他素材拿来用，自动写文案、做动效。\n\n最屌的是它的音乐居然是 GPT 用 Python 生成的，直接用代码写音乐，太厉害了！\n\n视频是纯前端生成的，不依赖生成模型，所以成本很低。\n\n感兴趣可以试试，下面还有几个其他代码库的案例可以看看"
+    },
+    "url": "https://x.com/xaSzfWr8zYArAT4/status/2101261141687353675",
+    "time": "2026-09-19 18:44",
+    "created_at": "Sat Sep 19 10:44:30 +0000 2026",
+    "id_str": "2101261141687353675",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@xaSzfWr8zYArAT4 可以啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2101264127809433841",
+    "time": "2026-09-19 18:56",
+    "created_at": "Sat Sep 19 10:56:22 +0000 2026",
+    "id_str": "2101264127809433841",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "people who bike to work, what bike do you ride? looking to buy one for commute and weekend fun rides",
+    "quoted_tweet": null,
+    "url": "https://x.com/reach_vb/status/2101171424719450306",
+    "time": "2026-09-19 12:48",
+    "created_at": "Sat Sep 19 04:48:00 +0000 2026",
+    "id_str": "2101171424719450306",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Encoder 的卷土重来\n\nBERT 本来是一条极有潜力的路线：高效地把输入压成 representation。但它停留在了 task-specific 时代，每个任务都需要微调。\n\nGPT 早期同样如此，后来却沿着 scaling、in-context learning 和 instruction tuning 走向了 泛化，把自然语言变成 universal task interface。分类、判断、推理、工具调用，统统变成 generation。\n\n于是 decoder-only 赢下了整个 paradigm，encoder 也失去了继续探索 general classifier 和 general representation model 的历史机会。\n\n但 Agent 改变了 workload。模型开始面对越来越大的输入、越来越重的 KV cache、越来越频繁的循环调用，此时，用一个巨大的 decoder 完整 prefill，再 autoregressive decode 几个 token 来完成一次判断，开始显得昂贵。\n\nJev 恰好等到了这个窗口。它试图补上 BERT 当年没有走完的路线，保留 GPT 的 task generalization，同时重新获得 encoder 和 classifier 式的 decision efficiency，成为面向 service、面向 Agent 的 泛化 decision model。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dongxi_nlp/status/2101183155294117913",
+    "time": "2026-09-19 13:34",
+    "created_at": "Sat Sep 19 05:34:36 +0000 2026",
+    "id_str": "2101183155294117913",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 极客时间的软件工程之美居然是宝玉老师写的？第一次知道",
+    "quoted_tweet": null,
+    "url": "https://x.com/RookieRicardoR/status/2101196454375354452",
+    "time": "2026-09-19 14:27",
+    "created_at": "Sat Sep 19 06:27:27 +0000 2026",
+    "id_str": "2101196454375354452",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@RookieRicardoR 没错",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101204458369622042",
+    "time": "2026-09-19 14:59",
+    "created_at": "Sat Sep 19 06:59:16 +0000 2026",
+    "id_str": "2101204458369622042",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@reach_vb pelican 骑的那种不错\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101208804666806433",
+    "time": "2026-09-19 15:16",
+    "created_at": "Sat Sep 19 07:16:32 +0000 2026",
+    "id_str": "2101208804666806433",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "据说是 Opus 5.2 用纯 JavaScript （用了 tree.js）做了一个关于泰坦尼克号的完整 5 分钟电影，并展示了整个过程发生的事情\n\n本来我还不太信的，看了网页有点信了，就等啥时候发布了，现在 Opus 5 慢还不怎么出活了，Fable 5 又不耐用。\n\nhttps://titanic-opus-5-2.vercel.app\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101221118384169071",
+    "time": "2026-09-19 16:05",
+    "created_at": "Sat Sep 19 08:05:28 +0000 2026",
+    "id_str": "2101221118384169071",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "“有奶才是娘，无 token 不义父”",
+    "quoted_tweet": {
+      "author": "LotusDecoder",
+      "username": "LotusDecoder",
+      "text": "🥲重置无了无了，\n口风变了，\n用户说没额度，\ntibo评论咋不充钱"
+    },
+    "url": "https://x.com/dotey/status/2101223632919728284",
+    "time": "2026-09-19 16:15",
+    "created_at": "Sat Sep 19 08:15:27 +0000 2026",
+    "id_str": "2101223632919728284",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "儿子说：妈妈。马赛克住不住别墅🏡",
+    "quoted_tweet": null,
+    "url": "https://x.com/Xian0063/status/2101149734941700331",
+    "time": "2026-09-19 11:21",
+    "created_at": "Sat Sep 19 03:21:48 +0000 2026",
+    "id_str": "2101149734941700331",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Xian0063 儿子？你不还是小孩吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101198716413808680",
+    "time": "2026-09-19 14:36",
+    "created_at": "Sat Sep 19 06:36:27 +0000 2026",
+    "id_str": "2101198716413808680",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "周末愉快\n\n为大家演唱一 首：Movin’ To The Sun\n\n🧋",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101213222653268420",
+    "time": "2026-09-19 15:34",
+    "created_at": "Sat Sep 19 07:34:05 +0000 2026",
+    "id_str": "2101213222653268420",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Viber Coding 现状…\n\n🙂",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101254946436141397",
+    "time": "2026-09-19 18:19",
+    "created_at": "Sat Sep 19 10:19:53 +0000 2026",
+    "id_str": "2101254946436141397",
+    "is_retweet": false
   }
 ]
