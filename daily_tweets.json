@@ -208,5 +208,274 @@
     "created_at": "Sat Sep 19 03:57:38 +0000 2026",
     "id_str": "2101158751290233190",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Bot summary of SpaceX CFO Bret Johnsen’s new interview with Tony Kim at SpaceX Mission Control.\n\nBret’s path\n- Came from semiconductors (Qualcomm, Broadcom; was CFO of MindSpeed)\n- Barely knew SpaceX / Elon when a board member called\n- Thought aerospace sounded “old and stodgy” vs 6-month chip cycles\n- Visited the rocket factory, called his wife on the drive home: we’re moving back to LA\n- Now sits in the same magical factory: Dragon in the rafters, ~700 launches run from Mission Control, ~40 buildings feeding the campus\n- Full circle: semiconductors again via AI / chips\n\n---\n\nTaking on AI complexity (during the biggest IPO ever)\n- SpaceX DNA: run toward “impossible” challenges (first booster recovery felt like a rock concert)\n- xAI acquisition in January + X + Cursor + Colossus = complexity multi-X in ~1–2 years\n- AI is now the biggest business at SpaceX\n- Bought time-to-market into the biggest product cycle of their lifetime\n- SpaceX leadership DNA applied to that team\n- Already feel leading on infra cost and speed\n- Products moving: Grok 4.6, 4.7 soon, Grok Bot viral, Cursor strong\n- Every week matters; soon every day\n\n---\n\nAI business: the money picture\n- ~$100B company ARR exiting this year (annualized on December) — AI is more than half / the majority\n- A year ago AI revenue was ~zero\n- Capacity: a bit over ~2 GW this year → guidance 5–10 GW by end of next year\n- Becoming one of the biggest hyperscalers, fast\n\nWhy they move so fast (vertical integration)\n- Engineer the data centers themselves\n- Act as GC: buildings, power, cooling, networking (plus partners)\n- Used to regulators from rockets + telecom\n- Removes margin stacking\n- Talent transfer: launch-site / pressurized systems people onto data centers — Elon compared it to Yankees vs little league\n\nHosting model / ROI\n- Monetize compute while catching up on software\n- Demand knocked: “what are you doing with all that Colossus compute?”\n- Short contracts: ~3 months + 3-month out (flexibility for their own future training needs)\n- Payback: dramatically less than one year on cutting-edge terrestrial compute\n- Hosting customers include tier ones like Anthropic, Google, and others\n- Same watts can later flip to their own software at higher $/watt — optionality\n\nFrontier models\n- Moving maybe faster than anyone on trajectory\n- ~5 serious players; need to be at frontier for recursive improvement\n- Coding solutions improving dramatically\n- Consumer vs enterprise tools will stratify\n- Grok Bot: growing faster than anything they’ve seen; “transformational” user feedback; enterprise coming; expects roll into Cursor\n\nAI safety\n- Follow Elon’s self-regulation / peer-review path (like other industries)\n- Logical, collaborative, including outside the US\n- Hopeful something lands quickly\n\nTAM framing (IPO)\n- ~$28T TAM quoted at IPO; AI was ~$25–26T of that (digital AI only)\n- Physical AI not even in that number — Bret thinks physical AI eventually bigger than digital\n- Launch / space TAM = hundreds of billions (almost rounding vs AI)\n- Connectivity (mobile + broadband) ~$2T — still small vs AI\n- Differentiation: infra + X content (~500–600M MAUs) + consumer + enterprise push (Cursor etc.)\n\nWhat to watch: Starship + terrestrial compute\nBret’s prioritization cheat code:\n1. Get Starship right\n2. Get terrestrial compute right for the next ~2 years until orbital kicks in\n→ Transformational financially\n\nStarship status\n- Catalyst for all three businesses: space, satellites, AI\n- Holy grail: full reusability → another ~10x cheaper $/kg to orbit\n- Opens moon boots / lunar base / bigger industry\n- Flight 14 later this month: production V3 Starlink broadband satellites — real revenue payload\n- One Starship V3 load ≈ ~20× what Falcon 9 flew for Starlink capability\n- Each V3 satellite ~1 terabit; ~50–60 per flight = enormous bandwidth per launch\n- A couple launches start filling V3 planes; first-half-next-year benefits\n- Eventually Starlink as % of global internet traffic\n- Connectivity demand from machines (robots, AVs, agents) will dwarf human brains\n- Same Starship unlocks next-gen direct-to-cell / direct-to-device\n- Same bus + more solar + radiator + compute chips = orbital compute constellation\n\nReusability timeline\n- Flight 15 may attempt catch / bring back first + second stage\n- First stage already recovered and reflown\n- Flight 13 soft splash best yet; recovered ship like a whale, engineers studied heat shield\n- Reliable stage recovery this year; meaningful reflight next year\n- Once a few second stages reflight → orbital compute cost can match terrestrial\n- Then orbital cost curve goes down (tech / Moore’s law / aircraft-like amortization) while terrestrial gets more expensive (power, labor, regulation, cooling)\n- Clean free solar, no community impact\n- Industry agrees space compute is the future — debate is timing; others say ~decade; SpaceX flies first ones next year; meaningful compute in ~2028\n\nScale ambition\n- Both cost and speed matter; near-term availability/speed most important\n- On track toward ~100 GW/year by end of decade (~20% of entire US grid each year)\n- Elon talking terawatt-scale in the 2030s\n- Hosting proves staying power + virtuous cycle for industry\n- New NVIDIA platforms: just fly the next satellite generation — no whole new terrestrial campus cycle\n\nTerraFab (chips / memory)\n- Parallel to orbital ramp, not after\n- Not replacing NVIDIA — love the partnership; will buy all they can\n- Worry is deeper fab / memory supply chain\n- Memory industry ~30%/yr growth vs SpaceX wanting triple-digit — won’t work\n- Hard technical challenge; memory may be early focus\n- Want volume benefit by late decade (demo next year with Tesla development line → something in ’28 → meaningful ’29+)\n\nViewer Q&A highlights\n\n**First bottleneck in the AI chain?**\n- Chip supply for next year\n- Power for infra players (utilities used to ~1% growth; turbines / blades constrained)\n- SpaceX standing up investment casting for turbine blades themselves\n- Orbital is the big unlock; squeeze every terrestrial watt meanwhile\n\nHow to tell durable AI spend vs keep-up spend?\n- Bret: durability of revenue; diversified monetization of the same compute; host now, software later at higher $/watt; guided next-year monetization range ~$30–50/watt\n- Tony: stack layers have different costs, margins, contract duration; SpaceX spans many layers with <1-year payback on infra\n\nHow soon a data center in space?\n- First orbital compute satellites end of next year\n- Meaningful compute in 2028\n- Better phrase: “racks in space,” not giant buildings\n- Same V3-like bus + solar + radiator + compute chips\n- Already flown ~11,000 sats; launch + inter-sat + ground links already solved\n- ~full rack (~72 NVIDIA-class) concept per sat; ~5 MW compute per launch\n\nTony’s investor wrap\n- Still early; trends accelerate into physical AI and beyond Earth\n- Connectivity / tokens increasingly for machines, not just humans\n\n---\n\nBottom line in one breath\nSpaceX is using rocket DNA — vertical integration, crazy talent, short-cycle iteration — to become a top AI infra + software player now, while Starship unlocks Starlink V3, direct-to-cell, and orbital “racks in space.” Watch two things: terrestrial compute scale (toward $100B ARR and multi-GW) and Starship reusability. Everything else is downstream of those.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2101095500199973097",
+    "time": "2026-09-19 07:46",
+    "created_at": "Fri Sep 18 23:46:18 +0000 2026",
+    "id_str": "2101095500199973097",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "BREAKING NEWS: I am pleased to announce that the United States of America has entered into an Agreement with The Kingdom of Denmark, and Greenland, that gives the United States permanent control over security, and all other needs, in Greenland, completely addressing ALL of our many U.S. concerns. There will be NO COST to the United States! At my direction, we worked with representatives of Denmark and Greenland to guarantee that the United States will FOREVER have the complete ability to do what is necessary in Greenland in order to secure and defend the security of Greenland, and the United States of America. Additionally, from now on, no U.S. adversary can EVER have a base in Greenland, have a military presence in Greenland, or make sensitive investments in Greenland, without our express written approval. For over 100 years, Presidents have known the strategic importance of Greenland, but NONE of them were able to do anything about it. I am proud to be the President that permanently and conclusively addressed this very important situation. This is an “Infinite Life” Agreement, there is no end! We are very honored and proud of what has just taken place, and everything agreed to today will be cherished by the American People. We will immediately begin the process of developing a large Military presence in the appropriate part of Greenland, of which there are many. We will work with the people of Greenland in its development and construction. This solution is a great one for the United States of America, Denmark, Greenland, and all of our Allies. We look forward to working with the wonderful people of Denmark and Greenland toward a magnificent future with respect to this large, and highly strategic, parcel of land. We will be very protective of it! This is a dream come true for the United States of America, one that is very important, historic, and special. Thank you for your attention to this matter! President DONALD J. TRUMP",
+    "quoted_tweet": null,
+    "url": "https://x.com/realDonaldTrump/status/2101101979808493780",
+    "time": "2026-09-19 08:12",
+    "created_at": "Sat Sep 19 00:12:03 +0000 2026",
+    "id_str": "2101101979808493780",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Elon gives me money, Elon takes my money. \n\nThe circle of life.",
+    "quoted_tweet": null,
+    "url": "https://x.com/nikitabier/status/2101131693361143986",
+    "time": "2026-09-19 10:10",
+    "created_at": "Sat Sep 19 02:10:07 +0000 2026",
+    "id_str": "2101131693361143986",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "BREAKING: SpaceX CFO says SpaceX is on track to deploy 100 GW of orbital compute every year by the end of the decade. 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2101144040343568684",
+    "time": "2026-09-19 10:59",
+    "created_at": "Sat Sep 19 02:59:11 +0000 2026",
+    "id_str": "2101144040343568684",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Transparency builds trust",
+    "quoted_tweet": {
+      "author": "Keith Coleman 🌱😀🙌",
+      "username": "kcoleman",
+      "text": "Under The Hood is now widely available - appreciate the patience of those who've been waiting and asking about it.\n\nIt already delivered unprecedented transparency, but we wanted to add more. Now you can see if legal demands from a country are causing your visibility to be limited, and which country."
+    },
+    "url": "https://x.com/elonmusk/status/2101173138625122649",
+    "time": "2026-09-19 12:54",
+    "created_at": "Sat Sep 19 04:54:48 +0000 2026",
+    "id_str": "2101173138625122649",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@nikitabier @unlimited_ls 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101173203469058077",
+    "time": "2026-09-19 12:55",
+    "created_at": "Sat Sep 19 04:55:04 +0000 2026",
+    "id_str": "2101173203469058077",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@cb_doge Yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101173300818772241",
+    "time": "2026-09-19 12:55",
+    "created_at": "Sat Sep 19 04:55:27 +0000 2026",
+    "id_str": "2101173300818772241",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@DavidSacks There is this group saying that we aren’t doing enough to slow down AI and another group suing the major AI companies for allegedly colluding (in public!) regarding slowing down for safety. \n\nDamned if you do, damned if you don’t.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101177816872051038",
+    "time": "2026-09-19 13:13",
+    "created_at": "Sat Sep 19 05:13:24 +0000 2026",
+    "id_str": "2101177816872051038",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@cb_doge @Starlink A cunning move by that airline 😉",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101178177934573645",
+    "time": "2026-09-19 13:14",
+    "created_at": "Sat Sep 19 05:14:50 +0000 2026",
+    "id_str": "2101178177934573645",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The next @boringcompany merch will put Uranium in Uranus",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101178647088410828",
+    "time": "2026-09-19 13:16",
+    "created_at": "Sat Sep 19 05:16:42 +0000 2026",
+    "id_str": "2101178647088410828",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@realDonaldTrump 🇺🇸🇺🇸",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101178904580882535",
+    "time": "2026-09-19 13:17",
+    "created_at": "Sat Sep 19 05:17:43 +0000 2026",
+    "id_str": "2101178904580882535",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wudijo 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101179598335569994",
+    "time": "2026-09-19 13:20",
+    "created_at": "Sat Sep 19 05:20:28 +0000 2026",
+    "id_str": "2101179598335569994",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wudijo I’ve had a few things on my plate this week, but made it to top 50 in HC (no bought/traded gear or piloting). \n\nIt’s nice to play with friends sometimes, otherwise I’d do SSF. Might do that later this season. It’s meditative.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101180560341168165",
+    "time": "2026-09-19 13:24",
+    "created_at": "Sat Sep 19 05:24:18 +0000 2026",
+    "id_str": "2101180560341168165",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@rob2628 “Higher than intended damage” 🤣🤣\n\nAnd people ask me what’s the worst that could happen with AI …",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101181917231997360",
+    "time": "2026-09-19 13:29",
+    "created_at": "Sat Sep 19 05:29:41 +0000 2026",
+    "id_str": "2101181917231997360",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "A Geiger Counter will be offered as an optional strap-on",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101183464129151042",
+    "time": "2026-09-19 13:35",
+    "created_at": "Sat Sep 19 05:35:50 +0000 2026",
+    "id_str": "2101183464129151042",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It’s not easy coming up with something that is both outrageously unsellable and yet extremely popular",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101185976227819544",
+    "time": "2026-09-19 13:45",
+    "created_at": "Sat Sep 19 05:45:49 +0000 2026",
+    "id_str": "2101185976227819544",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@banteg Banger",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101188158733881438",
+    "time": "2026-09-19 13:54",
+    "created_at": "Sat Sep 19 05:54:29 +0000 2026",
+    "id_str": "2101188158733881438",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Instead of an App Store, Meta is releasing an agent connector for Muse. \n\nPeople find your connector just by asking their muse agent. Huge opportunity. So huge, it's a risk to be a business and not be apart of it.",
+    "quoted_tweet": {
+      "author": "Mark Zuckerberg",
+      "username": "finkd",
+      "text": "Opening access for developers to build Muse connectors. You bring the API -- Muse brings the agent, the browser, and the context of what the person actually wants. People reach your service just by asking for it, and their agent takes it from there.\n\nNew connectors are live today. Come build with us. http://muse.ai/platform"
+    },
+    "url": "https://x.com/agentnative_/status/2101136646401880328",
+    "time": "2026-09-19 10:29",
+    "created_at": "Sat Sep 19 02:29:48 +0000 2026",
+    "id_str": "2101136646401880328",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I can’t believe how fun technology is right now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101162021047705732",
+    "time": "2026-09-19 12:10",
+    "created_at": "Sat Sep 19 04:10:38 +0000 2026",
+    "id_str": "2101162021047705732",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "posted from my muse",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101162620199846171",
+    "time": "2026-09-19 12:13",
+    "created_at": "Sat Sep 19 04:13:01 +0000 2026",
+    "id_str": "2101162620199846171",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "ok all my agents share skills, plugins and memory.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101162819936731479",
+    "time": "2026-09-19 12:13",
+    "created_at": "Sat Sep 19 04:13:48 +0000 2026",
+    "id_str": "2101162819936731479",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Oh and i one shotted an iMessage agent that also has these skills, plugins and memory... and i can switch the model. unlike another iMessage agent ppl r talking about.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "ok all my agents share skills, plugins and memory."
+    },
+    "url": "https://x.com/rileybrown/status/2101163099067699578",
+    "time": "2026-09-19 12:14",
+    "created_at": "Sat Sep 19 04:14:55 +0000 2026",
+    "id_str": "2101163099067699578",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "$TRXS on @etrade",
+    "quoted_tweet": {
+      "author": "TRON DAO中文",
+      "username": "trondaoCN",
+      "text": "Canary Staked TRX ETF现已上线 @etrade。\n\n进一步拓展通过传统金融市场获得TRX敞口的渠道。\n\n更多关于 $TRXS 的详细信息：https://canaryetfs.com/trxs/"
+    },
+    "url": "https://x.com/justinsuntron/status/2101186396044317166",
+    "time": "2026-09-19 13:47",
+    "created_at": "Sat Sep 19 05:47:29 +0000 2026",
+    "id_str": "2101186396044317166",
+    "is_retweet": false
   }
 ]
