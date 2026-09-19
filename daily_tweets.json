@@ -68,5 +68,179 @@
     "created_at": "Fri Sep 18 22:48:58 +0000 2026",
     "id_str": "2101081072046145834",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "妈的，Claude Code 终于支持 AGENT.md 文件了\n\n默认行为是如果没有 CLAUDE.md 就会执行 AGENT.md\n\n但也可以自己设置成只支持 AGENT.md，不用维护两份规则了",
+    "quoted_tweet": {
+      "author": "Thariq",
+      "username": "trq212",
+      "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config."
+    },
+    "url": "https://x.com/op7418/status/2101084981443584332",
+    "time": "2026-09-19 07:04",
+    "created_at": "Fri Sep 18 23:04:30 +0000 2026",
+    "id_str": "2101084981443584332",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "CNN 今天独家报道：今年春天美伊战争期间，美军差点在中东强行登检一艘中国船只——起因是一份 AI 生成的虚假情报称该船运载的是核武器部件。\n\n事发时，武装人员已做好登船准备，军机已经升空。就在行动即将执行前，官员才深入核查了情报来源，发现整份报告是一名特种作战司令部分析员用 AI 聊天机器人炮制的。\n\n这名分析员先用聊天机器人将公开来源资料与机密信号情报混合分析，得出了关于船上货物的错误结论。然后又用 AI 把分析结果包装成标准格式的情报报告，在军方内部广泛流转。正因为报告的格式和常规情报产品一模一样，没人在第一时间质疑它的来源。\n\n一位知情人士对 CNN 说，这份报告的内容\"完全是假的\"，而且\"差点引发一场战争\"。CNN 至今未能确认那艘船实际运载的是什么货物。美军特种作战司令部太平洋司令部和五角大楼均未回应评论请求。\n\n这件事的背景是五角大楼正在全力推进 AI 军事化。今年 1 月，国防部长 Pete Hegseth 发布了\"AI 加速战略\"，要求美军成为\"AI 优先\"的作战力量，将 AI 嵌入从作战规划到情报分析的所有环节。但各部门各用各的系统，安全流程不统一，也没有一套统一的标准来验证 AI 生成的信息。\n\n这起事件暴露的问题：AI 的\"幻觉\"问题，也就是一本正经地编造不存在的事实，在日常使用中可能只是闹个笑话，但在军事情报链条里，它可以一路伪装成权威报告，推动真实的军事行动，直到最后一刻才被识破。\n\n这还不是 AI 自主决策导致的问题，更值得警惕的是，人类分析员跳过了正常的情报核查流程，直接采用了 AI 的分析报告。\n\n巧合的是，就在上周，Anthropic 也披露曾阻断一个与伊朗有关联的行为者利用其 Claude 模型编制美国海军的目标定位资料，包括用 AI 搭建情报管线追踪舰艇位置、查询卫星图像、研究舰载通信设备漏洞。\n\n跟人类跟不上审查 AI 生成代码的速度一样，AI 正在同时加速攻防双方的情报能力，而目前对 AI 生成情报的人工核查机制，显然还没跟上这个速度。",
+    "quoted_tweet": {
+      "author": "Katie Bo Lillis",
+      "username": "KatieBoLillis",
+      "text": "NEW: An AI-assisted intel report sent the military scrambling to intercept a Chinese ship in the Middle East it believed was transporting components of a nuclear weapons program.\n\nIt turned out to be a hallucination. And it \"almost started a war.\" https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
+    },
+    "url": "https://x.com/dotey/status/2101098576600314054",
+    "time": "2026-09-19 07:58",
+    "created_at": "Fri Sep 18 23:58:31 +0000 2026",
+    "id_str": "2101098576600314054",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "i’m a sugar daddy for men with GitHub accounts.\n\nMarc got $68k and a Mercedes. you get a shot at $50k for building something people actually use with the Higgsfield API.\n\ncompetition pinned. make me proud.",
+    "quoted_tweet": {
+      "author": "Marc Lou",
+      "username": "marclou",
+      "text": "This company is crazy.\n\nAfter spending $68,000 on my body, they rented me a car to drive to the Hyrox venue. My transformation into a billboard is now complete.\n\nHiggsfield also gave me $30,000 in API credits to make marketing videos with AI models like Seedance.\n\nI built a little puzzle game to give them away: finish it and verify your email, and I’ll randomly pick 30 winners in 48 hours, each getting $1,000 in credits.\n\nThe game starts in this tweet, in this photo...\n\nIt should take you ~15 minutes. Good luck 👀\n\nThis little sponsorship experiment made me realize AI has pushed solopreneurship mainstream.\n\nCompanies are sponsoring influencers, as we see on YouTube. This wasn't the case when I joined X in 2021.\n\nAll my friends outside our indie-hacking bubble are talking about building their own internet business solo.\n\nI think it was meant to happen because solopreneurship unlocks two fundamental human desires: creativity and not-having-a-boss.\n\nIf I had to bet, we're just at the beginning."
+    },
+    "url": "https://x.com/gpumaxxer/status/2100997075706253797",
+    "time": "2026-09-19 01:15",
+    "created_at": "Fri Sep 18 17:15:12 +0000 2026",
+    "id_str": "2100997075706253797",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Grok Bot 现在可以给你发送语音消息了\n\n🫡",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101115984287510714",
+    "time": "2026-09-19 09:07",
+    "created_at": "Sat Sep 19 01:07:42 +0000 2026",
+    "id_str": "2101115984287510714",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So beautiful",
+    "quoted_tweet": {
+      "author": "Louis Dazy",
+      "username": "louisdazy",
+      "text": "GM — with ‘Radiance’"
+    },
+    "url": "https://x.com/icreatelife/status/2101083659952378232",
+    "time": "2026-09-19 06:59",
+    "created_at": "Fri Sep 18 22:59:15 +0000 2026",
+    "id_str": "2101083659952378232",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CodeByPoonam This looks beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101089967128608785",
+    "time": "2026-09-19 07:24",
+    "created_at": "Fri Sep 18 23:24:19 +0000 2026",
+    "id_str": "2101089967128608785",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I have issues with X every day.",
+    "quoted_tweet": null,
+    "url": "https://x.com/LikeToasters/status/2101090216778068138",
+    "time": "2026-09-19 07:25",
+    "created_at": "Fri Sep 18 23:25:18 +0000 2026",
+    "id_str": "2101090216778068138",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LikeToasters What kind of issues?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101090405949296672",
+    "time": "2026-09-19 07:26",
+    "created_at": "Fri Sep 18 23:26:03 +0000 2026",
+    "id_str": "2101090405949296672",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I did notice it seemed like a ghost town this afternoon. Timeline was crickets and also not current. \n\nThought that was weird.",
+    "quoted_tweet": null,
+    "url": "https://x.com/postboxrebel/status/2101102683415322745",
+    "time": "2026-09-19 08:14",
+    "created_at": "Sat Sep 19 00:14:50 +0000 2026",
+    "id_str": "2101102683415322745",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@postboxrebel Yes, same here",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101103669701648864",
+    "time": "2026-09-19 08:18",
+    "created_at": "Sat Sep 19 00:18:46 +0000 2026",
+    "id_str": "2101103669701648864",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I just got access to “Under the hood” feature. X is rolling it out to more users \n\nCheck if you have access. Link in comments",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101117706938290542",
+    "time": "2026-09-19 09:14",
+    "created_at": "Sat Sep 19 01:14:32 +0000 2026",
+    "id_str": "2101117706938290542",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Under the hood link: https://x.com/i/under_the_hood",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101117710365053080",
+    "time": "2026-09-19 09:14",
+    "created_at": "Sat Sep 19 01:14:33 +0000 2026",
+    "id_str": "2101117710365053080",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Here's my \"Under the hood\" analysis via Claude: \n\nHere's what this X (\"Twitter\") \"Under the Hood\" transparency report is telling you:\n\nOverview\n\nCovers August 1–31, 2026\nYou posted 2,587 times in that window\nGenerated September 9, 2026\n\nPost labels (the important part)\nOnly one label applied: SPAM_HIGH_RECALL, on 2 posts out of 2,587 (0.07%).\nWhat it means: X's automated spam-detection system flagged these 2 posts as possibly spam. \"High recall\" systems are tuned to catch more potential spam, which means they also produce more false positives — it's a low-confidence, wide-net classifier, not a confirmed violation.\n\nEffect: Those 2 posts were hidden from recommendations to non-followers — meaning they wouldn't get pushed into the \"For You\" feed of people who don't already follow you, though your existing followers could still see them normally in their following feed.\nAccount-level labels: None (0) — so this didn't affect your account standing, just those 2 individual posts.\nBottom line\nThis is a negligible, almost certainly a false-positive blip — 2 out of 2,587 posts (0.07%) got limited-reach treatment for looking spam-adjacent to an algorithm, with no account-wide consequences. Nothing here suggests a real problem with your content or account health. If you're curious which 2 posts triggered it, X doesn't include post IDs in this report, so you'd have to spot-check anything with unusual formatting, repetitive text, or lots of links/hashtags from that month.",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "I just got access to “Under the hood” feature. X is rolling it out to more users \n\nCheck if you have access. Link in comments"
+    },
+    "url": "https://x.com/icreatelife/status/2101118828407144633",
+    "time": "2026-09-19 09:19",
+    "created_at": "Sat Sep 19 01:19:00 +0000 2026",
+    "id_str": "2101118828407144633",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I recommend running the report through Claude. \n\nI got this: \n\nHere's what this X (\"Twitter\") \"Under the Hood\" transparency report is telling you:\n\nOverview\n\nCovers August 1–31, 2026\nYou posted 2,587 times in that window\nGenerated September 9, 2026\n\nPost labels (the important part)\nOnly one label applied: SPAM_HIGH_RECALL, on 2 posts out of 2,587 (0.07%).\nWhat it means: X's automated spam-detection system flagged these 2 posts as possibly spam. \"High recall\" systems are tuned to catch more potential spam, which means they also produce more false positives — it's a low-confidence, wide-net classifier, not a confirmed violation.\n\nEffect: Those 2 posts were hidden from recommendations to non-followers — meaning they wouldn't get pushed into the \"For You\" feed of people who don't already follow you, though your existing followers could still see them normally in their following feed.\nAccount-level labels: None (0) — so this didn't affect your account standing, just those 2 individual posts.\nBottom line\nThis is a negligible, almost certainly a false-positive blip — 2 out of 2,587 posts (0.07%) got limited-reach treatment for looking spam-adjacent to an algorithm, with no account-wide consequences. Nothing here suggests a real problem with your content or account health. If you're curious which 2 posts triggered it, X doesn't include post IDs in this report, so you'd have to spot-check anything with unusual formatting, repetitive text, or lots of links/hashtags from that month.\n\n(I do wish X would provide with particular posts it thought were spam)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101119169068449819",
+    "time": "2026-09-19 09:20",
+    "created_at": "Sat Sep 19 01:20:21 +0000 2026",
+    "id_str": "2101119169068449819",
+    "is_retweet": false
   }
 ]
