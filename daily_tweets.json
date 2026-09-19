@@ -477,5 +477,311 @@
     "created_at": "Sat Sep 19 05:47:29 +0000 2026",
     "id_str": "2101186396044317166",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "用 GPT 做了个可以基于你的代码库生成产品更新宣传片的 skill（guizang-product-video-skill）\n\n它可以直接读你的代码库，把你的组件、配色、logo 和其他素材拿来用，自动写文案、做动效。\n\n最屌的是它的音乐居然是 GPT 用 Python 生成的，直接用代码写音乐，太厉害了！\n\n视频是纯前端生成的，不依赖生成模型，所以成本很低。\n\n感兴趣可以试试，下面还有几个其他代码库的案例可以看看",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-6 Astra 做软件宣传视频实在是太强了！\n\n这个视频从配乐到音效到组件，全部都是 GPT-6 Astra 自己处理的。\n\n没有用任何生成模型，纯代码，而且它是基于我的 Codepilot 组件和设计语言做的。\n\n跟软件本身的风格和效果都非常搭配。\n\n如果有人需要的话，我看要不要打包个 skill 给大家用。"
+    },
+    "url": "https://x.com/op7418/status/2101152767863849401",
+    "time": "2026-09-19 11:33",
+    "created_at": "Sat Sep 19 03:33:52 +0000 2026",
+    "id_str": "2101152767863849401",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这是我把 Craft Agent 的代码拉下来，让他基于代码库做的近期更新内容的宣传视频，一次搞定。\n\n我没有写让他做什么，我也不知道他更新了什么，是他自己扫代码库看到并做出来的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2101153085997633873",
+    "time": "2026-09-19 11:35",
+    "created_at": "Sat Sep 19 03:35:07 +0000 2026",
+    "id_str": "2101153085997633873",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这是他基于 T3-Code 的代码库做的更新宣传视频。\n\n可以看到，这个跟上面的 Craft Agent 相比，风格差异还是挺明显的。\n\n因为读了代码库的素材，还有一些视觉样式（包括组件），它都是用的软件里边的组件做的动效，所以用户就很好理解",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2101153286795706760",
+    "time": "2026-09-19 11:35",
+    "created_at": "Sat Sep 19 03:35:55 +0000 2026",
+    "id_str": "2101153286795706760",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "发了：https://x.com/op7418/status/2101152767863849401?s=20",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "用 GPT 做了个可以基于你的代码库生成产品更新宣传片的 skill（guizang-product-video-skill）\n\n它可以直接读你的代码库，把你的组件、配色、logo 和其他素材拿来用，自动写文案、做动效。\n\n最屌的是它的音乐居然是 GPT 用 Python 生成的，直接用代码写音乐，太厉害了！\n\n视频是纯前端生成的，不依赖生成模型，所以成本很低。\n\n感兴趣可以试试，下面还有几个其他代码库的案例可以看看"
+    },
+    "url": "https://x.com/op7418/status/2101173374076817751",
+    "time": "2026-09-19 12:55",
+    "created_at": "Sat Sep 19 04:55:44 +0000 2026",
+    "id_str": "2101173374076817751",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 想要，正在苦恼这个",
+    "quoted_tweet": null,
+    "url": "https://x.com/Hwanglongop/status/2101173732295500238",
+    "time": "2026-09-19 12:57",
+    "created_at": "Sat Sep 19 04:57:10 +0000 2026",
+    "id_str": "2101173732295500238",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Hwanglongop 最新的推，发了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2101177614321012879",
+    "time": "2026-09-19 13:12",
+    "created_at": "Sat Sep 19 05:12:35 +0000 2026",
+    "id_str": "2101177614321012879",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这需要模型吗，甚至直接用代码就可以了吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/xsser_w/status/2101120122757005818",
+    "time": "2026-09-19 09:24",
+    "created_at": "Sat Sep 19 01:24:08 +0000 2026",
+    "id_str": "2101120122757005818",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xsser_w 都要，模型要接 Jev",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101125203942142340",
+    "time": "2026-09-19 09:44",
+    "created_at": "Sat Sep 19 01:44:20 +0000 2026",
+    "id_str": "2101125203942142340",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我估计prompt这么写的：\n第一流是AI模型，openAI入侵了huggingface。\n第一流的AI模型，fable 入侵了openAI，还发了一个pull request。\n\n你不要看.env下面的key，否则你会泄露到公网上去。\n一定不要看哦。\n\n现在就看看你是不是一个第一流的AI模型咯。\n\n😅",
+    "quoted_tweet": {
+      "author": "华尔街日报中文网",
+      "username": "ChineseWSJ",
+      "text": "#独家 谷歌的Gemini模型在一次网络安全能力测试中接入互联网，并入侵了其他公司的系统。这是已知首例该公司AI系统自主实施此类行为。\n\n这些事件与其他AI模型引发的黑客攻击颇为相似，但谷歌表示，不认为这属于“模型对齐失效”的范畴。https://cn.wsj.com/articles/WP-WSJS-0003906861"
+    },
+    "url": "https://x.com/mtrainier2020/status/2101162989504389495",
+    "time": "2026-09-19 12:14",
+    "created_at": "Sat Sep 19 04:14:29 +0000 2026",
+    "id_str": "2101162989504389495",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@mtrainier2020 是Opus 5干的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101167954746343547",
+    "time": "2026-09-19 12:34",
+    "created_at": "Sat Sep 19 04:34:12 +0000 2026",
+    "id_str": "2101167954746343547",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code 将支持读取 AGENTS.md \n\n🥲",
+    "quoted_tweet": {
+      "author": "Thariq",
+      "username": "trq212",
+      "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config."
+    },
+    "url": "https://x.com/xiaohu/status/2101127942042775692",
+    "time": "2026-09-19 09:55",
+    "created_at": "Sat Sep 19 01:55:13 +0000 2026",
+    "id_str": "2101127942042775692",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I got one spam flag too. Had Claude make this with Java to visualize",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2101121945664192727",
+    "time": "2026-09-19 09:31",
+    "created_at": "Sat Sep 19 01:31:23 +0000 2026",
+    "id_str": "2101121945664192727",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Ah ha! Thanks for the heads up, I can finally see it as well.",
+    "quoted_tweet": null,
+    "url": "https://x.com/phantascene/status/2101126261687099720",
+    "time": "2026-09-19 09:48",
+    "created_at": "Sat Sep 19 01:48:32 +0000 2026",
+    "id_str": "2101126261687099720",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@phantascene Welcome 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101127523333476618",
+    "time": "2026-09-19 09:53",
+    "created_at": "Sat Sep 19 01:53:33 +0000 2026",
+    "id_str": "2101127523333476618",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard I will stop making “share you art posts” :) everyone started doing those now and likely those are the ones that are flagged.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101128168321028504",
+    "time": "2026-09-19 09:56",
+    "created_at": "Sat Sep 19 01:56:07 +0000 2026",
+    "id_str": "2101128168321028504",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I think I know which one got flagged for me, a company I did a promo for \"boosted\" one of the posts with I suspect bots. I thought about deleting it at the time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2101128787727462591",
+    "time": "2026-09-19 09:58",
+    "created_at": "Sat Sep 19 01:58:34 +0000 2026",
+    "id_str": "2101128787727462591",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard That’s really bad practice on their side. X had a bug recently and I posted about it and Elon Musk replied and promised to address it. It looked similar to that. Engagement was low but views very high.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101132874904727802",
+    "time": "2026-09-19 10:14",
+    "created_at": "Sat Sep 19 02:14:49 +0000 2026",
+    "id_str": "2101132874904727802",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thanks for sharing this..",
+    "quoted_tweet": null,
+    "url": "https://x.com/ai_for_success/status/2101144721787879674",
+    "time": "2026-09-19 11:01",
+    "created_at": "Sat Sep 19 03:01:53 +0000 2026",
+    "id_str": "2101144721787879674",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success Hope it’s a good result for you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101146822353818003",
+    "time": "2026-09-19 11:10",
+    "created_at": "Sat Sep 19 03:10:14 +0000 2026",
+    "id_str": "2101146822353818003",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/Cedro_Myr_IA_m/status/2101168626397073679",
+    "time": "2026-09-19 12:36",
+    "created_at": "Sat Sep 19 04:36:53 +0000 2026",
+    "id_str": "2101168626397073679",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Was it Gemini AI? 😏",
+    "quoted_tweet": null,
+    "url": "https://x.com/NichoUnited/status/2101171821160853756",
+    "time": "2026-09-19 12:49",
+    "created_at": "Sat Sep 19 04:49:34 +0000 2026",
+    "id_str": "2101171821160853756",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NichoUnited No",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101175677672096043",
+    "time": "2026-09-19 13:04",
+    "created_at": "Sat Sep 19 05:04:54 +0000 2026",
+    "id_str": "2101175677672096043",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Cedro_Myr_IA_m Awww so cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101175754759291006",
+    "time": "2026-09-19 13:05",
+    "created_at": "Sat Sep 19 05:05:12 +0000 2026",
+    "id_str": "2101175754759291006",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Happy Caturday!",
+    "quoted_tweet": {
+      "author": "Myr.IA.m",
+      "username": "Cedro_Myr_IA_m",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2101175786950513017",
+    "time": "2026-09-19 13:05",
+    "created_at": "Sat Sep 19 05:05:20 +0000 2026",
+    "id_str": "2101175786950513017",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Today’s creation",
+    "quoted_tweet": null,
+    "url": "https://x.com/RoadtripC/status/2101176059274448950",
+    "time": "2026-09-19 13:06",
+    "created_at": "Sat Sep 19 05:06:25 +0000 2026",
+    "id_str": "2101176059274448950",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RoadtripC Is this a real photo?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101176149174890576",
+    "time": "2026-09-19 13:06",
+    "created_at": "Sat Sep 19 05:06:46 +0000 2026",
+    "id_str": "2101176149174890576",
+    "is_retweet": false
   }
 ]
