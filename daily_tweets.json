@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think there are lots of good reasons to worry about whether AI is giving correct answers (especially free models), but, given the contradiction with other recent research suggesting AI is now doing well at financial advice, I was curious about what the methodology was here. I downloaded the report, which is from a company selling different AI financial services products.\n\nGiven the limited information in the report, it is impossible to judge it's accuracy, since there are only limited examples of questions. However, I am curious if anyone familiar with UK tax law knows whether GPT-6 Pro's defense of Haiku's answer is right, or if Saturn's critique is.",
+    "quoted_tweet": {
+      "author": "Financial Times",
+      "username": "FT",
+      "text": "AI chatbots give wrong answers to financial queries ‘most of the time’ https://ft.trib.al/KxRXFO6"
+    },
+    "url": "https://x.com/emollick/status/2101394716310815143",
+    "time": "2026-09-20 03:35",
+    "created_at": "Sat Sep 19 19:35:17 +0000 2026",
+    "id_str": "2101394716310815143",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All this is to say that I think governments need to do a better job doing direct evaluations of models and publishing results rather than simply trusting third-party evaluators with their agendas. It seems really important to know what’s actually happening with AI ability.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101396469991256303",
+    "time": "2026-09-20 03:42",
+    "created_at": "Sat Sep 19 19:42:15 +0000 2026",
+    "id_str": "2101396469991256303",
+    "is_retweet": false
+  }
+]
