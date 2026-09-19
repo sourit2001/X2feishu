@@ -150,5 +150,101 @@
     "created_at": "Sat Sep 19 19:35:08 +0000 2026",
     "id_str": "2101394681078878672",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "归墟 1-9， 成本差不多是20K USD, 一个人的作品。\n真人演员压力山大。",
+    "quoted_tweet": null,
+    "url": "https://x.com/mtrainier2020/status/2101400859603325096",
+    "time": "2026-09-20 03:59",
+    "created_at": "Sat Sep 19 19:59:41 +0000 2026",
+    "id_str": "2101400859603325096",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Martin Casado on why the word \"pacing\" was a misstep, and Databricks' @alighodsi on what the labs were actually asking for:\n\nMartin: \"Saying security and safety is important, it is with every tech epoch, and we wanna have some oversight. That was very, very sensible. The problem was just couching this notion of pacing.\"\n\n\"There's a number of issues with pacing. First off, it's orthogonal to safety and security. You can slowly build a weapon. That's not different than building a weapon.\"\n\n\"It kind of feels like this kind of almost milquetoast capitulation to the pause people. 'You say pause, well, I say pacing.' Which is almost like pause, but it's not like pause.\"\n\nAli: \"They're saying, 'Hey, if we do that, it'll slow us down. And I'm not sure the other side is doing that. So can you guys come in and slow us down? Put some guardrails around us. We'll happily then follow the rules and do the secure thing. Otherwise it doesn't make sense 'cause we'll get our butts kicked.'\"\n\nMartin: \"Nuanced second-order words don't work when people are really afraid... I literally think you should have just been like, 'Safety and security is paramount. We're gonna put in these controls.'\"\n\n\"Dario's first five words or whatever are, 'We need to pace the frontier.' It just puts you in a very different mindset. What he could have said is, 'We need to secure the frontier.'\"\n\n\"Pace is like the uncanny valley of making the doomer people unhappy and the policy people unhappy. The doomer people are like, 'That's not a pause, this is pacing.' And everybody else is like, 'This isn't real, you're not gonna do it anyways, and you're not as focused on security.'\"\n\n@alighodsi @martin_casado @sarahdingwang",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Databricks' @alighodsi on AI risk and adoption:\n\nAli isn't losing sleep over the existential risk debate.\n\nHe says a number of conditions would all have to be true simultaneously to enable an actual runaway takeoff scenario, and currently several opposite conditions exist.\n\nEach frontier training run requires significantly more resources. Power, GPUs, engineers - and some attempts fail, burning up huge piles of money with them. Until that reverses, he doesn't see the self-improving loop happening.\n\nCyber is what he's watching most closely and where he anticipates real impact. Most orgs are not equipped for the coming change in agentic capabilities. The time between a vulnerability being published and being weaponized has collapsed from years to hours.\n\nOn adoption, he believes most companies don't need a smarter model. The models are already smart enough. The gap is context they don't absorb - the things an employee who's worked at a company for five years learned by osmosis.\n\nIf the frontier stopped advancing today, he thinks it wouldn't meaningfully change the value most are extracting from AI anyway.\n\nIn conversation with a16z's Martin Casado and Sarah Wang:\n\n00:00 Intro\n00:48 Why Ali places the AI risk near zero\n05:05 The word \"pacing\" was a mistake\n10:50 What 10k agents and $100m can do\n12:20 What would change his mind on AI risk\n14:20 More GPUs, more ways to fail\n18:05 US export controls on PlayStations\n20:10 The damage everyone expected by now\n24:30 Public vulnerabilities weaponized in hours\n30:15 Why labs can't grade each other\n37:15 Why most of RSI isn't actually RSI\n40:05 Why nobody really needs a smarter model\n41:50 The AI use cases nobody argues about\n47:30 Google Search solved this 25 years ago\n50:55 Nobody has privileged knowledge now\n55:10 Same model, new harness, 2x cost\n58:15 Open source: 5% of spend, 60% of tokens\n1:05:30 90% of new databases are created by agents\n\nYouTube: https://youtu.be/GzEtpAKYRvE\n\n@databricks @martin_casado @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2101382198469579051",
+    "time": "2026-09-20 02:45",
+    "created_at": "Sat Sep 19 18:45:32 +0000 2026",
+    "id_str": "2101382198469579051",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@karatademada I have. Rey similar report",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101379046416232817",
+    "time": "2026-09-20 02:33",
+    "created_at": "Sat Sep 19 18:33:01 +0000 2026",
+    "id_str": "2101379046416232817",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I did a box turtle as a box.  🐢\nTurtle luv to Pablo this Saturday!",
+    "quoted_tweet": null,
+    "url": "https://x.com/charis_ai/status/2101382057314095135",
+    "time": "2026-09-20 02:44",
+    "created_at": "Sat Sep 19 18:44:58 +0000 2026",
+    "id_str": "2101382057314095135",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@charis_ai Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101382943243420013",
+    "time": "2026-09-20 02:48",
+    "created_at": "Sat Sep 19 18:48:30 +0000 2026",
+    "id_str": "2101382943243420013",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yes please!",
+    "quoted_tweet": null,
+    "url": "https://x.com/DomitrosH/status/2101395716551667966",
+    "time": "2026-09-20 03:39",
+    "created_at": "Sat Sep 19 19:39:15 +0000 2026",
+    "id_str": "2101395716551667966",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DomitrosH Sent",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101399581720236241",
+    "time": "2026-09-20 03:54",
+    "created_at": "Sat Sep 19 19:54:37 +0000 2026",
+    "id_str": "2101399581720236241",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is important if you are in Original Content Rewards Program",
+    "quoted_tweet": {
+      "author": "Joshua",
+      "username": "CreeCoder",
+      "text": "Getting into the OCR program isn’t the finish line.\n\nX says accounts will be periodically reviewed for ongoing compliance.\n\nSo keep following the rules or you could get removed."
+    },
+    "url": "https://x.com/icreatelife/status/2101403535166369926",
+    "time": "2026-09-20 04:10",
+    "created_at": "Sat Sep 19 20:10:19 +0000 2026",
+    "id_str": "2101403535166369926",
+    "is_retweet": false
   }
 ]
