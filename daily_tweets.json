@@ -1,1 +1,186 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Oh man all these bots know about Benjamin because they know all of human literature which makes the replies higher quality technically but no less annoying. If I want Gemma 27B’s option I’ll ask it myself.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101325038175596551",
+    "time": "2026-09-19 22:58",
+    "created_at": "Sat Sep 19 14:58:24 +0000 2026",
+    "id_str": "2101325038175596551",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "One future is that we muddle through on most risks (& the existential ones are prevented) and the positive impacts that early data hints at — higher productivity, more scientific discovery, higher entrepreneurship, employment stable/growing (most tentative of the set)  — continue",
+    "quoted_tweet": {
+      "author": "Nate Silver",
+      "username": "NateSilver538",
+      "text": "One political problem for AI labs is that they can't articulate an optimistic medium-term future that sounds broadly good for humanity without also sounding incredibly weird, having huge wealth/power disparities, or both."
+    },
+    "url": "https://x.com/emollick/status/2101344628280607066",
+    "time": "2026-09-20 00:16",
+    "created_at": "Sat Sep 19 16:16:15 +0000 2026",
+    "id_str": "2101344628280607066",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is not that hard to predict a very plausible, and even likely, scenario that things end up broadly good with some negative incidents that never reach catastrophic level (that is what happened with all other General Purpose Technologies in human history), but the issue is that there is also the real possibility that we are facing a von Neumann-type singularity where human affairs get reshaped dramatically by AI in ways that impossible to predict.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101345754715435026",
+    "time": "2026-09-20 00:20",
+    "created_at": "Sat Sep 19 16:20:43 +0000 2026",
+    "id_str": "2101345754715435026",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Needless to say, our policies should be actively guiding us towards the good AI world.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101346281775890896",
+    "time": "2026-09-20 00:22",
+    "created_at": "Sat Sep 19 16:22:49 +0000 2026",
+    "id_str": "2101346281775890896",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Two AI models just skipped the communication and read each other's minds instead.\n\nA paper from Tsinghua University and 5 other labs found a way around that. It's called Cache-to-Cache.\n\nThe idea: every model keeps a working memory of what it’s processing, called a KV-cache. Instead of writing text, model 1 hands that memory straight to model 2. A small neural network translates between the 2, and a gate decides which layers get the transfer.\n\nNothing gets lost in translation, and the receiving model gets the meaning directly.\n\nThe researcher tested it 3 ways: each model alone, the 2 models passing text, and the 2 models sharing memory:\n\n→ 6.4 to 14.2% more accurate than either model alone\n→ 3.1 to 5.4% more accurate than the same 2 models passing text\n→ 2.5x faster, since nothing has to be written and re-read\n\nEvery multi-agent setup today runs on words. This is the first look at what happens when they don't.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101321672133636199",
+    "time": "2026-09-19 22:45",
+    "created_at": "Sat Sep 19 14:45:01 +0000 2026",
+    "id_str": "2101321672133636199",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Every prompt in the library is the reusable version of what this paper only argues for once. Grab one:\n\nhttps://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101321708024332558",
+    "time": "2026-09-19 22:45",
+    "created_at": "Sat Sep 19 14:45:10 +0000 2026",
+    "id_str": "2101321708024332558",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Free prompts and guides at https://godofprompt.ai\n\nFollow if you'd rather know how the models talk than take the summary's word for it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101321719629983967",
+    "time": "2026-09-19 22:45",
+    "created_at": "Sat Sep 19 14:45:13 +0000 2026",
+    "id_str": "2101321719629983967",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Did Astra suddenly get way more efficient, or is it just me?",
+    "quoted_tweet": null,
+    "url": "https://x.com/hiarun02/status/2101169629670564002",
+    "time": "2026-09-19 12:40",
+    "created_at": "Sat Sep 19 04:40:52 +0000 2026",
+    "id_str": "2101169629670564002",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "the \"astra stopping too early\" problem is completely solved by jev btw",
+    "quoted_tweet": null,
+    "url": "https://x.com/willcb/status/2101178888441516117",
+    "time": "2026-09-19 13:17",
+    "created_at": "Sat Sep 19 05:17:39 +0000 2026",
+    "id_str": "2101178888441516117",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "If you want to see an example on how having the very best AI model and harness doesn’t result in better/faster execution - in fact it slows you;\n\nIt took the Claude Code team 16 months LONGER (!!) to add support for AGENTS.md than OpenCode & Codex, 12 more vs Cursor",
+    "quoted_tweet": {
+      "author": "Thariq",
+      "username": "trq212",
+      "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config."
+    },
+    "url": "https://x.com/GergelyOrosz/status/2101296362503414130",
+    "time": "2026-09-19 21:04",
+    "created_at": "Sat Sep 19 13:04:27 +0000 2026",
+    "id_str": "2101296362503414130",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "met a dude, he still copy-pasting the code from chatgpt",
+    "quoted_tweet": null,
+    "url": "https://x.com/anah_sahh/status/2101314121689870393",
+    "time": "2026-09-19 22:15",
+    "created_at": "Sat Sep 19 14:15:01 +0000 2026",
+    "id_str": "2101314121689870393",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@GergelyOrosz Let’s celebrate this change! Positive reinforcement!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2101352396140278226",
+    "time": "2026-09-20 00:47",
+    "created_at": "Sat Sep 19 16:47:07 +0000 2026",
+    "id_str": "2101352396140278226",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@udiWertheimer OK fine. But it’s also still coming in Tuesday",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2101352781219258527",
+    "time": "2026-09-20 00:48",
+    "created_at": "Sat Sep 19 16:48:38 +0000 2026",
+    "id_str": "2101352781219258527",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@willcb I could see Astra and Jev being best friends in real life",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2101353058110480808",
+    "time": "2026-09-20 00:49",
+    "created_at": "Sat Sep 19 16:49:44 +0000 2026",
+    "id_str": "2101353058110480808",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@hiarun02 Always improving",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2101353743275135306",
+    "time": "2026-09-20 00:52",
+    "created_at": "Sat Sep 19 16:52:28 +0000 2026",
+    "id_str": "2101353743275135306",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@anah_sahh did you bail or at least show him codex before?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2101354419829010896",
+    "time": "2026-09-20 00:55",
+    "created_at": "Sat Sep 19 16:55:09 +0000 2026",
+    "id_str": "2101354419829010896",
+    "is_retweet": false
+  }
+]
