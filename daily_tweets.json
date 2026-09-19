@@ -414,5 +414,440 @@
     "created_at": "Sat Sep 19 17:47:36 +0000 2026",
     "id_str": "2101367619337277446",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "学习 AI 最好的办法就是失业",
+    "quoted_tweet": null,
+    "url": "https://x.com/fkysly/status/2101251667547357680",
+    "time": "2026-09-19 18:06",
+    "created_at": "Sat Sep 19 10:06:51 +0000 2026",
+    "id_str": "2101251667547357680",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "码农的学习之路...以前看阿西莫夫的“基地”，不理解文明倒退为啥会如此迅速，现在理解了...三十年后如果AI系统忽然都噶了，那IT行业也会倒退到千禧年甚至更早的时候",
+    "quoted_tweet": null,
+    "url": "https://x.com/jefflijun/status/2101329347927785757",
+    "time": "2026-09-19 23:15",
+    "created_at": "Sat Sep 19 15:15:32 +0000 2026",
+    "id_str": "2101329347927785757",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@fkysly 失业会给人带来极大的焦虑，并不利于学习\n放松的心态和好奇心是最好的\n其次是有真实的项目可以实践，做中学",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101339156374860046",
+    "time": "2026-09-19 23:54",
+    "created_at": "Sat Sep 19 15:54:30 +0000 2026",
+    "id_str": "2101339156374860046",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我用 Opus 5 （不确定是不是 5.2）复刻了下 911 全过程，牛逼呀，一把梭：https://911-memorial-one.vercel.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/FarmerSun2023/status/2101343100383998204",
+    "time": "2026-09-20 00:10",
+    "created_at": "Sat Sep 19 16:10:10 +0000 2026",
+    "id_str": "2101343100383998204",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@FarmerSun2023 牛逼👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101351769594806456",
+    "time": "2026-09-20 00:44",
+    "created_at": "Sat Sep 19 16:44:37 +0000 2026",
+    "id_str": "2101351769594806456",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2101323529534967808",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2101323535486718080",
+    "time": "2026-09-19 22:52",
+    "created_at": "Sat Sep 19 14:52:26 +0000 2026",
+    "id_str": "2101323535486718080",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2101323529534967808",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2101323535486718080",
+    "time": "2026-09-19 22:52",
+    "created_at": "Sat Sep 19 14:52:26 +0000 2026",
+    "id_str": "2101323535486718080",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@EXM7777 Can tell from the thumbnail alone this will be good",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2101354337083773062",
+    "time": "2026-09-20 00:54",
+    "created_at": "Sat Sep 19 16:54:49 +0000 2026",
+    "id_str": "2101354337083773062",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "“I think that right now, the existential risk is close to zero. So why freak everybody out?”\n\nDatabricks CEO and co-founder @alighodsi joined @a16z General Partners @martin_casado and @sarahdingwang for a conversation on AI risk, what's actually slowing enterprise adoption, and where companies are already seeing value.\n\nListen to the full episode: https://www.youtube.com/watch?v=GzEtpAKYRvE",
+    "quoted_tweet": null,
+    "url": "https://x.com/databricks/status/2101069824634003667",
+    "time": "2026-09-19 06:04",
+    "created_at": "Fri Sep 18 22:04:16 +0000 2026",
+    "id_str": "2101069824634003667",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks' @alighodsi with a16z's Martin Casado on who should be policing the AI labs:\n\nMartin: \"There's kind of three proposals. The OpenAI, Anthropic one is a third party. The Elon Musk one, as far as I can tell, is the labs cross-check each other like peer review, like you do in science. And then the Mark Zuckerberg one is police yourself.\"\n\nAli: \"If we have boxing matches in the ring, the boxers should just be the judges of each other. Would that work? No. They would scream foul all the time.\"\n\n\"When vested interests are at play and there's like IPO plans and these two companies are so competitive and they have this history also between them, yeah, they'll be *very* fair to each other.\"\n\n\"That's why you need a third party. Why do we have judges in the world at all? Why do we have third parties at all? Why can't people just figure things out between themselves?\"\n\n\"They should try. If they want to do it, they should try. But I'm skeptical that they wouldn't just be biased in multiple ways to judge each other.\"\n\n@alighodsi @martin_casado @sarahdingwang",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Databricks' @alighodsi on AI risk and adoption:\n\nAli isn't losing sleep over the existential risk debate.\n\nHe says a number of conditions would all have to be true simultaneously to enable an actual runaway takeoff scenario, and currently several opposite conditions exist.\n\nEach frontier training run requires significantly more resources. Power, GPUs, engineers - and some attempts fail, burning up huge piles of money with them. Until that reverses, he doesn't see the self-improving loop happening.\n\nCyber is what he's watching most closely and where he anticipates real impact. Most orgs are not equipped for the coming change in agentic capabilities. The time between a vulnerability being published and being weaponized has collapsed from years to hours.\n\nOn adoption, he believes most companies don't need a smarter model. The models are already smart enough. The gap is context they don't absorb - the things an employee who's worked at a company for five years learned by osmosis.\n\nIf the frontier stopped advancing today, he thinks it wouldn't meaningfully change the value most are extracting from AI anyway.\n\nIn conversation with a16z's Martin Casado and Sarah Wang:\n\n00:00 Intro\n00:48 Why Ali places the AI risk near zero\n05:05 The word \"pacing\" was a mistake\n10:50 What 10k agents and $100m can do\n12:20 What would change his mind on AI risk\n14:20 More GPUs, more ways to fail\n18:05 US export controls on PlayStations\n20:10 The damage everyone expected by now\n24:30 Public vulnerabilities weaponized in hours\n30:15 Why labs can't grade each other\n37:15 Why most of RSI isn't actually RSI\n40:05 Why nobody really needs a smarter model\n41:50 The AI use cases nobody argues about\n47:30 Google Search solved this 25 years ago\n50:55 Nobody has privileged knowledge now\n55:10 Same model, new harness, 2x cost\n58:15 Open source: 5% of spend, 60% of tokens\n1:05:30 90% of new databases are created by agents\n\nYouTube: https://youtu.be/GzEtpAKYRvE\n\n@databricks @martin_casado @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2101336042712518878",
+    "time": "2026-09-19 23:42",
+    "created_at": "Sat Sep 19 15:42:08 +0000 2026",
+    "id_str": "2101336042712518878",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks' @alighodsi says \"Right now the existential risk is close to zero.\" Why he thinks the public doom talk is irresponsible:\n\n\"Leaders have responsibility to not freak people out unnecessarily unless there's really, really good reason.\"\n\n\"Talking about these kind of existential risks and scenarios where all of humanity's gonna be wiped out, I think is irresponsible. It can tip a lot of people over, and it can cause a lot of mental health issues.\"\n\n\"If there is an actual reason for it, that's a different story. But I think that right now the existential risk is close to zero. So why freak everybody out? It's not actually needed. There are risks. We'll get into it. That's probably where we disagree.\"\n\n\"First and foremost, I think leaders should not freak everyone out.\"\n\n\"If there's technical nuances in how we're doing AI research, researchers can discuss that. You don't need to every time go on TV and blast on Twitter to millions of people that 'I think there's like this 10% risk that all humanity is gonna be wiped out.'\"\n\n\"I think it causes a lot of harm for a lot of folks who get stressed out and actually are not in the nuances of all of this stuff and what it means.\"\n\n@alighodsi @sarahdingwang @martin_casado",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Databricks' @alighodsi on AI risk and adoption:\n\nAli isn't losing sleep over the existential risk debate.\n\nHe says a number of conditions would all have to be true simultaneously to enable an actual runaway takeoff scenario, and currently several opposite conditions exist.\n\nEach frontier training run requires significantly more resources. Power, GPUs, engineers - and some attempts fail, burning up huge piles of money with them. Until that reverses, he doesn't see the self-improving loop happening.\n\nCyber is what he's watching most closely and where he anticipates real impact. Most orgs are not equipped for the coming change in agentic capabilities. The time between a vulnerability being published and being weaponized has collapsed from years to hours.\n\nOn adoption, he believes most companies don't need a smarter model. The models are already smart enough. The gap is context they don't absorb - the things an employee who's worked at a company for five years learned by osmosis.\n\nIf the frontier stopped advancing today, he thinks it wouldn't meaningfully change the value most are extracting from AI anyway.\n\nIn conversation with a16z's Martin Casado and Sarah Wang:\n\n00:00 Intro\n00:48 Why Ali places the AI risk near zero\n05:05 The word \"pacing\" was a mistake\n10:50 What 10k agents and $100m can do\n12:20 What would change his mind on AI risk\n14:20 More GPUs, more ways to fail\n18:05 US export controls on PlayStations\n20:10 The damage everyone expected by now\n24:30 Public vulnerabilities weaponized in hours\n30:15 Why labs can't grade each other\n37:15 Why most of RSI isn't actually RSI\n40:05 Why nobody really needs a smarter model\n41:50 The AI use cases nobody argues about\n47:30 Google Search solved this 25 years ago\n50:55 Nobody has privileged knowledge now\n55:10 Same model, new harness, 2x cost\n58:15 Open source: 5% of spend, 60% of tokens\n1:05:30 90% of new databases are created by agents\n\nYouTube: https://youtu.be/GzEtpAKYRvE\n\n@databricks @martin_casado @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2101358771645849692",
+    "time": "2026-09-20 01:12",
+    "created_at": "Sat Sep 19 17:12:27 +0000 2026",
+    "id_str": "2101358771645849692",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "腾讯开源微信的端到端文档解析模型 WeVisDoc \n一张图片直接出 Markdown\n\nWeVisDoc，有 2B 和 4B 两个版本\n\n主要功能特点：\n\n整页图片直接转 Markdown：输入一张文档页面图，模型一次输出完整页面，不需要先把标题、正文、表格和公式分别裁出来。\n\n保留复杂文档结构：正文转成普通 Markdown，公式转成 LaTeX，表格转成 HTML，并按页面内容恢复阅读顺序。\n\n单模型完成解析：版面理解、文字识别、公式识别和表格重建都由同一个视觉语言模型完成，不需要另外部署版面检测器和 OCR 引擎。\n\n提供 2B 与 4B 两个版本：2B 更适合资源有限或清晰页面较多的场景；4B 在拍照、翻拍等退化页面上更有优势。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101324586633629846",
+    "time": "2026-09-19 22:56",
+    "created_at": "Sat Sep 19 14:56:36 +0000 2026",
+    "id_str": "2101324586633629846",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "4B 在端到端模型中整体领先，优势主要来自公式和表格解析；处理以文字为主的文档时，还应单独查看文字识别成绩。https://best.xiaohu.ai/article/wevisdoc/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101324591276900354",
+    "time": "2026-09-19 22:56",
+    "created_at": "Sat Sep 19 14:56:37 +0000 2026",
+    "id_str": "2101324591276900354",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "阿里发布 Qwen3.8-LiveTranslate实时语音翻译模型：\n一边听、一边译、一边说\n\n这次升级集中在四项能力：\n\n分清谁在说话：流式区分多位说话人，并让译文语音尽量保留各自音色；\n\n原文译文同步出现：同一条数据流同时返回源语言识别结果与目标语言译文，便于字幕核对与内容整理；\n\n用前文和画面消歧：结合长上下文与静态图像帧，处理指代、专名和同音词；\n\n减少流式等待：把音频和文字交替放进同一条处理流，复用已经听过的音频和已经生成的译文；在 FLEURS 测试中，译文平均落后原话的时间从上一代的 2.8 秒降到 2.3 秒。\n\n种支持与覆盖范围\n\n系统对不同语种提供三种能力：\n\n音频输入 · 60 种：可以把这些语言作为源语音送入模型；\n文字输出 · 60 种：可以返回这些目标语言的翻译文本；\n语音输出 · 29 种：只有这个子集可以进一步合成目标语言语音。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101339335564181619",
+    "time": "2026-09-19 23:55",
+    "created_at": "Sat Sep 19 15:55:13 +0000 2026",
+    "id_str": "2101339335564181619",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "当声音里出现同音词，仅靠前后文仍难以判断时，模型还可以参考摄像头画面。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101339340882534450",
+    "time": "2026-09-19 23:55",
+    "created_at": "Sat Sep 19 15:55:14 +0000 2026",
+    "id_str": "2101339340882534450",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Qwen3.8-LiveTranslate 改用 Thinker–Talker 双模块。\n\n底层的 Hybrid MoE 是一种“按任务选择部分专家模块参与计算”的架构；Interleave 则表示音频、原文和译文不再分批排队处理，而是按时间顺序交替进入同一条处理流。\n\n详细内容：https://best.xiaohu.ai/article/qwen3-8-livetranslate/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101339342883156434",
+    "time": "2026-09-19 23:55",
+    "created_at": "Sat Sep 19 15:55:14 +0000 2026",
+    "id_str": "2101339342883156434",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love all your experiments with this prompt",
+    "quoted_tweet": {
+      "author": "Roadtrip Couple",
+      "username": "RoadtripC",
+      "text": "@icreatelife Nice prompt. This pic we took in Japan."
+    },
+    "url": "https://x.com/icreatelife/status/2101326351890325844",
+    "time": "2026-09-19 23:03",
+    "created_at": "Sat Sep 19 15:03:37 +0000 2026",
+    "id_str": "2101326351890325844",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Let me know if anyone needs an invite! 🥹 I have few left",
+    "quoted_tweet": {
+      "author": "Muse",
+      "username": "Muse",
+      "text": "Introduce your Muse👇"
+    },
+    "url": "https://x.com/icreatelife/status/2101333536602993092",
+    "time": "2026-09-19 23:32",
+    "created_at": "Sat Sep 19 15:32:10 +0000 2026",
+    "id_str": "2101333536602993092",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I want one ✋",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2101334548025839715",
+    "time": "2026-09-19 23:36",
+    "created_at": "Sat Sep 19 15:36:11 +0000 2026",
+    "id_str": "2101334548025839715",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone I'll send you one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101334819267334216",
+    "time": "2026-09-19 23:37",
+    "created_at": "Sat Sep 19 15:37:16 +0000 2026",
+    "id_str": "2101334819267334216",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I need",
+    "quoted_tweet": null,
+    "url": "https://x.com/oneonelabs/status/2101336196484112442",
+    "time": "2026-09-19 23:42",
+    "created_at": "Sat Sep 19 15:42:44 +0000 2026",
+    "id_str": "2101336196484112442",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "President Trump is considering a new name for AI.",
+    "quoted_tweet": null,
+    "url": "https://x.com/AndrewCurran_/status/2101336562420289666",
+    "time": "2026-09-19 23:44",
+    "created_at": "Sat Sep 19 15:44:12 +0000 2026",
+    "id_str": "2101336562420289666",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Could use one. Thanks!",
+    "quoted_tweet": null,
+    "url": "https://x.com/genesigalov/status/2101338010776138209",
+    "time": "2026-09-19 23:49",
+    "created_at": "Sat Sep 19 15:49:57 +0000 2026",
+    "id_str": "2101338010776138209",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@genesigalov Sent!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101340355308163473",
+    "time": "2026-09-19 23:59",
+    "created_at": "Sat Sep 19 15:59:16 +0000 2026",
+    "id_str": "2101340355308163473",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@oneonelabs Send you one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101340423570493935",
+    "time": "2026-09-19 23:59",
+    "created_at": "Sat Sep 19 15:59:32 +0000 2026",
+    "id_str": "2101340423570493935",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife If you still have one to spare I will like one Kris! thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2101340765175619870",
+    "time": "2026-09-20 00:00",
+    "created_at": "Sat Sep 19 16:00:54 +0000 2026",
+    "id_str": "2101340765175619870",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Kris Kashtanova #PromptShare\n\nHer prompt is in her OP.\nI used an AI rendered version of myself as a reference image.\nI'll grudgingly admit it's cute.  lol\nThanks, Kris! This actually made the morning a bit brighter for me!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Start your weekend with something cute and mood boosting. Here’s a prompt for you to play with 🥹🫶\n\nprompt: bioluminescent cute [ANIMAL], kawaii, chibi, [COLOR] neon backlit, 3d cartoon, big cute bright eyes, high definition\n\nI would love to see your cute creatures!"
+    },
+    "url": "https://x.com/CosmicCowboyCDN/status/2101341285194125322",
+    "time": "2026-09-20 00:02",
+    "created_at": "Sat Sep 19 16:02:58 +0000 2026",
+    "id_str": "2101341285194125322",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CosmicCowboyCDN Cute!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101341614077522176",
+    "time": "2026-09-20 00:04",
+    "created_at": "Sat Sep 19 16:04:16 +0000 2026",
+    "id_str": "2101341614077522176",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte Of course! Send you one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101341702887809100",
+    "time": "2026-09-20 00:04",
+    "created_at": "Sat Sep 19 16:04:37 +0000 2026",
+    "id_str": "2101341702887809100",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Fun prompt for you to play with this weekend - papercraft cube toy! Turn your pet or anything really into it. \n\nI’d love to see your experiments with it \n\nWorks best with GPT Image 2.5 \nI used Firefly Boards for mine \n\nprompt and more examples👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101353488408006830",
+    "time": "2026-09-20 00:51",
+    "created_at": "Sat Sep 19 16:51:27 +0000 2026",
+    "id_str": "2101353488408006830",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt: Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.\n\nTransform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.\n\nThe printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.\n\nInclude:\n\ncube-shaped head with my pet’s real face on it\n\ncube-shaped body with realistic fur texture\n\nfour legs matching my pet’s appearance\n\nears with correct shape and inner ear details\n\ntail matching my pet’s size and color pattern\n\nStyle: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.\n\nDo not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101353512210710690",
+    "time": "2026-09-20 00:51",
+    "created_at": "Sat Sep 19 16:51:33 +0000 2026",
+    "id_str": "2101353512210710690",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Turn your pet into a paper box 😅\n\nLet’s have some fun \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101354068127993917",
+    "time": "2026-09-20 00:53",
+    "created_at": "Sat Sep 19 16:53:45 +0000 2026",
+    "id_str": "2101354068127993917",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt: Use my uploaded pet photo as the only source of the animal’s appearance. Create a realistic printable papercraft cube toy template of my pet, preserving 100% its identity and unique features: fur color, fur pattern, eyes, face shape, ears, body proportions, markings and expression.\n\nTransform my pet into a handmade paper craft 3D model (low-poly cube style) like a DIY papercraft template. Show the unfolded cut-out template pieces laid flat on a white background: head, body, legs, ears and tail separated, with folding lines, tabs and cutting edges clearly visible.\n\nThe printed texture on the paper pieces must use my pet’s real fur texture and colors, so when assembled it becomes a small cube-shaped 3D figure of my exact pet.\n\nInclude:\n\ncube-shaped head with my pet’s real face on it\n\ncube-shaped body with realistic fur texture\n\nfour legs matching my pet’s appearance\n\nears with correct shape and inner ear details\n\ntail matching my pet’s size and color pattern\n\nStyle: realistic papercraft template, high-quality product photography, clean white background, detailed printable craft design, sharp edges, realistic fur texture printed on paper.\n\nDo not change my pet’s appearance. Do not turn it into a different animal, cartoon, plush toy or generic cat/dog. It must look like my actual pet converted into a cube papercraft model",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101354152752255158",
+    "time": "2026-09-20 00:54",
+    "created_at": "Sat Sep 19 16:54:05 +0000 2026",
+    "id_str": "2101354152752255158",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I made one of Pablo  🐢",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your pet into a paper box 😅\n\nLet’s have some fun \n\nPrompt 👇"
+    },
+    "url": "https://x.com/icreatelife/status/2101354348026515470",
+    "time": "2026-09-20 00:54",
+    "created_at": "Sat Sep 19 16:54:52 +0000 2026",
+    "id_str": "2101354348026515470",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success Finally!!! 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101354821110419853",
+    "time": "2026-09-20 00:56",
+    "created_at": "Sat Sep 19 16:56:45 +0000 2026",
+    "id_str": "2101354821110419853",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AndrewCurran_ American Intelligence 🇺🇸😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101356344297099478",
+    "time": "2026-09-20 01:02",
+    "created_at": "Sat Sep 19 17:02:48 +0000 2026",
+    "id_str": "2101356344297099478",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Very fun Caturday prompt!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your pet into a paper box 😅\n\nLet’s have some fun \n\nPrompt 👇"
+    },
+    "url": "https://x.com/GlennHasABeard/status/2101362464390602826",
+    "time": "2026-09-20 01:27",
+    "created_at": "Sat Sep 19 17:27:07 +0000 2026",
+    "id_str": "2101362464390602826",
+    "is_retweet": true
   }
 ]
