@@ -97,5 +97,38 @@
     "created_at": "Sat Sep 19 22:01:26 +0000 2026",
     "id_str": "2101431497437950458",
     "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@zsakib_ @venturetwins I think the point is that @venturetwins had the real ratings on 100 books but hid them from both models, then tested how accurate each one correctly guessed which ones had 5 stars.\nAnecdotal, but with 100 data points still.",
+    "quoted_tweet": null,
+    "url": "https://x.com/webhanspeter/status/2101427144391802996",
+    "time": "2026-09-20 05:44",
+    "created_at": "Sat Sep 19 21:44:08 +0000 2026",
+    "id_str": "2101427144391802996",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@webhanspeter @zsakib_ Yes! I probably could’ve articulated it better 😅\n\nIt was slightly better than GPT at guessing if a book was going to be 5 stars or not, they were both around 75-80%",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2101429502010437744",
+    "time": "2026-09-20 05:53",
+    "created_at": "Sat Sep 19 21:53:30 +0000 2026",
+    "id_str": "2101429502010437744",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@icouldbeahacker lol yes another objective of the model could be just optimize for ensuring a “hated it so much I didn’t finish it” book never gets recommended",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2101429907243114935",
+    "time": "2026-09-20 05:55",
+    "created_at": "Sat Sep 19 21:55:07 +0000 2026",
+    "id_str": "2101429907243114935",
+    "is_retweet": false
   }
 ]
