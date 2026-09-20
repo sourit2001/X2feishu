@@ -363,5 +363,75 @@
     "created_at": "Sun Sep 20 18:05:06 +0000 2026",
     "id_str": "2101734410009624609",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I should’ve left it 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/rickygervais/status/2101712637444706684",
+    "time": "2026-09-21 00:38",
+    "created_at": "Sun Sep 20 16:38:35 +0000 2026",
+    "id_str": "2101712637444706684",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Boring Company is working on a simple, precursor Hyperloop tunnel between Austin and San Antonio (>200 mph). \n\nDue to traffic congestion, that journey can currently take up to 2.5 hours. @BoringCompany can reduce that to a consistent <30 mins.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101732496396439751",
+    "time": "2026-09-21 01:57",
+    "created_at": "Sun Sep 20 17:57:30 +0000 2026",
+    "id_str": "2101732496396439751",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "TBC would be excited and honored to build this massive infrastructure project. \n\nBecause Loop/Hyperloop is express (i.e. no intermediate stops), one could travel from an Austin parking lot to a favorite San Antonio restaurant in ~30 min.  As long as they both have Loop stations!",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Boring Company is working on a simple, precursor Hyperloop tunnel between Austin and San Antonio (>200 mph). \n\nDue to traffic congestion, that journey can currently take up to 2.5 hours. @BoringCompany can reduce that to a consistent <30 mins."
+    },
+    "url": "https://x.com/boringcompany/status/2101743162838647183",
+    "time": "2026-09-21 02:39",
+    "created_at": "Sun Sep 20 18:39:53 +0000 2026",
+    "id_str": "2101743162838647183",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@rickygervais 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101755223400407355",
+    "time": "2026-09-21 03:27",
+    "created_at": "Sun Sep 20 19:27:48 +0000 2026",
+    "id_str": "2101755223400407355",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Yeah, it’s Slack.\nAnd custom dashboards.",
+    "quoted_tweet": null,
+    "url": "https://x.com/_justcarlson/status/2101719050418012406",
+    "time": "2026-09-21 01:04",
+    "created_at": "Sun Sep 20 17:04:04 +0000 2026",
+    "id_str": "2101719050418012406",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@_justcarlson nooooooooooo",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101721859767124088",
+    "time": "2026-09-21 01:15",
+    "created_at": "Sun Sep 20 17:15:14 +0000 2026",
+    "id_str": "2101721859767124088",
+    "is_retweet": false
   }
 ]
