@@ -46,5 +46,90 @@
     "created_at": "Sun Sep 20 04:39:12 +0000 2026",
     "id_str": "2101531597820596462",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Fairing separation confirmed. Today’s mission marks our first 40th flight of a fairing half!",
+    "quoted_tweet": null,
+    "url": "https://x.com/SpaceX/status/2101489521615385011",
+    "time": "2026-09-20 09:52",
+    "created_at": "Sun Sep 20 01:52:00 +0000 2026",
+    "id_str": "2101489521615385011",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Not many people know that Elon Musk started The Boring Company as a joke.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2101490987617206357",
+    "time": "2026-09-20 09:57",
+    "created_at": "Sun Sep 20 01:57:49 +0000 2026",
+    "id_str": "2101490987617206357",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Deployment of 27 @Starlink satellites confirmed",
+    "quoted_tweet": null,
+    "url": "https://x.com/SpaceX/status/2101504221266792661",
+    "time": "2026-09-20 10:50",
+    "created_at": "Sun Sep 20 02:50:25 +0000 2026",
+    "id_str": "2101504221266792661",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla has a Semi 😂",
+    "quoted_tweet": {
+      "author": "Tesla Semi",
+      "username": "tesla_semi",
+      "text": "Top Gear tours factory & rides in production Semi w/ @danWpriestley \n \n\"Maybe the most significant Tesla since the Model 3\"\n \nAt 1.7 kWh/mi, Semi is using only ~7× as much energy as a Model Y, at ~20× the weight. \n\nA comparable diesel is using ~3× as much as Semi\n\nhttps://youtu.be/0WP9HizHCrk?si=g8v8DcY1SBxGUILN"
+    },
+    "url": "https://x.com/elonmusk/status/2101538675284676696",
+    "time": "2026-09-20 13:07",
+    "created_at": "Sun Sep 20 05:07:19 +0000 2026",
+    "id_str": "2101538675284676696",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I used to think iMessage would be the winning form factor for personal agents. Boy was I wrong.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101547282424308158",
+    "time": "2026-09-20 13:41",
+    "created_at": "Sun Sep 20 05:41:31 +0000 2026",
+    "id_str": "2101547282424308158",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "分享大模型记忆相关 awesome 。\n\nhttps://github.com/XiaomingX/awesome-ai-memory",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2101528134688575658",
+    "time": "2026-09-20 12:25",
+    "created_at": "Sun Sep 20 04:25:26 +0000 2026",
+    "id_str": "2101528134688575658",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "#TRXS is on @WebullGlobal",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": "The Canary Staked TRX ETF is live on @WebullGlobal.\n\nExpanding exposure to TRX through traditional financial markets.\n\nFor $TRXS details, please see: https://canaryetfs.com/trxs/"
+    },
+    "url": "https://x.com/justinsuntron/status/2101536599163216022",
+    "time": "2026-09-20 12:59",
+    "created_at": "Sun Sep 20 04:59:04 +0000 2026",
+    "id_str": "2101536599163216022",
+    "is_retweet": false
   }
 ]
