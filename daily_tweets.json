@@ -1,1 +1,109 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I only get 50 comments. \n\nFeels bad anon",
+    "quoted_tweet": {
+      "author": "Serenity",
+      "username": "aleabitoreddit",
+      "text": "我有点想在中国的社交平台上开个账号玩玩\n\n就玩一小段时间，跟用不了 X 的粉丝们互动一下\n\n大家推荐去哪个平台发帖？"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2101730902615486643",
+    "time": "2026-09-21 01:51",
+    "created_at": "Sun Sep 20 17:51:10 +0000 2026",
+    "id_str": "2101730902615486643",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Too late, done before. As seen on @drfeifei. The #CVPR 2019 crowd remembers 😝\n\n https://x.com/drfeifei/status/1141789323332710400?s=46",
+    "quoted_tweet": {
+      "author": "Gil",
+      "username": "RFishBlueFish",
+      "text": "Anthropic, also called \"Crazy rich Bayesians\""
+    },
+    "url": "https://x.com/mariyaivasileva/status/2101542752219771311",
+    "time": "2026-09-20 13:23",
+    "created_at": "Sun Sep 20 05:23:31 +0000 2026",
+    "id_str": "2101542752219771311",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@mariyaivasileva @CVPR @scale_AI 🤭",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2101691855033561485",
+    "time": "2026-09-20 23:16",
+    "created_at": "Sun Sep 20 15:16:00 +0000 2026",
+    "id_str": "2101691855033561485",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Claude not having an image generator is a gap in agentic projects that involve knowledge work. It is quite good at using code to draw or model objects, but image generators from Google and OpenAI give their AIs many more option for doing PowerPoints, mockups, infographics, etc.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101683717571784879",
+    "time": "2026-09-20 22:43",
+    "created_at": "Sun Sep 20 14:43:40 +0000 2026",
+    "id_str": "2101683717571784879",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Yes, you can make up some of the difference by giving Claude API access but (1) most people will never do this, (2) it means additional expense or difficulty, and (3) the real gain isn't from image generators alone, but from Omni models, and Claude has the least multimodal out.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101723182134616185",
+    "time": "2026-09-21 01:20",
+    "created_at": "Sun Sep 20 17:20:29 +0000 2026",
+    "id_str": "2101723182134616185",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is ironic that the thing that is now most annoying about long-running agentic tasks with Large Language Models isn't coding or errors or hallucinations, but the fact that their language gets worse due to drift as a task goes on\n\nIts in your the name! Just write better already!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2101731295659180527",
+    "time": "2026-09-21 01:52",
+    "created_at": "Sun Sep 20 17:52:43 +0000 2026",
+    "id_str": "2101731295659180527",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Not sure where Jev fits in your project?\n\n1 command and 1 prompt find the spots for you:",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101684061190447315",
+    "time": "2026-09-20 22:45",
+    "created_at": "Sun Sep 20 14:45:02 +0000 2026",
+    "id_str": "2101684061190447315",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This prompt isn't tied to 1 agent, and neither is the library. Every prompt in it runs in whatever model you already pay for:\n\nhttps://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101684097152356702",
+    "time": "2026-09-20 22:45",
+    "created_at": "Sun Sep 20 14:45:10 +0000 2026",
+    "id_str": "2101684097152356702",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The rest of the library is at https://godofprompt.ai\n\nFollow if you'd rather audit your project once than pay frontier prices on every call.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2101684108942585918",
+    "time": "2026-09-20 22:45",
+    "created_at": "Sun Sep 20 14:45:13 +0000 2026",
+    "id_str": "2101684108942585918",
+    "is_retweet": false
+  }
+]
