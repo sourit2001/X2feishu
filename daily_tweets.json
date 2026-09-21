@@ -1,1 +1,576 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。\n\nJEV 能这么火，一方面是确实解决了某些问题；另一个核心原因在于它的速度优势非常易于传播。\n\n速度和数量它都占了。你会发现那些网页里演示 JEV 的案例，都会展示它的速度以及处理的数量，这最能给人原始刺激，也说明大家确实对这两点非常重视，所以各种 Demo 和案例就疯狂传播。\n\n当然这个模型也不是万能的。如果硬要让它脱离大语言模型只靠自己工作，应用场景其实比较有限；但如果加上大模型辅助或其他工具，效果会非常好。\n\n同时它现在还缺一个多模态，如果有了多模态，尤其在素材整理分类或长内容生产上，体验会非常爽。\n\n刚好昨天他们宣布向所有人开放，不再需要 waitlist 了，每个用户有 5 美元的免费额度。\n\n这个模型非常省钱，输入只要 0.042 美元，输出免费，所以 5 美元能用非常非常久。\n\n刚好我们上周的 Next Token 也更新了，主要讨论了：\n\nJEV 模型及衍生问题：比如大家一天就能训出类似模型，像 GPT-6、Fable 这种在模型训练上已经非常专业，这里有很大的小模型训练套利空间。\n小模型与大模型的协作问题。\n\n交互界面的演变：现在聊天、浏览器、任务列表都在同一个软件里。包括 Codex 最近更新了浏览器插件，本身也支持多账号（比如 Notion 的 MCP 可以登录多个账号并拉取信息），很多时候它已经在替代我们的系统界面了。这种新的交互可能在潜移默化中就完成了对用户的教育。\n\n昨天我也用 JEV 做了一个实时 3D 场景生成的案例，喜欢的人还挺多。节目里把这些和其他一些新闻基本都讨论到了，也聊了聊我、乔木、杨攀和橘子几个人的看法，欢迎大家去听听",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2101870777465557020",
+    "time": "2026-09-21 11:06",
+    "created_at": "Mon Sep 21 03:06:58 +0000 2026",
+    "id_str": "2101870777465557020",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "先更新了音频：https://www.xiaoyuzhoufm.com/episode/6ab0646bac389df82734ef3f",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2101870845216141351",
+    "time": "2026-09-21 11:07",
+    "created_at": "Mon Sep 21 03:07:15 +0000 2026",
+    "id_str": "2101870845216141351",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我的 JEV 案例：https://x.com/op7418/status/2101536330018918793?s=20",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "我用 @typesafeai  JEV 模型做了一个实时 3D 场景生成器。\n\n这个速度实在太夸张了！\n\n从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。\n\n同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。"
+    },
+    "url": "https://x.com/op7418/status/2101871633556525274",
+    "time": "2026-09-21 11:10",
+    "created_at": "Mon Sep 21 03:10:22 +0000 2026",
+    "id_str": "2101871633556525274",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "现在，TypeSafe 的 JEV 模型已经全量开放了，不需要申请等待列表。\n\n而且每个人有 5 美元的免费额度，这模型非常便宜，5 美元够你用好久了！可以去试试我这个案例了",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "我用 @typesafeai  JEV 模型做了一个实时 3D 场景生成器。\n\n这个速度实在太夸张了！\n\n从预制的几十上百种 3D 模型里，根据输入的文案，进行并发几百次的判断。\n\n同时对这些素材的着色、光照、位置以及状态进行处理，一秒完成符合要求的室内场景搭建。"
+    },
+    "url": "https://x.com/op7418/status/2101874580432552170",
+    "time": "2026-09-21 11:22",
+    "created_at": "Mon Sep 21 03:22:05 +0000 2026",
+    "id_str": "2101874580432552170",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "来源：https://x.com/typesafeai/status/2101786156572823624?s=20",
+    "quoted_tweet": {
+      "author": "TypeSafe AI",
+      "username": "typesafeai",
+      "text": "Jev is now available to everyone. No waitlist.\nStart using it here: https://console.typesafe.ai"
+    },
+    "url": "https://x.com/op7418/status/2101874659893625068",
+    "time": "2026-09-21 11:22",
+    "created_at": "Mon Sep 21 03:22:24 +0000 2026",
+    "id_str": "2101874659893625068",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "5 美元有效期 30 天",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2101889116514509046",
+    "time": "2026-09-21 12:19",
+    "created_at": "Mon Sep 21 04:19:51 +0000 2026",
+    "id_str": "2101889116514509046",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这个东西用seedance视频生成模型来做更好吧😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/forever7943/status/2101841471674704011",
+    "time": "2026-09-21 09:10",
+    "created_at": "Mon Sep 21 01:10:31 +0000 2026",
+    "id_str": "2101841471674704011",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 请教一下，所以这种实际上AI他是用了three.js来做么？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Hamburgerai/status/2101842895993278617",
+    "time": "2026-09-21 09:16",
+    "created_at": "Mon Sep 21 01:16:11 +0000 2026",
+    "id_str": "2101842895993278617",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Hamburgerai 是的，是3D模型",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101848386257277120",
+    "time": "2026-09-21 09:38",
+    "created_at": "Mon Sep 21 01:38:00 +0000 2026",
+    "id_str": "2101848386257277120",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@forever7943 不一样的东西呀，see dance 是视频，它是不能交互的，这是 3D 网页，可以交互的：缩放、拖动",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101848630806143408",
+    "time": "2026-09-21 09:38",
+    "created_at": "Mon Sep 21 01:38:58 +0000 2026",
+    "id_str": "2101848630806143408",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "非常赞同\nAstra在threejs / blender上更强\n和内容结合起来的玩法更多样\n核心还是让更多人看到一种新模式比较关键\n\n毕竟新东西都是需要碰撞出来的\n专业的人士看到想法就能联想构建更好的作品\n这是分享的意义\n\n至于说3D设计审美，可能是宝玉你的粉丝都太专业了，对你的期望要求有时候有些苛刻了\n\n人只要一直在分享，多少都会出现一些不符合期待的时候，保持初心👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/yangyi/status/2101873144093131033",
+    "time": "2026-09-21 11:16",
+    "created_at": "Mon Sep 21 03:16:23 +0000 2026",
+    "id_str": "2101873144093131033",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "牛来版《核舟记》即将发布\n\n王叔远桃核刻舟\n\n魏学洢 〔明代〕\n\n　　明有奇巧人曰王叔远，能以径寸之木，为宫室、器皿、人物，以至鸟兽、木石，罔不因势象形，各具情态。尝贻余核舟一，盖大苏泛赤壁云。\n\n　　舟首尾长约八分有奇，高可二黍许。中轩敞者为舱，箬篷覆之。旁开小窗，左右各四，共八扇。启窗而观，雕栏相望焉。闭之，则右刻“山高月小，水落石出”，左刻“清风徐来，水波不兴”，石青糁之。(箬篷 一作：篛篷)\n\n　　船头坐三人，中峨冠而多髯者为东坡，佛印居右，鲁直居左。苏、黄共阅一手卷。东坡右手执卷端，左手抚鲁直背。鲁直左手执卷末，右手指卷，如有所语。东坡现右足，鲁直现左足，各微侧，其两膝相比者，各隐卷底衣褶中。佛印绝类弥勒，袒胸露乳，矫首昂视，神情与苏、黄不属。卧右膝，诎右臂支船，而竖其左膝，左臂挂念珠倚之——珠可历历数也。\n\n　　舟尾横卧一楫。楫左右舟子各一人。居右者椎髻仰面，左手倚一衡木，右手攀右趾，若啸呼状。居左者右手执蒲葵扇，左手抚炉，炉上有壶，其人视端容寂，若听茶声然。\n\n　　其船背稍夷，则题名其上，文曰“天启壬戌秋日，虞山王毅叔远甫刻”，细若蚊足，钩画了了，其色墨。又用篆章一，文曰“初平山人”，其色丹。\n\n　　通计一舟，为人五；为窗八；为箬篷，为楫，为炉，为壶，为手卷，为念珠各一；对联、题名并篆文，为字共三十有四。而计其长曾不盈寸。盖简桃核修狭者为之。嘻，技亦灵怪矣哉！",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "这条桃花源很多人说不好看，说我水平不行，做了个“牛来”版桃花源。\n\n我 3D 水平确实不行，我也没吹过我多牛逼，重点还是分享提示词和制作方法，这样也算抛砖引玉，能衍生出更好的作品。\n\nGPT 6 Astra 做 3D 还是厉害的，能用一条 Prompt one-shot 做出这样一个完整的 3D 可交互网页已经相当牛逼了。想象一下如果用 three.js 手搓一个 这样的网页得多长时间。\n\n我视频录的不好也是问题，但如果你打开网页自己试试应该感觉会不一样：https://s.baoyu.io/files/peach-blossom-land-v2/index.html\n\n如果你关心提示词和制作方法，也都分享了：https://x.com/dotey/status/2101532453215035802"
+    },
+    "url": "https://x.com/dotey/status/2101874249828904969",
+    "time": "2026-09-21 11:20",
+    "created_at": "Mon Sep 21 03:20:46 +0000 2026",
+    "id_str": "2101874249828904969",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yangyi 😂 是我没描述清楚，很多人以为我在做视频",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101874988072554593",
+    "time": "2026-09-21 11:23",
+    "created_at": "Mon Sep 21 03:23:42 +0000 2026",
+    "id_str": "2101874988072554593",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这个核雕的，好像刚刚好，我让GPT6 Pro雕点别的看看",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2101876482163507243",
+    "time": "2026-09-21 11:29",
+    "created_at": "Mon Sep 21 03:29:38 +0000 2026",
+    "id_str": "2101876482163507243",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 嘿嘿，让我抢先了一步",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101876987811815783",
+    "time": "2026-09-21 11:31",
+    "created_at": "Mon Sep 21 03:31:39 +0000 2026",
+    "id_str": "2101876987811815783",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 「勇哥餐饮咨询」，存在的前提是勇哥不能亲自下场做餐饮。不然水平一暴露，就没人咨询了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Neil_vivi/status/2101883658537972061",
+    "time": "2026-09-21 11:58",
+    "created_at": "Mon Sep 21 03:58:09 +0000 2026",
+    "id_str": "2101883658537972061",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Neil_vivi 那你点评下我这个提示词写的如何？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101885739424223636",
+    "time": "2026-09-21 12:06",
+    "created_at": "Mon Sep 21 04:06:26 +0000 2026",
+    "id_str": "2101885739424223636",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "在线访问：https://s.baoyu.io/files/the-peach-stone-boat/index.html\n建议点击右下角“循文入境”\n\n朗读音频由许拙原创",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101887749154287808",
+    "time": "2026-09-21 12:14",
+    "created_at": "Mon Sep 21 04:14:25 +0000 2026",
+    "id_str": "2101887749154287808",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Compute Use 在 E2E 测试中很好的应用案例👍",
+    "quoted_tweet": {
+      "author": "Tw93",
+      "username": "HiTw93",
+      "text": "这段时间我在做一个“蠢事情”，或者也是 AI 时代工程师非常不愿意做的事情，非常重复的事。\n\n为了让 Mole 的卸载软件更加彻底，清理残余的能力更加厉害，我整理了国内外 300 多款 Mac 软件，下载下来差不多 100 多个 G，分成 30 组，让我的最强 Extra High Fast 模型每次 10 个借助 computer use 的能力去对应官网下载，然后依次安装到我的电脑，检查目录、检查软件更新 bundle、检查自启动、卸载、查找剩余残留、补充缺失的规则。\n\n这个过程看着非常无聊，甚至每次安装软件过程中，也会碰到不少麻烦的软件，疯狂弹窗要权限，诱导你去购买，包括有些使用必须输入管理密码等，Agent 大部分能自己做了，少部分我帮一手，让我非常惊喜的地方是甚至 AI 还基于此写了自动化安装、卸载、检查残余的脚本让自己工作更轻松，也是很聪明的，哈哈我就只能成为给他打打下手。\n\n虽然无聊，但是其实对于产品本身的功能，对用户使用最爽而言收益是非常大的，当时我想着最多搞 100 个主流软件来测试卸载能力以及补充没有卸载的残余到 Mole 规则里面去，结果想着要不再搞 100 个，到 200 个的时候，想着再搞100 个，就到了现在 300 多个了，这或许可以回答 Mole 相比于其他的清理卸载软件的优势是什么，应该就是可以非常细的帮你清理掉很多你找不到的垃圾，以及会卸载得更加干净，却更安全的缘故，这样看就挺有意思的。\n\n经过这个过程，帮我补充了 13 类可以复用的通用规则、90 多条精确的清理路径，也顺手改掉了 30 多个原本以为要清、其实不该动的地方，同步对软件的更新检查、自启动检查的规则有了很充足的补充，甚至还为这些补了 100 多条单元测试。这也是基于 AI 理论知识、工程知识肯定不能补充上的点，因为他实际去做了这些事情，还好有AI，不然我手工应该要多花 10 倍的时间来做这个事情，也帮忙填了一些之前的坑，很有帮助。\n\n也改变了我的一些固有观点，本来以为软件工程应该规范的、有秩序的，比如说我跑了100个软件后，应该后面没啥啥可以补充的规则了，因为按理主流软件的开发规范、技术底层完全可以枚举出来，结果越往后走，你会发现，完全不是这样，通用规则怎么写都找不见的那种非常多，甚至还 有bundle id 干脆就不是反向域名也有，看着很规范的约定，可能是当年某个程序员随手写的，没有任何理论可以解释出来，只能装一个查一个。\n\n以后应该会继续做到400、500、600、甚至把市场上常用的软件全部经过 Mole 来测试一遍，补充上很多非规范软件开发下的细节规范，或许正是这些“蠢事情” 可以让 Mole 成为全球最好用的 Mac 系统清理优化工具。"
+    },
+    "url": "https://x.com/dotey/status/2101897670738493590",
+    "time": "2026-09-21 12:53",
+    "created_at": "Mon Sep 21 04:53:50 +0000 2026",
+    "id_str": "2101897670738493590",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 让它做了个V8发动机…",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2101899760257106318",
+    "time": "2026-09-21 13:02",
+    "created_at": "Mon Sep 21 05:02:08 +0000 2026",
+    "id_str": "2101899760257106318",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 哈哈，还有很大进步空间",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101903863204765928",
+    "time": "2026-09-21 13:18",
+    "created_at": "Mon Sep 21 05:18:27 +0000 2026",
+    "id_str": "2101903863204765928",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 感觉 GPT-6 Astra 应该不止这个水平",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101903965264744768",
+    "time": "2026-09-21 13:18",
+    "created_at": "Mon Sep 21 05:18:51 +0000 2026",
+    "id_str": "2101903965264744768",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "一条命令把 localhost 上的本地服务变成公网可访问地址：\nCloudflare 发布 Quick Tunnels\n\n无需注册 Cloudflare 账号，无需购买或托管域名，也无需在路由器上开放任何入站端口\n\n只要本地安装命令行工具并执行一行命令，就能立即为本地服务生成一个具备全球 HTTPS 加密访问能力的公网网址。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101877033517379832",
+    "time": "2026-09-21 11:31",
+    "created_at": "Mon Sep 21 03:31:50 +0000 2026",
+    "id_str": "2101877033517379832",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Quick Tunnels 的底层依托于 Cloudflare 的轻量级守护进程 cloudflared。它能绕开路由器配置的核心原因，在于其采用了只出不进的反向隧道架构。\n\n日常访问网站时，外部请求主动打向你的路由器 IP，这属于“入站流量”，路由器必须开放对应端口才能放行。但在 Quick Tunnels ，数据流向完全倒了过来 https://best.xiaohu.ai/article/cloudflare-quick-tunnels/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101877036348535206",
+    "time": "2026-09-21 11:31",
+    "created_at": "Mon Sep 21 03:31:51 +0000 2026",
+    "id_str": "2101877036348535206",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 这个生成的网址国内可以直接访问吗？不翻墙的话",
+    "quoted_tweet": null,
+    "url": "https://x.com/Chat24954Lip/status/2101877799103729865",
+    "time": "2026-09-21 11:34",
+    "created_at": "Mon Sep 21 03:34:52 +0000 2026",
+    "id_str": "2101877799103729865",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Chat24954Lip 临时的似乎能",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101881347983962490",
+    "time": "2026-09-21 11:48",
+    "created_at": "Mon Sep 21 03:48:59 +0000 2026",
+    "id_str": "2101881347983962490",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "我说咋没了😞",
+    "quoted_tweet": {
+      "author": "孔义兴",
+      "username": "KyxBtc",
+      "text": "告诉大家一个好消息——黄推基本被官方封完了，至少被清扫90%\n\n一定别怀疑算法的进化能力，大家注意"
+    },
+    "url": "https://x.com/xiaohu/status/2101882885892644894",
+    "time": "2026-09-21 11:55",
+    "created_at": "Mon Sep 21 03:55:05 +0000 2026",
+    "id_str": "2101882885892644894",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@allegrajacchia I already have a job but this is amazing. Sharing with my community here",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101838250386092513",
+    "time": "2026-09-21 08:57",
+    "created_at": "Mon Sep 21 00:57:43 +0000 2026",
+    "id_str": "2101838250386092513",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It's never been easier to go viral on 𝕏.\nSay something good about AI and watch it unfold.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101839589967011981",
+    "time": "2026-09-21 09:03",
+    "created_at": "Mon Sep 21 01:03:03 +0000 2026",
+    "id_str": "2101839589967011981",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Weeping_death @icreatelife Yeah, it failed at legs and arms but I don't want to pay an AI $100 a month to get it fixed.",
+    "quoted_tweet": null,
+    "url": "https://x.com/hellonearthis/status/2101840092721717660",
+    "time": "2026-09-21 09:05",
+    "created_at": "Mon Sep 21 01:05:03 +0000 2026",
+    "id_str": "2101840092721717660",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Weeping_death @icreatelife Oh totally, cutting out the elements would be a lot easier for the ai than doing it all in a single shot.",
+    "quoted_tweet": null,
+    "url": "https://x.com/hellonearthis/status/2101840714179236190",
+    "time": "2026-09-21 09:07",
+    "created_at": "Mon Sep 21 01:07:31 +0000 2026",
+    "id_str": "2101840714179236190",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Who else remembers using  Automatic1111 and Stable Diffusion?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101840749037756462",
+    "time": "2026-09-21 09:07",
+    "created_at": "Mon Sep 21 01:07:39 +0000 2026",
+    "id_str": "2101840749037756462",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@hellonearthis @Weeping_death Happy to do it for you if you send me a DM with a reference you got",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101840913412636694",
+    "time": "2026-09-21 09:08",
+    "created_at": "Mon Sep 21 01:08:18 +0000 2026",
+    "id_str": "2101840913412636694",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@hellonearthis @Weeping_death Actually I pay $20 per month and it has Astra in it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101841016152051772",
+    "time": "2026-09-21 09:08",
+    "created_at": "Mon Sep 21 01:08:43 +0000 2026",
+    "id_str": "2101841016152051772",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Name one AI tool you use the most.\nI’ll go first: Hermes Agent.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ai_for_success/status/2101856226187542624",
+    "time": "2026-09-21 10:09",
+    "created_at": "Mon Sep 21 02:09:09 +0000 2026",
+    "id_str": "2101856226187542624",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife A real Highland cow snapped by me on my phone 🫡",
+    "quoted_tweet": null,
+    "url": "https://x.com/StevieMac03/status/2101856333502804006",
+    "time": "2026-09-21 10:09",
+    "created_at": "Mon Sep 21 02:09:35 +0000 2026",
+    "id_str": "2101856333502804006",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife The old days！I still remember your copyright battles.",
+    "quoted_tweet": null,
+    "url": "https://x.com/CoffeeVectors/status/2101856961037746191",
+    "time": "2026-09-21 10:12",
+    "created_at": "Mon Sep 21 02:12:04 +0000 2026",
+    "id_str": "2101856961037746191",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CoffeeVectors Feels like another life!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101862710329606290",
+    "time": "2026-09-21 10:34",
+    "created_at": "Mon Sep 21 02:34:55 +0000 2026",
+    "id_str": "2101862710329606290",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@StevieMac03 Here’s one I filmed few weeks ago in Norway! They are so cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101862934183825779",
+    "time": "2026-09-21 10:35",
+    "created_at": "Mon Sep 21 02:35:48 +0000 2026",
+    "id_str": "2101862934183825779",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I still have my Automatic1111 output folders. I'm giving a talk about AI in November and will be pulling out some of the old images as a demonstrate the imense changes over the years.",
+    "quoted_tweet": null,
+    "url": "https://x.com/_opticnerd_/status/2101863012101693573",
+    "time": "2026-09-21 10:36",
+    "created_at": "Mon Sep 21 02:36:07 +0000 2026",
+    "id_str": "2101863012101693573",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success Claude, Seedance 2.5, Astra",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101870928070119544",
+    "time": "2026-09-21 11:07",
+    "created_at": "Mon Sep 21 03:07:34 +0000 2026",
+    "id_str": "2101870928070119544",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It wasn't long ago. Yet it feels like decades.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thedeeno/status/2101872305584377911",
+    "time": "2026-09-21 11:13",
+    "created_at": "Mon Sep 21 03:13:03 +0000 2026",
+    "id_str": "2101872305584377911",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@thedeeno I feel the same way",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101872959417618790",
+    "time": "2026-09-21 11:15",
+    "created_at": "Mon Sep 21 03:15:39 +0000 2026",
+    "id_str": "2101872959417618790",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I still add 'Greg Rutkowski' to my GPT 2.5 image prompts today every once in a while just to see.🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/ImitationFilms/status/2101877630337511688",
+    "time": "2026-09-21 11:34",
+    "created_at": "Mon Sep 21 03:34:12 +0000 2026",
+    "id_str": "2101877630337511688",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ImitationFilms I forgot that name 😭😭😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101877919085650398",
+    "time": "2026-09-21 11:35",
+    "created_at": "Mon Sep 21 03:35:21 +0000 2026",
+    "id_str": "2101877919085650398",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@_opticnerd_ That’s a great idea! I may do the same",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101880438734090360",
+    "time": "2026-09-21 11:45",
+    "created_at": "Mon Sep 21 03:45:22 +0000 2026",
+    "id_str": "2101880438734090360",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Loab lived there.",
+    "quoted_tweet": null,
+    "url": "https://x.com/dang_machina/status/2101881989234331925",
+    "time": "2026-09-21 11:51",
+    "created_at": "Mon Sep 21 03:51:31 +0000 2026",
+    "id_str": "2101881989234331925",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dang_machina 😅😅😅 I won't sleep now! She's still there",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101882534543954204",
+    "time": "2026-09-21 11:53",
+    "created_at": "Mon Sep 21 03:53:41 +0000 2026",
+    "id_str": "2101882534543954204",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Google Colab was amazing! Sometimes I was like \"I don´t know what I am doing\" xD",
+    "quoted_tweet": null,
+    "url": "https://x.com/debichanchan/status/2101903582740271253",
+    "time": "2026-09-21 13:17",
+    "created_at": "Mon Sep 21 05:17:20 +0000 2026",
+    "id_str": "2101903582740271253",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@debichanchan Yes! Notebooks!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101904829870199168",
+    "time": "2026-09-21 13:22",
+    "created_at": "Mon Sep 21 05:22:17 +0000 2026",
+    "id_str": "2101904829870199168",
+    "is_retweet": false
+  }
+]
