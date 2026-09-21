@@ -367,5 +367,141 @@
     "created_at": "Sun Sep 20 23:52:42 +0000 2026",
     "id_str": "2101821887877959762",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "in target in downtown SF\n\nimagine if we locked up criminals instead of laundry detergent",
+    "quoted_tweet": null,
+    "url": "https://x.com/ArthurMacwaters/status/2101804061406404981",
+    "time": "2026-09-21 06:41",
+    "created_at": "Sun Sep 20 22:41:52 +0000 2026",
+    "id_str": "2101804061406404981",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@aelluswamy @Kristennetten 💯",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101815851125227561",
+    "time": "2026-09-21 07:28",
+    "created_at": "Sun Sep 20 23:28:43 +0000 2026",
+    "id_str": "2101815851125227561",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@rohanpaul_ai True",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101817628990017951",
+    "time": "2026-09-21 07:35",
+    "created_at": "Sun Sep 20 23:35:47 +0000 2026",
+    "id_str": "2101817628990017951",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@CraigBrockie @PeterDiamandis Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2101825872642879887",
+    "time": "2026-09-21 08:08",
+    "created_at": "Mon Sep 21 00:08:32 +0000 2026",
+    "id_str": "2101825872642879887",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I'm \"claude project\" pilled. \n\nA Claude Project can be thought of as a \"FFOAO\"\n\nA Folder For Organized Agent Orchestration\n\nAnd it's very intuitive....\n\n- Name your project\n- Give it a goal\n- Chat with an agent\n- Agent can spin up \"threads\" \n- The threads use the tools (your main agent does not)\n- Each thread can use different models\n- Each thread can create different artifacts (You can ask it to create a design like design mode, and it will send back a canvas that you can edit)\n- Each new thread has context over the entire project, so no reexplaining. \n- The routines (crons) live within the project\n- The artifacts are stored in \"library\" within the project\n\nVideo soon.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101808502411038743",
+    "time": "2026-09-21 06:59",
+    "created_at": "Sun Sep 20 22:59:31 +0000 2026",
+    "id_str": "2101808502411038743",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown This is for new Project’s correct? Does it affect or change how previous projects were created?",
+    "quoted_tweet": null,
+    "url": "https://x.com/RetropunkAI/status/2101809902465204473",
+    "time": "2026-09-21 07:05",
+    "created_at": "Sun Sep 20 23:05:05 +0000 2026",
+    "id_str": "2101809902465204473",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@RetropunkAI no, old projects stay the same. \nthey we're pretty useless before.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2101810019171803463",
+    "time": "2026-09-21 07:05",
+    "created_at": "Sun Sep 20 23:05:32 +0000 2026",
+    "id_str": "2101810019171803463",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins What makes the Bluesky social media network unreliable? Is it because it is open source?",
+    "quoted_tweet": null,
+    "url": "https://x.com/softaxiom_/status/2101801379241119989",
+    "time": "2026-09-21 06:31",
+    "created_at": "Sun Sep 20 22:31:13 +0000 2026",
+    "id_str": "2101801379241119989",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@softaxiom_ No it’s the people who are on it",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2101802085012656549",
+    "time": "2026-09-21 06:34",
+    "created_at": "Sun Sep 20 22:34:01 +0000 2026",
+    "id_str": "2101802085012656549",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins This statement seems too general considering the diverse populations on social media networks.\n\nWhat about the people?",
+    "quoted_tweet": null,
+    "url": "https://x.com/softaxiom_/status/2101802654812770534",
+    "time": "2026-09-21 06:36",
+    "created_at": "Sun Sep 20 22:36:17 +0000 2026",
+    "id_str": "2101802654812770534",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@softaxiom_ https://x.com/chriscroy/status/2094867317163540937?s=46",
+    "quoted_tweet": {
+      "author": "Chris Croy",
+      "username": "ChrisCroy",
+      "text": "One of the big differences between Twitter and Bluesky is that if you mention using AI on Bluesky for any reason you will often get yelled at by dozens of frothing Butlerian Jihadis. I am not nutpicking, the majority of replies and QTs to him over there are like this."
+    },
+    "url": "https://x.com/venturetwins/status/2101805008559972466",
+    "time": "2026-09-21 06:45",
+    "created_at": "Sun Sep 20 22:45:38 +0000 2026",
+    "id_str": "2101805008559972466",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@RhysSullivan Bookmarking this meme to reuse later",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2101809778125369668",
+    "time": "2026-09-21 07:04",
+    "created_at": "Sun Sep 20 23:04:35 +0000 2026",
+    "id_str": "2101809778125369668",
+    "is_retweet": false
   }
 ]
