@@ -61,5 +61,97 @@
     "created_at": "Mon Sep 21 21:30:16 +0000 2026",
     "id_str": "2102148432227938335",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok 4.7 xHigh is now at the top with just ONE point away from Claude Fable 5.1 Max on Artificial Analysis’ AA-Briefcase benchmark\n\nClaude Fable 5.1 Max — 59%\nGrok 4.7 xHigh — 58%\n\nJust a 1-point difference at the very top\n\nAnd Grok is ahead of GPT-6 Astra, GPT-5.6, Gemini, Kimi, GLM and nearly every other frontier model  on the benchmark",
+    "quoted_tweet": null,
+    "url": "https://x.com/XFreeze/status/2102117217655726493",
+    "time": "2026-09-22 03:26",
+    "created_at": "Mon Sep 21 19:26:14 +0000 2026",
+    "id_str": "2102117217655726493",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "i've been surprised at the response to Jev, but it makes sense in retrospect. sure it's just a classifier but it's a zero shot classifier with frontier-ish intelligence. i'm surprised someone hadn't built it before. i wonder what other old ML ideas are also worth rescuing",
+    "quoted_tweet": null,
+    "url": "https://x.com/willdepue/status/2102070249453469823",
+    "time": "2026-09-22 00:19",
+    "created_at": "Mon Sep 21 16:19:36 +0000 2026",
+    "id_str": "2102070249453469823",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@willdepue I see it as a point on the LLM pareto optimal curve in a regime that had a large revealed latent demand (no thinking, single token, low latency acceptable intelligence) that was under-invested into because of a race to higher intelligence.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2102124533729955960",
+    "time": "2026-09-22 03:55",
+    "created_at": "Mon Sep 21 19:55:19 +0000 2026",
+    "id_str": "2102124533729955960",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "OpenAI, Anthropic, and Cognition are releasing their personal agent platforms in the next month.",
+    "quoted_tweet": null,
+    "url": "https://x.com/agentnative_/status/2102120926317830462",
+    "time": "2026-09-22 03:40",
+    "created_at": "Mon Sep 21 19:40:59 +0000 2026",
+    "id_str": "2102120926317830462",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Claude Code Projects might be the best interface i've tried for getting serious work done in parallel. Here's a video breaking it down.\nhttps://www.youtube.com/watch?v=NDTbUObZTlM",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2102135324033822927",
+    "time": "2026-09-22 04:38",
+    "created_at": "Mon Sep 21 20:38:11 +0000 2026",
+    "id_str": "2102135324033822927",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown how do we get access",
+    "quoted_tweet": null,
+    "url": "https://x.com/anshnanda/status/2102135814226329989",
+    "time": "2026-09-22 04:40",
+    "created_at": "Mon Sep 21 20:40:08 +0000 2026",
+    "id_str": "2102135814226329989",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@anshnanda Send this guy a message, say you're using it for safety. @DarioAmodei",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2102136507020546136",
+    "time": "2026-09-22 04:42",
+    "created_at": "Mon Sep 21 20:42:53 +0000 2026",
+    "id_str": "2102136507020546136",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "USDT on TRON is the most used onchain payment option.",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": "USDT on TRON is now the most used onchain payment option on @coinsbee, according to the platform’s payment data.\n\nTo celebrate, from September 21 through October 5, 2026, CoinsBee will offer eligible users of the CoinsBee mobile app a 2% discount on purchases paid with USDT on TRON.\n\nMore details from @Cointelegraph 👇\nhttps://cointelegraph.com/press-releases/usdt-on-tron-becomes-most-used-onchain-payment-option-on-coinsbee-as-stablecoin-spending-grows"
+    },
+    "url": "https://x.com/justinsuntron/status/2102140972801089683",
+    "time": "2026-09-22 05:00",
+    "created_at": "Mon Sep 21 21:00:38 +0000 2026",
+    "id_str": "2102140972801089683",
+    "is_retweet": false
   }
 ]
