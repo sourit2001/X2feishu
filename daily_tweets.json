@@ -1,1 +1,230 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "前两天看到有人分享用 Jev 找视频片段的思路，今天结合 Jev 和宝玉的 BaoCut，做了一个本地视频检索工具。\n\n输入一句话，就能从长视频里筛出相关片段。\n\nBaoCut 负责字幕识别和视频导出，\n\nJev 根据字幕判断：\n• 与检索意图有多相关  \n• 脱离上下文后，表达是否完整  \n• 内容是否有吸引力  \n• 是否真正包含想找的信息，而不只是关键词匹配  \n\n拿自己的视频试了几轮，找得挺准，响应也快。",
+    "quoted_tweet": null,
+    "url": "https://x.com/nicekate8888/status/2101908148110217220",
+    "time": "2026-09-21 13:35",
+    "created_at": "Mon Sep 21 05:35:28 +0000 2026",
+    "id_str": "2101908148110217220",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "前两天看到有人分享用 Jev 找视频片段的思路，今天结合 Jev 和宝玉的 BaoCut，做了一个本地视频检索工具。\n\n输入一句话，就能从长视频里筛出相关片段。\n\nBaoCut 负责字幕识别和视频导出，\n\nJev 根据字幕判断：\n• 与检索意图有多相关  \n• 脱离上下文后，表达是否完整  \n• 内容是否有吸引力  \n• 是否真正包含想找的信息，而不只是关键词匹配  \n\n拿自己的视频试了几轮，找得挺准，响应也快。",
+    "quoted_tweet": null,
+    "url": "https://x.com/nicekate8888/status/2101908148110217220",
+    "time": "2026-09-21 13:35",
+    "created_at": "Mon Sep 21 05:35:28 +0000 2026",
+    "id_str": "2101908148110217220",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 如果让它模仿博物馆的原核雕，做成图左下角。感觉也马马虎虎。",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2101910608996418040",
+    "time": "2026-09-21 13:45",
+    "created_at": "Mon Sep 21 05:45:15 +0000 2026",
+    "id_str": "2101910608996418040",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 这个模仿的效果更好👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101915586993209793",
+    "time": "2026-09-21 14:05",
+    "created_at": "Mon Sep 21 06:05:02 +0000 2026",
+    "id_str": "2101915586993209793",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@nicekate8888 哈哈，感谢支持，感觉用户越来越多了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101915933828653435",
+    "time": "2026-09-21 14:06",
+    "created_at": "Mon Sep 21 06:06:24 +0000 2026",
+    "id_str": "2101915933828653435",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "哆啦A梦3D建模|ChatGPT 6 Pro（图一）",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2101921709528174744",
+    "time": "2026-09-21 14:29",
+    "created_at": "Mon Sep 21 06:29:22 +0000 2026",
+    "id_str": "2101921709528174744",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 这效果还挺好的👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101925355137167487",
+    "time": "2026-09-21 14:43",
+    "created_at": "Mon Sep 21 06:43:51 +0000 2026",
+    "id_str": "2101925355137167487",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 期待，许愿v2多些内置音色",
+    "quoted_tweet": null,
+    "url": "https://x.com/nicekate8888/status/2101925457075773585",
+    "time": "2026-09-21 14:44",
+    "created_at": "Mon Sep 21 06:44:15 +0000 2026",
+    "id_str": "2101925457075773585",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LinearUncle 让 AI 帮你写，期待",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101926025663844364",
+    "time": "2026-09-21 14:46",
+    "created_at": "Mon Sep 21 06:46:31 +0000 2026",
+    "id_str": "2101926025663844364",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@nicekate8888 Qwen 3 还带一些默认的，也可以自己录",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101926395039330334",
+    "time": "2026-09-21 14:47",
+    "created_at": "Mon Sep 21 06:47:59 +0000 2026",
+    "id_str": "2101926395039330334",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "当年有个梗。\n\nStackoverflow 每年举办投票活动， Rust 连续七八年都是大家最喜欢的语言。\n\n但是有人问了， 现在也没有多少 Rust 岗位，Rust 学习曲线天天有人骂，你们到底喜欢它什么？\n\n现在 AI 时代我觉得这个问题有答案了：\n\n大家都喜欢不用看 Rust 代码但还能获得 Rust 语言带来的好处。\n\n所以在 AI 之前都是“求而不得”的“喜欢”吗 😆",
+    "quoted_tweet": {
+      "author": "Jintao Zhang 张晋涛",
+      "username": "aiandcloud",
+      "text": "这篇是 GitHub Copilot 团队的经验分享，花费约 12 万美元的 token，将 Copilot runtime 从 typescript 迁移到了 80 万行的 Rust。\n\n并且它姑且算是个热迁移，迁移过程中还一直在保持持续发布，而不是等迁移完成后再发布。\n\n迁移后资源占用更少，性能也显著提升了，值得看看\n\nhttps://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
+    },
+    "url": "https://x.com/blackanger/status/2101931291780526568",
+    "time": "2026-09-21 15:07",
+    "created_at": "Mon Sep 21 07:07:26 +0000 2026",
+    "id_str": "2101931291780526568",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@blackanger 当年大众软件投票最受欢迎游戏，每次都有仙剑",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2101944786613674156",
+    "time": "2026-09-21 16:01",
+    "created_at": "Mon Sep 21 08:01:04 +0000 2026",
+    "id_str": "2101944786613674156",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "a16z：AI 让应用数量暴涨，但用户和付费却没有跟上...\n\n2025 年 2 月以后,iOS 每月新增应用从约 3 万至 5 万款升到约 12 万款，Chrome 插件从约 3,000 款增至 2 万款以上。Android 也从低谷回升到约 10 万款....\n\n而大盘另一端正在收缩：游戏的使用时长约下降 3%、收入约下降 15%，生活方式收入约下降 30%，图书收入约下降 40%。\n\n少数头部 AI 应用创造的新收入，被这些成熟大类的下滑抵消了一部分。市场呈现的不是“所有 AI 应用一起繁荣”，而是增长集中在少数赢家。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101919521925894289",
+    "time": "2026-09-21 14:20",
+    "created_at": "Mon Sep 21 06:20:40 +0000 2026",
+    "id_str": "2101919521925894289",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "真正卡住消费级 AI 的，是大众付费还没有形成。\n\n2023 年第一季度，各年龄段自掏腰包购买 AI 的比例都不到或接近 1%；到 2026 年第一季度，Consumer Edge 给出的整体水平升到约 3%。\n\n三年了，愿意为AI付费的人还是少之又少...\n\n增长明显集中在年轻人：18 至 24 岁约为 6%，65 岁以上约为 1.4%，相差近 4 倍。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101919524845191242",
+    "time": "2026-09-21 14:20",
+    "created_at": "Mon Sep 21 06:20:41 +0000 2026",
+    "id_str": "2101919524845191242",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "少数新公司更快成为独角兽，同届公司的收入差距也很大；近期融到钱的公司仍在用高亏损换取高速增长。\n\n详细报告：https://best.xiaohu.ai/article/a16z-app-supply-demand-gap/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101919529207218323",
+    "time": "2026-09-21 14:20",
+    "created_at": "Mon Sep 21 06:20:42 +0000 2026",
+    "id_str": "2101919529207218323",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "ElevenLabs 联合创始人深度访谈：\n\n如何打造一家 AI 原生公司\n以及如何把服务客户的 FDE 变成免费的研发实验室\n\nElevenLabs 从 Palantir 学来的关键打法，是让 FDE 进入客户现场：协助客户上线产品和优化业务流程\n\n同时驻场的全都是自己的研发工程师，他们把现场经验带回产品，重新迭代和改进产品...\n\n商业播客主持人 David Senra 对 ElevenLabs 联合创始人兼 CEO Mati Staniszewski 做了一次 71 分钟深度访谈。Mati 毫无保留地分享了他们如何在几年内迅速崛起，以及背后非常硬核的商业逻辑、产品策略和团队管理哲学。\n\n其中我觉得最有意思的点是：偷师数据巨头 Palantir 的“驻场工程师”玩法。\n\n不迷信西装革履的销售：Mati 以前在硅谷著名的大数据公司 Palantir 工作。他把老东家的打法带了过来——不只靠传统销售去卖软件，而是直接派“前线部署工程师”（Forward Deployed Engineer，FDE）进入客户办公室，和银行、电信等大型企业的团队一起解决问题。\n\n把大客户变成免费的研发实验室：更关键的是，这些 FDE 属于产品团队，而不是销售团队。他们帮助大客户解决语音客服、系统集成等实际问题后，会把可复用的行业知识带回公司，写进 ElevenLabs 的通用产品。下一位客户因此不必从零开始，真实企业现场也持续替 ElevenLabs 暴露产品缺口。\n\nhttps://best.xiaohu.ai/article/elevenlabs-ai-native-company/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101924212537765933",
+    "time": "2026-09-21 14:39",
+    "created_at": "Mon Sep 21 06:39:18 +0000 2026",
+    "id_str": "2101924212537765933",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "字节海外 BytePlus 发布 ，一个专做 AI 短剧的企业级平台：Dramagic\n\n丢进一个剧本，它自动拆出所有角色（男主、女主、反派，各带三视图）、场景、道具、造型，\n\n甚至自动写好分镜提示词、匹配素材，直接产出分镜表\n\n最关键的是角色一致性：多个角色、几十个镜头，每次都是同一张脸\n\n导出直接适配各平台分发",
+    "quoted_tweet": {
+      "author": "BytePlus",
+      "username": "BytePlusGlobal",
+      "text": "Introducing Dramagic, an enterprise AI-Generated Content (AIGC) platform built for short dramas & video production.\n\nScript Analysis ➔ Asset Setup ➔ Storyboard ➔ Video Preview \n\nWith editor-level precision, built-in consistency checks, and multi-user collaboration, Dramagic makes production easier to plan, review and scale."
+    },
+    "url": "https://x.com/xiaohu/status/2101929639828762733",
+    "time": "2026-09-21 15:00",
+    "created_at": "Mon Sep 21 07:00:52 +0000 2026",
+    "id_str": "2101929639828762733",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Jev 使用指南：\n只做判断、不写字的 AI 模型怎么用、用在哪\n\nhttps://best.xiaohu.ai/article/typesafe-jev-guide/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2101952863316607154",
+    "time": "2026-09-21 16:33",
+    "created_at": "Mon Sep 21 08:33:09 +0000 2026",
+    "id_str": "2101952863316607154",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife はい✋️",
+    "quoted_tweet": null,
+    "url": "https://x.com/kawaii_ai_zoo/status/2101909220123926747",
+    "time": "2026-09-21 13:39",
+    "created_at": "Mon Sep 21 05:39:44 +0000 2026",
+    "id_str": "2101909220123926747",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kawaii_ai_zoo Awww",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2101910379450204461",
+    "time": "2026-09-21 13:44",
+    "created_at": "Mon Sep 21 05:44:20 +0000 2026",
+    "id_str": "2101910379450204461",
+    "is_retweet": false
+  }
+]
