@@ -250,5 +250,412 @@
     "created_at": "Tue Sep 22 12:49:08 +0000 2026",
     "id_str": "2102379668842365099",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "People outside the AI labs should have a real say in how this technology develops, and a clear way to judge if it's happening safely.\n\nStandards should help prevent the concentration of power, including by making sure new companies and open-model companies can compete.\n\nThey should also help countries and companies compare evidence and learn from failures.\n\nWe think the US should lead this effort. Here is our proposal:\n\nhttps://openai.com/index/building-standards-next-phase-ai/",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2102414347364335917",
+    "time": "Tue Sep 22 15:06:56 +0000 2026",
+    "created_at": "Tue Sep 22 15:06:56 +0000 2026",
+    "id_str": "2102414347364335917",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我内测了很久的 Today AI，在 24 号国内就能全量上线了。\n\n这应该是国内我看到的第一个贯彻 personal agent 概念的产品。\n\n它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。\n\n我从内测开始就一直在用，到时候可以试试。",
+    "quoted_tweet": {
+      "author": "Today AI",
+      "username": "TodayAIofficial",
+      "text": "9月24日，和 Today 见面。\n\nToday 中国版将于9月正式上线。你的专属 AI 助理会逐渐记住与你有关的事，在需要时主动帮你。\n\nMeet Today on September 24.\nToday launches in China. Your personal AI gets to know you over time and helps before ask.\n\niOS · Android · Windows · Mac · Linux"
+    },
+    "url": "https://x.com/op7418/status/2102380784179130715",
+    "time": "Tue Sep 22 12:53:33 +0000 2026",
+    "created_at": "Tue Sep 22 12:53:33 +0000 2026",
+    "id_str": "2102380784179130715",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "阿里云居然赞助了 Omarchy 基金会，看来这下在国内使用 Omarchy 和安装能方便点了",
+    "quoted_tweet": {
+      "author": "DHH",
+      "username": "dhh",
+      "text": "Thrilled to announce @alibaba_cloud as a Founding Corporate Patron for the Omacom Foundation! $3 million in funding, collaboration on Omarchy China, and bringing Omarchy to the newly announced Qwen Book. Agentic computers need a native agentic OS! https://omarchy.org/news/2026/09/alibaba-cloud-joins-as-founding-corporate-patron/"
+    },
+    "url": "https://x.com/op7418/status/2102383737069879362",
+    "time": "Tue Sep 22 13:05:17 +0000 2026",
+    "created_at": "Tue Sep 22 13:05:17 +0000 2026",
+    "id_str": "2102383737069879362",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 好像还没重置呢~~~~又被鸽了？？",
+    "quoted_tweet": null,
+    "url": "https://x.com/StarVoxLily/status/2102391563133612036",
+    "time": "Tue Sep 22 13:36:23 +0000 2026",
+    "created_at": "Tue Sep 22 13:36:23 +0000 2026",
+    "id_str": "2102391563133612036",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 咱们被tibo那小子耍了，老大🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/NeoChenX/status/2102394463658401802",
+    "time": "Tue Sep 22 13:47:55 +0000 2026",
+    "created_at": "Tue Sep 22 13:47:55 +0000 2026",
+    "id_str": "2102394463658401802",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我不用 plan 模式，但是我复杂一点的会先写技术方案文档，主要是：\n1. 人看看文档确保大方向有没有问题\n2. Fable 写文档，文档里面写清楚技术细节和如何验证，后续 Opus 执行\n3. 作为后续验收的依据，Opus 实施完，在新会话让 Fable 按照文档去验收一下\n4. 一些重要文档会留档，但会保持更新\n5. 有时候会在 ChatGPT 网页版用 GPT-6 Pro 访问 Repo 写技术方案文档，下载下来让 Fable 去审查再让 Opus 执行\n\n简单来说，重点不是用 plan mode，但是用一个文档让人可以确认方向，以及后续多 Agent 协作传递上下文是很有价值的",
+    "quoted_tweet": {
+      "author": "pippingg",
+      "username": "Suyanzhenq",
+      "text": "无论是Opus，还是Sol，Astra编程方面都相当强悍，现在还有人用plan模式先规划再编程吗？"
+    },
+    "url": "https://x.com/dotey/status/2102409130816245918",
+    "time": "Tue Sep 22 14:46:12 +0000 2026",
+    "created_at": "Tue Sep 22 14:46:12 +0000 2026",
+    "id_str": "2102409130816245918",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@s1ntone 私信解释一下并非抄袭也无恶意即可，但是还是值得发",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102409705612365996",
+    "time": "Tue Sep 22 14:48:29 +0000 2026",
+    "created_at": "Tue Sep 22 14:48:29 +0000 2026",
+    "id_str": "2102409705612365996",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@NeoChenX 美国时间周二才上午",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102411313133613475",
+    "time": "Tue Sep 22 14:54:52 +0000 2026",
+    "created_at": "Tue Sep 22 14:54:52 +0000 2026",
+    "id_str": "2102411313133613475",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@StarVoxLily 等等就好了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102411354191606024",
+    "time": "Tue Sep 22 14:55:02 +0000 2026",
+    "created_at": "Tue Sep 22 14:55:02 +0000 2026",
+    "id_str": "2102411354191606024",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 请教下，如果功能比较复杂，如何管理这些文档呢，比如哪些是重要的，如何更新，如何读，宝玉老师辛苦有时间看下呢",
+    "quoted_tweet": null,
+    "url": "https://x.com/_realyin_/status/2102411355416674655",
+    "time": "Tue Sep 22 14:55:02 +0000 2026",
+    "created_at": "Tue Sep 22 14:55:02 +0000 2026",
+    "id_str": "2102411355416674655",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "文档的管理我是这么做的：\n1. 文档统一放 docs 目录\n2. 所有文档都遵循渐进式披露原则——也就每个文档都不大，但是会链接到相关文档，类似于主文档里面主要就是概要和目录，具体内容链接到章节对应的小文件\n3. 根目录有一个 README 可以方便的索引到相关文档，类似于目录\n4. AGENTS.md 强制要求修改功能要修改相关文档，有时候人也需要定期检查一下，即使加了规则也可能遗漏",
+    "quoted_tweet": {
+      "author": "realxxx",
+      "username": "_realyin_",
+      "text": "@dotey 请教下，如果功能比较复杂，如何管理这些文档呢，比如哪些是重要的，如何更新，如何读，宝玉老师辛苦有时间看下呢"
+    },
+    "url": "https://x.com/dotey/status/2102415020021756020",
+    "time": "Tue Sep 22 15:09:36 +0000 2026",
+    "created_at": "Tue Sep 22 15:09:36 +0000 2026",
+    "id_str": "2102415020021756020",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@_realyin_ FYI https://x.com/dotey/status/2102415020021756020",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "文档的管理我是这么做的：\n1. 文档统一放 docs 目录\n2. 所有文档都遵循渐进式披露原则——也就每个文档都不大，但是会链接到相关文档，类似于主文档里面主要就是概要和目录，具体内容链接到章节对应的小文件\n3. 根目录有一个 README 可以方便的索引到相关文档，类似于目录\n4. AGENTS.md 强制要求修改功能要修改相关文档，有时候人也需要定期检查一下，即使加了规则也可能遗漏"
+    },
+    "url": "https://x.com/dotey/status/2102415115048174014",
+    "time": "Tue Sep 22 15:09:59 +0000 2026",
+    "created_at": "Tue Sep 22 15:09:59 +0000 2026",
+    "id_str": "2102415115048174014",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Announcing The Horowitz Andreessen Academy.\n\nThe internet made it possible to know anything. AI makes it possible to do anything.\n\nThe best assignments now are problems so hard they cannot be solved without AI. The Academy courses follow the same logic and will be taught by world-class leaders.\n\nThe most talented young people today rarely have their sharpest peers within walking distance. Their network is online. Those networks are real, but they're thin.\n\nThe next generation will not be taught the way the last one was. The Academy is built for that world, and it begins in San Francisco.\n\nIf you're young, hungry and love building things, apply for the Founding Class Fellowship.",
+    "quoted_tweet": {
+      "author": "Gagan Biyani 🏛",
+      "username": "gaganbiyani",
+      "text": "Today, we’re launching an ambitious new school called The Horowitz Andreessen Academy.\n\nBased in San Francisco, The Academy serves the most promising young high school graduates.\n\nWe think this can be an elite institution that attracts top tier talent. One that prepares students for the future rather than remaining stuck in the past.\n\nThe #1 goal is to help students learn to build, which is the most important skill in the AI era. They'll learn primarily by pursuing their own projects, either individually or in groups. There are classes and guest lectures, too, from some truly amazing people who have built modern-day Silicon Valley.\n\nThe Academy is designed as a network, since that’s the reason students go to school in the first place. Core to that network are our 10 Founding Partners: Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe. The network includes over 50 hiring partners and over 200 speakers and mentors. To join as a hiring partner or faculty member, you can apply on our website.\n\nWe raised $42M in funding led by @a16z. I'll be CEO and @pmarca and @eriktorenberg will join me on the board.\n\nApplications are open for our Founding Class Fellowship, which will be one year and tuition-free. Eventually, pending regulatory approval, we plan to offer a two-year program that charges tuition, similar in cost to an elite private university.\n\nWe're looking for the most unusually ambitious young builders on the planet. Come join us in San Francisco:\nhttps://www.theacademysf.com/"
+    },
+    "url": "https://x.com/a16z/status/2102408860728541552",
+    "time": "Tue Sep 22 14:45:07 +0000 2026",
+    "created_at": "Tue Sep 22 14:45:07 +0000 2026",
+    "id_str": "2102408860728541552",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "招聘\n我想招一个我的个人助理，必须是 AI 狂热爱好者，不接受i人。\n\n工作地点\n深圳龙华\n\n正规 coding 项目交付经验的加钱\n熟悉AI 算力产业的加钱\n海龟英语口语过关加钱\n懂我抽象的粉丝加钱\n颜值高，陪我一起出镜拍摄的加钱\n\n工作内容跟我全球出差，你可以见到 AI 大厂，AI 供应链的源头工厂以及背后帅气的 CEO 们，同时我提供你无限量的 token 算力，也可协助你获得多年美签。\n\n女生优先。男生也欢迎。\n有意者 dd 我\n\n另外公司招聘若干 AI 内容编导， AI 自媒体创业失败的想稳定找个班上的，也欢迎dd我。支持先远程合作。",
+    "quoted_tweet": null,
+    "url": "https://x.com/CuiMao/status/2102352863574073588",
+    "time": "Tue Sep 22 11:02:37 +0000 2026",
+    "created_at": "Tue Sep 22 11:02:37 +0000 2026",
+    "id_str": "2102352863574073588",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 发布全新笔记本电脑 Googlebook 预览：\n\n内置的 Gemini 智能系统 \n让 AI 接住光标、口述和后台任务\n\n以往在电脑上使用 AI 处理日常工作时，用户往往需要反复选中文本、跨窗口复制粘贴、搬运上下文，或者花时间整理口述内容与寻找定制工具。\n\nGooglebook 的变化在于直接内置 Gemini 能力，主动协助完成日常任务，减少这些在不同窗口与工具间反复搬运与整理的繁琐流程。\n\nhttps://best.xiaohu.ai/article/googlebook-built-in-intelligence/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102377554124661119",
+    "time": "Tue Sep 22 12:40:43 +0000 2026",
+    "created_at": "Tue Sep 22 12:40:43 +0000 2026",
+    "id_str": "2102377554124661119",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 小互老师，价格出来了吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/KtAIFeed/status/2102377735423414283",
+    "time": "Tue Sep 22 12:41:27 +0000 2026",
+    "created_at": "Tue Sep 22 12:41:27 +0000 2026",
+    "id_str": "2102377735423414283",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@KtAIFeed 899 美元起；具体配置看型号，最长 14 小时续航来自视频播放测试。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102377985735311784",
+    "time": "Tue Sep 22 12:42:26 +0000 2026",
+    "created_at": "Tue Sep 22 12:42:26 +0000 2026",
+    "id_str": "2102377985735311784",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "官方介绍：https://googlebook.google/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102378070070247808",
+    "time": "Tue Sep 22 12:42:46 +0000 2026",
+    "created_at": "Tue Sep 22 12:42:46 +0000 2026",
+    "id_str": "2102378070070247808",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "TRAE 也被质疑上传代码？\n\n看到有人发帖说“实测 Trae CN 3000文件全量上传做远程Embedding”，联想到近期新闻吓了我一跳，但仔细看了下，可能是过于标题党了\n\n这似乎是两码事 \n\n远程Embedding说的是“代码索引”，先给项目做一份方便查找的目录，算完后删除明文代码。\n\nCopilot、Cursor 也是这样的策略。\n\n“临时上传”和“完整源码被保存”，中间有很大区别。\n\nTrae的用户群里解释了这件事，几个核心意思：\n\n第一，代码仅临时上传用于向量计算， 计算完成后明文代码即被永久删除 ，云端不会保留完整源码。\n\n第二，Trae代码索引的上传范围有严格的过滤机制：\n\n- 依赖目录（node_modules 等）、构建产物、二进制文件、图片、音视频、压缩包等，不传 ；\n\n- 以. 开头的隐藏目录（包括 .git） ，不传 ；\n\n- .gitignore 中列出的文件默认被忽略，用户还可在.trae/.ignore 中自定义额外排除规则；\n\n- 单文件大小和行数都有上限。\n\n第三，隐私模式控制的是对话内容是否用于数据分析和模型训练 ，与代码索引功能无关。\n\n这也是它和前几天那些争议需要分开看的地方。\n\n我觉得，大家真正关心的其实很简单：你拿走了什么，用来干什么，用完留不留，我能不能自己决定。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102397571625013670",
+    "time": "Tue Sep 22 14:00:16 +0000 2026",
+    "created_at": "Tue Sep 22 14:00:16 +0000 2026",
+    "id_str": "2102397571625013670",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Trae 工作区代码索引说明\n\nhttps://docs.trae.cn/work_privacy-mode\n\n隐私模式文档：https://docs.trae.cn/work_privacy-mode",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102397574867304753",
+    "time": "Tue Sep 22 14:00:17 +0000 2026",
+    "created_at": "Tue Sep 22 14:00:17 +0000 2026",
+    "id_str": "2102397574867304753",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "说好的重置呢 ？？？\n\n@thsottiaux",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102403073876562139",
+    "time": "Tue Sep 22 14:22:08 +0000 2026",
+    "created_at": "Tue Sep 22 14:22:08 +0000 2026",
+    "id_str": "2102403073876562139",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@CuiMao 我可以吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102403143967645926",
+    "time": "Tue Sep 22 14:22:24 +0000 2026",
+    "created_at": "Tue Sep 22 14:22:24 +0000 2026",
+    "id_str": "2102403143967645926",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "什么Muse、Grok Bot，都不如一台属于自己的24小时Agent终端。\n把之前M4的Macmini鸟枪换炮一下...就是这价格真的涨的太恐怖了...",
+    "quoted_tweet": null,
+    "url": "https://x.com/Khazix0918/status/2102405386309665101",
+    "time": "Tue Sep 22 14:31:19 +0000 2026",
+    "created_at": "Tue Sep 22 14:31:19 +0000 2026",
+    "id_str": "2102405386309665101",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "小道消息：今晚OpenAI有新东西\n\n重置将会随这个新东西发布后到来…\n\n有可能是传说的可能是GPT bot…",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "说好的重置呢 ？？？\n\n@thsottiaux"
+    },
+    "url": "https://x.com/xiaohu/status/2102405445679972573",
+    "time": "Tue Sep 22 14:31:33 +0000 2026",
+    "created_at": "Tue Sep 22 14:31:33 +0000 2026",
+    "id_str": "2102405445679972573",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Khazix0918 配置低了",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102406676825673790",
+    "time": "Tue Sep 22 14:36:27 +0000 2026",
+    "created_at": "Tue Sep 22 14:36:27 +0000 2026",
+    "id_str": "2102406676825673790",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Pojďte si udělat krásnou pohlednici.😍\n\nKamarádka @icreatelife přišla se skvělým promptem, který jsem trochu upravil, aby seděl na různé poměry stran referenční fotografie.🥸\n\nJediné co musíte je vložit Vaši fotografii do ChatGPT a k tomu připsat prompt, který dávám do komentáře.👇",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "My favorite prompt of all times is this editorial illustration wonder \n\nAs always would love to see your experiments with it \n\nWorks best with GPT Image 2.5 \nI used Firefly Boards for mine \n\nprompt 👇"
+    },
+    "url": "https://x.com/lukasersil/status/2102383415957827813",
+    "time": "Tue Sep 22 13:04:01 +0000 2026",
+    "created_at": "Tue Sep 22 13:04:01 +0000 2026",
+    "id_str": "2102383415957827813",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Pojďte si udělat krásnou pohlednici.😍\n\nKamarádka @icreatelife přišla se skvělým promptem, který jsem trochu upravil, aby seděl na různé poměry stran referenční fotografie.🥸\n\nJediné co musíte je vložit Vaši fotografii do ChatGPT a k tomu připsat prompt, který dávám do komentáře.👇",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "My favorite prompt of all times is this editorial illustration wonder \n\nAs always would love to see your experiments with it \n\nWorks best with GPT Image 2.5 \nI used Firefly Boards for mine \n\nprompt 👇"
+    },
+    "url": "https://x.com/lukasersil/status/2102383415957827813",
+    "time": "Tue Sep 22 13:04:01 +0000 2026",
+    "created_at": "Tue Sep 22 13:04:01 +0000 2026",
+    "id_str": "2102383415957827813",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "🙂",
+    "quoted_tweet": {
+      "author": "Denis Labelle",
+      "username": "DenisLabelle",
+      "text": "My 𝕏 Interaction Circle\n\nHere -> https://circle.catsuki.cc/en"
+    },
+    "url": "https://x.com/ciguleva/status/2102391714812162153",
+    "time": "Tue Sep 22 13:37:00 +0000 2026",
+    "created_at": "Tue Sep 22 13:37:00 +0000 2026",
+    "id_str": "2102391714812162153",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@lukasersil Beautiful! Next time you are in New York, let’s have a coffee together",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102398256693027001",
+    "time": "Tue Sep 22 14:02:59 +0000 2026",
+    "created_at": "Tue Sep 22 14:02:59 +0000 2026",
+    "id_str": "2102398256693027001",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Having a lot of fun making this retro Japanese-style survivor-like game where you grow from a tiny kaiju into a massive monster, destroying buildings and fighting the military robots and other creatures along the way.\n\nI vibe coded this in just over 2 weeks, and it comes with 4 different kaiju to unlock, 3 different biomes, and hundreds of upgrade options.\n\nI'm currently playtesting the game. Once it's ready, I'll post it on Wavedash!",
+    "quoted_tweet": null,
+    "url": "https://x.com/DannyLimanseta/status/2102404362471428576",
+    "time": "Tue Sep 22 14:27:15 +0000 2026",
+    "created_at": "Tue Sep 22 14:27:15 +0000 2026",
+    "id_str": "2102404362471428576",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ciguleva 💚",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102406712565412194",
+    "time": "Tue Sep 22 14:36:35 +0000 2026",
+    "created_at": "Tue Sep 22 14:36:35 +0000 2026",
+    "id_str": "2102406712565412194",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DannyLimanseta Cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102412053386551496",
+    "time": "Tue Sep 22 14:57:49 +0000 2026",
+    "created_at": "Tue Sep 22 14:57:49 +0000 2026",
+    "id_str": "2102412053386551496",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Fears of AI are overhyped",
+    "quoted_tweet": {
+      "author": "Andrew Ng",
+      "username": "AndrewYNg",
+      "text": "The loudest voices stoking fears about AI dangers have made tremendous headway in the past two weeks. AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled by what appears to be a well orchestrated PR campaign — has drummed up considerable fear. I worry that it represents a setback for our field.\n\nI have written frequently that fears of AI are overhyped. AI’s capabilities can be uncannily human-like and unpredictable, and it’s rational to worry when people who are directly involved express concerns. But I see the problems as a sign of the engineering work that ahead, rather than insurmountable barriers or the sky falling. AI technology continues to advance — which is a good thing! — but technical advances, poorly understood by the public, give those who seek to generate hype repeated opportunities to do so.\n\nFirst, I don’t see any step up in the risk of human extinction from AI compared to a few months ago. The theories about this remain the same fantastical, science fiction scenarios as a few months ago. The biggest change in AI risk is its cybersecurity capabilities — a topic which we should take seriously — but this, too, will not lead to the end of the world.\n\nThe most notable recent event leading to increased fear was when an OpenAI team deployed an agent swarm that hacked into Hugging Face. Much of the popular press contained significant hype. For example, some publications reported that a swarm of 1,200 agents carried out the attack. While this was technically accurate, as I write this, I have about 1,300 processes running on my laptop. Yes, the ability to get large swarms of agents to work in parallel on a task is a significant technical advance, And, in computing, many processes run at the same time. So this shouldn’t be seen as some magical capability.\n\nAdditionally, OpenAI’s buggy sandboxing and monitoring processes were key to enabling this incident. Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI. There are many well known ways to attack software systems. The main advantage of AI agents is that they are relentless. They will tirelessly try many tactics — and have the patience to chain vulnerabilities together — that previously would have taken an infeasible amount of human effort. But in the long term, I believe the advantage will lie with defenders (because they have more information with which to identify bugs, which they can fix), but the cyber-threat landscape has changed significantly. There are still bottlenecks to identifying and exploiting a vulnerability. AI agents still have to try a lot of things to see what works, and taking these actions takes time and might be detected by defenders. This is why, even though it is now easy to obtain versions of leading open weight models that have had their guardrails removed or weakened, so they will not refuse to try to execute cyber attacks, the world has not ended.\n\nI am also concerned about the anthropomorphization of AI in a lot of reporting, where LLMs and agents are unnecessarily treated as if they were people. If I wield a hammer, miss a nail, and accidentally dent the wall, it’s not the fault of the hammer. The problem lies in how I used the hammer. Similarly, if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me, not the agent.\n\nOf course, we want to build systems that are as safe and predictable as possible. (For example, an unsafe hammer would be one whose head randomly flies off under normal use.) Today’s agentic systems are not predictable, but I see no reason why, by applying sound engineering practices, we won’t be able to make them extremely safe to use. One new element in the forecasts of AI-enabled doom is AI companies disclaiming responsibility for their own products. “I didn’t do it; my out-of-control agent did!” There’s a balance to be struck between the responsibility of the tool maker and the tool user, but when something goes wrong, let’s hold the people building and/or using the hammer responsible, rather than the hammer. (By the way, if you’re worried about AI bioweapon risk, David Bellamy has a great post on why this, too, is overhyped. Briefly, the bottleneck in building a bioweapon is not intelligence, but lab work and manufacturing.)\n\nPausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down. Second, engineering requires discovering problems empirically so we can fix them. If we pause AI by a decade, we will also delay finding and implementing safety engineering fixes by about the same duration.\n\nOf course, the incentive to stoke fears — for regulatory capture, to garner attention, or to make one’s technology seem more powerful — remains the same as before. Disclaiming responsibility is a new one. Taking a hard technical look at the actual risks however, I see little factual basis for the degree of fear that’s been stoked up. We still have hard research and engineering work ahead to improve AI safety, but the beneficial applications continue to vastly outweigh the risks, and we should keep building.\n\n[Original text (with links): https://www.deeplearning.ai/the-batch/issue-371 ]"
+    },
+    "url": "https://x.com/icreatelife/status/2102413292589531363",
+    "time": "Tue Sep 22 15:02:44 +0000 2026",
+    "created_at": "Tue Sep 22 15:02:44 +0000 2026",
+    "id_str": "2102413292589531363",
+    "is_retweet": false
   }
 ]
