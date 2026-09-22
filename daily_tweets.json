@@ -577,5 +577,116 @@
     "created_at": "Tue Sep 22 21:49:24 +0000 2026",
     "id_str": "2102515634647212140",
     "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "The goal of building any technology, AI included, should be bettering human lives and society.",
+    "quoted_tweet": {
+      "author": "Bloomberg TV",
+      "username": "BloombergTV",
+      "text": "“Any threat to human society, including existential, is within ourselves,” says World Labs Technologies CEO Fei-Fei Li as she discusses the risks surrounding AI, and the responsibility humans have in shaping how the technology is developed and used. \n\nListen to our full interview here: https://bloom.bg/3V74HgP"
+    },
+    "url": "https://x.com/drfeifei/status/2102508817653379411",
+    "time": "Tue Sep 22 21:22:19 +0000 2026",
+    "created_at": "Tue Sep 22 21:22:19 +0000 2026",
+    "id_str": "2102508817653379411",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "gpt-6 sol is worse than gpt-5.6 sol on deepswe\n\ni get that it's cheaper\n\nbut it's really weird having a new model that isn't better than the old model on every metric\n\nseems like they are trying to bury this benchmark",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 promotional pricing."
+    },
+    "url": "https://x.com/weswinder/status/2102475647562195050",
+    "time": "Tue Sep 22 19:10:31 +0000 2026",
+    "created_at": "Tue Sep 22 19:10:31 +0000 2026",
+    "id_str": "2102475647562195050",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "So I tested Opus 5.5 (max) on real work. 2 repos. 105 planted bugs. Find and fix what you can.\n\nThe results:\nGPT-6 Astra (max): 45 for $33.03 (n=3)\nFable 5.1 (max): 43 for $77.55\nOpus 5.5 (max): 43 for $60.49\nOpus 5.0 (max): 27 for $51.33\nMuse Spark 1.3 (max): 32.2 for $18.11\n\nAnthropic is back in the game. More effort levels and attempts (n=3) dropping in this thread tonight 🧵",
+    "quoted_tweet": null,
+    "url": "https://x.com/PawelHuryn/status/2102479269335101504",
+    "time": "Tue Sep 22 19:24:54 +0000 2026",
+    "created_at": "Tue Sep 22 19:24:54 +0000 2026",
+    "id_str": "2102479269335101504",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@amorriscode u2!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102484207163584745",
+    "time": "Tue Sep 22 19:44:31 +0000 2026",
+    "created_at": "Tue Sep 22 19:44:31 +0000 2026",
+    "id_str": "2102484207163584745",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@viticci It’s good to want it all",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102497184805720459",
+    "time": "Tue Sep 22 20:36:06 +0000 2026",
+    "created_at": "Tue Sep 22 20:36:06 +0000 2026",
+    "id_str": "2102497184805720459",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo It’s a good day sir",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102501432884891720",
+    "time": "Tue Sep 22 20:52:58 +0000 2026",
+    "created_at": "Tue Sep 22 20:52:58 +0000 2026",
+    "id_str": "2102501432884891720",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@weswinder No benchmaxxing here, just a better model all around.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102501670647472147",
+    "time": "Tue Sep 22 20:53:55 +0000 2026",
+    "created_at": "Tue Sep 22 20:53:55 +0000 2026",
+    "id_str": "2102501670647472147",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Maybe our cutest launch so far. But still packing the biggest punch.",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 promotional pricing."
+    },
+    "url": "https://x.com/thsottiaux/status/2102509507415048245",
+    "time": "Tue Sep 22 21:25:03 +0000 2026",
+    "created_at": "Tue Sep 22 21:25:03 +0000 2026",
+    "id_str": "2102509507415048245",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@PawelHuryn Interesting results!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102509629536346422",
+    "time": "Tue Sep 22 21:25:33 +0000 2026",
+    "created_at": "Tue Sep 22 21:25:33 +0000 2026",
+    "id_str": "2102509629536346422",
+    "is_retweet": false
   }
 ]
