@@ -153,5 +153,79 @@
     "created_at": "Mon Sep 21 21:00:38 +0000 2026",
     "id_str": "2102140972801089683",
     "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yep...\nhttps://x.com/GrandpaAquaman/status/2101687312878830022",
+    "quoted_tweet": {
+      "author": "GrandpaAquaman 🚀⚛️☢️🛤️",
+      "username": "GrandpaAquaman",
+      "text": "@usser_ra Płaczę 😂"
+    },
+    "url": "https://x.com/usser_ra/status/2102143981672869932",
+    "time": "2026-09-22 05:12",
+    "created_at": "Mon Sep 21 21:12:35 +0000 2026",
+    "id_str": "2102143981672869932",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@usser_ra Aww 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102144864204783878",
+    "time": "2026-09-22 05:16",
+    "created_at": "Mon Sep 21 21:16:06 +0000 2026",
+    "id_str": "2102144864204783878",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@usser_ra Here’s the instructions that actually folds",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Few people asked me if you can actually fold it. It’s really easy, use the mock as a reference to Astra and it will make you an actual instruction 🐈 🥹"
+    },
+    "url": "https://x.com/icreatelife/status/2102145169004888067",
+    "time": "2026-09-22 05:17",
+    "created_at": "Mon Sep 21 21:17:18 +0000 2026",
+    "id_str": "2102145169004888067",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @usser_ra Those are definitely better than the ones for my doggo 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/GrandpaAquaman/status/2102151748538220707",
+    "time": "2026-09-22 05:43",
+    "created_at": "Mon Sep 21 21:43:27 +0000 2026",
+    "id_str": "2102151748538220707",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GrandpaAquaman @usser_ra I still like you doggy fold 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102158104280355239",
+    "time": "2026-09-22 06:08",
+    "created_at": "Mon Sep 21 22:08:42 +0000 2026",
+    "id_str": "2102158104280355239",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Meet Husky: a Model-Specific Inference (MSI) engine up to 4.5× faster than Apple's MLX  \n\nWoof, Underdog's Pareto frontier model, now runs up to 730 tokens/sec on a MacBook  \n\nFinally local models are as fast & capable. Try it now in https://underdog.ai - your personal private AI",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xSigil/status/2102165862065328538",
+    "time": "2026-09-22 06:39",
+    "created_at": "Mon Sep 21 22:39:32 +0000 2026",
+    "id_str": "2102165862065328538",
+    "is_retweet": true
   }
 ]
