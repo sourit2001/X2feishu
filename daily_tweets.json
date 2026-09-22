@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Interesting. Grok 4.7 is performing fairly well for a smallish model.",
+    "quoted_tweet": {
+      "author": "Guillermo Rauch",
+      "username": "rauchg",
+      "text": "We ran fresh Next.js evals. The tally:\n① Opus 5.5    [𝟿𝟽%]\n② GPT 6 Sol   [𝟿𝟽%]\n③ Fable 5.1     [𝟿𝟽%]\n④ Grok 4.7     [𝟿𝟺%]\n\nNotably, Grok is 2x-7x cheaper"
+    },
+    "url": "https://x.com/elonmusk/status/2102520283618017355",
+    "time": "Tue Sep 22 22:07:53 +0000 2026",
+    "created_at": "Tue Sep 22 22:07:53 +0000 2026",
+    "id_str": "2102520283618017355",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "I've been on a Blender kick with Opus 5.5. Its better 3D modeling and vision mean you can build an entire world from a single prompt.\n\nHistorically accurate San Francisco Market street in 1906, pre-earthquake",
+    "quoted_tweet": null,
+    "url": "https://x.com/alexalbert__/status/2102466523164274839",
+    "time": "Tue Sep 22 18:34:15 +0000 2026",
+    "created_at": "Tue Sep 22 18:34:15 +0000 2026",
+    "id_str": "2102466523164274839",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@alexalbert__ I love this class of image -> GTA ieas. Imagine taking arbitrary images/videos (e.g this famous historical one from 1906 SF) and use them to build full-fledged custom GTAs, then drop into the world, move around, etc.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2102484651072016848",
+    "time": "Tue Sep 22 19:46:17 +0000 2026",
+    "created_at": "Tue Sep 22 19:46:17 +0000 2026",
+    "id_str": "2102484651072016848",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Quite possibly to coolest printer for under 3000\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/agent_hardware/status/2102477504430666034",
+    "time": "Tue Sep 22 19:17:53 +0000 2026",
+    "created_at": "Tue Sep 22 19:17:53 +0000 2026",
+    "id_str": "2102477504430666034",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@kanekallaway yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2102491171163668985",
+    "time": "Tue Sep 22 20:12:12 +0000 2026",
+    "created_at": "Tue Sep 22 20:12:12 +0000 2026",
+    "id_str": "2102491171163668985",
+    "is_retweet": false
+  },
+  {
+    "username": "johnternus",
+    "nickname": "John Ternus",
+    "text": "It’s a big day for the Mac! Mac mini and Mac Studio provide a huge leap in performance, especially for AI.",
+    "quoted_tweet": null,
+    "url": "https://x.com/johnternus/status/2102490341421285735",
+    "time": "Tue Sep 22 20:08:54 +0000 2026",
+    "created_at": "Tue Sep 22 20:08:54 +0000 2026",
+    "id_str": "2102490341421285735",
+    "is_retweet": false
+  }
+]
