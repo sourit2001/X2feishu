@@ -1,1 +1,206 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Next week will be more electric than this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/agentnative_/status/2102520995592421399",
+    "time": "Tue Sep 22 22:10:42 +0000 2026",
+    "created_at": "Tue Sep 22 22:10:42 +0000 2026",
+    "id_str": "2102520995592421399",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@samyamiam @OpenAI @Patreon Congrats!",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2102562276679254269",
+    "time": "2026-09-23 08:54",
+    "created_at": "Wed Sep 23 00:54:45 +0000 2026",
+    "id_str": "2102562276679254269",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "this was fun",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Shout out to @zulali who built this AI powered TV from the 90s. He bought this old TV, gave it a raspberry pi, gave it a mic, a camera, and had it control codex through GPT Real Time. Probably the coolest gift anyone has given me."
+    },
+    "url": "https://x.com/zulali/status/2102562823645569074",
+    "time": "2026-09-23 08:56",
+    "created_at": "Wed Sep 23 00:56:55 +0000 2026",
+    "id_str": "2102562823645569074",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@DavidPawlan Down",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2102633840154165569",
+    "time": "2026-09-23 13:39",
+    "created_at": "Wed Sep 23 05:39:07 +0000 2026",
+    "id_str": "2102633840154165569",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "An incredible culture collision is occurring as the r/jev subreddit (created for the e-sports streamer Jev) is being flooded with nerds sharing computer use demos",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2102603228047442127",
+    "time": "2026-09-23 11:37",
+    "created_at": "Wed Sep 23 03:37:28 +0000 2026",
+    "id_str": "2102603228047442127",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Claude Opus 5.5 built this in an internal test of OpenDesign.\n\nAn entire 3D riverfront. Glowing lanterns. Water reflections. A city that unfolds as you scroll.\nWe’re still taking it in.\n\nOpus 5.5 is coming to OpenDesign. Full benchmark coming soon.",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5."
+    },
+    "url": "https://x.com/OpenDesignHQ/status/2102603471858045038",
+    "time": "2026-09-23 11:38",
+    "created_at": "Wed Sep 23 03:38:26 +0000 2026",
+    "id_str": "2102603471858045038",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "最近摸索了一种新的节约 Token 但是效果不错的模式（都是被逼的，Token 太贵）：\n\nFable 写设计方案 -> \n（Loop 开始）\nOpus 执行 -> Advisor（Fable） 验收\n（Loop 结束）\n\n步骤是这样的：\n\n1. 先 Claude 里面设置一下 advisor 为 Fable\n> /advisor fable\n\n这样在使用 Opus，Sonnet 模型的时候，遇事不决它会请教 Fable，可能会有无谓的 Fable 消耗，但还是可以接受也值得\n\n就好比请了个高级工程师当顾问\n\n2. 复杂一点的问题先让 Fable 出方案，最大化利用 Fable 的能力。\n\n就好比你让一个高级工程师写一个技术方案，让普通工程师去执行\n\n3. 方案写好了确认了，让 Opus 去执行，但是执行的时候，加一句提示词：\n\n> 完成后让你的 advisor 验收一下，如果验收有问题就按 advisor 的反馈修复，修复完成后再让 advisor 验收，直到通过 advisor 的验收为止\n\n可以配合 /goal 使用效果更佳\n\n这样 Opus 在实施完成后就会找 Advisor 验收，通过 Advisor 就会给出反馈，然后 Opus 继续修改。\n\n这样的好处就是整个过程你不需要人工去用 Fable 确认—— 以前我就是这么干的，Opus 执行完，我得回到之前 Fable 的会话去让它验收，或者新开一个会话，把文档发给 Fable 验收。\n\n现在 Agent 自己就能形成闭环，不用你自己参与。\n\n就好比你请了个高级顾问，复杂问题找顾问出方案，执行让你的工程师去按照方案执行，每次工程师做完自己去找顾问验收，顾问不仅验收还会告诉工程师哪里不对，然后工程师自己改，不用说每次做完找你，你再找顾问。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "现在我很多复杂一点的任务都是 Fable 5 写方案，Codex 去执行，Fable 5 验收，相对来说可以做出比较靠谱的方案，以及兼顾性价比。具体是这么做的：\n\n1. Fable 5 的产出是技术方案文档（图1）\n\n一方面文档方便批注修改，另一方面文档方便其他 Agent 快速上手\n\n2. 文档确认后在当前先 /compact 一次\n\n这一步不是必要的，但是有好处，因为后续还要在同一会话去验证，/compact 压缩后，节约后续的上下文空间，之所以讨论方案就马上发送 /compact，因为这时候 Prompt Caching 还在，成本低，后面缓存过期了 compact 要贵一点。\n\n3. 把文档交给 Codex （GPT-5.6 Sol xhigh）去执行（图2）\n\n如果任务明显比较复杂，我一般会加上 /goal，这样中间就不需要反复去 continue，一次性把任务完成\n\n4. Codex 完成后让 Fable 验证（图3）\n\n直接告诉 Fable 其他 Agent 已经实施了，让它确认有没有遗漏，或者方向有无偏离。\n\n如果有些遗漏之类的，把 Fable 的反馈发回给 Codex（图4），不需要新开会话，在同一个 Codex 会话，Codex 会根据反馈继续完善。\n\n---\n\n如果用 Opus 5 替代 GPT 5.6 也可以，做法上可以跟上面一样新开会话，用文档传递上下文。\n\n也可以直接让 Fable 5 开 SubAgent 并指定用 Opus 5 模型，并且要求在 SubAgent 完成任务后验证。\n\n但是我执行下来 Opus 5 不如 GPT 5.6 Sol 稳定，也不如 GPT 5.6 Token 耐用，所以宁愿麻烦一点。"
+    },
+    "url": "https://x.com/dotey/status/2102433483834503425",
+    "time": "Tue Sep 22 16:22:58 +0000 2026",
+    "created_at": "Tue Sep 22 16:22:58 +0000 2026",
+    "id_str": "2102433483834503425",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "The smartest idea in @PaulKlayVC’s article has little to do with job hunting\n\nIt’s about replacing persuasion with evidence.\n\n> A CV asks a founder to imagine your value\n> Real work removes the need to imagine\n\nSkip the careers page. Find an expensive problem: abandoned onboarding, ignored leads, attention that never becomes revenue, or hours lost to manual work.\n\nThen build the smallest proof: a prototype, five customer interviews, a redesigned flow, or a useful automation.\n\nYour message becomes:\n\n> “I found where you’re losing time or money. Here’s the evidence and the smallest test to verify it.”\n\nCap the experiment, define the metric and set a decision date. Proof of value should never become unlimited free labor.\n\nDon’t ask if they have a role.\n\nMake them ask how they can keep you.\n\nMore smart thinking on careers and leverage: @SahilBloom @david_perell @shreyas",
+    "quoted_tweet": {
+      "author": "Paul Klay",
+      "username": "PaulKlayVC",
+      "text": "https://x.com/i/article/2101342247681712128"
+    },
+    "url": "https://x.com/doublenickk/status/2102460646256239010",
+    "time": "Tue Sep 22 18:10:54 +0000 2026",
+    "created_at": "Tue Sep 22 18:10:54 +0000 2026",
+    "id_str": "2102460646256239010",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@googlegemma @grok 这个有什么业务意义呢？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2102567652107735351",
+    "time": "2026-09-23 09:16",
+    "created_at": "Wed Sep 23 01:16:06 +0000 2026",
+    "id_str": "2102567652107735351",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@seeedstudio @grok 这是啥东西，多少钱？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2102570757935313391",
+    "time": "2026-09-23 09:28",
+    "created_at": "Wed Sep 23 01:28:27 +0000 2026",
+    "id_str": "2102570757935313391",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@doublenickk @PaulKlayVC @grok 这篇文章有啥独特的观点和创新",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2102571754430640469",
+    "time": "2026-09-23 09:32",
+    "created_at": "Wed Sep 23 01:32:24 +0000 2026",
+    "id_str": "2102571754430640469",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@robo_7seg @grok 这个有啥创新？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2102572409488585130",
+    "time": "2026-09-23 09:35",
+    "created_at": "Wed Sep 23 01:35:00 +0000 2026",
+    "id_str": "2102572409488585130",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@m_ryabinin @grok 这篇文章有什么创新的观点，消费什么数据集",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2102573255811019116",
+    "time": "2026-09-23 09:38",
+    "created_at": "Wed Sep 23 01:38:22 +0000 2026",
+    "id_str": "2102573255811019116",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Mimo-V2.6 is on https://B.AI @_LuoFuli",
+    "quoted_tweet": {
+      "author": "B.AI",
+      "username": "BAI_AGI",
+      "text": "📢 Xiaomi MiMo-V2.6 Series Models Are Now Live on http://B.AI\n\nDeveloped by Xiaomi MiMo, the newly released V2.6 series features open-weights native multimodal reasoning models with a 1M context window and full text/image/video/audio understanding:\n\n🔸 MiMo-V2.6-Pro: Flagship 1.02T total / 42B active parameter sparse MoE architecture, engineered for repository-level software engineering, long-horizon agent workflows, and complex multimodal reasoning.\n🔸 MiMo-V2.6-Flash: High-efficiency 309B total / 15B active parameter architecture, optimized for high-frequency office automation, fast agent execution, and cost-sensitive workloads.\n\nNow available on both http://B.AI API and Web Chat!\n👉 Try now: https://chat.b.ai/chat"
+    },
+    "url": "https://x.com/justinsuntron/status/2102609507377705448",
+    "time": "2026-09-23 12:02",
+    "created_at": "Wed Sep 23 04:02:25 +0000 2026",
+    "id_str": "2102609507377705448",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "$TRXS on @public",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": "The Canary Staked TRX ETF is live on @public.  \n\nExpanding exposure to TRX through traditional financial markets.   \n\nFor $TRXS details, please see:\nhttps://canaryetfs.com/trxs/"
+    },
+    "url": "https://x.com/justinsuntron/status/2102617116759466214",
+    "time": "2026-09-23 12:32",
+    "created_at": "Wed Sep 23 04:32:40 +0000 2026",
+    "id_str": "2102617116759466214",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "New TradFi perps are listed on @HTX_Global",
+    "quoted_tweet": {
+      "author": "HTX",
+      "username": "HTX_Global",
+      "text": "New TradFi perps are listed! 🚀\n\nHTX adds CLSK/USDT, BAC/USDT and LIN/USDT perpetual futures with up to 20x leverage.\nhttps://www.htx.net.in/en-us/support/65044369659629\n\nNew Coin Futures Contest Is Heating Up!\nhttps://www.htx.net.ht/en-us/mars/web/activity-center?callId=178999710284267"
+    },
+    "url": "https://x.com/justinsuntron/status/2102638995276812605",
+    "time": "2026-09-23 13:59",
+    "created_at": "Wed Sep 23 05:59:36 +0000 2026",
+    "id_str": "2102638995276812605",
+    "is_retweet": false
+  }
+]
