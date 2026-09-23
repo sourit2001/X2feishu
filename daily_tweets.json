@@ -202,5 +202,645 @@
     "created_at": "Wed Sep 23 05:59:36 +0000 2026",
     "id_str": "2102638995276812605",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "藏师傅 1 万多 star 的去 AI 味 Skill Humanizer-zh 迎来了一大波更新！\n\n这次更新增加了很多上游的迭代，同时也吸收了很多 issue 里大家提的意见。\n\n大家可以试试。如果有问题，可以在 issue 里反馈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102590676156432876",
+    "time": "2026-09-23 10:47",
+    "created_at": "Wed Sep 23 02:47:36 +0000 2026",
+    "id_str": "2102590676156432876",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "https://github.com/op7418/Humanizer-zh",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102590728677540290",
+    "time": "2026-09-23 10:47",
+    "created_at": "Wed Sep 23 02:47:48 +0000 2026",
+    "id_str": "2102590728677540290",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 用这个 skill 输出的文本能通过公众号的 AI 生成审查不",
+    "quoted_tweet": null,
+    "url": "https://x.com/zachzhao1984/status/2102607336032571794",
+    "time": "2026-09-23 11:53",
+    "created_at": "Wed Sep 23 03:53:48 +0000 2026",
+    "id_str": "2102607336032571794",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@zachzhao1984 不保证",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102609435856404938",
+    "time": "2026-09-23 12:02",
+    "created_at": "Wed Sep 23 04:02:08 +0000 2026",
+    "id_str": "2102609435856404938",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这个图片的文案没用 Skill，而且每个人对 AI 味理解都不一样，有用就用，觉得没用自己搞就行",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102610094508974493",
+    "time": "2026-09-23 12:04",
+    "created_at": "Wed Sep 23 04:04:45 +0000 2026",
+    "id_str": "2102610094508974493",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Opus 5.5（图1-2） vs GPT 6 Astra（图3-4）\n\nOpus 5.5 网页：https://s.baoyu.io/files/sakura-valley-opus-5-5.html\n\nGPT 6 Astra 网页：https://s.baoyu.io/files/sakura-valley-gpt-6-astra.html\n\n --- Prompt ---\n\n请直接制作一个可以在浏览器中实时交互的高完成度 3D 景观网页。\n\n主题：日式樱花山谷。\n使用 HTML、CSS、JavaScript 实现。不要生成图片，不要只给设计方案，\n不要用一张背景图加视差效果冒充 3D。我要的是实际可运行、可游览的成品。\n\n【一、作品定位】\n\n这是一片完整、连续、有远近层次的山谷景观，\n不是孤立的小摆件、悬浮岛、带底座的沙盘，也不是单纯的技术演示。\n\n风格是现代精细体素 / voxel art：\n保留立方体几何的造型语言，但画面应高分辨率、抗锯齿、光影细腻。\n不要复古低分辨率像素化，不要粗大积木堆砌，不要给画面套像素滤镜。\n\n视觉质量优先。宁可少几个功能，也不要牺牲构图、材质和光照。\n\n【二、参考图的使用方式】\n\n如果附有参考图，请先理解它的构图层次、尺度、光线和色彩关系。\n仅借鉴氛围与视觉语言，重新设计场景，\n不要照搬建筑、树木、山体和道路的位置，不要 1:1 复刻。\n\n参考图不是网页里的背景素材。场景本身必须由真实 3D 几何构成。\n\n【三、场景构图】\n\n默认打开时就应呈现一幅完整、有吸引力的画面，\n不需要用户先旋转镜头才能找到好看的角度。\n\n采用透视相机，而不是沙盘式等距俯视相机。\n画面有明确的前景、中景、远景：\n\n前景：\n一株有存在感的古老樱花树，配合岩石、草木、石灯笼和少量落花，\n形成画面边缘的自然框景，但不能挡住河流、桥和主要建筑。\n\n中景：\n一条蜿蜒河流引导视线进入画面，红色木桥横跨河面；\n村落、茶屋、神社和小径顺着地势分布，建筑之间有真实的通行关系。\n地面有起伏、岸线和自然过渡，不是平面上均匀摆放模型。\n\n远景：\n山坡上的多层塔、不同距离的森林和山脊，以及远处的雪山。\n用尺度变化、遮挡、冷暖变化和空气透视表现距离，\n而不是仅仅把远处物体缩小。\n\n不要把所有元素均匀铺满。需要主次、疏密、留白和清楚的视觉焦点。\n\n【四、造型与画面质量】\n\n樱花树：\n树干有转折、分叉和根部，树冠由不规则花簇组成，\n有间隙、厚薄变化和可见枝条。不要做成几个规则球体或方块团。\n\n建筑：\n屋顶有层叠瓦片、挑檐、梁柱和窗格；\n不同建筑有用途、体量和高度差异，不要复制同一栋房子铺满山谷。\n\n地形：\n岸边有湿润石块、草丛和植被过渡。\n避免过于规律的台阶、重复条纹、棋盘格和明显的程序生成网格。\n\n水面：\n必须能够反映周围景物，具有适度的波纹、深浅变化和岸边过渡。\n尽量使用实际场景反射；需要性能降级时也应保持视觉可信。\n不要用闪烁噪声、强烈扭曲或一整块蓝色平面代替水。\n\n细节：\n可以有少量锦鲤、落花、萤火虫、瀑布和远处飞鸟，\n但都应服务于氛围，不能让画面显得嘈杂。\n不要为了宣称模型数量而堆砌细节。\n\n【五、色彩与氛围】\n\n默认是蓝调时刻：\n偏冷的山谷与远山，柔和的粉色樱花，温暖但不过曝的灯笼和窗光。\n暖光集中在有人活动的地方，不要把整个环境染成橙色。\n\n需要柔和阴影、物体接触处的明暗、合理的曝光、\n克制的泛光、抗锯齿和有距离层次的薄雾。\n\n避免发白、灰蒙、过度饱和、满屏浓雾、过曝灯光和明显锯齿。\n方块几何可以清晰，但渲染本身不能粗糙。\n\n另提供“清晨”和“雨中”两种氛围；\n切换时应同步改变天空、环境光、雾和局部效果，\n不是仅仅修改背景颜色。\n\n【六、交互与界面】\n\n提供四个经过设计的镜头：\n山谷全景、河边低机位、寺庙小径、山坡俯瞰。\n切换应平滑，每个镜头都需要有独立的构图价值。\n\n基础交互：\n鼠标拖动观察、滚轮缩放或前进，触屏支持拖动和双指缩放。\n提供重置视角、隐藏界面和保存当前画面的功能。\n\n可选增强：\n自由探索、缓慢镜头巡游、环境音。\n环境音默认关闭，只在用户主动点击后播放。\n额外功能不能影响默认画面的完成度。\n\n界面要克制、有设计感，以景观为主。\n标题和控制条放在边缘，不遮挡视觉焦点。\n桌面和手机都不能出现按钮越界、文字重叠或无法操作的问题。\n\n【七、工程与性能】\n\n允许使用 Three.js / WebGL，以及版本固定、互相兼容的 CDN 依赖。\n优先使用成熟渲染能力，不要为了“零依赖”重写整套引擎。\n\n自写的 HTML、CSS、JavaScript 尽量整理在一个 HTML 文件中。\n景物由程序化几何和材质生成，不依赖外部图片或 3D 模型资源。\n\n重复物体采用适合的批量或实例化绘制方式；\n合理控制细分、阴影、反射和渲染分辨率。\n提供高画质和轻量模式，手机默认使用较轻设置。\n不要靠无限增加体素数量换取细节。\n\n加入加载提示、WebGL 不支持时的提示和必要的错误处理。\n没有开启声音时不要自动播放；尊重减少动态效果的系统偏好。\n\n【八、交付前验收】\n\n不要写完代码就立即交付。\n\n如果当前环境支持浏览器运行和截图，请先实际打开页面，\n检查默认镜头、四个视角、氛围切换、桌面和手机布局，\n再根据截图修正明显的构图、曝光、遮挡和渲染问题。\n\n重点检查：\n是否存在空白画面、加载失败、控制台错误；\n是否有穿模、闪烁、阴影条纹、过曝、水面异常；\n默认画面是否真正像完整景观，而不是小型沙盘；\n功能按钮是否实际可用，移动端是否越界。\n\n可以使用浏览器截图验收，但不要调用图像生成工具。\n没有完成的测试要如实说明，不要声称已经验证。\n\n最终交付：\n1. 实际存在、可以打开的 HTML 文件，或当前环境支持的交互预览。\n2. 如能截图，附一张真实浏览器渲染截图。\n3. 简短说明操作方式和必要的运行条件。\n\n请直接完成制作；非关键细节自行作出一致的设计选择，\n不要把可以自行解决的实现问题反复交给我决定。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102565403109085669",
+    "time": "2026-09-23 09:07",
+    "created_at": "Wed Sep 23 01:07:10 +0000 2026",
+    "id_str": "2102565403109085669",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey GPT 6 Astra 更胜一筹",
+    "quoted_tweet": null,
+    "url": "https://x.com/chaojidigua/status/2102566029436317975",
+    "time": "2026-09-23 09:09",
+    "created_at": "Wed Sep 23 01:09:39 +0000 2026",
+    "id_str": "2102566029436317975",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@chaojidigua 细节上Opus 5.5 更强，有游鱼有飞鸟",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102566392922849374",
+    "time": "2026-09-23 09:11",
+    "created_at": "Wed Sep 23 01:11:06 +0000 2026",
+    "id_str": "2102566392922849374",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@azed_ai Thanks for sharing 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102568161031991327",
+    "time": "2026-09-23 09:18",
+    "created_at": "Wed Sep 23 01:18:08 +0000 2026",
+    "id_str": "2102568161031991327",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 请问提示词是AI写的还是手写的？",
+    "quoted_tweet": null,
+    "url": "https://x.com/agmugei/status/2102569158198321327",
+    "time": "2026-09-23 09:22",
+    "created_at": "Wed Sep 23 01:22:05 +0000 2026",
+    "id_str": "2102569158198321327",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@agmugei 指挥 AI 写的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102570407304011975",
+    "time": "2026-09-23 09:27",
+    "created_at": "Wed Sep 23 01:27:03 +0000 2026",
+    "id_str": "2102570407304011975",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 小颗粒积木的感觉",
+    "quoted_tweet": null,
+    "url": "https://x.com/Xian0063/status/2102571120734224521",
+    "time": "2026-09-23 09:29",
+    "created_at": "Wed Sep 23 01:29:53 +0000 2026",
+    "id_str": "2102571120734224521",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Xian0063 MineCraft……",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102571268763726218",
+    "time": "2026-09-23 09:30",
+    "created_at": "Wed Sep 23 01:30:29 +0000 2026",
+    "id_str": "2102571268763726218",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey baoyu-design 使用的时候有点问题，滚轮的放大缩小比例太大了，想放大，刚滚一下，画布就太大了，想缩小，又太小了",
+    "quoted_tweet": null,
+    "url": "https://x.com/Blazeghovo/status/2102573416801042927",
+    "time": "2026-09-23 09:39",
+    "created_at": "Wed Sep 23 01:39:01 +0000 2026",
+    "id_str": "2102573416801042927",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师，现在 /desgin 直接描述需求它会自动在 Claude desgin 里面创建设计结果，然后 cc 复刻，不用每次线上做再导出到本地复刻了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/RookieRicardoR/status/2102575405437981099",
+    "time": "2026-09-23 09:46",
+    "created_at": "Wed Sep 23 01:46:55 +0000 2026",
+    "id_str": "2102575405437981099",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@RookieRicardoR 我用了，还是很麻烦，它是基于artifacts，不如直接编辑html直观",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102576496015728722",
+    "time": "2026-09-23 09:51",
+    "created_at": "Wed Sep 23 01:51:15 +0000 2026",
+    "id_str": "2102576496015728722",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey Fable 5.1还是最强吗？如果不是凭啥还这么贵？还限制使用量？",
+    "quoted_tweet": null,
+    "url": "https://x.com/shijian20071228/status/2102589140898611433",
+    "time": "2026-09-23 10:41",
+    "created_at": "Wed Sep 23 02:41:30 +0000 2026",
+    "id_str": "2102589140898611433",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@shijian20071228 是最强",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102592976065028338",
+    "time": "2026-09-23 10:56",
+    "created_at": "Wed Sep 23 02:56:44 +0000 2026",
+    "id_str": "2102592976065028338",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "以前都是gpt更便宜，这次居然是opus",
+    "quoted_tweet": null,
+    "url": "https://x.com/xxxjzuo/status/2102597501677339113",
+    "time": "2026-09-23 11:14",
+    "created_at": "Wed Sep 23 03:14:43 +0000 2026",
+    "id_str": "2102597501677339113",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 大力奥不反对吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/LiuGods/status/2102616440859992340",
+    "time": "2026-09-23 12:29",
+    "created_at": "Wed Sep 23 04:29:58 +0000 2026",
+    "id_str": "2102616440859992340",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LiuGods 反对有用吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102617384175673470",
+    "time": "2026-09-23 12:33",
+    "created_at": "Wed Sep 23 04:33:43 +0000 2026",
+    "id_str": "2102617384175673470",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xxxjzuo Opus 5.5 应该对标 GPT-6 Sol 才对",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102617623548817796",
+    "time": "2026-09-23 12:34",
+    "created_at": "Wed Sep 23 04:34:40 +0000 2026",
+    "id_str": "2102617623548817796",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude 手机 App 现在支持多账号了，利好你有多个 Claude 账号",
+    "quoted_tweet": {
+      "author": "Robert Bye",
+      "username": "RobertJBye",
+      "text": "BTW we now support multiple accounts in the Claude mobile app"
+    },
+    "url": "https://x.com/dotey/status/2102619857783259285",
+    "time": "2026-09-23 12:43",
+    "created_at": "Wed Sep 23 04:43:33 +0000 2026",
+    "id_str": "2102619857783259285",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Blazeghovo 更新优化了一下，可以试试最新版本",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102633197012136374",
+    "time": "2026-09-23 13:36",
+    "created_at": "Wed Sep 23 05:36:33 +0000 2026",
+    "id_str": "2102633197012136374",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "a16z 办了一所学校：打破传统高等教育模式\n专为 AI 时代培养顶尖的“年轻创造者/实干家”\n\nAI 降低了动手做事的门槛，学习的重点也随之扩展：从掌握知识，走向选择值得做的问题、组织资源并完成作品。\n\n学院以自主项目为起点，用短期课程补知识、企业实践打开视野，每周复盘让学生对进展和承诺负责。\n\n真实项目也训练人际能力：为了取得一块芯片，你需要学会求助、说服和协作；只听一堂谈判课很难获得同样的经验。\n\n首期一年约招 50 人、免学费，生活成本自理，不授大学学位或学分。这是一条面向已有实践动力者的探索路径，合作网络提供机会，录用仍须面试。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102594298017652943",
+    "time": "2026-09-23 11:01",
+    "created_at": "Wed Sep 23 03:01:59 +0000 2026",
+    "id_str": "2102594298017652943",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "HAA 是一家独立运营的营利性教育公司。学院披露已筹集 4,200 万美元，其中 a16z 投入 3,500 万美元；Marc Andreessen 与 Erik Torenberg 进入董事会，另有来自 Shopify、DoorDash、Quora 等公司的创业者参与个人投资。\n\nhttps://best.xiaohu.ai/article/horowitz-andreessen-academy/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102594300785967181",
+    "time": "2026-09-23 11:02",
+    "created_at": "Wed Sep 23 03:02:00 +0000 2026",
+    "id_str": "2102594300785967181",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Opus 5.5 使用指南：从交代任务到验收结果\n\nOpus 5.5的三个变化：\n\n- Opus 5.5 比前代更能推进多步骤长任务；\n- 每次回复前会自行决定思考量；\n- 结束时更清楚地说明做了什么、发现了什么、还需要你处理什么。\n\n驾驭 Opus 5.5 的首要变化不是掌握更复杂的提示词技巧，而是减少低效的人工干预。\n\n在与它的第一次会话中，Anthropic 建议优先尝试以下三件事：\n\n交出整项任务并讲清终点：在单条消息中给出完整任务目标，明确说明“怎样才算完成”，以及“在什么情况下停下来询问”，然后让它自主运行。\n\n删掉“仔细思考”等提示词：Opus 5.5 在每次回复前已经内置深度思考，并会自行评估所需的计算量，无需再手动添加思维催促词。\n\n长任务结束时，先看它需要你做什么：当漫长的执行告一段落，第一眼先找模型抛出的卡点或需要你决策的事项，确认没有阻塞项后再去通读改动摘要。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102645741512700076",
+    "time": "2026-09-23 14:26",
+    "created_at": "Wed Sep 23 06:26:24 +0000 2026",
+    "id_str": "2102645741512700076",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "在大型代码修改或复杂工作上时，很多人会把任务切成一小步一小步，反复问“继续吗”，再加一句“仔细思考”。\n\n这些做法原本是为了防止任务跑偏；面对更能持续执行的 Opus 5.5，却可能把本可连贯完成的工作切断。\nhttps://best.xiaohu.ai/article/opus-5-5-guide/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102645743999918373",
+    "time": "2026-09-23 14:26",
+    "created_at": "Wed Sep 23 06:26:25 +0000 2026",
+    "id_str": "2102645743999918373",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Opus 5.5 能力及边界详细介绍↓\n\nhttps://best.xiaohu.ai/article/claude-opus-5-5/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2102645745941975287",
+    "time": "2026-09-23 14:26",
+    "created_at": "Wed Sep 23 06:26:25 +0000 2026",
+    "id_str": "2102645745941975287",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/rIkYHCT07K",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2102382839333294082",
+          "display": "pic.x.com/rIkYHCT07K",
+          "original": "https://t.co/rIkYHCT07K",
+          "replacement": "https://x.com/os_orabi/status/2102548502110933169/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/os_orabi/status/2102548502110933169",
+    "time": "2026-09-23 08:00",
+    "created_at": "Wed Sep 23 00:00:01 +0000 2026",
+    "id_str": "2102548502110933169",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@The_Alex So coool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102615779741159746",
+    "time": "2026-09-23 12:27",
+    "created_at": "Wed Sep 23 04:27:21 +0000 2026",
+    "id_str": "2102615779741159746",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/cernanska3351/status/2102616708414402801",
+    "time": "2026-09-23 12:31",
+    "created_at": "Wed Sep 23 04:31:02 +0000 2026",
+    "id_str": "2102616708414402801",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@cernanska3351 Lovely",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102617346858729554",
+    "time": "2026-09-23 12:33",
+    "created_at": "Wed Sep 23 04:33:34 +0000 2026",
+    "id_str": "2102617346858729554",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Let’s try this again. AI art is art.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102617541101195739",
+    "time": "2026-09-23 12:34",
+    "created_at": "Wed Sep 23 04:34:21 +0000 2026",
+    "id_str": "2102617541101195739",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I absolutely love Rick Rubin, currently reading his book. \n\nI’m glad he gets AI. Creativity is in the prompt and also ways to use all the different tools and create with them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102619682511413720",
+    "time": "2026-09-23 12:42",
+    "created_at": "Wed Sep 23 04:42:51 +0000 2026",
+    "id_str": "2102619682511413720",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Such great use of Astra. You can also do this with new Opus 5.5 and save some tokens",
+    "quoted_tweet": {
+      "author": "Chase Lean",
+      "username": "chaseleantj",
+      "text": "I asked Astra to create an interactive aquarium wallpaper for my Mac.\n\nThe fish respond to the cursor!"
+    },
+    "url": "https://x.com/icreatelife/status/2102619899994791955",
+    "time": "2026-09-23 12:43",
+    "created_at": "Wed Sep 23 04:43:43 +0000 2026",
+    "id_str": "2102619899994791955",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Part of me doesn’t understand why this is such a profound thought. \n\nLike, seems common sense to me. I do t get it. \n\nHbu?",
+    "quoted_tweet": null,
+    "url": "https://x.com/postboxrebel/status/2102621053570928958",
+    "time": "2026-09-23 12:48",
+    "created_at": "Wed Sep 23 04:48:18 +0000 2026",
+    "id_str": "2102621053570928958",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I am rereading his book",
+    "quoted_tweet": null,
+    "url": "https://x.com/LetsGoCure/status/2102621359901712648",
+    "time": "2026-09-23 12:49",
+    "created_at": "Wed Sep 23 04:49:31 +0000 2026",
+    "id_str": "2102621359901712648",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LetsGoCure It’s my bedside table book. So inspiring and deep",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102621782779855029",
+    "time": "2026-09-23 12:51",
+    "created_at": "Wed Sep 23 04:51:12 +0000 2026",
+    "id_str": "2102621782779855029",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@postboxrebel It’s just when someone high profile supports AI there’s a massive backlash, so the more people support it openly, the less stigma in using it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102621958236233836",
+    "time": "2026-09-23 12:51",
+    "created_at": "Wed Sep 23 04:51:54 +0000 2026",
+    "id_str": "2102621958236233836",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@os_orabi Love this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102623156800495982",
+    "time": "2026-09-23 12:56",
+    "created_at": "Wed Sep 23 04:56:40 +0000 2026",
+    "id_str": "2102623156800495982",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "But do you have a favorite pen? 🇯🇵",
+    "quoted_tweet": null,
+    "url": "https://x.com/Darbybailey/status/2102628485340504443",
+    "time": "2026-09-23 13:17",
+    "created_at": "Wed Sep 23 05:17:50 +0000 2026",
+    "id_str": "2102628485340504443",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Me on X vs Me in real life",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102633836060316101",
+    "time": "2026-09-23 13:39",
+    "created_at": "Wed Sep 23 05:39:06 +0000 2026",
+    "id_str": "2102633836060316101",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Bilawal is just really smart and this is beautiful",
+    "quoted_tweet": {
+      "author": "Bilawal Sidhu",
+      "username": "bilawalsidhu",
+      "text": "Space and time reconstructed in 4D \n\nIs this how higher dimensional beings see us - every moment at once? \n\nStarting to understand what Vonnegut meant by humans being “great millipedes” - clearly it applies to our four legged friends too! \n\nGeolocated 2d video → per frame 3d gaussians → each left precisely where & when it happened"
+    },
+    "url": "https://x.com/icreatelife/status/2102637288056619437",
+    "time": "2026-09-23 13:52",
+    "created_at": "Wed Sep 23 05:52:49 +0000 2026",
+    "id_str": "2102637288056619437",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Me too",
+    "quoted_tweet": null,
+    "url": "https://x.com/TheWorldNews/status/2102637514268049730",
+    "time": "2026-09-23 13:53",
+    "created_at": "Wed Sep 23 05:53:43 +0000 2026",
+    "id_str": "2102637514268049730",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TheWorldNews 🫂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102638822144057472",
+    "time": "2026-09-23 13:58",
+    "created_at": "Wed Sep 23 05:58:54 +0000 2026",
+    "id_str": "2102638822144057472",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Rename AI \n\nWrong answers only, please 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102638925739118631",
+    "time": "2026-09-23 13:59",
+    "created_at": "Wed Sep 23 05:59:19 +0000 2026",
+    "id_str": "2102638925739118631",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Link to the Copyright Office guidelines. My work Rose Enigma was used to illustrate what’s copyrightable with AI: https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102643439690994118",
+    "time": "2026-09-23 14:17",
+    "created_at": "Wed Sep 23 06:17:15 +0000 2026",
+    "id_str": "2102643439690994118",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It’s okay to stand out. Share your talents. Use tools you like (AI included) in your own way and share it with others. Don’t be shy. At least on social media. You are in your room. Safe 😁Use what makes you different to contribute in a way others can’t and post about it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102645031022829661",
+    "time": "2026-09-23 14:23",
+    "created_at": "Wed Sep 23 06:23:35 +0000 2026",
+    "id_str": "2102645031022829661",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife copyright... 😫",
+    "quoted_tweet": null,
+    "url": "https://x.com/Jeremy14723622/status/2102647846734532908",
+    "time": "2026-09-23 14:34",
+    "created_at": "Wed Sep 23 06:34:46 +0000 2026",
+    "id_str": "2102647846734532908",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Should I",
+    "quoted_tweet": null,
+    "url": "https://x.com/ivan_makarov/status/2102647987264778651",
+    "time": "2026-09-23 14:35",
+    "created_at": "Wed Sep 23 06:35:20 +0000 2026",
+    "id_str": "2102647987264778651",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So nice! I love talent of this community",
+    "quoted_tweet": {
+      "author": "Tomáš Kubín 🇨🇿",
+      "username": "tomaskubin_",
+      "text": "@lukasersil @icreatelife A tenhle také."
+    },
+    "url": "https://x.com/icreatelife/status/2102648121612214770",
+    "time": "2026-09-23 14:35",
+    "created_at": "Wed Sep 23 06:35:52 +0000 2026",
+    "id_str": "2102648121612214770",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ivan_makarov Please please",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102648562928500812",
+    "time": "2026-09-23 14:37",
+    "created_at": "Wed Sep 23 06:37:37 +0000 2026",
+    "id_str": "2102648562928500812",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Jeremy14723622 It was a big step",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102648669656998375",
+    "time": "2026-09-23 14:38",
+    "created_at": "Wed Sep 23 06:38:02 +0000 2026",
+    "id_str": "2102648669656998375",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Darbybailey I have some of those",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2102648771913941119",
+    "time": "2026-09-23 14:38",
+    "created_at": "Wed Sep 23 06:38:27 +0000 2026",
+    "id_str": "2102648771913941119",
+    "is_retweet": false
   }
 ]
