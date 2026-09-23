@@ -287,5 +287,540 @@
     "created_at": "Wed Sep 23 13:05:21 +0000 2026",
     "id_str": "2102746139997216928",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 风控不算严吧，用美国住宅ip注册之后，平时用的时候对ip都没有要求了",
+    "quoted_tweet": null,
+    "url": "https://x.com/wong2__/status/2102736509623554346",
+    "time": "2026-09-23 20:27",
+    "created_at": "Wed Sep 23 12:27:05 +0000 2026",
+    "id_str": "2102736509623554346",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@wong2__ 嗯嗯 就ip恶心",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102783667005542609",
+    "time": "2026-09-23 23:34",
+    "created_at": "Wed Sep 23 15:34:28 +0000 2026",
+    "id_str": "2102783667005542609",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Muse 这个头像也很好玩，可以自定义的\n\n他会先生成图片，然后你选择后会生成类似 3D 效果的视频来展示不同的工作状态，比如在工作就收敲电脑",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102802137906630955",
+    "time": "2026-09-24 00:47",
+    "created_at": "Wed Sep 23 16:47:52 +0000 2026",
+    "id_str": "2102802137906630955",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 muse的feed很不错，可以自定义，可以全中文翻译",
+    "quoted_tweet": null,
+    "url": "https://x.com/goldengrape/status/2102804886320799850",
+    "time": "2026-09-24 00:58",
+    "created_at": "Wed Sep 23 16:58:47 +0000 2026",
+    "id_str": "2102804886320799850",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@goldengrape 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102805725970112797",
+    "time": "2026-09-24 01:02",
+    "created_at": "Wed Sep 23 17:02:07 +0000 2026",
+    "id_str": "2102805725970112797",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "发可以，不要频繁地刷屏和回复哈。\n\n然后同样的内容有好几个人这样搞，我已经都屏蔽和隐藏了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2102806696641138892",
+    "time": "2026-09-24 01:05",
+    "created_at": "Wed Sep 23 17:05:59 +0000 2026",
+    "id_str": "2102806696641138892",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "可以见到现在国内的竞争多么激烈。\n\n这是我朋友做的，所以我早就参与了内测，他们发版时我就帮忙转发了。\n\n结果下面一堆不知道哪来的也不是粉丝的人，质问为什么付费推广不标注，以前从来没有过这种情况。\n\n那么这些人是哪来的呢？很好奇，以前确实从来没有出现过这种情况。",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "我内测了很久的 Today AI，在 24 号国内就能全量上线了。\n\n这应该是国内我看到的第一个贯彻 personal agent 概念的产品。\n\n它在交互体验、上下文获取、使用体验和一些细节地方做得特别好。\n\n我从内测开始就一直在用，到时候可以试试。"
+    },
+    "url": "https://x.com/op7418/status/2102806761711546875",
+    "time": "2026-09-24 01:06",
+    "created_at": "Wed Sep 23 17:06:14 +0000 2026",
+    "id_str": "2102806761711546875",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@haidihuxi @dotey +1，我也好奇该咋弄呢",
+    "quoted_tweet": null,
+    "url": "https://x.com/waitandwish/status/2102664545865257372",
+    "time": "2026-09-23 15:41",
+    "created_at": "Wed Sep 23 07:41:08 +0000 2026",
+    "id_str": "2102664545865257372",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "复杂任务必须要写方案。\n\n一，建立共识，一句话并不足以讲明白目标，细节才真正影响目标和架构\n二，同步背景，ai 会围绕目标收集信息，暴露现有缺陷\n三，锁定路径，ai 会在解决具体问题的时候逐渐失去目标，最后再来回返工\n四，记录过程，工作文件会在过程中不断更新",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "我不用 plan 模式，但是我复杂一点的会先写技术方案文档，主要是：\n1. 人看看文档确保大方向有没有问题\n2. Fable 写文档，文档里面写清楚技术细节和如何验证，后续 Opus 执行\n3. 作为后续验收的依据，Opus 实施完，在新会话让 Fable 按照文档去验收一下\n4. 一些重要文档会留档，但会保持更新\n5. 有时候会在 ChatGPT 网页版用 GPT-6 Pro 访问 Repo 写技术方案文档，下载下来让 Fable 去审查再让 Opus 执行\n\n简单来说，重点不是用 plan mode，但是用一个文档让人可以确认方向，以及后续多 Agent 协作传递上下文是很有价值的"
+    },
+    "url": "https://x.com/xicilion/status/2102677917977436664",
+    "time": "2026-09-23 16:34",
+    "created_at": "Wed Sep 23 08:34:16 +0000 2026",
+    "id_str": "2102677917977436664",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @dotey 老师 请教一下(^🙏^)",
+    "quoted_tweet": null,
+    "url": "https://x.com/haidihuxi/status/2102678888572973431",
+    "time": "2026-09-23 16:38",
+    "created_at": "Wed Sep 23 08:38:07 +0000 2026",
+    "id_str": "2102678888572973431",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我习惯写完文档后，再用plan进行执行规划",
+    "quoted_tweet": null,
+    "url": "https://x.com/liang65901/status/2102679762305163612",
+    "time": "2026-09-23 16:41",
+    "created_at": "Wed Sep 23 08:41:35 +0000 2026",
+    "id_str": "2102679762305163612",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 唉，写作上GPT什么时候才能赶上去，目前写文案还是要Opus 4.6才行",
+    "quoted_tweet": null,
+    "url": "https://x.com/sakurakenshin/status/2102680056523071586",
+    "time": "2026-09-23 16:42",
+    "created_at": "Wed Sep 23 08:42:46 +0000 2026",
+    "id_str": "2102680056523071586",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey Figma MCP收费，这是最关键！",
+    "quoted_tweet": null,
+    "url": "https://x.com/GdML1b0OFr90679/status/2102683114451689488",
+    "time": "2026-09-23 16:54",
+    "created_at": "Wed Sep 23 08:54:55 +0000 2026",
+    "id_str": "2102683114451689488",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这个就很像开个大的 issues ，然后在拆分成小 issues ，opus 只需要把小的 issues ，然后Fable 在做验收对吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/matoto79800358/status/2102689299846365495",
+    "time": "2026-09-23 17:19",
+    "created_at": "Wed Sep 23 09:19:29 +0000 2026",
+    "id_str": "2102689299846365495",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 用 design 最头疼的一个点前面设计的挺好，后续迭代的时候，已经直接在代码上进行调整了。导致 design 落后太多，最终只能是项目开始的时候用。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Ka0322Ka/status/2102701205982241068",
+    "time": "2026-09-23 18:06",
+    "created_at": "Wed Sep 23 10:06:48 +0000 2026",
+    "id_str": "2102701205982241068",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 会出现文档积累的越累越多，tokens 消耗的也越来越大的情况么",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xgenffy/status/2102714513955172575",
+    "time": "2026-09-23 18:59",
+    "created_at": "Wed Sep 23 10:59:41 +0000 2026",
+    "id_str": "2102714513955172575",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey Fable 写计划容易 scope creeping。我现在已经换成 Opus 5.5，然后用 Fable 进行对抗审查了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/realWeZZard/status/2102724272301146339",
+    "time": "2026-09-23 19:38",
+    "created_at": "Wed Sep 23 11:38:27 +0000 2026",
+    "id_str": "2102724272301146339",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "现在看 Manus 真的很可惜\n核心创始人中是有人有美国生活经验的，加上卓越的工程能力，肯定可以打造出适合英语用户的、具有想象力的产品\n2026 本来应该是 Manus 在美国大杀四方的一年",
+    "quoted_tweet": null,
+    "url": "https://x.com/realWeZZard/status/2102772451881177200",
+    "time": "2026-09-23 22:49",
+    "created_at": "Wed Sep 23 14:49:54 +0000 2026",
+    "id_str": "2102772451881177200",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@waitandwish @haidihuxi Claude Code：https://code.claude.com/docs/en/advisor",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102774162062221533",
+    "time": "2026-09-23 22:56",
+    "created_at": "Wed Sep 23 14:56:42 +0000 2026",
+    "id_str": "2102774162062221533",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@realWeZZard 这是个好办法👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102781812384604585",
+    "time": "2026-09-23 23:27",
+    "created_at": "Wed Sep 23 15:27:06 +0000 2026",
+    "id_str": "2102781812384604585",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@0xgenffy 会，但还好，很多事情就是权衡利弊，没有绝对的好坏",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102787733232177363",
+    "time": "2026-09-23 23:50",
+    "created_at": "Wed Sep 23 15:50:38 +0000 2026",
+    "id_str": "2102787733232177363",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Ka0322Ka 在Agents md里面强制要求，然后设计原型的修改输入提示词也强调下，最后人把关",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102788047649599548",
+    "time": "2026-09-23 23:51",
+    "created_at": "Wed Sep 23 15:51:53 +0000 2026",
+    "id_str": "2102788047649599548",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@matoto79800358 可以像你说的这样，也可以不拆",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102788413485375700",
+    "time": "2026-09-23 23:53",
+    "created_at": "Wed Sep 23 15:53:20 +0000 2026",
+    "id_str": "2102788413485375700",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@GdML1b0OFr90679 😂 一直没用过",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102788588610183331",
+    "time": "2026-09-23 23:54",
+    "created_at": "Wed Sep 23 15:54:02 +0000 2026",
+    "id_str": "2102788588610183331",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@sakurakenshin Opus 5.5 写作很好",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102788689935970815",
+    "time": "2026-09-23 23:54",
+    "created_at": "Wed Sep 23 15:54:26 +0000 2026",
+    "id_str": "2102788689935970815",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@liang65901 这种情况可能不需要再plan",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102788821100163539",
+    "time": "2026-09-23 23:54",
+    "created_at": "Wed Sep 23 15:54:57 +0000 2026",
+    "id_str": "2102788821100163539",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@haidihuxi Claude Code",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "@waitandwish @haidihuxi Claude Code：https://code.claude.com/docs/en/advisor"
+    },
+    "url": "https://x.com/dotey/status/2102788972434874642",
+    "time": "2026-09-23 23:55",
+    "created_at": "Wed Sep 23 15:55:33 +0000 2026",
+    "id_str": "2102788972434874642",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@realWeZZard 所有没有自己的模型的 AI 公司处境都很难，连 Cursor 都不例外，现在和 Grok 结合才好了些。\n\n当年 Manus 去新加坡还不如直接来硅谷，彻底出海",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102802669513461925",
+    "time": "2026-09-24 00:49",
+    "created_at": "Wed Sep 23 16:49:59 +0000 2026",
+    "id_str": "2102802669513461925",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Opus 5.5 还是挺耐用，愣是没在重置前用完",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102805013328515318",
+    "time": "2026-09-24 00:59",
+    "created_at": "Wed Sep 23 16:59:18 +0000 2026",
+    "id_str": "2102805013328515318",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我现在普通的活儿用 Astra Medium 比较多，宝玉老师体感上感觉 Opus 5.5 对比咋样",
+    "quoted_tweet": null,
+    "url": "https://x.com/wzh_cc/status/2102807431181181132",
+    "time": "2026-09-24 01:08",
+    "created_at": "Wed Sep 23 17:08:54 +0000 2026",
+    "id_str": "2102807431181181132",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 200 还是20？",
+    "quoted_tweet": null,
+    "url": "https://x.com/wanggang258369/status/2102807644256047435",
+    "time": "2026-09-24 01:09",
+    "created_at": "Wed Sep 23 17:09:45 +0000 2026",
+    "id_str": "2102807644256047435",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@wzh_cc Opus 5.5 性价比综合第一，写作编码都没得说",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102808051124498637",
+    "time": "2026-09-24 01:11",
+    "created_at": "Wed Sep 23 17:11:22 +0000 2026",
+    "id_str": "2102808051124498637",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@wanggang258369 Max@20的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2102808124927435100",
+    "time": "2026-09-24 01:11",
+    "created_at": "Wed Sep 23 17:11:39 +0000 2026",
+    "id_str": "2102808124927435100",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2102758417706405888",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2102758425386172842",
+    "time": "2026-09-23 21:54",
+    "created_at": "Wed Sep 23 13:54:10 +0000 2026",
+    "id_str": "2102758425386172842",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@EXM7777",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2102775326891757677",
+    "time": "2026-09-23 23:01",
+    "created_at": "Wed Sep 23 15:01:20 +0000 2026",
+    "id_str": "2102775326891757677",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Open the article \nCmd A\nOpen Claude Code\nCmd V\nEnter\nWin",
+    "quoted_tweet": {
+      "author": "Machina",
+      "username": "EXM7777",
+      "text": "https://x.com/i/article/2102758417706405888"
+    },
+    "url": "https://x.com/vasuman/status/2102775594161434965",
+    "time": "2026-09-23 23:02",
+    "created_at": "Wed Sep 23 15:02:23 +0000 2026",
+    "id_str": "2102775594161434965",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman ... you forgot cmd C to copy.",
+    "quoted_tweet": null,
+    "url": "https://x.com/MikeVirtual71/status/2102792276430729263",
+    "time": "2026-09-24 00:08",
+    "created_at": "Wed Sep 23 16:08:41 +0000 2026",
+    "id_str": "2102792276430729263",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@MikeVirtual71 Historic L I don't think I'll ever recover from this",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2102800617693454375",
+    "time": "2026-09-24 00:41",
+    "created_at": "Wed Sep 23 16:41:50 +0000 2026",
+    "id_str": "2102800617693454375",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman No cmd c?",
+    "quoted_tweet": null,
+    "url": "https://x.com/GRITCULT/status/2102802994018328961",
+    "time": "2026-09-24 00:51",
+    "created_at": "Wed Sep 23 16:51:16 +0000 2026",
+    "id_str": "2102802994018328961",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@GRITCULT https://x.com/vasuman/status/2102800617693454375?s=20",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "@MikeVirtual71 Historic L I don't think I'll ever recover from this"
+    },
+    "url": "https://x.com/vasuman/status/2102803453382922456",
+    "time": "2026-09-24 00:53",
+    "created_at": "Wed Sep 23 16:53:06 +0000 2026",
+    "id_str": "2102803453382922456",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Since I have two young kids and spend all day thinking about technology, I've thought a ton about how to raise kids given how fast everything is changing.\n\nSo for the launch of HAA, Alex Danco and wrote about how we teach our kids & whether we'd send them there.\n\n(We don't think it'll be up to us to choose.)",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Introducing The Horowitz Andreessen Academy."
+    },
+    "url": "https://x.com/packyM/status/2102756626998386759",
+    "time": "2026-09-23 21:47",
+    "created_at": "Wed Sep 23 13:47:01 +0000 2026",
+    "id_str": "2102756626998386759",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"There is no safe career path today, let alone one that will remain safe for twenty years, which means that there is no set of schools and degrees that can guarantee a safe career into the 2040s and 2050s.\"\n\n\"Pushing them to get really good at math seems silly, when AI is currently tornadoing through all of the field's hardest open problems. Should you push them to become a lawyer?... Doctor?\"\n\n\"You're basically paying $650k to make sure your kid is admitted to a good high school, which should, but certainly isn't guaranteed to, help them get into a really good college, at which point they'll probably get a good job, at which point, they're set for life.\"\n\n\"The challenge with that, though, is that who knows what a good job will be in fifteen years?\"\n\n\"Expose your kids to a lot of things early, and then help them go as deep as they're able to on the things that excite them the most. It doesn't matter what those things are; cultivating curiosity and depth is the point.\"\n\n@packyM and @Alex_Danco on HAA, college, and their own kids: https://www.a16z.news/p/should-we-send-our-kids-to-haa",
+    "quoted_tweet": {
+      "author": "Alex Danco",
+      "username": "Alex_Danco",
+      "text": "https://x.com/i/article/2102757817434120192"
+    },
+    "url": "https://x.com/a16z/status/2102764926234415343",
+    "time": "2026-09-23 22:20",
+    "created_at": "Wed Sep 23 14:20:00 +0000 2026",
+    "id_str": "2102764926234415343",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Amjad Masad with Gagan Biyani and Erik Torenberg on HAA: The Horowitz Andreessen Academy\n\nThe ideal education today is a place with room to meander, a space to go heads-down when you’re obsessed, alongside unconventional peers.\n\nGagan sees it in every student he meets: the interesting thing they're building is happening outside class, unsupported. Amjad got really into chess and it evolved into a whole product line. The thesis behind HAA is side quests shouldn't be on the side.\n\nNo grades, no tests. Trust is the design principle - Silicon Valley runs on it, so why not apply it to students? Empower ambitious young people to run with the ideas that have real gravity they can’t avoid.\n\n\"Young people should be heretics… We respect the past, but we're unapologetically going to change it.\"\n\n1:03 Why young people should be heretics\n5:35 Amjad designs his ideal college\n8:45 Side quests deserve more resources\n10:55 Don't take a Python class\n14:30 College vs. raising money at 18\n17:15 Most teen startups are premature optimization\n18:30 \"I tried not to start Replit\" \n19:40 How a chess hobby became a Replit product\n24:25 The self-driving company\n26:30 Respect the past, change it anyway\n28:50 What Oakland politics taught Gagan about trust\n31:50 Why trust works better than rules\n36:35 The positive-sum culture HAA wants to pass on\n39:20 Speaking to the world vs. speaking to the in-group\n41:05 How Amjad found his moral compass\n44:00 What Amjad looks for in young talent \n\nYouTube: https://youtu.be/Q8yFrGwIftE\n\n@amasad @gaganbiyani @eriktorenberg",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Introducing The Horowitz Andreessen Academy."
+    },
+    "url": "https://x.com/a16z/status/2102776399178142186",
+    "time": "2026-09-23 23:05",
+    "created_at": "Wed Sep 23 15:05:35 +0000 2026",
+    "id_str": "2102776399178142186",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Replit co-founder and CEO Amjad Masad says the job of young people is to be heretics and question society's deeply held beliefs:\n\n\"What is college, and what is it for? A related question is: What is the utility of young people in society?\"\n\n\"We probably have a blind spot in society. We have a lot of blind spots in Silicon Valley. There are a lot of ideas that don't come out of Silicon Valley because there's a monoculture here.\"\n\n\"There's a certain way of thinking. Every culture is somehow a monoculture, even the most radical cultures like Silicon Valley.\"\n\n\"What do you need from young people? You need them to experiment. You need to encourage them to try impossible things.\"\n\n\"Every now and then, they're going to have a breakthrough that once we thought was impossible, and now it's suddenly possible because the technology changed, something changed.\"\n\n\"College ultimately should be about that. Let's get these people with clear minds, Zen mindsets, first-principles mindsets, and encourage them to question the deeply held beliefs.\"\n\n@amasad",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Amjad Masad with Gagan Biyani and Erik Torenberg on HAA: The Horowitz Andreessen Academy\n\nThe ideal education today is a place with room to meander, a space to go heads-down when you’re obsessed, alongside unconventional peers.\n\nGagan sees it in every student he meets: the interesting thing they're building is happening outside class, unsupported. Amjad got really into chess and it evolved into a whole product line. The thesis behind HAA is side quests shouldn't be on the side.\n\nNo grades, no tests. Trust is the design principle - Silicon Valley runs on it, so why not apply it to students? Empower ambitious young people to run with the ideas that have real gravity they can’t avoid.\n\n\"Young people should be heretics… We respect the past, but we're unapologetically going to change it.\"\n\n1:03 Why young people should be heretics\n5:35 Amjad designs his ideal college\n8:45 Side quests deserve more resources\n10:55 Don't take a Python class\n14:30 College vs. raising money at 18\n17:15 Most teen startups are premature optimization\n18:30 \"I tried not to start Replit\" \n19:40 How a chess hobby became a Replit product\n24:25 The self-driving company\n26:30 Respect the past, change it anyway\n28:50 What Oakland politics taught Gagan about trust\n31:50 Why trust works better than rules\n36:35 The positive-sum culture HAA wants to pass on\n39:20 Speaking to the world vs. speaking to the in-group\n41:05 How Amjad found his moral compass\n44:00 What Amjad looks for in young talent \n\nYouTube: https://youtu.be/Q8yFrGwIftE\n\n@amasad @gaganbiyani @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2102793135323799927",
+    "time": "2026-09-24 00:12",
+    "created_at": "Wed Sep 23 16:12:06 +0000 2026",
+    "id_str": "2102793135323799927",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Replit co-founder and CEO Amjad Masad says many startups begin as premature optimization: founders raise money for ideas they don't care about.\n\n\"I think a lot of starting startups is premature optimization. I see it in a lot of kids now, where they're part of a group and a lot of their friends are raising a lot of money, and some of them are becoming unicorns.\"\n\n\"The motivation becomes envy, a really negative motivation as opposed to a positive one.\"\n\n\"They pre-commit to an idea they're not even interested in, raise money for it, and start pre-optimizing for some path that they haven't really reached yet. That's why I always come back to this idea of curiosity. What is actually driving you?\"\n\n\"Once you find that idea that you want to dedicate your life to, or dedicate the next 10 years to, it's going to have such gravity that you're not going to be able to avoid it.\"\n\n\"I actively tried not to start Replit, but it exploded into a startup on its own. That's the feeling you should get: 'I guess I have to do it,' because there's so much momentum behind it.\"\n\n\"There's a predatory thing I've heard that happens right now where VCs go to Stanford students and give them a million dollars pre-idea... It's like the music industry... You're taking this young person and pre-committing them to something they shouldn't have committed to.\"\n\n@amasad",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Amjad Masad with Gagan Biyani and Erik Torenberg on HAA: The Horowitz Andreessen Academy\n\nThe ideal education today is a place with room to meander, a space to go heads-down when you’re obsessed, alongside unconventional peers.\n\nGagan sees it in every student he meets: the interesting thing they're building is happening outside class, unsupported. Amjad got really into chess and it evolved into a whole product line. The thesis behind HAA is side quests shouldn't be on the side.\n\nNo grades, no tests. Trust is the design principle - Silicon Valley runs on it, so why not apply it to students? Empower ambitious young people to run with the ideas that have real gravity they can’t avoid.\n\n\"Young people should be heretics… We respect the past, but we're unapologetically going to change it.\"\n\n1:03 Why young people should be heretics\n5:35 Amjad designs his ideal college\n8:45 Side quests deserve more resources\n10:55 Don't take a Python class\n14:30 College vs. raising money at 18\n17:15 Most teen startups are premature optimization\n18:30 \"I tried not to start Replit\" \n19:40 How a chess hobby became a Replit product\n24:25 The self-driving company\n26:30 Respect the past, change it anyway\n28:50 What Oakland politics taught Gagan about trust\n31:50 Why trust works better than rules\n36:35 The positive-sum culture HAA wants to pass on\n39:20 Speaking to the world vs. speaking to the in-group\n41:05 How Amjad found his moral compass\n44:00 What Amjad looks for in young talent \n\nYouTube: https://youtu.be/Q8yFrGwIftE\n\n@amasad @gaganbiyani @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2102809116532191693",
+    "time": "2026-09-24 01:15",
+    "created_at": "Wed Sep 23 17:15:36 +0000 2026",
+    "id_str": "2102809116532191693",
+    "is_retweet": false
   }
 ]
