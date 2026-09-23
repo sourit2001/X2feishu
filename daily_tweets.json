@@ -310,5 +310,27 @@
     "created_at": "Tue Sep 22 23:45:56 +0000 2026",
     "id_str": "2102544959698063647",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Elon Musk: \"AI will beat [humans] in all fields by the end of next year or maybe 2028, at the latest.\"\n\nKind of maps to Anthropic's economic implications paper where 2026-2028 was the buildout.\n\nThen 2028-2030 was unprecedented economic growth.\n\nSo we're still early H2 2026.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2102565495342010529",
+    "time": "2026-09-23 09:07",
+    "created_at": "Wed Sep 23 01:07:32 +0000 2026",
+    "id_str": "2102565495342010529",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "GPT 6 全系列更新，Sol 和 Luna 价格下降 50%，并且学会了说人话，而 Terra 消失了。\n\nGPT 6 Sol 和 Luna 使用了与 Astra 类似的训练方法，能力更强，对齐更好，价格更低。\n在 AutomationBench中，GPT 6 Sol 的表现超越了 Opus 5 的同时，只用了其 9% 的成本，便宜10倍。\n\nGPT 6 Sol 和 Luna 的语言风格和 Astra 相同，表达更清晰，黑话更少，言简意赅，减少不必要的细节。\n\nGPT 6 Sol 在 OSWorld 2.0 等某些指标上不如 GPT 5.6 Sol，这是需要注意的。\n\nOpenAI 这次还特别改进了缓存机制，实现了更高的缓存命中率（他们终于学会了ds的技术）\n\n同时 A 社也在今天发布了 Opus 5.5，象征性地降价了 20%，缓存降价了 60%，在 Agent 任务中，综合下降约 40% 。 \n\n我们终于迎来了大模型的大降价时代，感谢竞争，感谢 DeepSeek 和 GLM，请不要停，请继续降。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2102533109778718759",
+    "time": "Tue Sep 22 22:58:51 +0000 2026",
+    "created_at": "Tue Sep 22 22:58:51 +0000 2026",
+    "id_str": "2102533109778718759",
+    "is_retweet": false
   }
 ]
