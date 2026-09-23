@@ -842,5 +842,196 @@
     "created_at": "Wed Sep 23 06:38:27 +0000 2026",
     "id_str": "2102648771913941119",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Are you bullish Anthropic after their IPO",
+    "quoted_tweet": null,
+    "url": "https://x.com/AI_Supercycle01/status/2102566006711300393",
+    "time": "2026-09-23 09:09",
+    "created_at": "Wed Sep 23 01:09:34 +0000 2026",
+    "id_str": "2102566006711300393",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit the question is when is semis not the place to be anymore",
+    "quoted_tweet": null,
+    "url": "https://x.com/ardninja/status/2102566916883878310",
+    "time": "2026-09-23 09:13",
+    "created_at": "Wed Sep 23 01:13:11 +0000 2026",
+    "id_str": "2102566916883878310",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@AI_Supercycle01 No, hard to justify $2T valuation. I'd rather do OpenAI at $1.2T.\n\nAll your Chinese AI labs like DeepSeek or Minimax or Zhipu are much more reasonably valued.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2102568555598512362",
+    "time": "2026-09-23 09:19",
+    "created_at": "Wed Sep 23 01:19:42 +0000 2026",
+    "id_str": "2102568555598512362",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Memory LTAs span until 2031. $AVGO expects 100% supply constrained growth Y/Y for next 2 years.\n\n$NVDA expects 70% supply constrained growth next year (implying year after that demand keeps up).\n\n$SIVE CEO said there's a massive demand supply imbalance for lasers for at least the next 3-5 years.\n\nI think semi supply chain growth needs to be re-accessed year by year, but at least for the next year and half I see unprecedented growth.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2102569588433334309",
+    "time": "2026-09-23 09:23",
+    "created_at": "Wed Sep 23 01:23:48 +0000 2026",
+    "id_str": "2102569588433334309",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I had Fable/Opus build a hard science fiction starship combat game, with orbital mechanics, delta-v, heat, and realistic tactics, but simplified for 2D space with the hard math done by the game.\n\nIts quite fun to play (if you like this kind of thing): https://orbital-declaration.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2102593821376696785",
+    "time": "2026-09-23 11:00",
+    "created_at": "Wed Sep 23 03:00:05 +0000 2026",
+    "id_str": "2102593821376696785",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Open source here: https://github.com/emollick/orbital-declaration\n\nAnd if you like this, the most realistic space game I have played is Children of a Dead Earth (I have no connection to the game, except as a player): https://www.childrenofadeadearth.com/\n\nAlso I had the AI research here: https://projectrho.com/public_html/rocket/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2102594959618736317",
+    "time": "2026-09-23 11:04",
+    "created_at": "Wed Sep 23 03:04:37 +0000 2026",
+    "id_str": "2102594959618736317",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick This is cool and all, but there is way too much going on and I have no idea what I'm doing.",
+    "quoted_tweet": null,
+    "url": "https://x.com/friendly_gecko/status/2102595105039507879",
+    "time": "2026-09-23 11:05",
+    "created_at": "Wed Sep 23 03:05:12 +0000 2026",
+    "id_str": "2102595105039507879",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "How to command a ship (all these directions written by Claude)\nThe idea\nNothing in space slows down unless the drive burns to slow it. Every burn spends delta-v you cannot get back, and every burn and every shot puts heat into a sink that only the radiators can shed. You give the orders. The autopilot does the turning and the burning.\nReading the bridge\nThe Navigator line at the top of the ship panel says what the ship is doing now and what it does next: turning, burning, flipping, braking or holding.\nThe plotted path on the map is that same plan: bright where the ship burns, dashed where it turns or coasts, blue-grey where it brakes tail-first. The first ring is the flip, the second the arrival.\nThe delta-v gauge is your fuel. The hatched part is what the current order will spend, and each order button shows its cost before you press it.\nEssentials hides the numbers you do not need yet. D switches to Full, which adds mass, speed, heading, altitude, the systems bars and the gunnery rows.\n\nControls\nClick one of your ships, or its row on the left, to command it. Click another ship to make it the target. Tab steps through your ships.\nRight-click a hostile to keep range on it. Right-click a friendly or a civilian to intercept it.\nOrders are in the right panel: Intercept I, Keep range K, Match speed M, Hold H, Retreat R, and Manual for a heading and a throttle you set.\nJ jinks. X extends or stows the radiators. S toggles the active sensor. Space pauses, and 1–4 set the time warp when no decision is open.\nFire control: W weapons free, B beam mode, T aim point, L a salvo of two (shift for four), A every bay. Your other ships run their own bays and aim once their weapons are free.\nScroll to zoom and drag to pan. F follows the selected ship and Home fits everyone on screen. P opens the Physics panel, V the hull view, C the damage-control board, Enter clears a hint.\nDamage control: a hit part shows on the board and on the hull at close zoom. Send a party and the part comes back to a jury-rig cap, never full: a wrecked drive to 30 %. The party comes off fire control or the sensor watch. A party cannot work a part that is running: the drive has to be cold and the radiators in. Above 1.2 g the crew straps in and repairs pause. Above 3 g people are injured. The g limit is on the board.\n\nWhat matters\nDelta-v is the fuel gauge. A fast transfer costs 2·√(d·a), so twice the distance costs about 1.4 times as much. Capping the cruise at 1.5 km/s costs a fraction of that and arrives later.\nHeat builds while you burn and fight. The radiators shed it, and they are the easiest part of the ship to hit. Stow them with X when slugs are on the way and extend them as soon as the shooting stops.\nFacing: a corvette carries 20 cm of armour on the nose and 4 cm on the tail. Braking toward an enemy shows them that tail.\nJink makes unguided slugs miss, and each nudge costs delta-v. Beams do not miss. They weaken with range instead.\nBoarding: hold within 3 km of a hostile at under 25 m/s relative speed. The party crosses in 90 seconds against a crew the size of yours, longer against a bigger one, and the ship changes hands. A crew more than twice yours throws it back.\n\nSeeing and being seen\nNothing hides in space, but a track has a quality. A contact is a bearing and a rough range, drawn as a ? on a line along that bearing. The ship is somewhere between the ticks at its ends. A track adds the class. A solution is good enough to fire on, so the beams and coilguns open up.\nSignal falls with the square of range, so what you radiate sets how far off you are a solution. A cold coasting hull is about 1 MW and stays a contact until close. Hot radiators are tens of megawatts. A lit drive is gigawatts and hands everyone a solution. The Signature line in the panel says which you are.\nActive (S) buys a solution on everything in reach within seconds, and hands one to every ship out there. Staying passive costs you range or time instead.\nWhen a real choice comes up, a Decision band opens above the log with two or three options, each with its cost in plain words and the navigator's pick lit. 1 2 3 answer it, and Esc leaves it for later. A repair, sick-bay or burn question carries a clock: leave it and the ship's routine settles it when the clock runs out.\n\nHover any label for the number behind it. Large text and the panel you start in are on the main menu.\nClose",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2102595699783110837",
+    "time": "2026-09-23 11:07",
+    "created_at": "Wed Sep 23 03:07:33 +0000 2026",
+    "id_str": "2102595699783110837",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Uh oh",
+    "quoted_tweet": null,
+    "url": "https://x.com/jamescham/status/2102597469251260578",
+    "time": "2026-09-23 11:14",
+    "created_at": "Wed Sep 23 03:14:35 +0000 2026",
+    "id_str": "2102597469251260578",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@jamescham hahahaha",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2102601533351170095",
+    "time": "2026-09-23 11:30",
+    "created_at": "Wed Sep 23 03:30:44 +0000 2026",
+    "id_str": "2102601533351170095",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Open source here: https://github.com/emollick/wasteland-annotated",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2102626794104934520",
+    "time": "2026-09-23 13:11",
+    "created_at": "Wed Sep 23 05:11:07 +0000 2026",
+    "id_str": "2102626794104934520",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 真是风水轮流转，单方面体感 Opus 5.5 胜出。",
+    "quoted_tweet": null,
+    "url": "https://x.com/ZhevonWang/status/2102563313976766731",
+    "time": "2026-09-23 08:58",
+    "created_at": "Wed Sep 23 00:58:52 +0000 2026",
+    "id_str": "2102563313976766731",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 它现在靠啥盈利？还是卖各种奖章什么的吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/loniper/status/2102565215766519897",
+    "time": "2026-09-23 09:06",
+    "created_at": "Wed Sep 23 01:06:25 +0000 2026",
+    "id_str": "2102565215766519897",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@ZhevonWang 最近 gpt 降智明显",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2102573763514761479",
+    "time": "2026-09-23 09:40",
+    "created_at": "Wed Sep 23 01:40:23 +0000 2026",
+    "id_str": "2102573763514761479",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@loniper 运动服饰",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2102573817365458993",
+    "time": "2026-09-23 09:40",
+    "created_at": "Wed Sep 23 01:40:36 +0000 2026",
+    "id_str": "2102573817365458993",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@kevinzhow 当然没有",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2102581317275951571",
+    "time": "2026-09-23 10:10",
+    "created_at": "Wed Sep 23 02:10:24 +0000 2026",
+    "id_str": "2102581317275951571",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "看指标 Opus 5.5 是一个非常强悍的模型\n把 fable 和 astra 都... 比下去了？",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "At its default effort setting, Opus 5.5 delivers frontier results for a fraction of the cost per task, often beating other models running at their highest settings.\n\nIt also generates output more than 30% faster than Opus 5."
+    },
+    "url": "https://x.com/oran_ge/status/2102591326378402038",
+    "time": "2026-09-23 10:50",
+    "created_at": "Wed Sep 23 02:50:11 +0000 2026",
+    "id_str": "2102591326378402038",
+    "is_retweet": false
   }
 ]
