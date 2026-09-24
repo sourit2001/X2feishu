@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok 4.7 works really well with Blender. I’ve been using them to create these rough Raptor engine 3D models, and the improvement in quality is huge.\n\nThey’re still early versions, but the details are already coming together beautifully.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2102955587218886827",
+    "time": "Thu Sep 24 02:57:37 +0000 2026",
+    "created_at": "Thu Sep 24 02:57:37 +0000 2026",
+    "id_str": "2102955587218886827",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Elon Musk has a unique style of doing business",
+    "quoted_tweet": null,
+    "url": "https://x.com/wholemars/status/2102975221926072466",
+    "time": "Thu Sep 24 04:15:38 +0000 2026",
+    "created_at": "Thu Sep 24 04:15:38 +0000 2026",
+    "id_str": "2102975221926072466",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ThomasDavik @synthwavedd Yeah 😢",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2103002859331617232",
+    "time": "Thu Sep 24 06:05:28 +0000 2026",
+    "created_at": "Thu Sep 24 06:05:28 +0000 2026",
+    "id_str": "2103002859331617232",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Good idea to post an image of the front page",
+    "quoted_tweet": {
+      "author": "The Wall Street Journal",
+      "username": "WSJ",
+      "text": "Take an early look at the front page of The Wall Street Journal https://on.wsj.com/3VdLOsw"
+    },
+    "url": "https://x.com/elonmusk/status/2103005014277111831",
+    "time": "Thu Sep 24 06:14:02 +0000 2026",
+    "created_at": "Thu Sep 24 06:14:02 +0000 2026",
+    "id_str": "2103005014277111831",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "An Earth economy is less than a trillionth the size of a K2 economy",
+    "quoted_tweet": {
+      "author": "andrew chen",
+      "username": "andrewchen",
+      "text": "Epic"
+    },
+    "url": "https://x.com/elonmusk/status/2103005475075670176",
+    "time": "Thu Sep 24 06:15:51 +0000 2026",
+    "created_at": "Thu Sep 24 06:15:51 +0000 2026",
+    "id_str": "2103005475075670176",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wholemars I see a rocket, what do you see? 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2103011641075876342",
+    "time": "Thu Sep 24 06:40:21 +0000 2026",
+    "created_at": "Thu Sep 24 06:40:21 +0000 2026",
+    "id_str": "2103011641075876342",
+    "is_retweet": false
+  }
+]
