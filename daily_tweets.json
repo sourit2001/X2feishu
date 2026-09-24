@@ -312,5 +312,60 @@
     "created_at": "Wed Sep 23 23:29:39 +0000 2026",
     "id_str": "2102903249124872337",
     "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Meta Keynote starting any minute now. Sitting next to the amazing @mreflow \n\nI’ll keep you updated on all the important announcements!",
+    "quoted_tweet": null,
+    "url": "https://x.com/kimmonismus/status/2102887282424574071",
+    "time": "2026-09-24 06:26",
+    "created_at": "Wed Sep 23 22:26:12 +0000 2026",
+    "id_str": "2102887282424574071",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Just went for a long walk while using ChatGPT Voice with plugins on my phone, and I think it's a more consequential update than it might seem at first glance.\n\nOn my walk, I talked through my calendar, email, and to-do list. I had ChatGPT read through my emails and triage them. Then, we added items to my to-do list. Then, we reviewed my calendar. By the end of the walk, I'd finished getting organized, and never had to look at a screen once.\n\nI've been waiting for this a long time. Yes, you can kind of do this in the ChatGPT desktop app. And I think in Codex remote on the mobile app. But I've never gotten either to work very smoothly or reliably. And I often want to do this when I'm not near my laptop, like when I'm out for a walk, and the ChatGPT desktop app for whatever reason won't connect.\n\nThis feels like the future. It feels like a true assistant. You have a natural conversation, and it does stuff for you. It disappears into the background. You're not walking down the street with a screen in your face. You're not contorting your thumbs to type sentences and scroll menus. You're just talking, conversationally, and stuff's getting done.\n\nMy sense is:\n\n• Screens are going away for many uses other than visual content consumption. They won't disappear entirely. But they also won't dominate the way they do now, and definitely not for things that can be done verbally.\n\n• Apps that aren't agent-native and plugin-optimized will die. I use Google Workspace and Todoist primarily because they're so well-integrated with ChatGPT. I stopped using apps, such as many of Apple's, because with few exceptions they're poorly agent-integrated. (X is a big exception, but I've hacked some integration via IFTTT.)\n\n• Those apps, however, will become more valued for what they let agents do than for their in-app experiences. Not all will become essentially databases, but many will. It also seems inevitable to me that at some point OpenAI and other AI app providers roll out native calendar, email, and to-do functionality that's maximally agent-optimized.\n\n• We'll have our audio agents on all the time. We may have them on mute sometimes (I discovered you can do this with ChatGPT Voice by clicking an AirPod), but at great cost, because you'll want be able to just say something like \"summarize that conversation I just had and then draft the presentation.\" It will be like having an assistant following you around when you want them to.\n\n• We need new hardware. For example, I want a camera in my AirPods not to take pictures, but to have the context of what's around me. Like, \"What kind of tree is that?\" Or, \"That's a cool shirt. Find out where they bought it.\" (I have this in my Meta Ray-Bans, but people are now very sensitive to those devices because they do take pictures.) I also want ChatGPT able to be always listening or awoken with \"hey, Chat.\"\n\n• The individual thread model starts to break down when you're treating ChatGPT like an always-on assistant. We need to have the infinite continuous thread from which ChatGPT can delegate work to subthreads, the central assistant model that Muse is built around. This makes even more sense when you start treating your AI apps like assistants. They should be juggling all those individual threads on your behalf.\n\nMore to come I'm sure as I continue to experiment.",
+    "quoted_tweet": null,
+    "url": "https://x.com/_simonsmith/status/2102836288541913351",
+    "time": "2026-09-24 03:03",
+    "created_at": "Wed Sep 23 19:03:34 +0000 2026",
+    "id_str": "2102836288541913351",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@scottstts A bit harder to do when you have 1B users, but we are working to reduce this to only a few hours or minutes in the future",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102884039145521487",
+    "time": "2026-09-24 06:13",
+    "created_at": "Wed Sep 23 22:13:19 +0000 2026",
+    "id_str": "2102884039145521487",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@trq212 This is the way",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102884137749315973",
+    "time": "2026-09-24 06:13",
+    "created_at": "Wed Sep 23 22:13:42 +0000 2026",
+    "id_str": "2102884137749315973",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@_simonsmith Seeing the future",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2102890573481050167",
+    "time": "2026-09-24 06:39",
+    "created_at": "Wed Sep 23 22:39:17 +0000 2026",
+    "id_str": "2102890573481050167",
+    "is_retweet": false
   }
 ]
