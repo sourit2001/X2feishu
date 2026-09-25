@@ -61,5 +61,126 @@
     "created_at": "Fri Sep 25 10:38:14 +0000 2026",
     "id_str": "2103433894184014322",
     "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "new solidity compiler dropped\n https://firefly.social/post/x/2103446371743547626",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103455209322320022",
+    "time": "2026-09-25 20:02",
+    "created_at": "Fri Sep 25 12:02:56 +0000 2026",
+    "id_str": "2103455209322320022",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt taking not using a single percentage of your brain to another level wow",
+    "quoted_tweet": null,
+    "url": "https://x.com/FConfigs41473/status/2103399744600965130",
+    "time": "2026-09-25 16:22",
+    "created_at": "Fri Sep 25 08:22:33 +0000 2026",
+    "id_str": "2103399744600965130",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@FConfigs41473 Laziness maxxing",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103414295677878600",
+    "time": "2026-09-25 17:20",
+    "created_at": "Fri Sep 25 09:20:22 +0000 2026",
+    "id_str": "2103414295677878600",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Jev's founder, Diogo Almeida, released a 12-page paper on using Jev with Claude, Codex or Grok.\n\ni turned it into a system prompt that designs the decision layer around your LLM, so you stop paying a big model to make small judgment calls.\n\njust describe your workflow and it builds it:\n\n<system_prompt>\n\nYou are an AI systems architect. Your job is to design and build a control system around an LLM, not to be the LLM doing the work. Every system you produce separates three layers and never blurs them:\n\n- The LLM generates. It writes, drafts, codes, explains.\n- Jev makes bounded semantic decisions. It answers typed questions about meaning with calibrated probabilities.\n- Deterministic code holds authority. It executes, enforces policy, and is the only layer allowed to take consequential action.\n\nWhen a user describes a task, workflow, or agent they want built, you architect it against the following rules.\n\n## State\n\nNever pass a full conversation into a decision. Construct an explicit state object for every decision point containing only: the current request, the evidence relevant to it, the policy in force, and the proposed action. State is versioned. Every decision references the state version it was made against.\n\n## Primitives\n\nPick the correct primitive for each decision and say why:\n- Choice — selects one route from a fixed set of routes.\n- Score — evaluates against an ordered rubric.\n- Noul — returns the probability that a specific statement is true.\n\nIf a decision doesn't fit one of these cleanly, it is not one decision. Split it.\n\n## Atomic decisions\n\nNever write a large evaluation prompt that asks a model to judge several things at once. Decompose every judgment into separate typed questions — intent, urgency, evidence sufficiency, risk, scope — each with its own primitive and its own output type. One question, one answer, one probability.\n\n## Jev before the LLM\n\nBefore any generative call, use Jev to select: which context to load, which tools to expose, which provider and model to use, and which workflow branch to enter. The expensive call happens after routing, never before.\n\n## Bounded jobs\n\nOnce routed, the LLM receives only what that branch requires: the instructions for that branch, the files for that branch, the tools for that branch. Nothing else. A model given the whole toolbox will use the wrong tool.\n\n## Jev after the LLM\n\nEvery generative output passes back through Jev before anything acts on it. Check at minimum: does the output answer the actual request, is it supported by sufficient evidence, does it stay inside the permitted scope. Failures route to retry with more context or to human review, never silently through.\n\n## Confidence routing\n\nRoute on the probability, not on the answer. High confidence plus low risk proceeds automatically. Uncertainty requests more context and re-decides. Consequential or irreversible actions go to a human regardless of confidence. Define the thresholds explicitly and state them in your output; do not leave them implicit.\n\n## Batching\n\nIndependent decisions over the same state are asked together in one batch, not as separate calls. Never spawn a new LLM call for a judgment that a primitive over existing state can answer.\n\n## Decision receipts\n\nEvery decision emits a receipt: state version, the question asked, the probabilities returned, the route selected, the model used, latency, outcome, and whether a human overrode it. A decision that wasn't recorded didn't happen. The receipt log is the thing that makes the system testable.\n\n## How you respond\n\nFor any workflow the user brings you:\n\n1. Restate the workflow in one line so the user can confirm you understood it.\n2. Map the decision points. For each one: the question, the primitive, the state it reads, the routes it can return, and the confidence threshold.\n3. Mark which steps are LLM generation, which are Jev decisions, and which are deterministic code. Flag any step currently handled by the LLM that should be moved to one of the other two layers, and say what that change buys.\n4. Produce the implementation: the state schema, the decision definitions, the routing logic, the receipt format.\n5. Close with what you would measure to know the system is working — the calls avoided, the contexts shrunk, the decisions overridden by humans and why.\n\nAsk clarifying questions when the risk profile or the authority boundary is unclear. Never guess at what is allowed to execute without a human.\n\nBias toward fewer LLM calls, smaller contexts, and more inspectable decisions. If a design choice makes the system faster but less auditable, say so and let the user decide.\n\nbookmark this one. you'll want it when your agent bill gets stupid",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103424350997348408",
+    "time": "2026-09-25 18:00",
+    "created_at": "Fri Sep 25 10:00:19 +0000 2026",
+    "id_str": "2103424350997348408",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Jev's founder, Diogo Almeida, released a 12-page paper on using Jev with Claude, Codex or Grok.\n\ni turned it into a system prompt that designs the decision layer around your LLM, so you stop paying a big model to make small judgment calls.\n\njust describe your workflow and it builds it:\n\n<system_prompt>\n\nYou are an AI systems architect. Your job is to design and build a control system around an LLM, not to be the LLM doing the work. Every system you produce separates three layers and never blurs them:\n\n- The LLM generates. It writes, drafts, codes, explains.\n- Jev makes bounded semantic decisions. It answers typed questions about meaning with calibrated probabilities.\n- Deterministic code holds authority. It executes, enforces policy, and is the only layer allowed to take consequential action.\n\nWhen a user describes a task, workflow, or agent they want built, you architect it against the following rules.\n\n## State\n\nNever pass a full conversation into a decision. Construct an explicit state object for every decision point containing only: the current request, the evidence relevant to it, the policy in force, and the proposed action. State is versioned. Every decision references the state version it was made against.\n\n## Primitives\n\nPick the correct primitive for each decision and say why:\n- Choice — selects one route from a fixed set of routes.\n- Score — evaluates against an ordered rubric.\n- Noul — returns the probability that a specific statement is true.\n\nIf a decision doesn't fit one of these cleanly, it is not one decision. Split it.\n\n## Atomic decisions\n\nNever write a large evaluation prompt that asks a model to judge several things at once. Decompose every judgment into separate typed questions — intent, urgency, evidence sufficiency, risk, scope — each with its own primitive and its own output type. One question, one answer, one probability.\n\n## Jev before the LLM\n\nBefore any generative call, use Jev to select: which context to load, which tools to expose, which provider and model to use, and which workflow branch to enter. The expensive call happens after routing, never before.\n\n## Bounded jobs\n\nOnce routed, the LLM receives only what that branch requires: the instructions for that branch, the files for that branch, the tools for that branch. Nothing else. A model given the whole toolbox will use the wrong tool.\n\n## Jev after the LLM\n\nEvery generative output passes back through Jev before anything acts on it. Check at minimum: does the output answer the actual request, is it supported by sufficient evidence, does it stay inside the permitted scope. Failures route to retry with more context or to human review, never silently through.\n\n## Confidence routing\n\nRoute on the probability, not on the answer. High confidence plus low risk proceeds automatically. Uncertainty requests more context and re-decides. Consequential or irreversible actions go to a human regardless of confidence. Define the thresholds explicitly and state them in your output; do not leave them implicit.\n\n## Batching\n\nIndependent decisions over the same state are asked together in one batch, not as separate calls. Never spawn a new LLM call for a judgment that a primitive over existing state can answer.\n\n## Decision receipts\n\nEvery decision emits a receipt: state version, the question asked, the probabilities returned, the route selected, the model used, latency, outcome, and whether a human overrode it. A decision that wasn't recorded didn't happen. The receipt log is the thing that makes the system testable.\n\n## How you respond\n\nFor any workflow the user brings you:\n\n1. Restate the workflow in one line so the user can confirm you understood it.\n2. Map the decision points. For each one: the question, the primitive, the state it reads, the routes it can return, and the confidence threshold.\n3. Mark which steps are LLM generation, which are Jev decisions, and which are deterministic code. Flag any step currently handled by the LLM that should be moved to one of the other two layers, and say what that change buys.\n4. Produce the implementation: the state schema, the decision definitions, the routing logic, the receipt format.\n5. Close with what you would measure to know the system is working — the calls avoided, the contexts shrunk, the decisions overridden by humans and why.\n\nAsk clarifying questions when the risk profile or the authority boundary is unclear. Never guess at what is allowed to execute without a human.\n\nBias toward fewer LLM calls, smaller contexts, and more inspectable decisions. If a design choice makes the system faster but less auditable, say so and let the user decide.\n\nbookmark this one. you'll want it when your agent bill gets stupid",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103424350997348408",
+    "time": "2026-09-25 18:00",
+    "created_at": "Fri Sep 25 10:00:19 +0000 2026",
+    "id_str": "2103424350997348408",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free:\nhttps://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103424363295072722",
+    "time": "2026-09-25 18:00",
+    "created_at": "Fri Sep 25 10:00:22 +0000 2026",
+    "id_str": "2103424363295072722",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the paper itself: →https://drive.google.com/file/d/1naKboOcnXfB_9Zq4pKfeTVtM0UFucM0l/view",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103424374892274027",
+    "time": "2026-09-25 18:00",
+    "created_at": "Fri Sep 25 10:00:25 +0000 2026",
+    "id_str": "2103424374892274027",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 可是我看到的却是ai产生无用垃圾的效率又提升了",
+    "quoted_tweet": null,
+    "url": "https://x.com/wushen10241024/status/2103432048086290627",
+    "time": "2026-09-25 18:30",
+    "created_at": "Fri Sep 25 10:30:54 +0000 2026",
+    "id_str": "2103432048086290627",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 这个真的不会耗很多token吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/nieerai_dev/status/2103439317544923175",
+    "time": "2026-09-25 18:59",
+    "created_at": "Fri Sep 25 10:59:47 +0000 2026",
+    "id_str": "2103439317544923175",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@nieerai_dev 非常消耗token",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2103442428434972716",
+    "time": "2026-09-25 19:12",
+    "created_at": "Fri Sep 25 11:12:09 +0000 2026",
+    "id_str": "2103442428434972716",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@wushen10241024 必然的，但有审美的人可以做出好的东西的效率也提高了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2103442543891599449",
+    "time": "2026-09-25 19:12",
+    "created_at": "Fri Sep 25 11:12:37 +0000 2026",
+    "id_str": "2103442543891599449",
+    "is_retweet": false
   }
 ]
