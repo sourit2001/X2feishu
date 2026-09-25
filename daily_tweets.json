@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Leaving aside everything else, this confuses inputs with outputs. You want to get tasks done efficiently, not focus on inputs alone (its a similar risk for companies focusing solely on minimizing token cost)\n\nAnd \"keep prompts short\" is bad advice for getting good AI outputs.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "I cannot believe this is real..."
+    },
+    "url": "https://x.com/emollick/status/2103593301240602645",
+    "time": "2026-09-26 05:11",
+    "created_at": "Fri Sep 25 21:11:40 +0000 2026",
+    "id_str": "2103593301240602645",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "We are aware that codex is down and are working hard to bring back normal service.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103620061156290622",
+    "time": "2026-09-26 06:58",
+    "created_at": "Fri Sep 25 22:58:00 +0000 2026",
+    "id_str": "2103620061156290622",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "o no :(",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103622639386574979",
+    "time": "2026-09-26 07:08",
+    "created_at": "Fri Sep 25 23:08:15 +0000 2026",
+    "id_str": "2103622639386574979",
+    "is_retweet": false
+  }
+]
