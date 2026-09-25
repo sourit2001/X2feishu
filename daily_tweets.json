@@ -178,5 +178,367 @@
     "created_at": "Thu Sep 24 20:14:57 +0000 2026",
     "id_str": "2103216640989212877",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 下周把 TPU 送上太空，芯片跑 15 分钟就得停下来降温\n\nGoogle 要把自家 AI 芯片送进太空了。Sundar Pichai 在 X 上宣布，Project Suncatcher 的第一颗原型卫星将搭乘 SpaceX 的拼车发射任务 Transporter-18 升空，卫星由 Google 和遥感卫星公司 Planet 合作打造。据《纽约时报》报道，发射定在 10 月 1 日，用猎鹰 9 号从加州范登堡太空军基地出发。\n\nSuncatcher 是 Google 去年 11 月公布的“登月计划”，研究能不能把 AI 数据中心搬到太空。出发点是电：AI 数据中心极其耗电，而在近地轨道上，卫星几乎一直晒得到太阳，太阳能发电量最多可达地面的 8 倍。\n\n这颗卫星代号 MVP，冰箱大小，装了 4 块 TPU（Google 自研的 AI 芯片，Gemini 就靠它训练和运行），算力约等于地面数据中心的一台服务器。太阳能板只提供约 1 千瓦电力，按《纽约时报》的说法，只够带动一台吹风机。它能在轨道上回答简单的 Gemini 提问，设计寿命约一年。\n\nPichai 在推文里的问题很直接：TPU 能不能在太空活下来，还能正常干活？发射和辐射这两项，Google 已经在地面测过。上天那 10 分钟里，整颗卫星要承受最高 10 倍重力的持续加速度，落到单块芯片上可达 50 到 100 倍，Google 沿三个轴向猛烈摇晃过卫星，硬件扛住了。辐射测试则显示，第六代 TPU Trillium 能承受的累积辐射剂量，超过在太空执行五年任务所受的量。\n\n最没把握的是散热。太空没有空气，风扇派不上用场，热量只能靠散热板辐射出去。Google 用的是热管加散热板的方案，但项目负责人 Travis Beals 对《纽约时报》透露，芯片目前连续跑 15 分钟左右就得关机降温。\n\n按原计划，Google 和 Planet 要到 2027 年初才发射两颗原型星。后来 Google 坚持今年就上天，愿意多担风险，干脆把芯片装进了 Planet 现成的卫星。2027 年那两颗照常发射，专门测试卫星之间的激光高速互联。Google 的最终设想是 81 颗卫星在半径 1 公里内编队飞行，用激光连成一座太空数据中心。\n\n如果长远做成了，没人会在意自己的 Gemini 请求是不是在太空里处理的。但离那一天还远。Google 负责研究的高级副总裁 James Manyika 认为，未来几年都不指望有真正能用的东西。Google 去年算过账：发射价格要在 2030 年代中期降到每公斤 200 美元以下，太空数据中心的发射加运营成本，才能和同等规模地面数据中心的电费大致相当。而当时的发射价格还在每公斤 1500 到 2900 美元。\n\n把数据中心级 AI 芯片送上天，Google 并不是第一家。创业公司 Starcloud 去年 11 月就把一块 NVIDIA H100 送入轨道，还在上面跑起了 Google 的开放模型 Gemma。",
+    "quoted_tweet": {
+      "author": "Sundar Pichai",
+      "username": "sundarpichai",
+      "text": "Can our TPUs survive and operate in space? Well, we're going to find out.\n\nProject Suncatcher is hitching a ride aboard @SpaceX's Transporter-18 mission, testing a prototype satellite built in partnership with @planet\n\nOne small step for TPUs...."
+    },
+    "url": "https://x.com/dotey/status/2103283524962795707",
+    "time": "2026-09-25 08:40",
+    "created_at": "Fri Sep 25 00:40:44 +0000 2026",
+    "id_str": "2103283524962795707",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Its though love; please pick up a pencil and draw for yourself you might suprise yourself.",
+    "quoted_tweet": null,
+    "url": "https://x.com/LavenderRitowa2/status/2103241773766369672",
+    "time": "Thu Sep 24 21:54:49 +0000 2026",
+    "created_at": "Thu Sep 24 21:54:49 +0000 2026",
+    "id_str": "2103241773766369672",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/gPWypTDcVQ",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2103241834885484544",
+          "display": "pic.x.com/gPWypTDcVQ",
+          "original": "https://t.co/gPWypTDcVQ",
+          "replacement": "https://x.com/mage_ofaquarius/status/2103241891550773321/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Mage of Aquarius⏩",
+      "username": "mage_ofaquarius",
+      "text": "had a dream where I found an abandoned calf and put it in the kangaroo pouch of my hoodie"
+    },
+    "url": "https://x.com/mage_ofaquarius/status/2103241891550773321",
+    "time": "Thu Sep 24 21:55:17 +0000 2026",
+    "created_at": "Thu Sep 24 21:55:17 +0000 2026",
+    "id_str": "2103241891550773321",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "That example would be fair if AI was only text-to-image. \nThankfully, it evolved and now you can use it in different parts of the process. \n\nMost people use it closer to \"Hello, Fresh\" now. You get ingredients and you can follow an instruction how to use them, but some people get really creative.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103242172464341274",
+    "time": "Thu Sep 24 21:56:24 +0000 2026",
+    "created_at": "Thu Sep 24 21:56:24 +0000 2026",
+    "id_str": "2103242172464341274",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife the music choice is surprisingly good for an LLM",
+    "quoted_tweet": null,
+    "url": "https://x.com/yesadok/status/2103242184858411081",
+    "time": "Thu Sep 24 21:56:27 +0000 2026",
+    "created_at": "Thu Sep 24 21:56:27 +0000 2026",
+    "id_str": "2103242184858411081",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LavenderRitowa2 I can actually draw. I use my drawings as references for a lot of my AI animations.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103242427372892260",
+    "time": "Thu Sep 24 21:57:25 +0000 2026",
+    "created_at": "Thu Sep 24 21:57:25 +0000 2026",
+    "id_str": "2103242427372892260",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Used @icreatelife 's prompt:\nhttps://x.com/icreatelife/status/2007023177915126034?s=20",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Start your year with something cute and mood boosting. Here’s a prompt for you to try 🥹🫶\n\nprompt: bioluminescent cute [ANIMAL], kawaii, chibi, [COLOR] neon backlit, 3d cartoon, big cute bright eyes, high definition\n\nI would love to see your cute creatures"
+    },
+    "url": "https://x.com/mage_ofaquarius/status/2103242489323020755",
+    "time": "Thu Sep 24 21:57:40 +0000 2026",
+    "created_at": "Thu Sep 24 21:57:40 +0000 2026",
+    "id_str": "2103242489323020755",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@yesadok I agree! It can generate music too (different types of it with code)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103242604003631144",
+    "time": "Thu Sep 24 21:58:07 +0000 2026",
+    "created_at": "Thu Sep 24 21:58:07 +0000 2026",
+    "id_str": "2103242604003631144",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mage_ofaquarius Lovely!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103242661918359878",
+    "time": "Thu Sep 24 21:58:21 +0000 2026",
+    "created_at": "Thu Sep 24 21:58:21 +0000 2026",
+    "id_str": "2103242661918359878",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Nobody expected that Opus 5.5 will be that good..",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103244247126233410",
+    "time": "Thu Sep 24 22:04:39 +0000 2026",
+    "created_at": "Thu Sep 24 22:04:39 +0000 2026",
+    "id_str": "2103244247126233410",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MO_IAI Thanks!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103252198746718262",
+    "time": "Thu Sep 24 22:36:15 +0000 2026",
+    "created_at": "Thu Sep 24 22:36:15 +0000 2026",
+    "id_str": "2103252198746718262",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@bologabriele I am sure it's different!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103252284767367285",
+    "time": "Thu Sep 24 22:36:35 +0000 2026",
+    "created_at": "Thu Sep 24 22:36:35 +0000 2026",
+    "id_str": "2103252284767367285",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife THAT is definitely worth sharing! 👏",
+    "quoted_tweet": null,
+    "url": "https://x.com/JonnyJelinek/status/2103252969529520486",
+    "time": "Thu Sep 24 22:39:19 +0000 2026",
+    "created_at": "Thu Sep 24 22:39:19 +0000 2026",
+    "id_str": "2103252969529520486",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I love your guys. Just knew that both of my AI animations labs were filled up, so they added the third lab to Adobe MAX on the last day of the conference. \n\nSee you in Miami very soon!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103253114338038148",
+    "time": "Thu Sep 24 22:39:53 +0000 2026",
+    "created_at": "Thu Sep 24 22:39:53 +0000 2026",
+    "id_str": "2103253114338038148",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JonnyJelinek You can observe those 12 hours in real time!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103253311524876723",
+    "time": "Thu Sep 24 22:40:40 +0000 2026",
+    "created_at": "Thu Sep 24 22:40:40 +0000 2026",
+    "id_str": "2103253311524876723",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I have been really impressed so far. But who knows how many models are coming out next weekend? What are they going to be about?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Substrate_Zer0/status/2103257265633685689",
+    "time": "Thu Sep 24 22:56:23 +0000 2026",
+    "created_at": "Thu Sep 24 22:56:23 +0000 2026",
+    "id_str": "2103257265633685689",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife This one",
+    "quoted_tweet": {
+      "author": "Denis Shiryaev 💙💛",
+      "username": "literallydenis",
+      "text": "Opus 5.5 is insanely good with threejs \n\nIt made this in 40 minutes, including music, and assets via txt2img provider"
+    },
+    "url": "https://x.com/literallydenis/status/2103257910822277507",
+    "time": "Thu Sep 24 22:58:57 +0000 2026",
+    "created_at": "Thu Sep 24 22:58:57 +0000 2026",
+    "id_str": "2103257910822277507",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@literallydenis I found your feed today and obsessed",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103258572394303530",
+    "time": "Thu Sep 24 23:01:34 +0000 2026",
+    "created_at": "Thu Sep 24 23:01:34 +0000 2026",
+    "id_str": "2103258572394303530",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Substrate_Zer0 We will definitely not sleep anytime soon :D",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103258678786703775",
+    "time": "Thu Sep 24 23:02:00 +0000 2026",
+    "created_at": "Thu Sep 24 23:02:00 +0000 2026",
+    "id_str": "2103258678786703775",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ParideQuattroc3 And it goes to pretty much everyone using computer or phone :)) or.. even paper or pencils because electicity is used to produce those too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103259026020536824",
+    "time": "Thu Sep 24 23:03:23 +0000 2026",
+    "created_at": "Thu Sep 24 23:03:23 +0000 2026",
+    "id_str": "2103259026020536824",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife We’ll finally meet! I’m letting you know ahead of time - we won’t say much",
+    "quoted_tweet": null,
+    "url": "https://x.com/swaymolina/status/2103259465873313820",
+    "time": "Thu Sep 24 23:05:07 +0000 2026",
+    "created_at": "Thu Sep 24 23:05:07 +0000 2026",
+    "id_str": "2103259465873313820",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@swaymolina That's my favorite way! We can be on our phones on X :))",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103259653362606544",
+    "time": "Thu Sep 24 23:05:52 +0000 2026",
+    "created_at": "Thu Sep 24 23:05:52 +0000 2026",
+    "id_str": "2103259653362606544",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard Mine will be in-person only but I plan to record a tutorial after",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103262807185887352",
+    "time": "Thu Sep 24 23:18:24 +0000 2026",
+    "created_at": "Thu Sep 24 23:18:24 +0000 2026",
+    "id_str": "2103262807185887352",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@victormustar Very cool use case",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103264357182308780",
+    "time": "Thu Sep 24 23:24:34 +0000 2026",
+    "created_at": "Thu Sep 24 23:24:34 +0000 2026",
+    "id_str": "2103264357182308780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "How cool",
+    "quoted_tweet": {
+      "author": "Victor M",
+      "username": "victormustar",
+      "text": "Opus 5.5 designing LEGO 👀\n\nI asked it to design a Microduck I can build with real LEGO pieces. It:\n\n> designed it life-size using 1113 real LEGO parts\n> verified: 3,204 connections, 0 collisions, every step buildable, centre of mass inside the feet 🤯\n> made a 141-page LEGO-style booklet (237 steps)\n> priced every piece in the browser and prepared the orders on BrickLink"
+    },
+    "url": "https://x.com/icreatelife/status/2103264386148413819",
+    "time": "Thu Sep 24 23:24:41 +0000 2026",
+    "created_at": "Thu Sep 24 23:24:41 +0000 2026",
+    "id_str": "2103264386148413819",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I just wrote a program without AI. Completely by hand. Like a caveman (=cavewoman)\n\nThis was part of my research on whether AI rots the brain. After 4 years of using AI for practically everything, I'm happy to report my brain has not melted.\n\nIt's fine. Everything is fine! 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103265924791083419",
+    "time": "Thu Sep 24 23:30:47 +0000 2026",
+    "created_at": "Thu Sep 24 23:30:47 +0000 2026",
+    "id_str": "2103265924791083419",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Under the Hood is such a gift to content creators. You can check if your account is shadow banned in any way.",
+    "quoted_tweet": {
+      "author": "X Open Source",
+      "username": "XOpenSource",
+      "text": "By popular request, a new, easier way to see Under The Hood. (You can still download a JSON file, too.)\n\nSee your report at https://x.com/i/jf/under_the_hood"
+    },
+    "url": "https://x.com/icreatelife/status/2103269978225135868",
+    "time": "Thu Sep 24 23:46:54 +0000 2026",
+    "created_at": "Thu Sep 24 23:46:54 +0000 2026",
+    "id_str": "2103269978225135868",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Like a caveman 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/MichaelgDiamond/status/2103270188229820920",
+    "time": "Thu Sep 24 23:47:44 +0000 2026",
+    "created_at": "Thu Sep 24 23:47:44 +0000 2026",
+    "id_str": "2103270188229820920",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MichaelgDiamond Cavewoman to be fair :D",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103270374712754210",
+    "time": "Thu Sep 24 23:48:28 +0000 2026",
+    "created_at": "Thu Sep 24 23:48:28 +0000 2026",
+    "id_str": "2103270374712754210",
+    "is_retweet": false
   }
 ]
