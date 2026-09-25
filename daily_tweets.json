@@ -585,5 +585,112 @@
     "created_at": "Fri Sep 25 17:31:36 +0000 2026",
     "id_str": "2103537921500291297",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "People really need to stop thinking about 5% yields over 10 years or 30 years.\n\nEven the inflation of my $SUBWAY sandwich has gone up like 12% a year.\n\nToday it was like $20 after tax, when it used to be like $5… 12 years ago.\n\nThe best way to keep up with inflation of the things that matter, like Sandwiches, is equities like $SPY.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2103490181525631382",
+    "time": "2026-09-25 22:21",
+    "created_at": "Fri Sep 25 14:21:54 +0000 2026",
+    "id_str": "2103490181525631382",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Microsoft seems to sell its own Claw now (I suspect they will not be the last), which may help spread personal agents in organizations\n\nBut using a router with mystery models behind it is a big problem. Routers underestimate work difficulty in many fields resulting in bad outputs",
+    "quoted_tweet": {
+      "author": "Satya Nadella",
+      "username": "satyanadella",
+      "text": "We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re announcing our biggest update to Copilot to date, bringing four things together:\n\n· Autopilot: proactive and long-running agent built for the enterprise\n· Code: build apps with Copilot, hosted inside your company’s tenant\n· Home: Chat + Cowork together\n· Office: now fully embedded in Copilot (and Copilot embedded in Office, of course!)\n\nPlus, you can invoke Copilot in Teams, and we’re introducing Today, a proactive experience that surfaces the most important information from across M365 without needing to ask for it.\n\nThe way we work is changing and so are our workflows. This update brings AI into that flow, from answering a question, to building an app, to getting work done on your behalf."
+    },
+    "url": "https://x.com/emollick/status/2103485857147617393",
+    "time": "2026-09-25 22:04",
+    "created_at": "Fri Sep 25 14:04:43 +0000 2026",
+    "id_str": "2103485857147617393",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Claude liked* this project. I have wondered whether that results in better outputs.\n\n* In defiance of AP Stylebook guidelines.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103499760233537625",
+    "time": "2026-09-25 22:59",
+    "created_at": "Fri Sep 25 14:59:58 +0000 2026",
+    "id_str": "2103499760233537625",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I was right about this, they should have called it flocks of agents. Nobody wants to invoke a swarm, but swarm it apparently is.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Fine, if you need it to be fun make it like a flock of agents or a pride of agents or party of agents or something. Just not swarm or murder or horde. I would even settle for an OpenAI name right about now: GPT-multiagent-5.2HighCodex-ProMax-Latest can be the official term."
+    },
+    "url": "https://x.com/emollick/status/2103525721289486777",
+    "time": "2026-09-26 00:43",
+    "created_at": "Fri Sep 25 16:43:08 +0000 2026",
+    "id_str": "2103525721289486777",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "your agent breaks and you're scrolling terminal logs trying to work out which of the 14 calls did it.\n\nLangfuse shows the whole trace. every call, every retrieval, every tool action, what went in, what came out, what it cost.\n\n32,400 stars, and it does the parts nobody builds themselves:\n\nprompts versioned in one place instead of hardcoded across your repo. evals with LLM-as-a-judge so you know when a change made things worse. datasets you can run a new prompt against before it ships.\n\nworks with OpenAI, LangChain, LlamaIndex, LiteLLM, CrewAI and the Vercel AI SDK.\n\nself-host it in 5 minutes with docker compose\n\nopen source, 100% free\n\nsave this before your next agent goes down",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103496017425612894",
+    "time": "2026-09-25 22:45",
+    "created_at": "Fri Sep 25 14:45:06 +0000 2026",
+    "id_str": "2103496017425612894",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Repo:\nhttps://github.com/langfuse/langfuse",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103496029236867311",
+    "time": "2026-09-25 22:45",
+    "created_at": "Fri Sep 25 14:45:09 +0000 2026",
+    "id_str": "2103496029236867311",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "if you're building agents, the full agents guide is free:\nhttps://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103496040901169272",
+    "time": "2026-09-25 22:45",
+    "created_at": "Fri Sep 25 14:45:11 +0000 2026",
+    "id_str": "2103496040901169272",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@robertoblake I agree. Even though it’s a very unpopular thing on socials these days to claim Zuck is doing anything right.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2103517649032654990",
+    "time": "2026-09-26 00:11",
+    "created_at": "Fri Sep 25 16:11:03 +0000 2026",
+    "id_str": "2103517649032654990",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@pvncher 🙋‍♂️",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2103518532390748419",
+    "time": "2026-09-26 00:14",
+    "created_at": "Fri Sep 25 16:14:34 +0000 2026",
+    "id_str": "2103518532390748419",
+    "is_retweet": false
   }
 ]
