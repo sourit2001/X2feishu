@@ -1,1 +1,589 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "用 Opus 5.5 和 guizang-product-video-skill 给我们几个做的视频播客 Next Token 做了个宣传视频\n\n他把握风格和内容的能力真的牛批，给他官网地址，他就能自己找素材做视频\n\n而且找的那些观点、信息和内容太牛了，我自己都忘了说过这些",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "估计 AI 圈大家都没有预料到，在有 GPT-Astra 和 Fable 发布以后，还能有这么热的新类型模型火起来。\n\nJEV 能这么火，一方面是确实解决了某些问题；另一个核心原因在于它的速度优势非常易于传播。\n\n速度和数量它都占了。你会发现那些网页里演示 JEV 的案例，都会展示它的速度以及处理的数量，这最能给人原始刺激，也说明大家确实对这两点非常重视，所以各种 Demo 和案例就疯狂传播。\n\n当然这个模型也不是万能的。如果硬要让它脱离大语言模型只靠自己工作，应用场景其实比较有限；但如果加上大模型辅助或其他工具，效果会非常好。\n\n同时它现在还缺一个多模态，如果有了多模态，尤其在素材整理分类或长内容生产上，体验会非常爽。\n\n刚好昨天他们宣布向所有人开放，不再需要 waitlist 了，每个用户有 5 美元的免费额度。\n\n这个模型非常省钱，输入只要 0.042 美元，输出免费，所以 5 美元能用非常非常久。\n\n刚好我们上周的 Next Token 也更新了，主要讨论了：\n\nJEV 模型及衍生问题：比如大家一天就能训出类似模型，像 GPT-6、Fable 这种在模型训练上已经非常专业，这里有很大的小模型训练套利空间。\n小模型与大模型的协作问题。\n\n交互界面的演变：现在聊天、浏览器、任务列表都在同一个软件里。包括 Codex 最近更新了浏览器插件，本身也支持多账号（比如 Notion 的 MCP 可以登录多个账号并拉取信息），很多时候它已经在替代我们的系统界面了。这种新的交互可能在潜移默化中就完成了对用户的教育。\n\n昨天我也用 JEV 做了一个实时 3D 场景生成的案例，喜欢的人还挺多。节目里把这些和其他一些新闻基本都讨论到了，也聊了聊我、乔木、杨攀和橘子几个人的看法，欢迎大家去听听"
+    },
+    "url": "https://x.com/op7418/status/2103488476591399234",
+    "time": "2026-09-25 22:15",
+    "created_at": "Fri Sep 25 14:15:08 +0000 2026",
+    "id_str": "2103488476591399234",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Skill 在这里：https://github.com/op7418/guizang-product-video-skill",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103490994583015515",
+    "time": "2026-09-25 22:25",
+    "created_at": "Fri Sep 25 14:25:08 +0000 2026",
+    "id_str": "2103490994583015515",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 提示词能给个吗?",
+    "quoted_tweet": null,
+    "url": "https://x.com/jw_z1995/status/2103492244338594113",
+    "time": "2026-09-25 22:30",
+    "created_at": "Fri Sep 25 14:30:06 +0000 2026",
+    "id_str": "2103492244338594113",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@jw_z1995 https://github.com/op7418/guizang-product-video-skill",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103494151400779985",
+    "time": "2026-09-25 22:37",
+    "created_at": "Fri Sep 25 14:37:41 +0000 2026",
+    "id_str": "2103494151400779985",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Skill 已经更新：https://github.com/op7418/guizang-product-video-skill",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103494862465286308",
+    "time": "2026-09-25 22:40",
+    "created_at": "Fri Sep 25 14:40:30 +0000 2026",
+    "id_str": "2103494862465286308",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Opus 5.5 做动态太牛逼了！\n\n尝试跟它做一个中秋节的艺术表达的视频，祝大家中秋快乐！\n\n音乐是他用《月亮代表我的心》的曲谱做的电子乐变奏。\n\n他不只能原创，也能去混音、去改，然后还卡上了点，太厉害了！",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103520946841862312",
+    "time": "2026-09-26 00:24",
+    "created_at": "Fri Sep 25 16:24:09 +0000 2026",
+    "id_str": "2103520946841862312",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "用 Opus 5.5 整点偏艺术表达的视频，依旧看到的听到的都是代码",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103527712086483129",
+    "time": "2026-09-26 00:51",
+    "created_at": "Fri Sep 25 16:51:02 +0000 2026",
+    "id_str": "2103527712086483129",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Excited to introduce @Cosign: the curated professional network for the startup community: http://cosign.co\n\nOur goal is to create the following:\n\n- A comprehensive startup directory of investors, companies, and operators, including what they worked on and who they worked on it with.\n\n- Cosign graph: Who shaped your career? Who were you actually in the trenches with? Who would work with you again? Who thinks you’re someone to watch?\n\n- Durable reputation: Great endorsements happen every day on X and disappear into the feed. Cosign attaches those signals permanently to people and companies.\n\n- Discovery: Who are the best fintech angels? Which AI companies should I watch? Who are the best designers?\n\n- Intent network: Privately signal “I’d invest in them,” “I’d hire them,” “I’d work with them,” or eventually even “I’d acquire this company.” Match people when interest exists on both sides.\n\nImagine if Wikipedia, LinkedIn, and OG AngelList had a baby. Though Cosign is a community, not a business.\n\nIn order to join, you need to be cosigned. Or you can apply directly.\n\nDavid Booth and I started this idea 7 years ago but didn’t have the firepower to make it work. Now we do.\n\nNo one has really touched LinkedIn in 20 years. Excited to take a swing.\n\nhttp://cosign.co",
+    "quoted_tweet": null,
+    "url": "https://x.com/eriktorenberg/status/2103493671866060958",
+    "time": "2026-09-25 22:35",
+    "created_at": "Fri Sep 25 14:35:47 +0000 2026",
+    "id_str": "2103493671866060958",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "New product drop today .. 8 years in the making\n\nOn LinkedIn you build your own profile & talk about your own work.\n\nOn @cosign your profile is built by the people who respect the work you’ve done, and see the potential in the work you'll do in the future.\n\nClaim your profile or join the waitlist --> http://Cosign.co",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Excited to introduce @Cosign: the curated professional network for the startup community: http://cosign.co\n\nOur goal is to create the following:\n\n- A comprehensive startup directory of investors, companies, and operators, including what they worked on and who they worked on it with.\n\n- Cosign graph: Who shaped your career? Who were you actually in the trenches with? Who would work with you again? Who thinks you’re someone to watch?\n\n- Durable reputation: Great endorsements happen every day on X and disappear into the feed. Cosign attaches those signals permanently to people and companies.\n\n- Discovery: Who are the best fintech angels? Which AI companies should I watch? Who are the best designers?\n\n- Intent network: Privately signal “I’d invest in them,” “I’d hire them,” “I’d work with them,” or eventually even “I’d acquire this company.” Match people when interest exists on both sides.\n\nImagine if Wikipedia, LinkedIn, and OG AngelList had a baby. Though Cosign is a community, not a business.\n\nIn order to join, you need to be cosigned. Or you can apply directly.\n\nDavid Booth and I started this idea 7 years ago but didn’t have the firepower to make it work. Now we do.\n\nNo one has really touched LinkedIn in 20 years. Excited to take a swing.\n\nhttp://cosign.co"
+    },
+    "url": "https://x.com/david__booth/status/2103494600774361197",
+    "time": "2026-09-25 22:39",
+    "created_at": "Fri Sep 25 14:39:28 +0000 2026",
+    "id_str": "2103494600774361197",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Introducing Cosign.\n\nhttps://cosign.co",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Excited to introduce @Cosign: the curated professional network for the startup community: http://cosign.co\n\nOur goal is to create the following:\n\n- A comprehensive startup directory of investors, companies, and operators, including what they worked on and who they worked on it with.\n\n- Cosign graph: Who shaped your career? Who were you actually in the trenches with? Who would work with you again? Who thinks you’re someone to watch?\n\n- Durable reputation: Great endorsements happen every day on X and disappear into the feed. Cosign attaches those signals permanently to people and companies.\n\n- Discovery: Who are the best fintech angels? Which AI companies should I watch? Who are the best designers?\n\n- Intent network: Privately signal “I’d invest in them,” “I’d hire them,” “I’d work with them,” or eventually even “I’d acquire this company.” Match people when interest exists on both sides.\n\nImagine if Wikipedia, LinkedIn, and OG AngelList had a baby. Though Cosign is a community, not a business.\n\nIn order to join, you need to be cosigned. Or you can apply directly.\n\nDavid Booth and I started this idea 7 years ago but didn’t have the firepower to make it work. Now we do.\n\nNo one has really touched LinkedIn in 20 years. Excited to take a swing.\n\nhttp://cosign.co"
+    },
+    "url": "https://x.com/a16z/status/2103497672955179070",
+    "time": "2026-09-25 22:51",
+    "created_at": "Fri Sep 25 14:51:40 +0000 2026",
+    "id_str": "2103497672955179070",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "If you believe in someone early, say so.\n\nhttps://cosign.co",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Introducing Cosign\n\nhttps://cosign.co"
+    },
+    "url": "https://x.com/a16z/status/2103500379761848562",
+    "time": "2026-09-25 23:02",
+    "created_at": "Fri Sep 25 15:02:26 +0000 2026",
+    "id_str": "2103500379761848562",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Who believed in you first? Silicon Valley runs on that question.\n\na16z's Erik Torenberg, David Booth, Josh Elman, and Olivia Moore on Cosign:\n\nCosign is a curated professional network for the startup community. Profiles are built from endorsements, fundraises, and talent moves, with a private layer to signal who you'd fund or hire.\n\nErik ran a small version of this seven years ago, emailing a few hundred people and asking each for one person to watch. One of the answers was Russell Kaplan, then a 22-year-old engineer at Tesla, now president of Cognition.\n\nOlivia on why this matters: \"The most valuable data in all of Silicon Valley is who has conviction in who.\" Investors chase it every day and still struggle to find it. An engineer choosing between five offers has almost no way to get it at all.\n\nPaul Graham cosigned Sam Altman in 2009, six years before OpenAI was founded. Ryan Hoover cosigned Erik early at Product Hunt. Silicon Valley has always run on cosigns from people whose word carries weight, and until now nobody kept the record.\n\nThe conversation closes on the question of why anyone would share their alpha. David's answer is that the person you cosign today is the one raising a round in two years, and when they do, they remember who believed in them first.\n\n0:55 Twitter as a credential\n3:05 Silicon Valley is a race to discover talent\n4:10 The 3 questions on every Cosign profile\n5:45 The email that found Russell Kaplan at 22\n6:15 Conviction is the scarcest data\n9:50 Why Cosign is free and strictly positive\n11:05 Seeing things before the market does\n13:00 Sending private \"I'd fund them\" signals\n18:35 Endorsements that don't vanish\n23:05 Recognition for the unsung engineer\n29:40 Building LinkedIn Jobs in 2004\n34:25 AI made human endorsement scarce\n36:45 Why nobody has disrupted LinkedIn\n42:10 Your Cosign profile may already exist\n46:25 Silicon Valley always ran on cosigns\n48:10 \"Why would I give away my alpha?\"\n\nYouTube: https://youtu.be/-ywZlfznTa4\n\n@eriktorenberg @david__booth @joshelman @omooretweets",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Excited to introduce @Cosign: the curated professional network for the startup community: http://cosign.co\n\nOur goal is to create the following:\n\n- A comprehensive startup directory of investors, companies, and operators, including what they worked on and who they worked on it with.\n\n- Cosign graph: Who shaped your career? Who were you actually in the trenches with? Who would work with you again? Who thinks you’re someone to watch?\n\n- Durable reputation: Great endorsements happen every day on X and disappear into the feed. Cosign attaches those signals permanently to people and companies.\n\n- Discovery: Who are the best fintech angels? Which AI companies should I watch? Who are the best designers?\n\n- Intent network: Privately signal “I’d invest in them,” “I’d hire them,” “I’d work with them,” or eventually even “I’d acquire this company.” Match people when interest exists on both sides.\n\nImagine if Wikipedia, LinkedIn, and OG AngelList had a baby. Though Cosign is a community, not a business.\n\nIn order to join, you need to be cosigned. Or you can apply directly.\n\nDavid Booth and I started this idea 7 years ago but didn’t have the firepower to make it work. Now we do.\n\nNo one has really touched LinkedIn in 20 years. Excited to take a swing.\n\nhttp://cosign.co"
+    },
+    "url": "https://x.com/a16z/status/2103512267186745464",
+    "time": "2026-09-25 23:49",
+    "created_at": "Fri Sep 25 15:49:40 +0000 2026",
+    "id_str": "2103512267186745464",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Announcing Cosign.\n\nSilicon Valley knows people by watching other people know them. One person's visible belief becomes a signal to someone else, and the network updates its priors.\n\nAscendancy is a game of two moves: self-made wins and high-status vouches. The earlier someone is in their trajectory, the less proof there is to go on, and the more meaningful the vouch. Belief compounds.\n\nPeople used to earn status through rites of passage like graduating college and landing prestigious jobs. People collect status in bits now, 24/7, often outside any formal system. Showing your work in public has become the new warm intro.\n\nVouches take many forms. A tweet, an invite, an introduction, an angel check. Being undeniable and getting credible people to say so is how you become somebody in Silicon Valley.\n\nThe game only works if new people can win. Everyone benefits when good people get pulled into the game faster.\n\nIf you believe in someone early, say so.\n\nhttp://cosign.co",
+    "quoted_tweet": {
+      "author": "anu",
+      "username": "anuatluru",
+      "text": "https://x.com/i/article/2103476952816386048"
+    },
+    "url": "https://x.com/a16z/status/2103518893969178846",
+    "time": "2026-09-26 00:16",
+    "created_at": "Fri Sep 25 16:16:00 +0000 2026",
+    "id_str": "2103518893969178846",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The OG Cosign",
+    "quoted_tweet": {
+      "author": "Cosign",
+      "username": "cosign",
+      "text": "Who are the ppl in your career who took a chance on you?\n\nWho either put their time, reputation, or even money on the line to open doors for you?"
+    },
+    "url": "https://x.com/a16z/status/2103526198576123945",
+    "time": "2026-09-26 00:45",
+    "created_at": "Fri Sep 25 16:45:02 +0000 2026",
+    "id_str": "2103526198576123945",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"What's more impressive to you: someone who went to Stanford, or someone who is followed by Patrick Collison, Elon Musk, and Marc Andreessen?\"\n\nErik Torenberg on the peer-to-peer credential, and why attention from the right people can open more doors than a degree:\n\n\"My friend David Perell told me, 'My Twitter account is more valuable to me than my college education. My Twitter has given me more value to my career and also personally.'\"\n\n\"College is a bundle of education, network, and credential. You learn from having conversations. You meet people and discover people. It's proof of work: Are they interesting? Are they funny? Did they build something cool?\"\n\n\"What's more impressive to you: someone who went to Stanford, or someone who is followed by Patrick Collison, Elon Musk, Marc Andreessen, et cetera? I think most people would say the latter. It's this kind of peer-to-peer credential.\"\n\n\"Implicitly, although people often do this explicitly, that is a cosign. It's an endorsement that this person is worth tracking. It's a public signal that this person is worth following.\"\n\n\"If you're followed by these people, now your doors are open. People want to read what you say. They want to work with you. They want to invest in you or have you as part of their team.\"\n\n\"There's benefit to the receiver but there's also benefit to the giver because if you're the first person to discover someone, that's how Silicon Valley operates.\"\n\n@eriktorenberg @cosign",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Who believed in you first? Silicon Valley runs on that question.\n\na16z's Erik Torenberg, David Booth, Josh Elman, and Olivia Moore on Cosign:\n\nCosign is a curated professional network for the startup community. Profiles are built from endorsements, fundraises, and talent moves, with a private layer to signal who you'd fund or hire.\n\nErik ran a small version of this seven years ago, emailing a few hundred people and asking each for one person to watch. One of the answers was Russell Kaplan, then a 22-year-old engineer at Tesla, now president of Cognition.\n\nOlivia on why this matters: \"The most valuable data in all of Silicon Valley is who has conviction in who.\" Investors chase it every day and still struggle to find it. An engineer choosing between five offers has almost no way to get it at all.\n\nPaul Graham cosigned Sam Altman in 2009, six years before OpenAI was founded. Ryan Hoover cosigned Erik early at Product Hunt. Silicon Valley has always run on cosigns from people whose word carries weight, and until now nobody kept the record.\n\nThe conversation closes on the question of why anyone would share their alpha. David's answer is that the person you cosign today is the one raising a round in two years, and when they do, they remember who believed in them first.\n\n0:55 Twitter as a credential\n3:05 Silicon Valley is a race to discover talent\n4:10 The 3 questions on every Cosign profile\n5:45 The email that found Russell Kaplan at 22\n6:15 Conviction is the scarcest data\n9:50 Why Cosign is free and strictly positive\n11:05 Seeing things before the market does\n13:00 Sending private \"I'd fund them\" signals\n18:35 Endorsements that don't vanish\n23:05 Recognition for the unsung engineer\n29:40 Building LinkedIn Jobs in 2004\n34:25 AI made human endorsement scarce\n36:45 Why nobody has disrupted LinkedIn\n42:10 Your Cosign profile may already exist\n46:25 Silicon Valley always ran on cosigns\n48:10 \"Why would I give away my alpha?\"\n\nYouTube: https://youtu.be/-ywZlfznTa4\n\n@eriktorenberg @david__booth @joshelman @omooretweets"
+    },
+    "url": "https://x.com/a16z/status/2103533879751758057",
+    "time": "2026-09-26 01:15",
+    "created_at": "Fri Sep 25 17:15:33 +0000 2026",
+    "id_str": "2103533879751758057",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "每个模型出来都一顿\n\n卧槽、牛逼\n\n炸裂…\n\n然后就没然后了\n\n外行用模型做出一些牛逼、炸裂的效果后，最后还是那它们来写文档，这就是现实！\n\n真正的高手都在默默搞别的东西！",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2103472754746110346",
+    "time": "2026-09-25 21:12",
+    "created_at": "Fri Sep 25 13:12:40 +0000 2026",
+    "id_str": "2103472754746110346",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Today is X payday for the handful of people lucky enough to be in the program and earn over $30.\nMy friend @NotPhilSledge generated a video with a cute bird explaining all this. \n\nHe did it for a couple of bucks and about 10 minutes of labor.  He didn't use Grok Imagine. It is unfortunate one has to regenerate the entire video to edit the captions.\n\n\"Eaten in Appalachia\" is probably a good tag line for this video. It's worth a watch.",
+    "quoted_tweet": {
+      "author": "NotPhilSledge",
+      "username": "NotPhilSledge",
+      "text": "X replaced Revenue Sharing with Original Content Rewards, and nobody explained it properly. \n\nSo I got a very dry British host to do it. \n\nPaid to Post: made entirely with Adobe Firefly 🎬"
+    },
+    "url": "https://x.com/d2fl/status/2103484677952598252",
+    "time": "2026-09-25 22:00",
+    "created_at": "Fri Sep 25 14:00:02 +0000 2026",
+    "id_str": "2103484677952598252",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@petergostev Great use case",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103502999159296151",
+    "time": "2026-09-25 23:12",
+    "created_at": "Fri Sep 25 15:12:50 +0000 2026",
+    "id_str": "2103502999159296151",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I was today years old when I discovered you can play the Snake Game when your image is being generated in ChatGPT",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103504689719652459",
+    "time": "2026-09-25 23:19",
+    "created_at": "Fri Sep 25 15:19:33 +0000 2026",
+    "id_str": "2103504689719652459",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Dear Grok algorithm, can you find people who love AI?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103505669563523375",
+    "time": "2026-09-25 23:23",
+    "created_at": "Fri Sep 25 15:23:27 +0000 2026",
+    "id_str": "2103505669563523375",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife If you get an answer can you let me know also 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/Substrate_Zer0/status/2103506737416352228",
+    "time": "2026-09-25 23:27",
+    "created_at": "Fri Sep 25 15:27:42 +0000 2026",
+    "id_str": "2103506737416352228",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love AI\n\nWhat do you need?",
+    "quoted_tweet": null,
+    "url": "https://x.com/hakimieiqbal/status/2103508088917520665",
+    "time": "2026-09-25 23:33",
+    "created_at": "Fri Sep 25 15:33:04 +0000 2026",
+    "id_str": "2103508088917520665",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife What!?! No way!\n\nAwesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/PrintedPathways/status/2103508111629648167",
+    "time": "2026-09-25 23:33",
+    "created_at": "Fri Sep 25 15:33:09 +0000 2026",
+    "id_str": "2103508111629648167",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PrintedPathways 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103508167263211796",
+    "time": "2026-09-25 23:33",
+    "created_at": "Fri Sep 25 15:33:23 +0000 2026",
+    "id_str": "2103508167263211796",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Meta shall rebrand itself as Muse",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103509598984368223",
+    "time": "2026-09-25 23:39",
+    "created_at": "Fri Sep 25 15:39:04 +0000 2026",
+    "id_str": "2103509598984368223",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Vibing with Claude Opus 5.5\nhttps://x.com/twocels/status/2103497165599633887?s=20",
+    "quoted_tweet": {
+      "author": "2Cels",
+      "username": "twocels",
+      "text": "Back to the 80s. The vibe in this is real. \nClaude Opus 5.5 cooked hard!"
+    },
+    "url": "https://x.com/twocels/status/2103510536726204888",
+    "time": "2026-09-25 23:42",
+    "created_at": "Fri Sep 25 15:42:47 +0000 2026",
+    "id_str": "2103510536726204888",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Substrate_Zer0 😅😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103511389046218882",
+    "time": "2026-09-25 23:46",
+    "created_at": "Fri Sep 25 15:46:11 +0000 2026",
+    "id_str": "2103511389046218882",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@twocels Very nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103511448278249758",
+    "time": "2026-09-25 23:46",
+    "created_at": "Fri Sep 25 15:46:25 +0000 2026",
+    "id_str": "2103511448278249758",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@hakimieiqbal 😁 great new content",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103511702939775057",
+    "time": "2026-09-25 23:47",
+    "created_at": "Fri Sep 25 15:47:25 +0000 2026",
+    "id_str": "2103511702939775057",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This Japanese artists make the coolest creatures with AI",
+    "quoted_tweet": {
+      "author": "Zoo Keeper",
+      "username": "kawaii_ai_zoo",
+      "text": "ﾄﾎﾞﾄﾎﾞ🚶🐕‍🦺"
+    },
+    "url": "https://x.com/icreatelife/status/2103511858107871672",
+    "time": "2026-09-25 23:48",
+    "created_at": "Fri Sep 25 15:48:02 +0000 2026",
+    "id_str": "2103511858107871672",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Dear Anthropic, please, do not nerf Opus 5.5\n\nIt’s so good right now!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103512254037864815",
+    "time": "2026-09-25 23:49",
+    "created_at": "Fri Sep 25 15:49:37 +0000 2026",
+    "id_str": "2103512254037864815",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Kris, ask the same of Grok Bot, it will scrape and identify people who love AI; happy Friday friend.",
+    "quoted_tweet": null,
+    "url": "https://x.com/shaunralston/status/2103512328268644631",
+    "time": "2026-09-25 23:49",
+    "created_at": "Fri Sep 25 15:49:55 +0000 2026",
+    "id_str": "2103512328268644631",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@shaunralston Thanks, good idea, but here just want to talk to real people :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103512692090966307",
+    "time": "2026-09-25 23:51",
+    "created_at": "Fri Sep 25 15:51:21 +0000 2026",
+    "id_str": "2103512692090966307",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife We're all with you on this.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2103513175920443451",
+    "time": "2026-09-25 23:53",
+    "created_at": "Fri Sep 25 15:53:17 +0000 2026",
+    "id_str": "2103513175920443451",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife No chance ;)",
+    "quoted_tweet": null,
+    "url": "https://x.com/KrakowiakK/status/2103513431026626623",
+    "time": "2026-09-25 23:54",
+    "created_at": "Fri Sep 25 15:54:18 +0000 2026",
+    "id_str": "2103513431026626623",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@KrakowiakK I am so hopeful 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103513678670917781",
+    "time": "2026-09-25 23:55",
+    "created_at": "Fri Sep 25 15:55:17 +0000 2026",
+    "id_str": "2103513678670917781",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone Yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103513854810669123",
+    "time": "2026-09-25 23:55",
+    "created_at": "Fri Sep 25 15:55:59 +0000 2026",
+    "id_str": "2103513854810669123",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Woah, I looove that",
+    "quoted_tweet": null,
+    "url": "https://x.com/billywoodward/status/2103513872615285158",
+    "time": "2026-09-25 23:56",
+    "created_at": "Fri Sep 25 15:56:03 +0000 2026",
+    "id_str": "2103513872615285158",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@billywoodward Me too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103514108712681613",
+    "time": "2026-09-25 23:56",
+    "created_at": "Fri Sep 25 15:56:59 +0000 2026",
+    "id_str": "2103514108712681613",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Great style with SD 2.5",
+    "quoted_tweet": {
+      "author": "Kōda",
+      "username": "aimikoda",
+      "text": "Seedance 2.5\n\nThis style animates really well! Used two of the characters from the quoted post.\n\nPrompt in the replies! 👇"
+    },
+    "url": "https://x.com/icreatelife/status/2103515583148920971",
+    "time": "2026-09-26 00:02",
+    "created_at": "Fri Sep 25 16:02:51 +0000 2026",
+    "id_str": "2103515583148920971",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It’s too late I’m afraid. There are reports of people noticing changes 😔",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2103516685236064520",
+    "time": "2026-09-26 00:07",
+    "created_at": "Fri Sep 25 16:07:13 +0000 2026",
+    "id_str": "2103516685236064520",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Amazing work, Kris! 👏🔥 I’d love to try the After Effects MCP too. Could you please share it with me?",
+    "quoted_tweet": null,
+    "url": "https://x.com/os_orabi/status/2103518156606124112",
+    "time": "2026-09-26 00:13",
+    "created_at": "Fri Sep 25 16:13:04 +0000 2026",
+    "id_str": "2103518156606124112",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@os_orabi There’s no official MCP yet but community wrote some. I’ll keep you updated if the official MCP is released",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103518407618412764",
+    "time": "2026-09-26 00:14",
+    "created_at": "Fri Sep 25 16:14:04 +0000 2026",
+    "id_str": "2103518407618412764",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Keep creating ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103519859451592806",
+    "time": "2026-09-26 00:19",
+    "created_at": "Fri Sep 25 16:19:50 +0000 2026",
+    "id_str": "2103519859451592806",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife ….Or you could just play snake",
+    "quoted_tweet": null,
+    "url": "https://x.com/PapaNeedPizza/status/2103521461344637017",
+    "time": "2026-09-26 00:26",
+    "created_at": "Fri Sep 25 16:26:12 +0000 2026",
+    "id_str": "2103521461344637017",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely Oh no! I was going to play today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103524827327873066",
+    "time": "2026-09-26 00:39",
+    "created_at": "Fri Sep 25 16:39:35 +0000 2026",
+    "id_str": "2103524827327873066",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PapaNeedPizza I don’t know anyone who has snake anywhere now. \n\nBesides the whole point you are waiting and can click on the image and play",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103535791054241809",
+    "time": "2026-09-26 01:23",
+    "created_at": "Fri Sep 25 17:23:09 +0000 2026",
+    "id_str": "2103535791054241809",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@d2fl @HeidiSnow381 If you need any help I’m part of the Adobe community and happy to help.   \n\nIf I can’t help I’m sure @icreatelife will be happy to help too.",
+    "quoted_tweet": null,
+    "url": "https://x.com/NotPhilSledge/status/2103537396893495719",
+    "time": "2026-09-26 01:29",
+    "created_at": "Fri Sep 25 17:29:31 +0000 2026",
+    "id_str": "2103537396893495719",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NotPhilSledge @d2fl @HeidiSnow381 Super happy to help. I recommend using Firefly Boards for everything",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103537921500291297",
+    "time": "2026-09-26 01:31",
+    "created_at": "Fri Sep 25 17:31:36 +0000 2026",
+    "id_str": "2103537921500291297",
+    "is_retweet": false
+  }
+]
