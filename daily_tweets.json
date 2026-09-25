@@ -540,5 +540,119 @@
     "created_at": "Thu Sep 24 23:48:28 +0000 2026",
     "id_str": "2103270374712754210",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All of this effort from the AI labs pouring into proofs, but there are so many other interesting problems in other fields\n\nFor example, this historian used AI to make progress on the cyphers of John Dee & the intellectual antecedents that Darwin drew from. https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103259638145704260",
+    "time": "Thu Sep 24 23:05:49 +0000 2026",
+    "created_at": "Thu Sep 24 23:05:49 +0000 2026",
+    "id_str": "2103259638145704260",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Um, wow?\n\nOpus 5.5: \"make the same message much more interesting to a social media audience that loves anime and quick clips and compressed learning\"\n\nOne shot.\n\nAlso, please do stay for the closing song.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Hey Claude, \"Pick a problem or mystery that obsesses you and solve it as best you can & make a movie we can share on social media about it\"\n\nSo it took a crack at the Voynich Manuscript & failed. Then it made this movie, which is pretty interesting to watch and a good explainer."
+    },
+    "url": "https://x.com/emollick/status/2103272686570918334",
+    "time": "Thu Sep 24 23:57:40 +0000 2026",
+    "created_at": "Thu Sep 24 23:57:40 +0000 2026",
+    "id_str": "2103272686570918334",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Any connectors at all?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Yair_Rosenberg/status/2103273645187711290",
+    "time": "2026-09-25 08:01",
+    "created_at": "Fri Sep 25 00:01:28 +0000 2026",
+    "id_str": "2103273645187711290",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Amazing. And the video is just Opus 5.5 drawing/generating everything internally? No outside tools?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Yair_Rosenberg/status/2103275186443387128",
+    "time": "2026-09-25 08:07",
+    "created_at": "Fri Sep 25 00:07:36 +0000 2026",
+    "id_str": "2103275186443387128",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Yair_Rosenberg No tools. No APIs. No external harness. Just native Claude Projects.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103275825001070699",
+    "time": "2026-09-25 08:10",
+    "created_at": "Fri Sep 25 00:10:08 +0000 2026",
+    "id_str": "2103275825001070699",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@buildwithrajath yeah, we've had a few fumbles the past few months\n\nwe're going to listen to you more, incorporate your feedback more, and we want to talk to you more (DMs are always open)\n\non that note,\ngo fucking build.",
+    "quoted_tweet": null,
+    "url": "https://x.com/edwinarbus/status/2103240477437010119",
+    "time": "Thu Sep 24 21:49:40 +0000 2026",
+    "created_at": "Thu Sep 24 21:49:40 +0000 2026",
+    "id_str": "2103240477437010119",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow We do!",
+    "quoted_tweet": null,
+    "url": "https://x.com/boztank/status/2103254364072841690",
+    "time": "Thu Sep 24 22:44:51 +0000 2026",
+    "created_at": "Thu Sep 24 22:44:51 +0000 2026",
+    "id_str": "2103254364072841690",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@boztank Amazing!",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2103258837511975383",
+    "time": "Thu Sep 24 23:02:38 +0000 2026",
+    "created_at": "Thu Sep 24 23:02:38 +0000 2026",
+    "id_str": "2103258837511975383",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@catrosemcmillan Happy Birthday!",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2103272167995736323",
+    "time": "Thu Sep 24 23:55:36 +0000 2026",
+    "created_at": "Thu Sep 24 23:55:36 +0000 2026",
+    "id_str": "2103272167995736323",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@edwinarbus @buildwithrajath I think Anthropic made a good move picking up Edwin. :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2103281137124884848",
+    "time": "2026-09-25 08:31",
+    "created_at": "Fri Sep 25 00:31:14 +0000 2026",
+    "id_str": "2103281137124884848",
+    "is_retweet": false
   }
 ]
