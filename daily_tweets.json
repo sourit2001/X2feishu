@@ -282,5 +282,112 @@
     "created_at": "Sat Sep 26 16:39:53 +0000 2026",
     "id_str": "2103887294063419561",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Is mistral not in the game?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rapp96851/status/2103842679964709005",
+    "time": "2026-09-26 21:42",
+    "created_at": "Sat Sep 26 13:42:37 +0000 2026",
+    "id_str": "2103842679964709005",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@rapp96851 No",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103843053475942402",
+    "time": "2026-09-26 21:44",
+    "created_at": "Sat Sep 26 13:44:06 +0000 2026",
+    "id_str": "2103843053475942402",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Not to pick on anybody in particular, but there’s something revealing about the way in which everybody keeps saying that things are getting, “weird.” Did people call the industrial revolution “weird?” When the automobile dramatically changed society, did people think that was “weird?”\n\nWhat is it about recent technological change that makes people want to use this particular descriptor?\n\nRecent developments in AI are impressive, significant, maybe even disorienting, but why “weird?”",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "It is extremely clear at this point in AI development that, regardless of risk or revenue or any of the other stuff discussed on X all the time, things are just going to keep getting weirder.\n\nJust super, super weird."
+    },
+    "url": "https://x.com/xwanyex/status/2103847339924377613",
+    "time": "2026-09-26 22:01",
+    "created_at": "Sat Sep 26 14:01:08 +0000 2026",
+    "id_str": "2103847339924377613",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@xwanyex There was an enormous amount written about how disorienting the Industrial Revolution was. “All that is solid melts into air” and all that. Weird is just another word for that.\n\nAlso the steam engines didn’t talk to ua.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103849332374159742",
+    "time": "2026-09-26 22:09",
+    "created_at": "Sat Sep 26 14:09:03 +0000 2026",
+    "id_str": "2103849332374159742",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "People keep mentioning it in the comments, but Mistral seems to have largely pivoted from creating frontier models. Their current models are also far from the frontier in open weights as well. https://www.scmp.com/news/china/diplomacy/article/3364745/mistral-paradox-europes-push-tech-sovereignty-relies-chinas-zai",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103855138591129926",
+    "time": "2026-09-26 22:32",
+    "created_at": "Sat Sep 26 14:32:07 +0000 2026",
+    "id_str": "2103855138591129926",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "\"so this is fun, and exactly what i wanted, but now lets try one that actually is educational\"\n\nThis is actually pretty impressive. It kept the constraint of multiple genres but did a nice job explaining recursion, in its programming meaning, in an interesting and accessible way.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\"\n\nNine genre shifts, one prompt..."
+    },
+    "url": "https://x.com/emollick/status/2103888590854062435",
+    "time": "2026-09-27 00:45",
+    "created_at": "Sat Sep 26 16:45:03 +0000 2026",
+    "id_str": "2103888590854062435",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "there is a trick to make your Claude agent remember how to improve itself.\n\nhere's the setup:\n\n→ create a file called AGENT_LEARNINGS. md in your project\n\n→ the agent writes to it every time it makes a mistake\n\n→ inside: the mistakes it made, patterns to avoid, better approaches\n\n→ before any new task, it reads that file first\n\nthe result: it gets smarter over time without retraining the model.\n\nthis is called external memory scaffolding. expect it in every serious AI agent system.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103858396957204625",
+    "time": "2026-09-26 22:45",
+    "created_at": "Sat Sep 26 14:45:04 +0000 2026",
+    "id_str": "2103858396957204625",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free → https://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103858409967919583",
+    "time": "2026-09-26 22:45",
+    "created_at": "Sat Sep 26 14:45:07 +0000 2026",
+    "id_str": "2103858409967919583",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "if you're building with Claude, the full Claude guide is free → https://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103858421619626084",
+    "time": "2026-09-26 22:45",
+    "created_at": "Sat Sep 26 14:45:10 +0000 2026",
+    "id_str": "2103858421619626084",
+    "is_retweet": false
   }
 ]
