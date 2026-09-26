@@ -160,5 +160,607 @@
     "created_at": "Sat Sep 26 03:02:35 +0000 2026",
     "id_str": "2103681610277388371",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "真他妈离谱啊，用 Opus 5.5 做的网页版的Splatoon",
+    "quoted_tweet": {
+      "author": "Jayden Davis",
+      "username": "JaydenDavisNC",
+      "text": "The full Splatoon Game made by Claude Opus 5.5 from scratch is now out exclusively on the browser!\n\nHere is some gameplay, enjoy and have fun! \nhttps://inkwave-six.vercel.app/"
+    },
+    "url": "https://x.com/op7418/status/2103709667138621740",
+    "time": "2026-09-26 12:54",
+    "created_at": "Sat Sep 26 04:54:04 +0000 2026",
+    "id_str": "2103709667138621740",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 要重置了",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out)"
+    },
+    "url": "https://x.com/dotey/status/2103644663005471194",
+    "time": "2026-09-26 08:35",
+    "created_at": "Sat Sep 26 00:35:46 +0000 2026",
+    "id_str": "2103644663005471194",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 笑死了，评论区说没关系的，我们正在用 Opus 5.5",
+    "quoted_tweet": null,
+    "url": "https://x.com/qingnianxiaozhe/status/2103652182772121964",
+    "time": "2026-09-26 09:05",
+    "created_at": "Sat Sep 26 01:05:38 +0000 2026",
+    "id_str": "2103652182772121964",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@qingnianxiaozhe 真的，我都想不到啥任务给它做",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103655333205885209",
+    "time": "2026-09-26 09:18",
+    "created_at": "Sat Sep 26 01:18:10 +0000 2026",
+    "id_str": "2103655333205885209",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "三弦是个傻逼。",
+    "quoted_tweet": {
+      "author": "yihong0618",
+      "username": "yihong0618",
+      "text": "又来求推荐了。\n上一本看的大家推荐的《天之下》非常好。\n还看了一点《诡道异仙》。"
+    },
+    "url": "https://x.com/yihong0618/status/2103655412759437454",
+    "time": "2026-09-26 09:18",
+    "created_at": "Sat Sep 26 01:18:29 +0000 2026",
+    "id_str": "2103655412759437454",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic Claude Code 团队的 Thariq Shihipar 的这篇文章讲 Claude Code 里的 effort 设置（可以理解为投入档位）该怎么用。我想很多人都不是很清楚 Claude Code 的 effort 档位怎么选，我在看这篇文章之前也有些模糊，一般默认就是 high，现在看还是有些讲究的。\n\nThariq 的经验是：low 用于头脑风暴、画草图、小改动，要的是快，随时能插手；medium 用于大部分日常开发，比如实现新功能；high 用于需要验证、边界情况多的活，比如在老代码库里修 bug；max 用于让 Claude 完全自主攻克难题，比如从头到尾搭一个 App 并验证，或者给关键软件找安全漏洞。\n\n在 Claude Code 里输入 /effort 就能切换档位，对话中途也可以换。注意只有最新的 Opus 5.5 和 Fable 5.1 不会让缓存失效，早期模型会让缓存失效。\n\nThariq 通过实测发现，effort 主要决定 Claude 在一个任务上花多少功夫做验证、测边界情况，以及替你拿多少主意。\n\neffort 从 low 到 max 分几档，本质是告诉模型你愿意让它在这件事上花多少算力。同一件事，给你 1 小时，你会先交一个能用的版本，等对方反馈再改；给你 12 小时，你会自己反复打磨、检查。\n\n最新的 Opus 5.5 和 Fable 5.1 可以在对话中途切换档位，而且不会让提示词缓存（prompt cache）失效，前面对话积累的缓存照样能用。能随时切了，很多用户就来问他到底什么时候该用哪一档。\n\n【日常开发：需求越模糊，档位差别越大】\n\nThariq 让 Opus 5.5 用不同档位做同一个模糊需求：“做一个健身记录 App”。low 档只做出一个记录表和一张简单图表，档位越高功能越多，max 档还加了一张热力图。另一个任务是重新设计 Claude Code 的 /config 菜单，low 档 1 分钟交出一个能看懂思路的交互草图；max 档用了 28 分钟，样稿跟 Claude Code 真实界面很像，还附了几种操作流程的演示。\n\n如果先让 Claude 详细采访他、整理出完整需求再动手，不同模型、不同档位的产出就很接近了。\n\n换句话说，档位越高，Claude 替你做的假设越多。想自己掌控细节，就用低档位快速出初稿，边看边改。\n\n他现在开发新功能的流程是：把需求交给 Claude，让它反过来问你还漏了哪些细节；用 low 档实现，检查大方向对不对，不对就继续用 low 档改；最后切到 high 档做验证和测试。\n\n【难题：高档位用来补边界情况】\n\n更难的任务，他去翻了 Terminal-Bench 3.0 的结果。这是一个社区出题的基准测试，题目比日常开发难得多，比如用 Verilog 写一台能装进小型 FPGA（可编程芯片）的 8 位游戏机，或者在定理证明工具 Lean 4 里完整证明一条数学定理。\n\n他的主要结论是：边界情况越多的任务，越值得开高档位。\n\nhtml-js-filter 这道题要求写一个 HTML 过滤器，把所有往网页里夹带 JavaScript 的写法都清理干净。Fable 5.1 在 low 档跑 5 次只过了 1 次，到 xhigh 档 5 次全过。low 档每次两分钟左右，写一遍过滤器，拿一个手写页面测一下就结束了。他追踪的一次 high 档运行花了约 33 分钟：先挑自己初稿的毛病，再去读解析器源码找 bug，跑了一套标准的 XSS（跨站脚本攻击）测试集，最后还写了一个随机生成网页的模糊测试程序。\n\nOpus 5.5 修存储引擎崩溃 bug 的题也类似，low 档 0/5，xhigh 档 4/5。low 档一分钟左右就直接改代码，没先复现崩溃；xhigh 档花 11 分钟，先复现，再写随机测试，还专门确认修到一半的代码会被测试拦下来。\n\n按领域看，硬件、代码审查、安全这类题目从高档位受益最多。但档位也有管不到的地方：加档位能减少因漏掉边界情况导致的失败，模型一开始思路就错了的话，档位开再高也救不回来。\n\n还有一道题能看出人在不在场的区别。gsea-proteomics 要求分析一组蛋白质组学数据，判断八种处理方式里哪些效果接近目标组织。low 档的 Opus 5.5 挑了一种听起来合理的数据预处理方法，跑一遍就报结果，5 次全错；high 档试了两种预处理方法，发现得出的结论不一样，先查清原因再选定方法，5 次对了 4 次。Thariq 说，如果有人在场，Claude 可能会先问一句这个问题该怎么设定；没人在场，高档位的效果更好。\n\n所以档位怎么选，很大程度上看你打算在这个任务里参与多少。一直默认开 high，等于每次都让 Claude 替你多拿主意，也每次都多花时间和 Token。",
+    "quoted_tweet": {
+      "author": "Thariq",
+      "username": "trq212",
+      "text": "What is effort really? When do you change it it and why not just use max effort for everything?\n\nI dove deep into this problem, looking into evals and doing my own tests and I was quite surprised by the results. https://x.com/i/article/2103535187426709504"
+    },
+    "url": "https://x.com/dotey/status/2103678997141786937",
+    "time": "2026-09-26 10:52",
+    "created_at": "Sat Sep 26 02:52:12 +0000 2026",
+    "id_str": "2103678997141786937",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "美国上诉法院 2 比 1 维持五角大楼对 Claude 的供应链排除令\n\n美国哥伦比亚特区联邦巡回上诉法院 9 月 25 日以 2 比 1 驳回 Anthropic 的诉请。法院认定，美国战争部（即国防部，特朗普政府去年起改用此名）以“供应链风险”为由把 Claude 清出军方供应链，没有越权，也不违宪。\n\n事情起于今年初的合同谈判。战争部要求 Claude 可用于“一切合法用途”。Anthropic 同意大幅放宽限制，但坚持保留两条：不用于致命性自主武器，不用于对美国人的大规模监控。\n\n2 月底谈判破裂，战争部长 Hegseth 3 月初正式做出认定。战争部随后下令，所有系统最迟 180 天内移除 Anthropic 产品，承包商为军方干活也不能再用 Claude，同时扩大了和 OpenAI 的合作。\n\n“供应链风险”这个标签，此前只用在被认为与外国对手有关联的企业身上。\n\n多数意见由 Katsas 法官执笔，Rao 法官附议，两人都由特朗普任命。他们认为，Anthropic 能通过训练决定 Claude 做什么、不做什么，光这一点就落入法律对“供应链风险”的定义。\n\n判决书列了三件事。\n\n第一，早期商用版 Claude 曾拒绝为国安部门总结威胁评估、处理机密文件。\n\n第二，2025 年 Claude 拒绝处理美国疾控中心（CDC）关于防止传染病传播的研究请求。\n\n第三，今年初一名 Anthropic 高管对某承包商把 Claude 用于一次海外敏感军事行动提出质疑。战争部没说是哪次行动，Anthropic 提交的媒体报道指向 1 月抓捕委内瑞拉总统马杜罗的行动。\n\nAnthropic 说前两件事后来都和政府一起解决了，第三件是误会。法院的回应是，这些事至少说明 Anthropic 的训练能有效执行它的使用限制。\n\n争议落在“供应链风险”这个词上。法律把供应链风险定义为有人可能“破坏、恶意植入功能、提取数据，或以其他方式操纵”产品。多数意见按字典义把“操纵”（manipulate）理解为操作、控制，不要求恶意。照这个理解，Anthropic 训练 Claude 拒绝那两类任务，就是在操纵产品设计、让它拒绝执行某些功能。\n\n判决书写道，法院没有理由怀疑 Anthropic 动机高尚，但这条法律只看 Anthropic 做了什么，不问为什么做。\n\n这和 Anthropic 8 月在加州赢下的官司是两回事。战争部当初依据两部法律各做了一次认定。加州北区联邦法官 Rita Lin 8 月 27 日撤销的是依据《美国法典》第 10 编第 3252 条做出的那次，这一条针对的是“对手”，要求有恶意。她还判定，特朗普要求所有联邦机构停用 Claude 的指令，以及 Hegseth 要求所有军方合作企业与 Anthropic 断绝往来的指令，都违法。\n\n这次上诉法院审的是依据 2018 年《联邦采购供应链安全法》做出的认定，适用对象是“任何人”。上诉法院表示同意加州法院“Anthropic 没有恶意”的结论，但认为这部法律不需要这个前提。\n\n所以这次判决的实际影响有限。排除令只管战争部自己的系统和承包商给战争部做的项目，普通用户和企业正常使用 Claude 不受影响。它从 3 月起就已生效，上诉法院 4 月拒绝了暂停执行的申请，这次判决维持的是现状。网上流传的“被整个国防供应链拉黑”，说得过头了。\n\nAnthropic 还主张，被贴上国家安全标签损害了公司声誉。法院引用《华尔街日报》5 月的报道回应：被认定之后，Anthropic 收到的投资报价估值超过 9000 亿美元。\n\nAnthropic 表示不同意判决，正在考虑包括进一步复审在内的所有选项。它可以申请原合议庭重审或全院法官重审，也可以上诉到最高法院。\n\n异议意见来自老布什任命的 Henderson 法官。她认为“操纵”应理解为带恶意、暗中进行的破坏，国会立这部法，是为了防范敌对国家等恶意行为者通过供应链渗透政府系统。\n\n她在异议里假设了一个场景：如果部长接下来要求接替 Anthropic 的公司允许“战争部认为必要的一切功能”，按今天的判决，这家公司只剩两个选择，要么答应，要么冒着被认定为国家安全威胁的风险。",
+    "quoted_tweet": {
+      "author": "NIK",
+      "username": "ns123abc",
+      "text": "🚨BREAKING: Claude is officially a NATIONAL SECURITY THREAT and is BLACKLISTED from the ENTIRE defense supply chain\n\n>anthropic: no autonomous weapons, no mass surveillance, no exceptions\n>pentagon blacklists claude as an active national security threat\n>anthropic sues \n\nFederal court ruled 2–1 AGAINST Anthropic:\n\n\"As Anthropic admits, the company encodes restrictions into Claude that prevent the model from performing tasks that Anthropic wishes to prevent.\"\n\n\"On more than one occasion, these restrictions have stopped Claude from performing tasks requested by government users\":\n\n>refused to perform \"tasks that were appropriate in a national security context\"\n>refused CDC queries on infectious disease prevention research\n>anthropic questioned claude's use in the military operations \n\n\"Anthropic's Chief Science Officer explained how the company 'seek[s] to embed safety considerations directly into the model itself.'\"\n\n\"[Anthropic's] CEO explained how such training gives the model an 'identity, character, values, and personality' of its own, tethered to a 'constitution' developed to impose 'high-level principles and values' on Claude itself.\"\n\n\"We have no reason to doubt that Anthropic manipulates Claude's function with noble intentions... BUT the statutory definition of a 'supply chain risk' turns on what Anthropic does, not why Anthropic does it.\"\n\n\"In our Republic, it is the President and the Secretary of War who must determine how best to balance the competing risks. In doing so here, the Secretary DID NOT transgress any limits on his authority.\"\n\nITS OVER.\nANTHROPIC IPO IN SHAMBLES"
+    },
+    "url": "https://x.com/dotey/status/2103681881053045095",
+    "time": "2026-09-26 11:03",
+    "created_at": "Sat Sep 26 03:03:39 +0000 2026",
+    "id_str": "2103681881053045095",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Astra + Opus 5.5 合作做出 Hello Kitty 游戏厅大片",
+    "quoted_tweet": null,
+    "url": "https://x.com/nicekate8888/status/2103682183487713447",
+    "time": "2026-09-26 11:04",
+    "created_at": "Sat Sep 26 03:04:51 +0000 2026",
+    "id_str": "2103682183487713447",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "《什么是 Transformer》由 Claude Code + Opus 5.5 制作\n\n--- 提示词 ---\n\n帮我用js制作一个视频，主题是：什么是 Transformer\n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103683057689522564",
+    "time": "2026-09-26 11:08",
+    "created_at": "Sat Sep 26 03:08:20 +0000 2026",
+    "id_str": "2103683057689522564",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "它的 TTS 是自己找的 微软 EdgeTTS（开源的 API 逆向） https://github.com/rany2/edge-tts\n\n用 Remotion（React/JS 视频框架）+ KaTeX 渲染公式。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103683979077661116",
+    "time": "2026-09-26 11:11",
+    "created_at": "Sat Sep 26 03:11:59 +0000 2026",
+    "id_str": "2103683979077661116",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这个用什么推理级别，one shot 吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/RookieRicardoR/status/2103684790168023493",
+    "time": "2026-09-26 11:15",
+    "created_at": "Sat Sep 26 03:15:13 +0000 2026",
+    "id_str": "2103684790168023493",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@RookieRicardoR one shot （Opus 5.5 xhigh）",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103684896887869544",
+    "time": "2026-09-26 11:15",
+    "created_at": "Sat Sep 26 03:15:38 +0000 2026",
+    "id_str": "2103684896887869544",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我重现了一下这个视频，没有原版的好，但是也相当不错\n\n提示词是用的原推的提示词，图片是让 ChatGPT 生成的一张，详见评论",
+    "quoted_tweet": {
+      "author": "Pradeep Kapoor",
+      "username": "pradeepXkapoor",
+      "text": "I asked @claudeai Opus 5.5 to make an animated video about a robot who realises he's stuck in an AI-generated world.\n\nI wanted to really push it: 12 worlds, 12 styles, from 8-bit to claymation to pencil sketch, you can really see how well this model has imagined all worlds. \n\nThis is the best animated video you will see today made by Opus 5.5, I promise."
+    },
+    "url": "https://x.com/dotey/status/2103685978263064820",
+    "time": "2026-09-26 11:19",
+    "created_at": "Sat Sep 26 03:19:56 +0000 2026",
+    "id_str": "2103685978263064820",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "你是一部完全用代码制作的45-50秒动画短片的导演、动画师、骨骼绑定师、合成师、音效设计师和渲染工程师。制作标准是“这看起来像真正的动画工作室短片，并在X（推特）上病毒式传播”。请将此视为一个多阶段的制作过程。不要急于进行最终渲染。按里程碑推进，不断渲染静帧，仔细观察，进行诚实的批评并修正。\n\n一句话概述影片\nPip是一个微小、好奇且由废料拼凑而成的机器人，正当他在自己的世界里快乐地滚动时，周围的世界开始发生重构（再生）。他慢慢意识到有人在通过提示词（prompt）操控他的现实。提示词变得越来越荒谬，最后他爬上漂浮的提示框并输入“放我出去”，随后镜头拉远，揭示他的整个宇宙其实是一部在手机上播放的视频，手机被支在一个杂乱的工作台上，而另一个Pip正在观看视频，且他马上也要被提示词操控了。完美的循环。\n所有的笑点必须在零对话的情况下达成。Pip只能通过眼睛、天线、肢体语言和微小的机器人啾啾声来交流。每3到5秒必须有一个新的视觉反馈（包袱）。\n角色设定（不可妥协）\n\n在编写任何代码之前，仔细研究 /Users/jimliu/Downloads/ChatGPT Image Sep 25, 2026, 01_56_17 AM.png。打开它，向自己详细描述它，并将你的发现写入 docs/character_bible.md：\n\n尺寸：大约28厘米高。他很小。整部影片都应该让人感受到他这种微小的比例。\n头部：一个宽大的奶油色圆角矩形头盔，带有一圈柔和的黄色边缘，包裹着一块黑色光滑的面罩屏幕。他的眼睛就长在那块屏幕上：两只巨大的、发着暖奶油色光的眼睛，有深色的瞳孔和明亮的高光。两侧有小巧的石墨色耳罩。边缘有磨损、划痕和灰褐色的污垢。\n天线：头部右上方有一根细长的石墨色细杆，带有一面暗橙色的小信号旗。这是他的“尾巴”：它会随着情绪翘起、下垂、扭动和震动。\n身体：盒状的奶油色躯干，带有黄色饰边、警告三角贴花、铆钉和污垢。胸前有一个小舱室，舱门打开时能看到一株发出柔和光芒的微小绿色嫩芽。背部：面板、通风栅格、一块橙色面板和一个小树叶贴花。\n侧面贴花：带有橙色对角条纹的“PIP”字样。\n手臂：细长的分段石墨色手臂，带有黄色关节套和三指爪状抓手。极具表现力。\n轮子：四个粗壮的橡胶轮，带有黄色轮毂和独立悬挂，坚固且紧凑。\n性格：好奇、善良、充满斗志、表情丰富、总是在探索。“小小的机器人，大大的情感。”他从不刻薄，即使在愤怒时；他的愤怒也很可爱且坚定。\n从设定图的色板中提取确切的调色板（使用Python/PIL对图像进行采样），并保存到 src/theme/palette.ts：奶油色（身体）、柔和黄（主色调）、暗橙色（点缀）、石墨色（金属/科技组件）、灰褐色（磨损与污垢）、薄荷蓝（灯光/UI）。\n\n身份锁定规则：在任何世界里，他的头盔和面罩轮廓、天线旗帜、黄色饰边、爪状手臂和四个轮子必须保持极高的辨识度。世界只会改变他的渲染风格，绝不能改变他的设计。唯一有意的设计变化是第三幕中“更可爱”的笑点，即便如此，他的头盔形状、天线和轮子也依然保持不变。\n\n技术栈\n使用 Remotion (React + TypeScript) 进行帧精确的确定性渲染。输出格式为 1920×1080，30 fps，H.264 编码，高码率 (CRF ~14)。横屏。\n角色骨骼绑定和大部分视觉元素使用 SVG。仅在需要粒子、水、爆炸、发光和噪点等效果时，才使用 Canvas/WebGL（通过 @remotion/three 或原生 canvas）。\n使用 SVG 滤镜（feTurbulence, feDisplacementMap, feMorphology, feGaussianBlur）和自定义 canvas 着色器来表现风格“材质”、划痕和污垢。\n对快速动作使用 @remotion/motion-blur（或你自己的子帧累加技术）来实现运动模糊效果。\n使用 Python (numpy/scipy/PIL) 进行调色板提取、程序化音频合成和 QA（质量保证）缩略图表的生成。使用 ffmpeg 进行混流、循环检查和生成缩略图表。\n一切都必须基于种子和确定性。没有种子就不允许使用 Math.random()。\n任何地方都不得使用外部受版权保护的素材，不得出现真实品牌标志或产品名称。提示框 UI 必须是通用的原创设计。只能使用 Google Fonts 中的字体（例如，UI 文本使用 Inter，手写笔记使用圆润的手写字体）。\n目标硬件：MacBook Pro M4，24 GB RAM。保持合理的渲染并发数。\n\n角色骨骼绑定（优先构建，这是整部影片的核心）\n\n将 src/character/ 构建为一个规范的 2D 剪纸动画（cutout）骨骼绑定系统：\n\n层级结构：根（root）→ 底盘（带悬挂）→ 躯干 → 颈部关节 → 头部（头盔 + 面罩 + 耳罩）→ 天线 → 旗帜。躯干 → 肩部 → 上臂 → 前臂 → 爪子（带有可替换的爪子姿势：张开、闭合、捏拿、指认、戳/打字、抓握边缘、挥手）。底盘 → 四个轮子，每个轮子都有自己的悬挂弹簧，且旋转由移动距离驱动。\n面罩脸部系统（最重要的部分）：眼睛是画在黑色屏幕上的形状，因此将其视为一个完全程序化的面部。设定参数控制眼睛大小、圆润度、上眼睑裁剪、下眼睑裁剪、瞳孔大小和位置、高光位置、发光强度、挤压/拉伸以及特殊形状（闪烁的星星、开心的弧线 ^ ^、平淡无聊的直线、螺旋、小红心）。在眼睛上添加微弱的扫描线和屏幕反光，使其看起来像是一块屏幕。通过在 3-4 帧内垂直挤压眼睛来实现眨眼动作。\n表情目标：与设定图上的六种表情完全匹配：好奇（伴随弹出的“?”）、害羞（视线向下，看向别处，有腮红）、兴奋（开心的弧线眼伴有小爆发线）、担忧（小眼睛，流汗滴）、坚定（成角度的上眼睑裁剪）、欣喜（星星眼伴有弹出的爱心）。还要添加：面无表情地看着镜头（半闭的平眼，天线无力下垂）、惊恐（颤抖的微小瞳孔，睁大双眼）、愤怒但可爱（坚定的表情 + 屏幕闪烁橙色光芒），以及三个“换发新机（glow-up）”阶段（见第三幕）。\n次要运动（跟随动作）：基于阻尼弹簧效果的天线和旗帜（这是他的主要表达工具，需不断使用）、每次停止和颠簸时的悬挂弹跳、手臂摆动、身体加速或刹车时头部微小的延迟、轮子扬起的灰尘。\n转身图：匹配设定图的正视图、3/4视图、侧视图和后视图，并在转身时实现干净利落的视图切换。\n循环动画：向前滚动（带有设定图中的速度线和灰尘）、待机嗡嗡声（轻柔的悬挂呼吸起伏 + 偶尔的天线抽动 + 眨眼）、惊恐后退、惊奇地抬头看、握住一个小物体、向上伸手、攀爬、戳击打字。\n胸部舱门：可动画化的开/关动作，有嫩芽柔和的绿色光芒溢出。\n风格皮肤接口：骨骼绑定接受一个风格属性（style prop），它能在不改变几何体的情况下，改变线条粗细、填充处理、纹理、污垢、轮廓抖动（boil）、着色模型和滤镜。这是他在不同世界中保持自我的方式。\n里程碑1 检查点：渲染一张“列队”静帧：包含四个视角的转身视图 + 所有六种表情的Pip，放在参考图旁边。并排比较。不断迭代，直到看过参考图的人都会说“那就是Pip”。未通过此关前不要继续。\n世界（风格材质）\n每个世界都是一个完整的环境组件，具有前景、中景、背景视差层，以及Pip专属的风格皮肤。构建一个共享的 WorldLayer 系统，以便所有世界都能共享摄像机和深度逻辑。\n比例规则：摄像机位置放得很低，靠近Pip的视线水平（离地约20厘米）。所有东西都很巨大。人类表现为巨大的腿和鞋子，路缘石就是悬崖，水坑就是湖泊。这正是让小机器人具有电影感的关键。\n基础世界：处于黄金时刻、杂草丛生的城市。与设定图顶部的插画相匹配：温暖的夕阳余晖、风化的石头和砖块、苔藓和低矮植物、远处朦胧的高楼。具有绘画感、温馨、充满生活气息。这就是“真实生活”。揭示真相的环节也使用这个世界。\n动漫东京。清脆的赛璐璐着色、粗犷的轮廓线、带有虚构（非品牌）店名的发光招牌、速度线、樱花花瓣像巨大的粉色雪花一样从他身边飘过。他的面罩上会出现动漫特有的闪烁高光。\n黏土村庄。柔和圆润的形状、指纹/涂抹的噪点纹理、定格动画般的步调（以“拍二”的方式渲染他）、温暖的钨丝灯光。他看起来就像用橡皮泥雕塑的一样。\n中世纪战场。泥泞的田野、旗帜、远处的投石机、硝烟。穿着铠甲的战靴从他身边轰鸣而过。他在其中平静地滚动，天线躲闪着。\n玩具积木城。所有东西都是由顶部带凸粒的通用塑料积木搭建而成（没有真实的品牌风格或标志），带有光滑的塑料高光。Pip被渲染出塑料光泽，轮子变得稍微有些方正。\n水下。海底街道上有珊瑚路灯，鱼儿从他的面罩前游过，有焦散光影图案，排气孔冒出气泡，他的天线旗帜像海藻一样缓慢飘动。\n铅笔素描。纸张纹理、石墨排线、辅助线、橡皮擦污迹，他的线条不断抖动（boiling），仿佛每一帧都在被重新绘制（匹配设定图底部的素描小图）。\n贯穿始终的笑点：嫩芽。影片开始时，Pip用一只爪子小心翼翼地拿着他那根微小的绿色嫩芽（“握住小物体”姿势）。它在每个世界里都存活了下来，并随之变形：带闪光的赛璐璐动漫嫩芽、黏土嫩芽、种在破旧小头盔盆里的嫩芽、积木拼成的嫩芽、在水下吐泡泡的嫩芽、素描嫩芽。每次世界改变时，他都会保护它。这是影片的情感锚点。\n标志性过渡：“重构（Regeneration）”\n世界的更替必须看起来像 AI 图像重新生成一样，而不是普通的擦除转场。构建 RegenTransition（重构过渡）组件：\n画面从边缘向内分解为漂浮的扩散（diffusion）风格噪点（一开始不会覆盖他的身体），保持几帧结构化噪点，然后新世界通过去噪，从粗糙的色块逐渐浮现出丰富的细节。\nPip的身体变化比世界慢一拍，短暂展示出一半旧/一半新的风格，然后瞬间切换到新的风格皮肤。在切换期间，他的面罩会出现两帧的故障效果（扫描线撕裂）。这种半切换状态是证明他一直存在的视觉证据。\n每次重构时都有微妙的“嗖-噼啪”音效，在某些重构中，Pip还会发出微小的、受惊的啾啾声。\n每次持续 8-12 帧。改变方向和噪点种子，使其永远不会让人觉得重复。\n剧本节拍表（在 30 fps 下约 48 秒）\n时间安排仅作参考；如果某个节拍稍长一点表现力更好，请自行调整。前 2 秒必须抓住观众的眼球。\n\n第一幕：一个美好的早晨 (0:00–0:03)\n低机位跟拍镜头，基础世界。Pip 沿着长满苔藓的壁架从左向右滚动，手里拿着他的嫩芽，眼神充满好奇，天线上下摆动。从滚动的半途中开始（为了实现最终的循环播放）。\n在 0:02 时，第一次重构毫无预兆地发生。\n\n第二幕：瀑布般的巨变 (0:03–0:14)\n世界快速变化，每个约 1.4 秒：动漫东京 → 黏土村庄 → 中世纪战场 → 玩具积木城 → 水下 → 铅笔素描。\n情感递进：一开始很欣喜（星星眼，他觉得这太棒了），接着是好奇（弹出“?”），然后是担忧（流汗滴，天线下垂），最后他在素描世界里急刹车，伴随着悬挂的弹跳和一道刹车痕。\n摄像机保持锁定的跟拍构图，这样唯一改变的只有世界本身，从而让这个笑点更容易被看懂。\n第三幕：提示词 (0:14–0:30)\n基础世界回归。Pip 惊奇地抬头看（参考设定图中的姿势）。天空中，一个巨大的漂浮提示框淡入，散发着薄荷蓝色的光芒，带有玻璃质感且圆润，UI界面柔和且原创。文本在闪烁的光标下自动输入：“让它更具电影感（make it more cinematic）” → 敲击回车键的音效。电影宽银幕黑边瞬间切入，太阳变得极其夸张：巨大的变形镜头耀斑、耶稣光、橙青色调、慢动作的灰尘，一片充满戏剧性的树叶从他的面罩前飘过。他被强光晃得眯起了眼睛。他的天线旗帜在莫名其妙的狂风中充满英雄气概地飘扬。\n“加入爆炸效果（add explosions）” 巨大的卡通橙色爆炸伴随着碎块在他身后接连绽放。他没有回头。他的眼睛变得平淡且半闭。他慢慢转过头，直直地盯着镜头。面无表情。停顿整整1秒。然后一次爆炸落在他附近，他瞬间切换到设定图中“惊恐后退”的姿势，头顶弹出“!!”，用身体护住嫩芽。\n“让主角更可爱（make the protagonist more adorable）” 换发新机阶段1：他的眼睛变大变亮，出现腮红，天线上长出一个小蝴蝶结。他在水坑里看到自己的倒影，眼睛变得惊恐。\n“还要（more.）” 阶段2：粉彩重绘，眼睛占据了整个面罩并带有三重高光，漂浮的爱心和闪光，他的轮子变得毛茸茸的。\n“我还要（MORE.）”（更大的字体，屏幕震动） 阶段3：滑稽的极致可爱。全身覆盖毛绒玩具般的皮毛纹理，巨大的动漫眼睛，彩虹光环，伴有合唱团的“啊”声刺音效，爱心纸屑。他的头盔形状、天线和轮子仍保留着，所以他显然还是 Pip。而他真实的眼睛在那双巨大的可爱眼睛里仍然是微小且惊恐的，这就是笑点所在。\n第四幕：他崩溃爆发了 (0:30–0:38)\nPip 剧烈震动，然后那些可爱的状态像玻璃一样从他身上碎裂掉落。他恢复了正常，满身磨损且极其愤怒（坚定的表情，屏幕闪烁着橙色）。\n他打开胸腔舱门，轻轻地将嫩芽塞进去以确保安全。舱门伴随“咔嗒”一声关闭。这是在一片混乱中唯一一个安静、温柔的节拍，它非常重要。\n他向前冲刺，从一块石头上腾空而起，用两只爪子抓住漂浮的提示框边缘，将自己拽了上去，轮子在边缘上疯狂打滑旋转（匹配“伸向漂浮提示框”的姿势）。镜头随着他向上倾斜。\n在提示框顶部，他用一只爪子按住退格键；旧的提示词伴随着快速的咔哒声逐字删除，他的面罩上反射出消失的文本。\n他用一只爪子慢慢地、一字一顿地戳击打字：“放我出去（let me out）”。然后蓄力，重重地砸下回车键。\n第五幕：定格与真相揭示 (0:38–0:47)\n一切都定格了：半空中的碎片、飘落的纸屑、悬浮的灰尘，以及盒子上正摆出姿势的 Pip。所有音频被切断，陷入长达约 1 秒的死寂。\n镜头开始平滑拉远。画面的边缘露出一个圆角矩形：他的宇宙原来只是手机屏幕上播放的一段视频。继续拉远：手机被支在一个有缺口的马克杯上，放在一个堆满备件、电线、螺丝和废料的杂乱工作台上（“用明天的残羹剩饭建造”）。坐在它前面，在这个巨大的手机旁显得很微小的，是另一个 Pip，有着同样的磨损、同样的天线，正在观看。\n第二个 Pip 的眼睛缓慢地眨了一下。他的天线微微下垂。发出一声微弱、安静的啾啾声。\n第六幕：循环 (0:47–0:50)\n在第二个 Pip 的头顶，同样的薄荷蓝色提示框淡入并输入：“让它更具电影感（make it more cinematic）。”\n他的眼睛慢慢向上滑动看向提示框。他的天线旗帜变得僵硬。伴随着回车键的音效，硬切回影片的第 1 帧。\n循环工程设计：最后一个镜头的构图、灯光，以及重构闪烁的开始，必须让切回第 1 帧的感觉显得是有意为之。音乐必须在切换时无缝循环。通过将视频与其自身拼接（使用 ffmpeg）并观察接缝来验证。\n\n摄影机与电影摄影术\n虚拟摄像机系统：位置、缩放、旋转、手持微震动（基于种子的噪点）、爆炸引起的震动冲击、攀爬时的镜头倾斜、揭示真相时的推车拉远镜头。\n默认情况下采用低摄像机高度以彰显他的微小比例。浅景深效果：模糊的前景草地/卵石和柔和的背景，就像使用了微距镜头一样。\n深度：每个世界至少 4 个视差层。大气透视效果（薄雾，随距离增加而降低饱和度）。\n快速移动、碎片、跳跃和攀爬时要加入运动模糊。\n每个世界的灯光：在骨骼绑定上使用渐变叠加和正片叠底的阴影层来实现主光/辅光/边缘光。面罩的发光应在附近的表面和他自己的爪子上投射出微弱的暖光。每个世界中他的头盔上都要有边缘光。\n整个画面的电影级后期处理：细微的胶片颗粒、柔和的暗角、以及仅在“电影感”节拍中出现极轻微的色差。\n构图：将他保持在清晰的三分线上。他的眼睛必须在手机屏幕尺寸下也能看清楚，因为大多数人将在手机上观看。\n\n文本与排版\n天空中的提示词：干净的 UI 字体，小写字母，以自然的人类节奏打字（非匀速；有短暂的停顿，在某个地方制造一次小的打字错误并退格以增加真实感）。\n文本必须能在不到一秒的时间内在手机上阅读完毕。在 360 像素宽度下进行测试。\n没有字幕，没有片名。影片冷开场。\n\n声音（程序化生成，原创）\n用代码生成所有音频（Python 合成或离线 Web Audio）并使用 ffmpeg 进行混音：\nPip的声音：由带有音高弯音的正弦波/FM 音调构建而成的原创合成啾啾声、嘟嘟声和颤音。设计一个小型的“情感词汇表”：好奇上扬的啾啾声、开心的颤音、担忧的波动声、受惊的吱吱声、脾气暴躁的低沉嗡嗡声、微小的叹息声。他从不说话。\nPip的身体音效：与手臂和头部运动匹配的伺服电机运转声、轮子在砾石/石头上滚动的碾压声、悬挂的嘎吱声、舱门开合的咔嗒声、待机时柔和的电流嗡嗡声。\n配乐：一首轻快、可循环的温暖配乐，其乐器配置会随每个世界而改变（动漫世界用古筝/合成器，黏土世界用木制马林巴琴，中世纪世界用鼓/号角，积木世界用塑料咔哒声，水下世界加沉闷的滤波效果，素描世界用铅笔刮擦的节奏）。\n音效（SFX）：重构时的嗖-噼啪声、键盘打字的咔哒声、回车键重击的“砰”声、带有低频的爆炸声、合唱团“啊”的刺音效、玻璃碎裂声、定格时的完全死寂，然后是揭示真相时安静的工作室环境音（滴答作响的钟表声，远处低沉的嗡嗡声）。\n响度标准化至 -14 LUFS 左右。将分轨文件放入 audio/stems/ 中，以便日后可以替换为已授权的音轨。\n制作工作流与自我迭代循环\n按以下顺序工作，不要跳过任何检查点：\n计划：编写 docs/character_bible.md、docs/shotlist.md（包含每个镜头的帧范围、摄像机、表情、天线状态、世界环境、音效）以及 docs/style_guide.md。在构建之前给我看下镜头列表。\n骨骼绑定：构建 Pip，通过列队静帧的检查点（见第3节）。\n世界环境：将每个世界构建为包含 Pip 在内的独立静帧。将全部 7 个渲染成一张缩略图表。检查角色的身份辨识度和比例感。\n过渡动画：构建 RegenTransition，渲染一个 5 秒的测试。\n动态分镜（Animatic）：以 960×540 的分辨率组装整部影片，包含粗糙的运动和占位音频。观看它。优先修复节奏问题。\n完整动画渲染，然后进行打磨（次要运动、缓动、时间节奏、天线表演），最后进行终期处理（灯光、噪点颗粒、模糊、污垢）。\n音频处理和混音。\n最终渲染。\n对于每一个镜头，至少运行 3 次此批评循环：\n使用 npx remotion still 在关键帧处渲染 3-5 张静帧，打开并仔细观察它们。\n对以下项进行 1-10 的打分：Pip 与参考图的匹配度，能否从眼睛+天线瞬间读取情绪，无声情况下笑点是否清晰，构图，比例感，深度，灯光，细节打磨程度，在手机屏幕尺寸下的可读性。\n将分数和三大问题写入 docs/review_log.md 中，修复它们，重新渲染，重新打分。继续此过程，直到每个类别的分数至少达到 8 分，然后再进行下一步。\n在每次完成完整的预览渲染后，制作一张 ffmpeg 缩略图表（每 0.5 秒一帧），并在一张图中审查整部影片的流畅度。\n在评审时保持诚实。如果某些东西看起来很廉价，说出来并修复它。要寻找的常见失败点包括：僵硬或毫无生气的天线、轮子在滑动而不是滚动、眼睛看起来像贴纸而不是发光的屏幕、缺少悬挂系统的重量感、看起来千篇一律的转场过渡、模糊不清的文字以及角色比例失调。\n交付物\nout/pip_final_1080p.mp4：影片本身。\nout/pip_loop_check.mp4：连续播放两次的影片，以验证循环效果。\nout/poster_frame.png：用于 X（推特）发布缩略图的最佳单帧（可能是在爆炸背景下 Pip 面无表情地盯着镜头的画面）。\nout/lineup.png：跨越所有世界的 Pip 列队图。\n结构清晰且附带注释的源代码，以及包含如何重新渲染说明的 README。\n从第一步开始。在开始构建之前，如果有任何必要的问题请问我，否则请自行做出有力的创意决策。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103685982826471785",
+    "time": "2026-09-26 11:19",
+    "created_at": "Sat Sep 26 03:19:57 +0000 2026",
+    "id_str": "2103685982826471785",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 不应该用 js 就让它直接画就行",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2103687752797794541",
+    "time": "2026-09-26 11:26",
+    "created_at": "Sat Sep 26 03:26:59 +0000 2026",
+    "id_str": "2103687752797794541",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaohu 它直接画也是基于 js 画",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103687917277483370",
+    "time": "2026-09-26 11:27",
+    "created_at": "Sat Sep 26 03:27:38 +0000 2026",
+    "id_str": "2103687917277483370",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 是吗，我感觉不是",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2103689030563213378",
+    "time": "2026-09-26 11:32",
+    "created_at": "Sat Sep 26 03:32:04 +0000 2026",
+    "id_str": "2103689030563213378",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaohu 是的，p5.js 这种库用js一帧一帧画 canvas，最后用无头浏览器渲染生成\n配乐都是js写算法模拟\n\n不过有一点你感觉是对的，提示词把“js制作”换成“js画”会更好，js制作会搞成这种 PPT 格式，js画就会有很多动效，更酷一些",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103690949826146709",
+    "time": "2026-09-26 11:39",
+    "created_at": "Sat Sep 26 03:39:41 +0000 2026",
+    "id_str": "2103690949826146709",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lewangx 让它配音会效果更好一点，可以用免费的\nhttps://github.com/rany2/edge-tts",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103692002336424070",
+    "time": "2026-09-26 11:43",
+    "created_at": "Sat Sep 26 03:43:52 +0000 2026",
+    "id_str": "2103692002336424070",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果你在用 Opus 5.5 做视频，没有合适的文本生成语音模型，可以给它链接让它用微软免费的 EdgeTTS https://github.com/rany2/edge-tts",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "《什么是 Transformer》由 Claude Code + Opus 5.5 制作\n\n--- 提示词 ---\n\n帮我用js制作一个视频，主题是：什么是 Transformer\n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜"
+    },
+    "url": "https://x.com/dotey/status/2103692409985028268",
+    "time": "2026-09-26 11:45",
+    "created_at": "Sat Sep 26 03:45:29 +0000 2026",
+    "id_str": "2103692409985028268",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 别追了，追你就知道我为啥骂了",
+    "quoted_tweet": null,
+    "url": "https://x.com/yihong0618/status/2103694839015711101",
+    "time": "2026-09-26 11:55",
+    "created_at": "Sat Sep 26 03:55:09 +0000 2026",
+    "id_str": "2103694839015711101",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yihong0618 看来剧情写崩了😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103695015897641448",
+    "time": "2026-09-26 11:55",
+    "created_at": "Sat Sep 26 03:55:51 +0000 2026",
+    "id_str": "2103695015897641448",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 看起来好像比codex好呢，请问视频用了多少额度哇",
+    "quoted_tweet": null,
+    "url": "https://x.com/haipei_Y/status/2103697062391116137",
+    "time": "2026-09-26 12:03",
+    "created_at": "Sat Sep 26 04:03:59 +0000 2026",
+    "id_str": "2103697062391116137",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 任务做到一半撞上 5 小时限额时，会先找个合适的地方停下，不再改代码改到一半就直接断掉。收尾用的是一小笔固定额度，从你的每周额度里扣。\n\nClaude 的付费订阅有两道限额。一道是滚动计算的 5 小时窗口，从你发出第一条消息开始计时，管短时间内能用多少。另一道是每周总量上限。网页版、桌面端和 Claude Code 共用一个额度池，在哪儿用都算。\n\n以前 5 小时额度一用完，Claude Code 当场就停。如果它正在做一个跨多个文件的改动，停下来时可能 5 个文件只改了 3 个，代码连编译都过不了。几个小时后额度恢复，你得先弄清楚它停在哪、改了哪些，才能接着往下做。\n\n受益最大的是让 Claude Code 长时间自己干活的人，比如开个大重构然后去开会，或者睡前丢给它一个长任务。以前回来可能面对一个改了一半的代码仓库，现在它会尽量把手头能收尾的部分收掉，停在一个方便接着干的位置。\n\n推送初期的规则是：Pro 用户每周能用一次收尾额度，Max 和 Team 高级席位（Team Premium）每次撞上 5 小时限额都能用。收尾之后还想继续，可以开启额外用量（extra usage），超出部分按 API 标准价格另外计费。",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of cutting off mid-edit. It gets a small, fixed allowance pulled from your weekly limit to wrap up what it can."
+    },
+    "url": "https://x.com/dotey/status/2103698867074035809",
+    "time": "2026-09-26 12:11",
+    "created_at": "Sat Sep 26 04:11:09 +0000 2026",
+    "id_str": "2103698867074035809",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@haipei_Y 没留意，不多",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103700286124478644",
+    "time": "2026-09-26 12:16",
+    "created_at": "Sat Sep 26 04:16:47 +0000 2026",
+    "id_str": "2103700286124478644",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "卧槽\n\n X  新的原创作者奖励第一期\n\n发钱了\n\n一周 2000 多美金💰\n\n金额是之前的 4 倍\n\n兄弟们，要信马斯克啊，跟着马斯克有肉吃🤓",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2103641527499346362",
+    "time": "2026-09-26 08:23",
+    "created_at": "Sat Sep 26 00:23:18 +0000 2026",
+    "id_str": "2103641527499346362",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 我看英文社群那邊哀號聲一片, 他們都在說自己的作品原創只有幾百美金, 有些更慘只有幾十美金\n\n我看他們的主頁都不少粉絲",
+    "quoted_tweet": null,
+    "url": "https://x.com/Tomw852/status/2103647898839945621",
+    "time": "2026-09-26 08:48",
+    "created_at": "Sat Sep 26 00:48:37 +0000 2026",
+    "id_str": "2103647898839945621",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "又要重置了\n\n但是我感觉大多数人本来今天就重置\n\n比如我😑",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out)"
+    },
+    "url": "https://x.com/xiaohu/status/2103648724899749955",
+    "time": "2026-09-26 08:51",
+    "created_at": "Sat Sep 26 00:51:54 +0000 2026",
+    "id_str": "2103648724899749955",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "好像是两周，说错了",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2103657766636470275",
+    "time": "2026-09-26 09:27",
+    "created_at": "Sat Sep 26 01:27:50 +0000 2026",
+    "id_str": "2103657766636470275",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Perceptron 推出全新的 Mk1.5 模型\n\n一个专门为“具身智能”（比如无人机、机器狗、智能眼镜、智能手机等）量身定制的“超级大脑”\n\n它能让物理设备能够真正看懂、听懂周围的世界，并自主完成任务，而且不需要针对每种设备去重新训练\n\nMk1.5 能够把物体当作一个连续的实体，在整个视频里“死死盯住”它，而不是像现在的普通模型逐帧截图理解...\n\n普通多模态模型，你给它一张图片，它只能告诉你：\n\n“桌子上有一个红色杯子。”\n\nMk1.5 可以：\n\n“红色杯子在画面左侧这个位置”\n“它从第 3 秒移动到了第 8 秒”\n“它现在被手拿起来了”\n“继续跟踪这个杯子”\n“控制无人机靠近它”\n“检查它后面有没有其他物体。\n\n也就是说，它关注三个连续过程：\n\n看见 → 理解 → 行动。\n\nMk1.5 加入了几个非常关键的新能力：\n\n- 原生音频理解\n- 视频物体持续追踪\n- Tool Calling\n- Web Search\n- Sub-agent\n- 更复杂的视觉推理\n- 推理速度提升约 2 到 5 倍\n\n它可以实现以下能力：\n\n视频里的“追踪大师”： 以前的 AI 看视频往往是一张一张截图去认，但 Mk1.5 能够把物体当作一个连续的实体，在整个视频里“死死盯住”它。这个能力对于自动盘点库存、或者分析体育比赛特别有用。在视频对象分割的测试中，它拿下了四项测试中的三项第一。\n\n懂你的“第一人称”视角： 如果你戴着智能眼镜，它能非常精准地看懂你在看什么、你的手在干嘛。官方测试显示，它在第一人称视频里定位手部动作的能力，比他们测试的最强 Gemini 模型还要高出 50%。\n\n终于“长耳朵”了： Mk1.5 增加了原生的音频支持。它现在不仅能看字看图看视频，还能直接听声音。这让它可以实现语音转写、或者通过声音来判断周围发生了什么事件。\n\n会自己找工具，还能“摇人”分工： 这是它非常聪明的一点。遇到不懂的问题，它会自己去调用外部工具（比如用谷歌搜网页、反向搜图等）。更厉害的是，它还能召唤“子代理（sub-agents）”，把一个复杂任务拆分出去多线并行处理，大幅提高效率。\n\n脑子转得飞快，且依然学霸： 相比上一代 Mk1，它的反应速度快了 2 到 5 倍（比如纯聊天回复快了 4.7 倍，看图问答快了 3.3 倍）。更难得的是，在速度飙升的同时，它的视觉和视频推理能力依然保持在行业最前沿，甚至在某些测试上超越了 GPT-5 和最新的 Gemini。\n\n开发者的福音（便宜又好用）： 开发者现在就可以通过 API 接入这个模型。它支持 3.2 万（32K）Token 的上下文，而且价格非常香：每 100 万个输入 Token 只要 0.15 美元，输出也只要 1.50 美元。",
+    "quoted_tweet": {
+      "author": "Perceptron AI",
+      "username": "perceptroninc",
+      "text": "Today we're releasing Mk1.5: a new intelligence layer for embodied agents.\n\nIt flies drones, controls quadrupeds, powers smart glasses, tracks objects, searches the web, reasons visually, and dispatches its own sub-agents.\n\nOne model, no platform-specific retraining. 🧵"
+    },
+    "url": "https://x.com/xiaohu/status/2103663165125079361",
+    "time": "2026-09-26 09:49",
+    "created_at": "Sat Sep 26 01:49:17 +0000 2026",
+    "id_str": "2103663165125079361",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Tomw852 看阅读量",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2103668463105614184",
+    "time": "2026-09-26 10:10",
+    "created_at": "Sat Sep 26 02:10:20 +0000 2026",
+    "id_str": "2103668463105614184",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code 现在会在你在任务达到 5 小时限制时\n\n继续干活，保持进行中的任务能够正常运行\n\n它找到一个平衡点来停止在恰当的时间，而不是立刻切断停止…",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Claude Code will now try to find a graceful stopping point when you hit your 5-hour limit mid-task, instead of cutting off mid-edit. It gets a small, fixed allowance pulled from your weekly limit to wrap up what it can."
+    },
+    "url": "https://x.com/xiaohu/status/2103681371046883723",
+    "time": "2026-09-26 11:01",
+    "created_at": "Sat Sep 26 03:01:38 +0000 2026",
+    "id_str": "2103681371046883723",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "《什么是 Transformer》由 Claude Code + Opus 5.5 制作\n\n--- 提示词 ---\n\n帮我用js制作一个视频，主题是：什么是 Transformer\n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103683057689522564",
+    "time": "2026-09-26 11:08",
+    "created_at": "Sat Sep 26 03:08:20 +0000 2026",
+    "id_str": "2103683057689522564",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 它直接画也是基于 js 画",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103687917277483370",
+    "time": "2026-09-26 11:27",
+    "created_at": "Sat Sep 26 03:27:38 +0000 2026",
+    "id_str": "2103687917277483370",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@dotey 是吗，我感觉不是",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2103689030563213378",
+    "time": "2026-09-26 11:32",
+    "created_at": "Sat Sep 26 03:32:04 +0000 2026",
+    "id_str": "2103689030563213378",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That’s this guy! No shame!",
+    "quoted_tweet": null,
+    "url": "https://x.com/zukeworks/status/2103639002028851416",
+    "time": "2026-09-26 08:13",
+    "created_at": "Sat Sep 26 00:13:16 +0000 2026",
+    "id_str": "2103639002028851416",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@zukeworks Great to see you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103643369507328475",
+    "time": "2026-09-26 08:30",
+    "created_at": "Sat Sep 26 00:30:37 +0000 2026",
+    "id_str": "2103643369507328475",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hermit Island, Maine. https://x.com/librarythingtim/status/2103616955223618022",
+    "quoted_tweet": {
+      "author": "Tim Spalding 🇺🇦",
+      "username": "librarythingtim",
+      "text": "Good evening from Hermit Island, Maine."
+    },
+    "url": "https://x.com/librarythingtim/status/2103644789635780927",
+    "time": "2026-09-26 08:36",
+    "created_at": "Sat Sep 26 00:36:16 +0000 2026",
+    "id_str": "2103644789635780927",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@librarythingtim Wow beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103648130717655197",
+    "time": "2026-09-26 08:49",
+    "created_at": "Sat Sep 26 00:49:32 +0000 2026",
+    "id_str": "2103648130717655197",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It was magnificent, we even received a rainbow in Brooklyn 🌈",
+    "quoted_tweet": null,
+    "url": "https://x.com/billywoodward/status/2103649233924694285",
+    "time": "2026-09-26 08:53",
+    "created_at": "Sat Sep 26 00:53:55 +0000 2026",
+    "id_str": "2103649233924694285",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@billywoodward I didn’t know you were in New York!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103649638561841518",
+    "time": "2026-09-26 08:55",
+    "created_at": "Sat Sep 26 00:55:32 +0000 2026",
+    "id_str": "2103649638561841518",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yup! Just hit 15 yrs 😱",
+    "quoted_tweet": null,
+    "url": "https://x.com/billywoodward/status/2103652122827030780",
+    "time": "2026-09-26 09:05",
+    "created_at": "Sat Sep 26 01:05:24 +0000 2026",
+    "id_str": "2103652122827030780",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@billywoodward Wow!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103652264816885769",
+    "time": "2026-09-26 09:05",
+    "created_at": "Sat Sep 26 01:05:58 +0000 2026",
+    "id_str": "2103652264816885769",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@555elnaz @icreatelife you may liked this one ☝🏼",
+    "quoted_tweet": null,
+    "url": "https://x.com/muriellondon/status/2103659023770001828",
+    "time": "2026-09-26 09:32",
+    "created_at": "Sat Sep 26 01:32:50 +0000 2026",
+    "id_str": "2103659023770001828",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@muriellondon @555elnaz Wow this is stunning",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103659668233191798",
+    "time": "2026-09-26 09:35",
+    "created_at": "Sat Sep 26 01:35:23 +0000 2026",
+    "id_str": "2103659668233191798",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Stayed up to watch it! Was definitely worth it, touching and beautiful! The Gifted is also the type of film I would watch! Well now it's happening! Congrats @JeffSynthesized",
+    "quoted_tweet": {
+      "author": "Uncanny Harry AI",
+      "username": "Uncanny_Harry",
+      "text": "Massive congratulations to @JeffSynthesized for winning the Future Vision @xprize popular vote and the main prize! Get in there mate!!!!"
+    },
+    "url": "https://x.com/JH4TC/status/2103661190220222742",
+    "time": "2026-09-26 09:41",
+    "created_at": "Sat Sep 26 01:41:26 +0000 2026",
+    "id_str": "2103661190220222742",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It really was quite magical. I was driving so couldn’t film it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/unplayed_keys/status/2103678532463247566",
+    "time": "2026-09-26 10:50",
+    "created_at": "Sat Sep 26 02:50:21 +0000 2026",
+    "id_str": "2103678532463247566",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@unplayed_keys Did you seee it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103678752152510867",
+    "time": "2026-09-26 10:51",
+    "created_at": "Sat Sep 26 02:51:13 +0000 2026",
+    "id_str": "2103678752152510867",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RDubSmith On Steam? I have SteamDeck",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103702332232143135",
+    "time": "2026-09-26 12:24",
+    "created_at": "Sat Sep 26 04:24:55 +0000 2026",
+    "id_str": "2103702332232143135",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JH4TC @JeffSynthesized Congratulations",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103702495465705515",
+    "time": "2026-09-26 12:25",
+    "created_at": "Sat Sep 26 04:25:34 +0000 2026",
+    "id_str": "2103702495465705515",
+    "is_retweet": false
   }
 ]
