@@ -452,5 +452,97 @@
     "created_at": "Sat Sep 26 07:32:49 +0000 2026",
     "id_str": "2103749619825951143",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "It's an underappreciated triumph of Ethereum client developers that PeerDAS has now been running for nearly a year with basically no problems.\n\nPeerDAS was a complex task: it's the first large-scale instance of a blockchain that achieves consensus on the availability of data without needing any single node to download the entire block. Decentralized consensus without replication.\n\nAnd yet, it worked.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103825405530853710",
+    "time": "2026-09-26 20:33",
+    "created_at": "Sat Sep 26 12:33:58 +0000 2026",
+    "id_str": "2103825405530853710",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Leaving aside the arguments over the reasons why this has happened, it is shocking that Europe does not have a single frontier AI lab, nor even a near-frontier lab nor even an effort that could likely lead to building up a frontier lab in the future.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103842238119743660",
+    "time": "2026-09-26 21:40",
+    "created_at": "Sat Sep 26 13:40:51 +0000 2026",
+    "id_str": "2103842238119743660",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic just published their guide on prompting Opus 5.5.\n\nthe surprise: most of the tips are things to remove from your prompts, not add.\n\n\"think step by step\" → does nothing now. the model already thinks before every answer. deleting it makes replies come faster.\n\n\"walk me through your reasoning\" → can get your message blocked and switched to an older model.\n\n\"check with me before each step\" → wastes a model that can now work for hours by itself.\n\nwhat to write instead: tell it what finished looks like.\n\nbetter prompts are shorter now, not longer.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103786714519253135",
+    "time": "2026-09-26 18:00",
+    "created_at": "Sat Sep 26 10:00:13 +0000 2026",
+    "id_str": "2103786714519253135",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full Claude guide is free → https://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103786738317725946",
+    "time": "2026-09-26 18:00",
+    "created_at": "Sat Sep 26 10:00:19 +0000 2026",
+    "id_str": "2103786738317725946",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "if you want to write better prompts in general, the prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2103786750061724074",
+    "time": "2026-09-26 18:00",
+    "created_at": "Sat Sep 26 10:00:22 +0000 2026",
+    "id_str": "2103786750061724074",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "并没有很好的解决，感觉在编程能力方面还是不够强 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2103702283783754022",
+    "time": "2026-09-26 12:24",
+    "created_at": "Sat Sep 26 04:24:44 +0000 2026",
+    "id_str": "2103702283783754022",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@CuiMao 为什么会恶心，因为没有 Dario 吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2103757157577674886",
+    "time": "2026-09-26 16:02",
+    "created_at": "Sat Sep 26 08:02:46 +0000 2026",
+    "id_str": "2103757157577674886",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "o yes… we’re back in action and we’ll reset usage limits for all paid users across codex and ChatGPT work\n\nsorry about the brief disruption!\n\n(and yes we have a special spare codex when things are down to help us out)",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "o no :("
+    },
+    "url": "https://x.com/thsottiaux/status/2103637477760311522",
+    "time": "2026-09-26 08:07",
+    "created_at": "Sat Sep 26 00:07:13 +0000 2026",
+    "id_str": "2103637477760311522",
+    "is_retweet": false
   }
 ]
