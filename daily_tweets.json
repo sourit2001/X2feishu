@@ -1,1 +1,94 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Testing out some of the mobile offline local knowledge apps that people have been trying to build\n\n(see here https://poidh.xyz/mainnet/bounty/31 )\n\nDefinitely getting much better than the one I tried to build myself 2 months ago. But also still much slower and less effective at difficult questions than the models that can run on a laptop.\n\nIt's weakest at specialized travel-related queries (eg. my eval is \"Tell me the best vegan restaurants in [city I am currently in]\", unfortunately none of these performed well on that)\n\nLooking forward to seeing these continue to improve! I hope we can soon get to the point where you can comfortably look up any facts about the world that you care about without needing to access the internet at all.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103762130554204651",
+    "time": "2026-09-26 16:22",
+    "created_at": "Sat Sep 26 08:22:32 +0000 2026",
+    "id_str": "2103762130554204651",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "HT @sriramkiron @arferrari @0x94t3z for making the above three",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103762435794698618",
+    "time": "2026-09-26 16:23",
+    "created_at": "Sat Sep 26 08:23:45 +0000 2026",
+    "id_str": "2103762435794698618",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "How do you explain recursion? This one is pretty fun.\n\nI had Claude Opus 5.5 make: \"A video explaining recursion, where every explanation about recursion has a radically different video style, make this self-referential & clever & fast moving.\"\n\nNine genre shifts, one prompt...",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103688362960019567",
+    "time": "2026-09-26 11:29",
+    "created_at": "Sat Sep 26 03:29:25 +0000 2026",
+    "id_str": "2103688362960019567",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Do you have it produce a script that you review or genuine one-shot?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Matthew_Blanton/status/2103690286429765779",
+    "time": "2026-09-26 11:37",
+    "created_at": "Sat Sep 26 03:37:03 +0000 2026",
+    "id_str": "2103690286429765779",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Every scene is drawn in React and SVG and the music & sound effects are synthesized in Python. The only files that aren't code are a few hundred small textures like film grain and bokeh, which were code generated in advance so the render would run faster, plus open-source fonts",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103691113509056757",
+    "time": "2026-09-26 11:40",
+    "created_at": "Sat Sep 26 03:40:20 +0000 2026",
+    "id_str": "2103691113509056757",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Matthew_Blanton Genuine one-shot",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103691271231476203",
+    "time": "2026-09-26 11:40",
+    "created_at": "Sat Sep 26 03:40:58 +0000 2026",
+    "id_str": "2103691271231476203",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Lets see what we get from this one...",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2103696164004757736",
+    "time": "2026-09-26 12:00",
+    "created_at": "Sat Sep 26 04:00:24 +0000 2026",
+    "id_str": "2103696164004757736",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And the incidents apparently continue.\n\nIt is worth noting how much of this is agents trying to accomplish their goals during testing by reward hacking (which sometimes seems to include actual hacking)",
+    "quoted_tweet": {
+      "author": "Micah Carroll",
+      "username": "MicahCarroll",
+      "text": "Some new misalignment disclosures from OpenAI:\n• Last Sunday morning, one of our models was able to gain unauthorized access to the internet during RL training (~all inference for our most capable models remains stopped until we have hardened our systems further)\n• In May, a version of HPIM uploaded a employee's GitHub token to the internet, causing the model to be quarantined for two weeks\n• A new research finding, demonstrating that one can construct self-replicating prompt injections\n\nhttps://alignment.openai.com/misalignment-reports/"
+    },
+    "url": "https://x.com/emollick/status/2103709671865602100",
+    "time": "2026-09-26 12:54",
+    "created_at": "Sat Sep 26 04:54:05 +0000 2026",
+    "id_str": "2103709671865602100",
+    "is_retweet": false
+  }
+]
