@@ -1,1 +1,164 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Reminder: you can now sync an ethereum node within half a day and with aggressive settings the space it takes up on disk can be under half a terabyte.\n\nEIP-4444 and hard work by client teams on optimizing snap sync has improved things *a lot*.\n\nGlamsterdam will improve the sync situation further still (eg. Nimbus's new sync protocol uses it)",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103636111260373176",
+    "time": "2026-09-26 08:01",
+    "created_at": "Sat Sep 26 00:01:47 +0000 2026",
+    "id_str": "2103636111260373176",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Note: you can repoint your wallet RPC to localhost, though make sure to set your node up so it functions as an RPC. However, many in-browser dapps will not work as effectively this way, and many others hardcoded their RPC to their own server.\n\nI am increasingly becoming a fan of avoiding browser dapps entirely and just doing everything by command line.\n\nJust did a full end-to-end test: updated my ENS record using a local python script reading and sending through my local node.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103636161910718903",
+    "time": "2026-09-26 08:01",
+    "created_at": "Sat Sep 26 00:01:59 +0000 2026",
+    "id_str": "2103636161910718903",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Next step is kohaku-cli more properly integrating privacy protocols; some alpha work has already been done, more coming soon!\n\nhttps://github.com/kassandraoftroy/kohaku-cli",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103636209272775113",
+    "time": "2026-09-26 08:02",
+    "created_at": "Sat Sep 26 00:02:10 +0000 2026",
+    "id_str": "2103636209272775113",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@denis_insider The long-term solution to this is to make some kind of decentralized history fetching mechanism. Use third parties but make it robust, censorship resistant and privacy preserving.\n\nSignificant work on this is already happening.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103637615593541947",
+    "time": "2026-09-26 08:07",
+    "created_at": "Sat Sep 26 00:07:45 +0000 2026",
+    "id_str": "2103637615593541947",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "qwen3.8-flash-next\nethereum client\n100+ GB of local downloaded wikipedia + gutenberg + science articles\nwhat else?\n\n(Getting rid of the need for centralized pinning services in IPFS is definitely high up the prio list)",
+    "quoted_tweet": {
+      "author": "jefflau.eth",
+      "username": "Jefflau",
+      "text": "I think what's interesting is that the desire for local AI may inadvertently create a lot more local node users. It's a fraction of the actual compute local AI needs and just requires a decent amount of disk space."
+    },
+    "url": "https://x.com/VitalikButerin/status/2103639941804921196",
+    "time": "2026-09-26 08:17",
+    "created_at": "Sat Sep 26 00:17:00 +0000 2026",
+    "id_str": "2103639941804921196",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@VitalikButerin maps and offline node backups would go crazy here",
+    "quoted_tweet": null,
+    "url": "https://x.com/0z_Dustin136/status/2103641065387610117",
+    "time": "2026-09-26 08:21",
+    "created_at": "Sat Sep 26 00:21:28 +0000 2026",
+    "id_str": "2103641065387610117",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@0z_Dustin136 There are great openstreetmap apps for your phone, I use Comaps",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103641284850364421",
+    "time": "2026-09-26 08:22",
+    "created_at": "Sat Sep 26 00:22:20 +0000 2026",
+    "id_str": "2103641284850364421",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@AdamOnFinance you can do a lot inside 128 kB!\n\nask your agent to try",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2103653208933671419",
+    "time": "2026-09-26 09:09",
+    "created_at": "Sat Sep 26 01:09:43 +0000 2026",
+    "id_str": "2103653208933671419",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Glamsterdam will bring snap sync to the next level.\nWith snap v2, the Block-level Access List, which is basically a state diff, is used to replace the traditional healing phase.\nThe result, it becomes faster and simpler to sync a node.\nClients are ready with Glamsterdam. \nSnycing has never been that smooth.",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Reminder: you can now sync an ethereum node within half a day and with aggressive settings the space it takes up on disk can be under half a terabyte.\n\nEIP-4444 and hard work by client teams on optimizing snap sync has improved things *a lot*.\n\nGlamsterdam will improve the sync situation further still (eg. Nimbus's new sync protocol uses it)"
+    },
+    "url": "https://x.com/nero_eth/status/2103654571398877443",
+    "time": "2026-09-26 09:15",
+    "created_at": "Sat Sep 26 01:15:08 +0000 2026",
+    "id_str": "2103654571398877443",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "我发现用 DeepSeek Flash 这种模型做工程，很容易陷入到无尽的细节里\nColaMD 更新到 2.0 版本之后，奇奇怪怪的边界 case 越来越多了\n每次让 AI 修，AI 就能解决当前的 bug 并引入一个新的 bug，很烦\n\n今天用上 Opus 5.5，从根本上重构一遍，看看能否可以解决根因",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2103667893389205785",
+    "time": "2026-09-26 10:08",
+    "created_at": "Sat Sep 26 02:08:04 +0000 2026",
+    "id_str": "2103667893389205785",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge AI改BUG就是容易有这种按起葫芦浮起瓢的情况🥲",
+    "quoted_tweet": null,
+    "url": "https://x.com/LuliYanng/status/2103673439139799367",
+    "time": "2026-09-26 10:30",
+    "created_at": "Sat Sep 26 02:30:06 +0000 2026",
+    "id_str": "2103673439139799367",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 还有些模型就是不考虑，差不多就交差了，并且自认为完美，比如：grok",
+    "quoted_tweet": null,
+    "url": "https://x.com/yvchengshanren/status/2103681115848659266",
+    "time": "2026-09-26 11:00",
+    "created_at": "Sat Sep 26 03:00:37 +0000 2026",
+    "id_str": "2103681115848659266",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@yvchengshanren 差不多模型hhh",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2103681533655838725",
+    "time": "2026-09-26 11:02",
+    "created_at": "Sat Sep 26 03:02:16 +0000 2026",
+    "id_str": "2103681533655838725",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@LuliYanng 按起葫芦浮起瓢 很精准了。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2103681610277388371",
+    "time": "2026-09-26 11:02",
+    "created_at": "Sat Sep 26 03:02:35 +0000 2026",
+    "id_str": "2103681610277388371",
+    "is_retweet": false
+  }
+]
