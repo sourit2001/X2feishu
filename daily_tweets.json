@@ -9,5 +9,219 @@
     "created_at": "Sat Sep 26 18:17:54 +0000 2026",
     "id_str": "2103911959544610829",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 为什么感觉- -！就像最初用 html 做 ppt 的风格。看了这么多案例 opus5.5 不应该是这样风格的啊。",
+    "quoted_tweet": null,
+    "url": "https://x.com/genoooool/status/2103925091314639117",
+    "time": "2026-09-27 03:10",
+    "created_at": "Sat Sep 26 19:10:05 +0000 2026",
+    "id_str": "2103925091314639117",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "《中华文明史》by Opus 5.5\n\n--- Prompt ----\n\n做一支史诗编年片《中华文明史》，可以写代码逐帧渲染，再用 ffmpeg 合成。\n配乐当时钟：五声调式，乐器从骨笛、编钟一路演进到管弦，BPM 随年代加快，所有切点踩拍。\n宣纸白描和玄底泥金两种画风交替；每卷一个主色和一套随时代演变的纹样（彩陶纹 → 饕餮纹 → 云气纹 → 卷草纹 → 缠枝纹 → 回纹）。\n每镜一个按词组出现的书法大字关键词，配一幅线稿。全片 HUD：左上朱印卷号，右侧竖排朝代名，底部卷轴时间尺和年份计数。\n卷交界用朱印盖下、鼓钟重击的冲击转场。先定拍点网格和分镜表，再渲染。\n地图只画示意，不画近现代真实人物，年代核对后再交付。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103964025683927166",
+    "time": "2026-09-27 05:44",
+    "created_at": "Sat Sep 26 21:44:48 +0000 2026",
+    "id_str": "2103964025683927166",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@genoooool 这种风格用来教学没问题",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103964759804764638",
+    "time": "2026-09-27 05:47",
+    "created_at": "Sat Sep 26 21:47:43 +0000 2026",
+    "id_str": "2103964759804764638",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@zbWLkRXAMHoDlnu 一年多前的提示词",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103964899441623531",
+    "time": "2026-09-27 05:48",
+    "created_at": "Sat Sep 26 21:48:16 +0000 2026",
+    "id_str": "2103964899441623531",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "《什么是 DINOv3》\n\n--- 提示词 ---\n\n帮我用 js 制作一个视频，主题是：什么是dinov3 \n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "《什么是 Transformer》由 Claude Code + Opus 5.5 制作\n\n--- 提示词 ---\n\n帮我用js制作一个视频，主题是：什么是 Transformer\n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜"
+    },
+    "url": "https://x.com/dotey/status/2103965723081187407",
+    "time": "2026-09-27 05:51",
+    "created_at": "Sat Sep 26 21:51:32 +0000 2026",
+    "id_str": "2103965723081187407",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这么长的视频也能完整输出么",
+    "quoted_tweet": null,
+    "url": "https://x.com/ecraig91/status/2103966691017572383",
+    "time": "2026-09-27 05:55",
+    "created_at": "Sat Sep 26 21:55:23 +0000 2026",
+    "id_str": "2103966691017572383",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ecraig91 Opus 5.5 确实很强",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103967174435967066",
+    "time": "2026-09-27 05:57",
+    "created_at": "Sat Sep 26 21:57:18 +0000 2026",
+    "id_str": "2103967174435967066",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Steven Sinofsky on the middle ground nobody wants: AI stays legal, and every agent action comes with a safety warning.\n\n\"My biggest fear is that Europe decides that GDPR was the best thing ever, and they're going to just GDPR AI.\"\n\n\"AI will be fine. It'll have one prompt for when text gets emitted that says, 'This vendor is emitting text, and it's probably wrong. Yes or no?' At least in North America, you're not going to censor speech. In Europe, they still will. They'll have filters and keywords and block lists.\"\n\n\"Any time an agent, a background agent, or a frontline agent touches a third-party product, I'm really worried that they're going to say, 'We need a GDPR prompt on that.'\"\n\n\"Every single write or every single non-lookup becomes a safety warning, like the airbag thing in your car. Regulators love that because it's a liability assignment, and so it has this sort of legal precedent.\"\n\n\"I really worry that that's the middle ground where we're going to end up... Europe is going to lead with that because they have nothing to lose... I just can't get out of my head that they love prompts.\"\n\n@stevesi",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Box CEO Aaron Levie, Steven Sinofsky, and Martin Casado join Erik Torenberg to discuss \"We Must Pace the Frontier,\" the upcoming AI election in 2028, and Jev:\n\nThey argue that most of today's AI regulation debate is happening before anyone has defined the risks being regulated. Every prior wave, from computer viruses to aviation, built its safety standards after learning how the technology actually failed.\n\nThen it gets concrete. Agents don't get tired, run at enormous scale, and probe systems in ways employees never could, which may mean rethinking permissions, authentication, and the security stack itself.\n\nThey close on why AI innovation may increasingly happen outside the frontier labs, in the software built around the models.\n\n00:50 \"We Must Pace the Frontier\"\n03:50 Do the labs believe their own x-risk talk?\n06:49 If it's existential, nationalize it\n11:32 \"You're asking us to regulate you?\"\n12:08 2028 as the AI election\n18:50 Tech never learned to navigate regulation\n25:50 The law that came from one 1983 hack\n28:39 Noam Brown's heat exfiltration idea\n32:30 Cold War covert channel stories\n34:35 Agent swarms look like a DoS attack\n41:25 Sinofsky's fear: GDPR for AI\n46:20 No jets if the FAA started in 1910\n48:38 Jev: decision engines vs. chatbots\n53:01 Labs build beings, software needs tools\n\nYouTube: https://youtu.be/TLJNJDf2XGo\n\n@levie @stevesi @martin_casado @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2103926452597239938",
+    "time": "2026-09-27 03:15",
+    "created_at": "Sat Sep 26 19:15:30 +0000 2026",
+    "id_str": "2103926452597239938",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Steven Sinofsky and Aaron Levie on the assumption behind enterprise security: people do the right thing 99% of the time, and agents are about to break it.\n\nSteven: \"What AI can do is try all of those things in a very short time. It doesn't get tired. It doesn't get bored.\"\n\n\"You now have to look at every single API and every single service you're running internally on your network.\"\n\n\"Nobody thinks their internal GitHub, internal Slack, or internal finance expense tool is vulnerable to a denial-of-service attack. But swarms literally look like a denial-of-service attack.\"\n\n\"Now we need a whole layer internally that is tracking way more about what authentications are being done and what APIs are being done.\"\n\nAaron: \"You kind of got by with information security on the fact that most people will do the right thing 95% to 99% of the time.\"\n\n\"All these systems are basically open to whoever wants to access them, or one tap on the shoulder and then you have access.\"\n\n\"Agent swarms completely flip that because these are roaming drones, times 10,000. They don't get bored. They will easily mistake a good task for a bad one and vice versa. The data security in our systems is going to have a huge upgrade moment.\"\n\n@stevesi @levie",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Box CEO Aaron Levie, Steven Sinofsky, and Martin Casado join Erik Torenberg to discuss \"We Must Pace the Frontier,\" the upcoming AI election in 2028, and Jev:\n\nThey argue that most of today's AI regulation debate is happening before anyone has defined the risks being regulated. Every prior wave, from computer viruses to aviation, built its safety standards after learning how the technology actually failed.\n\nThen it gets concrete. Agents don't get tired, run at enormous scale, and probe systems in ways employees never could, which may mean rethinking permissions, authentication, and the security stack itself.\n\nThey close on why AI innovation may increasingly happen outside the frontier labs, in the software built around the models.\n\n00:50 \"We Must Pace the Frontier\"\n03:50 Do the labs believe their own x-risk talk?\n06:49 If it's existential, nationalize it\n11:32 \"You're asking us to regulate you?\"\n12:08 2028 as the AI election\n18:50 Tech never learned to navigate regulation\n25:50 The law that came from one 1983 hack\n28:39 Noam Brown's heat exfiltration idea\n32:30 Cold War covert channel stories\n34:35 Agent swarms look like a DoS attack\n41:25 Sinofsky's fear: GDPR for AI\n46:20 No jets if the FAA started in 1910\n48:38 Jev: decision engines vs. chatbots\n53:01 Labs build beings, software needs tools\n\nYouTube: https://youtu.be/TLJNJDf2XGo\n\n@levie @stevesi @martin_casado @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2103941559561671100",
+    "time": "2026-09-27 04:15",
+    "created_at": "Sat Sep 26 20:15:31 +0000 2026",
+    "id_str": "2103941559561671100",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Steven Sinofsky on why Jev fixes his oldest complaint about AI: natural language was never an efficient interface.\n\n\"Ask yourself how many people are really, really good at asking questions. Less than half the people can ask a good question in a meeting.\"\n\n\"And then how often do you look at the answer and get really frustrated before it's finished, but you have to pay all this money to watch the seven paragraphs come out...?\"\n\n\"My favorite is the output of it is designed for probabilistic programming.\"\n\n\"Instead of saying, 'Is this a customer service question? Then route to customer service, otherwise route to general help desk,' it's, 'This is 80% customer service.' That's exactly simulation.\"\n\n\"There's 50 years of computer science research in literally probabilistic if statements. Suddenly the coolest place to be in computer science is gonna be probabilistic programming, which was all of computer science in the 1960s and '70s.\"\n\n\"This is not all new. It's gonna be very interesting to dust off all of that work, because it's exactly what's going on. An if statement now is if X percent, not if always.\"\n\n\"The way that Jev works is it's a custom programming language almost, which is: here's the prompt, come back with a percentage. And then you put that in the if statement.\"\n\n@stevesi",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Box CEO Aaron Levie, Steven Sinofsky, and Martin Casado join Erik Torenberg to discuss \"We Must Pace the Frontier,\" the upcoming AI election in 2028, and Jev:\n\nThey argue that most of today's AI regulation debate is happening before anyone has defined the risks being regulated. Every prior wave, from computer viruses to aviation, built its safety standards after learning how the technology actually failed.\n\nThen it gets concrete. Agents don't get tired, run at enormous scale, and probe systems in ways employees never could, which may mean rethinking permissions, authentication, and the security stack itself.\n\nThey close on why AI innovation may increasingly happen outside the frontier labs, in the software built around the models.\n\n00:50 \"We Must Pace the Frontier\"\n03:50 Do the labs believe their own x-risk talk?\n06:49 If it's existential, nationalize it\n11:32 \"You're asking us to regulate you?\"\n12:08 2028 as the AI election\n18:50 Tech never learned to navigate regulation\n25:50 The law that came from one 1983 hack\n28:39 Noam Brown's heat exfiltration idea\n32:30 Cold War covert channel stories\n34:35 Agent swarms look like a DoS attack\n41:25 Sinofsky's fear: GDPR for AI\n46:20 No jets if the FAA started in 1910\n48:38 Jev: decision engines vs. chatbots\n53:01 Labs build beings, software needs tools\n\nYouTube: https://youtu.be/TLJNJDf2XGo\n\n@levie @stevesi @martin_casado @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2103956675116113998",
+    "time": "2026-09-27 05:15",
+    "created_at": "Sat Sep 26 21:15:35 +0000 2026",
+    "id_str": "2103956675116113998",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I’m considering deactivation. \n\nWhy shouldn’t I leave 𝕏?",
+    "quoted_tweet": null,
+    "url": "https://x.com/xbSTOOPID/status/2103917223270023410",
+    "time": "2026-09-27 02:38",
+    "created_at": "Sat Sep 26 18:38:49 +0000 2026",
+    "id_str": "2103917223270023410",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Wow. Cool. Not jealous 🤥😆",
+    "quoted_tweet": null,
+    "url": "https://x.com/BobMute2/status/2103919794407845999",
+    "time": "2026-09-27 02:49",
+    "created_at": "Sat Sep 26 18:49:02 +0000 2026",
+    "id_str": "2103919794407845999",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Framer_X Congratulations 🎊",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103920217630097892",
+    "time": "2026-09-27 02:50",
+    "created_at": "Sat Sep 26 18:50:43 +0000 2026",
+    "id_str": "2103920217630097892",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BobMute2 Aww you can do it! I used to be a smaller account for a very long time",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103920398903410688",
+    "time": "2026-09-27 02:51",
+    "created_at": "Sat Sep 26 18:51:26 +0000 2026",
+    "id_str": "2103920398903410688",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@xbSTOOPID I hope you stay because you never know what may happen in future. Instead of deactivating maybe taking some rest and rethinking what you would like to use X for. I was in a similar situation about 5 years ago and so glad I kept the account.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103929043691135123",
+    "time": "2026-09-27 03:25",
+    "created_at": "Sat Sep 26 19:25:47 +0000 2026",
+    "id_str": "2103929043691135123",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I am thinking of creating keeping IG on my mind going forward, I have like super new account on IG, the same AI stuff gets far more reach there, here it struggles to even move now days.",
+    "quoted_tweet": null,
+    "url": "https://x.com/madpencil_/status/2103932843659579881",
+    "time": "2026-09-27 03:40",
+    "created_at": "Sat Sep 26 19:40:53 +0000 2026",
+    "id_str": "2103932843659579881",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@madpencil_ Yes, me too!!! I think I follow you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103935211075678550",
+    "time": "2026-09-27 03:50",
+    "created_at": "Sat Sep 26 19:50:18 +0000 2026",
+    "id_str": "2103935211075678550",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@fofrAI 😅😅😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103941802579706079",
+    "time": "2026-09-27 04:16",
+    "created_at": "Sat Sep 26 20:16:29 +0000 2026",
+    "id_str": "2103941802579706079",
+    "is_retweet": false
   }
 ]
