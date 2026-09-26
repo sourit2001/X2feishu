@@ -90,5 +90,352 @@
     "created_at": "Sat Sep 26 04:54:05 +0000 2026",
     "id_str": "2103709671865602100",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "用 Opus 5.5 做游戏结算动画，也很不错!\n\n原来它生成的是 2D 的 SVG 图标，后来让它改成了这种 3D 的效果，更丰富了，还优化了一下光效之类的表现\n\n这是第一个宝箱版本，后面还有个徽章版本",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103724883301814408",
+    "time": "2026-09-26 13:54",
+    "created_at": "Sat Sep 26 05:54:32 +0000 2026",
+    "id_str": "2103724883301814408",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这是徽章版本",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103725620698255417",
+    "time": "2026-09-26 13:57",
+    "created_at": "Sat Sep 26 05:57:27 +0000 2026",
+    "id_str": "2103725620698255417",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 这两天很多这种视频，但好像没有人说这个成本大概是多少？\n我问了一下AI，说要20美元一分钟？是真的吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/yue_chao71279/status/2103737423402312098",
+    "time": "2026-09-26 14:44",
+    "created_at": "Sat Sep 26 06:44:21 +0000 2026",
+    "id_str": "2103737423402312098",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 RIVE CLI可能更丝滑",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xMarioWu/status/2103737877108773280",
+    "time": "2026-09-26 14:46",
+    "created_at": "Sat Sep 26 06:46:10 +0000 2026",
+    "id_str": "2103737877108773280",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@0xMarioWu 嗯嗯 是会好点",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103738217031925888",
+    "time": "2026-09-26 14:47",
+    "created_at": "Sat Sep 26 06:47:31 +0000 2026",
+    "id_str": "2103738217031925888",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yue_chao71279 如果是Max 会员的话，几乎没啥成本，我指的是这种动画，如果是游戏 demo 之类的可能贵点，但是 Max 会员的额度也能顶住",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103738432258511082",
+    "time": "2026-09-26 14:48",
+    "created_at": "Sat Sep 26 06:48:22 +0000 2026",
+    "id_str": "2103738432258511082",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Codex 更新了，界面导航大改。左边新加了一个导航栏，把插件、定时任务、站点、项目、地图，还有 PR 都放到左侧导航上了。\n\n新增了资源库和图像两个页面。\n\n资源库里包含你所有的图像、图片、文件夹和收藏，你创作的所有文档以及 AI 创作的图像文档也都保存在这里。\n\n图片那边的话，就是 ChatGPT 原来的图片页面里，有一些用 GPT-Image 模型的一些模板和提示词\n\n其实这样改更好了。\n\n不然之前全放在顶部，随着项目和聊天越来越多，每次找顶部那几个入口都得往回滚，挺烦的。\n\n而且这次藏师傅的 CodePilot 领先 Codex 一个版本，几个月前就添加了资源库，把你所有由 AI 生成的内容结果汇总到一个页面，比如图像、视频、网页、音频这些素材。\n\n你还可以从资源库的结果直接跳回聊天里看具体是怎么做的，非常方便管理，也方便让其他模型调用、复用这些素材。\n\n不过也有很多人觉得不方便，说看着不习惯，这种大改肯定会有这种情况",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103740776647942575",
+    "time": "2026-09-26 14:57",
+    "created_at": "Sat Sep 26 06:57:41 +0000 2026",
+    "id_str": "2103740776647942575",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Muse 这种带虚拟机的 Agent ，玩法超级多\n\n朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。\n\n刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。\n\n只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103746853699465676",
+    "time": "2026-09-26 15:21",
+    "created_at": "Sat Sep 26 07:21:50 +0000 2026",
+    "id_str": "2103746853699465676",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "也可以试试我的 muse 邀请码：RS3NKG",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103751981898850505",
+    "time": "2026-09-26 15:42",
+    "created_at": "Sat Sep 26 07:42:12 +0000 2026",
+    "id_str": "2103751981898850505",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 卧槽，我为啥注册就是候补。",
+    "quoted_tweet": null,
+    "url": "https://x.com/imyouhu/status/2103762321353150756",
+    "time": "2026-09-26 16:23",
+    "created_at": "Sat Sep 26 08:23:18 +0000 2026",
+    "id_str": "2103762321353150756",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。\n\n而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。\n\n它在连接时把复杂度降到了最低：\n• Steam：它给一个选项、一个按钮，填一下 token 就好\n• DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美\n• B 站：直接给一个二维码\n\n我去，这个上下文获取的流程，我觉得一定是精心设计过的",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Muse 这种带虚拟机的 Agent ，玩法超级多\n\n朋友们说 DeepSeek Harness 在搜索国内内容的时候相当完整和准确。\n\n刚好最近我也在用 Muse，就让它把 DeepSeek Harness 装到 Muse 云端的虚拟机里去。\n\n只要涉及到国内的信息检索，就直接调用虚拟机上的 DeepSeek Harness 去查。"
+    },
+    "url": "https://x.com/op7418/status/2103772252982690115",
+    "time": "2026-09-26 17:02",
+    "created_at": "Sat Sep 26 09:02:45 +0000 2026",
+    "id_str": "2103772252982690115",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "他这个连接器体系也很牛批",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Muse 在连接器或者上下文获取上做的事情，体系贼牛逼！它适配了的连接器能连，不适配的也能连。\n\n而且它把复杂性消解得特别好，我现在就能让它读到我的 B 站视频记录和 Steam 游戏。\n\n它在连接时把复杂度降到了最低：\n• Steam：它给一个选项、一个按钮，填一下 token 就好\n• DeepSeek：有个输入框，填一下 key 就行，而且模型不会直接读到 key，非常完美\n• B 站：直接给一个二维码\n\n我去，这个上下文获取的流程，我觉得一定是精心设计过的"
+    },
+    "url": "https://x.com/op7418/status/2103774332757635425",
+    "time": "2026-09-26 17:11",
+    "created_at": "Sat Sep 26 09:11:01 +0000 2026",
+    "id_str": "2103774332757635425",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@imyouhu 闲鱼搞一下吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2103774363459936392",
+    "time": "2026-09-26 17:11",
+    "created_at": "Sat Sep 26 09:11:09 +0000 2026",
+    "id_str": "2103774363459936392",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我群里发的视频，宝玉老师觉得怎样？我准备磕个产品来做养老保险！",
+    "quoted_tweet": null,
+    "url": "https://x.com/hx831126/status/2103709435873096130",
+    "time": "2026-09-26 12:53",
+    "created_at": "Sat Sep 26 04:53:09 +0000 2026",
+    "id_str": "2103709435873096130",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey wait, this was one prompt? that's nuts",
+    "quoted_tweet": null,
+    "url": "https://x.com/heysrihari/status/2103715486664143312",
+    "time": "2026-09-26 13:17",
+    "created_at": "Sat Sep 26 05:17:11 +0000 2026",
+    "id_str": "2103715486664143312",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "最新版的 Magpie 已支持 semantic model routing\n\nhttps://usemagpie.ai/docs/zh/intent",
+    "quoted_tweet": {
+      "author": "yetone",
+      "username": "yetone",
+      "text": "Magpie 最新版已支持自动智能识别 Routing Group 和手动创建 Routing Group，方便你做智能路由！"
+    },
+    "url": "https://x.com/yetone/status/2103718819558797623",
+    "time": "2026-09-26 13:30",
+    "created_at": "Sat Sep 26 05:30:26 +0000 2026",
+    "id_str": "2103718819558797623",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@heysrihari yep, oneshot",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103719764266803560",
+    "time": "2026-09-26 13:34",
+    "created_at": "Sat Sep 26 05:34:11 +0000 2026",
+    "id_str": "2103719764266803560",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@hx831126 Opus 5.5 做出来的没话说",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103719983138107752",
+    "time": "2026-09-26 13:35",
+    "created_at": "Sat Sep 26 05:35:03 +0000 2026",
+    "id_str": "2103719983138107752",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "好了，比我自己用 GPT6 + 各种 skill + Manim + Excalidraw 都要好。\n\n今天就啪啪打脸重新订阅 Claude",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "《什么是 Transformer》由 Claude Code + Opus 5.5 制作\n\n--- 提示词 ---\n\n帮我用js制作一个视频，主题是：什么是 Transformer\n要深入浅出，让高中生也能看得懂，不仅high level说的清楚，也要有细节，包括注意力机制，甚至一些数学概念\n\n你可以用任何工具或者安装工具，可以联网检索\n\n请给我惊喜"
+    },
+    "url": "https://x.com/dongxi_nlp/status/2103722318451388520",
+    "time": "2026-09-26 13:44",
+    "created_at": "Sat Sep 26 05:44:20 +0000 2026",
+    "id_str": "2103722318451388520",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dongxi_nlp 哈哈，我上次咋说来着😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103722766260449321",
+    "time": "2026-09-26 13:46",
+    "created_at": "Sat Sep 26 05:46:07 +0000 2026",
+    "id_str": "2103722766260449321",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这篇文章解释清楚了为什么现在 Opus 5.5 要比之前 Opus 5 耐用多了，看起来 API 价格降低了 20%（缓存读取降了 60%），但是账单高低其实看任务跑了多少轮，因为每跑一轮，都要把之前的整段对话重新发给模型一遍。\n\n这样算下来，平均一个会话能便宜约 31%。\n\nAnthropic 内部用 44 张客服工单测试，从 Opus 4.8 换到 Opus 5.5 成本降了约 18%，再做一次提示词审查，总共比原来低了约 25%。\n\n订阅用户（Pro、Max、Team）的额度按新价格折算，能比用 Opus 5 时多撑 25% 左右。\n\n一些技巧：\n\n1. 换到不相关的任务，用 /clear 清空对话。\n\n2. 想保留前情就用 /compact 压缩，但要在缓存失效之前做，否则要贵一些。\n\n3. 订阅用户的缓存保留 1 小时，用 API 的话，缓存只保留 5 分钟，离开 6 分钟，12 万 Token 上下文的下一轮就从 0.02 美元涨到 0.60 美元。\n\n4. 缓存只复用和上一轮开头完全一致的部分，中途切换模型、接入或断开 MCP 服务器、第一次打开快速模式，下一轮都要按更贵的写入价重新付费。\n\n5. Opus 5.5 默认推理强度是 medium，比 Opus 5 的默认 high 低一档。但同一档位下 Opus 5.5 想得更多，所以给 Opus 5 调好的档位别照搬。日常活用 medium，卡住了调 high，批量重命名这类机械活用 low。\n\n6. 模型分工上，日常用 Opus 5.5。开到 xhigh 还在同一个问题上连卡两次，再换更贵的 Fable 5.1，解决完切回来。搜代码、读日志的 subagent 交给 Sonnet 或 Haiku，写代码留在 Opus 5.5。",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Opus 5.5 is 20% cheaper per input and output token than Opus 5, and 60% cheaper on cache reads. So what does that actually do to the cost of a task in Claude Code? \n\nWe ran the numbers, and built a calculator so you can run yours from /usage:\n\nhttps://claude.dev/blog/what-a-task-costs-on-opus-5-5/"
+    },
+    "url": "https://x.com/dotey/status/2103747370156491142",
+    "time": "2026-09-26 15:23",
+    "created_at": "Sat Sep 26 07:23:53 +0000 2026",
+    "id_str": "2103747370156491142",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "求推荐 GitHub 上开源的 Awesome Opus 5.5 Video Prompt 集合",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103751976400101651",
+    "time": "2026-09-26 15:42",
+    "created_at": "Sat Sep 26 07:42:11 +0000 2026",
+    "id_str": "2103751976400101651",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Source-linked guide to 1,000+ videos people made with Claude Opus 5.5: what they're about, how they look, how the frames were made.\n\nhttps://github.com/athemeroy/awesome-opus-5-5-videos",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103752510594797945",
+    "time": "2026-09-26 15:44",
+    "created_at": "Sat Sep 26 07:44:19 +0000 2026",
+    "id_str": "2103752510594797945",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "A curated collection of Claude Opus 5.5 videos and animations: demos, original posts, prompts and workflows. English / 中文.\n\nhttps://github.com/opusvideo/awesome-claude-video",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2103752568849785141",
+    "time": "2026-09-26 15:44",
+    "created_at": "Sat Sep 26 07:44:32 +0000 2026",
+    "id_str": "2103752568849785141",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "At last! No more em dash-es \nWe don’t have to delete them each time",
+    "quoted_tweet": {
+      "author": "Peter Gostev",
+      "username": "petergostev",
+      "text": "RIP em dash"
+    },
+    "url": "https://x.com/icreatelife/status/2103720648828678378",
+    "time": "2026-09-26 13:37",
+    "created_at": "Sat Sep 26 05:37:42 +0000 2026",
+    "id_str": "2103720648828678378",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I remember the days when SD stood for Stable Diffusion",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Great style with SD 2.5"
+    },
+    "url": "https://x.com/Mo3lik/status/2103724092109312248",
+    "time": "2026-09-26 13:51",
+    "created_at": "Sat Sep 26 05:51:23 +0000 2026",
+    "id_str": "2103724092109312248",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Mo3lik Same",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103724452064170362",
+    "time": "2026-09-26 13:52",
+    "created_at": "Sat Sep 26 05:52:49 +0000 2026",
+    "id_str": "2103724452064170362",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I didn't even go outside to check out the sunset. Supposed to get some heavy rain in the area this weekend",
+    "quoted_tweet": null,
+    "url": "https://x.com/wilzap/status/2103743858353811539",
+    "time": "2026-09-26 15:09",
+    "created_at": "Sat Sep 26 07:09:56 +0000 2026",
+    "id_str": "2103743858353811539",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap Stay dry!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2103743983847661575",
+    "time": "2026-09-26 15:10",
+    "created_at": "Sat Sep 26 07:10:26 +0000 2026",
+    "id_str": "2103743983847661575",
+    "is_retweet": false
   }
 ]
