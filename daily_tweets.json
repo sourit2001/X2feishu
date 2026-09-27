@@ -91,5 +91,164 @@
     "created_at": "Sun Sep 27 00:56:46 +0000 2026",
     "id_str": "2104012335954440279",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Waymos are really safe (80-95% safer than humans depending on the metric), but they also seem to be getting *safer* over time. This is the worst they'll ever be.  \n\nA quick analysis of the police-reported crash rates in three cities from Waymo's published safety data.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elanbechor/status/2103910378107449406",
+    "time": "2026-09-27 02:11",
+    "created_at": "Sat Sep 26 18:11:37 +0000 2026",
+    "id_str": "2103910378107449406",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I only liked the classics. They don't make games like they used to.",
+    "quoted_tweet": {
+      "author": "Simon Willison",
+      "username": "simonw",
+      "text": "@AndyMasley OK maybe I should play some new games"
+    },
+    "url": "https://x.com/emollick/status/2103992616454860834",
+    "time": "2026-09-27 07:38",
+    "created_at": "Sat Sep 26 23:38:24 +0000 2026",
+    "id_str": "2103992616454860834",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is strange how much LLMs turned out to be the key to such a wide range of problems that would not, initially, seem to be problems that a model of human language would be able to solve.",
+    "quoted_tweet": {
+      "author": "Gio Huh",
+      "username": "giohuh_",
+      "text": "What can Astra do when given a humanoid embodiment? \n\nWe built HomeBody to find out. Controlled by GPT Astra, it carries out long-horizon tasks in a previously unseen kitchen—from tidying up across the room to retrieving remembered objects from ambiguous requests—without environment-specific training data or additional policy learning. \n\nHere's how we did it 👀: https://tml.stanford.edu/homebody/"
+    },
+    "url": "https://x.com/emollick/status/2104025904653521363",
+    "time": "2026-09-27 09:50",
+    "created_at": "Sun Sep 27 01:50:41 +0000 2026",
+    "id_str": "2104025904653521363",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Also please feel free to fight in the comments about \"pure LLMs\" versus multimodal LLMs versus multimodal LLMs with tool use or whatever. I totally get all the caveats, but you get what I mean.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104037005613248622",
+    "time": "2026-09-27 10:34",
+    "created_at": "Sun Sep 27 02:34:47 +0000 2026",
+    "id_str": "2104037005613248622",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Model personality matters in a way that benchmarks can't capture. Opus models went through a rough patch from around 4.7 to 5 where they just didn't feel \"Claude-y\" anymore, more like an watered-down Fable (hmmm, teacher models?). Opus 5.5 feels like working with ol' Claude again",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104039050080342456",
+    "time": "2026-09-27 10:42",
+    "created_at": "Sun Sep 27 02:42:55 +0000 2026",
+    "id_str": "2104039050080342456",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "OpenAI 的新产品 o 要来了\n应该是对抗 muse 的云端 Agent 产品\n人人都用自己的电脑已经不够了\n人人都还要有一台云电脑\n大家这要换电脑换手机的就赶紧吧\n涨价是必然",
+    "quoted_tweet": {
+      "author": "Jake Boggs",
+      "username": "JakeABoggs",
+      "text": "Did I miss a product launch or is this a dev day leak?"
+    },
+    "url": "https://x.com/oran_ge/status/2103980011808260339",
+    "time": "2026-09-27 06:48",
+    "created_at": "Sat Sep 26 22:48:19 +0000 2026",
+    "id_str": "2103980011808260339",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "The reset came right after my own reset, couldn’t be worse timing.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Resets all propagated. That will be all. Have a fantastic weekend."
+    },
+    "url": "https://x.com/giadotai/status/2103919273353830410",
+    "time": "2026-09-27 02:46",
+    "created_at": "Sat Sep 26 18:46:58 +0000 2026",
+    "id_str": "2103919273353830410",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@NicolasZu DevDay",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103953907278045548",
+    "time": "2026-09-27 05:04",
+    "created_at": "Sat Sep 26 21:04:35 +0000 2026",
+    "id_str": "2103953907278045548",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@kunchenguid 👋",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103954313068642787",
+    "time": "2026-09-27 05:06",
+    "created_at": "Sat Sep 26 21:06:12 +0000 2026",
+    "id_str": "2103954313068642787",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@antigravity Plan mode was cool in 2025, might still be cool, but was particularly cool in 2025",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103954577817260036",
+    "time": "2026-09-27 05:07",
+    "created_at": "Sat Sep 26 21:07:15 +0000 2026",
+    "id_str": "2103954577817260036",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@jorilallo Truth is, there isn’t an org chart",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103961852153913371",
+    "time": "2026-09-27 05:36",
+    "created_at": "Sat Sep 26 21:36:09 +0000 2026",
+    "id_str": "2103961852153913371",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@angelbrodin Are those Udon or just plain Noodles",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103962250885390436",
+    "time": "2026-09-27 05:37",
+    "created_at": "Sat Sep 26 21:37:44 +0000 2026",
+    "id_str": "2103962250885390436",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@giadotai Sorry Gia. More resets coming next week",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2103963215885701493",
+    "time": "2026-09-27 05:41",
+    "created_at": "Sat Sep 26 21:41:35 +0000 2026",
+    "id_str": "2103963215885701493",
+    "is_retweet": false
   }
 ]
