@@ -352,8 +352,20 @@ def fetch_tweets_via_fxtwitter(username):
         headers={"User-Agent": "X2Feishu/1.0 (https://github.com/sourit2001/X2feishu)"},
         timeout=40,
     )
+    payload = None
+    if response.status_code == 404:
+        try:
+            payload = response.json()
+        except (TypeError, ValueError):
+            pass
+
+        if isinstance(payload, dict) and payload.get("results") == []:
+            print(f"FxTwitter returned an empty timeline for @{username} (HTTP 404).")
+            return []
+
     response.raise_for_status()
-    payload = response.json()
+    if payload is None:
+        payload = response.json()
     rows = payload.get("results")
     if not isinstance(rows, list):
         raise RuntimeError("FxTwitter response is missing results")
@@ -463,7 +475,7 @@ def fetch_tweets(username, auth_token, ct0):
 def should_force_web_feed_test():
     return (os.getenv("FORCE_WEB_FEED_TEST") or "").lower() in {"1", "true", "yes"}
 
-def run_web_feed_test(auth_token, ct0, fetch_cache=None):
+def run_web_feed_test(auth_token, ct0, fetch_cache=None, tolerate_fetch_errors=False):
     """Publish recent configured web-feed tweets without touching Feishu or last_ids."""
     target_usernames = get_web_feed_usernames()
     limit = int(os.getenv("WEB_FEED_TEST_LIMIT") or 20)
@@ -480,7 +492,14 @@ def run_web_feed_test(auth_token, ct0, fetch_cache=None):
         tested = True
         print(f"--- Force web feed test: {nick} (@{user}) ---")
         if user.lower() not in fetch_cache:
-            fetch_cache[user.lower()] = fetch_tweets(user, auth_token, ct0)
+            try:
+                fetch_cache[user.lower()] = fetch_tweets(user, auth_token, ct0)
+            except XRateLimitError as exc:
+                if not tolerate_fetch_errors:
+                    raise
+                print(f"{exc}; skipping this web feed pre-sync.")
+                fetch_cache[user.lower()] = None
+                continue
             sleep_between_fetches()
         tweets = fetch_cache[user.lower()]
 
@@ -546,7 +565,12 @@ def main():
     monitored_usernames = {item["username"].lower() for item in monitored_bloggers}
     if monitored_usernames & get_web_feed_usernames():
         print("Syncing this batch's web feed accounts before general monitor pass.")
-        run_web_feed_test(auth_token, ct0, fetch_cache)
+        run_web_feed_test(
+            auth_token,
+            ct0,
+            fetch_cache,
+            tolerate_fetch_errors=True,
+        )
 
     fetch_failures = 0
     successful_fetches = 0

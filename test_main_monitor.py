@@ -53,6 +53,61 @@ class MonitorBatchTests(unittest.TestCase):
         self.assertEqual(get.call_count, 2)
 
     @mock.patch("main.requests.get")
+    def test_fxtwitter_empty_timeline_404_does_not_use_rate_limited_fallback(self, get):
+        response = mock.Mock(status_code=404)
+        response.json.return_value = {"code": 404, "results": []}
+        response.raise_for_status.side_effect = main.requests.HTTPError("404")
+        get.return_value = response
+
+        tweets = main.fetch_tweets("example", "auth", "ct0")
+
+        self.assertEqual(tweets, [])
+        get.assert_called_once()
+
+    @mock.patch("main.sleep_between_fetches")
+    @mock.patch("main.fetch_tweets")
+    def test_web_feed_rate_limit_isolated_from_monitor_batch(self, fetch_tweets, sleep):
+        fetch_tweets.side_effect = main.XRateLimitError(
+            "X rate limited @example (HTTP 429)"
+        )
+        fetch_cache = {}
+
+        with mock.patch.dict(
+            os.environ,
+            {
+                "WEB_FEED_BLOGGERS": "example:Example",
+                "WEB_FEED_USERNAMES": "example",
+            },
+            clear=False,
+        ):
+            main.run_web_feed_test(
+                "auth",
+                "ct0",
+                fetch_cache,
+                tolerate_fetch_errors=True,
+            )
+
+        self.assertIsNone(fetch_cache["example"])
+        sleep.assert_not_called()
+
+    @mock.patch("main.fetch_tweets")
+    def test_forced_web_feed_test_still_reports_rate_limit(self, fetch_tweets):
+        fetch_tweets.side_effect = main.XRateLimitError(
+            "X rate limited @example (HTTP 429)"
+        )
+
+        with mock.patch.dict(
+            os.environ,
+            {
+                "WEB_FEED_BLOGGERS": "example:Example",
+                "WEB_FEED_USERNAMES": "example",
+            },
+            clear=False,
+        ):
+            with self.assertRaises(main.XRateLimitError):
+                main.run_web_feed_test("auth", "ct0", {})
+
+    @mock.patch("main.requests.get")
     def test_fxtwitter_is_primary_and_does_not_send_x_cookies(self, get):
         response = mock.Mock()
         response.raise_for_status.return_value = None
