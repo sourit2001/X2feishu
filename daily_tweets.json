@@ -112,5 +112,337 @@
     "created_at": "Sun Sep 27 14:00:40 +0000 2026",
     "id_str": "2104209611771576638",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我开了 devin 然后用  opus 5.5做一个H5的游戏抽卡效果，提示词是​​歸藏大佬的。\n\n效果真的没得说，特喵的还自己配了音效。",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Opus 5.5 游戏动效制作提示词来了！\n\n昨天用 Opus 5.5 做的游戏结算动画，很多人都说做得不错，想要提示词。\n\n顺便还做了一个新的抽卡动画，提示词太长放下面了"
+    },
+    "url": "https://x.com/qianshuixia2026/status/2104196844465299794",
+    "time": "2026-09-27 21:09",
+    "created_at": "Sun Sep 27 13:09:56 +0000 2026",
+    "id_str": "2104196844465299794",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@qianshuixia2026 可以啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2104200010825085157",
+    "time": "2026-09-27 21:22",
+    "created_at": "Sun Sep 27 13:22:31 +0000 2026",
+    "id_str": "2104200010825085157",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "看到 @dotey 老师在疯狂做icon, 心血来潮想给Baocut做一个opus5.5版本的宣传片，感谢老师关注～",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2104122533482266700",
+    "time": "2026-09-27 16:14",
+    "created_at": "Sun Sep 27 08:14:39 +0000 2026",
+    "id_str": "2104122533482266700",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "看到 @dotey 老师在疯狂做icon, 心血来潮想给Baocut做一个opus5.5版本的宣传片，感谢老师关注～",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2104122533482266700",
+    "time": "2026-09-27 16:14",
+    "created_at": "Sun Sep 27 08:14:39 +0000 2026",
+    "id_str": "2104122533482266700",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Opus 5.5 杀疯了。但大家看到的主要都是它在视频、图片创作方面的成果，因为比较好展示，皮相好。其实我告诉各位，它在编程、研究和写作方面的进步更令人震撼，只不过骨相方面的进展不容易展示。但我们一定要知道，美人在骨不在皮。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Opus 5.5 让你实现 App Icon 设计自由\n\n当初 Fable 的时候我就尝试过让 Fable 帮我设计 App Icon，但是效果差强人意，最后还是得去用 ChatGPT 画图，但这样画出来的不是矢量的。\n\n这几天用 Opus 5.5 做视频给了我灵感，既然 Opus 5.5 能用 JavaScript + Canvas 一帧帧画出视频，那么让它用 JS + Canvas 画 Icon 就也没问题。\n\n于是我尝试了一下，第一版效果就超出我预期，简洁美观，效果相当不错，提示词就一句话：\n\n> 帮我为 http://BaoCut.app 重新设计一个 App Icon，简单一点，彩色的，体现视频编辑、AI Agent\n> 可以直接用 js 绘制 canvas\n\n注意重点是“用 js 绘制 canvas”而不是 SVG，SVG 画出来是没有 JS draw Canvas 效果好的。\n\n后面就跟甲方一样不停的让它修改就好：\n比如我觉得方案3不错，让它基于方案3去调整，几个版本迭代下来就得到了一个我挺满意的方案。"
+    },
+    "url": "https://x.com/myanTokenGeek/status/2104136231546388952",
+    "time": "2026-09-27 17:09",
+    "created_at": "Sun Sep 27 09:09:05 +0000 2026",
+    "id_str": "2104136231546388952",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 最近也是玩上头啦！",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2104227751976972493",
+    "time": "2026-09-27 23:12",
+    "created_at": "Sun Sep 27 15:12:45 +0000 2026",
+    "id_str": "2104227751976972493",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lemomo_ai 一样一样，有点当初 nano banana 刚出给人的惊艳感觉",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2104228372343570505",
+    "time": "2026-09-27 23:15",
+    "created_at": "Sun Sep 27 15:15:13 +0000 2026",
+    "id_str": "2104228372343570505",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 现在期待 codex这部分能力也跟上来 这样更多的人都可以玩啦",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2104229062223003675",
+    "time": "2026-09-27 23:17",
+    "created_at": "Sun Sep 27 15:17:57 +0000 2026",
+    "id_str": "2104229062223003675",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@myanTokenGeek 神级模型，短期内无人能超越",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2104229121190699420",
+    "time": "2026-09-27 23:18",
+    "created_at": "Sun Sep 27 15:18:11 +0000 2026",
+    "id_str": "2104229121190699420",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lemomo_ai 更期待DeepSeek，这才是真正的能让智能普及的模型",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2104229372022735087",
+    "time": "2026-09-27 23:19",
+    "created_at": "Sun Sep 27 15:19:11 +0000 2026",
+    "id_str": "2104229372022735087",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey can you share your prompts/workflow mate?",
+    "quoted_tweet": null,
+    "url": "https://x.com/berlyoge/status/2104249790355906888",
+    "time": "2026-09-28 00:40",
+    "created_at": "Sun Sep 27 16:40:19 +0000 2026",
+    "id_str": "2104249790355906888",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "The prompt is very straightforward: just ask it to draw an app icon using JS on a canvas, and then describe your icon's features and requirements. \n\nIn my case, I simply went into my app's source code project (which includes both the code and prototypes) and prompted Claude:\n\n> Please redesign the app icon for http://BaoCut.app. Keep it simple and colorful, and make sure it reflects video editing and AI Agents. Directly draw it on a canvas using JS.",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2104255266728333627",
+    "time": "2026-09-28 01:02",
+    "created_at": "Sun Sep 27 17:02:05 +0000 2026",
+    "id_str": "2104255266728333627",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Prompt and flow\nhttps://x.com/dotey/status/2104255266728333627?s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "The prompt is very straightforward: just ask it to draw an app icon using JS on a canvas, and then describe your icon's features and requirements. \n\nIn my case, I simply went into my app's source code project (which includes both the code and prototypes) and prompted Claude:\n\n> Please redesign the app icon for http://BaoCut.app. Keep it simple and colorful, and make sure it reflects video editing and AI Agents. Directly draw it on a canvas using JS."
+    },
+    "url": "https://x.com/dotey/status/2104255594136007037",
+    "time": "2026-09-28 01:03",
+    "created_at": "Sun Sep 27 17:03:23 +0000 2026",
+    "id_str": "2104255594136007037",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": {
+      "text": "https://t.co/Re7LjRROgS",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2104254791111286784",
+          "display": "pic.x.com/Re7LjRROgS",
+          "original": "https://t.co/Re7LjRROgS",
+          "replacement": "https://x.com/a16z/status/2104254805694902377/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2104254797012758528",
+          "display": "pic.x.com/Re7LjRROgS",
+          "original": "https://t.co/Re7LjRROgS",
+          "replacement": "https://x.com/a16z/status/2104254805694902377/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2104254805694902377",
+    "time": "2026-09-28 01:00",
+    "created_at": "Sun Sep 27 17:00:15 +0000 2026",
+    "id_str": "2104254805694902377",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife They will learn\n\nI tell my teams that AI won’t replace you now, it’s not there yet.\n\nWhat will is someone who can leverage it better than they can.\n\nSo I offer training and certifications for them. It’s interesting to see how many choose not to progress",
+    "quoted_tweet": null,
+    "url": "https://x.com/DaveTheCyberGuy/status/2104215488339595715",
+    "time": "2026-09-27 22:24",
+    "created_at": "Sun Sep 27 14:24:01 +0000 2026",
+    "id_str": "2104215488339595715",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Chatgpt and Grok do not fill my room because they do not know anything about me. \n\nThis is the only good answer you can get.",
+    "quoted_tweet": null,
+    "url": "https://x.com/gerhardmader/status/2104237951756718478",
+    "time": "2026-09-27 23:53",
+    "created_at": "Sun Sep 27 15:53:17 +0000 2026",
+    "id_str": "2104237951756718478",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@gerhardmader They will hallucinate something just won’t be as relevant",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2104238840039035002",
+    "time": "2026-09-27 23:56",
+    "created_at": "Sun Sep 27 15:56:48 +0000 2026",
+    "id_str": "2104238840039035002",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Dry me",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Prompt: Knowing everything you know about me fill this room. Except deeply personal info￼"
+    },
+    "url": "https://x.com/MavisAu210394/status/2104240235236536626",
+    "time": "2026-09-28 00:02",
+    "created_at": "Sun Sep 27 16:02:21 +0000 2026",
+    "id_str": "2104240235236536626",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MavisAu210394 Beautiful room!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2104240860867248319",
+    "time": "2026-09-28 00:04",
+    "created_at": "Sun Sep 27 16:04:50 +0000 2026",
+    "id_str": "2104240860867248319",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/urvir/status/2104259694391144673",
+    "time": "2026-09-28 01:19",
+    "created_at": "Sun Sep 27 17:19:41 +0000 2026",
+    "id_str": "2104259694391144673",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@urvir Lovely result",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2104260029851308215",
+    "time": "2026-09-28 01:21",
+    "created_at": "Sun Sep 27 17:21:01 +0000 2026",
+    "id_str": "2104260029851308215",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DOD_the_OG fr!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2104262487332020605",
+    "time": "2026-09-28 01:30",
+    "created_at": "Sun Sep 27 17:30:46 +0000 2026",
+    "id_str": "2104262487332020605",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DaveTheCyberGuy In the past 4 years a lot of artists in my circle embraced AI even though most do it in secret. I am glad either way. I don't want anyone to be left behind.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2104262656396075059",
+    "time": "2026-09-28 01:31",
+    "created_at": "Sun Sep 27 17:31:27 +0000 2026",
+    "id_str": "2104262656396075059",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I was just told that a lot of anti-AI posts are actually ran by AI.. I don't know how I didn't notice that. Usually a profile pic are some cartoons put together or no image at all, and never a verified account.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2104263800262172738",
+    "time": "2026-09-28 01:35",
+    "created_at": "Sun Sep 27 17:35:59 +0000 2026",
+    "id_str": "2104263800262172738",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife And less than 10 followers 🤔",
+    "quoted_tweet": null,
+    "url": "https://x.com/deadsun_0/status/2104264436437618883",
+    "time": "2026-09-28 01:38",
+    "created_at": "Sun Sep 27 17:38:31 +0000 2026",
+    "id_str": "2104264436437618883",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@deadsun_0 Yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2104265165831119333",
+    "time": "2026-09-28 01:41",
+    "created_at": "Sun Sep 27 17:41:25 +0000 2026",
+    "id_str": "2104265165831119333",
+    "is_retweet": false
   }
 ]
