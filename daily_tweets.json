@@ -308,5 +308,97 @@
     "created_at": "Sun Sep 27 02:09:12 +0000 2026",
     "id_str": "2104030567708979469",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 @connnnng 像是supercell的风格",
+    "quoted_tweet": null,
+    "url": "https://x.com/sankemao_/status/2104105506214469638",
+    "time": "2026-09-27 15:06",
+    "created_at": "Sun Sep 27 07:06:59 +0000 2026",
+    "id_str": "2104105506214469638",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@sankemao_ @connnnng 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2104107443257254178",
+    "time": "2026-09-27 15:14",
+    "created_at": "Sun Sep 27 07:14:41 +0000 2026",
+    "id_str": "2104107443257254178",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Opus 5.5 让你实现 App Icon 设计自由\n\n当初 Fable 的时候我就尝试过让 Fable 帮我设计 App Icon，但是效果差强人意，最后还是得去用 ChatGPT 画图，但这样画出来的不是矢量的。\n\n这几天用 Opus 5.5 做视频给了我灵感，既然 Opus 5.5 能用 JavaScript + Canvas 一帧帧画出视频，那么让它用 JS + Canvas 画 Icon 就也没问题。\n\n于是我尝试了一下，第一版效果就超出我预期，简洁美观，效果相当不错，提示词就一句话：\n\n> 帮我为 http://BaoCut.app 重新设计一个 App Icon，简单一点，彩色的，体现视频编辑、AI Agent\n> 可以直接用 js 绘制 canvas\n\n注意重点是“用 js 绘制 canvas”而不是 SVG，SVG 画出来是没有 JS draw Canvas 效果好的。\n\n后面就跟甲方一样不停的让它修改就好：\n比如我觉得方案3不错，让它基于方案3去调整，几个版本迭代下来就得到了一个我挺满意的方案。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2104107699583463686",
+    "time": "2026-09-27 15:15",
+    "created_at": "Sun Sep 27 07:15:42 +0000 2026",
+    "id_str": "2104107699583463686",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "做完 AppIcon 再让 Opus 5.5 为 http://baocut.app 做了一个宣传视频\n\n--- 参考提示词(在项目内用 Claude Code 执行) ---\n\n为 BaoCut 做一支 62.5 秒、1920×1080@30fps、英文的产品介绍视频，风格是手绘卡通加魔法少女式的夸张特效，要可爱、炫酷、适合转发。\n\n先读 designs/baocut 原型和 apps/baocut 拿真实的编辑器、Brand kit、Elements、Agent 面板布局；读 scripts/dev/app-icon 拿图标：星芒加播放头、三条彩色轨道。模板数、贴纸数、声波数、本地模型名、支持的 Agent CLI 都以代码为准；翻译不能写成本地功能。\n\n要突出这些特色：自动字幕、翻译、AI 配音、剪口癖、品牌套件、模板、动态贴纸与声波、智能裁剪、本地文生图、全部模型在本机跑、内置 Agent 复用本机的 Claude Code / Codex 等 CLI 而不需要 API key。\n\n叙事：\n图标拆开，星芒和播放头变成超级可爱的小机器人 Bao 手里的魔法棒，三条轨道拉长成时间轴，底板变成预览。Bao 给猫咪女主播 Mimi 的视频连施九段咒语（Subtitlio!、Translato!……），她说话时的 meow / purrr / nya~ 口癖变成小老鼠，被 Bao 一棒一个敲掉。\n\n接着玻璃罩落下，表示「全部在你的 Mac 上跑」。最后一切倒带，Bao 敲碎 API key 输入框，一句话交给 Agent 全部做完，再把魔法棒插回图标。关键动作配震屏、冲击波和白闪。\n\n第 0 帧是「Edit videos like MAGIC」封面，Bao 举着魔法棒指向一张已经变好的猫咖成片卡，四周是九个功能标签。\n\n实现：\n放在 scripts/dev/robot-video/，分成 lib / 角色 / 编辑器 / 故事 / 音频几个文件，用 canvas 确定性逐帧绘制。\n节拍表 T 和冲击点表 IMPACTS 同时驱动画面与音效，配乐是 120 BPM 的合成木琴律动。\nrender.mjs 导出 mp4，index.html 做预览。\n每段抽关键帧拼图自查后再整片渲染。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Opus 5.5 让你实现 App Icon 设计自由\n\n当初 Fable 的时候我就尝试过让 Fable 帮我设计 App Icon，但是效果差强人意，最后还是得去用 ChatGPT 画图，但这样画出来的不是矢量的。\n\n这几天用 Opus 5.5 做视频给了我灵感，既然 Opus 5.5 能用 JavaScript + Canvas 一帧帧画出视频，那么让它用 JS + Canvas 画 Icon 就也没问题。\n\n于是我尝试了一下，第一版效果就超出我预期，简洁美观，效果相当不错，提示词就一句话：\n\n> 帮我为 http://BaoCut.app 重新设计一个 App Icon，简单一点，彩色的，体现视频编辑、AI Agent\n> 可以直接用 js 绘制 canvas\n\n注意重点是“用 js 绘制 canvas”而不是 SVG，SVG 画出来是没有 JS draw Canvas 效果好的。\n\n后面就跟甲方一样不停的让它修改就好：\n比如我觉得方案3不错，让它基于方案3去调整，几个版本迭代下来就得到了一个我挺满意的方案。"
+    },
+    "url": "https://x.com/dotey/status/2104111348388941915",
+    "time": "2026-09-27 15:30",
+    "created_at": "Sun Sep 27 07:30:12 +0000 2026",
+    "id_str": "2104111348388941915",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "上面的提示词是事后让 AI 总结的，最初提示词很简单：\n\n> 基于当前 App 的原型页面功能和 Icon，设计一个有趣的让人印象深刻的产品介绍视频，直接使用 js 渲染画布生成视频\n\n后面就是慢慢迭代修改",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2104112204974813688",
+    "time": "2026-09-27 15:33",
+    "created_at": "Sun Sep 27 07:33:36 +0000 2026",
+    "id_str": "2104112204974813688",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "补充，可以导出 svg",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2104117093373542788",
+    "time": "2026-09-27 15:53",
+    "created_at": "Sun Sep 27 07:53:02 +0000 2026",
+    "id_str": "2104117093373542788",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "既然大家都有宣传片了，咋能少得了我的这些好哥们儿呢？\n\n先来给@cellinlab 来一个造物矩阵的宣传片～ \n好不好，哥几个喜欢就行了～～",
+    "quoted_tweet": null,
+    "url": "https://x.com/berryxia/status/2104042248593965300",
+    "time": "2026-09-27 10:55",
+    "created_at": "Sun Sep 27 02:55:37 +0000 2026",
+    "id_str": "2104042248593965300",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@berryxia @cellinlab https://best.xiaohu.ai 来个",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2104188908137550210",
+    "time": "2026-09-27 20:38",
+    "created_at": "Sun Sep 27 12:38:24 +0000 2026",
+    "id_str": "2104188908137550210",
+    "is_retweet": false
   }
 ]
