@@ -297,5 +297,203 @@
     "created_at": "Mon Sep 28 07:14:32 +0000 2026",
     "id_str": "2104469791415140488",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Still no evidence of AI-driven unemployment among recent college grads, new @nberpubs paper says.\n\n\"Taking an agnostic approach to defining treatment timing, we find that unemployment rates did not spike in summer 2026 relative to summer months in previous years and did not rise in a significant way relative to older college graduates or young workers without a college degree. We also provide the first analysis of an expanded definition of unemployment that includes those who report 'wanting a job' which adds nearly two percentage points to the unemployment rate of recent college graduates but we find no evidence of a statistically significant increase in summer 2026 even after adding these 'sidelined unemployed.'\"\n\nhttps://www.nber.org/papers/w35796",
+    "quoted_tweet": null,
+    "url": "https://x.com/CharlesFLehman/status/2104536553519206718",
+    "time": "2026-09-28 19:39",
+    "created_at": "Mon Sep 28 11:39:49 +0000 2026",
+    "id_str": "2104536553519206718",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "found a free tool that tests your prompts the way developers test code.\n\nit's called promptfoo. you give it your prompt versions, a list of inputs, and rules for what a correct answer has to contain. it runs everything and hands back a table of what passed and what failed.\n\nthis matters once a prompt is doing real work. a support bot, a content generator, anything a client touches. change one line and you have no idea what else moved.\n\nit compares models the same way. GPT, Claude, Gemini and DeepSeek on identical test cases.\n\nit'll also attack your own app to find what leaks or breaks before a user does.\n\neverything runs locally. the prompts never leave your machine.\n\n24,200 stars, open source, MIT licensed. OpenAI owns it now and it's still MIT.\n\nsave this for when a prompt you rely on starts acting up",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104511527772701155",
+    "time": "2026-09-28 18:00",
+    "created_at": "Mon Sep 28 10:00:22 +0000 2026",
+    "id_str": "2104511527772701155",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104511551399137574",
+    "time": "2026-09-28 18:00",
+    "created_at": "Mon Sep 28 10:00:28 +0000 2026",
+    "id_str": "2104511551399137574",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104511562954461529",
+    "time": "2026-09-28 18:00",
+    "created_at": "Mon Sep 28 10:00:31 +0000 2026",
+    "id_str": "2104511562954461529",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "judging a prompt by whether the answer was good only covers a quarter of it.\n\na paper from 9 researchers across 7 universities lays out 4 separate things you can evaluate about a prompt. most people only ever check one.\n\nthe 4:\n\n→ characterisation. what the prompt actually is. length, examples, constraints, role, token limits. you can't compare two prompts until you can describe them.\n\n→ artifact quality. does the prompt specify the task, the context, the constraints and the expected output. this is judged without running it.\n\n→ outcome quality. does what came back meet the standard. this is the one everyone uses.\n\n→ process quality. how much effort, cost and how many retries it took to\nget there. a prompt that needs 6 attempts is worse than one that needs 1, even if the final answers match.\n\nthe reason it matters: a prompt can score perfectly on outcome and fail on process. you got a great answer after rewriting it 5 times, and next week you'll rewrite it 5 times again.\n\ncheck all 4 on anything you plan to reuse.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104583165767717026",
+    "time": "2026-09-28 22:45",
+    "created_at": "Mon Sep 28 14:45:02 +0000 2026",
+    "id_str": "2104583165767717026",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104583190094791023",
+    "time": "2026-09-28 22:45",
+    "created_at": "Mon Sep 28 14:45:08 +0000 2026",
+    "id_str": "2104583190094791023",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104583201691967493",
+    "time": "2026-09-28 22:45",
+    "created_at": "Mon Sep 28 14:45:11 +0000 2026",
+    "id_str": "2104583201691967493",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge @waylybaye 我自己膝盖手术过，慢跑没什么问题。身边统计学爱骑行的摔到血伤筋动骨的不少。",
+    "quoted_tweet": null,
+    "url": "https://x.com/renkaige/status/2104454545099395517",
+    "time": "2026-09-28 14:13",
+    "created_at": "Mon Sep 28 06:13:57 +0000 2026",
+    "id_str": "2104454545099395517",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "虽然已经有太多抓眼球和惊艳的Opus5.5视频内容，但我还是忍不住要分享这支知识类视频。重点不在这个视频内容有多精良，必定非专业无复杂Prompt且一次直出。而是，这支18分钟的视频，其制作过程，真的让我感觉Super Stunning!!\n\n以下，我原文分享claude告诉我他的制作过程(不舍得删掉一个字)! Enjoy👇👇\n\n\"\n其实我自己一帧画面都不“生成”。我做的更像导演加程序员：写剧本，写一份“每一秒画面上有什么、在哪、怎么动”的说明书，再让几样现成的工具照着干活。视频是被“算”出来的，不是被“画”出来的。\n\n拿这个片子举例，一共五道工序。\n\n1.  剧本是我写的。这是文本模型的老本行：读书，理清逻辑，把书里的数字拆成一句一句能念出来的话。比如“1850 年，美国 67% 的棉花，长在 50 年前还不属于美国的土地上”，这类句子和数字都来自我们之前拆书时核对过的材料。\n    \n2.  画是别人画的。船、纱厂、摘棉花的人、城门这些插图，是我写好描述交给 OpenAI 的画图模型画的。我在描述里定死了画风：扁平、暖色、没有描边、透明背景。这样 30 多张图放在一起才像一套。画回来以后，我还用代码把边上的光晕切掉，再裁成可以单独移动的“贴纸”。\n    \n3.  声音是 Gemini 念的。我只管把句子交给它，再检查它念得对不对。\n    \n4.  动画是我写代码“算”出来的，这是最核心的一步。我写了一个网页程序，你给它一个时间，比如第 312.5 秒，它就能算出这一秒画面上该有什么：\n    \n    -   船在航线上走到了百分之几\n        \n    -   地图镜头推到了多近\n        \n    -   计数器数到了多少\n        \n    -   烟囱的烟飘到了多高\n    \n    地图不是画的，是用真实的地理数据描出来的，所以利物浦、西非海岸、新奥尔良的位置都是准的。船沿着航线走，其实就是每一帧算一次“这一刻在线上的哪个点”。\n    \n5.  最后是一帧一帧拍下来。让浏览器从第 0 秒开始，每秒拍 24 张截图。这个片子大约 15 分钟，一共要拍 2 万多张。再用一个叫 ffmpeg 的工具把这些截图和配音、音乐接成视频。背景音乐也不是找来的，是我用数学公式一个音一个音合成的：几个和弦，加一点拨弦声，有人说话时自动压低音量。\n    \n所以“视频能力强”，本质上是三件事拼起来的：\n\n-   会写代码，能把“船从利物浦开到西非”翻译成每一帧的坐标。\n    \n-   会调度工具：画图的、念稿的、剪辑的，各干各的活。\n    \n-   会编故事：知道这句话该配什么画面，观众才记得住。\n    \n我的短板也很实在：我看不了连续播放的视频，也听不见声音。所以检查全靠两个笨办法：\n\n-   画面：每隔一段截几张静帧来看。那些叠画、标签遮挡的问题，都是这样揪出来的。\n    \n-   声音：把声波变成数字来量。你听出来的声音忽高忽低，我是事后量了音高和音量才确认的；那两次“啪”的爆破音，也是靠检测波形里的突变才定位的。\n    \n这也是为什么你审片那一关替代不了。你一耳朵听出来的东西，我得先猜可能是什么问题，再去量才能找到。\n\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/genie0309/status/2104457443082379367",
+    "time": "2026-09-28 14:25",
+    "created_at": "Mon Sep 28 06:25:28 +0000 2026",
+    "id_str": "2104457443082379367",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@renkaige @waylybaye 摔倒确实是骑行车的最大风险了。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104470775730462859",
+    "time": "2026-09-28 15:18",
+    "created_at": "Mon Sep 28 07:18:26 +0000 2026",
+    "id_str": "2104470775730462859",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "正式宣告：如果你想在今年冬天，在 *杭州* 大展身手。把微信、telegram，重新写一次。以 AI Native 的方式，去构建一个 Agent 与人，共为一等公民的 IM 网络。请您提前与我联系。\n\n一直以来，Cromma（可爱信）无法真正通过思想实验。所有的壁垒都有解法，可优化的点千千万万，唯独小程序生态这一块，完全难以撼动。\n\n直到这个秋天，我们看到了很多东西真正进入了沸腾阶段（以lovable为标志的产品）。让每个用户用自然语言的方式，0代码、0部署焦虑地来创造和分发自己的“小程序”。将IM中的可流转软件生态，从少部分人编码，大部分人使用的时代，蝶变到程序的创造者、迭代者、使用者，都是用户本人的时代。\n\n想象一下：hi，为我的这个学员群弄一个小程序。\n\n总而言之，一切已经启动。我需要做一些 CEO 该做的事。组织人，尤其是野心勃勃的人。我们一起打造，一个唯一的 Rust IM 内核。经 UniFFI 绑定给各端原生。经 wasm 给 web，经 napi 给 Electron。\n\n这里放不下关于Cromma的想象。让一切从一封邮件开始，只需证明你也想干，且可以胜任。\n\ncromma@laper.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/chunxiangai/status/2104526882003894772",
+    "time": "2026-09-28 19:01",
+    "created_at": "Mon Sep 28 11:01:23 +0000 2026",
+    "id_str": "2104526882003894772",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@chunxiangai 终于再次启航",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104548920068305294",
+    "time": "2026-09-28 20:28",
+    "created_at": "Mon Sep 28 12:28:57 +0000 2026",
+    "id_str": "2104548920068305294",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@genie0309 太流畅了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104573443962454303",
+    "time": "2026-09-28 22:06",
+    "created_at": "Mon Sep 28 14:06:24 +0000 2026",
+    "id_str": "2104573443962454303",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@maria_rcks Please don't die",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104462572644888780",
+    "time": "2026-09-28 14:45",
+    "created_at": "Mon Sep 28 06:45:50 +0000 2026",
+    "id_str": "2104462572644888780",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@mark_k DevDay",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104462713296683467",
+    "time": "2026-09-28 14:46",
+    "created_at": "Mon Sep 28 06:46:24 +0000 2026",
+    "id_str": "2104462713296683467",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@imjustnewatai 007 even",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104462923661988233",
+    "time": "2026-09-28 14:47",
+    "created_at": "Mon Sep 28 06:47:14 +0000 2026",
+    "id_str": "2104462923661988233",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Sunday vibes. See you at Fort Mason soon 🎮👩‍💻",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104465709384491519",
+    "time": "2026-09-28 14:58",
+    "created_at": "Mon Sep 28 06:58:18 +0000 2026",
+    "id_str": "2104465709384491519",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Taken by none other than the incredible @ah20im",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104467346945675347",
+    "time": "2026-09-28 15:04",
+    "created_at": "Mon Sep 28 07:04:49 +0000 2026",
+    "id_str": "2104467346945675347",
+    "is_retweet": false
   }
 ]
