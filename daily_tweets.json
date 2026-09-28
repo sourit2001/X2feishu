@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "The cryptographic world computer:\n\nhttps://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html\n\nMy attempt to express in somewhat concise terms the true meaning of basically everything planned to happen to Ethereum starting from the fork after Hegota. It's really not just a blockchain anymore. It's a hybrid architecture that combines together blockchains and modern cryptography, to enable much more powerful properties.\n\nFOCIL, EIP-8288, Lean consensus, state management, formal verification, advanced mempool improvements (including privacy), and the longer-term specter of obfuscation all mentioned.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2104160561374343176",
+    "time": "2026-09-27 18:45",
+    "created_at": "Sun Sep 27 10:45:45 +0000 2026",
+    "id_str": "2104160561374343176",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Obfuscation is the part I'd give the most time. Many of the candidate schemes from 2013 on were broken through the multilinear maps underneath them, until Jain, Lin and Sahai built iO on well-studied assumptions in 2020. I think it earns a place in Ethereum only after a few more years of people trying to break it in public, because that's how every primitive already in the stack got there.",
+    "quoted_tweet": null,
+    "url": "https://x.com/benshanyoufeng/status/2104166878125920668",
+    "time": "2026-09-27 19:10",
+    "created_at": "Sun Sep 27 11:10:51 +0000 2026",
+    "id_str": "2104166878125920668",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Happy mid autumn I guess!",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "The cryptographic world computer:\n\nhttps://vitalik.eth.limo/general/2026/09/27/the_cryptographic_world_computer.html\n\nMy attempt to express in somewhat concise terms the true meaning of basically everything planned to happen to Ethereum starting from the fork after Hegota. It's really not just a blockchain anymore. It's a hybrid architecture that combines together blockchains and modern cryptography, to enable much more powerful properties.\n\nFOCIL, EIP-8288, Lean consensus, state management, formal verification, advanced mempool improvements (including privacy), and the longer-term specter of obfuscation all mentioned."
+    },
+    "url": "https://x.com/dentonyanchen/status/2104168399165161831",
+    "time": "2026-09-27 19:16",
+    "created_at": "Sun Sep 27 11:16:54 +0000 2026",
+    "id_str": "2104168399165161831",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@dentonyanchen 中秋节快乐！",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2104169933131428051",
+    "time": "2026-09-27 19:23",
+    "created_at": "Sun Sep 27 11:23:00 +0000 2026",
+    "id_str": "2104169933131428051",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "My prediction is that we'll see people using low-security obfuscation - either some new ultra-risky flavor of diamond, or local mixing - quite soon, in contexts where it's playing a relatively low-security role and breakage is not fatal.\n\nThere's some partial overlap with TEEs. The main advantage low-sec obf has over TEEs is that it's software-only, so it's easy to use inside sandboxes etc. Another kind of use is as a poor man's STARK, eg. as an anti-DoS proof - if someone breaks it, then the worst that happens is that that particular protocol gets DoS'd and you have to fall back to either TEEs or full-size STARKs. (assuming quantum safety is required)\n\nAlso I'm taking into account gains from AI speeding up math by 10x - hopefully we can speedrun 40 years worth of cryptanalysis back-and-forth in 4 years.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2104172441060950507",
+    "time": "2026-09-27 19:32",
+    "created_at": "Sun Sep 27 11:32:58 +0000 2026",
+    "id_str": "2104172441060950507",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Lean consensus will be amazing.",
+    "quoted_tweet": {
+      "author": "Francesco",
+      "username": "fradamt",
+      "text": "One step closer to 4-8x faster Ethereum finality!\n\nIt took some time and lots of tokens, but we now have a formally verified proposal for a decoupled consensus protocol in I* (a future Ethereum upgrade)! Not yet a full spec (up next), but it includes all the key consensus-relevant details to become one.\n\nSince Ethereum aspires to be live without most of the stake online, the protocol involves many more components than a normal BFT protocol, and its correctness involves much more than standard safety and liveness. Those nuanced properties are now verified!\n\nWhat's more, I came away convinced that all protocol design will involve AI-assisted Formal Verification in the future, both for correctness and iteration speed.\n\nThe work wasn't limited to just:\n\nDesign the protocol -> Formally verify it\n\nInstead, the loop became more like:\n\nDesign -> Formal Model -> Find exactly what breaks and why -> Redesign it.\n\nFor a fairly complicated protocol like this one, I think having the Lean model be part of the design loop played a big role in accelerating the process.\n\nA future with agents paired with formal models is a superpower for Ethereum development, because they can then use those models to find exactly where an argument breaks down, formalize counterexamples, test proposed fixes, iterate on the protocol.\n\nMany details that would slip under the radar when asking agents (and indeed, humans) can now be specified exactly and checked by the Lean kernel. This then forces agents to be more precise and lets them make verifiable progress on their own. It's been incredible to see this play out, seeing agents find gaps and propose protocol changes to fix them.\n\nIn other words, autoresearch can speed up protocol design, formal verification is here to stay, and Ethereum Finality will get faster."
+    },
+    "url": "https://x.com/VitalikButerin/status/2104186531829445083",
+    "time": "2026-09-27 20:28",
+    "created_at": "Sun Sep 27 12:28:57 +0000 2026",
+    "id_str": "2104186531829445083",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Ethereum is both an abstract philosophical concept (the ontological Turing machine) and a practical research and development effort that aims to answer this question that pertains to the nature of Ethereum.\n\nHow the nature of \"Ethereum\" as a protocol comes to be determined through the ACD governance mechanism, how cryptographic truth comes to be defined, and how convergent consensus is reached using majority representation of Ethereum's observers is what reduces the ontology of the world computer down to what we today call the Ethereum network.\n\nHere's how the world computer comes to be defined:\n\nhttps://conall.gwei.domains/#/blog/DE?v=2",
+    "quoted_tweet": null,
+    "url": "https://x.com/XRS_02/status/2104202288826822921",
+    "time": "2026-09-27 21:31",
+    "created_at": "Sun Sep 27 13:31:34 +0000 2026",
+    "id_str": "2104202288826822921",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Also this thing is done now\n\nhttps://vitalik.eth.limo/snowmoon/",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2104216824258932907",
+    "time": "2026-09-27 22:29",
+    "created_at": "Sun Sep 27 14:29:20 +0000 2026",
+    "id_str": "2104216824258932907",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Anyhow, it is almost like some sort of general intelligence, but made with artificial means. Very hard to know what we might call that.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104073909960155515",
+    "time": "2026-09-27 13:01",
+    "created_at": "Sun Sep 27 05:01:26 +0000 2026",
+    "id_str": "2104073909960155515",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I can't believe people think SimHat is made up.\n\nWould I also make up the gritty reboot in the early 2000s? And the online multiplayer version (\"its a brimmunity!\")? And the recent exploitative mobile game?",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104076472591814866",
+    "time": "2026-09-27 13:11",
+    "created_at": "Sun Sep 27 05:11:37 +0000 2026",
+    "id_str": "2104076472591814866",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "We are going to learn how many systems only work today because they are built around friction that will no longer exist soon.",
+    "quoted_tweet": {
+      "author": "Yano 🟪",
+      "username": "JasonYanowitz",
+      "text": "Fascinating.\n\nChief Economist at Apollo: agents could cause a bank run by sweeping household cash into accounts paying 3-5% instead of the 0.1% national average, causing banks to lose a large share of their cheap deposits."
+    },
+    "url": "https://x.com/emollick/status/2104273082433081732",
+    "time": "2026-09-28 02:12",
+    "created_at": "Sun Sep 27 18:12:53 +0000 2026",
+    "id_str": "2104273082433081732",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Qualitatively, there is now a larger gap between open & closed models than there has been in awhile. Fable/Astra class models are agentic in a way pre-Fable models are not, for better or worse. None of the open models have crossed that line, yet. When they do, it will be a jump.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104326478766952624",
+    "time": "2026-09-28 05:45",
+    "created_at": "Sun Sep 27 21:45:03 +0000 2026",
+    "id_str": "2104326478766952624",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "There is always talk on X about how networks like BlueSky are full of people who believe AI doesn't work (this is less true than it used to be), but LinkedIn is full of insane semi-technical slop advice like this.\n\nWhy are they not reporting BLEU, ROUGE & BERTScore for Astra?  🤔",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104352301431308578",
+    "time": "2026-09-28 07:27",
+    "created_at": "Sun Sep 27 23:27:40 +0000 2026",
+    "id_str": "2104352301431308578",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "starting your prompt with \"act as an expert\" does nothing for accuracy.\n\na new paper published this month on prompt engineering tested this across 162 personas, 4 model families and 2,410 factual questions. adding the persona didn't beat a prompt with no persona at all.\n\nthe role isn't the problem. the label is.\n\n\"act as an expert CFO\" tells the model who to pretend to be. it doesn't tell it what to look at.\n\ncompare:\n\n\"review this plan as a CFO accountable for cash discipline, downside risk, implementation cost, and measurable ROI. identify the assumptions that most affect the approval decision.\"\n\nsame role. but now it names what to notice, what counts as good, and what the answer is responsible for.\n\nbefore you write a role, answer 3 things. what should it pay attention to, what counts as a good answer, and what is it responsible for catching.\n\nif you can't fill the blanks, the role is decoration.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104149110068781561",
+    "time": "2026-09-27 18:00",
+    "created_at": "Sun Sep 27 10:00:15 +0000 2026",
+    "id_str": "2104149110068781561",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104149133816910038",
+    "time": "2026-09-27 18:00",
+    "created_at": "Sun Sep 27 10:00:21 +0000 2026",
+    "id_str": "2104149133816910038",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104149145359695965",
+    "time": "2026-09-27 18:00",
+    "created_at": "Sun Sep 27 10:00:24 +0000 2026",
+    "id_str": "2104149145359695965",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "you tune a prompt for one job, then it breaks on the next one. a new method called AgentGrad stops that happening.\n\nresearchers tuned prompts on 5 tasks, then ran those exact prompts on 5 completely different tasks with no changes. on multi-step question answering the untuned baseline scored 24.33. AgentGrad's prompts scored 51.22, beating every other method. they won all 5.\n\nit works in 2 moves.\n\nfirst, when something fails, it fixes one agent at a time and checks whether the failure disappears. whichever fix works, that's the agent that caused it.\n\nno more guessing which prompt to rewrite.\n\nsecond, it sorts every failure by what correction they share, then writes one fix per group. so the update targets the cause, not your specific examples.\n\nyou can do both by hand. change one step at a time until the problem goes away, then group what went wrong by shared cause and fix one cause at a time. a prompt patched example by example only works on the examples you had.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104220774748021185",
+    "time": "2026-09-27 22:45",
+    "created_at": "Sun Sep 27 14:45:01 +0000 2026",
+    "id_str": "2104220774748021185",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104220798731116815",
+    "time": "2026-09-27 22:45",
+    "created_at": "Sun Sep 27 14:45:07 +0000 2026",
+    "id_str": "2104220798731116815",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104220810340970645",
+    "time": "2026-09-27 22:45",
+    "created_at": "Sun Sep 27 14:45:10 +0000 2026",
+    "id_str": "2104220810340970645",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "收尾一下，最终 Mole 1.15 已上线，欢迎小伙伴去升级，最终测试了 709 款软件，包括特别难卸载的 Adobe 系列，以及各种带牛皮癣的 App，还有杀毒软件，以及我们工程师经常用的大部分软件，各种 AI 工具，也体验了一些值得学习的好软件，下一期我正确做到 1000 个自测软件。\nhttps://mole.fit/zh/#tested-apps",
+    "quoted_tweet": {
+      "author": "Tw93",
+      "username": "HiTw93",
+      "text": "继续更新，我甚至把这个事情做成了产品化的感觉，甚至也沉淀成脚本了，后续有任何新增可在官网看到，当前实测软件到 611 个了，小伙伴来看看，你现在电脑装的软件在不在这个里面了。\n\n假如不在，欢迎给我反馈提交，我再来继续测试验证补齐规则。\n\nhttps://mole.fit/tested-apps"
+    },
+    "url": "https://x.com/HiTw93/status/2104003382776356937",
+    "time": "2026-09-27 08:21",
+    "created_at": "Sun Sep 27 00:21:11 +0000 2026",
+    "id_str": "2104003382776356937",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "如果 Opus 5.5 的体验在未来半年里被开元模型等慢慢跟进到相似水平，同时价格 x0.1-0.01，速度 x5-10，即平均一个小游戏体验大改的成本是 ¥1-10\n\n世界就完全不一样了\n\n最终，人类烧 Token 怎么可能是为了“干活”呢？",
+    "quoted_tweet": null,
+    "url": "https://x.com/kalasoo/status/2104104579462025436",
+    "time": "2026-09-27 15:03",
+    "created_at": "Sun Sep 27 07:03:18 +0000 2026",
+    "id_str": "2104104579462025436",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@kalasoo 是啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104359375209213995",
+    "time": "2026-09-28 07:55",
+    "created_at": "Sun Sep 27 23:55:46 +0000 2026",
+    "id_str": "2104359375209213995",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@HiTw93 太棒了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104360008628769028",
+    "time": "2026-09-28 07:58",
+    "created_at": "Sun Sep 27 23:58:17 +0000 2026",
+    "id_str": "2104360008628769028",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Next Token 词元之外 更新第四期\nOpus 5.5 越界进入视频领域，Muse 爆火美国，以及中国到底有没有 AI 产品经理？\n\nB 站视频播客首发，欢迎收听\nhttps://www.bilibili.com/video/BV1AAaa6VE88/?vd_source=339aa02448f0dd40b27966b0b61d0cc5",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104364736255320472",
+    "time": "2026-09-28 08:17",
+    "created_at": "Mon Sep 28 00:17:04 +0000 2026",
+    "id_str": "2104364736255320472",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "AGENT WARS\n\nWe asked 5 top AI models to design, engineer and 3D print a bridge to with the goal of holding the most possible weight.\n\n🇺🇸 Anthropic: Claude Opus 5.5 (High)\n🇨🇳 Kimi: Kimi K3 (High)\n🇺🇸 Meta: Muse Spark 1.3 (High)\n🇺🇸 OpenAI: GPT 6 Astra (High)\n🇺🇸 SpaceXAI: Grok 4.7 (High)\n\nEach bridge had specific parameters. It had to span 2 feet, use a maximum 500 grams of filament, and it had to be under 18 hours of printing time. We specified what type of weight and where we would place it on the bridge.\n\nThe Score:\n\n• Claude Opus 5.5 held an estimated 130 lbs! It took 9 hours and 11 minutes to print 17 parts and used 441 grams of filament.\n\n• Meta Muse Spark 1.3 held 26.5 lbs. It took 13 hours and 12 minutes to print 49 parts and used 478 grams of filament.\n\n• OpenAI GPT-6 Astra held an estimated 17.5 lbs. It took 15 hours and 44 minutes to print 29 parts and used 442 grams of filament.\n\n• SpaceXAI Grok 4.7 did not finish. On assembly it could not stand up by itself. It took 12 hours and 22 minutes to print 29 parts and used 460 grams of filament.\n\n• Kimi K3 did not finish. It wasn’t engineered correctly so the bridge could not even be assembled. It took 11 hours and 19 minutes to print 35 parts and used 446 grams of filament.\n\nThat means our champion for this episode is Claude Opus 5.5. Not only did it hold the most weight (by FAR) it also took the least time to print, used the least amount of parts and used the least amount of filament.\n\nThis was episode 02 of Agent Wars, stay tuned for episode 03.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rpnickson/status/2104234974350111108",
+    "time": "2026-09-27 23:41",
+    "created_at": "Sun Sep 27 15:41:27 +0000 2026",
+    "id_str": "2104234974350111108",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@rpnickson @robertoblake Super cool test idea! Love this!",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104267865516081311",
+    "time": "2026-09-28 01:52",
+    "created_at": "Sun Sep 27 17:52:09 +0000 2026",
+    "id_str": "2104267865516081311",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I cannot believe how smart astra is",
+    "quoted_tweet": null,
+    "url": "https://x.com/yacineMTB/status/2104019174578110695",
+    "time": "2026-09-27 09:23",
+    "created_at": "Sun Sep 27 01:23:56 +0000 2026",
+    "id_str": "2104019174578110695",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@anthdm Tell me more. Didn’t see your message, was probably too small and for ants.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104100881100890402",
+    "time": "2026-09-27 14:48",
+    "created_at": "Sun Sep 27 06:48:37 +0000 2026",
+    "id_str": "2104100881100890402",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@yacineMTB We’re perma locked in. No code red necessary.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104101496606618082",
+    "time": "2026-09-27 14:51",
+    "created_at": "Sun Sep 27 06:51:03 +0000 2026",
+    "id_str": "2104101496606618082",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104108167806550046",
+    "time": "2026-09-27 15:17",
+    "created_at": "Sun Sep 27 07:17:34 +0000 2026",
+    "id_str": "2104108167806550046",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "这是哪个人才做的，太真实了😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/Vincent_AINotes/status/2104135763256566000",
+    "time": "2026-09-27 17:07",
+    "created_at": "Sun Sep 27 09:07:13 +0000 2026",
+    "id_str": "2104135763256566000",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@scottstts 🙈",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104313314901958706",
+    "time": "2026-09-28 04:52",
+    "created_at": "Sun Sep 27 20:52:45 +0000 2026",
+    "id_str": "2104313314901958706",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@yacineMTB O really",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104313502697660428",
+    "time": "2026-09-28 04:53",
+    "created_at": "Sun Sep 27 20:53:29 +0000 2026",
+    "id_str": "2104313502697660428",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Vincent_AINotes Hitting the gym, brb on Tuesday",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104313777013526880",
+    "time": "2026-09-28 04:54",
+    "created_at": "Sun Sep 27 20:54:35 +0000 2026",
+    "id_str": "2104313777013526880",
+    "is_retweet": false
+  }
+]
