@@ -978,5 +978,42 @@
     "created_at": "Mon Sep 28 20:19:34 +0000 2026",
     "id_str": "2104667354861019161",
     "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Since people liked this, and the weak point was the text to speech, I asked Opus to update with an ElevenLabs voice.\n\nThis is the same video, but with much better narration.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104599209995645069",
+    "time": "2026-09-28 23:48",
+    "created_at": "Mon Sep 28 15:48:47 +0000 2026",
+    "id_str": "2104599209995645069",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is also why non-coders can often accomplish unexpected things with AI: people have different limits than software, and old mental models can get in the way.",
+    "quoted_tweet": {
+      "author": "rohit",
+      "username": "krishnanrohit",
+      "text": "Still one of the best ways to think about AI that I've read from @emollick"
+    },
+    "url": "https://x.com/emollick/status/2104632980635259336",
+    "time": "2026-09-29 02:02",
+    "created_at": "Mon Sep 28 18:02:59 +0000 2026",
+    "id_str": "2104632980635259336",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I'm very confused by Anthropic's claims... They claim Sonnet 5.5 uses much less tokens and therefore has a lower cost per task than Sonnet 5. However, Artificial Analysis has it basically being the most token-inefficient model out right now. What am I missing?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104672123558244543",
+    "time": "2026-09-29 04:38",
+    "created_at": "Mon Sep 28 20:38:31 +0000 2026",
+    "id_str": "2104672123558244543",
+    "is_retweet": false
   }
 ]
