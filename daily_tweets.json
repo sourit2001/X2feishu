@@ -1,1 +1,407 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The impact of AI on jobs is still pretty unclear at this point. I don't find this very surprising, as employers are still figuring out individual adoption, let alone how you use AI in complex organizations. Things may start to happen faster as agents capable of real work spread.",
+    "quoted_tweet": {
+      "author": "Jacob Schaal",
+      "username": "FutureEconJacob",
+      "text": "Has AI hit the labor market yet? @alexolegimas and my verdict after ~20 papers: not yet in aggregate. Unemployment and layoffs show almost nothing. But AI may already be cutting junior hiring in exposed white-collar jobs. Remote work may explain part of that decline.\nA 🧵"
+    },
+    "url": "https://x.com/emollick/status/2104964210644181230",
+    "time": "Tue Sep 29 15:59:10 +0000 2026",
+    "created_at": "Tue Sep 29 15:59:10 +0000 2026",
+    "id_str": "2104964210644181230",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As least year's DevDay, this is what OpenAI said agents would look like. This is before OpenClaw & self-organizing swarms, so this entire approach was scraped soon after:\n1) AI is evolving quite quickly\n2) The AI labs aren't always anticipating how fast in the products they make",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104965679971709108",
+    "time": "Tue Sep 29 16:05:01 +0000 2026",
+    "created_at": "Tue Sep 29 16:05:01 +0000 2026",
+    "id_str": "2104965679971709108",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Not to minimize the AI boom, but I don't think this is correct – what figures are you using? ChatGPT has US railroad buildout peaking at about 4% of GDP, and AI buildout currently at 1.8%: https://chatgpt.com/share/6abbee93-225c-83e8-88a1-ad7f222b0ac8",
+    "quoted_tweet": null,
+    "url": "https://x.com/snewmanpv/status/2104979572144177298",
+    "time": "Tue Sep 29 17:00:13 +0000 2026",
+    "created_at": "Tue Sep 29 17:00:13 +0000 2026",
+    "id_str": "2104979572144177298",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@snewmanpv Argh. Thanks for correcting",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104997704896217298",
+    "time": "Tue Sep 29 18:12:16 +0000 2026",
+    "created_at": "Tue Sep 29 18:12:16 +0000 2026",
+    "id_str": "2104997704896217298",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I only used Dots briefly before launch, so can’t offer a detailed review, but I found it to be good & very much in the rapidly-expanding Clawlike category with Muse & Grokbot. Using a capable model with access to your data as an assistant & second opinion is remarkably useful.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105000480569212984",
+    "time": "Tue Sep 29 18:23:18 +0000 2026",
+    "created_at": "Tue Sep 29 18:23:18 +0000 2026",
+    "id_str": "2105000480569212984",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It also has a natural analog on teams as a persistent entity with a job that you can delegate to using existing team communication tools like Slack. I expect more Clawlikes soon, though I don’t think they are the final form of this type of AI.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105002271184687367",
+    "time": "Tue Sep 29 18:30:25 +0000 2026",
+    "created_at": "Tue Sep 29 18:30:25 +0000 2026",
+    "id_str": "2105002271184687367",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Best AI MCPs, courses and skills all available next to tons of professional prompts",
+    "quoted_tweet": {
+      "author": "Robert Youssef",
+      "username": "rryssf",
+      "text": "there is a website with comprehensive guides on literally every major LLM \n\nall for free and in one place 🔑\n\nhttps://godofprompt.ai/guides"
+    },
+    "url": "https://x.com/godofprompt/status/2104940567381570026",
+    "time": "Tue Sep 29 14:25:13 +0000 2026",
+    "created_at": "Tue Sep 29 14:25:13 +0000 2026",
+    "id_str": "2104940567381570026",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt These resources look really useful Thank you for sharing",
+    "quoted_tweet": null,
+    "url": "https://x.com/ZUNO_CRYPTO1/status/2104941415553986758",
+    "time": "Tue Sep 29 14:28:36 +0000 2026",
+    "created_at": "Tue Sep 29 14:28:36 +0000 2026",
+    "id_str": "2104941415553986758",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic published a guide this week on fixing prompts without fooling yourself.\n\nit's written for developers running evals on codebases, but the loop underneath works on any prompt you're tuning by hand.\n\nthe problem: your prompt gets better on the examples you tested it on and worse everywhere else.\n\nthe fix is to get 20 real inputs. fix your prompt against 10 of them until the outputs are good. then, without changing anything, run the 10 you set aside. They will tell you whether you fixed the prompt or just those 10 examples.\n\ni turned the whole loop into a system prompt you can run on anything you've been tweaking by feel. no code needed.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104945552207278540",
+    "time": "Tue Sep 29 14:45:02 +0000 2026",
+    "created_at": "Tue Sep 29 14:45:02 +0000 2026",
+    "id_str": "2104945552207278540",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104945589503009014",
+    "time": "Tue Sep 29 14:45:11 +0000 2026",
+    "created_at": "Tue Sep 29 14:45:11 +0000 2026",
+    "id_str": "2104945589503009014",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104945601377092062",
+    "time": "Tue Sep 29 14:45:14 +0000 2026",
+    "created_at": "Tue Sep 29 14:45:14 +0000 2026",
+    "id_str": "2104945601377092062",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@ZUNO_CRYPTO1 No worries please explore it and enjoy",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104997559144247361",
+    "time": "Tue Sep 29 18:11:41 +0000 2026",
+    "created_at": "Tue Sep 29 18:11:41 +0000 2026",
+    "id_str": "2104997559144247361",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Dev day with @mreflow and @rpnickson and @altryne sniping the shot",
+    "quoted_tweet": null,
+    "url": "https://x.com/MatthewBerman/status/2104978695324873210",
+    "time": "Tue Sep 29 16:56:44 +0000 2026",
+    "created_at": "Tue Sep 29 16:56:44 +0000 2026",
+    "id_str": "2104978695324873210",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "At DevDay, OpenAI announced:\n\n- Their answer to Muse and Grokbot: Dots (although not free like Muse)\n- Their answer to Anthropic’s latest models: GPT-6.1-Sol\n- Their answer to Jev: The decision API\n\nThey also announced ChatGPT Spaces and Ultrafast mode (at 6x cost) as well as everything being available in the cloud and an agents API (with computer use).",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104987943085736367",
+    "time": "Tue Sep 29 17:33:29 +0000 2026",
+    "created_at": "Tue Sep 29 17:33:29 +0000 2026",
+    "id_str": "2104987943085736367",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I saw Tibo at a grocery store in San Francisco yesterday. I told him how cool it was to meet him in person, but I didn’t want to be a douche and bother him and ask him for resets or anything.\n\nHe said, “Oh, like you’re doing now?”\n\nI was taken aback, and all I could say was “Huh?” but he kept cutting me off and going “huh? huh? huh?” and closing his hand shut in front of my face. I walked away and continued with my shopping, and I heard him chuckle as I walked off. When I came to pay for my stuff up front I saw him trying to walk out the doors with like fifteen Milky Ways in his hands without paying.\n\nThe girl at the counter was very nice about it and professional, and was like “Sir, you need to pay for those first.” At first he kept pretending to be tired and not hear her, but eventually turned back around and brought them to the counter.\n\nWhen she took one of the bars and started scanning it multiple times, he stopped her and told her to scan them each individually “to prevent any cache infetterence,” and then turned around and winked at me. I don’t even think that’s a word. After she scanned each bar and put them in a bag and started to say the price, he kept interrupting her by yawning really loudly.",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2104846196338782292",
+    "time": "Tue Sep 29 08:10:14 +0000 2026",
+    "created_at": "Tue Sep 29 08:10:14 +0000 2026",
+    "id_str": "2104846196338782292",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo And then I ran to Theo and whispered in his right ear “wake up Theo, it’s DevDay today”",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104934849970913519",
+    "time": "Tue Sep 29 14:02:30 +0000 2026",
+    "created_at": "Tue Sep 29 14:02:30 +0000 2026",
+    "id_str": "2104934849970913519",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@imnotchalk 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104936468624105813",
+    "time": "Tue Sep 29 14:08:56 +0000 2026",
+    "created_at": "Tue Sep 29 14:08:56 +0000 2026",
+    "id_str": "2104936468624105813",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I’ll explain the new Pro 200 plan differently, before I start live tweeting from DevDay on things that are going out!\n\nToday we are going to ship a number of things that increase what you can do across the Plus and Pro plans. A lot of compute is online for this increase. As we increase the floor, we are changing the relative difference between plans to be\n\nPlus = 1X\nPro 100 = 5X\nPro 200 = 10X\n\nand we are reopening subscriptions for Pro 200 (we had paused it). If you have an existing plan you will keep the 20X multiplier for a bit and also receive a lot of additional credits because we know changes are hard even if it means that everyone will get more in the end.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104951965184925941",
+    "time": "Tue Sep 29 15:10:31 +0000 2026",
+    "created_at": "Tue Sep 29 15:10:31 +0000 2026",
+    "id_str": "2104951965184925941",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux I don’t like this kind of utilitarianism. Please allocate compute unequally.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jukan05/status/2104952317900656996",
+    "time": "Tue Sep 29 15:11:55 +0000 2026",
+    "created_at": "Tue Sep 29 15:11:55 +0000 2026",
+    "id_str": "2104952317900656996",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@jukan05 Hello, this is Tibo, you’ve reached the wrong company. Let me redirect you to …",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104952602710638877",
+    "time": "Tue Sep 29 15:13:03 +0000 2026",
+    "created_at": "Tue Sep 29 15:13:03 +0000 2026",
+    "id_str": "2104952602710638877",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": {
+      "text": "https://t.co/3zfRsyb9A9",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2104961479346982913",
+          "display": "pic.x.com/3zfRsyb9A9",
+          "original": "https://t.co/3zfRsyb9A9",
+          "replacement": "https://x.com/thsottiaux/status/2104961497055240633/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "10am PT, on the dot."
+    },
+    "url": "https://x.com/thsottiaux/status/2104961497055240633",
+    "time": "Tue Sep 29 15:48:23 +0000 2026",
+    "created_at": "Tue Sep 29 15:48:23 +0000 2026",
+    "id_str": "2104961497055240633",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Announcing dots. Dots work 24/7 for you, learn from your feedback, have their own computer, browser and can be connected to over 4k apps in our ecosystem.\n\nThey’re powered by Astra our best model yet. Included in your Pro plan, without drawing down on any of your usage. You can even call a dot while it’s working.\n\nWe’re getting you started with your primary dot today and soon you’ll be able to create entire teams of them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104981170685616361",
+    "time": "Tue Sep 29 17:06:34 +0000 2026",
+    "created_at": "Tue Sep 29 17:06:34 +0000 2026",
+    "id_str": "2104981170685616361",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Announcing ChatGPT Space, a collection of new collaborative experiences right in ChatGPT. \n\nEdit rich notes with live visualizations together with others and your dots. Whether it’s a TODO list to delegate, a product plan or meeting notes. Working with others and your agents is seamless and they also be automatically kept up to date in the background. For developers, this is AGENTS.md taken one step further.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104983716049379472",
+    "time": "Tue Sep 29 17:16:41 +0000 2026",
+    "created_at": "Tue Sep 29 17:16:41 +0000 2026",
+    "id_str": "2104983716049379472",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Introducing 6.1 Sol, near Astra intelligence at one fifth of the price of Astra and 95% cache read discount. It is an absolute workhorse.\n\nCombined with ultrafast for 8X speeded available today for Astra and coming soon for 6.1 Sol.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104986027953930613",
+    "time": "Tue Sep 29 17:25:52 +0000 2026",
+    "created_at": "Tue Sep 29 17:25:52 +0000 2026",
+    "id_str": "2104986027953930613",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Decisions API, for lightning fast constrained decision making powered by Luna. Supports visual inputs, and tuned to be able to make decisions in less than a few hundreds of milliseconds end to end.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104986448269279399",
+    "time": "Tue Sep 29 17:27:32 +0000 2026",
+    "created_at": "Tue Sep 29 17:27:32 +0000 2026",
+    "id_str": "2104986448269279399",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Launching a new Codex Cloud, much improved from last year. With configurable cloud environments, it’s impossible to go back to building on your laptop once you’ve taken the time to configure it.\n\nAgents API, the same tech powering all our cloud agents, including dots, is also now in preview and supports computer use. It allows you to build the same incredible products we are making available today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104987594719461796",
+    "time": "Tue Sep 29 17:32:06 +0000 2026",
+    "created_at": "Tue Sep 29 17:32:06 +0000 2026",
+    "id_str": "2104987594719461796",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Token traffic on responses API has increased 100X compared to today last year. Meanwhile the team improved reliability with 99.9% uptime and improving performance significantly.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104988071188148495",
+    "time": "Tue Sep 29 17:33:59 +0000 2026",
+    "created_at": "Tue Sep 29 17:33:59 +0000 2026",
+    "id_str": "2104988071188148495",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Dots are included in all Pro, Business Premium and Enterprise plans. This includes the Pro 100 plan. We’ll be looking to further expand access soon.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104989161774322009",
+    "time": "Tue Sep 29 17:38:19 +0000 2026",
+    "created_at": "Tue Sep 29 17:38:19 +0000 2026",
+    "id_str": "2104989161774322009",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "We are opening up our platform and you can now build full native apps with plugin extensions, and ship them right in ChatGPT. We have over 1.2B weekly users and will surface relevant plugins right in the conversations.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104991765904375896",
+    "time": "Tue Sep 29 17:48:40 +0000 2026",
+    "created_at": "Tue Sep 29 17:48:40 +0000 2026",
+    "id_str": "2104991765904375896",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Little summary",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104992080095564111",
+    "time": "Tue Sep 29 17:49:55 +0000 2026",
+    "created_at": "Tue Sep 29 17:49:55 +0000 2026",
+    "id_str": "2104992080095564111",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Live demos suffered from rolling out all the updates at the same time, but were committed to keep doing these live in the future. \n\nAlmost all the things we announced will be available today. Can’t see what you will do with it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104994835212226681",
+    "time": "Tue Sep 29 18:00:52 +0000 2026",
+    "created_at": "Tue Sep 29 18:00:52 +0000 2026",
+    "id_str": "2104994835212226681",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "You can now use your ChatGPT subscription directly in over 16 partners products. No little rules, you can just use all your included usage right there. This includes things such as Devin, OpenCode, Notion, and many more.\n\nSign in with ChatGPT and go.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105006253986738615",
+    "time": "Tue Sep 29 18:46:14 +0000 2026",
+    "created_at": "Tue Sep 29 18:46:14 +0000 2026",
+    "id_str": "2105006253986738615",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "GPT-6.1 is a good model. And it’s unbelievably efficient. Included in all paid plans and on the API today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105007628460109953",
+    "time": "Tue Sep 29 18:51:42 +0000 2026",
+    "created_at": "Tue Sep 29 18:51:42 +0000 2026",
+    "id_str": "2105007628460109953",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "https://openai.com/index/introducing-gpt-6-1-sol/",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105007775676072381",
+    "time": "Tue Sep 29 18:52:17 +0000 2026",
+    "created_at": "Tue Sep 29 18:52:17 +0000 2026",
+    "id_str": "2105007775676072381",
+    "is_retweet": false
+  }
+]
