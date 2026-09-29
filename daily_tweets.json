@@ -1,1 +1,238 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. \n\nI remember saying physical AI + world models would major shift way back when, so maybe I should have invested in private companies at the time... \n\nApart from that... other interesting news:\n\n- Some channel checks from ECOC was that $NVDA apparently secured 50% of $LITE Greensboro UHP laser capacity? And possibly contracts that allow them to secure the remaining capacity per Barclays. \n\nThat's $5B in lasers (annual capacity)... so it's hilarious to see Nvidia go out and bottleneck the rest of the industry by doing this. But this just puts more strategic value on other merchant laser suppliers + more visibility for Lumentum.\n\nIt's kinda game theory over allocation, since if you secure all the HBM, lasers, and others it inadvertently makes it much harder for competitors to scale their programs. \n\n- Then there's your massive $150B Nvidia authorized buybacks (just look at $AAPL when they did buybacks..) They're printing too much. \n\n- What's also interesting is that Samsung Electro-Mechanics is expanding their FC-BGA substrate capacity today... but customers are the one funding this. \n\nI also remembered $MRVL in SEC filings cited large body substrates as one of the core bottlenecks of their program (alongside $TSM sole source dependencies). So they also went out and did some other expansion agreements with related companies like AT&S recently. \n\n- OpenAI delaying Astra-6.1 October release over safety concerns just now. Nvidia also happened to launch an AI safety platform. \n\nI don't think this is meaningfully bearish that the models are just getting 2 good.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2104698369591706069",
+    "time": "2026-09-29 06:22",
+    "created_at": "Mon Sep 28 22:22:49 +0000 2026",
+    "id_str": "2104698369591706069",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit How are you Serenity ? Sending you some healing vibes",
+    "quoted_tweet": null,
+    "url": "https://x.com/Itachidata/status/2104698497052348554",
+    "time": "2026-09-29 06:23",
+    "created_at": "Mon Sep 28 22:23:19 +0000 2026",
+    "id_str": "2104698497052348554",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I've had better days, having constant headaches which is a bit rough. I did have some fun channel checks though recently. \n\nSome guy I met by the bathroom yesterday claimed to be $SPCX Cursor CEO. I'm not good with faces so idk if he was lying or not. \n\nAlso had some discussions about beamformer technology with an industry executive, it's apparently more important than I gave it credit for.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2104709202891735244",
+    "time": "2026-09-29 07:05",
+    "created_at": "Mon Sep 28 23:05:52 +0000 2026",
+    "id_str": "2104709202891735244",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "恰恰相反，Claude Design 对于 Opus 5.5 来说功不可没，它的能力都内化进模型了，Claude Design 应该还帮助收集了不少优质的用户数据。\n\n在用 Opus 5.5 做视频的时候，有时候能看到 Claude Design 中 Animated Video 的影子。\n\n这也是大多数 AI 产品的宿命，里面的经验和数据都被内化进了模型",
+    "quoted_tweet": {
+      "author": "WeZZard",
+      "username": "realWeZZard",
+      "text": "我觉得 Claude Design Team 肯定也对于 Opus 5.5 的毁天灭地的效果感到很绝望"
+    },
+    "url": "https://x.com/dotey/status/2104607183044235525",
+    "time": "2026-09-29 00:20",
+    "created_at": "Mon Sep 28 16:20:28 +0000 2026",
+    "id_str": "2104607183044235525",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Manus 2.0 发布了\n曾经在 1.0 的时候启发了整个 Agent 时代的产品\n在 2.0 阶段，选择了视频、游戏作为生产力的核心场景\n在个人 Agent 方面给了 Agent 身份信息，邮箱电话支付，以及一个连接 Agent 的网络，同时还把微信的小程序逻辑引入，每个二维码都是一个 Agent\n在海外目前的主要竞争对手就是 Muse 了\n而国内谁最适合做 Muse 呢？非腾讯莫属\n而 Manus 的股东就是腾讯...",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104696220371611916",
+    "time": "2026-09-29 06:14",
+    "created_at": "Mon Sep 28 22:14:16 +0000 2026",
+    "id_str": "2104696220371611916",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Sonnet 5.5 发布\n它几乎和 Opus 5.5 一样强\n价格只要一半\n同时 Haiku 5.5 也在路上\n不得不说 A 社虽然让人很难受但模型很厉害",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104697677384724821",
+    "time": "2026-09-29 06:20",
+    "created_at": "Mon Sep 28 22:20:04 +0000 2026",
+    "id_str": "2104697677384724821",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "11 labs 推出 v4，又把 TTS 往真实动人的方向推了一步\nTTS 模型快没什么竞争了，视频游戏价值太高了，算法顾不上 😂",
+    "quoted_tweet": {
+      "author": "ElevenLabs",
+      "username": "ElevenLabs",
+      "text": "Introducing Eleven v4 and Eleven v4 Turbo, our fastest and most emotive voice models yet.\n\nRanked #1 by Artificial Analysis."
+    },
+    "url": "https://x.com/oran_ge/status/2104698757724119200",
+    "time": "2026-09-29 06:24",
+    "created_at": "Mon Sep 28 22:24:21 +0000 2026",
+    "id_str": "2104698757724119200",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "今晚一点 OpenAI DevDay 直播\n所有能拿的东西都要拿出来了",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "We saved you a seat.\n\nSee you tomorrow for the OpenAI DevDay keynote:\n\nhttps://openai.com/live/"
+    },
+    "url": "https://x.com/oran_ge/status/2104699244657668173",
+    "time": "2026-09-29 06:26",
+    "created_at": "Mon Sep 28 22:26:18 +0000 2026",
+    "id_str": "2104699244657668173",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "李飞飞的世界模型团队被 AMD 全资收购\n恭喜🎉",
+    "quoted_tweet": {
+      "author": "Fei-Fei Li",
+      "username": "drfeifei",
+      "text": "https://x.com/i/article/2104613072740728832"
+    },
+    "url": "https://x.com/oran_ge/status/2104700429577941157",
+    "time": "2026-09-29 06:31",
+    "created_at": "Mon Sep 28 22:31:00 +0000 2026",
+    "id_str": "2104700429577941157",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@dotey 对啊\n模型公司做产品的目的就是提升模型能力",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104703122652414048",
+    "time": "2026-09-29 06:41",
+    "created_at": "Mon Sep 28 22:41:42 +0000 2026",
+    "id_str": "2104703122652414048",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 大家觉得目前把自己的微信全部交给agent放心么？",
+    "quoted_tweet": null,
+    "url": "https://x.com/ErvinZhuang/status/2104713350727012541",
+    "time": "2026-09-29 07:22",
+    "created_at": "Mon Sep 28 23:22:21 +0000 2026",
+    "id_str": "2104713350727012541",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@ErvinZhuang 那当然不放心了\n微信自己会做agent",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104722166126350368",
+    "time": "2026-09-29 07:57",
+    "created_at": "Mon Sep 28 23:57:22 +0000 2026",
+    "id_str": "2104722166126350368",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://x.com/i/article/2104725594282045440",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104725840969998530",
+    "time": "Tue Sep 29 00:11:59 +0000 2026",
+    "created_at": "Tue Sep 29 00:11:59 +0000 2026",
+    "id_str": "2104725840969998530",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Effort level. Artificial Analysis's own numbers back Anthropic at every setting except Max.\n\nCost per task, Sonnet 5.5 vs Sonnet 5:\nLow $0.41 vs $0.51\nMedium $0.59 vs $1.00\nHigh $1.08 vs $1.79\nXhigh $2.74 vs $2.87\nMax $7.60 vs $5.09\n\nSonnet 5.5 on Medium scores 41 on their index, above Sonnet 5 on Max at 38, for about a ninth of the cost. Medium is the default in Claude Code.\n\nAnthropic's footnote explains Max: it kept launching code-review subagents and scored lower on FrontierCode than at Xhigh.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GodsBoy7777/status/2104683983875248171",
+    "time": "2026-09-29 05:25",
+    "created_at": "Mon Sep 28 21:25:39 +0000 2026",
+    "id_str": "2104683983875248171",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@GodsBoy7777 Crazy, considering that all the benchmarks they show on their article are using max effort... So, in reality, you can't hit those benchmarks they show with using the default, meaning you won't get those results with efficient token usage...",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104686746164511189",
+    "time": "2026-09-29 05:36",
+    "created_at": "Mon Sep 28 21:36:38 +0000 2026",
+    "id_str": "2104686746164511189",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@edwinarbus But benchmarks show in the announcement article are based on using max effort?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104687189900824941",
+    "time": "2026-09-29 05:38",
+    "created_at": "Mon Sep 28 21:38:23 +0000 2026",
+    "id_str": "2104687189900824941",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "People are pointing out that it depends on effort level. Lower effort levels are more token efficient... However, it seems a bit misleading when the benchmarks they are showing on their site are based on Max effort level.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104687833487409225",
+    "time": "2026-09-29 05:40",
+    "created_at": "Mon Sep 28 21:40:57 +0000 2026",
+    "id_str": "2104687833487409225",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@kimmonismus Those benchmarks are all when running the model at max effort. However, the cost savings are all when running the model at default (medium effort) mode. When using max effort, there's basically no cost savings. A bit misleading if you ask me.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104689683561378032",
+    "time": "2026-09-29 05:48",
+    "created_at": "Mon Sep 28 21:48:18 +0000 2026",
+    "id_str": "2104689683561378032",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow You keep looking at max setting and not medium and high",
+    "quoted_tweet": null,
+    "url": "https://x.com/E_Lopini/status/2104696727156695146",
+    "time": "2026-09-29 06:16",
+    "created_at": "Mon Sep 28 22:16:17 +0000 2026",
+    "id_str": "2104696727156695146",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@E_Lopini I’m looking at what Anthropic based all their benchmarks on their announcement post on…",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2104698839450169368",
+    "time": "2026-09-29 06:24",
+    "created_at": "Mon Sep 28 22:24:41 +0000 2026",
+    "id_str": "2104698839450169368",
+    "is_retweet": false
+  }
+]
