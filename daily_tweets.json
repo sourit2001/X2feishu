@@ -1,1 +1,230 @@
-[]
+[
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@JordanJacobs10 @theworldlabs Thank you Jordan! I am so deeply grateful to have partnered with you since (before) the beginning of this journey!",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2104919253409464396",
+    "time": "Tue Sep 29 13:00:32 +0000 2026",
+    "created_at": "Tue Sep 29 13:00:32 +0000 2026",
+    "id_str": "2104919253409464396",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In a world where cloud-based Clawlike assistants that give powerful models virtual computers are increasingly looking like the way forward for personal AI, it really does seem to suggest the choices Apple made for Siri (on-device, limited capabilities) may be the wrong direction.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2104920813111505335",
+    "time": "Tue Sep 29 13:06:44 +0000 2026",
+    "created_at": "Tue Sep 29 13:06:44 +0000 2026",
+    "id_str": "2104920813111505335",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I gave Sonnet 5.5 one photo of a rescue truck. It came back with a 2,766-piece LEGO set and a 39-page manual.\n\nIt took a few follow-up prompts to get it perfect, but it moved through a project this size faster than I thought, and the quality held up from the first render to the last page of the manual.\n\nThe prompt I started with:\n\"I want to build a detailed LEGO set of this truck in the picture.\n\nI want it to be feature complete, include motion and interactivity where possible, and be of the quality a LEGO master builder would be proud of.\n\nI want the final output to include a rendering of the LEGO set, all of the pieces I need to order from LEGO, the instruction manual to build it, and a local website I can interact with to see it built piece by piece.\"\n\nAttach your photo, paste the prompt, then answer the 3 questions it asks you back.\n\nsave this one. it works on anything you can photograph.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104874208530755773",
+    "time": "Tue Sep 29 10:01:32 +0000 2026",
+    "created_at": "Tue Sep 29 10:01:32 +0000 2026",
+    "id_str": "2104874208530755773",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "if you want more prompts like this, the full Claude guide is free → https://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104874220530676148",
+    "time": "Tue Sep 29 10:01:35 +0000 2026",
+    "created_at": "Tue Sep 29 10:01:35 +0000 2026",
+    "id_str": "2104874220530676148",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104874232522088903",
+    "time": "Tue Sep 29 10:01:38 +0000 2026",
+    "created_at": "Tue Sep 29 10:01:38 +0000 2026",
+    "id_str": "2104874232522088903",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Base Code was just launched by @Base44\n\nit works on software you built outside Base44, in your own stack. the codebase stays where it is.\n\nanyone on the team can build on that codebase straight from a browser: product, design, QA, marketing.\n\nReply to get a 50% discount DM💰\n\nonly first 50 users get it\n\ndescribe the change in plain language. Base Code builds it on an isolated branch. you open a live preview of your real product with the change running. then it goes back to engineering as a standard pull request.\n\nmore people can build. engineering still owns what ships. here's how it holds both 👇\n\n→ Base44 never commits or pushes to your default branch. that's enforced in the product, not a policy\n→ every change runs on its own isolated branch\n→ changes come back as ordinary GitHub pull requests, so your branch protections and required checks still apply\n→ engineering decides what gets merged\n→ nobody clones the repo or sets up a local environment\n\nthat pull request is the part to watch. the person who spotted the problem builds the fix, and the engineer who owns the codebase still approves it.\n\nBase Code is free for 30 days, and one invite covers your whole team, with credits to build on.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104886224200827322",
+    "time": "Tue Sep 29 10:49:17 +0000 2026",
+    "created_at": "Tue Sep 29 10:49:17 +0000 2026",
+    "id_str": "2104886224200827322",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "to get your team in: https://base44.com/\n\n30 days free, one invite for the whole team, credits included. GitHub repos only for now, and it's built for teams with a product already in production.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104886239933657578",
+    "time": "Tue Sep 29 10:49:21 +0000 2026",
+    "created_at": "Tue Sep 29 10:49:21 +0000 2026",
+    "id_str": "2104886239933657578",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "save this post 🔖\n\nif your team has a backlog of small changes stuck behind engineering, test this on your real repo. the whole point is the product you already have.\n\nI break down the tools worth your team's time.\n\nfollow @rryssf for the next one ↓",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2104886252134940776",
+    "time": "Tue Sep 29 10:49:24 +0000 2026",
+    "created_at": "Tue Sep 29 10:49:24 +0000 2026",
+    "id_str": "2104886252134940776",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "On such scale it can't be called copycatting \n\nit might as well be on purpose to get people talking how similar the designs are",
+    "quoted_tweet": {
+      "author": "Robert Youssef",
+      "username": "rryssf",
+      "text": "Did openAI just steal grok @bot?"
+    },
+    "url": "https://x.com/godofprompt/status/2104913628155515049",
+    "time": "Tue Sep 29 12:38:11 +0000 2026",
+    "created_at": "Tue Sep 29 12:38:11 +0000 2026",
+    "id_str": "2104913628155515049",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这条视频，我发的群里基本都炸了。。。\nOpus5.5搞定一切\n克隆语音用的是@oran_ge 的listenhub",
+    "quoted_tweet": null,
+    "url": "https://x.com/PMbackttfuture/status/2104838302897705158",
+    "time": "Tue Sep 29 07:38:52 +0000 2026",
+    "created_at": "Tue Sep 29 07:38:52 +0000 2026",
+    "id_str": "2104838302897705158",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这条视频，我发的群里基本都炸了。。。\nOpus5.5搞定一切\n克隆语音用的是@oran_ge 的listenhub",
+    "quoted_tweet": null,
+    "url": "https://x.com/PMbackttfuture/status/2104838302897705158",
+    "time": "Tue Sep 29 07:38:52 +0000 2026",
+    "created_at": "Tue Sep 29 07:38:52 +0000 2026",
+    "id_str": "2104838302897705158",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://x.com/i/article/2104831821389107200",
+    "quoted_tweet": null,
+    "url": "https://x.com/ama_huangama/status/2104840965445898353",
+    "time": "Tue Sep 29 07:49:26 +0000 2026",
+    "created_at": "Tue Sep 29 07:49:26 +0000 2026",
+    "id_str": "2104840965445898353",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@PMbackttfuture 牛逼 还有真实视频画面",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104874680440222081",
+    "time": "Tue Sep 29 10:03:25 +0000 2026",
+    "created_at": "Tue Sep 29 10:03:25 +0000 2026",
+    "id_str": "2104874680440222081",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@ama_huangama 厉害了 童颜",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104882827938672809",
+    "time": "Tue Sep 29 10:35:47 +0000 2026",
+    "created_at": "Tue Sep 29 10:35:47 +0000 2026",
+    "id_str": "2104882827938672809",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@vista8 买到就是赚到",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2104883892872478784",
+    "time": "Tue Sep 29 10:40:01 +0000 2026",
+    "created_at": "Tue Sep 29 10:40:01 +0000 2026",
+    "id_str": "2104883892872478784",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "世界呈现现象。\n\n问题暴露缺口。\n\n洞察发现结构。\n\n思想形成模型。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2104837825686610055",
+    "time": "Tue Sep 29 07:36:58 +0000 2026",
+    "created_at": "Tue Sep 29 07:36:58 +0000 2026",
+    "id_str": "2104837825686610055",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.\n(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.\n\nI wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.\n\nCodexingly,\nTibo",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104823812042940713",
+    "time": "Tue Sep 29 06:41:17 +0000 2026",
+    "created_at": "Tue Sep 29 06:41:17 +0000 2026",
+    "id_str": "2104823812042940713",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux Beat Opus 5.5 in the overall value for a dollar.. Then no need for these long posts justifying, what do you think @thsottiaux",
+    "quoted_tweet": null,
+    "url": "https://x.com/mecp/status/2104827140395159876",
+    "time": "Tue Sep 29 06:54:30 +0000 2026",
+    "created_at": "Tue Sep 29 06:54:30 +0000 2026",
+    "id_str": "2104827140395159876",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@mecp Agreed",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2104827790440935508",
+    "time": "Tue Sep 29 06:57:05 +0000 2026",
+    "created_at": "Tue Sep 29 06:57:05 +0000 2026",
+    "id_str": "2104827790440935508",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "That was yesterday, today is DevDay. And it's all good news. I'm surprised we've kept it all under wraps.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Hi,\n\nTomorrow we are re-opening the Pro $200 subscriptions to new subscribers, but together with it we are also changing how we calculate the usage for it. In effect, if you do the math, it will net out at half the dollar in API spend compared to the old Pro $200 plan. \n\nNow that it's said, let me explain why this is happening and why you will still get more work done than if you were on the Pro $200 subscription one month ago.\n\n(a) We didn't want to compromise in other ways and are committing to not reintroducing the 5h limit, so that you can fully use the weekly usage when you want.\n(b) On the subscription, we guarantee that over time you always get more work done and with an increasing level of quality. This means that you will continue to get more value per dollar spent as a result of models getting more efficient and us passing down the improvements in the form of API price reductions.\n(c) We don't want to put an incentive on ourselves to artificially inflate the API list prices to make it look like you are getting a lot (and workaround it through discounts, etc). Instead we want to continue to both rapidly reduce prices and increase capabilities of models on the API. This week we introduced GPT-6 Sol and GPT-6 Luna at 50% of their previous price. Over time, we see prices go low enough that it makes sense for most to buy usage as needed without there being a significant gap between what you get in a subscription and what you get in the API for a dollar spent.\n(d) Tomorrow, we are adding more things to the subscription that won't draw on the usage, I won't reveal what that is yet.\n\nI wanted to be transparent before all the big announcements tomorrow. Lots of new exciting things are coming to the subscriptions that will make it super compelling, but I wanted to make sure to share this change ahead of time so you can all understand it before we shower you with good news.\n\nCodexingly,\nTibo"
+    },
+    "url": "https://x.com/thsottiaux/status/2104838506363408740",
+    "time": "Tue Sep 29 07:39:40 +0000 2026",
+    "created_at": "Tue Sep 29 07:39:40 +0000 2026",
+    "id_str": "2104838506363408740",
+    "is_retweet": false
+  }
+]
