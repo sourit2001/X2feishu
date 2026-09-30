@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "收到 OpenAI 发的邮件了。\n\n应该是在调整 200 美元 Pro 会员额度以后，给所有受影响的 200 美元 Pro 用户增加了 62,500 点积分。\n\n这个是长期的，会在今年年底过期，看起来积分挺多的。\n\n我觉得他们如果在宣传的时候，把这些补偿措施一下子说完，昨天大家抵触情绪可能也不会这么强烈",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Tibo 宣布，明天 Codex 200 美元的会员按照 API 额度算的话，会开始减半，降低一半额度。\n\n这也就是为什么之前传言他们会出 500 美元，估计 500 美元的额度跟现在的 200 美元是一样的吧。\n\n他找补了一下，说 GPT-6 sol 和 Luna 的价格降了 50%，所以如果你用 o 和 Luna 的话，其实本质上没有降。\n\n这太扯淡了，等于你从明天开始，如果你是 200 美元的话，你的 GPT 6 Astra 额度会减半"
+    },
+    "url": "https://x.com/op7418/status/2105289078971437268",
+    "time": "2026-09-30 21:30",
+    "created_at": "Wed Sep 30 13:30:05 +0000 2026",
+    "id_str": "2105289078971437268",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我算了一下，购买积分的话，2500 积分是 100 美元。\n\n所以如果按积分的价格算，这 62500 积分等于一次性给了你 2500 美元的额度",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2105295158350889011",
+    "time": "2026-09-30 21:54",
+    "created_at": "Wed Sep 30 13:54:14 +0000 2026",
+    "id_str": "2105295158350889011",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "也就是之前一周的量，等于送了一次灵活重置",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2105297008286392651",
+    "time": "2026-09-30 22:01",
+    "created_at": "Wed Sep 30 14:01:35 +0000 2026",
+    "id_str": "2105297008286392651",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Muse 用法+1，每天早上帮我生成一个 AI 资讯早报视频\n\n写一下实践的步骤：\n\n1. 基于我日常的内容渠道和喜好先整理文案来源到 Notion 和聊天里面\n\n2. 查找下载相关内容的图片和视频素材\n\n3. 在虚拟机里面通过 Pi 调用我的 K3 和 GLM 5.3 模型利用 guizang-product-video-skill 将所有的信息组装成视频\n\n4. 通过 Mues 聊天界面发给我",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2105320934072865260",
+    "time": "2026-09-30 23:36",
+    "created_at": "Wed Sep 30 15:36:40 +0000 2026",
+    "id_str": "2105320934072865260",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 感觉做的效果不行",
+    "quoted_tweet": null,
+    "url": "https://x.com/hu1562/status/2105321710279065978",
+    "time": "2026-09-30 23:39",
+    "created_at": "Wed Sep 30 15:39:45 +0000 2026",
+    "id_str": "2105321710279065978",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@hu1562 本来模型就差，就是个 Demo 还想要 Opus5.5 的效果啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2105322214140813705",
+    "time": "2026-09-30 23:41",
+    "created_at": "Wed Sep 30 15:41:45 +0000 2026",
+    "id_str": "2105322214140813705",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "就是介绍一下玩法哈，别纠结视频效果，一分价钱一分货",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2105322339919654948",
+    "time": "2026-09-30 23:42",
+    "created_at": "Wed Sep 30 15:42:15 +0000 2026",
+    "id_str": "2105322339919654948",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "@dylanmcguir3 and I just raised a $7.5M pre-seed led by @a16z to build a robotic surgeon @alephsurgery \n\nMuch of the early investment in Physical AI has focused on industries where labor is relatively abundant and low-cost. We believe the biggest opportunities to change the world lie at the opposite end of the spectrum.\n\nSurgery is among the most valuable forms of labor on the planet, but it's far too scarce and expensive - due to an exceptionally long training pipeline and highly concentrated expertise.\n\nWe’re building the first surgeon that scales: one system that can acquire, refine, and transfer surgical skills across millions of procedures. v1 is already learning to perform surgical tasks autonomously from demonstrations, and improve from its own experience.\n\nLots of great folks behind us! @BoxGroup, Reveille VC, Constellation, @forward_deploy, @Valkyrie_vc, @DiscipulusVent, @maniacvc + more",
+    "quoted_tweet": null,
+    "url": "https://x.com/r_mcguire/status/2105311718226415766",
+    "time": "2026-09-30 23:00",
+    "created_at": "Wed Sep 30 15:00:03 +0000 2026",
+    "id_str": "2105311718226415766",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's David George, Sarah Wang, Alex Immerman, and Santiago Rodriguez on the State of Markets, from AI and infrastructure to the next investment cycles:\n\n1. Tech is the everything cycle.\n\nHigh-tech equipment, software, and R&D are now about 55% of US capital spending, and the AI buildout just passed the railroads as a share of GDP. The five largest hyperscalers will spend about $780B on capex this year, heading past $1T in 2027, and demand still outstrips supply at every point in the chain.\n\n2. It's an earnings story.\n\nStocks are up about 20% while multiples are down about 20%, and the S&P trades under 20x earnings. The market is up 90% since ChatGPT, on 15% earnings growth.\n\n3. AI adoption is broad and shallow.\n\n69% of the S&P 500 has a live AI deployment, 30% report a quantified result, and just 2% have AI doing a job they'd notice if it stopped. The power users are pulling away: the top 1% of AI spenders spend eight times the top 10%.\n\n4. The private markets are enormous.\n\nSix private companies, Anthropic, OpenAI, Databricks, Stripe, Waymo, and Revolut, add up to about $2.4T by last round, more than every IPO of the past decade combined. \"The founder is the asset class. The IPO is another financing event.\"\n\nPlus: why a data center can lower your electricity bill, what Amazon saying no to Muse and Instacart saying yes tells you about marketplaces, and the seven areas the team is most excited about next.\n\n0:59 Charts from State of Markets II\n2:59 Tech is the everything cycle\n4:56 Is it a bubble?\n6:31 Hyperscaler CapEx: $1T next year\n12:12 CapEx is someone else's order book\n14:36 Data centers can lower your bills\n17:06 OpenAI and Anthropic vs. some of the best software companies ever\n18:22 Enterprise AI: 69% adopted, 2% measured\n20:32 The top 1% spend 8x the top 10% on AI\n24:36 Spending on AI for growth or for savings?\n28:46 Only 2% of households pay for AI\n31:36 Amazon blocks Muse, Instacart welcomes\n36:16 Software traded growth for profit\n42:56 6 startups vs. a decade of IPOs\n45:46 Why employees are turning down liquidity\n48:44 Seven areas they're excited about\n\nYouTube: https://youtu.be/lr3hNhA0IfQ\n\n@DavidGeorge83 @aleximm @santiago__rdz @sarahdingwang",
+    "quoted_tweet": {
+      "author": "David George",
+      "username": "DavidGeorge83",
+      "text": "Introducing our State of Markets pt 2, along with a companion podcast where we unpack the data and discuss what comes next.\n\nTech is the everything cycle.\n\nSupply: putting the buildout in context, just passed railroads as % of GDP. The wisdom of Elon is real: the factory (or the datacenter!) is the product.\n\nDemand: diffusion is so, so early. Median AI vendor spending in the top 1% of companies is 8x that of the top 10%. Only about 30% of S&P 500 companies report a quantified AI impact, which means there’s a substantial opportunity in connecting models to a company's data and workflows. Diffusion into companies is one of the main themes of the next 5 years.\n\nWe’re entering the agent work period. Only a few million users today, but applicable to billions of internet users with massive surplus created. META/GOOG monetize US users at $200+ per year today. Agent opportunity is much higher.\n\nMega-trends the next 5 years: Consumer agents, Robotics, Autonomy, AI x bio, Personal health, Diffusion into enterprise, New era of American Dynamism.\n\nMuch more in our SoM report here - https://www.a16z.news/p/state-of-markets-ii\n\n@a16z @sarahdingwang @aleximm @santiago__rdz"
+    },
+    "url": "https://x.com/a16z/status/2105312339595755596",
+    "time": "2026-09-30 23:02",
+    "created_at": "Wed Sep 30 15:02:31 +0000 2026",
+    "id_str": "2105312339595755596",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 为什么我没有重置？",
+    "quoted_tweet": null,
+    "url": "https://x.com/puluomixiushi/status/2105226492880068946",
+    "time": "2026-09-30 17:21",
+    "created_at": "Wed Sep 30 09:21:23 +0000 2026",
+    "id_str": "2105226492880068946",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@puluomixiushi 送了重置卡",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2105227727787942165",
+    "time": "2026-09-30 17:26",
+    "created_at": "Wed Sep 30 09:26:18 +0000 2026",
+    "id_str": "2105227727787942165",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 小互，回复我一下。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Mrh887349M/status/2105270670825558099",
+    "time": "2026-09-30 20:16",
+    "created_at": "Wed Sep 30 12:16:56 +0000 2026",
+    "id_str": "2105270670825558099",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Mrh887349M ？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2105283363959611553",
+    "time": "2026-09-30 21:07",
+    "created_at": "Wed Sep 30 13:07:22 +0000 2026",
+    "id_str": "2105283363959611553",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Can’t miss this!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/supernavin/status/2105317703074652162",
+    "time": "2026-09-30 23:23",
+    "created_at": "Wed Sep 30 15:23:49 +0000 2026",
+    "id_str": "2105317703074652162",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@supernavin Looking forward to meet you in person",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105319670513647754",
+    "time": "2026-09-30 23:31",
+    "created_at": "Wed Sep 30 15:31:39 +0000 2026",
+    "id_str": "2105319670513647754",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Love the story and world building Kris!🔥Sometimes accidents can lead to friendships🎯",
+    "quoted_tweet": null,
+    "url": "https://x.com/horacedodd/status/2105323550253154633",
+    "time": "2026-09-30 23:47",
+    "created_at": "Wed Sep 30 15:47:04 +0000 2026",
+    "id_str": "2105323550253154633",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@horacedodd Thank you ☺️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105323771452330431",
+    "time": "2026-09-30 23:47",
+    "created_at": "Wed Sep 30 15:47:56 +0000 2026",
+    "id_str": "2105323771452330431",
+    "is_retweet": false
+  }
+]
