@@ -1,1 +1,612 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "🐂🍺 把我的世界的所有能力和物品技能以及模式移植到了艾尔登法环里面",
+    "quoted_tweet": {
+      "author": "Anime Girl Worshiper",
+      "username": "TobynJacobs",
+      "text": "I put the entire of game minecraft into elden ring as mod. its runs on Mac."
+    },
+    "url": "https://x.com/op7418/status/2105339488969036268",
+    "time": "2026-10-01 00:50",
+    "created_at": "Wed Sep 30 16:50:24 +0000 2026",
+    "id_str": "2105339488969036268",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "最近所有的新产品都没有脱离过 manus 去年第一版的产品定义。\n\n包括大热的 dot 和 muse，不过都是炒现饭。\n\n无聊的 2026.",
+    "quoted_tweet": null,
+    "url": "https://x.com/xDinoDeer/status/2105284095697883577",
+    "time": "2026-09-30 21:10",
+    "created_at": "Wed Sep 30 13:10:17 +0000 2026",
+    "id_str": "2105284095697883577",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "棒，感谢宝玉老师指导🎉\n还没精修，我先显摆一下😂\n❤️",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "@Xian0063 cool👍\n做成左右拖动是不是会更直观些？\nhttps://www.rauljimenez.info/image-swipe-compare/"
+    },
+    "url": "https://x.com/Xian0063/status/2105326807117623678",
+    "time": "2026-10-01 00:00",
+    "created_at": "Wed Sep 30 16:00:00 +0000 2026",
+    "id_str": "2105326807117623678",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Xian0063 赞执行力👍\n恕我多言，如果不横向滚动，那么左右最好\n如果横向滚动，那么改成上下对比可能更好",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105328252701020635",
+    "time": "2026-10-01 00:05",
+    "created_at": "Wed Sep 30 16:05:45 +0000 2026",
+    "id_str": "2105328252701020635",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 对。不过是套了一个客户端的壳，用户体验上更好一些。但是根本上并没有突出的原创性创新。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xDinoDeer/status/2105341107160928380",
+    "time": "2026-10-01 00:56",
+    "created_at": "Wed Sep 30 16:56:49 +0000 2026",
+    "id_str": "2105341107160928380",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xDinoDeer Claude Design\nClaude Projects\n\n是我最近看到的两个不错的 AI 产品",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105341573382987849",
+    "time": "2026-10-01 00:58",
+    "created_at": "Wed Sep 30 16:58:41 +0000 2026",
+    "id_str": "2105341573382987849",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "宝玉老师这种 Advisor-Executor 闭环架构在多轮迭代里最大的隐形 Token 黑洞往往是：Tool Schema 的静态回传。我们在测算多轮 Loop 时发现，每轮交互除了消息历史，附带的工具定义（Pydantic 导出的 JSON Schema）单次就占 1,400+ Token。10 轮循环下来光是工具元数据就烧掉上万 Token。针对这个场景做了一个零依赖的开源工具 tool-schema-compressor，提供两层压干策略：1. 规范级裁剪：剔除无用 title、扁平 nullable，原生兼容 Function Calling，体积直接 -53.8%2. TS 签名模式：把 Schema 压缩为精简 TS 函数定义，大模型理解能力零损耗，Token -68.4%在多轮 Agent 循环里，把静态 Schema 压薄和历史消息 compact 一样，都是大幅拉低 Token 账单的关键基本功。",
+    "quoted_tweet": null,
+    "url": "https://x.com/kiteciyuan48037/status/2105366542271869257",
+    "time": "2026-10-01 02:37",
+    "created_at": "Wed Sep 30 18:37:54 +0000 2026",
+    "id_str": "2105366542271869257",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@kiteciyuan48037 请问您这是啥harness下测的？我用的是 Claude Code",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105368087541289464",
+    "time": "2026-10-01 02:44",
+    "created_at": "Wed Sep 30 18:44:02 +0000 2026",
+    "id_str": "2105368087541289464",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "谷歌发布新一代旗舰模型 Gemini 4 Argon。\n\n谷歌在跑分表里拿它和 OpenAI 的 GPT-6 Astra、Anthropic 的 Claude Fable 5.1 和 Claude Opus 5.5 对比，价格却定在 GPT-6.1 Sol 和 Opus 5.5 的档位。\n\n普通用户和开发者暂时还用不上，第一批只开放给谷歌 Fairwind 计划里的网络安全防御人员。\n\n谷歌说会分阶段放开，同时参与美国政府的模型发布前自愿审查流程，也就是正式发布前先让政府访问模型。之后先开放给付费 API 客户和 Google AI Ultra 订阅用户，再到普通消费者，具体日期没有公布。\n\n首发优惠价是每百万输入 token 2 美元、每百万输出 token 10 美元，和 GPT-6.1 Sol 完全相同。优惠期结束后是 4 美元和 20 美元，和 Claude Opus 5.5 相同。\n\nGPT-6 Astra 和 Claude Fable 5.1 都是 10 美元和 50 美元，也就是说即使恢复原价，Argon 也只要它们的五分之一。命中缓存的输入按原价的 5% 收费，同样与 Sol 和 Opus 5.5 持平。token 是模型计算文字量的单位，一百万 token 大约相当于 75 万个英文单词。\n\n规格上最大的变化是输出上限：单次最多输出 100 万 token，上一代是 6.4 万。\n\nGPT-6 Astra、GPT-6.1 Sol、Claude Fable 5.1 和 Opus 5.5 目前都是 12.8 万，Argon 是它们的将近 8 倍。\n\n按谷歌的说法，模型可以在一次任务里连续思考、生成几十万 token，难题不用拆成很多轮来做。\n\n谷歌说已有数千名员工在日常工作中使用它，并举了几个内部例子：\n\n量子计算团队用它优化量子算法的资源消耗（量子比特数乘以门操作数），其中一例几分钟内就比已发表的基准方案好 40%。\n\n一组 Argon 智能体分析谷歌数据中心的内存使用数据，自动找出并应用优化，已释放超过 300 TiB 内存，谷歌估计总共能省下 500 TiB 到 1 PiB。\n\nArgon 智能体正在把谷歌的 C/C++ 代码迁移到 Rust。Rust 是一种从语言层面避免大部分内存安全漏洞的编程语言。迁移规模从几万行的基础库，到 80 多万行的 Fuchsia 系统 Zircon 内核，上线前都要经过自动和人工审核、测试。在视频解码库 libgav1 的 Rust 版本里，智能体把 3.2 万行手写的底层加速代码换成了编译器能自动优化的安全 Rust 代码，速度是原 Rust 版的 2.7 倍，解码出的画面完全一致。\n\n谷歌的对比表一共 19 项测试，Argon 13 项第一，1 项和 Astra 并列第一，5 项落后。以下分数均为谷歌公布，顺序是 Argon、Astra、Fable 5.1、Opus 5.5。\n\n领先最明显的是专业工作。Harvey 的法律智能体测试考法律检索和文书起草，Argon 19.6%，其他三家是 5.4%、6.7%、3.8%。金融研究测试 Vals Finance Agent v2 是 65.4%，对手是 53.5%、58.9%、58.6%。Zapier 的 AutomationBench 考从头到尾完成企业业务流程，Argon 51.3%，对手是 41.4%、31.4%、42.5%。按美国 GDP 加权、覆盖金融编程法律税务的综合榜 Vals Index 上差距小一些，68.9% 对 63.1%、65.8%、67.0%。\n\n超长材料也是强项。GraphWalks 测模型在长文本里追踪信息之间的关系，材料长度在 25.6 万到 100 万 token 时，Argon 84.2%，其他三家是 71.8%、65.0%、66.8%。长视频理解 LVBench 上 Argon 91.7%，对手是 87.5%、79.7%、83.7%。\n\n编程有输有赢。考长流程真实软件工程任务的 DeepSWE v1.1 上 Argon 77.9%，对手是 74.1%、67.4%、74.2%。但在另一项软件工程测试 FrontierSWE v2 上 Argon 只有 55.0%，四家里最低，Astra 65.5% 第一。在考命令行操作的 Terminal-bench 4.0 上 Argon 57.4%，也是四家最低，Opus 5.5 以 66.4% 领先。\n\n另外三项落后的：机器学习工程 PostTrainBench，Opus 5.5 第一（49.3% 对 Argon 45.3%）；科学计算 Terminal-Bench Science，Astra 第一（68.1% 对 57.6%）；操作电脑的 OSWorld-2.0，Astra 第一（72.6% 对 69.2%），这一项表里没有 Claude 的分数。\n\n网络安全是这次发布的重点。谷歌专门训练 Argon 做安全防御：自动找漏洞、验证漏洞、打补丁。给受信任防御人员和谷歌内部团队的版本不带网络安全方面的限制，可以用上全部能力。\n\n安全公司 Wiz 已在它的免费公益项目 Scan for Good 里使用 Argon。据谷歌介绍，Argon 在全球医院使用的一款医疗软件里发现了一个严重漏洞，可能泄露敏感个人信息，之前的前沿模型都没发现。在测试漏洞修复能力的 CWE-bench v1 上，Argon 和 GPT-6 Astra 都是 68%，并列第一，Opus 5.5 是 67%，Fable 5.1 是 58%。谷歌称，它发现漏洞的能力比上一代安全专用模型 3.8 Flash Cyber 明显更强。\n\n在大范围开放前，谷歌列了四项安全措施：\n\n拒绝协助网络攻击和化学、生物、放射性、核武器方面的有害请求，并通过监测模型内部的激活状态来识别滥用。\n\n防提示词注入，也就是有人在网页或文件里藏恶意指令来劫持模型。谷歌称 Argon 在 Gray Swan 的间接提示词注入测试中领先。\n\n监控模型的思考过程和实际操作，发现它做出超出用户意图的事就中止执行。训练阶段也有类似监控，谷歌称没有把监控结果用回训练，以免模型学会躲避监控。\n\n在高风险训练和测试开始前，把运行模型的沙箱环境隔离封闭。",
+    "quoted_tweet": {
+      "author": "Sundar Pichai",
+      "username": "sundarpichai",
+      "text": "Lots of discussion out there about our next model(!), so I wanted to give an early look as soon as possible. Introducing Gemini 4 Argon!\n\nIt shows frontier performance in complex workflows, cyber defense and software engineering. Teams are using it extensively at Google, from coding to quantum computing, great feedback. \n\nHere’s a look at the benchmarks:"
+    },
+    "url": "https://x.com/dotey/status/2105396970772942935",
+    "time": "2026-10-01 04:38",
+    "created_at": "Wed Sep 30 20:38:48 +0000 2026",
+    "id_str": "2105396970772942935",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I'm incredibly excited to officially launch HQ. \n\nHQ is the shared AI context layer for your Humans, Agents, Dots, Bots and everything in between.\n\nAlmost 1000 business run on HQ, including our own. The feedback has been phenomenal. \n\nSign up now: https://hqforwork.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/jacob_posel/status/2105327084554088708",
+    "time": "2026-10-01 00:01",
+    "created_at": "Wed Sep 30 16:01:06 +0000 2026",
+    "id_str": "2105327084554088708",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I'm incredibly excited to officially launch HQ. \n\nHQ is the shared AI context layer for your Humans, Agents, Dots, Bots and everything in between.\n\nAlmost 1000 business run on HQ, including our own. The feedback has been phenomenal. \n\nSign up now: https://hqforwork.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/jacob_posel/status/2105327084554088708",
+    "time": "2026-10-01 00:01",
+    "created_at": "Wed Sep 30 16:01:06 +0000 2026",
+    "id_str": "2105327084554088708",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jacob_posel This is fire 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2105355677216731576",
+    "time": "2026-10-01 01:54",
+    "created_at": "Wed Sep 30 17:54:43 +0000 2026",
+    "id_str": "2105355677216731576",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "You have to be unemployed in order to keep up with the latest AI advancements",
+    "quoted_tweet": {
+      "author": "Google DeepMind",
+      "username": "GoogleDeepMind",
+      "text": "Introducing Gemini 4 Argon – our new frontier model.\n\nIt’s built for complex workflows across coding, enterprise knowledge work, and cybersecurity defense – rolling out today to a set of trusted testers through our Fairwind Program."
+    },
+    "url": "https://x.com/vasuman/status/2105394890670756093",
+    "time": "2026-10-01 04:30",
+    "created_at": "Wed Sep 30 20:30:32 +0000 2026",
+    "id_str": "2105394890670756093",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Super random but my buddy runs a very successful Pokemon card shop. \n\nAnyone at Coinbase (or related, and on the BD side) open to chatting? Feels like a good fit. Much appreciated.",
+    "quoted_tweet": {
+      "author": "Coinbase 🛡️",
+      "username": "coinbase",
+      "text": "Your binder is about to get a major upgrade.\n\nRip packs on your phone.\nEvery pull backed by a real, physical card.\nVault it or ship it.\n\nSoon on Coinbase."
+    },
+    "url": "https://x.com/vasuman/status/2105395115976187928",
+    "time": "2026-10-01 04:31",
+    "created_at": "Wed Sep 30 20:31:26 +0000 2026",
+    "id_str": "2105395115976187928",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The AI buildout in one chart: Big Tech's profits have become chipmakers' profits.\n\nApproximate free cash flow, from 2022 to today:\n- Hyperscalers: $275B → $0\n- Semiconductors: $50B → $400B\n\nMore charts in State of Markets II: https://www.a16z.news/p/state-of-markets-ii",
+    "quoted_tweet": {
+      "author": "David George",
+      "username": "DavidGeorge83",
+      "text": "Introducing our State of Markets pt 2, along with a companion podcast where we unpack the data and discuss what comes next.\n\nTech is the everything cycle.\n\nSupply: putting the buildout in context, just passed railroads as % of GDP. The wisdom of Elon is real: the factory (or the datacenter!) is the product.\n\nDemand: diffusion is so, so early. Median AI vendor spending in the top 1% of companies is 8x that of the top 10%. Only about 30% of S&P 500 companies report a quantified AI impact, which means there’s a substantial opportunity in connecting models to a company's data and workflows. Diffusion into companies is one of the main themes of the next 5 years.\n\nWe’re entering the agent work period. Only a few million users today, but applicable to billions of internet users with massive surplus created. META/GOOG monetize US users at $200+ per year today. Agent opportunity is much higher.\n\nMega-trends the next 5 years: Consumer agents, Robotics, Autonomy, AI x bio, Personal health, Diffusion into enterprise, New era of American Dynamism.\n\nMuch more in our SoM report here - https://www.a16z.news/p/state-of-markets-ii\n\n@a16z @sarahdingwang @aleximm @santiago__rdz"
+    },
+    "url": "https://x.com/a16z/status/2105330749239095364",
+    "time": "2026-10-01 00:15",
+    "created_at": "Wed Sep 30 16:15:40 +0000 2026",
+    "id_str": "2105330749239095364",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Wild adoption gap: the top 1% of AI spenders are spending more than 600x as much as the median company\n\nMore charts in State of Markets II: https://www.a16z.news/p/state-of-markets-ii",
+    "quoted_tweet": {
+      "author": "David George",
+      "username": "DavidGeorge83",
+      "text": "Introducing our State of Markets pt 2, along with a companion podcast where we unpack the data and discuss what comes next.\n\nTech is the everything cycle.\n\nSupply: putting the buildout in context, just passed railroads as % of GDP. The wisdom of Elon is real: the factory (or the datacenter!) is the product.\n\nDemand: diffusion is so, so early. Median AI vendor spending in the top 1% of companies is 8x that of the top 10%. Only about 30% of S&P 500 companies report a quantified AI impact, which means there’s a substantial opportunity in connecting models to a company's data and workflows. Diffusion into companies is one of the main themes of the next 5 years.\n\nWe’re entering the agent work period. Only a few million users today, but applicable to billions of internet users with massive surplus created. META/GOOG monetize US users at $200+ per year today. Agent opportunity is much higher.\n\nMega-trends the next 5 years: Consumer agents, Robotics, Autonomy, AI x bio, Personal health, Diffusion into enterprise, New era of American Dynamism.\n\nMuch more in our SoM report here - https://www.a16z.news/p/state-of-markets-ii\n\n@a16z @sarahdingwang @aleximm @santiago__rdz"
+    },
+    "url": "https://x.com/a16z/status/2105349498658869501",
+    "time": "2026-10-01 01:30",
+    "created_at": "Wed Sep 30 17:30:10 +0000 2026",
+    "id_str": "2105349498658869501",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Humans are the minority user of AI\n\nAgents burn nearly 5x the tokens people do, up 14x since February\n\nMore charts in State of Markets II: https://www.a16z.news/p/state-of-markets-ii",
+    "quoted_tweet": {
+      "author": "David George",
+      "username": "DavidGeorge83",
+      "text": "Introducing our State of Markets pt 2, along with a companion podcast where we unpack the data and discuss what comes next.\n\nTech is the everything cycle.\n\nSupply: putting the buildout in context, just passed railroads as % of GDP. The wisdom of Elon is real: the factory (or the datacenter!) is the product.\n\nDemand: diffusion is so, so early. Median AI vendor spending in the top 1% of companies is 8x that of the top 10%. Only about 30% of S&P 500 companies report a quantified AI impact, which means there’s a substantial opportunity in connecting models to a company's data and workflows. Diffusion into companies is one of the main themes of the next 5 years.\n\nWe’re entering the agent work period. Only a few million users today, but applicable to billions of internet users with massive surplus created. META/GOOG monetize US users at $200+ per year today. Agent opportunity is much higher.\n\nMega-trends the next 5 years: Consumer agents, Robotics, Autonomy, AI x bio, Personal health, Diffusion into enterprise, New era of American Dynamism.\n\nMuch more in our SoM report here - https://www.a16z.news/p/state-of-markets-ii\n\n@a16z @sarahdingwang @aleximm @santiago__rdz"
+    },
+    "url": "https://x.com/a16z/status/2105357092697821300",
+    "time": "2026-10-01 02:00",
+    "created_at": "Wed Sep 30 18:00:21 +0000 2026",
+    "id_str": "2105357092697821300",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI power users are pulling away\n\nThe top 1% of companies now outspend the top 10% on AI by ~8x\n\nMore charts in State of Markets II: https://www.a16z.news/p/state-of-markets-ii",
+    "quoted_tweet": {
+      "author": "David George",
+      "username": "DavidGeorge83",
+      "text": "Introducing our State of Markets pt 2, along with a companion podcast where we unpack the data and discuss what comes next.\n\nTech is the everything cycle.\n\nSupply: putting the buildout in context, just passed railroads as % of GDP. The wisdom of Elon is real: the factory (or the datacenter!) is the product.\n\nDemand: diffusion is so, so early. Median AI vendor spending in the top 1% of companies is 8x that of the top 10%. Only about 30% of S&P 500 companies report a quantified AI impact, which means there’s a substantial opportunity in connecting models to a company's data and workflows. Diffusion into companies is one of the main themes of the next 5 years.\n\nWe’re entering the agent work period. Only a few million users today, but applicable to billions of internet users with massive surplus created. META/GOOG monetize US users at $200+ per year today. Agent opportunity is much higher.\n\nMega-trends the next 5 years: Consumer agents, Robotics, Autonomy, AI x bio, Personal health, Diffusion into enterprise, New era of American Dynamism.\n\nMuch more in our SoM report here - https://www.a16z.news/p/state-of-markets-ii\n\n@a16z @sarahdingwang @aleximm @santiago__rdz"
+    },
+    "url": "https://x.com/a16z/status/2105364570483331309",
+    "time": "2026-10-01 02:30",
+    "created_at": "Wed Sep 30 18:30:04 +0000 2026",
+    "id_str": "2105364570483331309",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Vice President JD Vance at the groundbreaking of Saronic's Port Alpha in Brownsville, Texas:\n\n\"We are rebuilding the American dream from the ground up by employing and investing in American workers and American businesses.\"\n\n\"What this facility will mean is that 10,000 families have a good paycheck. 10,000 sons and daughters will see mom and dad go to work with purpose. 10,000 people will know that their country is being built not by people outside of the United States, but by their own fellow citizens and their own people in their own community.\"\n\n\"So I just wanna say to the workers, to the investors, to the leadership of this company, I'm proud of you.\"\n\n\"This represents something that for 40 years, we saw factories close down. We saw shipyards close down. We saw our friends and neighbors lose their jobs because we had a government, but also a corporate leadership that didn't want to invest in the American worker anymore. Well, that has changed.\"\n\n\"As you guys break ground on this facility, as you build it up to great heights, and of course, as you start seeing ships roll off the lines, know that the President of the United States, the Vice President of the United States, we're proud of you, we're thankful for the work that you're doing, we're rooting for you, and you will be our champion here in Brownsville, Texas, and we will be your champion in Washington, DC.\"\n\n@VP @Saronic",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2105372280952135703",
+    "time": "2026-10-01 03:00",
+    "created_at": "Wed Sep 30 19:00:42 +0000 2026",
+    "id_str": "2105372280952135703",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's David George and Alex Immerman on why the AI buildout is the next chapter of \"Software Is Eating the World\":\n\nDavid: \"You're seeing it in CapEx. It's heavily covered in the data center build-out. It's heavily covered in the amount of capital that's been going in to fund the model development.\"\n\n\"To put it into very deep historical context, because this is probably the analogy that we've seen the most of, this build-out just surpassed railroads as a percentage of GDP.\"\n\n\"We all happen to think that if you fast-forward five to seven, maybe 10 years from now, we'll be looking at these numbers, and they'll probably be 20x higher cumulatively.\"\n\nAlex: \"This does feel like the next chapter of Marc's 'Software Is Eating the World.' Over the last 15 years, software has transformed all these industries, but only a small fraction of the population could build it. None of us could.\"\n\n\"But today, look at us. We all have a handful of automations running every night. If you think about the software demand, that means a lot more compute, chips, power, construction.\"\n\n@DavidGeorge83 @aleximm",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "a16z's David George, Sarah Wang, Alex Immerman, and Santiago Rodriguez on the State of Markets, from AI and infrastructure to the next investment cycles:\n\n1. Tech is the everything cycle.\n\nHigh-tech equipment, software, and R&D are now about 55% of US capital spending, and the AI buildout just passed the railroads as a share of GDP. The five largest hyperscalers will spend about $780B on capex this year, heading past $1T in 2027, and demand still outstrips supply at every point in the chain.\n\n2. It's an earnings story.\n\nStocks are up about 20% while multiples are down about 20%, and the S&P trades under 20x earnings. The market is up 90% since ChatGPT, on 15% earnings growth.\n\n3. AI adoption is broad and shallow.\n\n69% of the S&P 500 has a live AI deployment, 30% report a quantified result, and just 2% have AI doing a job they'd notice if it stopped. The power users are pulling away: the top 1% of AI spenders spend eight times the top 10%.\n\n4. The private markets are enormous.\n\nSix private companies, Anthropic, OpenAI, Databricks, Stripe, Waymo, and Revolut, add up to about $2.4T by last round, more than every IPO of the past decade combined. \"The founder is the asset class. The IPO is another financing event.\"\n\nPlus: why a data center can lower your electricity bill, what Amazon saying no to Muse and Instacart saying yes tells you about marketplaces, and the seven areas the team is most excited about next.\n\n0:59 Charts from State of Markets II\n2:59 Tech is the everything cycle\n4:56 Is it a bubble?\n6:31 Hyperscaler CapEx: $1T next year\n12:12 CapEx is someone else's order book\n14:36 Data centers can lower your bills\n17:06 OpenAI and Anthropic vs. some of the best software companies ever\n18:22 Enterprise AI: 69% adopted, 2% measured\n20:32 The top 1% spend 8x the top 10% on AI\n24:36 Spending on AI for growth or for savings?\n28:46 Only 2% of households pay for AI\n31:36 Amazon blocks Muse, Instacart welcomes\n36:16 Software traded growth for profit\n42:56 6 startups vs. a decade of IPOs\n45:46 Why employees are turning down liquidity\n48:44 Seven areas they're excited about\n\nYouTube: https://youtu.be/lr3hNhA0IfQ\n\n@DavidGeorge83 @aleximm @santiago__rdz @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2105383018185871691",
+    "time": "2026-10-01 03:43",
+    "created_at": "Wed Sep 30 19:43:22 +0000 2026",
+    "id_str": "2105383018185871691",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI spending is rising everywhere, but the power users are pulling away. a16z's Sarah Wang on the gap between the top 1% and everyone else:\n\n\"You can think of AI spending rising generally across companies, but the power users, the most intensive users, are spending much, much more.\"\n\n\"We looked at some YipitData for this, and if you look at median AI vendor spending in the top 1%, that's roughly eight times the level of the top 10%.\"\n\n\"Anecdotally, even inside our own portfolio companies, which you could say are pretty much fully AI-native or AI-pilled, you're seeing the top users spend anywhere from, call it, $7,500 to $9,000 a month... over 20 times the spend if you think about median versus top users.\"\n\n@sarahdingwang @santiago__rdz",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "AI power users are pulling away\n\nThe top 1% of companies now outspend the top 10% on AI by ~8x\n\nMore charts in State of Markets II: https://www.a16z.news/p/state-of-markets-ii"
+    },
+    "url": "https://x.com/a16z/status/2105390835965792416",
+    "time": "2026-10-01 04:14",
+    "created_at": "Wed Sep 30 20:14:26 +0000 2026",
+    "id_str": "2105390835965792416",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "A data center can lower your electricity bill. a16z's Alex Immerman, David George, and Sarah Wang on the myth that gets the least pushback and deserves the most:\n\n\"It may seem counterintuitive, but a data center can help lower your electricity rate. A recent US study showed that for every 10% increase in data center capacity, residential rates went down by 40 bps.\"\n\n\"You should think about it as a power grid is a shared fixed cost base: poles, wires, substations. A large stable customer, like a data center, can help spread those costs across more units of electricity. Simply put, more demand across a shared system is a positive.\"\n\n\"Investment in shared infrastructure can also improve the economics for the households and businesses connected to it.\"\n\n\"I don't think that point gets enough media attention. Dina Powell went on a podcast recently from Meta and talked about the Louisiana site that they did, where they worked with the community to lower electricity costs. There's real examples of that today. It's not just lip service.\"\n\n@aleximm @DavidGeorge83 @sarahdingwang",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "a16z's David George, Sarah Wang, Alex Immerman, and Santiago Rodriguez on the State of Markets, from AI and infrastructure to the next investment cycles:\n\n1. Tech is the everything cycle.\n\nHigh-tech equipment, software, and R&D are now about 55% of US capital spending, and the AI buildout just passed the railroads as a share of GDP. The five largest hyperscalers will spend about $780B on capex this year, heading past $1T in 2027, and demand still outstrips supply at every point in the chain.\n\n2. It's an earnings story.\n\nStocks are up about 20% while multiples are down about 20%, and the S&P trades under 20x earnings. The market is up 90% since ChatGPT, on 15% earnings growth.\n\n3. AI adoption is broad and shallow.\n\n69% of the S&P 500 has a live AI deployment, 30% report a quantified result, and just 2% have AI doing a job they'd notice if it stopped. The power users are pulling away: the top 1% of AI spenders spend eight times the top 10%.\n\n4. The private markets are enormous.\n\nSix private companies, Anthropic, OpenAI, Databricks, Stripe, Waymo, and Revolut, add up to about $2.4T by last round, more than every IPO of the past decade combined. \"The founder is the asset class. The IPO is another financing event.\"\n\nPlus: why a data center can lower your electricity bill, what Amazon saying no to Muse and Instacart saying yes tells you about marketplaces, and the seven areas the team is most excited about next.\n\n0:59 Charts from State of Markets II\n2:59 Tech is the everything cycle\n4:56 Is it a bubble?\n6:31 Hyperscaler CapEx: $1T next year\n12:12 CapEx is someone else's order book\n14:36 Data centers can lower your bills\n17:06 OpenAI and Anthropic vs. some of the best software companies ever\n18:22 Enterprise AI: 69% adopted, 2% measured\n20:32 The top 1% spend 8x the top 10% on AI\n24:36 Spending on AI for growth or for savings?\n28:46 Only 2% of households pay for AI\n31:36 Amazon blocks Muse, Instacart welcomes\n36:16 Software traded growth for profit\n42:56 6 startups vs. a decade of IPOs\n45:46 Why employees are turning down liquidity\n48:44 Seven areas they're excited about\n\nYouTube: https://youtu.be/lr3hNhA0IfQ\n\n@DavidGeorge83 @aleximm @santiago__rdz @sarahdingwang"
+    },
+    "url": "https://x.com/a16z/status/2105398618597577207",
+    "time": "2026-10-01 04:45",
+    "created_at": "Wed Sep 30 20:45:21 +0000 2026",
+    "id_str": "2105398618597577207",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Congrats!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/kimmonismus/status/2105339922135622054",
+    "time": "2026-10-01 00:52",
+    "created_at": "Wed Sep 30 16:52:07 +0000 2026",
+    "id_str": "2105339922135622054",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kimmonismus Thank you!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105340251216773532",
+    "time": "2026-10-01 00:53",
+    "created_at": "Wed Sep 30 16:53:25 +0000 2026",
+    "id_str": "2105340251216773532",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife See you there!",
+    "quoted_tweet": null,
+    "url": "https://x.com/chrisfirst/status/2105342221969133880",
+    "time": "2026-10-01 01:01",
+    "created_at": "Wed Sep 30 17:01:15 +0000 2026",
+    "id_str": "2105342221969133880",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@chrisfirst See you, Chris!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105342868034359396",
+    "time": "2026-10-01 01:03",
+    "created_at": "Wed Sep 30 17:03:49 +0000 2026",
+    "id_str": "2105342868034359396",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife This is amazing!  Love all the visuals and the music😃",
+    "quoted_tweet": null,
+    "url": "https://x.com/TechDreamscapes/status/2105344830045823305",
+    "time": "2026-10-01 01:11",
+    "created_at": "Wed Sep 30 17:11:37 +0000 2026",
+    "id_str": "2105344830045823305",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TechDreamscapes Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105346161154666871",
+    "time": "2026-10-01 01:16",
+    "created_at": "Wed Sep 30 17:16:54 +0000 2026",
+    "id_str": "2105346161154666871",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Beautiful visuals and the story!",
+    "quoted_tweet": null,
+    "url": "https://x.com/stefsdeckparty/status/2105356792943571429",
+    "time": "2026-10-01 01:59",
+    "created_at": "Wed Sep 30 17:59:09 +0000 2026",
+    "id_str": "2105356792943571429",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@stefsdeckparty Thanks a lot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105357432234844507",
+    "time": "2026-10-01 02:01",
+    "created_at": "Wed Sep 30 18:01:42 +0000 2026",
+    "id_str": "2105357432234844507",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is a revolution for indie 3D artists.\n\nI had GPT Astra model this entire tunnel scene for me in sections and it's one of the most complex, geometrically dense scenes I've ever worked with! \n\nIt's actually the best 3D modeler I've ever met 🤯",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavidAriew/status/2105360022167601294",
+    "time": "2026-10-01 02:11",
+    "created_at": "Wed Sep 30 18:11:59 +0000 2026",
+    "id_str": "2105360022167601294",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is a revolution for indie 3D artists.\n\nI had GPT Astra model this entire tunnel scene for me in sections and it's one of the most complex, geometrically dense scenes I've ever worked with! \n\nIt's actually the best 3D modeler I've ever met 🤯",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavidAriew/status/2105360022167601294",
+    "time": "2026-10-01 02:11",
+    "created_at": "Wed Sep 30 18:11:59 +0000 2026",
+    "id_str": "2105360022167601294",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "That’s such great character design",
+    "quoted_tweet": {
+      "author": "Glitter Gal",
+      "username": "GlitterPixely",
+      "text": "Pixies and Ligthsabers ✨Peaceful does not mean harmless."
+    },
+    "url": "https://x.com/icreatelife/status/2105360669499695335",
+    "time": "2026-10-01 02:14",
+    "created_at": "Wed Sep 30 18:14:33 +0000 2026",
+    "id_str": "2105360669499695335",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DavidAriew Wow",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105363665138720972",
+    "time": "2026-10-01 02:26",
+    "created_at": "Wed Sep 30 18:26:28 +0000 2026",
+    "id_str": "2105363665138720972",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dfeinition @icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/CM74256170/status/2105372217303306739",
+    "time": "2026-10-01 03:00",
+    "created_at": "Wed Sep 30 19:00:27 +0000 2026",
+    "id_str": "2105372217303306739",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is what patience looks like.\n\nBeautiful, controlled, cinematic, and a well developed character!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "I created this world for you \nTook me whole month.. \nThere’s no magic button even with AI tools"
+    },
+    "url": "https://x.com/L4STD4ZE/status/2105374798054305896",
+    "time": "2026-10-01 03:10",
+    "created_at": "Wed Sep 30 19:10:42 +0000 2026",
+    "id_str": "2105374798054305896",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@L4STD4ZE Thanks a lot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105376224541601910",
+    "time": "2026-10-01 03:16",
+    "created_at": "Wed Sep 30 19:16:22 +0000 2026",
+    "id_str": "2105376224541601910",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CM74256170 @dfeinition So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105376326417076300",
+    "time": "2026-10-01 03:16",
+    "created_at": "Wed Sep 30 19:16:46 +0000 2026",
+    "id_str": "2105376326417076300",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Very cool, man.",
+    "quoted_tweet": null,
+    "url": "https://x.com/supp0s3/status/2105379340078768258",
+    "time": "2026-10-01 03:28",
+    "created_at": "Wed Sep 30 19:28:45 +0000 2026",
+    "id_str": "2105379340078768258",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@supp0s3 Thanks :) \nI am not a man though, but thank you all the same 😃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105379932306313388",
+    "time": "2026-10-01 03:31",
+    "created_at": "Wed Sep 30 19:31:06 +0000 2026",
+    "id_str": "2105379932306313388",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife but do people post up created content as AI?\noffer an example\notherwise you are just making an assertion without evidence",
+    "quoted_tweet": null,
+    "url": "https://x.com/JulesBywaterLee/status/2105381104471392729",
+    "time": "2026-10-01 03:35",
+    "created_at": "Wed Sep 30 19:35:46 +0000 2026",
+    "id_str": "2105381104471392729",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JulesBywaterLee You can just Google it, it’s all over the Internet today",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105381814231519268",
+    "time": "2026-10-01 03:38",
+    "created_at": "Wed Sep 30 19:38:35 +0000 2026",
+    "id_str": "2105381814231519268",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It started as this and apparently continues \n\nhttps://fortune.com/2026/05/18/6-7-million-people-ripped-apart-ai-generated-monet-painting-real/",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105383857612538070",
+    "time": "2026-10-01 03:46",
+    "created_at": "Wed Sep 30 19:46:42 +0000 2026",
+    "id_str": "2105383857612538070",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "The world's fastest cleanup crew in the game",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105393142220648805",
+    "time": "2026-10-01 04:23",
+    "created_at": "Wed Sep 30 20:23:36 +0000 2026",
+    "id_str": "2105393142220648805",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Top tier team",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2105393311917998375",
+    "time": "2026-10-01 04:24",
+    "created_at": "Wed Sep 30 20:24:16 +0000 2026",
+    "id_str": "2105393311917998375",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone Haha",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105393507230011598",
+    "time": "2026-10-01 04:25",
+    "created_at": "Wed Sep 30 20:25:03 +0000 2026",
+    "id_str": "2105393507230011598",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Err, does the dachshund want to be a Doberman?\nIf I was a dachshund I think I’d rather be a Doberman. \nI feel sorry for dachshunds.\nThis is a stream of consciousness comment.\nI apologize.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DallasInk42/status/2105394412201419044",
+    "time": "2026-10-01 04:28",
+    "created_at": "Wed Sep 30 20:28:38 +0000 2026",
+    "id_str": "2105394412201419044",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DallasInk42 I had two sausage dogs. That’s what we called them in the UK and everyone often jokes there that sausage dogs are Dobermans who grew up under the sofa. \n\nWell, in this anime it can transform into one just by stealing cheese 🧀😅😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105396352788074554",
+    "time": "2026-10-01 04:36",
+    "created_at": "Wed Sep 30 20:36:21 +0000 2026",
+    "id_str": "2105396352788074554",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Claude Opus 5.5 wrote the piano music in Python, created the 3D animation in Python, and rendered it in Blender.",
+    "quoted_tweet": null,
+    "url": "https://x.com/kevin_t_ngo/status/2105304249060274631",
+    "time": "2026-09-30 22:30",
+    "created_at": "Wed Sep 30 14:30:22 +0000 2026",
+    "id_str": "2105304249060274631",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Gave Claude another 12 hours to one up this..\n\nWoke up to.. The Clodyssey",
+    "quoted_tweet": {
+      "author": "anabology",
+      "username": "anabology",
+      "text": "Gave Opus 5.5 donald's prompt, Midjourney, and a moodboard \n\n12 hours later, woke up to this:"
+    },
+    "url": "https://x.com/anabology/status/2105325733312884869",
+    "time": "2026-09-30 23:55",
+    "created_at": "Wed Sep 30 15:55:44 +0000 2026",
+    "id_str": "2105325733312884869",
+    "is_retweet": true
+  }
+]
