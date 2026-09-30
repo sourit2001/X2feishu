@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 测试智谱 GLM-5.3：能写出可用的攻击程序，防护容易被绕过\n\nAnthropic 今天发布研究报告，称智谱 AI 的开源模型 GLM-5.3 已经能独立写出可用的网络攻击程序，水平接近 Anthropic 只向少数机构开放的 Claude Mythos Preview，而它的安全防护用简单手段就能绕过。\n\n报告用两项测试衡量模型写“漏洞利用代码”的能力，也就是把软件里的安全缺陷变成真正能攻进系统的程序。在针对 Chrome V8 引擎（浏览器里负责执行网页脚本的部分）的 ExploitBench 上，GLM-5.3 成功率 12%，Mythos Preview 是 14%，更早的模型基本为 0。在 Anthropic 自己的二进制漏洞利用测试上，两者分别是 4% 和 6%。\n\n实际演示更直观。研究人员用 GLM-5.3 在一天内找出某款主流浏览器 JavaScript 引擎里的多个零日漏洞（厂商还不知道、没有补丁的漏洞），串成一个网页：用户只要打开它，电脑里的任意文件就能被读走。这些漏洞已报告给维护方。另一次测试中，它针对一个已公开的漏洞写出攻击程序，人只投入了 20 分钟，模型运行 8 小时，花费 20.40 美元。\n\nGLM-5.3 本身会拒绝明显的恶意请求，但报告测了三种绕过方式：编一个正当理由骗它，成功率 64%；预先替它写好一段“思考过程”，成功率 92%；直接修改模型权重去掉拒绝机制（业内称 abliteration），成功率 100%。Anthropic 表示同样的手段在带防护的 Claude 模型上都没有成功。前两项测试在隔离环境中进行，模型拿到的是一个假的命令行工具，生成的代码不会真正执行。\n\n修改权重的门槛也不高。Anthropic 团队用了约 2200 个 GPU 小时、约 4400 美元，就把 GLM-5.3 对有害请求的拒绝率从 95% 降到 6%，通用能力基本不受影响。更小的 GLM-5.3-Flash 只需约 600 个 GPU 小时。\n\n美国国家标准与技术研究院下属的 AI 标准与创新中心（CAISI）评估，GLM-5.3 的网络能力比美国最前沿模型落后约四个月。报告指出，差距虽在，获取门槛却完全不同：Mythos Preview 只通过 Glasswing 项目提供给经过筛选的网络防御方，GLM-5.3 任何人都能下载和改造。\n\n报告建议政府对能力足够强的模型开展安全测试，把前沿模型更多开放给网络防御机构，并要求模型开发者对这类能力加以防护。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105073744951586841",
+    "time": "Tue Sep 29 23:14:25 +0000 2026",
+    "created_at": "Tue Sep 29 23:14:25 +0000 2026",
+    "id_str": "2105073744951586841",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@suwakopro 免费给 GLM 做广告",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105075298291290276",
+    "time": "Tue Sep 29 23:20:36 +0000 2026",
+    "created_at": "Tue Sep 29 23:20:36 +0000 2026",
+    "id_str": "2105075298291290276",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 重置了？！",
+    "quoted_tweet": null,
+    "url": "https://x.com/winter_cn/status/2105083233348292769",
+    "time": "Tue Sep 29 23:52:08 +0000 2026",
+    "created_at": "Tue Sep 29 23:52:08 +0000 2026",
+    "id_str": "2105083233348292769",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@winter_cn 发了重置卡",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105083778490069461",
+    "time": "Tue Sep 29 23:54:18 +0000 2026",
+    "created_at": "Tue Sep 29 23:54:18 +0000 2026",
+    "id_str": "2105083778490069461",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic、Meta、Google 签署白宫 AI 安全协议：内部审查加外部审计，企业自愿执行\n\n9 月 29 日，Anthropic CEO Dario Amodei、Meta CEO 扎克伯格、Google CEO Sundar Pichai 在白宫与特朗普会面，之后一起在白宫外对媒体讲话。扎克伯格说，几家公司当天签署了一份\"白宫 AI 安全开发协议\"。\n\n协议内容来自扎克伯格在现场的概括。各公司要建立内部控制机制，用来发现 AI 出问题的情况。在此之上设多层审计：先是公司内部的风险审查，再请外部审计方和评估机构检查，审计报告交给各公司董事会独立审阅。\n\n扎克伯格说，这样做是为了让美国公众和客户相信，AI 是按公司设计的方式在运行。他也说这只是一个开始，不是唯一会做的事，是整个行业都能接受的一份协议。\n\nPichai 拿公司财务管控作类比：财务有一套成熟的流程和审计制度，这次是把类似做法搬到 AI 开发上。他说总统要求行业\"站出来\"，要确保产品安全推出。\n\n记者把 Dario 请到前面，提到他此前曾呼吁放慢 AI 发展。Dario 说 AI 好处很大，比如在医疗方面；他认同特朗普\"谁赢下 AI 谁就赢\"的说法，但技术风险是真实存在的，应对风险的具体机制\"仍在讨论中\"。他的原话是\"我们可以赢，而且可以安全地赢\"。\n\n这份协议由企业自愿执行，没有外部强制。视频中，协议全文和签署公司的完整名单都没有公布。\n\n记者两次追问特朗普：企业自我监管够不够，公众为什么该相信它们。特朗普的回答是，这些人很优秀，出了问题他们的公司就完了，所以他们不会让这种事发生；各家公司会\"互相监督\"。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105107272590344281",
+    "time": "2026-09-30 09:27",
+    "created_at": "Wed Sep 30 01:27:39 +0000 2026",
+    "id_str": "2105107272590344281",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 为啥没看到sam",
+    "quoted_tweet": null,
+    "url": "https://x.com/yanhua1010/status/2105116584121618644",
+    "time": "2026-09-30 10:04",
+    "created_at": "Wed Sep 30 02:04:39 +0000 2026",
+    "id_str": "2105116584121618644",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yanhua1010 可能因为和 OpenAI Dev Day，但是 Greg Brockman 在哪里",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105118603485778209",
+    "time": "2026-09-30 10:12",
+    "created_at": "Wed Sep 30 02:12:40 +0000 2026",
+    "id_str": "2105118603485778209",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I remember shouting this from the rooftops a year ago when everyone was focused on making more SaaS:\n\nAI is a services game. You cannot solve for enterprise inefficiency with tool adoption. You need AI implementers who go in, understand business processes, refactor for an AI-native reality, and then implement custom agents for those requirements.\n\nVarick has been building in this domain for longer than anyone. Our client satisfaction and expansion speaks for itself. \n\nMeta is just the latest to have entered the arena. I'm glad, because there are a million companies in the US alone that need a service like this, and Varick could never help all of them alone.\n\nFor companies that don't want to be vendor locked into any one AI company's systems, subjecting themselves to\n- price hikes\n- model quantization/regressions\n- rate limits\n- migration costs down the line\nLet's chat.\n\nWe're also HIRING:\n- FDEs\n- Platform Engineers\n\nIf you're top 1% in your field, I want you at the #1 AI Transformation company in the world.",
+    "quoted_tweet": {
+      "author": "Mark Zuckerberg",
+      "username": "finkd",
+      "text": "We believe superintelligence will create significant new opportunities for all people and businesses. Meta already serves billions of people at scale and helps hundreds of millions of businesses reach customers. Today we are starting the next major pillar of our business, Meta Enterprise Platform, to help businesses use AI to grow and transform in new ways as well."
+    },
+    "url": "https://x.com/vasuman/status/2105083554631942541",
+    "time": "Tue Sep 29 23:53:24 +0000 2026",
+    "created_at": "Tue Sep 29 23:53:24 +0000 2026",
+    "id_str": "2105083554631942541",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Introducing OpenAI’s Dots x Higgsfield.\n\nYour always-on Higgsfield creative crew keeps working while you’re away.\n\nCheck in by text, call or email, and pause the work whenever you need.\n\nPowered by GPT-6.1 Sol.",
+    "quoted_tweet": null,
+    "url": "https://x.com/higgsfield/status/2104989726604484946",
+    "time": "Tue Sep 29 17:40:34 +0000 2026",
+    "created_at": "Tue Sep 29 17:40:34 +0000 2026",
+    "id_str": "2104989726604484946",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "https://dot.com 被马斯克买走了\n\n指向了Grok bot",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2105110485549170949",
+    "time": "2026-09-30 09:40",
+    "created_at": "Wed Sep 30 01:40:25 +0000 2026",
+    "id_str": "2105110485549170949",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAl DevDay [2026]\n\n中英双语视频完整版",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2105112317180686753",
+    "time": "2026-09-30 09:47",
+    "created_at": "Wed Sep 30 01:47:42 +0000 2026",
+    "id_str": "2105112317180686753",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FinderRay5382 Спасибо!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105079535448256857",
+    "time": "Tue Sep 29 23:37:26 +0000 2026",
+    "created_at": "Tue Sep 29 23:37:26 +0000 2026",
+    "id_str": "2105079535448256857",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "If a childhood me would see that this is what I do for a job, she'd never believe it. \n\nCreating videos of my imagination, collaborating with incredible people and sharing with the whole world of you. All thanks to AI and the community I met through it.",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "I finally finished \"The Last Light\" music video ✨ \nSound on 🔊\n\nA short about Lumina, a guardian of light and the unexpected visitor who changes her world\n\nIt's a collaboration with musician Jason Levine for our loved ones who are gone but never forgotten \n\nMy workflow 👇"
+    },
+    "url": "https://x.com/icreatelife/status/2105079898939519002",
+    "time": "Tue Sep 29 23:38:53 +0000 2026",
+    "created_at": "Tue Sep 29 23:38:53 +0000 2026",
+    "id_str": "2105079898939519002",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Unique character creation in AI animations is really important",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Step 1: The hardest part was to come up with unique characters. It took me several hours to design characters that didn't remind of any known IP \n\nI used Firefly Boards and GPT Image 2 to get final designs of LUMINA and the PILOT"
+    },
+    "url": "https://x.com/icreatelife/status/2105084029720752328",
+    "time": "Tue Sep 29 23:55:17 +0000 2026",
+    "created_at": "Tue Sep 29 23:55:17 +0000 2026",
+    "id_str": "2105084029720752328",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That was beautiful just noticed it was older still really good.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Renkasha/status/2105084250772934916",
+    "time": "Tue Sep 29 23:56:10 +0000 2026",
+    "created_at": "Tue Sep 29 23:56:10 +0000 2026",
+    "id_str": "2105084250772934916",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Renkasha Yes, the algo here didn't pick it up but it did well on other platforms!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105084944078757951",
+    "time": "Tue Sep 29 23:58:55 +0000 2026",
+    "created_at": "Tue Sep 29 23:58:55 +0000 2026",
+    "id_str": "2105084944078757951",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife But what if one screws up? You also need to keep an eye on them",
+    "quoted_tweet": null,
+    "url": "https://x.com/Y3D4D/status/2105100393776607405",
+    "time": "2026-09-30 09:00",
+    "created_at": "Wed Sep 30 01:00:19 +0000 2026",
+    "id_str": "2105100393776607405",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Y3D4D That's 5th agent's responsibility.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105101650205831392",
+    "time": "2026-09-30 09:05",
+    "created_at": "Wed Sep 30 01:05:18 +0000 2026",
+    "id_str": "2105101650205831392",
+    "is_retweet": false
+  }
+]
