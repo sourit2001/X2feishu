@@ -193,5 +193,233 @@
     "created_at": "Wed Sep 30 15:47:56 +0000 2026",
     "id_str": "2105323771452330431",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Connectors basically worked though",
+    "quoted_tweet": null,
+    "url": "https://x.com/tszzl/status/2105297388973982078",
+    "time": "2026-09-30 22:03",
+    "created_at": "Wed Sep 30 14:03:06 +0000 2026",
+    "id_str": "2105297388973982078",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@tszzl Yes, connectors do the thing they are supposed to do well.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105299281393426565",
+    "time": "2026-09-30 22:10",
+    "created_at": "Wed Sep 30 14:10:37 +0000 2026",
+    "id_str": "2105299281393426565",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A thing to know about the AI business is labs that have frontier models can release half-built products and they work surprisingly well because the AI can just figure stuff out and improvise. Its like including a forward deployed engineer & customer service agent in the product.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105326918371537067",
+    "time": "2026-10-01 00:00",
+    "created_at": "Wed Sep 30 16:00:27 +0000 2026",
+    "id_str": "2105326918371537067",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A broken early version of whatever product they are shipping is still better then what a well-built traditional product a lot of the time because LLMs are just unreasonably effective tools at doing a vast array of stuff and people & companies are learning to just roll with it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105327372883087690",
+    "time": "2026-10-01 00:02",
+    "created_at": "Wed Sep 30 16:02:15 +0000 2026",
+    "id_str": "2105327372883087690",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Every one of the apps from the AI Labs have weird edges and are underdocumented and break sometimes and update without any sort of notice or changelog and change UIs on a dime...\n\n... but the models behind them are really good and so everyone just shrugs and keeps on using them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105328449187451036",
+    "time": "2026-10-01 00:06",
+    "created_at": "Wed Sep 30 16:06:32 +0000 2026",
+    "id_str": "2105328449187451036",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Perfect for your juicy invoices",
+    "quoted_tweet": {
+      "author": "Shadcn Labs",
+      "username": "shadcnlabs",
+      "text": "Introducing pdfcn\n\nBuild beautiful PDFs like you build your UI.\n\nPowered by Takumi + Forme.\nPick from 10+ themes, 40+ components & blocks, then customize everything.\n\nOne command to get started. shadcn/ui compatible.\n\n100% Free. Open source."
+    },
+    "url": "https://x.com/godofprompt/status/2105250709029417137",
+    "time": "2026-09-30 18:57",
+    "created_at": "Wed Sep 30 10:57:37 +0000 2026",
+    "id_str": "2105250709029417137",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "a new prompting guide for GPT-6.1 Sol just went up and it changes how you should be writing prompts for it.\n\nSol takes instructions literally. if two of your rules disagree, it won't quietly pick the sensible one. and saying the same thing three times to be safe now hurts you.\n\nso write less. give it the outcome once, tell it what's off limits, and say what a correct answer would have to contain, in terms you could verify yourself.\n\ni put the whole thing into a copy-ready prompt template. swap in your task and run it.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105307946423034115",
+    "time": "2026-09-30 22:45",
+    "created_at": "Wed Sep 30 14:45:03 +0000 2026",
+    "id_str": "2105307946423034115",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105307971538592033",
+    "time": "2026-09-30 22:45",
+    "created_at": "Wed Sep 30 14:45:09 +0000 2026",
+    "id_str": "2105307971538592033",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105307983391683027",
+    "time": "2026-09-30 22:45",
+    "created_at": "Wed Sep 30 14:45:12 +0000 2026",
+    "id_str": "2105307983391683027",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I made a Grok Bot that gets you a better price.\n\nIt forces companies to compete for your money.\n\n→ Finds providers\n→ Gets real quotes\n→ Handles the replies\n→ Checks fees and reviews\n→ Uses quotes to get lower offers\n\nTell it what you need and let Grok do the rest.\n\nLink below 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/liam_fallen/status/2105324133256921298",
+    "time": "2026-09-30 23:49",
+    "created_at": "Wed Sep 30 15:49:23 +0000 2026",
+    "id_str": "2105324133256921298",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@liam_fallen Your bots are always top notch",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105326068500676627",
+    "time": "2026-09-30 23:57",
+    "created_at": "Wed Sep 30 15:57:04 +0000 2026",
+    "id_str": "2105326068500676627",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge A/的报告发的更早，这俩没有因果关系",
+    "quoted_tweet": null,
+    "url": "https://x.com/HappyDaily13/status/2105269770765709641",
+    "time": "2026-09-30 20:13",
+    "created_at": "Wed Sep 30 12:13:22 +0000 2026",
+    "id_str": "2105269770765709641",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@HappyDaily13 更早的吗 看起来都是昨晚",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2105289157388259557",
+    "time": "2026-09-30 21:30",
+    "created_at": "Wed Sep 30 13:30:24 +0000 2026",
+    "id_str": "2105289157388259557",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "he’s referring to https://dot.com btw",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "What’s up dot"
+    },
+    "url": "https://x.com/weswinder/status/2105283323933106184",
+    "time": "2026-09-30 21:07",
+    "created_at": "Wed Sep 30 13:07:13 +0000 2026",
+    "id_str": "2105283323933106184",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux been loving dot. it would be great if dot and @bot would not send me a push notification for their replies while i have the app open. i'm here. i see the reply. i don't need a tap on my wrist.",
+    "quoted_tweet": null,
+    "url": "https://x.com/themikebwebb/status/2105301666543411539",
+    "time": "2026-09-30 22:20",
+    "created_at": "Wed Sep 30 14:20:06 +0000 2026",
+    "id_str": "2105301666543411539",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@charlielamb @OpenAI I watched it live while reading through the oncall channel my dot had just flagged to me. Prod went down 5 mins before the demo. Memorable for sure.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105305239398285514",
+    "time": "2026-09-30 22:34",
+    "created_at": "Wed Sep 30 14:34:18 +0000 2026",
+    "id_str": "2105305239398285514",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@themikebwebb @bot We’re fixing this",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105308727947755599",
+    "time": "2026-09-30 22:48",
+    "created_at": "Wed Sep 30 14:48:10 +0000 2026",
+    "id_str": "2105308727947755599",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@zwb44 Did you really think we were going to name it o?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105308913176658267",
+    "time": "2026-09-30 22:48",
+    "created_at": "Wed Sep 30 14:48:54 +0000 2026",
+    "id_str": "2105308913176658267",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thekitze Technically correct",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105309464492691524",
+    "time": "2026-09-30 22:51",
+    "created_at": "Wed Sep 30 14:51:05 +0000 2026",
+    "id_str": "2105309464492691524",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@weswinder Careful, sending the dot police",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105310973532012793",
+    "time": "2026-09-30 22:57",
+    "created_at": "Wed Sep 30 14:57:05 +0000 2026",
+    "id_str": "2105310973532012793",
+    "is_retweet": false
   }
 ]
