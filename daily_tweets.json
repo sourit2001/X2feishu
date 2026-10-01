@@ -1,1 +1,172 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grokipedia v0.3 just released. \n\nJoin @SpaceXAI if you want to create Encyclopedia Galactica!",
+    "quoted_tweet": {
+      "author": "Grokipedia",
+      "username": "Grokipedia",
+      "text": "Introducing Grokipedia v0.3\nhttps://grokipedia.com"
+    },
+    "url": "https://x.com/elonmusk/status/2105543421712843238",
+    "time": "Thu Oct 01 06:20:45 +0000 2026",
+    "created_at": "Thu Oct 01 06:20:45 +0000 2026",
+    "id_str": "2105543421712843238",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@benjitaylor Our sushi bar is incredible",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2105543688009003240",
+    "time": "Thu Oct 01 06:21:48 +0000 2026",
+    "created_at": "Thu Oct 01 06:21:48 +0000 2026",
+    "id_str": "2105543688009003240",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try the latest Grok @Bot. Many great upgrades!",
+    "quoted_tweet": {
+      "author": "lauren",
+      "username": "poteto",
+      "text": "grok @bot combined with cloud agents is a magical experience! here's my favorite use case:\n\n1. create a new team engineer bot and add it to slack \n2. @ your bot whenever you want it to do some coding work \n3. you can even tell it to create new Projects, which is a way to group together many related agents into one conversation\n\nyou can use any model available on cursor with these cloud agents, and since they each have their own computer, it frees up your bot to be more of a manager rather than write the code itself!"
+    },
+    "url": "https://x.com/elonmusk/status/2105543992637100269",
+    "time": "Thu Oct 01 06:23:01 +0000 2026",
+    "created_at": "Thu Oct 01 06:23:01 +0000 2026",
+    "id_str": "2105543992637100269",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@herbertong True",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2105544628036313243",
+    "time": "Thu Oct 01 06:25:33 +0000 2026",
+    "created_at": "Thu Oct 01 06:25:33 +0000 2026",
+    "id_str": "2105544628036313243",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I left Silicon Valley 6 years ago\n\nWhy?\n\nBecause it's a monoculture\n\nThe most extreme group think of any place on the planet\n\nShow up to a dinner party and everyone is in tech\n\nSo what do they do? They start stack-ranking each other\n\nAnd it's a totally ordered set: being founder of co $100B market cap > founder of co with $50B market cap > managing partner of tier 1 venture firm > hired CEO of $50B public co > founder of $10B co > etc etc \n\nPure toxicity that nerfs creativty\n\nAnd then as a corollary, people are especially afraid to speak truth to power as everyone knows their place in\n\n\"The Hierarchy\"\n\nReject this nonsense. Stay weird. Think independently. Be honest with yourself. Have fun.",
+    "quoted_tweet": null,
+    "url": "https://x.com/shaunmmaguire/status/2105520552089915529",
+    "time": "Thu Oct 01 04:49:52 +0000 2026",
+    "created_at": "Thu Oct 01 04:49:52 +0000 2026",
+    "id_str": "2105520552089915529",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@shaunmmaguire Yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105629894071996694",
+    "time": "Thu Oct 01 12:04:22 +0000 2026",
+    "created_at": "Thu Oct 01 12:04:22 +0000 2026",
+    "id_str": "2105629894071996694",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I’m so glad I left SF.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105636034889261241",
+    "time": "Thu Oct 01 12:28:46 +0000 2026",
+    "created_at": "Thu Oct 01 12:28:46 +0000 2026",
+    "id_str": "2105636034889261241",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Okay just called my dot for 45 minutes and handled all my email / slack tasks for the day… phone in pocket, AirPods in. \n\nI have so many thoughts, making a YouTube video today on everything I’ve learned / hopes for new features etc",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105642756970623172",
+    "time": "Thu Oct 01 12:55:28 +0000 2026",
+    "created_at": "Thu Oct 01 12:55:28 +0000 2026",
+    "id_str": "2105642756970623172",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown dot over grok bot?",
+    "quoted_tweet": null,
+    "url": "https://x.com/jonasRos91/status/2105644038754021590",
+    "time": "Thu Oct 01 13:00:34 +0000 2026",
+    "created_at": "Thu Oct 01 13:00:34 +0000 2026",
+    "id_str": "2105644038754021590",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@jonasRos91 Better model, yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105645711853523324",
+    "time": "Thu Oct 01 13:07:13 +0000 2026",
+    "created_at": "Thu Oct 01 13:07:13 +0000 2026",
+    "id_str": "2105645711853523324",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins @ideogram_ai interesting wrapper / app. im suprised the cost is that low for the quality you get out of it!",
+    "quoted_tweet": null,
+    "url": "https://x.com/SnowShael/status/2105512405728104795",
+    "time": "Thu Oct 01 04:17:30 +0000 2026",
+    "created_at": "Thu Oct 01 04:17:30 +0000 2026",
+    "id_str": "2105512405728104795",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@SnowShael @ideogram_ai Same!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2105541737926324711",
+    "time": "Thu Oct 01 06:14:04 +0000 2026",
+    "created_at": "Thu Oct 01 06:14:04 +0000 2026",
+    "id_str": "2105541737926324711",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "全部支持TRXS",
+    "quoted_tweet": {
+      "author": "May",
+      "username": "0xMayyy",
+      "text": "TRXS 打通美国主流券商渠道 ：顶级平台中已有七家支持交易\n\n美国拥有庞大而成熟的证券经纪体系。根据 FINRA 公布的数据显示，全美注册券商超过 3000 家，真正面向散户、又有公开客户资产可对比的主流网上券商并不多。其中 9 家里已有 7 家支持 TRXS。\n\n目前可交易 TRXS 的券商平台为 ：\n\nFidelity 、Charles Schwab、Vanguard、E*TRADE、Interactive Brokers、Robinhood、Webull、SoFi Invest、Public \n\n三大券商巨头，全部支持 TRXS\n\nFidelity、Charles Schwab 和 Vanguard 通常被视为美国个人投资与资产管理领域的三大巨头。这三家平台均可交易 TRXS，所代表的不只是券商数量的增加，更是 TRXS 市场覆盖能力的一次重要突破。\n\n超50万亿美元的平台资产，TRXS 拥有一席之地\n\n如果按照最新公开数据及图中可比口径估算，仅 Fidelity、Charles Schwab、Vanguard 和 E-TRADE 母公司 Morgan Stanley 四个平台背后的客户资产合计约 53–56 万亿美元。\n\n虽然这并不意味着这些资金会直接流入TRXS\n但它说明了一件事 ：\nTRXS已经出现在全球最大资金平台的交易系统中。\n\n渠道决定入口，入口连接资金\n\n一项资产要进入主流市场，先要解决“在哪里可以买”。也就是说传统市场的投资者现在不必离开熟悉的证券账户，就能获得 TRX 相关敞口。渠道已经铺开，接下来就是沉淀了。新产品上线后，资金通常会先观望，后面就交给市场来验证。\n\n是金子，总会发光。\n\n@justinsuntron #TRONEcoStar"
+    },
+    "url": "https://x.com/justinsuntron/status/2105593908017483971",
+    "time": "Thu Oct 01 09:41:22 +0000 2026",
+    "created_at": "Thu Oct 01 09:41:22 +0000 2026",
+    "id_str": "2105593908017483971",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "连续增持252天 @TRON_INC",
+    "quoted_tweet": {
+      "author": "Tonys🔸Tucker｜「火币余币宝13%」",
+      "username": "Baby__BTC",
+      "text": "在上市公司中，Tron.lnc创下了史上“连续每日买入”时长最长的纪录！\n\n根据公开数据显示，目前Tron.lnc已经连续252天买入 $TRX，持有量超过了7.168亿枚！\n\n链上公开数据，全程透明可查！\n\nTron.lnc持仓TRX地址：TEySEZLJf6rs2mCujGpDEsgoMVWKLAk9mT\n\n@justinsuntron #TRONEcostar"
+    },
+    "url": "https://x.com/justinsuntron/status/2105608921436336584",
+    "time": "Thu Oct 01 10:41:01 +0000 2026",
+    "created_at": "Thu Oct 01 10:41:01 +0000 2026",
+    "id_str": "2105608921436336584",
+    "is_retweet": false
+  }
+]
