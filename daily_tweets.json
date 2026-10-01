@@ -863,5 +863,253 @@
     "created_at": "Wed Sep 30 20:33:52 +0000 2026",
     "id_str": "2105395727614775504",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Figure AI 让旗下的 Figure 02 人形机器人自己跳进芬兰一家铸造厂的钢水里，以此让这一代机器人退役。熔出来的金属会被加工成限量纪念品。\n\nFigure 02 是 Figure 的第二代人形机器人，公司很多第一次都由它完成：第一次进 BMW 工厂上岗，第一次运行 Helix（Figure 自研的机器人 AI 模型，负责看画面、理解指令并控制动作），第一次做家务，第一次做物流工作。现在第三代 F.03 的数量越来越多，Figure 说继续维护 F.02 已经不划算。\n\n退役的麻烦在于保护技术。机器人里有大量自研的执行器（可以理解为驱动关节的电机）等核心硬件，Figure 不想让它们流出去；但一台台拆解又太占工程师的时间，会推迟第四代 F.04 的发布。\n\nFigure 于是在网上征求处理办法，施瓦辛格回复说\"熔了它们\"。他主演的《终结者2》结尾，T-800 机器人就是沉进钢水里的。Figure 联系了施瓦辛格，他表示想参与，项目随后启动。\n\n找场地并不顺利。美国和墨西哥的铸造厂都不愿意让装着锂电池的机器人跳进自家昂贵的设备，Figure 还请《流言终结者》的前主持人帮忙找过。最后只有芬兰伊马特拉的一家铸造厂同意。\n\n训练在 Figure 位于加州圣何塞的园区进行。团队铺了大气垫，让机器人从二楼往下跳。他们参考特技演员的动作，在仿真环境里训练了一个新的 AI 模型，让机器人在一个从没去过的铸造厂里，准确跳进盛钢水的容器。\n\n铸造厂用的是一座 75 吨的电弧炉，靠三根石墨电极通电熔化废钢。团队只有 24 小时、6 炉的机会，每炉钢水只有 20 分钟可用，之后表面就会冷却结壳。Figure 称，现场的高温和强电磁场让摄像器材等电子设备出了故障，机器人则一直正常运行自己的 AI 控制程序。\n\n熔出的金属锭已运回美国，正在加工成一批纪念 F.02 的限量藏品，数量很少，面向个人出售，博文没有公布价格和购买方式。大部分 F.02 已被熔掉，只有几台留在总部仓库。\n\nFigure 在文末特意说明，视频不是 AI 生成的：机器人确实是自主起跳，被运到芬兰，跳进了钢水。",
+    "quoted_tweet": {
+      "author": "Figure",
+      "username": "Figure_robot",
+      "text": "The story is crazy, started with Arnold on social and ended in Finland having F.02's jump into a 75-ton arc furnace\n\nRead about our journey here:\nhttps://www.figure.ai/news/f-02-decommission"
+    },
+    "url": "https://x.com/dotey/status/2105430166876869113",
+    "time": "2026-10-01 06:50",
+    "created_at": "Wed Sep 30 22:50:43 +0000 2026",
+    "id_str": "2105430166876869113",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 上线新站点 http://Claude.dev，面向用 Claude 做开发的人。站点会发布工程深度文章、Claude Code 和 API 使用指南、Claude 团队成员的经验分享，另外还藏了一些彩蛋。\n\n原来的文档网站仍在 http://code.claude.com/docs，首页导航里的 DOCS 链接会直接跳转过去。http://Claude.dev 更接近 Anthropic 工程团队的博客，文章分为智能体（Agents）、工程、实战手册（Playbooks）、技能（Skills）四类。技能指的是给 Claude 预先写好的一套操作说明，让它按固定流程完成某类任务。\n\n首页现有的文章大多围绕 Claude 5 代模型的实际用法。例如《Building with Claude Sonnet 5.5》讲怎么用 Sonnet 5.5 开发，《What a task costs on Opus 5.5》算的是在 Opus 5.5 上跑一个任务要花多少钱，《The new rules of context engineering for Claude 5 generation models》讲怎样给新一代模型组织输入内容。也有团队自己的工程复盘，比如《How we made http://claude.ai 3x faster in two weeks》，记录他们两周内把 http://claude.ai 提速 3 倍的过程。\n\n最新一篇是 9 月 28 日发布的《用 Claude 自动设计评测并逐步调优》。\n\n对正在用 Claude API 或 Claude Code 的开发者，这些文章能直接看到 Anthropic 内部团队怎么用模型、怎么估算成本。\n\n站点还收录了视频，包括 Claude Code 团队怎么用 Claude Code，以及 Ramp、DoorDash 等公司让员工用 Claude Code 和智能体工作的案例，完整视频放在 YouTube 上。\n\n彩蛋之一是终端模式。点导航里的 TERMINAL，整个站点会变成命令行界面，文章列表像终端里的滚动输出，输入 /help 能看到可用命令。站点的主要入口都配了键盘快捷键，按 H 回首页，按 D 打开文档，按 T 进入终端。",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "https://Claude.dev is our new home for developers building with Claude. \n\nYou'll find engineering deep dives, Claude Code and API guides, tips from the teams building Claude, and some fun easter eggs."
+    },
+    "url": "https://x.com/dotey/status/2105431620769427549",
+    "time": "2026-10-01 06:56",
+    "created_at": "Wed Sep 30 22:56:30 +0000 2026",
+    "id_str": "2105431620769427549",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "让 ChatGPT 用 守序中立混乱九宫格 归类一下 AI 风云人物，给我画了这个",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105442328731439193",
+    "time": "2026-10-01 07:39",
+    "created_at": "Wed Sep 30 23:39:03 +0000 2026",
+    "id_str": "2105442328731439193",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "彩蛋 https://x.com/faiAI0/status/2105450390011748545?s=20",
+    "quoted_tweet": {
+      "author": "FAI",
+      "username": "faiAI0",
+      "text": "@dotey 这个才是彩蛋"
+    },
+    "url": "https://x.com/dotey/status/2105458337840066992",
+    "time": "Thu Oct 01 00:42:39 +0000 2026",
+    "created_at": "Thu Oct 01 00:42:39 +0000 2026",
+    "id_str": "2105458337840066992",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "文章里面算错了，恢复原价后是 Fable/Astra 的 2/5\nhttps://x.com/VBKiGadtQKapduJ/status/2105455734112874907?s=20",
+    "quoted_tweet": {
+      "author": "Valerie Vaughan",
+      "username": "VBKiGadtQKapduJ",
+      "text": "@dotey 恢复原价后是2/5吧"
+    },
+    "url": "https://x.com/dotey/status/2105458854335279188",
+    "time": "Thu Oct 01 00:44:43 +0000 2026",
+    "created_at": "Thu Oct 01 00:44:43 +0000 2026",
+    "id_str": "2105458854335279188",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "today on x dot com",
+    "quoted_tweet": null,
+    "url": "https://x.com/NotTuxedoSam/status/2105396042074403298",
+    "time": "2026-10-01 04:35",
+    "created_at": "Wed Sep 30 20:35:07 +0000 2026",
+    "id_str": "2105396042074403298",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@sporadica Lmaooo",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2105402861257723917",
+    "time": "2026-10-01 05:02",
+    "created_at": "Wed Sep 30 21:02:13 +0000 2026",
+    "id_str": "2105402861257723917",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Whop? The frontier intelligence company? \n\nNutty.",
+    "quoted_tweet": {
+      "author": "Whop",
+      "username": "whop",
+      "text": "Today, Whop is introducing Economic Intelligence, a decision making system built from business actions on platform. \n\nBillions of people should have the ability to build profitable businesses.\n\nEconomic Intelligence answers \"what next?\" for businesses at all levels."
+    },
+    "url": "https://x.com/vasuman/status/2105403387848319179",
+    "time": "2026-10-01 05:04",
+    "created_at": "Wed Sep 30 21:04:18 +0000 2026",
+    "id_str": "2105403387848319179",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@NotTuxedoSam 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2105410026907275494",
+    "time": "2026-10-01 05:30",
+    "created_at": "Wed Sep 30 21:30:41 +0000 2026",
+    "id_str": "2105410026907275494",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Gemini 4\n\n来了\n\n但是没有完全开放，只开放了给部分前沿安全人员和机构",
+    "quoted_tweet": {
+      "author": "Google",
+      "username": "Google",
+      "text": "Gemini 4 Argon is rolling out to an initial cohort of cyber defenders through our Fairwind Program so they can leverage its full frontier-level cybersecurity defense capabilities.\n\nWe'll continue to gather feedback from early testers as we iterate on guardrails before making Argon available to developers, enterprises, and consumers as soon as possible.\n\nLearn more ↓ http://goo.gle/4AFGGh1"
+    },
+    "url": "https://x.com/xiaohu/status/2105456151563530566",
+    "time": "Thu Oct 01 00:33:58 +0000 2026",
+    "created_at": "Thu Oct 01 00:33:58 +0000 2026",
+    "id_str": "2105456151563530566",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "There's nothing worse than bad audio.\n\nTo fix it, you can use the enhanced audio feature in Adobe Premiere Mobile to easily removes background noise & sharpen your voice\n\nHere's how:\n\n#AdobePremiereAmbassadors #Ad #MadeWithPremiereMobile",
+    "quoted_tweet": null,
+    "url": "https://x.com/Mr_AllenT/status/2105404110920990879",
+    "time": "2026-10-01 05:07",
+    "created_at": "Wed Sep 30 21:07:11 +0000 2026",
+    "id_str": "2105404110920990879",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Mr_AllenT Awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105404222913044509",
+    "time": "2026-10-01 05:07",
+    "created_at": "Wed Sep 30 21:07:37 +0000 2026",
+    "id_str": "2105404222913044509",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte Thanks! I had fun",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105410152199585861",
+    "time": "2026-10-01 05:31",
+    "created_at": "Wed Sep 30 21:31:11 +0000 2026",
+    "id_str": "2105410152199585861",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@artetuyo Thanks a lot! 😄",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105410187976749531",
+    "time": "2026-10-01 05:31",
+    "created_at": "Wed Sep 30 21:31:20 +0000 2026",
+    "id_str": "2105410187976749531",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Tell your stories with AI and share with others emotional connecting with the story itself",
+    "quoted_tweet": {
+      "author": "Minh Do",
+      "username": "minhsmind",
+      "text": "Too how many “how I made it with AI” videos focus on how the AI works and not enough on the creative choices of the humans behind the work. And this is part of the problem of selling AI as part of the workflow. I get that as people who get paid or who are fascinated by what the AI can do for us, we feel the need to prize that novel part of the process, but it’s not doing us any favors when we don’t do a deep articulation of why we are telling the story we want to tell and the choices we made (why characters look, sound, and change the way they do). We desperately need more of that."
+    },
+    "url": "https://x.com/icreatelife/status/2105416076586832188",
+    "time": "2026-10-01 05:54",
+    "created_at": "Wed Sep 30 21:54:44 +0000 2026",
+    "id_str": "2105416076586832188",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@azed_ai Thank you, Amira!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105432522037612879",
+    "time": "2026-10-01 07:00",
+    "created_at": "Wed Sep 30 23:00:04 +0000 2026",
+    "id_str": "2105432522037612879",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Beautiful!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Aaron_Wacker/status/2105442547350798529",
+    "time": "2026-10-01 07:39",
+    "created_at": "Wed Sep 30 23:39:55 +0000 2026",
+    "id_str": "2105442547350798529",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Very Outstanding. Great work .🥰",
+    "quoted_tweet": null,
+    "url": "https://x.com/axchapman/status/2105444685049139699",
+    "time": "2026-10-01 07:48",
+    "created_at": "Wed Sep 30 23:48:24 +0000 2026",
+    "id_str": "2105444685049139699",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@axchapman Thanks",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105445679225045095",
+    "time": "2026-10-01 07:52",
+    "created_at": "Wed Sep 30 23:52:21 +0000 2026",
+    "id_str": "2105445679225045095",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Aaron_Wacker Thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105445695272444409",
+    "time": "2026-10-01 07:52",
+    "created_at": "Wed Sep 30 23:52:25 +0000 2026",
+    "id_str": "2105445695272444409",
+    "is_retweet": false
   }
 ]
