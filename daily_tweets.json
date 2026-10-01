@@ -168,5 +168,115 @@
     "created_at": "Thu Oct 01 10:41:01 +0000 2026",
     "id_str": "2105608921436336584",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I wrote about the thing I underestimated most about progress in AI: its ability to self-organize to accomplish tasks. Also, what that means for agents like Muse and Dots, along with a music video explaining why we keep relearning The Bitter Lesson. https://open.substack.com/pub/oneusefulthing/p/the-dot-and-the-swarm?r=i5f7&utm_medium=ios",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105618164944146786",
+    "time": "Thu Oct 01 11:17:45 +0000 2026",
+    "created_at": "Thu Oct 01 11:17:45 +0000 2026",
+    "id_str": "2105618164944146786",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "someone's been extracting the hidden instructions every AI chatbot gets before your first message, and putting them on Github.\n\n68,700 stars. Fable 5.1, GPT-6.1 Sol, Claude Sonnet 5.5, Claude Opus 5.5, Grok 4.7, GPT-6 Luna. captured word for word, updated constantly.\n\nread a few and you'll see how the people who build these models actually write instructions. where they're specific, where they repeat themselves, what they ban outright, how they handle a refusal.\n\nit's the best prompt engineering reference nobody charges for\n\npublic domain, CC0. take whatever you want.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105598873557422484",
+    "time": "Thu Oct 01 10:01:06 +0000 2026",
+    "created_at": "Thu Oct 01 10:01:06 +0000 2026",
+    "id_str": "2105598873557422484",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105598897221783971",
+    "time": "Thu Oct 01 10:01:11 +0000 2026",
+    "created_at": "Thu Oct 01 10:01:11 +0000 2026",
+    "id_str": "2105598897221783971",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105598908936437899",
+    "time": "Thu Oct 01 10:01:14 +0000 2026",
+    "created_at": "Thu Oct 01 10:01:14 +0000 2026",
+    "id_str": "2105598908936437899",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "one prompt into your Dots agent and you're 10x more productive by tomorrow.\n\n12 sections that turn it from a chatbot that happens to stay open into an actual operator.\n\nit holds a live picture of everything competing for your attention, plans your day around your real calendar with no more than 3 primary outcomes, and does the work instead of listing it.\n\nthe rule that makes it safe to leave running: anything reversible, it just does. sending, deleting, buying, publishing, it stops and asks first.\n\nit opens by handing you a Productivity Brief, then starts on your top priority instead of giving you another list.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105670328399843555",
+    "time": "Thu Oct 01 14:45:02 +0000 2026",
+    "created_at": "Thu Oct 01 14:45:02 +0000 2026",
+    "id_str": "2105670328399843555",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Dots runs on Astra. the full Astra guide is free → https://godofprompt.ai/guides/gpt6-astra-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105670354157154354",
+    "time": "Thu Oct 01 14:45:08 +0000 2026",
+    "created_at": "Thu Oct 01 14:45:08 +0000 2026",
+    "id_str": "2105670354157154354",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2105670365825638856",
+    "time": "Thu Oct 01 14:45:11 +0000 2026",
+    "created_at": "Thu Oct 01 14:45:11 +0000 2026",
+    "id_str": "2105670365825638856",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I had tried Dots in a personal account, and was disappointed relative to Muse. But now we have it in ChatGPT Enterprise, and it feels different. Feels designed for work, for teams, for enterprises. Feels more at home here.",
+    "quoted_tweet": null,
+    "url": "https://x.com/_simonsmith/status/2105663822711459929",
+    "time": "Thu Oct 01 14:19:11 +0000 2026",
+    "created_at": "Thu Oct 01 14:19:11 +0000 2026",
+    "id_str": "2105663822711459929",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@_simonsmith We built dots to help get real work done. Lots to come that will improve them further over the days and weeks.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105670256094326849",
+    "time": "Thu Oct 01 14:44:45 +0000 2026",
+    "created_at": "Thu Oct 01 14:44:45 +0000 2026",
+    "id_str": "2105670256094326849",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Because usage on your primary dot is virtually unlimited at the moment, I can’t really give a reset. I need to come up with something new fast.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105672058269212820",
+    "time": "Thu Oct 01 14:51:54 +0000 2026",
+    "created_at": "Thu Oct 01 14:51:54 +0000 2026",
+    "id_str": "2105672058269212820",
+    "is_retweet": false
   }
 ]
