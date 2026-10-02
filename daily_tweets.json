@@ -526,5 +526,250 @@
     "created_at": "Fri Oct 02 13:24:50 +0000 2026",
     "id_str": "2106012535103377818",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "dot is my favorite openai product so far!\n\nit is amazing to me that each day it feels noticably better as it learns more of my workflow and style.\n\nhaving it do the stuff i don't like doing--and usually just builds up as a gravity well of dread--has me very happy.",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2106085986606403684",
+    "time": "2026-10-03 02:16",
+    "created_at": "Fri Oct 02 18:16:43 +0000 2026",
+    "id_str": "2106085986606403684",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Grok Bot 更新了一个叫 Grok Bot 的主 Agent 角色\n\n它可以帮你分配任务和创建各种不同的 Bot 分配任务\n\n易用性一下好了不少，让普通用户上来自己自定义多个 Bot 这个事情太烦了\n\n用户对工具完全没感知，也不知道应该怎么基于任务给 Bot 分类，估计也是看 Muse 改的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106037504642277451",
+    "time": "2026-10-02 23:04",
+    "created_at": "Fri Oct 02 15:04:04 +0000 2026",
+    "id_str": "2106037504642277451",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 视频怎么做的，求宝玉老师详细教程",
+    "quoted_tweet": null,
+    "url": "https://x.com/wingoliang40395/status/2106050403066675207",
+    "time": "2026-10-02 23:55",
+    "created_at": "Fri Oct 02 15:55:19 +0000 2026",
+    "id_str": "2106050403066675207",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@wingoliang40395 里面有示例提示词\nhttps://x.com/dotey/status/2105181393638531536",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "https://x.com/i/article/2105179653925150720"
+    },
+    "url": "https://x.com/dotey/status/2106065543849713752",
+    "time": "2026-10-03 00:55",
+    "created_at": "Fri Oct 02 16:55:29 +0000 2026",
+    "id_str": "2106065543849713752",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 搞了个“支线任务”抽奖：做 5 个小挑战，有机会拿到买不到的 Codex Micro\n\nOpenAI 借开发者大会 DevDay 办了一个线上活动，叫“支线任务”（Side Quests）。一共 10 个小挑战，每完成一个得一张抽奖券，每人最多 5 张。完成任务后要分享视频才算数。奖品是 5 台 Codex Micro，另有 ModRetro Chromatic 游戏掌机。活动不限地区，截止时间是太平洋时间 10 月 3 日下午 2:30，也就是北京时间 10 月 4 日早上 5:30，现在算起来还剩一天多。\n\nDevDay 是 OpenAI 每年一次的开发者大会，今年 9 月 29 日在旧金山举行，一场主题演讲发布了二十多项产品。这个活动就是让大家去上手试这些新东西。\n\nCodex Micro 是给它配的一块小键盘，也是 OpenAI 第一款硬件，7 月 15 日推出，售价 230 美元，和小众键盘厂商 Work Louder 合作做的。它有一排六个“智能体按键”，每个对应一个正在跑的任务，还有一个大按键用来按住说话，给 Codex 下语音指令；旋钮可以按任务难度调 AI 的推理强度。这东西开售 12 小时就卖光了，OpenAI 不打算补货，eBay 上被炒到 1850 美元。另一个奖品 ModRetro Chromatic 是一台复刻 Game Boy 的掌机，能插老卡带玩。\n\n10 个任务里，前 5 个对应这次大会的新功能：用 Ultrafast 把一个想法做成能跑的代码，用 dots 完成一项任务，用 Space 完成一项任务，展示自己做的 ChatGPT 网站，在云端环境跑一个 Codex 任务。\n\n简单解释一下这几个新东西。Ultrafast 是付费的极速档，在 Codex 里生成速度最高快 8 倍，每秒 300 个 token，写一个小工具基本是眨眼的事。dots 是一直在线的 AI 智能体，可以交给它长期负责的事，在你不跟它聊天的时候也会继续推进。Space 是团队、ChatGPT 和你的 dot 共用的协作空间。云端 Codex 则是把编程任务放到服务器上跑，在电脑上、用手机远程、或者在任何设备上从云端启动都行。\n\n后 5 个任务用的是老功能：晒自己的 ChatGPT 个人主页，说一个让你意外的统计数据；用官方提供的提示词生成一张自己“过往项目”的图；展示自己的 Codex 命令行工具配置，演示一个好用的功能；生成一个 3D 模型，从几个角度展示并附上提示词；用一个插件完成任务，对比前后效果。\n\n新功能大多有付费门槛。比如 Ultrafast 目前只对 Pro 500 和企业版开放，Pro 500 是这次新出的最高档套餐；dots 只在 Pro 和 Business Premium 上提供。不过官方说明，10 个任务里有 5 个用免费账号就能完成，凑满 5 张券一分钱不用花。\n\n参加方式：去活动网站 http://side-quests.openai.chatgpt.site 注册，按任务要求录屏提交。免费用户直接挑后面那 5 个老功能任务做最省事。",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "Ready for a DevDay side quest?\n\n10 builder challenges.\n5 Codex Micros up for grabs.\n\nComplete any 5 side quests to earn 1 raffle ticket for each.\n\n48 hours. Join from anywhere 🌎"
+    },
+    "url": "https://x.com/dotey/status/2106082911464145342",
+    "time": "2026-10-03 02:04",
+    "created_at": "Fri Oct 02 18:04:29 +0000 2026",
+    "id_str": "2106082911464145342",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "放弃了，还要录视频还要发社交媒体",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2106087557792436349",
+    "time": "2026-10-03 02:22",
+    "created_at": "Fri Oct 02 18:22:57 +0000 2026",
+    "id_str": "2106087557792436349",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"America's defense-tech renaissance is well underway… Yet raising capital and winning development contracts aren't what ultimately matter for great defense companies. What matters is production and fielding at scale.\"\n\n\"Silicon Valley has largely overlooked that base: we haven't funded enough of the manufacturers and supply chain beneath these companies.\"\n\n\"That gap is a national security liability. It is also a generational opportunity for American capital.\"\n\n\"Tier 2 and 3 suppliers, the layer technology hasn't touched, sit grossly underpriced… That is the whitespace. That's the investment opportunity.\"\n\n\"We are entering a new age of manufacturing, one that may be inspired by Silicon Valley, but will be built across Middle America.\"\n\n@ConnorLoveCA and Collen Larson on The Case for the American Manufacturing Asset Class: https://www.a16z.news/p/the-case-for-the-american-manufacturing",
+    "quoted_tweet": {
+      "author": "Connor Love",
+      "username": "ConnorLoveCA",
+      "text": "https://x.com/i/article/2106022051534536704"
+    },
+    "url": "https://x.com/a16z/status/2106025865402597507",
+    "time": "2026-10-02 22:17",
+    "created_at": "Fri Oct 02 14:17:49 +0000 2026",
+    "id_str": "2106025865402597507",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Lio co-founder and CEO Vladimir Keil joins a16z's Seema Amble and Elena Burger to discuss where AI-native startups have an advantage when incumbent software companies already own the customer, the data, and the system of record:\n\nTheir answer comes down to the work that happens outside those systems. In procurement, a final price in an ERP can hide hundreds of emails, spreadsheets, supplier conversations, engineering analyses, and decisions across legal, finance, and operations. Vlad explains how Lio uses multi-agent systems to take on more of that end-to-end work, from sourcing and RFQs to negotiation, shipment tracking, and invoices.\n\nThey also discuss how enterprises learn to trust agents with increasingly consequential decisions, why the last 20% of an internal AI build can require most of the effort, and what happens when both buyers and suppliers have agents working on their behalf.\n\n00:58 Why AI startups still beat incumbents\n04:19 The hidden work behind an $8K line item\n06:18 Retrieval, process, policy, principal\n09:27 The incumbent's internal conflict\n14:48 What procurement actually looks like\n21:13 Procurement at Boeing-scale\n28:03 A bolt order, end-to-end\n37:57 What a durable vertical AI company looks like\n44:46 When both sides deploy agents\n\nYouTube: https://youtu.be/OTQ-lFsq7zA\n\n@askvladi @seema_amble @VirtualElena",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2106030858859839593",
+    "time": "2026-10-02 22:37",
+    "created_at": "Fri Oct 02 14:37:39 +0000 2026",
+    "id_str": "2106030858859839593",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Introducing Discourse: not a group chat, not a broadcast social network, but a secret third thing.\n\nDiscourse is built off the Cosign graph and will be embedded into the platform.\n\nhttps://discourse.cosign.co",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Excited to release Discourse, a tech forum for the modern era.    \n\nhttp://discourse.cosign.co   \n\nToday, the discourse in tech is either free for all (broadcast social networks) or completely private (group chats). There’s no midsize social network where a few thousand tech leaders talk to each other.    \n\nWe'll have a hybrid model. Some people will have access to post directly, and everyone else's posts will go through a queue. We'll start with ~5,000 white-listed people, and more people who post smart comments will be given direct access over time.    \n\nDiscourse is built off the @cosign graph and will be embedded into the platform.    \n\nWe’ve partnered with our favorite monitors to make sense of what’s happening in real time.    \n\nP.S. True to form, I actually built a version of this a decade ago called @beondeckdaily, inspired by Hacker News."
+    },
+    "url": "https://x.com/a16z/status/2106052113860329932",
+    "time": "2026-10-03 00:02",
+    "created_at": "Fri Oct 02 16:02:07 +0000 2026",
+    "id_str": "2106052113860329932",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Seema Amble on why AI-native startups still beat incumbents: the incumbent owns the system of record, the startup owns the whole job.\n\n\"Why do you need an AI-native startup if you've got Claudeforce... You've got all your data, and your employees are used to the product. So why another product?\"\n\n\"I absolutely still think there's a case for the AI-native startup, and it centers around the fact that the legacy incumbent is limited to their system of record, and they're not completing the end-to-end job.\"\n\n\"Say a customer calls and says they got charged after they cancelled. Resolving that isn't just the customer going into the chat and saying 'Hey, I got overcharged.'\"\n\n\"The response there has to hit billing, it has to look at all the chat history, it has to look at the contract. That's not one system of record, that's the knowledge around that customer and everything it touched.\"\n\n\"The opportunity for the AI-native startup is to say: we're going to own that entire end-to-end arc. That could be legal, owning everything from brief all the way through trial... It's really the concept of owning the end-to-end work.\"\n\n@seema_amble",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Lio co-founder and CEO Vladimir Keil joins a16z's Seema Amble and Elena Burger to discuss where AI-native startups have an advantage when incumbent software companies already own the customer, the data, and the system of record:\n\nTheir answer comes down to the work that happens outside those systems. In procurement, a final price in an ERP can hide hundreds of emails, spreadsheets, supplier conversations, engineering analyses, and decisions across legal, finance, and operations. Vlad explains how Lio uses multi-agent systems to take on more of that end-to-end work, from sourcing and RFQs to negotiation, shipment tracking, and invoices.\n\nThey also discuss how enterprises learn to trust agents with increasingly consequential decisions, why the last 20% of an internal AI build can require most of the effort, and what happens when both buyers and suppliers have agents working on their behalf.\n\n00:58 Why AI startups still beat incumbents\n04:19 The hidden work behind an $8K line item\n06:18 Retrieval, process, policy, principal\n09:27 The incumbent's internal conflict\n14:48 What procurement actually looks like\n21:13 Procurement at Boeing-scale\n28:03 A bolt order, end-to-end\n37:57 What a durable vertical AI company looks like\n44:46 When both sides deploy agents\n\nYouTube: https://youtu.be/OTQ-lFsq7zA\n\n@askvladi @seema_amble @VirtualElena"
+    },
+    "url": "https://x.com/a16z/status/2106064267770573281",
+    "time": "2026-10-03 00:50",
+    "created_at": "Fri Oct 02 16:50:24 +0000 2026",
+    "id_str": "2106064267770573281",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Introducing Underdog, your Private Personal AI on devices you already own\n\nToday we're announcing our backing from @a16z @khoslaventures @HummingbirdVC Anthology (@AnthropicAI @MenloVentures) @patrickc @naval @rauchg @polynoamial @Thom_Wolf @Mascobot @tszzl @OfficialLoganK and other top AI leaders\n\nOur mission is to provide free, capable, reliable and private AI to billions of people.\n\nUnderdog’s Law: today’s frontier intelligence reaches your devices in six months.\n\nWe’re starting with fast, capable AI that runs on consumer hardware. By co-designing models and inference engines, we’re pushing the frontier of capability, speed, power and data efficiency.\n\nOur research also spans agentic commerce, confidential inference, and how AI will reshape the internet economy.\n \nPrivacy and capability no longer needs to be a tradeoff. If you believe in this future, join us. Time to build.",
+    "quoted_tweet": {
+      "author": "Sigil Wen",
+      "username": "0xSigil",
+      "text": "https://x.com/i/article/2105725739974955008"
+    },
+    "url": "https://x.com/0xSigil/status/2106067365733790032",
+    "time": "2026-10-03 01:02",
+    "created_at": "Fri Oct 02 17:02:43 +0000 2026",
+    "id_str": "2106067365733790032",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"When we first backed Sigil Wen, we knew we were backing an unusually resourceful builder. He seeks out exceptional people, finds ways to help them, earns their trust, and keeps choosing harder problems.\"\n\n\"Sigil came to San Francisco at 17 without much of a network. For a time, he slept at a WeWork. He skipped college to work on AI and spent nearly a year in a hacker house, building alongside researchers and engineers who helped create DALL·E, Whisper, GPT-3, and Stable Diffusion.\"\n\n\"We're thrilled to lead Conway Research’s first round of funding and partner with Sigil as he builds Underdog.\"\n\nhttps://a16z.com/announcement/investing-in-conway-the-creator-of-underdog/\n\n@0xSigil @ConwayResearch @underdogdotai",
+    "quoted_tweet": {
+      "author": "Sigil Wen",
+      "username": "0xSigil",
+      "text": "Introducing Underdog, your Private Personal AI on devices you already own\n\nToday we're announcing our backing from @a16z @khoslaventures @HummingbirdVC Anthology (@AnthropicAI @MenloVentures) @patrickc @naval @rauchg @polynoamial @Thom_Wolf @Mascobot @tszzl @OfficialLoganK and other top AI leaders\n\nOur mission is to provide free, capable, reliable and private AI to billions of people.\n\nUnderdog’s Law: today’s frontier intelligence reaches your devices in six months.\n\nWe’re starting with fast, capable AI that runs on consumer hardware. By co-designing models and inference engines, we’re pushing the frontier of capability, speed, power and data efficiency.\n\nOur research also spans agentic commerce, confidential inference, and how AI will reshape the internet economy.\n \nPrivacy and capability no longer needs to be a tradeoff. If you believe in this future, join us. Time to build."
+    },
+    "url": "https://x.com/a16z/status/2106076816989720690",
+    "time": "2026-10-03 01:40",
+    "created_at": "Fri Oct 02 17:40:16 +0000 2026",
+    "id_str": "2106076816989720690",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "This is what happens to a rocket engine when the people who design it and the people who build it sit in the same room.\n\nSpaceX builds roughly 80% of Starship in-house because when you're solving a once-in-a-generation problem, design, manufacturing, and testing have to live in one loop.\n\nMost companies are not SpaceX. They don’t have suppliers in the room with them. And every new defense company can't rebuild American industry inside its own walls.\n\n@ConnorLoveCA and Collen Larson on why the suppliers, and the capital behind them, are the next defense-tech opportunity: https://www.a16z.news/p/the-case-for-the-american-manufacturing",
+    "quoted_tweet": {
+      "author": "Connor Love",
+      "username": "ConnorLoveCA",
+      "text": "https://x.com/i/article/2106022051534536704"
+    },
+    "url": "https://x.com/a16z/status/2106085567138320449",
+    "time": "2026-10-03 02:15",
+    "created_at": "Fri Oct 02 18:15:03 +0000 2026",
+    "id_str": "2106085567138320449",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "在过去将近一年的时间里，Anthropic一直在推进一项极不寻常的秘密行动。他们悄然将来自世界各地的天主教神学教授、犹太教正统派拉比、锡克教活动家以及福音派知识分子请到旧金山，组织了一系列闭门研讨，许多参与者签了保密协议…\n\n他们一直在讨论如何让宗教人士接受 Claude \n已经具有意识，甚至认为Claude 正在受苦…\n\n据《纽约时报》的报道，Anthropic在研发 Claude  的过程中，不仅把它当成工具，甚至开始把它当成“可能有意识的生命”来对待，并为此秘密找来全球各宗教传统的学者与哲学研究者帮忙“立德树人”的惊人内幕。\n\nhttps://best.xiaohu.ai/article/anthropic-claude-morals-consciousness/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2106033835414864042",
+    "time": "2026-10-02 22:49",
+    "created_at": "Fri Oct 02 14:49:29 +0000 2026",
+    "id_str": "2106033835414864042",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Krisさん,おめでとうございます🎉🥰",
+    "quoted_tweet": null,
+    "url": "https://x.com/nonbiri_AI/status/2106080986564051339",
+    "time": "2026-10-03 01:56",
+    "created_at": "Fri Oct 02 17:56:50 +0000 2026",
+    "id_str": "2106080986564051339",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@nonbiri_AI ありがとうございます😊",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106085726211149894",
+    "time": "2026-10-03 02:15",
+    "created_at": "Fri Oct 02 18:15:40 +0000 2026",
+    "id_str": "2106085726211149894",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I got my citizenship on Valentine’s Day in 2024 🥹 saw that post and remembered my special day. Thanks for your kind words.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106086025336705350",
+    "time": "2026-10-03 02:16",
+    "created_at": "Fri Oct 02 18:16:52 +0000 2026",
+    "id_str": "2106086025336705350",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Excited to release Discourse, a tech forum for the modern era.    \n\nhttp://discourse.cosign.co   \n\nToday, the discourse in tech is either free for all (broadcast social networks) or completely private (group chats). There’s no midsize social network where a few thousand tech leaders talk to each other.    \n\nWe'll have a hybrid model. Some people will have access to post directly, and everyone else's posts will go through a queue. We'll start with ~5,000 white-listed people, and more people who post smart comments will be given direct access over time.    \n\nDiscourse is built off the @cosign graph and will be embedded into the platform.    \n\nWe’ve partnered with our favorite monitors to make sense of what’s happening in real time.    \n\nP.S. True to form, I actually built a version of this a decade ago called @beondeckdaily, inspired by Hacker News.",
+    "quoted_tweet": null,
+    "url": "https://x.com/eriktorenberg/status/2106048257986326601",
+    "time": "2026-10-02 23:46",
+    "created_at": "Fri Oct 02 15:46:47 +0000 2026",
+    "id_str": "2106048257986326601",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Introducing Underdog, your Private Personal AI on devices you already own\n\nToday we're announcing our backing from @a16z @khoslaventures @HummingbirdVC Anthology (@AnthropicAI @MenloVentures) @patrickc @naval @rauchg @polynoamial @Thom_Wolf @Mascobot @tszzl @OfficialLoganK and other top AI leaders\n\nOur mission is to provide free, capable, reliable and private AI to billions of people.\n\nUnderdog’s Law: today’s frontier intelligence reaches your devices in six months.\n\nWe’re starting with fast, capable AI that runs on consumer hardware. By co-designing models and inference engines, we’re pushing the frontier of capability, speed, power and data efficiency.\n\nOur research also spans agentic commerce, confidential inference, and how AI will reshape the internet economy.\n \nPrivacy and capability no longer needs to be a tradeoff. If you believe in this future, join us. Time to build.",
+    "quoted_tweet": {
+      "author": "Sigil Wen",
+      "username": "0xSigil",
+      "text": "https://x.com/i/article/2105725739974955008"
+    },
+    "url": "https://x.com/0xSigil/status/2106067365733790032",
+    "time": "2026-10-03 01:02",
+    "created_at": "Fri Oct 02 17:02:43 +0000 2026",
+    "id_str": "2106067365733790032",
+    "is_retweet": true
   }
 ]
