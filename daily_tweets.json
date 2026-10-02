@@ -65,5 +65,90 @@
     "created_at": "Fri Oct 02 21:18:48 +0000 2026",
     "id_str": "2106131810921136451",
     "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown i think this is called a printer",
+    "quoted_tweet": null,
+    "url": "https://x.com/jeffzwang/status/2106098882740711727",
+    "time": "2026-10-03 03:07",
+    "created_at": "Fri Oct 02 19:07:57 +0000 2026",
+    "id_str": "2106098882740711727",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "woah woah hold on let's talk about this. what if... \nhear me out.... what if we added an ADDITIONAL left side bar, and a new an improved bottom bar?",
+    "quoted_tweet": {
+      "author": "Andrew Ambrosino",
+      "username": "ajambrosino",
+      "text": "we are going to simplify the app"
+    },
+    "url": "https://x.com/rileybrown/status/2106099791872561464",
+    "time": "2026-10-03 03:11",
+    "created_at": "Fri Oct 02 19:11:34 +0000 2026",
+    "id_str": "2106099791872561464",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@jeffzwang I want like a magazine tho.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2106100591068106881",
+    "time": "2026-10-03 03:14",
+    "created_at": "Fri Oct 02 19:14:45 +0000 2026",
+    "id_str": "2106100591068106881",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "YESSSSSS",
+    "quoted_tweet": {
+      "author": "Nat Friedman",
+      "username": "natfriedman",
+      "text": "🚨 side project alert 🚨\n\nAnnouncing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse.\n\nGrab an API token from http://gadgets.muse.ai and point your favorite coding agent at the github repo to build your own peripherals for Muse."
+    },
+    "url": "https://x.com/rileybrown/status/2106101963054080119",
+    "time": "2026-10-03 03:20",
+    "created_at": "Fri Oct 02 19:20:12 +0000 2026",
+    "id_str": "2106101963054080119",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown I feel like the right side is kinda unused and empty. We could improve that as well.",
+    "quoted_tweet": null,
+    "url": "https://x.com/MichalLangmajer/status/2106106354641543271",
+    "time": "2026-10-03 03:37",
+    "created_at": "Fri Oct 02 19:37:39 +0000 2026",
+    "id_str": "2106106354641543271",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@MichalLangmajer omg yes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2106107558708564325",
+    "time": "2026-10-03 03:42",
+    "created_at": "Fri Oct 02 19:42:26 +0000 2026",
+    "id_str": "2106107558708564325",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Building something cool.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2106136947765002318",
+    "time": "2026-10-03 05:39",
+    "created_at": "Fri Oct 02 21:39:13 +0000 2026",
+    "id_str": "2106136947765002318",
+    "is_retweet": false
   }
 ]
