@@ -1715,5 +1715,462 @@
     "created_at": "Thu Oct 01 20:45:26 +0000 2026",
     "id_str": "2105761025991844008",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "今天在测试 Manus 时学到一个提示词技巧，就是画图的时候，不用提示词控制样式风格，而是直接给参考图，并且参考图中包含颜色、字体示范、宣纸纤维、墨迹边缘、水痕、远山、印章与留白规则等等\n\n这样出图的稳定性会更高，内容提示词也可以很简单。\n\n图1: 参考图\n\n图2 content_prompt ：\n> 标题‘茶与慢生活’，副标题‘留一点时间，给一杯茶’。设计需遵循参考图中的风格：安静、内敛、侘寂，使用水墨极简风格和水墨留白，背景为宣纸纹理。文字应居中、清晰。\n\n图3 content_prompt：\n> 标题‘把日常慢下来’。内容：‘温杯：先感受器物的温度’、‘闻香：留意茶叶与水的气息’、‘品饮：小口饮茶，短暂停留’。设计需遵循第一页和参考图中的风格：安静、内敛、水墨极简风格，使用少量水墨元素（如远山、茶具水痕等）在留白区域点缀，背景为宣纸纹理。文字排版应体现层次感和留白。\n\n--- 图2 完整提示词 ---\n\nCreate a professional presentation slide with the following content:\n\n标题‘茶与慢生活’，副标题‘留一点时间，给一杯茶’。设计需遵循参考图中的风格：安静、内敛、侘寂，使用水墨极简风格和水墨留白，背景为宣纸纹理。文字应居中、清晰。\n\nHierarchy & Layout Guidance:\n- Lead with the most important narrative element (headline / metric) and follow with supporting copy in clear sections\n- Any charts should reflect real data provided in the content prompt and stay faithful to the described sources\n- Arrange imagery and copy so the viewer can scan left-to-right or top-to-bottom; avoid vertical stacking of charts/images\n\nVisual Direction:\n- Professional and clean\n- Follow the style of the previous slide image (if provided) for visual continuity\n\nRequirements:\n- Professional presentation layout with clear visual hierarchy\n- Text must be clearly readable with appropriate contrast against the background\n- Include title area and content area as appropriate\n- Maintain consistent style suitable for a professional presentation\n- High quality, publication-ready visual design\n- All text should be sharp and legible\n- Keep all essential text comfortably inside the frame; avoid placing text at the very edges\n- Balance visual elements with whitespace so the slide feels clean and not cluttered",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2105775463624810788",
+    "time": "Thu Oct 01 21:42:48 +0000 2026",
+    "created_at": "Thu Oct 01 21:42:48 +0000 2026",
+    "id_str": "2105775463624810788",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "据说 Fable 5.5 要来了，这是 Fable 5.5 做的网页，可以根据经过的图片的艺术风格动态变换自身风格\n\n这是在线演示： https://claude.ai/artifact/7F2XhpmgiuyxHKgQ9Vgr9Q\n\n",
+    "quoted_tweet": {
+      "author": "Chetaslua",
+      "username": "chetaslua",
+      "text": "Welcome To the era of Super intelligence : Fable 5.5\n\nbehold superman in continuous animation in different art style"
+    },
+    "url": "https://x.com/dotey/status/2105780532571496671",
+    "time": "Thu Oct 01 22:02:57 +0000 2026",
+    "created_at": "Thu Oct 01 22:02:57 +0000 2026",
+    "id_str": "2105780532571496671",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "SVG 能力\nhttps://x.com/notjazii/status/2105751542498464169?s=20",
+    "quoted_tweet": {
+      "author": "J A Z I I",
+      "username": "notjazii",
+      "text": "fable 5.5 vs fable 5.1\n\nlooks like model routing started 2 days ago, but i only noticed now thanks to friends in discord\n\nthis has to be smartest model of all, even simple prompts are giving better outputs, no more hand holding\n\nno idea when it’s gonna be out but for here are some svg outputs\n\nrunning some 3d tests now and will report back as soon as they’re done\n\ntry prompt in the quoted post and see if you have access or not"
+    },
+    "url": "https://x.com/dotey/status/2105782312034341067",
+    "time": "Thu Oct 01 22:10:01 +0000 2026",
+    "created_at": "Thu Oct 01 22:10:01 +0000 2026",
+    "id_str": "2105782312034341067",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "We spend a lot of time debating which AI model is best and less time asking who can pay their bills.\n\nBoth @AnthropicAI  and @OpenAI are reportedly looking to get investment grade credit ratings.\n\n@AIRPlatforms decided to rate them before the agencies did.\n\nAIR estimates Anthropic’s credit rating at BBB and OpenAI’s at BB+, below investment grade.\n\nThe gap ultimately comes down to profitability.\n\nWorth reading if you’re following the AI race 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/DanielChesley/status/2105787619095302165",
+    "time": "Thu Oct 01 22:31:06 +0000 2026",
+    "created_at": "Thu Oct 01 22:31:06 +0000 2026",
+    "id_str": "2105787619095302165",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@DanielChesley @AnthropicAI @OpenAI @AIRPlatforms Crazy timing I was just thinking about this and labs' abilities to IPO.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2105788201462063455",
+    "time": "Thu Oct 01 22:33:25 +0000 2026",
+    "created_at": "Thu Oct 01 22:33:25 +0000 2026",
+    "id_str": "2105788201462063455",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "There's a lot of talk about the big labs and their ability to IPO. \n\nThis is a must read if you're curious about the AI bubble and how Anthropic vs OpenAI shakes out.",
+    "quoted_tweet": {
+      "author": "Daniel Chesley",
+      "username": "DanielChesley",
+      "text": "We spend a lot of time debating which AI model is best and less time asking who can pay their bills.\n\nBoth @AnthropicAI  and @OpenAI are reportedly looking to get investment grade credit ratings.\n\n@AIRPlatforms decided to rate them before the agencies did.\n\nAIR estimates Anthropic’s credit rating at BBB and OpenAI’s at BB+, below investment grade.\n\nThe gap ultimately comes down to profitability.\n\nWorth reading if you’re following the AI race 👇"
+    },
+    "url": "https://x.com/vasuman/status/2105788505888887222",
+    "time": "Thu Oct 01 22:34:38 +0000 2026",
+    "created_at": "Thu Oct 01 22:34:38 +0000 2026",
+    "id_str": "2105788505888887222",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "HOW TO BECOME A FORWARD DEPLOYED ENGINEER (53 MIN MASTERCLASS)\n\nSome forward deployed engineers are getting PAID $1M+/year (kinda crazy, I know)\n\nAnd I REALIZED almost nobody talks about HOW they do it in any detail. It's basically nowhere online.\n\nSo I asked someone who does it ALL DAY LONG for Fortune 500 companies to walk me through it, step by step. and he shares EXACTLY how he does it\n\nhttp://youtube.com/watch?v=1a5HxU52vCQ\n\nHere's what I learned:\n\n1. They start by listening, not building. They interview the people doing the work and let agents quietly read the company's data for a few weeks. The real process is almost always 3x longer than the one on paper.\n\n2. They sort every step into four buckets: delete it, automate it with a simple rule, give it to an AI agent, or keep a human on it. A surprising amount ends up in the first bucket.\n\n3. They build inside the tools the company already uses. Nobody has to learn a new app. When a human needs to sign off, it's just a Slack message.\n\n4. They use the cheapest model that gets the job done. Most of this work doesn't need the most expensive AI.\n\n5. They measure everything before and after, then come back 6 months later and prove it worked.\n\nThis + concrete client examples + way more on today's episode of @startupideaspod (thanks to @vasuman)\n\nA full course pretty much on the topic aivalable to you 100% for free.  \n\nThis episode is for ANYONE who wants to be a FDE or who wants to make their company AI-native by deploying agents.\n\nWatch",
+    "quoted_tweet": null,
+    "url": "https://x.com/gregisenberg/status/2105793758616866834",
+    "time": "Thu Oct 01 22:55:30 +0000 2026",
+    "created_at": "Thu Oct 01 22:55:30 +0000 2026",
+    "id_str": "2105793758616866834",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "HOW TO BECOME A FORWARD DEPLOYED ENGINEER (53 MIN MASTERCLASS)\n\nSome forward deployed engineers are getting PAID $1M+/year (kinda crazy, I know)\n\nAnd I REALIZED almost nobody talks about HOW they do it in any detail. It's basically nowhere online.\n\nSo I asked someone who does it ALL DAY LONG for Fortune 500 companies to walk me through it, step by step. and he shares EXACTLY how he does it\n\nhttp://youtube.com/watch?v=1a5HxU52vCQ\n\nHere's what I learned:\n\n1. They start by listening, not building. They interview the people doing the work and let agents quietly read the company's data for a few weeks. The real process is almost always 3x longer than the one on paper.\n\n2. They sort every step into four buckets: delete it, automate it with a simple rule, give it to an AI agent, or keep a human on it. A surprising amount ends up in the first bucket.\n\n3. They build inside the tools the company already uses. Nobody has to learn a new app. When a human needs to sign off, it's just a Slack message.\n\n4. They use the cheapest model that gets the job done. Most of this work doesn't need the most expensive AI.\n\n5. They measure everything before and after, then come back 6 months later and prove it worked.\n\nThis + concrete client examples + way more on today's episode of @startupideaspod (thanks to @vasuman)\n\nA full course pretty much on the topic aivalable to you 100% for free.  \n\nThis episode is for ANYONE who wants to be a FDE or who wants to make their company AI-native by deploying agents.\n\nWatch",
+    "quoted_tweet": null,
+    "url": "https://x.com/gregisenberg/status/2105793758616866834",
+    "time": "Thu Oct 01 22:55:30 +0000 2026",
+    "created_at": "Thu Oct 01 22:55:30 +0000 2026",
+    "id_str": "2105793758616866834",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@gregisenberg Thanks for having me on brother, always a good time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2105795241639137371",
+    "time": "Thu Oct 01 23:01:24 +0000 2026",
+    "created_at": "Thu Oct 01 23:01:24 +0000 2026",
+    "id_str": "2105795241639137371",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's David George on product cycles versus capital cycles, and his scorecard for the last 15 years of tech:\n\n\"AI is unique because if you throw more money at it, it can just scale up and get better. That is different than previous cycles.\"\n\n\"If you threw endless amounts of money at ServiceNow or Workday or Salesforce during the SaaS era, they would get all messed up... Whereas if you put $40 billion towards training these models, they get much better.\"\n\n\"I think about the world as product cycles and capital cycles... In 2021, we were at like a 1 out of 10. We didn't realize it at the time. That was late SaaS, late cloud, post-mobile phone growth... There was no room for something new.\"\n\n\"In 2010 it was like an 8 out of 10. Right now product cycle is like a 9 or 10.\"\n\n\"Your ideal would be a 10 on product cycle and a 10 on capital cycle, meaning valuations are really low. They almost never coincide.\"\n\n\"Like 2023, early days of when AI started working... capital cycle was like a 7... Right now we're probably at a 6. It's okay, but not great.\"\n\n\"But the thing that drives our business over 10 years, whether it's venture or growth, is the product cycles. And that's like a 9 or 10 right now.\"\n\n@DavidGeorge83 w/ @jaltma",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2105793104523731344",
+    "time": "Thu Oct 01 22:52:54 +0000 2026",
+    "created_at": "Thu Oct 01 22:52:54 +0000 2026",
+    "id_str": "2105793104523731344",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "there’s so much design talent + cool stuff on X that this place has basically become my daily source of inspiration and self-doubt spiraling 🌀\n\nanyway, here's a little midjourney chill + a metaphor for mirroring and embodying the things you love 💋",
+    "quoted_tweet": null,
+    "url": "https://x.com/ioana_teleanu/status/2105751101697929280",
+    "time": "Thu Oct 01 20:06:00 +0000 2026",
+    "created_at": "Thu Oct 01 20:06:00 +0000 2026",
+    "id_str": "2105751101697929280",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @akari_w0r1d Threads seems to be the way too",
+    "quoted_tweet": null,
+    "url": "https://x.com/NotPhilSledge/status/2105753120986849493",
+    "time": "Thu Oct 01 20:14:01 +0000 2026",
+    "created_at": "Thu Oct 01 20:14:01 +0000 2026",
+    "id_str": "2105753120986849493",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A quick question, please:\nWhen you pin a post to the top of your account, what effect does it have on the post?\nI thought it would boost (a little) the post, but with the last two I pinned, I noticed the impressions stopped increasing. Maybe I'm wrong. \nWhat about you? I would appreciate your feedback, please.",
+    "quoted_tweet": null,
+    "url": "https://x.com/dvorahfr/status/2105754657117417756",
+    "time": "Thu Oct 01 20:20:07 +0000 2026",
+    "created_at": "Thu Oct 01 20:20:07 +0000 2026",
+    "id_str": "2105754657117417756",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NotPhilSledge @akari_w0r1d Yeah even better views there",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105760799729856843",
+    "time": "Thu Oct 01 20:44:32 +0000 2026",
+    "created_at": "Thu Oct 01 20:44:32 +0000 2026",
+    "id_str": "2105760799729856843",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @akari_w0r1d I have posts on here and Facebook, on facebook I see 100k + views\nOn X the same posts are only getting 20 to 50 views total \nX is not good for small accounts",
+    "quoted_tweet": null,
+    "url": "https://x.com/derek_ai/status/2105761905734500709",
+    "time": "Thu Oct 01 20:48:56 +0000 2026",
+    "created_at": "Thu Oct 01 20:48:56 +0000 2026",
+    "id_str": "2105761905734500709",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@derek_ai @akari_w0r1d Same for big accounts to be honest. Videos just don’t perform too well here.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105762416000721351",
+    "time": "Thu Oct 01 20:50:57 +0000 2026",
+    "created_at": "Thu Oct 01 20:50:57 +0000 2026",
+    "id_str": "2105762416000721351",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ioana_teleanu Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105762605625422264",
+    "time": "Thu Oct 01 20:51:43 +0000 2026",
+    "created_at": "Thu Oct 01 20:51:43 +0000 2026",
+    "id_str": "2105762605625422264",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@derek_ai @icreatelife Oh, so it’s not just me struggling to get views on X! 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/akari_w0r1d/status/2105762909087551527",
+    "time": "Thu Oct 01 20:52:55 +0000 2026",
+    "created_at": "Thu Oct 01 20:52:55 +0000 2026",
+    "id_str": "2105762909087551527",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@akari_w0r1d @derek_ai Yes, I love X and thought I'll never have to shift to another platform but was recently posting more on IG, Threads and YT. Seems more positive engagement there and views.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105763807406747671",
+    "time": "Thu Oct 01 20:56:29 +0000 2026",
+    "created_at": "Thu Oct 01 20:56:29 +0000 2026",
+    "id_str": "2105763807406747671",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Forget K-9. Cats-9 just took over the precinct. 😼🚨",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105767478878244887",
+    "time": "Thu Oct 01 21:11:04 +0000 2026",
+    "created_at": "Thu Oct 01 21:11:04 +0000 2026",
+    "id_str": "2105767478878244887",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @RezanovaArt “Cats-9” made me laugh, I see what you did there 😆 \n\nAlso, Kris, have you seen the trailer for my Game of Thrones Anime? https://x.com/xcaliber/status/2105088915380351022",
+    "quoted_tweet": {
+      "author": "𝕏Caliber",
+      "username": "XCaliber",
+      "text": "Game of Thrones Anime: Official Trailer\n\n#GoT #HouseoftheDragon    \n#لعبةالعروش"
+    },
+    "url": "https://x.com/XCaliber/status/2105772693983469989",
+    "time": "Thu Oct 01 21:31:48 +0000 2026",
+    "created_at": "Thu Oct 01 21:31:48 +0000 2026",
+    "id_str": "2105772693983469989",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@XCaliber @RezanovaArt Haha, thanks! I'm posting a series on my Instagram. It's about police :)) \n\nI haven't seen actual Game of Thrones but will check your anime",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105773152857121075",
+    "time": "Thu Oct 01 21:33:37 +0000 2026",
+    "created_at": "Thu Oct 01 21:33:37 +0000 2026",
+    "id_str": "2105773152857121075",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PandaDoesDesign @icreatelife oh no 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/camthaman/status/2105775929775755413",
+    "time": "Thu Oct 01 21:44:39 +0000 2026",
+    "created_at": "Thu Oct 01 21:44:39 +0000 2026",
+    "id_str": "2105775929775755413",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@camthaman @PandaDoesDesign I took it down. You mentioned Photoshop Relight, so I had an impression you used it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105776230285107425",
+    "time": "Thu Oct 01 21:45:51 +0000 2026",
+    "created_at": "Thu Oct 01 21:45:51 +0000 2026",
+    "id_str": "2105776230285107425",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @PandaDoesDesign Thankyou for thinking of me and apologies on the confusion.",
+    "quoted_tweet": null,
+    "url": "https://x.com/camthaman/status/2105777972334719312",
+    "time": "Thu Oct 01 21:52:46 +0000 2026",
+    "created_at": "Thu Oct 01 21:52:46 +0000 2026",
+    "id_str": "2105777972334719312",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@camthaman @PandaDoesDesign You have incredible talent. I am going to share your work separately mentioning your process to inspire others",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105778403601220025",
+    "time": "Thu Oct 01 21:54:29 +0000 2026",
+    "created_at": "Thu Oct 01 21:54:29 +0000 2026",
+    "id_str": "2105778403601220025",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Such talented painter. I admire people who can paint like this.",
+    "quoted_tweet": {
+      "author": "Cameron McPhee",
+      "username": "camthaman",
+      "text": "I usually don’t get to practice painting until late at night, when I’m tired. But everyone is asleep, so that’s when I can really lock in. Here’s my last four painting studies. No photos, just brush strokes."
+    },
+    "url": "https://x.com/icreatelife/status/2105779113541693685",
+    "time": "Thu Oct 01 21:57:18 +0000 2026",
+    "created_at": "Thu Oct 01 21:57:18 +0000 2026",
+    "id_str": "2105779113541693685",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dvorahfr It stopped working a while ago",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105790500984766777",
+    "time": "Thu Oct 01 22:42:33 +0000 2026",
+    "created_at": "Thu Oct 01 22:42:33 +0000 2026",
+    "id_str": "2105790500984766777",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Me 👋 Hope it finds you well.",
+    "quoted_tweet": {
+      "author": "Tal Siach",
+      "username": "Talsiach",
+      "text": "I built a skill that turns Opus 5.5 into a video studio.\n\nGave it a song. Got a music video.\n\n22+ visual styles. No video model. No animator. Every frame is code.\n\nHope this finds you well.\n\nIf I ever build an AI SDR, this is how I’d launch it."
+    },
+    "url": "https://x.com/Talsiach/status/2105795170910212481",
+    "time": "Thu Oct 01 23:01:07 +0000 2026",
+    "created_at": "Thu Oct 01 23:01:07 +0000 2026",
+    "id_str": "2105795170910212481",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Talsiach Nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105796083993681936",
+    "time": "Thu Oct 01 23:04:44 +0000 2026",
+    "created_at": "Thu Oct 01 23:04:44 +0000 2026",
+    "id_str": "2105796083993681936",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I am exploring ways to capture the Japanese sensibility.",
+    "quoted_tweet": null,
+    "url": "https://x.com/OmisoNFT/status/2105808758505169189",
+    "time": "Thu Oct 01 23:55:06 +0000 2026",
+    "created_at": "Thu Oct 01 23:55:06 +0000 2026",
+    "id_str": "2105808758505169189",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love this",
+    "quoted_tweet": {
+      "author": "/mi.so.no.noː.mi.so/",
+      "username": "OmisoNFT",
+      "text": "@icreatelife I am exploring ways to capture the Japanese sensibility."
+    },
+    "url": "https://x.com/icreatelife/status/2105808811898392712",
+    "time": "Thu Oct 01 23:55:19 +0000 2026",
+    "created_at": "Thu Oct 01 23:55:19 +0000 2026",
+    "id_str": "2105808811898392712",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@OmisoNFT Love this so much",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105808838511538231",
+    "time": "Thu Oct 01 23:55:25 +0000 2026",
+    "created_at": "Thu Oct 01 23:55:25 +0000 2026",
+    "id_str": "2105808838511538231",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Short film created by me @higgsfield_ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/EmeraldAI88/status/2105810310934540770",
+    "time": "2026-10-02 08:01",
+    "created_at": "Fri Oct 02 00:01:16 +0000 2026",
+    "id_str": "2105810310934540770",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@EmeraldAI88 @higgsfield_ai That’s nice! I was experimenting with Higgsfield recently",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2105810825097163002",
+    "time": "2026-10-02 08:03",
+    "created_at": "Fri Oct 02 00:03:19 +0000 2026",
+    "id_str": "2105810825097163002",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Today we’re launching http://doxx.net, enabling Agentic Defined Networking for everyone. We raised $38M from @a16z, @AnimoVentures and http://Focal.vc.\n\nCreate private networks for you and your AI agents, without a server in the middle. 38M+ threats blocked since December.\n\nOur first private-network call was a freedom call. Now it’s your turn.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BarrettLyon/status/2105689236623986864",
+    "time": "Thu Oct 01 16:00:10 +0000 2026",
+    "created_at": "Thu Oct 01 16:00:10 +0000 2026",
+    "id_str": "2105689236623986864",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "“make a techno optimist music video full of hype moments and insane motion graphics”",
+    "quoted_tweet": null,
+    "url": "https://x.com/zealcaiden/status/2105705296597524558",
+    "time": "Thu Oct 01 17:03:59 +0000 2026",
+    "created_at": "Thu Oct 01 17:03:59 +0000 2026",
+    "id_str": "2105705296597524558",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "pure slopcannon  i may be a horse   but if you show me the water   ima drink it",
+    "quoted_tweet": null,
+    "url": "https://x.com/jtevesobs/status/2105757762005487875",
+    "time": "Thu Oct 01 20:32:28 +0000 2026",
+    "created_at": "Thu Oct 01 20:32:28 +0000 2026",
+    "id_str": "2105757762005487875",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "https://x.com/i/article/2105725739974955008",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xSigil/status/2105782954094182442",
+    "time": "Thu Oct 01 22:12:34 +0000 2026",
+    "created_at": "Thu Oct 01 22:12:34 +0000 2026",
+    "id_str": "2105782954094182442",
+    "is_retweet": true
   }
 ]
