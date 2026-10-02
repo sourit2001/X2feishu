@@ -2172,5 +2172,123 @@
     "created_at": "Thu Oct 01 22:12:34 +0000 2026",
     "id_str": "2105782954094182442",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Quick updates on the Open Anonymity project (@OpenAnonProject)!\n\n1. OA-chat is live! You can now signup: https://chat.openanonymity.ai\n\n2. We collaborated with @ethereumfndn (@VitalikButerin, @DavideCrapis, @VittoStack, @curryrasul) to develop zkAPI, a new zero-knowledge protocol for accessing gated / paid APIs with unlinkability. It’s like a generalization of OA unlinkable inference that also abstracts payments away. Now also available on OA-chat!\n\nI'm excited because more infrastructure should exist where privacy and sovereignty is foundational and people are in control.",
+    "quoted_tweet": null,
+    "url": "https://x.com/kenziyuliu/status/2105750396719493447",
+    "time": "Thu Oct 01 20:03:12 +0000 2026",
+    "created_at": "Thu Oct 01 20:03:12 +0000 2026",
+    "id_str": "2105750396719493447",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Today the EF and OA announce zkAPI—a new means for private AI\n\nPicture this: deposit ether into a vault, sign a zk proof, get a fixed amount of private inference. Advances like these help us move past middlemen's requirements that we link our data and identities.\n\nRead more below",
+    "quoted_tweet": {
+      "author": "Ken Liu",
+      "username": "kenziyuliu",
+      "text": "Quick updates on the Open Anonymity project (@OpenAnonProject)!\n\n1. OA-chat is live! You can now signup: https://chat.openanonymity.ai\n\n2. We collaborated with @ethereumfndn (@VitalikButerin, @DavideCrapis, @VittoStack, @curryrasul) to develop zkAPI, a new zero-knowledge protocol for accessing gated / paid APIs with unlinkability. It’s like a generalization of OA unlinkable inference that also abstracts payments away. Now also available on OA-chat!\n\nI'm excited because more infrastructure should exist where privacy and sovereignty is foundational and people are in control."
+    },
+    "url": "https://x.com/ethereumfndn/status/2105753290977980682",
+    "time": "Thu Oct 01 20:14:42 +0000 2026",
+    "created_at": "Thu Oct 01 20:14:42 +0000 2026",
+    "id_str": "2105753290977980682",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Sitting through PowerPoints has become much better since we got good AI. Sure, some people just let AI do the thinking work, but that is obvious (and they used default templates before). For people who do care, they have interesting layouts & funny visual jokes & good diagrams.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2105706777832767984",
+    "time": "Thu Oct 01 17:09:52 +0000 2026",
+    "created_at": "Thu Oct 01 17:09:52 +0000 2026",
+    "id_str": "2105706777832767984",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Dot is extremely underrated and I think it's hard for most people to understand why\n\nDot is NOT better than Codex and it is NOT better than Claude code.\n\nIt is different.\n\nDot is the frontier's interpretation of OpenClaw/Hermes and it is a MUCH better product (more below)",
+    "quoted_tweet": null,
+    "url": "https://x.com/midotalks/status/2105684400578961408",
+    "time": "Thu Oct 01 15:40:57 +0000 2026",
+    "created_at": "Thu Oct 01 15:40:57 +0000 2026",
+    "id_str": "2105684400578961408",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@rileybrown Love it thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105689002905153761",
+    "time": "Thu Oct 01 15:59:14 +0000 2026",
+    "created_at": "Thu Oct 01 15:59:14 +0000 2026",
+    "id_str": "2105689002905153761",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@The_Alex We’re going to fix this but it’s a bit funny as your dot literally has to decide whether to pick up or not and sometimes it might just be busy with something else 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105689875655897093",
+    "time": "Thu Oct 01 16:02:42 +0000 2026",
+    "created_at": "Thu Oct 01 16:02:42 +0000 2026",
+    "id_str": "2105689875655897093",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I am going to try and answer a bunch of questions that people have raised about Sign in with ChatGPT in the next couple of days. Before that, I want to let you all in to why we shipped Sign in with ChatGPT (SIWC) in the first place. Clarify our intentions here before getting to the specifics.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vigyso/status/2105709572023607644",
+    "time": "Thu Oct 01 17:20:58 +0000 2026",
+    "created_at": "Thu Oct 01 17:20:58 +0000 2026",
+    "id_str": "2105709572023607644",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Damn WiFi",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "dots demo. \n\nNow... with better WiFi."
+    },
+    "url": "https://x.com/thsottiaux/status/2105718728658993153",
+    "time": "Thu Oct 01 17:57:21 +0000 2026",
+    "created_at": "Thu Oct 01 17:57:21 +0000 2026",
+    "id_str": "2105718728658993153",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@midotalks He gets it",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105718931235508277",
+    "time": "Thu Oct 01 17:58:10 +0000 2026",
+    "created_at": "Thu Oct 01 17:58:10 +0000 2026",
+    "id_str": "2105718931235508277",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@vigyso Good thread on details of Sign in with ChatGPT and how the subscription can be used in my partner products",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2105727933579137159",
+    "time": "Thu Oct 01 18:33:56 +0000 2026",
+    "created_at": "Thu Oct 01 18:33:56 +0000 2026",
+    "id_str": "2105727933579137159",
+    "is_retweet": false
   }
 ]
