@@ -771,5 +771,60 @@
     "created_at": "Fri Oct 02 17:02:43 +0000 2026",
     "id_str": "2106067365733790032",
     "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "stop stuffing your entire workflow into one giant system prompt. your agent reads all of it on every task, including the 90% that has nothing to do with what you just asked.\n\nsplit it into skills instead. one folder per job, one markdown file in each.\n\nonly the name and a one-line description stay loaded. the agent reads the full file when the task actually calls for it, and ignores the rest.\n\nso instead of one 5,000-word prompt covering everything you might ask, you get 20 small files and the agent picks the one it needs.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106032715049161191",
+    "time": "2026-10-02 22:45",
+    "created_at": "Fri Oct 02 14:45:02 +0000 2026",
+    "id_str": "2106032715049161191",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free → https://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106032728802275337",
+    "time": "2026-10-02 22:45",
+    "created_at": "Fri Oct 02 14:45:05 +0000 2026",
+    "id_str": "2106032728802275337",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106032740584108428",
+    "time": "2026-10-02 22:45",
+    "created_at": "Fri Oct 02 14:45:08 +0000 2026",
+    "id_str": "2106032740584108428",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Some feedback on ChatGPT Dots:\n\n- Dots cannot see schedules; their \"tasks\" are separate\n- There are no transcripts from voice mode calls\n- I like that I can move around the site without breaking the voice call\n- Cannot access local work mode sessions\n- You can connect other devices, but only one, and you cannot do much other than some commands; you can see local drives but not network drives\n- The dot itself cannot end the call; would love a voice trigger to start the call.\n- When connected to a computer, it cannot see the ChatGPT sessions\n- Pets, dots, minis - which is it? This should be the same thing\n\nOne observation from Code Cloud:\n- You cannot have a cloud *and* local session in the ChatGPT desktop app",
+    "quoted_tweet": null,
+    "url": "https://x.com/koltregaskes/status/2105982630932173141",
+    "time": "2026-10-02 19:26",
+    "created_at": "Fri Oct 02 11:26:01 +0000 2026",
+    "id_str": "2105982630932173141",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@koltregaskes Team is working on most of these, stay tuned!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106046594277954010",
+    "time": "2026-10-02 23:40",
+    "created_at": "Fri Oct 02 15:40:11 +0000 2026",
+    "id_str": "2106046594277954010",
+    "is_retweet": false
   }
 ]
