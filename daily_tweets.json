@@ -1,1 +1,212 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The statue of Prometheus is finally finished.\n\nIt was cast in Paris, crossed the Atlantic, and was assembled at Starbase. It took us 100 days to go from nothing to this.\n\nPeople of the West, we have lived through an era devoid of dreams, devoid of destiny.\n\nBut the time has come to reclaim our dream of antiquity.\n\nIn a few months, we will start building a new city. It will be the most magnificent city in all of history.\n\nAfter all, the great dream of the West has always been to rebuild Rome.\n\nCome walk beside us in this endeavor. The world is waiting.",
+    "quoted_tweet": null,
+    "url": "https://x.com/AtelierMissor_/status/2105817441792049314",
+    "time": "2026-10-02 08:29",
+    "created_at": "Fri Oct 02 00:29:36 +0000 2026",
+    "id_str": "2105817441792049314",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "4 astronauts \n130 payloads \n1 docking \n1 secret\n4 boosters landed\nAnother day at the office !",
+    "quoted_tweet": null,
+    "url": "https://x.com/jjfactorykat/status/2105874079320522884",
+    "time": "2026-10-02 12:14",
+    "created_at": "Fri Oct 02 04:14:40 +0000 2026",
+    "id_str": "2105874079320522884",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@AtelierMissor_ @Andercot Nice work",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2105889950139073000",
+    "time": "2026-10-02 13:17",
+    "created_at": "Fri Oct 02 05:17:44 +0000 2026",
+    "id_str": "2105889950139073000",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@nayibbukele 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2105890117638660232",
+    "time": "2026-10-02 13:18",
+    "created_at": "Fri Oct 02 05:18:24 +0000 2026",
+    "id_str": "2105890117638660232",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@jamesdouma 🚀🚀🚀🚀",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2105890441443090896",
+    "time": "2026-10-02 13:19",
+    "created_at": "Fri Oct 02 05:19:41 +0000 2026",
+    "id_str": "2105890441443090896",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@xenocosmography True",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2105890769789927678",
+    "time": "2026-10-02 13:20",
+    "created_at": "Fri Oct 02 05:20:59 +0000 2026",
+    "id_str": "2105890769789927678",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2105819303471976479",
+    "time": "2026-10-02 08:37",
+    "created_at": "Fri Oct 02 00:37:00 +0000 2026",
+    "id_str": "2105819303471976479",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@AtelierMissor_ Looks incredible!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2105826090724077598",
+    "time": "2026-10-02 09:03",
+    "created_at": "Fri Oct 02 01:03:59 +0000 2026",
+    "id_str": "2105826090724077598",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Do you use multiple agents? If so, want to try a fun new prototype that allows you to centrally store all your memories, skills, artifacts? \n\nFeel free to reply here, or send me a DM!",
+    "quoted_tweet": null,
+    "url": "https://x.com/akothari/status/2105802222236029256",
+    "time": "Thu Oct 01 23:29:08 +0000 2026",
+    "created_at": "Thu Oct 01 23:29:08 +0000 2026",
+    "id_str": "2105802222236029256",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@akothari hi",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105828934579261491",
+    "time": "2026-10-02 09:15",
+    "created_at": "Fri Oct 02 01:15:17 +0000 2026",
+    "id_str": "2105828934579261491",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "i have noticed this as well.",
+    "quoted_tweet": {
+      "author": "Sick",
+      "username": "sickdotdev",
+      "text": "Opus 5.5 usage is basically infinite on the $200 plan"
+    },
+    "url": "https://x.com/rileybrown/status/2105829907750437290",
+    "time": "2026-10-02 09:19",
+    "created_at": "Fri Oct 02 01:19:09 +0000 2026",
+    "id_str": "2105829907750437290",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@JdRaats ??? i don't post as podcasts really. i'm on youtube.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105830687752483323",
+    "time": "2026-10-02 09:22",
+    "created_at": "Fri Oct 02 01:22:15 +0000 2026",
+    "id_str": "2105830687752483323",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Spent all day setting up and building with my 3D printer and wow I’m obsessed. \n\nI cannot believe how frontier models like GPT-6 and Opus 5.5 have completely removed the learning curve. \n\nYou can just ideate and build stuff. \n\nI even downloaded Bambu studio on my Dots VM. Posting a video on my blog YouTube channel in an hour.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105847701136896240",
+    "time": "2026-10-02 10:29",
+    "created_at": "Fri Oct 02 02:29:51 +0000 2026",
+    "id_str": "2105847701136896240",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Is this speculation about “routing to fable 5.5” or is it legit.",
+    "quoted_tweet": {
+      "author": "Tak 🦞",
+      "username": "cherry_mx_reds",
+      "text": "I asked for a dot. Fable 5.5 gave me a Pixar side quest.\n\nYeah, it’s over."
+    },
+    "url": "https://x.com/rileybrown/status/2105853523862647081",
+    "time": "2026-10-02 10:52",
+    "created_at": "Fri Oct 02 02:52:59 +0000 2026",
+    "id_str": "2105853523862647081",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "who is going to ai engineering new york this month???",
+    "quoted_tweet": null,
+    "url": "https://x.com/jxnlco/status/2105859272911589874",
+    "time": "2026-10-02 11:15",
+    "created_at": "Fri Oct 02 03:15:50 +0000 2026",
+    "id_str": "2105859272911589874",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@jxnlco Sounds fun what’s that",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2105885688763679166",
+    "time": "2026-10-02 13:00",
+    "created_at": "Fri Oct 02 05:00:48 +0000 2026",
+    "id_str": "2105885688763679166",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "We cannot build new data centers fast enough - my cat has found his calling.",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2105880444923424997",
+    "time": "2026-10-02 12:39",
+    "created_at": "Fri Oct 02 04:39:58 +0000 2026",
+    "id_str": "2105880444923424997",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "July 24, 2025 @Nasdaq \n\nSeptember 29, 2026 @Cboe \n\nWhat’s next for TRON? 🔻",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": "TRON’s presence in global finance continues to expand into traditional markets.\n\nOur team joined @CanaryFunds to close the markets at @Cboe  to mark another moment for TRON on the institutional stage with TRXS."
+    },
+    "url": "https://x.com/justinsuntron/status/2105872400873132481",
+    "time": "2026-10-02 12:08",
+    "created_at": "Fri Oct 02 04:08:00 +0000 2026",
+    "id_str": "2105872400873132481",
+    "is_retweet": false
+  }
+]
