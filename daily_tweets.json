@@ -105,5 +105,149 @@
     "created_at": "Sat Oct 03 15:15:43 +0000 2026",
     "id_str": "2106402826511610122",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "I am very uncomfortable about people trying to ascribe religious force or a surrender of human judgment to AI models, and think it is a real safety issue.",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2106388373221118198",
+    "time": "2026-10-03 22:18",
+    "created_at": "Sat Oct 03 14:18:17 +0000 2026",
+    "id_str": "2106388373221118198",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@druncle @dotey",
+    "quoted_tweet": null,
+    "url": "https://x.com/Westlife29Nic/status/2106428184317337696",
+    "time": "2026-10-04 00:56",
+    "created_at": "Sat Oct 03 16:56:29 +0000 2026",
+    "id_str": "2106428184317337696",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Westlife29Nic @druncle 哈哈，所以我在右上角加了个水印",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2106429408194036037",
+    "time": "2026-10-04 01:01",
+    "created_at": "Sat Oct 03 17:01:21 +0000 2026",
+    "id_str": "2106429408194036037",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "好事情，Google 的  Antigravity 也能用 Opus 5.5 和 Sonnet 5.5 了",
+    "quoted_tweet": {
+      "author": "Claude updates",
+      "username": "Claudeupdates11",
+      "text": "🚨 Claude Opus 5.5 and Sonnet 5.5 are now in Antigravity\n\nIf you're a paid user you can use the best Claude models in Antigravity"
+    },
+    "url": "https://x.com/dotey/status/2106432711527202914",
+    "time": "2026-10-04 01:14",
+    "created_at": "Sat Oct 03 17:14:28 +0000 2026",
+    "id_str": "2106432711527202914",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@OpenRouter co-founder Alex Atallah, in his first podcast since Stripe acquired the company, joins @Replit co-founder Amjad Masad and a16z's Erik Torenberg on why the future of AI is independence and specialization.\n\nIn this conversation, Alex walks through how the Stripe deal unfolded, why he wasn't originally looking to sell, and why \"payments and inference are going to blend together.\"\n\nPre-OpenRouter, the typical AI workflow had one model provider to choose from, and little pressure on that provider to lower prices. Now enterprises are diversifying across labs and open-weight models, and every board is asking about AI costs and benchmarks.\n\nAmjad argues if your company depends on one AI lab, it can turn into your competitor. So Replit is building the layer that lets enterprises use any model and any cloud, without being locked into either.\n\nAlex and Amjad are split on personal agents – Amjad runs one agent across his whole company and loves the cross-domain joins, while Alex says general agents cause you to sacrifice understanding, and argues 10 specialized chiefs of staff beats one superagent.\n\n0:45 How the Stripe deal unfolded\n5:05 Why mixing models beats one model\n7:25 Forcing the labs to compete on price\n8:50 Enterprises want open-weight models\n10:30 Every board asks about AI every month\n12:25 Why companies must own their intelligence\n14:15 Replit as the independence layer\n15:10 Everyone is building the same agent\n16:35 Why Amjad built bring-your-own-cloud\n18:10 Amjad's agent that runs his whole company\n19:55 Why 10 specialized agents beat one\n23:35 Machines, not humans, should specialize\n27:30 Guardrails for agents talking to agents\n31:10 Models training their own replacements\n33:45 Most tasks don't need a frontier model\n40:50 Training small models on Qwen 8B\n43:25 The Rust cycle is coming for AI\n45:10 Fusion models: frontier quality at half the cost\n\nYouTube: https://youtu.be/ekK8urKHPMQ\n\n@alexatallah @OpenRouter @amasad @eriktorenberg",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2106408584460509308",
+    "time": "2026-10-03 23:38",
+    "created_at": "Sat Oct 03 15:38:36 +0000 2026",
+    "id_str": "2106408584460509308",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@OpenRouter co-founder Alex Atallah on what convinced him to do the Stripe deal: full autonomy, faster execution, same mission.\n\n\"We were not thinking about [selling] at all. I did really respect the company, and do really respect it today. Of possible acquisition options for us, it was my top choice.\"\n\n\"As we fleshed out the reasons why it would make sense for both companies, it got more and more interesting.\"\n\n\"It was really clear how aligned they were with us having autonomy over the brand, roadmap, and product, and keeping OpenRouter doing what it's already doing, just much faster, with a much more serious go-to-market plan.\"\n\n\"There was a bigger picture alignment too. Both Stripe and OpenRouter really want lots of new companies in the world. We don't want everyone to be part of one giant company.\"\n\n\"We want to create really good incentives and streamlined workflows for people to start new companies, on top of reliable and price efficient infrastructure and a marketplace that works.\"\n\n\"I really want that future, and Stripe demonstrated they've been wanting it for many, many years. In many ways, payments and inference are going to blend together for companies of the future.\"\n\n@alexatallah @amasad",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@OpenRouter co-founder Alex Atallah, in his first podcast since Stripe acquired the company, joins @Replit co-founder Amjad Masad and a16z's Erik Torenberg on why the future of AI is independence and specialization.\n\nIn this conversation, Alex walks through how the Stripe deal unfolded, why he wasn't originally looking to sell, and why \"payments and inference are going to blend together.\"\n\nPre-OpenRouter, the typical AI workflow had one model provider to choose from, and little pressure on that provider to lower prices. Now enterprises are diversifying across labs and open-weight models, and every board is asking about AI costs and benchmarks.\n\nAmjad argues if your company depends on one AI lab, it can turn into your competitor. So Replit is building the layer that lets enterprises use any model and any cloud, without being locked into either.\n\nAlex and Amjad are split on personal agents – Amjad runs one agent across his whole company and loves the cross-domain joins, while Alex says general agents cause you to sacrifice understanding, and argues 10 specialized chiefs of staff beats one superagent.\n\n0:45 How the Stripe deal unfolded\n5:05 Why mixing models beats one model\n7:25 Forcing the labs to compete on price\n8:50 Enterprises want open-weight models\n10:30 Every board asks about AI every month\n12:25 Why companies must own their intelligence\n14:15 Replit as the independence layer\n15:10 Everyone is building the same agent\n16:35 Why Amjad built bring-your-own-cloud\n18:10 Amjad's agent that runs his whole company\n19:55 Why 10 specialized agents beat one\n23:35 Machines, not humans, should specialize\n27:30 Guardrails for agents talking to agents\n31:10 Models training their own replacements\n33:45 Most tasks don't need a frontier model\n40:50 Training small models on Qwen 8B\n43:25 The Rust cycle is coming for AI\n45:10 Fusion models: frontier quality at half the cost\n\nYouTube: https://youtu.be/ekK8urKHPMQ\n\n@alexatallah @OpenRouter @amasad @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2106425419801235693",
+    "time": "2026-10-04 00:45",
+    "created_at": "Sat Oct 03 16:45:30 +0000 2026",
+    "id_str": "2106425419801235693",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@OpenRouter co-founder Alex Atallah on the \"everyone is building the same thing\" take:\n\n\"This reminds me of this tweet I saw... Everybody's building an agent loop with notifications, third-party connectors, context management, memory, sandboxes, agentic web search, an always-on agent on top.\"\n\n\"This product is showing up everywhere. It is showing up everywhere, but these are just the new table-stakes primitives.\"\n\n\"A 2005 version of that tweet would be: 'Oh, everybody's building the same thing. A database, a users table, a sign-in page, a sign-up page, a profile page, a logout page. Everything's the same.'\"\n\n\"There's like a lot of differentiation really. There's table-stakes needs for AI just like there's table-stakes needs for the web.\"\n\n@alexatallah @amasad",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@OpenRouter co-founder Alex Atallah, in his first podcast since Stripe acquired the company, joins @Replit co-founder Amjad Masad and a16z's Erik Torenberg on why the future of AI is independence and specialization.\n\nIn this conversation, Alex walks through how the Stripe deal unfolded, why he wasn't originally looking to sell, and why \"payments and inference are going to blend together.\"\n\nPre-OpenRouter, the typical AI workflow had one model provider to choose from, and little pressure on that provider to lower prices. Now enterprises are diversifying across labs and open-weight models, and every board is asking about AI costs and benchmarks.\n\nAmjad argues if your company depends on one AI lab, it can turn into your competitor. So Replit is building the layer that lets enterprises use any model and any cloud, without being locked into either.\n\nAlex and Amjad are split on personal agents – Amjad runs one agent across his whole company and loves the cross-domain joins, while Alex says general agents cause you to sacrifice understanding, and argues 10 specialized chiefs of staff beats one superagent.\n\n0:45 How the Stripe deal unfolded\n5:05 Why mixing models beats one model\n7:25 Forcing the labs to compete on price\n8:50 Enterprises want open-weight models\n10:30 Every board asks about AI every month\n12:25 Why companies must own their intelligence\n14:15 Replit as the independence layer\n15:10 Everyone is building the same agent\n16:35 Why Amjad built bring-your-own-cloud\n18:10 Amjad's agent that runs his whole company\n19:55 Why 10 specialized agents beat one\n23:35 Machines, not humans, should specialize\n27:30 Guardrails for agents talking to agents\n31:10 Models training their own replacements\n33:45 Most tasks don't need a frontier model\n40:50 Training small models on Qwen 8B\n43:25 The Rust cycle is coming for AI\n45:10 Fusion models: frontier quality at half the cost\n\nYouTube: https://youtu.be/ekK8urKHPMQ\n\n@alexatallah @OpenRouter @amasad @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2106444310187290762",
+    "time": "2026-10-04 02:00",
+    "created_at": "Sat Oct 03 18:00:34 +0000 2026",
+    "id_str": "2106444310187290762",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beautiful morning in New York \nSending you all some light \nHappy weekend, loves 🥹🫶✨",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106398583050141826",
+    "time": "2026-10-03 22:58",
+    "created_at": "Sat Oct 03 14:58:51 +0000 2026",
+    "id_str": "2106398583050141826",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 😍 have a lovely day Kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/titlejt/status/2106403564642034060",
+    "time": "2026-10-03 23:18",
+    "created_at": "Sat Oct 03 15:18:39 +0000 2026",
+    "id_str": "2106403564642034060",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Have a good day",
+    "quoted_tweet": null,
+    "url": "https://x.com/Renkasha/status/2106407142643441866",
+    "time": "2026-10-03 23:32",
+    "created_at": "Sat Oct 03 15:32:52 +0000 2026",
+    "id_str": "2106407142643441866",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Renkasha You too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106407626296696916",
+    "time": "2026-10-03 23:34",
+    "created_at": "Sat Oct 03 15:34:47 +0000 2026",
+    "id_str": "2106407626296696916",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@titlejt You too, Janice",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106407651911373022",
+    "time": "2026-10-03 23:34",
+    "created_at": "Sat Oct 03 15:34:54 +0000 2026",
+    "id_str": "2106407651911373022",
+    "is_retweet": false
   }
 ]
