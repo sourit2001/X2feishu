@@ -1,1 +1,179 @@
-[]
+[
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "即便是需要备案，中文网站的价值仍然比较大，尤其是新生的 GEO 领域，更是如此。我们这半年来自 Agent 和官网的询单其实是一直在涨的。另外有两个信息差供大家参考：\n\n1. 哪怕需要备案，独立官网的审核下线风险也远远比公众号小红书等封闭平台低的多的多。\n\n2. 来自官网的客户的支付能力和沟通效率远远远比来自抖音、小红书的客户强得多。\n\n综上，加之现在 AI 出个简单网站很容易，还是建议做一个。只是面向国内客户的话，别图省事不备案放在 cf 上。",
+    "quoted_tweet": {
+      "author": "Rainier",
+      "username": "mtrainier2020",
+      "text": "中文基本上没有独立网站的生态。所以基本上没有任何商业价值。\n国内的平台基本上都是一个个孤岛。\n而英文世界，独立站生态一直很繁荣。"
+    },
+    "url": "https://x.com/zhufengme/status/2105970084707762472",
+    "time": "2026-10-02 18:36",
+    "created_at": "Fri Oct 02 10:36:09 +0000 2026",
+    "id_str": "2105970084707762472",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "想给大家一个假期建议，这个假期一定有很多人来问你怎么拿AI帮他们赚钱，记住，除非开单付咨询费，否则一个有用的字都别输出，请客吃饭也不行。我只说结论，原因请同样吃过亏的同学评论区补充吧。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/zhufengme/status/2106273012282749265",
+    "time": "2026-10-03 14:39",
+    "created_at": "Sat Oct 03 06:39:53 +0000 2026",
+    "id_str": "2106273012282749265",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "现在农村的老人们刷短视频赚钱，一个月能赚几百\n这算不算一种 ubi？",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106289914342171135",
+    "time": "2026-10-03 15:47",
+    "created_at": "Sat Oct 03 07:47:03 +0000 2026",
+    "id_str": "2106289914342171135",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@zhufengme AI 不是要花钱买吗 怎么赚钱",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106290338067517930",
+    "time": "2026-10-03 15:48",
+    "created_at": "Sat Oct 03 07:48:44 +0000 2026",
+    "id_str": "2106290338067517930",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "所以，我们的 token 价格能下降10倍吗？",
+    "quoted_tweet": {
+      "author": "seekinganythingbutalpha",
+      "username": "ivanalog_com",
+      "text": "过去一周多，可能以后被证明是AI推理部署史上天翻地覆的一周。\n\n上个周末，我的本地机双5070ti试跑Qwen Flash，只能做到200 prefill，10decode。\n\n今天，在Strata和我自制的PR的支持下，目前可以跑到2200/67，而且只需要一张卡。\n\n即读写速度都提高了近十倍。\n\n更好的消费卡比如4090/5090，当然也有幅度相当大的升级（目前5090在流式处理的支持下，速度已经开始逼近RTX6000，当然显存还是不足）。\n\n这当然带来了消费级硬件的新一轮大涨价。如今，就连曾经无人问津的 32G B70英特尔显卡都卖断货涨价了。\n\n2200/67的速度是什么意思？\n\n今天除了deepseek，muse等少数模型，大部分API达不到这个速度。\n\n而一个普通的家用游戏电脑就可以达到这个水平。\n\n而这个水平，一周以前，只有5090，DGX spark，M3U这样的机器可以达到。\n\n也就是说，在过去的一周多，全球的普通家用电脑带来了十倍于上周的AI产量。\n\n这个增量，得益于deepseek- Qwen flash这种特殊设计，把智力分成了注意力，专家，和查表，\n\n也得益于Strata这样优秀的架构，把整个处理流水线化，让不同的智力，存储在不同速度的存储设备中，在需要用时刚好抵达。\n\n这对所有愿意拥有本地智力的人，当然是极大的利好。\n\n也许模型层的设计，正在快速收敛到一个目前硬件条件下的最优解？\n\n然而这对依赖出卖模型算力的生意，尤其是平庸的智力的商业来说，也可能是催命符。"
+    },
+    "url": "https://x.com/oran_ge/status/2106290636395843596",
+    "time": "2026-10-03 15:49",
+    "created_at": "Sat Oct 03 07:49:55 +0000 2026",
+    "id_str": "2106290636395843596",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@zhufengme 小红书的转化率 万分之一 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106295700258775435",
+    "time": "2026-10-03 16:10",
+    "created_at": "Sat Oct 03 08:10:02 +0000 2026",
+    "id_str": "2106295700258775435",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 我妈专门有一个手机静音刷短视频和小说，一个月赚200元。",
+    "quoted_tweet": null,
+    "url": "https://x.com/liangzhu_AI/status/2106316697569226944",
+    "time": "2026-10-03 17:33",
+    "created_at": "Sat Oct 03 09:33:28 +0000 2026",
+    "id_str": "2106316697569226944",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 这和我们刷 x 一个月赚几百刀原创奖励有啥本质区别 😆",
+    "quoted_tweet": null,
+    "url": "https://x.com/blackanger/status/2106330310753554802",
+    "time": "2026-10-03 18:27",
+    "created_at": "Sat Oct 03 10:27:34 +0000 2026",
+    "id_str": "2106330310753554802",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://x.com/i/article/2106333763282100224",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106333926914707780",
+    "time": "2026-10-03 18:41",
+    "created_at": "Sat Oct 03 10:41:56 +0000 2026",
+    "id_str": "2106333926914707780",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@blackanger 都是刷 🤔",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106350649227227282",
+    "time": "2026-10-03 19:48",
+    "created_at": "Sat Oct 03 11:48:23 +0000 2026",
+    "id_str": "2106350649227227282",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@liangzhu_AI 嗯嗯 很多老人这样的 用家里的旧手机做这个",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106350787278639499",
+    "time": "2026-10-03 19:48",
+    "created_at": "Sat Oct 03 11:48:56 +0000 2026",
+    "id_str": "2106350787278639499",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 我老丈人在抖音上，好的时候一个月好可以搞2000多，差的时候也能搞千把块，和人下棋、和一群老人对对子。暑假回去的时候专门给他买了个OPPO 16+*1T储存的手机。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seanxu198236440/status/2106356104859103668",
+    "time": "2026-10-03 20:10",
+    "created_at": "Sat Oct 03 12:10:04 +0000 2026",
+    "id_str": "2106356104859103668",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@seanxu198236440 相当可以。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106360325578903686",
+    "time": "2026-10-03 20:26",
+    "created_at": "Sat Oct 03 12:26:50 +0000 2026",
+    "id_str": "2106360325578903686",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "最近几个月看到的最美好的一段话，收藏很久，今天翻译成中文，方便随时发给身边的朋友们\n\n---\n\n我很容易陷进存在主义式的抑郁。脑子会不由自主地想：把尺度拉到最大看，我们做的任何事其实都不重要，那还费这个劲做什么？\n\n但我慢慢看出来，这份恐惧里头裹着的，是一种想被外面认可的心思。\n\n我很喜欢库布里克的一句话：\n\n\"宇宙最令人恐惧的，不在于它有敌意，而在于它对什么都无动于衷。不过，如果我们能与这份漠然和解，接受在死亡划定的边界内活着要面对的种种难处，我们作为一个物种的存在，才谈得上真实的意义和圆满。无论宇宙的黑暗多么辽阔，我们必须发出自己的光芒。\"\n\n它帮我以新的视角来看待人生，人生不是又外而内，而是由内而外。在你内心有一只小小的蜡烛，永远不要让它熄灭，要让它更加发光发亮。为你自己。就是这样。\n\n对，什么都不重要了。与此同时，什么都不重要啊！你是自由的，无拘无束。你可以把那支蜡烛带去任何你想去的地方。你的光芒自会把周围的世界照亮！\n\n---",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106360725484822814",
+    "time": "2026-10-03 20:28",
+    "created_at": "Sat Oct 03 12:28:25 +0000 2026",
+    "id_str": "2106360725484822814",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这段「鸡汤」的作者是 Osbidian 的作者 kepano\n英文原文在这里：https://x.com/kepano/status/2015076088364650835",
+    "quoted_tweet": {
+      "author": "kepano",
+      "username": "kepano",
+      "text": "I am prone to existential depression... My mind easily drifts towards thinking that in the grand scheme of things nothing we do really matters, so why bother doing anything at all?\n\nBut within this fear is a desire for some kind of external validation. I like this quote by Kubrick: \"The most terrifying fact about the universe is not that it is hostile but that it is indifferent. However vast the darkness, we must supply our own light.\" \n\nIt helps me reframe life from being outside-in to inside-out. Inside of you is a tiny candle and you are in control of it. Keep it alive and continue to expand that light. For yourself. That's all.\n\nYes, nothing matters. But also, nothing matters! You are free. You are free to take that inner candle anywhere you want. Its glow will naturally grow the things around you.\n\nhttps://x.com/kepano/status/1059099896437854208?s=46&t=IdiFvLmqpZWfOF6HUeEQrg"
+    },
+    "url": "https://x.com/oran_ge/status/2106360863422836786",
+    "time": "2026-10-03 20:28",
+    "created_at": "Sat Oct 03 12:28:58 +0000 2026",
+    "id_str": "2106360863422836786",
+    "is_retweet": false
+  }
+]
