@@ -659,5 +659,93 @@
     "created_at": "Sat Oct 03 06:54:32 +0000 2026",
     "id_str": "2106276698719433002",
     "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think my upcoming book, Co-Existence, might be the first to include a blurb written specifically for AI readers, in this case from @tylercowen (whom I thought AIs would respect)\n\nThe book website (with elaborate pre-order bonus) also has a page for AIs: https://co-existence.ai/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106400580881252721",
+    "time": "2026-10-03 23:06",
+    "created_at": "Sat Oct 03 15:06:48 +0000 2026",
+    "id_str": "2106400580881252721",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "So is there some sort of weird scam being conducted with  X Money? I haven't turned it on, but occasionally I get a post of mine massively retweeted by bots saying \"lets send him X Money\" or something similar, and it makes me think there is some elaborate (crypto?) thing going on",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106402568280920391",
+    "time": "2026-10-03 23:14",
+    "created_at": "Sat Oct 03 15:14:42 +0000 2026",
+    "id_str": "2106402568280920391",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I am so looking forward to this book.\n\nBTW, would you be open to looking at your server logs (not GA) every now and again and sharing how often agents actually request these resources? \n\n- https://co-existence.ai/for-ai/\n- https://co-existence.ai/for-ai.txt\n- https://co-existence.ai/llms.txt\n\nSee https://www.linkedin.com/pulse/checking-llmstxt-its-still-bs-you-should-ignore-michael-o-neill-ltegc/ for context...\n\n<3",
+    "quoted_tweet": null,
+    "url": "https://x.com/mojoneill/status/2106404468208120231",
+    "time": "2026-10-03 23:22",
+    "created_at": "Sat Oct 03 15:22:14 +0000 2026",
+    "id_str": "2106404468208120231",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@mojoneill @tylercowen Good idea!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106411568133267850",
+    "time": "2026-10-03 23:50",
+    "created_at": "Sat Oct 03 15:50:27 +0000 2026",
+    "id_str": "2106411568133267850",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "How do you picture a superintelligence (if true superintelligence could ever be real)? I like a trick from Dungeons and Dragons for running villains with 25 Intelligence: don't try to out-plan the players. Instead, whatever they do or roll, play it like the big bad saw it coming.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106419619783127225",
+    "time": "2026-10-04 00:22",
+    "created_at": "Sat Oct 03 16:22:27 +0000 2026",
+    "id_str": "2106419619783127225",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "here's a trick that stops your agent forgetting every task you give it, so you never have to re-explaining for the same thing twice\n\npaste this into your AGENTS. md and it stops doing one-off work.\n\nanything you ask for that could happen again gets built into a skill file and put on a schedule, so the second time you need it, it's already running.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106323449014861970",
+    "time": "2026-10-03 18:00",
+    "created_at": "Sat Oct 03 10:00:18 +0000 2026",
+    "id_str": "2106323449014861970",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free → https://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106323462218535093",
+    "time": "2026-10-03 18:00",
+    "created_at": "Sat Oct 03 10:00:21 +0000 2026",
+    "id_str": "2106323462218535093",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106323473895419940",
+    "time": "2026-10-03 18:00",
+    "created_at": "Sat Oct 03 10:00:24 +0000 2026",
+    "id_str": "2106323473895419940",
+    "is_retweet": false
   }
 ]
