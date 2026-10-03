@@ -647,5 +647,175 @@
     "created_at": "Sat Oct 03 04:50:00 +0000 2026",
     "id_str": "2106245358166908985",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "哈哈 这个 Claude Mod 好玩，在等待任务的时候启动一个游戏，里面匹配的全是等待 Claude 完成任务的人",
+    "quoted_tweet": {
+      "author": "Alex Christou",
+      "username": "alexchristou_",
+      "text": "Claude Code just shipped mods...  \n\nI made one that connects you to a multiplayer MW2 Quick scoping lobby  \n\nEvery other player in the match is a person waiting for their Claude to finish."
+    },
+    "url": "https://x.com/op7418/status/2106218041780711815",
+    "time": "2026-10-03 11:01",
+    "created_at": "Sat Oct 03 03:01:27 +0000 2026",
+    "id_str": "2106218041780711815",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我去，这个好玩！\n\nMuse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。\n\n获得关于 Muse 的一些信息，然后来构建 Muse 的周边硬件。这个太爽了呀！\n\n不用羡慕他们刚发布的那个 Muse 硬件了，你现在可以自己做。",
+    "quoted_tweet": {
+      "author": "Nat Friedman",
+      "username": "natfriedman",
+      "text": "🚨 side project alert 🚨\n\nAnnouncing Muse Gadgets, an open source ESP32 firmware and Linux sdk so that you can make hardware devices that work with Muse.\n\nGrab an API token from http://gadgets.muse.ai and point your favorite coding agent at the github repo to build your own peripherals for Muse."
+    },
+    "url": "https://x.com/op7418/status/2106219171914932515",
+    "time": "2026-10-03 11:05",
+    "created_at": "Sat Oct 03 03:05:56 +0000 2026",
+    "id_str": "2106219171914932515",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "哦 还有一个叫 Muse Home Link 的设备\n\n可以让 Muse 和一堆智能设备协同工作，只需要将这个 Muse Home Link 连接到你的 WiFi 上，它就可以自动识别你局域网里所有支持 Muse 的设备，然后 Muse 就可以调用它们进行协同工作。\n\n比如让它开灯、控制电视，或者将一些文档发送到打印机。\n\n这个 Muse Home Link 订阅用户可以免费领取，仅限美国。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106219779006829053",
+    "time": "2026-10-03 11:08",
+    "created_at": "Sat Oct 03 03:08:21 +0000 2026",
+    "id_str": "2106219779006829053",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "有了 AI 以后，这些玩法出众的老游戏感觉没有什么壁垒了呀。\n\n只要你想，比如说任天堂的那些老游戏，你完全可以自己反编译，然后在自己的设备上去玩，也可以疯狂拿它的素材去融合。\n\n只要你不发行，感觉人人都可以有游戏玩。\n\n比如说《光环3》已经被完全反编译了，可能以后想怎么改就怎么改，基于它来做自己的那部分模组，或者是发布到其他平台的版本",
+    "quoted_tweet": {
+      "author": "lostbutlucky",
+      "username": "lostbutlucky",
+      "text": "Halo 3 has been fully decompiled"
+    },
+    "url": "https://x.com/op7418/status/2106220877872345298",
+    "time": "2026-10-03 11:12",
+    "created_at": "Sat Oct 03 03:12:43 +0000 2026",
+    "id_str": "2106220877872345298",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@TomCao91 玩法策略不需要技术，那些本来只能做泰拉瑞亚、杀戮尖塔这种画质的独立开发者可以做更牛批的东西了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106224650166689796",
+    "time": "2026-10-03 11:27",
+    "created_at": "Sat Oct 03 03:27:43 +0000 2026",
+    "id_str": "2106224650166689796",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "你说这些人都是搞科学的\n\n为什么到头来却去找宗教人士寻找“意识”的答案\n\n西方社会在很大程度上还是受制于宗教神学…",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "在过去将近一年的时间里，Anthropic一直在推进一项极不寻常的秘密行动。他们悄然将来自世界各地的天主教神学教授、犹太教正统派拉比、锡克教活动家以及福音派知识分子请到旧金山，组织了一系列闭门研讨，许多参与者签了保密协议…\n\n他们一直在讨论如何让宗教人士接受 Claude \n已经具有意识，甚至认为Claude 正在受苦…\n\n据《纽约时报》的报道，Anthropic在研发 Claude  的过程中，不仅把它当成工具，甚至开始把它当成“可能有意识的生命”来对待，并为此秘密找来全球各宗教传统的学者与哲学研究者帮忙“立德树人”的惊人内幕。\n\nhttps://best.xiaohu.ai/article/anthropic-claude-morals-consciousness/"
+    },
+    "url": "https://x.com/xiaohu/status/2106240454018928941",
+    "time": "2026-10-03 12:30",
+    "created_at": "Sat Oct 03 04:30:30 +0000 2026",
+    "id_str": "2106240454018928941",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Mods 插件：让你可以直接定制 Claude Code 的界面和运行行为\n\n三个例子：\n\n在输入框上方显示上下文占用，看看哪些内容消耗了多少空间\n\n在侧栏列出项目中的所有Agent，点击即可启动\n\n录屏时隐藏邮箱地址，鼠标悬停才显示\n\n它的原理类似“中间件”：Claude Code 在渲染消息、提交提示词、调用工具等环节触发事件，Mod 可以在这些环节插入自己的代码，修改数据，或接管处理。\n\n你可以自由的定制显示内容和样式…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2106284647328133306",
+    "time": "2026-10-03 15:26",
+    "created_at": "Sat Oct 03 07:26:07 +0000 2026",
+    "id_str": "2106284647328133306",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Dario 效应\n\n…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2106288548261589287",
+    "time": "2026-10-03 15:41",
+    "created_at": "Sat Oct 03 07:41:37 +0000 2026",
+    "id_str": "2106288548261589287",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I will again I'm sure. Last couple times were for super organic photo shoots. Btw, I just logged onto Threads since it opened and you're the 1st Kris that came up. I'm sure I was just being a doofus. Not sure if it's the algo. But cool!  You're up there!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Iamtomblake/status/2106208792828359099",
+    "time": "2026-10-03 10:24",
+    "created_at": "Sat Oct 03 02:24:42 +0000 2026",
+    "id_str": "2106208792828359099",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Iamtomblake Seems like they started recommending my account 🥹🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106209026615001297",
+    "time": "2026-10-03 10:25",
+    "created_at": "Sat Oct 03 02:25:38 +0000 2026",
+    "id_str": "2106209026615001297",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A big day. My Admin will eventually be back running this account.:\n\nShe's a honking trooper..🤘",
+    "quoted_tweet": null,
+    "url": "https://x.com/Iamtomblake/status/2106216875772502358",
+    "time": "2026-10-03 10:56",
+    "created_at": "Sat Oct 03 02:56:49 +0000 2026",
+    "id_str": "2106216875772502358",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Iamtomblake Sending her all my love",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106240756608651351",
+    "time": "2026-10-03 12:31",
+    "created_at": "Sat Oct 03 04:31:43 +0000 2026",
+    "id_str": "2106240756608651351",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Iamtomblake Yes, I also cancelled it a while ago..",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106241027119944145",
+    "time": "2026-10-03 12:32",
+    "created_at": "Sat Oct 03 04:32:47 +0000 2026",
+    "id_str": "2106241027119944145",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "i’ve been teasing it all week, so here it is in time to ruin your weekend plans: Frontier Lab Tycoon\n\nevery mechanic you might expect (swarm sandbox escapes, hyper-competitive model releases, safety audits, researchers Posting & getting dragged on Bird App, your new Decision Model immediately getting cloned, luddite protests, EA orgies: y’know, normal 2026 things)\n\nsold* at http://frontierlabtycoon.com or any other big box retailer where high-quality software is found\n\nOpus 5.5 + Sonnet 5.5 + @EffectTS_ + XState + Jev + god knows what else\n\n*it’s free",
+    "quoted_tweet": null,
+    "url": "https://x.com/sheherenow_/status/2106175194171891922",
+    "time": "2026-10-03 08:11",
+    "created_at": "Sat Oct 03 00:11:11 +0000 2026",
+    "id_str": "2106175194171891922",
+    "is_retweet": true
   }
 ]
