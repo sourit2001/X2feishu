@@ -407,5 +407,120 @@
     "created_at": "Sat Oct 03 20:11:16 +0000 2026",
     "id_str": "2106477205454995573",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 救命，他们已经霸占我的首页了",
+    "quoted_tweet": null,
+    "url": "https://x.com/JonasinEarth/status/2106400997371441498",
+    "time": "2026-10-03 23:08",
+    "created_at": "Sat Oct 03 15:08:27 +0000 2026",
+    "id_str": "2106400997371441498",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@JonasinEarth 看到一个点不感兴趣，点几个就好了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106403250182537303",
+    "time": "2026-10-03 23:17",
+    "created_at": "Sat Oct 03 15:17:24 +0000 2026",
+    "id_str": "2106403250182537303",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这下 IDE 选择困难症更严重了😂 宝玉老师有空能对比下 Antigravity 里的 Opus 5.5 跟 Claude Code 用起来差别大吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/3m4TVcFQxZ4063/status/2106444423077003430",
+    "time": "2026-10-04 02:01",
+    "created_at": "Sat Oct 03 18:01:00 +0000 2026",
+    "id_str": "2106444423077003430",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@3m4TVcFQxZ4063 据说不耐用",
+    "quoted_tweet": {
+      "author": "Tseng Hsiang",
+      "username": "lamara953",
+      "text": "@dotey 額度幾乎等於沒有，SONNET5.5 中跑10分鐘耗光5小時額度=50%周額度。😅"
+    },
+    "url": "https://x.com/dotey/status/2106455354594738324",
+    "time": "2026-10-04 02:44",
+    "created_at": "Sat Oct 03 18:44:27 +0000 2026",
+    "id_str": "2106455354594738324",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@OpenRouter co-founder Alex Atallah on personal agents: 10 specialized chiefs of staff beat one universal agent. One job each means you can see exactly where it's failing.\n\n\"The worst part about doing cross-domain joins with your personal agent is that the more work you give it, the more understanding of what's going on you're sacrificing.\"\n\n\"And no one is taking responsibility for that sacrifice. Agents don't have any responsibility.\"\n\n\"With a universal agent that's doing all things, I can't adjust how much understanding I'm sacrificing.\"\n\n\"It points me towards: maybe down the road, the sub-agents people use will be very vertically focused, and we have a chief of staff type agent that coordinates between them.\"\n\n\"You need vertically focused agents where this agent is more responsible, psychologically, for these things. I want quality checks that make sure it's doing those things correctly. It doesn't need to focus on anything else, it has one focus area.\"\n\n\"I wonder if that's going to help people get at least a loose sense of responsibility on top of agents.\"\n\n@alexatallah",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@OpenRouter co-founder Alex Atallah, in his first podcast since Stripe acquired the company, joins @Replit co-founder Amjad Masad and a16z's Erik Torenberg on why the future of AI is independence and specialization.\n\nIn this conversation, Alex walks through how the Stripe deal unfolded, why he wasn't originally looking to sell, and why \"payments and inference are going to blend together.\"\n\nPre-OpenRouter, the typical AI workflow had one model provider to choose from, and little pressure on that provider to lower prices. Now enterprises are diversifying across labs and open-weight models, and every board is asking about AI costs and benchmarks.\n\nAmjad argues if your company depends on one AI lab, it can turn into your competitor. So Replit is building the layer that lets enterprises use any model and any cloud, without being locked into either.\n\nAlex and Amjad are split on personal agents – Amjad runs one agent across his whole company and loves the cross-domain joins, while Alex says general agents cause you to sacrifice understanding, and argues 10 specialized chiefs of staff beats one superagent.\n\n0:45 How the Stripe deal unfolded\n5:05 Why mixing models beats one model\n7:25 Forcing the labs to compete on price\n8:50 Enterprises want open-weight models\n10:30 Every board asks about AI every month\n12:25 Why companies must own their intelligence\n14:15 Replit as the independence layer\n15:10 Everyone is building the same agent\n16:35 Why Amjad built bring-your-own-cloud\n18:10 Amjad's agent that runs his whole company\n19:55 Why 10 specialized agents beat one\n23:35 Machines, not humans, should specialize\n27:30 Guardrails for agents talking to agents\n31:10 Models training their own replacements\n33:45 Most tasks don't need a frontier model\n40:50 Training small models on Qwen 8B\n43:25 The Rust cycle is coming for AI\n45:10 Fusion models: frontier quality at half the cost\n\nYouTube: https://youtu.be/ekK8urKHPMQ\n\n@alexatallah @OpenRouter @amasad @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2106466929859080501",
+    "time": "2026-10-04 03:30",
+    "created_at": "Sat Oct 03 19:30:26 +0000 2026",
+    "id_str": "2106466929859080501",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@OpenRouter co-founder Alex Atallah thinks decision models like Jev could be the alignment layer for agents:\n\n\"One of the cool potential applications of Jev and other decision models like it is going to be alignment: checking to see if a tool call or an agent-to-agent communication is aligned.\"\n\n\"There's just so many tool calls. You really need a cheap, fast model if you're going to block something like that... We have a little prototype running internally at OpenRouter.\"\n\n\"Imagine looking at the system prompt and the current tool call, and asking: is this aligned with the original agent's system prompt, and with extra guidelines we didn't tell the agent about?\"\n\n\"Say you have agents instructed to red team a new product. They should not access the internet, and if they ever do, they should stop right away. But you might not want to explain that to them. You want them to act like bad actors.\"\n\n\"So having another model check every single tool call, to see if it's aligned with something that wasn't in the system prompt, makes sense. And then structural safeguards too... I think companies are probably going to explore a combination of those.\"\n\n@alexatallah @amasad",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@OpenRouter co-founder Alex Atallah, in his first podcast since Stripe acquired the company, joins @Replit co-founder Amjad Masad and a16z's Erik Torenberg on why the future of AI is independence and specialization.\n\nIn this conversation, Alex walks through how the Stripe deal unfolded, why he wasn't originally looking to sell, and why \"payments and inference are going to blend together.\"\n\nPre-OpenRouter, the typical AI workflow had one model provider to choose from, and little pressure on that provider to lower prices. Now enterprises are diversifying across labs and open-weight models, and every board is asking about AI costs and benchmarks.\n\nAmjad argues if your company depends on one AI lab, it can turn into your competitor. So Replit is building the layer that lets enterprises use any model and any cloud, without being locked into either.\n\nAlex and Amjad are split on personal agents – Amjad runs one agent across his whole company and loves the cross-domain joins, while Alex says general agents cause you to sacrifice understanding, and argues 10 specialized chiefs of staff beats one superagent.\n\n0:45 How the Stripe deal unfolded\n5:05 Why mixing models beats one model\n7:25 Forcing the labs to compete on price\n8:50 Enterprises want open-weight models\n10:30 Every board asks about AI every month\n12:25 Why companies must own their intelligence\n14:15 Replit as the independence layer\n15:10 Everyone is building the same agent\n16:35 Why Amjad built bring-your-own-cloud\n18:10 Amjad's agent that runs his whole company\n19:55 Why 10 specialized agents beat one\n23:35 Machines, not humans, should specialize\n27:30 Guardrails for agents talking to agents\n31:10 Models training their own replacements\n33:45 Most tasks don't need a frontier model\n40:50 Training small models on Qwen 8B\n43:25 The Rust cycle is coming for AI\n45:10 Fusion models: frontier quality at half the cost\n\nYouTube: https://youtu.be/ekK8urKHPMQ\n\n@alexatallah @OpenRouter @amasad @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2106485798631801141",
+    "time": "2026-10-04 04:45",
+    "created_at": "Sat Oct 03 20:45:25 +0000 2026",
+    "id_str": "2106485798631801141",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Replit CEO Amjad Masad on how general models could train smaller, domain-specific models on the fly:\n\n\"There's a lot of talk of recursive self-improvement, but there's something I don't think is getting a lot of discussion, which is models training their replacements.\"\n\n\"You can think of it as a just-in-time compiler. As you're executing dynamic code, the interpreter realizes there's an opportunity to optimize, and it emits machine code on the fly that's a lot more optimized.\"\n\n\"You can imagine general models, you're doing something with Operator or Astra, some of the big models, and they realize the use case is limited, or some other agent observing realizes the use case is limited.\"\n\n\"General agents have all these flaws, but there's also more potential for them to be harmful, more potential for them to go off the rails.\"\n\n\"So the model, on the fly, trains a model that could be its replacement, but is a lot more domain specific. Therefore it's cheaper, less vulnerable to prompt injections, and less harmful for you, because it's less capable.\"\n\n\"It's almost like a system that's training machine learning models for specific use cases as it's monitoring the entire system.\"\n\n@amasad",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@OpenRouter co-founder Alex Atallah, in his first podcast since Stripe acquired the company, joins @Replit co-founder Amjad Masad and a16z's Erik Torenberg on why the future of AI is independence and specialization.\n\nIn this conversation, Alex walks through how the Stripe deal unfolded, why he wasn't originally looking to sell, and why \"payments and inference are going to blend together.\"\n\nPre-OpenRouter, the typical AI workflow had one model provider to choose from, and little pressure on that provider to lower prices. Now enterprises are diversifying across labs and open-weight models, and every board is asking about AI costs and benchmarks.\n\nAmjad argues if your company depends on one AI lab, it can turn into your competitor. So Replit is building the layer that lets enterprises use any model and any cloud, without being locked into either.\n\nAlex and Amjad are split on personal agents – Amjad runs one agent across his whole company and loves the cross-domain joins, while Alex says general agents cause you to sacrifice understanding, and argues 10 specialized chiefs of staff beats one superagent.\n\n0:45 How the Stripe deal unfolded\n5:05 Why mixing models beats one model\n7:25 Forcing the labs to compete on price\n8:50 Enterprises want open-weight models\n10:30 Every board asks about AI every month\n12:25 Why companies must own their intelligence\n14:15 Replit as the independence layer\n15:10 Everyone is building the same agent\n16:35 Why Amjad built bring-your-own-cloud\n18:10 Amjad's agent that runs his whole company\n19:55 Why 10 specialized agents beat one\n23:35 Machines, not humans, should specialize\n27:30 Guardrails for agents talking to agents\n31:10 Models training their own replacements\n33:45 Most tasks don't need a frontier model\n40:50 Training small models on Qwen 8B\n43:25 The Rust cycle is coming for AI\n45:10 Fusion models: frontier quality at half the cost\n\nYouTube: https://youtu.be/ekK8urKHPMQ\n\n@alexatallah @OpenRouter @amasad @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2106493596857954790",
+    "time": "2026-10-04 05:16",
+    "created_at": "Sat Oct 03 21:16:24 +0000 2026",
+    "id_str": "2106493596857954790",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Another Fable 5.5 masterpiece. \n\nPropellerheads - On Her Majesty's Secret Service",
+    "quoted_tweet": null,
+    "url": "https://x.com/atomtanstudio/status/2106353569603736009",
+    "time": "2026-10-03 19:59",
+    "created_at": "Sat Oct 03 11:59:59 +0000 2026",
+    "id_str": "2106353569603736009",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "When jazz, code and Claude come together: a noir mystery about the oldest unsolved case in everyone's house.\n\nBuilt with Opus 5.5, audio with Suno. Time taken 8 hours, mostly code with few free assets from the internet.",
+    "quoted_tweet": null,
+    "url": "https://x.com/techartist_/status/2106453639258874323",
+    "time": "2026-10-04 02:37",
+    "created_at": "Sat Oct 03 18:37:38 +0000 2026",
+    "id_str": "2106453639258874323",
+    "is_retweet": true
   }
 ]
