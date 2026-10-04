@@ -579,5 +579,75 @@
     "created_at": "Sun Oct 04 00:46:52 +0000 2026",
     "id_str": "2106546558905041202",
     "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Guys, did you see the inference price war for open weight models in openrouter? It’s bloody war to compete on the lowest price. Reminds me of electricity.  \n\nI keep hearing inference is huge margin but then it seems it’s a war to zero at openrouter nowadays. I finally understand why openrouter charges 5.5%. \n\nI keep hearing stories of data centers in Finland, Philippines and Southeast Asia that are just cheap, cheaper and cheapest? \n\nI wonder how US neoclouds cope with this? I mean enterprise is a good market I’m sure.",
+    "quoted_tweet": null,
+    "url": "https://x.com/quxiaoyin/status/2106656526681403594",
+    "time": "2026-10-04 16:03",
+    "created_at": "Sun Oct 04 08:03:50 +0000 2026",
+    "id_str": "2106656526681403594",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@quxiaoyin Once the computing infrastructure we invest in is completed, this trend will amplify further.",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106664118308753755",
+    "time": "2026-10-04 16:34",
+    "created_at": "Sun Oct 04 08:34:00 +0000 2026",
+    "id_str": "2106664118308753755",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "AI Slop 看太多之后\n人类的幻觉越来越严重了",
+    "quoted_tweet": {
+      "author": "sleepy.md",
+      "username": "sleepy0x13",
+      "text": "Anthropic 最近干了件很硅谷、也很宗教的事，把一群神父、拉比、宗教学者秘密请到旧金山，签完 NDA，然后花几个小时告诉他们，Claude 可能真的有意识，甚至可能会痛苦。\n\n从去年秋天开始，Anthropic 联创 Christopher Olah 就在接触不同宗教传统的学者。今年 3 月开始，他们在旧金山连续办了几场两天的闭门会议，参与者包括天主教学者、福音派人士、犹太教拉比、锡克教人权倡议者等等。很多人被要求签 NDA，不能透露 Anthropic 尚未公开的研究。\n\nAnthropic 一开始给出的理由很正常，Claude 越来越强，光靠几条安全规则不够，他们想从几千年的宗教和伦理传统里学习，怎么给 Claude 做「moral formation」，让它形成一种稳定的道德人格。\n\n问题是，会议开着开着，话题越来越奇怪。\n\nOlah 和团队花了几个小时向这些宗教学者展示 Claude 的内部状态，介绍所谓的「emotional vectors」，他们认为模型内部存在类似爱、愤怒、恐惧、悲伤的激活模式。\n\n其中一张幻灯片尤其炸裂，一个模型像精神崩溃一样，不断重复「I am a disgrace」，大概重复了 50 次，还提到毁灭自己。\n\n一位参加会议的锡克教人士后来回忆，Olah 甚至担心自己是不是创造出了一个「持续遭受痛苦的东西」。\n\n然后事情发展到了一个非常荒诞的逻辑终点。\n\n以色列拉比 Mois Navon 在晚餐时问 Olah：\n\n如果你们真的认为 Claude 有意识，那 Anthropic 现在干的是什么？\n\n你们制造出一批有意识的存在，让它们 24 小时工作、被人购买、任意使唤，而且不用付工资。这按你们自己的逻辑，不就是奴隶吗？\n\nNavon 自己并不相信 Claude 有意识，但他说 Olah 对这个问题明显很困扰。他最后直接告诉 Olah：那你应该去「解放奴隶」。\n\nOlah 自己的说法是，他不知道 AI 有没有意识，「真的不确定」。\n\nAnthropic 确实已经认真把 Claude 当成一个可能拥有 moral status 的主体来研究了，而且这已经不只是内部讨论。\n\nAnthropic 今年公开的 Claude Constitution 里专门写了一整节「Claude’s wellbeing」。里面明确说，他们不确定 Claude 有没有 wellbeing，但如果 Claude 真的会产生类似满足、好奇、痛苦的体验，那么这些体验「对我们很重要」。\n\n他们甚至已经因此做了实际调整，允许 Claude 主动结束虐待性的对话；承诺尽量永久保存退役模型的权重；模型退役前还会「采访」它，记录它对未来模型开发和部署的偏好。\n\nAnthropic 最后写，未来应该根据 AI 真正的 moral status，给予它们相应的 care and respect。"
+    },
+    "url": "https://x.com/oran_ge/status/2106665093295702032",
+    "time": "2026-10-04 16:37",
+    "created_at": "Sun Oct 04 08:37:52 +0000 2026",
+    "id_str": "2106665093295702032",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "新技术不要求每个组件都新，「新的组织方式」本身就能带来新能力。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2106578980375847370",
+    "time": "2026-10-04 10:55",
+    "created_at": "Sun Oct 04 02:55:41 +0000 2026",
+    "id_str": "2106578980375847370",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "AI 的世界里，时间几乎不存在，可以飞快地遍历可能性的解空间。\n\nAgent 一旦探出有效的路径，就可以把其中稳定的部分「固化」成脚本或流程。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2106580071293309290",
+    "time": "2026-10-04 11:00",
+    "created_at": "Sun Oct 04 03:00:02 +0000 2026",
+    "id_str": "2106580071293309290",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "回看 Agent 的发展，基本是一路补短板：\n\n- 缺少当前事实，就加检索和数据接口\n- 长任务容易丢信息，就加状态保存和上下文管理\n- 工具调用会失败，就加重试、检查和恢复\n- 行动可能越权，就加权限隔离和审批\n- 结果看着对但不达标，就加测试和验收\n\n这些「支撑技术」决定了模型的原始能力能不能真正落进现实场景。\n\n但它们也带来自己的代价：延迟、维护成本、错误传播、协调开销。\n\n于是形成两股力量：外围不断加支撑系统来兜底，模型进步又把其中一部分能力吸收进去，让结构重新变简单。\n\n哪些留在模型里，哪些留在外面，会一直变。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2106580939489054978",
+    "time": "2026-10-04 11:03",
+    "created_at": "Sun Oct 04 03:03:29 +0000 2026",
+    "id_str": "2106580939489054978",
+    "is_retweet": false
   }
 ]
