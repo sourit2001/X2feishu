@@ -131,5 +131,115 @@
     "created_at": "Sat Oct 03 22:43:10 +0000 2026",
     "id_str": "2106515430529548579",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Doing a bit of a self-experiment.\n\nGoal: use my personal health and travel data to provide personalized diet and exercise recommendations for me, using frontier models but in a way that avoids leaking to them any private information.\n\nStrategy: use a local model (Qwen 3.8 Flash Next) to orchestrate, and use powerful remote models as a tool call to benefit from higher-level thinking and knowledge that the local model does not have.\n\nThree-layer approach to privacy:\n\nAvoid leaking personally identifiable information, or leaking my identity through writing style -> local model writes the queries to the frontier model, not me\nAvoid leaking who I am through the payment channel -> zkAPI\nAvoid leaking who I am through networking / IP -> Tor\n\nYou need all three (and finally we have all three, at least to some extent)\n\nA skill file teaches the local model when and how to construct minimally-data-revealing requests to remote models. Use zkAPI-wrapped-with-Tor as a CLI tool.\n\nAnd everything works! I got the recommendations back, info from frontier models helped to improve them.\n\nMain deficiencies:\n\n* Tor is really not optimized for request-by-request de-linking, which is the only form of network-layer privacy that really makes sense in today's world (long-running identifiers are too fragile). Probably not private enough, and latency 10-100x higher than it could be, at the same time.\n* The skill file's request construction strategies are definitely far from optimal.\n* Qwen 3.8 Flash Next is still too slow for comfort. It's comfortably running at 20-30 TPS, but it would only really start to feel fast at 100+\n* There is a tradeoff: the more careful you are about what data you give to a remote model, the less it can help you\n\nhttps://github.com/ethereum/zkapi/pull/16/changes",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2106537633056969024",
+    "time": "2026-10-04 08:11",
+    "created_at": "Sun Oct 04 00:11:23 +0000 2026",
+    "id_str": "2106537633056969024",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "我发现跟大模型聊天特别累，我分析了一下，原因大概有三点：\n\n一个是它回答太啰唆。我说一句，它回八句半，还顺手把我没问的一起答了。\n\n一个是它老省略宾语。经常省掉一两个字，我经常看了半天才反应过来。\n\n一个是它不喜欢重复。上一秒说完强化学习，下一秒就忘了这个名词，又换个新说法。\n\n过度联想、思维跳跃、用词求新\n有点像那种说话喜欢掉书袋的家伙",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106536634347123044",
+    "time": "2026-10-04 08:07",
+    "created_at": "Sun Oct 04 00:07:25 +0000 2026",
+    "id_str": "2106536634347123044",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge Karpathy那个ASD-STE100还不错，可以试试",
+    "quoted_tweet": null,
+    "url": "https://x.com/JianingXiong/status/2106546473253122492",
+    "time": "2026-10-04 08:46",
+    "created_at": "Sun Oct 04 00:46:31 +0000 2026",
+    "id_str": "2106546473253122492",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@JianingXiong 那个是为了约束人类\nAI 这些毛病都是自己的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2106556963392028734",
+    "time": "2026-10-04 09:28",
+    "created_at": "Sun Oct 04 01:28:12 +0000 2026",
+    "id_str": "2106556963392028734",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "dots is 𝗵𝗮𝗻𝗱𝘀 𝗱𝗼𝘄𝗻 𝗺𝘆 𝗳𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗮𝗴𝗲𝗻𝘁 right now. Over the past few days it's become my main one. Especially when it's open on my desktop and talking to it feels like talking to a real person, it feels incredibly futuristic.\n\nI care a lot about how things feel. For some reason, the dots interface looks a lot like iMessage, and it's unusually smooth to use. The web app used to have a bug where dragging the sidebar edge overlapped the chat box in the bottom right. No big deal.\n\nBesides texting it, I also just call it. I've kept my GPT subscription partly for GPT Live's voice. I still haven't found anything that matches its latency and how human it feels. Some people say dots calls are just GPT Live with a different entry point. In my experience, connecting takes a bit longer, but once you're connected it's a lot steadier, and it answers fast. And whether I'm texting or calling, on my phone or my computer, it's the same dot, hooked up to most of my plugins, including the ones I wrote myself.\n\nSince it's this much like a coworker, it should get a workbench too. I've found Space works especially well with dots: give it a Space of its own, it updates its progress there, you edit right on the page, and when something needs doing, you @ it. Working together feels just like working with a real person, only much faster. Add a few scheduled tasks so it checks on its own at set times and updates the page itself. It's insanely good.\n\nOver these past few days, a lot of different writing and content work has all come together through it. My guess is that's why OpenAI built dots and put it second in the left sidebar. It may end up as ChatGPT's front door.\n\nRight now, chatting with your dot 𝗱𝗼𝗲𝘀𝗻'𝘁 𝗰𝗼𝘂𝗻𝘁 𝘁𝗼𝘄𝗮𝗿𝗱 𝘆𝗼𝘂𝗿 𝗖𝗵𝗮𝘁𝗚𝗣𝗧 𝘂𝘀𝗮𝗴𝗲 𝗹𝗶𝗺𝗶𝘁𝘀. Tasks it hands off to Codex or ChatGPT Work still count toward those products' limits as usual, and for the first month after launch, its allowance for heavier work is extended. Make the most of it and set up a workbench for your dot: create a new Space, name it \"Workbench,\" then send it this 👇\n\n\"I created a Space called Workbench. You'll maintain it from now on. Put three pages in it:\n- In progress: everything I'm following up on, with its status, next step, and who it's waiting on\n- Needs my decision: decisions I need to make, with the options and your recommendation\n- Today: what you did today and which page you changed, with each new day at the top\nEvery weekday at 9 a.m. (my time zone), check the email, Slack and calendar I've connected (skip any I haven't), and update these three pages when something changes. You can handle research, organizing and updating these pages on your own. Before replying to emails, sending messages or editing other people's documents, ask me first. If a deadline is at risk or something needs my decision, message me in ChatGPT. When I @ you on a page, make the changes my comment asks for.\nAfter you set up the scheduled task, tell me where it's saved and when it runs, then do a test run. If you can't set it up, tell me straight away.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/Voxyz_ai/status/2106504574182031396",
+    "time": "2026-10-04 06:00",
+    "created_at": "Sat Oct 03 22:00:02 +0000 2026",
+    "id_str": "2106504574182031396",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I'm enjoying Astra on low reasoning + ultra fast way too much for a ton of little things like:\n\n- email management\n- one off fixes\n- research\n- quick demos\n\nUsage limits are still pretty brutal. Really want GPT-6.1 Sol ultra fast that's gonna be absurdly useful",
+    "quoted_tweet": null,
+    "url": "https://x.com/davis7/status/2106513024173703416",
+    "time": "2026-10-04 06:33",
+    "created_at": "Sat Oct 03 22:33:36 +0000 2026",
+    "id_str": "2106513024173703416",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Voxyz_ai Glad you like it! Anything we can improve?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106541589007114420",
+    "time": "2026-10-04 08:27",
+    "created_at": "Sun Oct 04 00:27:07 +0000 2026",
+    "id_str": "2106541589007114420",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@davis7 6.1 coming soon",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106543375088488596",
+    "time": "2026-10-04 08:34",
+    "created_at": "Sun Oct 04 00:34:12 +0000 2026",
+    "id_str": "2106543375088488596",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@atelicinvest Dots are persistent agents that carry context across the single conversation. You can call it in the middle of work and then catch it later via slack or text in the app, it’s the same dot talking to you.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106544544892518815",
+    "time": "2026-10-04 08:38",
+    "created_at": "Sun Oct 04 00:38:51 +0000 2026",
+    "id_str": "2106544544892518815",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Baconbrix Interesting position you’re taking there mister Bacon. Now let’s see what someone can do with the ChatGPT subscription or the Grok subscription. 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106546689012281771",
+    "time": "2026-10-04 08:47",
+    "created_at": "Sun Oct 04 00:47:23 +0000 2026",
+    "id_str": "2106546689012281771",
+    "is_retweet": false
   }
 ]
