@@ -1,1 +1,91 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starbase is inspiring",
+    "quoted_tweet": {
+      "author": "X Freeze",
+      "username": "XFreeze",
+      "text": "The future of humanity is being built right here in Starbase, Texas"
+    },
+    "url": "https://x.com/elonmusk/status/2106513648294269390",
+    "time": "2026-10-04 06:36",
+    "created_at": "Sat Oct 03 22:36:05 +0000 2026",
+    "id_str": "2106513648294269390",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@tomchapin YOLO it bro trust me",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2106514653429817805",
+    "time": "2026-10-04 06:40",
+    "created_at": "Sat Oct 03 22:40:05 +0000 2026",
+    "id_str": "2106514653429817805",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@JohnReal This is so gangster",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2106517404389941568",
+    "time": "2026-10-04 06:51",
+    "created_at": "Sat Oct 03 22:51:01 +0000 2026",
+    "id_str": "2106517404389941568",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This @rileybrown video was a 9 of 10 early. Now it's a 2 of 10 and tracking for 100k+\n\nHere's how I did it 🧵",
+    "quoted_tweet": null,
+    "url": "https://x.com/crazeinthedark/status/2106519511323357235",
+    "time": "2026-10-04 06:59",
+    "created_at": "Sat Oct 03 22:59:23 +0000 2026",
+    "id_str": "2106519511323357235",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "全球最去中心化的智能合约基础设施",
+    "quoted_tweet": {
+      "author": "OxPink💎🌞",
+      "username": "Blackpink_Ox66",
+      "text": "波场到底谁说了算？把java-tron、DPoS和TVM拆开看\n\n波场的去中心化，到底去中心化在哪里？待我娓娓道来\n\n1 / 规则写在代码里\n\n波场的核心客户端是开源的 java-tron，交易处理、区块验证、共识、账户状态、资源计算等，都在客户端里。\n\nif (verifyTransaction(tx)\n    && verifyBlock(block)\n    && verifyState(state)) {\n    accept(); }\n\n实际源码当然比这复杂得多，简单理解就是，不是超级代表说这个区块有效，它就有效，而是其他节点按照同一套规则重新验证。\n\n这也是我理解波场去中心化的第一层，规则先于参与者。\n\n2 / 27个超级代表负责出块\n\n波场采用DPoS，用户质押TRX获得TRON Power，再投票给超级代表候选人，排名前27的成为活跃超级代表，负责轮流生产区块。\n\nTRX质押 - 获得投票权 - 选出超级代表 - 超级代表出块 - 其他节点验证\n\n如果某个超级代表出问题，其他节点不会跟着接受错误区块。\n\n3 / 一笔交易怎么进入区块？\n\n签名 → 验证 → 打包 → 广播 → 再验证 → 确认\n\n所以“3秒出块”和最终确认并不是一回事。3秒代表交易可以很快进入区块，后续随着更多超级代表继续出块，区块进入固化状态。\n\n4 / TVM负责智能合约\n\n智能合约运行在TVM，它最重要的一个特点就是确定性。\n\n相同代码\n+ 相同输入\n+ 相同链上状态\n= 相同执行结果\n\n节点按照同样的规则执行合约，结果一致，状态才能被写入账本。这也是为什么超级代表虽然负责出块，却不能随意修改智能合约执行结果。 \n最来说下，所以认为波场的去中心化，核心并不是“谁来管理”，而是没有谁可以脱离规则单独决定结果。\n\n代码、节点、选票和共识，共同把这套网络撑起来。\n\n@justinsuntron #TRONEcoStar"
+    },
+    "url": "https://x.com/justinsuntron/status/2106515424892551421",
+    "time": "2026-10-04 06:43",
+    "created_at": "Sat Oct 03 22:43:09 +0000 2026",
+    "id_str": "2106515424892551421",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "@GuHype 可以加一下TRX，JST，WIN，BTT，HTX也是回购销毁",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2106523286876414122",
+    "time": "2026-10-04 07:14",
+    "created_at": "Sat Oct 03 23:14:23 +0000 2026",
+    "id_str": "2106523286876414122",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Congratulations to Wouter van Doorn, Yanyang Li, and Quanyu Tang on their solutions to problems from the Erdős catalogue.",
+    "quoted_tweet": {
+      "author": "The Justin Sun Prize",
+      "username": "JustinSunPrize",
+      "text": "The first winners of the Justin Sun Prize have been confirmed.  Congratulations to Wouter van Doorn, Yanyang Li, and Quanyu Tang on their solutions to problems from the Erdős catalogue.  \n\nMore details on the winners and their work coming soon.  \n\nQUOD PROBATUR, SOLVITUR."
+    },
+    "url": "https://x.com/justinsuntron/status/2106525177731547616",
+    "time": "2026-10-04 07:21",
+    "created_at": "Sat Oct 03 23:21:54 +0000 2026",
+    "id_str": "2106525177731547616",
+    "is_retweet": false
+  }
+]
