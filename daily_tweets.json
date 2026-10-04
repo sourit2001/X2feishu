@@ -1544,5 +1544,158 @@
     "created_at": "Sun Oct 04 15:31:25 +0000 2026",
     "id_str": "2106769163620671823",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Bot passed Google’s “I’m not a robot” test when it launched 😂\n\nThe other agents… wherever the hell they are, I still haven’t seen a single video of them doing this",
+    "quoted_tweet": {
+      "author": "X Freeze",
+      "username": "XFreeze",
+      "text": "Grok Bot just passed Google’s “I'm not a robot?” test\nI fail this task sometimes tbh 😅"
+    },
+    "url": "https://x.com/XFreeze/status/2106792207160357317",
+    "time": "2026-10-05 01:02",
+    "created_at": "Sun Oct 04 17:02:59 +0000 2026",
+    "id_str": "2106792207160357317",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Again, Elon was already thinking seriously about Super Intelligence more than a decade before today’s SI boom\n\nNick Bostrom’s 2014 book “Superintelligence” specifically thanks Elon Musk in its acknowledgments for extensive discussions that helped clarify Bostrom’s thinking\n\nIn 2014, Elon was already publicly recommending “Superintelligence” and warning that we needed to be extremely careful as these systems grew exponentially more capable\n\nSuper Intelligence isn’t some new idea Elon suddenly embraced\n\nHe had already predicted what would come after AI years before most of the world was even paying attention or knew any concept of it",
+    "quoted_tweet": {
+      "author": "Forbes",
+      "username": "Forbes",
+      "text": "Elon Musk said he would rename his SpaceXAI company to “SpaceXSI” after President Donald Trump pushed for artificial intelligence to rebrand as “super intelligence.”\nhttps://go.forbes.com/XOh6_8"
+    },
+    "url": "https://x.com/XFreeze/status/2106818708391809120",
+    "time": "2026-10-05 02:48",
+    "created_at": "Sun Oct 04 18:48:17 +0000 2026",
+    "id_str": "2106818708391809120",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "June 2025:",
+    "quoted_tweet": {
+      "author": "Y Combinator",
+      "username": "ycombinator",
+      "text": "Elon Musk (@elonmusk) on digital superintelligence, multiplanetary life, and how to be useful this week at AI Startup School."
+    },
+    "url": "https://x.com/KatieMiller/status/2106826005767704731",
+    "time": "2026-10-05 03:17",
+    "created_at": "Sun Oct 04 19:17:17 +0000 2026",
+    "id_str": "2106826005767704731",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "5 live football games streamed simultaneously on a commercial flight with @Starlink",
+    "quoted_tweet": {
+      "author": "DogeDesigner",
+      "username": "cb_doge",
+      "text": "BREAKING: A passenger used @Starlink to stream 5 live college football games at once across 3 seatback screens and 2 laptops from his own empty exit row.\n\nUnited now has Starlink on 500+ planes."
+    },
+    "url": "https://x.com/elonmusk/status/2106827233650147822",
+    "time": "2026-10-05 03:22",
+    "created_at": "Sun Oct 04 19:22:10 +0000 2026",
+    "id_str": "2106827233650147822",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": {
+      "author": "Brian Roemmele",
+      "username": "BrianRoemmele",
+      "text": "https://x.com/i/article/2106802779742507008"
+    },
+    "url": "https://x.com/elonmusk/status/2106827340084887945",
+    "time": "2026-10-05 03:22",
+    "created_at": "Sun Oct 04 19:22:35 +0000 2026",
+    "id_str": "2106827340084887945",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "50K likes on this!?\n\nMost of what Karpthy has shared is things we have been doing for over a year. \n\nNo surprises, as many replies are highlighting.\n\nBut I still think this raises an interesting discussion. \n\nIs there a universal interface/langauge that allows more seamless communication between agents and humans?\n\nI believe there is. And I think that is what @karpathy is suggesting we think about. \n\nRight now, ideas are all scattered. \n\nAs some of you know, I have been early on LLM Wikis, Artifacts, AI-generated visual explainers, dynamic interactives, etc. \n\nOver the past couple of months, I have been experimenting with a new universal interface for seamless human-agent collaboration. So I have a lot to share, but it's still too early, and I frankly haven't found the perfect solution. \n\nIn short, my current optimal setup (see a simple snapshot attached) ties my high-level agent to highly flexible Notion-like pages that support embedding artifacts, text, videos, visual explainers, and just about anything an LLM can generate. And if it doesn't support it yet, I ask it to build it on the fly. It's crazy sometimes, the features it builds, but this is a co-evolved interface that satisfies both my agent's and my needs. \n\nThe interface supports code review, note-taking, writing, research, prototyping, mock designing, and so on.  \n\nIn fact, I have now wired my agents to intelligently spit out these artifacts (for lack of a better word), depending on the task/instruction, instead of the default text responses, which are frankly overwhelming and hard to read at times. In other words, as I keep building this \"universal interface,\" it feels less and less like I am chatting with an agent; I'm collaborating with it directly through the artifacts (through comments and suggestions). It allows me to move faster. I can consume and review faster. I am better organized. It feels like a language both the agent and I can speak fluently, so there is very little friction. \n\nListen, this is all a personal experience. I don't think everyone will use interfaces like this. But it's been interesting to see Artifacts gain wide adoption, and now dots have Spaces that look a little like what I built here several months ago. \n\nMore to share soon.",
+    "quoted_tweet": {
+      "author": "Andrej Karpathy",
+      "username": "karpathy",
+      "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised."
+    },
+    "url": "https://x.com/omarsar0/status/2106801689495826520",
+    "time": "2026-10-05 01:40",
+    "created_at": "Sun Oct 04 17:40:39 +0000 2026",
+    "id_str": "2106801689495826520",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@omarsar0 My mental model for what is happening is that 99%+ of people who are now paying attention have been onboarded to anything related to AI in <1 year. This is very confusing to the AI dinosaurs (anyone in AI for pre 2026. Or even, gasp, pre 2012).",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2106806571321966793",
+    "time": "2026-10-05 02:00",
+    "created_at": "Sun Oct 04 18:00:03 +0000 2026",
+    "id_str": "2106806571321966793",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Seriously. More people need to be sharing. \n\nI’m in too many text groups where founders are doing amazing stuff but it doesn’t make it out into the wild.",
+    "quoted_tweet": {
+      "author": "ericosiu",
+      "username": "ericosiu",
+      "text": "The shortage of AI for business content is beyond me 🤷🏻‍♂️"
+    },
+    "url": "https://x.com/ericosiu/status/2106806873785835644",
+    "time": "2026-10-05 02:01",
+    "created_at": "Sun Oct 04 18:01:15 +0000 2026",
+    "id_str": "2106806873785835644",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@ericosiu This is because ALL of the useful business workflows involve sensitive data.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2106832294472188105",
+    "time": "2026-10-05 03:42",
+    "created_at": "Sun Oct 04 19:42:16 +0000 2026",
+    "id_str": "2106832294472188105",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I’d say fuck short term too, true happiness is only in long term. \n\nNot the happiness in traditional sense, but the exhilaration when the technology/ the thing that didn’t work for so long suddenly starts working..",
+    "quoted_tweet": {
+      "author": "Startup Wisdom",
+      "username": "StartupWisdom_",
+      "text": "Peter Thiel on how you should think about your future:\n\n\"What you end up doing when you think of the future as indefinite is you pick a job that you think will look good on your resume, because it will lead to a different job later on. There's even a credentialing version where you go to grad school, you get a consulting job, and you think of it as this branching tree diagram where you never really do something that you want to do.\n\nYou can think of the future on three horizons. Very short-term is: are you going to be happy, and will you be learning a lot? Medium-term is: how good is it on your resume? And very long-term is: are you working on something important or meaningful? We're in a skewed world where we overweight the medium-term and underweight some combination of the short-term and the long-term. I would recalibrate to focus on the short-term and the long-term, and forget about the medium-term.\""
+    },
+    "url": "https://x.com/gowthami_s/status/2106834195989582191",
+    "time": "2026-10-05 03:49",
+    "created_at": "Sun Oct 04 19:49:50 +0000 2026",
+    "id_str": "2106834195989582191",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@gowthami_s Nah",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2106848922417213610",
+    "time": "2026-10-05 04:48",
+    "created_at": "Sun Oct 04 20:48:21 +0000 2026",
+    "id_str": "2106848922417213610",
+    "is_retweet": false
   }
 ]
