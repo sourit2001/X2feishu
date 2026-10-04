@@ -727,5 +727,215 @@
     "created_at": "Sun Oct 04 14:08:59 +0000 2026",
     "id_str": "2106748421273243686",
     "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "If you could combine ETH with the AI direction you're currently researching, I think that might be a good choice.",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Doing a bit of a self-experiment.\n\nGoal: use my personal health and travel data to provide personalized diet and exercise recommendations for me, using frontier models but in a way that avoids leaking to them any private information.\n\nStrategy: use a local model (Qwen 3.8 Flash Next) to orchestrate, and use powerful remote models as a tool call to benefit from higher-level thinking and knowledge that the local model does not have.\n\nThree-layer approach to privacy:\n\nAvoid leaking personally identifiable information, or leaking my identity through writing style -> local model writes the queries to the frontier model, not me\nAvoid leaking who I am through the payment channel -> zkAPI\nAvoid leaking who I am through networking / IP -> Tor\n\nYou need all three (and finally we have all three, at least to some extent)\n\nA skill file teaches the local model when and how to construct minimally-data-revealing requests to remote models. Use zkAPI-wrapped-with-Tor as a CLI tool.\n\nAnd everything works! I got the recommendations back, info from frontier models helped to improve them.\n\nMain deficiencies:\n\n* Tor is really not optimized for request-by-request de-linking, which is the only form of network-layer privacy that really makes sense in today's world (long-running identifiers are too fragile). Probably not private enough, and latency 10-100x higher than it could be, at the same time.\n* The skill file's request construction strategies are definitely far from optimal.\n* Qwen 3.8 Flash Next is still too slow for comfort. It's comfortably running at 20-30 TPS, but it would only really start to feel fast at 100+\n* There is a tradeoff: the more careful you are about what data you give to a remote model, the less it can help you\n\nhttps://github.com/ethereum/zkapi/pull/16/changes"
+    },
+    "url": "https://x.com/KSV_Whale/status/2106576579312988442",
+    "time": "2026-10-04 10:46",
+    "created_at": "Sun Oct 04 02:46:09 +0000 2026",
+    "id_str": "2106576579312988442",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "现在V神也是天天谈隐私了",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Doing a bit of a self-experiment.\n\nGoal: use my personal health and travel data to provide personalized diet and exercise recommendations for me, using frontier models but in a way that avoids leaking to them any private information.\n\nStrategy: use a local model (Qwen 3.8 Flash Next) to orchestrate, and use powerful remote models as a tool call to benefit from higher-level thinking and knowledge that the local model does not have.\n\nThree-layer approach to privacy:\n\nAvoid leaking personally identifiable information, or leaking my identity through writing style -> local model writes the queries to the frontier model, not me\nAvoid leaking who I am through the payment channel -> zkAPI\nAvoid leaking who I am through networking / IP -> Tor\n\nYou need all three (and finally we have all three, at least to some extent)\n\nA skill file teaches the local model when and how to construct minimally-data-revealing requests to remote models. Use zkAPI-wrapped-with-Tor as a CLI tool.\n\nAnd everything works! I got the recommendations back, info from frontier models helped to improve them.\n\nMain deficiencies:\n\n* Tor is really not optimized for request-by-request de-linking, which is the only form of network-layer privacy that really makes sense in today's world (long-running identifiers are too fragile). Probably not private enough, and latency 10-100x higher than it could be, at the same time.\n* The skill file's request construction strategies are definitely far from optimal.\n* Qwen 3.8 Flash Next is still too slow for comfort. It's comfortably running at 20-30 TPS, but it would only really start to feel fast at 100+\n* There is a tradeoff: the more careful you are about what data you give to a remote model, the less it can help you\n\nhttps://github.com/ethereum/zkapi/pull/16/changes"
+    },
+    "url": "https://x.com/bballer_530/status/2106577373219143746",
+    "time": "2026-10-04 10:49",
+    "created_at": "Sun Oct 04 02:49:18 +0000 2026",
+    "id_str": "2106577373219143746",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@bballer_530 隐私是自由\n隐私是秩序\n隐私是进步\n\nhttps://vitalik.eth.limo/general/2025/04/14/privacy.html",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2106737425888522723",
+    "time": "2026-10-04 21:25",
+    "created_at": "Sun Oct 04 13:25:18 +0000 2026",
+    "id_str": "2106737425888522723",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@KSV_Whale zkAPI runs on Ethereum. Payments are made in ETH.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2106737532142862777",
+    "time": "2026-10-04 21:25",
+    "created_at": "Sun Oct 04 13:25:43 +0000 2026",
+    "id_str": "2106737532142862777",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "paste this into Codex and it goes through your last 30 days of sessions, memories and history, finds the workflows you've done more than once, and packages them.\n\n it checks what you already have first, so it extends an existing skill instead of making a duplicate.\n\nit gives you a shortlist before it builds anything, with the evidence and dates behind each one. then it builds only the obvious wins and tells you what it deliberately skipped.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106685814101213474",
+    "time": "2026-10-04 18:00",
+    "created_at": "Sun Oct 04 10:00:13 +0000 2026",
+    "id_str": "2106685814101213474",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free → https://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106687351053545886",
+    "time": "2026-10-04 18:06",
+    "created_at": "Sun Oct 04 10:06:19 +0000 2026",
+    "id_str": "2106687351053545886",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106687362986303799",
+    "time": "2026-10-04 18:06",
+    "created_at": "Sun Oct 04 10:06:22 +0000 2026",
+    "id_str": "2106687362986303799",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "paste this into your coding agent and it audits your harness, finds everything being resent on every turn for nothing, and cuts it.\n\nit starts by instrumenting what isn't being logged, then renders your real requests and counts tokens section by section. you get a ranked list of what's worth removing, weighed against what each cut would cost you in quality.\n\nthen it goes through the system prompt line by line. keep, rewrite, delete, or move. guardrails written for weaker models get deleted. commands get rewritten as plain descriptions. anything that changes per request moves out of the cached prefix.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106757494605599037",
+    "time": "2026-10-04 22:45",
+    "created_at": "Sun Oct 04 14:45:03 +0000 2026",
+    "id_str": "2106757494605599037",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free → https://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106757508732010810",
+    "time": "2026-10-04 22:45",
+    "created_at": "Sun Oct 04 14:45:06 +0000 2026",
+    "id_str": "2106757508732010810",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2106757520312390057",
+    "time": "2026-10-04 22:45",
+    "created_at": "Sun Oct 04 14:45:09 +0000 2026",
+    "id_str": "2106757520312390057",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "tibo just said \"6.1 coming soon\"\n\nbut 6.1 sol is already here...\n\nso what exactly is coming soon? 👀\n\n6.1 astra?",
+    "quoted_tweet": null,
+    "url": "https://x.com/_ak_111/status/2106551707132141666",
+    "time": "2026-10-04 09:07",
+    "created_at": "Sun Oct 04 01:07:19 +0000 2026",
+    "id_str": "2106551707132141666",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@macintogdev Ah, perfection",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106593009806815429",
+    "time": "2026-10-04 11:51",
+    "created_at": "Sun Oct 04 03:51:26 +0000 2026",
+    "id_str": "2106593009806815429",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I have never in my life achieved inbox zero until I just made it an active goal for my dot to help get it done. Let’s see how long it lasts, but it’s a great feeling.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Down to 6110 unread from the over 9000 unread emails just earlier. Will get to inbox zero with clean filters within the next 48 hours. Dot has accepted the challenge."
+    },
+    "url": "https://x.com/thsottiaux/status/2106602729875685780",
+    "time": "2026-10-04 12:30",
+    "created_at": "Sun Oct 04 04:30:04 +0000 2026",
+    "id_str": "2106602729875685780",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "What it did\n\n- delete all categories of email that were not needed for me to keep, validating them in batch\n- identify labels for types of work that I do and label all the emails appropriately\n- walked me through emails that needed a reply, searching for relevant context in the background to help get things right\n\nand in the process I was able to go through a lot of feedback and requests people send me directly through email. It was a good Saturday.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106603980386394123",
+    "time": "2026-10-04 12:35",
+    "created_at": "Sun Oct 04 04:35:02 +0000 2026",
+    "id_str": "2106603980386394123",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@davis7 6.1 sol ultrafast that is",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106605571168510149",
+    "time": "2026-10-04 12:41",
+    "created_at": "Sun Oct 04 04:41:21 +0000 2026",
+    "id_str": "2106605571168510149",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@_ak_111 6.1 sol ultrafast",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106607456130592861",
+    "time": "2026-10-04 12:48",
+    "created_at": "Sun Oct 04 04:48:51 +0000 2026",
+    "id_str": "2106607456130592861",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@hiarun02 There is a full usage dashboard in the app now! Let me know what’s missing if anything, will fix",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106609390577156384",
+    "time": "2026-10-04 12:56",
+    "created_at": "Sun Oct 04 04:56:32 +0000 2026",
+    "id_str": "2106609390577156384",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106610099720720811",
+    "time": "2026-10-04 12:59",
+    "created_at": "Sun Oct 04 04:59:21 +0000 2026",
+    "id_str": "2106610099720720811",
+    "is_retweet": false
   }
 ]
