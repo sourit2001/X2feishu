@@ -87,5 +87,49 @@
     "created_at": "Sat Oct 03 23:21:54 +0000 2026",
     "id_str": "2106525177731547616",
     "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "If you're a college student looking to be an HR intern for a few weeks (potential to go full-time), send me a DM/email. Must be based in the US, remote ok.\n\nNeed you to help us hire our next 50 people.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2106526504645779682",
+    "time": "2026-10-04 07:27",
+    "created_at": "Sat Oct 03 23:27:10 +0000 2026",
+    "id_str": "2106526504645779682",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "苹果将限制 AI 随意访问 Mac 磁盘\n\n10月2日，苹果宣布收紧Mac的\"完全磁盘访问权限\"，以后任何应用想拿这个权限，必须经过\"非常明确的用户操作\"许可。\n\n苹果表示，\"随着AI Agent越来越强大、越来越自主，这种级别访问带来的风险将大幅增长。\"\n\nAgent能读走你整台Mac，包括邮件、短信、浏览记录、备份… 一个不落\n\n公告大意：\n\n苹果为开发者提供功能强大的 API，同时通过隐私控制措施保护用户的数据。“完全磁盘访问”会绕过其中很大一部分限制，让 Mac 上的备份软件能够正常工作。\n\n但一些开发者对这项权限的使用方式，可能让用户在没有充分知情和理解的情况下，暴露文件、邮件、消息乃至浏览记录。对于通信应用，这还可能影响与用户交流的其他人的隐私。\n\n苹果计划增加控制措施，确保用户只有经过非常明确的主动操作，才能授予应用如此广泛的访问权限。\n\n苹果认为，随着 AI 智能体的能力和自主性不断增强，这种权限带来的风险会显著上升。因此，用户需要在授权之前清楚理解风险，才能对自己的数据和隐私作出知情选择。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2106560753402802333",
+    "time": "2026-10-04 09:43",
+    "created_at": "Sun Oct 04 01:43:16 +0000 2026",
+    "id_str": "2106560753402802333",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "原文：https://developer.apple.com/news/?id=p6zjojqw",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2106560757748175150",
+    "time": "2026-10-04 09:43",
+    "created_at": "Sun Oct 04 01:43:17 +0000 2026",
+    "id_str": "2106560757748175150",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I had Claude scroll TikTok, then I gave it 200 bucks and asked for a music video 9 hours later it came back with this... I'm cooked lmaaoooo 😭😭😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/pleometric/status/2106515430529548579",
+    "time": "2026-10-04 06:43",
+    "created_at": "Sat Oct 03 22:43:10 +0000 2026",
+    "id_str": "2106515430529548579",
+    "is_retweet": true
   }
 ]
