@@ -1,1 +1,327 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit If they hit their targets and acheive $15 EPS (40%GM) by 2028 it would be a P/E 7.6 stock in the middle of the massive ramp-\n\nBull case is literally a 2-3X stock IFFFF management can execute. \n\nmarket right now does, at current price,  is not believing in management",
+    "quoted_tweet": null,
+    "url": "https://x.com/Blinklebloop/status/2107179417222959143",
+    "time": "2026-10-06 02:41",
+    "created_at": "Mon Oct 05 18:41:37 +0000 2026",
+    "id_str": "2107179417222959143",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@Blinklebloop I think we’ll go back to regularly scheduled programming now\n\nIt’s just that ATM was holding $AAOI back for the longest time",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2107199278561333744",
+    "time": "2026-10-06 04:00",
+    "created_at": "Mon Oct 05 20:00:32 +0000 2026",
+    "id_str": "2107199278561333744",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I actually want personal operating systems optimized for co-working with AIs, including fine-grained ideas of security, easier ways to dynamically see & understand what AIs are doing, and independent secondary \"audit\" agents that check the results of the AIs on your system",
+    "quoted_tweet": {
+      "author": "Sriram Krishnan",
+      "username": "sriramk",
+      "text": "whenever I see \n- \"claude/chatgpt has started debugging your browser\"\n- have to give an agent full disk and/or accessibility access\n\nI'm convinced we need fundamentally better security primitives for agents to do work as us - and we are living in an awkward intermediate era."
+    },
+    "url": "https://x.com/emollick/status/2106936117421601110",
+    "time": "2026-10-05 10:34",
+    "created_at": "Mon Oct 05 02:34:50 +0000 2026",
+    "id_str": "2106936117421601110",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I can migrate my most-used GPT (going away in December) to a private \"plugin.\" But the reason I created a GPT was for other people to use it.\n\nGPTs are obviously obsolete, but I know they were a focus within companies & among educators for years. This isn't a great path for them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106958444196413670",
+    "time": "2026-10-05 12:03",
+    "created_at": "Mon Oct 05 04:03:33 +0000 2026",
+    "id_str": "2106958444196413670",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I have spoken with company leaders in just the last couple of months that talk about their efforts to train people to make GPTs! I think OpenAI needs to figure out ways to bring people along where it is going, since most people are not following this stuff closely.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106961322902745511",
+    "time": "2026-10-05 12:14",
+    "created_at": "Mon Oct 05 04:14:59 +0000 2026",
+    "id_str": "2106961322902745511",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The whole reset thing is really weird and only makes sense to a narrow slice of even people on Twitter.\n\nEveryone else expects to plan their usage in some sort of rational way and getting random prizes of tokens is kind of strange. Like what percent of the user base gets this?",
+    "quoted_tweet": {
+      "author": "angel",
+      "username": "angelbrodin",
+      "text": "Do you ever think of all the ChatGPT pro users who aren’t on Twitter and are just completely confused at why their usage randomly resets and why they receive banked resets"
+    },
+    "url": "https://x.com/emollick/status/2106962963362111666",
+    "time": "2026-10-05 12:21",
+    "created_at": "Mon Oct 05 04:21:30 +0000 2026",
+    "id_str": "2106962963362111666",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I've been complaining about some OpenAI choices tonight, so, on the plus side, I will say there is still no equivalent to GPT-6 Pro (just as there wasn't with previous Pro models). It both does really hard tasks in one shot & does a surprisingly good job communicating the results",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106993497697919431",
+    "time": "2026-10-05 14:22",
+    "created_at": "Mon Oct 05 06:22:50 +0000 2026",
+    "id_str": "2106993497697919431",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick There shouldn't be a GPT-6 Pro. It should just be GPT-6 Astra, one model, one interface. Hopefully this ridiculousness ends by the end of the year",
+    "quoted_tweet": null,
+    "url": "https://x.com/spencerschiff_/status/2106995078829105616",
+    "time": "2026-10-05 14:29",
+    "created_at": "Mon Oct 05 06:29:07 +0000 2026",
+    "id_str": "2106995078829105616",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Another much-needed product: an email system built for teams so that a human and autonomous agents can both access it.\n\nWe need a system, with appropriate permissions, where your AIs (& invited others) can work, comment to each other and bring things to your attention if needed.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106995773682458784",
+    "time": "2026-10-05 14:31",
+    "created_at": "Mon Oct 05 06:31:53 +0000 2026",
+    "id_str": "2106995773682458784",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@spencerschiff_ No, GPT-6 Pro is excellent and does things that Astra cannot involving parallel work. It is a specialized model.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106995999319400672",
+    "time": "2026-10-05 14:32",
+    "created_at": "Mon Oct 05 06:32:46 +0000 2026",
+    "id_str": "2106995999319400672",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And for everyone saying it, no this is not Slack. Actual email inbox with material being moved between folders or annotated, rather than a team messaging chat. Think Superhuman, but looping in Ais.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107001975703478329",
+    "time": "2026-10-05 14:56",
+    "created_at": "Mon Oct 05 06:56:31 +0000 2026",
+    "id_str": "2107001975703478329",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AI policy right now, especially from the Labs, makes me think of this poem.\n\nIf you believe superintelligence is near, you don't need to make hard decisions about how to build AI to make the world better. Just wait for ASI & it will decide for us. But if that doesn't happen...",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107203549059014739",
+    "time": "2026-10-06 04:17",
+    "created_at": "Mon Oct 05 20:17:30 +0000 2026",
+    "id_str": "2107203549059014739",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I will block replybots whose prompts make them generate inane comments connecting the poem to business process re-engineering or whatever, or those that quote a random line from the poem as \"the part that people miss\" etc. You can do better.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107205537536561274",
+    "time": "2026-10-06 04:25",
+    "created_at": "Mon Oct 05 20:25:24 +0000 2026",
+    "id_str": "2107205537536561274",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "So much reporting on the Claude or OpenAI usage of the same handful of technology companies with competing products & huge cloud infrastructure of their own.\n\nThere are many, many more firms out there that are not direct competitors & whose use trends would be more informative.",
+    "quoted_tweet": {
+      "author": "NIK",
+      "username": "ns123abc",
+      "text": "🚨BREAKING: Microsoft and META are aggressively cutting employee use of Claude ahead of Anthropic's IPO\n\nMicrosoft has cut internal claude spend by more than 33%, nuked per-employee token budget from $100k/month to $10k/month, and forced Copilot to auto-route to cheaper models\n\nMETA used Claude code to build Muse, then cut active users from 60,000 to 30,000 (50% decline) after launch, and replaced it with Muse Code \n\nPalantir and Nvidia are also scaling back claude over soaring prices and data privacy fears\n\nit’s OVER…"
+    },
+    "url": "https://x.com/emollick/status/2107227739048513628",
+    "time": "2026-10-06 05:53",
+    "created_at": "Mon Oct 05 21:53:38 +0000 2026",
+    "id_str": "2107227739048513628",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Over the past weeks I switched a lot of my Cowork complex work to new Claude Projects (confusingly, it is not the same as the old Projects in Claude, instead, it persistently chats with a dedicated cloud VM). I found it to be much better in most ways, but not clearly documented.",
+    "quoted_tweet": {
+      "author": "Felix Rieseberg",
+      "username": "felixrieseberg",
+      "text": "Hi! I work on Cowork. Probably no surprise, but we want to make our users as powerful as possible with Claude - and you're right that explaining and keeping up with the capabilities is hard. Affected users got both an email and an in-app notice, but I'm grateful for the feedback - I think this change was more surprising to people than I'd like it to be. This one will be a longer explainer, bear with me!\n\nThe \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety, and security reasons - mapping in just the data you explicitly added to your session. People loved what they were able to do with Claude but didn't love the disk, battery, and performance cost of running the VM locally. Also, people didn't love that closing your laptop means the work stops.\n\nThe \"new\" version of Cowork runs model inference and the VM in the cloud. Each session gets its own sandbox, not sharing state with other sessions. When the VM needs something on the users' device (like a file), the desktop app is responsible for that file access tool call. To be clear, Claude will only access files in folders that the user explicitly added to the session, the same way Claude only saw files explicitly added to the VM in the \"old\" version. Sandboxes are destroyed when the session ends!\n\nWe think this solves a lot of problems we've heard about  (like using Cowork from a phone, keeping work running, or getting all the same power without losing battery to the VM) - but we'll keep iterating on new feedback we hear!"
+    },
+    "url": "https://x.com/emollick/status/2107248012208791839",
+    "time": "2026-10-06 07:14",
+    "created_at": "Mon Oct 05 23:14:11 +0000 2026",
+    "id_str": "2107248012208791839",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I tend to use ChatGPT on my machine for Codex work (using the Remote connection for management), but Dot is in the Cloud and I have a couple scheduled tasks in Claude running on my machine and... oh my gosh is it all confusing to explain to anyone who isn't deep into this stuff.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107248468800733571",
+    "time": "2026-10-06 07:16",
+    "created_at": "Mon Oct 05 23:16:00 +0000 2026",
+    "id_str": "2107248468800733571",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Another amazing Jev alternative",
+    "quoted_tweet": {
+      "author": "0xSero",
+      "username": "0xSero",
+      "text": "Cloudflare just released a local Jev, 27B\n\nSame idea, you give it a schema and data, and it makes decisions. This is very useful for high volume tasks. \n\nRuns on a 3090/4090\n\nhttps://huggingface.co/Cloudflare/clef"
+    },
+    "url": "https://x.com/godofprompt/status/2107196632916017561",
+    "time": "2026-10-06 03:50",
+    "created_at": "Mon Oct 05 19:50:01 +0000 2026",
+    "id_str": "2107196632916017561",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "从商业模式看 Instinct，原来是 AI 版携程。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107252427540058240",
+    "time": "2026-10-06 07:31",
+    "created_at": "Mon Oct 05 23:31:44 +0000 2026",
+    "id_str": "2107252427540058240",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Another victim in our War on Expensive Software: Teachable. 🪦 \n\nThey raised our price from $148 a month to $1,000. Almost 7x!!\n\n(Funny part: I invested in them)\n\nOur COO built our own version instead. Her FIRST app ever. Took her 2 days.\n\nAll 152 lessons of our course run on it now.\n\nRaise prices 7x and your customers learn to code.",
+    "quoted_tweet": null,
+    "url": "https://x.com/noahkagan/status/2107151449666748477",
+    "time": "2026-10-06 00:50",
+    "created_at": "Mon Oct 05 16:50:29 +0000 2026",
+    "id_str": "2107151449666748477",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@noahkagan Happened with me with Webflow. Was paying $99/month, got tons of a traffic, was pushed to enterprise plan at $1,200/month. Within a month, I coded it's replacement and cancelled Webflow.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2107185905148801042",
+    "time": "2026-10-06 03:07",
+    "created_at": "Mon Oct 05 19:07:24 +0000 2026",
+    "id_str": "2107185905148801042",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Padres fans, be honest.\n\nYou’re down 0-2.\n\nBut the series is coming back to Petco.\n\nDo you believe San Diego can force a Game 5?\n\n👇\n\nYES — We’re coming back.\n\nNO — It’s over.\n\n#Padres #ForTheFaithful #NLDS",
+    "quoted_tweet": null,
+    "url": "https://x.com/SleeperPadres/status/2107214246111330475",
+    "time": "2026-10-06 05:00",
+    "created_at": "Mon Oct 05 21:00:01 +0000 2026",
+    "id_str": "2107214246111330475",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@SleeperPadres I do believe they can. Padres tough to beat at home. However, it requires Stammen to learn from his management mistakes of the last 2 games.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2107220908431876126",
+    "time": "2026-10-06 05:26",
+    "created_at": "Mon Oct 05 21:26:29 +0000 2026",
+    "id_str": "2107220908431876126",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin."
+    },
+    "url": "https://x.com/thsottiaux/status/2107158998495748264",
+    "time": "2026-10-06 01:20",
+    "created_at": "Mon Oct 05 17:20:29 +0000 2026",
+    "id_str": "2107158998495748264",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Reaching 50 TPS instead of 30TPS, with also the most optimized tokenizer out there. And the models are quite the efficient ones in terms of number of tokens needed to get things done!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107159119107146237",
+    "time": "2026-10-06 01:20",
+    "created_at": "Mon Oct 05 17:20:57 +0000 2026",
+    "id_str": "2107159119107146237",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Moving over to @OpenAI Dot from Muse. I'm using Chatgpt/Codex anyway daily for my personal stuff so simpler that way. \n\n(I like keeping my work ai use with @linear since it has the context I need). \n\nAlso introducing sleepy Doomhammer orc peon: \nWork, work. Okay dokey.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karrisaarinen/status/2107166751742156800",
+    "time": "2026-10-06 01:51",
+    "created_at": "Mon Oct 05 17:51:17 +0000 2026",
+    "id_str": "2107166751742156800",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@karrisaarinen @OpenAI @linear Nice avatar",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107185534359761051",
+    "time": "2026-10-06 03:05",
+    "created_at": "Mon Oct 05 19:05:55 +0000 2026",
+    "id_str": "2107185534359761051",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Sergio is cooking up magic with collaborative space right in ChatGPT. Improving leaps and bounds every day.",
+    "quoted_tweet": {
+      "author": "Sergio Mattei",
+      "username": "matteing",
+      "text": "We weren't kidding. Let's talk about Space. ✨\n\nHave you tried Space yet?\nWhat's good or bad about it?\nWhat could we improve?\n\nWe're locked in and shipping fast. 👀"
+    },
+    "url": "https://x.com/thsottiaux/status/2107200530477101461",
+    "time": "2026-10-06 04:05",
+    "created_at": "Mon Oct 05 20:05:31 +0000 2026",
+    "id_str": "2107200530477101461",
+    "is_retweet": false
+  }
+]
