@@ -2740,5 +2740,281 @@
     "created_at": "Mon Oct 05 04:39:49 +0000 2026",
     "id_str": "2106967571425898951",
     "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "搞定了 Muse 那个小玩具 哈哈\n\n我用的 M5 Stack 的 Stop Watch Meta 搞得\n\n这个 Muse Gadgets SDK 真的很方便\n\n而且已经内置了好几个常见 ESP 32 设备的固件，直接刷进去就行",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "我去，这个好玩！\n\nMuse 出了一个开源的 Linux SDK：Muse Gadgets，可以让你将你的这个 ESP32 设备跟 Muse 连接起来。\n\n获得关于 Muse 的一些信息，然后来构建 Muse 的周边硬件。这个太爽了呀！\n\n不用羡慕他们刚发布的那个 Muse 硬件了，你现在可以自己做。"
+    },
+    "url": "https://x.com/op7418/status/2106974366722662786",
+    "time": "2026-10-05 13:06",
+    "created_at": "Mon Oct 05 05:06:49 +0000 2026",
+    "id_str": "2106974366722662786",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "专门为安卓折叠屏做了一个模仿 iPhone Duo那个半折状态下的屏保应用。\n\n考虑到实在是没几个人用，所以就没发，有需要的话我开源一下",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106976063620632944",
+    "time": "2026-10-05 13:13",
+    "created_at": "Mon Oct 05 05:13:33 +0000 2026",
+    "id_str": "2106976063620632944",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 这个可以24小时在线吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/lala_oldtang/status/2106976803516792999",
+    "time": "2026-10-05 13:16",
+    "created_at": "Mon Oct 05 05:16:30 +0000 2026",
+    "id_str": "2106976803516792999",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@lala_oldtang 有电就行",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106977453457678353",
+    "time": "2026-10-05 13:19",
+    "created_at": "Mon Oct 05 05:19:05 +0000 2026",
+    "id_str": "2106977453457678353",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 这个能磁吸充电么 感觉有磁吸就非常漂亮了",
+    "quoted_tweet": null,
+    "url": "https://x.com/gl434/status/2106982095306510495",
+    "time": "2026-10-05 13:37",
+    "created_at": "Mon Oct 05 05:37:32 +0000 2026",
+    "id_str": "2106982095306510495",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 求开源，半折放桌上当个小时钟就挺够用了。是靠铰链角度传感器判断半折的吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/__jingling/status/2106987671298150443",
+    "time": "2026-10-05 13:59",
+    "created_at": "Mon Oct 05 05:59:41 +0000 2026",
+    "id_str": "2106987671298150443",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@__jingling 对",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106992231148335193",
+    "time": "2026-10-05 14:17",
+    "created_at": "Mon Oct 05 06:17:48 +0000 2026",
+    "id_str": "2106992231148335193",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@gl434 可以找找有没有单独的磁吸充电的模块",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2106992349394174400",
+    "time": "2026-10-05 14:18",
+    "created_at": "Mon Oct 05 06:18:16 +0000 2026",
+    "id_str": "2106992349394174400",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我其实有个疑问，那框架还是需要的么？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xtom0369/status/2106941659057631642",
+    "time": "2026-10-05 10:56",
+    "created_at": "Mon Oct 05 02:56:51 +0000 2026",
+    "id_str": "2106941659057631642",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xtom0369 不需要为了框架而框架，而是根据当前业务需求选择合适的框架。换个角度想：AI 去实现，用对框架会更快更稳",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2106943578375074254",
+    "time": "2026-10-05 11:04",
+    "created_at": "Mon Oct 05 03:04:28 +0000 2026",
+    "id_str": "2106943578375074254",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@dontbesilent 我给你问问",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2106918234306035945",
+    "time": "2026-10-05 09:23",
+    "created_at": "Mon Oct 05 01:23:46 +0000 2026",
+    "id_str": "2106918234306035945",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Using Blender for block-out and previz.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thealphatron/status/2106931504505086093",
+    "time": "2026-10-05 10:16",
+    "created_at": "Mon Oct 05 02:16:30 +0000 2026",
+    "id_str": "2106931504505086093",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@thealphatron Me too! Use Blender for all AI animations now!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106947198415986751",
+    "time": "2026-10-05 11:18",
+    "created_at": "Mon Oct 05 03:18:51 +0000 2026",
+    "id_str": "2106947198415986751",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It has been one of the most amazing birthdays for me today.\n\nI am so very blessed by all the people in my life.\n\nSo blessed to be here in this time and in this place.\n\nIt’s been so many Summers, Autumn, Winters and Springs and I look forward to so many more.\n\nNever would I have thought with every year life would become more joyous with new adventures I could not have imagined.\n\nHere is to the next circles about the sun on our spacecraft we call Earth.\n\nI could not think of a better group to take along.\n\nI love you.\n\nLet’s ride, I saved a horse for you.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BrianRoemmele/status/2106947576578646301",
+    "time": "2026-10-05 11:20",
+    "created_at": "Mon Oct 05 03:20:22 +0000 2026",
+    "id_str": "2106947576578646301",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Two I really like",
+    "quoted_tweet": null,
+    "url": "https://x.com/WescheNex1q/status/2106953593068863569",
+    "time": "2026-10-05 11:44",
+    "created_at": "Mon Oct 05 03:44:16 +0000 2026",
+    "id_str": "2106953593068863569",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@WescheNex1q Wow those are so cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106956382394339598",
+    "time": "2026-10-05 11:55",
+    "created_at": "Mon Oct 05 03:55:21 +0000 2026",
+    "id_str": "2106956382394339598",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I really like these type of AI videos",
+    "quoted_tweet": {
+      "author": "Wësche",
+      "username": "WescheNex1q",
+      "text": "@icreatelife Two I really like"
+    },
+    "url": "https://x.com/icreatelife/status/2106956452065874259",
+    "time": "2026-10-05 11:55",
+    "created_at": "Mon Oct 05 03:55:38 +0000 2026",
+    "id_str": "2106956452065874259",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/o_adeeko/status/2106973694442815693",
+    "time": "2026-10-05 13:04",
+    "created_at": "Mon Oct 05 05:04:09 +0000 2026",
+    "id_str": "2106973694442815693",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/m_artt1/status/2106974043425620262",
+    "time": "2026-10-05 13:05",
+    "created_at": "Mon Oct 05 05:05:32 +0000 2026",
+    "id_str": "2106974043425620262",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@o_adeeko I absolutely love this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106974104041468045",
+    "time": "2026-10-05 13:05",
+    "created_at": "Mon Oct 05 05:05:46 +0000 2026",
+    "id_str": "2106974104041468045",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So great! This made me feel inspired",
+    "quoted_tweet": {
+      "author": "Olalekan Adeeko MVP",
+      "username": "o_adeeko",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2106974175080714703",
+    "time": "2026-10-05 13:06",
+    "created_at": "Mon Oct 05 05:06:03 +0000 2026",
+    "id_str": "2106974175080714703",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@m_artt1 Great one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106981295981293958",
+    "time": "2026-10-05 13:34",
+    "created_at": "Mon Oct 05 05:34:21 +0000 2026",
+    "id_str": "2106981295981293958",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BrianRoemmele Happy birthday",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2106988126011003368",
+    "time": "2026-10-05 14:01",
+    "created_at": "Mon Oct 05 06:01:29 +0000 2026",
+    "id_str": "2106988126011003368",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I am being fine tuned or am I free to go!?",
+    "quoted_tweet": null,
+    "url": "https://x.com/PuppyPriestess/status/2106865443952791946",
+    "time": "2026-10-05 05:54",
+    "created_at": "Sun Oct 04 21:54:00 +0000 2026",
+    "id_str": "2106865443952791946",
+    "is_retweet": true
   }
 ]
