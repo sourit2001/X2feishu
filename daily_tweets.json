@@ -2459,5 +2459,116 @@
     "created_at": "Mon Oct 05 01:06:11 +0000 2026",
     "id_str": "2106913810246508791",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think this advice is not as true anymore:\n1) the durable skill behind “using AI better”\nIs unclear as AI gets easier to use\n2) Increasingly, organizational systems bottleneck AI gains not individual workers\n3) The effect on jobs is uncertain but may impact entire job categories",
+    "quoted_tweet": {
+      "author": "Mark Cuban",
+      "username": "mcuban",
+      "text": "AI won’t take your job. Someone who knows how to use AI better than you, will take your job."
+    },
+    "url": "https://x.com/emollick/status/2106914993526747224",
+    "time": "2026-10-05 09:10",
+    "created_at": "Mon Oct 05 01:10:53 +0000 2026",
+    "id_str": "2106914993526747224",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It doesn’t mean that using AI cannot result in tremendous individual advantage on the job, but it does suggest we need to think about how to build our systems at work to aim for human augmentation, instead of automation. Individual performance is not the only factor.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2106915444162535803",
+    "time": "2026-10-05 09:12",
+    "created_at": "Mon Oct 05 01:12:41 +0000 2026",
+    "id_str": "2106915444162535803",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Amazing insights on MCP engineering",
+    "quoted_tweet": {
+      "author": "Uber Engineering",
+      "username": "UberEng",
+      "text": "https://x.com/i/article/2106059544376066048"
+    },
+    "url": "https://x.com/godofprompt/status/2106900640131637583",
+    "time": "2026-10-05 08:13",
+    "created_at": "Mon Oct 05 00:13:51 +0000 2026",
+    "id_str": "2106900640131637583",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "How many users canceled their subscriptions to make this happen?",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Over the next 28 days, each day we’ll either ship one thing that is a clear improvement and relevant for most codex/work users or ship a full reset. Let the improvements begin."
+    },
+    "url": "https://x.com/ZryMiller/status/2106862047254515866",
+    "time": "2026-10-05 05:40",
+    "created_at": "Sun Oct 04 21:40:30 +0000 2026",
+    "id_str": "2106862047254515866",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Frantically fixing a confusing product caused by frantic shipping is just more of the same.\n\nPause and step back. Get the team clear on what you’re building and why. Have clarity to guide the shape, what ships and what doesn’t. \n\nQuality is a way of working, not a cleanup sprint.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karrisaarinen/status/2106877363648929912",
+    "time": "2026-10-05 06:41",
+    "created_at": "Sun Oct 04 22:41:22 +0000 2026",
+    "id_str": "2106877363648929912",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ZryMiller Interestingly, user and sub count is growing nicely. But feedback was clear.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106893559962144962",
+    "time": "2026-10-05 07:45",
+    "created_at": "Sun Oct 04 23:45:43 +0000 2026",
+    "id_str": "2106893559962144962",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@karrisaarinen Always loved linear!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106893863663321520",
+    "time": "2026-10-05 07:46",
+    "created_at": "Sun Oct 04 23:46:55 +0000 2026",
+    "id_str": "2106893863663321520",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@mattlam_ > some easy wins: it takes 3 clicks on my phone to open dots from ChatGPT app, and there should be shortcut to dictation to it.\n\nTeam is on it",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106894238541918707",
+    "time": "2026-10-05 07:48",
+    "created_at": "Sun Oct 04 23:48:25 +0000 2026",
+    "id_str": "2106894238541918707",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Yuchenj_UW We're still early indeed!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2106894683523928229",
+    "time": "2026-10-05 07:50",
+    "created_at": "Sun Oct 04 23:50:11 +0000 2026",
+    "id_str": "2106894683523928229",
+    "is_retweet": false
   }
 ]
