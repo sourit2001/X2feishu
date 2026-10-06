@@ -491,5 +491,400 @@
     "created_at": "Tue Oct 06 10:10:00 +0000 2026",
     "id_str": "2107413054812213555",
     "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@RMB The goat has spoken, I'm convinced. Thanks Rob",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107310212151693457",
+    "time": "Tue Oct 06 03:21:21 +0000 2026",
+    "created_at": "Tue Oct 06 03:21:21 +0000 2026",
+    "id_str": "2107310212151693457",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Introducing Higgsfield Ads Studio.\n\nThe first ROAS-driven static ads content machine.\n\n> Does 10,000 hours worth of deep research of your brand\n> Monitors real-time trending formats\n> Crafts winning ads based on best industry practices\n\nTry free in Higgsfield ChatGPT extension.",
+    "quoted_tweet": null,
+    "url": "https://x.com/higgsfield_ai/status/2107154889478664342",
+    "time": "2026-10-06 01:04",
+    "created_at": "Mon Oct 05 17:04:09 +0000 2026",
+    "id_str": "2107154889478664342",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Projects这个功能牛P\n\n你可以授权 Claude Projects 的云端会话，访问你电脑上的某个文件夹\n\nClaude 会话每次仍然在云端运行，\n只有当某些任务需要用到本机这个文件夹里的内容时，它才读取里面的文件...\n\n这样更省事，解决了云端和本地互通的问题\n\n它也可以直接修改本地文件，修改会保存到你电脑上的原位置\n\n比如，你授权一个项目文件夹，就可以让 Claude 查看其中的代码、修改文档，省去手动上传和下载文件的步骤\n\n这项功能从今天开始逐步开放，所有用户会分批获得",
+    "quoted_tweet": {
+      "author": "Dan Fein",
+      "username": "dfeinition",
+      "text": "Your Claude Projects cloud session can now connect to a folder you approve on your computer.\n\nThe session stays in the cloud and only reaches for that local folder when a task needs it, reading and editing the files in place.\n\nStarting to roll out today."
+    },
+    "url": "https://x.com/xiaohu/status/2107378070630068526",
+    "time": "Tue Oct 06 07:50:59 +0000 2026",
+    "created_at": "Tue Oct 06 07:50:59 +0000 2026",
+    "id_str": "2107378070630068526",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "根据知名技术分析机构 SemiAnalysis 的测试\n\nAnthropic 才是最大的慈善家\nOpenAI一直在耍小聪明\n\nClaude 提供的“等效 API 价值”直接比 OpenAI 高出约 5 倍，即便不看价格单看 Token 数量，Claude 给的量也大幅胜出...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2107385442865909928",
+    "time": "Tue Oct 06 08:20:17 +0000 2026",
+    "created_at": "Tue Oct 06 08:20:17 +0000 2026",
+    "id_str": "2107385442865909928",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "而且OpenAI 刚刚“大砍刀”：$200 套餐价值腰斩，还推了 $500 新档\n\n现在 OpenAI 的 $100、$200、$500 档位，每花 1 美元买到的 Token 数几乎是一样的；而 Anthropic 依然在每美元性价比上全方位碾压 OpenAI",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2107385447316115888",
+    "time": "Tue Oct 06 08:20:18 +0000 2026",
+    "created_at": "Tue Oct 06 08:20:18 +0000 2026",
+    "id_str": "2107385447316115888",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "另外订阅制是大赔本买卖：用 40% 的算力，只换来 10% 的收入\n\n平时我们买 20 美元或 200 美元的月费会员，其实都是科技巨头严重倒贴（补贴）出来的：\n\n以 Anthropic（Claude）为例：会员订阅带来的收入只占总收入的大约 10%，但订阅用户吃掉的推理算力却占了 40% 以上，严重拉低了每兆瓦算力产生的收入。\n\n详细：https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2107385449882984688",
+    "time": "Tue Oct 06 08:20:19 +0000 2026",
+    "created_at": "Tue Oct 06 08:20:19 +0000 2026",
+    "id_str": "2107385449882984688",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Those AI haters,th ey like AI posts so much.",
+    "quoted_tweet": null,
+    "url": "https://x.com/zeng_wt/status/2107309624718512381",
+    "time": "Tue Oct 06 03:19:01 +0000 2026",
+    "created_at": "Tue Oct 06 03:19:01 +0000 2026",
+    "id_str": "2107309624718512381",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@zeng_wt They’re so obsessed",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107309929182753023",
+    "time": "Tue Oct 06 03:20:13 +0000 2026",
+    "created_at": "Tue Oct 06 03:20:13 +0000 2026",
+    "id_str": "2107309929182753023",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Be the light ✨",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107313976602202506",
+    "time": "Tue Oct 06 03:36:18 +0000 2026",
+    "created_at": "Tue Oct 06 03:36:18 +0000 2026",
+    "id_str": "2107313976602202506",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I took a different approach to LoTR villains 🤭",
+    "quoted_tweet": {
+      "author": "Toshi",
+      "username": "ToshiArte",
+      "text": "Lord of the Rings, 25th Anniversary.  \nPart IV-Villains"
+    },
+    "url": "https://x.com/GlitterPixely/status/2107314651440816247",
+    "time": "Tue Oct 06 03:38:59 +0000 2026",
+    "created_at": "Tue Oct 06 03:38:59 +0000 2026",
+    "id_str": "2107314651440816247",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely Lovely",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107315788696678456",
+    "time": "Tue Oct 06 03:43:30 +0000 2026",
+    "created_at": "Tue Oct 06 03:43:30 +0000 2026",
+    "id_str": "2107315788696678456",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Their obsession is unhealthy ☹️😞",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2107316244395565146",
+    "time": "Tue Oct 06 03:45:19 +0000 2026",
+    "created_at": "Tue Oct 06 03:45:19 +0000 2026",
+    "id_str": "2107316244395565146",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What is the greatest invention America has ever created?😎",
+    "quoted_tweet": null,
+    "url": "https://x.com/learning_yohei/status/2107319940541763826",
+    "time": "Tue Oct 06 04:00:00 +0000 2026",
+    "created_at": "Tue Oct 06 04:00:00 +0000 2026",
+    "id_str": "2107319940541763826",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely True",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107328761448337672",
+    "time": "Tue Oct 06 04:35:03 +0000 2026",
+    "created_at": "Tue Oct 06 04:35:03 +0000 2026",
+    "id_str": "2107328761448337672",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Lordofacca Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107341081595539862",
+    "time": "Tue Oct 06 05:24:01 +0000 2026",
+    "created_at": "Tue Oct 06 05:24:01 +0000 2026",
+    "id_str": "2107341081595539862",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/0lrt89BToD",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2107347310267232256",
+          "display": "pic.x.com/0lrt89BToD",
+          "original": "https://t.co/0lrt89BToD",
+          "replacement": "https://x.com/MavisAu210394/status/2107347316994883763/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your photo into a tiny illustrated memory ✨\n\nAs always, looking forward to see your experiments \n\nPrompt 👇"
+    },
+    "url": "https://x.com/MavisAu210394/status/2107347316994883763",
+    "time": "Tue Oct 06 05:48:47 +0000 2026",
+    "created_at": "Tue Oct 06 05:48:47 +0000 2026",
+    "id_str": "2107347316994883763",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MavisAu210394 Cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107347639557927221",
+    "time": "Tue Oct 06 05:50:04 +0000 2026",
+    "created_at": "Tue Oct 06 05:50:04 +0000 2026",
+    "id_str": "2107347639557927221",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@learning_yohei Artificial intelligence",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107347876473102610",
+    "time": "Tue Oct 06 05:51:01 +0000 2026",
+    "created_at": "Tue Oct 06 05:51:01 +0000 2026",
+    "id_str": "2107347876473102610",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I wonder if you already started using the term super intelligence",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107348382725689467",
+    "time": "Tue Oct 06 05:53:01 +0000 2026",
+    "created_at": "Tue Oct 06 05:53:01 +0000 2026",
+    "id_str": "2107348382725689467",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Give me one good reason.",
+    "quoted_tweet": null,
+    "url": "https://x.com/AIandDesign/status/2107348908724953312",
+    "time": "Tue Oct 06 05:55:07 +0000 2026",
+    "created_at": "Tue Oct 06 05:55:07 +0000 2026",
+    "id_str": "2107348908724953312",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AIandDesign Algorithm",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107348974612967761",
+    "time": "Tue Oct 06 05:55:22 +0000 2026",
+    "created_at": "Tue Oct 06 05:55:22 +0000 2026",
+    "id_str": "2107348974612967761",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "True that",
+    "quoted_tweet": {
+      "author": "Derya Unutmaz, MD",
+      "username": "DeryaTR_",
+      "text": "The strange irony is that despite pushing for superintelligence, I believe in human ingenuity & potential much more than all these AI-doomers. They assume we will be like ants to SI; on the contrary, we are becoming super empowered humans with SI & we're going to do just great!"
+    },
+    "url": "https://x.com/icreatelife/status/2107350703903764607",
+    "time": "Tue Oct 06 06:02:15 +0000 2026",
+    "created_at": "Tue Oct 06 06:02:15 +0000 2026",
+    "id_str": "2107350703903764607",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I think 99% of the people who post about AI on 𝕏 are genuinely amazing humans",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107351841558413577",
+    "time": "Tue Oct 06 06:06:46 +0000 2026",
+    "created_at": "Tue Oct 06 06:06:46 +0000 2026",
+    "id_str": "2107351841558413577",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Sure \nBecause you are the kindest leader for our community",
+    "quoted_tweet": null,
+    "url": "https://x.com/muriellondon/status/2107354026262274483",
+    "time": "Tue Oct 06 06:15:27 +0000 2026",
+    "created_at": "Tue Oct 06 06:15:27 +0000 2026",
+    "id_str": "2107354026262274483",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@muriellondon ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107354716955095359",
+    "time": "Tue Oct 06 06:18:11 +0000 2026",
+    "created_at": "Tue Oct 06 06:18:11 +0000 2026",
+    "id_str": "2107354716955095359",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/urvir/status/2107363407267795237",
+    "time": "Tue Oct 06 06:52:43 +0000 2026",
+    "created_at": "Tue Oct 06 06:52:43 +0000 2026",
+    "id_str": "2107363407267795237",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Even a random photo of my messy and boring desk works surprisingly well",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your photo into a tiny illustrated memory ✨\n\nAs always, looking forward to see your experiments \n\nPrompt 👇"
+    },
+    "url": "https://x.com/reverdin/status/2107365349071143389",
+    "time": "Tue Oct 06 07:00:26 +0000 2026",
+    "created_at": "Tue Oct 06 07:00:26 +0000 2026",
+    "id_str": "2107365349071143389",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Even a random photo of my messy and boring desk works surprisingly well",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your photo into a tiny illustrated memory ✨\n\nAs always, looking forward to see your experiments \n\nPrompt 👇"
+    },
+    "url": "https://x.com/reverdin/status/2107365349071143389",
+    "time": "Tue Oct 06 07:00:26 +0000 2026",
+    "created_at": "Tue Oct 06 07:00:26 +0000 2026",
+    "id_str": "2107365349071143389",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife so cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/Brunoetsu/status/2107365949846544730",
+    "time": "Tue Oct 06 07:02:50 +0000 2026",
+    "created_at": "Tue Oct 06 07:02:50 +0000 2026",
+    "id_str": "2107365949846544730",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Brunoetsu Thanks ☺️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107366497391624237",
+    "time": "Tue Oct 06 07:05:00 +0000 2026",
+    "created_at": "Tue Oct 06 07:05:00 +0000 2026",
+    "id_str": "2107366497391624237",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@reverdin Lovely! Great idea! Will turn my desk into this tomorrow 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107366617118073263",
+    "time": "Tue Oct 06 07:05:29 +0000 2026",
+    "created_at": "Tue Oct 06 07:05:29 +0000 2026",
+    "id_str": "2107366617118073263",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@urvir Lovely",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107366723620151636",
+    "time": "Tue Oct 06 07:05:54 +0000 2026",
+    "created_at": "Tue Oct 06 07:05:54 +0000 2026",
+    "id_str": "2107366723620151636",
+    "is_retweet": false
   }
 ]
