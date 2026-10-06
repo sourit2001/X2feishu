@@ -481,5 +481,767 @@
     "created_at": "Tue Oct 06 21:13:13 +0000 2026",
     "id_str": "2107579959074267354",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "新的 personal agent：Hark Pro，这个产品的设计实在是太顶了！\n\n会给早期用户送一个月的 Pro 会员，据说是由 Opus 5.5 和 Sonnet 5.5 驱动的。这送的 Pro 会员太值了呀！\n\n整体非常漂亮，而且细节很丰富，那些动效非常的细腻。\n\n然后他们左侧这个卡片也很有意思，它是 AI 自定义的。而且\n\n不知道现在还有没有？我是前几天就申请了，所以上来就送了",
+    "quoted_tweet": {
+      "author": "Brett Adcock",
+      "username": "adcock_brett",
+      "text": "Introducing Hark Pro\n\nHark Pro is now live on web, iOS, and Android\n\nTry it free: https://hark.com"
+    },
+    "url": "https://x.com/op7418/status/2107523062619054174",
+    "time": "Tue Oct 06 17:27:08 +0000 2026",
+    "created_at": "Tue Oct 06 17:27:08 +0000 2026",
+    "id_str": "2107523062619054174",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Nano Banana 2.1 居然是基于 Gemini 3.6 Flash，智力上有所欠缺，下图，思考程度 high\n\n提示词：\nNano Banana 2.1 已推出，请搜索信息，并生成适合小红书的海报，3:4",
+    "quoted_tweet": null,
+    "url": "https://x.com/nicekate8888/status/2107507607183478923",
+    "time": "Tue Oct 06 16:25:43 +0000 2026",
+    "created_at": "Tue Oct 06 16:25:43 +0000 2026",
+    "id_str": "2107507607183478923",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 发布 Nano Banana 2.1：局部改图更准，同一个人物换十张图也不走样\n\nGoogle 今天发布了新一代图像生成和编辑模型 Nano Banana 2.1，从今天开始陆续上线 Gemini App、Google 搜索的 AI 模式、AI Studio、Flow、Stitch、Google Ads 和 Gemini 企业平台。\n\nNano Banana 是 Google 图像模型的昵称。第一代 2025 年 8 月走红，卖点是用一句话就能改图；今年 2 月出了 Nano Banana 2。\n\n2.1 是在 2 的基础上做的升级，Google 说它在各方面都超过了之前的模型，进步最大的有三处。\n\n第一是视觉设计。海报、宣传图这类讲究排版和构图的图，出图效果更好。\n\n第二是蒙版编辑。蒙版就是先在图上圈出一块区域，模型只改这一块，其他地方原样不动。想给照片换个背景、给模特换件衣服，用不着担心模型把脸也改了。\n\n第三是主体一致性，也就是同一个人或同一件商品，在多张图里长得一模一样。按 Google 的开发文档，一次最多可以放 14 张参考图，最多同时保持 4 个角色、10 个物体不走样。画连环画、做商品多角度展示图、给同一个模特拍一组不同场景的“照片”，都靠这个能力。\n\n普通用户在 Gemini App 里就能用，因为是分批推送，有人今天就能看到，有人要等几天。\n\n开发者这边，模型 ID 是 gemini-nano-banana-2.1，今天直接是正式版。支持 1K、2K、4K 三档分辨率，画幅从 1:1、16:9 一直到 1:8 这种长条图，还能先调 Google 搜索查资料再画。上一代 gemini-3.1-flash-image（也就是 Nano Banana 2）会在 10 月 29 日停用，还在用旧接口的需要在那之前切换。",
+    "quoted_tweet": {
+      "author": "Google",
+      "username": "Google",
+      "text": "Meet Nano Banana 2.1, our latest image generation and editing model 🍌\n\nThis upgraded version outperforms our previous models across the board, with notable leaps in visual design, mask-based editing, and subject consistency to help you create more natural-looking images."
+    },
+    "url": "https://x.com/dotey/status/2107525221599101152",
+    "time": "Tue Oct 06 17:35:43 +0000 2026",
+    "created_at": "Tue Oct 06 17:35:43 +0000 2026",
+    "id_str": "2107525221599101152",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@nicekate8888 我的水平已经看不出来好坏了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107534439878459500",
+    "time": "Tue Oct 06 18:12:21 +0000 2026",
+    "created_at": "Tue Oct 06 18:12:21 +0000 2026",
+    "id_str": "2107534439878459500",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Boris 让 Opus 5.5 为一部剧集做了一个互动网站，效果确实很不错。\n\n提示词相当简单，核心就三点：\n1. 你希望它做什么？\n2. 你希望它消耗多少算力去推理？\n3. 它应该如何验证自己做对了？\n\n这里面最重要的是第一和第三，做什么和如何验证，以此为抓手 Agent 就可以形成自我验证的闭环，当然推理强度可以给任务赋能。\n\n--- 原始提示词（摘录自评论） ---\n\n> 最新一期 Acquired 播客关于 Home Depot 的内容非常精彩。我想让你制作一个能够叙述整集内容的 Artifact。把它做成精美且互动的形式，重点传达贯穿整集的商业智慧精华。一定要做得非常出色，使用大量的 token 并不断迭代，直到你对其感到自豪为止。也许可以在整个作品中加入水彩插图和历史照片，目标是营造出《纽约客》或《纽约时报》数据可视化的风格，甚至要更好。我认为你可以使用 OpenCV 来处理水彩图片。",
+    "quoted_tweet": {
+      "author": "Boris Cherny",
+      "username": "bcherny",
+      "text": "I asked Opus 5.5 to make an interactive website companion for the latest @AcquiredFM Home Depot episode. It came out pretty nice!\n\nWater color illustrations all drawn by Claude, too: https://claude.ai/artifact/RdE6uE7WozcP2MLfx3BDky\n\nEpisode here: https://www.acquired.fm/episodes/home-depot"
+    },
+    "url": "https://x.com/dotey/status/2107581531871236525",
+    "time": "Tue Oct 06 21:19:28 +0000 2026",
+    "created_at": "Tue Oct 06 21:19:28 +0000 2026",
+    "id_str": "2107581531871236525",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "提示词\nhttps://x.com/bcherny/status/2107565388250874193?s=20",
+    "quoted_tweet": {
+      "author": "Boris Cherny",
+      "username": "bcherny",
+      "text": "I am surprised that people are surprised this is how I prompt Claude.\n\nTalk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks -- give Claude a goal, and it will figure it out.\n\nBack in the Sonnet 3.5 days, your prompt mattered a lot. Nowadays, it's much more important to communicate to the model:\n\n1. What you want it to do\n2. How much effort you want it to spend\n3. How it should verify that it did the right thing"
+    },
+    "url": "https://x.com/dotey/status/2107581888713880032",
+    "time": "Tue Oct 06 21:20:53 +0000 2026",
+    "created_at": "Tue Oct 06 21:20:53 +0000 2026",
+    "id_str": "2107581888713880032",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这是一道送分题",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Vote"
+    },
+    "url": "https://x.com/dotey/status/2107584363043176474",
+    "time": "Tue Oct 06 21:30:43 +0000 2026",
+    "created_at": "Tue Oct 06 21:30:43 +0000 2026",
+    "id_str": "2107584363043176474",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个网站不错，很多从 X 上收集的 Opus 5.5 动画视频案例，有 X 链接，大部分有可以跑起来的 Prompt\nhttps://prompt-motion.com/",
+    "quoted_tweet": {
+      "author": "p4n",
+      "username": "p4nthera_",
+      "text": "I built a growing gallery of motion graphics made with Claude Opus 5.5, each shown next to the prompt or skill that made it.\n\n226 so far, all pulled from posts here and credited to their creators.\n\nhttps://prompt-motion.com"
+    },
+    "url": "https://x.com/dotey/status/2107585545761157496",
+    "time": "Tue Oct 06 21:35:25 +0000 2026",
+    "created_at": "Tue Oct 06 21:35:25 +0000 2026",
+    "id_str": "2107585545761157496",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The most common reasons why AI pilots fail, even at the 'best' companies:\n\nIn order of prevalence:\n\n1. Not starting with a thorough process mapping exercise (standard operating procedures vs. what’s actually happening across systems)\n\n2. Automating a process step instead of the entire process (saving 8 mins in a 22-day process still leaves you with a 22-day process)\n\n3. Not capturing baseline metrics for cycle time, cost per transaction, error rate, etc.\n\n4. Building a sidekick instead of a background agent (chatbots will always only be used by ~10% of users)\n\n5. Not embedding the AI into the organization’s existing systems of record (if users have to login, adoption will be low)\n\n6. Not assigning an AI owner (IT built it, the business tolerated it, and no one was “on call” when it broke)\n\n7. Not engaging legal, infosec, and finance early (we routinely see pilots “discover” these groups in month 3 - and get immediately killed)\n\n8. Not scoping for exceptions (the “demo” only covers the “happy path” - but exceptions often represent 40%+ of process volume)\n\n9. Not running the AI in “shadow mode” for a period of time to build confidence (going straight to production often leads to an AI mishap in front of the CFO)\n\n10. Building with only a single AI model provider (one price hike or deprecation later, the pilot is a migration project)\n\n11. Focusing on vanity metrics (e.g. # of logins, “adoption”) instead of business metrics (time saved, $ generated, risk reduced)\n\n12. Not planning for month 7 (who will own and pay for the AI?)\n\n13. Not engaging the subject matter experts (if you capture all their knowledge in an AI, what incentive do they have to help?)\n\nVarick does enterprise AI the right way. Work with us below:",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107530654741348354",
+    "time": "Tue Oct 06 17:57:18 +0000 2026",
+    "created_at": "Tue Oct 06 17:57:18 +0000 2026",
+    "id_str": "2107530654741348354",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://varickagents.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107530656343523767",
+    "time": "Tue Oct 06 17:57:19 +0000 2026",
+    "created_at": "Tue Oct 06 17:57:19 +0000 2026",
+    "id_str": "2107530656343523767",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "guilty of a few of these. not exhaustive but good list!",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "The most common reasons why AI pilots fail, even at the 'best' companies:\n\nIn order of prevalence:\n\n1. Not starting with a thorough process mapping exercise (standard operating procedures vs. what’s actually happening across systems)\n\n2. Automating a process step instead of the entire process (saving 8 mins in a 22-day process still leaves you with a 22-day process)\n\n3. Not capturing baseline metrics for cycle time, cost per transaction, error rate, etc.\n\n4. Building a sidekick instead of a background agent (chatbots will always only be used by ~10% of users)\n\n5. Not embedding the AI into the organization’s existing systems of record (if users have to login, adoption will be low)\n\n6. Not assigning an AI owner (IT built it, the business tolerated it, and no one was “on call” when it broke)\n\n7. Not engaging legal, infosec, and finance early (we routinely see pilots “discover” these groups in month 3 - and get immediately killed)\n\n8. Not scoping for exceptions (the “demo” only covers the “happy path” - but exceptions often represent 40%+ of process volume)\n\n9. Not running the AI in “shadow mode” for a period of time to build confidence (going straight to production often leads to an AI mishap in front of the CFO)\n\n10. Building with only a single AI model provider (one price hike or deprecation later, the pilot is a migration project)\n\n11. Focusing on vanity metrics (e.g. # of logins, “adoption”) instead of business metrics (time saved, $ generated, risk reduced)\n\n12. Not planning for month 7 (who will own and pay for the AI?)\n\n13. Not engaging the subject matter experts (if you capture all their knowledge in an AI, what incentive do they have to help?)\n\nVarick does enterprise AI the right way. Work with us below:"
+    },
+    "url": "https://x.com/jonathangold_/status/2107531406415204677",
+    "time": "Tue Oct 06 18:00:17 +0000 2026",
+    "created_at": "Tue Oct 06 18:00:17 +0000 2026",
+    "id_str": "2107531406415204677",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jonathangold_ Don't I know 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/MarcusSpillane/status/2107538504255463454",
+    "time": "Tue Oct 06 18:28:30 +0000 2026",
+    "created_at": "Tue Oct 06 18:28:30 +0000 2026",
+    "id_str": "2107538504255463454",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman Liked this post and 1 minute later teammate sends it in slack saying “this guy gets it”\n\nVas really does get it",
+    "quoted_tweet": null,
+    "url": "https://x.com/verrsane/status/2107542382241558643",
+    "time": "Tue Oct 06 18:43:54 +0000 2026",
+    "created_at": "Tue Oct 06 18:43:54 +0000 2026",
+    "id_str": "2107542382241558643",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@verrsane Varick <3 Glean",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107548676692586786",
+    "time": "Tue Oct 06 19:08:55 +0000 2026",
+    "created_at": "Tue Oct 06 19:08:55 +0000 2026",
+    "id_str": "2107548676692586786",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@MarcusSpillane @jonathangold_ 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107548787891913006",
+    "time": "Tue Oct 06 19:09:22 +0000 2026",
+    "created_at": "Tue Oct 06 19:09:22 +0000 2026",
+    "id_str": "2107548787891913006",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@n0w00j @trymelius You might be him... congrats man!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107557088272798058",
+    "time": "Tue Oct 06 19:42:21 +0000 2026",
+    "created_at": "Tue Oct 06 19:42:21 +0000 2026",
+    "id_str": "2107557088272798058",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Cyber is having a moment\n\nAcross 21 major software companies, including Apple, AWS, Microsoft, and Google:\n\n- Reported critical vulnerabilities never cleared 100 per month in four years\n- Since spring they've jumped to over 600 per month",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Kevin Mandia on finding 90+ security holes at Fortune 500 companies that nobody knew existed:\n\n\"When you have an AI-based attack, it'll find logic flaws rather than code flaws in custom applications. It'll exhaust all routes all the time.\"\n\n\"Armadin, since January of this year, we have found over 90 zero-days at customer sites, all in production.\"\n\n\"We've post-trained all our models with real red teamers, real folks that actually can develop exploits.\"\n\n\"When we're scanning networks, we don't have source code to review. We're not finding these zero-days with source code. We're not finding these zero-days because we can log into an app and now we have access, and we can get to other things. We are black box coming from the internet.\"\n\n\"Over 90 zero-days in major software companies, and they're thankful. We're coming from the outside, and then we're calling a CISO, usually within 48 hours, 'Hey, we've got remote code execution in your DMZ.' And usually from there we're getting in, and they agree with us.\"\n\n\"That's not a pen test. That is like a real adversary coming at you.\"\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    "url": "https://x.com/a16z/status/2107523804184678485",
+    "time": "Tue Oct 06 17:30:05 +0000 2026",
+    "created_at": "Tue Oct 06 17:30:05 +0000 2026",
+    "id_str": "2107523804184678485",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Greg Brockman of @OpenAI on why AI that finds security holes for attackers to exploit is a blessing in disguise for defenders:\n\n\"In this case, you saw both an AI that was able to hack out of a secure environment and hack into a company's production environment.\"\n\n\"This capability broadly diffused is something that will really empower threat actors in new ways. Defenders need to use this time before that technology's broadly available to secure themselves.\"\n\n\"If you can find vulnerabilities, if you're an attacker, you can use it for no good, but if you're a defender, you can patch. If you're a defender, you control the battleground. You control the setup of your systems.\"\n\n\"Our belief right now is that there's this window... use these frontier capabilities that you will have differential access to... so that as the frontier capabilities get better, you get pulled along too.\"\n\n@gdb @bhorowitz",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Kevin Mandia on finding 90+ security holes at Fortune 500 companies that nobody knew existed:\n\n\"When you have an AI-based attack, it'll find logic flaws rather than code flaws in custom applications. It'll exhaust all routes all the time.\"\n\n\"Armadin, since January of this year, we have found over 90 zero-days at customer sites, all in production.\"\n\n\"We've post-trained all our models with real red teamers, real folks that actually can develop exploits.\"\n\n\"When we're scanning networks, we don't have source code to review. We're not finding these zero-days with source code. We're not finding these zero-days because we can log into an app and now we have access, and we can get to other things. We are black box coming from the internet.\"\n\n\"Over 90 zero-days in major software companies, and they're thankful. We're coming from the outside, and then we're calling a CISO, usually within 48 hours, 'Hey, we've got remote code execution in your DMZ.' And usually from there we're getting in, and they agree with us.\"\n\n\"That's not a pen test. That is like a real adversary coming at you.\"\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    "url": "https://x.com/a16z/status/2107535167808221583",
+    "time": "Tue Oct 06 18:15:14 +0000 2026",
+    "created_at": "Tue Oct 06 18:15:14 +0000 2026",
+    "id_str": "2107535167808221583",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Angela Strange sits down with @Valon's Andrew Wang and Linda Du to unpack what it takes to rebuild the infrastructure underneath a $13 trillion mortgage market that still relies heavily on systems designed before the internet.\n\nLinda and Andrew explain why Valon chose the hardest path: becoming a regulated mortgage servicer, translating decades of federal and state regulation into software, and proving the platform on its own loans before selling it to the industry. That foundation made Valon roughly 3x as efficient as traditional servicing and created the system of record it is now using to bring AI into complex mortgage workflows.\n\nThey also discuss what AI makes possible on top of that infrastructure, from agents handling long-tail servicing tasks to voice interfaces and more personalized customer experiences. And they explain why deploying the technology into large regulated enterprises is ultimately as much a change-management challenge as a technical one.\n\n01:02 From Soros to mortgage math\n03:00 $13 trillion still on 1960s systems\n09:38 Why build the whole stack from scratch\n11:47 The 3-5 year licensing gauntlet\n15:50 Turning 50 states of regulation into code\n18:00 Winning the first customers\n22:34 What AI unlocks now\n29:47 Everything is servicing\n32:52 $200M in deals within six months\n\nYouTube: https://www.youtube.com/watch?v=ZBDGuT6EGPY\n\n@wangandrewd @xlindadu @astrange",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2107547247550554391",
+    "time": "Tue Oct 06 19:03:14 +0000 2026",
+    "created_at": "Tue Oct 06 19:03:14 +0000 2026",
+    "id_str": "2107547247550554391",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Kevin Mandia on why companies need an agent swarm polling their network like a heartbeat, because the window to catch a new security hole keeps shrinking:\n\n\"We do a thing called a hyperattack. That's just a fancy word for we throw a drone swarm of agents at you, and we map your network. Every service, every route, every system, all assets.\"\n\n\"With that metadata, we now just poll you almost like a heartbeat. What's changed? Did an app change? Did a route change? Did a service get updated? So that we can poll cheaply for change and then attack the change.\"\n\n\"What you really want in the AI age is the constant pressure of models attacking you... You do it when either the threat changes, new models come out, new intelligence is available, or your network changes.\"\n\n\"That's what we had over the weekend. There was a zero-day in a popular product, and immediately we've already got the heartbeat. We just polled who's got the problem.\"\n\n\"Our goal at Armadin is to go from a known vulnerability to knowing whether it's actually exploitable before the bad guys can.\"\n\n@ArmadinSecurity @DavidGeorge83",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@ArmadinSecurity is a new company that uses AI agents to attack your network before criminals do, finding real exploitable zero-days and eventually patching them autonomously.\n\nTheir agents map every service, route, and system from the outside, then re-attack whenever something changes. Since January that's uncovered 90+ zero-days at Fortune 500 companies.\n\nKevin Mandia spent 30 years responding to some of the worst breaches in the world and built Mandiant, now a core part of Google Cloud's security arm. He had no plans to start another company until AI arrived and changed everything: in his words, \"everything I did is dead.\" He joins a16z's David George to talk about why he came back and what Armadin is building.\n\nIn this conversation, they cover what AI attacks look like today, why nation states hack like a sniper and AI hacks like a drone swarm, and why the only defense fast enough to keep up is one with no humans in the loop.\n\n1:05 \"Everything I did is dead\"\n3:10 AI on offense, AI on defense\n4:20 What an AI attack looks like today\n7:20 Sniper rounds vs drone swarms\n10:25 Map everything, attack what changes\n14:35 The problem with pen tests\n16:40 90+ zero-days at Fortune 500s\n18:35 A bad patch beats an intrusion\n20:55 Why humans are too slow for the SOC\n24:30 Why the next year in cyber won't be pretty\n26:30 How Mythos changed the threat\n28:15 Caging the attacker Armadin built\n30:05 Open and closed models tied on offense\n34:40 AI is finding zero-days on its own\n35:45 Mandiant in 2004 vs Armadin in 2026\n41:20 Why Armadin retrains sales every week\n\nYouTube: https://youtu.be/cJsHel27Z6M\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    "url": "https://x.com/a16z/status/2107557839795613979",
+    "time": "Tue Oct 06 19:45:20 +0000 2026",
+    "created_at": "Tue Oct 06 19:45:20 +0000 2026",
+    "id_str": "2107557839795613979",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The window to patch software bugs is collapsing\n\nOf the bugs hackers actually exploit, ~87% are now being attacked on or before the day the bug is public knowledge\n\nThat share was 23% in 2020",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Kevin Mandia on why companies need an agent swarm polling their network like a heartbeat, because the window to catch a new security hole keeps shrinking:\n\n\"We do a thing called a hyperattack. That's just a fancy word for we throw a drone swarm of agents at you, and we map your network. Every service, every route, every system, all assets.\"\n\n\"With that metadata, we now just poll you almost like a heartbeat. What's changed? Did an app change? Did a route change? Did a service get updated? So that we can poll cheaply for change and then attack the change.\"\n\n\"What you really want in the AI age is the constant pressure of models attacking you... You do it when either the threat changes, new models come out, new intelligence is available, or your network changes.\"\n\n\"That's what we had over the weekend. There was a zero-day in a popular product, and immediately we've already got the heartbeat. We just polled who's got the problem.\"\n\n\"Our goal at Armadin is to go from a known vulnerability to knowing whether it's actually exploitable before the bad guys can.\"\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    "url": "https://x.com/a16z/status/2107565314410230224",
+    "time": "Tue Oct 06 20:15:02 +0000 2026",
+    "created_at": "Tue Oct 06 20:15:02 +0000 2026",
+    "id_str": "2107565314410230224",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Greg Brockman of @OpenAI on the new security loop: point every model release at your own systems, find the vulnerabilities, automate it.\n\n\"We took 25% of our production engineers and said, 'Sorry, all your projects are on hold. You are now defending. You are now up-leveling our security architecture. You're going to use the models to find all the holes.' And we found a number of serious issues, and we fixed them.\"\n\n\"We found some new problems, but eventually it saturated. We basically have found, to our knowledge, all of the P0s, all of the critical problems that Astra is smart enough to find. And of course, there will be a new model, there will be a new round.\"\n\n\"You want to be in this tight loop of new cyber capability drops, you deploy it against your systems, you find the new holes, and ideally, you've managed to automate this, what we call defense factory. That's what we're building internally.\"\n\n@gdb @bhorowitz",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Kevin Mandia on why companies need an agent swarm polling their network like a heartbeat, because the window to catch a new security hole keeps shrinking:\n\n\"We do a thing called a hyperattack. That's just a fancy word for we throw a drone swarm of agents at you, and we map your network. Every service, every route, every system, all assets.\"\n\n\"With that metadata, we now just poll you almost like a heartbeat. What's changed? Did an app change? Did a route change? Did a service get updated? So that we can poll cheaply for change and then attack the change.\"\n\n\"What you really want in the AI age is the constant pressure of models attacking you... You do it when either the threat changes, new models come out, new intelligence is available, or your network changes.\"\n\n\"That's what we had over the weekend. There was a zero-day in a popular product, and immediately we've already got the heartbeat. We just polled who's got the problem.\"\n\n\"Our goal at Armadin is to go from a known vulnerability to knowing whether it's actually exploitable before the bad guys can.\"\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    "url": "https://x.com/a16z/status/2107572973456769403",
+    "time": "Tue Oct 06 20:45:28 +0000 2026",
+    "created_at": "Tue Oct 06 20:45:28 +0000 2026",
+    "id_str": "2107572973456769403",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "What are the top 1% of AI spenders paying so much money for?\n\nTools to build, automate, and ship.\n\nVersus the average spender, they're:\n- 23x more likely to pay for n8n\n- 18x for fal and Manus\n- 15x for Higgsfield\n\nFull list of the Top 50 Consumer AI Apps by Revenue, from @omooretweets on Cosign: https://cosign.co/lists/omooretweets/top-50-consumer-ai-apps-7th-edition",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "The top 1% of AI spenders now outspend the bottom 50% combined\n\nThey spend an average of $903/month, while the median customer spends just $25\n\nMore charts in our Top 100 Consumer AI Apps breakdown: https://www.a16z.news/p/top-100-consumer-ai-apps-seventh"
+    },
+    "url": "https://x.com/a16z/status/2107583139669561366",
+    "time": "Tue Oct 06 21:25:52 +0000 2026",
+    "created_at": "Tue Oct 06 21:25:52 +0000 2026",
+    "id_str": "2107583139669561366",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife We're getting two times as much two factor authentication now 😆",
+    "quoted_tweet": null,
+    "url": "https://x.com/PrometheanAIX/status/2107523502802956792",
+    "time": "Tue Oct 06 17:28:53 +0000 2026",
+    "created_at": "Tue Oct 06 17:28:53 +0000 2026",
+    "id_str": "2107523502802956792",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/qO4Q9Ae42N",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2107532319380713472",
+          "display": "pic.x.com/qO4Q9Ae42N",
+          "original": "https://t.co/qO4Q9Ae42N",
+          "replacement": "https://x.com/awesome_visuals/status/2107532400066519257/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2107532348669526017",
+          "display": "pic.x.com/qO4Q9Ae42N",
+          "original": "https://t.co/qO4Q9Ae42N",
+          "replacement": "https://x.com/awesome_visuals/status/2107532400066519257/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2107532373923430400",
+          "display": "pic.x.com/qO4Q9Ae42N",
+          "original": "https://t.co/qO4Q9Ae42N",
+          "replacement": "https://x.com/awesome_visuals/status/2107532400066519257/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2107532393884082176",
+          "display": "pic.x.com/qO4Q9Ae42N",
+          "original": "https://t.co/qO4Q9Ae42N",
+          "replacement": "https://x.com/awesome_visuals/status/2107532400066519257/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/awesome_visuals/status/2107532400066519257",
+    "time": "Tue Oct 06 18:04:14 +0000 2026",
+    "created_at": "Tue Oct 06 18:04:14 +0000 2026",
+    "id_str": "2107532400066519257",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "https://x.com/i/article/2107530785930829824",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2107533055489409419",
+    "time": "Tue Oct 06 18:06:51 +0000 2026",
+    "created_at": "Tue Oct 06 18:06:51 +0000 2026",
+    "id_str": "2107533055489409419",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Great!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107534032208801866",
+    "time": "Tue Oct 06 18:10:44 +0000 2026",
+    "created_at": "Tue Oct 06 18:10:44 +0000 2026",
+    "id_str": "2107534032208801866",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Been playing with AI Assistant in @Illustrator to create different variations. Really cool and helpful!",
+    "quoted_tweet": null,
+    "url": "https://x.com/benvanderberg/status/2107556957632831802",
+    "time": "Tue Oct 06 19:41:49 +0000 2026",
+    "created_at": "Tue Oct 06 19:41:49 +0000 2026",
+    "id_str": "2107556957632831802",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Been playing with AI Assistant in @Illustrator to create different variations. Really cool and helpful!",
+    "quoted_tweet": null,
+    "url": "https://x.com/benvanderberg/status/2107556957632831802",
+    "time": "Tue Oct 06 19:41:49 +0000 2026",
+    "created_at": "Tue Oct 06 19:41:49 +0000 2026",
+    "id_str": "2107556957632831802",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@benvanderberg @Illustrator Cool!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107558820604231931",
+    "time": "Tue Oct 06 19:49:14 +0000 2026",
+    "created_at": "Tue Oct 06 19:49:14 +0000 2026",
+    "id_str": "2107558820604231931",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My For You has been strange, so I might have missed some of your great content. Let me know if you’d like me to take a look at your feed and give some attention / engagement to your AI creative work",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107562600334573906",
+    "time": "Tue Oct 06 20:04:15 +0000 2026",
+    "created_at": "Tue Oct 06 20:04:15 +0000 2026",
+    "id_str": "2107562600334573906",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife have you tried Nano Banana 2.1 already Kris?\n\nhttps://x.com/LillyLiCT/status/2107538958666092575?s=20",
+    "quoted_tweet": {
+      "author": "LillyLilly",
+      "username": "LillyLiCT",
+      "text": "Nano Banana 2.1 is out!\nTesting Skin, Texture and realism\nTest 1 here we go!\nLooks stunningly real if you ask me"
+    },
+    "url": "https://x.com/LillyLiCT/status/2107563091047158036",
+    "time": "Tue Oct 06 20:06:12 +0000 2026",
+    "created_at": "Tue Oct 06 20:06:12 +0000 2026",
+    "id_str": "2107563091047158036",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LillyLiCT I love your test!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107563965781885119",
+    "time": "Tue Oct 06 20:09:40 +0000 2026",
+    "created_at": "Tue Oct 06 20:09:40 +0000 2026",
+    "id_str": "2107563965781885119",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Testing new Nano Banana 2.1 that was released today. \n\nGreat progress on skin realism and detail Congrats to the team.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107565738294984772",
+    "time": "Tue Oct 06 20:16:43 +0000 2026",
+    "created_at": "Tue Oct 06 20:16:43 +0000 2026",
+    "id_str": "2107565738294984772",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@nortenawinds They stay in the park. We have another pond where it never completely freezes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107565842582172083",
+    "time": "Tue Oct 06 20:17:08 +0000 2026",
+    "created_at": "Tue Oct 06 20:17:08 +0000 2026",
+    "id_str": "2107565842582172083",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife i don't think you've ever really seen any of my output",
+    "quoted_tweet": null,
+    "url": "https://x.com/flutterwhat/status/2107565966754566453",
+    "time": "Tue Oct 06 20:17:37 +0000 2026",
+    "created_at": "Tue Oct 06 20:17:37 +0000 2026",
+    "id_str": "2107565966754566453",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@flutterwhat I see a lot of reposts mostly but it shows on my For You",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107567830640300450",
+    "time": "Tue Oct 06 20:25:02 +0000 2026",
+    "created_at": "Tue Oct 06 20:25:02 +0000 2026",
+    "id_str": "2107567830640300450",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife wow, amazing details Kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/awesome_visuals/status/2107567928514089032",
+    "time": "Tue Oct 06 20:25:25 +0000 2026",
+    "created_at": "Tue Oct 06 20:25:25 +0000 2026",
+    "id_str": "2107567928514089032",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Here is mine.  I use ChatGPT, but with my 'rules' I've trained it on for a while.  Every time you get closer to what you want, keep asking it to save to its memory (and also ask for memory block to copy/paste if the memory is accidentally wiped away)",
+    "quoted_tweet": null,
+    "url": "https://x.com/AlisoCoast/status/2107567935657218218",
+    "time": "Tue Oct 06 20:25:27 +0000 2026",
+    "created_at": "Tue Oct 06 20:25:27 +0000 2026",
+    "id_str": "2107567935657218218",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife its actually really really good at skin realism\n\nhttps://x.com/LillyLiCT/status/2107541828497203348?s=20",
+    "quoted_tweet": {
+      "author": "LillyLilly",
+      "username": "LillyLiCT",
+      "text": "Nano Banana 2.1 is out and its perfect for UGC content 🪩🦩\nTesting Skin, Texture and realism\nTest 3 here we go!\nLooks stunningly real if you ask me - all in 4K"
+    },
+    "url": "https://x.com/LillyLiCT/status/2107568126497792132",
+    "time": "Tue Oct 06 20:26:12 +0000 2026",
+    "created_at": "Tue Oct 06 20:26:12 +0000 2026",
+    "id_str": "2107568126497792132",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AlisoCoast I can tell it’s GPT model",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107568209830219784",
+    "time": "Tue Oct 06 20:26:32 +0000 2026",
+    "created_at": "Tue Oct 06 20:26:32 +0000 2026",
+    "id_str": "2107568209830219784",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LillyLiCT Really got much better",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107568261701177408",
+    "time": "Tue Oct 06 20:26:44 +0000 2026",
+    "created_at": "Tue Oct 06 20:26:44 +0000 2026",
+    "id_str": "2107568261701177408",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@awesome_visuals Thanks! Seems like skin was the major improvement",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107568617994723340",
+    "time": "Tue Oct 06 20:28:09 +0000 2026",
+    "created_at": "Tue Oct 06 20:28:09 +0000 2026",
+    "id_str": "2107568617994723340",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🤔\nI usually have Following as my setting, Kris.",
+    "quoted_tweet": null,
+    "url": "https://x.com/skykiss22/status/2107569080404447342",
+    "time": "Tue Oct 06 20:30:00 +0000 2026",
+    "created_at": "Tue Oct 06 20:30:00 +0000 2026",
+    "id_str": "2107569080404447342",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@skykiss22 I follow over 3,500 people, so it doesn’t help",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107569913418399807",
+    "time": "Tue Oct 06 20:33:18 +0000 2026",
+    "created_at": "Tue Oct 06 20:33:18 +0000 2026",
+    "id_str": "2107569913418399807",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That's cute.",
+    "quoted_tweet": null,
+    "url": "https://x.com/LatticeWing/status/2107570213269213494",
+    "time": "Tue Oct 06 20:34:30 +0000 2026",
+    "created_at": "Tue Oct 06 20:34:30 +0000 2026",
+    "id_str": "2107570213269213494",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LatticeWing Thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107570904901587245",
+    "time": "Tue Oct 06 20:37:15 +0000 2026",
+    "created_at": "Tue Oct 06 20:37:15 +0000 2026",
+    "id_str": "2107570904901587245",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@awesome_visuals Always great art",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107571078541590953",
+    "time": "Tue Oct 06 20:37:56 +0000 2026",
+    "created_at": "Tue Oct 06 20:37:56 +0000 2026",
+    "id_str": "2107571078541590953",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Not sure what is going on, but X feels kind of dead the last 4 days",
+    "quoted_tweet": null,
+    "url": "https://x.com/AndreasRothe9/status/2107571697394307535",
+    "time": "Tue Oct 06 20:40:24 +0000 2026",
+    "created_at": "Tue Oct 06 20:40:24 +0000 2026",
+    "id_str": "2107571697394307535",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AndreasRothe9 Little bit. Apart from anti-AI folk 😁😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107572215864840587",
+    "time": "Tue Oct 06 20:42:27 +0000 2026",
+    "created_at": "Tue Oct 06 20:42:27 +0000 2026",
+    "id_str": "2107572215864840587",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Yesterday, from Googlebook event!",
+    "quoted_tweet": null,
+    "url": "https://x.com/gizakdag/status/2107583084451242296",
+    "time": "Tue Oct 06 21:25:38 +0000 2026",
+    "created_at": "Tue Oct 06 21:25:38 +0000 2026",
+    "id_str": "2107583084451242296",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Would love for you to check out my profile. Also, I made this app recently: https://x.com/_opticnerd_/status/2105615635749507093?s=20",
+    "quoted_tweet": {
+      "author": "opticnerd",
+      "username": "_opticnerd_",
+      "text": "CINEFLOW is an app I made that displays video as a volume. Inspired by the work of Bradley Tangonan and PHRO DESIGN who have been toying with this idea in recent weeks. Check it out now at the link below. Would love to see what you make with it!\n\nLink: https://www.viverse.com/MfF4ZCu 👈"
+    },
+    "url": "https://x.com/_opticnerd_/status/2107583921739514241",
+    "time": "Tue Oct 06 21:28:58 +0000 2026",
+    "created_at": "Tue Oct 06 21:28:58 +0000 2026",
+    "id_str": "2107583921739514241",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@_opticnerd_ Will do!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107585949547003947",
+    "time": "Tue Oct 06 21:37:02 +0000 2026",
+    "created_at": "Tue Oct 06 21:37:02 +0000 2026",
+    "id_str": "2107585949547003947",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife https://x.com/AIFinity76/status/2107489485638500593?s=20",
+    "quoted_tweet": {
+      "author": "Ann",
+      "username": "AIFinity76",
+      "text": "🌟New beautifully designed 4K wallpaper"
+    },
+    "url": "https://x.com/AIFinity76/status/2107587068625084867",
+    "time": "Tue Oct 06 21:41:28 +0000 2026",
+    "created_at": "Tue Oct 06 21:41:28 +0000 2026",
+    "id_str": "2107587068625084867",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AIFinity76 So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107587478467019187",
+    "time": "Tue Oct 06 21:43:06 +0000 2026",
+    "created_at": "Tue Oct 06 21:43:06 +0000 2026",
+    "id_str": "2107587478467019187",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@gizakdag Looks lovely!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107587582062207197",
+    "time": "Tue Oct 06 21:43:31 +0000 2026",
+    "created_at": "Tue Oct 06 21:43:31 +0000 2026",
+    "id_str": "2107587582062207197",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PrometheanAIX Truth 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107590332514771193",
+    "time": "Tue Oct 06 21:54:27 +0000 2026",
+    "created_at": "Tue Oct 06 21:54:27 +0000 2026",
+    "id_str": "2107590332514771193",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "🎃 SLOPTOBERFEST UPDATE 🎃\n\nFriend of the Cannon Marc Andreessen (@pmarca) has generously offered to double the prize pool!\n\nOur new Grand Prize is now TWENTY-FIVE-THOUSAND-DOLLARS!\n\nENTER for a chance to win the 1st ANNUAL GOLDEN CANNON PRIZE of $25,000.00\n\nMultiple submissions welcome\nrules & details at http://sloptoberfest.slop.cc",
+    "quoted_tweet": {
+      "author": "bone",
+      "username": "boneGPT",
+      "text": "SLOPTOBERFEST HAS BEGUN 🎃\n\n$25,000.00+ in prizes \n\ngrand prize: $5,000 USDC + 600 minutes. \n\n18 prizes in total.\n\nmake an original music video with the slopcannon. any genre. get weird. make something dope.\n\ndue oct 29. winners announced on halloween.\n\nrules & details at https://sloptoberfest.slop.cc"
+    },
+    "url": "https://x.com/boneGPT/status/2107516257889042526",
+    "time": "Tue Oct 06 17:00:06 +0000 2026",
+    "created_at": "Tue Oct 06 17:00:06 +0000 2026",
+    "id_str": "2107516257889042526",
+    "is_retweet": true
   }
 ]
