@@ -1,1 +1,230 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Nethermind continues doing excellent work and making Ethereum more efficient and faster.\n https://firefly.social/post/x/2107387115537338756",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2107401554521428308",
+    "time": "Tue Oct 06 09:24:18 +0000 2026",
+    "created_at": "Tue Oct 06 09:24:18 +0000 2026",
+    "id_str": "2107401554521428308",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As predicted.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107257209839071391",
+    "time": "2026-10-06 07:50",
+    "created_at": "Mon Oct 05 23:50:44 +0000 2026",
+    "id_str": "2107257209839071391",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Subtle problem with AI-written academic papers is that AI isn't calibrated for feedback. AI often just folds, but if you are sending a paper for review, challenges from peer reviewers should result in some attempt to defend your idea (while still giving up on it if really wrong)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107281172342427734",
+    "time": "Tue Oct 06 01:25:57 +0000 2026",
+    "created_at": "Tue Oct 06 01:25:57 +0000 2026",
+    "id_str": "2107281172342427734",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "When people talk about AI easily replacing workers, I think about this ethnography of copier repair technicians in the 1990s.\n\nYou see how work is complicated and improvised by workers and informal and badly documented.\n\n(But eventually technology did largely eliminate this job)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107356794410377510",
+    "time": "Tue Oct 06 06:26:27 +0000 2026",
+    "created_at": "Tue Oct 06 06:26:27 +0000 2026",
+    "id_str": "2107356794410377510",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "found a tool called Hindsight for that annoying moment when your coding agent has no idea what you worked on yesterday.\n\nit reads your git history and past sessions, keeps a memory bank for each repo, and passes that context to the agent when you start again. saves you from typing the same recap every morning.\n\none command and it wires into whatever you're using. Claude Code, Codex, Cursor, Copilot, opencode.\n\nnpx @vectorize-io/hindsight-coding-agents install all\n\n46,000 stars. open source, MIT licensed, runs on your own machine with docker.\n\nsave this before your next session starts cold.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107410820804350427",
+    "time": "Tue Oct 06 10:01:08 +0000 2026",
+    "created_at": "Tue Oct 06 10:01:08 +0000 2026",
+    "id_str": "2107410820804350427",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free → https://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107410844460126598",
+    "time": "Tue Oct 06 10:01:13 +0000 2026",
+    "created_at": "Tue Oct 06 10:01:13 +0000 2026",
+    "id_str": "2107410844460126598",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107410856187486634",
+    "time": "Tue Oct 06 10:01:16 +0000 2026",
+    "created_at": "Tue Oct 06 10:01:16 +0000 2026",
+    "id_str": "2107410856187486634",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge Instinct 也是按成交抽佣吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/yangleiocx3/status/2107272980635992115",
+    "time": "Tue Oct 06 00:53:24 +0000 2026",
+    "created_at": "Tue Oct 06 00:53:24 +0000 2026",
+    "id_str": "2107272980635992115",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge AI 版微信支付吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemondooe/status/2107281935546634702",
+    "time": "Tue Oct 06 01:28:59 +0000 2026",
+    "created_at": "Tue Oct 06 01:28:59 +0000 2026",
+    "id_str": "2107281935546634702",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 携程依靠的是对酒店和航司的议价能力。以及回头客的服务升级。Instinct护城河是什么？",
+    "quoted_tweet": null,
+    "url": "https://x.com/EbuyBusiness/status/2107298710887792820",
+    "time": "Tue Oct 06 02:35:39 +0000 2026",
+    "created_at": "Tue Oct 06 02:35:39 +0000 2026",
+    "id_str": "2107298710887792820",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@EbuyBusiness 一样的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107341072804540466",
+    "time": "Tue Oct 06 05:23:58 +0000 2026",
+    "created_at": "Tue Oct 06 05:23:58 +0000 2026",
+    "id_str": "2107341072804540466",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@yangleiocx3 对 也可以说返利吧 2.5%",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107341162441023792",
+    "time": "Tue Oct 06 05:24:20 +0000 2026",
+    "created_at": "Tue Oct 06 05:24:20 +0000 2026",
+    "id_str": "2107341162441023792",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@lemondooe 跟支付层不太一样",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107341224541860121",
+    "time": "Tue Oct 06 05:24:35 +0000 2026",
+    "created_at": "Tue Oct 06 05:24:35 +0000 2026",
+    "id_str": "2107341224541860121",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@turingou 如果还关注 harness 是什么 那就不是 pa",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107341417232412958",
+    "time": "Tue Oct 06 05:25:21 +0000 2026",
+    "created_at": "Tue Oct 06 05:25:21 +0000 2026",
+    "id_str": "2107341417232412958",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "温榆河的秋天\n一路都是美景",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107390409249112272",
+    "time": "Tue Oct 06 08:40:01 +0000 2026",
+    "created_at": "Tue Oct 06 08:40:01 +0000 2026",
+    "id_str": "2107390409249112272",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "今天刚看完生化危机的电影…\n然后又看到这个病毒泄露的新闻…",
+    "quoted_tweet": {
+      "author": "Leon",
+      "username": "Leontraveller_",
+      "text": "西伯利亚未知病毒泄露导致官方隔离了197个人。我已经follow这个有几天了，开始只有几个专门研究病毒泄露的账号在说这个，这两天各大媒体也跟进。\n\n泄露地点是一个鼠疫实验室Irkutsk Anti-Plague Research Institute。俄国官方说法是试管摔破导致泄露，现在一个研究员感染“未知病毒导致的肺炎”(很可能是肺鼠疫)去世，在医院隔离的其它人没有症状。\n\n基于FSB下场专门负责隔离，以及俄国开始管控Irkusk去莫斯科航班的人员，实际情况可能要更严重。静观其变吧，但愿不要再来一次大流行。"
+    },
+    "url": "https://x.com/oran_ge/status/2107425305539518917",
+    "time": "Tue Oct 06 10:58:41 +0000 2026",
+    "created_at": "Tue Oct 06 10:58:41 +0000 2026",
+    "id_str": "2107425305539518917",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 2.1/\n\nWe have made Auto-review free for all users signed in through a ChatGPT account. You can enable it in settings > permissions > auto-review. Auto-review improves upon the default sandbox setting that requires you to approve everything, which is prone to decision fatigue unless you spend a lot of time configuring specific rules.\n\nIt allows you to run long tasks while having a second agent review all actions taken by the primary agent. Its only goal is to prevent high-risk actions from being taken and to protect against unwanted actions that are not aligned with the original user intent. This  Auto-review feature is now free and does not draw usage from your plan.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours."
+    },
+    "url": "https://x.com/thsottiaux/status/2107368734981517634",
+    "time": "Tue Oct 06 07:13:54 +0000 2026",
+    "created_at": "Tue Oct 06 07:13:54 +0000 2026",
+    "id_str": "2107368734981517634",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "You can read about the feature here: https://alignment.openai.com/auto-review/",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107368786353398184",
+    "time": "Tue Oct 06 07:14:06 +0000 2026",
+    "created_at": "Tue Oct 06 07:14:06 +0000 2026",
+    "id_str": "2107368786353398184",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Use auto-review instead of full-access. Not a trade-off anymore and you'll sleep more peacefully",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107370852564021582",
+    "time": "Tue Oct 06 07:22:18 +0000 2026",
+    "created_at": "Tue Oct 06 07:22:18 +0000 2026",
+    "id_str": "2107370852564021582",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Settings → General → Permissions → Auto-review",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107378093635899886",
+    "time": "Tue Oct 06 07:51:05 +0000 2026",
+    "created_at": "Tue Oct 06 07:51:05 +0000 2026",
+    "id_str": "2107378093635899886",
+    "is_retweet": false
+  }
+]
