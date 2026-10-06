@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think most people who have been closely watching AI for the past few years are likely surprised by how relatively rare terrible AI incidents have been, given a billion users overall and hundreds of millions of corporate users. Doesn’t mean that will continue, but surprising.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107489752349892677",
+    "time": "Tue Oct 06 15:14:46 +0000 2026",
+    "created_at": "Tue Oct 06 15:14:46 +0000 2026",
+    "id_str": "2107489752349892677",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick how many of those are \n\na. using models capable of doing this\nb. desire to do this (admittedly desire may not be necessity)\n\nbut it’s a small group.",
+    "quoted_tweet": null,
+    "url": "https://x.com/iruletheworldmo/status/2107495952546426940",
+    "time": "Tue Oct 06 15:39:25 +0000 2026",
+    "created_at": "Tue Oct 06 15:39:25 +0000 2026",
+    "id_str": "2107495952546426940",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@iruletheworldmo The whole point is you don't need desire or even great models when you have 15% of the worlds population just doing stuff with these systems in their personal and business life and it is much more okay than I think most of us expected (so far)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107513183791673603",
+    "time": "Tue Oct 06 16:47:53 +0000 2026",
+    "created_at": "Tue Oct 06 16:47:53 +0000 2026",
+    "id_str": "2107513183791673603",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "a Google engineer packed his entire engineering workflow into agent skills and put the whole thing on Github.\n\nit's Addy Osmani, who runs Chrome developer experience. 25 skills covering the full lifecycle, from interviewing you about what you actually want through to shipping and rolling back.\n\nwhat's in them is the interesting part. Hyrum's Law in the API design skill. the Beyonce Rule and the test pyramid in testing. Chesterton's Fence in the simplification skill. trunk-based development in git workflow. it's Google's engineering culture written as steps an agent follows.\n\neach skill ships with an anti-rationalization table. a list of the excuses agents use to skip steps, like \"I'll add tests later\", with the rebuttal written out.\n\none command installs the lot into 70+ agents:\n\nnpx skills add addyosmani/agent-skills\n\n101,500 stars. open source, MIT licensed.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107482267388104820",
+    "time": "Tue Oct 06 14:45:02 +0000 2026",
+    "created_at": "Tue Oct 06 14:45:02 +0000 2026",
+    "id_str": "2107482267388104820",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full agents guide is free → https://godofprompt.ai/guides/ai-agents-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107482291669008890",
+    "time": "Tue Oct 06 14:45:08 +0000 2026",
+    "created_at": "Tue Oct 06 14:45:08 +0000 2026",
+    "id_str": "2107482291669008890",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107482303262019883",
+    "time": "Tue Oct 06 14:45:10 +0000 2026",
+    "created_at": "Tue Oct 06 14:45:10 +0000 2026",
+    "id_str": "2107482303262019883",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "有一种观点认为，人类会朝两极分化：大部分人继续沉迷于 AI 生成内容和“奶头乐”产品，小部分人则会借助 AI 极大丰富自己的创造力。\n\n我觉得还有第三种观点值得认可：这种技术的加速主义会导致越来越多的大众开始思考，在很长一段时间之内，他们人生中真正值得去做的事情。所以最终，这反而会加速“奶头乐”产品的灭亡。AI 生成短剧就是一个比较明显的例子。如果在一个完全竞争的市场当中，制造 AI 短剧的成本越来越低，最终会往两个方向发展：\n\n第一个方向是大量低内容、低质量的 AI slop 类型短剧。这种短剧很显然在火爆一阵子之后会彻底沉寂，因为内容的极大丰富实际上在提升所有人的审美（或者审丑）水平。\n\n当然，我们也会看到一小部分创作者使用 AI 去创造很多优秀的、在现实社会当中不存在的精彩剧本。我觉得这一部分内容创作者的群体会越来越大，可以说是从零增长为一个不容忽视的内容分类分野。",
+    "quoted_tweet": null,
+    "url": "https://x.com/turingou/status/2107428324591214872",
+    "time": "Tue Oct 06 11:10:41 +0000 2026",
+    "created_at": "Tue Oct 06 11:10:41 +0000 2026",
+    "id_str": "2107428324591214872",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "我现在其实会比较怀疑那种对自己所做的事情特别笃定的创业者，尤其是年轻的\n\n因为这种笃定，它往往来源于不得不笃定\n\n就比如他已经大张旗鼓开搞了，或者已经裸辞下海创业了，箭在弦上，不得不发\n\n无论是对外对内，这个事都没办法停下，内心无论如何不能接受这件事情的失败\n\n是因为在心理上必须相信这件事情，所以才相信，而不是从业务层面上很相信\n\n而且外人还不好评价。你戳穿真相，相当于打击了人家，那你打击了人家，你得给个出路吧，实际上你又给不了\n\n光打击心态，不解决问题，这话不好讲\n\n大概 19 年的时候，我是这种状态：身边人问我业务情况，我都非常条理清晰地解释一遍，表现得好像极其笃定\n\n现在我都说我试试，我说我也不确定，我就试试看\n\n但我会给详细的尝试的路径，以及我的推理过程",
+    "quoted_tweet": null,
+    "url": "https://x.com/dontbesilent/status/2107464824498377026",
+    "time": "Tue Oct 06 13:35:43 +0000 2026",
+    "created_at": "Tue Oct 06 13:35:43 +0000 2026",
+    "id_str": "2107464824498377026",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@turingou 有点乐观了\n内容行业会出现一批优秀的内容创作者，同时会卷走10倍的其他人\n消费者也不会思考，会继续奶头乐",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107478769904861385",
+    "time": "Tue Oct 06 14:31:08 +0000 2026",
+    "created_at": "Tue Oct 06 14:31:08 +0000 2026",
+    "id_str": "2107478769904861385",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@dontbesilent 创业本来应该是默默尝试找到成功路径的，但是要融资就要讲故事，就要告知天下，这本质上是很矛盾的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107479554713673737",
+    "time": "Tue Oct 06 14:34:15 +0000 2026",
+    "created_at": "Tue Oct 06 14:34:15 +0000 2026",
+    "id_str": "2107479554713673737",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@lencx_ 人的注意力是有限的，他们这样效果并不会好",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107482803160158493",
+    "time": "Tue Oct 06 14:47:10 +0000 2026",
+    "created_at": "Tue Oct 06 14:47:10 +0000 2026",
+    "id_str": "2107482803160158493",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Auto-review is the “Approve for me” permission mode.  To use it, open the permissions menu below the composer and select  “Approve for me”.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107504197012988007",
+    "time": "Tue Oct 06 16:12:10 +0000 2026",
+    "created_at": "Tue Oct 06 16:12:10 +0000 2026",
+    "id_str": "2107504197012988007",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@nicdunz wowza",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107517084884521030",
+    "time": "Tue Oct 06 17:03:23 +0000 2026",
+    "created_at": "Tue Oct 06 17:03:23 +0000 2026",
+    "id_str": "2107517084884521030",
+    "is_retweet": false
+  }
+]
