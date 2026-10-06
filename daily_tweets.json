@@ -450,5 +450,458 @@
     "created_at": "Tue Oct 06 11:32:19 +0000 2026",
     "id_str": "2107433770290995651",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 B 站这期也是完整版吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/yangleiocx3/status/2107310632915837355",
+    "time": "Tue Oct 06 03:23:01 +0000 2026",
+    "created_at": "Tue Oct 06 03:23:01 +0000 2026",
+    "id_str": "2107310632915837355",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yangleiocx3 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107349390079795361",
+    "time": "Tue Oct 06 05:57:01 +0000 2026",
+    "created_at": "Tue Oct 06 05:57:01 +0000 2026",
+    "id_str": "2107349390079795361",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 和小智感觉没啥区别呀",
+    "quoted_tweet": null,
+    "url": "https://x.com/DRQpLWazGFWtRUX/status/2107381694097703388",
+    "time": "Tue Oct 06 08:05:23 +0000 2026",
+    "created_at": "Tue Oct 06 08:05:23 +0000 2026",
+    "id_str": "2107381694097703388",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@DRQpLWazGFWtRUX 小智可没有你的上下文，不能调用远程虚拟机帮你写代码做图片订酒店和购物",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107391033537663195",
+    "time": "Tue Oct 06 08:42:30 +0000 2026",
+    "created_at": "Tue Oct 06 08:42:30 +0000 2026",
+    "id_str": "2107391033537663195",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谷歌发布了 Nano Banana 2.1 图像模型\n\n中文的文字清晰度和错字问题大幅改善！\n\n中文字体设计和排版的美学也非常好，主要是没有 GPT 那种破碎感，画面干净！\n\n它比 GPT 的主要优势在于可以生成 4K 图片，感觉一下又有用了呀！\n\n当然，价格还是挺贵的。",
+    "quoted_tweet": {
+      "author": "Google AI Studio",
+      "username": "GoogleAIStudio",
+      "text": "introducing @NanoBanana 2.1 🍌\n\nour latest image generation model outperforms our previous models across the board:\n\n- better visual design\n- mask-based editing\n- subject consistency\n- more natural-looking images\n\ntry it out today in https://ai.studio"
+    },
+    "url": "https://x.com/op7418/status/2107515249360597365",
+    "time": "Tue Oct 06 16:56:05 +0000 2026",
+    "created_at": "Tue Oct 06 16:56:05 +0000 2026",
+    "id_str": "2107515249360597365",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "输出 2K，每张图像 0.050 美元。输出 4K，每张图像 0.076 美元。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107515877977698568",
+    "time": "Tue Oct 06 16:58:35 +0000 2026",
+    "created_at": "Tue Oct 06 16:58:35 +0000 2026",
+    "id_str": "2107515877977698568",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师，如果不用ChatGPT生图的话，还能用啥？我想取消Plus订阅了，这点用量太折磨了",
+    "quoted_tweet": null,
+    "url": "https://x.com/Alexu0317/status/2107319952458064302",
+    "time": "Tue Oct 06 04:00:03 +0000 2026",
+    "created_at": "Tue Oct 06 04:00:03 +0000 2026",
+    "id_str": "2107319952458064302",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我还是没搞懂这个 Project 和Codex 本地中的 Project 有啥区别？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xDinoDeer/status/2107322439374176545",
+    "time": "Tue Oct 06 04:09:56 +0000 2026",
+    "created_at": "Tue Oct 06 04:09:56 +0000 2026",
+    "id_str": "2107322439374176545",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xDinoDeer 其实是一样的，只是交互方式不一样",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107327083135512917",
+    "time": "Tue Oct 06 04:28:23 +0000 2026",
+    "created_at": "Tue Oct 06 04:28:23 +0000 2026",
+    "id_str": "2107327083135512917",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我来解释下 Codex Project 和 Claude Projects 啥不同。\n\n如果你还记得当年的论坛（Forum）的话，Codex Project 就像一个论坛的板块，像是一个容器，或者一个分类，跟这个板块/项目相关的内容都在这里，你可以不停的新开会话。\n\nClaude Projects（新的）就像 Slack 的 Channel，也是一个分类或者容器，但是所有的消息都在一起，想到啥都往里面扔，但是如果你想对某个子话题深入讨论，那么就新开 Thread，然后基于 Thread 可以展开讨论。\n\n论坛呢，就是容易歪楼，讨论着讨论就偏离主题了，上下文乱一些，只有最近的回帖看的清楚。\n\nSlack 呢就是简单方便，不用想属于哪个话题，只要是这个 Channel 的就都往里面发就好了，上下文乱一点没关系，可以通过 Thread 聚焦",
+    "quoted_tweet": {
+      "author": "DinoDeer",
+      "username": "xDinoDeer",
+      "text": "@dotey 我还是没搞懂这个 Project 和Codex 本地中的 Project 有啥区别？"
+    },
+    "url": "https://x.com/dotey/status/2107331931419320366",
+    "time": "Tue Oct 06 04:47:39 +0000 2026",
+    "created_at": "Tue Oct 06 04:47:39 +0000 2026",
+    "id_str": "2107331931419320366",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 那实际用起来，Codex 一个 Project 里开一堆会话，会不会又跟论坛一样聊着聊着就歪了？",
+    "quoted_tweet": null,
+    "url": "https://x.com/thebitcode/status/2107334136696623592",
+    "time": "Tue Oct 06 04:56:25 +0000 2026",
+    "created_at": "Tue Oct 06 04:56:25 +0000 2026",
+    "id_str": "2107334136696623592",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@thebitcode 现在可不就是这样么",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107334666038501630",
+    "time": "Tue Oct 06 04:58:31 +0000 2026",
+    "created_at": "Tue Oct 06 04:58:31 +0000 2026",
+    "id_str": "2107334666038501630",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 大佬，我想问一下这种宣传视频是怎么做出来的",
+    "quoted_tweet": null,
+    "url": "https://x.com/XZrensheng/status/2107338299362914645",
+    "time": "Tue Oct 06 05:12:57 +0000 2026",
+    "created_at": "Tue Oct 06 05:12:57 +0000 2026",
+    "id_str": "2107338299362914645",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@XZrensheng Opus 5.5",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107338952936157322",
+    "time": "Tue Oct 06 05:15:33 +0000 2026",
+    "created_at": "Tue Oct 06 05:15:33 +0000 2026",
+    "id_str": "2107338952936157322",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey Codex有能力做出来吗😂😂这个用什么skill吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/XZrensheng/status/2107339097291558962",
+    "time": "Tue Oct 06 05:16:07 +0000 2026",
+    "created_at": "Tue Oct 06 05:16:07 +0000 2026",
+    "id_str": "2107339097291558962",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@XZrensheng 不需要skill，让它做产品介绍视频，把repo给它就行",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107355870958915967",
+    "time": "Tue Oct 06 06:22:47 +0000 2026",
+    "created_at": "Tue Oct 06 06:22:47 +0000 2026",
+    "id_str": "2107355870958915967",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "问：老师，这些提示词都是你自己写出来的吗还是经过ai优化的？\n\n答：我自己先跟 AI 反复对话调整，然后让它出一版提示词或者 skill 复用，最后用它出的提示词测试一下，有问题就让它改，没问题就直接用。\n\n至于如何让它写提示词，很简单：\n> \"如果其他人也想要生成类似的印章，应该怎么写提示词？中文，简洁一点，1-3段文字即可\"",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "让 Opus 5.5 帮我设计了一个印章\n\n提示词：\n> 用 JS + Canvas 画一枚篆书印章，印文是繁体「宝玉」，自右向左读。字形按《说文》小篆（如果我附了参考图，就照图写），不要用字体，每一笔用坐标画出来再加粗。\n> 动笔前先列出每个字由哪些部件组成、各放在印面哪里。做白文和朱文两个版本，用朱砂色印泥，带一点刀刻的质感和边缘残破，背景是宣纸纹理，导出 1200×1200 的透明底 PNG。做完先截图检查每个字认不认得出、笔画间距是否均匀，有问题再改。"
+    },
+    "url": "https://x.com/dotey/status/2107356291794342105",
+    "time": "Tue Oct 06 06:24:27 +0000 2026",
+    "created_at": "Tue Oct 06 06:24:27 +0000 2026",
+    "id_str": "2107356291794342105",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 提示词直出吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/jinchuanai/status/2107357035616452974",
+    "time": "Tue Oct 06 06:27:24 +0000 2026",
+    "created_at": "Tue Oct 06 06:27:24 +0000 2026",
+    "id_str": "2107357035616452974",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jinchuanai 不是，对话了几次\nhttps://x.com/dotey/status/2107356291794342105?s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "问：老师，这些提示词都是你自己写出来的吗还是经过ai优化的？\n\n答：我自己先跟 AI 反复对话调整，然后让它出一版提示词或者 skill 复用，最后用它出的提示词测试一下，有问题就让它改，没问题就直接用。\n\n至于如何让它写提示词，很简单：\n> \"如果其他人也想要生成类似的印章，应该怎么写提示词？中文，简洁一点，1-3段文字即可\""
+    },
+    "url": "https://x.com/dotey/status/2107359607249047846",
+    "time": "Tue Oct 06 06:37:37 +0000 2026",
+    "created_at": "Tue Oct 06 06:37:37 +0000 2026",
+    "id_str": "2107359607249047846",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey “仅次于微信之后” 是好评还是差评 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/Clarrycy/status/2107360565480104303",
+    "time": "Tue Oct 06 06:41:26 +0000 2026",
+    "created_at": "Tue Oct 06 06:41:26 +0000 2026",
+    "id_str": "2107360565480104303",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Clarrycy 如果你觉得微信做得好那就是好评🤡",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107362067745509519",
+    "time": "Tue Oct 06 06:47:24 +0000 2026",
+    "created_at": "Tue Oct 06 06:47:24 +0000 2026",
+    "id_str": "2107362067745509519",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Alexu0317 本地部署Qwen Image 2.1",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107504104780312666",
+    "time": "Tue Oct 06 16:11:48 +0000 2026",
+    "created_at": "Tue Oct 06 16:11:48 +0000 2026",
+    "id_str": "2107504104780312666",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Your AI is vaporware without deep integrations with your customers’ systems of record.\n\nIntroducing @WithAmpersand: integration infrastructure for enterprise agents.\n\nWe power 11x, Orb, and Square's ability to take agentic action in systems of record like Salesforce, SAP, NetSuite, and Workday.\n\nAsk anyone serious about building AI and they’ll tell you:\n\n- The SaaSpocalypse didn’t happen. The world depends on CRMs, ERPs, HRISs, and ITSMs.\n- Your customers customized their deployments beyond recognition.\n- Systems of record companies are basically monopolies. They never had to make their APIs and MCPs user-friendly.\n- Docs don't explain half the weird edge cases you'll hit.\n- One bad write can blow up your pilot or renewal.\n- Once you finally get it working, someone changes a field and it breaks again.\n\nThe world's data lives in structured databases. AI needs a translation layer to work with it.\n\nSo, for your AI to truly transform the way enterprises work, you'll need deep integrations built for:\n- scoped permissions\n- bi-directional actions\n- real-time speed for agents\n- custom objects, fields, and workflows for each of your customers\n\nWe built Ampersand to power the future of software.\n\nAI didn't trivialize writing integrations. It made them the critical path.\n\nI believe that deeply, so I didn't make a launch video about Ampersand.\n\nInstead, it's the best builders I know explaining just how big of a challenge this is.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ayanb/status/2107501360031924549",
+    "time": "Tue Oct 06 16:00:54 +0000 2026",
+    "created_at": "Tue Oct 06 16:00:54 +0000 2026",
+    "id_str": "2107501360031924549",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Your AI is vaporware without deep integrations with your customers’ systems of record.\n\nIntroducing @WithAmpersand: integration infrastructure for enterprise agents.\n\nWe power 11x, Orb, and Square's ability to take agentic action in systems of record like Salesforce, SAP, NetSuite, and Workday.\n\nAsk anyone serious about building AI and they’ll tell you:\n\n- The SaaSpocalypse didn’t happen. The world depends on CRMs, ERPs, HRISs, and ITSMs.\n- Your customers customized their deployments beyond recognition.\n- Systems of record companies are basically monopolies. They never had to make their APIs and MCPs user-friendly.\n- Docs don't explain half the weird edge cases you'll hit.\n- One bad write can blow up your pilot or renewal.\n- Once you finally get it working, someone changes a field and it breaks again.\n\nThe world's data lives in structured databases. AI needs a translation layer to work with it.\n\nSo, for your AI to truly transform the way enterprises work, you'll need deep integrations built for:\n- scoped permissions\n- bi-directional actions\n- real-time speed for agents\n- custom objects, fields, and workflows for each of your customers\n\nWe built Ampersand to power the future of software.\n\nAI didn't trivialize writing integrations. It made them the critical path.\n\nI believe that deeply, so I didn't make a launch video about Ampersand.\n\nInstead, it's the best builders I know explaining just how big of a challenge this is.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ayanb/status/2107501360031924549",
+    "time": "Tue Oct 06 16:00:54 +0000 2026",
+    "created_at": "Tue Oct 06 16:00:54 +0000 2026",
+    "id_str": "2107501360031924549",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@ayanb @WithAmpersand Applied AI needs this. Do you integrate with software that has poor API connectivity?",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107508795543056857",
+    "time": "Tue Oct 06 16:30:27 +0000 2026",
+    "created_at": "Tue Oct 06 16:30:27 +0000 2026",
+    "id_str": "2107508795543056857",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@ArmadinSecurity is a new company that uses AI agents to attack your network before criminals do, finding real exploitable zero-days and eventually patching them autonomously.\n\nTheir agents map every service, route, and system from the outside, then re-attack whenever something changes. Since January that's uncovered 90+ zero-days at Fortune 500 companies.\n\nKevin Mandia spent 30 years responding to some of the worst breaches in the world and built Mandiant, now a core part of Google Cloud's security arm. He had no plans to start another company until AI arrived and changed everything: in his words, \"everything I did is dead.\" He joins a16z's David George to talk about why he came back and what Armadin is building.\n\nIn this conversation, they cover what AI attacks look like today, why nation states hack like a sniper and AI hacks like a drone swarm, and why the only defense fast enough to keep up is one with no humans in the loop.\n\n1:05 \"Everything I did is dead\"\n3:10 AI on offense, AI on defense\n4:20 What an AI attack looks like today\n7:20 Sniper rounds vs drone swarms\n10:25 Map everything, attack what changes\n14:35 The problem with pen tests\n16:40 90+ zero-days at Fortune 500s\n18:35 A bad patch beats an intrusion\n20:55 Why humans are too slow for the SOC\n24:30 Why the next year in cyber won't be pretty\n26:30 How Mythos changed the threat\n28:15 Caging the attacker Armadin built\n30:05 Open and closed models tied on offense\n34:40 AI is finding zero-days on its own\n35:45 Mandiant in 2004 vs Armadin in 2026\n41:20 Why Armadin retrains sales every week\n\nYouTube: https://youtu.be/cJsHel27Z6M\n\n@ArmadinSecurity @DavidGeorge83",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2107479755054518563",
+    "time": "Tue Oct 06 14:35:03 +0000 2026",
+    "created_at": "Tue Oct 06 14:35:03 +0000 2026",
+    "id_str": "2107479755054518563",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're thrilled to lead General Medicine’s $120M Series B as they build the general store for healthcare.\n\n@GeneralMedicine is built on the belief that facilitating access to care is a core part of delivering it. The company brings patient history, ongoing clinical guidance, transparent pricing, and help accessing care into one experience.\n\nIts own medical group combined with a marketplace of external clinicians connects patients almost immediately with services far beyond what a single practice could ever provide.\n\nAlongside its direct consumer offering, General Medicine is also building for the enterprise. The same underlying infrastructure for clinical guidance, transparent pricing, and rapid access that General Medicine has already built can be ‘turned on’ for consumers in partnership with any number of enterprise organizations.\n\nWe’re excited that the PillPack team is back together. Congrats, @tjparker, @elliotcohen, @ashwinkmurali, and the General Medicine team!\n\nBy @vintweeta, @JorgeCondeBio, @daisydwolf, and @evajsteinman",
+    "quoted_tweet": {
+      "author": "TJ Parker⚡️",
+      "username": "tjparker",
+      "text": "General Medicine has raised a $120M Series B led by @a16z. We're using it to build the healthcare store.\n\nThe only way healthcare will work is to make the customer the most powerful participant in the system. And the only way to do that is to let them shop.\n\nHere’s why healthcare needs a store, and what we had to build to make it possible:"
+    },
+    "url": "https://x.com/a16z/status/2107497782575767682",
+    "time": "Tue Oct 06 15:46:41 +0000 2026",
+    "created_at": "Tue Oct 06 15:46:41 +0000 2026",
+    "id_str": "2107497782575767682",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Kevin Mandia on finding 90+ security holes at Fortune 500 companies that nobody knew existed:\n\n\"When you have an AI-based attack, it'll find logic flaws rather than code flaws in custom applications. It'll exhaust all routes all the time.\"\n\n\"Armadin, since January of this year, we have found over 90 zero-days at customer sites, all in production.\"\n\n\"We've post-trained all our models with real red teamers, real folks that actually can develop exploits.\"\n\n\"When we're scanning networks, we don't have source code to review. We're not finding these zero-days with source code. We're not finding these zero-days because we can log into an app and now we have access, and we can get to other things. We are black box coming from the internet.\"\n\n\"Over 90 zero-days in major software companies, and they're thankful. We're coming from the outside, and then we're calling a CISO, usually within 48 hours, 'Hey, we've got remote code execution in your DMZ.' And usually from there we're getting in, and they agree with us.\"\n\n\"That's not a pen test. That is like a real adversary coming at you.\"\n\n@ArmadinSecurity @DavidGeorge83",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": ".@ArmadinSecurity is a new company that uses AI agents to attack your network before criminals do, finding real exploitable zero-days and eventually patching them autonomously.\n\nTheir agents map every service, route, and system from the outside, then re-attack whenever something changes. Since January that's uncovered 90+ zero-days at Fortune 500 companies.\n\nKevin Mandia spent 30 years responding to some of the worst breaches in the world and built Mandiant, now a core part of Google Cloud's security arm. He had no plans to start another company until AI arrived and changed everything: in his words, \"everything I did is dead.\" He joins a16z's David George to talk about why he came back and what Armadin is building.\n\nIn this conversation, they cover what AI attacks look like today, why nation states hack like a sniper and AI hacks like a drone swarm, and why the only defense fast enough to keep up is one with no humans in the loop.\n\n1:05 \"Everything I did is dead\"\n3:10 AI on offense, AI on defense\n4:20 What an AI attack looks like today\n7:20 Sniper rounds vs drone swarms\n10:25 Map everything, attack what changes\n14:35 The problem with pen tests\n16:40 90+ zero-days at Fortune 500s\n18:35 A bad patch beats an intrusion\n20:55 Why humans are too slow for the SOC\n24:30 Why the next year in cyber won't be pretty\n26:30 How Mythos changed the threat\n28:15 Caging the attacker Armadin built\n30:05 Open and closed models tied on offense\n34:40 AI is finding zero-days on its own\n35:45 Mandiant in 2004 vs Armadin in 2026\n41:20 Why Armadin retrains sales every week\n\nYouTube: https://youtu.be/cJsHel27Z6M\n\n@ArmadinSecurity @DavidGeorge83"
+    },
+    "url": "https://x.com/a16z/status/2107512494805963025",
+    "time": "Tue Oct 06 16:45:09 +0000 2026",
+    "created_at": "Tue Oct 06 16:45:09 +0000 2026",
+    "id_str": "2107512494805963025",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife This is awesome 🤩",
+    "quoted_tweet": null,
+    "url": "https://x.com/AbrahannyR/status/2107463339043402066",
+    "time": "Tue Oct 06 13:29:49 +0000 2026",
+    "created_at": "Tue Oct 06 13:29:49 +0000 2026",
+    "id_str": "2107463339043402066",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AbrahannyR Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107464416505512015",
+    "time": "Tue Oct 06 13:34:06 +0000 2026",
+    "created_at": "Tue Oct 06 13:34:06 +0000 2026",
+    "id_str": "2107464416505512015",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Turning everyday photos into tiny illustrated worlds might be my new obsession\n\nCreate a playful doodle with tiny characters interacting with the scene\n\nI’d love to see yours! \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107500165242184171",
+    "time": "Tue Oct 06 15:56:09 +0000 2026",
+    "created_at": "Tue Oct 06 15:56:09 +0000 2026",
+    "id_str": "2107500165242184171",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt: Turn the uploaded image into a top-and-bottom comparison poster, 3:4 vertical.\nTop (about 40%): the original image, completely unchanged.\nBottom (about 60%): a hand-drawn doodle version of the same subject. Keep the subject photorealistic and not redrawn, remove its background, place it on warm cream paper with lots of negative space (landscapes: painterly brushstroke edges; objects: soft drop shadow). Add 3–4 tiny round-headed stick-figure kids in black marker line art, no fill, with interactions designed specifically around this subject's content and shapes, matching its scale and perspective. Add only a few cute doodles that fit the photo's own theme.\nText: based on the image content, write a playful handwritten title and a small subtitle in English, black handwriting, slightly tilted, in the top-left of the bottom section.\nDo not draw any arrows. No clouds, sparkles, hearts or other decorations unrelated to the photo.\nCute, heartwarming, clean and minimal, plenty of empty space.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107500608311722235",
+    "time": "Tue Oct 06 15:57:55 +0000 2026",
+    "created_at": "Tue Oct 06 15:57:55 +0000 2026",
+    "id_str": "2107500608311722235",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Humans beings weren't meant to endure this much two factor authentication",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107508128069877855",
+    "time": "Tue Oct 06 16:27:47 +0000 2026",
+    "created_at": "Tue Oct 06 16:27:47 +0000 2026",
+    "id_str": "2107508128069877855",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Firefly model?",
+    "quoted_tweet": null,
+    "url": "https://x.com/_UnityStar_/status/2107512732761378952",
+    "time": "Tue Oct 06 16:46:05 +0000 2026",
+    "created_at": "Tue Oct 06 16:46:05 +0000 2026",
+    "id_str": "2107512732761378952",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Guess u are not a big fan of passkey as well?",
+    "quoted_tweet": null,
+    "url": "https://x.com/CoderRw11326/status/2107512905654763549",
+    "time": "Tue Oct 06 16:46:47 +0000 2026",
+    "created_at": "Tue Oct 06 16:46:47 +0000 2026",
+    "id_str": "2107512905654763549",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It SHOULD be irrelevant now with Passkeys. But no one does them right. They're supposed to be a complete replacement for username/password, but they're implemented as yet another 2FA.",
+    "quoted_tweet": null,
+    "url": "https://x.com/shanedk/status/2107513801381663099",
+    "time": "Tue Oct 06 16:50:20 +0000 2026",
+    "created_at": "Tue Oct 06 16:50:20 +0000 2026",
+    "id_str": "2107513801381663099",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@shanedk They are super inconvenient at the moment",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107514849617997901",
+    "time": "Tue Oct 06 16:54:30 +0000 2026",
+    "created_at": "Tue Oct 06 16:54:30 +0000 2026",
+    "id_str": "2107514849617997901",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CoderRw11326 Not a fan",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107514902159954398",
+    "time": "Tue Oct 06 16:54:43 +0000 2026",
+    "created_at": "Tue Oct 06 16:54:43 +0000 2026",
+    "id_str": "2107514902159954398",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@_UnityStar_ GPT Image 2",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107515030292025718",
+    "time": "Tue Oct 06 16:55:13 +0000 2026",
+    "created_at": "Tue Oct 06 16:55:13 +0000 2026",
+    "id_str": "2107515030292025718",
+    "is_retweet": false
   }
 ]
