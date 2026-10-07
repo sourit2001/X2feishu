@@ -264,5 +264,220 @@
     "created_at": "Wed Oct 07 06:42:05 +0000 2026",
     "id_str": "2107723117829505068",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 一次性公开 722 篇 AI 写的数学论文\n\nOpenAI 把一个内部未发布模型做出的数学成果整体公开了：722 篇论文，归成 372 组结果，全部放在 GitHub 仓库 openai/math 里，谁都能看。\n\n这个模型就是上个月宣称解决了纳维-斯托克斯方程问题（千禧年七大数学难题之一）的那个。它从 8 月 28 日开始训练，能力比 OpenAI 已发布的 GPT-6 Astra 更强，目前还没对外开放。\n\nOpenAI 说，原有的数学测试题已经难不住模型了，所以改拿真实的未解数学问题来考它。前后一共给了模型大约 4000 道题，筛掉分量不够的，剩下这 372 组。平均每个结果花的算力，相当于在 ChatGPT Pro 里思考三个小时左右。\n\n论文覆盖数论、代数几何、组合、数学物理等大部分数学分支。标题里能看到不少有名的问题，比如证明 π 的无理性测度（衡量一个数能被分数逼近得多好）等于 2，证明卡塔兰常数是无理数，还有黎曼 ζ 函数零点分布、特殊情形下的霍奇猜想。后两项 OpenAI 特别说明，用的流程和其他结果不同，其中黎曼 ζ 那篇的文字还经过人工润色。\n\n这些结论可信吗？OpenAI 自己的说法是“处在不同验证阶段”。约 160 篇的主要结论附带了 Lean 形式化证明。Lean 是一种能让计算机逐步检查数学证明的编程语言，过得了 Lean，基本可以排除证明里的逻辑漏洞。剩下的论文还没形式化，OpenAI 承认其中可能有错，说会尽快修正，所有修订都保留历史版本。另外还附了 10 份模型推理过程的摘要，让人能看到模型是怎么想出来的。\n\n发布方式本身也是这次的重点。9 月下旬，OpenAI 在普林斯顿高等研究院（爱因斯坦待过的那个研究所）支持成立了独立的“数学与人工智能顾问组”，成员是 Timothy Gowers、Edward Witten、Martin Hairer 等 9 位数学家，不拿 OpenAI 的钱。此前 25 位菲尔兹奖得主联名发公开信，批评 AI 公司抢着宣布破解名题的做法。\n\n顾问组 9 月 29 日发布了一份建议，征集了 600 多位数学家的意见。核心要求有三条：AI 写的证明要按正规论文格式重写，并引用相关的已有文献；成果要放进不受 AI 公司控制、可长期引用的学术存档平台；AI 公司要出钱支持数学界去真正理解这些成果。顾问组还明确表示，不赞成 AI 公司在外界用不到的私有模型上攻数学难题，希望它们停下来。\n\nOpenAI 这次回应了其中一部分：先放 GitHub，同时在找符合顾问组标准的社区托管平台；承诺资助一系列研讨会、学术会议，帮数学界消化这批成果；也表示正在推进“负责任地发布”这个模型。至于停止在私有模型上测试，OpenAI 没有回应。\n\n对数学专业的人来说，接下来最实际的变化是：自己研究方向上的某个猜想，可能已经在这 722 篇论文里了，值得去仓库里翻一翻。\n\n原文：https://openai.com/index/sharing-ai-progress-in-mathematics/\n仓库：https://github.com/openai/math",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "We’re releasing a broad range of new mathematical results produced by an internal frontier model.\n\nWe’ve been consulting with the independent Advisory Group on Mathematics and Artificial Intelligence at the Institute for Advanced Study, and we have drawn on their advice and public recommendations to inform how we release these results. \n\nhttps://github.com/openai/math"
+    },
+    "url": "https://x.com/dotey/status/2107606305556890023",
+    "time": "Tue Oct 06 22:57:55 +0000 2026",
+    "created_at": "Tue Oct 06 22:57:55 +0000 2026",
+    "id_str": "2107606305556890023",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我有两个 Claude Max@20 账号，跟这篇文章的情况一样，有一个注册时间长一些的不太耐用，消耗的很快，另一个新一些账号就耐用的多，都是同样的用法。\n\n> While refining our methodology, we ran into a very confusing situation where just 1 of 3 of the same subscription we tested for a particular provider had ~20% lower limits than the other 2. This unlucky account happened to be significantly older as well, and we were worried that the provider had some cursed setup where they changed subscription limits depending on the age of the account.",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "按照 SemiAnalysis 的测试结果：同样 200 美元，Claude 订阅的 Token 用量约为 OpenAI 的 5 倍\n\n半导体和 AI 产业研究机构 SemiAnalysis 实测了 Anthropic、OpenAI 等九家的 AI 订阅套餐。结论是，在两家都主推的日常主力模型上，Claude 订阅折算出来的价值约为 OpenAI 的 5 倍。\n\n订阅套餐不告诉你能用多少 Token，只给一个 0 到 100% 的进度条，分 5 小时和 7 天两个窗口。SemiAnalysis 的办法是一种 Token 一种 Token 地测：反复发请求，记下每用掉多少 Token 进度条跳一格，再按 API 标价折算成美元，得出“API 等价价值”，也就是同样的用量如果走 API 按量付费要花多少钱。测试场景是编程智能体这类重度使用。\n\n【差距出在中档模型】\n\n顶配模型两家差不多。200 美元套餐里，OpenAI 的 GPT-6 Astra 用满额度约值 2897 美元，Anthropic 的 Fable 5.1 约值 2485 美元。区别是 Claude 套餐里 Fable 最多只能占一半额度，用完这一半，另一半还能跑别的模型。\n\n差距在中档。两家都把中档模型当日常主力推，Anthropic 是 Opus 5.5，OpenAI 是 GPT-6.1 Sol。这一档上，Claude 各套餐的价值约为 OpenAI 的 5 倍。Sol 的 API 单价比 Opus 便宜很多，按美元比对它不太公平，但 SemiAnalysis 改成直接比 Token 数量，Claude 仍然领先一大截。\n\nOpenAI 的 Pro 套餐没有 5 小时限制，月内更容易把额度用满。SemiAnalysis 认为这一点抵不过 Opus 5.5 约 4 倍的价值差。\n\n【OpenAI 刚砍了一半】\n\n差距拉这么大，主要因为 OpenAI 上周刚改了套餐。9 月 29 日 DevDay 前后，OpenAI 宣布 200 美元的 Pro 档用量从 Plus 的 20 倍降到 10 倍，同时推出 500 美元的新档，独享每秒约 300 个 Token 的 Ultrafast 超快模式。老用户的旧额度保留到 10 月 29 日。\n\nSemiAnalysis 测到的结果和官方说法一致：200 美元档每个模型的 Token 都少了一半。Sol 的折算价值跌得更多，超过 50%，因为 OpenAI 同期把 GPT-6.1 Sol 的缓存读取价格降了一半。缓存读取指多轮对话里反复发给模型的旧内容，编程智能体用量里这部分占比很大，单价一降，同样多的 Token 折算成美元就更少。新的 500 美元档，Astra 用量只比砍之前的 200 美元档多 21%。\n\n改完之后，OpenAI 的 100、200、500 美元三档每美元换到的 Token 一样多。之前 200 美元档补贴最重，每美元价值约是 100 美元档的两倍。Anthropic 各档一直是同一个单价。\n\n这几天 OpenAI 负责 Codex 的 Tibo 承诺，未来 28 天每天要么上线一项改进，要么给全体用户重置额度。SemiAnalysis 在文中提到，OpenAI 此前多次重置额度攒下的好感，是 Codex 最近用户猛涨的原因之一，也让 Anthropic 几次收回原定的限额收紧计划。\n\n【两家减补贴的路子不同】\n\nSemiAnalysis 估算，订阅只占 Anthropic 收入约一成，却吃掉超过四成的推理算力。所以两家都在减补贴。\n\nAnthropic 的做法是越贵的模型给得越少。同一套餐里，Sonnet 5.5 和 Opus 5.5 的价值差别不大，到 Fable 5.1 明显缩水。按 SemiAnalysis 的估算，假设用户平均只用掉两成额度，Opus 5.5 订阅的毛利率约 6%，Fable 5.1 约 80%，接近软件公司的水平。OpenAI 的做法是一刀切，所有模型直接降到 Fable 那个水平。\n\nOpus 5.5 在 9 月 22 日发布，API 价格降了两成，缓存读取降了六成。Anthropic 同时提高了 Opus 的订阅额度，SemiAnalysis 测得 Max 档约多 20%，Pro 档约多 50%，但还不足以抵消降价，所以按美元折算，Opus 订阅的价值其实比之前略低。\n\n对每天用 AI 写代码、正在 200 美元档之间挑的人，眼下 Claude 给的量更多。不过额度随时会变：SemiAnalysis 测试时发现三个同款账号里有一个额度低了约 20%，厂商确认那是一次“极小范围”的 A/B 测试。\n\nhttps://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x"
+    },
+    "url": "https://x.com/dotey/status/2107627342411477413",
+    "time": "2026-10-07 08:21",
+    "created_at": "Wed Oct 07 00:21:30 +0000 2026",
+    "id_str": "2107627342411477413",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 有没有可能是老账号的memory导致的？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Caldis_Chen/status/2107636016903581941",
+    "time": "2026-10-07 08:55",
+    "created_at": "Wed Oct 07 00:55:59 +0000 2026",
+    "id_str": "2107636016903581941",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Caldis_Chen 有 Cache，理论上来说不会差太多",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107636827343434213",
+    "time": "2026-10-07 08:59",
+    "created_at": "Wed Oct 07 00:59:12 +0000 2026",
+    "id_str": "2107636827343434213",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 发布 EmbeddingGemma 2：在手机上用一句话搜照片、视频和录音\n\nGoogle 开源了 EmbeddingGemma 2，这是一个能在手机和电脑本地运行的多模态嵌入模型。文字、图片、视频、音频和代码都能放进同一套“坐标系”，所以你可以用一句话找到一段视频，整个过程不用联网。\n\n嵌入模型（embedding model）是搜索背后的一层技术：它把内容转成一串数字，意思相近的内容，数字也相近。上一代 EmbeddingGemma 只处理文字，这一代把几种格式统一了起来，可以跨格式找东西。比如对着手机说一句话，找出相册里对应的视频片段；或者输入一行字，在几个小时的录音里找到某段对话。\n\n模型有 7.4 亿参数，运行时占用 191MB 到 567MB 内存，手机上跑得动。Google 说它在同体量模型里表现最好，还超过了一些比它大一倍多的模型。它一次能处理的内容是上一代的 4 倍（8K 上下文），相当于 5.5 分钟音频、29 张图片或 58 帧视频。\n\n它可以和 Google 的开源大模型 Gemma 4 搭配，在设备上做 RAG（检索增强生成，先查资料再回答）。EmbeddingGemma 2 从你的本地文件里找出相关内容，Gemma 4 读完后给出答案。文件不离开设备，合同、病历这类不想上传到云端的资料也能这样处理。\n\n它基于 Gemma 4 架构，用 Apache 2.0 协议开源，可以免费商用。现在能在 Hugging Face 和 Kaggle 下载，Google 企业 AI 平台的模型库稍后上线。",
+    "quoted_tweet": {
+      "author": "Sundar Pichai",
+      "username": "sundarpichai",
+      "text": "Introducing EmbeddingGemma 2, a new open multimodal model that sets the standard for on-device efficiency.\n\n- our first open, natively multimodal embedding model\n- handles text, code, image, video, and audio tasks within a lightweight, modular 740M parameter form factor\n- ideal for offline, privacy-first RAG when paired with Gemma 4\n- outperforms some specialist models more than twice its size\n\nWeights available now on Hugging Face."
+    },
+    "url": "https://x.com/dotey/status/2107638540049772575",
+    "time": "2026-10-07 09:06",
+    "created_at": "Wed Oct 07 01:06:00 +0000 2026",
+    "id_str": "2107638540049772575",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "全套 Adobe 软件的开源实现👍",
+    "quoted_tweet": {
+      "author": "MATH FOURNITY",
+      "username": "math_fournity",
+      "text": "🚨 Adobe 天塌了，全套Adobe软件，开源实现：\n\nhttps://getartcraft.com/apps"
+    },
+    "url": "https://x.com/dotey/status/2107647021825884337",
+    "time": "2026-10-07 09:39",
+    "created_at": "Wed Oct 07 01:39:42 +0000 2026",
+    "id_str": "2107647021825884337",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 的设置界面经常换，导致设置都不好找，搜索经常出来以前的项目，但是点击不了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107681678798074116",
+    "time": "2026-10-07 11:57",
+    "created_at": "Wed Oct 07 03:57:25 +0000 2026",
+    "id_str": "2107681678798074116",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "补了宝哥这篇 \"Opus 5.5是怎么做出视频“的原理文，庖丁解牛，讲得很透，强烈推荐！\n\n我会用但我不懂底层原理，未来出片就是两个水平了，日积月累，怀有一个谦逊的心，多学习。\n\n推上满屏的 Opus5.5 视频，我感觉都是推友们在死磕上限，值得鼓励！",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "https://x.com/i/article/2105179653925150720"
+    },
+    "url": "https://x.com/LinearUncle/status/2107681936403800304",
+    "time": "2026-10-07 11:58",
+    "created_at": "Wed Oct 07 03:58:27 +0000 2026",
+    "id_str": "2107681936403800304",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 重置了👍",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!"
+    },
+    "url": "https://x.com/dotey/status/2107683299371999447",
+    "time": "2026-10-07 12:03",
+    "created_at": "Wed Oct 07 04:03:52 +0000 2026",
+    "id_str": "2107683299371999447",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Google 发布 Nano Banana 2.1：画面更自然，改图更连贯\n\nhttps://best.xiaohu.ai/article/nano-banana-2-1/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2107687745506459712",
+    "time": "2026-10-07 12:21",
+    "created_at": "Wed Oct 07 04:21:32 +0000 2026",
+    "id_str": "2107687745506459712",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "马斯克宣布 Grok Bot\n以后只用顶级模型来驱动\n\n哪家模型最好，Grok Bot就使用哪家，包括Claude Opus 5.5、MidJourney、Suno 和其他各种领先的 API...\n\n似乎是为要即将推出大一统的订阅服务做准备",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    },
+    "url": "https://x.com/xiaohu/status/2107761094693691700",
+    "time": "2026-10-07 17:12",
+    "created_at": "Wed Oct 07 09:12:59 +0000 2026",
+    "id_str": "2107761094693691700",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 👋 hello Kris, best wishes 🌼",
+    "quoted_tweet": null,
+    "url": "https://x.com/CyberSamurai963/status/2107652440845643872",
+    "time": "2026-10-07 10:01",
+    "created_at": "Wed Oct 07 02:01:14 +0000 2026",
+    "id_str": "2107652440845643872",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CyberSamurai963 Best wishes to you too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107658465476846019",
+    "time": "2026-10-07 10:25",
+    "created_at": "Wed Oct 07 02:25:11 +0000 2026",
+    "id_str": "2107658465476846019",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "what's the most useless feature on 𝕏?",
+    "quoted_tweet": null,
+    "url": "https://x.com/CreeCoder/status/2107713288419086359",
+    "time": "2026-10-07 14:03",
+    "created_at": "Wed Oct 07 06:03:02 +0000 2026",
+    "id_str": "2107713288419086359",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CreeCoder Articles",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107719209396638172",
+    "time": "2026-10-07 14:26",
+    "created_at": "Wed Oct 07 06:26:33 +0000 2026",
+    "id_str": "2107719209396638172",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Reminds of a @beeple everyday...",
+    "quoted_tweet": null,
+    "url": "https://x.com/FrankOneDigital/status/2107725123948101976",
+    "time": "2026-10-07 14:50",
+    "created_at": "Wed Oct 07 06:50:03 +0000 2026",
+    "id_str": "2107725123948101976",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FrankOneDigital @beeple I shall do those every day :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107728413372936228",
+    "time": "2026-10-07 15:03",
+    "created_at": "Wed Oct 07 07:03:08 +0000 2026",
+    "id_str": "2107728413372936228",
+    "is_retweet": false
   }
 ]
