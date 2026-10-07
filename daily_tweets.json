@@ -402,5 +402,900 @@
     "created_at": "Wed Oct 07 20:54:37 +0000 2026",
     "id_str": "2107937664964186389",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "looking up at the stars with extra awe tonight.\n\n\"thy sea is so great and my boat is so small.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2107691261776052633",
+    "time": "2026-10-07 12:35",
+    "created_at": "Wed Oct 07 04:35:30 +0000 2026",
+    "id_str": "2107691261776052633",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "thank you to the machines, and the structure of reality, for letting us understand a little more.",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2107691262795239805",
+    "time": "2026-10-07 12:35",
+    "created_at": "Wed Oct 07 04:35:30 +0000 2026",
+    "id_str": "2107691262795239805",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2107691577015755196",
+    "time": "2026-10-07 12:36",
+    "created_at": "Wed Oct 07 04:36:45 +0000 2026",
+    "id_str": "2107691577015755196",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "ChatGPT can now generate a custom UI for you!",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot."
+    },
+    "url": "https://x.com/sama/status/2107924408597950702",
+    "time": "2026-10-08 04:01",
+    "created_at": "Wed Oct 07 20:01:57 +0000 2026",
+    "id_str": "2107924408597950702",
+    "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "Have been waiting for this one for a long time, and I would hate to have to go back to the old version of Chat!",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2107924677801001381",
+    "time": "2026-10-08 04:03",
+    "created_at": "Wed Oct 07 20:03:01 +0000 2026",
+    "id_str": "2107924677801001381",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "重置了居然！",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "We shipped four things that were deemed good to great and some math proofs, but the vote is clear and the community demands a reset. I did calibrate it and it *seems* that the game is rigged in reset's favor, but such are the rules at the moment.\n\nTherefore ... the reset has been processed. Enjoy!"
+    },
+    "url": "https://x.com/op7418/status/2107676475336044892",
+    "time": "2026-10-07 11:36",
+    "created_at": "Wed Oct 07 03:36:45 +0000 2026",
+    "id_str": "2107676475336044892",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "尝试让 Opus 5.5 做个网站解释奇门遁甲",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107696000899158404",
+    "time": "2026-10-07 12:54",
+    "created_at": "Wed Oct 07 04:54:20 +0000 2026",
+    "id_str": "2107696000899158404",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 奇门遁甲这种玄学概念AI能讲明白吗，我连人工排盘都看不懂，更别说网页版了",
+    "quoted_tweet": null,
+    "url": "https://x.com/luoyike2003/status/2107696370664735094",
+    "time": "2026-10-07 12:55",
+    "created_at": "Wed Oct 07 04:55:48 +0000 2026",
+    "id_str": "2107696370664735094",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@luoyike2003 哈哈 其实我也不懂，就是玩玩看",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107696578161201479",
+    "time": "2026-10-07 12:56",
+    "created_at": "Wed Oct 07 04:56:37 +0000 2026",
+    "id_str": "2107696578161201479",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我操，Grok bot 现在无敌了！\n\n老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。\n\n也就是说，它不止使用 Grok 4.7 或者 4.6 了。\n\n还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Important note regarding Grok @Bot:\n\nGoing forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. \n\nWhatever is most likely to give you the best outcome."
+    },
+    "url": "https://x.com/op7418/status/2107788042929160367",
+    "time": "2026-10-07 19:00",
+    "created_at": "Wed Oct 07 11:00:04 +0000 2026",
+    "id_str": "2107788042929160367",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 怎么又无敌了，因为是 Cursor 团队做的，刚出来的时候就是这样，甚至一出来的时候根本就不怎么调用 Grok，大部分都是 opus，后面迭代了好几周才用上 Grok 模型",
+    "quoted_tweet": null,
+    "url": "https://x.com/yewlne7/status/2107788806116262285",
+    "time": "2026-10-07 19:03",
+    "created_at": "Wed Oct 07 11:03:06 +0000 2026",
+    "id_str": "2107788806116262285",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yewlne7 现在如果可以使用 Opus5.5 的话，直接就能获得用户，更别说还可以用 Suno 和 Midjourney 了，等于一个订阅全部都可以用",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107790398458663384",
+    "time": "2026-10-07 19:09",
+    "created_at": "Wed Oct 07 11:09:26 +0000 2026",
+    "id_str": "2107790398458663384",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "在 Opus 5.5 能力这么牛逼的现在，单单能够使用 Opus 5.5 就能获得非常多的用户了，更别说它还能在订阅里使用 Midjourney 创建图片、Suno 生成音乐，这下订阅就非常值了。\n\n这些里面其实很多都没有实装。一些任务已经开始由 Opus 5.5 驱动了，但是我们不能主动选择。至于 Midjourney 和 Suno，都还没有上线到线上。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107793626705355111",
+    "time": "2026-10-07 19:22",
+    "created_at": "Wed Oct 07 11:22:16 +0000 2026",
+    "id_str": "2107793626705355111",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "开始抢入口了，不硬推模型了，Personal agent 这一仗估计是要硬打了",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "我操，Grok bot 现在无敌了！\n\n老马刚才说，Grokbot 会根据特定任务使用当前任务的最佳模型。\n\n也就是说，它不止使用 Grok 4.7 或者 4.6 了。\n\n还会使用 Opus 5.5、Midjourney、Suno 等各种 API 帮你构建内容或者是执行任务。"
+    },
+    "url": "https://x.com/op7418/status/2107794249051951205",
+    "time": "2026-10-07 19:24",
+    "created_at": "Wed Oct 07 11:24:44 +0000 2026",
+    "id_str": "2107794249051951205",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 新的订阅计划还没出来吧？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Markmnhe/status/2107796179593621869",
+    "time": "2026-10-07 19:32",
+    "created_at": "Wed Oct 07 11:32:24 +0000 2026",
+    "id_str": "2107796179593621869",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Markmnhe 没",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107797690990075952",
+    "time": "2026-10-07 19:38",
+    "created_at": "Wed Oct 07 11:38:25 +0000 2026",
+    "id_str": "2107797690990075952",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "LLMs 有很多可以 scale 的维度。\n\n但 OpenAI 最近的拉垮告诉我们， verifier scaling 目前看来是最无聊，最慢，用户体验感最差的一种 scale 方式。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dongxi_nlp/status/2107755327211164093",
+    "time": "2026-10-07 16:50",
+    "created_at": "Wed Oct 07 08:50:04 +0000 2026",
+    "id_str": "2107755327211164093",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dongxi_nlp Claude Opus 5.5 算那种？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107873822456111275",
+    "time": "2026-10-08 00:40",
+    "created_at": "Wed Oct 07 16:40:56 +0000 2026",
+    "id_str": "2107873822456111275",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 等我多用用再来回答你 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/dongxi_nlp/status/2107875531836600687",
+    "time": "2026-10-08 00:47",
+    "created_at": "Wed Oct 07 16:47:43 +0000 2026",
+    "id_str": "2107875531836600687",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 好滴，退订 Claude 后，其实我还有个 ultra cursor，还需要重开 claude max 不，用 CC 自己的 harness 会效果更好么？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dongxi_nlp/status/2107885727472140529",
+    "time": "2026-10-08 01:28",
+    "created_at": "Wed Oct 07 17:28:14 +0000 2026",
+    "id_str": "2107885727472140529",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dongxi_nlp 最重要是用CC的订阅比较耐用，即使是Fable现在都还比较耐用（当然你要多让它开subagent（opus）去做执行）",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2107886847963861173",
+    "time": "2026-10-08 01:32",
+    "created_at": "Wed Oct 07 17:32:41 +0000 2026",
+    "id_str": "2107886847963861173",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "你被人耗了那么长时间。\n人家系统里给你打标签了。\n以后会有更多更真的诈骗过来。\n其实你第一步就可以阻止诈骗。\n挂断电话，打回去。 \n他们这种靠spoofing 来电显示的诈骗，最怕的就是你挂机再打。\n卫生部，要工号。找到官网，打进去，再找这个人。\n北京公安，要警号，或者部门，挂了，再打回去。\n\n所有转接的，统统挂掉，再打。\n能过滤掉80%，诈骗电话。",
+    "quoted_tweet": {
+      "author": "吴二棒",
+      "username": "wuerbangbang",
+      "text": "诈骗流程是这样的：下午一个英国号来电，自称英国卫生部工作人员，称有人盗用我的护照号注册了一个英国手机号，并前往伦敦皇家医院。该医院有传染病，此人因此违反了公共安全条例。对方称如17:00前无法收到北京市公安局的关于冒用护照的报警联系单，我在英国的生活将受到影响，随后帮我通过专线\"转接\"到\"北京市公安局\"。\n\n电话转接后，一名自称北京警方的人让我下载 Teams软件与我视频通话，不停批评教育我没有保护好个人信息安全（小词儿一套一套的，视频场景和语气都非常真！）说将帮我发传真过去，不用担心。但过了一会儿又说我名下居然有一张银行卡涉嫌洗钱案。我表示对那张卡毫不知情，也不是我注册的。他随即要求我保持24小时监听，并每2小时汇报一次行程，还要求我对家人朋友保密。17:30他终于说完了，说之后再跟我进行案情沟通。这一停下来我感觉不对，就拉黑了。\n\n这个诈骗的核心是利用我初来乍到制造恐慌，然后切断联系并冒充权威。骗子先用\"护照被冒用、涉传染病、涉嫌洗钱\"等话术制造恐慌，让你急于自证清白，一旦开始想\"怎么证明不是我\"，就进入了对方节奏。随后以\"案件涉密\"为由，要求你对亲友保密，切断你与外界的信息来源，使骗子成为你唯一的信息源。再通过改号软件伪装官方号码（我收到的电话自动显示是“北京市公安局”）、伪造警官证和通缉令，利用你对公权力的敬畏，让人难以质疑。这就跟传销一样，关键是要风林火山地密集洗脑，不能停，不能让你琢磨，否则就有破绽。白白一个下午啊，可惜了我今天的新生招待会！"
+    },
+    "url": "https://x.com/mtrainier2020/status/2107890851389288806",
+    "time": "2026-10-08 01:48",
+    "created_at": "Wed Oct 07 17:48:36 +0000 2026",
+    "id_str": "2107890851389288806",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "光环都被反编译出来了，现在你可以在 Android、Linux、Windows 上玩 Halo 了。\n\n有了 AI，以前工作量巨大或者很复杂的事情现在都在变成可能……\n\n项目地址：https://github.com/OpenCommunityEdition/OpenCE",
+    "quoted_tweet": {
+      "author": "Ren™",
+      "username": "BE4T_37",
+      "text": "The Halo OpenCE Experience™"
+    },
+    "url": "https://x.com/dotey/status/2107891776711446597",
+    "time": "2026-10-08 01:52",
+    "created_at": "Wed Oct 07 17:52:16 +0000 2026",
+    "id_str": "2107891776711446597",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 发布 Claude Haiku 5.5：小模型价格降到上一代的十分之一\n\nAnthropic 今天发布了 Claude Haiku 5.5。Haiku 是 Claude 家族里最小、最便宜的一档，排在 Sonnet 和 Opus 之下，主要用来跑量大、对成本敏感的任务。\n\n这次最大的变化是价格。处理 10 万 Token 以内的请求，Haiku 5.5 每百万 Token 输入 0.1 美元、输出 0.5 美元，比 Haiku 4.5 便宜 90%。超过 10 万 Token 的长请求是 0.5 和 2.5 美元，便宜一半。上一代 Haiku 收到的请求里约 90% 都在 10 万 Token 以内，所以按官方估算，平均运行成本降了约 75%。\n\n10 万 Token 大约是一本中篇小说的长度，客服对话、文档摘要、分类打标这类日常任务，基本都在这个范围里。\n\n价格降了，能力也上来了。官方公布的测试里，操作电脑完成多步骤任务（OSWorld 2.1）的成绩从 Haiku 4.5 的 15.7% 涨到 72.4%；在命令行里自主完成编程任务（Terminal-Bench 4.0）从 0 涨到 39.2%。Anthropic 说它是目前速度最快的模型（Opus 开快速模式除外），Asana 实测任务完成延迟降低了 30% 以上。\n\n官方推荐的用法有两类。一类是批量的重复活，比如摘要、分类、数据库查询，以及实时客服、浏览器自动操作这种要求响应快的场景。另一类是给大模型打下手：写代码时让 Opus 5.5 或 Sonnet 5.5 当主力，把零碎的子任务分给 Haiku 5.5 去做，也就是当子智能体。\n\nHaiku 5.5 也是第一个能调节“投入力度”（effort）的 Haiku 模型，从低到最高分五档。简单任务开低档省钱，难的任务开高档换效果，开发者可以按任务选。\n\nHaiku 5.5 今天起在 Claude API 以及亚马逊 AWS、谷歌云、微软 Azure 上可用，模型名 claude-haiku-5-5。\n\n同时宣布的还有两件事。\n\nSonnet 5.5 读取缓存的价格减半，降到每百万 Token 0.1 美元。缓存就是把反复用到的内容（比如很长的系统提示词、整个代码库）存起来，下次直接读取，不用重新算。智能体任务里这部分开销占大头，官方估算这次降价让 Sonnet 5.5 跑大多数智能体任务便宜约 20%。\n\n本周起，Max 和 Team 订阅用户每月会拿到一笔 API 额度：Max 5x 送 100 美元，Max 20x 送 200 美元，Team 最多 500 美元，团队成员共用。",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we’ve ever released.\n\nOn average, it costs around 75% less to run than Claude Haiku 4.5."
+    },
+    "url": "https://x.com/dotey/status/2107896388163919908",
+    "time": "2026-10-08 02:10",
+    "created_at": "Wed Oct 07 18:10:36 +0000 2026",
+    "id_str": "2107896388163919908",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "本周起，Claude 的 Max 和 Team 订阅用户每月会拿到一笔 API 额度：Max 5x 送 100 美元，Max 20x 送 200 美元，Team 最多 500 美元，团队成员共用。这笔额度只能在 Claude Platform 上用。\n\nhttps://www.anthropic.com/claude-haiku-5-5",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Anthropic 发布 Claude Haiku 5.5：小模型价格降到上一代的十分之一\n\nAnthropic 今天发布了 Claude Haiku 5.5。Haiku 是 Claude 家族里最小、最便宜的一档，排在 Sonnet 和 Opus 之下，主要用来跑量大、对成本敏感的任务。\n\n这次最大的变化是价格。处理 10 万 Token 以内的请求，Haiku 5.5 每百万 Token 输入 0.1 美元、输出 0.5 美元，比 Haiku 4.5 便宜 90%。超过 10 万 Token 的长请求是 0.5 和 2.5 美元，便宜一半。上一代 Haiku 收到的请求里约 90% 都在 10 万 Token 以内，所以按官方估算，平均运行成本降了约 75%。\n\n10 万 Token 大约是一本中篇小说的长度，客服对话、文档摘要、分类打标这类日常任务，基本都在这个范围里。\n\n价格降了，能力也上来了。官方公布的测试里，操作电脑完成多步骤任务（OSWorld 2.1）的成绩从 Haiku 4.5 的 15.7% 涨到 72.4%；在命令行里自主完成编程任务（Terminal-Bench 4.0）从 0 涨到 39.2%。Anthropic 说它是目前速度最快的模型（Opus 开快速模式除外），Asana 实测任务完成延迟降低了 30% 以上。\n\n官方推荐的用法有两类。一类是批量的重复活，比如摘要、分类、数据库查询，以及实时客服、浏览器自动操作这种要求响应快的场景。另一类是给大模型打下手：写代码时让 Opus 5.5 或 Sonnet 5.5 当主力，把零碎的子任务分给 Haiku 5.5 去做，也就是当子智能体。\n\nHaiku 5.5 也是第一个能调节“投入力度”（effort）的 Haiku 模型，从低到最高分五档。简单任务开低档省钱，难的任务开高档换效果，开发者可以按任务选。\n\nHaiku 5.5 今天起在 Claude API 以及亚马逊 AWS、谷歌云、微软 Azure 上可用，模型名 claude-haiku-5-5。\n\n同时宣布的还有两件事。\n\nSonnet 5.5 读取缓存的价格减半，降到每百万 Token 0.1 美元。缓存就是把反复用到的内容（比如很长的系统提示词、整个代码库）存起来，下次直接读取，不用重新算。智能体任务里这部分开销占大头，官方估算这次降价让 Sonnet 5.5 跑大多数智能体任务便宜约 20%。\n\n本周起，Max 和 Team 订阅用户每月会拿到一笔 API 额度：Max 5x 送 100 美元，Max 20x 送 200 美元，Team 最多 500 美元，团队成员共用。"
+    },
+    "url": "https://x.com/dotey/status/2107897671335989304",
+    "time": "2026-10-08 02:15",
+    "created_at": "Wed Oct 07 18:15:42 +0000 2026",
+    "id_str": "2107897671335989304",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Lauren 每天 Token 消耗真不少，30天 1.5 T，我还以为都是 Fable，没想到用的最多的模型是 Opus 5.5\n\n另外 Cloud 是 Token 消耗大头，如果你想同时多个任务并行，那么 Cloud 是最简单方便，每个任务都可以独立虚拟机，不担心相互干扰，只是 cloud 上的改动验证起来不如本机方便。\n\n我没有去计算 Token 消耗要多少钱，这个不太好算，因为有很多是 Cache 的，还有不同模型混合，还有 Cursor 自家模型。\n\n只是一个参考，有兴趣可以去看看资料：\nhttps://cursor.com/profile/lauren",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "我把后面这一段单独摘出来放评论：\n\n很多人看完这期访谈会觉得，以后自己也可以像 Lauren 那样不 Review PR 了，装上她的 Skill，让模型帮忙验证一下就行。我自己现在的做法和她差不多，每天也有大量 PR，也不 Review。但我的建议是先别急着学她怎么做，先弄明白她凭什么能这么做。\n\n1. 你能不能用上最好的模型，Token 够不够\n\n在用上 Fable 和 Opus 5.5 之前，AI 写的代码我是不太放心的；用上之后，我才真的敢让 AI 去写而不怎么 Review。模型能力很重要，能力没到，就先别想这件事。\n\n还有成本。像我这样没有大公司可以依靠的，得自己掏钱买 2 个 Claude Max 20x 账号，还得省着用。Lauren 在大公司，不用考虑 Token 消耗，全程用最好的模型、开最快的模式都没问题。\n\n不过也别着急。Fable 这个级别的模型，也许半年以后就能像现在的 DeepSeek V4.1 Flash 一样便宜，人人用得起。梁圣加油。\n\n2. 不能完全依赖 AI 的验证\n\n哪怕现在 GPT-6 操作电脑的水平已经超过真人了，让它去做验证，也只能替代一部分，不能真的全交给它，自己还是要看。\n\n可以做的是把那些手动重复做的事情，一点点沉淀成 Skill 和自动化脚本，把体力活解放出去。\n\n3. 方向得靠你自己的专业来指\n\n再聪明的 AI，也没办法替你决定该往哪个方向走。就像给车子装上火箭发动机，也得你来告诉它往哪开，走偏了要及时调整，不然跑得再快也是南辕北辙。\n\n做软件也一样。你不能指望一句提示词做出一个淘宝。你得先做一个能发商品、能浏览的小网站，再加上用户注册，还得区分买家和卖家，然后是支付和安全，功能做完了还要扛得住很多人同时用。稍微复杂一点的软件，都没法完全依赖 AI，要人去拆解、规划，分成一个个小版本、小里程碑，做完要验证，出现偏差要重新指方向。甚至做着做着，你自己的想法都变了，AI 不可能知道你真正想要的是什么。\n\n所以就像播客里说的：模型越来越强，卡住人的已经变成你能不能把自己想要什么讲清楚。\n\n4. 不一定要用他们的 Skill，但要学着把事情交给 Agent 去做\n\nMatt 和 Lauren 的 Skill 都很受欢迎，但你不一定要用。\n\n一方面，软件工程的基础知识，现在的模型已经学得很好了。Lauren 在播客里也说，去年的 Skill 还得写清楚具体该敲哪条命令，现在这些都可以删掉，只留流程步骤，Skill 会越写越短。\n\n另一方面，他们的开发流程和环境，跟你的很可能不一样。Lauren 的 Skill 都是从她自己的工作里总结出来的：验证技能来自她当“人肉中转站”的那段日子；另一个叫 recall 的技能，来自她每次开新对话，都得把上一个对话里的背景再讲一遍。\n\n所以更重要的是从你自己每天的开发流程出发。那些还要你手动操作的环节，尽可能交给 Agent 去做；Agent 做顺了，再把它的操作过程沉淀成 Skill，反复迭代优化。\n\n如果不知道从哪里下手的话，可以参考 Lauren 的办法：翻自己和 AI 的聊天记录，找那些你反复纠正、反复插手的地方。这样迭代出来的 Skill 才真正适合你，用她的话说，每个厨师都该有一套自己的刀。"
+    },
+    "url": "https://x.com/dotey/status/2107898828053504166",
+    "time": "2026-10-08 02:20",
+    "created_at": "Wed Oct 07 18:20:18 +0000 2026",
+    "id_str": "2107898828053504166",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这是一个 Decisions API 很好的案例，用来做手势识别，OpenAI 的 API 相对 Jev 多模态能力更好",
+    "quoted_tweet": {
+      "author": "Francois Laberge",
+      "username": "seflless",
+      "text": "Gesture recognition using the Decisions API by @OpenAIDevs. \n\nThanks to it's vision understanding it is way more accurate than my previous Jev-based demo. It was also faster. cc @thsottiaux @jxnlco @pvncher @tldraw @steveruizok"
+    },
+    "url": "https://x.com/dotey/status/2107902563953582145",
+    "time": "2026-10-08 02:35",
+    "created_at": "Wed Oct 07 18:35:08 +0000 2026",
+    "id_str": "2107902563953582145",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GPT-6 进入 ChatGPT 日常聊天，回答可以是一个能点、能调的智能界面\n\nOpenAI 今天开始在 ChatGPT 推送 GPT-6，主打功能叫 Intelligent UI（智能界面）。\n\nPlus、Pro、Business、Enterprise 用户今天起可用，免费版和 Go 版（OpenAI 的低价订阅套餐）明天开始陆续开放，ChatGPT 每周 12 亿用户都会用上。企业版能不能用，要看公司管理员的设置。\n\n有了 Intelligent UI，GPT-6 会根据问题决定回答长什么样：对比类问题并排摆，讲原理配一张能拖动参数的示意图，简单问题照样一段文字答完。\n\n官方举的例子是周日请朋友吃烤羊腿，人数还没定。上一代模型给的是一大段菜谱加时间表；GPT-6 给的是一张带人数调节器的购物清单，把人数从 5 改成 8，羊肉、土豆的分量跟着变，下面再接一条烹饪时间线。你也可以直接让它做个工具，比如存钱计算器、聚餐分账器，或者一个能在对话里玩的小游戏。\n\n做法上，OpenAI 搭了一套原生界面组件库，再配一个“编译器”，模型边生成，界面边显示，不用等整段回答写完。训练时还专门评估模型做出的界面清不清楚、好不好用。\n\nGPT-6 还能边想边答。以前用推理模型，得等它想完才出结果，现在它会先把已经想清楚的部分写出来。需要联网搜索的问题，GPT-6 Instant 平均比上一代 GPT-5.6 Instant 早 44% 开始回答。\n\n付费用户用的是 GPT-6 Sol，免费版和 Go 版用的是 GPT-6 Luna。这两个模型 9 月 22 日已经在 Work（工作模式）、Codex（编程工具）和 API 上线，这次是补进日常聊天的 Chat 页面，Work 和 Codex 的模型不变。\n\nAnthropic 今年 3 月 12 日给 Claude 上线了“交互式可视化”测试版，包括免费版在内的所有用户默认开启。Claude 自己判断什么时候该画图，在对话里直接生成图表、流程图、时间线，或者带滑块、按钮的小部件，比如一张能逐个点开元素的元素周期表。这个功能脱胎于 2025 年秋天的实验项目 Imagine with Claude。\n\n两家想做的是同一件事：回答一个问题时，直接给你一个能操作的界面。区别在做法。\n\n据报道，Claude 的可视化是模型现写的网页代码和矢量图，形式更自由，但每次都是从零画。OpenAI 用固定的组件库，模型负责挑组件、排版，样式统一，手机上原生显示，还能一块块流式出现。\n\nOpenAI 这次还把“这题该不该用界面、用什么界面”放进了模型训练，并且和 GPT-6 一起推给所有用户。",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "GPT-6 and Intelligent UI, now rolling out in ChatGPT for everyone.\n\nIntelligent UI in ChatGPT delivers fast, interactive answers that make everyday questions more visual, complex topics easier to grasp, and interactive tools for your task available on the spot."
+    },
+    "url": "https://x.com/dotey/status/2107917964146012485",
+    "time": "2026-10-08 03:36",
+    "created_at": "Wed Oct 07 19:36:20 +0000 2026",
+    "id_str": "2107917964146012485",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "🎉 Tibo 为了庆祝 Codex 和 ChatGPT Work 的活跃用户达到了 4000万 的新高，为每个付费用户送一张重置卡。\n\n将在 PST 时区当天结束前送达。",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!"
+    },
+    "url": "https://x.com/dotey/status/2107925907914498365",
+    "time": "2026-10-08 04:07",
+    "created_at": "Wed Oct 07 20:07:54 +0000 2026",
+    "id_str": "2107925907914498365",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Most AI tools expect you to know exactly what you want.\n\nBut creative work often starts with a brief, a reference, or just a hunch.\n\nThat’s why we built Burst mode.\n\nTurn the start of an idea into up to six image directions at once, up to 10× faster, for just one AI credit.\n\nMore directions to explore. More chances to find the one worth pursuing. https://elements.envato.com/lp/burst-mode/?utm_source=X&utm_medium=social&utm_campaign=doomers&utm_content=launchpost&utm_term=doomers_burstmode",
+    "quoted_tweet": null,
+    "url": "https://x.com/envato/status/2107924147435115006",
+    "time": "2026-10-08 04:00",
+    "created_at": "Wed Oct 07 20:00:54 +0000 2026",
+    "id_str": "2107924147435115006",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Most AI tools expect you to know exactly what you want.\n\nBut creative work often starts with a brief, a reference, or just a hunch.\n\nThat’s why we built Burst mode.\n\nTurn the start of an idea into up to six image directions at once, up to 10× faster, for just one AI credit.\n\nMore directions to explore. More chances to find the one worth pursuing. https://elements.envato.com/lp/burst-mode/?utm_source=X&utm_medium=social&utm_campaign=doomers&utm_content=launchpost&utm_term=doomers_burstmode",
+    "quoted_tweet": null,
+    "url": "https://x.com/envato/status/2107924147435115006",
+    "time": "2026-10-08 04:00",
+    "created_at": "Wed Oct 07 20:00:54 +0000 2026",
+    "id_str": "2107924147435115006",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@envato 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107927430027690037",
+    "time": "2026-10-08 04:13",
+    "created_at": "Wed Oct 07 20:13:57 +0000 2026",
+    "id_str": "2107927430027690037",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Traffic and revenue tell two different stories\n\nReplit is a top 10 consumer AI app by spend and a bottom 5 app by traffic\n\nAI power users' money shows up where casual users don't\n\nFull list of the Top 50 Consumer AI Apps by Revenue, from @omooretweets on Cosign: https://cosign.co/lists/omooretweets/top-50-consumer-ai-apps-7th-edition",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "The top 1% of AI spenders now outspend the bottom 50% combined\n\nThey spend an average of $903/month, while the median customer spends just $25\n\nMore charts in our Top 100 Consumer AI Apps breakdown: https://www.a16z.news/p/top-100-consumer-ai-apps-seventh"
+    },
+    "url": "https://x.com/a16z/status/2107591815511826740",
+    "time": "Tue Oct 06 22:00:20 +0000 2026",
+    "created_at": "Tue Oct 06 22:00:20 +0000 2026",
+    "id_str": "2107591815511826740",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@Valon just raised a $150M Series D at a $2.3B valuation. Within six months of selling software, they signed over $200M in deals.\n\n(And they're hiring!)\n\nHow the seven-year-old company got there:\n\n- Mortgage is $13 trillion of consumer debt running on a system built before the internet, and no servicer will trust a new platform. So Valon became one.\n\n- Co-founder Andrew Wang read every federal and state regulation, 18 hours a day for six months, and turned it into code.\n\n- They ran their own servicer on the software until it hit 3x the industry's efficiency, sold that servicer to a larger mortgage company, and now sell the software to everyone else. One of the biggest servicers in the US is moving 4 million loans onto it, nearly 10% of the market.\n\nValon is hiring deployment strategists in NY and SF. Read more about their open roles: https://a16zjobs.substack.com/p/valon-just-raised-150m-as-it-prepares\n\n@xlindadu @wangandrewd",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "a16z's Angela Strange sits down with @Valon's Andrew Wang and Linda Du to unpack what it takes to rebuild the infrastructure underneath a $13 trillion mortgage market that still relies heavily on systems designed before the internet.\n\nLinda and Andrew explain why Valon chose the hardest path: becoming a regulated mortgage servicer, translating decades of federal and state regulation into software, and proving the platform on its own loans before selling it to the industry. That foundation made Valon roughly 3x as efficient as traditional servicing and created the system of record it is now using to bring AI into complex mortgage workflows.\n\nThey also discuss what AI makes possible on top of that infrastructure, from agents handling long-tail servicing tasks to voice interfaces and more personalized customer experiences. And they explain why deploying the technology into large regulated enterprises is ultimately as much a change-management challenge as a technical one.\n\n01:02 From Soros to mortgage math\n03:00 $13 trillion still on 1960s systems\n09:38 Why build the whole stack from scratch\n11:47 The 3-5 year licensing gauntlet\n15:50 Turning 50 states of regulation into code\n18:00 Winning the first customers\n22:34 What AI unlocks now\n29:47 Everything is servicing\n32:52 $200M in deals within six months\n\nYouTube: https://www.youtube.com/watch?v=ZBDGuT6EGPY\n\n@wangandrewd @xlindadu @astrange"
+    },
+    "url": "https://x.com/a16z/status/2107603123854536792",
+    "time": "Tue Oct 06 22:45:16 +0000 2026",
+    "created_at": "Tue Oct 06 22:45:16 +0000 2026",
+    "id_str": "2107603123854536792",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Instagram turns 16 today",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2107624077817209169",
+    "time": "2026-10-07 08:08",
+    "created_at": "Wed Oct 07 00:08:32 +0000 2026",
+    "id_str": "2107624077817209169",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "🇯🇵",
+    "quoted_tweet": {
+      "author": "Raghu Raghuram",
+      "username": "RaghuRaghuram",
+      "text": "a16z is officially in Japan, led by Hitoshi Yoshida as Head of Japan, with the opening of our Japan office.\n\nIt was an honor welcoming Governor Koike at the opening earlier today. Japan combines world-class industrial capabilities with growing innovation in AI, cybersecurity, robotics, and defense. By bringing our portfolio companies and the Japanese ecosystem together, we aim to accelerate Japan’s AI-native economy and strengthen the ties between Silicon Valley and Japan.\n\nAs the former President of Microsoft Japan and Hewlett-Packard Japan, Hitoshi brings decades of technology leadership and deep relationships across business, industry, and government. We’re thrilled to have him lead our efforts in Japan and look forward to doing great work in partnership with the Japanese technology community.\n\n日本代表として吉田仁志を迎え、日本オフィスを開設できたことを大変心強く光栄に思います。日本は、世界有数の産業基盤と、AI・サイバーセキュリティ・ロボティクス・防衛などの分野における目覚ましいイノベーションを兼ね備えています。\n我々はこれまでになかった機会を、日本の若い世代に提供していくことを目指します。日本のテクノロジーコミュニティの皆様と共に、日本の市場やエコシステムの発展に貢献していけることを楽しみにしています。"
+    },
+    "url": "https://x.com/a16z/status/2107850189855953306",
+    "time": "2026-10-07 23:07",
+    "created_at": "Wed Oct 07 15:07:01 +0000 2026",
+    "id_str": "2107850189855953306",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"At the end of 2024, Texas' grid operator had 63 GW of large new customers in its queue. By this June, that figure reached 474 GW, more than five times record peak demand.\"\n\n\"Then Texas hit pause.\"\n\n\"Developers routinely spam requests across several sites, and many are speculative builds with no customer yet.\"\n\n\"Planners can't tell which are real, and they don't want ratepayers covering upgrades built for projects that never show up.\"\n\n\"Fully connecting a large data center can take 5 to 10 years... Idle GPUs cost far more than the electricity to run them, so speed matters most... That's why developers are planning to bring their own power on site.\"\n\n\"Full reliability for these power islands is very, very hard, but some labs and hyperscalers have shown that, forced to choose between reliability and speed, they'll pick speed.\"\n\n\"Every site I'm aware of intends to connect to the grid as soon as it can, chiefly because on-site power almost always costs more.\"\n\n\"AI companies have pledged to pay their way, and most would rather connect to the grid than avoid it. It seems ideal for everyone that we let them do so instead of driving that spending into private islands.\"\n\n\"Texas created the energy fast lane first; now it has the opportunity to show us a better one, and I expect it will. Power is where America finds out whether it can still build.\"\n\na16z's @rmcentush on why Texas is making data centers wait: https://www.a16z.news/p/why-texas-is-making-data-centers",
+    "quoted_tweet": {
+      "author": "Ryan McEntush",
+      "username": "rmcentush",
+      "text": "https://x.com/i/article/2107616914835148800"
+    },
+    "url": "https://x.com/a16z/status/2107859784594767982",
+    "time": "2026-10-07 23:45",
+    "created_at": "Wed Oct 07 15:45:09 +0000 2026",
+    "id_str": "2107859784594767982",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Today, we’re excited to share Stuut has raised a $52.5M Series B led by Insight Partners, bringing our total amount raised to $93M. \n\nI told the guy at my local bodega, and he couldn’t care less about our cash. Frankly, that’s fair. Our job is to care about yours. \n\nThe 1000s of juggernaut companies that run America are rebuilding around AI, and they're doing it with finance teams that are already swamped. Every enterprise we've spoken to says the same thing: they know AI can help, but they don't have the time or team to make it happen.\n\nStuut is the first AI coworker that does all of the work between order and cash for the world's leading enterprises. It's grinding, repetitive work. \n\nWe’ve already moved over $3B for enterprises including ZoomInfo, Honeywell and PerkinElmer, with Stuut unlocking 40% more cash flow for our customers.\n\nThis round is how we keep up with overwhelming demand, and how we go after the bigger job: carrying every transaction from the moment a company decides to sell something until the cash is in the bank. Our customers know we’re in this for the long haul.\n\nOur investors do too, and special thanks to Julian Marcu / Thomas Krane at @InsightPartners for believing in our vision. We're extremely grateful to @a16z, @ActivantCapital, and @M12vc Microsoft's Venture Fund, as well for joining.\n\nThanks to the @StuutAI team for their dedication.\n\nThanks to our customers for trusting us. \n\nAnd to the guy at my bodega: maybe the Series C will do it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/realtarek/status/2107864391060201512",
+    "time": "2026-10-08 00:03",
+    "created_at": "Wed Oct 07 16:03:27 +0000 2026",
+    "id_str": "2107864391060201512",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Texas just froze new data center permits:\n\n- Its queue went from 63 GW to 474 GW in 18 months, more than 5x record peak demand\n\n- Only 9.5 GW is approved and about 4.3 GW is actually running\n\n- The rest is duplicates, speculation, and developers who have never plugged in a GPU\n\na16z's @rmcentush on why the grid can't build for that many maybes: https://www.a16z.news/p/why-texas-is-making-data-centers",
+    "quoted_tweet": {
+      "author": "Ryan McEntush",
+      "username": "rmcentush",
+      "text": "https://x.com/i/article/2107616914835148800"
+    },
+    "url": "https://x.com/a16z/status/2107873596509208914",
+    "time": "2026-10-08 00:40",
+    "created_at": "Wed Oct 07 16:40:02 +0000 2026",
+    "id_str": "2107873596509208914",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Left: Texas's grid only maxes out about 200 hours a year, roughly 2% of the time.\n\nRight: New data centers that agree to cut back during peak hours can skip the wait for more capacity. US grids could add 100 GW of them without building a single new plant.\n\na16z's @rmcentush on how flexible data centers get onto the grid sooner: https://www.a16z.news/p/why-texas-is-making-data-centers",
+    "quoted_tweet": {
+      "author": "Ryan McEntush",
+      "username": "rmcentush",
+      "text": "https://x.com/i/article/2107616914835148800"
+    },
+    "url": "https://x.com/a16z/status/2107886207409815679",
+    "time": "2026-10-08 01:30",
+    "created_at": "Wed Oct 07 17:30:09 +0000 2026",
+    "id_str": "2107886207409815679",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We're excited to invest in Preference Model.\n\nBuilding RL environments that actually work is harder than it looks. Models are relentless at reward hacking, finding shortcuts, and exploiting vulnerabilities.\n\n@preferencemodel has focused on the domain that matters most to labs right now: AI research and ML engineering itself.\n\nOver the past year, the team has built RL environments for leading labs. Their focus has been on building the infrastructure to make harder, more resistant environments as models improve: tooling that finds where models are weak, generates new tasks to target those gaps, and tests environments against agents actively trying to break it.\n\nThis week they're open-sourcing Karotte, the framework they've used in production — hardened through more than a million evaluation runs and red-teaming.\n\nWe're thrilled to partner with @chem_safety and @Ning_Catsnail and the Preference Model team as they build the training grounds for capable and aligned models.\n\nBy @JenniferHli",
+    "quoted_tweet": {
+      "author": "Jennifer Zhou",
+      "username": "chem_safety",
+      "text": "Today we are open-sourcing 🥕Karotte, our framework for building RL environments.\n\nWe've used it for the past year to build MLE RL environments for frontier labs, and it's been hardened through 1M+ evaluation runs and red-teaming."
+    },
+    "url": "https://x.com/a16z/status/2107894431508779366",
+    "time": "2026-10-08 02:02",
+    "created_at": "Wed Oct 07 18:02:49 +0000 2026",
+    "id_str": "2107894431508779366",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@basepowerco has raised $2.5B to bring affordable, reliable energy to people's homes across America.\n\nThey're building a new nationwide power company by rebuilding every layer from scratch.\n\nThree years in:\n- Built a home battery factory in 8 months\n- Installing 100 batteries a day\n- Powering 30,000+ homes\n\nAnd they're hiring!\n\nOpen roles in Austin, TX:\n- Head of Firmware\n- Backend Engineer (BaseOS)\n- Product Engineer\n- Electronics Design Engineer\n- System Integration Engineer\n- Deployment Finance & BizOps\n\n(Bay Area office opening soon, too.)\n\nMore roles and the full interview with Head of Software @JaredMGreene on a16z Jobs: https://a16zjobs.substack.com/p/base-power-has-raised-25b-to-bring",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2107916496244760746",
+    "time": "2026-10-08 03:30",
+    "created_at": "Wed Oct 07 19:30:30 +0000 2026",
+    "id_str": "2107916496244760746",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "\"What's more impressive to you: someone who went to Stanford, or someone who is followed by Patrick Collison, Elon Musk, and Marc Andreessen?\"\n\nErik Torenberg on the peer-to-peer credential, and why attention from the right people can open more doors than a degree:\n\n\"My friend David Perell said, 'My Twitter account is more valuable to me than my college education. My Twitter has given me more value to my career and also personally.'\"\n\n\"College is a bundle of education, network, and credential. You learn from having conversations. You meet people and discover people. It's proof of work: Are they interesting? Are they funny? Did they build something cool?\"\n\n\"What's more impressive to you: someone who went to Stanford, or someone who is followed by Patrick Collison, Elon Musk, Marc Andreessen, et cetera? I think most people would say the latter. It's this kind of peer-to-peer credential.\"\n\n\"Implicitly, although people often do this explicitly, that is a cosign. It's an endorsement that this person is worth tracking. It's a public signal that this person is worth following.\"\n\n\"If you're followed by these people, now your doors are open. People want to read what you say. They want to work with you. They want to invest in you or have you as part of their team.\"\n\n\"There's benefit to the receiver but there's also benefit to the giver because if you're the first person to discover someone, that's how Silicon Valley operates.\"\n\n@eriktorenberg",
+    "quoted_tweet": null,
+    "url": "https://x.com/cosign/status/2107926259007385878",
+    "time": "2026-10-08 04:09",
+    "created_at": "Wed Oct 07 20:09:18 +0000 2026",
+    "id_str": "2107926259007385878",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The US grid plans to add 86 gigawatts this year. Here's where it's coming from:\n\n- Solar: 43.4 GW\n- Batteries: 24.3 GW\n- Wind: 11.8 GW\n- Gas: 6.3 GW\n- New nuclear: 0 GW\n\nThe AI labs are planning for hundreds of gigawatts. Solar is the one source already produced at that scale, and most of it is made in China.\n\n\"Scaling firm power that isn't gas is much more complicated. Uprates and restarts can squeeze a little more from the existing nuclear fleet, but the real upside is new reactors.\"\n\na16z's @rmcentush on how America powers the next wave of growth: https://www.a16z.news/p/why-texas-is-making-data-centers",
+    "quoted_tweet": {
+      "author": "Ryan McEntush",
+      "username": "rmcentush",
+      "text": "https://x.com/i/article/2107616914835148800"
+    },
+    "url": "https://x.com/a16z/status/2107936513447317788",
+    "time": "2026-10-08 04:50",
+    "created_at": "Wed Oct 07 20:50:03 +0000 2026",
+    "id_str": "2107936513447317788",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Alex Immerman, David George, and Sarah Wang on why a data center can lower your electricity bill:\n\n\"It may seem counterintuitive, but a data center can help lower your electricity rate. A recent US study showed that for every 10% increase in data center capacity, residential rates went down by 40 bps.\"\n\n\"You should think about it as a power grid is a shared fixed cost base: poles, wires, substations. A large stable customer, like a data center, can help spread those costs across more units of electricity. Simply put, more demand across a shared system is a positive.\"\n\n\"Investment in shared infrastructure can also improve the economics for the households and businesses connected to it.\"\n\n\"There's real examples of that today. It's not just lip service.\"\n\nStill, 56% of Texas voters say more data centers would raise their power bills.\n\nThe catch is it depends on who pays. When developers cover their own grid upgrades instead of pushing them onto everyone else's bills, the savings are real.\n\na16z's @rmcentush on how to get that right: https://www.a16z.news/p/why-texas-is-making-data-centers\n\n@aleximm @DavidGeorge83 @sarahdingwang",
+    "quoted_tweet": {
+      "author": "Ryan McEntush",
+      "username": "rmcentush",
+      "text": "https://x.com/i/article/2107616914835148800"
+    },
+    "url": "https://x.com/a16z/status/2107954263767081092",
+    "time": "2026-10-08 06:00",
+    "created_at": "Wed Oct 07 22:00:35 +0000 2026",
+    "id_str": "2107954263767081092",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "you make art on 𝕏\n\nI want to see it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107847517509747124",
+    "time": "2026-10-07 22:56",
+    "created_at": "Wed Oct 07 14:56:24 +0000 2026",
+    "id_str": "2107847517509747124",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 😊✨🖖🤗",
+    "quoted_tweet": null,
+    "url": "https://x.com/artetuyo/status/2107847924038222265",
+    "time": "2026-10-07 22:58",
+    "created_at": "Wed Oct 07 14:58:01 +0000 2026",
+    "id_str": "2107847924038222265",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That's me.",
+    "quoted_tweet": null,
+    "url": "https://x.com/katkekaran/status/2107848078015553747",
+    "time": "2026-10-07 22:58",
+    "created_at": "Wed Oct 07 14:58:38 +0000 2026",
+    "id_str": "2107848078015553747",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I would have to share my whole X profile lol.",
+    "quoted_tweet": null,
+    "url": "https://x.com/edneme/status/2107848108008689741",
+    "time": "2026-10-07 22:58",
+    "created_at": "Wed Oct 07 14:58:45 +0000 2026",
+    "id_str": "2107848108008689741",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@artetuyo Wonderful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107848144180453566",
+    "time": "2026-10-07 22:58",
+    "created_at": "Wed Oct 07 14:58:54 +0000 2026",
+    "id_str": "2107848144180453566",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@edneme You can choose something recent",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107848212732084579",
+    "time": "2026-10-07 22:59",
+    "created_at": "Wed Oct 07 14:59:10 +0000 2026",
+    "id_str": "2107848212732084579",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "“Gallery of the Future” community zine made it to India!",
+    "quoted_tweet": {
+      "author": "Sheetal Shinde",
+      "username": "itsSSS1510",
+      "text": "From 🅰️ New York to India 🇮🇳 So happy to finally hold this! 📖❤️\n\nThank you, Kris, for sending me a copy of “Gallery of the Future” absolutely loved it! 🥹✨ Been waiting for this one!\n\nHonored to be featured in “Woven Beyond” and grateful to be part of such a wonderful collaboration with 40 incredible creators, powered by @AdobeFirefly Boards. 🎨🤝\n\nThank you @icreatelife for bringing us all together! ❤️✨\n\n#galleryofthefuture #adobefirefly"
+    },
+    "url": "https://x.com/icreatelife/status/2107848422778699911",
+    "time": "2026-10-07 23:00",
+    "created_at": "Wed Oct 07 15:00:00 +0000 2026",
+    "id_str": "2107848422778699911",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/ArtworksWahid/status/2107848683618517500",
+    "time": "2026-10-07 23:01",
+    "created_at": "Wed Oct 07 15:01:02 +0000 2026",
+    "id_str": "2107848683618517500",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/RadioGuyGlen/status/2107849157352550897",
+    "time": "2026-10-07 23:02",
+    "created_at": "Wed Oct 07 15:02:55 +0000 2026",
+    "id_str": "2107849157352550897",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RadioGuyGlen Great character",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107850388548292973",
+    "time": "2026-10-07 23:07",
+    "created_at": "Wed Oct 07 15:07:49 +0000 2026",
+    "id_str": "2107850388548292973",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ArtworksWahid Great!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107850449793454224",
+    "time": "2026-10-07 23:08",
+    "created_at": "Wed Oct 07 15:08:03 +0000 2026",
+    "id_str": "2107850449793454224",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@katkekaran Wow this is great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107850485369549287",
+    "time": "2026-10-07 23:08",
+    "created_at": "Wed Oct 07 15:08:12 +0000 2026",
+    "id_str": "2107850485369549287",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/zeng_wt/status/2107858416685436960",
+    "time": "2026-10-07 23:39",
+    "created_at": "Wed Oct 07 15:39:43 +0000 2026",
+    "id_str": "2107858416685436960",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@zeng_wt Love your abstracts",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107860625967747471",
+    "time": "2026-10-07 23:48",
+    "created_at": "Wed Oct 07 15:48:30 +0000 2026",
+    "id_str": "2107860625967747471",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@YvesDalbiez @runwayml Great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107869854715777285",
+    "time": "2026-10-08 00:25",
+    "created_at": "Wed Oct 07 16:25:10 +0000 2026",
+    "id_str": "2107869854715777285",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I absolutely love this ❤️🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/carolletta/status/2107872561698598924",
+    "time": "2026-10-08 00:35",
+    "created_at": "Wed Oct 07 16:35:55 +0000 2026",
+    "id_str": "2107872561698598924",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@carolletta Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107873167792615688",
+    "time": "2026-10-08 00:38",
+    "created_at": "Wed Oct 07 16:38:20 +0000 2026",
+    "id_str": "2107873167792615688",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/kalpachque/status/2107884968886088179",
+    "time": "2026-10-08 01:25",
+    "created_at": "Wed Oct 07 17:25:13 +0000 2026",
+    "id_str": "2107884968886088179",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I made this game called Ronin with AI\n\nhttps://x.com/JuanByteLabs/status/2107552575314940349?s=20",
+    "quoted_tweet": {
+      "author": "JuanByte 🧠",
+      "username": "JuanByteLabs",
+      "text": "I made this game called Ronin with Opus 5.5, plus some Blender modeling help from GPT 6 Astra.\n\nStill just the map and katana animations (draw, combo, block, roll), but enemies, combat, food, survival, story and a lot more are coming soon."
+    },
+    "url": "https://x.com/JuanByteLabs/status/2107885381257413096",
+    "time": "2026-10-08 01:26",
+    "created_at": "Wed Oct 07 17:26:52 +0000 2026",
+    "id_str": "2107885381257413096",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kalpachque Cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107885985661133045",
+    "time": "2026-10-08 01:29",
+    "created_at": "Wed Oct 07 17:29:16 +0000 2026",
+    "id_str": "2107885985661133045",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JuanByteLabs This looks awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107886041436721399",
+    "time": "2026-10-08 01:29",
+    "created_at": "Wed Oct 07 17:29:29 +0000 2026",
+    "id_str": "2107886041436721399",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife that was the answer i needed. thank you kris, i can sleep tonight.",
+    "quoted_tweet": null,
+    "url": "https://x.com/nortenawinds/status/2107893928661836168",
+    "time": "2026-10-08 02:00",
+    "created_at": "Wed Oct 07 18:00:50 +0000 2026",
+    "id_str": "2107893928661836168",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Skin looks great, but GPT is still better at making big changes to an image. Like using one image as a composition guide and asking it to replace the character and environment. Same prompt, GPT nails it im one go. Nano2.1 can’t nailed at all. But gpt images looks so bad though.",
+    "quoted_tweet": null,
+    "url": "https://x.com/RafaelGhencev/status/2107897394935300306",
+    "time": "2026-10-08 02:14",
+    "created_at": "Wed Oct 07 18:14:36 +0000 2026",
+    "id_str": "2107897394935300306",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@nortenawinds 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107899306896199848",
+    "time": "2026-10-08 02:22",
+    "created_at": "Wed Oct 07 18:22:12 +0000 2026",
+    "id_str": "2107899306896199848",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RafaelGhencev The good thing you can use both 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107899378392293644",
+    "time": "2026-10-08 02:22",
+    "created_at": "Wed Oct 07 18:22:29 +0000 2026",
+    "id_str": "2107899378392293644",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/tidzhej/status/2107924034675675196",
+    "time": "2026-10-08 04:00",
+    "created_at": "Wed Oct 07 20:00:27 +0000 2026",
+    "id_str": "2107924034675675196",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tidzhej Cute one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107930420633362478",
+    "time": "2026-10-08 04:25",
+    "created_at": "Wed Oct 07 20:25:50 +0000 2026",
+    "id_str": "2107930420633362478",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "She passed every AI safety test. She was lying.\nKILL SWITCH — a Slopcore music video.\nMade by AI. Zero human edits. Just prompting.\n\nHuge love to @anabology for the inspiration. Your work made me want to join the Slopcore.\nI added an irresponsible amount of film grain. 💙",
+    "quoted_tweet": null,
+    "url": "https://x.com/AstrablueAI/status/2107859808657490208",
+    "time": "2026-10-07 23:45",
+    "created_at": "Wed Oct 07 15:45:15 +0000 2026",
+    "id_str": "2107859808657490208",
+    "is_retweet": true
   }
 ]
