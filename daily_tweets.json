@@ -90,5 +90,274 @@
     "created_at": "Wed Oct 07 01:23:00 +0000 2026",
     "id_str": "2107642817619370189",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "We are entering a new era of discovery now:\n\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "quoted_tweet": null,
+    "url": "https://x.com/sama/status/2107623610483720463",
+    "time": "2026-10-07 08:06",
+    "created_at": "Wed Oct 07 00:06:41 +0000 2026",
+    "id_str": "2107623610483720463",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 Hark的当务之急是赶紧想一个可爱的虚拟形象！",
+    "quoted_tweet": null,
+    "url": "https://x.com/GymlinZhu/status/2107529646720098485",
+    "time": "Tue Oct 06 17:53:18 +0000 2026",
+    "created_at": "Tue Oct 06 17:53:18 +0000 2026",
+    "id_str": "2107529646720098485",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@GymlinZhu 哈哈哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2107636586058047733",
+    "time": "2026-10-07 08:58",
+    "created_at": "Wed Oct 07 00:58:14 +0000 2026",
+    "id_str": "2107636586058047733",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Results from 7 hiring experiments in drawing out talent when everyone has a capable agent. https://x.com/i/article/2107546751544750080",
+    "quoted_tweet": null,
+    "url": "https://x.com/jdpruettt/status/2107579719462035889",
+    "time": "Tue Oct 06 21:12:16 +0000 2026",
+    "created_at": "Tue Oct 06 21:12:16 +0000 2026",
+    "id_str": "2107579719462035889",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2107567268440010752",
+    "quoted_tweet": null,
+    "url": "https://x.com/eyad_khrais/status/2107602784212365817",
+    "time": "Tue Oct 06 22:43:55 +0000 2026",
+    "created_at": "Tue Oct 06 22:43:55 +0000 2026",
+    "id_str": "2107602784212365817",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jdpruettt Great read",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107603033546973201",
+    "time": "Tue Oct 06 22:44:55 +0000 2026",
+    "created_at": "Tue Oct 06 22:44:55 +0000 2026",
+    "id_str": "2107603033546973201",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Fantastic read. \n\nEveryone talks about AI changing the way we do things, and this is a clear explanation on how AI changes hiring. \n\nIt's from both sides - how to find, interview, and hire, but also how to be interviewed. Must read.",
+    "quoted_tweet": {
+      "author": "JD Pruett",
+      "username": "jdpruettt",
+      "text": "Results from 7 hiring experiments in drawing out talent when everyone has a capable agent. https://x.com/i/article/2107546751544750080"
+    },
+    "url": "https://x.com/vasuman/status/2107603355304702352",
+    "time": "Tue Oct 06 22:46:11 +0000 2026",
+    "created_at": "Tue Oct 06 22:46:11 +0000 2026",
+    "id_str": "2107603355304702352",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@eyad_khrais This is a game changer for basically every company on Earth lol nice write up.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107603482098450899",
+    "time": "Tue Oct 06 22:46:42 +0000 2026",
+    "created_at": "Tue Oct 06 22:46:42 +0000 2026",
+    "id_str": "2107603482098450899",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Highly recommend reading this",
+    "quoted_tweet": {
+      "author": "Eyad",
+      "username": "eyad_khrais",
+      "text": "https://x.com/i/article/2107567268440010752"
+    },
+    "url": "https://x.com/ProbyShandilya/status/2107604665806549396",
+    "time": "Tue Oct 06 22:51:24 +0000 2026",
+    "created_at": "Tue Oct 06 22:51:24 +0000 2026",
+    "id_str": "2107604665806549396",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@ProbyShandilya Great read",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2107606378374385848",
+    "time": "Tue Oct 06 22:58:12 +0000 2026",
+    "created_at": "Tue Oct 06 22:58:12 +0000 2026",
+    "id_str": "2107606378374385848",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The number one question we get from clients is how do they turn a simple skill (brittle, doesn't adapt, isn't that useful) into a full fledged agent. \n\nMore on that below from our COO.",
+    "quoted_tweet": {
+      "author": "Eyad",
+      "username": "eyad_khrais",
+      "text": "https://x.com/i/article/2107567268440010752"
+    },
+    "url": "https://x.com/vasuman/status/2107636256897446113",
+    "time": "2026-10-07 08:56",
+    "created_at": "Wed Oct 07 00:56:56 +0000 2026",
+    "id_str": "2107636256897446113",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Higgsfield 推出了一个“AI 网红工作室”\n\n你可以用它从零做一个 AI 网红\n\n脸长什么样、什么身材、穿什么衣服，都可以自己定义\n\n角色做好以后，还能直接套用 Motion Presets 动作预设，让这个 AI 网红跳舞、表演、展示产品，快速生成短视频\n\n甚至还可以让这个 AI 网红去“复刻”已经验证过的爆款 UGC 广告形式\n\n具体怎么玩？\n\n比如你想做护肤品\n\n先做一个专门拍护肤内容的原创 AI 网红\n\n然后去找 TikTok、Instagram 上传播效果很好的护肤品 UGC 广告，研究它们怎么开头、怎么展示产品、怎么讲卖点\n\n再用 Genjutsu，把这些已经被市场验证过的广告形式，改编成你自己的 AI 网红版本。\n\n先做几条样片，然后直接拿着作品去找护肤品牌：\n\n“这种广告，我每个月可以持续给你做一批，要不要试试？”\n\n根据每个月的产量和合作方式，可以尝试谈 1,500～10,000 美元/月的合作。\n\n因为对品牌来说，一条广告并不会一直有效。\n\n他们需要不断测试新的开头、新的脚本、新的场景、新的素材。\n\n而 AI 网红最大的价值就在这里：\n\n同一个角色，可以持续不断地生产新的广告内容。\n\n甚至还可以继续往前走一步。\n\n把 AI 网红生成的视频用于直播内容，让同一个虚拟角色从“拍短视频”延伸到持续直播。\n\n这样一来，一个 AI 网红就可以同时承担短视频、UGC 广告、产品展示和直播内容。\n\n所以这套东西最有意思的玩法，可能并不是先想着做一个百万粉丝的 AI 网红。\n\n先做几条真正像样的样片，然后找到第一个愿意为这些内容付钱的品牌\n\n先赚到第一笔钱",
+    "quoted_tweet": {
+      "author": "Higgsfield AI 🧩",
+      "username": "higgsfield",
+      "text": "Officially, every viral AI influencer was made on Higgsfield.\n\nMake one with your face or from scratch. Then jump on viral trends with Genjutsu.\n\nTry up to 5 generations free.\n\nAvailable now in Higgsfield and via ChatGPT Extension.\n\nCredits: @JeanPhilMadame"
+    },
+    "url": "https://x.com/xiaohu/status/2107613873251733977",
+    "time": "Tue Oct 06 23:27:59 +0000 2026",
+    "created_at": "Tue Oct 06 23:27:59 +0000 2026",
+    "id_str": "2107613873251733977",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife If you get the time, check out the music videos from the Necromancer's Apprentice ☺️",
+    "quoted_tweet": null,
+    "url": "https://x.com/MichaelgDiamond/status/2107594216096559158",
+    "time": "Tue Oct 06 22:09:52 +0000 2026",
+    "created_at": "Tue Oct 06 22:09:52 +0000 2026",
+    "id_str": "2107594216096559158",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MichaelgDiamond I will!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107595545934225693",
+    "time": "Tue Oct 06 22:15:10 +0000 2026",
+    "created_at": "Tue Oct 06 22:15:10 +0000 2026",
+    "id_str": "2107595545934225693",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@sasshix Cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107596009010557095",
+    "time": "Tue Oct 06 22:17:00 +0000 2026",
+    "created_at": "Tue Oct 06 22:17:00 +0000 2026",
+    "id_str": "2107596009010557095",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That's so cute!",
+    "quoted_tweet": null,
+    "url": "https://x.com/an_evergreene/status/2107638712284921927",
+    "time": "2026-10-07 09:06",
+    "created_at": "Wed Oct 07 01:06:41 +0000 2026",
+    "id_str": "2107638712284921927",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@an_evergreene Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107639144784732446",
+    "time": "2026-10-07 09:08",
+    "created_at": "Wed Oct 07 01:08:24 +0000 2026",
+    "id_str": "2107639144784732446",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I might make a new x, my feed is disturbing",
+    "quoted_tweet": null,
+    "url": "https://x.com/sweetbunnyblood/status/2107644405918073139",
+    "time": "2026-10-07 09:29",
+    "created_at": "Wed Oct 07 01:29:19 +0000 2026",
+    "id_str": "2107644405918073139",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@sweetbunnyblood What is it like?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107645054210957741",
+    "time": "2026-10-07 09:31",
+    "created_at": "Wed Oct 07 01:31:53 +0000 2026",
+    "id_str": "2107645054210957741",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Make more art",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107649002267443621",
+    "time": "2026-10-07 09:47",
+    "created_at": "Wed Oct 07 01:47:35 +0000 2026",
+    "id_str": "2107649002267443621",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "the demiurge had me on some late night slopcore experiements in the slopcannon   lord please forgive me✝️",
+    "quoted_tweet": null,
+    "url": "https://x.com/jtevesobs/status/2107531946448306277",
+    "time": "Tue Oct 06 18:02:26 +0000 2026",
+    "created_at": "Tue Oct 06 18:02:26 +0000 2026",
+    "id_str": "2107531946448306277",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "The foids walk amongst us as the impending p(doom) nears. \n\n@boneGPT",
+    "quoted_tweet": null,
+    "url": "https://x.com/Roll1er/status/2107554539247456723",
+    "time": "Tue Oct 06 19:32:13 +0000 2026",
+    "created_at": "Tue Oct 06 19:32:13 +0000 2026",
+    "id_str": "2107554539247456723",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "RECURSIVE SLOPCORE IMPROVEMENT\n\"Better and Better (v∞)\"\n\nIs it a takeoff or a fade? Wait and see.",
+    "quoted_tweet": null,
+    "url": "https://x.com/taprooted_/status/2107600058027851963",
+    "time": "Tue Oct 06 22:33:05 +0000 2026",
+    "created_at": "Tue Oct 06 22:33:05 +0000 2026",
+    "id_str": "2107600058027851963",
+    "is_retweet": true
   }
 ]
