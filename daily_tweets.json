@@ -359,5 +359,196 @@
     "created_at": "Tue Oct 06 22:33:05 +0000 2026",
     "id_str": "2107600058027851963",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "It wouldn’t be Devcon without @VitalikButerin.\n\nThis November, Vitalik is back on the Devcon stage, joining builders and communities in Mumbai to question, debate and build what comes next for Ethereum.\n\nMumbai, November 3–6. 🇮🇳\nGet your ticket → https://devcon.org",
+    "quoted_tweet": null,
+    "url": "https://x.com/EFDevcon/status/2107468508074512531",
+    "time": "Tue Oct 06 13:50:21 +0000 2026",
+    "created_at": "Tue Oct 06 13:50:21 +0000 2026",
+    "id_str": "2107468508074512531",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "we just made @ethrex_client again the fastest client in @ethereum. i've always said, lambda would deliver and push the boundaries of ethereum.\n\nafter a couple of months focused on Glamsterdam hardening and Hegota prototyping, including hosting several public testnets for the most important EIPs coming in Hegota, we've turned our attention back to performance. this doesn't mean we're stepping away from that work, where we still have a lot to contribute.  \n\nThe early results are very promising. In just a couple of days, we brought block processing time down from ~40ms to ~26ms in mainnet, making ethrex the fastest client once again. The image below compares how we perform today (ethrex-baseline) with what we've been cooking (ethrex-testing).\n\ncongrats @class_lambda, i'm proud of the team we've built. i love working with people that are way smarter than me. \n\nthanks @ethereumfndn for the constant support.",
+    "quoted_tweet": null,
+    "url": "https://x.com/fede_intern/status/2107587537573208216",
+    "time": "Tue Oct 06 21:43:20 +0000 2026",
+    "created_at": "Tue Oct 06 21:43:20 +0000 2026",
+    "id_str": "2107587537573208216",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Time for every AI account to pretend they deeply understand number theory again to opine on the importance of the latest math breakthroughs.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107609416359117027",
+    "time": "Tue Oct 06 23:10:17 +0000 2026",
+    "created_at": "Tue Oct 06 23:10:17 +0000 2026",
+    "id_str": "2107609416359117027",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "After a brief but institution-eroding slop science era, it increasingly looks like we are going to have two revolutions from AI:\n1) Everything ever published will be re-read and re-judged in ways that human scientists never anticipated\n2) Novel discoveries will start to come fast",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107646599635910951",
+    "time": "2026-10-07 09:38",
+    "created_at": "Wed Oct 07 01:38:02 +0000 2026",
+    "id_str": "2107646599635910951",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Ethan, what year do you expect us to see novel discoveries released to the public?",
+    "quoted_tweet": null,
+    "url": "https://x.com/AlexDowlen/status/2107646938678276490",
+    "time": "2026-10-07 09:39",
+    "created_at": "Wed Oct 07 01:39:23 +0000 2026",
+    "id_str": "2107646938678276490",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@AlexDowlen Well, today was a start.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107647269705060669",
+    "time": "2026-10-07 09:40",
+    "created_at": "Wed Oct 07 01:40:41 +0000 2026",
+    "id_str": "2107647269705060669",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Context, OpenAI cracked or made important progress in hundreds of big problems today: https://openai.com/index/sharing-ai-progress-in-mathematics/\n\n(And I am seeing rapid increases in the ability of AI to do novel work in my field of economic sociology, with nearly autonomous research getting to top journal level)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107648160604528897",
+    "time": "2026-10-07 09:44",
+    "created_at": "Wed Oct 07 01:44:14 +0000 2026",
+    "id_str": "2107648160604528897",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "here's how quickly we move at @OpenAI:\nSept 22 - initial Decisions API prototype\nSept 29 - DevDay announcement\ntoday - launch 🚀 \n\njust two weeks from local demo to public launch",
+    "quoted_tweet": null,
+    "url": "https://x.com/stevenheidel/status/2107595534479548657",
+    "time": "Tue Oct 06 22:15:07 +0000 2026",
+    "created_at": "Tue Oct 06 22:15:07 +0000 2026",
+    "id_str": "2107595534479548657",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Completely unrelated to the rest of the ships today, but our models did solve some important math problems and the team documented it in the following blogpost. Remarkable new era of scientific progress.\n\nhttps://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107597780352950624",
+    "time": "Tue Oct 06 22:24:02 +0000 2026",
+    "created_at": "Tue Oct 06 22:24:02 +0000 2026",
+    "id_str": "2107597780352950624",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "To calibrate",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107599996225007892",
+    "time": "Tue Oct 06 22:32:51 +0000 2026",
+    "created_at": "Tue Oct 06 22:32:51 +0000 2026",
+    "id_str": "2107599996225007892",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "This will never end well LOL\n\nfeels like even if a day goes incredibly, this is like asking whether you'd like 1 cookie or 0 cookies",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Vote"
+    },
+    "url": "https://x.com/ForwardEditor/status/2107602134707376463",
+    "time": "Tue Oct 06 22:41:20 +0000 2026",
+    "created_at": "Tue Oct 06 22:41:20 +0000 2026",
+    "id_str": "2107602134707376463",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ShaneMac @poteto mind looking into this one? Could use some PRs",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107603154699173997",
+    "time": "Tue Oct 06 22:45:24 +0000 2026",
+    "created_at": "Tue Oct 06 22:45:24 +0000 2026",
+    "id_str": "2107603154699173997",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "One week since we launched dots! \n\nWe’ve been working through your feedback and shipped a bunch of improvements:\n- Faster cloud browsing\n- Fixed extra phone notifications while you’re already using ChatGPT\n- Cleaner code blocks and attachments on web\n- Fewer pauses while waiting for a reply\n- Faster sidebar loading, smoother animations and less loading jank\n- Fixed character rendering in Safari and Firefox\n- Fixed Outlook setup getting stuck\n- Clearer plan guidance + a way to retry failed activity loads\n- More stable safety banners on web\n- Fixed clipped approval buttons and oversized Gmail previews hiding approvals\n- Fixed enterprise access issues on web and when starting voice\n- Better dot organization of when to use new versus existing codex threads\n\nUp next:\n- Voice reliability (being improved everyday, but we’ll shout when it’s up to par with our expectations)\n- Increasing dot’s control of your Codex app: manage project folders, have full Codex thread context, rename threads, and more\n- Better organization to know what your dot is working on at any given moment\n- Connect your dot to multiple computers\n- Better Windows support for local computer control\n- what else?\n\nThanks for trying our product and giving us lots of feedback. Keep it coming!",
+    "quoted_tweet": null,
+    "url": "https://x.com/TheRohanVarma/status/2107613388729974839",
+    "time": "Tue Oct 06 23:26:04 +0000 2026",
+    "created_at": "Tue Oct 06 23:26:04 +0000 2026",
+    "id_str": "2107613388729974839",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@TheRohanVarma Ship ship ship",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107613966692409653",
+    "time": "Tue Oct 06 23:28:21 +0000 2026",
+    "created_at": "Tue Oct 06 23:28:21 +0000 2026",
+    "id_str": "2107613966692409653",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@devberkayy It does",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107628890550399465",
+    "time": "2026-10-07 08:27",
+    "created_at": "Wed Oct 07 00:27:40 +0000 2026",
+    "id_str": "2107628890550399465",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@stevenheidel @OpenAI This is how quickly *Steven* moves",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107647667925135663",
+    "time": "2026-10-07 09:42",
+    "created_at": "Wed Oct 07 01:42:16 +0000 2026",
+    "id_str": "2107647667925135663",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ForwardEditor Or it will end very well?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2107647946032664948",
+    "time": "2026-10-07 09:43",
+    "created_at": "Wed Oct 07 01:43:23 +0000 2026",
+    "id_str": "2107647946032664948",
+    "is_retweet": false
   }
 ]
