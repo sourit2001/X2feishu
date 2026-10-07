@@ -1,1 +1,438 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The gap between insane model capabilities and somewhat ho-hum real-world consequences of those capabilities continues to interest me. \n\nThe AI prophets seem to have nailed the rate of model improvement but overrated the near-term impact. The unemployment rate is low, financially or infrastructurally devastating cyber attacks seem blessedly rare, etc. \n\nMaybe we’re in a kind of Engel’s Pause but for real-world consequences, or maybe the better theory is some kind of Messy World Hypothesis where it’s really really hard for new technology to leave its mark, bc the world as it exists is a museum of inertias and frictions.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "After a brief but institution-eroding slop science era, it increasingly looks like we are going to have two revolutions from AI:\n1) Everything ever published will be re-read and re-judged in ways that human scientists never anticipated\n2) Novel discoveries will start to come fast"
+    },
+    "url": "https://x.com/DKThomp/status/2107827146433425412",
+    "time": "2026-10-07 21:35",
+    "created_at": "Wed Oct 07 13:35:27 +0000 2026",
+    "id_str": "2107827146433425412",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@DKThomp I don’t think this is that surprising. Human systems are messy and AI is jagged. But thr exponential is also real. The question is which one wins. https://www.oneusefulthing.org/p/the-bitter-lesson-versus-the-garbage",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2107829740602302473",
+    "time": "2026-10-07 21:45",
+    "created_at": "Wed Oct 07 13:45:46 +0000 2026",
+    "id_str": "2107829740602302473",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "OpenAI just published 722 maths papers written by a model they haven't released.\n\n372 result families across the whole field. they posed the model around 4,000 open research problems and each result took about 3 hours of thinking compute.\n\nsome of what's in there: a zero-free region for the Riemann zeta function, the Hodge Conjecture for CM abelian varieties, the irrationality exponent of π.\n\nthe repo ships the proofs in Lean where they have them, so a machine can check the work rather than you taking their word for it. they also released summaries of how the model reasoned on 10 of the results.\n\ntheir own caveat, in the README: results are at different stages of verification, not everything has a Lean formalization yet, and some of the unformalized ones could have issues.\n\nApache 2.0. all of it public.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107773201350803932",
+    "time": "2026-10-07 18:01",
+    "created_at": "Wed Oct 07 10:01:06 +0000 2026",
+    "id_str": "2107773201350803932",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107773227821088850",
+    "time": "2026-10-07 18:01",
+    "created_at": "Wed Oct 07 10:01:12 +0000 2026",
+    "id_str": "2107773227821088850",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107773239409901737",
+    "time": "2026-10-07 18:01",
+    "created_at": "Wed Oct 07 10:01:15 +0000 2026",
+    "id_str": "2107773239409901737",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "these prompts for Claude Sonnet 5.5 and Opus 5.5 are ridiculous.\n\n7 sections you paste above any task. they set the standard instead of describing the work.\n\nthe best one: if Sonnet can't crack a hard problem after a second attempt, it tells you to hand it to Opus, with the goal, the evidence and everything it already tried.\n\na few of the rules it holds:\n\n→ a request for ideas is not a request to build\n\n→ two attempts with no progress means change approach, not try again\n\n→ a progress update is not a deliverable\n\n→ once the checks pass, stop\n\nfill in the 3 lines at the top and it works on anything.\n\nsave this one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107844659276095643",
+    "time": "2026-10-07 22:45",
+    "created_at": "Wed Oct 07 14:45:03 +0000 2026",
+    "id_str": "2107844659276095643",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full Claude guide is free → https://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107844673125683586",
+    "time": "2026-10-07 22:45",
+    "created_at": "Wed Oct 07 14:45:06 +0000 2026",
+    "id_str": "2107844673125683586",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the rest of the library is at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2107844684760633485",
+    "time": "2026-10-07 22:45",
+    "created_at": "Wed Oct 07 14:45:09 +0000 2026",
+    "id_str": "2107844684760633485",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "有没有程序员来说说\n用完 Opus5.5 之后，你觉得工程师/程序员接下来的职业发展路径需要如何调整呢？\n不要吐槽，认真的讨论下",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107770242990829630",
+    "time": "2026-10-07 17:49",
+    "created_at": "Wed Oct 07 09:49:21 +0000 2026",
+    "id_str": "2107770242990829630",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 如下\n\nhttps://x.com/hylarucoder/status/2106369608907362542",
+    "quoted_tweet": {
+      "author": "海拉鲁编程客",
+      "username": "hylarucoder",
+      "text": "国庆在家做了个实验：把我做视频时常用的那部分流程拆出来，写成一个简单的视频编辑器。\n\n它只跑在 Mac 上，程序本体压缩后约 2 MB。\n\n这个体积夸张到什么程度，你拿着索尼 A7M4 给三上老师拍一张照片也得 70MB 的大小，接近 35 倍，苹果上最好用的视频剪辑软件 Final Cut Pro  4GB 左右，接近两千多倍的大小。而 FCPX 对我来说，并不比这个 2MB 的软件更好用。\n\n麻雀虽小但五脏俱全, 2D、3D、常用特效、MCP 协议都支持, 甚至支持用 js 来写视频（你并不需要一个 chrome）。顺手移植了前几天风靡的 PDoom  视频。\n\n以渲染 @_mexicat 的 PDoom 为例，我的 M2 Max 64GB的机器上测渲染 4K 60fps，带视频/音频/合成音效 + 各种炫酷的动效，4 个 worker 跑差不多153 帧每秒。（PS: 还有一些特性没有移植过来，但第一版的速度相当吓人）\n\n做完这个实验有个感受：AI 在很长一段时间内恐怕依然取代不了专业程序员，但很多领域专家可能不再需要那么专业、那么通用的软件。\n\n非 AI 时代，专业软件为了照顾所有人的需求，功能做得很全，学习门槛也就跟着上去了，而用户学完才能从这个通用且复杂的软件中总结出适合自己工作流。做视频时 打开 FCPX + Apple Motion , 经常因为这玩意要跳来跳去点点戳戳而学的很疲惫, 而每次剪辑都要做很多 setup，从做内容的角度上说，这部分就纯脏活累活。\n\n我做的是 visual explain 类的视频，核心只有一件事：把问题讲清楚。再适当加一点真人讲解，让视频更值得被信任。这条流程里真正用得上的功能，只是那些大软件里很小的一部分。掌握 AE/FCPX 并不是我的目的，他只是服务于我内容的一个环节。\n\n工具和限制决定了你能表达什么。现在可以反过来：先想清楚自己要表达什么，再让 AI 帮你造一个刚好够用的工具。\n\n刚好够用就是这个时代的 AI 开发底色。\n\n顶级的专业程序员暂时依然稀缺，但\"专业而通用\"的软件，可能不再是每个人的必选项。\n\n欢迎来到新时代！"
+    },
+    "url": "https://x.com/hylarucoder/status/2107770834345680988",
+    "time": "2026-10-07 17:51",
+    "created_at": "Wed Oct 07 09:51:42 +0000 2026",
+    "id_str": "2107770834345680988",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@hylarucoder 顶级的专业程序员，到fable5.5恐怕也…",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107771474878849444",
+    "time": "2026-10-07 17:54",
+    "created_at": "Wed Oct 07 09:54:14 +0000 2026",
+    "id_str": "2107771474878849444",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "发布一个实用 skill，叫「播客转文章」。\n\n做这个 skill 的起源是，我们录完 Next Token 之后想把它当文章发出去，但试了两种办法效果都不好。\n\n照录音直接整理，通篇「某某说……某某说……」，读着跟会议纪要一样。扔给 AI 润色吧，数字和细节全没了，只剩一堆漂亮空话。\n\n后来想明白了，是节奏不对。逐字稿是按发言人和时间往下走的，文章不是，文章按话题走的，所以需要拜托时间线重新梳理。\n\n但是，又一个担心是砍着砍着就没信息了，所以定了一条规则：数字和原话一条都不砍。该砍的是跟本节没关系的东西，段子啊，顺手蹭的新闻啊，主持人拿自家产品举例子啊。\n\n实测下来阅读量和互动都不错，用户反馈也没有人吐槽 ai 味儿（毕竟是基于真实录音的）。\n\n你要是也录播客、听播客，可以试试。\n免费开源 MIT：https://github.com/orange2ai/podcast-to-article",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107805376423104559",
+    "time": "2026-10-07 20:08",
+    "created_at": "Wed Oct 07 12:08:57 +0000 2026",
+    "id_str": "2107805376423104559",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 往业务靠，为业务结果负责吧。\n\n我们目前已经有很大一部分时间花在数据分析上。虽然目前 AI 能辅助分析，但是更深层次的洞察，并基于分析结果把事情落地还是挺难的。\n\n（当然，AI 的一部分卡点确实还是是上下文）",
+    "quoted_tweet": null,
+    "url": "https://x.com/zhungxunwi1/status/2107805981258514482",
+    "time": "2026-10-07 20:11",
+    "created_at": "Wed Oct 07 12:11:21 +0000 2026",
+    "id_str": "2107805981258514482",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 橘子老师 这底下看着有很多ai回复啊🥲 还是老马的激励太香了",
+    "quoted_tweet": null,
+    "url": "https://x.com/heng_enn/status/2107808371965678043",
+    "time": "2026-10-07 20:20",
+    "created_at": "Wed Oct 07 12:20:51 +0000 2026",
+    "id_str": "2107808371965678043",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "假期用 Opus5.5 自己做了一个成熟产品，web、iPhone、Apple TV、MacAPP，效率极高无比 模型确实也非常强大。但不论多强，还是老样子，模型没有自我意识和自主性，他能把产品一句话做到六十分，七十分，但是剩余的 20 分非常难拿，需要人不断的去验证，判断，提出改进，它来落地。拿播放器这件事来说，它写得出来播放器，但是在真实世界里人观看感受如何，起播快吗，调色舒服吗，发热吗，卡吗？这些对体验的追求，模型目前还没有，需要人给输入，让他自我 loop。还有做成完整产品上线要搞定的很多部署运维，它能做能帮忙，但是自己还没有自主性自我全部真的完成，至少目前还不行，Fable5.5 感觉也不会行。能直接拿结果的资深工程师还是很难被替代的。具体我几天做成了什么样，好奇可以看这个https://x.com/pofey1/status/2105990802547581380?s=46&t=unlm1EaUBa69t6FkS_2b9g",
+    "quoted_tweet": {
+      "author": "牛肉是只猫",
+      "username": "pofey1",
+      "text": "Opus 5.5让我自己几天做了过去一整个团队的工作，跟它合作太愉快了。假期用了几天的时间，构建了一整套Web、iPhone App、Apple TV多终端的自托管智能影音媒体服务器，写出来的播放器体验甚至超越Infuse。苹果商店的上架，到最后网站对外打包发布，LOGO设计，端到端所有的事全部都由它帮我搞定，它实在太聪明了，而且审美非常好！而且这不是demo玩具，是成熟度很高的可用产品。\n开始实践的过程我也一直在思考Agent是否真的会干掉所有的软件。最初用AINative的思路去重新构建Emby，Plex这些媒体服务器，但从一个Chat开始，GUI功能却越做越多。就影音服务器这件事，证明了还是需要传统SOP流程和GUI，不过Agent要原生长在软件里，让AI悄无声息的融入软件里，无处不在，所以我参考pi agent内置了一个自助通用智能体。\n家里有NAS，喜欢看电影、收藏电影的朋友，欢迎来玩一玩，全部开源，全部免费！\nhttps://movieclaw.io/\nhttps://github.com/movieclaw/movieclaw"
+    },
+    "url": "https://x.com/pofey1/status/2107811453248110793",
+    "time": "2026-10-07 20:33",
+    "created_at": "Wed Oct 07 12:33:06 +0000 2026",
+    "id_str": "2107811453248110793",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@zhungxunwi1 嗯嗯 从工程到业务 更为结果负责了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107813070647300333",
+    "time": "2026-10-07 20:39",
+    "created_at": "Wed Oct 07 12:39:31 +0000 2026",
+    "id_str": "2107813070647300333",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@pofey1 感觉也很快了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107813137244393852",
+    "time": "2026-10-07 20:39",
+    "created_at": "Wed Oct 07 12:39:47 +0000 2026",
+    "id_str": "2107813137244393852",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@heng_enn 真的无语了，ai伪人为啥这么喜欢这条。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2107813872602435718",
+    "time": "2026-10-07 20:42",
+    "created_at": "Wed Oct 07 12:42:43 +0000 2026",
+    "id_str": "2107813872602435718",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Petco Park singing Blink 182’s “All the small things” with Tom DeLonge joining them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/michaeljduarte/status/2107694199030390892",
+    "time": "2026-10-07 12:47",
+    "created_at": "Wed Oct 07 04:47:10 +0000 2026",
+    "id_str": "2107694199030390892",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "🎸 @blink182's @tomdelonge in attendance tonight as Petco Park sings \"All The Small Things\" during Game 3  🎶",
+    "quoted_tweet": null,
+    "url": "https://x.com/MLBONFOX/status/2107694638786125860",
+    "time": "2026-10-07 12:48",
+    "created_at": "Wed Oct 07 04:48:55 +0000 2026",
+    "id_str": "2107694638786125860",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Pretty cool scene with Tom DeLonge tearing up as he watched and heard Petco Park sing “All The Small Things”. So awesome ",
+    "quoted_tweet": null,
+    "url": "https://x.com/editti22/status/2107694857531896229",
+    "time": "2026-10-07 12:49",
+    "created_at": "Wed Oct 07 04:49:47 +0000 2026",
+    "id_str": "2107694857531896229",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Tom DeLonge from Blink-182 singing along to \"All the Small Things\" at the Padres game 🎤",
+    "quoted_tweet": null,
+    "url": "https://x.com/YahooSports/status/2107696011103678699",
+    "time": "2026-10-07 12:54",
+    "created_at": "Wed Oct 07 04:54:22 +0000 2026",
+    "id_str": "2107696011103678699",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2107709271333085588",
+    "time": "2026-10-07 13:47",
+    "created_at": "Wed Oct 07 05:47:04 +0000 2026",
+    "id_str": "2107709271333085588",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@michaeljduarte Another angle: https://x.com/mreflow/status/2107709271333085588",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)"
+    },
+    "url": "https://x.com/mreflow/status/2107715419125764521",
+    "time": "2026-10-07 14:11",
+    "created_at": "Wed Oct 07 06:11:30 +0000 2026",
+    "id_str": "2107715419125764521",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@MLBONFOX @blink182 @tomdelonge I saw myself in the background of that video. Here's my angle: https://x.com/mreflow/status/2107709271333085588",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)"
+    },
+    "url": "https://x.com/mreflow/status/2107716495975555397",
+    "time": "2026-10-07 14:15",
+    "created_at": "Wed Oct 07 06:15:46 +0000 2026",
+    "id_str": "2107716495975555397",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Look! I’m famous!",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2107720369524342943",
+    "time": "2026-10-07 14:31",
+    "created_at": "Wed Oct 07 06:31:10 +0000 2026",
+    "id_str": "2107720369524342943",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Tom DeLonge is used to going to Petco Park and hearing his Blink 182 jam “All the Small Things” sang by the whole stadium.  But last night during a playoff game, he got a bit emotional about it with tears in his eyes.  He even joined the crowd towards the end and sang in the camera.  Cool stuff",
+    "quoted_tweet": null,
+    "url": "https://x.com/nut_history/status/2107802298583851349",
+    "time": "2026-10-07 19:56",
+    "created_at": "Wed Oct 07 11:56:43 +0000 2026",
+    "id_str": "2107802298583851349",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "It’s one thing to have a crowd sing your song and your own concert but to have a full baseball crowd rocking out to your music but feel so cool. Loved this shot from last night. Love that song. Love Petco. ",
+    "quoted_tweet": null,
+    "url": "https://x.com/RyanCohen24/status/2107810482522398897",
+    "time": "2026-10-07 20:29",
+    "created_at": "Wed Oct 07 12:29:14 +0000 2026",
+    "id_str": "2107810482522398897",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow @Padres @tomdelonge And he’s wearing a Brewer gear! Smart.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ThretLvlMidnght/status/2107820712086147113",
+    "time": "2026-10-07 21:09",
+    "created_at": "Wed Oct 07 13:09:53 +0000 2026",
+    "id_str": "2107820712086147113",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Blink-182's Tom DeLonge led Petco Park in All The Small Things last night, and as always, it rocked\n\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/barstoolsports/status/2107844482171625675",
+    "time": "2026-10-07 22:44",
+    "created_at": "Wed Oct 07 14:44:21 +0000 2026",
+    "id_str": "2107844482171625675",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@ThretLvlMidnght @Padres @tomdelonge He was wearing blue Padres gear. Don’t know why he chose blue but it was definitely Padres.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2107855555125747731",
+    "time": "2026-10-07 23:28",
+    "created_at": "Wed Oct 07 15:28:21 +0000 2026",
+    "id_str": "2107855555125747731",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@nut_history https://x.com/mreflow/status/2107709271333085588?s=46",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)"
+    },
+    "url": "https://x.com/mreflow/status/2107857145324790042",
+    "time": "2026-10-07 23:34",
+    "created_at": "Wed Oct 07 15:34:40 +0000 2026",
+    "id_str": "2107857145324790042",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@RyanCohen24 Such an amazing night! https://x.com/mreflow/status/2107709271333085588?s=46",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)"
+    },
+    "url": "https://x.com/mreflow/status/2107857238555816146",
+    "time": "2026-10-07 23:35",
+    "created_at": "Wed Oct 07 15:35:02 +0000 2026",
+    "id_str": "2107857238555816146",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@barstoolsports So awesome! https://x.com/mreflow/status/2107709271333085588?s=46",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)"
+    },
+    "url": "https://x.com/mreflow/status/2107857381438939544",
+    "time": "2026-10-07 23:35",
+    "created_at": "Wed Oct 07 15:35:36 +0000 2026",
+    "id_str": "2107857381438939544",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@editti22 Stood right behind him for it. Was awesome! https://x.com/mreflow/status/2107709271333085588?s=46",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)"
+    },
+    "url": "https://x.com/mreflow/status/2107859800902230229",
+    "time": "2026-10-07 23:45",
+    "created_at": "Wed Oct 07 15:45:13 +0000 2026",
+    "id_str": "2107859800902230229",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@YahooSports https://x.com/mreflow/status/2107709271333085588?s=46",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "Just went to the @Padres game tonight. It’s tradition to sing “All the Small Things” at the game. Sat right behind @tomdelonge for it. Pretty surreal. (And the Padres won)"
+    },
+    "url": "https://x.com/mreflow/status/2107863587691827648",
+    "time": "2026-10-08 00:00",
+    "created_at": "Wed Oct 07 16:00:16 +0000 2026",
+    "id_str": "2107863587691827648",
+    "is_retweet": false
+  }
+]
