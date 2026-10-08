@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2108272287908860377",
+    "time": "Thu Oct 08 19:04:17 +0000 2026",
+    "created_at": "Thu Oct 08 19:04:17 +0000 2026",
+    "id_str": "2108272287908860377",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit People want it to be a bubble so bad",
+    "quoted_tweet": null,
+    "url": "https://x.com/matttfoster/status/2108272468603576739",
+    "time": "Thu Oct 08 19:05:00 +0000 2026",
+    "created_at": "Thu Oct 08 19:05:00 +0000 2026",
+    "id_str": "2108272468603576739",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit The underliying financing issue is something that won't be solved",
+    "quoted_tweet": null,
+    "url": "https://x.com/ps_georg/status/2108272575377965218",
+    "time": "Thu Oct 08 19:05:26 +0000 2026",
+    "created_at": "Thu Oct 08 19:05:26 +0000 2026",
+    "id_str": "2108272575377965218",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Real bubble is in VC land with private companies like Instinct… $10B valuations off 100k users while $SNAP is worth less with close to 1 Billion MAU. \n\nSupply chain stocks aren’t a bubble though, if anything names like $AAOI and others are very undervalued relative to forward growth. \n\nAnd you have demand visibility from hyperscalers extending multiple years…",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2108275499772649882",
+    "time": "Thu Oct 08 19:17:03 +0000 2026",
+    "created_at": "Thu Oct 08 19:17:03 +0000 2026",
+    "id_str": "2108275499772649882",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Hyperscalers are the ones ultimately funding the AI buildout. As seen with $AMZN to $GOOGL earnings commentary, the ROI is seen as wildly attractive.\n\nEven $MSFT said they’d be FCF positive during the buildout period. \n\nI was more worried about counterparty risk until OpenAI went out and raised like $168B recently.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2108277973598232851",
+    "time": "Thu Oct 08 19:26:53 +0000 2026",
+    "created_at": "Thu Oct 08 19:26:53 +0000 2026",
+    "id_str": "2108277973598232851",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "At the very start of my grad school in 2005, I wrote paper about the original computer hacking/phreaking/BBS scene: hackers were often driven by curiosity but the tools they made were widely exploited by \"Script Kiddies\" who caused most damage & chaos\n\nAnyhow, about AI hacking...",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108242362032177597",
+    "time": "Thu Oct 08 17:05:23 +0000 2026",
+    "created_at": "Thu Oct 08 17:05:23 +0000 2026",
+    "id_str": "2108242362032177597",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This document is going to be an assigned reading in college classes that cover this moment in time, there's a lot happening in a few paragraphs... https://www.ahmath.org/statements",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108248166210720107",
+    "time": "Thu Oct 08 17:28:26 +0000 2026",
+    "created_at": "Thu Oct 08 17:28:26 +0000 2026",
+    "id_str": "2108248166210720107",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Interesting to see, given the controversy over the OpenAI release of a series of proofs and what it means for the discipline of mathematics, that at least some of the OpenAI proofs seem to have kicked off extremely rapid iterative advances from a wide community of collaborators.",
+    "quoted_tweet": {
+      "author": "Doug Colkitt",
+      "username": "0xdoug",
+      "text": "Validated and merged Rohan's PR. Big gain on a really difficult regime (that frankly I was stuck at). Incredible work.\n\nκ = 2⁻¹⁵  (tightened from κ = 2⁻¹⁸²)\n\nA 500 thousand fold improvement over the previous result and a 2 ^ 167 fold improvement over the original OpenAI result.\n\nThis result was a true community effort that combined techniques from a number of contributors. I want to take time to highlight each of them, but for now getting these results verified and published as fast as possible so everyone working on the problem is at the leading edge."
+    },
+    "url": "https://x.com/emollick/status/2108251560752857474",
+    "time": "Thu Oct 08 17:41:56 +0000 2026",
+    "created_at": "Thu Oct 08 17:41:56 +0000 2026",
+    "id_str": "2108251560752857474",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Less than 4 years later and the Pope & the world’s greatest mathematicians & the President are posting a lot about the direct successor to this model and what it means for humanity.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Write a rhyming wedding toast where the bride is a flying elf warrior and the groom is a potato."
+    },
+    "url": "https://x.com/emollick/status/2108292080145748160",
+    "time": "Thu Oct 08 20:22:56 +0000 2026",
+    "created_at": "Thu Oct 08 20:22:56 +0000 2026",
+    "id_str": "2108292080145748160",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Everyone on X is talking about AI harnesses.\n\nAlmost nobody explains how to actually build one.\n\nSo we wrote the guide: harness engineering, start to finish.\n\nGrab it free and own the topic. We'll keep updating it as the field moves.\n\nhttps://godofprompt.ai/guides/harness-engineering-mastery-guide?utm_source=x&utm_medium=paid_social&utm_campaign=giveaway&utm_content=harness",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108273391061061740",
+    "time": "Thu Oct 08 19:08:40 +0000 2026",
+    "created_at": "Thu Oct 08 19:08:40 +0000 2026",
+    "id_str": "2108273391061061740",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What's inside:\n\n→ Why strong models still fail, and what to fix first\n→ An instruction file your agent actually reads\n→ Memory that survives sessions\n→ Verification it can't talk its way past\n→ 12 template files to paste into any repo\n\nFree, and updated as harnesses evolve.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108273403111358869",
+    "time": "Thu Oct 08 19:08:43 +0000 2026",
+    "created_at": "Thu Oct 08 19:08:43 +0000 2026",
+    "id_str": "2108273403111358869",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We put out guides like this regularly on AI agents, prompting, and building with LLMs.\n\nFollow @godofprompt so you don't miss the next one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108273414742118567",
+    "time": "Thu Oct 08 19:08:46 +0000 2026",
+    "created_at": "Thu Oct 08 19:08:46 +0000 2026",
+    "id_str": "2108273414742118567",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Claude Dashboards and Claude Motion are in beta today.\n\nAsk Claude to turn your data into live dashboards and your ideas into animated explainers.",
+    "quoted_tweet": null,
+    "url": "https://x.com/claudeai/status/2108271552991252810",
+    "time": "Thu Oct 08 19:01:22 +0000 2026",
+    "created_at": "Thu Oct 08 19:01:22 +0000 2026",
+    "id_str": "2108271552991252810",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "It was hilarious at first, funny at second but it’s starting to get tiring and borderline annoying, Grok Bot and Codex/Dots not stopping at throwing punches at one another",
+    "quoted_tweet": {
+      "author": "Chris",
+      "username": "ChrisGPT",
+      "text": "There are two titans, at two, trillion dollar companies going at it at 3 am.\n\nAre you not entertained?!!?!?"
+    },
+    "url": "https://x.com/GergelyOrosz/status/2108138915823755642",
+    "time": "Thu Oct 08 10:14:19 +0000 2026",
+    "created_at": "Thu Oct 08 10:14:19 +0000 2026",
+    "id_str": "2108138915823755642",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@GergelyOrosz Back to work then @poteto. May the b/dots thrive in this world.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108199520836485472",
+    "time": "Thu Oct 08 14:15:08 +0000 2026",
+    "created_at": "Thu Oct 08 14:15:08 +0000 2026",
+    "id_str": "2108199520836485472",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 4/\n\nWe have improved steering to be instant, leading to the model now reacting much faster to adjustments you make, allowing you to course-correct direction in realtime and not have the model waste effort.\n\nAlso releasing GPT-6.1 Sol ultrafast. The two work very well together.",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "Ultrafast is rolling out today for GPT-6.1 Sol in the API, Codex, and ChatGPT Work.\n\nNear-Astra intelligence at up to 8x faster speeds than Sol Standard, so you can build as fast as the ideas come."
+    },
+    "url": "https://x.com/thsottiaux/status/2108275041276420573",
+    "time": "Thu Oct 08 19:15:14 +0000 2026",
+    "created_at": "Thu Oct 08 19:15:14 +0000 2026",
+    "id_str": "2108275041276420573",
+    "is_retweet": false
+  }
+]
