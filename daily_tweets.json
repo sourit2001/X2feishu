@@ -368,5 +368,120 @@
     "created_at": "Thu Oct 08 01:12:27 +0000 2026",
     "id_str": "2108002548959572340",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Grok bot 最近真猛啊！\n\n现在可以搜索、阅读甚至监控指定的推特内容\n\n比如你可以让他在 tibo 重置 Codex 额度的时候通知你\n\n这些都是免费的，不通过以前的 xapi 实现",
+    "quoted_tweet": {
+      "author": "Grok Bot",
+      "username": "bot",
+      "text": "Grok Bot can now search, read, and monitor X."
+    },
+    "url": "https://x.com/op7418/status/2108010689889767493",
+    "time": "Thu Oct 08 01:44:48 +0000 2026",
+    "created_at": "Thu Oct 08 01:44:48 +0000 2026",
+    "id_str": "2108010689889767493",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Anthropic 这个决定真是王炸\n\n他们现在会给每个 Max 和 Team 用户直接送对应额度的 API 金额\n\n我把对应额度和怎么领取做了两张图\n\n这个 API 你在哪里用都行，只要这个产品支持输入 API\n\n结合昨天晚上发布的 haiku 5.5 的价格，这 100 美金相当够用了\n\n这下轮到 OpenAI 难受了",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "We’re rolling out monthly Claude Platform API credits for Max and Team plans:\n\nMax 5x: $100\nMax 20x: $200\nTeam: up to $500, pooled\n\nWorks on any model, including Haiku 5.5, in your code or third-party harnesses. \n\nHow it works and full terms: https://support.claude.com/en/articles/17154008-monthly-api-credits-for-max-and-team-plans"
+    },
+    "url": "https://x.com/op7418/status/2108015400286048474",
+    "time": "Thu Oct 08 02:03:31 +0000 2026",
+    "created_at": "Thu Oct 08 02:03:31 +0000 2026",
+    "id_str": "2108015400286048474",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Anthropic 这个 Haiku 5.5 真是盯着中国的这几个甜点级模型打，太恶心了！\n\n我对比了一下它和几个中国竞品的价格和测试评分\n\n从价格来看，它比 DeepSeek-V4.1 flash 和智谱的 GLM 5.3 flash 都便宜\n\n从测试集和一些分数来看，在 Terminal Bench 4.0 上，AA 的测试比 5.3 flash 高一分，也跟 5.3 flash 相同，比其他两个更高",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108017913030717443",
+    "time": "Thu Oct 08 02:13:30 +0000 2026",
+    "created_at": "Thu Oct 08 02:13:30 +0000 2026",
+    "id_str": "2108017913030717443",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Grok Bot 现在可以直接搜索和监控X上所有内容\n\n不再需要你付费API\n\n甚至无需 X 账户或连接器…",
+    "quoted_tweet": {
+      "author": "Grok Bot",
+      "username": "bot",
+      "text": "Grok Bot can now search, read, and monitor X."
+    },
+    "url": "https://x.com/xiaohu/status/2107984153832817125",
+    "time": "2026-10-08 07:59",
+    "created_at": "Wed Oct 07 23:59:21 +0000 2026",
+    "id_str": "2107984153832817125",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/BobMute2/status/2107971115515887700",
+    "time": "2026-10-08 07:07",
+    "created_at": "Wed Oct 07 23:07:32 +0000 2026",
+    "id_str": "2107971115515887700",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BobMute2 Cool one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2107994788402245641",
+    "time": "Thu Oct 08 00:41:36 +0000 2026",
+    "created_at": "Thu Oct 08 00:41:36 +0000 2026",
+    "id_str": "2107994788402245641",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hi Kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/PatHoliday15/status/2108015417986056330",
+    "time": "Thu Oct 08 02:03:35 +0000 2026",
+    "created_at": "Thu Oct 08 02:03:35 +0000 2026",
+    "id_str": "2108015417986056330",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beautiful surreal art",
+    "quoted_tweet": {
+      "author": "Pat Holiday",
+      "username": "PatHoliday15",
+      "text": "@icreatelife Hi Kris"
+    },
+    "url": "https://x.com/icreatelife/status/2108018493807374817",
+    "time": "Thu Oct 08 02:15:48 +0000 2026",
+    "created_at": "Thu Oct 08 02:15:48 +0000 2026",
+    "id_str": "2108018493807374817",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PatHoliday15 Absolutely LOVE this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108018520894181663",
+    "time": "Thu Oct 08 02:15:55 +0000 2026",
+    "created_at": "Thu Oct 08 02:15:55 +0000 2026",
+    "id_str": "2108018520894181663",
+    "is_retweet": false
   }
 ]
