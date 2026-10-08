@@ -1297,5 +1297,145 @@
     "created_at": "Wed Oct 07 20:43:03 +0000 2026",
     "id_str": "2107934752506589285",
     "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit 股神，这个价你会加仓吗，已经跌倒底底底了😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/UjenA93UTP63896/status/2108068846229954954",
+    "time": "Thu Oct 08 05:35:53 +0000 2026",
+    "created_at": "Thu Oct 08 05:35:53 +0000 2026",
+    "id_str": "2108068846229954954",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "$CCXI looks like it's going public Q4 2026. And my hope is that it sort of looks like $OKLO if they generate enough excitement. \n\nWatched the investor presentation the other day, just waiting for the public listing anytime soon (I personally added some the other day). \n\nBig fan of humanoids, pretty confident physical AI shift is coming next. \n\nI'm personally not looking too much about the price action while it's in its filing phase, fun usually begins after ticker change. We'll see what happens",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2108111907819499646",
+    "time": "Thu Oct 08 08:27:00 +0000 2026",
+    "created_at": "Thu Oct 08 08:27:00 +0000 2026",
+    "id_str": "2108111907819499646",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I don't recommend anyone scramble to move their funds to new wallets today. But we should take the risks to cryptography from AI-accelerated math seriously, and minimize our exposure to not just quantum-vulnerable cryptography, but also potentially AI-vulnerable cryptography.\n\nThe core new area of risk from this viewpoint is, unfortunately, ML-DSA / FHE / lattices.\n\n(and it's also another reason, along with quantum, why ECDSA might fall even faster than expected, hence the \"fresh address\" recommendation)\n\nSo far most people have been in the mode of thinking \"elliptic curves broken, hashes safe, lattices safe\". But there is a good chance that the concrete security of lattices will take serious hits from the next two years of AI math.\n\nThe basic threat model is: factoring is something that naively takes 2^(n/2) time, but over decades smart people have found and optimized number field sieves, and degraded that to 2^O(n^(1/3)), which is why RSA keys and signatures need to be ~400 bytes (and not 64 bytes). What if there are skeletons in the closet like that, both for elliptic curves and lattices, that we are simply not smart enough to discover - but bots soon will be?\n\nThis is a major part of the reason why for the past year ethereum's lean roadmap has been going in the \"hash-only\" direction: no lattices, no ML-DSA, no Falcon, no lattice-based commitments inside ZK proofs, etc. Signatures in lean ethereum are all hash-based, either WOTS or SPHINCS-.\n\nFor signatures and proofs, we already know how to go hash-only. The bigger challenge is for *public-key encryption* - and this goes far beyond blockchains. Secure communication, anonymizing protocols, lots of things need public-key encryption.\n\nAnd unfortunately there are long-standing mathematical theorems showing why public-key encryption cannot be done with hashes alone. You have to have some kind of trapdoor object that has at least one form of usable \"structure\" - either group theory (incl. isogenies) or lattices or code-based or potentially in the future even more newfangled and spooky things (local mixing?). But for anything that has structure, you should assume that AI will make at least some progress in breaking that structure. Here, one reasonable inference is that if you want to make something plausibly long-term secure, multiply the key sizes by 10.\n\nTo me that's a very plausible world and something not at all extreme to predict. If AI will bring us 50 years of math in 2 years, then that 50 years of math may very plausibly include a \"naive factoring -> GNFS\" level of improvement to our ability to break lattices. In that world, lattices will still exist, but they will have to be significantly bigger to guarantee the same level of safety.\n\nAnd at those new larger sizes, hash-based constructions will beat lattice-based constructions on concrete efficiency in every use case where hash-based constructions are possible at all.\n\nTheoretically, of course it's possible that hashes are broken too (eg. P = NP would imply that). But I think P = NP is very unlikely. And intuitively, it's much more likely that a mathematical object has exactly no exploitable structure (like hashes are intended to), than that a mathematical object has exactly ~3 forms of exploitable structure (for elliptic curves: associativity, Schoof, pairings) and not some secret fourth form of structure we have not yet discovered that greatly degrades its security (for elliptic curves, ECDLP and pairing security). Similar for LWE, SVP, RLWE and the zoo of lattice problems.\n\nFor this reason, we do not yet see any reason to worry and start padding the byte size of hashes (if we start to worry more, we would pad the round count first before doing anything to the byte size).\n\nConcrete TLDR, my own personal views:\n\n* Hash-based > lattice-based, in those situations where hash-based is possible at all\n* For anything lattice-based, be much more paranoid on param sizes. Remember that blockchains are only a small portion of the cryptography story; this point goes far beyond blockchains and applies to eg. access to websites, secure messaging, Tor / VPNs ...\n* For privacy protocols, strongly favor NOT putting encrypted notes onchain. Instead, send them offchain through some third-party mechanism.\n* If it's not difficult for you, keeping your funds in addresses which have not yet been used to make a transaction is a good idea. If it's easy for you, do it. **But be careful about migrations; I personally have lost more money in botched migrations than I have lost in all hacks combined**.\n* For multisig wallets, doing confirmations offchain is better than onchain, because this way the signatures of signer wallets do not get exposed to the public, so if ECDSA falls to AI much faster than expected, at least the multisig \"gracefully degrades\" to a 1-of-1 where the 1 is whoever was gathering the signatures - a much better place to be than \"anyone can take the money\"\n https://firefly.social/post/x/2107837081313505768",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2107976296320106851",
+    "time": "2026-10-08 07:28",
+    "created_at": "Wed Oct 07 23:28:08 +0000 2026",
+    "id_str": "2107976296320106851",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Correction: for multisigs the ideal \"safe\" rule is that you want each signer to change their key after each operation.\n\n(This is making an implicit assumption that ECDSA might become weak, but not to the point where any crack of it would be literally instant so you would literally have to worry about eg. in-mempool frontrunning)\n\nYou definitely still want to gather sigs offchain if possible, to minimize the number of hours between \"sig revealed\" and \"key no longer active\"\n\nBut again: it's very easy to lose funds from a misconfigured rushed upgrade, so ... don't rush anything.",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "I don't recommend anyone scramble to move their funds to new wallets today. But we should take the risks to cryptography from AI-accelerated math seriously, and minimize our exposure to not just quantum-vulnerable cryptography, but also potentially AI-vulnerable cryptography.\n\nThe core new area of risk from this viewpoint is, unfortunately, ML-DSA / FHE / lattices.\n\n(and it's also another reason, along with quantum, why ECDSA might fall even faster than expected, hence the \"fresh address\" recommendation)\n\nSo far most people have been in the mode of thinking \"elliptic curves broken, hashes safe, lattices safe\". But there is a good chance that the concrete security of lattices will take serious hits from the next two years of AI math.\n\nThe basic threat model is: factoring is something that naively takes 2^(n/2) time, but over decades smart people have found and optimized number field sieves, and degraded that to 2^O(n^(1/3)), which is why RSA keys and signatures need to be ~400 bytes (and not 64 bytes). What if there are skeletons in the closet like that, both for elliptic curves and lattices, that we are simply not smart enough to discover - but bots soon will be?\n\nThis is a major part of the reason why for the past year ethereum's lean roadmap has been going in the \"hash-only\" direction: no lattices, no ML-DSA, no Falcon, no lattice-based commitments inside ZK proofs, etc. Signatures in lean ethereum are all hash-based, either WOTS or SPHINCS-.\n\nFor signatures and proofs, we already know how to go hash-only. The bigger challenge is for *public-key encryption* - and this goes far beyond blockchains. Secure communication, anonymizing protocols, lots of things need public-key encryption.\n\nAnd unfortunately there are long-standing mathematical theorems showing why public-key encryption cannot be done with hashes alone. You have to have some kind of trapdoor object that has at least one form of usable \"structure\" - either group theory (incl. isogenies) or lattices or code-based or potentially in the future even more newfangled and spooky things (local mixing?). But for anything that has structure, you should assume that AI will make at least some progress in breaking that structure. Here, one reasonable inference is that if you want to make something plausibly long-term secure, multiply the key sizes by 10.\n\nTo me that's a very plausible world and something not at all extreme to predict. If AI will bring us 50 years of math in 2 years, then that 50 years of math may very plausibly include a \"naive factoring -> GNFS\" level of improvement to our ability to break lattices. In that world, lattices will still exist, but they will have to be significantly bigger to guarantee the same level of safety.\n\nAnd at those new larger sizes, hash-based constructions will beat lattice-based constructions on concrete efficiency in every use case where hash-based constructions are possible at all.\n\nTheoretically, of course it's possible that hashes are broken too (eg. P = NP would imply that). But I think P = NP is very unlikely. And intuitively, it's much more likely that a mathematical object has exactly no exploitable structure (like hashes are intended to), than that a mathematical object has exactly ~3 forms of exploitable structure (for elliptic curves: associativity, Schoof, pairings) and not some secret fourth form of structure we have not yet discovered that greatly degrades its security (for elliptic curves, ECDLP and pairing security). Similar for LWE, SVP, RLWE and the zoo of lattice problems.\n\nFor this reason, we do not yet see any reason to worry and start padding the byte size of hashes (if we start to worry more, we would pad the round count first before doing anything to the byte size).\n\nConcrete TLDR, my own personal views:\n\n* Hash-based > lattice-based, in those situations where hash-based is possible at all\n* For anything lattice-based, be much more paranoid on param sizes. Remember that blockchains are only a small portion of the cryptography story; this point goes far beyond blockchains and applies to eg. access to websites, secure messaging, Tor / VPNs ...\n* For privacy protocols, strongly favor NOT putting encrypted notes onchain. Instead, send them offchain through some third-party mechanism.\n* If it's not difficult for you, keeping your funds in addresses which have not yet been used to make a transaction is a good idea. If it's easy for you, do it. **But be careful about migrations; I personally have lost more money in botched migrations than I have lost in all hacks combined**.\n* For multisig wallets, doing confirmations offchain is better than onchain, because this way the signatures of signer wallets do not get exposed to the public, so if ECDSA falls to AI much faster than expected, at least the multisig \"gracefully degrades\" to a 1-of-1 where the 1 is whoever was gathering the signatures - a much better place to be than \"anyone can take the money\"\n https://firefly.social/post/x/2107837081313505768"
+    },
+    "url": "https://x.com/VitalikButerin/status/2108046549020557482",
+    "time": "Thu Oct 08 04:07:17 +0000 2026",
+    "created_at": "Thu Oct 08 04:07:17 +0000 2026",
+    "id_str": "2108046549020557482",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As a researcher who did early work on the productivity impacts of AI chatbots using RCTs, I’d note a lack of similar studies since the dawn of true agents last fall\n\nPartially that is newness & partially research design challenges, but I suspect we are missing some large effects.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108170825077531112",
+    "time": "Thu Oct 08 12:21:07 +0000 2026",
+    "created_at": "Thu Oct 08 12:21:07 +0000 2026",
+    "id_str": "2108170825077531112",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The few attempts to measure similar things (METR Long Tasks, GDPval) all became saturated earlier this year as AIs began to do days of work at a high quality level.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108172860170936830",
+    "time": "Thu Oct 08 12:29:12 +0000 2026",
+    "created_at": "Thu Oct 08 12:29:12 +0000 2026",
+    "id_str": "2108172860170936830",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think I wrote exactly that, and it is still right. Organizations are a form of narrow superintelligence. My university, or Walmart, can do things that a human cannot, often using complex processes no one designed explicitly.\n\nI will go further: the failure to deeply consider how to make AI work together with existing organizational superintelligences is a big reason why we have not yet seen any large impact of AI on scientific discovery or economic productivity despite high levels of AI ability.",
+    "quoted_tweet": {
+      "author": "Samuel Hammond 🦉",
+      "username": "hamandcheese",
+      "text": "Reminiscing about when people used to say dumb shit like \"we already have superintelligence, they're called corporations.\" Yes, who could forget that fateful day in October when Dicks Sporting Goods dropped dozens of Fields Medal worthy math discoveries on the world all at once."
+    },
+    "url": "https://x.com/emollick/status/2108177045511364998",
+    "time": "Thu Oct 08 12:45:50 +0000 2026",
+    "created_at": "Thu Oct 08 12:45:50 +0000 2026",
+    "id_str": "2108177045511364998",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@luoxiaoshan_ai 垃圾模型。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2108126315010564280",
+    "time": "Thu Oct 08 09:24:15 +0000 2026",
+    "created_at": "Thu Oct 08 09:24:15 +0000 2026",
+    "id_str": "2108126315010564280",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "虽然但是，在用 AI 的过程中，我感受到：\n\n人类好渺小。\n\n我们自己创造了神。\n\n现在没人可以阻止这一切了。\n\n以前都是每年有些突破，后来是半年，现在这个周期已短到【月】【周】来衡量了，毕竟新 AI 技术的研发，也有 AI 的参与，属于是左脚踩右脚登天，一飞冲天。\n\n我对普通人在未来 10 年的处境，感到悲观。",
+    "quoted_tweet": null,
+    "url": "https://x.com/DIGITALYCHEE/status/2108130004886241746",
+    "time": "Thu Oct 08 09:38:54 +0000 2026",
+    "created_at": "Thu Oct 08 09:38:54 +0000 2026",
+    "id_str": "2108130004886241746",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@DIGITALYCHEE 一切都不存在了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2108165076222144740",
+    "time": "Thu Oct 08 11:58:16 +0000 2026",
+    "created_at": "Thu Oct 08 11:58:16 +0000 2026",
+    "id_str": "2108165076222144740",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "haiku 5.5 这个定价太奇葩了\n哪有超过100k直接5倍的。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2108192836906819644",
+    "time": "Thu Oct 08 13:48:35 +0000 2026",
+    "created_at": "Thu Oct 08 13:48:35 +0000 2026",
+    "id_str": "2108192836906819644",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "数学不存在了（或者数学之神已经诞生了\n那数学家接下来做什么呢？\n数学系的学生呢？",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2108208061202776080",
+    "time": "Thu Oct 08 14:49:05 +0000 2026",
+    "created_at": "Thu Oct 08 14:49:05 +0000 2026",
+    "id_str": "2108208061202776080",
+    "is_retweet": false
   }
 ]
