@@ -1,1 +1,249 @@
-[]
+[
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Experimenting with Chisel in Atlas beta. We’ve been rolling out beta access to a bunch of users and it’s been really cool seeing what people are building.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BrittaniNatali/status/2107895095794237704",
+    "time": "2026-10-08 02:05",
+    "created_at": "Wed Oct 07 18:05:28 +0000 2026",
+    "id_str": "2107895095794237704",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "What kinda evaluation is that lol",
+    "quoted_tweet": {
+      "author": "atomic.chat",
+      "username": "atomic_chat_hq",
+      "text": "Claude Haiku 5.5 cost 12x more than GPT-6 Luna for the same scene 🐉  \n\nBoth have the same API price, yet building the same animated voxel 3D pagoda island cost $24.96 on Claude Haiku 5.5 and $1.91 on GPT-6 Luna  \n\nRun both models via API -> http://atomic.chat"
+    },
+    "url": "https://x.com/godofprompt/status/2108083491992903716",
+    "time": "Thu Oct 08 06:34:05 +0000 2026",
+    "created_at": "Thu Oct 08 06:34:05 +0000 2026",
+    "id_str": "2108083491992903716",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://x.com/i/article/2108012914598957056",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2108013105162985561",
+    "time": "Thu Oct 08 01:54:23 +0000 2026",
+    "created_at": "Thu Oct 08 01:54:23 +0000 2026",
+    "id_str": "2108013105162985561",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Next Token 第五期更新，一次性补充假期的所有 AI 上下文，欢迎大家收听\n\n国庆补课：PA 大战白热化；游戏、软件、硬件，一切都将开源？\n\nhttps://www.xiaoyuzhoufm.com/episode/6ac6dabe195d838e2aee61a0\n\n国庆假期，Personal Agent 成了我们的共同话题。我们从 Dots 放进 Codex 后的上手体验、记忆与云电脑权限聊起，讨论 Agent 应该是助理还是数字分身；再聊 Instinct 的订房和商旅模式，以及邮箱、微信与 RSS 的信息开放差异。\n\n这一期也有不少亲手做项目的体验：用 Opus 5.5 写游戏、迁移插件、替换 Markdown 编辑器内核。话题随后转向 Photoshop 功能复现、GPL、游戏反编译与 Mod：当软件越来越容易被重写，分发边界、商业模式和 IP 会怎样变化？\n\n小硬件部分，我们聊到大会发放的 ModRetro、AI Passport，以及给 ESP32 改中文界面、猫动画和语音输出的过程。小米蓝牙遥控器改成语音输入工具，也是这次的实际使用分享。最后从 Descript 的封闭接口聊到“软件成为 Agent 插件”，以及多模型协作、信息源和 Memory 的日常工作流。",
+    "quoted_tweet": {
+      "author": "Orange AI",
+      "username": "oran_ge",
+      "text": "https://x.com/i/article/2108012914598957056"
+    },
+    "url": "https://x.com/oran_ge/status/2108013755393311116",
+    "time": "Thu Oct 08 01:56:58 +0000 2026",
+    "created_at": "Thu Oct 08 01:56:58 +0000 2026",
+    "id_str": "2108013755393311116",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "用 gpt 6.1 sol 比 deepseek flash，在 Hermes 里面的体验，基本没什么正向收益，也是挺让人绝望的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/YinsenW_/status/2108023085777703101",
+    "time": "Thu Oct 08 02:34:03 +0000 2026",
+    "created_at": "Thu Oct 08 02:34:03 +0000 2026",
+    "id_str": "2108023085777703101",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@YinsenW_ 6.1 sol 的真名是 terra",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2108037361737281808",
+    "time": "Thu Oct 08 03:30:47 +0000 2026",
+    "created_at": "Thu Oct 08 03:30:47 +0000 2026",
+    "id_str": "2108037361737281808",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "Prompt:\n\n过去一百年里，对人类进步「影响最大」的十篇论文是哪些？",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2108031659497202107",
+    "time": "Thu Oct 08 03:08:07 +0000 2026",
+    "created_at": "Thu Oct 08 03:08:07 +0000 2026",
+    "id_str": "2108031659497202107",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Wait I just found out we can customize ChatGPT's website theme too just like we can in Codex\n\nLove it!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Angaisb_/status/2107940767612432580",
+    "time": "2026-10-08 05:06",
+    "created_at": "Wed Oct 07 21:06:57 +0000 2026",
+    "id_str": "2107940767612432580",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@poteto You really had to sleep on that one",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108014292910113006",
+    "time": "Thu Oct 08 01:59:07 +0000 2026",
+    "created_at": "Thu Oct 08 01:59:07 +0000 2026",
+    "id_str": "2108014292910113006",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@poteto Goodbye Grok models",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108017418136330678",
+    "time": "Thu Oct 08 02:11:32 +0000 2026",
+    "created_at": "Thu Oct 08 02:11:32 +0000 2026",
+    "id_str": "2108017418136330678",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Confirmed landed across all accounts. How are we doing so far?",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Day 3/\n\nThe big one is GPT-6 in Chat, but today is also a little celebration day with a new high of 40M active users across Codex and ChatGPT Work.\n\nLoading a banked reset in everyone's paid accounts. See you again tomorrow!"
+    },
+    "url": "https://x.com/thsottiaux/status/2108040921044639779",
+    "time": "Thu Oct 08 03:44:55 +0000 2026",
+    "created_at": "Thu Oct 08 03:44:55 +0000 2026",
+    "id_str": "2108040921044639779",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux",
+    "quoted_tweet": null,
+    "url": "https://x.com/CristianRus4/status/2108041357478814086",
+    "time": "Thu Oct 08 03:46:39 +0000 2026",
+    "created_at": "Thu Oct 08 03:46:39 +0000 2026",
+    "id_str": "2108041357478814086",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@CristianRus4 Haha",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108046065857679614",
+    "time": "Thu Oct 08 04:05:22 +0000 2026",
+    "created_at": "Thu Oct 08 04:05:22 +0000 2026",
+    "id_str": "2108046065857679614",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@mitchellh Chungus, we should have thought of that name",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108046671309685096",
+    "time": "Thu Oct 08 04:07:46 +0000 2026",
+    "created_at": "Thu Oct 08 04:07:46 +0000 2026",
+    "id_str": "2108046671309685096",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@notesbyfloat Happier than most x users",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108064454831427702",
+    "time": "Thu Oct 08 05:18:26 +0000 2026",
+    "created_at": "Thu Oct 08 05:18:26 +0000 2026",
+    "id_str": "2108064454831427702",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Leooweb3 Dot Dot Dot",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108064684549230815",
+    "time": "Thu Oct 08 05:19:21 +0000 2026",
+    "created_at": "Thu Oct 08 05:19:21 +0000 2026",
+    "id_str": "2108064684549230815",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@bot @poteto So smart. Figured out by itself who needs it",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108067119980319111",
+    "time": "Thu Oct 08 05:29:02 +0000 2026",
+    "created_at": "Thu Oct 08 05:29:02 +0000 2026",
+    "id_str": "2108067119980319111",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "hey @bot can I get tibo@mail.grokbot.com for my bot?",
+    "quoted_tweet": null,
+    "url": "https://x.com/poteto/status/2108071056259125309",
+    "time": "Thu Oct 08 05:44:40 +0000 2026",
+    "created_at": "Thu Oct 08 05:44:40 +0000 2026",
+    "id_str": "2108071056259125309",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@poteto @bot lmao 💀 get it to work on your models",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108080036725354918",
+    "time": "Thu Oct 08 06:20:21 +0000 2026",
+    "created_at": "Thu Oct 08 06:20:21 +0000 2026",
+    "id_str": "2108080036725354918",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 3 (encore)/\n\nWe silently re-shipped codex cloud. It’s pretty good now",
+    "quoted_tweet": {
+      "author": "Tailscale",
+      "username": "Tailscale",
+      "text": "Codex 🤝 Tailscale\n\nCodex Cloud can now securely connect to resources on your tailnet with Tailscale.\n\nUseful tools should be easy to build with, combine, and turn into something even more useful.\n\nSee how it works → \nhttps://buff.ly/yFcldrC"
+    },
+    "url": "https://x.com/thsottiaux/status/2108084615349170480",
+    "time": "Thu Oct 08 06:38:33 +0000 2026",
+    "created_at": "Thu Oct 08 06:38:33 +0000 2026",
+    "id_str": "2108084615349170480",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Angaisb_ Ah.. spoiled my Day 17",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2108086116683526498",
+    "time": "Thu Oct 08 06:44:31 +0000 2026",
+    "created_at": "Thu Oct 08 06:44:31 +0000 2026",
+    "id_str": "2108086116683526498",
+    "is_retweet": false
+  }
+]
