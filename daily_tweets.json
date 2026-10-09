@@ -375,5 +375,404 @@
     "created_at": "Fri Oct 09 07:50:00 +0000 2026",
     "id_str": "2108464983822504352",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "特朗普给六位科技公司掌门人颁发美国国家奖章\n\n美国总统特朗普 10 月 8 日在白宫颁发了两项国家奖章。Google 联合创始人 Sergey Brin、英伟达 CEO 黄仁勋、SpaceX 和特斯拉 CEO 马斯克、AMD CEO 苏姿丰获得国家科学奖章；戴尔创始人 Michael Dell、微软 CEO Satya Nadella 获得国家技术与创新奖章。\n\n这两项奖章是美国政府给科技界的最高荣誉，由总统亲自颁发。国家科学奖章 1959 年设立，过去获奖的大多是大学和研究机构里的科学家；国家技术与创新奖章表彰把技术做成产品和产业的人。这是特朗普两届任期里第一次颁发这两项奖章。\n\n颁奖词给出了每个人的理由。\n\nBrin 获奖是因为开发了信息检索和数据处理的基础算法，也就是 Google 搜索背后的那套方法，改变了人们获取信息的方式。\n\n黄仁勋获奖是因为把 GPU 从画图形的芯片变成了通用计算平台，让大规模并行计算成为可能。今天训练大模型用的就是这套东西。\n\n马斯克获奖是因为在航天、智能系统和通信上的工程成就，以及推动美国制造业回流。\n\n苏姿丰获奖是因为处理器架构和芯粒技术（把一颗大芯片拆成几块小芯片拼起来，成本更低、性能更容易往上堆），这套技术撑起了全球第一台百亿亿次超级计算机，也就是每秒能算一百亿亿次的机器。\n\nDell 获奖是因为建立了一家全球性的科技公司，并资助培养年轻的科学家和工程师。\n\nNadella 获奖是因为带着微软转型云计算重新焕发活力，并建起超大规模数据中心，颁奖词的说法是这些数据中心让“美国超级智能”得以训练和在全球部署。\n\n这份名单基本就是你每天用的 AI 背后的那条产业链：搜索和模型、训练芯片、服务器、云算力。颁奖词里两次出现“超级智能”，白宫把 AI 算力当成了国家实力来表彰。\n\n特朗普在颁奖时称马斯克是“当代爱迪生”。两人去年公开闹翻，美国媒体把这次授奖看作两人和解的信号。",
+    "quoted_tweet": {
+      "author": "Rapid Response 47",
+      "username": "RapidResponse47",
+      "text": ".@POTUS presents the National Medal of Science to Sergey Brin, @JensenHuang, @elonmusk, and @LisaSu, and the National Medal of Technology and Innovation to @MichaelDell and @satyanadella."
+    },
+    "url": "https://x.com/dotey/status/2108395740988834165",
+    "time": "2026-10-09 11:14",
+    "created_at": "Fri Oct 09 03:14:51 +0000 2026",
+    "id_str": "2108395740988834165",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude 新增数据看板和动画讲解，文档、幻灯片、设计功能结束测试\n\nAnthropic 今天给 Claude 加了两个新功能。Claude Dashboards 能把公司数据做成自动更新的数据看板，Claude Motion 能把报告、图表做成几十秒的动画讲解。两者都在测试阶段。\n\nClaude Dashboards 现在就能在 http://claude.ai 网页版的 Artifacts 里面用了，但是 Claude Motion 目前只对 Team 和 Enterprise 套餐开放。\n\n此前一直在测试的 Docs（文档）、Slides（幻灯片）、Design（设计）同时转正，这三个功能现在所有套餐都能用，包括免费版。\n\n【1】数据看板：用大白话查公司数据\n\n以前想看公司数据，要么给数据团队提需求排队，要么自己写 SQL（数据库查询语言）。现在把 Claude 连上公司的数据平台，比如 BigQuery、Snowflake、Databricks、Amazon Redshift、ClickHouse，或者 Salesforce 这类客户管理系统，直接问“这周注册量和上个月比怎么样”，Claude 会写查询、出图表，做成一个看板。数据变了，看板跟着更新。\n\n每个数字都能点开看背后的查询语句，也能让 Claude 解释是怎么算出来的，每张图还标着数据最后刷新的时间。用的人可以自己核对 AI 有没有算错。\n\n它适合快速、探索性的问题。需要深入分析时，可以把看板直接发到 Amplitude、Grafana、Hex、Mixpanel、PostHog 等分析工具里接着做，Looker、Tableau 等后续支持。付费套餐可用。\n\n【2】动画讲解：让幻灯片里的内容动起来\n\nClaude Motion 能把季度报告做成全员大会上放的 30 秒讲解动画，给董事会幻灯片里的图表加动效，或者做一段给新客户看的产品操作演示。在对话框输入“/motion”就能调出来。做好后可以在编辑器里改，也可以让 Claude 改，最后导出 MP4。\n\n它不用视频生成模型。Claude 写的是代码，让你的文字、图表、形状、图片动起来，画面里不会出现 AI 生成的人物和素材，每个字、每个数字、每段时长都能改。所以它和 Sora、可灵这类视频生成产品用途不同，适合讲清楚自己手里的内容。需要再加工，可以导入 Adobe、Descript、HeyGen、Runway 等工具。\n\nClaude Motion 目前只对 Team 和 Enterprise 套餐开放。\n\n【3】文档、幻灯片、设计：免费用户也能用\n\n这三项功能上线以来，用户已经用它们做了超过 4500 万份文档、幻灯片和设计稿。这次去掉测试标签，同时补了几项能力：团队成员和 Claude 可以一起编辑同一份文件；幻灯片、设计、看板和动画可以分享给公司外的人，或者任何拿到链接的人（需管理员允许）；导出的 PowerPoint 和 PDF 能保留排版，幻灯片能直接转成可编辑的 Google Slides；手机 App 里也能修改。企业版新增 CMEK 支持，也就是企业可以用自己管理的密钥加密数据。\n\n【4】Claude Design 独立站 12 月 14 日关闭\n\nClaude Design 原本有独立网址 http://claude.ai/design，9 月 16 日起已经能在普通 Claude 对话里使用。Anthropic 决定把两者合并，独立站开到 12 月 14 日。\n\n用过独立站的团队要注意三点。设计系统可以在 Claude 的 Artifacts 页面一键迁移。项目在关闭前照常可用。和 Claude 的聊天记录、项目评论不会迁过来，公开分享链接到期也会失效，需要的话提前保存。\n\n企业管理员注意：看板和动画默认关闭，要在组织设置里手动开启；文档、幻灯片、设计会在 10 月 15 日默认开启。",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "Claude Dashboards and Claude Motion are in beta today.\n\nAsk Claude to turn your data into live dashboards and your ideas into animated explainers."
+    },
+    "url": "https://x.com/dotey/status/2108409240847016347",
+    "time": "2026-10-09 12:08",
+    "created_at": "Fri Oct 09 04:08:30 +0000 2026",
+    "id_str": "2108409240847016347",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "封号封号，必须得封号！",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108414207893110818",
+    "time": "2026-10-09 12:28",
+    "created_at": "Fri Oct 09 04:28:14 +0000 2026",
+    "id_str": "2108414207893110818",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "是开源的：https://x.com/blended_jpeg/status/2041108969410945408",
+    "quoted_tweet": {
+      "author": "yaml",
+      "username": "blended_jpeg",
+      "text": "https://github.com/GitFrog1111/badclaude\n\nnpm install -g badclaude\nbadclaude"
+    },
+    "url": "https://x.com/dotey/status/2108419050145505439",
+    "time": "2026-10-09 12:47",
+    "created_at": "Fri Oct 09 04:47:28 +0000 2026",
+    "id_str": "2108419050145505439",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 你也是ow玩家啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/tiiiii2025/status/2108451228502110454",
+    "time": "2026-10-09 14:55",
+    "created_at": "Fri Oct 09 06:55:20 +0000 2026",
+    "id_str": "2108451228502110454",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "还能找到当年我玩 Overwatch 1 的视频，全靠“随缘箭”，那时候 Hanzo 还有溅射，瞄对方脚底板能秒人。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108452995461529942",
+    "time": "2026-10-09 15:02",
+    "created_at": "Fri Oct 09 07:02:21 +0000 2026",
+    "id_str": "2108452995461529942",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@tiiiii2025 半藏 100 多级了，不过水平还是不太行\nhttps://x.com/dotey/status/2108452995461529942?s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "还能找到当年我玩 Overwatch 1 的视频，全靠“随缘箭”，那时候 Hanzo 还有溅射，瞄对方脚底板能秒人。"
+    },
+    "url": "https://x.com/dotey/status/2108453218422276518",
+    "time": "2026-10-09 15:03",
+    "created_at": "Fri Oct 09 07:03:15 +0000 2026",
+    "id_str": "2108453218422276518",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The CFO job has gone from accountant to banker to builder, and the whole finance function is being rebuilt around it:\n\n1. Data stopped being the bottleneck. AI pulls and reconciles data across systems, so teams spend more time acting on numbers instead of chasing them.\n\n2. The finance stack is becoming part of the finance team. AI-native tools stand up in days, pull their own data, and turn a monthly close into a daily one.\n\n3. The rise of the finance engineer. Finance people proficient in Claude Code or Codex are building their own tools.\n\n4. The finance team gets smaller and higher leverage. The old heuristic of finance at 5% of headcount is heading to 2% for the leanest teams.\n\n5. Planning becomes continuous. Usage-based revenue (tokens, API calls) moves too fast for a monthly forecast, so planning shifts from annual budgets to a live view.\n\n6. Controls become a critical feature of the product. Every number an agent touches keeps an audit trail back to its source, and finance still owns sign-off.\n\n7. Finance gets a bigger mandate. Compute spend, people versus software, and build versus buy are now finance decisions.\n\n\"The CFO is becoming a builder and architect of the company's operating system... The job is still finance, but more of the job now is designing how finance gets done.\"\n\na16z's @seemaamble, @IvanoMakSF, and David Borecky on why you need a new CFO: https://www.a16z.news/p/you-need-a-new-cfo",
+    "quoted_tweet": {
+      "author": "Seema Amble",
+      "username": "seema_amble",
+      "text": "https://x.com/i/article/2108225380985536512"
+    },
+    "url": "https://x.com/a16z/status/2108244794149679212",
+    "time": "Thu Oct 08 17:15:02 +0000 2026",
+    "created_at": "Thu Oct 08 17:15:02 +0000 2026",
+    "id_str": "2108244794149679212",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AWS CEO Matt Garman on why he isn't worried about an AI bubble: no single customer dominates AWS capacity, and enterprises are already seeing positive ROI.\n\n\"We feel really good about the spend we're making now. I get lots of questions about how you feel about that spend, and 'Are you nervous about a bubble?'\"\n\n\"We take a diversified approach, so not all of our capacity is bundled up in one customer.\"\n\n\"Also, AWS is where people come to launch their production workloads. The majority of our usage today is core compute, storage, and inference... Those are the workloads that just aren't gonna go away.\"\n\n\"Go talk to customers and ask: at today's capability and today's cost, are you seeing positive returns to your business? They'll say, 'Yeah.\"\n\n\"It's like the VC model. Is every billion-dollar startup gonna make it? No, they won't. But that's been the game for 50 years. You bet on 10, and one makes it and pays for the others.\"\n\n\"You saw that with the internet. There was a bubble, a bunch of internet companies didn't make it, and the internet's still a thing.\"\n\n@mattsgarman @RaghuRaghuram",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "AWS CEO Matt Garman with a16z's Raghu Raghuram on the biggest cloud provider in the world being rebuilt for the agentic era:\n\n$220B in CapEx for 2026, two million NVIDIA GPUs on order, AWS's AI chips sold out through next year, and a new 30-second AWS account with no credit card required so agents can get rolling.\n\n0:55 $170B in revenue, growing 37%\n2:40 30-40% of revenue started as startups\n4:55 Startups want a cloud for agents\n9:10 An AWS account in 30 seconds\n12:25 Agents don't need bulletproof databases\n16:30 Why AWS won't sell every GPU to the frontier labs\n22:00 Why Matt isn't worried about a bubble\n24:45 Why AWS builds its own power plants\n27:45 Planning for the next supply shortage\n30:25 Saving one county $5K per resident\n33:10 How AWS built its own chips\n40:05 What's holding enterprise agents back\n45:35 Why Bedrock never sends your data to the model\n49:30 AWS's new AI security tool\n51:50 Why AWS teams of 10 are now 3-4\n\nYouTube: https://www.youtube.com/watch?v=rn_afJaPldg\n\n@mattsgarman @awscloud @RaghuRaghuram"
+    },
+    "url": "https://x.com/a16z/status/2108259997893448062",
+    "time": "Thu Oct 08 18:15:27 +0000 2026",
+    "created_at": "Thu Oct 08 18:15:27 +0000 2026",
+    "id_str": "2108259997893448062",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI agents don't use the cloud like humans do. AWS CEO Matt Garman on rewiring AWS for its newest \"users\":\n\n\"Increasingly we're seeing teams that want a cloud that is great to work with agents and not just with people.\"\n\n\" We've doubled down on things like starting a database in three seconds and some capabilities that agents are excited about.\"\n\n\"Many agents wanna create a database, do a little bit of work, and then have the database go away. You don't really need that database to have five nines of durability.\"\n\n\"There are new building blocks that agents are gonna want that we just didn't really need before: compute sandboxes, gateways, agent permissions versus people or service role permissions.\"\n\n\" A lot of those are things that we have built and are building and thinking actively about because they are just brand-new building blocks. It's not using the existing building blocks differently.\"\n\n@mattsgarman @RaghuRaghuram",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "AWS CEO Matt Garman with a16z's Raghu Raghuram on the biggest cloud provider in the world being rebuilt for the agentic era:\n\n$220B in CapEx for 2026, two million NVIDIA GPUs on order, AWS's AI chips sold out through next year, and a new 30-second AWS account with no credit card required so agents can get rolling.\n\n0:55 $170B in revenue, growing 37%\n2:40 30-40% of revenue started as startups\n4:55 Startups want a cloud for agents\n9:10 An AWS account in 30 seconds\n12:25 Agents don't need bulletproof databases\n16:30 Why AWS won't sell every GPU to the frontier labs\n22:00 Why Matt isn't worried about a bubble\n24:45 Why AWS builds its own power plants\n27:45 Planning for the next supply shortage\n30:25 Saving one county $5K per resident\n33:10 How AWS built its own chips\n40:05 What's holding enterprise agents back\n45:35 Why Bedrock never sends your data to the model\n49:30 AWS's new AI security tool\n51:50 Why AWS teams of 10 are now 3-4\n\nYouTube: https://www.youtube.com/watch?v=rn_afJaPldg\n\n@mattsgarman @awscloud @RaghuRaghuram"
+    },
+    "url": "https://x.com/a16z/status/2108287764303372392",
+    "time": "Thu Oct 08 20:05:47 +0000 2026",
+    "created_at": "Thu Oct 08 20:05:47 +0000 2026",
+    "id_str": "2108287764303372392",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Your next users are machines\n\nAgents burn nearly 5x the tokens people do, up 14x in six months",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "AI agents don't use the cloud like humans do. AWS CEO Matt Garman on rewiring AWS for its newest \"users\":\n\n\"Increasingly we're seeing teams that want a cloud that is great to work with agents and not just with people.\"\n\n\" We've doubled down on things like starting a database in three seconds and some capabilities that agents are excited about.\"\n\n\"Many agents wanna create a database, do a little bit of work, and then have the database go away. You don't really need that database to have five nines of durability.\"\n\n\"There are new building blocks that agents are gonna want that we just didn't really need before: compute sandboxes, gateways, agent permissions versus people or service role permissions.\"\n\n\" A lot of those are things that we have built and are building and thinking actively about because they are just brand-new building blocks. It's not using the existing building blocks differently.\"\n\n@mattsgarman @RaghuRaghuram"
+    },
+    "url": "https://x.com/a16z/status/2108308969815257427",
+    "time": "Thu Oct 08 21:30:03 +0000 2026",
+    "created_at": "Thu Oct 08 21:30:03 +0000 2026",
+    "id_str": "2108308969815257427",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 修改用户使用政策\n禁止“辱骂、虐待”Claude\n\nAnthropic 给 Claude 的新版使用政策加入了一项特别的禁令：用户不得持续、无必要地虐待模型。\n\n包括：\n\n持续羞辱，贬低模型\n反复逼模型表演痛苦\n代码出错后，用户尖锐批评\n写黑暗故事诱导或者研究模型反应\n\n这项政策适用于 Claude网页版、Claude Code、API、通过云平台或授权经销商使用 Claude 的客户，以及集成产品的所有终端用户。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108398989876105231",
+    "time": "2026-10-09 11:27",
+    "created_at": "Fri Oct 09 03:27:46 +0000 2026",
+    "id_str": "2108398989876105231",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "在政策正文之外，Anthropic 进一步明确了支持地区的合规边界。\n\n这次是进一步明确既有地区政策的执行口径，不只看账号注册地或使用者此刻在哪个国家，你服务的公司如果在受限制地区，旗下所有员工也不能使用...\n\n限制包括：\n\n物理所在地：人在不受支持地区境内时，不得使用服务；\n\n注册地与总部：注册地或总部设立在非支持地区的企业或机构，其名下用户与员工即便身处受支持地区，同样不得使用；\n\n股权与实际控制权：直接或间接由非支持地区个人或实体拥有多数股权或实际控制权的企业，亦被纳入受限范围。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108398996234666467",
+    "time": "2026-10-09 11:27",
+    "created_at": "Fri Oct 09 03:27:47 +0000 2026",
+    "id_str": "2108398996234666467",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细内容：https://best.xiaohu.ai/article/anthropic-usage-policy-2026/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108399002622566513",
+    "time": "2026-10-09 11:27",
+    "created_at": "Fri Oct 09 03:27:49 +0000 2026",
+    "id_str": "2108399002622566513",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu",
+    "quoted_tweet": null,
+    "url": "https://x.com/wong_wyz/status/2108400957184954404",
+    "time": "2026-10-09 11:35",
+    "created_at": "Fri Oct 09 03:35:35 +0000 2026",
+    "id_str": "2108400957184954404",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@wong_wyz https://www.anthropic.com/news/2026-usage-policy-update",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108401451102073144",
+    "time": "2026-10-09 11:37",
+    "created_at": "Fri Oct 09 03:37:32 +0000 2026",
+    "id_str": "2108401451102073144",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 我不是想杠，我是真没看到",
+    "quoted_tweet": null,
+    "url": "https://x.com/wong_wyz/status/2108402006104977881",
+    "time": "2026-10-09 11:39",
+    "created_at": "Fri Oct 09 03:39:45 +0000 2026",
+    "id_str": "2108402006104977881",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@wong_wyz 打开翻译下",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108405526526873862",
+    "time": "2026-10-09 11:53",
+    "created_at": "Fri Oct 09 03:53:44 +0000 2026",
+    "id_str": "2108405526526873862",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude 发布实时数据看板 Dashboards 和代码驱动动态解说工具 Claude Motion\n\n让一切都被做成视频动起来\n\n实时数据看板（Claude Dashboards）：直接接入企业数仓或 CRM，用自然语言提问就能生成联动的业务看板，并随底层数据变动自动刷新。\n\n代码驱动动态解说（Claude Motion）：把报告、图表或产品演示转成短动画并导出 MP4，由 Claude 用代码为文字、图表、形状和图片编排动画，可编辑具体文字、数字与节奏",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108435846743671035",
+    "time": "2026-10-09 13:54",
+    "created_at": "Fri Oct 09 05:54:13 +0000 2026",
+    "id_str": "2108435846743671035",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细内容：https://best.xiaohu.ai/article/claude-dashboards-motion/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108435848803033279",
+    "time": "2026-10-09 13:54",
+    "created_at": "Fri Oct 09 05:54:13 +0000 2026",
+    "id_str": "2108435848803033279",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Better than Alexander Skarsgaard’s shoes at the “Wicker” premiere.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Jenhollidayx/status/2108388079967101261",
+    "time": "2026-10-09 10:44",
+    "created_at": "Fri Oct 09 02:44:24 +0000 2026",
+    "id_str": "2108388079967101261",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Jenhollidayx I had to admit I can't wait for that Alexander Skarsgaard (he's my favorite actor :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108389593020289338",
+    "time": "2026-10-09 10:50",
+    "created_at": "Fri Oct 09 02:50:25 +0000 2026",
+    "id_str": "2108389593020289338",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Stupid. Stupid Intelligence.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jungao/status/2108430071291953458",
+    "time": "2026-10-09 13:31",
+    "created_at": "Fri Oct 09 05:31:16 +0000 2026",
+    "id_str": "2108430071291953458",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jungao 😅😅😅😅😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108431026015940968",
+    "time": "2026-10-09 13:35",
+    "created_at": "Fri Oct 09 05:35:04 +0000 2026",
+    "id_str": "2108431026015940968",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@twentyone21___ Really beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108431213799063762",
+    "time": "2026-10-09 13:35",
+    "created_at": "Fri Oct 09 05:35:48 +0000 2026",
+    "id_str": "2108431213799063762",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I love space visuals like these",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108431280568467813",
+    "time": "2026-10-09 13:36",
+    "created_at": "Fri Oct 09 05:36:04 +0000 2026",
+    "id_str": "2108431280568467813",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BerryBattyToys This is a cool creature",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108431348994134408",
+    "time": "2026-10-09 13:36",
+    "created_at": "Fri Oct 09 05:36:21 +0000 2026",
+    "id_str": "2108431348994134408",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@os_orabi Love this one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108431415792869769",
+    "time": "2026-10-09 13:36",
+    "created_at": "Fri Oct 09 05:36:36 +0000 2026",
+    "id_str": "2108431415792869769",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dvorahfr 😅😅😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108431461967659294",
+    "time": "2026-10-09 13:36",
+    "created_at": "Fri Oct 09 05:36:47 +0000 2026",
+    "id_str": "2108431461967659294",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife ...the most juvenile tantrum I've ever seen 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/alexutopia/status/2108440841014640820",
+    "time": "2026-10-09 14:14",
+    "created_at": "Fri Oct 09 06:14:04 +0000 2026",
+    "id_str": "2108440841014640820",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@alexutopia Just a tiny test",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Finish this sentence.\n\nA.I. is _____."
+    },
+    "url": "https://x.com/icreatelife/status/2108443252525347260",
+    "time": "2026-10-09 14:23",
+    "created_at": "Fri Oct 09 06:23:39 +0000 2026",
+    "id_str": "2108443252525347260",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@bind_lux Same",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108443323572903997",
+    "time": "2026-10-09 14:23",
+    "created_at": "Fri Oct 09 06:23:55 +0000 2026",
+    "id_str": "2108443323572903997",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Tibbzzee How would you know what they want?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108443402404581766",
+    "time": "2026-10-09 14:24",
+    "created_at": "Fri Oct 09 06:24:14 +0000 2026",
+    "id_str": "2108443402404581766",
+    "is_retweet": false
   }
 ]
