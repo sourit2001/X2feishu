@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Google has the advantage, if they use it, of being able to observe where OpenAI and Anthropic are going with Codex/Code and get there now. Otherwise they are going to have to go through that whole learning process themselves, which will make Gemini 4 less impactful along the way.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108585135998120061",
+    "time": "2026-10-09 23:47",
+    "created_at": "Fri Oct 09 15:47:26 +0000 2026",
+    "id_str": "2108585135998120061",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Randomized trials with old GPT-4o: \"AI access raises test scores, and a smaller gain persists a week later. Gains remain for students who use AI as a tutor (“augmentation”) and fade for students who have AI write for them (“automation”)\"\n\nAcross all experiments, positive effects.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108594749305135613",
+    "time": "2026-10-10 00:25",
+    "created_at": "Fri Oct 09 16:25:38 +0000 2026",
+    "id_str": "2108594749305135613",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Paper: https://arxiv.org/abs/2607.08849",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108595784362938400",
+    "time": "2026-10-10 00:29",
+    "created_at": "Fri Oct 09 16:29:45 +0000 2026",
+    "id_str": "2108595784362938400",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The distillation cycle continues.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108651646872068561",
+    "time": "2026-10-10 04:11",
+    "created_at": "Fri Oct 09 20:11:44 +0000 2026",
+    "id_str": "2108651646872068561",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Its reasonable for mathematicians to point out that proofs are not always the same thing as advancing mathematics. But it suggests a need for new goals for what math is trying to do\n\nSame thing will happen everywhere. 100x more PowerPoint or code is not always progress - what is?",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108652762904793360",
+    "time": "2026-10-10 04:16",
+    "created_at": "Fri Oct 09 20:16:10 +0000 2026",
+    "id_str": "2108652762904793360",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I see a lot of people suggesting it, but the search bar or chat window is very clearly not the interface for agentic work.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2108654415464869954",
+    "time": "2026-10-10 04:22",
+    "created_at": "Fri Oct 09 20:22:44 +0000 2026",
+    "id_str": "2108654415464869954",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Tencent just dropped something ridiculous\n\none image turns into a 3D world you can actually walk around in\n\nnot a video. an actual 3D asset. meshes and gaussian splats you can drop straight into Unity, Unreal or Blender.\n\nthat’s the whole point of it. Genie 3 and the other video world models give you a clip that looks great and then ends. this gives you a file that stays on your drive, renders in real time on a consumer GPU, and costs nothing to look at twice.\n\nit also runs backwards. point it at a video you shot on your phone and WorldMirror 2.0 reconstructs the scene as 3D, predicting depth, normals, camera positions and point clouds in a single pass.\n\n2,700 stars. every weight and all the inference code released.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108498001698370016",
+    "time": "2026-10-09 18:01",
+    "created_at": "Fri Oct 09 10:01:12 +0000 2026",
+    "id_str": "2108498001698370016",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://github.com/Tencent-Hunyuan/HY-World-2.0",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108498013543121286",
+    "time": "2026-10-09 18:01",
+    "created_at": "Fri Oct 09 10:01:15 +0000 2026",
+    "id_str": "2108498013543121286",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "you can access 30,000+ AI prompts and guides at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108498025190732245",
+    "time": "2026-10-09 18:01",
+    "created_at": "Fri Oct 09 10:01:17 +0000 2026",
+    "id_str": "2108498025190732245",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Haiku 5.5 dropped 2 days ago and it changes how you should be running Claude Code\n\nkeep Opus 5.5 as your main model, then hand the cheap work to Haiku subagents, reading code and looking up docs\n\nAnthropic built it for exactly this, it’s around 75% cheaper than Haiku 4.5 and they name subagent work as the use case\n\none default will catch you out though, Claude Code’s built-in Explore subagent inherits your main model, so when Opus sends Explore to search your codebase, Explore runs on Opus too\n\nmake your own subagent called Explore with model: haiku and it replaces the built-in one",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108569433535045796",
+    "time": "2026-10-09 22:45",
+    "created_at": "Fri Oct 09 14:45:02 +0000 2026",
+    "id_str": "2108569433535045796",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full Claude guide is free → https://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108569445870588341",
+    "time": "2026-10-09 22:45",
+    "created_at": "Fri Oct 09 14:45:05 +0000 2026",
+    "id_str": "2108569445870588341",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "you can access 30,000+ AI prompts and guides at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2108569457513910745",
+    "time": "2026-10-09 22:45",
+    "created_at": "Fri Oct 09 14:45:08 +0000 2026",
+    "id_str": "2108569457513910745",
+    "is_retweet": false
+  }
+]
