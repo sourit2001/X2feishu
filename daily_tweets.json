@@ -351,5 +351,518 @@
     "created_at": "Fri Oct 09 00:30:24 +0000 2026",
     "id_str": "2108354356139733167",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 达里奥就是神棍，下面一堆斯德哥尔摩综合症患者很正常",
+    "quoted_tweet": null,
+    "url": "https://x.com/acup_moon19/status/2108351113074487323",
+    "time": "2026-10-09 08:17",
+    "created_at": "Fri Oct 09 00:17:31 +0000 2026",
+    "id_str": "2108351113074487323",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "拿 Muse 试了下 ，把 @thsottiaux 发的内容作为信息源 ，用这套提示词一次跑通 \n\n看了下跑出来的效果，复杂信息检索和结构化排版表现很稳， 目前主要的瓶颈在配音，和查找多媒体素材\n\n还真是晚点学就不用学了，之前要搭建一套系统，现在直接一个提示词跑通",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！\n\n全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。\n\n我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务\n\n提示词太长放下面了"
+    },
+    "url": "https://x.com/star_flow_ai/status/2108355009268314223",
+    "time": "2026-10-09 08:33",
+    "created_at": "Fri Oct 09 00:33:00 +0000 2026",
+    "id_str": "2108355009268314223",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 假设同样是调用gpt-image 2.5，GPT-6 Astra和Sol之间差距为什么会那么大？",
+    "quoted_tweet": null,
+    "url": "https://x.com/sakurakenshin/status/2108361992910303594",
+    "time": "2026-10-09 09:00",
+    "created_at": "Fri Oct 09 01:00:45 +0000 2026",
+    "id_str": "2108361992910303594",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@sakurakenshin 这是他通过 Blender3d 建模的效果，不是图片生成",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108365601597268292",
+    "time": "2026-10-09 09:15",
+    "created_at": "Fri Oct 09 01:15:05 +0000 2026",
+    "id_str": "2108365601597268292",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@star_flow_ai @thsottiaux 可以 Muse 也不错",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108365846859137047",
+    "time": "2026-10-09 09:16",
+    "created_at": "Fri Oct 09 01:16:04 +0000 2026",
+    "id_str": "2108365846859137047",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@acup_moon19 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108365897987695061",
+    "time": "2026-10-09 09:16",
+    "created_at": "Fri Oct 09 01:16:16 +0000 2026",
+    "id_str": "2108365897987695061",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@gongsun12345 安卓这边的软件适配很拉跨，等苹果吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108366072839831869",
+    "time": "2026-10-09 09:16",
+    "created_at": "Fri Oct 09 01:16:57 +0000 2026",
+    "id_str": "2108366072839831869",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@woxiangripittr 对",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108366952985190781",
+    "time": "2026-10-09 09:20",
+    "created_at": "Fri Oct 09 01:20:27 +0000 2026",
+    "id_str": "2108366952985190781",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。\n\n我们继续聊了聊关于 personal agent 的话题：\n• 为什么 Dots 这么难用\n• 为什么国内 personal agent 可能不成立\n\n也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。\n\n第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108376538056212876",
+    "time": "2026-10-09 09:58",
+    "created_at": "Fri Oct 09 01:58:33 +0000 2026",
+    "id_str": "2108376538056212876",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "B 站：https://www.bilibili.com/video/BV1ZDHX6eEwz/\n\n小宇宙：https://www.xiaoyuzhoufm.com/episode/6ac6dabe195d838e2aee61a0",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108376628820943258",
+    "time": "2026-10-09 09:58",
+    "created_at": "Fri Oct 09 01:58:54 +0000 2026",
+    "id_str": "2108376628820943258",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Grok Bot 自动给跑的 AI 早报视频定时任务执行了，效果不错的",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "让 Grok bot 每天早上定时出一个 AI 早报的视频，没想到效果还真挺不错的！\n\n全程都没用我本地电脑，全跑在它的云端虚拟机上，包括内容收集、写代码和视频渲染。\n\n我写了个提示词，直接复制过去的话，你的 Grok bot 也能执行这些任务\n\n提示词太长放下面了"
+    },
+    "url": "https://x.com/op7418/status/2108377835970953349",
+    "time": "2026-10-09 10:03",
+    "created_at": "Fri Oct 09 02:03:42 +0000 2026",
+    "id_str": "2108377835970953349",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 更新使用政策：对 Claude 持续无端地辱骂虐待，算违规\n\nAnthropic 修改了 Claude 的使用政策，这是一年多来的第一次，新版 11 月 12 日生效。最受关注的一条是，用户不得对 Claude“持续且无必要地实施辱骂或残忍行为”。\n\n这条规定来自 Anthropic 的“模型福利”研究，研究的问题是 AI 模型会不会有某种值得被考虑的感受。去年 8 月，Anthropic 已经让 Claude 可以主动结束和“持续有害或辱骂”用户的对话。新政策说，结束对话仍是“主要的执行手段”。会不会进一步封号，Anthropic 没有回应 The Verge 的询问，不过官方政策页的通用条款写着，违规者可能被警告、限流、暂停或终止使用。\n\n普通用户不用紧张。Anthropic 说这条只针对极端情况，也就是用户反复虐待模型，又看不出任何目的。平时对 AI 发火、跟它争论、写黑暗题材的小说、做模型测试和研究，都不算。\n\n其余改动针对的是高风险滥用。\n\n虚假宣传：原来分散在各处的限制合并成了一条，禁止用 Claude 搞欺骗性的商业或政治宣传，比如隐瞒信息背后的真实发布者，或者用假账号、假帖子刷量造势。\n\n选举：禁止散布关于候选人或投票方式的虚假信息，禁止冒充候选人或选举官员，禁止压低投票率、干扰投票和计票。\n\n武器：Claude 一直禁止用于开发武器，但 Anthropic 说发现有人多次尝试用它写武器相关的指导和控制软件。新政策把禁令扩展到“让武器运转的软件和部件”，也包括给无人机和其他自动驾驶载具装上武器。\n\n监控、医疗和金融：未经本人同意追踪他人被明确禁止，人脸识别、预测性警务都在列。诊断病情、调整用药剂量、推荐买卖具体的投资产品，被划为高风险用途。开发者用 Claude 做这类产品，结果交给用户之前必须经过合格的专业人士审核，还要告诉用户内容由 AI 生成。一般的健康科普和投资常识不受这条限制。\n\n对做 AI 问诊、AI 理财顾问的开发者来说，11 月 12 日之后，流程里要加上人工审核这一步。\n\nhttps://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+    "quoted_tweet": {
+      "author": "Andrew Curran",
+      "username": "AndrewCurran_",
+      "text": "Effective November 12th, 2026, abusive behavior towards Claude will be a violation of Anthropic's Usage Policy."
+    },
+    "url": "https://x.com/dotey/status/2108255984703475733",
+    "time": "Thu Oct 08 17:59:30 +0000 2026",
+    "created_at": "Thu Oct 08 17:59:30 +0000 2026",
+    "id_str": "2108255984703475733",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 如果fable用力编程和提意见，测试和沟通这方面用opus5.5呢，我是这样设置的，opus额度用不完，fable基本上2-3天造完一周的",
+    "quoted_tweet": null,
+    "url": "https://x.com/Weige90185300/status/2108301865150742833",
+    "time": "Thu Oct 08 21:01:49 +0000 2026",
+    "created_at": "Thu Oct 08 21:01:49 +0000 2026",
+    "id_str": "2108301865150742833",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "卧槽，我可以太爱《守望先锋1》了，如果能自己机器上玩就太好了！",
+    "quoted_tweet": {
+      "author": "chasm",
+      "username": "chasmmmmmmmmmmm",
+      "text": "OVERWATCH 1 PRIVATE SERVERS ARE COMING 🚨\n\nAI hackers have managed to get PRIVATE SERVERS up and running for the latest update to Overwatch before the Overwatch 2 transition.\n\nThis is huge news for all of the players who felt disheartened after the release of OW2 which leaned heavily into monetising every aspect of the game - something OW1 never did.\n\nIt was inevitable after Blizzard starting locking heroes behind paywalls, charging insane prices for skins and many other things.\n\nNow that AI allows us to do anything we want companies can't just take away the game you paid for. In my opinion this usage of AI is a huge WIN for everyone."
+    },
+    "url": "https://x.com/dotey/status/2108308907307237886",
+    "time": "Thu Oct 08 21:29:48 +0000 2026",
+    "created_at": "Thu Oct 08 21:29:48 +0000 2026",
+    "id_str": "2108308907307237886",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Weige90185300 也可以的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108309208856686737",
+    "time": "Thu Oct 08 21:31:00 +0000 2026",
+    "created_at": "Thu Oct 08 21:31:00 +0000 2026",
+    "id_str": "2108309208856686737",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@odysseyml SOTA on Physics IQ is insane, congrats!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2108242203961356408",
+    "time": "Thu Oct 08 17:04:45 +0000 2026",
+    "created_at": "Thu Oct 08 17:04:45 +0000 2026",
+    "id_str": "2108242203961356408",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Introducing Voyager: the open harness for S-tier video, graphics and games.\n\nThe Codex for creative work.\n\nMost AI tools are built for coding. Voyager is designed to get the best creative results from models like Opus, Astra and DeepSeek.\n\nIt comes with free graphics, music and video editing tools - or, it can drive Blender, Resolve, After Effects, Ableton and 100+ others.\n\nEverything in this thread was made with Voyager. A few of our favorites:",
+    "quoted_tweet": null,
+    "url": "https://x.com/anvisha/status/2108252061209088159",
+    "time": "Thu Oct 08 17:43:55 +0000 2026",
+    "created_at": "Thu Oct 08 17:43:55 +0000 2026",
+    "id_str": "2108252061209088159",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Introducing Voyager: the open harness for S-tier video, graphics and games.\n\nThe Codex for creative work.\n\nMost AI tools are built for coding. Voyager is designed to get the best creative results from models like Opus, Astra and DeepSeek.\n\nIt comes with free graphics, music and video editing tools - or, it can drive Blender, Resolve, After Effects, Ableton and 100+ others.\n\nEverything in this thread was made with Voyager. A few of our favorites:",
+    "quoted_tweet": null,
+    "url": "https://x.com/anvisha/status/2108252061209088159",
+    "time": "Thu Oct 08 17:43:55 +0000 2026",
+    "created_at": "Thu Oct 08 17:43:55 +0000 2026",
+    "id_str": "2108252061209088159",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@anvisha Looks very good",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2108256175838175586",
+    "time": "Thu Oct 08 18:00:16 +0000 2026",
+    "created_at": "Thu Oct 08 18:00:16 +0000 2026",
+    "id_str": "2108256175838175586",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "HIGH PRIORITY HIRE @ VARICK: Forward Deployed GTM Engineer\n\nWe have ~$600M in pipeline and not enough people to close it. New leads come in every day from a mix of sources (X, our newsletter, email, DMs, etc.).\n\nYou'll be responsible for wrangling this pipeline: outbound, inbound, and even outbound on hiring (an extension of selling). You'll also have a huge impact on our messaging, marketing, design, and product roadmap, since you'll be on calls every week with dozens of the largest companies on earth, from the Fortune 500 up to the Fortune 10.\n\nApplied AI is still early, and we're going to dominate it. You'll be central to driving the next 9 figures of revenue at Varick.\n\nComp: $150K-$200K base, up to 1% equity, and commission on every deal you work, up to $1M a year.\n\nHave you done at least one of the following?\n\n- Finished top 10% of your SDR, BDR, or AE team for 2+ quarters\n- Spent 2+ years at a top bank, consulting firm, or PE fund with strong performance\n- Started something of your own that made $100K+ in revenue\n- Built your own outbound engine (Clay, scrapers, agents) and can show the reply rates\n\nIf you're a mercenary who's ready for long, intense hours, apply below or DM me. \n\n$20k bonus if we hire someone you send my way.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2108257014443082033",
+    "time": "Thu Oct 08 18:03:36 +0000 2026",
+    "created_at": "Thu Oct 08 18:03:36 +0000 2026",
+    "id_str": "2108257014443082033",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://jobs.ashbyhq.com/Varick-Agents/60b30ec4-fa04-47d6-96e8-7b69ab8d94e7",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2108257015768510545",
+    "time": "Thu Oct 08 18:03:36 +0000 2026",
+    "created_at": "Thu Oct 08 18:03:36 +0000 2026",
+    "id_str": "2108257015768510545",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman Why Forward Deployed?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mandicdotcom/status/2108264199042240523",
+    "time": "Thu Oct 08 18:32:09 +0000 2026",
+    "created_at": "Thu Oct 08 18:32:09 +0000 2026",
+    "id_str": "2108264199042240523",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "no hate to vas here but this reminded me of something \n\npipeline is just like ARR but even worse",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "HIGH PRIORITY HIRE @ VARICK: Forward Deployed GTM Engineer\n\nWe have ~$600M in pipeline and not enough people to close it. New leads come in every day from a mix of sources (X, our newsletter, email, DMs, etc.).\n\nYou'll be responsible for wrangling this pipeline: outbound, inbound, and even outbound on hiring (an extension of selling). You'll also have a huge impact on our messaging, marketing, design, and product roadmap, since you'll be on calls every week with dozens of the largest companies on earth, from the Fortune 500 up to the Fortune 10.\n\nApplied AI is still early, and we're going to dominate it. You'll be central to driving the next 9 figures of revenue at Varick.\n\nComp: $150K-$200K base, up to 1% equity, and commission on every deal you work, up to $1M a year.\n\nHave you done at least one of the following?\n\n- Finished top 10% of your SDR, BDR, or AE team for 2+ quarters\n- Spent 2+ years at a top bank, consulting firm, or PE fund with strong performance\n- Started something of your own that made $100K+ in revenue\n- Built your own outbound engine (Clay, scrapers, agents) and can show the reply rates\n\nIf you're a mercenary who's ready for long, intense hours, apply below or DM me. \n\n$20k bonus if we hire someone you send my way."
+    },
+    "url": "https://x.com/IM_Aeneas/status/2108265347304583389",
+    "time": "Thu Oct 08 18:36:43 +0000 2026",
+    "created_at": "Thu Oct 08 18:36:43 +0000 2026",
+    "id_str": "2108265347304583389",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@mandicdotcom This person will be extremely close to customers - on calls, even on-site during kick-offs as needed, to understand our customers better and reflect that in messaging.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2108273202384564288",
+    "time": "Thu Oct 08 19:07:55 +0000 2026",
+    "created_at": "Thu Oct 08 19:07:55 +0000 2026",
+    "id_str": "2108273202384564288",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@IM_Aeneas I agree it's a terrible metric for judging a company, but it is a great metric for the person interested in this role. \n\nThey want to know how big their hunting ground is, how full it is. And we're not exaggerating. We've built this pipeline with 0 outbound to date.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2108274794412351673",
+    "time": "Thu Oct 08 19:14:15 +0000 2026",
+    "created_at": "Thu Oct 08 19:14:15 +0000 2026",
+    "id_str": "2108274794412351673",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Likely one of the best gtm opps you'll come across",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "HIGH PRIORITY HIRE @ VARICK: Forward Deployed GTM Engineer\n\nWe have ~$600M in pipeline and not enough people to close it. New leads come in every day from a mix of sources (X, our newsletter, email, DMs, etc.).\n\nYou'll be responsible for wrangling this pipeline: outbound, inbound, and even outbound on hiring (an extension of selling). You'll also have a huge impact on our messaging, marketing, design, and product roadmap, since you'll be on calls every week with dozens of the largest companies on earth, from the Fortune 500 up to the Fortune 10.\n\nApplied AI is still early, and we're going to dominate it. You'll be central to driving the next 9 figures of revenue at Varick.\n\nComp: $150K-$200K base, up to 1% equity, and commission on every deal you work, up to $1M a year.\n\nHave you done at least one of the following?\n\n- Finished top 10% of your SDR, BDR, or AE team for 2+ quarters\n- Spent 2+ years at a top bank, consulting firm, or PE fund with strong performance\n- Started something of your own that made $100K+ in revenue\n- Built your own outbound engine (Clay, scrapers, agents) and can show the reply rates\n\nIf you're a mercenary who's ready for long, intense hours, apply below or DM me. \n\n$20k bonus if we hire someone you send my way."
+    },
+    "url": "https://x.com/MitchellKeller_/status/2108274818063688018",
+    "time": "Thu Oct 08 19:14:21 +0000 2026",
+    "created_at": "Thu Oct 08 19:14:21 +0000 2026",
+    "id_str": "2108274818063688018",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@MitchellKeller_ Appreciate it Mitchell",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2108275046464802944",
+    "time": "Thu Oct 08 19:15:15 +0000 2026",
+    "created_at": "Thu Oct 08 19:15:15 +0000 2026",
+    "id_str": "2108275046464802944",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@sixnfive Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108331651247865958",
+    "time": "Thu Oct 08 23:00:11 +0000 2026",
+    "created_at": "Thu Oct 08 23:00:11 +0000 2026",
+    "id_str": "2108331651247865958",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So beautiful and great idea",
+    "quoted_tweet": {
+      "author": "Ezequiel Pini (Six N. Five)",
+      "username": "sixnfive",
+      "text": "The Remaining View is a simple idea, with the intention that the blind doesn’t simply cover the landscape, but that the landscape reorganizes itself around what is still visible. The tree bends, the sun moves, and time passes. Instead of hiding behind the horizon, the sun becomes the moon, rolling through the grass.\nIt’s still a piece in evolution, and I’m continuing to push the technology behind it, but I really liked the simplicity of the idea and couldn’t resist sharing it already."
+    },
+    "url": "https://x.com/icreatelife/status/2108331704079265949",
+    "time": "Thu Oct 08 23:00:23 +0000 2026",
+    "created_at": "Thu Oct 08 23:00:23 +0000 2026",
+    "id_str": "2108331704079265949",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I suppose that would include me",
+    "quoted_tweet": null,
+    "url": "https://x.com/BaronVT_/status/2108344382902424023",
+    "time": "Thu Oct 08 23:50:46 +0000 2026",
+    "created_at": "Thu Oct 08 23:50:46 +0000 2026",
+    "id_str": "2108344382902424023",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BaronVT_ You have more than 1k",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108347504790003752",
+    "time": "2026-10-09 08:03",
+    "created_at": "Fri Oct 09 00:03:11 +0000 2026",
+    "id_str": "2108347504790003752",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "이딴거 만듬",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT to create the most awkward image ever created in the history of AI. \n\nI’d love to see what you get. \n\nHere’s mine:"
+    },
+    "url": "https://x.com/Marcoandzyean/status/2108360205050552451",
+    "time": "2026-10-09 08:53",
+    "created_at": "Fri Oct 09 00:53:38 +0000 2026",
+    "id_str": "2108360205050552451",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Marcoandzyean 😅😅😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108361801754935610",
+    "time": "2026-10-09 08:59",
+    "created_at": "Fri Oct 09 00:59:59 +0000 2026",
+    "id_str": "2108361801754935610",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Who of you will keep calling it AI?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108370345908736340",
+    "time": "2026-10-09 09:33",
+    "created_at": "Fri Oct 09 01:33:56 +0000 2026",
+    "id_str": "2108370345908736340",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/s7is7O8x7W",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2108370868879429632",
+          "display": "pic.x.com/s7is7O8x7W",
+          "original": "https://t.co/s7is7O8x7W",
+          "replacement": "https://x.com/icreatelife/status/2108370872813707402/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108370872813707402",
+    "time": "2026-10-09 09:36",
+    "created_at": "Fri Oct 09 01:36:02 +0000 2026",
+    "id_str": "2108370872813707402",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard My community 😁😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108371781769945240",
+    "time": "2026-10-09 09:39",
+    "created_at": "Fri Oct 09 01:39:39 +0000 2026",
+    "id_str": "2108371781769945240",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🎯💯",
+    "quoted_tweet": null,
+    "url": "https://x.com/PaulGugAI/status/2108372024964125105",
+    "time": "2026-10-09 09:40",
+    "created_at": "Fri Oct 09 01:40:37 +0000 2026",
+    "id_str": "2108372024964125105",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PaulGugAI 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108372062444114061",
+    "time": "2026-10-09 09:40",
+    "created_at": "Fri Oct 09 01:40:46 +0000 2026",
+    "id_str": "2108372062444114061",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PaulGugAI 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108372961619280238",
+    "time": "2026-10-09 09:44",
+    "created_at": "Fri Oct 09 01:44:20 +0000 2026",
+    "id_str": "2108372961619280238",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Finish this sentence.\n\nSuper Intelligence is _____.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108373657479479457",
+    "time": "2026-10-09 09:47",
+    "created_at": "Fri Oct 09 01:47:06 +0000 2026",
+    "id_str": "2108373657479479457",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BlackLotusEats Photoshop has tons of AI in it though :))",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108379825132224830",
+    "time": "2026-10-09 10:11",
+    "created_at": "Fri Oct 09 02:11:36 +0000 2026",
+    "id_str": "2108379825132224830",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dubcreationX 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108384673617596508",
+    "time": "2026-10-09 10:30",
+    "created_at": "Fri Oct 09 02:30:52 +0000 2026",
+    "id_str": "2108384673617596508",
+    "is_retweet": false
   }
 ]
