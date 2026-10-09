@@ -31,5 +31,94 @@
     "created_at": "Fri Oct 09 15:43:04 +0000 2026",
     "id_str": "2108584037451550741",
     "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@Duderichy I think she’s talking about GTM folks here and IMO it’s true",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2108579053590770148",
+    "time": "2026-10-09 23:23",
+    "created_at": "Fri Oct 09 15:23:16 +0000 2026",
+    "id_str": "2108579053590770148",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@tablefourthree I'm incapable of being cruel to anything - I carried a spider outside last night so my cat didn't eat it 😂\n\nAnd I personally don't speak rudely to LLMs, but I think it's kind of ridiculous to try to regulate how people talk to a computer (and a very slippery slope)",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2108581478829641737",
+    "time": "2026-10-09 23:32",
+    "created_at": "Fri Oct 09 15:32:54 +0000 2026",
+    "id_str": "2108581478829641737",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Wake up babe, the Pope is subtweeting Anthropic again",
+    "quoted_tweet": {
+      "author": "Pope Leo XIV",
+      "username": "Pontifex",
+      "text": "Intelligence must draw on memory. The mind must not simply compile data — as an algorithm now does more quickly than we can — but recall lived experiences, which contain depths of meaning that only the human soul can recognize, and connect more deeply with the goodness of these experiences.  Everything that is good begins “with the Spirit” and thus possesses a breath, a dynamism and a sense of communion that, once experienced, are engraved upon the heart. https://www.vatican.va/content/leo-xiv/en/homilies/2026/documents/20261008-messa-univ-pontificie.html"
+    },
+    "url": "https://x.com/venturetwins/status/2108581569757872581",
+    "time": "2026-10-09 23:33",
+    "created_at": "Fri Oct 09 15:33:16 +0000 2026",
+    "id_str": "2108581569757872581",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Gemini 4 Argon in Antigravity CLI 😍",
+    "quoted_tweet": null,
+    "url": "https://x.com/SmithaKolan/status/2108256222927589461",
+    "time": "Thu Oct 08 18:00:27 +0000 2026",
+    "created_at": "Thu Oct 08 18:00:27 +0000 2026",
+    "id_str": "2108256222927589461",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 这个文章有哪些创新？使用了哪些数据集？",
+    "quoted_tweet": {
+      "author": "NVIDIA Robotics",
+      "username": "NVIDIARobotics",
+      "text": "Turning a simulation idea into a working application takes a lot of work. Frontier AI agents are making it easier. 👏\n\nDevelopers are combining models like @OpenAI GPT-6 Astra with NVIDIA Omniverse libraries to prepare scenes, connect simulation tools, test physical behavior, and guide improvements.\n\nFrom humanoid simulators and driving test environments to digital twins and a browser-based space station, see how NVIDIA developers are bringing their ideas to life.\n\nSwipe to explore their latest projects and read our blog 👉 https://nvda.ws/47IhtoO"
+    },
+    "url": "https://x.com/seclink/status/2108403574170612071",
+    "time": "2026-10-09 11:45",
+    "created_at": "Fri Oct 09 03:45:58 +0000 2026",
+    "id_str": "2108403574170612071",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "NVIDIA just released a GR00T N1.7 robotics deployment model for SSD pickup on Hugging Face\n\nhttps://huggingface.co/nvidia/agile_one_s_pick_ssd_n17_58000",
+    "quoted_tweet": null,
+    "url": "https://x.com/HuggingPapers/status/2108515327105814725",
+    "time": "2026-10-09 19:10",
+    "created_at": "Fri Oct 09 11:10:02 +0000 2026",
+    "id_str": "2108515327105814725",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "学习一下.",
+    "quoted_tweet": {
+      "author": "NVIDIA Robotics",
+      "username": "NVIDIARobotics",
+      "text": "Use Codex to deploy a Gemma4-powered vision demo as a standalone kiosk on NVIDIA Jetson. \n\nAutomatic startup, live webcam descriptions, and local inference. No Mac required.\n\nWatch the tutorial 👉 https://www.youtube.com/watch?v=r_VP4E_Y3as"
+    },
+    "url": "https://x.com/seclink/status/2108558297033044425",
+    "time": "2026-10-09 22:00",
+    "created_at": "Fri Oct 09 14:00:47 +0000 2026",
+    "id_str": "2108558297033044425",
+    "is_retweet": false
   }
 ]
