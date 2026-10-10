@@ -1017,5 +1017,274 @@
     "created_at": "Sat Oct 10 14:34:02 +0000 2026",
     "id_str": "2108929051327095254",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 你们这档节目是我目前能够找到中文播客类里最好质量最高最及时的节目了！",
+    "quoted_tweet": null,
+    "url": "https://x.com/guansi/status/2108934239307878857",
+    "time": "2026-10-10 22:54",
+    "created_at": "Sat Oct 10 14:54:39 +0000 2026",
+    "id_str": "2108934239307878857",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@guansi 哈哈 AI Native 播客",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108942148242706500",
+    "time": "2026-10-10 23:26",
+    "created_at": "Sat Oct 10 15:26:05 +0000 2026",
+    "id_str": "2108942148242706500",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 会上架 apple 播客吗，搜不到",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavayW52170/status/2108960198056722910",
+    "time": "2026-10-11 00:37",
+    "created_at": "Sat Oct 10 16:37:48 +0000 2026",
+    "id_str": "2108960198056722910",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "给我的 Grok Bot 换个新头像",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108961526635983040",
+    "time": "2026-10-11 00:43",
+    "created_at": "Sat Oct 10 16:43:05 +0000 2026",
+    "id_str": "2108961526635983040",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@DavayW52170 国区麻烦",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108963692142563825",
+    "time": "2026-10-11 00:51",
+    "created_at": "Sat Oct 10 16:51:41 +0000 2026",
+    "id_str": "2108963692142563825",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "超有用的 GrokBot 用法：\n\n将复杂难阅读的推串内容变成长文档，在手机上阅读\n\n有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。\n\n我直接让 Grok bot 帮我拉取了所有内容：\n\n不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中文文章。\n\n在这种场景下简直太好用了，我直接在手机上就能看、能消化这些信息",
+    "quoted_tweet": {
+      "author": "Keenan Crane",
+      "username": "keenanisalive",
+      "text": "With everyone busily using LLMs + Blender/Three.js to make 3D models, I thought I'd try a different geometric representation.\n\nThis dragon isn't a mesh, NeRF, 3DGS, or video model: it's 27kb of GLSL code (generated via LLM), defining a closed-form implicit surface. 🧵 [1/n]"
+    },
+    "url": "https://x.com/op7418/status/2108966708740505828",
+    "time": "2026-10-11 01:03",
+    "created_at": "Sat Oct 10 17:03:40 +0000 2026",
+    "id_str": "2108966708740505828",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "笑死，在手机上还可以在即览里面打开获得更好的阅读效果",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108971987750298094",
+    "time": "2026-10-11 01:24",
+    "created_at": "Sat Oct 10 17:24:39 +0000 2026",
+    "id_str": "2108971987750298094",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 tried something like this on a long thread once. it dropped the tweet that mattered most",
+    "quoted_tweet": null,
+    "url": "https://x.com/serxzsz/status/2108974900601831530",
+    "time": "2026-10-11 01:36",
+    "created_at": "Sat Oct 10 17:36:13 +0000 2026",
+    "id_str": "2108974900601831530",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@serxzsz Haha, that's LLMs for you. You've got to stay on guard all the time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108979720188756103",
+    "time": "2026-10-11 01:55",
+    "created_at": "Sat Oct 10 17:55:22 +0000 2026",
+    "id_str": "2108979720188756103",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Energy capacity = economic capacity, in one chart\n\nThere are no low electricity, rich countries",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "\"Energy Capacity = Economic Capacity\"\n\nFormer Intel CEO Pat Gelsinger on why America's power grid is the ceiling on growth:\n\n\"We went through 10 to 15 years where essentially I was taking coal offline at the rate I was adding renewables, and essentially the nation was flatlined in terms of overall energy capacity.\"\n\n\"So essentially our economic capacity as a nation, flat for fifteen years.\"\n\n\"Even with that, we've gone to maybe increasing our national energy capacity 4% per year. Going from essentially zero to one.\"\n\n\"Nuclear as base load is a fabulous thing that we want to go build more of. Unfortunately all of our renewables have deep dependencies in China.\"\n\n\"Energy capacity somewhat dampens how euphoric we can get on AI. Why build a new data center and buy the million GPUs if I can't power them?\"\n\n@PGelsinger @RaghuRaghuram @appenz"
+    },
+    "url": "https://x.com/a16z/status/2108950777440165999",
+    "time": "2026-10-11 00:00",
+    "created_at": "Sat Oct 10 16:00:22 +0000 2026",
+    "id_str": "2108950777440165999",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Since ChatGPT launched, call center jobs slowed or fell in every country listed below, except China\n\nOther white-collar roles kept growing\n\nCharts of the Week: https://www.a16z.news/p/this-week-in-charts-are-prediction",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Call center jobs grew ~4% annually for 15 years\n\nNow they’re shrinking 4% annually\n\nCharts of the Week: https://www.a16z.news/p/this-week-in-charts-are-prediction"
+    },
+    "url": "https://x.com/a16z/status/2108965850544005533",
+    "time": "2026-10-11 01:00",
+    "created_at": "Sat Oct 10 17:00:16 +0000 2026",
+    "id_str": "2108965850544005533",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Figma's Dylan Field says our definition of \"slop\" keeps silently moving:\n\n\"I said, 'AI will lower the floor and raise the ceiling.' And I had to correct myself, because actually that's not what we're seeing yet.\"\n\n\"We're seeing it lower the floor. It's more democratized to do something. But the ceiling doesn't seem to have changed.\"\n\n\"Anything you can verify, AI's great at. Math being number one, maybe cybersecurity number two... You get five designers in a room, they can't agree all the time on exactly what they should do. And that's what's interesting about design. There is not one solution.\"\n\n\"A lot of the stuff that we call slop wouldn't be stuff we'd call slop a month ago or two months ago. As the models change, our definition of slop changes.\"\n\n\"The craft that you imbue into something is reflective of your thinking. It's reflective of your care. People pick up on it. Whether they can articulate it or not, they can tell.\"\n\n\"It creates a lower bound that you have to exceed, but it doesn't define the upper bound. You define the ceiling.\"\n\n@zoink w/ @sophiadew on @MTSLive",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2109003648034615343",
+    "time": "2026-10-11 03:30",
+    "created_at": "Sat Oct 10 19:30:27 +0000 2026",
+    "id_str": "2109003648034615343",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "真特么夸张😂\n\nClaude 半年封禁了 1140 万个账号\n\nAnthropic 公布的透明度数据还显示，仅2026 年上半年就封禁了1140万个账户，收到 39.8 万次申诉\n\n其中只有4.2 万个被撤销了封禁（其中包括我，好幸运）🤣\n\n哪些情况可能被封？官方列出的范围包括违反使用政策、服务条款，以及支持地区政策。\n\n这份报告也披露了儿童安全报告、政府数据请求、用户自伤风险应对和恶意使用监测等内容。\n\n向美国国家失踪与受剥削儿童中心（NCMEC）提交报告：15,079 份\n\n•  通过哈希匹配识别已知儿童性虐待材料的报告：12,614 份\n\n•  通过机器学习分类器识别此前未确认或未建立哈希的相关材料：2,018 份\n\n•  其他儿童性虐待与剥削风险报告：193 份，包括诱骗、人口贩运或未成年人面临紧迫危险等。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108955802480615551",
+    "time": "2026-10-11 00:20",
+    "created_at": "Sat Oct 10 16:20:20 +0000 2026",
+    "id_str": "2108955802480615551",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "仅半年\nClaude就封禁了 1140 万个账号🙂",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "真特么夸张😂\n\nClaude 半年封禁了 1140 万个账号\n\nAnthropic 公布的透明度数据还显示，仅2026 年上半年就封禁了1140万个账户，收到 39.8 万次申诉\n\n其中只有4.2 万个被撤销了封禁（其中包括我，好幸运）🤣\n\n哪些情况可能被封？官方列出的范围包括违反使用政策、服务条款，以及支持地区政策。\n\n这份报告也披露了儿童安全报告、政府数据请求、用户自伤风险应对和恶意使用监测等内容。\n\n向美国国家失踪与受剥削儿童中心（NCMEC）提交报告：15,079 份\n\n•  通过哈希匹配识别已知儿童性虐待材料的报告：12,614 份\n\n•  通过机器学习分类器识别此前未确认或未建立哈希的相关材料：2,018 份\n\n•  其他儿童性虐待与剥削风险报告：193 份，包括诱骗、人口贩运或未成年人面临紧迫危险等。"
+    },
+    "url": "https://x.com/xiaohu/status/2108958622067962177",
+    "time": "2026-10-11 00:31",
+    "created_at": "Sat Oct 10 16:31:32 +0000 2026",
+    "id_str": "2108958622067962177",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife with dalle 1\nmidjourney 2 and 3",
+    "quoted_tweet": null,
+    "url": "https://x.com/deerfan96/status/2108933329693168051",
+    "time": "2026-10-10 22:51",
+    "created_at": "Sat Oct 10 14:51:02 +0000 2026",
+    "id_str": "2108933329693168051",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@deerfan96 So nostalgic",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108936522565132478",
+    "time": "2026-10-10 23:03",
+    "created_at": "Sat Oct 10 15:03:43 +0000 2026",
+    "id_str": "2108936522565132478",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Just another attempt to anthropomorphize it so then they can progress to having the right politicians “advocate” for it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/PaineofGlass/status/2108937780541985244",
+    "time": "2026-10-10 23:08",
+    "created_at": "Sat Oct 10 15:08:43 +0000 2026",
+    "id_str": "2108937780541985244",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PaineofGlass Likely it’s about data training",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108948937587454391",
+    "time": "2026-10-10 23:53",
+    "created_at": "Sat Oct 10 15:53:03 +0000 2026",
+    "id_str": "2108948937587454391",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kawaii_ai_zoo Awww cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108949633187639578",
+    "time": "2026-10-10 23:55",
+    "created_at": "Sat Oct 10 15:55:49 +0000 2026",
+    "id_str": "2108949633187639578",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife no need for Blender yet, just Opus in web browser natively.",
+    "quoted_tweet": null,
+    "url": "https://x.com/edmondyang/status/2108951188473327650",
+    "time": "2026-10-11 00:02",
+    "created_at": "Sat Oct 10 16:02:00 +0000 2026",
+    "id_str": "2108951188473327650",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "That really depends on the complexity of the scenes and if you use external models. For example, Opus doesn’t want to model cybertrucks as a known brand but it’s okay if you use an external model with a license. So there’re still limitations what you can use in web browser natively, blender is way more limitless",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108951770781155679",
+    "time": "2026-10-11 00:04",
+    "created_at": "Sat Oct 10 16:04:19 +0000 2026",
+    "id_str": "2108951770781155679",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Are they trying to anthropomorphize their models as if they really had feelings? 🤔",
+    "quoted_tweet": null,
+    "url": "https://x.com/MyEdTechLife/status/2108969308353429768",
+    "time": "2026-10-11 01:14",
+    "created_at": "Sat Oct 10 17:14:00 +0000 2026",
+    "id_str": "2108969308353429768",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MyEdTechLife Don’t think so. Likely it is connected with data",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108974052799070302",
+    "time": "2026-10-11 01:32",
+    "created_at": "Sat Oct 10 17:32:51 +0000 2026",
+    "id_str": "2108974052799070302",
+    "is_retweet": false
   }
 ]
