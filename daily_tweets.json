@@ -1,1 +1,356 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I stepped out of \"Musk,\" an operatically stupid four-hour hit piece, admiring @elonmusk more than ever before. It's an inadvertant love song to American innovation as told by the dumb losers who build nothing and complain about everything.\nhttps://www.thefp.com/p/elon-musk-new-documentary-enemies-best-case",
+    "quoted_tweet": null,
+    "url": "https://x.com/liel/status/2108649532611498340",
+    "time": "2026-10-10 04:03",
+    "created_at": "Fri Oct 09 20:03:20 +0000 2026",
+    "id_str": "2108649532611498340",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink Mobile is on a role!   Thank you ANATEL and @Baigorri1984 for approving Starlink Mobile’s priority spectrum rights to serve the  great people of Brazil.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Gwynne_Shotwell/status/2108681960029831359",
+    "time": "2026-10-10 06:12",
+    "created_at": "Fri Oct 09 22:12:11 +0000 2026",
+    "id_str": "2108681960029831359",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Assorted things I've been mulling over regarding agents in the economy:\n\n• Companies are in some sense the original superintelligence. It's often the case that they can use their amortized cognitive surplus to advance their interests against those of certain consumers: relative to the optimization capacity of companies, consumers can be inattentive, underinformed, irrational, etc. (Think, say, of some of the classic insurance upsells at the end of a booking process, which is typically priced substantially above what a regular policy would cost.) Herbert Simon introduced the idea of bounded rationality, and firms often end up benefiting from it. Thanks to personal agents, we will probably get somewhat more rational in how we engage with companies.\n\n• How exactly will outcomes change? Well, certain kinds of price discrimination will work less well (how do coupons work if every agent hunts fastidiously for them?), and certain kinds of customer cross-subsidy will change (today, people who forget to cancel subscriptions subsidize those who don't). Taken across the economy as a whole, I'm not sure what the incidence of all of this will be.\n\n• In corporate strategy, people have long debated the relative importance of distribution and product quality. Perhaps you've made something better, but does anyone know about it? Won't people just continue to buy the ACME Corp Mousetraps? Personal agents will, I think, act as a kind of structural subsidy for product quality. How would markets look different if individuals always spent at least 10 hours researching their purchases? On the margin, focusing on making a product better is, I think, going to become a more effective strategy for companies. This is good!\n\n• It true, a corollary is that information about product quality will become more important and impactful. Today, most people have very limited ability to aggregate and integrate such data, but agents will have insatiable thirst for such signals. (It's often said that data is becoming more valuable because it helps in the training of models. That's obviously true, but I think there's a secondary way in which it's more valuable simply as a complement to cheaper intelligence.)\n\n• A big question is whether agents will increase superstar effects (rational agents all settle on the same product) or increase dispersion (because everyone has slightly different tastes and preferences, which agents are good at eliciting, finally overcoming the artificial clustering we've been subjected to).\n\n• Many internet companies have monetized demand routing, which is in turn often predicated on short attention spans. \"I'll click on the first thing I see.\" This has led to some amount of inefficiency, as companies try to propitiate capricious ranking algorithms and incur various placement fees. It's not all deadweight loss (willingness to pay is itself a kind of signal, which is valuable to buyers), but it's not great. How will the nature and value of this routing change in a world of personal agents? I don't know the answer, but I think that the effects might be pretty big.\n\n• Much of what I'm writing hinges on the assumption that personal agents will be on the consumer's side. I suspect that that will be the winning strategy, but whether it's true, and what it means to be true, involves a lot of other questions.\n\nTaken as a whole, the market is a massively parallelized, decentralized, and highly imperfect value attribution machine, and, taking stock of all of the effects, it seems to me that the quality point may well be the biggest: that agents will change the nature of the backpropagation such that the rewards for better products increase. Maybe this is too optimistic, but I suspect (and hope) that companies that make things that they're proud of will feel that the universe is a little more partisan in their favor.",
+    "quoted_tweet": null,
+    "url": "https://x.com/patrickc/status/2108706907859116280",
+    "time": "2026-10-10 07:51",
+    "created_at": "Fri Oct 09 23:51:19 +0000 2026",
+    "id_str": "2108706907859116280",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "India has among the fastest and cheapest internet in the world, with remarkable coverage too… for $4/mo you get 60GB of super fast internet that works perfectly even in my random family village\n\nI love Starlink and think India should give them a license, but I wonder how many people will pay $27/mo (what they charge in Rwanda, currently the cheapest market).\n\nIndia already has excellent connectivity, and the rural areas where Starlink would be most useful are also where people can least afford it.\n\nThis license thing feels similar to the US not allowing Chinese cars… is there a different way I should be thinking about it?",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Dear Prime Minister Ambani,\n\nPlease accept my humble apologies for not realizing that you are the real boss of India. \n\nNaturally, you would prefer to maintain your monopolistic exploitation of the great people of India, but would you nonetheless consider allowing Starlink to compete? \n\nThere are many areas of India, as there are in all countries, with no Internet access, which denies children the opportunity for education and for small businesses the opportunity to sell their goods to a global market. Starlink would change their lives for the better. \n\nThank you 🙏"
+    },
+    "url": "https://x.com/pitdesi/status/2108710322559504604",
+    "time": "2026-10-10 08:04",
+    "created_at": "Sat Oct 10 00:04:53 +0000 2026",
+    "id_str": "2108710322559504604",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "For those impacted by the earthquake in Panama, Starlink is providing free service through November 10 to new and existing customers in the affected areas. We are coordinating with emergency response agencies to help restore connectivity in the hardest-hit communities   → http://starlink.com/support/article/fb3c70ea-4b79-1d07-5021-e4fba40152d5",
+    "quoted_tweet": null,
+    "url": "https://x.com/Starlink/status/2108712075371712825",
+    "time": "2026-10-10 08:11",
+    "created_at": "Sat Oct 10 00:11:51 +0000 2026",
+    "id_str": "2108712075371712825",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "He did tell us the plan",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@wintonARK Revenue growth is insane. Never seen anything like it."
+    },
+    "url": "https://x.com/ArthurMacwaters/status/2108726650435502450",
+    "time": "2026-10-10 09:09",
+    "created_at": "Sat Oct 10 01:09:46 +0000 2026",
+    "id_str": "2108726650435502450",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Waymo and Zoox first impressions\n\nI use self driving on my Tesla all the time, but I finally got around to trying the commercial autonomous ride hailing services this week in Las Vegas.\n\nThe biggest issue by far is the very limited pickup and dropoff points, and only having a couple minutes to get to them resulted in a bit of a rush.\n\nIf you are going to have a small-integer number of locations, you should make it super-obvious where those locations are. Waymo included a picture, but it was a rather undistinguished parking garage image and it wasn’t clear which floor it was on. Being able to switch the map to an aerial photography view might be helpful in some cases. Pan-able 360 photos of the target points might also be helpful.\n\nThe first Zoox ride was flawless, but we had a lengthy walk to get to our actual destination.\n\nThe first Waymo ride was a little rougher. It felt more indecisive with steering, like Teslas did a couple years ago. This was still early-access in Vegas, so it is probably better in the active commercial markets.\n\nThe second Zoox ride had a small incident – there was another Zoox ahead of us at a stoplight (and a Waymo and another Zoox next to us!) that repeatedly tried to back up into our Zoox, to the point that ours actually honked at the one ahead of it a couple times. Eventually, after multiple light cycles, ours started to tentatively try to get around it, which left it partway into the next lane and distressingly close to a fast moving semi. The one ahead finally moved, and the ride continued normally.\n\nOverall, the Zoox experience felt a bit more charming than the Waymo, with several nice little touches, but they both get the job done. I still need to try a Cybercab.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ID_AA_Carmack/status/2108755421716521331",
+    "time": "2026-10-10 11:04",
+    "created_at": "Sat Oct 10 03:04:05 +0000 2026",
+    "id_str": "2108755421716521331",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@pitdesi If the existing internet is better, great. Then they won’t be hurt by a little more competition. \n\nFor people who don’t have any access at all, it will be helpful.",
+    "quoted_tweet": null,
+    "url": "https://x.com/wholemars/status/2108766306128351638",
+    "time": "2026-10-10 11:47",
+    "created_at": "Sat Oct 10 03:47:21 +0000 2026",
+    "id_str": "2108766306128351638",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ArthurMacwaters I stole the plan from @SouthPark",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108767817390592266",
+    "time": "2026-10-10 11:53",
+    "created_at": "Sat Oct 10 03:53:21 +0000 2026",
+    "id_str": "2108767817390592266",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Obviously",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@ArthurMacwaters I stole the plan from @SouthPark"
+    },
+    "url": "https://x.com/elonmusk/status/2108768021527613825",
+    "time": "2026-10-10 11:54",
+    "created_at": "Sat Oct 10 03:54:10 +0000 2026",
+    "id_str": "2108768021527613825",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ID_AA_Carmack Robot cars arguing with each other 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108771768622055874",
+    "time": "2026-10-10 12:09",
+    "created_at": "Sat Oct 10 04:09:03 +0000 2026",
+    "id_str": "2108771768622055874",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@anabology SpaceX is The Spacing Guild (but nicer)",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108773857704448127",
+    "time": "2026-10-10 12:17",
+    "created_at": "Sat Oct 10 04:17:21 +0000 2026",
+    "id_str": "2108773857704448127",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Super Persuasion",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108775514194473144",
+    "time": "2026-10-10 12:23",
+    "created_at": "Sat Oct 10 04:23:56 +0000 2026",
+    "id_str": "2108775514194473144",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@cb_doge It’s true",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108777305740890280",
+    "time": "2026-10-10 12:31",
+    "created_at": "Sat Oct 10 04:31:03 +0000 2026",
+    "id_str": "2108777305740890280",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@liel 🦾😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108779379455103133",
+    "time": "2026-10-10 12:39",
+    "created_at": "Sat Oct 10 04:39:17 +0000 2026",
+    "id_str": "2108779379455103133",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla is hiring a Machine Learning Engineer for Realtime Games, Digital Optimus, in Palo Alto. The job: build agents that play AAA games, browse the web and use pro apps at superhuman levels. Why games? Digital Optimus, the Tesla and xAI project Musk announced in March, reads screen video and acts with a keyboard and mouse. AAA games are a safe, endless, real-time proving ground for exactly that, the same approach DeepMind's SIMA uses. Tesla's posting says it will benchmark how skills transfer across games, general computer use, FSD and Optimus. https://www.tesla.com/careers/search/job/machine-learning-engineer-realtime-games-digital-optimus--285962",
+    "quoted_tweet": null,
+    "url": "https://x.com/teslayoda/status/2108779986173993233",
+    "time": "2026-10-10 12:41",
+    "created_at": "Sat Oct 10 04:41:42 +0000 2026",
+    "id_str": "2108779986173993233",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Good writer",
+    "quoted_tweet": {
+      "author": "liel leibovitz",
+      "username": "liel",
+      "text": "I stepped out of \"Musk,\" an operatically stupid four-hour hit piece, admiring @elonmusk more than ever before. It's an inadvertant love song to American innovation as told by the dumb losers who build nothing and complain about everything.\nhttps://www.thefp.com/p/elon-musk-new-documentary-enemies-best-case"
+    },
+    "url": "https://x.com/elonmusk/status/2108782131845755156",
+    "time": "2026-10-10 12:50",
+    "created_at": "Sat Oct 10 04:50:14 +0000 2026",
+    "id_str": "2108782131845755156",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Yesssss",
+    "quoted_tweet": {
+      "author": "X",
+      "username": "X",
+      "text": "post before you talk yourself out of it"
+    },
+    "url": "https://x.com/elonmusk/status/2108782334980096377",
+    "time": "2026-10-10 12:51",
+    "created_at": "Sat Oct 10 04:51:02 +0000 2026",
+    "id_str": "2108782334980096377",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "holy shit this movie seems even more retarded than I could have imagined",
+    "quoted_tweet": null,
+    "url": "https://x.com/wholemars/status/2108796236144975937",
+    "time": "2026-10-10 13:46",
+    "created_at": "Sat Oct 10 05:46:16 +0000 2026",
+    "id_str": "2108796236144975937",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Less than one hour until Falcon 9’s launch of the @SemperCitiusSDA's fourth Tranche 1 mission from California. Weather is 80% favorable for liftoff, and propellant load will begin shortly → https://spacex.com/launches/sda-t1tl-a",
+    "quoted_tweet": null,
+    "url": "https://x.com/SpaceX/status/2108812445557084274",
+    "time": "2026-10-10 14:50",
+    "created_at": "Sat Oct 10 06:50:41 +0000 2026",
+    "id_str": "2108812445557084274",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wholemars 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108813515003977798",
+    "time": "2026-10-10 14:54",
+    "created_at": "Sat Oct 10 06:54:56 +0000 2026",
+    "id_str": "2108813515003977798",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": ".@Starlink will revolutionize India, particularly rural areas with no internet. So I made a petition just for Indian villagers who currently have NO INTERNET to show how much they want and need Starlink. \nhttps://starlinkforindia.grok.me/",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavidMKeyes/status/2108814248629424308",
+    "time": "2026-10-10 14:57",
+    "created_at": "Sat Oct 10 06:57:51 +0000 2026",
+    "id_str": "2108814248629424308",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wholemars @pitdesi 🎯",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108815681642741943",
+    "time": "2026-10-10 15:03",
+    "created_at": "Sat Oct 10 07:03:33 +0000 2026",
+    "id_str": "2108815681642741943",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "SpaceX is once again stepping up to help people affected by natural disasters ❤️\n\nFollowing the earthquake in Panama, SpaceX is providing FREE Starlink internet service through November 10 to customers in affected areas\n\nSpaceX is also offering free replacements for damaged Starlink kits\n\nAnd through its partner +Móvil, Starlink Mobile is enabling satellite SMS nationwide for 48 hours in areas without traditional cellular coverage, helping people stay connected with their loved ones\n\nWhen disasters strike and traditional networks fail, Starlink becomes a lifeline for people who need help the most\n\nThis is why Starlink is such an important, life-saving technology ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/XFreeze/status/2108816769477689796",
+    "time": "2026-10-10 15:07",
+    "created_at": "Sat Oct 10 07:07:52 +0000 2026",
+    "id_str": "2108816769477689796",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Watch Falcon 9 launch the @SemperCitiusSDA’s fourth Tranche 1 data transport mission to low-Earth orbit https://x.com/i/broadcasts/1jGXgBoBYkRKZ",
+    "quoted_tweet": null,
+    "url": "https://x.com/SpaceX/status/2108821569225310335",
+    "time": "2026-10-10 15:26",
+    "created_at": "Sat Oct 10 07:26:56 +0000 2026",
+    "id_str": "2108821569225310335",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "We’re making interesting progress here. \n\nDigital Optimus can play about halfway through the Diablo campaign so far just by looking at the screen like a human. \n\nSkill at Counter-Strike and other fast games is good too. \n\nLeague is also in training. \n\nGoal is to generalize across all games.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2108823477071303109",
+    "time": "2026-10-10 15:34",
+    "created_at": "Sat Oct 10 07:34:31 +0000 2026",
+    "id_str": "2108823477071303109",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "we want to start testing a Midjourney MCP with a limited community. the intention is to find creative and technical people to push the boundaries of what our models can do. this is not for Midjourney in SaaS products, it's for purely artistic and creative endeavors. apply below!",
+    "quoted_tweet": null,
+    "url": "https://x.com/midjourney/status/2108717365068509447",
+    "time": "2026-10-10 08:32",
+    "created_at": "Sat Oct 10 00:32:52 +0000 2026",
+    "id_str": "2108717365068509447",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@midjourney Down",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2108753347469537282",
+    "time": "2026-10-10 10:55",
+    "created_at": "Sat Oct 10 02:55:51 +0000 2026",
+    "id_str": "2108753347469537282",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "TRON's post-quantum cryptography is now live on testnet. We're closely tracking progress in quantum computing and AI, and we're ready to bring quantum resistance to mainnet at any time. \n\nWe're committed to keeping user assets secure, and TRON is set to be one of the few major blockchains that is quantum-resistant before Q-Day. $TRX",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2108795299783168505",
+    "time": "2026-10-10 13:42",
+    "created_at": "Sat Oct 10 05:42:33 +0000 2026",
+    "id_str": "2108795299783168505",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "孙学第二卷视频版正式上线！\n专为 20–40 岁中国年轻人打造的《AI 时代全球生存指南》。\n4.5 小时深度对谈，不讲空话。\n全网免费观看，看完你会知道：\nAI 时代，机会在哪里，你该如何上车！",
+    "quoted_tweet": {
+      "author": "邵艾伦Alan（薄肌版）",
+      "username": "AlanShao111",
+      "text": "对话孙宇晨：年轻人如何抓住AI时代的机会？"
+    },
+    "url": "https://x.com/justinsuntron/status/2108797058811637877",
+    "time": "2026-10-10 13:49",
+    "created_at": "Sat Oct 10 05:49:33 +0000 2026",
+    "id_str": "2108797058811637877",
+    "is_retweet": false
+  }
+]
