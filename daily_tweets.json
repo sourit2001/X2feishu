@@ -1,1 +1,366 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "分享一个大幅增强 Grok Bot 跑长任务能力，让你的 bot 可以无缝用 Codex、Claude Code 的额度 👇\n\n@op7418 前两天分享了个好方法：在 Grok 电脑上装一个第三方 CLI agent，比如 Codex、Claude Code、Pi，长任务交给它们，就能烧它们的额度。\n\n但 Grok Bot 有个很难受的点：它不能像 CC、Codex 那样，在任务结束时及时收到完成提醒。\n所以基本上，要么 Bot 每隔几分钟消耗额度去看一眼，要么得等你问一句「好了没」才回去看。\n\n终于我找到了一个方法，能够让 Grok Bot 在跑外部长任务的时候都能及时收到完成提醒，并继续计划。\n而且这样，在派出外部任务的时候，就不阻塞 Grok Bot，一个 bot 能同步干很多事情。\n\n方法很简单，把这个 skill 发给你的主 Bot，让它装上就行 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/eze_is_1/status/2108856871948042652",
+    "time": "2026-10-10 17:47",
+    "created_at": "Sat Oct 10 09:47:13 +0000 2026",
+    "id_str": "2108856871948042652",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 还是你的灵感给的好！本来一直没兴趣用 grok，结果打开了新世界\nGrok bot 要火",
+    "quoted_tweet": null,
+    "url": "https://x.com/eze_is_1/status/2108878584614101323",
+    "time": "2026-10-10 19:13",
+    "created_at": "Sat Oct 10 11:13:30 +0000 2026",
+    "id_str": "2108878584614101323",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@eze_is_1 对 能力虽然是一样的 但是产品形态变了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108885330720178626",
+    "time": "2026-10-10 19:40",
+    "created_at": "Sat Oct 10 11:40:18 +0000 2026",
+    "id_str": "2108885330720178626",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "谁能想到只播了 5 期 订阅就超 7000 了",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。\n\n我们继续聊了聊关于 personal agent 的话题：\n• 为什么 Dots 这么难用\n• 为什么国内 personal agent 可能不成立\n\n也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。\n\n第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！"
+    },
+    "url": "https://x.com/op7418/status/2108917380600791463",
+    "time": "2026-10-10 21:47",
+    "created_at": "Sat Oct 10 13:47:39 +0000 2026",
+    "id_str": "2108917380600791463",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 恭喜大佬",
+    "quoted_tweet": null,
+    "url": "https://x.com/amigolu_/status/2108918490598146462",
+    "time": "2026-10-10 21:52",
+    "created_at": "Sat Oct 10 13:52:04 +0000 2026",
+    "id_str": "2108918490598146462",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@amigolu_ 谢谢(🙏ˊᗜˋ*)",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108922382346031482",
+    "time": "2026-10-10 22:07",
+    "created_at": "Sat Oct 10 14:07:32 +0000 2026",
+    "id_str": "2108922382346031482",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 这速度太快了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2108928969433285021",
+    "time": "2026-10-10 22:33",
+    "created_at": "Sat Oct 10 14:33:42 +0000 2026",
+    "id_str": "2108928969433285021",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@oran_ge 相当离谱了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108930589172826384",
+    "time": "2026-10-10 22:40",
+    "created_at": "Sat Oct 10 14:40:09 +0000 2026",
+    "id_str": "2108930589172826384",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "claude 和 codex 会话的上下文（包括artifacts），一定要放到 工程项目当中去，无论如何封号，都可以无缝衔接。\n\n而且，跟 AI 的会话恰恰是最好的项目上下文资料。@dotey",
+    "quoted_tweet": null,
+    "url": "https://x.com/xDinoDeer/status/2108897219546091587",
+    "time": "2026-10-10 20:27",
+    "created_at": "Sat Oct 10 12:27:33 +0000 2026",
+    "id_str": "2108897219546091587",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xDinoDeer 可以试试第三方的 Agent，基于各家 Harness 封了一层，还是用它们的订阅，比如：https://github.com/getpaseo/paseo\n\n然后定制化把session都保存起来",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108907932960084399",
+    "time": "2026-10-10 21:10",
+    "created_at": "Sat Oct 10 13:10:07 +0000 2026",
+    "id_str": "2108907932960084399",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@readyfor2025 牛逼",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108869448493150393",
+    "time": "2026-10-10 18:37",
+    "created_at": "Sat Oct 10 10:37:12 +0000 2026",
+    "id_str": "2108869448493150393",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "豆包工作画布大升级：一块画板让你自由发挥\n\n我自己测试了下，确实很强大🫡\n\n只给一张小互形象图，长出表情、服装、盲盒周边、快闪店，一本 24000px 的 VI 手册，还有电商页和招商 Deck....\n\n一张婚礼合照 → 生成分层图（被花挡住的部分自动补画）→ 导出 PSD → 写成会动的 HTML 邀请页\n\n让它用 HTML 出一组中秋海报，10 张版式完全统一\n\n豆包工作画布其实一个能把设计项目从头跑到尾的 Agent\n，能在一张画布上直观的查看你所有项目，同时还能进行实时编辑 \n\n 提示词模板和详细操作测试教程放在下面👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108874566906876063",
+    "time": "2026-10-10 18:57",
+    "created_at": "Sat Oct 10 10:57:32 +0000 2026",
+    "id_str": "2108874566906876063",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "详细实测教程：\n\nhttps://mp.weixin.qq.com/s/NnH6PI6yWOYQQe_OBzK1cw",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108874569591537890",
+    "time": "2026-10-10 18:57",
+    "created_at": "Sat Oct 10 10:57:33 +0000 2026",
+    "id_str": "2108874569591537890",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "视频是Grok 自己剪辑的 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108875536315580669",
+    "time": "2026-10-10 19:01",
+    "created_at": "Sat Oct 10 11:01:23 +0000 2026",
+    "id_str": "2108875536315580669",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "上周参加了LibTV AI短片黑客松活动...\n\n嘿嘿，只是去现场观摩，不是去比赛啊\n\n感叹高手就是高手啊，也感叹，即使AI能力再强，如果想再短时间内完成好的作品，审美和专业知识经验还是非常重要的...\n\n下面这些AI短片都是通过LibTV的工具在48小时内容完成的，你们看看...\n\n虽然现在的工具能让人人都制作一些小短片了，但是要达到能看好看的，还是需要经验加成的...\n\n比如下面这部\n\n金奖/最佳导演作品《抵达之前》",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108884435487908043",
+    "time": "2026-10-10 19:36",
+    "created_at": "Sat Oct 10 11:36:45 +0000 2026",
+    "id_str": "2108884435487908043",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "最佳视效成就奖《幕》",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108884449685553372",
+    "time": "2026-10-10 19:36",
+    "created_at": "Sat Oct 10 11:36:48 +0000 2026",
+    "id_str": "2108884449685553372",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "先锋探索奖《白鸟》",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108884451912745153",
+    "time": "2026-10-10 19:36",
+    "created_at": "Sat Oct 10 11:36:49 +0000 2026",
+    "id_str": "2108884451912745153",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 互开通的是那个会员呀，使用bot",
+    "quoted_tweet": null,
+    "url": "https://x.com/fanjinglian/status/2108903422674243851",
+    "time": "2026-10-10 20:52",
+    "created_at": "Sat Oct 10 12:52:12 +0000 2026",
+    "id_str": "2108903422674243851",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@fanjinglian P+",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108904579484238093",
+    "time": "2026-10-10 20:56",
+    "created_at": "Sat Oct 10 12:56:47 +0000 2026",
+    "id_str": "2108904579484238093",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife theme is my island and village in corsica with a 90ish vibe",
+    "quoted_tweet": null,
+    "url": "https://x.com/Aizen2A/status/2108814304107471223",
+    "time": "2026-10-10 14:58",
+    "created_at": "Sat Oct 10 06:58:04 +0000 2026",
+    "id_str": "2108814304107471223",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Is this a hint that Anthropic suspects that it's AI might be conscious and has it's own feelings?",
+    "quoted_tweet": null,
+    "url": "https://x.com/DanielM51664716/status/2108831424992416130",
+    "time": "2026-10-10 16:06",
+    "created_at": "Sat Oct 10 08:06:06 +0000 2026",
+    "id_str": "2108831424992416130",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DanielM51664716 Not at all, likely just the training data might be affected",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108832593693278351",
+    "time": "2026-10-10 16:10",
+    "created_at": "Sat Oct 10 08:10:45 +0000 2026",
+    "id_str": "2108832593693278351",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Aizen2A Those are so beautiful and detailed",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108832678250225756",
+    "time": "2026-10-10 16:11",
+    "created_at": "Sat Oct 10 08:11:05 +0000 2026",
+    "id_str": "2108832678250225756",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Wasting too many tokens animating in Blender with AI. You could spend far fewer tokens using video generation models like Seedance or Imagine. You also get worse results animating in Blender.",
+    "quoted_tweet": null,
+    "url": "https://x.com/refreshinga/status/2108837047389831641",
+    "time": "2026-10-10 16:28",
+    "created_at": "Sat Oct 10 08:28:27 +0000 2026",
+    "id_str": "2108837047389831641",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@refreshinga That’s not how it works. \n\nMost animators now use Blender for complex scenes that Seedance 2.5 by itself can’t handle without a reference. You generate that with Opus, and then use it in SD 2.5 \nIt really helps with complex consistency.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108838195890958706",
+    "time": "2026-10-10 16:33",
+    "created_at": "Sat Oct 10 08:33:00 +0000 2026",
+    "id_str": "2108838195890958706",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Try the prompt by @icreatelife",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "I came up with this weekend prompt for you to illustrate your dream room in different eras 🥹 \n\nFew of my favorite results. As always, I’d love to see yours. \n\nPrompt 👇"
+    },
+    "url": "https://x.com/AndreasRothe9/status/2108843468034584647",
+    "time": "2026-10-10 16:53",
+    "created_at": "Sat Oct 10 08:53:57 +0000 2026",
+    "id_str": "2108843468034584647",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AndreasRothe9 Lovely result",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108844851236147276",
+    "time": "2026-10-10 16:59",
+    "created_at": "Sat Oct 10 08:59:27 +0000 2026",
+    "id_str": "2108844851236147276",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@thatroblennon You are a nice person \n\n$12k wow! I would love to hear that story",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108845069226615173",
+    "time": "2026-10-10 17:00",
+    "created_at": "Sat Oct 10 09:00:19 +0000 2026",
+    "id_str": "2108845069226615173",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "😅😅😅",
+    "quoted_tweet": {
+      "author": "Terkel",
+      "username": "terkelg",
+      "text": "made a rug for your desktop so you can sweep your mess under it"
+    },
+    "url": "https://x.com/icreatelife/status/2108858496850780183",
+    "time": "2026-10-10 17:53",
+    "created_at": "Sat Oct 10 09:53:41 +0000 2026",
+    "id_str": "2108858496850780183",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@terkelg You made my evening 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108858552827916617",
+    "time": "2026-10-10 17:53",
+    "created_at": "Sat Oct 10 09:53:54 +0000 2026",
+    "id_str": "2108858552827916617",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "SLOPCORE!\n\nmade with **claude opus 5.5 max**. + suno v6\nkinda good  model untuk buat video style macam ni, tapi boleh la. 💀\n\nanyways, enjoy it while it lasts.\n\n**title:** TUHAN DALAM SERVER FARM \n**genre:** slopcore\n*another ai-generated existential crisis, powered by tokens, gpu dan bil elektrik.*\n\n**MEJALISM CORP.**",
+    "quoted_tweet": null,
+    "url": "https://x.com/EndaJapar/status/2108824524443840715",
+    "time": "2026-10-10 15:38",
+    "created_at": "Sat Oct 10 07:38:41 +0000 2026",
+    "id_str": "2108824524443840715",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "LET THE AGENTS WORK.\nTAKE YOUR WEEKEND BACK.\nDEAD PIXELS.\nAI SLOP.",
+    "quoted_tweet": null,
+    "url": "https://x.com/NURM_Dima/status/2108835173252968590",
+    "time": "2026-10-10 16:21",
+    "created_at": "Sat Oct 10 08:21:00 +0000 2026",
+    "id_str": "2108835173252968590",
+    "is_retweet": true
+  }
+]
