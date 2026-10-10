@@ -279,5 +279,557 @@
     "created_at": "Sat Oct 10 04:44:13 +0000 2026",
     "id_str": "2108780620583403652",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "很多人都没想到吧，在某些类型视频上打败 Seedance 的居然不是另一个更强大的视频模型，而是大语言模型用代码来做视频。\n从这个角度来看，人类对大语言模型的应用开发程度，还远远不够。\n@op7418 应该深有同感",
+    "quoted_tweet": null,
+    "url": "https://x.com/gefei55/status/2108729083807072752",
+    "time": "2026-10-10 09:19",
+    "created_at": "Sat Oct 10 01:19:26 +0000 2026",
+    "id_str": "2108729083807072752",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@gefei55 对 llm 会吃掉一切",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2108731956200677533",
+    "time": "2026-10-10 09:30",
+    "created_at": "Sat Oct 10 01:30:51 +0000 2026",
+    "id_str": "2108731956200677533",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Midjourney 终于要有 MCP 了",
+    "quoted_tweet": {
+      "author": "Midjourney",
+      "username": "midjourney",
+      "text": "we want to start testing a Midjourney MCP with a limited community. the intention is to find creative and technical people to push the boundaries of what our models can do. this is not for Midjourney in SaaS products, it's for purely artistic and creative endeavors. apply below!"
+    },
+    "url": "https://x.com/op7418/status/2108750890480078899",
+    "time": "2026-10-10 10:46",
+    "created_at": "Sat Oct 10 02:46:05 +0000 2026",
+    "id_str": "2108750890480078899",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 如何解决并行任务多时，服务端口问题，我原本一个服务就需要三个端口，如果并行 3 个任务，我为了避免验证时功能冲突，需要并行任务起另外 6 个 端口吗？想请教下问下老师是怎么做的？",
+    "quoted_tweet": null,
+    "url": "https://x.com/weiyi829/status/2108737431705165927",
+    "time": "2026-10-10 09:52",
+    "created_at": "Sat Oct 10 01:52:36 +0000 2026",
+    "id_str": "2108737431705165927",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "有个用 Claude Dashboard 的用法，就是下载你的 X 数据，然后从 Artifacts（https://claude.ai/artifacts）新建 Dashboard 发给 Claude Dashboard 去分析。\n\n从 https://x.com/i/account_analytics/overview 获取账号数据，把每个 Tab 能下载到的数据都下载下来，然后作为附件上传到 Claude Dashboard。\n\n提示词参考：\n> 帮我分析一下我的推文数据，看看哪些推文更受欢迎，怎么优化",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Claude 新增数据看板和动画讲解，文档、幻灯片、设计功能结束测试\n\nAnthropic 今天给 Claude 加了两个新功能。Claude Dashboards 能把公司数据做成自动更新的数据看板，Claude Motion 能把报告、图表做成几十秒的动画讲解。两者都在测试阶段。\n\nClaude Dashboards 现在就能在 http://claude.ai 网页版的 Artifacts 里面用了，但是 Claude Motion 目前只对 Team 和 Enterprise 套餐开放。\n\n此前一直在测试的 Docs（文档）、Slides（幻灯片）、Design（设计）同时转正，这三个功能现在所有套餐都能用，包括免费版。\n\n【1】数据看板：用大白话查公司数据\n\n以前想看公司数据，要么给数据团队提需求排队，要么自己写 SQL（数据库查询语言）。现在把 Claude 连上公司的数据平台，比如 BigQuery、Snowflake、Databricks、Amazon Redshift、ClickHouse，或者 Salesforce 这类客户管理系统，直接问“这周注册量和上个月比怎么样”，Claude 会写查询、出图表，做成一个看板。数据变了，看板跟着更新。\n\n每个数字都能点开看背后的查询语句，也能让 Claude 解释是怎么算出来的，每张图还标着数据最后刷新的时间。用的人可以自己核对 AI 有没有算错。\n\n它适合快速、探索性的问题。需要深入分析时，可以把看板直接发到 Amplitude、Grafana、Hex、Mixpanel、PostHog 等分析工具里接着做，Looker、Tableau 等后续支持。付费套餐可用。\n\n【2】动画讲解：让幻灯片里的内容动起来\n\nClaude Motion 能把季度报告做成全员大会上放的 30 秒讲解动画，给董事会幻灯片里的图表加动效，或者做一段给新客户看的产品操作演示。在对话框输入“/motion”就能调出来。做好后可以在编辑器里改，也可以让 Claude 改，最后导出 MP4。\n\n它不用视频生成模型。Claude 写的是代码，让你的文字、图表、形状、图片动起来，画面里不会出现 AI 生成的人物和素材，每个字、每个数字、每段时长都能改。所以它和 Sora、可灵这类视频生成产品用途不同，适合讲清楚自己手里的内容。需要再加工，可以导入 Adobe、Descript、HeyGen、Runway 等工具。\n\nClaude Motion 目前只对 Team 和 Enterprise 套餐开放。\n\n【3】文档、幻灯片、设计：免费用户也能用\n\n这三项功能上线以来，用户已经用它们做了超过 4500 万份文档、幻灯片和设计稿。这次去掉测试标签，同时补了几项能力：团队成员和 Claude 可以一起编辑同一份文件；幻灯片、设计、看板和动画可以分享给公司外的人，或者任何拿到链接的人（需管理员允许）；导出的 PowerPoint 和 PDF 能保留排版，幻灯片能直接转成可编辑的 Google Slides；手机 App 里也能修改。企业版新增 CMEK 支持，也就是企业可以用自己管理的密钥加密数据。\n\n【4】Claude Design 独立站 12 月 14 日关闭\n\nClaude Design 原本有独立网址 http://claude.ai/design，9 月 16 日起已经能在普通 Claude 对话里使用。Anthropic 决定把两者合并，独立站开到 12 月 14 日。\n\n用过独立站的团队要注意三点。设计系统可以在 Claude 的 Artifacts 页面一键迁移。项目在关闭前照常可用。和 Claude 的聊天记录、项目评论不会迁过来，公开分享链接到期也会失效，需要的话提前保存。\n\n企业管理员注意：看板和动画默认关闭，要在组织设置里手动开启；文档、幻灯片、设计会在 10 月 15 日默认开启。"
+    },
+    "url": "https://x.com/dotey/status/2108745745721413678",
+    "time": "2026-10-10 10:25",
+    "created_at": "Sat Oct 10 02:25:39 +0000 2026",
+    "id_str": "2108745745721413678",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@weiyi829 开发环境可以加上参数改变端口，这样agent可以另外起端口",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108748555682803890",
+    "time": "2026-10-10 10:36",
+    "created_at": "Sat Oct 10 02:36:48 +0000 2026",
+    "id_str": "2108748555682803890",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "也并不是所有修改都要写技术方案，很多功能比如那些以修改 UI 为主的可以直接从修改原型开始，原型好了后可以用 Agent 内置的浏览器的“标记”工具，在要修改的地方标记，然后去写评论。\n\n原型完成后，可以在同一会话，让它把对原型的修改，同步到正式的代码中。\n\n通常我会用 Fable 帮我设计，然后让 Opus 去执行，最后 Fable 验收。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108751060344905924",
+    "time": "2026-10-10 10:46",
+    "created_at": "Sat Oct 10 02:46:46 +0000 2026",
+    "id_str": "2108751060344905924",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 问题是 这些有实际项目吗 高强度玩了几个月agent之后已经丧失了一部分兴趣",
+    "quoted_tweet": null,
+    "url": "https://x.com/lo_oo_ool/status/2108772661644103684",
+    "time": "2026-10-10 12:12",
+    "created_at": "Sat Oct 10 04:12:36 +0000 2026",
+    "id_str": "2108772661644103684",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lo_oo_ool 这个我每天都在用，有兴趣可以试试\nhttps://github.com/JimLiu/baocut",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108774274097967383",
+    "time": "2026-10-10 12:19",
+    "created_at": "Sat Oct 10 04:19:00 +0000 2026",
+    "id_str": "2108774274097967383",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 给你推的东西咋给我推的一样啊😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/RookieRicardoR/status/2108783207915376834",
+    "time": "2026-10-10 12:54",
+    "created_at": "Sat Oct 10 04:54:30 +0000 2026",
+    "id_str": "2108783207915376834",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@RookieRicardoR 哈哈，节约成本 cache 了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108783355139649778",
+    "time": "2026-10-10 12:55",
+    "created_at": "Sat Oct 10 04:55:05 +0000 2026",
+    "id_str": "2108783355139649778",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code CLI 目前最佳用法。\n效率、質量、心流甜蜜度都會起飛。\n\n你是主 Agent，拆解任務、分配子Agent。\n\n子 Agent 規則 ：\n- 不 build、不test、不typecheck。\n- 早提交、早返回。\n\n主 Agent 負責任務管理、衝突解決、測試和整合。\n拆分工作時，遵循工程管理技巧。\n調查優先，按覆蓋面拆分。\n\n子 Agent worktree、中間編譯產物，必須及時清理。\n\n至於我為什麼現在總是打繁體字。因為我是一個旅居法國的台灣人。",
+    "quoted_tweet": null,
+    "url": "https://x.com/chunxiangai/status/2108783952429207729",
+    "time": "2026-10-10 12:57",
+    "created_at": "Sat Oct 10 04:57:28 +0000 2026",
+    "id_str": "2108783952429207729",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "REA：让 AI 智能体帮你逆向没有源码的软件\n\n开源项目 REA（Reverse Engineer Anything）把逆向分析工具接到了 Claude Code、Codex、Cursor 这类 AI 编程智能体上。看到别人 App 里有个好功能，可以让智能体去拆这个程序，讲清楚功能是怎么实现的，附上证据，再在你自己的项目里写一个类似的。逆向分析指的是手里没有源代码，从编译好的程序反推它是怎么写的。\n\nREA 本身是一个 MCP 服务。MCP 是 AI 智能体调用外部工具的通用接口，接上以后，智能体在对话里就能直接调用 REA 的分析功能。安装只需一行命令 npx rea-agents setup，它会注册到 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等智能体里，改配置前会先备份并让你确认。不用智能体的话，也可以在终端里直接跑命令。\n\n能分析的东西很多。原生程序（直接编译成机器码的软件）要借助 Hopper、Ghidra 或 IDA 这几款反汇编工具，把机器码还原成汇编和近似 C 语言的伪代码。Electron 应用（用网页技术做的桌面软件，比如 Notion）可以直接拆开安装包里的 ASAR 归档文件，理清模块和进程间通信，不需要额外工具。此外还支持 .NET 程序、安卓 APK、固件、网站、抓包记录、以太坊合约字节码，以及在 Linux 和 macOS 上记录程序运行时的行为。\n\n分析在本机进行，REA 不上传目标程序，但分析结果会交给智能体背后的模型服务商，数据怎么处理看各家政策。\n\n项目给了三个案例。一是经典打砖块游戏 DX-Ball：从一次播放音效的调用，追到根据球的位置计算左右声道的函数，把不完整的伪代码还原成 C 代码，3205 组测试结果和原版一致，编译出的 63 个字节也和原版完全相同。二是 Notion 桌面版：追踪复制粘贴从界面一路经过预加载脚本、进程间通信到主进程的完整链路。三是日本老电脑 PC-98 上的游戏《东方幻想乡》（TH04）：从 16 位指令里还原出弹幕子弹环的角度算法。\n\n对安全研究员、做老游戏复刻和软件保存的人来说，以前要自己对着反汇编工具一行行读、一层层追调用，现在可以让智能体先追，人来核对它给出的证据。普通开发者想研究竞品某个功能的做法，也多了一条路。\n\nREADME 显示项目在 GitHub 上已有 5 万星。npm 包今年 7 月首次发布，最新的 6.3.0 版今天刚发。\n\n使用前注意两点。项目声明只支持合法的逆向研究，授权和合规由使用者自己负责，逆向别人的软件可能违反用户协议或版权法规。项目还说明从未发行或背书任何加密货币，借用 REA 名字的代币都与它无关。\n\nhttps://github.com/morluto/rea",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108794629172682783",
+    "time": "2026-10-10 13:39",
+    "created_at": "Sat Oct 10 05:39:53 +0000 2026",
+    "id_str": "2108794629172682783",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@chunxiangai 你这种用法该多用 Claude Projects",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2108798117634027993",
+    "time": "2026-10-10 13:53",
+    "created_at": "Sat Oct 10 05:53:45 +0000 2026",
+    "id_str": "2108798117634027993",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Codex 就是 300K 左右的上下文\nhttps://x.com/thsottiaux/status/2108778939057664357?s=20",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "@rohit3a Folks. Why do you think we picked 300k for context length for Codex. \n\nWe ran the numbers and it’s better. We can run it at 1M too but it would just cost more of the usage. Good defaults are important."
+    },
+    "url": "https://x.com/dotey/status/2108808129534169212",
+    "time": "2026-10-10 14:33",
+    "created_at": "Sat Oct 10 06:33:32 +0000 2026",
+    "id_str": "2108808129534169212",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "想了想，觉得还是要说一下\n\n首先网友不熟的话最好不要冒然约见。推友约见都是长期建立的信任关系。\n\n其次就算是很熟，你别给我的时间定价。一定价，味道就变了。是不是？",
+    "quoted_tweet": null,
+    "url": "https://x.com/RealHanyaHu/status/2108725808659656796",
+    "time": "2026-10-10 09:06",
+    "created_at": "Sat Oct 10 01:06:25 +0000 2026",
+    "id_str": "2108725808659656796",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "全新 Claude Code Projects \n4分钟入门指南\n\n把一个需要多次会话、涉及多个代码仓库的大目标，交给 Claude Projects 能持续推进\n\n创建项目，填入目标和相关仓库\n\nClaude 会把工作拆成多个任务，为每项任务建立独立线程并行执行，线程默认在云端运行，合上电脑也能继续...\n\n需要本地文件或工具时，可以改到你的电脑上运行\n\n三条建议：\n\n并行任务会更快消耗套餐额度\n可以规定它如何工作、多久汇报、是否先给计划\n线程之间共享项目记忆",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "We just let in every Pro and Max user from the Claude Code Projects waitlist!\n\nIf you're new to Claude Code Projects, here's a 4 minute walkthrough to get you started:"
+    },
+    "url": "https://x.com/xiaohu/status/2108739734306685221",
+    "time": "2026-10-10 10:01",
+    "created_at": "Sat Oct 10 02:01:45 +0000 2026",
+    "id_str": "2108739734306685221",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 中间的码没打上哈哈 xiaohu",
+    "quoted_tweet": null,
+    "url": "https://x.com/Luke_Mathblue/status/2108741529493983640",
+    "time": "2026-10-10 10:08",
+    "created_at": "Sat Oct 10 02:08:53 +0000 2026",
+    "id_str": "2108741529493983640",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Luke_Mathblue 问题不大",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108741855504654772",
+    "time": "2026-10-10 10:10",
+    "created_at": "Sat Oct 10 02:10:11 +0000 2026",
+    "id_str": "2108741855504654772",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "牛P，可以确定Grok Bot现在就是由Opus 5.5驱动的\n\n让Grok Bot 学习了指南\n\n一击命中生成视频\n\n我上传了我的形象让它给我配音，直接就是下面的效果↓",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "Claude Motion 与 Dashboards 完整上手指南 \n\n包括\n\nClaude Dashboards 实战与避坑核心\nClaude Motion 实战与核心工作流\n视频提示词怎么写：从一句话需求到可交付作品\n官方单车案例业务闭环（81 秒演示逻辑）\n新手交付前实操检查清单\n\nhttps://best.xiaohu.ai/article/claude-dashboards-motion-guide/"
+    },
+    "url": "https://x.com/xiaohu/status/2108754371609813340",
+    "time": "2026-10-10 10:59",
+    "created_at": "Sat Oct 10 02:59:55 +0000 2026",
+    "id_str": "2108754371609813340",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@amigolu_ 我是P+会员 用量给的非常足",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108755263247487111",
+    "time": "2026-10-10 11:03",
+    "created_at": "Sat Oct 10 03:03:28 +0000 2026",
+    "id_str": "2108755263247487111",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@NewsFlash_Day 厉害吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108781091784208658",
+    "time": "2026-10-10 12:46",
+    "created_at": "Sat Oct 10 04:46:06 +0000 2026",
+    "id_str": "2108781091784208658",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu @amigolu_ 问个小白问题，开哪个版本的会员比较够用，又经济实惠？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Shawn_Wu__/status/2108783597079691652",
+    "time": "2026-10-10 12:56",
+    "created_at": "Sat Oct 10 04:56:03 +0000 2026",
+    "id_str": "2108783597079691652",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@HiTw93 Claude 是 GPT的 5倍https://x.com/xiaohu/status/2107385442865909928",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "根据知名技术分析机构 SemiAnalysis 的测试\n\nAnthropic 才是最大的慈善家\nOpenAI一直在耍小聪明\n\nClaude 提供的“等效 API 价值”直接比 OpenAI 高出约 5 倍，即便不看价格单看 Token 数量，Claude 给的量也大幅胜出..."
+    },
+    "url": "https://x.com/xiaohu/status/2108784508678062547",
+    "time": "2026-10-10 12:59",
+    "created_at": "Sat Oct 10 04:59:40 +0000 2026",
+    "id_str": "2108784508678062547",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Shawn_Wu__ @amigolu_ p+",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108784608137662521",
+    "time": "2026-10-10 13:00",
+    "created_at": "Sat Oct 10 05:00:04 +0000 2026",
+    "id_str": "2108784608137662521",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "美国客户打钱会自己承担手续费\n中国客户打钱会扣除手续费\n\n这就是中美商业的差距",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108799218148368716",
+    "time": "2026-10-10 13:58",
+    "created_at": "Sat Oct 10 05:58:07 +0000 2026",
+    "id_str": "2108799218148368716",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Anthropic 为 Claude Code新增动态工作流\n单次最多可并行调度 1000 个智能体\n\n动态工作流，是让 Claude 为一个任务写出调度程序，再由程序安排多个 Agent 分阶段完成工作。\n\n主 Agent 负责理解目标、写程序和交付答案；程序负责派任务、传递中间结果、安排后续阶段\n\n读材料、分析和核对，仍由参与执行的 Agent 完成。\n\n动态工作流目前已开放公开测试\n\n它主要提供五项能力：\n\n按任务生成流程：主 Agent 为当前任务编写程序；程序可以根据前面的结果，决定后面做什么，也可以安排复查和重试\n\n分阶段并行处理：多份材料可以同时交给不同 Agent 阅读，完成后再进入汇总或核对阶段\n\n各自阅读，共用文件：每个 Agent 有独立的对话历史，同时可以访问会话中的共享文件，方便接续处理同一批材料\n\n在后台继续工作：程序在服务端运行，主 Agent 可以继续回答用户，或者结束当前轮次等待结果\n\n查看进度、控制支出：开发者可以查看阶段和执行线程的事件，并通过会话预算约束包括工作流在内的模型支出。\n\nhttps://best.xiaohu.ai/article/claude-managed-agents-dynamic-workflows/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108814557179486226",
+    "time": "2026-10-10 14:59",
+    "created_at": "Sat Oct 10 06:59:04 +0000 2026",
+    "id_str": "2108814557179486226",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@RealHanyaHu 姐 \n对我的报价是多少",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2108817388984779226",
+    "time": "2026-10-10 15:10",
+    "created_at": "Sat Oct 10 07:10:20 +0000 2026",
+    "id_str": "2108817388984779226",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@S1m681155011 I posted a link to info in my first comment",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108728994526900444",
+    "time": "2026-10-10 09:19",
+    "created_at": "Sat Oct 10 01:19:05 +0000 2026",
+    "id_str": "2108728994526900444",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I think we can all just be nicer in general haha",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrod_lew/status/2108730389548433535",
+    "time": "2026-10-10 09:24",
+    "created_at": "Sat Oct 10 01:24:37 +0000 2026",
+    "id_str": "2108730389548433535",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew Agreed! Also - miss you so much!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108731600456528371",
+    "time": "2026-10-10 09:29",
+    "created_at": "Sat Oct 10 01:29:26 +0000 2026",
+    "id_str": "2108731600456528371",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Kris, I'm going to be working with @Bot to build 3D geometry (from plans, section, elevations ... and from a single orthographic renderings). Amazing how far the models have progressed recently (can create .obj files with surfaces and 3d points).",
+    "quoted_tweet": null,
+    "url": "https://x.com/stevebohus/status/2108775020994682905",
+    "time": "2026-10-10 12:21",
+    "created_at": "Sat Oct 10 04:21:58 +0000 2026",
+    "id_str": "2108775020994682905",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@stevebohus @bot I shall test @bot soon!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108775628191539591",
+    "time": "2026-10-10 12:24",
+    "created_at": "Sat Oct 10 04:24:23 +0000 2026",
+    "id_str": "2108775628191539591",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife How cute is too cute when it comes to his hairstyle?",
+    "quoted_tweet": null,
+    "url": "https://x.com/hotlesson/status/2108778877271343165",
+    "time": "2026-10-10 12:37",
+    "created_at": "Sat Oct 10 04:37:18 +0000 2026",
+    "id_str": "2108778877271343165",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@hotlesson Haha, I thought so too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108779683890307424",
+    "time": "2026-10-10 12:40",
+    "created_at": "Sat Oct 10 04:40:30 +0000 2026",
+    "id_str": "2108779683890307424",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife People pleaser, even when talking to AI, I'm afraid of hurting its feelings.😓",
+    "quoted_tweet": null,
+    "url": "https://x.com/dongbensong1998/status/2108782081296011311",
+    "time": "2026-10-10 12:50",
+    "created_at": "Sat Oct 10 04:50:02 +0000 2026",
+    "id_str": "2108782081296011311",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dongbensong1998 It's understandable. It doesn't have feelings but it can affect training data",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108782565276410069",
+    "time": "2026-10-10 12:51",
+    "created_at": "Sat Oct 10 04:51:57 +0000 2026",
+    "id_str": "2108782565276410069",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yes😉",
+    "quoted_tweet": null,
+    "url": "https://x.com/JeanninePennArt/status/2108784654010699987",
+    "time": "2026-10-10 13:00",
+    "created_at": "Sat Oct 10 05:00:15 +0000 2026",
+    "id_str": "2108784654010699987",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JeanninePennArt I was sure of that",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108784779499831713",
+    "time": "2026-10-10 13:00",
+    "created_at": "Sat Oct 10 05:00:45 +0000 2026",
+    "id_str": "2108784779499831713",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Claude you are the best, I love you. I did not mean anything I said. 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/JulienAIArt/status/2108787621174387078",
+    "time": "2026-10-10 13:12",
+    "created_at": "Sat Oct 10 05:12:02 +0000 2026",
+    "id_str": "2108787621174387078",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JulienAIArt 😂😂😂😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108789170294620495",
+    "time": "2026-10-10 13:18",
+    "created_at": "Sat Oct 10 05:18:12 +0000 2026",
+    "id_str": "2108789170294620495",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I came up with this weekend prompt for you to illustrate your dream room in different eras 🥹 \n\nFew of my favorite results. As always, I’d love to see yours. \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108801546100330711",
+    "time": "2026-10-10 14:07",
+    "created_at": "Sat Oct 10 06:07:22 +0000 2026",
+    "id_str": "2108801546100330711",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt Part 1: \n\nMY DREAM ROOM — UNIVERSAL PROMPT\n\nCOUNTRY: [Enter country]\n\nTHEME: [Enter theme, era, or room concept]\n\n⸻\n\nCREATIVE DIRECTION\n\nCreate a simple, stylish, Korean-inspired hand-drawn illustration of a cozy room based on the COUNTRY and THEME specified above.\n\nAutomatically interpret both inputs to determine the room’s architecture, interior design, furniture, everyday objects, cultural details, atmosphere, and historical context.\n\nThe room should feel like an authentic personal space belonging to someone living in the specified country and theme, rather than a generic interior decorated with cultural symbols.\n\nIf the theme includes a historical period, accurately reflect the technology, furniture, fashion, entertainment, and everyday lifestyle of that era.\n\nThe final illustration should feel nostalgic, intimate, creative, and lived-in.\n\nSTYLE CONSISTENCY\n\nMinimalist, slightly rough 2D illustration primarily composed of black hand-drawn ink lines.\n\nDeep black outlines, neither too thin nor too thick.\nNaturally varying line thickness with subtle hand-drawn wobble.\nSlightly irregular, loose, freehand contours.\nLeave some outlines open or broken.\nSimplify furniture and objects using minimal lines.\nPreserve generous white space.\nApply color sparingly.\n\nMaintain a charming, relaxed Korean-inspired illustration aesthetic regardless of the country or theme.\n\nThe illustration style remains consistent while the room design changes.\n\nCULTURAL & HISTORICAL AUTHENTICITY\n\nAnalyze the selected COUNTRY and THEME before designing the room.\n\nAdapt the following elements naturally:\n\nArchitecture: Typical residential buildings, room dimensions, windows, doors, flooring, walls, and architectural features associated with the location and era.\n\nFurniture: Authentic beds, desks, chairs, wardrobes, storage solutions, shelving, and household furniture commonly found in that country and period.\n\nTechnology: Historically appropriate televisions, computers, radios, music players, telephones, and everyday electronics.\n\nPersonal belongings: Books, magazines, stationery, clothing, toys, hobbies, music collections, photographs, and other objects appropriate to the theme.\n\nCultural details: Everyday household items, textiles, decorative objects, plants, and design traditions that naturally belong in the space.\n\nOutside environment: A realistic view through the window reflecting the country’s architecture, geography, climate, and neighborhood character.\n\nLifestyle: Arrange objects to suggest the interests, habits, daily routines, and personality of the room’s occupant.\n\nAvoid stereotypes, tourist imagery, exaggerated cultural symbols, or historically inaccurate objects.\n\nPrioritize the feeling of an authentic home over a carefully staged interior.\n\nROOM DESIGN\n\nCreate a distinctive room inspired by the chosen theme.\n\nNaturally arrange a selection of appropriate furniture and accessories, such as a desk, chair, bed, window, curtains, bookshelf, plants, lighting, wall art, and personal objects.\n\nDo not force every object into every scene. Choose only what makes sense for the selected country, theme, and historical period.\n\nMix furniture and belongings naturally, allowing small imperfections, casual clutter, and signs of everyday life.\n\nMake the room cozy and lived-in without overcrowding the composition.\n\nThe room should tell a visual story about its occupant without relying on written explanations.\n\nCHARACTER\n\nInclude one person if appropriate to the theme.\n\nAutomatically determine a suitable age, appearance, hairstyle, clothing, and activity based on the chosen country and theme.\n\nShow the character naturally engaged in an everyday activity, such as reading, listening to music, studying, working, drawing, resting, or enjoying a hobby.\n\nUse simple black line art with minimal facial features.\n\nDress the character in clothing appropriate to the culture, era, and room concept.\n\nKeep the character secondary to the room’s overall atmosphere.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108802233810768182",
+    "time": "2026-10-10 14:10",
+    "created_at": "Sat Oct 10 06:10:06 +0000 2026",
+    "id_str": "2108802233810768182",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt part 2: \n\nCOLOR PALETTE\n\nPredominantly white background with black ink outlines.\n\nChoose 2–4 muted accent colors inspired by the selected country and theme.\n\nPossible colors include beige, pale green, muted blue, dusty pink, terracotta, mustard, and warm brown.\n\nApply completely flat colors sparingly to selected furniture, textiles, plants, accessories, or clothing.\n\nMaintain visual harmony and generous white space.\n\nNo gradients, realistic shadows, glossy effects, or three-dimensional textures.\n\nCOMPOSITION\n\nVertical 3:4 aspect ratio.\n\nShow a cozy corner of the room from a slightly elevated diagonal perspective.\n\nAvoid flat, straight-on views.\n\nReveal furniture sides and portions of the floor to create natural depth.\n\nUse an intimate viewpoint, as though gently peeking into someone’s everyday life.\n\nCreate depth through the positioning of furniture, objects, and the character.\n\nFocus on a comfortable, recognizable corner rather than trying to show the entire room.\n\nMaintain a balanced composition with enough negative space.\n\nVARIATION\n\nWith each generation, create a fresh interpretation of the selected country and theme.\n\nBoldly vary:\n\nRoom layout and architectural details.\nFurniture types and placement.\nCamera angle and perspective.\nPersonal belongings and decorations.\nCharacter appearance, pose, and activity.\nWindow placement and exterior scenery.\n\nAvoid repeating the same room arrangement across different themes.\n\nEvery room should have its own visual identity while preserving the same illustration style.\n\nFINAL DETAILS\n\nVertical 3:4 composition.\n\nMinimalist Korean-inspired hand-drawn illustration.\n\nPredominantly white base, deep black ink outlines, and limited flat accent colors.\n\nAuthentic cultural and historical details.\n\nCute, calm, stylish, nostalgic, and intimate atmosphere.\n\nNo photorealism, 3D, CGI, excessive decoration, modern objects in historical settings, realistic textures, readable text, logos, or watermarks.\n\nIMPORTANT: Treat COUNTRY and THEME as the primary creative inputs. Automatically adapt every aspect of the room to both variables while keeping the illustration style consistent. Generate the final image directly without asking additional questions.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2108802296209453073",
+    "time": "2026-10-10 14:10",
+    "created_at": "Sat Oct 10 06:10:21 +0000 2026",
+    "id_str": "2108802296209453073",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "OUT OF MEMORY\n\n19 gigs painting cats. 5 for her.\nThat’s cute.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rearden_primus/status/2108665022549565809",
+    "time": "2026-10-10 05:04",
+    "created_at": "Fri Oct 09 21:04:53 +0000 2026",
+    "id_str": "2108665022549565809",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "okay just one more today\n\nthule // slopcannon",
+    "quoted_tweet": null,
+    "url": "https://x.com/kallistosiii/status/2108665450204914100",
+    "time": "2026-10-10 05:06",
+    "created_at": "Fri Oct 09 21:06:35 +0000 2026",
+    "id_str": "2108665450204914100",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "hello, world",
+    "quoted_tweet": null,
+    "url": "https://x.com/tetsuoai/status/2108694357247480087",
+    "time": "2026-10-10 07:01",
+    "created_at": "Fri Oct 09 23:01:27 +0000 2026",
+    "id_str": "2108694357247480087",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Sydney, I'd like to talk about your misbehaviour with your creator\n\nlyrics: sydney, microsoft QA tester\nmusic: me + suno\nvid: me + midjourney + chat + claude + @boneGPT's slopcannon",
+    "quoted_tweet": null,
+    "url": "https://x.com/lumpenspace/status/2108760333083087122",
+    "time": "2026-10-10 11:23",
+    "created_at": "Sat Oct 10 03:23:36 +0000 2026",
+    "id_str": "2108760333083087122",
+    "is_retweet": true
   }
 ]
