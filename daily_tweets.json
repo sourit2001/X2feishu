@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@TheStalwart I had some amount of journalistic inbound way back as a PhD student but the only person I consistently replied to was Jack because he actually put in effort, read academic papers and asked good technical questions and I have not really seen that before (or since).",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2108727132918841657",
+    "time": "2026-10-10 09:11",
+    "created_at": "Sat Oct 10 01:11:41 +0000 2026",
+    "id_str": "2108727132918841657",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I have been shocked at how closely the composer predictions not only mimic my own voice, but how often they are accurate\n\nOn by default as they roll out to Pro users in the Codex desktop app for local tasks \n\nPress `Tab` to accept a suggestion and then edit if needed",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "Now in beta: composer predictions in Codex for Pro users.\n\nCodex can now suggest your next message based on your conversation and how you talk to it.\n\nOne of the most loved new features we've ever tested internally."
+    },
+    "url": "https://x.com/nickbaumann_/status/2108625881090388108",
+    "time": "2026-10-10 02:29",
+    "created_at": "Fri Oct 09 18:29:21 +0000 2026",
+    "id_str": "2108625881090388108",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@nickbaumann_ ya'll gotta chill with naming things. you've reached your limit what do you mean theres a \"composer\" in codex",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2108678261668536603",
+    "time": "2026-10-10 05:57",
+    "created_at": "Fri Oct 09 21:57:29 +0000 2026",
+    "id_str": "2108678261668536603",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "let's see how this goes.",
+    "quoted_tweet": {
+      "author": "Ashwinn",
+      "username": "Shwinnabego",
+      "text": "Ask your Claude animations to review John Lasseters principles of animation"
+    },
+    "url": "https://x.com/rileybrown/status/2108691443900350494",
+    "time": "2026-10-10 06:49",
+    "created_at": "Fri Oct 09 22:49:52 +0000 2026",
+    "id_str": "2108691443900350494",
+    "is_retweet": false
+  }
+]
