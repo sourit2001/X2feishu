@@ -539,5 +539,322 @@
     "created_at": "Sun Oct 11 17:38:06 +0000 2026",
     "id_str": "2109337760557355177",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Next Token 上周的观察，再次领先国内其他媒体\n\n关于“一切都会被开源”和“游戏破解”这事，我们在前几天的播客里就非常详细地讨论过，今天突然就火了。\n\n业内的人还是可以多看看我们聊的这些东西。\n\n总结一下我们在播客里面的观点。",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Next Token 第 5 期更新了！如果你不太清楚国庆节期间发生了什么，刚好可以来补补课。\n\n我们继续聊了聊关于 personal agent 的话题：\n• 为什么 Dots 这么难用\n• 为什么国内 personal agent 可能不成立\n\n也详细聊了聊关于 AI 复刻任何软件可能会带来什么影响，最后还探讨了一些小硬件带来的机会。\n\n第 4 期在小宇宙获得了 1 万播放，我们才做了 5 期就到了 5,000 订阅，进展相当快！"
+    },
+    "url": "https://x.com/op7418/status/2109159416599883861",
+    "time": "2026-10-11 13:49",
+    "created_at": "Sun Oct 11 05:49:25 +0000 2026",
+    "id_str": "2109159416599883861",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 但就AI模型而言，最领先的为什么会是闭源模型呢？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Mikewake2000/status/2109159940493562031",
+    "time": "2026-10-11 13:51",
+    "created_at": "Sun Oct 11 05:51:30 +0000 2026",
+    "id_str": "2109159940493562031",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Mikewake2000 模型是唯一壁垒",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2109160303707759011",
+    "time": "2026-10-11 13:52",
+    "created_at": "Sun Oct 11 05:52:57 +0000 2026",
+    "id_str": "2109160303707759011",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "为什么这么说我？为了软件高质量，我用自己的钱来订阅全世界最好的最贵的且最难订阅的模型 7×24 小时去实现和满足每个用户的真实需求，而且是个完全免费的软件，怎么就在你的口中成了「快餐式服务」和「这种作者」了？看着你挂着 newapi 的官方 logo ，很颠覆 newapi 在我心中的形象，希望你积点口德。",
+    "quoted_tweet": {
+      "author": "Seefs",
+      "username": "Seefs_",
+      "text": "@ThirteenYizuka 快餐式服务嘛，有对应的受众的。这种作者从一开始也没打算把控住，最后成什么样子都无所谓，能跑就是胜利，更何况这个是个人用的软件有问题也基本不会造成什么影响。"
+    },
+    "url": "https://x.com/yetone/status/2109344227029320047",
+    "time": "2026-10-12 02:03",
+    "created_at": "Sun Oct 11 18:03:48 +0000 2026",
+    "id_str": "2109344227029320047",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yetone magpie 挺好用的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109366773200179296",
+    "time": "2026-10-12 03:33",
+    "created_at": "Sun Oct 11 19:33:23 +0000 2026",
+    "id_str": "2109366773200179296",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Figma's Dylan Field on why design is the new code, and where the value goes as models get better:\n\n\"If you believe that coding models will continue to get better, then you also believe that it's more outer loop architecture, the decisions you make about how to go build a system that matter, not the code itself.\"\n\n\"The code is material, and then the value rises to the top and that becomes brand, it becomes product design, your marketing, your point of view in the world, and I think overall your judgment calls and strategy.\"\n\n\"Product design is really at the center of a lot of that.\"\n\n\"For designers, they will have a bigger role to play if they step up. Not everyone will step up. Some people will be like, 'But I liked what I was doing.'\"\n\n \"Overall the way you'll shape products is through design.\"\n\n@zoink w/ @sophiadew on @MTSLive",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2109313173245616141",
+    "time": "2026-10-12 00:00",
+    "created_at": "Sun Oct 11 16:00:24 +0000 2026",
+    "id_str": "2109313173245616141",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Airbnb's Brian Chesky on the classic management philosophy, and why he rejects it:\n\n\"Go through the list of great CEOs, almost none of them that I'm aware of do recurring one-on-ones... Jensen Huang does not do recurring one-on-ones, famously.\"\n\n\"I do think a CEO should meet one-on-one with your people. I don't think it should be recurring... If you wanna get time with me, get a meeting with me. If you wanna call me, call me. Bump into me, talk to me. But most of my recurring meetings are group meetings.\"\n\n\"If there's lots of one-way kinda sensitive topics, there's probably something wrong in the company... If we're having all these sensitive conversations, well, why are they so sensitive? Why can't other people hear about them?\"\n\n\"If I have a one-on-one with you and you tell me there's a problem and we debate it and we say, 'Here's the solution,' we haven't consulted anyone else. So now we just made a decision and no one else helped, consulted, or knew how we made that decision.\"\n\n\"'Hire great people, trust them, let them do their job, stay out of the details, do recurring one-on-ones.' I don't believe any of that, and I wanna acknowledge that many great leaders do.\"\n\n@bchesky w/ @sampjacobs",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2109328300808286565",
+    "time": "2026-10-12 01:00",
+    "created_at": "Sun Oct 11 17:00:30 +0000 2026",
+    "id_str": "2109328300808286565",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Dmitri Dolgov of @Waymo on how to tell if you’re one year away from shipping or ten:\n\n\"One pattern that I've seen over and over again is do you have convergence of discovery? The problems that you are seeing today, how different are they from the problems you saw six months ago?\"\n\n\"As you're pushing on the system, does it feel like you have stability, and you're just iteratively improving your metrics in the same areas?\"\n\n\"Or does it feel like every six months the landscape is shifting from under you and the problems of today are very different from what you saw a while ago?\n\n\"If you don't have that stability, then that's often a good indicator that you got some ways to go.\"\n\n\"If you think you're six months or a year away from deployment, do you have a scorecard that if it were green today would allow you to deploy with confidence?\"\n\n\"If you don't have one, you're saving that for later, often that turns out to be more difficult than you expected, and there's a long distance to go.\"\n\n\"But if you already have one and you're seeing stability in your discovery and stability in your metrics, and it's just a matter of closing the gap, that is a really good indicator that you're getting pretty close.\"\n\n@dmitri_dolgov w/ South Park Commons",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2109366017831154097",
+    "time": "2026-10-12 03:30",
+    "created_at": "Sun Oct 11 19:30:23 +0000 2026",
+    "id_str": "2109366017831154097",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": ".@heronpower CEO Drew Baglino on the 40-year streak that kept US electricity flat while the economy grew, and why it just ended:\n\n\"We benefited from energy efficiency from the '70s... until like the 2010s. You saw efficiency everywhere... And all of that energy efficiency more or less negated the growth in energy services.\"\n\n\"The energy services were growing over time in the United States, but the net electricity delivered to accomplish those energy services stayed basically flat. And the same thing even happened in data centers.\"\n\n\"If you look at the efficiency of compute, even with all the AI things that are going on, in terms of flops per watt, it's really gone up an immense amount from the first data centers to today.\"\n\n\"And that has allowed more and more compute capability for the same percentage of GDP electricity production.\"\n\n\"Now it's changing... We are seeing electricity growth higher than it's ever been before. And that's not just because the benefits of energy efficiency are tailing off, it's because we are seeing broad based demand for more electricity: compute, transportation, industrial electrification.\"\n\n\"Electricity as a carrier is incredibly flexible... whether it's for intelligence or for heating, I see it as a great thing and wanna accelerate it.\"\n\n@baglino @heronpower",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "\"Energy Capacity = Economic Capacity\"\n\nFormer Intel CEO Pat Gelsinger on why America's power grid is the ceiling on growth:\n\n\"We went through 10 to 15 years where essentially I was taking coal offline at the rate I was adding renewables, and essentially the nation was flatlined in terms of overall energy capacity.\"\n\n\"So essentially our economic capacity as a nation, flat for fifteen years.\"\n\n\"Even with that, we've gone to maybe increasing our national energy capacity 4% per year. Going from essentially zero to one.\"\n\n\"Nuclear as base load is a fabulous thing that we want to go build more of. Unfortunately all of our renewables have deep dependencies in China.\"\n\n\"Energy capacity somewhat dampens how euphoric we can get on AI. Why build a new data center and buy the million GPUs if I can't power them?\"\n\n@PGelsinger @RaghuRaghuram @appenz"
+    },
+    "url": "https://x.com/a16z/status/2109381134547329267",
+    "time": "2026-10-12 04:30",
+    "created_at": "Sun Oct 11 20:30:27 +0000 2026",
+    "id_str": "2109381134547329267",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OpenAI只能靠重置\n来留住人了吗？",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "The day we reach perfection it will be resets from there onwards"
+    },
+    "url": "https://x.com/xiaohu/status/2109189512454902254",
+    "time": "2026-10-11 15:49",
+    "created_at": "Sun Oct 11 07:49:01 +0000 2026",
+    "id_str": "2109189512454902254",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I’m thinking of your nephew, you, and your whole family. You know my DMs are always open if you need anything.",
+    "quoted_tweet": null,
+    "url": "https://x.com/dvorahfr/status/2109310484365087113",
+    "time": "2026-10-11 23:49",
+    "created_at": "Sun Oct 11 15:49:43 +0000 2026",
+    "id_str": "2109310484365087113",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dvorahfr Thank you for your kindness, Deborah!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109314756469219702",
+    "time": "2026-10-12 00:06",
+    "created_at": "Sun Oct 11 16:06:41 +0000 2026",
+    "id_str": "2109314756469219702",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My sweet nephew is out of surgery, currently in an induced coma but we are all very hopeful he will survive. Thank you all for your thoughts, messages and comments. This is us when he was very little 🥹❤️ I will keep you updated. \n\nPlease, keep creating and being  kind",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "My loves, family is the most important thing to me. I was less active in past few days here, and may need a bit more time. My nephew is in ICU. I ask you all to think good thoughts of him and wish him recovery in whatever way your heart feels right. He just turned 17 year old."
+    },
+    "url": "https://x.com/icreatelife/status/2109339472034738283",
+    "time": "2026-10-12 01:44",
+    "created_at": "Sun Oct 11 17:44:54 +0000 2026",
+    "id_str": "2109339472034738283",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm so sorry on what's going on Kris 😢\n\nI'm praying for your nephew 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/realjohnnewburg/status/2109339904949809267",
+    "time": "2026-10-12 01:46",
+    "created_at": "Sun Oct 11 17:46:37 +0000 2026",
+    "id_str": "2109339904949809267",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Sending all the vibes! Hope he's going to be ok!",
+    "quoted_tweet": null,
+    "url": "https://x.com/AIandDesign/status/2109345608100348356",
+    "time": "2026-10-12 02:09",
+    "created_at": "Sun Oct 11 18:09:17 +0000 2026",
+    "id_str": "2109345608100348356",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Fantastic news Kris  🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2109345685816410538",
+    "time": "2026-10-12 02:09",
+    "created_at": "Sun Oct 11 18:09:35 +0000 2026",
+    "id_str": "2109345685816410538",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AIandDesign Thank you, Marco! Me too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109346008245195037",
+    "time": "2026-10-12 02:10",
+    "created_at": "Sun Oct 11 18:10:52 +0000 2026",
+    "id_str": "2109346008245195037",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone Thank you, Rufus",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109346052897993179",
+    "time": "2026-10-12 02:11",
+    "created_at": "Sun Oct 11 18:11:03 +0000 2026",
+    "id_str": "2109346052897993179",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Oh god. All my energy a good wishes. Hope all works out well. 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/nortenawinds/status/2109353162754719865",
+    "time": "2026-10-12 02:39",
+    "created_at": "Sun Oct 11 18:39:18 +0000 2026",
+    "id_str": "2109353162754719865",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@nortenawinds Thank you, Marcos",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109357112384266317",
+    "time": "2026-10-12 02:55",
+    "created_at": "Sun Oct 11 18:55:00 +0000 2026",
+    "id_str": "2109357112384266317",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I am sending you all a giant hug 🫂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109361082183958807",
+    "time": "2026-10-12 03:10",
+    "created_at": "Sun Oct 11 19:10:46 +0000 2026",
+    "id_str": "2109361082183958807",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Right back at you. Can't imagen how extremely stressful it has been for you, but if you find the time get a couple of hours to find peace and rest. \n\nPrayers and Best wishes for your family.🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/Trowa_/status/2109361888748335131",
+    "time": "2026-10-12 03:13",
+    "created_at": "Sun Oct 11 19:13:58 +0000 2026",
+    "id_str": "2109361888748335131",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Trowa_ Thank you 🙏 now all we can do is wait and hope for the best. Doctors are doing everything to save my nephew’s life: thank you for your kind words",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109362817543418103",
+    "time": "2026-10-12 03:17",
+    "created_at": "Sun Oct 11 19:17:40 +0000 2026",
+    "id_str": "2109362817543418103",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@realjohnnewburg Thank you, Jonathan!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109365955524517948",
+    "time": "2026-10-12 03:30",
+    "created_at": "Sun Oct 11 19:30:08 +0000 2026",
+    "id_str": "2109365955524517948",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@artisin_ai Thank you, Kim",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109365988559134996",
+    "time": "2026-10-12 03:30",
+    "created_at": "Sun Oct 11 19:30:16 +0000 2026",
+    "id_str": "2109365988559134996",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Sending you love and light.\nHope he recovers",
+    "quoted_tweet": null,
+    "url": "https://x.com/Comfort_Cuts/status/2109376415879557468",
+    "time": "2026-10-12 04:11",
+    "created_at": "Sun Oct 11 20:11:42 +0000 2026",
+    "id_str": "2109376415879557468",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Comfort_Cuts Thank you 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109376473089892675",
+    "time": "2026-10-12 04:11",
+    "created_at": "Sun Oct 11 20:11:56 +0000 2026",
+    "id_str": "2109376473089892675",
+    "is_retweet": false
   }
 ]
