@@ -454,5 +454,90 @@
     "created_at": "Sun Oct 11 08:40:33 +0000 2026",
     "id_str": "2109202483432321043",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Rather suddenly, cyborgs are starting to dominate math research.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109327353088287057",
+    "time": "2026-10-12 00:56",
+    "created_at": "Sun Oct 11 16:56:45 +0000 2026",
+    "id_str": "2109327353088287057",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Data here: https://epoch.ai/data/arxiv",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109368998588535048",
+    "time": "2026-10-12 03:42",
+    "created_at": "Sun Oct 11 19:42:14 +0000 2026",
+    "id_str": "2109368998588535048",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Solid Jev from Microsoft",
+    "quoted_tweet": {
+      "author": "Satya Nadella",
+      "username": "satyanadella",
+      "text": "Introducing Microsoft-Decision-1, our new model for fast decision-making.\n\nIt delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality.\n\nWe’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery."
+    },
+    "url": "https://x.com/godofprompt/status/2109240263692427706",
+    "time": "2026-10-11 19:10",
+    "created_at": "Sun Oct 11 11:10:41 +0000 2026",
+    "id_str": "2109240263692427706",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Wow Nvidia has just released a tool to turn any image into an explorable 3D world\n\nAnd they made it 100% open source 🔥\n\nit’s called Lyra, one image goes in and you get a 3D scene you can actually move through, not a camera path someone baked in beforehand\n\nLyra 2.0 is the one worth looking at, it holds 3D consistency over long distances, so the world doesn’t fall apart the further you walk from where you started\n\nthey shipped the GUI alongside it, so you can explore what you generated without writing any code\n\n2,200 stars, Apache 2.0 on the code, and the weights are cleared for commercial use",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2109294222994288830",
+    "time": "2026-10-11 22:45",
+    "created_at": "Sun Oct 11 14:45:06 +0000 2026",
+    "id_str": "2109294222994288830",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://github.com/nv-tlabs/lyra",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2109294234956423594",
+    "time": "2026-10-11 22:45",
+    "created_at": "Sun Oct 11 14:45:09 +0000 2026",
+    "id_str": "2109294234956423594",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "you can access 30,000+ AI prompts and guides at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2109294246767595824",
+    "time": "2026-10-11 22:45",
+    "created_at": "Sun Oct 11 14:45:11 +0000 2026",
+    "id_str": "2109294246767595824",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Best way to launch a product nowadays",
+    "quoted_tweet": {
+      "author": "Robert Youssef",
+      "username": "rryssf",
+      "text": "https://x.com/i/article/2109336855632318464"
+    },
+    "url": "https://x.com/godofprompt/status/2109337760557355177",
+    "time": "2026-10-12 01:38",
+    "created_at": "Sun Oct 11 17:38:06 +0000 2026",
+    "id_str": "2109337760557355177",
+    "is_retweet": false
   }
 ]
