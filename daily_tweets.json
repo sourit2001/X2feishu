@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
+    "quoted_tweet": {
+      "author": "Andrej Karpathy",
+      "username": "karpathy",
+      "text": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are."
+    },
+    "url": "https://x.com/karpathy/status/2109361546505966046",
+    "time": "2026-10-12 03:12",
+    "created_at": "Sun Oct 11 19:12:37 +0000 2026",
+    "id_str": "2109361546505966046",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Connect Claude Code to GrokBot with a Webhook\nhttps://agentnative.inc/resources/grokbot-claude-code-webhook",
+    "quoted_tweet": null,
+    "url": "https://x.com/agentnative_/status/2109351438862389575",
+    "time": "2026-10-12 02:32",
+    "created_at": "Sun Oct 11 18:32:27 +0000 2026",
+    "id_str": "2109351438862389575",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "You can now control GrokBot from Claude Code.\n\nGrokBot has full access to X posts, so Claude can hand off Twitter research to it with the grokbot-webhook skill. Claude waits for GrokBot’s answer, then keeps going with whatever you asked it to do.\n\nFull skill below 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2109352621081309215",
+    "time": "2026-10-12 02:37",
+    "created_at": "Sun Oct 11 18:37:09 +0000 2026",
+    "id_str": "2109352621081309215",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Full setup: https://x.com/agentnative_/status/2109351438862389575?s=20",
+    "quoted_tweet": {
+      "author": "Agent Native",
+      "username": "agentnative_",
+      "text": "Connect Claude Code to GrokBot with a Webhook\nhttps://agentnative.inc/resources/grokbot-claude-code-webhook"
+    },
+    "url": "https://x.com/rileybrown/status/2109352854242640012",
+    "time": "2026-10-12 02:38",
+    "created_at": "Sun Oct 11 18:38:04 +0000 2026",
+    "id_str": "2109352854242640012",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "And yes this works with any agent.\n\nCodex, Muse, Instinct etc.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "You can now control GrokBot from Claude Code.\n\nGrokBot has full access to X posts, so Claude can hand off Twitter research to it with the grokbot-webhook skill. Claude waits for GrokBot’s answer, then keeps going with whatever you asked it to do.\n\nFull skill below 👇"
+    },
+    "url": "https://x.com/rileybrown/status/2109357763381915895",
+    "time": "2026-10-12 02:57",
+    "created_at": "Sun Oct 11 18:57:35 +0000 2026",
+    "id_str": "2109357763381915895",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown wouldn’t it be better to just have Grok Bot use Claude Code through terminal? More token efficient I think",
+    "quoted_tweet": null,
+    "url": "https://x.com/clarityx/status/2109361963801448614",
+    "time": "2026-10-12 03:14",
+    "created_at": "Sun Oct 11 19:14:16 +0000 2026",
+    "id_str": "2109361963801448614",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@clarityx i absolutley do not prefer this at all.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2109365435124609374",
+    "time": "2026-10-12 03:28",
+    "created_at": "Sun Oct 11 19:28:04 +0000 2026",
+    "id_str": "2109365435124609374",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins whoa 6x... i guess the second time it already has working code to compare with",
+    "quoted_tweet": null,
+    "url": "https://x.com/dusangran/status/2109322563092467755",
+    "time": "2026-10-12 00:37",
+    "created_at": "Sun Oct 11 16:37:43 +0000 2026",
+    "id_str": "2109322563092467755",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "My pets after breaking into the treat cabinet at 3am",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2109357186044551287",
+    "time": "2026-10-12 02:55",
+    "created_at": "Sun Oct 11 18:55:17 +0000 2026",
+    "id_str": "2109357186044551287",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@dusangran So interestingly it was more of an approach problem. \n\nI wanted my app to scan Zillow every morning to see if the properties I was tracking had closed.\n\nIt initially planned to spin up a browser and click through each property every morning (instead of just using the API) 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2109361249075245466",
+    "time": "2026-10-12 03:11",
+    "created_at": "Sun Oct 11 19:11:26 +0000 2026",
+    "id_str": "2109361249075245466",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins is this real",
+    "quoted_tweet": null,
+    "url": "https://x.com/threepointone/status/2109391539285926158",
+    "time": "2026-10-12 05:11",
+    "created_at": "Sun Oct 11 21:11:48 +0000 2026",
+    "id_str": "2109391539285926158",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@threepointone Yes I filmed it myself",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2109394384668221555",
+    "time": "2026-10-12 05:23",
+    "created_at": "Sun Oct 11 21:23:06 +0000 2026",
+    "id_str": "2109394384668221555",
+    "is_retweet": false
+  }
+]
