@@ -805,5 +805,64 @@
     "created_at": "Sun Oct 11 05:22:48 +0000 2026",
     "id_str": "2109152716954222849",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @binghe 笑死",
+    "quoted_tweet": null,
+    "url": "https://x.com/biochem21z/status/2109106972880777495",
+    "time": "2026-10-11 10:21",
+    "created_at": "Sun Oct 11 02:21:02 +0000 2026",
+    "id_str": "2109106972880777495",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@biochem21z @binghe 还开会讨论下要不要封号呢",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109108715764789517",
+    "time": "2026-10-11 10:27",
+    "created_at": "Sun Oct 11 02:27:57 +0000 2026",
+    "id_str": "2109108715764789517",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "用 REA 小试牛刀逆向了 Claude Slides 的 Slides 编辑器，几乎完整功能。（图1）\n\n我的用法很简单，不一定是最佳实践，仅供参考：\n\n1. 先去 Claude Slides 上把核心的脚本和样式表下载下来（图2）\n2. 按照 REA 官网的说明让 Codex 安装 REA\n3. 使用 REA Skill 去逆向混淆后的代码（图3）\n4. 用不了太久就能有一个目录结构不错的代码，但其实里面还挺乱的\n5. 然后再用 Claude Code 5.5 去重写了一遍就变成结构良好类型完整的代码了\n\n至于提示词，我没有直接逆向，而是换了个思路，先做个 Slides，然后在对话里面，说我要做一个 slides skill，让它帮我实现一个，要做的跟它的一样好，这样子出来的提示词，和原始的提示词肯定不一样，但是做出来的效果没什么差别。（图4是我用同样方法问 Claude Dashboard 的提示词）\n\n完整的代码参考：https://github.com/JimLiu/baocut/commit/b8585e0c8d7a82bdee9f0ed019cf6edb075e41c1",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "REA：让 AI 智能体帮你逆向没有源码的软件\n\n开源项目 REA（Reverse Engineer Anything）把逆向分析工具接到了 Claude Code、Codex、Cursor 这类 AI 编程智能体上。看到别人 App 里有个好功能，可以让智能体去拆这个程序，讲清楚功能是怎么实现的，附上证据，再在你自己的项目里写一个类似的。逆向分析指的是手里没有源代码，从编译好的程序反推它是怎么写的。\n\nREA 本身是一个 MCP 服务。MCP 是 AI 智能体调用外部工具的通用接口，接上以后，智能体在对话里就能直接调用 REA 的分析功能。安装只需一行命令 npx rea-agents setup，它会注册到 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等智能体里，改配置前会先备份并让你确认。不用智能体的话，也可以在终端里直接跑命令。\n\n能分析的东西很多。原生程序（直接编译成机器码的软件）要借助 Hopper、Ghidra 或 IDA 这几款反汇编工具，把机器码还原成汇编和近似 C 语言的伪代码。Electron 应用（用网页技术做的桌面软件，比如 Notion）可以直接拆开安装包里的 ASAR 归档文件，理清模块和进程间通信，不需要额外工具。此外还支持 .NET 程序、安卓 APK、固件、网站、抓包记录、以太坊合约字节码，以及在 Linux 和 macOS 上记录程序运行时的行为。\n\n分析在本机进行，REA 不上传目标程序，但分析结果会交给智能体背后的模型服务商，数据怎么处理看各家政策。\n\n项目给了三个案例。一是经典打砖块游戏 DX-Ball：从一次播放音效的调用，追到根据球的位置计算左右声道的函数，把不完整的伪代码还原成 C 代码，3205 组测试结果和原版一致，编译出的 63 个字节也和原版完全相同。二是 Notion 桌面版：追踪复制粘贴从界面一路经过预加载脚本、进程间通信到主进程的完整链路。三是日本老电脑 PC-98 上的游戏《东方幻想乡》（TH04）：从 16 位指令里还原出弹幕子弹环的角度算法。\n\n对安全研究员、做老游戏复刻和软件保存的人来说，以前要自己对着反汇编工具一行行读、一层层追调用，现在可以让智能体先追，人来核对它给出的证据。普通开发者想研究竞品某个功能的做法，也多了一条路。\n\nREADME 显示项目在 GitHub 上已有 5 万星。npm 包今年 7 月首次发布，最新的 6.3.0 版今天刚发。\n\n使用前注意两点。项目声明只支持合法的逆向研究，授权和合规由使用者自己负责，逆向别人的软件可能违反用户协议或版权法规。项目还说明从未发行或背书任何加密货币，借用 REA 名字的代币都与它无关。\n\nhttps://github.com/morluto/rea"
+    },
+    "url": "https://x.com/dotey/status/2109151666020794711",
+    "time": "2026-10-11 13:18",
+    "created_at": "Sun Oct 11 05:18:37 +0000 2026",
+    "id_str": "2109151666020794711",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 既然它是一个前端功能，为啥不用 Gemini 直接把所有资源下载起来 用 opus5.5 给它拼起来，rea 这种逆向更适合 app 打包吧我理解",
+    "quoted_tweet": null,
+    "url": "https://x.com/RookieRicardoR/status/2109168287334715570",
+    "time": "2026-10-11 14:24",
+    "created_at": "Sun Oct 11 06:24:40 +0000 2026",
+    "id_str": "2109168287334715570",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@RookieRicardoR 因为我还不太会用😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109170074732937223",
+    "time": "2026-10-11 14:31",
+    "created_at": "Sun Oct 11 06:31:46 +0000 2026",
+    "id_str": "2109170074732937223",
+    "is_retweet": false
   }
 ]
