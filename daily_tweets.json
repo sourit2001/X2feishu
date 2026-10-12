@@ -368,5 +368,567 @@
     "created_at": "Mon Oct 12 03:49:06 +0000 2026",
     "id_str": "2109491524358795714",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "介绍一下新的 GrokBot 玩法：\n\n让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。\n\n注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。\n\n而且做完这一堆以后，我的额度消耗还不到 4%\n\n他帮我做的原始视频，放下面了。",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "超有用的 GrokBot 用法：\n\n将复杂难阅读的推串内容变成长文档，在手机上阅读\n\n有人让 LLM 通过纯代码完成了一次细节非常丰富的 3D 龙建模，分享了整个过程，内容极其复杂。\n\n我直接让 Grok bot 帮我拉取了所有内容：\n\n不仅把推文串拉全了，还补充了解析所有生僻概念的内容和相关链接信息，重新排版成了一篇完整的中文文章。\n\n在这种场景下简直太好用了，我直接在手机上就能看、能消化这些信息"
+    },
+    "url": "https://x.com/op7418/status/2109467496298516760",
+    "time": "2026-10-12 10:13",
+    "created_at": "Mon Oct 12 02:13:37 +0000 2026",
+    "id_str": "2109467496298516760",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "他帮我做的那个教程视频",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2109467948582891554",
+    "time": "2026-10-12 10:15",
+    "created_at": "Mon Oct 12 02:15:25 +0000 2026",
+    "id_str": "2109467948582891554",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "教一下怎么让 Grok Bot 食用\n\n公众号文章在这里：https://mp.weixin.qq.com/s/1afnn-WeU4KvD03lqSIv2w",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "介绍一下新的 GrokBot 玩法：\n\n让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。\n\n注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。\n\n而且做完这一堆以后，我的额度消耗还不到 4%\n\n他帮我做的原始视频，放下面了。"
+    },
+    "url": "https://x.com/op7418/status/2109469928852230518",
+    "time": "2026-10-12 10:23",
+    "created_at": "Mon Oct 12 02:23:17 +0000 2026",
+    "id_str": "2109469928852230518",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "可以把这段话发给你的 GrokBot：https://x.com/op7418/status/2109469928852230518?s=20",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "教一下怎么让 Grok Bot 食用\n\n公众号文章在这里：https://mp.weixin.qq.com/s/1afnn-WeU4KvD03lqSIv2w"
+    },
+    "url": "https://x.com/op7418/status/2109470015091261561",
+    "time": "2026-10-12 10:23",
+    "created_at": "Mon Oct 12 02:23:38 +0000 2026",
+    "id_str": "2109470015091261561",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我的 Grok Bot 工作室配置",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "介绍一下新的 GrokBot 玩法：\n\n让它从一个复杂的推文串里，剪出了一条 3 分钟的学习视频。\n\n注意这一切（包括我这个介绍教程视频）都是在床上完成的，全程没有使用我的电脑。\n\n而且做完这一堆以后，我的额度消耗还不到 4%\n\n他帮我做的原始视频，放下面了。"
+    },
+    "url": "https://x.com/op7418/status/2109471885960647082",
+    "time": "2026-10-12 10:31",
+    "created_at": "Mon Oct 12 02:31:04 +0000 2026",
+    "id_str": "2109471885960647082",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 用的哪个套餐，量够不够用呀",
+    "quoted_tweet": null,
+    "url": "https://x.com/aiwaremax/status/2109475797052555683",
+    "time": "2026-10-12 10:46",
+    "created_at": "Mon Oct 12 02:46:36 +0000 2026",
+    "id_str": "2109475797052555683",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@youshilidewuhua 并不是录屏软件，是 Grok Bot 自己做的，你信吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2109478081195090430",
+    "time": "2026-10-12 10:55",
+    "created_at": "Mon Oct 12 02:55:41 +0000 2026",
+    "id_str": "2109478081195090430",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@aiwaremax 用的之前 99 美元 bug 的那个最高套餐。反正我吭哧瘪肚上一个周期只用了 20%，昨天晚上我的那个重置了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2109478215073055157",
+    "time": "2026-10-12 10:56",
+    "created_at": "Mon Oct 12 02:56:13 +0000 2026",
+    "id_str": "2109478215073055157",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Opus 5.5 + 即梦 CLI\n\n试了一下，让 Opus 5.5 结合视频模型做故事片表达\n\n没想到效果还不错，所有的编排、视频特效、提示词、视频剪辑都是 Opus 5.5 决定\n\n即梦 CLI 负责对应分镜的图片和视频生成。\n\n在视频上叠加了非常多的代码做的动画效果，看起来质感好了不少",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2109515395749310821",
+    "time": "2026-10-12 13:23",
+    "created_at": "Mon Oct 12 05:23:57 +0000 2026",
+    "id_str": "2109515395749310821",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 即梦是用海外版, 还是墙内版好呢?",
+    "quoted_tweet": null,
+    "url": "https://x.com/zchzd/status/2109525498284130491",
+    "time": "2026-10-12 14:04",
+    "created_at": "Mon Oct 12 06:04:06 +0000 2026",
+    "id_str": "2109525498284130491",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@zchzd 都一样",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2109527376187261376",
+    "time": "2026-10-12 14:11",
+    "created_at": "Mon Oct 12 06:11:34 +0000 2026",
+    "id_str": "2109527376187261376",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "REA 用法，来求一些大家觉得 wow、还能这样、这个用法有启发的 case～不限于一手经验。❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/ameliax111/status/2109456840040009731",
+    "time": "2026-10-12 09:31",
+    "created_at": "Mon Oct 12 01:31:17 +0000 2026",
+    "id_str": "2109456840040009731",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "停下你手头的所有工作，去提升你的带宽\n\n记得去年年初有一个大模型未来发展速度的估算研究，是按照模型独立解决问题的粒度和时长来算的\n\n当时最前沿模型的能力大概能到几十分钟，长程任务不借助代码框架还很难到小时级别\n\n现在只要是第一梯队的模型，在编写良好的 skill + harness 的辅助下，已经可以很轻松到小时甚至天级别了\n\n这个速度是我切实体会到的，而且随着 agent 和 harness 能力的助力还在不断加速\n\n当模型能独立完成天级别时长的任务时，瓶颈渐渐转移到了人这一边\n\n人对需求的转化能力、验证能力、以及可支配的token成本决定了不同的“带宽”\n\n带宽越大，能够撬动的杠杆就越大\n\n举个例子，能搭建一套自动评估+优化体系，来让 agent/skill 自我迭代优化的人，会比只用模型来 vibe coding 的人拥有更大的带宽\n\n所以最近为什么 @poteto 非常火，是因为她几乎代表了带宽最强的那批人的上限在哪里（她最近写的一篇推文强调“量”很重要）\n\n有趣的是，我认为大厂无限token并不是高带宽的必要条件\n\n你可以仅仅是一个独立开发者或自媒体人，每月仅支付几十、上百美金的订阅费用，也可以通过优化自己的带宽来撬动商业杠杆\n\n而一旦杠杆被撬动，就会有更多token供你消耗，形成一个正向循环\n\n如果还在愁手头token登不完的同学，可能需要首先思考的是如何提升自己的带宽，而不是找更多可供消耗token的场景\n\n做乘法，而不是做加法，才能提升你的带宽上限",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Andrej Karpathy 说，人们对 AI 能力的理解差距在扩大，这种认知差距正在变成一个漏斗。\n\n约 60 亿人几乎没接触过大模型；10 亿到 20 亿人偶尔用免费版 ChatGPT 查东西、写东西，觉得用处不大，很多数学和编程以外的专业人士也在这一层，对 AI 的进步只是道理上懂。\n\n约 2000 万人（Karpathy 按 0.2% 估算的，我觉得偏高，至少除以 10）在编程和数学里重度使用最前沿的模型，亲眼看着要做几周、几个月的项目，一段提示词发给 Agent 几天就能做完；还有约 5000 人能在公司内部用上更强的系统。\n\n差距主要有三个原因：\n\n一是问题够不够大，一段话就能答完的问题用不到 AI 的真本事。\n\n二是能力只在部分领域冒尖：编程和数学的结果能自动验证，比如代码测试通没通过，模型很适合用强化学习（做对了就给奖励）来练，这类能力卖给企业又最赚钱，厂商投入最多；文章写得好不好很难判定，进步就慢。\n\n三是能用到哪一档，免费版、付费版、内部版看到的东西差别很大。\n\n所以，如果你只偶尔问问免费的聊天机器人，看到的离最前沿差了好几层；如果你主要拿 AI 写东西、查资料，觉得这一年没怎么进步，这个感觉也没错。"
+    },
+    "url": "https://x.com/Stephan_Talk/status/2109465762364887089",
+    "time": "2026-10-12 10:06",
+    "created_at": "Mon Oct 12 02:06:44 +0000 2026",
+    "id_str": "2109465762364887089",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "录屏是个好办法👍\n\n继续贡献一个 REA 案例，除了录屏还可以用 Computer Use，我想学习一下 CapCut 的动态字幕格式，我也不知道格式存在哪里怎么渲染的。\n\n继续问 REA，它的字幕是怎么渲染的，这次我让它自己用 Computer Use 去操作，去点击下载 Templates，然后它会自己打开 CapCut 去一个个点击下载，下载的同时去监控网络地址和磁盘保存地址。\n\n就这样操作了几十个后，Codex 发现这样点击太慢了，自己拼 URL 去从 URL 下载了，就这样下载了 2291 个 Templates。",
+    "quoted_tweet": {
+      "author": "LinearUncle",
+      "username": "LinearUncle",
+      "text": "宝哥用 REA 拆解 Codex 内置浏览器的「注解标记 → 写评论 → 发送到聊天输入框」功能，这个思路值得学习。\n\n还有另一种解法：\n\n开启录屏。\n在内置浏览器里走一遍流程：标记、写评论、发送到聊天输入框。\n把录屏发给 Fable，让它照着复刻。现在估计 Opus 5.5 也能搞定。\n\n我自己的 harness 里，内置浏览器的注解功能就是这么复刻出来的。\n\nhttps://x.com/LinearUncle/status/2099355773679943847"
+    },
+    "url": "https://x.com/dotey/status/2109470081776283941",
+    "time": "2026-10-12 10:23",
+    "created_at": "Mon Oct 12 02:23:54 +0000 2026",
+    "id_str": "2109470081776283941",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我去，牛逼，啥时候整合到 baocut 中",
+    "quoted_tweet": null,
+    "url": "https://x.com/vista8/status/2109473039243182096",
+    "time": "2026-10-12 10:35",
+    "created_at": "Mon Oct 12 02:35:39 +0000 2026",
+    "id_str": "2109473039243182096",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@vista8 实现不难的……",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109473242289226110",
+    "time": "2026-10-12 10:36",
+    "created_at": "Mon Oct 12 02:36:27 +0000 2026",
+    "id_str": "2109473242289226110",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这样是不是能直接把capcut逆向出来啊？",
+    "quoted_tweet": null,
+    "url": "https://x.com/ValarMind/status/2109476854017171679",
+    "time": "2026-10-12 10:50",
+    "created_at": "Mon Oct 12 02:50:48 +0000 2026",
+    "id_str": "2109476854017171679",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ValarMind 工作量太大了，几乎不可能",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109477810750308802",
+    "time": "2026-10-12 10:54",
+    "created_at": "Mon Oct 12 02:54:36 +0000 2026",
+    "id_str": "2109477810750308802",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@fei1106 荣幸之至 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109478010512695645",
+    "time": "2026-10-12 10:55",
+    "created_at": "Mon Oct 12 02:55:24 +0000 2026",
+    "id_str": "2109478010512695645",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这次逆向神库 REA为什么会爆火？原因是作者morluto 是大神中的大神，不是一个普通的AI 自媒体博主。\n\n你看看他的github 主页的成就，他对AI 数据也很感兴趣，解决了困扰数学家 33 年的一个数学问题。\n\n并且参与过超多知名开源项目，他也在X上。",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinearUncle/status/2109479168165466347",
+    "time": "2026-10-12 11:00",
+    "created_at": "Mon Oct 12 03:00:00 +0000 2026",
+    "id_str": "2109479168165466347",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这两天逆向玩上瘾了，又逆向了最新的 Claude Design。没想到 GPT-6.1 Sol 接上 Claude Design （最新 Artifacts 里面那个版本）的 Skill 后，设计能力有很大提升，可能因为 Claude Design 会默认使用 Claude Design System Skill。\n\n本来我做 BaoCut 只想做一个专注于视频剪辑的 Agent，结果把 Claude Slides 和 Claude Design 也给加进去了。\n\n都说做产品经理克制很重要，但有时候好东西就忍不住加进去，知易行难，我还得继续修行。\n\n理论上来说，可以把 Claude Design 和 Claude Slides 作为 Skill 的，但是没办法支持编辑修改和标记，所以先只是集成到 BaoCut 中。\n\n当然 baocut 是开源的，skill 和前端代码你都看的到：\nDesign Skill 相关 commit：https://github.com/JimLiu/baocut/commit/7aa049e8\n\n如果你只是想试试，可以下载 baocut 或者本地运行，使用你本机 agent cli（比如 codex），会话的时候选一下 design skill。\n\n当然 baocut 最强大的还是视频相关的功能，比如你可以用本地模型去转录，基于转录结果去翻译字幕，生成切片等等。\n\nhttps://baocut.com",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "用 REA 小试牛刀逆向了 Claude Slides 的 Slides 编辑器，几乎完整功能。（图1）\n\n我的用法很简单，不一定是最佳实践，仅供参考：\n\n1. 先去 Claude Slides 上把核心的脚本和样式表下载下来（图2）\n2. 按照 REA 官网的说明让 Codex 安装 REA\n3. 使用 REA Skill 去逆向混淆后的代码（图3）\n4. 用不了太久就能有一个目录结构不错的代码，但其实里面还挺乱的\n5. 然后再用 Claude Code 5.5 去重写了一遍就变成结构良好类型完整的代码了\n\n至于提示词，我没有直接逆向，而是换了个思路，先做个 Slides，然后在对话里面，说我要做一个 slides skill，让它帮我实现一个，要做的跟它的一样好，这样子出来的提示词，和原始的提示词肯定不一样，但是做出来的效果没什么差别。（图4是我用同样方法问 Claude Dashboard 的提示词）\n\n完整的代码参考：https://github.com/JimLiu/baocut/commit/b8585e0c8d7a82bdee9f0ed019cf6edb075e41c1"
+    },
+    "url": "https://x.com/dotey/status/2109482425722057154",
+    "time": "2026-10-12 11:12",
+    "created_at": "Mon Oct 12 03:12:57 +0000 2026",
+    "id_str": "2109482425722057154",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我在想如果没有 rea ，理论上 codex 也能逆向出来",
+    "quoted_tweet": null,
+    "url": "https://x.com/linxiaobei888/status/2109483394023477515",
+    "time": "2026-10-12 11:16",
+    "created_at": "Mon Oct 12 03:16:48 +0000 2026",
+    "id_str": "2109483394023477515",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@linxiaobei888 也可以的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109483752778805674",
+    "time": "2026-10-12 11:18",
+    "created_at": "Mon Oct 12 03:18:13 +0000 2026",
+    "id_str": "2109483752778805674",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我在尝试不一样的思路来搞视频剪辑，agent-first 而不是 GUI 的。我制作一个工具，定义类似 EDL 的东西，可以协调不同的工具来提供素材，比如普通视频文件、hyperframes 等都可以提供视频片段或者帧，然后我的 wgpu 合成器把它们最终合成起来编码成视频，在这个过程中用 wgpu 来做转场和后处理特效等等",
+    "quoted_tweet": null,
+    "url": "https://x.com/jimnox/status/2109485687389159671",
+    "time": "2026-10-12 11:25",
+    "created_at": "Mon Oct 12 03:25:54 +0000 2026",
+    "id_str": "2109485687389159671",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jimnox Agent first 是肯定的，补充一点就是要选 Agent 熟悉的格式，比如 hyperframes、remotion 就属于 Agent 熟悉的，尤其是 Opus 5.5 明显专门训练过这种\n\nhyperframes 满足绝大部分场景了，足够了👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109486716310462679",
+    "time": "2026-10-12 11:30",
+    "created_at": "Mon Oct 12 03:30:00 +0000 2026",
+    "id_str": "2109486716310462679",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "纳德拉：企业应该像防范内部风险一样防范 AI 模型\n\n微软 CEO 纳德拉（Satya Nadella）的长文。他主张企业把 AI 模型当成“内部风险”来防范，像对待一个权限很大的员工那样，给它设身份、限权限、留记录，并且随时能叫停。\n\n“内部风险”（insider risk）是安全行业的说法，指来自公司内部员工、承包商的风险。这些人手里有权限，可能恶意搞破坏，更常见的是操作失误，或者账号被人盗用。纳德拉认为模型也适用这套逻辑：它未必有恶意，但任何能力够强、又能碰到核心系统的角色，都可能出错或被攻破。\n\n他的出发点是可追溯性。传统软件出了问题，工程师能顺着代码找到是哪一段导致的。大模型做不到这一点，没人说得清某个输出来自哪部分训练数据、哪组参数。可企业已经在让 AI 智能体读取最敏感的数据，替人执行关键操作，模型厂商的保证不能替企业承担责任。\n\n方案可以概括为一句话：把“提供智能”和“管控智能”分开。模型负责干活，但它能访问什么、能做什么，由模型之外的系统决定，模型自己改不了。\n\n这条原则在信息安全领域上世纪 70 年代就有了：程序不能绕过或篡改约束它权限的机制。放到今天，就是把模型、调度模型干活的外层程序、模型能执行的操作范围三者拆开，安全控制放在外面。\n\n他也要求模型的思维链（模型给出答案前写出的推理过程）必须公开，不能拿“模型用人类看不懂的方式思考”当理由藏起来。但光看思维链还不够，因为目前没法保证模型写出来的推理就是它真实的思路。让模型互相检查也有局限：一个看不透的模型，被另一个看不透的模型盯着，等于黑箱套黑箱。\n\n他列了七条原则：\n1. 模型多样性：关键结果不能只依赖一个模型，也不能让模型检查自己的活。\n\n2. 全程可观测：模型每个重要操作都要留下防篡改、人能看懂的记录，事后能复现过程，不靠模型自己作证。\n\n3. 可验证：持续测试整个系统，包括失败、攻击、边界情况和系统变更，不能只测成功的任务。\n\n4. 独立控制：企业能自己决定模型能访问什么、能执行什么操作。\n\n5. 独立审计：审核要独立于被审核的模型，同一个模型不能既控制系统行为，又掌握判断这些行为是否合规的证据。\n\n6. 隔离控制：默认模型已经被攻破，从一开始就把它关在边界里。授权的人随时能在任务中途暂停或关掉它，相当于紧急刹车。\n\n7. 事故披露：出了问题要及时告知受影响的人，说明哪道防线失效了、以后怎么避免，并在全行业共享经验，包括那些会改变智能体运行时行为的实现细节。\n\n对正在部署智能体的企业，这几条可以直接拿来对照：模型的权限由谁管，操作日志存在哪，出问题能不能立刻叫停，是不是只押了一家模型。\n\n对开发者来说，权限控制和审计日志要写进智能体外层的程序里，靠提示词约束模型行为是不够的。\n\n微软自己的 Copilot 和 Azure 都接入了 OpenAI、Anthropic 等多家模型，“模型多样性”这条和它的做法一致。\n\n纳德拉最后的总结写挺好：“最值得信任的超级智能系统，是那个让我们可以最不信任模型的系统。”",
+    "quoted_tweet": {
+      "author": "Satya Nadella",
+      "username": "satyanadella",
+      "text": "https://x.com/i/article/2108928845969780736"
+    },
+    "url": "https://x.com/dotey/status/2109488458997616943",
+    "time": "2026-10-12 11:36",
+    "created_at": "Mon Oct 12 03:36:55 +0000 2026",
+    "id_str": "2109488458997616943",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey hyperframes 直接做成片差点意思，它没有轨道和层也不好做特效，我需要像真的NLE那样可以把 transition/effect 应用在某些层上，有时候只在视频上有时候又要包括文字。有些开源的 wgpu 渲染器过于复杂，把文字渲染也涵盖了，这明明是 hyperframes 的舒适区，这就催生了自己搞一个合成器的想法=.=",
+    "quoted_tweet": null,
+    "url": "https://x.com/jimnox/status/2109489105533030422",
+    "time": "2026-10-12 11:39",
+    "created_at": "Mon Oct 12 03:39:29 +0000 2026",
+    "id_str": "2109489105533030422",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这么逆向不会有封号风险吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/blackanger/status/2109489311347597495",
+    "time": "2026-10-12 11:40",
+    "created_at": "Mon Oct 12 03:40:18 +0000 2026",
+    "id_str": "2109489311347597495",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jimnox 这是我定义的格式：https://github.com/JimLiu/baocut/blob/main/docs/spec/video-format-spec.md\n\n我只是把 HyperFrames 作为一种视频来源",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109489678579642759",
+    "time": "2026-10-12 11:41",
+    "created_at": "Mon Oct 12 03:41:46 +0000 2026",
+    "id_str": "2109489678579642759",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@blackanger 哈哈，当然有可能被封号😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109489792031588581",
+    "time": "2026-10-12 11:42",
+    "created_at": "Mon Oct 12 03:42:13 +0000 2026",
+    "id_str": "2109489792031588581",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 哈哈，思路差不多",
+    "quoted_tweet": null,
+    "url": "https://x.com/jimnox/status/2109489904824860730",
+    "time": "2026-10-12 11:42",
+    "created_at": "Mon Oct 12 03:42:40 +0000 2026",
+    "id_str": "2109489904824860730",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jimnox 那你试试我的吧，成熟度已经比较高了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109490071753904168",
+    "time": "2026-10-12 11:43",
+    "created_at": "Mon Oct 12 03:43:20 +0000 2026",
+    "id_str": "2109490071753904168",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LinearUncle 我也写过逆向 skill，跟他的比起来就是渣渣，差太远",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109490323453858093",
+    "time": "2026-10-12 11:44",
+    "created_at": "Mon Oct 12 03:44:20 +0000 2026",
+    "id_str": "2109490323453858093",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "帮转：YURI 从未发行或授权任何加密代币",
+    "quoted_tweet": {
+      "author": "汗青 HQ",
+      "username": "hq4ai",
+      "text": "OFFICIAL STATEMENT: YURI HAS NEVER ISSUED OR AUTHORIZED ANY CRYPTO TOKEN\nWe've become aware of cryptocurrency tokens being promoted using my name and image without authorization.\nLet me be clear: Neither I nor my team has ever launched, endorsed, or authorized any cryptocurrency or meme coin. These projects have absolutely no official connection to us.\nWe strongly condemn the unauthorized commercial use of my identity and reserve all rights to take legal action against those infringing our intellectual property rights or misleading the public.\nTo everyone who supports me: please stay vigilant. Do not trust any claims of official Yuri tokens, and never send funds or connect your wallets to suspicious projects.\nStay safe. \n— Yuri & Team"
+    },
+    "url": "https://x.com/dotey/status/2109502862489501741",
+    "time": "2026-10-12 12:34",
+    "created_at": "Mon Oct 12 04:34:09 +0000 2026",
+    "id_str": "2109502862489501741",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 啊？baocut啥时候开源了？难怪最近一段时间没有接收到更新的推送了，所以最新的版本需要自己去 git 上下载吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/unintended0x/status/2109507462214848883",
+    "time": "2026-10-12 12:52",
+    "created_at": "Mon Oct 12 04:52:26 +0000 2026",
+    "id_str": "2109507462214848883",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 能否将逆向了最新的 Claude Design，独立一个skill出来，应用于原型设计？",
+    "quoted_tweet": null,
+    "url": "https://x.com/CodeGallop/status/2109509012891013318",
+    "time": "2026-10-12 12:58",
+    "created_at": "Mon Oct 12 04:58:36 +0000 2026",
+    "id_str": "2109509012891013318",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "看起来 Anthropic 现在放宽了对 Claude Agent SDK 和 claude -p 的使用限制，但没有官方声明，更像是 Amp 单方面的试探。\n\n不过有一点确定的是：现在用 Claude 账号登录 Claude Code，不管是日常交互、用 claude -p 跑脚本、用 Agent SDK，还是在第三方工具里调用，消耗的都是订阅额度。\n\n也即是说像 Amp 这种第三方 Agent，你可以登录自己的 Claude 账号，就只会用你的 Claude 订阅额度。\n\n至于会不会封号，Anthropic 没有就 Amp 这类用法公开表态，官方页面里没有“会封号”的说法，也没有“保证不封号”的承诺。\n\nHacker News 上有人直接问“用非 Claude Code 的工具，账号会不会被封”，这个问题没有得到 Anthropic 方面的回答。https://news.ycombinator.com/item?id=49997143\n\n两位以 Anthropic 名义回复的账号说的是，claude -p 没有从订阅里拿掉，“这次没有拿掉任何东西”。Quinn Slack 在回应质疑时引用了这两条，说按他的理解，Anthropic 是在重申 Agent SDK 和第三方应用可以用订阅额度。\n\nAnthropic 这个规则反正是一直在变，估计他们自己员工都搞不清楚。\n\n2 月，Anthropic 更新文档，限制第三方工具使用订阅登录。4 月 4 日起，OpenClaw 等第三方智能体工具不能再用订阅额度，要另外按量付费，Anthropic 给受影响的订阅用户提供退款。\n\nAnthropic 原计划从 6 月 15 日起把 Agent SDK 和 claude -p 改成单独计费，当天宣布暂停。",
+    "quoted_tweet": {
+      "author": "Quinn Slack",
+      "username": "sqs",
+      "text": "It uses the Claude Agent SDK as mentioned in our news post. Anthropic's policy update from 2 days ago, in my reading, reaffirms that Claude Agent SDK usage and third-party apps are allowed to use your subscription limits:\n\nhttps://support.claude.com/en/articles/15036540-use-the-claude-agent-sdk-with-your-claude-plan\n\nAnd then multiple Anthropic employees confirmed this on HN: https://news.ycombinator.com/item?id=49997143\n\nAnd: many other products are using the Claude Agent SDK in this way openly, and the policy clarification and the Anthropic employee comments are all about allowing the continued use and nothing against that use. \n\nIf I've misunderstood, let me know."
+    },
+    "url": "https://x.com/dotey/status/2109513811895980164",
+    "time": "2026-10-12 13:17",
+    "created_at": "Mon Oct 12 05:17:40 +0000 2026",
+    "id_str": "2109513811895980164",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@CodeGallop 我提到了，主要是有些能力是缺失的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109513931890766099",
+    "time": "2026-10-12 13:18",
+    "created_at": "Mon Oct 12 05:18:08 +0000 2026",
+    "id_str": "2109513931890766099",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@unintended0x 自动更新可能出问题了，等我查一下，可以去 https://baocut.app 或者 github release 页面下载",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109514128729743815",
+    "time": "2026-10-12 13:18",
+    "created_at": "Mon Oct 12 05:18:55 +0000 2026",
+    "id_str": "2109514128729743815",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "代码 Review 只是保证质量的手段之一，现在很多人搞的不Review 天就要塌了一样，明明很多人在 AI 之前都不认真 Review 代码的😄",
+    "quoted_tweet": {
+      "author": "马天翼",
+      "username": "fkysly",
+      "text": "我怀疑 po 主没上过班，但凡你上过班，你都知道软件质量是靠测试、灰度放量、回滚监控、以及灰度用户反馈来保障的，而不是靠你人工 Review 出来的。\n\nAI 不能全局最优？人能全局最优解？开玩笑呢\n\n你喜欢喝手工豆浆，就看不上机器豆浆罢了。但是又不说出为什么手工豆浆更优。\n\n我们用的 Claude Code、Grok Bot 都是 AI Coding 出来的，也没啥大问题。\n\n这种“人工必须 Code Review、人能最优解”的观点只是一种对自己代码过度自信罢了。除非你能用数理逻辑证明 AI 写的代码不如你写的。"
+    },
+    "url": "https://x.com/dotey/status/2109515314858004937",
+    "time": "2026-10-12 13:23",
+    "created_at": "Mon Oct 12 05:23:38 +0000 2026",
+    "id_str": "2109515314858004937",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "据说是 AI 初创公司目前最想要又最难招聘的职位\n\n> 长期在线（了解趋势）\n> 有品味且能创作（新媒体）\n> 理解 AI 和技术\n> 能高质量执行（执行者）\n\n如果按照技术理解力和内容能力分成四个象限画张图的话，图里能看出为什么这个岗位难招：\n\n现有的几类人各自只占一半，内容创作者和社媒运营在左上，有网感但讲不清 AI 产品；技术布道和工程师在右下，懂技术但内容没人看；传统公关执行力强，却既不够“在线”也不够懂技术。\n\n右上角要的是四项同时具备的人，这类人现在本来就少。\n\n不知道我能不能满足这要求？",
+    "quoted_tweet": {
+      "author": "adel 🌟",
+      "username": "adelwu_",
+      "text": "literal hardest role to hire for rn and every ai startup wants someone\n\n> chronically online (knows trends)\n> has taste & can create (new media)\n> understands ai & technical\n> can execute with quality (operator)\n\nsuch a small niche of folks who can do this"
+    },
+    "url": "https://x.com/dotey/status/2109526616778895753",
+    "time": "2026-10-12 14:08",
+    "created_at": "Mon Oct 12 06:08:33 +0000 2026",
+    "id_str": "2109526616778895753",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ameliax111 https://x.com/dotey/status/2109482425722057154?s=20\n\nhttps://x.com/dotey/status/2109151666020794711?s=20\n\nhttps://x.com/dotey/status/2109470081776283941?s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "录屏是个好办法👍\n\n继续贡献一个 REA 案例，除了录屏还可以用 Computer Use，我想学习一下 CapCut 的动态字幕格式，我也不知道格式存在哪里怎么渲染的。\n\n继续问 REA，它的字幕是怎么渲染的，这次我让它自己用 Computer Use 去操作，去点击下载 Templates，然后它会自己打开 CapCut 去一个个点击下载，下载的同时去监控网络地址和磁盘保存地址。\n\n就这样操作了几十个后，Codex 发现这样点击太慢了，自己拼 URL 去从 URL 下载了，就这样下载了 2291 个 Templates。"
+    },
+    "url": "https://x.com/dotey/status/2109527282293559622",
+    "time": "2026-10-12 14:11",
+    "created_at": "Mon Oct 12 06:11:11 +0000 2026",
+    "id_str": "2109527282293559622",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "「华尔街日报」报道了对于AI算力的争夺已经成了硅谷当下最最最重要的事情：\n\n- 2024年，谷歌花了27亿美金，买了一家它根本不需要的公司，只为这家公司的创始人Noam Shazeer，他原本是谷歌的资深研究员，离职创业后，又被谷歌花了这笔大价钱请回来；\n\n- Noam Shazeer重返谷歌后，负责Gemini，本来干得挺开心的，结果发现公司削减了分配给Gemini的算力，投入到了云业务更快变现，这个被谷歌花了27亿美金买到手的老哥，心里不爽，马上就跑去OpenAI了，因为那边保证他的卡量；\n\n- 在谷歌总部，日常景观就是各条业务线的一号位前来讨要算力，拍桌子吵架争论自己的项目更值得加卡，而DeepMind这个核心部门不知道是不是因为科学家作派太重了，竟然经常争不过别人，Demis Hassabis卸任CEO就是出于对算力不足表示不满，他可是AI行业最巨的佬啊，现在知道Gemini为什么那么拉垮了吧；\n\n- 今年早些时候，Anthropic的创始人Dario Amodei打电话给Meta的AI实验室负责人Alexandr Wang，希望对方能卖些算力，那会儿Meta的AI进展不太顺利，导致算力有点过剩，决定对外出售一部分，如果你们还记得，当时差点把华尔街吓尿了；\n\n- Meta认真上会讨论了Anthropic的请求，最后还是决定拒绝，把多余的算力暂时提供给市场是一码事，直接支持自己在模型领域的竞争对手又是另一码事，在高层的一致同意下，Wang含泪拒绝了这笔数千亿美金的订单；\n\n- 但Anthropic的合纵连横也不是完全没有成果，后来用上的SpaceX数据中心就是另一个联合创始人Tom Brown在马斯克的办公室「死磨硬泡」出来的，在SpaceX内部，也有人觉得给对手助攻不太对劲，但巨大的财务压力还是让马斯克屈服了，没人用Grok，再多的算力储备也没意义啊；\n\n- 在硅谷，算力即权力，能够提供算力的人，就是各家科技公司竞相恳求的座上宾，这催生了某种「算力掮客」的隐秘生意，这些掮客并没有算力资产，但他们能想尽办法榨出算力，无论是把机房建在德州农村的鸡舍里，还是去台北说服一家服务器公司签单，只要能给模型使用，价格随便填；\n\n- H100已经是英伟达好几代之前的AI芯片了，但今年以来的每小时租赁成本仍然涨了60%以上，原本来者不拒的云厂商也开始「挑客」，那些不能签订长期合同、不能预付更多费用的公司，是婉拒的哈，「就像是租房，你眼睁睁的看着月租变成了年租，年租变成了长租，长租变成了还要额外预付一整年的租金」；\n\n- 现在连风险投资机构都开始囤算力了，因为很多时候光是花钱，可能抢不到好的项目，但是如果在投资之外，还对创业公司表示「如果你缺算力的话我这里有多的哦」，那么自己的竞争力一下子就会翻倍，Y Combinator就已经在自己训练营里的创业公司补贴GPU集群了。\n\n🫤\n\nsource:The Desperate Hunt for AI Computing Power Is Upending Silicon Valley",
+    "quoted_tweet": null,
+    "url": "https://x.com/foxshuo/status/2109528771049177448",
+    "time": "2026-10-12 14:17",
+    "created_at": "Mon Oct 12 06:17:06 +0000 2026",
+    "id_str": "2109528771049177448",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "如果你压卷了x上的目前那种杂七杂八的内容\n\n那么你应该打开：https://best.xiaohu.ai\n\n看看...\n\n甚至可以订阅下\n即使是免费的内容也非常精彩",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2109494701510549779",
+    "time": "2026-10-12 12:01",
+    "created_at": "Mon Oct 12 04:01:44 +0000 2026",
+    "id_str": "2109494701510549779",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "据说是 AI 初创公司目前最想要又最难招聘的职位\n\n> 长期在线（了解趋势）\n> 有品味且能创作（新媒体）\n> 理解 AI 和技术\n> 能高质量执行（执行者）\n\n如果按照技术理解力和内容能力分成四个象限画张图的话，图里能看出为什么这个岗位难招：\n\n现有的几类人各自只占一半，内容创作者和社媒运营在左上，有网感但讲不清 AI 产品；技术布道和工程师在右下，懂技术但内容没人看；传统公关执行力强，却既不够“在线”也不够懂技术。\n\n右上角要的是四项同时具备的人，这类人现在本来就少。\n\n不知道我能不能满足这要求？",
+    "quoted_tweet": {
+      "author": "adel 🌟",
+      "username": "adelwu_",
+      "text": "literal hardest role to hire for rn and every ai startup wants someone\n\n> chronically online (knows trends)\n> has taste & can create (new media)\n> understands ai & technical\n> can execute with quality (operator)\n\nsuch a small niche of folks who can do this"
+    },
+    "url": "https://x.com/dotey/status/2109526616778895753",
+    "time": "2026-10-12 14:08",
+    "created_at": "Mon Oct 12 06:08:33 +0000 2026",
+    "id_str": "2109526616778895753",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@dotey 那不就是自媒体",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2109528165706260766",
+    "time": "2026-10-12 14:14",
+    "created_at": "Mon Oct 12 06:14:42 +0000 2026",
+    "id_str": "2109528165706260766",
+    "is_retweet": false
   }
 ]
