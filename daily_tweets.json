@@ -228,5 +228,145 @@
     "created_at": "Sun Oct 11 22:29:05 +0000 2026",
     "id_str": "2109410988999279053",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I spoke to some annoyed leaders at big firms who were still big on GPTs as of last month, before GPTs were sunsetted. Yes, GPTs outlived their usefulness. But large organizations have complex planning & all the Labs (not just OpenAI) keep making sudden changes that confuse them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109472254417318335",
+    "time": "2026-10-12 10:32",
+    "created_at": "Mon Oct 12 02:32:32 +0000 2026",
+    "id_str": "2109472254417318335",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As long as LLMs continue to be unreasonably good at everything, companies will figure out a way to muddle along. But they are often struggling with managing organization change, and frequent mandatory model switches (looking at you, Google) and other changes are hard for them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109472567819960637",
+    "time": "2026-10-12 10:33",
+    "created_at": "Mon Oct 12 02:33:46 +0000 2026",
+    "id_str": "2109472567819960637",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I want to give a quick mention to @mreflow. He's the best YouTuber for AI news. His weekly Friday round up has already saved me 3 jobs tomorrow and taught be something new. Who said AI alone could improve productivity? Subscribe to this man: https://m.youtube.com/@mreflow",
+    "quoted_tweet": null,
+    "url": "https://x.com/AndyGaukrodger/status/2109007870784074110",
+    "time": "2026-10-11 03:47",
+    "created_at": "Sat Oct 10 19:47:14 +0000 2026",
+    "id_str": "2109007870784074110",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n\nWe will go higher in the future, but it helps reduce occurrence of compactions and with tasks that require keeping a lot of context and nuance over periods of time. It was carefully tested and is the new sweet spot for most of our users. You can still override it if you want to be higher our lower, with maximum context length of GPT-6.1 Sol of 1M.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109430343346581527",
+    "time": "2026-10-12 07:45",
+    "created_at": "Sun Oct 11 23:45:59 +0000 2026",
+    "id_str": "2109430343346581527",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "With this change, we are not charging long context fees for GPT-6.1 Sol when drawing usage from the subscription.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109430894604026039",
+    "time": "2026-10-12 07:48",
+    "created_at": "Sun Oct 11 23:48:11 +0000 2026",
+    "id_str": "2109430894604026039",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "WHAT ARE YOU ALL EXCITED ABOUT \n\nWE LITERALLY JUST GOT SCAMMED WTF\n\nIt has always been the case that we can edit the context window. \n\nAnd now instead of a reset we get \"default context lenght went up by 80%\"?\n\nIt was always editable bro...",
+    "quoted_tweet": {
+      "author": "Kerdo",
+      "username": "AbdoKerdawy",
+      "text": "Forget the usage limit resets.\n\nthis is the thing I appreciate most from Tibo's posts about how to make codex better than CC.👌"
+    },
+    "url": "https://x.com/AbdoKerdawy/status/2109433087192924554",
+    "time": "2026-10-12 07:56",
+    "created_at": "Sun Oct 11 23:56:54 +0000 2026",
+    "id_str": "2109433087192924554",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@birdabo @poteto We're all proud of you @birdabo. Thank you for solving this one, hadn't thought about it",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109438305188327838",
+    "time": "2026-10-12 08:17",
+    "created_at": "Mon Oct 12 00:17:38 +0000 2026",
+    "id_str": "2109438305188327838",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Pro users, would you rather have"
+    },
+    "url": "https://x.com/thsottiaux/status/2109439315570999598",
+    "time": "2026-10-12 08:21",
+    "created_at": "Mon Oct 12 00:21:38 +0000 2026",
+    "id_str": "2109439315570999598",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@AnkanXplorer Neither. It's all about coding by hand these days",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109439813900493102",
+    "time": "2026-10-12 08:23",
+    "created_at": "Mon Oct 12 00:23:37 +0000 2026",
+    "id_str": "2109439813900493102",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux Now I’m confused. Yesterday you said the opposite of what you’re doing today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/bobjones/status/2109449807974867312",
+    "time": "2026-10-12 09:03",
+    "created_at": "Mon Oct 12 01:03:20 +0000 2026",
+    "id_str": "2109449807974867312",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@AbdoKerdawy We made it cheaper and tuned it to the new recommended level. \n\nYou can always change settings, but defaults exist for a reason.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109491121441402912",
+    "time": "2026-10-12 11:47",
+    "created_at": "Mon Oct 12 03:47:30 +0000 2026",
+    "id_str": "2109491121441402912",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@bobjones We tune these carefully",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109491524358795714",
+    "time": "2026-10-12 11:49",
+    "created_at": "Mon Oct 12 03:49:06 +0000 2026",
+    "id_str": "2109491524358795714",
+    "is_retweet": false
   }
 ]
