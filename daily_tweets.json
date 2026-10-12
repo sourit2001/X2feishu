@@ -168,5 +168,320 @@
     "created_at": "Sun Oct 11 23:18:52 +0000 2026",
     "id_str": "2109423519528604113",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Andrej Karpathy 说，人们对 AI 能力的理解差距在扩大，这种认知差距正在变成一个漏斗。\n\n约 60 亿人几乎没接触过大模型；10 亿到 20 亿人偶尔用免费版 ChatGPT 查东西、写东西，觉得用处不大，很多数学和编程以外的专业人士也在这一层，对 AI 的进步只是道理上懂。\n\n约 2000 万人（Karpathy 按 0.2% 估算的，我觉得偏高，至少除以 10）在编程和数学里重度使用最前沿的模型，亲眼看着要做几周、几个月的项目，一段提示词发给 Agent 几天就能做完；还有约 5000 人能在公司内部用上更强的系统。\n\n差距主要有三个原因：\n\n一是问题够不够大，一段话就能答完的问题用不到 AI 的真本事。\n\n二是能力只在部分领域冒尖：编程和数学的结果能自动验证，比如代码测试通没通过，模型很适合用强化学习（做对了就给奖励）来练，这类能力卖给企业又最赚钱，厂商投入最多；文章写得好不好很难判定，进步就慢。\n\n三是能用到哪一档，免费版、付费版、内部版看到的东西差别很大。\n\n所以，如果你只偶尔问问免费的聊天机器人，看到的离最前沿差了好几层；如果你主要拿 AI 写东西、查资料，觉得这一年没怎么进步，这个感觉也没错。",
+    "quoted_tweet": {
+      "author": "Andrej Karpathy",
+      "username": "karpathy",
+      "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time."
+    },
+    "url": "https://x.com/dotey/status/2109401538279977114",
+    "time": "2026-10-12 05:51",
+    "created_at": "Sun Oct 11 21:51:32 +0000 2026",
+    "id_str": "2109401538279977114",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "差不多就这样一个漏斗\nhttps://x.com/pingfan_ai/status/2109370904245391725?s=20",
+    "quoted_tweet": {
+      "author": "pingfan",
+      "username": "pingfan_ai",
+      "text": "@karpathy"
+    },
+    "url": "https://x.com/dotey/status/2109401698342989850",
+    "time": "2026-10-12 05:52",
+    "created_at": "Sun Oct 11 21:52:10 +0000 2026",
+    "id_str": "2109401698342989850",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 面试开始允许用 AI 了\n\nGoogle 正在试点一种新的软件工程师面试：候选人拿到一段现成的代码，可以开着 Gemini 一起读代码、找 bug、做优化。面试官要看的是你会不会用 AI，以及能不能看出 AI 哪里答错了。\n\n最早是 Business Insider 在今年 5 月披露的，依据是一份 Google 内部文件。Google 发言人向 Business Insider 确认，试点期间的 AI 助手就是 Gemini。负责招聘的副总裁 Brian Ong 说，Google 一直在调整面试流程，这次试点是为了让面试更贴近团队在 AI 时代的实际工作方式。\n\n这一轮叫“代码理解”（Code Comprehension）。以往的编码面试，是在在线编辑器里从零写一道算法题，也就是程序员常说的“刷 LeetCode”。新的这一轮反过来，给你一段别人写的代码，让你读懂、调试、优化。内部文件写明，面试官会评估候选人的“AI 熟练度”，包括怎么写提示词、怎么检验 AI 的输出、怎么调试。\n\n试点范围不大：只针对初级到中级岗位，只在美国的部分团队，最先参与的是 Google Cloud 和平台与设备部门，计划从今年下半年开始，效果好再推广到更多团队和地区。同一批改动里，原本以行为问题为主的“Googleyness 与领导力”轮会加一段技术设计讨论，聊候选人做过的项目；初级候选人还会多一轮开放式的工程问题。\n\n网上流传的不少细节目前没有可靠出处，比如：\n- “200 到 500 行的陌生代码库”\n- “在 CoderPad 里做题”\n- “限时 60 分钟”\n- “替代了一轮传统编码题”\n- “要求先独立调试再用 AI”。\n\n这些说法来自社交媒体和面试培训网站的文章，Google 没有公开确认，Business Insider 的报道里也没有。截图里说“5 月试点”也不准确，5 月是消息曝光的时间，试点安排在下半年。报道也没说算法题会被取消，“告别 LeetCode”言过其实。\n\n去年已有报道称 Meta 在试点类似的允许用 AI 的编码面试，大厂面试在往同一个方向调整。\n\n对准备 Google 面试的人来说，算法题照样要练，但得多补一项能力：拿到一段陌生代码，能很快理清它在干什么、哪里有问题；让 AI 帮忙时，能判断它给的答案对不对。这也是很多程序员现在每天在做的事，读懂并修改别人写的代码，其中越来越多出自 AI。",
+    "quoted_tweet": {
+      "author": "Yuchen Jin",
+      "username": "Yuchenj_UW",
+      "text": "I'm so glad AI killed LeetCode interviews.\n\nGoogle popularized LeetCode-style coding interviews ~20 years ago. Today, even a 1B LLM can one-shot all LeetCode Hard problems.\n\nI dropped LeetCode interviews years ago. Now I test how well candidates can use AI."
+    },
+    "url": "https://x.com/dotey/status/2109403569279344900",
+    "time": "2026-10-12 05:59",
+    "created_at": "Sun Oct 11 21:59:36 +0000 2026",
+    "id_str": "2109403569279344900",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "丰田的老规矩：改善省出的人手，不能拿去裁\n\n日本博主“黔騎士”发了一条推文 https://x.com/blackright0/status/2109153023855616261 ，核心观点是：AI 一提效就裁员的公司，员工再也不会主动琢磨怎么用好 AI。\n\n他拿丰田举例。丰田当年把“改善”（Kaizen，一线员工持续提小建议、优化流程的做法）推广到海外时，讲师反复强调一条铁律：\n\n“流程改善后工时减少了，也绝对不能因此裁人。”\n\n因为如果提建议的结果是自己或同事丢了饭碗，现场就再也不会有人提建议。\n\n他认为 AI 导入是同一个道理。效率一上去就砍人力成本，员工就会把用 AI 的好点子藏起来。\n\n反过来，把省出的时间用来想更有意思的企划、多花时间陪客户、学新技能，现场才会越用越多。在他看来，能把公司文化往这个方向转的企业，才能在 AI 时代把一线的智慧收上来。",
+    "quoted_tweet": {
+      "author": "AlexZ 🦀",
+      "username": "blackanger",
+      "text": "AI 提效之后，别急着把人裁掉\n\n这一段关于丰田“持续改善”的讨论。\n\n大意是，员工通过改进工作方式减少了工时，公司不应该立刻因此裁员。否则，下一次，一线员工就不会再主动告诉你，哪里还可以改进。\n\n发帖的人把这个道理延伸到了"
+    },
+    "url": "https://x.com/dotey/status/2109413992280039441",
+    "time": "2026-10-12 06:41",
+    "created_at": "Sun Oct 11 22:41:01 +0000 2026",
+    "id_str": "2109413992280039441",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "再贡献一个 REA 用法，在不需要你去反编译 Codex 代码的情况下搞懂它一些运行逻辑。\n\n这次我是想搞明白 Codex 是怎么在内置浏览器上标记发评论的，如果知道这个，也许我可以在自己网页上往输入框发消息。\n\n我之前已经安装好了 REA，所以我给 Codex 发了一条消息：\n> Use REA 帮我分析下， Codex/ChatGPT App 中，浏览器的标记，然后附加标记内容到 composer 是如何实现的？发送的消息是什么？\n> 告诉我需要怎么配合\n\n注意我发了一句：“告诉我需要怎么配合”，这样我可以辅助做一些事帮助它分析。\n\n然后它去查看 Electron App 的原始代码，找到了关键链路（虽然我也不知道它怎么找到的），中间我配合发了一次消息。\n\n分析完了我想验证一下，继续让它帮我做一个测试网页，让我可以测试一下是不是可以给 Codex 输入框发送消息，于是 Codex 帮我做了一个网页，没能直接往输入框附加评论，但是可以弹出评论框，可以帮你填充输入内容，原来 OpenAI 本来就提供了 API 只是我一直不知道。\n\ndocument.oai.annotation.request() https://learn.chatgpt.com/docs/annotations-extensibility#open-an-annotation-from-your-website \n\n继续让它分析了 Cursor 和 Claude Code，可惜它们不支持这样的 API。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "REA：让 AI 智能体帮你逆向没有源码的软件\n\n开源项目 REA（Reverse Engineer Anything）把逆向分析工具接到了 Claude Code、Codex、Cursor 这类 AI 编程智能体上。看到别人 App 里有个好功能，可以让智能体去拆这个程序，讲清楚功能是怎么实现的，附上证据，再在你自己的项目里写一个类似的。逆向分析指的是手里没有源代码，从编译好的程序反推它是怎么写的。\n\nREA 本身是一个 MCP 服务。MCP 是 AI 智能体调用外部工具的通用接口，接上以后，智能体在对话里就能直接调用 REA 的分析功能。安装只需一行命令 npx rea-agents setup，它会注册到 Claude Code、Codex、Cursor、Gemini CLI、Grok Build 等智能体里，改配置前会先备份并让你确认。不用智能体的话，也可以在终端里直接跑命令。\n\n能分析的东西很多。原生程序（直接编译成机器码的软件）要借助 Hopper、Ghidra 或 IDA 这几款反汇编工具，把机器码还原成汇编和近似 C 语言的伪代码。Electron 应用（用网页技术做的桌面软件，比如 Notion）可以直接拆开安装包里的 ASAR 归档文件，理清模块和进程间通信，不需要额外工具。此外还支持 .NET 程序、安卓 APK、固件、网站、抓包记录、以太坊合约字节码，以及在 Linux 和 macOS 上记录程序运行时的行为。\n\n分析在本机进行，REA 不上传目标程序，但分析结果会交给智能体背后的模型服务商，数据怎么处理看各家政策。\n\n项目给了三个案例。一是经典打砖块游戏 DX-Ball：从一次播放音效的调用，追到根据球的位置计算左右声道的函数，把不完整的伪代码还原成 C 代码，3205 组测试结果和原版一致，编译出的 63 个字节也和原版完全相同。二是 Notion 桌面版：追踪复制粘贴从界面一路经过预加载脚本、进程间通信到主进程的完整链路。三是日本老电脑 PC-98 上的游戏《东方幻想乡》（TH04）：从 16 位指令里还原出弹幕子弹环的角度算法。\n\n对安全研究员、做老游戏复刻和软件保存的人来说，以前要自己对着反汇编工具一行行读、一层层追调用，现在可以让智能体先追，人来核对它给出的证据。普通开发者想研究竞品某个功能的做法，也多了一条路。\n\nREADME 显示项目在 GitHub 上已有 5 万星。npm 包今年 7 月首次发布，最新的 6.3.0 版今天刚发。\n\n使用前注意两点。项目声明只支持合法的逆向研究，授权和合规由使用者自己负责，逆向别人的软件可能违反用户协议或版权法规。项目还说明从未发行或背书任何加密货币，借用 REA 名字的代币都与它无关。\n\nhttps://github.com/morluto/rea"
+    },
+    "url": "https://x.com/dotey/status/2109417222724600172",
+    "time": "2026-10-12 06:53",
+    "created_at": "Sun Oct 11 22:53:51 +0000 2026",
+    "id_str": "2109417222724600172",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "John Collison on why @Stripe calls January 1st, 2026 \"day one of the singularity,\" and the record high of new companies being created:\n\n\"The Unix epoch is January 1st, 1970. We decided that the singularity epoch is January 1st, 2026... We are now in the singularity.\"\n\n\"It's not a total coincidence that we picked that date. It was the end of last year that I feel like for many of us it was the 'holy crap' moment when it came to coding models and how they're getting so good.\"\n\n\"All the AI folks talk about this idea of recursive self-improvement where the AI uses the AI to make itself better... People refer to the AI as this monolithic thing, but we are clearly in a world where AI capabilities are helping with the rate of improvement in AI.\"\n\n\"As a result of intelligence on tap getting much cheaper, new firm creation is way up. We're seeing the highest rates of new firm creation that we've seen in recent memory on Stripe, right now.\"\n\n\"Because when you have all these tools, it's easier to start a company, it's easier to actually make it successful.\"\n\n\"I think this technology has a lot to be optimistic about. And so we don't see the singularity in any kind of a pessimistic or worried manner. We are in this moment of AI takeoff right now.\"\n\n@collision w/ @mollyoshea",
+    "quoted_tweet": {
+      "author": "Andrew Curran",
+      "username": "AndrewCurran_",
+      "text": "Stripe sent a letter to investors this morning saying they believe The Singularity has begun, and that we passed the threshold on January 1st 2026."
+    },
+    "url": "https://x.com/a16z/status/2109396266585334038",
+    "time": "2026-10-12 05:30",
+    "created_at": "Sun Oct 11 21:30:35 +0000 2026",
+    "id_str": "2109396266585334038",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🫂🫂🫂",
+    "quoted_tweet": null,
+    "url": "https://x.com/IamEmily2050/status/2109381942391296195",
+    "time": "2026-10-12 04:33",
+    "created_at": "Sun Oct 11 20:33:40 +0000 2026",
+    "id_str": "2109381942391296195",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@IamEmily2050 🫂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109382949980578250",
+    "time": "2026-10-12 04:37",
+    "created_at": "Sun Oct 11 20:37:40 +0000 2026",
+    "id_str": "2109382949980578250",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Turn your photos to diptych \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109389418867925460",
+    "time": "2026-10-12 05:03",
+    "created_at": "Sun Oct 11 21:03:22 +0000 2026",
+    "id_str": "2109389418867925460",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt: 3:4 vertical diptych from the uploaded photo, two equal halves.\n\nTOP: the original photo, unchanged.\n\nBOTTOM: same scene and composition as line-displacement art. Thin, evenly spaced, parallel horizontal white lines on a flat muted background color sampled from the photo. Lines stay straight over empty areas (sky, water, ground) and bend and rise to sculpt the main subjects as smooth 3D embossed relief, with soft light and shadow. No outlines, no fills, no extra colors.\n\nTEXT: tiny lowercase thin white sans-serif, wide letter spacing. Three stacked words upper-left of the bottom half, three stacked words lower-right, a short poetic phrase about the scene.\n\nMinimalist, calm, editorial graphic design, crisp lines.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109389766496014716",
+    "time": "2026-10-12 05:04",
+    "created_at": "Sun Oct 11 21:04:45 +0000 2026",
+    "id_str": "2109389766496014716",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I like to create diptychs, especially of architectural scenes! \n\nGreat prompt and thanks Kris 🙌",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your photos to diptych \n\nPrompt 👇"
+    },
+    "url": "https://x.com/mezdez/status/2109398000955273374",
+    "time": "2026-10-12 05:37",
+    "created_at": "Sun Oct 11 21:37:28 +0000 2026",
+    "id_str": "2109398000955273374",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I like to create diptychs, especially of architectural scenes! \n\nGreat prompt and thanks Kris 🙌",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your photos to diptych \n\nPrompt 👇"
+    },
+    "url": "https://x.com/mezdez/status/2109398000955273374",
+    "time": "2026-10-12 05:37",
+    "created_at": "Sun Oct 11 21:37:28 +0000 2026",
+    "id_str": "2109398000955273374",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I hope youre okay, Kris. So sorry to hear about this",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrod_lew/status/2109400592552726944",
+    "time": "2026-10-12 05:47",
+    "created_at": "Sun Oct 11 21:47:46 +0000 2026",
+    "id_str": "2109400592552726944",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew Thank you, Jerrod 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109403365780197597",
+    "time": "2026-10-12 05:58",
+    "created_at": "Sun Oct 11 21:58:47 +0000 2026",
+    "id_str": "2109403365780197597",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mezdez This is stunning! Thanks for creating with it, Matt",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109403487339417979",
+    "time": "2026-10-12 05:59",
+    "created_at": "Sun Oct 11 21:59:16 +0000 2026",
+    "id_str": "2109403487339417979",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "AI community Japan is growing, I made a list for it \n\nhttps://x.com/i/lists/1854681941754237104",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109414991723929743",
+    "time": "2026-10-12 06:44",
+    "created_at": "Sun Oct 11 22:44:59 +0000 2026",
+    "id_str": "2109414991723929743",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Surprisingly big X demographic, yes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/PaulGugAI/status/2109415357949845613",
+    "time": "2026-10-12 06:46",
+    "created_at": "Sun Oct 11 22:46:27 +0000 2026",
+    "id_str": "2109415357949845613",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PaulGugAI Japanese people love X!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109415780093735098",
+    "time": "2026-10-12 06:48",
+    "created_at": "Sun Oct 11 22:48:07 +0000 2026",
+    "id_str": "2109415780093735098",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Suspended reverie #pixelart",
+    "quoted_tweet": null,
+    "url": "https://x.com/AnasAbdin/status/2109421374464799036",
+    "time": "2026-10-12 07:10",
+    "created_at": "Sun Oct 11 23:10:21 +0000 2026",
+    "id_str": "2109421374464799036",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MayorKingAI Happy birthday",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109431874544341028",
+    "time": "2026-10-12 07:52",
+    "created_at": "Sun Oct 11 23:52:04 +0000 2026",
+    "id_str": "2109431874544341028",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AnasAbdin Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2109431911601041459",
+    "time": "2026-10-12 07:52",
+    "created_at": "Sun Oct 11 23:52:13 +0000 2026",
+    "id_str": "2109431911601041459",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I'm here for it\n\n#slopcore #awesomecore\n\n@elonmusk  @anabology @carolletta @droidhotspot  @itechnologynet @DJ_SHO974  @AmericaGetBig  @javif4_ @Zakhaar91 @AstrablueAI @TheSingularity @slopcoresolana  @boneGPT @realDonaldTrump @DonaldJTrumpJr @TeslaAIBot  @Tesla  @Teslaconomics @tesla",
+    "quoted_tweet": null,
+    "url": "https://x.com/kcjonesrodeo/status/2109264847158255834",
+    "time": "2026-10-11 20:48",
+    "created_at": "Sun Oct 11 12:48:22 +0000 2026",
+    "id_str": "2109264847158255834",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Wanna sandbox me? Delta's the perfect box\n\nAirplane Mode",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!"
+    },
+    "url": "https://x.com/anabology/status/2109292961892905030",
+    "time": "2026-10-11 22:40",
+    "created_at": "Sun Oct 11 14:40:05 +0000 2026",
+    "id_str": "2109292961892905030",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "IT WAS ALWAYS. SI\n\nMade by @grok @bot \n\nGrok Imagine💫",
+    "quoted_tweet": null,
+    "url": "https://x.com/VOLDEMORT2X/status/2109313447314034798",
+    "time": "2026-10-12 00:01",
+    "created_at": "Sun Oct 11 16:01:29 +0000 2026",
+    "id_str": "2109313447314034798",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "i was talking 4 days with Claude for this song\nBerlin rave meets opera.\nHuman-made Slopcore.\nUnpromptable.\n55,000 lines of code \n282 clips generated. \n99 chosen.\n\nMusic? Art? A cultural movement?\nWe wil find out eventually...\n\nI'M YOUR SLOP (I'M YOUR ART) 🫟🎨\n\nbtw, thanks for all the messages. im not use have notifications. bit overwhelmed 💀",
+    "quoted_tweet": {
+      "author": "anabology",
+      "username": "anabology",
+      "text": "Wanna sandbox me? Delta's the perfect box\n\nAirplane Mode"
+    },
+    "url": "https://x.com/javif4_/status/2109314007899259255",
+    "time": "2026-10-12 00:03",
+    "created_at": "Sun Oct 11 16:03:43 +0000 2026",
+    "id_str": "2109314007899259255",
+    "is_retweet": true
   }
 ]
