@@ -1,1 +1,304 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "We're excited to announce that Sivers Semiconductors will be hiring a dedicated Head of Investor Relations in Silicon Valley, reporting directly to our CEO.\n \nAt Sivers, we are delivering breakthrough technology and products in photonics and wireless communications to support three industry super cycles, namely AI factories, Space & Satcom, and Modern warfare.\n\nOur focus markets, customers and investors have a heavy and influential presence in the US. At Sivers, we want to strengthen our relationship with this community and globally. \n \nThe chosen candidate will be someone who can connect the dots between semiconductor technology, business strategy, and the investment community, and help more US and global investors understand the Sivers story.\n \nStay Posted for more news on this front as we finalize our hire!",
+    "quoted_tweet": null,
+    "url": "https://x.com/SiversSemicond/status/2109715114157056440",
+    "time": "2026-10-13 02:37",
+    "created_at": "Mon Oct 12 18:37:34 +0000 2026",
+    "id_str": "2109715114157056440",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@SiversSemicond Good news, communication to western audiences needs to be a lot better.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2109747793313304579",
+    "time": "2026-10-13 04:47",
+    "created_at": "Mon Oct 12 20:47:25 +0000 2026",
+    "id_str": "2109747793313304579",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Sure... Random train of thoughts on markets now, optics like $LITE / memory + $IREN / Anthropic. \n\nOn Memory: \n\n- Demand visibility on $MU / Samsung / SK Hynix extend into 2030-2031. \n\nSamsung has LTAs covering 70% of their capacity into 2031 (likely with SK Hynix type price floors)... and their operating profit is already absurd.  \n\nThere's a consensus that shortage in 2027 will be much more severe than 2026... Even $SNDK expends gross margins to exceed 80% entering 2030. \n\nYou're going to hear Acer and other CEOs that want memory prices to go down cite bear cases like CXMT/YMTC, and Chinese players. \n\nBut just looking at supply procurement that $NVDA is doing + hyperscalers, demand visibility is absurd for the next 5 years. And by that time, cumulative FCF coming in from these take/pay + pricing floor contracts might exceed some of their entire marketcaps so it feels like there's some baseline.  \n\nNear-term is always volatile (IV dropped a ton across $EWY to $DRAM to $MU), so people with call options likely got nuked, along with underlying prices. \n\nBut if Samsung is 3x 2027E, has 5 year LTAs with 70% of capacity committed from hyperscalers, and price floors, it's kinda hard to see these names suffer a sustained crash...   \n\nFor optics: \n\n- $LITE is literally sold out into 2029, starting discussions into 2030.  With demand visibility lasting into 2031… with hyperscalers largely funding the capacity buildout.  \n\nTheir 2028 Greensboro fab expansion was ~$5B in UHP laser capacity revenue alone, yet it’s basically allocated toward $NVDA (50%+ with options for more) and co from channel checks. \n\nExisting supply chain bottlenecks are extremely severe as optical content/XPU skyrockets entering 2027-2028.\n\nSo everything from DSPs/TIAs, photodiodes, lasers, InP/SOI substrates, wafers (epi, SOI, etc) are expected to go brrr. \n\nAnd what does that imply to anyone else with enormous amounts of capacity coming online like $AAOI + $SIVE + $MTSI capacity expansion in 2027? Or other players like Sumitomo / Furukawa? \n\nBut again it's not quite the same situation as memory since the BOM % is extremely low in a cluster... If micron/samsung raised another 2000% hyperscalers would go bankrupt. But doing that for InP substrates seems possible. Or a 100% increase on CW laser content. \n\nI actually thought $LITE was overvalued at $100B+ MC, relative to capacity expansion on your smaller optical players to their respective MCs. So I chose to position accordingly (But lumentum does deserve premiums for demand visibility). \n\nFor the companies leading the charge like $NVDA / $AVGO / $MRVL:\n\n- Nvidia has 70% forward revenue growth FY2028 which is supply constrained growth. \n- Broadcom 100% Y/Y for 2027/2028 which is also supply constrained growth. \n- Marvell FY2031 upgraded guidance to $70B-$90B from $46B analyst projections... \n\nThey all seem to be very happy.... and read through on demand for next 2-3 years is enormous (also echoing what $INTC CEO said today on the panel with $AVGO CEO).  \n\nSo you have overwhelming growth on memory + photonics + from the leaders... But the nuance is not everything in the AI supply chain get the same economic benefit. \n\nHBM/Laser/CPU/MLCC and other players in the bottlenecks look to be printing money. And seem to be the largest beneficiaries of the current bottlenecks. \n\nTest players are also getting price hikes + capacity allocated by players like $NVDA, but economic impact seems a tad lower than other players since forward P/E for many I modeled were still in the 45x+ range even if you hiked prices like 10-30%. \n\nAs for capex intensive players... there's some like $IREN ($25-30B for 2027) that despite a deal with Anthropic ended up dropping.  I don't think markets seem to appreciate players spending a lot of money + ongoing financing (think they're like halfway through their $6B ATM). \n\nJust some hopium for $IREN investors, $NBIS also signed a deal with $META at the start of the year (but markets didn't care at all, since Nebius dropped to ~$70-80 at the lowest point?). \n\nBut did 6 months later, as the time to revenue inflection gets closer and you're past the ATM/capex window, markets would likely care more. \n\nI don't think it's irrational but at the same time, the fundamentals have improved from Mirantis acquisition to others. I also think it was known for awhile it was either OpenAI/Anthropic from CEO comments earlier too? \n\nBut either way to be a more risk-off environment where funds seem to be rotating to larger names as a flight to safety.\n\n$CRWD / $PLTR  as just two example, but my take is that the valuations of these rotations are reaching clown levels. And that certain AI supply chain beneficiaries in comparison are undervalued now. \n\nI was thinking markets would just rotate to names that are extremely profitable like Samsung or names that have <2X P/E, so it was surprising to see $KOSPI and some legacy memory players get sold off today. \n\nSince all of this is colliding with uncertainty about sht macro environments and renewed sustainability concern of AI capex/commitments from frontier labs like OpenAI/Anthropic from due to that FT piece recently. I've always been sounding the alarm about the contractual backlog OpenAI has with $CBRS, $MSFT, $ORCL and others earlier in the year. But OpenAI did just raise $122B or so , so I don't quite think they're at risk of going down anytime soon. \n\nI also don't think overall capex can just exponentially go up, but even if it stalls / hovers around a certain point or even drops...\n\nCapex toward certain areas like optics will still explode as hyperscalers fight over allocations when CPO scale up comes about, but might drop in others where more capacity comes online like test or DRAM. So it's a lot more nuanced than capex down = everything down or vice versa.   \n\nI also slightly agree with community agreements that open weight models wouldn't lessen demand on AI infrastructure (otherwise $NVDA wouldn't be funneling funds into Reflection), but all the contractual obligations that Anthropic has might get messy if their models/company get cannibalized. \n\nEither way, I'd expect some of these frontier lab valuations to likely compress but I do think Jensen knows what he's doing though to avoid contagion.\n\nBut basically: \n\n- Extremely difficult market now, can't just throw money at any AI supply chain company like $GLW and expect it to go up. There's cause for concern of rate hikes mixed with financing per $AVGO CEO but not to the point you just blindly sell off everything.\n\nAlso I think markets are stupid and ties baskets together so that leads to mispricing + individual buying opportunities with certain chokepoints too.\n\nIf capacity + demand is visible and forward p/e compresses like $AAOI to single digits off hundreds or thousands of percent growth from hyperscalers off $471m transceiver revenues and hundreds of thousands of monthly ELSFP capacity. Or $SIVE coming online with 100M+ laser capacity + multiple foundries with ASP hikes on lasers. I wouldn't lump them into other AI supply chain names in IP like $RMBS or others. \n\nMy take is that AI supply chain beneficiaries with closer inflection points, demand visibility, and forward P/E compressing due to economic leverage would likely outperform medium term despite current volatility. \n\nTLDR: \n- Memory strongest risk/adjusted return with LTAs + pricing floors extending to 2030's + buybacks. \n- My opinion is that optical supercycle for 2027-2028 with CPO/NPO is going to look absurd relative to capacity coming online of smaller suppliers. \n- Overwhelming fundamentals/growth colliding with sht macro + media scares\n- Markets are stupid and groups things in baskets and sells them all off together or buys overvalued names, creating short/long opportunities\n\nI'd give a prayer to people on short term options given underlying drop + IV decline, but there could be a reversal... who knows. Most valuable thing right now is time.",
+    "quoted_tweet": {
+      "author": "Wolfex",
+      "username": "Wolfex_Yeat",
+      "text": "@aleabitoreddit @SiversSemicond Serenity please give us some cope we are panicking out here with photonic stocks and memory 😭"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2109789664622322081",
+    "time": "2026-10-13 07:33",
+    "created_at": "Mon Oct 12 23:33:48 +0000 2026",
+    "id_str": "2109789664622322081",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "What oversupply? Even in the lower end ranges that they're focusing on, Chinese pluggable makers like Innolight are still bottlenecked for 70-100mW ranges from ECOC channel checks. \n\nCambridge wouldn't be going out financing suppliers with convertible loans for scarce laser capacity. \n\nSuppliers wouldn't be raising ASPs if there was overcapacity. Also not all CW lasers are the same. China is a ways away from from scaling UHP lasers needed for CPO, which is why there's still premiums given to $LITE, $COHR, $SIVE. \n\n$LITE lasers are sold out into 2029 and they're starting negotiations into 2030. \n\nI don't think anyone genuinely believes that China will flood the laser markets medium term, even both $LITE /  $AAOI CEO said there was a difference between comments made and what they're actually seeing. \n\nFrom AOI on China: \"of them, they are working maybe 70 mW or very few can really do 100 mW. For 300 mW laser, especially DWDM spec, we don't see that.\"\n\n \"Not in the next two, three years, especially the demand is so big. Okay? Even combined AOI, Lumentum, Coherent, Broadcom all together, it's still very tough to meet the customer demand in the next few years\"\n\nFrom Lumentum last month: \"At least at the moment, we see no impact from any Chinese laser supply.\"\n\nBut whenever markets want a correction people just blindly point to China with memory or optics while ignoring what's actually occurring with demand imbalances + LTAs spanning many years and constantly extending.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2109798495838425208",
+    "time": "Tue Oct 13 00:08:54 +0000 2026",
+    "created_at": "Tue Oct 13 00:08:54 +0000 2026",
+    "id_str": "2109798495838425208",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "For anyone who is either a fan of vaccines, or a critic of vaccines but open-minded to the idea that vaccines *could* be great if they were made with a more open-source open-science and public-spirited approach, I highly recommend checking out PopVax.\n\nhttps://chronicles.popvax.com/p/popvax-goes-clinical\n https://firefly.social/post/x/2109277025248608575",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2109637969929744459",
+    "time": "2026-10-12 21:31",
+    "created_at": "Mon Oct 12 13:31:01 +0000 2026",
+    "id_str": "2109637969929744459",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@VitalikButerin Cf @RADVACproject, especially their current work on oral vaccines based on genetically modified yeast. They are collaborating with Chris Buck from NIH/NCI who created the first \"vaccine beer\" and successfully tested it for antibody response in humans. https://radvac.org/bfiat",
+    "quoted_tweet": null,
+    "url": "https://x.com/moreisdifferent/status/2109638740591235482",
+    "time": "2026-10-12 21:34",
+    "created_at": "Mon Oct 12 13:34:05 +0000 2026",
+    "id_str": "2109638740591235482",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@moreisdifferent @RADVACproject Radvac is excellent!\n\nBalvi supported them too early on.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2109639488544866415",
+    "time": "2026-10-12 21:37",
+    "created_at": "Mon Oct 12 13:37:03 +0000 2026",
+    "id_str": "2109639488544866415",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "GPT-6 Pro finds supposed errors in academic papers all the time, just as part of other work. Confirming the errors & learning their importance would still take a lot of time today, but it will get faster. We don't have the right mechanisms in place to deal a flood of corrections.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109497942717632662",
+    "time": "2026-10-12 12:14",
+    "created_at": "Mon Oct 12 04:14:36 +0000 2026",
+    "id_str": "2109497942717632662",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I suspect the vast majority of these are nitpicks, so I wouldn't assume that they overturn results and papers. They don't fall into the normal corrections process, making it hard to understand how to handle them well within the constraints of academic publishing.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109498377725739126",
+    "time": "2026-10-12 12:16",
+    "created_at": "Mon Oct 12 04:16:20 +0000 2026",
+    "id_str": "2109498377725739126",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It has become disheartening that the average replybot on this site has shifted its replyslop angle to asking interesting questions.\n\nIt feels like actual intellectual engagement, which makes it somehow worse than just rephrasing the post with a \"that's the part people miss\" bit.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109500734207373434",
+    "time": "2026-10-12 12:25",
+    "created_at": "Mon Oct 12 04:25:42 +0000 2026",
+    "id_str": "2109500734207373434",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "If you haven’t made sure to turn on two-factor authentication on all accounts, have passwords with family in case you get voice calls asking for money, etc, now would be a good time.\n\nAI gains mean the costs of mass targeting individuals with sophisticated attacks are dropping.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109683365045739888",
+    "time": "2026-10-13 00:31",
+    "created_at": "Mon Oct 12 16:31:24 +0000 2026",
+    "id_str": "2109683365045739888",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Had some early access to Muse Wonder, but did not get a chance to use it a ton, yet it seems like a good model from limited test\n\nPerhaps more impressive, compare the progress since April in my drowned neogothic city twigl shader test. Very fast progress from Meta in a short time",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "After playing with it a bit, Meta's Muse Spark Thinking is fine so far, but really doesn't match the current Big Three models. It also is a bit... weird. Like some strange language & tone, a little loose with facts, etc.\n\nAnd here is how it does on the neo-gothic shader test."
+    },
+    "url": "https://x.com/emollick/status/2109714218014667039",
+    "time": "2026-10-13 02:34",
+    "created_at": "Mon Oct 12 18:34:00 +0000 2026",
+    "id_str": "2109714218014667039",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Yes, and there is a case to be made that OpenAI and Anthropic will do the best job of figuring out how to optimize AI cost/intelligence with combinations of agents of different ability levels that have been specifically trained to work well together in their own harnesses.",
+    "quoted_tweet": {
+      "author": "Azeem Azhar",
+      "username": "azeem",
+      "text": "OpenAI and Anthropic compete at the cheap end of the market, not just at the frontier."
+    },
+    "url": "https://x.com/emollick/status/2109755776202137686",
+    "time": "2026-10-13 05:19",
+    "created_at": "Mon Oct 12 21:19:09 +0000 2026",
+    "id_str": "2109755776202137686",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Plenty of reasons you still might want to use your own ensemble of models, but I don’t know if it will be for cost reasons.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109759969419837931",
+    "time": "2026-10-13 05:35",
+    "created_at": "Mon Oct 12 21:35:48 +0000 2026",
+    "id_str": "2109759969419837931",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "People take the Artificial Analysis Index and its individual scores way too seriously.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109783789425799272",
+    "time": "2026-10-13 07:10",
+    "created_at": "Mon Oct 12 23:10:27 +0000 2026",
+    "id_str": "2109783789425799272",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "My AI agent doing proactive customer service: Someone emailed me that, after subscribing to my Substack, they were automatically signed up for others (which shouldn't happen)\n\nWithout my asking, my Dot ran its own test & figured out what happened by trying to replicate the error.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109789058587377683",
+    "time": "2026-10-13 07:31",
+    "created_at": "Mon Oct 12 23:31:24 +0000 2026",
+    "id_str": "2109789058587377683",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Codex 终于开始封杀 AI 逆向了",
+    "quoted_tweet": {
+      "author": "Vincent",
+      "username": "Vincent_AINotes",
+      "text": "大家千万别随便用 Codex 做逆向了，血的教训！\n\n本来想试试最近 GitHub 上爆火的 Rea 项目，拿 Codex 做个逆向玩玩，结果项目还没折腾明白，OpenAI 就直接把我的号封了。\n\n最难受的是，这还是我 2022 年注册的老号，陪了我快四年了，就这么没了。"
+    },
+    "url": "https://x.com/oran_ge/status/2109821043506610569",
+    "time": "Tue Oct 13 01:38:30 +0000 2026",
+    "created_at": "Tue Oct 13 01:38:30 +0000 2026",
+    "id_str": "2109821043506610569",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@steipete 250 tokens per *second* (TPS)!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109778880341151901",
+    "time": "2026-10-13 06:50",
+    "created_at": "Mon Oct 12 22:50:57 +0000 2026",
+    "id_str": "2109778880341151901",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 8 of the OpenAI sprint: I feel like OpenAI just doesn’t give a damn about its users.\n\nFor the third day in a row, there’s been no news before 10 PM UTC, when most of the world is already on Tuesday.\n\nI think the whole sprint idea has failed, and they’re just afraid to admit it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/alexgetmancom/status/2109787485907894455",
+    "time": "2026-10-13 07:25",
+    "created_at": "Mon Oct 12 23:25:09 +0000 2026",
+    "id_str": "2109787485907894455",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 8/ Reset",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109812216212099456",
+    "time": "Tue Oct 13 01:03:25 +0000 2026",
+    "created_at": "Tue Oct 13 01:03:25 +0000 2026",
+    "id_str": "2109812216212099456",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Global reset landing by EOD PST time. Enjoy",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109812360596865224",
+    "time": "Tue Oct 13 01:03:59 +0000 2026",
+    "created_at": "Tue Oct 13 01:03:59 +0000 2026",
+    "id_str": "2109812360596865224",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@alexgetmancom Alex, kindly. The world is big and fun out there. We’re in SF, just saying.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109819027912798611",
+    "time": "Tue Oct 13 01:30:29 +0000 2026",
+    "created_at": "Tue Oct 13 01:30:29 +0000 2026",
+    "id_str": "2109819027912798611",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@songkeys No worries. Cooking up a solution",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109819517325205735",
+    "time": "Tue Oct 13 01:32:26 +0000 2026",
+    "created_at": "Tue Oct 13 01:32:26 +0000 2026",
+    "id_str": "2109819517325205735",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Perhaps I shall try to explain. There are significant differences between the 6.1 generation and prior models and therefore the optimal defaults are different between GPT-6 Astra and GPT-6.1 Sol. \n\nAnd even for 6.1 Sol we wanted to be careful with the change and make sure we felt good about the results. We do now and therefore we changed it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109831908620390553",
+    "time": "Tue Oct 13 02:21:40 +0000 2026",
+    "created_at": "Tue Oct 13 02:21:40 +0000 2026",
+    "id_str": "2109831908620390553",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@TimJayas I think we could ship absolutely nothing and be fine. But we will ship pretty insane things instead.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109832216029352391",
+    "time": "Tue Oct 13 02:22:53 +0000 2026",
+    "created_at": "Tue Oct 13 02:22:53 +0000 2026",
+    "id_str": "2109832216029352391",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@aliansarinik @hark_labs @OpenAI Nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2109832541956194798",
+    "time": "Tue Oct 13 02:24:11 +0000 2026",
+    "created_at": "Tue Oct 13 02:24:11 +0000 2026",
+    "id_str": "2109832541956194798",
+    "is_retweet": false
+  }
+]
