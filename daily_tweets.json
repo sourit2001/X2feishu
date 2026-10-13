@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Using Gemini 4 makes you realize how many other models must be distilling Claude/GPT (or using a similar training pipeline). It feels quite different than other models.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110060618258497764",
+    "time": "Tue Oct 13 17:30:29 +0000 2026",
+    "created_at": "Tue Oct 13 17:30:29 +0000 2026",
+    "id_str": "2110060618258497764",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The best model for real work just stopped being the most expensive one.\n\nGemini 4 Argon is #1 on the Vals Index (finance, legal, tax, coding):\n\n→ Argon: 68.90%\n→ Sonnet 5.5: 67.04%\n→ Opus 5.5: 66.97%\n→ GPT-6 Astra: 63.13%\n\nAnd it cost $15.68 to run that test. Opus cost $32.14.\n\nHere's the real breakdown 🧵",
+    "quoted_tweet": {
+      "author": "Google DeepMind",
+      "username": "GoogleDeepMind",
+      "text": "Gemini 4 Argon is now globally available.\n\nBuilt to solve your hardest problems from start to finish, the model brings frontier capabilities across coding, enterprise workflows, and cyber defense."
+    },
+    "url": "https://x.com/godofprompt/status/2110060231082598837",
+    "time": "Tue Oct 13 17:28:56 +0000 2026",
+    "created_at": "Tue Oct 13 17:28:56 +0000 2026",
+    "id_str": "2110060231082598837",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "When to switch:\n\n→ Long agentic coding, refactors, migrations: test it now\n→ Doc-heavy legal/finance/research: test it now\n→ Repeated big context: the 95% cache discount is the lever\n→ Workflows already dialed in on Claude: run both, compare cost per task\n\nNo vibes. Run your own evals.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2110060314284986708",
+    "time": "Tue Oct 13 17:29:16 +0000 2026",
+    "created_at": "Tue Oct 13 17:29:16 +0000 2026",
+    "id_str": "2110060314284986708",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Access today: Gemini API paid tier, AI Studio, Antigravity (Ultra), Gemini app + AI Mode (Ultra and Pro).\n\nFollow @godofprompt for breakdowns with the numbers, not the hype.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2110060325949382715",
+    "time": "Tue Oct 13 17:29:19 +0000 2026",
+    "created_at": "Tue Oct 13 17:29:19 +0000 2026",
+    "id_str": "2110060325949382715",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt oh yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/xadisingh/status/2110100860911186326",
+    "time": "Tue Oct 13 20:10:23 +0000 2026",
+    "created_at": "Tue Oct 13 20:10:23 +0000 2026",
+    "id_str": "2110100860911186326",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@xadisingh still haven't tried this one",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2110104486614335579",
+    "time": "Tue Oct 13 20:24:48 +0000 2026",
+    "created_at": "Tue Oct 13 20:24:48 +0000 2026",
+    "id_str": "2110104486614335579",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "\"the employee was terminated\"\n\nspying on OpenAI leads only one way 🔥🔥🔥",
+    "quoted_tweet": {
+      "author": "OpenAI Newsroom",
+      "username": "OpenAINewsroom",
+      "text": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agents and prosecutors who moved quickly to make an arrest. The FBI’s investigation is ongoing and we will continue to support their work.\n\nAt this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data. The employee was terminated.\n\nWe take protecting our technology, data, and people seriously, and as a matter of national importance. Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats."
+    },
+    "url": "https://x.com/godofprompt/status/2110115304869404815",
+    "time": "Tue Oct 13 21:07:47 +0000 2026",
+    "created_at": "Tue Oct 13 21:07:47 +0000 2026",
+    "id_str": "2110115304869404815",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This is awesome!",
+    "quoted_tweet": {
+      "author": "Nate Herk",
+      "username": "nateherk",
+      "text": "I built /roast-room, a Claude skill that stress tests your idea in front of a council of seven.\n\nEach seat is a sub-agent with its own brain, built from that person’s books, frameworks, and stories. Each one owns a single question:\n\nBezos: Is this the right bet, and how reversible is it?\n\nPaul Graham: Do people actually want this?\n\nHormozi: Will people pay, and how much?\n\nGary Vee: Where does the attention come from?\n\nDan Martell: Who does this, and what does it cost your calendar?\n\nGino Wickman: Can the business run it without you?\n\nBuffett: What does it do to cash and risk?\n\nThey form their opinions, debate each other, and hand me a final verdict."
+    },
+    "url": "https://x.com/mreflow/status/2110083735777628265",
+    "time": "Tue Oct 13 19:02:20 +0000 2026",
+    "created_at": "Tue Oct 13 19:02:20 +0000 2026",
+    "id_str": "2110083735777628265",
+    "is_retweet": false
+  }
+]
