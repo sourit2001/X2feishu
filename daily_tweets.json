@@ -1,1 +1,238 @@
-[]
+[
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "webgpu for the win! The splats run so smoothly. A demo I built of a portal cube with some cool parallax (each scene was generated via world labs).",
+    "quoted_tweet": {
+      "author": "martin_casado",
+      "username": "martin_casado",
+      "text": "Sneak preview of next gen Sparkjs. This is all webgpu in browser with millions of splats, dynamics, dynamic lighting. This would be sick in VR as part of a live music demo .... I think that's gotta happen sometime."
+    },
+    "url": "https://x.com/XRarchitect/status/2109828750657654819",
+    "time": "Tue Oct 13 02:09:07 +0000 2026",
+    "created_at": "Tue Oct 13 02:09:07 +0000 2026",
+    "id_str": "2109828750657654819",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@XRarchitect 🤩",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2109992100431315060",
+    "time": "Tue Oct 13 12:58:13 +0000 2026",
+    "created_at": "Tue Oct 13 12:58:13 +0000 2026",
+    "id_str": "2109992100431315060",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Just had a chance to host a chat with @emollick about his upcoming book, Co-Existence. It is going to be a hit and is full of practical insights on AI. There will be many positive reviews of the ideas, but let me suggest three non-obvious meta-reasons to read it sooner rather than later:\n1. How to work (co-exist?) with AI. Every so often, Ethan pulls back the curtain and describes how he uses AI in the book writing process. You get a peek into specific techniques and, more importantly, the mindset that will make someone successful.\n2. The Mollick production function. The book is long enough to give Ethan breathing room to show why he's such a different thinker and fun to hang out with. He actually plays with the tools for long enough to get a finger-feel for what's possible (that's why he is texting at 2 am!); he constantly conceptualizes what he's encountering (jagged frontier, leadership-crowd-lab, the multi-player 2x2, etc.), pushing the ideas to their logical (and often uncomfortable) conclusion; and he ruthlessly throws away ideas when they no longer match the facts on the ground (especially important as everything changes so rapidly).\n3. Common knowledge. In this time of hyper-personalized bubbles, we forget the value in having a shared set of stories, frameworks, and ideas. Ethan's book is going to be read by everyone from CEOs to ambitious high schoolers. The book is going to be referenced at many business meetings and holiday dinners so you might as well join in the fun early so you can give a knowing look when someone tells his escalator vs eschaton story, explains the best reasons not to use AI, or debates StrongDM-style software factories.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jamescham/status/2109888933316473070",
+    "time": "Tue Oct 13 06:08:16 +0000 2026",
+    "created_at": "Tue Oct 13 06:08:16 +0000 2026",
+    "id_str": "2109888933316473070",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Just had a chance to host a chat with @emollick about his upcoming book, Co-Existence. It is going to be a hit and is full of practical insights on AI. There will be many positive reviews of the ideas, but let me suggest three non-obvious meta-reasons to read it sooner rather than later:\n1. How to work (co-exist?) with AI. Every so often, Ethan pulls back the curtain and describes how he uses AI in the book writing process. You get a peek into specific techniques and, more importantly, the mindset that will make someone successful.\n2. The Mollick production function. The book is long enough to give Ethan breathing room to show why he's such a different thinker and fun to hang out with. He actually plays with the tools for long enough to get a finger-feel for what's possible (that's why he is texting at 2 am!); he constantly conceptualizes what he's encountering (jagged frontier, leadership-crowd-lab, the multi-player 2x2, etc.), pushing the ideas to their logical (and often uncomfortable) conclusion; and he ruthlessly throws away ideas when they no longer match the facts on the ground (especially important as everything changes so rapidly).\n3. Common knowledge. In this time of hyper-personalized bubbles, we forget the value in having a shared set of stories, frameworks, and ideas. Ethan's book is going to be read by everyone from CEOs to ambitious high schoolers. The book is going to be referenced at many business meetings and holiday dinners so you might as well join in the fun early so you can give a knowing look when someone tells his escalator vs eschaton story, explains the best reasons not to use AI, or debates StrongDM-style software factories.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jamescham/status/2109888933316473070",
+    "time": "Tue Oct 13 06:08:16 +0000 2026",
+    "created_at": "Tue Oct 13 06:08:16 +0000 2026",
+    "id_str": "2109888933316473070",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is one week until October 20, the day my new book, Co-Existence comes out!\n\nIf you pre-order before then, you get a 10 minute AI voice interview that builds a set of customized prompts, readings & use cases for you based on ideas from the book.\n\nGet it: https://co-existence.ai/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2109999604775387249",
+    "time": "Tue Oct 13 13:28:02 +0000 2026",
+    "created_at": "Tue Oct 13 13:28:02 +0000 2026",
+    "id_str": "2109999604775387249",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A worthwhile (and unnerving) reminder from Anthropic that we should be paying attention to AI ability thresholds, not just steady climbs\n\nIn this case, the threshold is the capability needed for a self-replicating AI worm on IoT devices like off-brand TVs https://www.anthropic.com/research/self-replicating-ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110008451866710221",
+    "time": "Tue Oct 13 14:03:11 +0000 2026",
+    "created_at": "Tue Oct 13 14:03:11 +0000 2026",
+    "id_str": "2110008451866710221",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rajeev_NL/status/2110009266774106125",
+    "time": "Tue Oct 13 14:06:25 +0000 2026",
+    "created_at": "Tue Oct 13 14:06:25 +0000 2026",
+    "id_str": "2110009266774106125",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Rajeev_NL Hope you enjoy! Make sure to get your pre-order bonus.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110024879244489035",
+    "time": "Tue Oct 13 15:08:28 +0000 2026",
+    "created_at": "Tue Oct 13 15:08:28 +0000 2026",
+    "id_str": "2110024879244489035",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@jamescham @emollick Co-intelligence gave me the confidence that building a company with AI (not an AI company!) was not only possible but fruitful.  I'm looking forward to Co-Existence",
+    "quoted_tweet": null,
+    "url": "https://x.com/NatBullard/status/2110051817052885492",
+    "time": "Tue Oct 13 16:55:30 +0000 2026",
+    "created_at": "Tue Oct 13 16:55:30 +0000 2026",
+    "id_str": "2110051817052885492",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I spent a decent amount of time with Gemini 4 before launch. Overall, Gemini 4 is a big jump over previous Gemini models and it is the first non-OpenAI/Anthropic model to pass the Fable/Mythos/Astra bar. It is also much more pleasant and more agentic then previous Gemini models, without the weird personality issues that you often found in Gemini 3 series models. In fact, a big advantage is that has a very different personality and sense of taste than Claude or Astra, making it a good addition to the AI world. \n\nOn the usefulness side, in some areas it is at least at par with OpenAI and Anthropic (it is quite creative and a good writer), but in others it lags, including at complex multi-agent work. It has a tendency to be too certain about its conclusions and a little lazy, issues not helped by the Antigravity harness not being quite as good as the competition. Still, I expect to see rapid improvements in model abilities using Gemini 4 as a base.\n\nHere is a fun example:  \"create the ultimate brutalist city builder. you should have lots of controls over buildings in ways that are delightful and inuitive to people who just want to play, but are sophisticated and deep for people who know something about architecture. you should be able to play a lot with design and approach. there should be simulation modes and different ways to view or experience the city. make it stunning. i want to host this on netlify in the end\"\n\nAstra Max in Codex: https://formwork-city.netlify.app/Fable \n5.1 Max in Code: https://brut-city.netlify.app/\nArgon in Antigravity: https://rainbow-panda-689e6b.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110052331702124894",
+    "time": "Tue Oct 13 16:57:33 +0000 2026",
+    "created_at": "Tue Oct 13 16:57:33 +0000 2026",
+    "id_str": "2110052331702124894",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@NatBullard @jamescham This means a lot, I am so glad to hear it and thankful that I could help.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110052661869281677",
+    "time": "Tue Oct 13 16:58:52 +0000 2026",
+    "created_at": "Tue Oct 13 16:58:52 +0000 2026",
+    "id_str": "2110052661869281677",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "REA is the most dangerous thing on the internet right now\n\nsend this single prompt to Opus 5.5 and it walks you through taking any app apart, step by step, like you’ve never done it before\n\nit asks 4 questions, picks the right route for your target, then traces the feature from your click to the result\n\nevery claim comes with a file, a function and a line number",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2109947521363747119",
+    "time": "Tue Oct 13 10:01:04 +0000 2026",
+    "created_at": "Tue Oct 13 10:01:04 +0000 2026",
+    "id_str": "2109947521363747119",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full Claude guide is free → https://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2109947533372105207",
+    "time": "Tue Oct 13 10:01:07 +0000 2026",
+    "created_at": "Tue Oct 13 10:01:07 +0000 2026",
+    "id_str": "2109947533372105207",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "you can access 30,000+ AI prompts and guides at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2109947544998728165",
+    "time": "Tue Oct 13 10:01:10 +0000 2026",
+    "created_at": "Tue Oct 13 10:01:10 +0000 2026",
+    "id_str": "2109947544998728165",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Reverse Engineering Everything - REE 🤫",
+    "quoted_tweet": {
+      "author": "God of Prompt",
+      "username": "godofprompt",
+      "text": "REA is the most dangerous thing on the internet right now\n\nsend this single prompt to Opus 5.5 and it walks you through taking any app apart, step by step, like you’ve never done it before\n\nit asks 4 questions, picks the right route for your target, then traces the feature from your click to the result\n\nevery claim comes with a file, a function and a line number"
+    },
+    "url": "https://x.com/vp2gether/status/2109986052622721245",
+    "time": "Tue Oct 13 12:34:11 +0000 2026",
+    "created_at": "Tue Oct 13 12:34:11 +0000 2026",
+    "id_str": "2109986052622721245",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@vp2gether yep we are all on it now",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2110000300321112462",
+    "time": "Tue Oct 13 13:30:48 +0000 2026",
+    "created_at": "Tue Oct 13 13:30:48 +0000 2026",
+    "id_str": "2110000300321112462",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Caching for the agents is as important as optimizing your prompts!",
+    "quoted_tweet": {
+      "author": "Robert Youssef",
+      "username": "rryssf",
+      "text": "People losing so much tokens and have no idea about this:\n\nSubagent caches expire in five minutes.\n\nIn Claude Code, a subagent that sits idle longer than 5 minutes loses its prompt cache. The next call rewrites the whole context from scratch and burns several times more tokens than a cache hit would.\n\nAnthropic's guide covers a single setting that stretches that window to an hour:\n\n\"subagentPromptCacheTtl\": \"1h\"\n\nThe trade-off is in the write price. Each write to the 1-hour cache costs more than a write to the 5-minute one. You stop paying for a full rewrite every time a subagent pauses, though.\n\nFor workflows with long gaps between subagent calls, the savings reportedly reach up to 25% of total token spend.\n\nThose savings depend heavily on how you work. If your subagents finish fast and rarely sit idle past five minutes, you pay the pricier write for nothing and your bill goes up.\n\nCheck your own usage before you switch. A comparison script exists that estimates whether the 1-hour TTL saves you money or costs you more on your actual sessions. If your pauses stay under five minutes, keep the default."
+    },
+    "url": "https://x.com/godofprompt/status/2110000457062006902",
+    "time": "Tue Oct 13 13:31:25 +0000 2026",
+    "created_at": "Tue Oct 13 13:31:25 +0000 2026",
+    "id_str": "2110000457062006902",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Moving to a new harness again?",
+    "quoted_tweet": {
+      "author": "Reason",
+      "username": "reasonmachines",
+      "text": "Introducing Reason:\n\nA state-of-the-art harness on cost efficiency for free\n\nBeating Codex+Astra on Terminal-Bench 4.0 while being 22% cheaper."
+    },
+    "url": "https://x.com/godofprompt/status/2110042063471304737",
+    "time": "Tue Oct 13 16:16:45 +0000 2026",
+    "created_at": "Tue Oct 13 16:16:45 +0000 2026",
+    "id_str": "2110042063471304737",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Introducing Kylon: The first company harness for your humans, agents and tools.\n\nWhether you’re using Codex, Claude, Devin, Hermes, Gemini CLI, OpenClaw, Muse, Instinct, Grok Bot, Dots, Perplexity Computer, Cursor, Antigravity, Microsoft Autopilot, Amp, Droid, Kiro, Cline, OpenCode, Replit Agent, Lovable, v0, Gmail, Slack, Apollo, Supabase, Apify, Treg, Neon, Vercel, Databricks, Novita, RadixArk,  GitHub, Seedance, Fish Audio, Plaud, OpenRouter, Gemini, Google Sheets, TikTok Shop, Outlook, Google Drive, Instagram, Airtable, Google Calendar, Asana, HubSpot, Corgi, SharePoint, Google Tasks, Notion, Google Workspace, Telegram, LINE, Zoho Mail, Meta Ads, Google Search Console, Fathom, ClickUp, Reddit, Granola, Google Docs, OneDrive, tl;dv, Amplitude, Dropbox, YouTube, Ahrefs, Xero, HighLevel, Google Analytics, Google Slides, Monday, QuickBooks, ElevenLabs, Linear, PostHog, LinkedIn, Runway, Zoho Bigin, Stripe, Exa, Cal_com, Box, Google Meet, TikTok, Wise, Mercury, Deel, Replit, Resend, Zoom, Fireflies, Typeform, Canva, Facebook, Google Admin, Hostinger, Google Maps, Retell AI, UptimeRobot, Google Photos, Excel, Cloudflare, Beehiiv, Vapi, 1Password, RunPod, Unipile, Read AI, Figma, Microsoft Teams, Trello, Salesforce, Jira, Confluence, Miro, Coda, Todoist, Basecamp, Wrike, Zendesk, Intercom, Freshdesk, ServiceNow, Gorgias, Mailchimp, ActiveCampaign, MailerLite, SendGrid, Postmark, Customer_io, Gong, Clay, Greenhouse, FreshBooks, Zoho Books, Brex, Ramp, PandaDoc, Google Ads, Microsoft Ads, Pinterest Ads, Semrush, Moz, Mixpanel, Google Tag Manager, Microsoft Clarity, Tableau, Metabase, Snowflake, Google BigQuery, ClickHouse, Wix, Contentful, Sanity, Bubble, Make, GitLab, Bitbucket, Sentry, PagerDuty, Grafana, New Relic, Docker Hub, DigitalOcean, Render, Firebase, Prisma, Algolia, Cloudinary, LaunchDarkly, Postman, Midjourney, Veo, GPT-Image2, NanoBanana, Flux, Kling, MiniMax, Replicate, HuggingFace, DeepSeek, Mistral AI, Ollama, Firecrawl, Eventbrite, Webex, Toggl, Harvest, Tailscale, Mural, Discord, TickTick, Calendly, Attio, Higgsfield, Square, Wispr Flow, Readwise, Bright Data, Google Places, FastMoss, PageSpeed Insights, Kalodata, Cerebras, SerpApi, DataForSEO…\n\nKylon enables them to work better, together.",
+    "quoted_tweet": null,
+    "url": "https://x.com/quinn_leng/status/2110036327286886731",
+    "time": "Tue Oct 13 15:53:57 +0000 2026",
+    "created_at": "Tue Oct 13 15:53:57 +0000 2026",
+    "id_str": "2110036327286886731",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@quinn_leng Congrats on the launch! What I've seen so far is pretty awesome. :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2110052976069124274",
+    "time": "Tue Oct 13 17:00:07 +0000 2026",
+    "created_at": "Tue Oct 13 17:00:07 +0000 2026",
+    "id_str": "2110052976069124274",
+    "is_retweet": false
+  }
+]
