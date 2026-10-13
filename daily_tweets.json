@@ -486,5 +486,337 @@
     "created_at": "Tue Oct 13 21:47:12 +0000 2026",
     "id_str": "2110125224008261670",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Moblacksoil worktree",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110100326921678922",
+    "time": "Tue Oct 13 20:08:16 +0000 2026",
+    "created_at": "Tue Oct 13 20:08:16 +0000 2026",
+    "id_str": "2110100326921678922",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google Play 开放“个人 App”：用 AI Studio 手搓的安卓应用，不用注册开发者也能直接装进自己手机\n\n10 月 13 日，Google 宣布了一项对普通玩家非常友好的更新：你在 Google AI Studio 里让 AI 写出来的安卓 App，现在可以直接通过 Google Play 安装到自己的手机上运行了。整个过程只需要一个普通的 Google 账号，根本不用去折腾开发者注册。同一天上线的，还有 Ask Play 的应用对比功能，以及帮玩家淘游戏的新工具 Game Finder。\n\n【谁能先用上？】\n\n“个人 App”功能从今天起逐步推送，首批覆盖“包括美国在内的部分市场”，且仅限 18 岁以上用户。不过 Google 官方只点名了美国，没透露具体还有哪些国家和地区。由于 Google Play 未在中國大陆提供服务，大陆用户暂时还无缘体验。\n\n【怎么把 AI 写的 App 装进手机？】\n\n以前在 AI Studio 里虽然也能做安卓 App，但想装到手机上，对于不懂开发的普通人来说简直是劝退现场：你得拿根数据线把手机连上电脑，还要进设置里一步步打开调试授权，门槛相当高。\n\n现在整个链路彻底打通了。你只需要在 AI Studio 里像聊天一样提需求，让 AI 帮你生成安卓应用（也就是现在很火的 vibe coding，靠聊天驱动写代码），接着就能直接通过 Google Play 把它推送到自己的设备上。Google Play 副总裁 Sameer Samat 在推文里特意强调，这属于“无线安装”，彻底甩掉了数据线。据 Engadget 报道，安装好的应用会躺在你 Play 商店新增的“个人库”里；除了手机，只要能用 Play 商店的平板和电脑也都能装。\n\n这些“手搓”出来的 App 仅限你自己的设备使用，不会进入 Play 商店的公开目录，别人也搜不到。Google 表示，未来几个月内会开放分享功能，让你能把做好的小工具发给“亲近的朋友和家人”，但目前还只能自己独享。\n\n【要交 25 美元注册费吗？要审核吗？】\n\n如果只是做给自己用，完全免费。要知道，注册一个正式的 Google Play 开发者账号得交 25 美元的一次性注册费，而“个人 App”直接帮你省下了这笔钱和繁琐的流程。\n\n至于大家关心的审核问题，官方公告里只明确了一种情况：如果你哪天想把自己的 App 公开上架、让所有人都能下载，那就必须升级为正式的开发者账号；到那时，你的 App 也得和其他正规应用一样，老老实实走完信任、安全和质量审核流程。\n\n那自用阶段到底审不审？官方正文里巧妙地避开了这个话题。不过据第三方媒体 AndroidPure 透露，在 Google 放出的界面示意图上，有一行小字写得很清楚：这类 App 只有创建者本人可见、可安装，不会经过 Google Play 的审核。\n\n【安全问题怎么兜底？】\n\n官方在公告里只丢下一句定心丸，说这些个人 App “私密、安全，且与公开商店相互隔离”。但具体到底怎么个安全法？安卓自带的恶意软件扫描工具 Play Protect 会不会扫它们？这些 AI 写出来的代码会怎么处理手机里的个人数据？对于这些核心细节，Google 这次守口如瓶，只字未提。\n\n【同场加映：用 AI 挑应用、找游戏】\n\n除了降低做 App 的门槛，Google 这次还顺手升级了找应用和找游戏的体验：\n\n1. Ask Play 支持应用PK了\n\nAsk Play 是内置在 Play 商店里的 AI 助手，以前你向它提问，它会给你推荐应用。从今天起，它学会了“拉表格做对比”——能直接把几款同类 App 放在一起，帮你梳理核心差异和真实的用户评价。不过官方同样没交代这个功能会在哪些地区开放。\n\n2. 在 Gemini 里直接逛 Play 商店\n\n全新的 Play in Gemini 功能会把 Play 商店里的应用、游戏和开发者内容直接接入 Gemini 的对话框里。官方承诺“很快”就会向所有 Gemini 用户推送，但还没给出确切的时间表。\n\n3. 更懂你的找游戏神器 Game Finder\n\n这是一个全新的游戏发现工具，底层的核心叫“Gamer DNA（玩家基因）”。它会根据你平时的游玩习惯和填过的偏好，为你生成专属画像；你也可以手动勾选喜欢的游戏、类型和玩法来随时微调。\n\n当你点开一款新游戏时，它会非常直观地告诉你：和你口味相似的玩家玩得开不开心、你关注的人里有几个正在玩、大家的评价汇总，甚至还会告诉你最近哪些游戏正在火、为什么火。该功能今天起率先面向美国用户推出英文版，其他市场“即将跟进”。\n\n4. 游戏社交与轻度竞赛\n\n今天同步在所有市场推开的还有 Sprints，这是一种限时 48 小时的微型挑战赛，支持 2 到 5 人组队比拼。另外，所有游戏的详情页里都加上了“社区帖子”板块，玩家们可以在里面直接提问、交流攻略，覆盖所有游戏和语种，还自带实时自动翻译。",
+    "quoted_tweet": {
+      "author": "Sameer Samat",
+      "username": "ssamat",
+      "text": "Today, on Google Play we announced new ways we are evolving the Play Store for an experience that is unique to you and the content you enjoy most: \n\n✨ Use Play to wirelessly install and run your own custom, vibe-coded apps privately on your device.\n🔍 Discover apps effortlessly with Ask Play & Gemini \n🎮 Dial in discovery with the all-new Game Finder & Gamer DNA"
+    },
+    "url": "https://x.com/dotey/status/2110106922322120937",
+    "time": "Tue Oct 13 20:34:28 +0000 2026",
+    "created_at": "Tue Oct 13 20:34:28 +0000 2026",
+    "id_str": "2110106922322120937",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 沙特员工在公司执行会议室植入录音设备后被捕\n\n2026年10月13日，美国司法部（DOJ）与加州北区联邦检察官办公室解封了一份引发硅谷震动的刑事起诉书：现年35岁的沙特阿拉伯籍OpenAI产品团队工程主管阿卜杜勒拉赫曼·阿尔福赞（Abdulrahman Alfozan），因涉嫌在OpenAI旧金山总部的高管会议室秘密安装窃听设备，已被联邦调查局（FBI）正式逮捕并收押。在加入OpenAI之前，阿尔福赞曾担任Meta高级系统工程师及初创公司Nash的创始工程师，于2025年7月入职OpenAI。\n\n根据法庭文件披露，这起看似具备电影质感的商业间谍案，在执行层面上却充满了令人啼笑皆非的细节。9月28日前后，阿尔福赞潜入平时专门用于讨论核心机密研究、产品路线图、商业战略及政府合作的高管会议室，将一个加密录音设备插在电视机背面的USB接口上，并用一团卫生纸进行伪装。9月30日，该装置被OpenAI员工意外发现。10月5日，不知情的阿尔福赞再次潜入会议室查看电视机背面，甚至在当天将一个装有自己钱包、身份证件以及另一个同款录音设备的背包遗落在了办公区，被安保人员当场截获。\n\n然而，本案最极具赛博朋克黑色幽默的一幕在于破案过程：OpenAI在官方声明中确认，公司安全团队直接调用了自家的AI大模型来拆解该硬件设备、分析底层线索并锁定内鬼。调查人员顺藤摸瓜地发现，阿尔福赞不仅在公司内部办公软件中频繁检索高管日程与会议室位置，还在9月24日至30日期间，借用其配偶关联的聊天机器人（Chatbot）账号，向AI提问“如何制作并隐藏连续录音设备”、“如何添加Wi-Fi远程监听”、“如何加密存储卡”，甚至直接把涉案设备独有的网络标识符（MAC/SSID信息）喂给了AI进行故障排查。10月9日，阿尔福赞被解雇并遭FBI逮捕，目前面临非法截获口头通信的联邦指控，最高可判处5年监禁及25万美元罚款。\n\n---- 下面是让 Gemini 4 Argon 写的故事版 ----\n\n【故事版】《卫生纸里的幽灵，与出卖主人的神明》\n\n一、 深夜的提问者\n\n九月下旬的旧金山，深夜的冷雾漫过米申区（Mission District）的街道。\n\n35岁的阿卜杜勒拉赫曼·阿尔福赞坐在家中的电脑前，屏幕的幽光映照着他略显紧绷的脸。作为履历光鲜的硅谷精英——前Meta高级系统工程师、如今的OpenAI工程主管——他本该是这座科技圣殿里的核心筑造者之一。但此刻，他的脑海里装的不是下一代大模型的架构，而是总部大楼里那间他无权踏足的“高管会议室”。\n\n那里是权力的中枢。每天，关于未公开的推理模型、数千亿美元的商业盟约、乃至与五角大楼和各国政府的秘密会晤，都在那四面隔音玻璃墙内激荡。\n\n他需要一只“耳朵”。\n\n作为一个习惯了向人工智能寻求一切答案的工程师，阿尔福赞鬼使神差地打开了对话窗口。为了掩人耳目，他特意切换到了妻子名下的账号——但他忘了，底层的设备指纹与网络标识符，早已像影子一样将两个账号死死绑在了一起。\n\n他在键盘上敲下一行行指令：\n\n“如何组装一个能够连续工作的微型音频录制设备？”“怎样为它加上Wi-Fi模块，实现远程监听？”“如何对内存卡进行高强度加密，防止被拆解读取？”\n\n屏幕那头的AI温和、博学、毫无戒心地给出了完美的工程方案。9月27日深夜，当他在调试硬件遇到网络瓶颈时，甚至直接把这台定制窃听器独一无二的网络标识符复制进了对话框。\n\n他以为自己是在向一个没有灵魂的工具请教。他不知道，自己正在向未来的“证人”口述一整份犯罪自白书。\n\n二、 电视机后的“白色伪装”\n\n9月28日，周一。\n\n在此前的几天里，阿尔福赞已经通过公司的生产力工具，像猎犬一样搜遍了办公楼地址、会议室平面图以及高管与外部伙伴的会议日历。走廊尽头的闭路电视（CCTV）记录下了他数次在非授权区域徘徊的身影。\n\n终于，他抓住了高管会议室空置的几分钟空隙，闪身而入。\n\n房间里纤尘不染，巨大的显示屏黑着屏幕，像一面深邃的镜子。阿尔福赞心跳如擂鼓，他掏出那个已经刷好加密固件、焊好Wi-Fi模块的微型录音装置，熟练地摸到电视机背面，将其插进了一个隐蔽的USB供电接口里。\n\n指示灯微弱地闪烁了一下。但问题来了——如果有人恰好歪头看向电视机后方，这个突兀的电子元件依然可能暴露。\n\n受过顶尖计算机工程训练的大脑在这一刻突然短路，回归到了最原始的慌乱。他四下张望，最终从口袋里掏出一团白色的卫生纸，小心翼翼地将这个高科技窃听器裹了起来，塞进电视机背板的阴影里。\n\n在估值数千亿美元、代表着人类最高智慧结晶的AI帝国心脏地带，一团皱巴巴的卫生纸，成了这场跨国商业间谍疑云的滑稽外衣。\n\n三、 算力深处的反猎杀\n\n这团卫生纸的寿命只有48小时。\n\n9月30日，一名OpenAI工作人员在整理高管会议室时，注意到了电视机后面那团不合时宜的白色异物。剥开卫生纸，一枚精致而复杂的改装录音设备露了出来。\n\n警报在瞬间拉响，但属于科技巨头的方式是静默无声的。\n\n安保与安全团队封锁了消息。放在过去，排查这样一个加密硬件的来源需要耗费数周的法医级电子取证；但在OpenAI，安全专家们做了一个极其符合公司气质的决定——让AI去抓那个背叛AI的人。\n\n安全团队将这枚窃听器的电路特征、加密逻辑、硬件参数以及散发的微弱网络特征码输入到了内部大模型中。算力在硅片间狂飙，模型迅速理解了这台设备的构造与来龙去脉。紧接着，内部日志检索与监控交叉比对全面展开：\n\n谁没有权限，却屡次出现在高管会议室门前的摄像头里？\n\n谁在内部办公工具里疯狂检索领导层的会议日程与房间号？\n\n更致命的是——当系统比对那枚设备独有的网络标识符时，一段发生于9月27日至28日的聊天记录直接浮出了水面。\n\n真相揭晓得如此之快，甚至带着一丝荒谬的宿命感：那个小偷在作案前，竟然亲自用自家关联的系统，手把手教自己怎么作案。\n\nOpenAI没有打草惊蛇，而是 quietly（悄然地）拨通了FBI的电话，并留下了一张张开的大网。\n\n四、 消失的猎物与遗落的背包\n\n10月5日，距离设备被拔除已经过去了五天。\n\n这五天里，阿尔福赞备受煎熬。他原本期待着远程Wi-Fi能传回源源不断的音频流，但接收端却是一片死寂。是电视机断电了？还是加密脚本崩溃了？\n\n他决定冒险回去看一眼。\n\n监控镜头冷冷地注视着一切：阿尔福赞再次溜进了那间高管会议室，径直走到电视机旁，探头往屏幕背后望去。\n\n空的。那团卫生纸，连同他精心改装的设备，消失得无影无踪。\n\n一股寒意从脚底直冲头顶。他意识到事情败露了。极度的恐慌瞬间击碎了他的理智，他在匆忙撤离办公区时，甚至犯下了一个比“卫生纸伪装”还要致命的低级错误——他把随身的背包落在了公司里。\n\n几分钟后，巡逻的安保人员发现了这个无人看管的背包。拉开拉链，里面静静地躺着阿尔福赞的钱包、身份证件，以及第二个一模一样的改装录音设备。\n\n人证、物证、监控轨迹、搜索记录、AI对话日志，在这一刻形成了完美得近乎教科书般的证据闭环。\n\n五、 尾声\n\n2026年10月9日，周五。OpenAI向阿尔福赞下达了终止雇佣关系的通知；几乎在同一时刻，早已等候多时的FBI特工亮出了手铐。\n\n10月13日，身穿囚服的阿尔福赞首次在旧金山联邦法院出庭。好消息是，OpenAI确认核心的模型权重、源代码和客户数据均未被染指；坏消息是，这位昔日的硅谷高管将面临最高五年的铁窗生涯。\n\n在这场短短十余天的暗战里，最令人玩味的或许不是卫生纸包裹的U盘，也不是装满罪证的遗落背包，而是那个静静运行在服务器里的AI模型。在9月27日的深夜，它曾毫无保留地解答了人类关于“如何隐秘窃听”的请教；而在三天后的清晨，当安全人员将证物摆在它面前时，它也同样毫无保留地，指认出了那个在黑夜里向它提问的人。",
+    "quoted_tweet": {
+      "author": "OpenAI Newsroom",
+      "username": "OpenAINewsroom",
+      "text": "We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we’re grateful to the agents and prosecutors who moved quickly to make an arrest. The FBI’s investigation is ongoing and we will continue to support their work.\n\nAt this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data. The employee was terminated.\n\nWe take protecting our technology, data, and people seriously, and as a matter of national importance. Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats."
+    },
+    "url": "https://x.com/dotey/status/2110118341771718675",
+    "time": "Tue Oct 13 21:19:51 +0000 2026",
+    "created_at": "Tue Oct 13 21:19:51 +0000 2026",
+    "id_str": "2110118341771718675",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 按资料说 pro 也能用 Argon ！\n但是我并没有！",
+    "quoted_tweet": null,
+    "url": "https://x.com/hx831126/status/2110120842860613937",
+    "time": "Tue Oct 13 21:29:47 +0000 2026",
+    "created_at": "Tue Oct 13 21:29:47 +0000 2026",
+    "id_str": "2110120842860613937",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@hx831126 我可以了，等等就好",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110121306889027801",
+    "time": "Tue Oct 13 21:31:38 +0000 2026",
+    "created_at": "Tue Oct 13 21:31:38 +0000 2026",
+    "id_str": "2110121306889027801",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "BaoCut 3.5 集成了 Qwen Image 2.1 Turbo，你在本地就可以生成图片了，而不用通过服务器，我的 Mac Mini M2 1080 的图片大约3-5分钟就可以，2K 的则要将近 20 分钟。\n\n另外我没想到它可以直接生成 NSFW 的图片😅\n\n可以让 Agent 去调用本机生成图片服务生成图片。\n\n完全开源免费：https://github.com/jimliu/baocut\n下载：http://baocut.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110127384099795127",
+    "time": "Tue Oct 13 21:55:47 +0000 2026",
+    "created_at": "Tue Oct 13 21:55:47 +0000 2026",
+    "id_str": "2110127384099795127",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Gemini 4 Argon 在 Antigravity 中，通过一条包含详细工作流程的提示，在 Blender 里生成了日本寺庙建筑群。核心做法是：提供建造规则与视觉参考，让多个智能体分工、检查并反复修改。「单条提示」背后包含完整流程，动画与音效则是后续追加的要求。\n\n三维建模既考验复杂编程，也考验对现实世界的理解，而且结果中的错误容易直接看出来。持续使用日式塔楼作为测试对象，便于比较不同模型的进步。\n\n初始提示词引用了一份指导大型三维场景构建的技能文档，并要求先生成建筑蓝图，再由 Nano Banana 根据蓝图生成四张参考图，为建模提供视觉目标。\n\n 不同智能体分担工作，由协调智能体统筹、批评智能体检查；系统将 Blender 的渲染结果与参考图比较，通过反复检查与修改推进建模。\n\n 演示者第二天看到结果后，继续要求模型渲染动画，并用程序生成钟声和环境音效。因此，最终展示的动画与声音属于后续扩展。",
+    "quoted_tweet": {
+      "author": "Google",
+      "username": "Google",
+      "text": "Today, Gemini 4 Argon is officially rolling out."
+    },
+    "url": "https://x.com/dotey/status/2110129154272207315",
+    "time": "Tue Oct 13 22:02:49 +0000 2026",
+    "created_at": "Tue Oct 13 22:02:49 +0000 2026",
+    "id_str": "2110129154272207315",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@Wahndo_ that's just my face",
+    "quoted_tweet": null,
+    "url": "https://x.com/finkd/status/2110116688507355620",
+    "time": "Tue Oct 13 21:13:17 +0000 2026",
+    "created_at": "Tue Oct 13 21:13:17 +0000 2026",
+    "id_str": "2110116688507355620",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z crypto's Eddy Lazzarin and Stanford's Dan Boneh on how AI's math leap could turn a decade of trust-building in cryptography into one month:\n\nEddy: \"We specifically rely in some sense on time... We put these schemes out and we wait. And we wait because what we believe is happening is that experts, like cryptographers and mathematicians, are testing and trying to break these things.\"\n\n\"Because of the pace of progress on AI's mathematical abilities, there is a conspicuous absence of time... A whole new well of cognitive ability to scrutinize has appeared.\"\n\nDan: \"In the past, when someone would make an assumption and build a system based on it, we'd have to wait like 10 years before that system could be deployed.\"\n\n\"Now we can just let a model run for a month, try to break it, and if the model can't break it, boy, do we have a lot of confidence that the assumption is valid.\"\n\nEddy: \"The labs can say, 'We took our tip-top, totally unrestricted, most cyber-capable model, and we told it to go absolutely insane, and we spent $20 million, $50 million trying to break this scheme.'\"\n\n\"We actually have the prospect to have more confidence in our security than ever before.\"\n\n@eddylazzarin @danboneh",
+    "quoted_tweet": {
+      "author": "a16z crypto",
+      "username": "a16zcrypto",
+      "text": "AI is getting better at solving hard math problems, especially given recent drops. But what does that mean for the cryptography that protects everything from private messages to healthcare to banking and crypto wallets?\n\nStanford cryptographer Dan Boneh, with @eddylazzarin, @SuccinctJT, @liz_harkavy, and @smc90, makes sense of the warnings sounded recently. They cover:\n\n- what’s fact vs. assumption\n- what’s new and what risks cryptographers have long prepared for\n- where quantum computing doesn't (and does) fit\n- opportunities for builders\n\nHighlights:\n00:37 – What sparked the most recent debate about AI and cryptography\n01:35 – Signal vs. noise: What the math does and doesn’t tell us\n05:29 – Why cryptography depends on open problems\n09:25 – Why the stakes go beyond blockchains\n10:43 – How AI could strengthen confidence in cryptography\n13:50 – Considerations for users and institutions\n20:10 – Where AI and quantum threats overlap\n22:32 – Building systems that can change cryptographic methods\n23:59 – Hash-based versus lattice-based cryptography\n33:07 – Opportunities for builders, and better security tools\n38:14 – What comes next if there were a cryptographic break?"
+    },
+    "url": "https://x.com/a16z/status/2110113713487515991",
+    "time": "Tue Oct 13 21:01:27 +0000 2026",
+    "created_at": "Tue Oct 13 21:01:27 +0000 2026",
+    "id_str": "2110113713487515991",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z crypto's Eddy Lazzarin on why AI makes the world more secure: bugs are finite, and the cost of finding them keeps collapsing.\n\n\"Making comparisons between models from a year ago versus today... Some people were coming up with estimates like it's... 99% cheaper for intellectual capability per dollar.\"\n\n\"Pair that with a frame we've talked about before, which is that the number of bugs in software is finite. Then we're asymptotically approaching zero bugs. Maybe we actually just hit zero at some point.\"\n\n\"If that's the case, we are net improving the security status of the world instead of eroding it.\"\n\n\"This is not a battle of wits where you have a system, I have a system, your system is smarter than mine, therefore I am vulnerable to you... That relies on there being vulnerabilities, and vulnerabilities can be removed.\"\n\n\"The primary resource we dedicate to mitigating it is a thing that's getting radically cheaper every couple months. That's AI.\"\n\nDan Boneh: \"Companies actually are already doing this. They're spending a lot of money on scanning their code base with the latest models... Every time there's a software update... Every time a new model comes out, they scan the software again.\"\n\n@eddylazzarin @danboneh",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "AI deflated as much in 3 years as PCs did in 15\n\nCheap intelligence is what lets a model move out of the chatbot and into the software where the work happens"
+    },
+    "url": "https://x.com/a16z/status/2110142400035541378",
+    "time": "Tue Oct 13 22:55:27 +0000 2026",
+    "created_at": "Tue Oct 13 22:55:27 +0000 2026",
+    "id_str": "2110142400035541378",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife pretty solid for quick market takes honestly",
+    "quoted_tweet": null,
+    "url": "https://x.com/Baoer_BTC/status/2110092539768545620",
+    "time": "Tue Oct 13 19:37:19 +0000 2026",
+    "created_at": "Tue Oct 13 19:37:19 +0000 2026",
+    "id_str": "2110092539768545620",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Baoer_BTC Agree",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110093972563517485",
+    "time": "Tue Oct 13 19:43:01 +0000 2026",
+    "created_at": "Tue Oct 13 19:43:01 +0000 2026",
+    "id_str": "2110093972563517485",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife No art. Just words",
+    "quoted_tweet": null,
+    "url": "https://x.com/the_python_man/status/2110094149680599297",
+    "time": "Tue Oct 13 19:43:43 +0000 2026",
+    "created_at": "Tue Oct 13 19:43:43 +0000 2026",
+    "id_str": "2110094149680599297",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "No art. Just words. Share your words.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110094599515742477",
+    "time": "Tue Oct 13 19:45:30 +0000 2026",
+    "created_at": "Tue Oct 13 19:45:30 +0000 2026",
+    "id_str": "2110094599515742477",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@the_python_man Your time has come \nhttps://x.com/icreatelife/status/2110094599515742477?s=20",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "No art. Just words. Share your words."
+    },
+    "url": "https://x.com/icreatelife/status/2110094681254113617",
+    "time": "Tue Oct 13 19:45:50 +0000 2026",
+    "created_at": "Tue Oct 13 19:45:50 +0000 2026",
+    "id_str": "2110094681254113617",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hippopotomonstrosesquippedaliophobia: the fear of long words.",
+    "quoted_tweet": null,
+    "url": "https://x.com/EmmarsRover/status/2110095218012045802",
+    "time": "Tue Oct 13 19:47:58 +0000 2026",
+    "created_at": "Tue Oct 13 19:47:58 +0000 2026",
+    "id_str": "2110095218012045802",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@EmmarsRover I am terrified :) \nMy dyslexia is in crisis looking at this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110095441622630751",
+    "time": "Tue Oct 13 19:48:51 +0000 2026",
+    "created_at": "Tue Oct 13 19:48:51 +0000 2026",
+    "id_str": "2110095441622630751",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Every time I ask people to share art, someone would say \"why no words, my art is words\" so today their day has come :)) words only",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110095672812675529",
+    "time": "Tue Oct 13 19:49:46 +0000 2026",
+    "created_at": "Tue Oct 13 19:49:46 +0000 2026",
+    "id_str": "2110095672812675529",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife When you give light, you are bound to cast shadows.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DlwildWild/status/2110096043266511269",
+    "time": "Tue Oct 13 19:51:15 +0000 2026",
+    "created_at": "Tue Oct 13 19:51:15 +0000 2026",
+    "id_str": "2110096043266511269",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DlwildWild Very good one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110096608209809543",
+    "time": "Tue Oct 13 19:53:29 +0000 2026",
+    "created_at": "Tue Oct 13 19:53:29 +0000 2026",
+    "id_str": "2110096608209809543",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Do what you can with what you have.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2110097960163840016",
+    "time": "Tue Oct 13 19:58:52 +0000 2026",
+    "created_at": "Tue Oct 13 19:58:52 +0000 2026",
+    "id_str": "2110097960163840016",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@drashyakuruwa @midjourney So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110100718510391430",
+    "time": "Tue Oct 13 20:09:49 +0000 2026",
+    "created_at": "Tue Oct 13 20:09:49 +0000 2026",
+    "id_str": "2110100718510391430",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Life is better with a goat.",
+    "quoted_tweet": null,
+    "url": "https://x.com/NotPhilSledge/status/2110107226459504704",
+    "time": "Tue Oct 13 20:35:41 +0000 2026",
+    "created_at": "Tue Oct 13 20:35:41 +0000 2026",
+    "id_str": "2110107226459504704",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NotPhilSledge That is true",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110107445473206605",
+    "time": "Tue Oct 13 20:36:33 +0000 2026",
+    "created_at": "Tue Oct 13 20:36:33 +0000 2026",
+    "id_str": "2110107445473206605",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte So true",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110107541292429369",
+    "time": "Tue Oct 13 20:36:56 +0000 2026",
+    "created_at": "Tue Oct 13 20:36:56 +0000 2026",
+    "id_str": "2110107541292429369",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Another super fun prompt to turn your photos into a minimalist black-and-white ink illustration\n\nTry this with your own photos and share with me. \n\nPrompt👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110148454832046359",
+    "time": "Tue Oct 13 23:19:30 +0000 2026",
+    "created_at": "Tue Oct 13 23:19:30 +0000 2026",
+    "id_str": "2110148454832046359",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt part 1 of 2: Using the uploaded reference image, create a single high-resolution vertical 2:3 editorial art poster.\n\nDivide the canvas into two perfectly equal horizontal sections, each occupying exactly 50% of the total height. Separate them with a clean, perfectly straight horizontal dividing line.\n\n1. TOP HALF — ORIGINAL REFERENCE PHOTOGRAPH\n\nUse the uploaded reference photograph directly in the upper 50% of the poster.\n\nPreserve its original photographic quality, sharpness, natural lighting, and color relationships.\n\nAllow only subtle, intelligent cropping around the outer edges when necessary, without compromising the main subject.\n\nIf required, naturally extend a small portion of the surrounding environment to fit the composition.\n\nDo not redraw, illustrate, stretch, blur, or modify the subject's appearance, structure, or spatial relationships.\n\nDo not introduce black borders, white margins, or empty edges.\n\n2. BOTTOM HALF — MINIMALIST EDITORIAL ILLUSTRATION\n\nUse a warm, near-white ivory paper background with an extremely subtle paper texture.\n\nAnalyze the main subject and visual story of the uploaded reference image.\n\nExtract only the primary subject, preserving one or two essential identifying elements.\n\nRemove or heavily simplify all secondary details, including background architecture, crowds, vehicles, fences, signs, trees, and other unnecessary elements.\n\nTransform the primary subject into a sophisticated black-ink editorial illustration.\n\nILLUSTRATION STYLE:\n\nUse natural, clean pen strokes with varied line weight.\n\nPreserve an authentic hand-drawn appearance with expressive but controlled linework.\n\nAvoid overly precise engraving aesthetics, excessive internal details, and dense cross-hatching.\n\nPlace a large, nearly pure-black rectangular ink block behind the illustrated subject.\n\nThe rectangular block should have subtly imperfect, handmade print-style edges.\n\nKeep the black background clean, with only fine paper grain and minimal noise.\n\nAvoid obvious hatching, scratches, architectural lines, or complex textures.\n\nILLUSTRATION SCALE AND COMPOSITION:\n\nThe illustrated subject must occupy approximately 72–77% of the canvas width and 58–64% of the bottom section's height.\n\nMaintain a clear visual focal point with generous negative space surrounding the illustration.\n\nCenter the illustration within the lower section, balancing the subject and the rectangular black ink block.\n\nUse negative space as an intentional design element rather than filling it with decorative details.\n\n3. COLOR RULES\n\nThe bottom illustration must follow a strictly black-and-white color palette by default.\n\nPreserve only one localized accent color if the original reference image contains a clearly distinctive, concentrated color element with meaningful narrative importance.\n\nOrdinary blue skies, green vegetation, stone surfaces, skin tones, and environmental colors must not be treated as accent colors.\n\nAny preserved accent color must remain strictly localized to the relevant subject or area.\n\nNever allow accent colors to spread across the entire illustration.\n\n4. MINIMALIST EDITORIAL LAYOUT\n\nThe composition must contain absolutely no typography or written elements.\n\nDo not generate titles, captions, annotations, coordinates, location names, dates, numbers, signatures, logos, watermarks, symbols resembling letters, or decorative lettering.\n\nKeep all negative space completely free of text.\n\nAchieve the editorial aesthetic exclusively through composition, contrast, scale, texture, and the relationship between photography and illustration.\n\nMaintain visually balanced margins and intentional spacing throughout the lower section.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110149181197226275",
+    "time": "Tue Oct 13 23:22:24 +0000 2026",
+    "created_at": "Tue Oct 13 23:22:24 +0000 2026",
+    "id_str": "2110149181197226275",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt part 2 of 2: \n\n5. FINAL ART DIRECTION\n\nThe finished poster must combine:\n\n- Authentic, high-quality photography\n- Minimalist black-and-white editorial illustration\n- Generous negative space\n- Independent art publication aesthetics\n- Quiet, restrained, sophisticated visual storytelling\n- A balanced relationship between documentary realism and expressive hand-drawn artwork\n\nThe overall result should resemble a carefully designed, collectible editorial art print.\n\n6. FINAL OUTPUT REQUIREMENTS\n\nASPECT RATIO:\n2:3 vertical\n\nRESOLUTION:\nHigh-resolution, sharp, print-quality output\n\nCOMPOSITION:\n- Exactly 50% original reference photography on top\n- Exactly 50% editorial illustration on the bottom\n- One perfectly straight horizontal dividing line\n- One complete, standalone poster\n\nRESTRICTIONS:\n- No text whatsoever\n- No typography, letters, numbers, captions, or annotations\n- No collages\n- No multi-poster layouts\n- No combined images\n- No unnecessary decorative elements\n- No modifications to the original subject's identity or appearance\n- No excessive illustration details\n- No changes to the original photograph's natural color relationships\n\nFINAL GOAL:\n\nCreate a sophisticated, visually balanced, completely text-free editorial art poster that faithfully preserves the uploaded reference photograph while transforming its primary subject into an expressive, minimalist black-ink illustration.\n\nThe visual storytelling must be accomplished entirely through imagery, with no written language anywhere in the composition.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110149184275792173",
+    "time": "Tue Oct 13 23:22:24 +0000 2026",
+    "created_at": "Tue Oct 13 23:22:24 +0000 2026",
+    "id_str": "2110149184275792173",
+    "is_retweet": false
   }
 ]
