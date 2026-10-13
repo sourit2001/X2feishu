@@ -1107,5 +1107,127 @@
     "created_at": "Tue Oct 13 06:21:26 +0000 2026",
     "id_str": "2109892247580000595",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "在 Codex 里用 Figma 做设计效果好差，审美也捉急。最恶心的是很快就遇到了 API 额度限制，转而使用 Browser Use，更是雪上加霜。",
+    "quoted_tweet": null,
+    "url": "https://x.com/jimnox/status/2109852475713060952",
+    "time": "Tue Oct 13 03:43:24 +0000 2026",
+    "created_at": "Tue Oct 13 03:43:24 +0000 2026",
+    "id_str": "2109852475713060952",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "很多人想让我分享一下工作流，我一直没想好怎么分享，因为其实我没有任何的魔法，甚至还特别简陋，总觉得分享出来毫无意义。其实我就是用 Claude Code，然后用官方的 Opus 5.5 模型执行 loop 就可以了。\n\n我会并行执行图里的 3 个 loop，然后每晚抽一点时间铲铲屎（主要是 UI/UX 的问题），然后就没活儿了。",
+    "quoted_tweet": {
+      "author": "WquGuru",
+      "username": "wquguru",
+      "text": "https://x.com/i/article/2109642412037476352"
+    },
+    "url": "https://x.com/yetone/status/2109855710444237018",
+    "time": "Tue Oct 13 03:56:15 +0000 2026",
+    "created_at": "Tue Oct 13 03:56:15 +0000 2026",
+    "id_str": "2109855710444237018",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jimnox Codex 里面用 https://github.com/jimliu/baoyu-design 试试",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2109856076418122027",
+    "time": "Tue Oct 13 03:57:42 +0000 2026",
+    "created_at": "Tue Oct 13 03:57:42 +0000 2026",
+    "id_str": "2109856076418122027",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "REA 案例：用 Codex + REA 下载微信视频号视频\n\n仅作为案例分析，真要下载视频应该有更成熟的方案。\n\n提示词参考截图，很简单：\n> Use REA，帮我下载我微信打开正在播放的视频号的视频\n\n但一轮对话搞不定，需要根据提示多步才能完成。\n\nCodex 最终给电脑配了一个本地代理服务器搞定的，要配合着输入几次密码安装证书。\n\n而且它还写了一个解密脚本去解密下载后的视频，不知道它是训练过相关开源项目还是 REA 帮分析出来的。\n\n如果它能稳定下载后，可以让它把下载方法、流程整理成一个 Skill，这样以后就可以用这个 Skill 去做了。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "录屏是个好办法👍\n\n继续贡献一个 REA 案例，除了录屏还可以用 Computer Use，我想学习一下 CapCut 的动态字幕格式，我也不知道格式存在哪里怎么渲染的。\n\n继续问 REA，它的字幕是怎么渲染的，这次我让它自己用 Computer Use 去操作，去点击下载 Templates，然后它会自己打开 CapCut 去一个个点击下载，下载的同时去监控网络地址和磁盘保存地址。\n\n就这样操作了几十个后，Codex 发现这样点击太慢了，自己拼 URL 去从 URL 下载了，就这样下载了 2291 个 Templates。"
+    },
+    "url": "https://x.com/dotey/status/2109923163580567614",
+    "time": "Tue Oct 13 08:24:17 +0000 2026",
+    "created_at": "Tue Oct 13 08:24:17 +0000 2026",
+    "id_str": "2109923163580567614",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "My fault guys",
+    "quoted_tweet": {
+      "author": "unusual_whales",
+      "username": "unusual_whales",
+      "text": "AI consultant and strategist is the second-fastest growing role in the US, per LinkedIn"
+    },
+    "url": "https://x.com/vasuman/status/2109808394874085618",
+    "time": "Tue Oct 13 00:48:14 +0000 2026",
+    "created_at": "Tue Oct 13 00:48:14 +0000 2026",
+    "id_str": "2109808394874085618",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman",
+    "quoted_tweet": null,
+    "url": "https://x.com/shyankoul/status/2109818845032595907",
+    "time": "Tue Oct 13 01:29:45 +0000 2026",
+    "created_at": "Tue Oct 13 01:29:45 +0000 2026",
+    "id_str": "2109818845032595907",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@shyankoul 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2109821317327515696",
+    "time": "Tue Oct 13 01:39:35 +0000 2026",
+    "created_at": "Tue Oct 13 01:39:35 +0000 2026",
+    "id_str": "2109821317327515696",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Here Comes the Slop.\nSlopcore: Cambrian Explosion; Cultural Phylogenetics",
+    "quoted_tweet": null,
+    "url": "https://x.com/plexsoup/status/2109580291862139081",
+    "time": "2026-10-12 17:41",
+    "created_at": "Mon Oct 12 09:41:50 +0000 2026",
+    "id_str": "2109580291862139081",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "🔴MARSx",
+    "quoted_tweet": null,
+    "url": "https://x.com/arikuschnir/status/2109615067922919689",
+    "time": "2026-10-12 20:00",
+    "created_at": "Mon Oct 12 12:00:01 +0000 2026",
+    "id_str": "2109615067922919689",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "meta’s mascot having a nu metal phase makes sense to me.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cube__lol/status/2109764007951503520",
+    "time": "2026-10-13 05:51",
+    "created_at": "Mon Oct 12 21:51:51 +0000 2026",
+    "id_str": "2109764007951503520",
+    "is_retweet": true
   }
 ]
