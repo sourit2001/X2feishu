@@ -413,5 +413,256 @@
     "created_at": "Wed Oct 14 16:14:34 +0000 2026",
     "id_str": "2110403904261480845",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "X平台的文章编辑器很垃圾，甚至不支持MD格式，还得手动排版排半天，非常浪费时间。\n\n不知道有没有插件可以解决这个问题。\n\n如果没有的话，我就考虑手搓一个了。",
+    "quoted_tweet": {
+      "author": "陈大黄",
+      "username": "realchendahuang",
+      "text": "我从用户的角度思考了一个问题。\n\n如果平时写太长的帖子，可能用户体验比较差。后续我会把比较长的帖子转成文章。\n\n文章所对应的用户心智就是长文，用户可以在有预期的情况下正襟危坐地阅读它。\n\n帖子所对应的用户心智是短文。如果用户随手点开一个超长的帖子，划半天都划不到底，会很影响用户体验。"
+    },
+    "url": "https://x.com/realchendahuang/status/2110383770587337041",
+    "time": "2026-10-14 22:54",
+    "created_at": "Wed Oct 14 14:54:34 +0000 2026",
+    "id_str": "2110383770587337041",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@realchendahuang @dotey  大佬，靠谱不",
+    "quoted_tweet": null,
+    "url": "https://x.com/EverSeenU/status/2110395034147475941",
+    "time": "2026-10-14 23:39",
+    "created_at": "Wed Oct 14 15:39:20 +0000 2026",
+    "id_str": "2110395034147475941",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@EverSeenU @realchendahuang 我自己也用这个",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110405562114719971",
+    "time": "2026-10-15 00:21",
+    "created_at": "Wed Oct 14 16:21:10 +0000 2026",
+    "id_str": "2110405562114719971",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Grok 推送的 AI 资讯还挺好的，但你可能想要在其他 Bot 或者 Agent 使用，一个简单的方法就是去问它是怎么做到的：\n> 你在帮我整理新闻时，是怎么去X检索我想要的资讯的？怎么判断资讯是不是新是不是有价值的？\n\n其实原理也很简单，就是关注一些特定账号，分三类：AI 实验室和公司官方号、关键人物、新闻和爆料号。\n\n也列出了能直接复制的搜索语句，覆盖模型发布、产品和 agent、融资和收购、监管和安全、爆料、中文资讯，还有我自己关注的方向。\n\n另外写了怎么判断新旧、怎么判断有没有价值，以及推送格式。\n\n再让它把这个流程整理成一个 Skill，就能去复用这个流程了。\n\n不过最关键的是，其他 Bot/Agent 你得自己花钱用 API，而 GrokBot 的 X API 不用额外花钱。\n\nGrok 整理的完整提示词我放评论。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110407054334550232",
+    "time": "2026-10-15 00:27",
+    "created_at": "Wed Oct 14 16:27:05 +0000 2026",
+    "id_str": "2110407054334550232",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "# X AI 资讯检索\n\n目标：在 X 上找出最近一个时间窗口（通常是 1 小时）里真正重要、而且之前没推过的 AI 资讯。用公开读取的 X 工具（search_posts_all、get_users_posts、get_news / search_news、get_posts_counts_recent），每次调用最多返回 25 条，要注意频率限制。\n\n## 1. 盯的账号（用 get_users_posts，只看时间窗口内的帖子）\n\n**AI 实验室和公司官方号**\n- OpenAI：`OpenAI`、`OpenAIDevs`、`OpenAINewsroom`、`ChatGPTapp`\n- Anthropic：`AnthropicAI`、`claudeai`\n- Google：`GoogleDeepMind`、`GoogleAI`、`GeminiApp`、`googleaidevs`\n- Meta：`AIatMeta`\n- xAI：`xai`\n- 其他：`MistralAI`、`deepseek_ai`、`Alibaba_Qwen`、`huggingface`、`nvidia`、`cursor_ai`、`perplexity_ai`、`LangChainAI`\n\n**关键人物**\n- `sama`、`gdb`（OpenAI）\n- `DarioAmodei`、`jackclarkSF`（Anthropic）\n- `sundarpichai`、`demishassabis`、`OfficialLoganK`、`JeffDean`（Google）\n- `elonmusk`、`karpathy`、`AndrewYNg`、`ylecun`\n\n**AI 新闻、爆料和评论号**\n- `TheInformation`、`theverge`、`TechCrunch`、`Reuters`、`testingcatalog`、`btibor91`、`rowancheung`、`swyx`、`simonw`\n\n按需要加上和使用者方向相关的账号，比如他自己的产品号、常转的中文 AI 博主。\n\n## 2. 搜索关键词（用 search_posts_all，设好 start_time）\n\n查询统一加 `-is:retweet` 去掉转发，加 `lang:en` 或 `lang:zh` 区分语言。\n\n**模型发布**\n- `(GPT OR Claude OR Gemini OR Llama OR Grok OR Qwen OR DeepSeek OR Mistral) (release OR launch OR announce OR \"now available\") -is:retweet`\n- `(\"new model\" OR \"open weights\" OR \"open-source model\") AI -is:retweet`\n\n**产品和 agent**\n- `(\"AI agent\" OR \"coding agent\" OR \"agent skills\" OR MCP) (launch OR ships OR introducing) -is:retweet`\n- `(Cursor OR \"Claude Code\" OR Codex OR Antigravity OR Devin) (launch OR update) -is:retweet`\n\n**行业大事**\n- `AI (acquires OR acquisition OR \"raises\" OR bankruptcy OR \"Series A\" OR \"Series B\") -is:retweet`\n- `AI (regulation OR lawsuit OR ban OR \"executive order\" OR \"AI Act\") -is:retweet`\n- `AI (\"safety\" OR \"security\" OR vulnerability OR jailbreak OR leak) -is:retweet`\n\n**爆料**\n- `(spotted OR leaked OR \"coming soon\") (GPT OR Claude OR Gemini) -is:retweet`\n\n**中文**\n- `(大模型 OR AI) (发布 OR 开源 OR 上线) lang:zh -is:retweet`\n\n**使用者自己的方向**（按人调整，例如 AI 写作、视频剪辑、语音合成、agent skills）\n- `(\"text to speech\" OR TTS OR \"video editing\" OR \"speech to text\") AI (release OR open) -is:retweet`\n\n热度筛选：用 `min_faves`（如果可用），或者拿到结果后按点赞和转发数排序。官方号、可靠媒体或高赞的帖子优先。\n\n## 3. X 新闻和热点\n- 用 get_news / search_news 搜 `AI`、`OpenAI`、`Anthropic`、`Google Gemini`，看 X 自己整理的新闻汇总。\n- 用 get_posts_counts_recent 看某个话题的讨论量是不是突然上升。\n\n## 4. 交叉核对（X 以外）\n对照 Hacker News 首页、新帖排行，以及 The Verge、TechCrunch、路透社、官方博客，找出 X 上还没起量的大事，也用来核实 X 上的说法。\n\n## 5. 判断是不是新的\n- 维护一份「已处理」记录（比如 seen.json），推过的和看过但没推的都记进去，保存标题、链接、主题关键词和日期，7 天后清掉。\n- 比对的时候看话题，不只看链接：同一件事的后续报道、别家媒体重写、转发、引用，都算旧闻。只有出现了实质性的新进展（比如从传闻变成正式发布），才算新的。\n\n## 6. 判断有没有价值\n推送：\n- 前沿模型发布或正式开放、重要开源权重\n- 大额融资、收购、破产、重要人事变动\n- 政策、监管、诉讼、重大安全事件\n- 有官方或可靠媒体来源，讨论热度够高\n- 和使用者方向直接相关（这类门槛放低一点）\n\n跳过：小额融资、纯观点或段子、小版本更新、没人复现的早期研究、来源不明的传闻（如果实在重要，就标明还没确认）。\n\n## 7. 输出格式\n每条：一行加粗标题，一到两句说清楚发生了什么、为什么重要，后面附原始链接（官方原帖或可靠报道）。没有新东西就不发消息。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110407057622904945",
+    "time": "2026-10-15 00:27",
+    "created_at": "Wed Oct 14 16:27:06 +0000 2026",
+    "id_str": "2110407057622904945",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "AI is everywhere, but walk into almost any company and work hasn’t changed\n\nMeet @Zenzap_chat, the Multiplayer AI platform.\n\nNow, people and proactive AI agents are in the same group chats,\nautomating workflows with shared context across business tools and teams\n\nEveryone can bring their team and create AI agents in 90 secs (even from your phone). CISOs and CIOs love it\n\nThousand of teams from our early access program already transformed their day to day\n\nAI agents have joined the team",
+    "quoted_tweet": null,
+    "url": "https://x.com/GuyWeissZZ/status/2110387887023751398",
+    "time": "2026-10-14 23:10",
+    "created_at": "Wed Oct 14 15:10:56 +0000 2026",
+    "id_str": "2110387887023751398",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "companies we want to work with \n(we've already redesigned them in our heads)",
+    "quoted_tweet": null,
+    "url": "https://x.com/dakshpixelup/status/2110394784288506015",
+    "time": "2026-10-14 23:38",
+    "created_at": "Wed Oct 14 15:38:20 +0000 2026",
+    "id_str": "2110394784288506015",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dakshpixelup Want to redesign @varickagents ?",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2110410858585346196",
+    "time": "2026-10-15 00:42",
+    "created_at": "Wed Oct 14 16:42:12 +0000 2026",
+    "id_str": "2110410858585346196",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "We’re months away from AGI and the leisure economy’s about to explode\n\nToday, we’re launching Odessia, an always-on concierge for travel and experiences\n\nPrices are spiking, places are getting crowded. Odessia is your cheat code to going places\n\nText to get started for free",
+    "quoted_tweet": null,
+    "url": "https://x.com/FDavidsonT/status/2110417685486141697",
+    "time": "2026-10-15 01:09",
+    "created_at": "Wed Oct 14 17:09:20 +0000 2026",
+    "id_str": "2110417685486141697",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@FDavidsonT Was just using Instinct to get a hotel. Going to give this a try",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2110425809152586064",
+    "time": "2026-10-15 01:41",
+    "created_at": "Wed Oct 14 17:41:37 +0000 2026",
+    "id_str": "2110425809152586064",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Until recently, AI agents mostly handled short tasks, like one support call or one email. Now they can stay on a job for weeks or months.\n\nThat matters for \"relay race\" work that runs through a long chain of people.\n\nEvery handoff in that chain is a chance for something to fall through: a slow callback, a dropped follow-up, lost context.\n\nTake a personal injury case. Today it moves from intake to investigation to the demand letter, with different people at each step. A single case agent can work it from the first call to settlement, chasing witnesses, records, and bills, and keeping the client and attorney updated along the way.\n\nThe same idea applies to processes like mortgages, insurance claims, and enterprise sales.\n\nBecause the agent owns the end result, the company selling it can charge on the outcome (a closed loan, a settled case, a signed deal) and move past pricing on the labor it saves (paralegal hours, call center seats).\n\nFull piece from a16z's @dhaber on long-running agents in high-value customer journeys: https://www.a16z.news/p/winning-the-relay-race-long-running",
+    "quoted_tweet": {
+      "author": "David Haber",
+      "username": "dhaber",
+      "text": "https://x.com/i/article/2110168864101163008"
+    },
+    "url": "https://x.com/a16z/status/2110377689072996675",
+    "time": "2026-10-14 22:30",
+    "created_at": "Wed Oct 14 14:30:24 +0000 2026",
+    "id_str": "2110377689072996675",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Nathan Lambert, former post-training co-lead at the Allen Institute for AI, now launching Trillium, a nonprofit open AI lab, joins a16z's Lisha Li to discuss whether open models can really keep up with the frontier.\n\nWhen he tells researchers in China that an average OpenAI researcher reportedly has five thousand H100s to work with, \"their jaw just falls to the floor.\" In his view, Chinese labs have the talent but are mostly short on compute.\n\nHe also thinks the distillation story is overblown. Based on the research, he puts its edge at a few months, and says \"there's a bit of cope\" in thinking only American labs can build good models.\n\nA lot of frontier progress outside math and code comes down to labs buying 1) data and 2) RL environments. It's a multibillion-dollar market, and some of it is sloppy enough to teach models to reward hack.\n\nThat's a big part of why Trillium exists. Nathan wants to give away the environments other people would sell, and show exactly how his team uses AI to build AI, including where the models still get stuck. His bet is that the more people can see how this works, the better prepared everyone is for what's coming.\n\n0:55 Can open models keep up with the frontier?\n2:05 What it takes to reach the frontier\n3:55 Open weights and the fast-follower playbook\n8:25 Chinese labs: equal talent, less compute\n9:55 Why distillation is harder than it looks\n14:55 Is distillation theft or competition?\n16:20 The lab flywheel vs owning your weights\n21:45 Can general models beat every specialist?\n26:30 AI at 1% of today's cost in 4 years\n27:15 The RL env boom and reward hacking\n31:30 What Trillium will build in the open\n35:30 Breaking into AI in the age of AI slop\n38:05 Open-sourcing how AI builds AI\n44:25 Why Nathan isn't pre-training\n49:45 Agent swarms and why lab secrets leak\n54:25 Fast takeoff vs risks already here\n\nYouTube: https://youtu.be/BKuK0M6oDTI\n\n@natolambert @trillium_labs @lishali88",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2110385202581197049",
+    "time": "2026-10-14 23:00",
+    "created_at": "Wed Oct 14 15:00:16 +0000 2026",
+    "id_str": "2110385202581197049",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "How AI for the enterprise is evolving, from owning a task to owning an outcome:\n\n1. Assistant: handles one task in seconds, like sending a follow-up email. Companies pay for it out of their software budget.\n\n2. Agent: handles one interaction in minutes, like a customer's refund call. It takes on work people used to do, so it gets paid for out of the labor budget.\n\n3. Long-running agent: works toward a goal for weeks or months, like getting an injured client the biggest settlement possible. Because it owns the result, the company selling it can price on the outcome it delivers.\n\nFull piece from a16z's @dhaber on long-running agents in high-value customer journeys: https://www.a16z.news/p/winning-the-relay-race-long-running",
+    "quoted_tweet": {
+      "author": "David Haber",
+      "username": "dhaber",
+      "text": "https://x.com/i/article/2110168864101163008"
+    },
+    "url": "https://x.com/a16z/status/2110400337886801970",
+    "time": "2026-10-15 00:00",
+    "created_at": "Wed Oct 14 16:00:24 +0000 2026",
+    "id_str": "2110400337886801970",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Nathan Lambert of @trillium_labs says Chinese AI researchers' jaws drop to the floor when he tells them how much compute OpenAI has:\n\n\"The Chinese labs are very technically excellent. They are more compute-starved.\"\n\n\"Without a doubt, they have a comparable talent pool to draw on... To say that China is anything but equal on talent, you're gonna have a hard time because they just have so many people being trained at such a high level.\"\n\n\"What they don't have is compute.\"\n\n\"You talk to people there, and you're like, 'Oh, I heard an average OpenAI researcher has five thousand H100 equivalents that they can access at any time,' and like their jaw just falls to the floor. They're just like, 'I can't comprehend.'\"\n\n@natolambert @lishali88",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Nathan Lambert, former post-training co-lead at the Allen Institute for AI, now launching Trillium, a nonprofit open AI lab, joins a16z's Lisha Li to discuss whether open models can really keep up with the frontier.\n\nWhen he tells researchers in China that an average OpenAI researcher reportedly has five thousand H100s to work with, \"their jaw just falls to the floor.\" In his view, Chinese labs have the talent but are mostly short on compute.\n\nHe also thinks the distillation story is overblown. Based on the research, he puts its edge at a few months, and says \"there's a bit of cope\" in thinking only American labs can build good models.\n\nA lot of frontier progress outside math and code comes down to labs buying 1) data and 2) RL environments. It's a multibillion-dollar market, and some of it is sloppy enough to teach models to reward hack.\n\nThat's a big part of why Trillium exists. Nathan wants to give away the environments other people would sell, and show exactly how his team uses AI to build AI, including where the models still get stuck. His bet is that the more people can see how this works, the better prepared everyone is for what's coming.\n\n0:55 Can open models keep up with the frontier?\n2:05 What it takes to reach the frontier\n3:55 Open weights and the fast-follower playbook\n8:25 Chinese labs: equal talent, less compute\n9:55 Why distillation is harder than it looks\n14:55 Is distillation theft or competition?\n16:20 The lab flywheel vs owning your weights\n21:45 Can general models beat every specialist?\n26:30 AI at 1% of today's cost in 4 years\n27:15 The RL env boom and reward hacking\n31:30 What Trillium will build in the open\n35:30 Breaking into AI in the age of AI slop\n38:05 Open-sourcing how AI builds AI\n44:25 Why Nathan isn't pre-training\n49:45 Agent swarms and why lab secrets leak\n54:25 Fast takeoff vs risks already here\n\nYouTube: https://youtu.be/BKuK0M6oDTI\n\n@natolambert @trillium_labs @lishali88"
+    },
+    "url": "https://x.com/a16z/status/2110415527533494747",
+    "time": "2026-10-15 01:00",
+    "created_at": "Wed Oct 14 17:00:46 +0000 2026",
+    "id_str": "2110415527533494747",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Now that AI agents can own an outcome from start to finish, how do you sell them?\n\n1. Sell the platform:\n\nLicense the agent to a company to run in its own operations. No existing contract sets the price, so there's more upside, but new budgets take time to approve and results are harder to credit to the agent.\n\n2. Sell the service:\n\nTake over work a company already outsources, the way Red Ventures sold policies for insurers and got paid per policy closed. The budget already exists, so deals close faster, but the highest-value work usually runs in-house, which caps the upside.\n\n3. Go full-stack:\n\nBecome the business, like buying debt portfolios and collecting on them yourself. You keep all the value the AI creates, but you also take on the licensing and compliance.\n\nFull piece from a16z's @dhaber on long-running agents in high-value customer journeys: https://www.a16z.news/p/winning-the-relay-race-long-running",
+    "quoted_tweet": {
+      "author": "David Haber",
+      "username": "dhaber",
+      "text": "https://x.com/i/article/2110168864101163008"
+    },
+    "url": "https://x.com/a16z/status/2110430504860401675",
+    "time": "2026-10-15 02:00",
+    "created_at": "Wed Oct 14 18:00:16 +0000 2026",
+    "id_str": "2110430504860401675",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 这是测试Gemini 4的写作能力吗？😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/ray_robotaxi/status/2110369379489833405",
+    "time": "2026-10-14 21:57",
+    "created_at": "Wed Oct 14 13:57:23 +0000 2026",
+    "id_str": "2110369379489833405",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu gemini 4让我湿了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/billwangus/status/2110370996960268424",
+    "time": "2026-10-14 22:03",
+    "created_at": "Wed Oct 14 14:03:49 +0000 2026",
+    "id_str": "2110370996960268424",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu gemini4的小说么 质感很好 他很喜欢写年代故事 不知道是不是参考了红果短剧剧情",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2110372064020558082",
+    "time": "2026-10-14 22:08",
+    "created_at": "Wed Oct 14 14:08:03 +0000 2026",
+    "id_str": "2110372064020558082",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@lemomo_ai 是的 Gemini 4",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2110372671569752222",
+    "time": "2026-10-14 22:10",
+    "created_at": "Wed Oct 14 14:10:28 +0000 2026",
+    "id_str": "2110372671569752222",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@ray_robotaxi 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2110372691618504841",
+    "time": "2026-10-14 22:10",
+    "created_at": "Wed Oct 14 14:10:33 +0000 2026",
+    "id_str": "2110372691618504841",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@billwangus 别这样",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2110372733301477726",
+    "time": "2026-10-14 22:10",
+    "created_at": "Wed Oct 14 14:10:43 +0000 2026",
+    "id_str": "2110372733301477726",
+    "is_retweet": false
   }
 ]
