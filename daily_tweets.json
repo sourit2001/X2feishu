@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit If microled flops for cpo, does that money go to vcsel first or straight to cw lasers for siph? kinda different jobs",
+    "quoted_tweet": null,
+    "url": "https://x.com/lyAtomic/status/2110317612496564564",
+    "time": "2026-10-14 18:31",
+    "created_at": "Wed Oct 14 10:31:41 +0000 2026",
+    "id_str": "2110317612496564564",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Okay just a clarification, this post was more about CPO  but wrote it too quickly... don't want to imply everything as a whole like cables/pluggables. \n\nThe question was whether microled + multimode fiber architectures proposed by AUO and others could break into CPO:\n\nThe response regarding microled architecture skepticism for CPO is actually a lot more supportive for CW lasers. \n\nI assumed VCSEL when I made this post, but they share the multimode fiber approach Largan's chairman is criticizing so it's probably less so. \n\n\"However, CEO Lin En-ping poured cold water on the widely discussed approach of pairing MicroLEDs with multimode optical fiber, stating bluntly that he personally believes the MicroLED approach is “unlikely” to materialize. \n\n He added that no customers currently genuinely consider the architecture commercially viable.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2110333876144881903",
+    "time": "2026-10-14 19:36",
+    "created_at": "Wed Oct 14 11:36:18 +0000 2026",
+    "id_str": "2110333876144881903",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "highly recommend adding REA to Claude Code or Codex\n\nsee a feature you like in another app? your agent takes it apart, shows you how it’s built, then helps you build your own version in your project\n\nit works down layer by layer and backs every finding with a file, a function and an address, keeping what it saw separate from what it’s guessing\n\ndesktop apps, websites, Android apps\n\nyour own software and open source is fair game, anything else check the terms first\n\nrun npx rea-agents setup, pick your agent, restart it, then send the prompt below",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2110309754493124979",
+    "time": "2026-10-14 18:00",
+    "created_at": "Wed Oct 14 10:00:27 +0000 2026",
+    "id_str": "2110309754493124979",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full Claude guide is free → https://godofprompt.ai/guides/claude-mastery-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2110309778258030702",
+    "time": "2026-10-14 18:00",
+    "created_at": "Wed Oct 14 10:00:33 +0000 2026",
+    "id_str": "2110309778258030702",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "you can access 30,000+ AI prompts and guides at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2110309790039920696",
+    "time": "2026-10-14 18:00",
+    "created_at": "Wed Oct 14 10:00:36 +0000 2026",
+    "id_str": "2110309790039920696",
+    "is_retweet": false
+  }
+]
