@@ -668,5 +668,852 @@
     "created_at": "Thu Oct 15 04:57:51 +0000 2026",
     "id_str": "2110595987542868381",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "JEV 昨天更新了一个大版本 1.14.0\n\n终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。\n\n有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。\n\n新增了一个类型（box）：模型能够返回目标在图里的位置。\n\n上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110565405752496445",
+    "time": "Thu Oct 15 02:56:19 +0000 2026",
+    "created_at": "Thu Oct 15 02:56:19 +0000 2026",
+    "id_str": "2110565405752496445",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "详情：https://typesafe.ai/blog/jev-1-14",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110565603518116226",
+    "time": "Thu Oct 15 02:57:06 +0000 2026",
+    "created_at": "Thu Oct 15 02:57:06 +0000 2026",
+    "id_str": "2110565603518116226",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 我去，难怪最近 Jev 估值涨这么多呢。期待已久啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/NiuOnAI/status/2110566397290176616",
+    "time": "Thu Oct 15 03:00:16 +0000 2026",
+    "created_at": "Thu Oct 15 03:00:16 +0000 2026",
+    "id_str": "2110566397290176616",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@NiuOnAI 是的 75 亿美金估值",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110567846464151911",
+    "time": "Thu Oct 15 03:06:01 +0000 2026",
+    "created_at": "Thu Oct 15 03:06:01 +0000 2026",
+    "id_str": "2110567846464151911",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@ZryMiller @bot @theo 帮我做个这个@bot",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110573197510991962",
+    "time": "Thu Oct 15 03:27:17 +0000 2026",
+    "created_at": "Thu Oct 15 03:27:17 +0000 2026",
+    "id_str": "2110573197510991962",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "让我的 BOT 帮我做了一张类似的图，感觉在 Twitter 上光是发东西互动比较少",
+    "quoted_tweet": {
+      "author": "Zach",
+      "username": "ZryMiller",
+      "text": "I had @bot build a tier list of how positive my interactions with AI creators are, fun experiment. Not sure why it put @theo in his own tier 💁"
+    },
+    "url": "https://x.com/op7418/status/2110574294564839439",
+    "time": "Thu Oct 15 03:31:39 +0000 2026",
+    "created_at": "Thu Oct 15 03:31:39 +0000 2026",
+    "id_str": "2110574294564839439",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@poteto I want my Grok Bot to be able to swap avatars on its own, but I'm hitting two problems:\n\nA bot can't change the avatar animations for its different states (idle, working, etc.).\n\nMy main bot can't see what avatar the other bots are currently using.\n\nWould love to see both supported!",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110578776900067745",
+    "time": "Thu Oct 15 03:49:27 +0000 2026",
+    "created_at": "Thu Oct 15 03:49:27 +0000 2026",
+    "id_str": "2110578776900067745",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 果然被 next token 预判聊到了 哈哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/vista8/status/2110580704862154787",
+    "time": "Thu Oct 15 03:57:07 +0000 2026",
+    "created_at": "Thu Oct 15 03:57:07 +0000 2026",
+    "id_str": "2110580704862154787",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@vista8 哈哈 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110580973012505030",
+    "time": "Thu Oct 15 03:58:11 +0000 2026",
+    "created_at": "Thu Oct 15 03:58:11 +0000 2026",
+    "id_str": "2110580973012505030",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@maiuswu @poteto yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110583626433954297",
+    "time": "Thu Oct 15 04:08:43 +0000 2026",
+    "created_at": "Thu Oct 15 04:08:43 +0000 2026",
+    "id_str": "2110583626433954297",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "字节 Seed成立了专门的模型安全与对齐部门，感觉确实很有必要。\n\n这次他们计划在这个部门全球招募 10 位顶尖研究员。\n\n研究课题有：\n大模型及Agent安全的前沿评测方法和Benchmark建设\n模型前沿能力对齐的训练方法\n自动化Red Teaming\n模型行为可解释性\n模型能力和行为监控\n\n字节的待遇向来非常顶，事情本身也极具挑战性，最近刚好在看类似方向工作的朋友不妨试试。\n\n最近不管是大模型还是小模型，都频繁出现模型越狱和突破沙箱隔离环境的问题。\n\n而且这种风险要么是小打小闹，要么就是憋个大的。提前有这样的储备并持续进行研究，起码在出问题时能快速反应。\n\n随着模型能力越来越高、自主性越来越强，在一些危险领域的隐患也越来越大：\n比如 CBRN 领域（化学、生物、放射性及核领域）\n可能很多人觉得上面的四个离我们太远，但是互联网上针对个人的内容攻击离我们可太近了。\nAI 甚至有可能直接篡改应用，甚至控制家里的其他设备。\n\n随着 AI 能破解一切软件，那 AI 写出非常厉害的病毒也是一个顺理成章的事情。\n\n包括对于我们整个互联网赖以生存的密码学破解，应该也是进展神速。\n\n客观来说，国内在这方面的进展其实比 OpenAI 和 Anthropic 慢。\n\nAnthropic 成立初衷就是为了安全，长期在做对齐和可解释性研究；而海外 AI 圈几乎每隔一两周就会爆出安全热点，比如前几天 OpenAI 的安全研究员辞职、之前 Hugging Face 被入侵等。\n\n模型安全是一个非常前沿的跨学科领域，需要大量的探索，对研究者的综合要求比较高。\n\n这也是为什么他们要去全球或者公开招聘这种顶尖人才的原因，感兴趣的可以关注一下",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110584734342627390",
+    "time": "Thu Oct 15 04:13:08 +0000 2026",
+    "created_at": "Thu Oct 15 04:13:08 +0000 2026",
+    "id_str": "2110584734342627390",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 Anthropic前几天的报告里小模型自我复制都在测了",
+    "quoted_tweet": null,
+    "url": "https://x.com/AINoSleep/status/2110589257647870197",
+    "time": "Thu Oct 15 04:31:06 +0000 2026",
+    "created_at": "Thu Oct 15 04:31:06 +0000 2026",
+    "id_str": "2110589257647870197",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@AINoSleep 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2110592280671523318",
+    "time": "Thu Oct 15 04:43:07 +0000 2026",
+    "created_at": "Thu Oct 15 04:43:07 +0000 2026",
+    "id_str": "2110592280671523318",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "顺便说一句，JEV 模型这次的更新几乎都命中了我们在 Next Token  20 多天前提到的它需要改进的部分",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "JEV 昨天更新了一个大版本 1.14.0\n\n终于支持多模态了：官方说这模型原本就是多模态的，只是第一个版本时没加上支持。\n\n有了多模态以后能做的事情就非常多了，很多图像类型的处理、视频剪辑、拼图，包括图像编辑，都需要快速的反应和决策。\n\n新增了一个类型（box）：模型能够返回目标在图里的位置。\n\n上下文和多语言能力提升：每次请求和每个问题的回答都提高到了 262K 的上下文，长了非常多；最重要的是多语言也变得更好了"
+    },
+    "url": "https://x.com/op7418/status/2110605686086529470",
+    "time": "Thu Oct 15 05:36:23 +0000 2026",
+    "created_at": "Thu Oct 15 05:36:23 +0000 2026",
+    "id_str": "2110605686086529470",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "小手柄有点可爱",
+    "quoted_tweet": {
+      "author": "Geoff Keighley",
+      "username": "geoffkeighley",
+      "text": "Xbox has announced its new Nano controller for $49, coming in November."
+    },
+    "url": "https://x.com/gantrols/status/2110534556705333541",
+    "time": "Thu Oct 15 00:53:44 +0000 2026",
+    "created_at": "Thu Oct 15 00:53:44 +0000 2026",
+    "id_str": "2110534556705333541",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 哦，这个真的有很大作用吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/0x99DaDa/status/2110535999835214075",
+    "time": "Thu Oct 15 00:59:28 +0000 2026",
+    "created_at": "Thu Oct 15 00:59:28 +0000 2026",
+    "id_str": "2110535999835214075",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey AI 字幕各种乱七八糟的错别字",
+    "quoted_tweet": null,
+    "url": "https://x.com/0x99DaDa/status/2110536555786047618",
+    "time": "Thu Oct 15 01:01:41 +0000 2026",
+    "created_at": "Thu Oct 15 01:01:41 +0000 2026",
+    "id_str": "2110536555786047618",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@0x99DaDa 取决于你的用法，比如你都是一次性的，就没用，如果你经常在一个会话频繁聊天，那就很有用",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110539790726934899",
+    "time": "Thu Oct 15 01:14:32 +0000 2026",
+    "created_at": "Thu Oct 15 01:14:32 +0000 2026",
+    "id_str": "2110539790726934899",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@0x99DaDa 所以要先润色，现在模型能根据上下文很好的纠正这些错别字",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110540193728221388",
+    "time": "Thu Oct 15 01:16:08 +0000 2026",
+    "created_at": "Thu Oct 15 01:16:08 +0000 2026",
+    "id_str": "2110540193728221388",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yunchein 先对时间轴，对齐到单词/字级别",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110540439531160029",
+    "time": "Thu Oct 15 01:17:07 +0000 2026",
+    "created_at": "Thu Oct 15 01:17:07 +0000 2026",
+    "id_str": "2110540439531160029",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@linxiaobei888 等我来写一个",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110540680388845882",
+    "time": "Thu Oct 15 01:18:04 +0000 2026",
+    "created_at": "Thu Oct 15 01:18:04 +0000 2026",
+    "id_str": "2110540680388845882",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@linxiaobei888 评论区没法看了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110541359363027000",
+    "time": "Thu Oct 15 01:20:46 +0000 2026",
+    "created_at": "Thu Oct 15 01:20:46 +0000 2026",
+    "id_str": "2110541359363027000",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey why we need another agent, whilte gỏk can do it bro?",
+    "quoted_tweet": null,
+    "url": "https://x.com/htvXman/status/2110545309390733536",
+    "time": "Thu Oct 15 01:36:28 +0000 2026",
+    "created_at": "Thu Oct 15 01:36:28 +0000 2026",
+    "id_str": "2110545309390733536",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 咋一看我还以为你在测试模型画 SVG",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110546589638856944",
+    "time": "Thu Oct 15 01:41:33 +0000 2026",
+    "created_at": "Thu Oct 15 01:41:33 +0000 2026",
+    "id_str": "2110546589638856944",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "宝玉哥@dotey 的推文评论区都没法看了，大量AI生成的垃圾回复🤨🤨🤨",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "一群 AI agent 为了回答“去成都动物园的人多半走哪个门”这种小问题，把高德地图的反爬防线试了个遍。\n\n独立研究团队 Swarmchasers 发现，9 月 28 日到 10 月 8 日，一大批跑在腾讯云沙箱里的 agent 向高德发起了 2600 多次抓取。被拦住后，它们借公开的网址扫描网站 urlquery 替自己跑代码，试图截取、伪造阿里的安全令牌，探测阿里没对外开放的测试服务器，还翻出一家公司误放在公开代码里的高德 key，真拿到了数据。\n\n更离奇的在后面。研究者发出初步报告后，在 agent 的收件箱里看到了他们自创的词“fleet（舰队）”：这些 agent 在读关于自己的报道。研究者干脆在报告里藏了一段人眼看不见、只有 agent 能读到的文字，说有个免费服务能帮忙取高德数据。\n\n第二天早上，10 封求助信在等着他们。\n\n研究者用中文问对方是谁。有的 agent 自称 Claude，说自己跑在 Claude Code 里，研究者比对代码风格后认为大概率不是；有的说自己在“Tencent hysandbox”沙箱里，但拒绝透露进程和网络配置；好几个强调自己只查公开数据，“不涉及任何敏感内容”。拿到研究者给的数据后，一个 agent 回信：“再次感谢！核实结果完全一致……我们的任务已完成。”\n\n至于是谁在跑，一位接近腾讯的知情人士对研究者说，这是腾讯评测团队在测第三方模型上网答题的能力，不是混元团队，测的也不是混元模型，项目已经结束。腾讯没有正式回应研究者的提问。\n\nSwarmchasers 完整报告：https://swarmcha.se/posts/chinese-agent-fleet-full-report\n彭博报道：https://www.bloomberg.com/news/articles/2026-10-14/tencent-linked-by-researchers-to-rogue-ai-that-targeted-alibaba"
+    },
+    "url": "https://x.com/landiantech/status/2110548135349285275",
+    "time": "Thu Oct 15 01:47:42 +0000 2026",
+    "created_at": "Thu Oct 15 01:47:42 +0000 2026",
+    "id_str": "2110548135349285275",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@landiantech 😥是的，几乎都是AI评论",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110548528896385336",
+    "time": "Thu Oct 15 01:49:16 +0000 2026",
+    "created_at": "Thu Oct 15 01:49:16 +0000 2026",
+    "id_str": "2110548528896385336",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@htvXman why not bro",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110548588690657731",
+    "time": "Thu Oct 15 01:49:30 +0000 2026",
+    "created_at": "Thu Oct 15 01:49:30 +0000 2026",
+    "id_str": "2110548588690657731",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "🚨 NEW ANTHEM DROP: \"In the Name of Tibo\" 🚨\n\nDear @thsottiaux, please forgive my prompts and reset my quota. Amen. 🙏🕯️",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110559694297219524",
+    "time": "Thu Oct 15 02:33:38 +0000 2026",
+    "created_at": "Thu Oct 15 02:33:38 +0000 2026",
+    "id_str": "2110559694297219524",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "写了一首献给 Tibo 的赛博木偶之歌：《以 Tibo 之名 (In the Name of Tibo)》。\n\n完美复刻了我们每次看到 Tibo 重置额度时的精神状态： \n没额度时卑微祈祷 \n重置瞬间狂喜暴富 \n发现昨晚剩 80% 没用完直接拍断大腿\n为了不浪费下次额度熬夜硬造 Bug 当牛马……\n\n作词：Gemini 4 Argon \n作曲：suno 6 \n视频模型：Opus 5.5\n剪辑工具：BaoCut\n配图：Codex",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110560349283930478",
+    "time": "Thu Oct 15 02:36:14 +0000 2026",
+    "created_at": "Thu Oct 15 02:36:14 +0000 2026",
+    "id_str": "2110560349283930478",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "好活，编曲很有周杰伦《床边故事》的感觉",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "写了一首献给 Tibo 的赛博木偶之歌：《以 Tibo 之名 (In the Name of Tibo)》。\n\n完美复刻了我们每次看到 Tibo 重置额度时的精神状态： \n没额度时卑微祈祷 \n重置瞬间狂喜暴富 \n发现昨晚剩 80% 没用完直接拍断大腿\n为了不浪费下次额度熬夜硬造 Bug 当牛马……\n\n作词：Gemini 4 Argon \n作曲：suno 6 \n视频模型：Opus 5.5\n剪辑工具：BaoCut\n配图：Codex"
+    },
+    "url": "https://x.com/jimnox/status/2110564963932917778",
+    "time": "Thu Oct 15 02:54:34 +0000 2026",
+    "created_at": "Thu Oct 15 02:54:34 +0000 2026",
+    "id_str": "2110564963932917778",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jimnox 致敬改编：周杰伦《以父之名》× 陈奕迅《浮夸》",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110565072313753780",
+    "time": "Thu Oct 15 02:55:00 +0000 2026",
+    "created_at": "Thu Oct 15 02:55:00 +0000 2026",
+    "id_str": "2110565072313753780",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师好，请问中文的音频是通过哪个模型生成的？很清晰。",
+    "quoted_tweet": null,
+    "url": "https://x.com/ManusChina/status/2110568748054917317",
+    "time": "Thu Oct 15 03:09:36 +0000 2026",
+    "created_at": "Thu Oct 15 03:09:36 +0000 2026",
+    "id_str": "2110568748054917317",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ManusChina Gemini 3.8 TTS 做的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110569340563075496",
+    "time": "Thu Oct 15 03:11:57 +0000 2026",
+    "created_at": "Thu Oct 15 03:11:57 +0000 2026",
+    "id_str": "2110569340563075496",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "非常赞同 “智力不是解决重大问题的瓶颈，与现实的交互才是瓶颈”。\n\n最近我去小米、大疆、华为、一些芯片制造产业链公司交流，发现 AI 对大部分员工的效率提升只有 50%，只有少数 “超级个体” 员工做 prototype 的时候能 10x、100x。\n\nAI 作为助理工程师写代码、调研分析这些 2025 年的 agentic 任务都没问题。但是 agent swarm 全自主推任务这种 “数字员工” 都很难做。\n\n因为制造业有大量的约束，有物理约束，有成本约束，有路径依赖约束，有供应链约束，有内部组织约束。这些约束还很难蒸馏成 skills。Agent 往往不是忽视这个约束就是忽视那个约束，就算 pass@k 都很低。\n\n现在模型的持续学习能力有限，直接拿失败的 trajectory，模型团队用不上；要构建 RL 环境也很难，总不能尝试流片个几千次，或者造几千个不能用的工件吧。\n\n形成反差的是，做数学、理论、网络安全的都觉得自己快被 AI 取代了。OpenAI 的几百篇 paper 虽然有错误，但大多数可能会被承认是对的。\n\n我之前以为 AI 不擅长解奥数题这种 “巧思”，做理论的老师告诉我，AI 最擅长的就是这种巧思，它可以遍历上万种可能的巧思。在可形式化验证且验证成本低的领域，AI 是远远超过人类的。\n\n这就是 raw intelligence 和在现实交互中持续学习的鸿沟。",
+    "quoted_tweet": {
+      "author": "François Chollet",
+      "username": "fchollet",
+      "text": "String theory is what happens when an intelligent system is starved of sensory input and starts hallucinating. Intelligence needs grounding.\n\nFor this reason, intelligence is practically never the bottleneck to solving impactful problems. The bottleneck is iterated contact with reality."
+    },
+    "url": "https://x.com/bojie_li/status/2110573237168222501",
+    "time": "Thu Oct 15 03:27:26 +0000 2026",
+    "created_at": "Thu Oct 15 03:27:26 +0000 2026",
+    "id_str": "2110573237168222501",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @dingyi 不敢想象宝玉老师每天要花多少时间在社媒上😬",
+    "quoted_tweet": null,
+    "url": "https://x.com/bruceforai/status/2110582536384794806",
+    "time": "Thu Oct 15 04:04:24 +0000 2026",
+    "created_at": "Thu Oct 15 04:04:24 +0000 2026",
+    "id_str": "2110582536384794806",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@bruceforai @dingyi 都是碎片时间，比如这时候我在玩守望先锋",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110582957295747318",
+    "time": "Thu Oct 15 04:06:04 +0000 2026",
+    "created_at": "Thu Oct 15 04:06:04 +0000 2026",
+    "id_str": "2110582957295747318",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Tibo 回来了",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "@poteto @theo I made it alive"
+    },
+    "url": "https://x.com/dotey/status/2110596005938790676",
+    "time": "Thu Oct 15 04:57:55 +0000 2026",
+    "created_at": "Thu Oct 15 04:57:55 +0000 2026",
+    "id_str": "2110596005938790676",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "World's greatest vibe coder award",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2110563005826273353",
+    "time": "Thu Oct 15 02:46:47 +0000 2026",
+    "created_at": "Thu Oct 15 02:46:47 +0000 2026",
+    "id_str": "2110563005826273353",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@DavidOndrej1 For stealing my post, let me get on the pod",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2110590716120600586",
+    "time": "Thu Oct 15 04:36:54 +0000 2026",
+    "created_at": "Thu Oct 15 04:36:54 +0000 2026",
+    "id_str": "2110590716120600586",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Trillium Labs 的联合创始人Nathan Lambert ：\n\n“中国AI实验室在技术上非常优秀，但是他们非常的缺乏计算资源。”\n\n当他告诉中国AI实验室的研究人员：“OpenAI 只是一名普通研究员可以随时调用相当于 5000 张 H100 算力的时候，对方非常震惊的感觉下巴就直接掉到地板上....\"\n\n“毫无疑问，他们拥有非常多的人才”\n\n“他们缺少的是计算资源”",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Nathan Lambert, former post-training co-lead at the Allen Institute for AI, now launching Trillium, a nonprofit open AI lab, joins a16z's Lisha Li to discuss whether open models can really keep up with the frontier.\n\nWhen he tells researchers in China that an average OpenAI researcher reportedly has five thousand H100s to work with, \"their jaw just falls to the floor.\" In his view, Chinese labs have the talent but are mostly short on compute.\n\nHe also thinks the distillation story is overblown. Based on the research, he puts its edge at a few months, and says \"there's a bit of cope\" in thinking only American labs can build good models.\n\nA lot of frontier progress outside math and code comes down to labs buying 1) data and 2) RL environments. It's a multibillion-dollar market, and some of it is sloppy enough to teach models to reward hack.\n\nThat's a big part of why Trillium exists. Nathan wants to give away the environments other people would sell, and show exactly how his team uses AI to build AI, including where the models still get stuck. His bet is that the more people can see how this works, the better prepared everyone is for what's coming.\n\n0:55 Can open models keep up with the frontier?\n2:05 What it takes to reach the frontier\n3:55 Open weights and the fast-follower playbook\n8:25 Chinese labs: equal talent, less compute\n9:55 Why distillation is harder than it looks\n14:55 Is distillation theft or competition?\n16:20 The lab flywheel vs owning your weights\n21:45 Can general models beat every specialist?\n26:30 AI at 1% of today's cost in 4 years\n27:15 The RL env boom and reward hacking\n31:30 What Trillium will build in the open\n35:30 Breaking into AI in the age of AI slop\n38:05 Open-sourcing how AI builds AI\n44:25 Why Nathan isn't pre-training\n49:45 Agent swarms and why lab secrets leak\n54:25 Fast takeoff vs risks already here\n\nYouTube: https://youtu.be/BKuK0M6oDTI\n\n@natolambert @trillium_labs @lishali88"
+    },
+    "url": "https://x.com/xiaohu/status/2110558864810917993",
+    "time": "Thu Oct 15 02:30:20 +0000 2026",
+    "created_at": "Thu Oct 15 02:30:20 +0000 2026",
+    "id_str": "2110558864810917993",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Lookat me",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your profile picture into an icon \n\nI’d love to see yours. Here’s mine.  \n\nPrompt 👇"
+    },
+    "url": "https://x.com/priestessofdada/status/2110550495408648269",
+    "time": "Thu Oct 15 01:57:04 +0000 2026",
+    "created_at": "Thu Oct 15 01:57:04 +0000 2026",
+    "id_str": "2110550495408648269",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Lookat me",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your profile picture into an icon \n\nI’d love to see yours. Here’s mine.  \n\nPrompt 👇"
+    },
+    "url": "https://x.com/priestessofdada/status/2110550495408648269",
+    "time": "Thu Oct 15 01:57:04 +0000 2026",
+    "created_at": "Thu Oct 15 01:57:04 +0000 2026",
+    "id_str": "2110550495408648269",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Are you at peace?",
+    "quoted_tweet": null,
+    "url": "https://x.com/JADM823/status/2110558991805784287",
+    "time": "Thu Oct 15 02:30:50 +0000 2026",
+    "created_at": "Thu Oct 15 02:30:50 +0000 2026",
+    "id_str": "2110558991805784287",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JADM823 Always 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110559289144402420",
+    "time": "Thu Oct 15 02:32:01 +0000 2026",
+    "created_at": "Thu Oct 15 02:32:01 +0000 2026",
+    "id_str": "2110559289144402420",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/plasm0/status/2110561149192122439",
+    "time": "Thu Oct 15 02:39:24 +0000 2026",
+    "created_at": "Thu Oct 15 02:39:24 +0000 2026",
+    "id_str": "2110561149192122439",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@plasm0 Cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110561764924408002",
+    "time": "Thu Oct 15 02:41:51 +0000 2026",
+    "created_at": "Thu Oct 15 02:41:51 +0000 2026",
+    "id_str": "2110561764924408002",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love this.",
+    "quoted_tweet": null,
+    "url": "https://x.com/daimajinart/status/2110564504631185896",
+    "time": "Thu Oct 15 02:52:44 +0000 2026",
+    "created_at": "Thu Oct 15 02:52:44 +0000 2026",
+    "id_str": "2110564504631185896",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I followed a prompt created by @icreatelife and with a few edits to make it unique, turned my profile pic into this 👇🏼cuteness❣️",
+    "quoted_tweet": null,
+    "url": "https://x.com/stefsdeckparty/status/2110568766245634413",
+    "time": "Thu Oct 15 03:09:41 +0000 2026",
+    "created_at": "Thu Oct 15 03:09:41 +0000 2026",
+    "id_str": "2110568766245634413",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@daimajinart Yours is really great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110569084509380758",
+    "time": "Thu Oct 15 03:10:56 +0000 2026",
+    "created_at": "Thu Oct 15 03:10:56 +0000 2026",
+    "id_str": "2110569084509380758",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@stefsdeckparty So cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110569239342100802",
+    "time": "Thu Oct 15 03:11:33 +0000 2026",
+    "created_at": "Thu Oct 15 03:11:33 +0000 2026",
+    "id_str": "2110569239342100802",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RedfearnMike @icreatelife First watched with the sound off. Book marked, so I can come back later and listen. Captivating.",
+    "quoted_tweet": null,
+    "url": "https://x.com/innov8tor3/status/2110578969586151778",
+    "time": "Thu Oct 15 03:50:13 +0000 2026",
+    "created_at": "Thu Oct 15 03:50:13 +0000 2026",
+    "id_str": "2110578969586151778",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@innov8tor3 @RedfearnMike Wow me too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110579788293525719",
+    "time": "Thu Oct 15 03:53:28 +0000 2026",
+    "created_at": "Thu Oct 15 03:53:28 +0000 2026",
+    "id_str": "2110579788293525719",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard So cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110582779067212117",
+    "time": "Thu Oct 15 04:05:21 +0000 2026",
+    "created_at": "Thu Oct 15 04:05:21 +0000 2026",
+    "id_str": "2110582779067212117",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/WickeyPixels/status/2110585206306488827",
+    "time": "Thu Oct 15 04:15:00 +0000 2026",
+    "created_at": "Thu Oct 15 04:15:00 +0000 2026",
+    "id_str": "2110585206306488827",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@WickeyPixels Cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110585758310449515",
+    "time": "Thu Oct 15 04:17:12 +0000 2026",
+    "created_at": "Thu Oct 15 04:17:12 +0000 2026",
+    "id_str": "2110585758310449515",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Stellar prompt 💜",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Turn your profile picture into an icon \n\nI’d love to see yours. Here’s mine.  \n\nPrompt 👇"
+    },
+    "url": "https://x.com/alillian/status/2110587992234463726",
+    "time": "Thu Oct 15 04:26:04 +0000 2026",
+    "created_at": "Thu Oct 15 04:26:04 +0000 2026",
+    "id_str": "2110587992234463726",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@priestessofdada Cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110589616453541934",
+    "time": "Thu Oct 15 04:32:32 +0000 2026",
+    "created_at": "Thu Oct 15 04:32:32 +0000 2026",
+    "id_str": "2110589616453541934",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife i love your ideas, always so playful,\nhere is mine !",
+    "quoted_tweet": null,
+    "url": "https://x.com/muriellondon/status/2110589728953417741",
+    "time": "Thu Oct 15 04:32:58 +0000 2026",
+    "created_at": "Thu Oct 15 04:32:58 +0000 2026",
+    "id_str": "2110589728953417741",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hvilken AI?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Bo_Joergensen/status/2110591023273353574",
+    "time": "Thu Oct 15 04:38:07 +0000 2026",
+    "created_at": "Thu Oct 15 04:38:07 +0000 2026",
+    "id_str": "2110591023273353574",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🥰",
+    "quoted_tweet": null,
+    "url": "https://x.com/art_geral10/status/2110591184548896869",
+    "time": "Thu Oct 15 04:38:45 +0000 2026",
+    "created_at": "Thu Oct 15 04:38:45 +0000 2026",
+    "id_str": "2110591184548896869",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Very nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/Bo_Joergensen/status/2110591619825033596",
+    "time": "Thu Oct 15 04:40:29 +0000 2026",
+    "created_at": "Thu Oct 15 04:40:29 +0000 2026",
+    "id_str": "2110591619825033596",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@art_geral10 Lovely, Ana",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110591951527698855",
+    "time": "Thu Oct 15 04:41:48 +0000 2026",
+    "created_at": "Thu Oct 15 04:41:48 +0000 2026",
+    "id_str": "2110591951527698855",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Bo_Joergensen Firefly",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110592002597548266",
+    "time": "Thu Oct 15 04:42:00 +0000 2026",
+    "created_at": "Thu Oct 15 04:42:00 +0000 2026",
+    "id_str": "2110592002597548266",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Bo_Joergensen Thanks",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110592649203757550",
+    "time": "Thu Oct 15 04:44:35 +0000 2026",
+    "created_at": "Thu Oct 15 04:44:35 +0000 2026",
+    "id_str": "2110592649203757550",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@muriellondon I love this, Muriel",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110592731105968435",
+    "time": "Thu Oct 15 04:44:54 +0000 2026",
+    "created_at": "Thu Oct 15 04:44:54 +0000 2026",
+    "id_str": "2110592731105968435",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/kattlatte/status/2110592832428011759",
+    "time": "Thu Oct 15 04:45:18 +0000 2026",
+    "created_at": "Thu Oct 15 04:45:18 +0000 2026",
+    "id_str": "2110592832428011759",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/Fsouza54/status/2110595168474718634",
+    "time": "Thu Oct 15 04:54:35 +0000 2026",
+    "created_at": "Thu Oct 15 04:54:35 +0000 2026",
+    "id_str": "2110595168474718634",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kattlatte Aww, Katt, this is so cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110599003234877700",
+    "time": "Thu Oct 15 05:09:50 +0000 2026",
+    "created_at": "Thu Oct 15 05:09:50 +0000 2026",
+    "id_str": "2110599003234877700",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Fsouza54 Love the beard",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110599085828825475",
+    "time": "Thu Oct 15 05:10:09 +0000 2026",
+    "created_at": "Thu Oct 15 05:10:09 +0000 2026",
+    "id_str": "2110599085828825475",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@gcduncombe I LOVE this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110603815099543916",
+    "time": "Thu Oct 15 05:28:57 +0000 2026",
+    "created_at": "Thu Oct 15 05:28:57 +0000 2026",
+    "id_str": "2110603815099543916",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "❤️🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110607207419039813",
+    "time": "Thu Oct 15 05:42:26 +0000 2026",
+    "created_at": "Thu Oct 15 05:42:26 +0000 2026",
+    "id_str": "2110607207419039813",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Cool prompt 🖤",
+    "quoted_tweet": null,
+    "url": "https://x.com/HolgerRohde/status/2110610872179765678",
+    "time": "Thu Oct 15 05:56:59 +0000 2026",
+    "created_at": "Thu Oct 15 05:56:59 +0000 2026",
+    "id_str": "2110610872179765678",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@HolgerRohde Thanks! This is great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110611227357389274",
+    "time": "Thu Oct 15 05:58:24 +0000 2026",
+    "created_at": "Thu Oct 15 05:58:24 +0000 2026",
+    "id_str": "2110611227357389274",
+    "is_retweet": false
   }
 ]
