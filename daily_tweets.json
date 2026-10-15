@@ -547,5 +547,126 @@
     "created_at": "Wed Oct 14 23:20:57 +0000 2026",
     "id_str": "2110511205081079998",
     "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Big congratulations to the @zksync airbender team for this milestone.\n\nAt this point, I consider the battle for speed to be definitively won, and the top priority for zkEVMs should shift fully to security.\n\nTo me that means formally verifying\n\n(i) equivalence of the arithmetization to the ethereum spec\n(ii) a hard maximum bound on (prover cost) / (amount of gas in block)\n(iii) security of the proof system itself\n https://firefly.social/post/x/2110011544360607842",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2110576209658548683",
+    "time": "Thu Oct 15 03:39:15 +0000 2026",
+    "created_at": "Thu Oct 15 03:39:15 +0000 2026",
+    "id_str": "2110576209658548683",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "A 社的收入增速已经放缓\nAI 的债务开始出现一些裂隙\n\n原文转发下明浩的即刻：\nAnthropic昨晚开了闭门的投资者交流会\n会上核心的数字就是收入\n外媒有新闻说Q3是168亿\nQ2是110多亿，看起来季度增长还有50%左右……\n但如今市场的疯狂程度早就透支了所有的增长\n市场不满足于这样的增速……\n\n我们细算下：如果7月市场传闻650亿的ARR是真实的\n7月单月的收入就是54亿美金（650/12=54）\n那八月+九月的收入就是114亿\n考虑到口碑极好的opus5.5是9.22发的\n对九月收入影响只有一周\n我拍脑袋想\n八月应该是没怎么涨（可能还是单月54亿）\n九月60亿\n而如果按照60算\n九月的arr就来到了720\n虽然这个数字着实不小了\n但“增速”已经急剧放缓\n作为“全村人希望”般存在的anthropic收入已经放缓\n那……\n\n再加上昨晚CoreWeave的债出了状况\n这一晚……",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110600036476506158",
+    "time": "Thu Oct 15 05:13:56 +0000 2026",
+    "created_at": "Thu Oct 15 05:13:56 +0000 2026",
+    "id_str": "2110600036476506158",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "我们太熟悉自己的内心，容易低估别人的「丰富」。\n\n我们太在意自己的表现，容易高估别人的「关注」。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2110558461549592847",
+    "time": "Thu Oct 15 02:28:44 +0000 2026",
+    "created_at": "Thu Oct 15 02:28:44 +0000 2026",
+    "id_str": "2110558461549592847",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Anyone check in on @thsottiaux recently? Over 24 hours without posting is concerning. Hope he's okay",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2110580418898780462",
+    "time": "Thu Oct 15 03:55:59 +0000 2026",
+    "created_at": "Thu Oct 15 03:55:59 +0000 2026",
+    "id_str": "2110580418898780462",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo @thsottiaux @thsottiaux come back",
+    "quoted_tweet": null,
+    "url": "https://x.com/poteto/status/2110584758950588537",
+    "time": "Thu Oct 15 04:13:13 +0000 2026",
+    "created_at": "Thu Oct 15 04:13:13 +0000 2026",
+    "id_str": "2110584758950588537",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo Sometimes I do need to work",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110589470911418414",
+    "time": "Thu Oct 15 04:31:57 +0000 2026",
+    "created_at": "Thu Oct 15 04:31:57 +0000 2026",
+    "id_str": "2110589470911418414",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@poteto @theo I made it alive",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110591392691159317",
+    "time": "Thu Oct 15 04:39:35 +0000 2026",
+    "created_at": "Thu Oct 15 04:39:35 +0000 2026",
+    "id_str": "2110591392691159317",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux @poteto @theo can't tell if you're running or they're your army",
+    "quoted_tweet": null,
+    "url": "https://x.com/amorriscode/status/2110594315420631127",
+    "time": "Thu Oct 15 04:51:12 +0000 2026",
+    "created_at": "Thu Oct 15 04:51:12 +0000 2026",
+    "id_str": "2110594315420631127",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110595484180214059",
+    "time": "Thu Oct 15 04:55:51 +0000 2026",
+    "created_at": "Thu Oct 15 04:55:51 +0000 2026",
+    "id_str": "2110595484180214059",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Landing within the next 2 hours",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110595554036400151",
+    "time": "Thu Oct 15 04:56:07 +0000 2026",
+    "created_at": "Thu Oct 15 04:56:07 +0000 2026",
+    "id_str": "2110595554036400151",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@amorriscode @poteto @theo If you’re not a bit afraid of your army, it’s not a good army",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110595987542868381",
+    "time": "Thu Oct 15 04:57:51 +0000 2026",
+    "created_at": "Thu Oct 15 04:57:51 +0000 2026",
+    "id_str": "2110595987542868381",
+    "is_retweet": false
   }
 ]
