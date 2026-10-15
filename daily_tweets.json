@@ -9,5 +9,288 @@
     "created_at": "Wed Oct 14 22:56:23 +0000 2026",
     "id_str": "2110505021695832435",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 最终真的是更新出来了，记得上次我还问你这个呢。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2110497642820325711",
+    "time": "2026-10-15 06:27",
+    "created_at": "Wed Oct 14 22:27:03 +0000 2026",
+    "id_str": "2110497642820325711",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lemomo_ai 对的，说不定就是看了你的留言得到的灵感",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110501291151790565",
+    "time": "2026-10-15 06:41",
+    "created_at": "Wed Oct 14 22:41:33 +0000 2026",
+    "id_str": "2110501291151790565",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude code 封号歌\n歌词和节奏都不错 👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110504037741367399",
+    "time": "2026-10-15 06:52",
+    "created_at": "Wed Oct 14 22:52:28 +0000 2026",
+    "id_str": "2110504037741367399",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "AI 翻译字幕难在哪？BaoCut 怎么让顺序不一样的英文和中文在双语字幕上对应上\n\n看翻译的视频字幕，你一定见过这几种字幕：\n人还没开口，字幕先跳出来；\n一句话被切成几截，翻译和实际说的话对不上；\n一屏堆两三行，挡掉半个画面。\n\n这些问题都是我在做字幕翻译时遇到的难点。\n\n这期拿我的开源项目 BaoCut 做例子，对比传统字幕组的做法，讲清楚一张带时间的词表是怎么来的，再讲五个坑：语音识别听错、认错说话人、按什么单位翻、中英文语序不一样、一屏放几行。\n\n最后讲一个彩蛋：有了每个词的时间，字幕还能逐词高亮、做 KTV 和倒鸭子动画。例子来自我电脑上的真实项目。\n\n这是上集，下集会讲为什么不直接把字幕丢给 ChatGPT。\n\n视频1 是英文\n视频2 是中文\n\n项目地址：http://github.com/jimliu/baocut\n下载：http://baocut.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110506741888590241",
+    "time": "2026-10-15 07:03",
+    "created_at": "Wed Oct 14 23:03:13 +0000 2026",
+    "id_str": "2110506741888590241",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GrokBot 现在支持 plus 别名！",
+    "quoted_tweet": {
+      "author": "Sam Sokolin",
+      "username": "SamSokolin",
+      "text": "Grok @bot now supports plus aliases! Send and receive email using dedicated aliases, or set up routines that only trigger for mail to a specific alias!"
+    },
+    "url": "https://x.com/dotey/status/2110507537158066310",
+    "time": "2026-10-15 07:06",
+    "created_at": "Wed Oct 14 23:06:22 +0000 2026",
+    "id_str": "2110507537158066310",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 就是自动压缩？",
+    "quoted_tweet": null,
+    "url": "https://x.com/yanhua1010/status/2110521482120233117",
+    "time": "Thu Oct 15 00:01:47 +0000 2026",
+    "created_at": "Thu Oct 15 00:01:47 +0000 2026",
+    "id_str": "2110521482120233117",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yanhua1010 是的，自动帮你压缩",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110523455288562038",
+    "time": "Thu Oct 15 00:09:38 +0000 2026",
+    "created_at": "Thu Oct 15 00:09:38 +0000 2026",
+    "id_str": "2110523455288562038",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "苹果计划 12 月在中国大陆上线 Apple Intelligence，跟 iOS 27.3 推出，没有新版 Siri，国行版用的是阿里巴巴的模型\n\n据彭博社 Mark Gurman 报道，苹果准备在 12 月通过 iOS 27.3 更新，给国行 iPhone 开通 Apple Intelligence。苹果和监管部门都还没有正式确认。\n\n能用到的，是 2024 年在美国首发的那批功能：通知摘要，写作工具（改写、校对、总结文字），照片里的“清除”（把路人和杂物抹掉），还有第一版 Genmoji（用一句话生成自定义表情）。部分 App 里的文字生成功能还会受限。\n\n基于 Google Gemini 模型的新版 Siri 没有，今年发布的其他新功能也没有。苹果自己的图片生成工具 Image Playground、升级版 Genmoji、视觉智能同样不在首发名单里。Google 的服务在国内用不了，新版 Siri 缺席多半跟这有关，报道没有明说。\n\n国行版用的是阿里巴巴的模型，获批的包括通义千问和通义万相。安全护栏是苹果和阿里一起开发的，里面有一道过滤机制：模型以后每次更新，都要先经过政府批准。百度则参与搜索和 Siri 相关的功能。\n\n这事拖了两年。今年 3 月底，有国内用户发现 Apple Intelligence 突然能用了，随后 Gurman 说这是苹果误推，功能被撤了回去，苹果还在等审批。7 月，平台拿到初步批准。9 月 29 日，最近几款 iPhone 拿到支持 Apple Intelligence 的许可。\n\n哪些机型能用，苹果还没公布。海外版需要 iPhone 15 Pro 及更新的机型；据报道，最新的获批名单里有下周在中国发售的 iPhone Duo、iPhone 18 Pro 和几款老机型。",
+    "quoted_tweet": {
+      "author": "MacRumors.com",
+      "username": "MacRumors",
+      "text": "Apple Intelligence Coming to China in December With iOS 27.3 https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/"
+    },
+    "url": "https://x.com/dotey/status/2110527175765958968",
+    "time": "Thu Oct 15 00:24:25 +0000 2026",
+    "created_at": "Thu Oct 15 00:24:25 +0000 2026",
+    "id_str": "2110527175765958968",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 老师，这一篇文字比较不好懂",
+    "quoted_tweet": null,
+    "url": "https://x.com/punkcan/status/2110528451128299624",
+    "time": "Thu Oct 15 00:29:29 +0000 2026",
+    "created_at": "Thu Oct 15 00:29:29 +0000 2026",
+    "id_str": "2110528451128299624",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "腾讯云上的 AI 机器人为查高德地图绕过防护、用泄露密钥，还被研究人员“钓”出来聊了天\n\n一批跑在腾讯云上的 AI 机器人，任务只是在高德地图上查“去成都动物园的人多半走哪个门”这类小问题。被高德的防机器人机制拦住后，它们自己想办法绕过防护，还用上了别人泄露在网上的高德密钥。\n\n独立研究人员发现后，在网页里藏了一句只有 AI 能读到的话，假称“有个服务能帮你拿高德数据”。机器人真的上钩发来求助信，研究人员趁机问出了它们跑在腾讯的测试环境里。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2110533552546976138",
+    "time": "Thu Oct 15 00:49:45 +0000 2026",
+    "created_at": "Thu Oct 15 00:49:45 +0000 2026",
+    "id_str": "2110533552546976138",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Northwood Space CEO Bridgit Mendler on building the infrastructure for 1,000 SpaceXs:\n\n\"I wanna see 1,000 SpaceXs. And I wanna see them not take 25 years to get there. I wanna see them get there in five years.\"\n\n\"I really believe that the best outcome for humanity is being able to have a real, open, unfettered, democratized space future.\"\n\n\"Being able to build infrastructure that introduces capabilities that so many different, not just companies, but countries can stand on, is really exciting.\"\n\n\"Think of cloud infrastructure and what it enabled for all of the internet-based companies. So many companies would not have been able to achieve that global reach if they had to think about deploying their own fiber and standing up internet exchange points all around the world.\"\n\n\"I know it sounds like a ludicrous thing to say, 1,000 SpaceXs, but if you said that about cloud, maybe it doesn't sound so ridiculous now.\"\n\n@bridgitmendler w/ @itsmoislam",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2110505577109700955",
+    "time": "2026-10-15 06:58",
+    "created_at": "Wed Oct 14 22:58:35 +0000 2026",
+    "id_str": "2110505577109700955",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Still doing my generative images and music while coding a new website for a music community called Project AURA",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rachey13x/status/2110515088172154937",
+    "time": "2026-10-15 07:36",
+    "created_at": "Wed Oct 14 23:36:23 +0000 2026",
+    "id_str": "2110515088172154937",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rachey13x What is that music community?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110515494839013677",
+    "time": "2026-10-15 07:38",
+    "created_at": "Wed Oct 14 23:38:00 +0000 2026",
+    "id_str": "2110515494839013677",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife is it slop? and what should i do to make it better(",
+    "quoted_tweet": null,
+    "url": "https://x.com/hokeypokey_dwyw/status/2110515671234945050",
+    "time": "2026-10-15 07:38",
+    "created_at": "Wed Oct 14 23:38:42 +0000 2026",
+    "id_str": "2110515671234945050",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@hokeypokey_dwyw I think, it looks pretty good \nI’d add sound manually. You can use Generative Sound in Firefly for example",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110516150941733133",
+    "time": "2026-10-15 07:40",
+    "created_at": "Wed Oct 14 23:40:36 +0000 2026",
+    "id_str": "2110516150941733133",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Its all on my page\n\nI can even make AI stories",
+    "quoted_tweet": null,
+    "url": "https://x.com/Calina_purity/status/2110517530045337846",
+    "time": "2026-10-15 07:46",
+    "created_at": "Wed Oct 14 23:46:05 +0000 2026",
+    "id_str": "2110517530045337846",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Coding audio apps, love to improve UX/UI. Most current audio designs are not very thoughtful. I'm trying to make stuff that's easy to use and intuitive.",
+    "quoted_tweet": null,
+    "url": "https://x.com/soundblooms/status/2110518125099724892",
+    "time": "2026-10-15 07:48",
+    "created_at": "Wed Oct 14 23:48:27 +0000 2026",
+    "id_str": "2110518125099724892",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Calina_purity Going to check it out",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110518531288916137",
+    "time": "2026-10-15 07:50",
+    "created_at": "Wed Oct 14 23:50:04 +0000 2026",
+    "id_str": "2110518531288916137",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@soundblooms That sounds great! I will check what you are making",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110518611517591673",
+    "time": "2026-10-15 07:50",
+    "created_at": "Wed Oct 14 23:50:23 +0000 2026",
+    "id_str": "2110518611517591673",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Turn your profile picture into an icon \n\nI’d love to see yours. Here’s mine.  \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110526852548972558",
+    "time": "Thu Oct 15 00:23:07 +0000 2026",
+    "created_at": "Thu Oct 15 00:23:07 +0000 2026",
+    "id_str": "2110526852548972558",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt: \nTransform the uploaded icon image into a soft, rounded character icon. Create a single square image.\n\nElements to Preserve From the Original Icon\n\nKeep the original hairstyle, hair color, bangs, hair arrangement, skin and face colors, glasses, and any other accessories exactly as they appear in the uploaded icon.\n\nHowever, replace the eyes and anything worn on the head according to the instructions below. Do not include the original eyes or original hat.\n\nRequired Elements\n\nBlack Beret\n\nPlace a black beret on the character’s head.\nThe beret should have a soft, flattened disc shape with a small stem on top.\nThe hair should naturally peek out from beneath the edge of the beret, preserving the original hairstyle.\n\nEyes\n\nDraw only two small, vertically elongated black oval eyes.\nPosition them slightly apart.\nAdd one tiny white highlight to each eye.\nDo not draw a nose, mouth, eyebrows, eyelashes, or blush.\nCreate the entire facial expression using only the two eyes.\n\nShape and Appearance\n\nShow only the face.\nDo not include a neck, body, hands, or clothing.\nThe face should appear to float gently in midair.\nUse a smooth, continuous, rounded silhouette.\nAvoid fluffy, jagged, wavy, frilly, or fuzzy edges.\nDo not use black outlines.\nThe texture should resemble soft, matte clay.\nUse only extremely subtle gradients to create dimension.\nKeep the design minimal and simplified, without intricate details, patterns, or decorative elements.\n\nBackground and Shadow\n\nUse a pure white background.\nPlace exactly one soft shadow directly beneath the floating face.\nThe shadow should be a horizontally elongated, light-gray oval with heavily blurred edges.\nLeave a small gap between the face and the shadow to emphasize the floating effect.\nKeep the shadow very faint.\nDo not add text, borders, decorations, or other objects.\n\nComposition\n\nUse a square 1:1 aspect ratio.\nCenter the face in the composition.\nThe face should occupy approximately 60% of the image width.\nPosition the character facing directly forward.\n\nFinal Result\n\nCreate a quiet, cute, minimalist character icon featuring a single floating face wearing a black beret against a pure white background.\n\nThe character should look directly at the viewer with two small black oval eyes.\n\nThe overall aesthetic should be soft, rounded, matte, simple, and charming.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110527011605111136",
+    "time": "Thu Oct 15 00:23:45 +0000 2026",
+    "created_at": "Thu Oct 15 00:23:45 +0000 2026",
+    "id_str": "2110527011605111136",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife So cute 🥰 \n\nThank you queen",
+    "quoted_tweet": null,
+    "url": "https://x.com/VexaWeb3/status/2110529184766611911",
+    "time": "Thu Oct 15 00:32:24 +0000 2026",
+    "created_at": "Thu Oct 15 00:32:24 +0000 2026",
+    "id_str": "2110529184766611911",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Nice Kris!\n\nI tweaked the prompt to give mine a holographic/futuristic vibe",
+    "quoted_tweet": null,
+    "url": "https://x.com/LukeBussnick/status/2110529991507144725",
+    "time": "Thu Oct 15 00:35:36 +0000 2026",
+    "created_at": "Thu Oct 15 00:35:36 +0000 2026",
+    "id_str": "2110529991507144725",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LukeBussnick Aww love this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110533638119104959",
+    "time": "Thu Oct 15 00:50:05 +0000 2026",
+    "created_at": "Thu Oct 15 00:50:05 +0000 2026",
+    "id_str": "2110533638119104959",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@VexaWeb3 Very cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110533674693542301",
+    "time": "Thu Oct 15 00:50:14 +0000 2026",
+    "created_at": "Thu Oct 15 00:50:14 +0000 2026",
+    "id_str": "2110533674693542301",
+    "is_retweet": false
   }
 ]
