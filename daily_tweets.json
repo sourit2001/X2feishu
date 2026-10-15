@@ -1,1 +1,197 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "20 SIGNATURES. ONE PROOF.\nDaisugi v0.3 aggregates 20 transaction signatures using LeanSPHINCS and LeanVM.\n20 SPHINCS signatures are verified through a single aggregate proof.\nFor EL clients, verification requires the LeanVM verifier plus the LeanSPHINCS guest program.\nPost quantum signature aggregation is live on Daisugi. Kudos to @Nethermind @Gianluca_Felli",
+    "quoted_tweet": {
+      "author": "asanso",
+      "username": "asanso",
+      "text": "AND THEN THERE WERE FRAMES.\nDaisugi v0.2 now supports Frame Transactions.\nSPHINCS signed transactions can run as native frames, with per frame execution and verification, alongside the existing ERC 4337 flow.\nSame post quantum signatures. New transaction model.\nNext: signature aggregation via LeanSPHINCS.\nBelieve in somETHing. Link and credits ⬇️"
+    },
+    "url": "https://x.com/asanso/status/2110726152192983148",
+    "time": "Thu Oct 15 13:35:04 +0000 2026",
+    "created_at": "Thu Oct 15 13:35:04 +0000 2026",
+    "id_str": "2110726152192983148",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A big Google strength in AI has always been finding interesting uses for the models they have. They pioneered deep research, podcasting-from-information and all of NotebookLM etc.\n\nWith Gemini 4, haven’t seen any similar product innovation at launch, more following the trends.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110730356643287439",
+    "time": "Thu Oct 15 13:51:47 +0000 2026",
+    "created_at": "Thu Oct 15 13:51:47 +0000 2026",
+    "id_str": "2110730356643287439",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "What will they call the foundations for physics, economics, biology…?\n\n(Mostly joking, for now)",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "We want to support the mathematics community in turning progress in AI into deeper human understanding and new discoveries. To support that goal, we are contributing $5 million to a new Simons Foundation initiative to help mathematicians examine, understand, and build on results produced by AI, including the results we recently published.\n\nThe funding, managed and awarded by the @SimonsFdn will support workshops, conferences, and special programs. We will also provide access to our models and computing resources to Simons Foundation-supported researchers."
+    },
+    "url": "https://x.com/emollick/status/2110742724814983351",
+    "time": "Thu Oct 15 14:40:55 +0000 2026",
+    "created_at": "Thu Oct 15 14:40:55 +0000 2026",
+    "id_str": "2110742724814983351",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The sudden collapse of the value of CoT (even summarized CoT) in the agentic era changes working with AI.\n\nEffectively steering AIs and getting any sort of observability now requires you to ask for interim outputs & tests, and to use AI help to troubleshoot problems you find.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110751021454811549",
+    "time": "Thu Oct 15 15:13:54 +0000 2026",
+    "created_at": "Thu Oct 15 15:13:54 +0000 2026",
+    "id_str": "2110751021454811549",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It used to be that you could look at the CoT from a request and get a sense of where the model was going, but with tons of agents calling other agents, and CoTs that run to thousands of pages for even simple agentic tasks, that is no longer possible.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110752342907781539",
+    "time": "Thu Oct 15 15:19:09 +0000 2026",
+    "created_at": "Thu Oct 15 15:19:09 +0000 2026",
+    "id_str": "2110752342907781539",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It also requires you to trust the orchestrator model more than ever, since it is the only thing that can track all of the tasks. Which means you need to use AI to both find problems with AI and to troubleshoot problems you find.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110752819363909822",
+    "time": "Thu Oct 15 15:21:02 +0000 2026",
+    "created_at": "Thu Oct 15 15:21:02 +0000 2026",
+    "id_str": "2110752819363909822",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "自娱自乐，自我感觉良好\n发布出去，一份也卖不掉\n\n- Vibe Coding 的日常",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110716791072985265",
+    "time": "Thu Oct 15 12:57:52 +0000 2026",
+    "created_at": "Thu Oct 15 12:57:52 +0000 2026",
+    "id_str": "2110716791072985265",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这就是传说中的 GEO？\n被太多起号的人推荐了…\nChatGPT 都内置了…",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110718101763547512",
+    "time": "Thu Oct 15 13:03:05 +0000 2026",
+    "created_at": "Thu Oct 15 13:03:05 +0000 2026",
+    "id_str": "2110718101763547512",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "炸裂了\n我宣布\nOpus 5.5现在是我的神...\n我这套技能完全直接可以起号...\n\n这个视频做出来的时候我直接热血沸腾了...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2110729141289107485",
+    "time": "Thu Oct 15 13:46:57 +0000 2026",
+    "created_at": "Thu Oct 15 13:46:57 +0000 2026",
+    "id_str": "2110729141289107485",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "看了一会儿孙哥的孙学、薄肌、黄毛理论的那期视频\n感觉孙哥已经在 AI Slop Native 里陷得太深了\nAI 叠加孙学，就是一切都用 AI，这就是认知升级\nAI 叠加黄毛，就是一切相信 AI，不要听别人的\nAI 叠加薄肌，就是把每天的一切段落和吃饭拍给 AI，让它当教练\n...\n有一说一，薄肌也确实挑不出毛病",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110739088420806737",
+    "time": "Thu Oct 15 14:26:28 +0000 2026",
+    "created_at": "Thu Oct 15 14:26:28 +0000 2026",
+    "id_str": "2110739088420806737",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@pingchn 优雅",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110739123107659983",
+    "time": "Thu Oct 15 14:26:37 +0000 2026",
+    "created_at": "Thu Oct 15 14:26:37 +0000 2026",
+    "id_str": "2110739123107659983",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 打脸了",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2110741400539341144",
+    "time": "Thu Oct 15 14:35:40 +0000 2026",
+    "created_at": "Thu Oct 15 14:35:40 +0000 2026",
+    "id_str": "2110741400539341144",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@xiaohu 快把skill交出来",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110741734535860498",
+    "time": "Thu Oct 15 14:36:59 +0000 2026",
+    "created_at": "Thu Oct 15 14:36:59 +0000 2026",
+    "id_str": "2110741734535860498",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "主持人：AI 有哪些商业机会\n孙哥：AI 的商业机会那太多了，太多了\n然后讲了10分钟的中转站生意😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110741890303934935",
+    "time": "Thu Oct 15 14:37:36 +0000 2026",
+    "created_at": "Thu Oct 15 14:37:36 +0000 2026",
+    "id_str": "2110741890303934935",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 你咋也看上这个了哈哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/maxjjiang/status/2110744056116769057",
+    "time": "Thu Oct 15 14:46:13 +0000 2026",
+    "created_at": "Thu Oct 15 14:46:13 +0000 2026",
+    "id_str": "2110744056116769057",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@maxjjiang 学习一下年轻人的文化hhh",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110745746387693680",
+    "time": "Thu Oct 15 14:52:56 +0000 2026",
+    "created_at": "Thu Oct 15 14:52:56 +0000 2026",
+    "id_str": "2110745746387693680",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 11/\n\nWe've landed a series of changes and more compute to very significantly decrease the occurrence of the disruptive \"Selected model is at capacity. Please try a different model\". When it does happen, it should also eventually just continue by itself and not just block on it.\n\nLet us know if you still see it out there in the wild and we'll take a look.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110750421367287996",
+    "time": "Thu Oct 15 15:11:30 +0000 2026",
+    "created_at": "Thu Oct 15 15:11:30 +0000 2026",
+    "id_str": "2110750421367287996",
+    "is_retweet": false
+  }
+]
