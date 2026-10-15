@@ -292,5 +292,260 @@
     "created_at": "Thu Oct 15 00:50:14 +0000 2026",
     "id_str": "2110533674693542301",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "1/ I've spent weeks building my own model of what SpaceX is worth, and my honest summary is huge risk with huge reward. Elon has pulled off the impossible before, but orbital data centers are a whole new level of endeavor. I’ve bet on him before (more than a few times, and he hasn’t failed yet.) Here's what I found. (My estimates, not advice.)",
+    "quoted_tweet": null,
+    "url": "https://x.com/TeslaLarry/status/2110439250869067943",
+    "time": "2026-10-15 02:35",
+    "created_at": "Wed Oct 14 18:35:02 +0000 2026",
+    "id_str": "2110439250869067943",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I have to admit, watched this a few times, especially to the end:) the creativity in the prompting and the model is awesome to see",
+    "quoted_tweet": {
+      "author": "fofr",
+      "username": "fofrAI",
+      "text": "Argon has this amazing natural understanding of the world. It can do so many things from first principles.\n\nHere's a pelican riding a bike, using fourier epicycles. \n\nVideo made by Argon.\nTime-synced Lyria 3.5 music prompted by Argon."
+    },
+    "url": "https://x.com/sundarpichai/status/2110443819477156150",
+    "time": "2026-10-15 02:53",
+    "created_at": "Wed Oct 14 18:53:11 +0000 2026",
+    "id_str": "2110443819477156150",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The California state government has released a \"Made in California\" website that allows you to select products by every identity group except for one: white men.",
+    "quoted_tweet": null,
+    "url": "https://x.com/christopherrufo/status/2110452989689581893",
+    "time": "2026-10-15 03:29",
+    "created_at": "Wed Oct 14 19:29:37 +0000 2026",
+    "id_str": "2110452989689581893",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok Voice 3.0 in Grok Bot is 🔥\n\nSpaceXSI just launched Grok Voice 3.0, its new speech-to-speech model, which is currently beating GPT Live 1 and Gemini 3.8 Flash Live on all major benchmarks.\n\nI tried it in Grok Bot, and the experience is great. It’s fast, responsive, and makes voice interactions feel much better.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ai_for_success/status/2110457504182509911",
+    "time": "2026-10-15 03:47",
+    "created_at": "Wed Oct 14 19:47:34 +0000 2026",
+    "id_str": "2110457504182509911",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Connect your ChatGPT and Claude subscriptions to Grok @bot with the prompt below (@elonmusk approved):\n\nConnect my Claude and ChatGPT subscriptions so all of my bots can use them.\n\n1. On your computer, install the Claude Code CLI and the OpenAI Codex CLI (upgrade Node if needed). Start each subscription login (Claude: `claude setup-token`; Codex: `codex login --device-auth`) and send me the sign-in links and codes. I'll sign in and paste back anything you need. Store the Claude token privately and load it automatically.\n\n2. Set the defaults to these models: Claude Opus 5.5 for Claude Code and 6.1 Sol for Codex. Test each one with a quick prompt and tell me which models answered.\n\n3. Add these MODEL ROUTING RULES to every one of my bots' system prompts, including yours. Keep everything else in each prompt exactly as it is:\n   - Writing (drafts, emails, posts, replies, copy, briefs): write the final text with Claude through the CLI, then review it against the bot's voice rules.\n   - Coding, scripts, data processing, and terminal work: use Codex.\n   - Browser and desktop tasks: keep using your normal computer tools.\n   - If either CLI fails, do the task yourself and say so.\n\n4. Save the same rule to my shared memory so any bot I create later follows it too.\n\n5. When you're done, tell me which bots you updated and confirm both tests passed.",
+    "quoted_tweet": {
+      "author": "Corey Ganim",
+      "username": "coreyganim",
+      "text": "Can confirm this works extremely well.\n\nAll I did was send a link to Andrew's tweet below to my Chief of Staff bot, it installed ChatGPT and Claude via the terminal.\n\nI logged into each, now it has access to all OpenAI and Claude models.\n\nWe then updated the system prompt for each of our bots (as well as Grok Bot shared memory) to default to Opus 5.5 for any writing tasks and 6.1 Sol for any coding or computer use tasks."
+    },
+    "url": "https://x.com/coreyganim/status/2110467523418194103",
+    "time": "2026-10-15 04:27",
+    "created_at": "Wed Oct 14 20:27:22 +0000 2026",
+    "id_str": "2110467523418194103",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Per tutto il giorno ho ricevuto insulti e minacce perché Elon Musk avrebbe limitato Starlink in Ucraina. Numerosi ucraini che usano Starlink hanno segnalato che i loro terminali non hanno avuto problemi. Ed è così. Le uniche limitazioni hanno riguardato Starshield, non Starlink, e Starshield è controllato dal governo statunitense. I sostenitori della guerra a oltranza, dopo la pagliacciata dei bot russi dei giorni scorsi, oggi hanno scatenato quest'altro attacco violento contro Musk, l'unico imprenditore occidentale ad aver messo in gioco il proprio business pur di proteggere un Paese aggredito. In oltre quattro anni, Starlink ha funzionato il 99,98% del tempo. Siete dei miserabili",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Starshield systems are owned and controlled by the US government. Any limits on speed or usage are decided by the US military and ultimately POTUS.\n\nStarlink is a commercial service owned and controlled by SpaceX. Usage of Starlink is limited to civilian or defensive activities and cannot be used for offensive military action, as doing so would be inappropriate for a commercial company."
+    },
+    "url": "https://x.com/andst7/status/2110476871670329360",
+    "time": "2026-10-15 05:04",
+    "created_at": "Wed Oct 14 21:04:31 +0000 2026",
+    "id_str": "2110476871670329360",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "My Grok @bot bots have their own email inbox now. Getting one is easy. Just ask your chief of staff: \"Claim an email inbox for me.\" You get one @mail.grokbot.com address per account and all your bots share it, so pick the name carefully. It's permanent.",
+    "quoted_tweet": null,
+    "url": "https://x.com/debs_obrien/status/2110477175069798427",
+    "time": "2026-10-15 05:05",
+    "created_at": "Wed Oct 14 21:05:43 +0000 2026",
+    "id_str": "2110477175069798427",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok @bot now supports plus aliases! Send and receive email using dedicated aliases, or set up routines that only trigger for mail to a specific alias!",
+    "quoted_tweet": null,
+    "url": "https://x.com/SamSokolin/status/2110496237241667621",
+    "time": "2026-10-15 06:21",
+    "created_at": "Wed Oct 14 22:21:28 +0000 2026",
+    "id_str": "2110496237241667621",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@christopherrufo Wow",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2110516939873517989",
+    "time": "2026-10-15 07:43",
+    "created_at": "Wed Oct 14 23:43:44 +0000 2026",
+    "id_str": "2110516939873517989",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok is the best conversational voice model in the world",
+    "quoted_tweet": {
+      "author": "SpaceX Super Intelligence",
+      "username": "SpaceXSI",
+      "text": "Introducing Grok Voice 3.0, the world’s most intelligent speech-to-speech model.\n\nIt excels at resolving customer calls, responds in under a second, and costs less than other frontier models."
+    },
+    "url": "https://x.com/elonmusk/status/2110520607276499109",
+    "time": "2026-10-15 07:58",
+    "created_at": "Wed Oct 14 23:58:19 +0000 2026",
+    "id_str": "2110520607276499109",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Taxpayers gave over $250,000,000,000 to Zelenky. We  all see the supercars on YouTube with Ukraine flags. The houses being bought in Miami and Monaco. All Trump wanted was for diesel prices to go down a dollar or two before the midterms, and he got shanked. Ingrates.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Cernovich/status/2110520640952234201",
+    "time": "2026-10-15 07:58",
+    "created_at": "Wed Oct 14 23:58:27 +0000 2026",
+    "id_str": "2110520640952234201",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@KyleReidhead Interesting",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2110522236125987315",
+    "time": "Thu Oct 15 00:04:47 +0000 2026",
+    "created_at": "Thu Oct 15 00:04:47 +0000 2026",
+    "id_str": "2110522236125987315",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@sundarpichai Impressive",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2110523661606383648",
+    "time": "Thu Oct 15 00:10:27 +0000 2026",
+    "created_at": "Thu Oct 15 00:10:27 +0000 2026",
+    "id_str": "2110523661606383648",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@farzyness @amazon Just ask Grok Bot to find the best deal on the Internet for what you want. Doesn’t need to come from Amazon. \n\nMy Bot bought LEGO directly from the LEGO website no problem.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2110541862389911574",
+    "time": "Thu Oct 15 01:22:46 +0000 2026",
+    "created_at": "Thu Oct 15 01:22:46 +0000 2026",
+    "id_str": "2110541862389911574",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@farzyness @amazon Just ask Grok Bot to find the best deal on the Internet for what you want. Doesn’t need to come from Amazon. \n\nMy Bot bought LEGO directly from the LEGO website no problem.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2110541862389911574",
+    "time": "Thu Oct 15 01:22:46 +0000 2026",
+    "created_at": "Thu Oct 15 01:22:46 +0000 2026",
+    "id_str": "2110541862389911574",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Imagine",
+    "quoted_tweet": {
+      "author": "Déborah",
+      "username": "dvorahfr",
+      "text": "Video created from a single image I generated using Grok Imagine's text-to-image tool.\nAll other shots are derived from that base image, animated by Grok Imagine."
+    },
+    "url": "https://x.com/elonmusk/status/2110543151349870751",
+    "time": "Thu Oct 15 01:27:53 +0000 2026",
+    "created_at": "Thu Oct 15 01:27:53 +0000 2026",
+    "id_str": "2110543151349870751",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Yes",
+    "quoted_tweet": {
+      "author": "Seth Dillon",
+      "username": "SethDillon",
+      "text": "And this is why they must lose."
+    },
+    "url": "https://x.com/elonmusk/status/2110543220996260142",
+    "time": "Thu Oct 15 01:28:10 +0000 2026",
+    "created_at": "Thu Oct 15 01:28:10 +0000 2026",
+    "id_str": "2110543220996260142",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@Cernovich Troubling",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2110544339701039179",
+    "time": "Thu Oct 15 01:32:37 +0000 2026",
+    "created_at": "Thu Oct 15 01:32:37 +0000 2026",
+    "id_str": "2110544339701039179",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "is anyone going to this? i’m out of town but so curious lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/jameygannon/status/2110485593842958416",
+    "time": "2026-10-15 05:39",
+    "created_at": "Wed Oct 14 21:39:11 +0000 2026",
+    "id_str": "2110485593842958416",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@seokwoochung agreed. not better at opus 5.5 at a single thing",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2110502902884380902",
+    "time": "2026-10-15 06:47",
+    "created_at": "Wed Oct 14 22:47:57 +0000 2026",
+    "id_str": "2110502902884380902",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@jameygannon ✅",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2110511205081079998",
+    "time": "2026-10-15 07:20",
+    "created_at": "Wed Oct 14 23:20:57 +0000 2026",
+    "id_str": "2110511205081079998",
+    "is_retweet": false
   }
 ]
