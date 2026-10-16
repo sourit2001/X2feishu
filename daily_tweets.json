@@ -259,5 +259,134 @@
     "created_at": "Fri Oct 16 19:57:56 +0000 2026",
     "id_str": "2111184892016935381",
     "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I'm becoming more convinced the metaverse is going to be invented on accident by a YouTuber. ",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111193116329861535",
+    "time": "2026-10-17 04:30",
+    "created_at": "Fri Oct 16 20:30:37 +0000 2026",
+    "id_str": "2111193116329861535",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Okay the limitation on my ai editing workflow is rendering. This is using blender. How can i speed this up? What are my options? Can render it in the cloud using like a mac cluster... idk what to do. Would pay thousands / month to speed this up.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111194687495090508",
+    "time": "2026-10-17 04:36",
+    "created_at": "Fri Oct 16 20:36:52 +0000 2026",
+    "id_str": "2111194687495090508",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@PJaccetturo @pippitofficial Background Audio needs to be reduced by 85%",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111195034196521340",
+    "time": "2026-10-17 04:38",
+    "created_at": "Fri Oct 16 20:38:14 +0000 2026",
+    "id_str": "2111195034196521340",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown You could tell your agent to deploy a headless blender on Runpod or equivalent and offload to that.",
+    "quoted_tweet": null,
+    "url": "https://x.com/blizaine/status/2111195148231250398",
+    "time": "2026-10-17 04:38",
+    "created_at": "Fri Oct 16 20:38:42 +0000 2026",
+    "id_str": "2111195148231250398",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown I would offload the job to runpod",
+    "quoted_tweet": null,
+    "url": "https://x.com/alexmichaelio/status/2111195659940303291",
+    "time": "2026-10-17 04:40",
+    "created_at": "Fri Oct 16 20:40:44 +0000 2026",
+    "id_str": "2111195659940303291",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown There are services out there made specifically for this.  Could use a runpod to possibly get it faster/cheaper. Have your bots compare.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cfryant/status/2111196029857026076",
+    "time": "2026-10-17 04:42",
+    "created_at": "Fri Oct 16 20:42:12 +0000 2026",
+    "id_str": "2111196029857026076",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Whoever turns cloud rendering into the easiest-to-use plugin ever created will make 10s of millions of dollars.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Okay the limitation on my ai editing workflow is rendering. This is using blender. How can i speed this up? What are my options? Can render it in the cloud using like a mac cluster... idk what to do. Would pay thousands / month to speed this up."
+    },
+    "url": "https://x.com/rileybrown/status/2111196110869979152",
+    "time": "2026-10-17 04:42",
+    "created_at": "Fri Oct 16 20:42:31 +0000 2026",
+    "id_str": "2111196110869979152",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@cfryant thank you thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111196183347474735",
+    "time": "2026-10-17 04:42",
+    "created_at": "Fri Oct 16 20:42:48 +0000 2026",
+    "id_str": "2111196183347474735",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "testing @runpod",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Okay the limitation on my ai editing workflow is rendering. This is using blender. How can i speed this up? What are my options? Can render it in the cloud using like a mac cluster... idk what to do. Would pay thousands / month to speed this up."
+    },
+    "url": "https://x.com/rileybrown/status/2111200375726657677",
+    "time": "2026-10-17 04:59",
+    "created_at": "Fri Oct 16 20:59:28 +0000 2026",
+    "id_str": "2111200375726657677",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@alexmichaelio testing.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111200418197913617",
+    "time": "2026-10-17 04:59",
+    "created_at": "Fri Oct 16 20:59:38 +0000 2026",
+    "id_str": "2111200418197913617",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@blizaine testing runpod",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111200441925042400",
+    "time": "2026-10-17 04:59",
+    "created_at": "Fri Oct 16 20:59:44 +0000 2026",
+    "id_str": "2111200441925042400",
+    "is_retweet": false
   }
 ]
