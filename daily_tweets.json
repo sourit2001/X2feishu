@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Wrapped zkAPI + Tor + extra cover traffic + local LLM prompt rewriting in an open-AI compatible daemon, and made a \"paranoid mode\" wrapper for my agent harness (pi):\n\nEach conversation gets assigned a separate Tor circuit, your requests are masked with random cover traffic, zkAPI ensures you don't leak your identity through payments, and all prompts are locally rewritten (bring-your-own-local-model; I'm using qwen3.8-flash-next)\n\nhttps://github.com/vbuterin/zkapi/tree/feat/client-concession-local\n\nMy agent harness is wrapped with a bwrap sandbox (also experimenting with MicroVM) and wrapped again with torsocks, so everything it does goes through Tor.\n\nHere's what me asking it to do a simple research task looks like.\n\nIt's getting quite usable! Though you definitely still pay quite a bit in increased latency, especially when starting a new conversation.\n\nAlso, Tor is far from optimal here for privacy; the cover traffic mechanism is okay against passive adversaries but much weaker if the LLM provider is colluding with the guard and actively manipulating timing. This kind of task really requires a more specialized mixnet, probably take the tradeoff of a higher bandwidth multiplier and built-in constant cover traffic.\n\nAlso also, much cheaper zkAPI deposit and withdraw gas costs are coming to mainnet soon.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2111046730959433793",
+    "time": "2026-10-16 18:48",
+    "created_at": "Fri Oct 16 10:48:56 +0000 2026",
+    "id_str": "2111046730959433793",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "local prompt rewriting is doing the heavy lifting here. a coding agent resends the same file paths and repo context every call, so sessions stay linkable on content even with separate circuits\n\ncurious if it scrubs tool outputs too or just user turns",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Wrapped zkAPI + Tor + extra cover traffic + local LLM prompt rewriting in an open-AI compatible daemon, and made a \"paranoid mode\" wrapper for my agent harness (pi):\n\nEach conversation gets assigned a separate Tor circuit, your requests are masked with random cover traffic, zkAPI ensures you don't leak your identity through payments, and all prompts are locally rewritten (bring-your-own-local-model; I'm using qwen3.8-flash-next)\n\nhttps://github.com/vbuterin/zkapi/tree/feat/client-concession-local\n\nMy agent harness is wrapped with a bwrap sandbox (also experimenting with MicroVM) and wrapped again with torsocks, so everything it does goes through Tor.\n\nHere's what me asking it to do a simple research task looks like.\n\nIt's getting quite usable! Though you definitely still pay quite a bit in increased latency, especially when starting a new conversation.\n\nAlso, Tor is far from optimal here for privacy; the cover traffic mechanism is okay against passive adversaries but much weaker if the LLM provider is colluding with the guard and actively manipulating timing. This kind of task really requires a more specialized mixnet, probably take the tradeoff of a higher bandwidth multiplier and built-in constant cover traffic.\n\nAlso also, much cheaper zkAPI deposit and withdraw gas costs are coming to mainnet soon."
+    },
+    "url": "https://x.com/sakshjn/status/2111052014818058627",
+    "time": "2026-10-16 19:09",
+    "created_at": "Fri Oct 16 11:09:56 +0000 2026",
+    "id_str": "2111052014818058627",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@sakshjn definitely no point trying to de-link within a session - this daemon treats a session as a unit, and gains efficiency from *not* refreshing the Tor circuit or doing a zkAPI payment for each message within a session\n\neach new session gets its own Tor circuit + zkAPI payment though",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2111089521034944619",
+    "time": "2026-10-16 21:38",
+    "created_at": "Fri Oct 16 13:38:58 +0000 2026",
+    "id_str": "2111089521034944619",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I should also point out that almost all benchmarks are of  single-answer short-horizon tasks, but a large amount of economically valuable work is complex long-horizon tasks. Again, there is room for both, but I think we will find \"good enough\" intelligence may not always be.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2111048324291899785",
+    "time": "2026-10-16 18:55",
+    "created_at": "Fri Oct 16 10:55:16 +0000 2026",
+    "id_str": "2111048324291899785",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "SpaceXAI engineer just released REA (Reverse Engineer Anything) setup for GrokBot agent teams\n\nsend the pdf to your GrokBot agent team to reverse-engineer any software from scratch.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2111034704086646920",
+    "time": "2026-10-16 18:01",
+    "created_at": "Fri Oct 16 10:01:09 +0000 2026",
+    "id_str": "2111034704086646920",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the full prompt engineering guide is free → https://godofprompt.ai/guides/prompt-engineering-guide",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2111034727620886580",
+    "time": "2026-10-16 18:01",
+    "created_at": "Fri Oct 16 10:01:14 +0000 2026",
+    "id_str": "2111034727620886580",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "you can access 30,000+ AI prompts and guides at https://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2111034739218169915",
+    "time": "2026-10-16 18:01",
+    "created_at": "Fri Oct 16 10:01:17 +0000 2026",
+    "id_str": "2111034739218169915",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "上次抢 iPhone 这么火爆还是十年前吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2111073333395812553",
+    "time": "2026-10-16 20:34",
+    "created_at": "Fri Oct 16 12:34:39 +0000 2026",
+    "id_str": "2111073333395812553",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 为啥我没有感觉……我还是喜欢直板手机",
+    "quoted_tweet": null,
+    "url": "https://x.com/XCaptaincc/status/2111083410940961239",
+    "time": "2026-10-16 21:14",
+    "created_at": "Fri Oct 16 13:14:41 +0000 2026",
+    "id_str": "2111083410940961239",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@XCaptaincc 因为你不想赚黄牛的钱",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2111099682667811204",
+    "time": "2026-10-16 22:19",
+    "created_at": "Fri Oct 16 14:19:21 +0000 2026",
+    "id_str": "2111099682667811204",
+    "is_retweet": false
+  }
+]
