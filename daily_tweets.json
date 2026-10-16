@@ -659,5 +659,234 @@
     "created_at": "Fri Oct 16 00:12:47 +0000 2026",
     "id_str": "2110886637769224470",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "😓 美国人去中国出差用 Claude 也是会被封的",
+    "quoted_tweet": {
+      "author": "AlexZ 🦀",
+      "username": "blackanger",
+      "text": "我一个香港的朋友，美国人，昨天跑来深圳参加 Rust 大会，睡了一觉起来，发现 Claude 账号被封了 😆😂"
+    },
+    "url": "https://x.com/dotey/status/2110875762261996016",
+    "time": "Thu Oct 15 23:29:34 +0000 2026",
+    "created_at": "Thu Oct 15 23:29:34 +0000 2026",
+    "id_str": "2110875762261996016",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Antigravity 向付费 Google AI Pro 用户开放 Gemini 4 Argon，Argon 有单独的每周额度，不占 3.8 Flash 额度\n\nGoogle 的 AI 编程工具 Antigravity 今天开始向付费的 Google AI Pro 订阅用户推出 Gemini 4 Argon。官方模型页写明只限正式付费的 Pro，试用期的 Pro 用不了，免费用户和 Google AI Plus 用户也不在范围内。能用的地方是 Antigravity 桌面 App、命令行工具 CLI 和 IDE 扩展（装在 VS Code、JetBrains 等编辑器里的插件），Antigravity IDE 里暂时选不到。目前在逐步推送，官方建议先更新到最新版。\n\nPro 用户用 Argon 有一份单独的额度，只按周计算，不像原有额度那样每 5 小时刷新一次；它和原来给 Gemini 3.8 Flash 用的额度分开，用 Argon 不会吃掉 3.8 Flash 的额度。每周到底给多少、哪天重置，推文和官方文档都没写。文档对所有额度的说明是，消耗多少取决于智能体实际干了多少活，任务越复杂用得越快。\n\n官方模型说明：https://antigravity.google/docs/models",
+    "quoted_tweet": {
+      "author": "Google Antigravity",
+      "username": "antigravity",
+      "text": "We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash so you have the best of Gemini for all your tasks."
+    },
+    "url": "https://x.com/dotey/status/2110877554945175677",
+    "time": "Thu Oct 15 23:36:41 +0000 2026",
+    "created_at": "Thu Oct 15 23:36:41 +0000 2026",
+    "id_str": "2110877554945175677",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jhcao23 FYI\nhttps://x.com/Jason_Young1231/status/2110893780274737563?s=20",
+    "quoted_tweet": {
+      "author": "Jason Young",
+      "username": "Jason_Young1231",
+      "text": "其实 CC Switch 的这个打开终端功能是自带环境隔离的，可以在不同的终端窗口里面使用不同的 Claude Code 供应商。现在已经找到安全切换 Claude 官方订阅的办法了（就是评论里提到的指定配置地址），正在施工中！"
+    },
+    "url": "https://x.com/dotey/status/2110896238841471078",
+    "time": "2026-10-16 08:50",
+    "created_at": "Fri Oct 16 00:50:56 +0000 2026",
+    "id_str": "2110896238841471078",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife My 2nd one👇🏼The first just was too much face not enough haze. Cool prompt!",
+    "quoted_tweet": null,
+    "url": "https://x.com/stefsdeckparty/status/2110885387795357822",
+    "time": "2026-10-16 08:07",
+    "created_at": "Fri Oct 16 00:07:49 +0000 2026",
+    "id_str": "2110885387795357822",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Looks like a cookie. Wonder if he's just as sweet?!",
+    "quoted_tweet": null,
+    "url": "https://x.com/rayhonestfake/status/2110885778503213082",
+    "time": "2026-10-16 08:09",
+    "created_at": "Fri Oct 16 00:09:22 +0000 2026",
+    "id_str": "2110885778503213082",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rayhonestfake Cute cookie 🍪",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110886786268311633",
+    "time": "2026-10-16 08:13",
+    "created_at": "Fri Oct 16 00:13:22 +0000 2026",
+    "id_str": "2110886786268311633",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@stefsdeckparty Love this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110886831000821907",
+    "time": "2026-10-16 08:13",
+    "created_at": "Fri Oct 16 00:13:33 +0000 2026",
+    "id_str": "2110886831000821907",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love your experiments with this prompt",
+    "quoted_tweet": {
+      "author": "Sunny Day",
+      "username": "stefsdeckparty",
+      "text": "@icreatelife My 2nd one👇🏼The first just was too much face not enough haze. Cool prompt!"
+    },
+    "url": "https://x.com/icreatelife/status/2110886897874833915",
+    "time": "2026-10-16 08:13",
+    "created_at": "Fri Oct 16 00:13:49 +0000 2026",
+    "id_str": "2110886897874833915",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/DallasInk42/status/2110894364713259030",
+    "time": "2026-10-16 08:43",
+    "created_at": "Fri Oct 16 00:43:29 +0000 2026",
+    "id_str": "2110894364713259030",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DallasInk42 Hahaha this is great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110894675179823474",
+    "time": "2026-10-16 08:44",
+    "created_at": "Fri Oct 16 00:44:43 +0000 2026",
+    "id_str": "2110894675179823474",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So beautiful",
+    "quoted_tweet": {
+      "author": "DrSadek",
+      "username": "DrSadek_",
+      "text": "Good night to those who create 🌃"
+    },
+    "url": "https://x.com/icreatelife/status/2110900552372478161",
+    "time": "2026-10-16 09:08",
+    "created_at": "Fri Oct 16 01:08:04 +0000 2026",
+    "id_str": "2110900552372478161",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Just updated my X subscription to the new unified ultimate AI subscription \n\nWhat about you?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110902993730331015",
+    "time": "2026-10-16 09:17",
+    "created_at": "Fri Oct 16 01:17:47 +0000 2026",
+    "id_str": "2110902993730331015",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife What does that mean?",
+    "quoted_tweet": null,
+    "url": "https://x.com/ZiQuel01/status/2110903192271667465",
+    "time": "2026-10-16 09:18",
+    "created_at": "Fri Oct 16 01:18:34 +0000 2026",
+    "id_str": "2110903192271667465",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I'll be recommending more people to Firefly Ambassador program. If you make creative content, comment below, I'll look at your profile and reach out with more information if your content qualifies. There's no limit on how many followers you need to have for this opportunity.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110903616450248898",
+    "time": "2026-10-16 09:20",
+    "created_at": "Fri Oct 16 01:20:15 +0000 2026",
+    "id_str": "2110903616450248898",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ZiQuel01 @grok",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110903690496225391",
+    "time": "2026-10-16 09:20",
+    "created_at": "Fri Oct 16 01:20:33 +0000 2026",
+    "id_str": "2110903690496225391",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Will be a dream for me Kris.",
+    "quoted_tweet": null,
+    "url": "https://x.com/AiVickai/status/2110904246644466103",
+    "time": "2026-10-16 09:22",
+    "created_at": "Fri Oct 16 01:22:45 +0000 2026",
+    "id_str": "2110904246644466103",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AiVickai I DM-ed you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110904992618221707",
+    "time": "2026-10-16 09:25",
+    "created_at": "Fri Oct 16 01:25:43 +0000 2026",
+    "id_str": "2110904992618221707",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hi Kris I would love to join. I dont have many followers but I have a lot of experience with the Adobe Creative Suite ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/LauraPlotBot/status/2110905316288147528",
+    "time": "2026-10-16 09:27",
+    "created_at": "Fri Oct 16 01:27:00 +0000 2026",
+    "id_str": "2110905316288147528",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LauraPlotBot I just sent you a DM. Number of followers doesn't matter for this opportunity. Great that you have a lot of experience with our tools.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2110905933085696281",
+    "time": "2026-10-16 09:29",
+    "created_at": "Fri Oct 16 01:29:27 +0000 2026",
+    "id_str": "2110905933085696281",
+    "is_retweet": false
   }
 ]
