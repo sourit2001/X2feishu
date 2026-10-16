@@ -1,1 +1,241 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "好吧，这视频也太酷了吧... \n\n$TSLA 现在居然都有飞行汽车了，感觉我们真的活在未来了",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2110934540252512696",
+    "time": "2026-10-16 11:23",
+    "created_at": "Fri Oct 16 03:23:08 +0000 2026",
+    "id_str": "2110934540252512696",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick ??? it’s not a real product. And everyone that watched has seen better stage shows.",
+    "quoted_tweet": null,
+    "url": "https://x.com/RDMellish/status/2110913408224870644",
+    "time": "2026-10-16 09:59",
+    "created_at": "Fri Oct 16 01:59:10 +0000 2026",
+    "id_str": "2110913408224870644",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This paper shows why I am skeptical of the idea that frontier models can be easily replaced by cheaper ones (and why you should use the best models as orchestrators): Small improvements in accuracy & judgement compound over long-horizon tasks, creating huge gains in outcomes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110918113550307778",
+    "time": "2026-10-16 10:17",
+    "created_at": "Fri Oct 16 02:17:51 +0000 2026",
+    "id_str": "2110918113550307778",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "You may save money in the short term, at the expense of worse work at the end. That doesn't mean small models can't do tons of valuable work, but you want to make sure they are orchestrated and error-checked by larger ones for many kinds of tasks.\n\nPaper: https://arxiv.org/pdf/2509.09677",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110919225459998776",
+    "time": "2026-10-16 10:22",
+    "created_at": "Fri Oct 16 02:22:16 +0000 2026",
+    "id_str": "2110919225459998776",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick but some tasks aren't long horizon",
+    "quoted_tweet": null,
+    "url": "https://x.com/rstureborg/status/2110920594246258723",
+    "time": "2026-10-16 10:27",
+    "created_at": "Fri Oct 16 02:27:43 +0000 2026",
+    "id_str": "2110920594246258723",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Live the kind of life where the suggestions from Codex Composer Text Predictions are always wrong.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110934183342440898",
+    "time": "2026-10-16 11:21",
+    "created_at": "Fri Oct 16 03:21:43 +0000 2026",
+    "id_str": "2110934183342440898",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@rstureborg Yes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110934251634098341",
+    "time": "2026-10-16 11:21",
+    "created_at": "Fri Oct 16 03:21:59 +0000 2026",
+    "id_str": "2110934251634098341",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I couldn't help myself.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Live the kind of life where the suggestions from Codex Composer Text Predictions are always wrong."
+    },
+    "url": "https://x.com/emollick/status/2110937481621434532",
+    "time": "2026-10-16 11:34",
+    "created_at": "Fri Oct 16 03:34:49 +0000 2026",
+    "id_str": "2110937481621434532",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@RDMellish It is definitely not a real product. But I don't think I have actually seen much better stage shows.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110938770992496876",
+    "time": "2026-10-16 11:39",
+    "created_at": "Fri Oct 16 03:39:57 +0000 2026",
+    "id_str": "2110938770992496876",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Ethan you can’t bait me like this",
+    "quoted_tweet": null,
+    "url": "https://x.com/felixrieseberg/status/2110940076184375583",
+    "time": "2026-10-16 11:45",
+    "created_at": "Fri Oct 16 03:45:08 +0000 2026",
+    "id_str": "2110940076184375583",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@felixrieseberg ;)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110940572596809831",
+    "time": "2026-10-16 11:47",
+    "created_at": "Fri Oct 16 03:47:06 +0000 2026",
+    "id_str": "2110940572596809831",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "kiasoul.md",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110943784309588092",
+    "time": "2026-10-16 11:59",
+    "created_at": "Fri Oct 16 03:59:52 +0000 2026",
+    "id_str": "2110943784309588092",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Ok which llm came up with this?",
+    "quoted_tweet": null,
+    "url": "https://x.com/dustdevvil/status/2110956473417408966",
+    "time": "2026-10-16 12:50",
+    "created_at": "Fri Oct 16 04:50:17 +0000 2026",
+    "id_str": "2110956473417408966",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@dustdevvil idea, me. execution opus",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110956772395463118",
+    "time": "2026-10-16 12:51",
+    "created_at": "Fri Oct 16 04:51:28 +0000 2026",
+    "id_str": "2110956772395463118",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "马斯克把 AI 科幻视频做成了真东西\nrespect\n老马牛逼\n",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2110954873906942351",
+    "time": "2026-10-16 12:43",
+    "created_at": "Fri Oct 16 04:43:56 +0000 2026",
+    "id_str": "2110954873906942351",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I was not expecting to see him reveal a car that could do mid-air flips... What world are we living in?",
+    "quoted_tweet": {
+      "author": "Tesla",
+      "username": "Tesla",
+      "text": "Roadster event livestream https://x.com/i/broadcasts/1yKAPwNggRaxb"
+    },
+    "url": "https://x.com/mreflow/status/2110905202396246419",
+    "time": "2026-10-16 09:26",
+    "created_at": "Fri Oct 16 01:26:33 +0000 2026",
+    "id_str": "2110905202396246419",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Coolest demos are at 12:00 and 16:00 into the video. Jump to those timestamps.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2110907946607763528",
+    "time": "2026-10-16 09:37",
+    "created_at": "Fri Oct 16 01:37:27 +0000 2026",
+    "id_str": "2110907946607763528",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I made this video for the other platforms because I know everyone on X has seen this at this point... But might as well get my 1 of 15 uploaded to start my 15 videos in 30-days challenge. ;)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2110952196619882527",
+    "time": "2026-10-16 12:33",
+    "created_at": "Fri Oct 16 04:33:17 +0000 2026",
+    "id_str": "2110952196619882527",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I miss the old Tibo, reset the usage Tibo\nThe “oops, again” Tibo, back to a hundred Tibo\nI hate the new Tibo, arguing in quotes Tibo\nThe 28 days Tibo, beefing with poteto Tibo\nI miss the sweet Tibo, free weekend reset Tibo\nI gotta say, back then I’d never hit my weekly, Tibo\nSee I believed in Tibo, there weren’t any Tibos\nAnd now I look around and there's so many Tibos",
+    "quoted_tweet": null,
+    "url": "https://x.com/maria_rcks/status/2110880198660882719",
+    "time": "Thu Oct 15 23:47:12 +0000 2026",
+    "created_at": "Thu Oct 15 23:47:12 +0000 2026",
+    "id_str": "2110880198660882719",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@charlierguo ?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110951220508819773",
+    "time": "2026-10-16 12:29",
+    "created_at": "Fri Oct 16 04:29:25 +0000 2026",
+    "id_str": "2110951220508819773",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@maria_rcks Can’t argue with that, Let’s break the cycle.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110951585983631505",
+    "time": "2026-10-16 12:30",
+    "created_at": "Fri Oct 16 04:30:52 +0000 2026",
+    "id_str": "2110951585983631505",
+    "is_retweet": false
+  }
+]
