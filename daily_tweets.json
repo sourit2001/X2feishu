@@ -408,5 +408,42 @@
     "created_at": "Thu Oct 15 20:52:03 +0000 2026",
     "id_str": "2110836120510693859",
     "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Harnesses + smart models = the end of the last famous hard benchmarks.\n\nModels can now work for extremely long times (bye, METR Long Tasks), they can output professional documents with correct math (so long, GDPval) and they can solve complex novel puzzles (farewell, ARC-AGI-3).",
+    "quoted_tweet": {
+      "author": "ARC Prize",
+      "username": "arcprize",
+      "text": "Gemini 4 Argon from @Google on ARC-AGI (Verified):\n\n- ARC-AGI-3: 97.5%, $4.8K (provider adapter harness), 49.8%, $5.8K (standard harness)\n- ARC-AGI-2: 91.3%, $0.32/task\n- ARC-AGI-1: 98.5%, $0.16/task\n\nGoogle DeepMind is the second frontier AI lab to score above 95% on ARC-AGI-3."
+    },
+    "url": "https://x.com/emollick/status/2110875851600633956",
+    "time": "Thu Oct 15 23:29:55 +0000 2026",
+    "created_at": "Thu Oct 15 23:29:55 +0000 2026",
+    "id_str": "2110875851600633956",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The first review I’ve seen of my upcoming book, Co-Existence, from The New Scientist.\n\n(When I became an author, I was surprised to learn you don’t know who is reviewing your book until the review comes out, so it is nice to start with a positive one!) https://www.newscientist.com/article/2593188-how-to-build-a-real-relationship-with-ai-and-keep-your-cognitive-edge/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2110881440241942764",
+    "time": "Thu Oct 15 23:52:08 +0000 2026",
+    "created_at": "Thu Oct 15 23:52:08 +0000 2026",
+    "id_str": "2110881440241942764",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@_simonsmith Spot on",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2110868151688912976",
+    "time": "Thu Oct 15 22:59:20 +0000 2026",
+    "created_at": "Thu Oct 15 22:59:20 +0000 2026",
+    "id_str": "2110868151688912976",
+    "is_retweet": false
   }
 ]
