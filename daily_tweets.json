@@ -337,5 +337,49 @@
     "created_at": "Sat Oct 17 04:14:08 +0000 2026",
     "id_str": "2111309764017951041",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "DHH",
+    "quoted_tweet": null,
+    "url": "https://x.com/blackanger/status/2111258311740023144",
+    "time": "2026-10-17 08:49",
+    "created_at": "Sat Oct 17 00:49:41 +0000 2026",
+    "id_str": "2111258311740023144",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@blackanger 他的 Claude 账号还好吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111284051990417420",
+    "time": "2026-10-17 10:31",
+    "created_at": "Sat Oct 17 02:31:58 +0000 2026",
+    "id_str": "2111284051990417420",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "\"We are spending millions sending AI experts to learn business. We should be sending business operators to learn AI.\n\nBusiness knowledge is slow. It took most of my career to instinctively know which trade-offs to make around working capital and inventory.\n\nAI execution is fast. An experienced operational team can master agentic tooling, evals, and model orchestration in a matter of months.\n\nWe are running the harder transfer at immense cost and mistaking it for progress.\"\n\n- Praveen Jonnala, CIO of Vistance Networks\n\nI can back this up from every implementation we've done at Varick (Finance, Operations, HR, all of it).\n\nThe exceptions often live in one person's head. Think the vendor who keeps invoicing against a PO that was closed months ago, or the customer whose payment terms got changed on a phone call and no one updated the ERP. These nuances are never documented, and it's not something you can pick up during a 6-week engagement as an AI engineer.\n\nOn the flip side, we've seen controllers and Accounts Payable managers learn to read evals and write rules that improve agent outputs in just a few short weeks.\n\nAs a result, when we come into a company to implement AI, we start with the operators of a workflow. Our engineers sit with them to understand every nook and cranny of the workflow, translate that into rules the agents can use, and then train those operators to manage the agents once we leave.\n\nIf you're interested in doing this kind of AI transformation inside your company, book a call below.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2111290696401359233",
+    "time": "2026-10-17 10:58",
+    "created_at": "Sat Oct 17 02:58:22 +0000 2026",
+    "id_str": "2111290696401359233",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://varickagents.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2111290697706012793",
+    "time": "2026-10-17 10:58",
+    "created_at": "Sat Oct 17 02:58:22 +0000 2026",
+    "id_str": "2111290697706012793",
+    "is_retweet": false
   }
 ]
