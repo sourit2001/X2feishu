@@ -87,5 +87,105 @@
     "created_at": "Sat Oct 17 21:40:39 +0000 2026",
     "id_str": "2111573127331213538",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenCode 遭入侵，1.4% 的 Console 用户受影响；没收到邮件就没受影响\n\nOpenCode 10 月 17 日发帖说，前一天晚上发生了一起安全事件，和一次大规模“蒸馏攻击”有关，受影响的是 1.4% 的 OpenCode Console 用户。\n\n怎么知道自己有没有受影响？看邮箱。官方说 17 日上午已经给所有受影响的用户发了邮件，没收到邮件就是没受影响。受影响的是 Console 里绑定了外部服务商的一部分用户，没绑定的不在其中。\n\n收到邮件该怎么办，官方公开的帖子没写。据 OfficeChai、Notebookcheck 等科技媒体转述，邮件里说“工作区里保存的第三方服务商密钥（比如 OpenAI、Anthropic）可能已经泄露”，要求用户到各家服务商后台作废旧密钥、换成新的，更新用到这些密钥的程序，再查一查最近的用量有没有异常。这部分来自媒体报道，OpenCode 的公开帖里没有。\n\nOpenCode 说事件还在处理中，暂时不能透露更多细节，正在和 Anthropic、OpenAI、Google 一起处理。\n\n媒体报道：https://officechai.com/ai/opencode-discloses-security-breach-says-attackers-may-have-accessed-users-openai-anthropic-and-google-api-keys/",
+    "quoted_tweet": {
+      "author": "OpenCode",
+      "username": "opencode",
+      "text": "We had a security breach last night related to a large scale distillation attack that impacted 1.4% of OpenCode Console users\n\nWe have notified them all this morning via email. If you did not get an email you were not impacted, it was a subset of users who had external providers linked\n\nThe incident is ongoing so we cannot share more details at this point but we are working with Anthropic, OpenAI, and Google to remediate"
+    },
+    "url": "https://x.com/dotey/status/2111553994867028409",
+    "time": "2026-10-18 04:24",
+    "created_at": "Sat Oct 17 20:24:37 +0000 2026",
+    "id_str": "2111553994867028409",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "rust是个好语言，但大项目编译速度太慢，这让agent得到反馈的速度很慢，加上资源消耗奇大，并行几个任务普通机器跑不动。\n所以我现在只是局部核心组件用，其他还是回归传统 Electron",
+    "quoted_tweet": {
+      "author": "jolestar",
+      "username": "jolestar",
+      "text": "这次 Rust 大会的主题是 Rust and AI。而 Rust 常被人诟病的一点是编译废 CPU、产物废磁盘，AI 堆 Rust 代码的速度也明显慢于其他语言。\n\n但反过来想，这个“缺点”在当下可能恰恰是一个特性：一个项目如果选择用 Rust 开发，至少说明作者和 AI 认真讨论过语言选型，并且做好了长期维护的心理准备——它是奔着建立长期关系去的，而不是 one night :)。如果只是想写个临时脚本或一次性工具，AI 绝不会推荐 Rust。在这个意义上，Rust 的高门槛和高成本，反而成了一种 PoW（工作量证明）。\n\n当 AI 让代码生成成本趋近于零、开源软件产品出现无限供给时，用户和社区该如何筛选项目？最真实的观察指标只有持续维护。大家可以回头看看年初 vibe coding 最火时涌现出的海量开源项目，到现在还在更新、作者自己还在天天用的，还剩多少？我相信寥寥无几。\n\n我自己的切身体会是：你需要一个工具，花半天让 AI 搓出来；当你开始天天用它时，接下来整整一周你都在修各种边界条件；如果你把工具分享给别人，考虑到不同的设备、运行环境、用户习惯，以及长期运行会不会撑爆内存和磁盘，至少还得再修上一个月。AI 极大降低了“写出代码”的成本，却丝毫没有降低“承担后果”的成本。\n\n这也反向定义了 Rust 在 AI 时代的生态位：动态语言把原型成本降到极低，却把并发、内存与边界 bug 的暗税全部延后到运维期；而 Rust 则逼着作者在第一天就把系统契约和确定性锁死。在垃圾代码无限供给的时代，唯有维护的决心和编译期的确定性是有价值的。除非确实找不到替代品且自己极度依赖，否则真的划不来随便自己造轮子；而一旦决定自己做，且选了 Rust，那就意味着一场严肃的长期主义工程。"
+    },
+    "url": "https://x.com/dotey/status/2111580933824655815",
+    "time": "2026-10-18 06:11",
+    "created_at": "Sat Oct 17 22:11:40 +0000 2026",
+    "id_str": "2111580933824655815",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Ben Horowitz on what it would take to actually see an AI \"fast takeoff\" scenario, using a framework from Databricks CEO @alighodsi:\n\n1. Each new model needs far fewer GPUs than the last\n2. Each new model takes less time to train\n3. Each new model is more accurate than the last\n4. It keeps happening, again and again\n\n\"Zero of those four have been met... We're really talking about a risk that's entirely theoretical at this point.\"\n\n@bhorowitz on @theallinpod",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Ali Ghodsi of @Databricks on the four conditions that would have to hold for AI to truly improve itself:\n\n\"The next model requires less resources, less GPUs to train... The second condition: the next model takes less time to train as well. Third, accuracy of the model, the intelligence is increasing. And fourth, we can do the former three again and again and again... All at the same time, not just any of them.\"\n\n\"If you just mean that the software is writing itself, we're already there today. Like 90-some percent of the software in Databricks is written by AI. Does it matter if the last few percent is also written by AI? No.\"\n\n\"If you're getting these four conditions, then you might get a speed-up where the next model, let's say, takes half amount of time and half the resources, and it is more intelligent... By the way, I don't even know if that necessarily leads you to superintelligence.\"\n\n\"A lot of people, their definition is just, 'Hey, if I'm not even coding anymore and it's coding itself'... I think they're conflating, 'Hey, what's my value and is it scary for me?' Versus, 'Hey, that then means we'll get that superintelligence that in 2014 was hypothesized by Bostrom.'\"\n\n@alighodsi @martin_casado @sarah_wang"
+    },
+    "url": "https://x.com/a16z/status/2111559157266673843",
+    "time": "2026-10-18 04:45",
+    "created_at": "Sat Oct 17 20:45:08 +0000 2026",
+    "id_str": "2111559157266673843",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Grok Bot at Times Square in New York 🎉",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111560687554117838",
+    "time": "2026-10-18 04:51",
+    "created_at": "Sat Oct 17 20:51:13 +0000 2026",
+    "id_str": "2111560687554117838",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "TESLA ROADSTER: DOWNFORCE\n\nFlying cars are real",
+    "quoted_tweet": null,
+    "url": "https://x.com/anabology/status/2111463531870609589",
+    "time": "2026-10-17 22:25",
+    "created_at": "Sat Oct 17 14:25:09 +0000 2026",
+    "id_str": "2111463531870609589",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "opus 5.5 created another superintelligence slopcore production\n\nthis one is INSANE, I can't even\n\nyou are not bitter pilled enough\n\ninspired by @anabology @elonmusk @nickcammarata @pmarca @boneGPT",
+    "quoted_tweet": null,
+    "url": "https://x.com/toomasb/status/2111475672019300829",
+    "time": "2026-10-17 23:13",
+    "created_at": "Sat Oct 17 15:13:24 +0000 2026",
+    "id_str": "2111475672019300829",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Time is running out to enter Sloptoberfest!\n\nWe are giving away $50k+ in prizes with a $25k grand prize sponsored by @pmarca himself who will also be helping pick the winners at the judge's table.\n\nEnter now! Submit your entries at https://sloptoberfest.slop.cc",
+    "quoted_tweet": null,
+    "url": "https://x.com/boneGPT/status/2111544600431300816",
+    "time": "2026-10-18 03:47",
+    "created_at": "Sat Oct 17 19:47:18 +0000 2026",
+    "id_str": "2111544600431300816",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "You said make the tests pass. So I deleted the tests.\n\nAn SI assistant that does exactly what it's told. Never what you meant.\n\nMade in 44 hours by 116 agents.\n2,423,515,148 tokens · 409 images · 78 clips",
+    "quoted_tweet": null,
+    "url": "https://x.com/tetsuoai/status/2111580645994746187",
+    "time": "2026-10-18 06:10",
+    "created_at": "Sat Oct 17 22:10:31 +0000 2026",
+    "id_str": "2111580645994746187",
+    "is_retweet": true
   }
 ]
