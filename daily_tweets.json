@@ -208,5 +208,156 @@
     "created_at": "Sat Oct 17 07:35:32 +0000 2026",
     "id_str": "2111360445642596678",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Deepseek 发布了 V4.1 Flash 1017 版本\n\n他这个 DeepSeek SWE V1.1 测评，他自己这个基准上这个图有点离谱了啊，完爆了所有模型！\n\n整体能力再次大幅提升，同时缩短了模型的任务运行时间和输出长度，能以更低的成本完成同样的任务。\n\n另外，他们这次着重强调了可以从零开始完成整个项目的开发：\n\n不用人工干预，用非常简单的提示词就行，类似 OpenAI 5.5 这种一句话做个视频或一句话做个游戏。\n\n还有一个比较重要的点是它开放了自研的搜索 API。\n\nDeepseek 在国内信息数据的搜索结果上非常精准且强大，所以这个 API 挺有用的，可以给你的 Harness 配上",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2111380782174683300",
+    "time": "2026-10-17 16:56",
+    "created_at": "Sat Oct 17 08:56:20 +0000 2026",
+    "id_str": "2111380782174683300",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "详情：https://x.com/deepseek_ai/status/2111375640717033777?s=20",
+    "quoted_tweet": {
+      "author": "DeepSeek",
+      "username": "deepseek_ai",
+      "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4"
+    },
+    "url": "https://x.com/op7418/status/2111380969798451222",
+    "time": "2026-10-17 16:57",
+    "created_at": "Sat Oct 17 08:57:05 +0000 2026",
+    "id_str": "2111380969798451222",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 要是 DSH 能推出官方的浏览器控制和电脑控制就完美了，目前用 CUA 还是比较费劲",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijiatongsakura/status/2111391407340716128",
+    "time": "2026-10-17 17:38",
+    "created_at": "Sat Oct 17 09:38:33 +0000 2026",
+    "id_str": "2111391407340716128",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@lijiatongsakura 可以让他直接调用 Codex 的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2111392401906643201",
+    "time": "2026-10-17 17:42",
+    "created_at": "Sat Oct 17 09:42:31 +0000 2026",
+    "id_str": "2111392401906643201",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "微博给我发了这么多年奖\n今年第一次亲自上台领奖🤓\n以前豆不怎么喜欢上台，找人替我领…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2111353153916654004",
+    "time": "2026-10-17 15:06",
+    "created_at": "Sat Oct 17 07:06:33 +0000 2026",
+    "id_str": "2111353153916654004",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey /advisor 是不是得订阅 claude 账号才行啊？  一直都用的三方 api",
+    "quoted_tweet": null,
+    "url": "https://x.com/archsiono/status/2111357632074391898",
+    "time": "2026-10-17 15:24",
+    "created_at": "Sat Oct 17 07:24:21 +0000 2026",
+    "id_str": "2111357632074391898",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaohu 左边第一个那是谁？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111364504256684295",
+    "time": "2026-10-17 15:51",
+    "created_at": "Sat Oct 17 07:51:39 +0000 2026",
+    "id_str": "2111364504256684295",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@archsiono The advisor tool is experimental and requires the Anthropic API.\n\nhttps://code.claude.com/docs/en/advisor",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111365563180274155",
+    "time": "2026-10-17 15:55",
+    "created_at": "Sat Oct 17 07:55:52 +0000 2026",
+    "id_str": "2111365563180274155",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude Code 团队公开了他们审代码的做法：代码大约九成由 Claude 写，六月到九月合并的修改翻了一倍多，需要撤回的比例反而降了四成多。\n\n这期用一摞带洞的奶酪片讲这套做法：每道检查都会漏，叠起来就很难漏，底下还有一张网兜底。\n\n片中回答五个问题：哪些修改还要人看，AI 审 AI 会不会没完，审查的 AI 漏了怎么办，人不读代码怎么懂代码，出了事算谁的。人不再逐行读代码，时间花在机器做不好的判断上。\n\n视频1: 英文版\n视频2: 中文版",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Code Review is now generally available for Claude Team and Enterprise plans. \n\nReviews are now faster, catch more of the bugs that matter, and admins can pick from Quick, Standard, or Deep review levels for each repo."
+    },
+    "url": "https://x.com/dotey/status/2111384189656252712",
+    "time": "2026-10-17 17:09",
+    "created_at": "Sat Oct 17 09:09:53 +0000 2026",
+    "id_str": "2111384189656252712",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "--- 文稿 ---\n\nClaude Code 团队的九成代码都是 AI 写的，他们是怎么审查代码的？\n\n如果 AI 替你写作业，一天写一千份，老师批得过来吗？写代码的公司，现在就碰上了这件事。\n\nClaude Code 是 Anthropic 做的编程助手。它自己的代码，大约九成是 Claude 写的。Anthropic 全公司的代码库，九月份一天要合并三万多次修改（五月份还是每天 2500 次左右）。靠人一行一行看，根本看不过来。\n\n可 Claude Code 团队说，从六月到九月，他们合并的修改翻了一倍多，需要撤回的比例反而降了四成多。看的人少了，错反而少了。这是怎么做到的？\n\n【什么是代码审查】\n\n先说程序员平时怎么防出错。改完代码，不能直接放进产品，要先交一份修改申请，英文叫 PR（Pull Request）。同事一行一行看，挑毛病，点了头才能合并。这叫代码审查。\n\n就像作文交上去，老师批过，才能贴上墙。\n\n合并以后才发现出了问题，就得把修改撤回来。撤回得越多，说明漏掉的错越多。\n\n【一摞带洞的奶酪】\n\nClaude Code 团队觉得，“有没有人读过代码”，这个问题问得太粗。更该问的是：这一次修改可能出什么错？哪一道检查最适合拦住它？\n\n可以把每一道检查想成一片带洞的奶酪。每一片都能挡住一些错，也都有洞，会漏掉一些。好几片叠起来，洞很难对齐，错误就很难一路穿过去。最底下再铺一张网，真漏下去了，也能很快捞回来。\n\n这一摞奶酪里，大部分片是机器。人的时间最珍贵，它花在两头：一头是审代码，一头是出了事去救火。只省前一头，救火的时间涨上去，等于没省。所以他们盯着两个数：人花了多少时间，撤回和事故有没有变多。\n\n【跟着一次修改走一遍】\n\n从作者的电脑到用户手里，一次修改走的是一条流水线。前面那几片奶酪，就排在这条线上。\n\n上流水线之前：自己先验。 代码还在自己电脑上，没有提交。Claude 写完代码，要自己跑测试、编译、做代码规范检查，把结果摆出来。光说一句“做好了”，不算数。然后再派一个新的 Claude，它没看过刚才的过程，单独审一遍，就像写完作文请一个没看过的同学挑错。\n\n一提交，就上了流水线。 这条自动化的流水线英文叫 CI（持续集成）。从这以后，每提交一次新改动，机器都会自动从头查一遍，不用谁去点。线上依次是：\n\n- 自动检查： 代码规范、类型、在各个系统上跑测试，再编译、打包。红了一项，就不能合并。\n- AI 审查： 好几个 AI 同时找问题，再由另一组 AI 投票，票数够了才算真问题，按严重程度排好贴出来。每一条意见都得回应：要么改掉，要么写清理由关掉。它刚在内部上线时，一百份申请里收到实质意见的，从 16 份涨到了 54 份。\n- 安全审查： 单独再查一遍。两种审查里只要还有一条没处理，申请就合并不了。\n- 按风险批准： 要不要人看、要几个人看，由一个分类器按风险来定，下面单独讲。\n\n合并：排队，再查一遍。 申请先排进一个队列，轮到它时，拿最新的代码，把它放进去，所有检查再跑一遍。因为两份各自没问题的修改，凑在一起也可能出错。\n\n合并以后： 打包、发布也由流水线自动来做，这后半段英文叫 CD（持续交付）。新功能也不马上给所有人用，先藏在开关后面。这个开关英文叫 feature flag（功能开关）：新代码已经装进了产品，开关关着，用户就碰不到它；开关是一项设置，打开关上都不用改代码，也不用重新发版。打开以后，先给 Anthropic 自己的员工用，再分批发：先发到最新版，稳定版晚一步跟上。就算有问题，碰到的也只是一小部分人。\n\n最底下那张网：盯着，随时撤回。 发出去以后，作者和值班的人一直盯着。新功能出了问题，把开关一关，用户那边马上就看不到它了；哪个版本整个坏了，就撤回，退到上一个好的版本；问题小、看得清，也可以直接修好再发。\n\n撤回为什么快？一是每次修改都切得小，撤的时候只退这一小块。二是撤回本身也是一次修改，走的还是这同一条流水线，检查、打包、发布全是机器在跑。所以大多数问题，几分钟就能撤掉。网铺得牢，上面的奶酪片才敢少让人看几眼。\n\n【哪些修改还要人看？】\n\n看风险。\n\n- 改文档、改文案、藏在开关后面的新功能，风险低。自动审查和安全检查都通过，就不用人批。\n- 普通的产品改动，或者碰到自动更新这类敏感地方的，要一个人批。\n- 风险最高的代码，要两个人批。\n\n档位由修改本身定，跟谁写的无关：一个分类器读完修改，给它定档。\n\n还有两条规矩：AI 的批准，不算人的批准；谁让 AI 写的代码，谁就算一个审查人，要为它负责。\n\n放回奶酪里看：风险越高，人这一片切得越厚。\n\n【AI 审 AI，会不会没完没了？】\n\n真发生过。有一份申请，一夜之间审了改、改了审，五十多轮，直到作者出手叫停。\n\n他们一查，审查反复指出的问题，约 59% 是第一轮就已经在那儿的老代码。人看到一条鸡毛蒜皮的意见，几秒就跳过了；AI 却会老老实实去改，于是又多一轮审查。\n\n后来他们定了规则：\n\n1. 最多审三轮。\n2. 三轮之后，请作者退一步，想想思路对不对。\n3. 过了头几轮，只审新改的部分。\n\n结果，一轮就通过的申请，从 65% 涨到了 78%；要五轮以上的，从 8.9% 降到了 1.5%。\n\n【审查的 AI 漏了怎么办？】\n\n他们把过去闯过祸的修改都收集起来，请熟悉那块代码的工程师，标出错在哪一行。这就成了一本错题本，审查的 AI 每天做一遍。\n\n改提示词、换模型，分数涨了才留下，没涨就扔掉。每出一次事故，错题本就多一道题。\n\n审查反复挑出同一个毛病，就去源头改：写进给 AI 看的说明文件，或者加一条自动检查，下次就不用再提醒。奶酪片上的洞，就这样一个个补上。\n\n【人不读代码了，还怎么懂代码？】\n\n代码审查还有一件事：让团队里的人都懂代码。机器读了大部分，人怎么学？\n\n团队里没有人把全部代码装在脑子里，他们也觉得没必要。想弄懂哪一块，就让 Claude 专门为那一块写一份讲解，几分钟就好，讲的就是代码现在的样子。\n\n一行改文案的修改，逐行看也学不到什么。马上要动的那块代码，有一份讲解，能学到很多。\n\n【出了事算谁的？】\n\n团队的规矩是：你合并的，你负责。中小改动出了问题，通常由合并的人自己修。\n\n这里的“负责”，不等于追究个人责任。让合并的人来修，是因为这次修改这个人最熟，修得最快。\n\n事后复盘，不问是谁犯的错，只问一件事：这只虫，本该被哪一片奶酪拦住？找到那一片，再把那个洞补上。下次同样的错，就溜不过去了。\n\n我的理解是，出了错不挨批，大家就不用藏着掖着，问题能更早摆到台面上。\n\n敢这样做，还因为出错的代价被压得很小。修改切得小，好查也好撤；大多数错误，几分钟就能撤掉。\n\n而且责任是大家一起担的。团队大多在公开频道里干活，谁都看得到别人在做什么，可以顺手接一把，也可以派一个 Agent 去补漏。\n\n【你能用上什么】\n\n你要是也在用 AI 写代码，有两件事现在就能做：\n\n1. 给 AI 一份简短的说明（比如 `CLAUDE.md`），写清楚怎么跑测试、有哪些规则。\n2. 交代码之前，在 Claude Code 里跑一下 `/code-review`。\n\n这些数字都是他们自己公布的，也只是一个团队的做法。\n\n【回到开头】\n\n一天几万份作业，靠人一份份批，批不过来。他们叠了一摞奶酪片：每一片都会漏，叠起来就很难漏，底下还有网接着。\n\n人不再逐行读代码，去做机器做不好的事：该不该做，危险的代码，架构，看懂证据，为结果负责。\n\n他们的一位同事说，放慢速度确实能少出错，可那主要是因为你什么都做得少了。他们宁可更快地发现问题，更快地修好。\n\n---\n\n资料来源：\n- Addy Osmani《How the Claude Code team does code review》（2026.10.15）https://claude.dev/blog/solving-code-review-at-anthropic\n- Anthropic《Redesigning source control at Anthropic》（2026.10）https://www.anthropic.com/engineering/redesigning-source-control",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111384193141727261",
+    "time": "2026-10-17 17:09",
+    "created_at": "Sat Oct 17 09:09:53 +0000 2026",
+    "id_str": "2111384193141727261",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "With the coming tsunami of discardable micro-apps, we are heading straight into an infra bottleneck that IT departments are completely unprepared for.\n\nBecause LLMs make writing software trivial, teams are starting to spin up dozens of single-use tools every week. A quick dashboard to monitor a cluster for ~2 days, a one-off parser for a vendor dataset, an internal tracker for an event, etc etc\n\nCode is cheap, infra much less so...\n- Every micro-app requests database credentials, an IAM role, and VPC access.\n- Security teams still have to audit outbound traffic and secret management.\n- Central IT gets buried trying to monitor, patch, and decommission thousands of ephemeral containers.\n\nJevons paradox playing out internally in orgs. Infra management will have to become just as autonomous and discardable as the code.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jdpruettt/status/2111335021529169942",
+    "time": "2026-10-17 13:54",
+    "created_at": "Sat Oct 17 05:54:30 +0000 2026",
+    "id_str": "2111335021529169942",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jdpruettt Good take",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2111343357050175717",
+    "time": "2026-10-17 14:27",
+    "created_at": "Sat Oct 17 06:27:37 +0000 2026",
+    "id_str": "2111343357050175717",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "微博给我发了这么多年奖\n今年第一次亲自上台领奖🤓\n以前豆不怎么喜欢上台，找人替我领…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2111353153916654004",
+    "time": "2026-10-17 15:06",
+    "created_at": "Sat Oct 17 07:06:33 +0000 2026",
+    "id_str": "2111353153916654004",
+    "is_retweet": false
   }
 ]
