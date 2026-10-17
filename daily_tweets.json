@@ -415,5 +415,244 @@
     "created_at": "Sat Oct 17 15:39:12 +0000 2026",
     "id_str": "2111482167398482189",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "DeepSeek 发布 V4.1-Flash-1017：做事更快、回答更短，官网和 App 已换新；联网搜索 API 每千次 5 元，11 月 1 日起收费\n\nDeepSeek 发布 V4.1-Flash 的升级版 V4.1-Flash-1017（1017 指 10 月 17 日）。官方说它测试分数更高、完成任务更快、输出更短。输出短，消耗的 token（AI 计费单位，可以理解成文字碎片）就少，同一件事做得更好，也更省钱。\n\n普通用户打开 DeepSeek 官网或 App 用的就是新版。开发者调 API 的模型名还是 deepseek-flash，代码不用改。\n\n这一版主攻从零做完整个项目，演示里它从头做出了小游戏和 3D 模型。官方在 Hugging Face 公布的测试里，进步最大的是让 AI 在命令行里自己敲命令干活，从 31.2 分涨到 42.3 分。和 Anthropic 的 Opus 5 比，几项自动办事的测试它分更高，高难度问答和写完整程序仍然落后。这些分数都是 DeepSeek 自己测的。\n\n另一件事跟开发者的钱包有关：DeepSeek 把自家搜索引擎开放成接口。Search 输入关键词返回网页结果，Fetch 给一个网址把网页内容抓成文字，合起来能让 AI 应用上网查资料。每个接口每 1000 次成功请求收 5 元（英文版标 0.75 美元），失败、没搜到、超时不收钱。\n\n如果你把 DeepSeek API 接进 Claude Code、Codex 或 DeepSeek 自家的编程工具 DeepSeek Harness 当背后的模型，这些工具里 AI 自动发起的搜索和抓网页目前免费，北京时间 11 月 1 日零点（10 月 31 日 16:00 UTC）开始按次收费。\n\n模型同时开源，MIT 协议，允许商用，可在 Hugging Face 和魔搭社区（ModelScope）下载。它有 7630 亿个参数，个人电脑跑不动，主要给企业和云服务商自己部署。\n\n模型下载：https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\n搜索 API 文档：https://api-docs.deepseek.com/zh-cn/guides/search/",
+    "quoted_tweet": {
+      "author": "DeepSeek",
+      "username": "deepseek_ai",
+      "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4"
+    },
+    "url": "https://x.com/dotey/status/2111487902869832182",
+    "time": "2026-10-18 00:02",
+    "created_at": "Sat Oct 17 16:02:00 +0000 2026",
+    "id_str": "2111487902869832182",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Ben Horowitz on the lesson LoudCloud, his early cloud company, taught him about today's AI neoclouds, and why they now face the opposite problem:\n\n\"It can end up being like a very dangerous arbitrage business, where you can get upside-down easily. And so if you look at LoudCloud, just as an example, here's a simple thing that happened to us.\"\n\n\"In 1999, bandwidth was $1,500 a megabit. And you couldn't get it. It was very hard to get it. And so you had to get a long-term contract, three years. By 2001, it was $50 a megabit... And if you borrowed money to get it, you're dead.\"\n\n\"That kind of thing is so out of the control of the entrepreneur.\"\n\n\"I think the core dynamic of AI has been working for CoreWeave, though, in that there's a massive shortage, not an overage of supply... Token prices have gone down, but GPU prices have not.\"\n\n\"And by the way, data center space is going up in price because even labor to build data centers is hard. The politics are making it hard to build data centers. So the whole supply chain price is going up and demand is not subsiding.\"\n\n\"Those are very big tailwinds for CoreWeave, despite the fact that the debt markets, kind of independent of them, are tough.\"\n\n@bhorowitz w/ @chamath on @allinpod",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2111473277730513124",
+    "time": "2026-10-17 23:03",
+    "created_at": "Sat Oct 17 15:03:53 +0000 2026",
+    "id_str": "2111473277730513124",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Ali Ghodsi of @Databricks on the four conditions that would have to hold for AI to truly improve itself:\n\n\"The next model requires less resources, less GPUs to train... The second condition: the next model takes less time to train as well. Third, accuracy of the model, the intelligence is increasing. And fourth, we can do the former three again and again and again... All at the same time, not just any of them.\"\n\n\"If you just mean that the software is writing itself, we're already there today. Like 90-some percent of the software in Databricks is written by AI. Does it matter if the last few percent is also written by AI? No.\"\n\n\"If you're getting these four conditions, then you might get a speed-up where the next model, let's say, takes half amount of time and half the resources, and it is more intelligent... By the way, I don't even know if that necessarily leads you to superintelligence.\"\n\n\"A lot of people, their definition is just, 'Hey, if I'm not even coding anymore and it's coding itself'... I think they're conflating, 'Hey, what's my value and is it scary for me?' Versus, 'Hey, that then means we'll get that superintelligence that in 2014 was hypothesized by Bostrom.'\"\n\n@alighodsi @martin_casado @sarah_wang",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2111499990585774268",
+    "time": "2026-10-18 00:50",
+    "created_at": "Sat Oct 17 16:50:02 +0000 2026",
+    "id_str": "2111499990585774268",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Couple hundred away from 5k🙏🏾\n\nhttps://x.com/horacedodd/status/2111442106518569371?s=46&t=oiYiN712Dv8xWu5cnX6NIg",
+    "quoted_tweet": {
+      "author": "Horace Dodd",
+      "username": "horacedodd",
+      "text": "New Orleans, 1948. The sheets started moving on their own.\n\nBAPTISTE — Case File 477: The Wash House 🫧\n\nMade in @dreamina_ai #DreaminaCPP"
+    },
+    "url": "https://x.com/horacedodd/status/2111463962583929052",
+    "time": "2026-10-17 22:26",
+    "created_at": "Sat Oct 17 14:26:52 +0000 2026",
+    "id_str": "2111463962583929052",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What's one thing models still can't do no matter how you word it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2111469605382463995",
+    "time": "2026-10-17 22:49",
+    "created_at": "Sat Oct 17 14:49:17 +0000 2026",
+    "id_str": "2111469605382463995",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife ai art that successfully brought my name to NYC",
+    "quoted_tweet": null,
+    "url": "https://x.com/NaylasyarifaM/status/2111474638597636553",
+    "time": "2026-10-17 23:09",
+    "created_at": "Sat Oct 17 15:09:17 +0000 2026",
+    "id_str": "2111474638597636553",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NaylasyarifaM Congratulations 🥳",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111474800480735705",
+    "time": "2026-10-17 23:09",
+    "created_at": "Sat Oct 17 15:09:56 +0000 2026",
+    "id_str": "2111474800480735705",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hi Kriss I'd love to 🙂",
+    "quoted_tweet": null,
+    "url": "https://x.com/B_AD_tokyohound/status/2111480430612676949",
+    "time": "2026-10-17 23:32",
+    "created_at": "Sat Oct 17 15:32:18 +0000 2026",
+    "id_str": "2111480430612676949",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@B_AD_tokyohound Sent you a DM with info",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111484870287593845",
+    "time": "2026-10-17 23:49",
+    "created_at": "Sat Oct 17 15:49:57 +0000 2026",
+    "id_str": "2111484870287593845",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@OmisoNFT Sending you a DM! Your work is beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111485037270954016",
+    "time": "2026-10-17 23:50",
+    "created_at": "Sat Oct 17 15:50:37 +0000 2026",
+    "id_str": "2111485037270954016",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@OzgurCreativity Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111485118904950843",
+    "time": "2026-10-17 23:50",
+    "created_at": "Sat Oct 17 15:50:56 +0000 2026",
+    "id_str": "2111485118904950843",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GabrielValles Great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111485152589382007",
+    "time": "2026-10-17 23:51",
+    "created_at": "Sat Oct 17 15:51:04 +0000 2026",
+    "id_str": "2111485152589382007",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Akshayspace That’s great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111485212970688664",
+    "time": "2026-10-17 23:51",
+    "created_at": "Sat Oct 17 15:51:18 +0000 2026",
+    "id_str": "2111485212970688664",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@horacedodd Nice! Love your content. Sending you a message",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111485312182501451",
+    "time": "2026-10-17 23:51",
+    "created_at": "Sat Oct 17 15:51:42 +0000 2026",
+    "id_str": "2111485312182501451",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard My laundry. Still",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111486129161621685",
+    "time": "2026-10-17 23:54",
+    "created_at": "Sat Oct 17 15:54:57 +0000 2026",
+    "id_str": "2111486129161621685",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "You can check your new September’s “Under the Hood” on 𝕏. A way to see if your account and posts were labeled and improve the way you post. \n\nTotal post count includes replies\n\nLink where to see your report 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111487103251218921",
+    "time": "2026-10-17 23:58",
+    "created_at": "Sat Oct 17 15:58:49 +0000 2026",
+    "id_str": "2111487103251218921",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Under the Hood report: https://x.com/i/under_the_hood",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111487236952993838",
+    "time": "2026-10-17 23:59",
+    "created_at": "Sat Oct 17 15:59:21 +0000 2026",
+    "id_str": "2111487236952993838",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife that is another task - that I need to add for one of my Grok Bot agents , thanks for the reminder fam",
+    "quoted_tweet": null,
+    "url": "https://x.com/UNRE3L/status/2111487314778320984",
+    "time": "2026-10-17 23:59",
+    "created_at": "Sat Oct 17 15:59:40 +0000 2026",
+    "id_str": "2111487314778320984",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@UNRE3L Good call",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111487481208316270",
+    "time": "2026-10-18 00:00",
+    "created_at": "Sat Oct 17 16:00:19 +0000 2026",
+    "id_str": "2111487481208316270",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Who else is waiting GTA VI as much as New York?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111501318397550955",
+    "time": "2026-10-18 00:55",
+    "created_at": "Sat Oct 17 16:55:18 +0000 2026",
+    "id_str": "2111501318397550955",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Every time someone screams “AI slop,” I remember when AI couldn’t even get five fingers right.\n\nThis is AI now.\n\nAnd we’re just getting started.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111504359267971498",
+    "time": "2026-10-18 01:07",
+    "created_at": "Sat Oct 17 17:07:23 +0000 2026",
+    "id_str": "2111504359267971498",
+    "is_retweet": false
   }
 ]
