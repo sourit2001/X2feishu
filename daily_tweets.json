@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ArthurMacwaters Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111423598414250233",
+    "time": "2026-10-17 19:46",
+    "created_at": "Sat Oct 17 11:46:28 +0000 2026",
+    "id_str": "2111423598414250233",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "我去，DeepSeek V4.1 Flash 1017 做教程类动效视频已经这么牛了吗，感觉和Opus 5.5没啥区别了😂\n\n我们用它在 OpenDesign 的 Motion Design 里做了一条教程，教大家怎么在其他 coding agent 里接入 OpenDesign API，用上它和其他模型，效果简直不要太好了\n",
+    "quoted_tweet": {
+      "author": "OpenDesign",
+      "username": "OpenDesignHQ",
+      "text": "Introducing OpenDesign Motion.\nThe open-source alternative to Claude Motion.\n\nCreate beautiful motion videos with any agent, any model. No Opus 5.5 required.\n\nThis entire launch video was made in OpenDesign.\nMore demos below ↓"
+    },
+    "url": "https://x.com/tuturetom/status/2111442747999789204",
+    "time": "2026-10-17 21:02",
+    "created_at": "Sat Oct 17 13:02:34 +0000 2026",
+    "id_str": "2111442747999789204",
+    "is_retweet": false
+  }
+]
