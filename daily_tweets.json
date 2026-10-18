@@ -1,1 +1,307 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 撤回应该不用走流水线吧？为啥不直接 featureflag 关掉",
+    "quoted_tweet": null,
+    "url": "https://x.com/sunxx2094/status/2111605453658690026",
+    "time": "2026-10-18 07:49",
+    "created_at": "Sat Oct 17 23:49:06 +0000 2026",
+    "id_str": "2111605453658690026",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@sunxx2094 两个都是可选项，不一定都有featureflag，比如修个bug a搞出更严重的bug b，就要回滚",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111618429891264945",
+    "time": "2026-10-18 08:40",
+    "created_at": "Sun Oct 18 00:40:40 +0000 2026",
+    "id_str": "2111618429891264945",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 请教这个视频是怎么做的，\n声音是单独做的，中文的视频后半段音色有明显变化",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rango00187057/status/2111626663842939028",
+    "time": "2026-10-18 09:13",
+    "created_at": "Sun Oct 18 01:13:23 +0000 2026",
+    "id_str": "2111626663842939028",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我还是想问，你是多大的项目，怎么写的编译起来慢..\n\n然后是在什么机器上编译的。\n\n比如我前两天分享过 ScopeDB debug 编译一次，全 clean 环境下，M4 Max 一分钟。\n\n以前编译 tikv，当时还是老 intel 的 MacBook，要二三十分钟，换成 M1 就已经只需要四五分钟了。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "rust是个好语言，但大项目编译速度太慢，这让agent得到反馈的速度很慢，加上资源消耗奇大，并行几个任务普通机器跑不动。\n所以我现在只是局部核心组件用，其他还是回归传统 Electron"
+    },
+    "url": "https://x.com/tison1096/status/2111640282911621570",
+    "time": "2026-10-18 10:07",
+    "created_at": "Sun Oct 18 02:07:30 +0000 2026",
+    "id_str": "2111640282911621570",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 你多大的项目..现在编译速度提升很多了吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/StudentWeis/status/2111650570608300439",
+    "time": "2026-10-18 10:48",
+    "created_at": "Sun Oct 18 02:48:23 +0000 2026",
+    "id_str": "2111650570608300439",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 想问下核心组件用 Rust、外层用 Electron 的话，两边是走 napi 这类绑定，还是拆成单独进程？我好奇哪种对 agent 改代码时的反馈速度更友好。",
+    "quoted_tweet": null,
+    "url": "https://x.com/caiyun_888/status/2111650667425353852",
+    "time": "2026-10-18 10:48",
+    "created_at": "Sun Oct 18 02:48:46 +0000 2026",
+    "id_str": "2111650667425353852",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "赞，用这个方式实际测试一周，对比前一周默认 1M 上下文的效果，实际省下 37% 的 token 25% 的额度。\n\n实际效果上体感也并没有明显的下滑，推荐设置～",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "建议你的 Claude Code 约束一下自动压缩的上下文长度，400k 左右是个比较合理的长度，我自己是设置的 300k，这个值足够了。\n\n/autocompact 400k\n\n另外我以前建议过禁用 1M， \"CLAUDE_CODE_DISABLE_1M_CONTEXT\"（~/.claude/settings.json），现在没必要了，请删除，否则最多也只能到 200k。"
+    },
+    "url": "https://x.com/sunxx2094/status/2111653400228286962",
+    "time": "2026-10-18 10:59",
+    "created_at": "Sun Oct 18 02:59:37 +0000 2026",
+    "id_str": "2111653400228286962",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@sunxx2094 赞，用数字说话最好👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111654438779883544",
+    "time": "2026-10-18 11:03",
+    "created_at": "Sun Oct 18 03:03:45 +0000 2026",
+    "id_str": "2111654438779883544",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@caiyun_888 我是把rust做成了独立 worker 进程",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111654570594341316",
+    "time": "2026-10-18 11:04",
+    "created_at": "Sun Oct 18 03:04:16 +0000 2026",
+    "id_str": "2111654570594341316",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@caiyun_888 另外我的 UI 修改频繁，原来用 GPUI 改起来就吃力",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111654707873866211",
+    "time": "2026-10-18 11:04",
+    "created_at": "Sun Oct 18 03:04:49 +0000 2026",
+    "id_str": "2111654707873866211",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@StudentWeis @bufcapy 我当时项目结构也有问题，GPUI 一开始在一个项目，所以 UI 编译每次都很慢\n视频编辑项目",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111655032651473202",
+    "time": "2026-10-18 11:06",
+    "created_at": "Sun Oct 18 03:06:07 +0000 2026",
+    "id_str": "2111655032651473202",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@StudentWeis 现在编译很快，因为核心代码变动的少，UI 代码用 electron 基本上不用编译",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111655145083920644",
+    "time": "2026-10-18 11:06",
+    "created_at": "Sun Oct 18 03:06:33 +0000 2026",
+    "id_str": "2111655145083920644",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Rango00187057 制作流程可以参考 https://github.com/JimLiu/baocut/blob/main/skills/baocut/built-in-skills/explainer-video/SKILL.md\n\n声音是 Gemini tts，每一段独立配音，修改了很多版本，所以有些出入",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111655479030268255",
+    "time": "2026-10-18 11:07",
+    "created_at": "Sun Oct 18 03:07:53 +0000 2026",
+    "id_str": "2111655479030268255",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude 账号申请解封失败，也不退钱。用Opus 5.5 做个视频给它吧，\n一个悲惨的故事：我用codex做了三天迭代了好几版。结果发现还是Opus 5.5 做的更好，一下午就出来了😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/LufzzLiz/status/2111659007564026121",
+    "time": "2026-10-18 11:21",
+    "created_at": "Sun Oct 18 03:21:54 +0000 2026",
+    "id_str": "2111659007564026121",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我的Electron项目10秒编译Preview，不知道换成GPUI要多久…",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2111661050819232020",
+    "time": "2026-10-18 11:30",
+    "created_at": "Sun Oct 18 03:30:01 +0000 2026",
+    "id_str": "2111661050819232020",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 比如我的视频编辑器，GPUI 要30万行代码，光UI部分编译10分钟以上",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111661923980746951",
+    "time": "2026-10-18 11:33",
+    "created_at": "Sun Oct 18 03:33:30 +0000 2026",
+    "id_str": "2111661923980746951",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey Mac Mini 我是当机顶盒的，不拿来做主力开发 .. 如果是服务器跑点后台任务的话，就等它搞完 callback 你就行了（",
+    "quoted_tweet": null,
+    "url": "https://x.com/tison1096/status/2111667847126745507",
+    "time": "2026-10-18 11:57",
+    "created_at": "Sun Oct 18 03:57:02 +0000 2026",
+    "id_str": "2111667847126745507",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@tison1096 你太壕了，Agent 之前我觉得 Mac Mini 够用了，现在看来确实不够用",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111670961007161608",
+    "time": "2026-10-18 12:09",
+    "created_at": "Sun Oct 18 04:09:24 +0000 2026",
+    "id_str": "2111670961007161608",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife アドビにオフィスあったんだヽ(=´▽`=)ﾉ",
+    "quoted_tweet": null,
+    "url": "https://x.com/kawaii_ai_zoo/status/2111663402687017098",
+    "time": "2026-10-18 11:39",
+    "created_at": "Sun Oct 18 03:39:22 +0000 2026",
+    "id_str": "2111663402687017098",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kawaii_ai_zoo はい",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111669781258760528",
+    "time": "2026-10-18 12:04",
+    "created_at": "Sun Oct 18 04:04:43 +0000 2026",
+    "id_str": "2111669781258760528",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @GlennHasABeard Grok will do your laundry when the time comes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mckenzie_X_X/status/2111677116941226110",
+    "time": "2026-10-18 12:33",
+    "created_at": "Sun Oct 18 04:33:52 +0000 2026",
+    "id_str": "2111677116941226110",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mckenzie_X_X @GlennHasABeard The time is now 😅😅 I need clean pants for tomorrow",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111677557112279471",
+    "time": "2026-10-18 12:35",
+    "created_at": "Sun Oct 18 04:35:37 +0000 2026",
+    "id_str": "2111677557112279471",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@chrisin_LA @icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/FeltFootball/status/2111680801943208283",
+    "time": "2026-10-18 12:48",
+    "created_at": "Sun Oct 18 04:48:30 +0000 2026",
+    "id_str": "2111680801943208283",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FeltFootball @chrisin_LA I love Cinque Terra! Also I just finished Lego inspired by it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111681822702670259",
+    "time": "2026-10-18 12:52",
+    "created_at": "Sun Oct 18 04:52:34 +0000 2026",
+    "id_str": "2111681822702670259",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SamInkedArt Amazing art",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2111685592719274096",
+    "time": "2026-10-18 13:07",
+    "created_at": "Sun Oct 18 05:07:33 +0000 2026",
+    "id_str": "2111685592719274096",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "The slop is strong on this one, Meet Luna and her new song  @pmarca you inspired me on this one 🤝\n\nko · n · ni · chi · wa · ma · ta = HELLO AGAIN #slopcore",
+    "quoted_tweet": null,
+    "url": "https://x.com/Martposting/status/2111647154330579231",
+    "time": "2026-10-18 10:34",
+    "created_at": "Sun Oct 18 02:34:48 +0000 2026",
+    "id_str": "2111647154330579231",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "YOU CAN SEE EVERYTHING, PRIMETIME, and DIGGER make 2026 the best year for film since 2015 (SICARIO, EX MACHINA, and MAD MAX: FURY ROAD). At long last, movies are back.",
+    "quoted_tweet": null,
+    "url": "https://x.com/pmarca/status/2111684043926622639",
+    "time": "2026-10-18 13:01",
+    "created_at": "Sun Oct 18 05:01:23 +0000 2026",
+    "id_str": "2111684043926622639",
+    "is_retweet": false
+  }
+]
