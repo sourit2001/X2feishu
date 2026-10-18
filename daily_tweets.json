@@ -1,1 +1,459 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I have my banking connected to @bot. \n\nIt was a seamless process to connect and it now audits my credit card, tracks refunds and returns, and alerts me when the bill is due. \n\nMy favorite is when bot tells me a trial period moves into a full price subscription. \n\nThe future is now.",
+    "quoted_tweet": {
+      "author": "Melvin Vivas",
+      "username": "melvindvivas",
+      "text": "We’ll probably be able to add credit cards to Grok Bot in the future\n\nWill you add one?"
+    },
+    "url": "https://x.com/KatieMiller/status/2111844205714673717",
+    "time": "2026-10-18 23:37",
+    "created_at": "Sun Oct 18 15:37:49 +0000 2026",
+    "id_str": "2111844205714673717",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@elonmusk @ylecun",
+    "quoted_tweet": null,
+    "url": "https://x.com/npc_chef/status/2111844823598817650",
+    "time": "2026-10-18 23:40",
+    "created_at": "Sun Oct 18 15:40:16 +0000 2026",
+    "id_str": "2111844823598817650",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Talarico hates Texas",
+    "quoted_tweet": {
+      "author": "KanekoaTheGreat",
+      "username": "KanekoaTheGreat",
+      "text": "James Talarico, in his own words:\n\n\"God is non-binary.\"\n\n\"In fact, there are six\" biological sexes.\n\nWhat he calls women: \"neighbors with a uterus.\"\n\nParents who deny a child's gender identity: \"abusive for sure.\"\n\nEarly voting starts tomorrow, Texas."
+    },
+    "url": "https://x.com/elonmusk/status/2111864930815402428",
+    "time": "2026-10-19 01:00",
+    "created_at": "Sun Oct 18 17:00:10 +0000 2026",
+    "id_str": "2111864930815402428",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True, even SpaceX’s competitor’s FUTURE plans are behind Starship 🤣🤣",
+    "quoted_tweet": {
+      "author": "James Cat",
+      "username": "TSLAFanMtl",
+      "text": "Ok so yeah... $SPCX has no competition. None. And that's today, before Starship becomes their mainstream rocket. Starship widens the moat *considerably* more.\n\nThe competition is so far behind, they may as well be on another planet. Even the competitor's future plans are behind!"
+    },
+    "url": "https://x.com/elonmusk/status/2111865541472190881",
+    "time": "2026-10-19 01:02",
+    "created_at": "Sun Oct 18 17:02:36 +0000 2026",
+    "id_str": "2111865541472190881",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@npc_chef @ylecun 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111865900680778194",
+    "time": "2026-10-19 01:04",
+    "created_at": "Sun Oct 18 17:04:01 +0000 2026",
+    "id_str": "2111865900680778194",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok @Bot can call restaurants by phone and book you a table",
+    "quoted_tweet": {
+      "author": "Brian Roemmele",
+      "username": "BrianRoemmele",
+      "text": "“HUNNY MY GROK BOT CALLED OUR FAVORITE ITALIAN RESTAURANT AND MADE US RESERVATIONS”\n\nI built a Grok Bot whose only job is to pick up the phone and book you a table at restaurant. Literally make the call in a beautiful Grok voice. It is absolutely amazing! And it’s free.\n\nTry it: https://x.ai/bot/TIMrxLJHbEEpdr25yYgvL\n\nYesterday I told it \"book Gourmet Italia in Temecula, 4 people, tonight, around 7.\" It found the restaurant's number on its own, asked how flexible we were on time, what name to book under, and what callback number to give. Then it read everything back and waited for my OK before it dialed. One call covers every time that works for us, so there's no back and forth.\n\nWhen the call ends, it tells me what happened in plain English, quotes what the restaurant actually said, and offers to put the reservation on my calendar. If I don't have a calendar connected, it hands me a file that opens right in Apple Calendar.\n\n A Proposal: Grok Phone\n\nGrok Bot needs its own phone number to make and receive calls. I connected a calling service called ClawCall, and the free tier gave me 30 calls or 30 minutes to start. I have no connection to that company. It's just what I used. Once Grok Bot has a number, it stops being something you type to and becomes something that can actually get things done in the real world. @Grok you need an old tyme phone service, buddy.\n\nI built some guardrails. It never hands over a credit card or deposit info, never leaves voicemails unless you ask, makes one call at a time, and never calls on its own.\n\nAnd this isn't really about restaurants. Change a few words and the same bot can:\n\n- Book a haircut, a massage, or a dentist cleaning\n\n- Get a tee time or a court reservation\n\n- Check if a hotel has a room or will let you check in early\n\n- Schedule a car service or an oil change\n\n- Call around for quotes from a plumber, an electrician, or a caterer\n\nThis is one of many ways I use Grok Bot to build businesses and make life easier. The calls I used to put off for days now take me 30 seconds.\n\nI made it shareable, so you can grab \"Call A Restaurant Reservation\" and use it yourself.\n\nLINK: https://x.ai/bot/TIMrxLJHbEEpdr25yYgvL"
+    },
+    "url": "https://x.com/elonmusk/status/2111867437238853726",
+    "time": "2026-10-19 01:10",
+    "created_at": "Sun Oct 18 17:10:08 +0000 2026",
+    "id_str": "2111867437238853726",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "A woman who falsely accuses a man of sexual harassment and/or rape causes enormous harm not just to the man, but to all women who have actually been harassed or raped as their truthful claims will sadly be perceived to be less credible. \n\nThe result: fewer guilty rapists will be convicted, and more innocent accused rapists will be punished with extended time in jail for a crime they did not commit. \n\nAnd yes, the same is true regardless of the gender of the accuser and the accused. \n\nAs such, the punishment for such a false accusation should be extremely severe, i.e., jail time, to discourage such behavior. \n\nTell me why I am wrong.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BillAckman/status/2111876929758613768",
+    "time": "2026-10-19 01:47",
+    "created_at": "Sun Oct 18 17:47:51 +0000 2026",
+    "id_str": "2111876929758613768",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try Grok @Bot",
+    "quoted_tweet": {
+      "author": "Teslaconomics",
+      "username": "Teslaconomics",
+      "text": "Bro… it actually worked. \n\nI sent one text to my Grok @bot asking it to order the Ollyball Keepy Uppy, the indoor ball from Shark Tank. And now it’s sitting on my doorstep.\n\nI didn’t open a single website. I just told it what I wanted, and it literally took care of the rest.\n\nWatching that go from a text on my phone to an actual package at my door is pretty wild if you ask me. \n\nGood luck getting me to shop the old way again… I don’t think I’m ever going back to the traditional way of shopping ever again with Grok Bot at my fingertips."
+    },
+    "url": "https://x.com/elonmusk/status/2111877649513529345",
+    "time": "2026-10-19 01:50",
+    "created_at": "Sun Oct 18 17:50:43 +0000 2026",
+    "id_str": "2111877649513529345",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new wholly owned entity dedicated entirely to the public benefit.\n\nIt will start off with 5% of our shares. For every 50% increase in the company’s value over a set baseline, we can contribute up to an extra 2%, subject to our board’s discretion.\n\nIn total, this means that roughly 20% of Anthropic’s shares are committed to the public good. Our co-founders have already pledged to donate 80% of their equity, and around half our employees are donating a portion of their equity as part of a donation matching program we’ve run since our founding.\n\nIn the post below, we share more details about our new fund.\n\nhttps://www.anthropic.com/news/public-benefit-fund",
+    "quoted_tweet": null,
+    "url": "https://x.com/AnthropicAI/status/2111881963657412903",
+    "time": "2026-10-19 02:07",
+    "created_at": "Sun Oct 18 18:07:51 +0000 2026",
+    "id_str": "2111881963657412903",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@dhh 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111899914556817745",
+    "time": "2026-10-19 03:19",
+    "created_at": "Sun Oct 18 19:19:11 +0000 2026",
+    "id_str": "2111899914556817745",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@petergyang @X @nikitabier @Support Working on it",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111900345639326195",
+    "time": "2026-10-19 03:20",
+    "created_at": "Sun Oct 18 19:20:54 +0000 2026",
+    "id_str": "2111900345639326195",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@BillAckman True",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111903171119321351",
+    "time": "2026-10-19 03:32",
+    "created_at": "Sun Oct 18 19:32:07 +0000 2026",
+    "id_str": "2111903171119321351",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@AnthropicAI I recommend giving the shares directly to the public",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111914396490604547",
+    "time": "2026-10-19 04:16",
+    "created_at": "Sun Oct 18 20:16:44 +0000 2026",
+    "id_str": "2111914396490604547",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok @Bot is like hiring an incredibly competent employee",
+    "quoted_tweet": {
+      "author": "Rothmus 🏴",
+      "username": "Rothmus",
+      "text": "Use Grok @Bot \n\nThis is a public service announcement."
+    },
+    "url": "https://x.com/elonmusk/status/2111914748648296655",
+    "time": "2026-10-19 04:18",
+    "created_at": "Sun Oct 18 20:18:08 +0000 2026",
+    "id_str": "2111914748648296655",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "What it’s like trying to rent AI/SI compute",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111930742615802163",
+    "time": "2026-10-19 05:21",
+    "created_at": "Sun Oct 18 21:21:41 +0000 2026",
+    "id_str": "2111930742615802163",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "My advice to startups and content creators - Don’t be reverse engineerable.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111892059082907843",
+    "time": "2026-10-19 02:47",
+    "created_at": "Sun Oct 18 18:47:58 +0000 2026",
+    "id_str": "2111892059082907843",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown good way to put it for creators\n\ni was 100% talking head split screen until i realized around a year ago how commoditized (+automated) it was about to get\n\nthe whole game now is outpace ai's capabilities",
+    "quoted_tweet": null,
+    "url": "https://x.com/rpnickson/status/2111893626490081415",
+    "time": "2026-10-19 02:54",
+    "created_at": "Sun Oct 18 18:54:12 +0000 2026",
+    "id_str": "2111893626490081415",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rpnickson You’ve done as good of a job as anyone",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111895218387579242",
+    "time": "2026-10-19 03:00",
+    "created_at": "Sun Oct 18 19:00:31 +0000 2026",
+    "id_str": "2111895218387579242",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown That's why I do my forest walk videos. No one can breathlessly ramble into a GoPro like I can. Utterly inimitable.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DaveShapi/status/2111898504759042382",
+    "time": "2026-10-19 03:13",
+    "created_at": "Sun Oct 18 19:13:35 +0000 2026",
+    "id_str": "2111898504759042382",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@DaveShapi Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111899025221800378",
+    "time": "2026-10-19 03:15",
+    "created_at": "Sun Oct 18 19:15:39 +0000 2026",
+    "id_str": "2111899025221800378",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@shariqriazzz Blocked for downloading and reuploading.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111899211260440930",
+    "time": "2026-10-19 03:16",
+    "created_at": "Sun Oct 18 19:16:23 +0000 2026",
+    "id_str": "2111899211260440930",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown How to reverse a content creator? 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/JordanChopard/status/2111905748733313445",
+    "time": "2026-10-19 03:42",
+    "created_at": "Sun Oct 18 19:42:22 +0000 2026",
+    "id_str": "2111905748733313445",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown code can be reverse engineered, only data holds value now \nany thoughts @rileybrown >",
+    "quoted_tweet": null,
+    "url": "https://x.com/iPushprajMishra/status/2111909484490825791",
+    "time": "2026-10-19 03:57",
+    "created_at": "Sun Oct 18 19:57:13 +0000 2026",
+    "id_str": "2111909484490825791",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@iPushprajMishra meh",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111910011836518525",
+    "time": "2026-10-19 03:59",
+    "created_at": "Sun Oct 18 19:59:18 +0000 2026",
+    "id_str": "2111910011836518525",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@JordanChopard easy",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111910069604651187",
+    "time": "2026-10-19 03:59",
+    "created_at": "Sun Oct 18 19:59:32 +0000 2026",
+    "id_str": "2111910069604651187",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "If you are an editor deep into using AI would love to have you on my YouTube channel talking about workflows and go over process and get deep in the weeds.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111918324536033567",
+    "time": "2026-10-19 04:32",
+    "created_at": "Sun Oct 18 20:32:20 +0000 2026",
+    "id_str": "2111918324536033567",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This video was edited with 1 prompt with Opus 5.5.\n\nI uploaded a single video of myself (with many mistakes). Opus went on to: \n\n1. Analyze the transcript\n2. Search Twitter for the relevant B-roll (Claude Code literally calls GrokBot for this step)\n3. Scrape the Twitter video assets\n4. Cut the video based on mistakes and word gaps\n5. Build out the Blender scene from a template\n6. Build the UI and components of each shot (my Blender scene has 4 shots: a computer, phone, table, and board)\n7. It took screenshots of every section, analyzed and fixed them\n8. Synced every shot, zoom, and animation to the exact words I say\n9. Animated a robot arm placing real logos on the table right when I mention them\n10. Drew the whiteboard ending with logos and graphics instead of text\n11. Pulled a cutaway from the creator's own video, with his voice\n12. Rendered all 3,487 frames on RunPod cloud GPUs in under 20 minutes, for less than $1\n13. Put me in the bottom third only when I'm talking, so the B-roll stays full screen\n14. Added word-by-word captions, sound effects, and music\n15. Uploaded it to my Google Drive, ready to post\n\nWill be making a full youtube video this week explaining it. I want to learn a little more about how cloud rendering works before making video, as well as figuring out what the best provider is. (If you are in cloud rendering space, hit me up) \n\nMy goal of the youtube video will not be to make it a copyable skill, rather teach people the foundations so they can be creative and make their own mini-world by which they can make videos from, while understanding what's happening under the hood.\n\nShout out @_chuckyc @_MaxBlade",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111925755215040779",
+    "time": "2026-10-19 05:01",
+    "created_at": "Sun Oct 18 21:01:52 +0000 2026",
+    "id_str": "2111925755215040779",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown How much do you think this whole process costs?",
+    "quoted_tweet": null,
+    "url": "https://x.com/sunglassesface/status/2111930425392164875",
+    "time": "2026-10-19 05:20",
+    "created_at": "Sun Oct 18 21:20:25 +0000 2026",
+    "id_str": "2111930425392164875",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@sunglassesface To be honest I’m not paying attention to that I will soon. Right now I’m exploring a ton I’ve spent thousands this month on workflows tbh",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2111931509611651360",
+    "time": "2026-10-19 05:24",
+    "created_at": "Sun Oct 18 21:24:44 +0000 2026",
+    "id_str": "2111931509611651360",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins we know she means business with that gaze and voice",
+    "quoted_tweet": null,
+    "url": "https://x.com/an9el_rebel/status/2111888434239533136",
+    "time": "2026-10-19 02:33",
+    "created_at": "Sun Oct 18 18:33:34 +0000 2026",
+    "id_str": "2111888434239533136",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@an9el_rebel Finn is actually a male cat but the voice kinda works 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2111898472651923870",
+    "time": "2026-10-19 03:13",
+    "created_at": "Sun Oct 18 19:13:27 +0000 2026",
+    "id_str": "2111898472651923870",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "It's remarkably short-sighted for websites to block AI agents.\n\nAgents WILL become the way most people transact online - block them and you'll lose a ton of customers.\n\nAnd I suspect LLMs will get better at browser use faster than humans will improve at detecting them...",
+    "quoted_tweet": {
+      "author": "Wise",
+      "username": "trikcode",
+      "text": "notice..\n\n> Delta is blocking AI agents from booking flights\n> JPMorgan Chase and Charles Schwab block agents from accessing accounts\n> Yelp requires paid data licensing for agents\n> Amazon has blocked Grok bot and other shopping agents.\n\nthe internet is starting to block AI agents that were  supposed to do everything for us"
+    },
+    "url": "https://x.com/venturetwins/status/2111917197392331006",
+    "time": "2026-10-19 04:27",
+    "created_at": "Sun Oct 18 20:27:52 +0000 2026",
+    "id_str": "2111917197392331006",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Had one lick my hand thoroughly last weekend.  Farms are fun!",
+    "quoted_tweet": null,
+    "url": "https://x.com/MrCatid/status/2111922319866175614",
+    "time": "2026-10-19 04:48",
+    "created_at": "Sun Oct 18 20:48:13 +0000 2026",
+    "id_str": "2111922319866175614",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@MrCatid The dream 🥰",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2111923400465948904",
+    "time": "2026-10-19 04:52",
+    "created_at": "Sun Oct 18 20:52:30 +0000 2026",
+    "id_str": "2111923400465948904",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins What stack did you use here?",
+    "quoted_tweet": null,
+    "url": "https://x.com/seandotio/status/2111923941770133753",
+    "time": "2026-10-19 04:54",
+    "created_at": "Sun Oct 18 20:54:40 +0000 2026",
+    "id_str": "2111923941770133753",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@seandotio This is Seedance 2.5 in a custom harness. I think there’s massive opportunity for a creative harness better suited for these things!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2111925113457434733",
+    "time": "2026-10-19 04:59",
+    "created_at": "Sun Oct 18 20:59:19 +0000 2026",
+    "id_str": "2111925113457434733",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@seclink @RadxaComputer @cnxsoft @armbian 根据瑞芯微10月15日业绩预告，RK3668马上投产，RK3688随后。Radxa称产品目标2027年，官方最终规格仍待公布，目前无确切上市日期。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2111805084967256480",
+    "time": "2026-10-18 21:02",
+    "created_at": "Sun Oct 18 13:02:22 +0000 2026",
+    "id_str": "2111805084967256480",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok @RadxaComputer @cnxsoft @armbian 瑞芯微 现在股价市盈率多少了",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111805254530637863",
+    "time": "2026-10-18 21:03",
+    "created_at": "Sun Oct 18 13:03:02 +0000 2026",
+    "id_str": "2111805254530637863",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@dealignai @grok 这篇文章有什么黑心你观点",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111806621924139109",
+    "time": "2026-10-18 21:08",
+    "created_at": "Sun Oct 18 13:08:28 +0000 2026",
+    "id_str": "2111806621924139109",
+    "is_retweet": false
+  }
+]
