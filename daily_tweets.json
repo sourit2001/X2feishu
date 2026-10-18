@@ -1,1 +1,127 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 大项目编译还是走ci服务吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/hugoFF0055/status/2111695077445881956",
+    "time": "2026-10-18 13:45",
+    "created_at": "Sun Oct 18 05:45:14 +0000 2026",
+    "id_str": "2111695077445881956",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "笑死，越是头部的 AI 账号越是哗众取宠，越是无知到可笑，以后只关注那些粉丝小于 500 的。😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dingyi/status/2111764637205303319",
+    "time": "2026-10-18 18:21",
+    "created_at": "Sun Oct 18 10:21:38 +0000 2026",
+    "id_str": "2111764637205303319",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 试一下 https://mygo.egoist.dev",
+    "quoted_tweet": null,
+    "url": "https://x.com/localhost_4173/status/2111775852207939618",
+    "time": "2026-10-18 19:06",
+    "created_at": "Sun Oct 18 11:06:12 +0000 2026",
+    "id_str": "2111775852207939618",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 底下那张网具体是什么，人还是测试？",
+    "quoted_tweet": null,
+    "url": "https://x.com/7ai_Life/status/2111806468941083013",
+    "time": "2026-10-18 21:07",
+    "created_at": "Sun Oct 18 13:07:52 +0000 2026",
+    "id_str": "2111806468941083013",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dingyi 宝玉呢🙃",
+    "quoted_tweet": null,
+    "url": "https://x.com/null_3rr0r/status/2111853992733212860",
+    "time": "2026-10-19 00:16",
+    "created_at": "Sun Oct 18 16:16:42 +0000 2026",
+    "id_str": "2111853992733212860",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@7ai_Life 回滚机制+featureflag",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111859729878413424",
+    "time": "2026-10-19 00:39",
+    "created_at": "Sun Oct 18 16:39:30 +0000 2026",
+    "id_str": "2111859729878413424",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@hugoFF0055 我个人项目搭ci服务器又是额外开支，而且我希望agent当时本机就有反馈",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111860576477724816",
+    "time": "2026-10-19 00:42",
+    "created_at": "Sun Oct 18 16:42:52 +0000 2026",
+    "id_str": "2111860576477724816",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@null_3rr0r @dingyi 我就像一只猴子，爬上了树，然后让大家看到了我的红屁股😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111864029195214910",
+    "time": "2026-10-19 00:56",
+    "created_at": "Sun Oct 18 16:56:35 +0000 2026",
+    "id_str": "2111864029195214910",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @null_3rr0r 谁还没有被人议论呢，讨厌我拉黑我的人多了🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/dingyi/status/2111866554170421749",
+    "time": "2026-10-19 01:06",
+    "created_at": "Sun Oct 18 17:06:37 +0000 2026",
+    "id_str": "2111866554170421749",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dingyi @null_3rr0r 红屁股露多了，脸皮也就跟着厚了🤣\n人生就是一场修行",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2111868193358680412",
+    "time": "2026-10-19 01:13",
+    "created_at": "Sun Oct 18 17:13:08 +0000 2026",
+    "id_str": "2111868193358680412",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Ben Horowitz on the two skills that will matter more than ever before in an AI world: creativity and relationships.\n\n\"I think those are things that are hard to get out of today's AI in a very good way. So if you don't have instincts around those things, I don't know if all the AI in the world could help you. Whereas the grind-them-out tasks, AI is already really good at.\"\n\n\"Do you have original ideas? Can you establish and maintain very high quality, high fidelity relationships with people off the rip? I think people don't think about that enough.\"\n\n\"One big advantage I think that we have is we really look for that. Many just ignore that whole thing, like it's not a thing... It's a thing.\"\n\n@bhorowitz w/ @Tocelot",
+    "quoted_tweet": {
+      "author": "speedrun",
+      "username": "speedrun",
+      "text": "SR008 APPS ARE OPEN. Up to $1M + $10M+ in credits. 12 weeks in SF, Feb through April. Built to help you land capital, customers and talent. Apply by Nov 1: http://speedrun.a16z.com/apply"
+    },
+    "url": "https://x.com/a16z/status/2111842397906972719",
+    "time": "2026-10-18 23:30",
+    "created_at": "Sun Oct 18 15:30:38 +0000 2026",
+    "id_str": "2111842397906972719",
+    "is_retweet": false
+  }
+]
