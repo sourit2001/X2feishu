@@ -182,5 +182,68 @@
     "created_at": "Sun Oct 18 14:33:31 +0000 2026",
     "id_str": "2111828025818136962",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This doesn’t seem to be a very robust strategy in the era of AIs that can use your computer on your behalf.",
+    "quoted_tweet": {
+      "author": "Wise",
+      "username": "trikcode",
+      "text": "notice..\n\n> Delta is blocking AI agents from booking flights\n> JPMorgan Chase and Charles Schwab block agents from accessing accounts\n> Yelp requires paid data licensing for agents\n> Amazon has blocked Grok bot and other shopping agents.\n\nthe internet is starting to block AI agents that were  supposed to do everything for us"
+    },
+    "url": "https://x.com/emollick/status/2111858791939772731",
+    "time": "2026-10-19 00:35",
+    "created_at": "Sun Oct 18 16:35:47 +0000 2026",
+    "id_str": "2111858791939772731",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "You don't want to give today's agents access to control your bank account, by the way, given how little we know about agentic security & prompt injection.\n\nBut coming up with a secure way to work with agents is probably going to better for everyone in the long run than just a ban",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2111882951835222215",
+    "time": "2026-10-19 02:11",
+    "created_at": "Sun Oct 18 18:11:47 +0000 2026",
+    "id_str": "2111882951835222215",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Developers are going to be a small part of total token usage over time, as the internal stats on usage at OpenAI and Anthropic both show. And for long-running high value tasks in areas where verification is harder, the benefits for higher \"intelligence\" models are quite large.",
+    "quoted_tweet": {
+      "author": "The Information",
+      "username": "theinformation",
+      "text": "OpenAI, Anthropic and other leading AI labs face a growing challenge: Better models aren't necessarily attracting more usage. A 10-point intelligence advantage now earns just 20% more developer traffic, down from nearly 69% in late 2025. \n\nFull story: https://thein.fo/4hGJ9jY"
+    },
+    "url": "https://x.com/emollick/status/2111884340955062274",
+    "time": "2026-10-19 02:17",
+    "created_at": "Sun Oct 18 18:17:18 +0000 2026",
+    "id_str": "2111884340955062274",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick depends what you think a developer is",
+    "quoted_tweet": null,
+    "url": "https://x.com/marcelmarais/status/2111884473495392428",
+    "time": "2026-10-19 02:17",
+    "created_at": "Sun Oct 18 18:17:50 +0000 2026",
+    "id_str": "2111884473495392428",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@marcelmarais Sure, everyone writes code, but I still think there is a special place in the current world of AI for people who focus on code.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2111885057623281685",
+    "time": "2026-10-19 02:20",
+    "created_at": "Sun Oct 18 18:20:09 +0000 2026",
+    "id_str": "2111885057623281685",
+    "is_retweet": false
   }
 ]
