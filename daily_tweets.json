@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Given the acceleration Anthropic is reporting in coding, it is amazing that you still cannot change your email address in Claude and the official advice is that if you need to change your email the only way to do that is delete your account.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2111925398548193574",
+    "time": "2026-10-19 05:00",
+    "created_at": "Sun Oct 18 21:00:27 +0000 2026",
+    "id_str": "2111925398548193574",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I don't really get it. \nWhy is Grok Bot allowed in the EU but Dots take that much time?",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "@argofowl EU sorry. We’re making it so that\n\n(a) if you had created a dot elsewhere and find yourself in the EU it will keep working\n(b) dots are coming to the EU in the future"
+    },
+    "url": "https://x.com/LexnLin/status/2111853206573814003",
+    "time": "2026-10-19 00:13",
+    "created_at": "Sun Oct 18 16:13:35 +0000 2026",
+    "id_str": "2111853206573814003",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@littlelion_love We’ll see",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2111918635849801739",
+    "time": "2026-10-19 04:33",
+    "created_at": "Sun Oct 18 20:33:34 +0000 2026",
+    "id_str": "2111918635849801739",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "People have escaped the TL and are asking me for resets on the street now. I’ll make little cards to hand out",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2111918768733753664",
+    "time": "2026-10-19 04:34",
+    "created_at": "Sun Oct 18 20:34:06 +0000 2026",
+    "id_str": "2111918768733753664",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@LexnLin We do care about local regulation",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2111941223187710114",
+    "time": "2026-10-19 06:03",
+    "created_at": "Sun Oct 18 22:03:20 +0000 2026",
+    "id_str": "2111941223187710114",
+    "is_retweet": false
+  }
+]
