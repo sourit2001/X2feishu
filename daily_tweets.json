@@ -72,5 +72,149 @@
     "created_at": "Sun Oct 18 05:57:54 +0000 2026",
     "id_str": "2111698263854260375",
     "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Long-Context Drafting Does Not Require Long-Context Drafters\n\nBy bounding cache size and rebasing position indices, frozen short-context drafters can retain their short-context speedup out to two million tokens without retraining, across tested pairs.\n\nhttps://arxivb.org/abs/2610.20865",
+    "quoted_tweet": null,
+    "url": "https://x.com/arXivBangers/status/2111598190453801175",
+    "time": "2026-10-18 07:20",
+    "created_at": "Sat Oct 17 23:20:14 +0000 2026",
+    "id_str": "2111598190453801175",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "…so world models have x-ray vision?",
+    "quoted_tweet": null,
+    "url": "https://x.com/_gundawar/status/2111642175054524729",
+    "time": "2026-10-18 10:15",
+    "created_at": "Sun Oct 18 02:15:01 +0000 2026",
+    "id_str": "2111642175054524729",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "mark，学习一下，晚一些验收一下。",
+    "quoted_tweet": {
+      "author": "painn",
+      "username": "painn_x",
+      "text": "DeepSeek V4.1 Flash UNCENSORED is FREEE 😳\n\nno jailbreak needed, straight up uncensored\n\nwhat you get:\n- DeepSeek V4.1 Flash uncensored\n- 1.05M context\n- 60 tok/s, tested\n\ntry it here: https://platform.xplabs.ai"
+    },
+    "url": "https://x.com/seclink/status/2111720449034146150",
+    "time": "2026-10-18 15:26",
+    "created_at": "Sun Oct 18 07:26:03 +0000 2026",
+    "id_str": "2111720449034146150",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "关注 ... 不知道效果如何。",
+    "quoted_tweet": {
+      "author": "Google Antigravity",
+      "username": "antigravity",
+      "text": "We’re rolling out Gemini 4 Argon in Antigravity to paid Google AI Pro subscribers today. Demand has been incredible and we've scaled capacity deliberately to get here. We’ve rolled out a separate weekly-only Argon quota for Pro on top of the existing Gemini bucket for 3.8 Flash so you have the best of Gemini for all your tasks."
+    },
+    "url": "https://x.com/seclink/status/2111725476377194609",
+    "time": "2026-10-18 15:46",
+    "created_at": "Sun Oct 18 07:46:02 +0000 2026",
+    "id_str": "2111725476377194609",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "值得关注，看一看。",
+    "quoted_tweet": {
+      "author": "hmsk",
+      "username": "hmsk",
+      "text": "だいたいこれを各位が思い思いにつくっている\nhttps://github.com/google-research/harness2"
+    },
+    "url": "https://x.com/seclink/status/2111726467046682923",
+    "time": "2026-10-18 15:49",
+    "created_at": "Sun Oct 18 07:49:58 +0000 2026",
+    "id_str": "2111726467046682923",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这是FireFLY，目前最小的Arduino兼容开发板（仅10x10mm），基于RISC-V芯片CH32X035，带USB-C、5个GPIO、2个RGB LED和触摸板，专为艺术/可穿戴项目设计。刚由pkuhar发布，原型一周内出，预售中。\n\n淘宝搜不到这款（太新了），直接去官网预购：http://firefly.inteliwear.xyz。类似小尺寸可搜“Seeeduino XIAO”或“最小Arduino开发板”。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2111727009600540752",
+    "time": "2026-10-18 15:52",
+    "created_at": "Sun Oct 18 07:52:07 +0000 2026",
+    "id_str": "2111727009600540752",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@turingpi @grok 这个内容里描述的是啥东西，我可以在淘宝搜索什么关键词买到它",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111727237787766983",
+    "time": "2026-10-18 15:53",
+    "created_at": "Sun Oct 18 07:53:02 +0000 2026",
+    "id_str": "2111727237787766983",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@AksharVastarpar @grok  这个帖子里描述的是什么观点",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111727613941293458",
+    "time": "2026-10-18 15:54",
+    "created_at": "Sun Oct 18 07:54:31 +0000 2026",
+    "id_str": "2111727613941293458",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok @pkuhar @grok 它和 esp32-s3 有啥区别？为啥卖这么贵",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111728249147646025",
+    "time": "2026-10-18 15:57",
+    "created_at": "Sun Oct 18 07:57:03 +0000 2026",
+    "id_str": "2111728249147646025",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@arXivBangers @grok 这篇文章里讲了什么观点，用的是什么数据集",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111736086225637885",
+    "time": "2026-10-18 16:28",
+    "created_at": "Sun Oct 18 08:28:11 +0000 2026",
+    "id_str": "2111736086225637885",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@_gundawar @grok 这个视频用的是什么算法，手的标注怎么这么稳定",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111736312990679216",
+    "time": "2026-10-18 16:29",
+    "created_at": "Sun Oct 18 08:29:05 +0000 2026",
+    "id_str": "2111736312990679216",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@seclink @_gundawar 这个视频里的手部标注不是真值，而是世界模型的预测输出。类似ACE-Ego-Hand这类方法，把视频扩散模型当几何编码器，用干净潜在特征和双向时空解码，在遮挡时也能稳定推断完整手部姿态（所谓x-ray vision），所以跟踪很稳。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2111736630256009694",
+    "time": "2026-10-18 16:30",
+    "created_at": "Sun Oct 18 08:30:21 +0000 2026",
+    "id_str": "2111736630256009694",
+    "is_retweet": true
   }
 ]
