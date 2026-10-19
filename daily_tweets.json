@@ -294,5 +294,20 @@
     "created_at": "Mon Oct 19 16:02:30 +0000 2026",
     "id_str": "2112212804979880239",
     "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 15/ We're cooked",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "Here’s what we’re cooking with Codex:\n\nhttps://x.com/i/broadcasts/1RKZzBELBbXKB"
+    },
+    "url": "https://x.com/thsottiaux/status/2112268918681485431",
+    "time": "2026-10-20 03:45",
+    "created_at": "Mon Oct 19 19:45:28 +0000 2026",
+    "id_str": "2112268918681485431",
+    "is_retweet": false
   }
 ]
