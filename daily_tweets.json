@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@AnthropicAI This is what I will be doing",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2111980598084698114",
+    "time": "2026-10-19 08:39",
+    "created_at": "Mon Oct 19 00:39:47 +0000 2026",
+    "id_str": "2111980598084698114",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "If he means by donating via Invest America (Trump) accounts, then I think this a very good idea! The single most optimistic future is one where the entire next generation owns a piece of SpaceX. Ownership is amongst the most American ideals. Owning a piece of a space faring future is next level American Optimism.",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@AnthropicAI This is what I will be doing"
+    },
+    "url": "https://x.com/aaronburnett/status/2111983360318865765",
+    "time": "2026-10-19 08:50",
+    "created_at": "Mon Oct 19 00:50:46 +0000 2026",
+    "id_str": "2111983360318865765",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@GadSaad 🎯",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2112010554353349118",
+    "time": "2026-10-19 10:38",
+    "created_at": "Mon Oct 19 02:38:50 +0000 2026",
+    "id_str": "2112010554353349118",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@KenPaxtonTX True",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2112010856892608907",
+    "time": "2026-10-19 10:40",
+    "created_at": "Mon Oct 19 02:40:02 +0000 2026",
+    "id_str": "2112010856892608907",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Control of the senate will decide the future of America",
+    "quoted_tweet": {
+      "author": "ThePersistence",
+      "username": "ScottPresler",
+      "text": "Early in-person voting begins in Texas tomorrow. \n\nI ask for your votes for @KenPaxtonTX. \n\n🗓️ Monday, October 19th"
+    },
+    "url": "https://x.com/elonmusk/status/2112015643126165669",
+    "time": "2026-10-19 10:59",
+    "created_at": "Mon Oct 19 02:59:03 +0000 2026",
+    "id_str": "2112015643126165669",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This describes the conversation SpaceX has had when we have tried to rent inference compute from AWS, GCP or anyone at, so that we can shift load off our training clusters!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2112017286764659176",
+    "time": "2026-10-19 11:05",
+    "created_at": "Mon Oct 19 03:05:35 +0000 2026",
+    "id_str": "2112017286764659176",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@TimSweeneyEpic @garrytan @KenneyNL Tim Sweeney is right (obviously)",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2112018830088393044",
+    "time": "2026-10-19 11:11",
+    "created_at": "Mon Oct 19 03:11:43 +0000 2026",
+    "id_str": "2112018830088393044",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@aaronburnett Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2112019491203031156",
+    "time": "2026-10-19 11:14",
+    "created_at": "Mon Oct 19 03:14:20 +0000 2026",
+    "id_str": "2112019491203031156",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@lxe 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2112027140459995549",
+    "time": "2026-10-19 11:44",
+    "created_at": "Mon Oct 19 03:44:44 +0000 2026",
+    "id_str": "2112027140459995549",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "So interesting. Everyone is talking about how AI slop is the problem. \n\nBut all I’m seeing over the past few weeks is AI REMOVING SLOP. \n\nBetween this, smart tvs, video game consoles, people removing apps and replacing them with agents.\n\nAI is removing slop.",
+    "quoted_tweet": {
+      "author": "Adrian",
+      "username": "adriandlam_",
+      "text": "this is wild\n\nconnected the kindle over usb and let claude code jailbreak the kindle\n\nremoved all the Amazon bloat + added tailscale"
+    },
+    "url": "https://x.com/rileybrown/status/2111998517854277885",
+    "time": "2026-10-19 09:51",
+    "created_at": "Mon Oct 19 01:51:00 +0000 2026",
+    "id_str": "2111998517854277885",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "the hardest part about making good content on AI agents is that all the best workflows involve sensitive data. I have so many good workflows that i can't show.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2112019022447526206",
+    "time": "2026-10-19 11:12",
+    "created_at": "Mon Oct 19 03:12:29 +0000 2026",
+    "id_str": "2112019022447526206",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins since getting a cat,  your social media game is 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/MattRHeiman/status/2111937839286063465",
+    "time": "2026-10-19 05:49",
+    "created_at": "Sun Oct 18 21:49:53 +0000 2026",
+    "id_str": "2111937839286063465",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Damn they're really taking ALL the jobs",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2111955614989680857",
+    "time": "2026-10-19 07:00",
+    "created_at": "Sun Oct 18 23:00:31 +0000 2026",
+    "id_str": "2111955614989680857",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@MattRHeiman Hahahaha thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2111969600531538344",
+    "time": "2026-10-19 07:56",
+    "created_at": "Sun Oct 18 23:56:05 +0000 2026",
+    "id_str": "2111969600531538344",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Top AI Papers of The Week (October 12-18):\n\n- Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation\n- OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding\n- Jeva: System One Models from First Principles\n- VideoJev: System One Model for Video Understanding and Interaction\n- MJev-Spatial: System One Spatial Intelligence via Native Attention Matching\n- Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation\n- Player-1: Learning to Play from Synthetic Experience\n- GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives\n- DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models\n- OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use\n\nFind them below:",
+    "quoted_tweet": null,
+    "url": "https://x.com/HuggingPapers/status/2111822088059474278",
+    "time": "2026-10-18 22:09",
+    "created_at": "Sun Oct 18 14:09:56 +0000 2026",
+    "id_str": "2111822088059474278",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Animate UI 2.0 is out 🎉\n\nAnimated primitives for Radix UI, Base UI and React Aria, built with Motion. \nKeep your shadcn/ui components.\n\n✔ A CLI that animates them in one command\n✔ An AI skill that animates anything (components, icons, interactions) and reviews your motion",
+    "quoted_tweet": null,
+    "url": "https://x.com/animate_ui/status/2111882479774896338",
+    "time": "2026-10-19 02:09",
+    "created_at": "Sun Oct 18 18:09:54 +0000 2026",
+    "id_str": "2111882479774896338",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@HuggingPapers @grok 这个列表中有什么值得一看的算法？有什么创新，消费什么数据集？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2111983934297047357",
+    "time": "2026-10-19 08:53",
+    "created_at": "Mon Oct 19 00:53:03 +0000 2026",
+    "id_str": "2111983934297047357",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@animate_ui @grok 这个产品相比于 shadcn ，效果如何？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2112001039809523898",
+    "time": "2026-10-19 10:01",
+    "created_at": "Mon Oct 19 02:01:01 +0000 2026",
+    "id_str": "2112001039809523898",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 这篇文章说了啥观点，使用了啥数据集合。",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Claude writes about 90% of Claude Code's code.\n\nFrom June to September, merged PRs more than doubled while the share reverted fell by more than 40%.\n\nWe wrote about how we changed code review to get there, and how to adopt it:\n\nhttps://claude.dev/blog/solving-code-review-at-anthropic/"
+    },
+    "url": "https://x.com/seclink/status/2112014106706452618",
+    "time": "2026-10-19 10:52",
+    "created_at": "Mon Oct 19 02:52:57 +0000 2026",
+    "id_str": "2112014106706452618",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这篇文章说了啥观点，用了啥数据集合？",
+    "quoted_tweet": {
+      "author": "Paweł Huryn",
+      "username": "PawelHuryn",
+      "text": "Turns out DeepSeek harness improves the score of DeepSeek V4.1 Flash by 2-3 points on average.\n\nIt also costs 80% more due to subagents and more output tokens.\n\nNew results:\n\nDeepSeek V4.1 Flash 1017 + Claude Code harness:\n- max, mean of 7: 39.1\n- high, mean of 5: 36.4\n- low, mean of 5: 34.4\n\nDeepSeek V4.1 Flash 1017 + DeepSeek harness:\n- max, mean of 7: 42.7\n- high, mean of 5: 39.2\n- low, mean of 5: 34.8\n\nFor comparison:\n\nGPT-6 Astra, max: 45\nOpus 5.5, max: 41.7\nMuse Wonder Full 1.0, max: 42\n\nIt's a crazy model, and the only one catched cheating. All the results are available on the benchmark website."
+    },
+    "url": "https://x.com/seclink/status/2112014181994217594",
+    "time": "2026-10-19 10:53",
+    "created_at": "Mon Oct 19 02:53:14 +0000 2026",
+    "id_str": "2112014181994217594",
+    "is_retweet": false
+  }
+]
