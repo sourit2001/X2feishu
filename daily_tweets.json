@@ -682,5 +682,222 @@
     "created_at": "Mon Oct 19 16:26:58 +0000 2026",
     "id_str": "2112218960632717631",
     "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Writing good STATA code was very important for my academic career. It looks like that skill is largely becoming obsolete. (Also take this is as a notice to academics who still think of AI in terms of chatbots, not agents, that a lot has changed in a year) https://cepr.org/voxeu/columns/letting-ai-agents-write-econometric-code",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112165213202157907",
+    "time": "2026-10-19 20:53",
+    "created_at": "Mon Oct 19 12:53:23 +0000 2026",
+    "id_str": "2112165213202157907",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "My book comes out tomorrow, so this is the last day to qualify for the pre-order bonus: a fun 10 minute AI voice interview that gives you personalized prompts, ideas, & readings based on ideas from the book\n\nYou can order & claim the pre-order bonus here: https://co-existence.ai/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112210597571862980",
+    "time": "2026-10-19 23:53",
+    "created_at": "Mon Oct 19 15:53:44 +0000 2026",
+    "id_str": "2112210597571862980",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Is the whole audio book ai generated in your voice? Or is it you reading it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Voldemort167/status/2112210783782547531",
+    "time": "2026-10-19 23:54",
+    "created_at": "Mon Oct 19 15:54:28 +0000 2026",
+    "id_str": "2112210783782547531",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Voldemort167 I read it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112211458247577718",
+    "time": "2026-10-19 23:57",
+    "created_at": "Mon Oct 19 15:57:09 +0000 2026",
+    "id_str": "2112211458247577718",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick $17 for a kindle version? That’s some inflation right there 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/Sams_Antics/status/2112211699269025929",
+    "time": "2026-10-19 23:58",
+    "created_at": "Mon Oct 19 15:58:06 +0000 2026",
+    "id_str": "2112211699269025929",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Sams_Antics Sadly i don’t decide pricing",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112212901737976128",
+    "time": "2026-10-20 00:02",
+    "created_at": "Mon Oct 19 16:02:53 +0000 2026",
+    "id_str": "2112212901737976128",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Will be available in spanish too?",
+    "quoted_tweet": null,
+    "url": "https://x.com/josesmartphone/status/2112217206675124709",
+    "time": "2026-10-20 00:19",
+    "created_at": "Mon Oct 19 16:19:59 +0000 2026",
+    "id_str": "2112217206675124709",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick I bought 3 on the https://amazon.de - do i qualify? :o",
+    "quoted_tweet": null,
+    "url": "https://x.com/EliasMunk/status/2112218597141459312",
+    "time": "2026-10-20 00:25",
+    "created_at": "Mon Oct 19 16:25:31 +0000 2026",
+    "id_str": "2112218597141459312",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@josesmartphone Yes!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112229706418536699",
+    "time": "2026-10-20 01:09",
+    "created_at": "Mon Oct 19 17:09:39 +0000 2026",
+    "id_str": "2112229706418536699",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@EliasMunk Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112229752110981224",
+    "time": "2026-10-20 01:09",
+    "created_at": "Mon Oct 19 17:09:50 +0000 2026",
+    "id_str": "2112229752110981224",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "parallel agents just went mainstream.\n\nOpenAI shipped it in ChatGPT last week: GPT-6 Astra Pro can now split a task across several agents running at the same time, and you can follow each one's progress and open its finished work. The same week a Sakana AI paper on orchestrating coding agents for research made the harder point. Their system runs task drafting, planning, sandboxed experiments, baselines, analysis and report writing as separate agents. A meta-controller runs them in parallel and checks every stage against a rubric. Their ablations showed reliable autonomy depends on that orchestration layer as much as on the model underneath.\n\nthe default that costs you: handing one agent one giant task and waiting. parallelism without a plan makes the mess faster.\n\nwhat I do before fanning anything out: write the scope and the acceptance criteria for each piece first. what finished looks like, what is out of bounds, what gets checked at the end. then split. an agent with a rubric finishes the job it was given.\n\nthe check: if two of your parallel agents can't say what the other one owns, the split was wrong.\n\nI keep one prompt for exactly this scoping step. it refuses to write a single line until the task is bounded, which is the whole point.\n\nSakana's development version of this system helped write a paper that was accepted as a main-conference talk at ALIFE 2026, after human verification and edits.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112193311566102845",
+    "time": "2026-10-19 22:45",
+    "created_at": "Mon Oct 19 14:45:02 +0000 2026",
+    "id_str": "2112193311566102845",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the scoping prompt I use before any agent runs, it bounds the task first:\n\nhttps://godofprompt.ai/prompt-library/write-custom-automation-scripts",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112193324199313760",
+    "time": "2026-10-19 22:45",
+    "created_at": "Mon Oct 19 14:45:05 +0000 2026",
+    "id_str": "2112193324199313760",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you're running agents in parallel and want them finishing instead of looping.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112193335968534624",
+    "time": "2026-10-19 22:45",
+    "created_at": "Mon Oct 19 14:45:08 +0000 2026",
+    "id_str": "2112193335968534624",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "事实是老板有审美，重视体验也没有用。当一个项目上百人维护，老板一个人管不过来，又要把竞争压力作为 KPI 往下传达时。所有有可能增加数据的提案，无论多丑都会被端上来。不存在既要下面人背 KPI，又要老板自己能坚持审美的两全方案。\n而 AI 的出现，有可能改变这一点。软件工程的规模不再是竞争壁垒。期待着坚持独特审美的小团队作品，吊打那些丑陋的巨无霸。",
+    "quoted_tweet": {
+      "author": "yunjie",
+      "username": "xdanger",
+      "text": "很多人颠倒了因果关系，垄断、14亿人基建、超级 App …… 这些都是结果，不是原因。淘宝、微信、支付宝、滴滴、美团、抖音 …… 从一开始都不是、也没要做超级 App，全都是在极其激烈的竞争中杀出来的。\n\n也没有任何一个老板不重视体验和视觉设计的，谁不想自己的产品又好用又优雅好看？\n\n我觉得底层原因是中国缺乏足够的对于创新的知识产权保护，抄袭者的法律风险成本太低，导致竞争过度激烈，大家不得不向用户需求做妥协 —— 红点、红包、抽奖、登录奖励。特别是在免费使用的消费互联网市场，不做到第一就没法建立足够强的生态让自己能长期生存下去。\n\n不知道在 AI 时代，维持业务的成本大幅下降之后，会不会出来一批又好看又好用、而且是能长期存活下去的产品。"
+    },
+    "url": "https://x.com/DashHuang/status/2112163813160333468",
+    "time": "2026-10-19 20:47",
+    "created_at": "Mon Oct 19 12:47:49 +0000 2026",
+    "id_str": "2112163813160333468",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "最近大鲸鱼的画风走向…\n太迷了",
+    "quoted_tweet": {
+      "author": "サイバー環状線",
+      "username": "CyberKanjousen",
+      "text": "以防你不知道这是 DSH 最新的思考动画：\n\n鲸鱼娘摇尾巴.gif"
+    },
+    "url": "https://x.com/oran_ge/status/2112166036472787108",
+    "time": "2026-10-19 20:56",
+    "created_at": "Mon Oct 19 12:56:39 +0000 2026",
+    "id_str": "2112166036472787108",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 官网Codex风太浓厚了",
+    "quoted_tweet": null,
+    "url": "https://x.com/lukema95/status/2112180428409065869",
+    "time": "2026-10-19 21:53",
+    "created_at": "Mon Oct 19 13:53:51 +0000 2026",
+    "id_str": "2112180428409065869",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@lukema95 免费的 可以了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2112186962602020944",
+    "time": "2026-10-19 22:19",
+    "created_at": "Mon Oct 19 14:19:49 +0000 2026",
+    "id_str": "2112186962602020944",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "agent 卖的是什么（token、result、seat），就会有相应的定价方式。\n\n反过来，通过定价方式，可以看到厂家是如何定义自己的售卖对象。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2112224602265104474",
+    "time": "2026-10-20 00:49",
+    "created_at": "Mon Oct 19 16:49:23 +0000 2026",
+    "id_str": "2112224602265104474",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "稀缺能力项：\n\n对 ai 的回答说出哪里“不行”",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2112226590382080465",
+    "time": "2026-10-20 00:57",
+    "created_at": "Mon Oct 19 16:57:17 +0000 2026",
+    "id_str": "2112226590382080465",
+    "is_retweet": false
   }
 ]
