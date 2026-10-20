@@ -1,1 +1,280 @@
-[]
+[
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman Banger as always\n\nI’ve found it helpful to work with someone that isn’t an exec but can talk to the champion exec as they have more time on their hands to help you interview and work across the entire company",
+    "quoted_tweet": null,
+    "url": "https://x.com/verrsane/status/2112293187528413464",
+    "time": "2026-10-20 05:21",
+    "created_at": "Mon Oct 19 21:21:55 +0000 2026",
+    "id_str": "2112293187528413464",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Many under estimate the detailed mapping or understanding of the business that is required up front. \n\nAsking the right questions especially with upstream and downstream considerations. \n\nI find those that also have a data understanding are able to ask much better questions of process.",
+    "quoted_tweet": null,
+    "url": "https://x.com/brucedando_/status/2112302431254245471",
+    "time": "2026-10-20 05:58",
+    "created_at": "Mon Oct 19 21:58:38 +0000 2026",
+    "id_str": "2112302431254245471",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The biggest AI workflows, ripe for agent-ification in each department, that we've seen at Varick:\n\n1. Finance\na. Manage AP exceptions: most AP teams are managing 600-800 exceptions a month where invoices don't match POs or receipts and require manual resolution\nb. Automate your month end close: background execution of bank recs, accruals, intercompany, etc. can get your close cycle from 18-22 days to 7-9 days\nc. Cash application and collections: automate matching remittance advice to open invoices and getting customers to pay on time\n\n2. Sales Ops\na. Manage CRM data and rep admin: we see sales reps spend 38% of their time updating Salesforce\nb. Deal desk approvals: we see deals take 23 days to get discounts, pricing, etc. approved\nc. Prepare for forecast calls: ensure all the right data is available for each deal to prepare for Monday forecast calls (call notes, stage changes, next steps, etc.)\n\n3. HR\na. Manage payroll changes: compare your ATS, HRIS, and payroll systems before payroll to make sure all new hires, raises, terminations, etc. are accurate. Most payroll corrections are due to issues before the payroll run.\nb. Handle employee inquiries: we've seen up to 80% of inquiries for PTO, benefits, policy questions, etc. can be handled without human intervention\nc. Onboarding: manage the process from offer acceptance to day 1, including background checks, equipment, account provisioning, I-9, etc.\n\n4. Legal\na. Redline contracts: reduce turnaround time from 5+ days to same day for first pass redlines on NDAs, MSAs, vendor contracts, etc. based on your contract playbook\nb. Contract intake: manage the intake process for contracts, including determining the requestor, type of contract, contract template, contract lawyer, etc.\nc. Track contract obligations: extract contract renewal dates, notice periods, auto-renewal provisions, etc. from signed contracts\n\n5. Operations\na. Disruption management: move from a week-long process to manage shipment delays, supplier issues, etc. to a few hours\nb. Order management exceptions: many orders have exceptions that require manual management, whether it's a customer on credit hold, bad ship address, lack of inventory, etc.\n\n6. Procurement\na. Supplier onboarding: reduce the time it takes to onboard new suppliers from 26 days to 4 by automating collection of W-9s, banking info, insurance, sanctions, etc.\nb. 3-way match: compare invoices to POs and receiving documents to identify instances of duplicate invoices, invoices over PO price, etc.\n\n7. IT\na. Joiners, movers, and leavers: ensure employees have all the right access on day 1, instead of day 4, and remove access the day they leave\nb. Ticket routing: we see 1 in 3 IT tickets are routed to the wrong team and require rerouting\n\n8. Marketing\na. Speed to lead: enrich, score, and route inbound demo requests to the right sales rep in under 5 minutes\nb. Media reconciliation: reconcile media invoices to insertion orders and media actually run to identify the 8-12% of media spend that is lost\n\n9. Customer Operations\na. Route escalations to the right team the first time, instead of having them bounce back and forth between support and engineering multiple times\nb. Create case summaries to ensure your engineering team doesn't send cases back for additional details\n\nAll of these can be run in the background using your existing systems (NetSuite, Salesforce, SAP, ServiceNow, Dynamics, etc.) and exceptions can be routed to your people.\n\nIf you can solve these for your clients, you'll make them very happy.\n\nBut in order to succeed across the entire company, you have to go about this systematically. \n\nRead more on how to go about it below:",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/vasuman/status/2112312466726060128",
+    "time": "2026-10-20 06:38",
+    "created_at": "Mon Oct 19 22:38:31 +0000 2026",
+    "id_str": "2112312466726060128",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Most companies that are stuck with a pile of AI pilots built them within one team, without mapping the process or defining the metrics first",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/eyad_khrais/status/2112325410726010995",
+    "time": "2026-10-20 07:29",
+    "created_at": "Mon Oct 19 23:29:57 +0000 2026",
+    "id_str": "2112325410726010995",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "\"There's no silver bullet that results in 90% efficiency gains\"\n\n...But this article is a great primer on how to approach AI Transformation!",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/dkfromdk/status/2112327955615727919",
+    "time": "2026-10-20 07:40",
+    "created_at": "Mon Oct 19 23:40:04 +0000 2026",
+    "id_str": "2112327955615727919",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "\"There's no silver bullet that results in 90% efficiency gains\"\n\n...But this article is a great primer on how to approach AI Transformation!",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/dkfromdk/status/2112327955615727919",
+    "time": "2026-10-20 07:40",
+    "created_at": "Mon Oct 19 23:40:04 +0000 2026",
+    "id_str": "2112327955615727919",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "CTRL + A\nCTRL + C\n*open claude*\nCTRL + V\n\nthis is literally the blueprint to making 6 figures per month with an agency",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/EXM7777/status/2112331562331345311",
+    "time": "2026-10-20 07:54",
+    "created_at": "Mon Oct 19 23:54:24 +0000 2026",
+    "id_str": "2112331562331345311",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "CTRL + A\nCTRL + C\n*open claude*\nCTRL + V\n\nthis is literally the blueprint to making 6 figures per month with an agency",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/EXM7777/status/2112331562331345311",
+    "time": "2026-10-20 07:54",
+    "created_at": "Mon Oct 19 23:54:24 +0000 2026",
+    "id_str": "2112331562331345311",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The best in the business.\n\nI kneel",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/giyu_codes/status/2112331803499614457",
+    "time": "2026-10-20 07:55",
+    "created_at": "Mon Oct 19 23:55:21 +0000 2026",
+    "id_str": "2112331803499614457",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "this is exactly it.",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "https://x.com/i/article/2111222023745945600"
+    },
+    "url": "https://x.com/DevinMcNultyEGP/status/2112333152526242016",
+    "time": "Tue Oct 20 00:00:43 +0000 2026",
+    "created_at": "Tue Oct 20 00:00:43 +0000 2026",
+    "id_str": "2112333152526242016",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@DevinMcNultyEGP 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2112339171260187083",
+    "time": "Tue Oct 20 00:24:38 +0000 2026",
+    "created_at": "Tue Oct 20 00:24:38 +0000 2026",
+    "id_str": "2112339171260187083",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@giyu_codes 🔥🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2112339221889364012",
+    "time": "Tue Oct 20 00:24:50 +0000 2026",
+    "created_at": "Tue Oct 20 00:24:50 +0000 2026",
+    "id_str": "2112339221889364012",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@EXM7777 🔥🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2112339255154630907",
+    "time": "Tue Oct 20 00:24:58 +0000 2026",
+    "created_at": "Tue Oct 20 00:24:58 +0000 2026",
+    "id_str": "2112339255154630907",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dkfromdk 🙏🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2112339285135462485",
+    "time": "Tue Oct 20 00:25:05 +0000 2026",
+    "created_at": "Tue Oct 20 00:25:05 +0000 2026",
+    "id_str": "2112339285135462485",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@eyad_khrais 🙏🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2112339333105758498",
+    "time": "Tue Oct 20 00:25:17 +0000 2026",
+    "created_at": "Tue Oct 20 00:25:17 +0000 2026",
+    "id_str": "2112339333105758498",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@verrsane True!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2112339398662717871",
+    "time": "Tue Oct 20 00:25:32 +0000 2026",
+    "created_at": "Tue Oct 20 00:25:32 +0000 2026",
+    "id_str": "2112339398662717871",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@brucedando_ Many are saying this",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2112339444049264689",
+    "time": "Tue Oct 20 00:25:43 +0000 2026",
+    "created_at": "Tue Oct 20 00:25:43 +0000 2026",
+    "id_str": "2112339444049264689",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Ben Horowitz on treating your story as your strategy, and why founders often skip writing it even though it's one of the most important parts of the job:\n\n\"The story of the company is also the strategy of the company... In your mind, you're kind of adjusting that strategy a little bit at a time every day. But then a quarter later, it's actually pretty different than what you started with.\"\n\n\"So it's really important that you keep upgrading your story. The articulation of your story. I would definitely recommend it be in written form.\"\n\n\"Something that you can share with everybody in the company, and everybody you're recruiting, everybody you're trying to raise money from, all your constituents, every customer.\"\n\n\"The problem that I think founders have is it doesn't feel like work. Like, 'What are you doing today?' 'I'm working on my story.' That doesn't sound like work.\"\n\n\"Because it doesn't feel like work, people don't do it, but it's probably one of the most important parts of the job.\"\n\n@bhorowitz w/ @speedrun GP @Tocelot",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2112321778819440880",
+    "time": "2026-10-20 07:15",
+    "created_at": "Mon Oct 19 23:15:31 +0000 2026",
+    "id_str": "2112321778819440880",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Love this prompt.",
+    "quoted_tweet": null,
+    "url": "https://x.com/_opticnerd_/status/2112319511831679219",
+    "time": "2026-10-20 07:06",
+    "created_at": "Mon Oct 19 23:06:31 +0000 2026",
+    "id_str": "2112319511831679219",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@_opticnerd_ I really like this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112321329202393521",
+    "time": "2026-10-20 07:13",
+    "created_at": "Mon Oct 19 23:13:44 +0000 2026",
+    "id_str": "2112321329202393521",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This is so nostalgic",
+    "quoted_tweet": {
+      "author": "opticnerd",
+      "username": "_opticnerd_",
+      "text": "@icreatelife Love this prompt."
+    },
+    "url": "https://x.com/icreatelife/status/2112321381195264382",
+    "time": "2026-10-20 07:13",
+    "created_at": "Mon Oct 19 23:13:56 +0000 2026",
+    "id_str": "2112321381195264382",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "To relax I like making agentic workflows. What about you?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112347972537102808",
+    "time": "Tue Oct 20 00:59:36 +0000 2026",
+    "created_at": "Tue Oct 20 00:59:36 +0000 2026",
+    "id_str": "2112347972537102808",
+    "is_retweet": false
+  }
+]
