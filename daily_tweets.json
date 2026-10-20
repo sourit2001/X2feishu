@@ -544,5 +544,259 @@
     "created_at": "Tue Oct 20 17:24:06 +0000 2026",
     "id_str": "2112595729030283460",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "My new book, Co-Existence, is out today.  It is a guide to how to live & work in a world where AI is sometimes, but not always, better than you.\n\n(And, for the release, I worked with Opus 5.5 to make a quite interesting experience for the book's website: https://co-existence.ai/)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112590249033687078",
+    "time": "Tue Oct 20 17:02:20 +0000 2026",
+    "created_at": "Tue Oct 20 17:02:20 +0000 2026",
+    "id_str": "2112590249033687078",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick listening now!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Orwelian84/status/2112591115836895318",
+    "time": "Tue Oct 20 17:05:46 +0000 2026",
+    "created_at": "Tue Oct 20 17:05:46 +0000 2026",
+    "id_str": "2112591115836895318",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Orwelian84 I hope you enjoy!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112591612052463990",
+    "time": "Tue Oct 20 17:07:45 +0000 2026",
+    "created_at": "Tue Oct 20 17:07:45 +0000 2026",
+    "id_str": "2112591612052463990",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Congrats on the launch. Does the book get into where AI is reliably worse?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Flowrian135/status/2112592303223451794",
+    "time": "Tue Oct 20 17:10:29 +0000 2026",
+    "created_at": "Tue Oct 20 17:10:29 +0000 2026",
+    "id_str": "2112592303223451794",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Flowrian135 Yep!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112593175055589579",
+    "time": "Tue Oct 20 17:13:57 +0000 2026",
+    "created_at": "Tue Oct 20 17:13:57 +0000 2026",
+    "id_str": "2112593175055589579",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "AI is GREAT at investment advice\n\nAlthough watch out because everyone gets the same advice which you can use to your benefit or not \n\n(e.g. investing same what AI says works now because everyone else follows it too, but at some point that's going to be a counter signal maybe but I am not an expert)",
+    "quoted_tweet": {
+      "author": "Ronan Berder (SF + SG)",
+      "username": "hunvreus",
+      "text": "This post from Pieter got me really pissed off. Not at him. At myself.\n\nSince selling my company, I've done a subpar job of investing my money. Seeing him follow a very simple and sound strategy is putting me to absolute shame. \n\nGrok Bot is helping me get back on track (mostly nudging me so that I don't procrastinate) and I've started monetizing my open source projects. I have a couple other sources of revenue that can bring in $1M+ a year.\n\nThe goal is simple: match that $10M/year between income and investments. I give myself 3 years max."
+    },
+    "url": "https://x.com/levelsio/status/2112545529884193188",
+    "time": "Tue Oct 20 14:04:38 +0000 2026",
+    "created_at": "Tue Oct 20 14:04:38 +0000 2026",
+    "id_str": "2112545529884193188",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "plain English just outdesigned the experts.\n\nAnthropic's STEM Fellows Program gave Claude Mythos 5 plain-language instructions and asked for quantum circuits. the circuits it returned improve on the best published designs, sometimes by an order of magnitude. more efficient circuits mean fewer resources per quantum algorithm, which pulls chemistry and materials science applications closer.\n\nthe prompt had no special syntax and no formulas in it. a clear description of the goal and the bar.\n\nthat matches what I see across the library every week. the gap between a mediocre answer and an expert one is rarely the model. it is whether the prompt names the role, states the constraints, and defines what a good result looks like before the model starts.\n\nthe default that costs you: typing the question the way you'd type it into a search bar, then blaming the model for a shallow answer.\n\nthe fix is a structure you can reuse. role, goal, the inputs it actually has, how to work, what finished looks like. five lines. I run every research question through a prompt built that way, and the difference shows up in the first paragraph of the output.\n\nthe check: if your prompt could be pasted into Google unchanged, it is underspecified.\n\nthe one I use for research casts the model as an analyst and returns five structured sections, so the output is already organised when it lands.\n\nAnthropic published the circuit results on October 16, 2026.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112555696889962811",
+    "time": "Tue Oct 20 14:45:02 +0000 2026",
+    "created_at": "Tue Oct 20 14:45:02 +0000 2026",
+    "id_str": "2112555696889962811",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the research prompt, it returns five structured sections every time:\n\nhttps://godofprompt.ai/prompt-library/discover-topic-research-insights-2",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112555708994781590",
+    "time": "Tue Oct 20 14:45:05 +0000 2026",
+    "created_at": "Tue Oct 20 14:45:05 +0000 2026",
+    "id_str": "2112555708994781590",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you want expert-grade output from plain-English prompts, with the structure done for you.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112555720835256684",
+    "time": "Tue Oct 20 14:45:07 +0000 2026",
+    "created_at": "Tue Oct 20 14:45:07 +0000 2026",
+    "id_str": "2112555720835256684",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.”\n\nCreated in @Antigravity, it animates orbiting electrons, atomic data, and light spectra.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GoogleDeepMind/status/2112557925264752930",
+    "time": "Tue Oct 20 14:53:53 +0000 2026",
+    "created_at": "Tue Oct 20 14:53:53 +0000 2026",
+    "id_str": "2112557925264752930",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "six flags",
+    "quoted_tweet": {
+      "author": "zerohedge",
+      "username": "zerohedge",
+      "text": "And denied\n\n*IRAN-US TALKS CONTINUE, REPORTS DEAL IS CLOSE ARE WRONG: PERSON"
+    },
+    "url": "https://x.com/zerohedge/status/2112563499687711041",
+    "time": "Tue Oct 20 15:16:02 +0000 2026",
+    "created_at": "Tue Oct 20 15:16:02 +0000 2026",
+    "id_str": "2112563499687711041",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Mac Studio with 256gb of RAM is delivered in 15-17 weeks 😱",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinusEkenstam/status/2112563904035606738",
+    "time": "Tue Oct 20 15:17:38 +0000 2026",
+    "created_at": "Tue Oct 20 15:17:38 +0000 2026",
+    "id_str": "2112563904035606738",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Ofcom has effectively conceded defeat in its fight with 4chan.\n\nThe UK regulator tried to force 4chan to comply with the Online Safety Act and threatened enforcement action, despite 4chan being a US-based platform.\n\n“If foreign courts decide to… try and get in our way, there will be a point at which we have to accept that we won’t be able to recover that money.”",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2112565547099390156",
+    "time": "Tue Oct 20 15:24:10 +0000 2026",
+    "created_at": "Tue Oct 20 15:24:10 +0000 2026",
+    "id_str": "2112565547099390156",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I mean ETFs etc\n\nA responsible AI is not going to recommend you to stock pick and day trade guys!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/levelsio/status/2112566103389921388",
+    "time": "Tue Oct 20 15:26:23 +0000 2026",
+    "created_at": "Tue Oct 20 15:26:23 +0000 2026",
+    "id_str": "2112566103389921388",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@levelsio my ai told me to buy index funds and i felt personally attacked",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112568844682191307",
+    "time": "Tue Oct 20 15:37:16 +0000 2026",
+    "created_at": "Tue Oct 20 15:37:16 +0000 2026",
+    "id_str": "2112568844682191307",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation ofcom just found out the internet doesn't have a uk plug",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112569817097998688",
+    "time": "Tue Oct 20 15:41:08 +0000 2026",
+    "created_at": "Tue Oct 20 15:41:08 +0000 2026",
+    "id_str": "2112569817097998688",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge six flags would charge extra for a drop like that",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112570990622601293",
+    "time": "Tue Oct 20 15:45:48 +0000 2026",
+    "created_at": "Tue Oct 20 15:45:48 +0000 2026",
+    "id_str": "2112570990622601293",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@LinusEkenstam by the time it ships the model will need 512gb",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112571858948399168",
+    "time": "Tue Oct 20 15:49:15 +0000 2026",
+    "created_at": "Tue Oct 20 15:49:15 +0000 2026",
+    "id_str": "2112571858948399168",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@GoogleDeepMind @antigravity tom lehrer finally got the music video he deserved",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112572730511896641",
+    "time": "Tue Oct 20 15:52:43 +0000 2026",
+    "created_at": "Tue Oct 20 15:52:43 +0000 2026",
+    "id_str": "2112572730511896641",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The list is no longer the edge.\n\nWhen any agent in ChatGPT or Claude can pull the same names and work emails for free, the people you want to reach get more cold email, not less.\n\nI'd spend the time this saves on the first two lines. That is the only part they read.",
+    "quoted_tweet": {
+      "author": "Firecrawl",
+      "username": "firecrawl",
+      "text": "Introducing free People Data for ChatGPT & Claude.\n\nGive your AI agents access to 270M+ company & people records in Alexandria.\n\nGet 1,000 free credits a month to build prospect lists, find work emails, & research job history with the Firecrawl plugin.\n\nhttps://firecrawl.dev/alexandria/categories/people"
+    },
+    "url": "https://x.com/godofprompt/status/2112595251210953153",
+    "time": "Tue Oct 20 17:22:12 +0000 2026",
+    "created_at": "Tue Oct 20 17:22:12 +0000 2026",
+    "id_str": "2112595251210953153",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The cold email prompt I use to write those first two lines: https://godofprompt.ai/prompt-library/high-conversion-cold-email",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112595263407952219",
+    "time": "Tue Oct 20 17:22:15 +0000 2026",
+    "created_at": "Tue Oct 20 17:22:15 +0000 2026",
+    "id_str": "2112595263407952219",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "There were reports of usage draining faster than anticipated for some users over the weekend. We've identified approximately 40,000 accounts that had an inconsistency on which usage limits where the actual usage that was applied did not correspond to their actual selected plan. We are reaching out individually to all these users and have corrected the issue. If this affected you, we'll add credits to your account. Sorry we got this wrong.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2112592264686149749",
+    "time": "Tue Oct 20 17:10:20 +0000 2026",
+    "created_at": "Tue Oct 20 17:10:20 +0000 2026",
+    "id_str": "2112592264686149749",
+    "is_retweet": false
   }
 ]
