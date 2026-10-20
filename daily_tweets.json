@@ -354,5 +354,120 @@
     "created_at": "Tue Oct 20 01:26:48 +0000 2026",
     "id_str": "2112354818115445235",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starstruck",
+    "quoted_tweet": null,
+    "url": "https://x.com/Tesla/status/2112295035568091273",
+    "time": "2026-10-20 05:29",
+    "created_at": "Mon Oct 19 21:29:15 +0000 2026",
+    "id_str": "2112295035568091273",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Using TBC tunnels to transport freight.\n\nThe latest Prufrock Liner Truck (using Tesla Model 3 batteries and drive units) has been modified to carry a standard 20’ shipping container. \n\nFits like a glove!",
+    "quoted_tweet": null,
+    "url": "https://x.com/boringcompany/status/2112327189366722970",
+    "time": "2026-10-20 07:37",
+    "created_at": "Mon Oct 19 23:37:01 +0000 2026",
+    "id_str": "2112327189366722970",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Have to give the EU regulators credit where it’s due for making all Apple products use USB-C",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2112348601255125059",
+    "time": "Tue Oct 20 01:02:06 +0000 2026",
+    "created_at": "Tue Oct 20 01:02:06 +0000 2026",
+    "id_str": "2112348601255125059",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "saw this video from @rileybrown yesterday and had to try it myself. made my own little virtual studio in blender. really looking forward to play more with this format. Very cool riley 🤌",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "This video was edited with 1 prompt with Opus 5.5.\n\nI uploaded a single video of myself (with many mistakes). Opus went on to: \n\n1. Analyze the transcript\n2. Search Twitter for the relevant B-roll (Claude Code literally calls GrokBot for this step)\n3. Scrape the Twitter video assets\n4. Cut the video based on mistakes and word gaps\n5. Build out the Blender scene from a template\n6. Build the UI and components of each shot (my Blender scene has 4 shots: a computer, phone, table, and board)\n7. It took screenshots of every section, analyzed and fixed them\n8. Synced every shot, zoom, and animation to the exact words I say\n9. Animated a robot arm placing real logos on the table right when I mention them\n10. Drew the whiteboard ending with logos and graphics instead of text\n11. Pulled a cutaway from the creator's own video, with his voice\n12. Rendered all 3,487 frames on RunPod cloud GPUs in under 20 minutes, for less than $1\n13. Put me in the bottom third only when I'm talking, so the B-roll stays full screen\n14. Added word-by-word captions, sound effects, and music\n15. Uploaded it to my Google Drive, ready to post\n\nWill be making a full youtube video this week explaining it. I want to learn a little more about how cloud rendering works before making video, as well as figuring out what the best provider is. (If you are in cloud rendering space, hit me up) \n\nMy goal of the youtube video will not be to make it a copyable skill, rather teach people the foundations so they can be creative and make their own mini-world by which they can make videos from, while understanding what's happening under the hood.\n\nShout out @_chuckyc @_MaxBlade"
+    },
+    "url": "https://x.com/Trader1andy/status/2112307540654706789",
+    "time": "2026-10-20 06:18",
+    "created_at": "Mon Oct 19 22:18:57 +0000 2026",
+    "id_str": "2112307540654706789",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "It’s true “you can see everything” is as good as people are saying. Truly generational movie",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2112321606127337561",
+    "time": "2026-10-20 07:14",
+    "created_at": "Mon Oct 19 23:14:50 +0000 2026",
+    "id_str": "2112321606127337561",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "this makes me SO pumped \n\nit's never been a better time to start working on video :)",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "This video was edited with 1 prompt with Opus 5.5.\n\nI uploaded a single video of myself (with many mistakes). Opus went on to: \n\n1. Analyze the transcript\n2. Search Twitter for the relevant B-roll (Claude Code literally calls GrokBot for this step)\n3. Scrape the Twitter video assets\n4. Cut the video based on mistakes and word gaps\n5. Build out the Blender scene from a template\n6. Build the UI and components of each shot (my Blender scene has 4 shots: a computer, phone, table, and board)\n7. It took screenshots of every section, analyzed and fixed them\n8. Synced every shot, zoom, and animation to the exact words I say\n9. Animated a robot arm placing real logos on the table right when I mention them\n10. Drew the whiteboard ending with logos and graphics instead of text\n11. Pulled a cutaway from the creator's own video, with his voice\n12. Rendered all 3,487 frames on RunPod cloud GPUs in under 20 minutes, for less than $1\n13. Put me in the bottom third only when I'm talking, so the B-roll stays full screen\n14. Added word-by-word captions, sound effects, and music\n15. Uploaded it to my Google Drive, ready to post\n\nWill be making a full youtube video this week explaining it. I want to learn a little more about how cloud rendering works before making video, as well as figuring out what the best provider is. (If you are in cloud rendering space, hit me up) \n\nMy goal of the youtube video will not be to make it a copyable skill, rather teach people the foundations so they can be creative and make their own mini-world by which they can make videos from, while understanding what's happening under the hood.\n\nShout out @_chuckyc @_MaxBlade"
+    },
+    "url": "https://x.com/itsolelehmann/status/2112323911350358145",
+    "time": "2026-10-20 07:24",
+    "created_at": "Mon Oct 19 23:24:00 +0000 2026",
+    "id_str": "2112323911350358145",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Companies slop*",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Narrative Violation: AI is actually REMOVING Human Slop."
+    },
+    "url": "https://x.com/FabricioAsmus/status/2112337481165094951",
+    "time": "Tue Oct 20 00:17:55 +0000 2026",
+    "created_at": "Tue Oct 20 00:17:55 +0000 2026",
+    "id_str": "2112337481165094951",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@FabricioAsmus yes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2112337590733124095",
+    "time": "Tue Oct 20 00:18:21 +0000 2026",
+    "created_at": "Tue Oct 20 00:18:21 +0000 2026",
+    "id_str": "2112337590733124095",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "$9.7M in Q3 treasury. Good progress for USDD.",
+    "quoted_tweet": {
+      "author": "DecentralizedUSD",
+      "username": "USDDecentralize",
+      "text": "📊 USDD Q3 2026 Treasury Performance is out!\n\nRevenue climbed to a new quarterly high of $9.70M (+26.7% QoQ), driven by strong Smart Allocator performance.\n\n💡 #USDD Q3 Performance\n🔹 Revenue: $9.70M (+26.7% QoQ) 🚀\n🔹 Profit and Loss: +$9.70M\n🔹 Expenditure: $7.60K\n\n✨ What drove Q3 performance ↓\n▸ Total treasury balance surpassed $30M for the first time, reaching a new milestone\n▸ Quarterly revenue reached $9.70M, up 26.7% QoQ\n▸ Smart Allocator generated $9.11M, remaining the primary revenue contributor\n▸ Quarterly expenditure decreased 69.4% QoQ, reflecting improved treasury efficiency\n\n📈 Another quarter of strong performance, reinforcing USDD's focus on sustainable growth and efficient treasury management.\nExplore the full dashboard → http://usdd.io/treasury\n\nWhat are your expectations for USDD in Q4? 👇"
+    },
+    "url": "https://x.com/justinsuntron/status/2112359646879002721",
+    "time": "Tue Oct 20 01:46:00 +0000 2026",
+    "created_at": "Tue Oct 20 01:46:00 +0000 2026",
+    "id_str": "2112359646879002721",
+    "is_retweet": false
   }
 ]
