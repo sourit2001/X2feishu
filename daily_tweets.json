@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown been waiting on the jarvis thing since iron man. what's the first thing you had it do?",
+    "quoted_tweet": null,
+    "url": "https://x.com/kylekane/status/2112455973545591075",
+    "time": "Tue Oct 20 08:08:46 +0000 2026",
+    "created_at": "Tue Oct 20 08:08:46 +0000 2026",
+    "id_str": "2112455973545591075",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@kylekane Dude stop with AI replies",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2112531600567058846",
+    "time": "Tue Oct 20 13:09:17 +0000 2026",
+    "created_at": "Tue Oct 20 13:09:17 +0000 2026",
+    "id_str": "2112531600567058846",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "DeepSeek-V4.1-Flash-1017 runs at off-peak pricing in OpenDesign, with up to $60 in usage on Go this week.\n\nIntroducing OpenDesign Motion Week — Opus 5.5-level motion at DeepSeek's lowest prices. \n\nWe've reset usage for all subscribers. Enjoy a fresh start!",
+    "quoted_tweet": {
+      "author": "OpenDesign",
+      "username": "OpenDesignHQ",
+      "text": "Introducing OpenDesign Motion.\nThe open-source alternative to Claude Motion.\n\nCreate beautiful motion videos with any agent, any model. No Opus 5.5 required.\n\nThis entire launch video was made in OpenDesign.\nMore demos below ↓"
+    },
+    "url": "https://x.com/OpenDesignHQ/status/2112515534810173854",
+    "time": "Tue Oct 20 12:05:26 +0000 2026",
+    "created_at": "Tue Oct 20 12:05:26 +0000 2026",
+    "id_str": "2112515534810173854",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Usage details are now live in OpenDesign.\n\nSee each call's model, tokens, and credits used. Filter by member, model, or date, and check the usage rules.\n\nFind it in Console → Workspace → Usage",
+    "quoted_tweet": {
+      "author": "OpenDesign",
+      "username": "OpenDesignHQ",
+      "text": "DeepSeek-V4.1-Flash-1017 runs at off-peak pricing in OpenDesign, with up to $60 in usage on Go this week.\n\nIntroducing OpenDesign Motion Week — Opus 5.5-level motion at DeepSeek's lowest prices. \n\nWe've reset usage for all subscribers. Enjoy a fresh start!"
+    },
+    "url": "https://x.com/OpenDesignHQ/status/2112522993939440093",
+    "time": "Tue Oct 20 12:35:05 +0000 2026",
+    "created_at": "Tue Oct 20 12:35:05 +0000 2026",
+    "id_str": "2112522993939440093",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "OpenDesign Motion 周来了！满血官方 DeepSeek- V4.1-Flash-1017 全天谷价，持续一周！  \n\nGo 套餐「一周最高 $60 等值用量」——注意是一周额度，相较于之前的$120月额度、$30周额度，可用量整整翻了一倍。  \n\n我们也为所有订阅用户重置了一次用量，欢迎大家放开试试DS做动效的能力并分享到社媒，有机会赢取更多福利！ 🎁  \n\n下面这个视频也是在OpenDesign里面用这个模型做的🔥\nhttps://x.com/OpenDesignHQ/status/2112515534810173854/video/1",
+    "quoted_tweet": {
+      "author": "OpenDesign",
+      "username": "OpenDesignHQ",
+      "text": "DeepSeek-V4.1-Flash-1017 runs at off-peak pricing in OpenDesign, with up to $60 in usage on Go this week.\n\nIntroducing OpenDesign Motion Week — Opus 5.5-level motion at DeepSeek's lowest prices. \n\nWe've reset usage for all subscribers. Enjoy a fresh start!"
+    },
+    "url": "https://x.com/tuturetom/status/2112539014612009163",
+    "time": "Tue Oct 20 13:38:44 +0000 2026",
+    "created_at": "Tue Oct 20 13:38:44 +0000 2026",
+    "id_str": "2112539014612009163",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "欢迎加入我们的官方社群持续反馈问题！进群有机会抽重置卡 \nDiscord: https://discord.gg/rfqUwW54HT\n飞书社群：https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=bcbk135c-b54c-4983-9ab5-993e747be43",
+    "quoted_tweet": null,
+    "url": "https://x.com/tuturetom/status/2112539017539662285",
+    "time": "Tue Oct 20 13:38:45 +0000 2026",
+    "created_at": "Tue Oct 20 13:38:45 +0000 2026",
+    "id_str": "2112539017539662285",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "We plugged Google Research’s Harness² into JEV 1.14.\n\nZero weights touched, yet driving massive gains on vision benchmarks round after round. \n\nUnder the hood, the system: \n⚡️ Rewrites its own prompts\n🛠️ Builds its own tools \n🧠 Distills its own experience\n\nJEV-Harness² repo drops soon. Stay tuned.",
+    "quoted_tweet": {
+      "author": "Akshay 🚀",
+      "username": "akshay_pachaar",
+      "text": "Google just open-sourced Harness².\n\n(turn any harness into a self-improving system)\n\na harness is everything wrapped around the model, like the system prompt, tools, memory, skills, and subagents. today a person designs it once, and the agent runs every new task with that same fixed setup.\n\nHarness² lets the agent refine that setup for each new task on its own, with the model weights left untouched.\n\non every task, the agent proposes edits to its harness, runs a few candidate versions, and composes a better harness by comparing how those runs behaved.\n\nbecause it learns from the differences between runs, it needs no correct answer or grader for the task.\n\nthat covers a single task. Harness² also carries what it learns from one task into the next.\n\nafter each task, it saves the harness it settled on along with the lessons that held up across the runs. the next time it refines a harness, it starts from those notes instead of from scratch.\n\nthis means every finished task makes the next round of edits more informed.\n\nGoogle tested this with Gemini 3.5 Flash and GLM-5 on legal, office, and professional work benchmarks. one round of edits was enough to beat their original harnesses, and giving the agent more rounds pushed scores higher.\n\nthose extra rounds can go wide or deep. the agent either tries several candidate harnesses at once or keeps refining a single one step by step, using OpenCode or Codex to carry out the work.\n\nyou can find the Harness² repo here: https://github.com/google-research/harness2\n\nI wrote about a similar idea for agents already running in production, where the harness should repair itself after a failure instead of waiting for someone to debug the trace by hand.\n\nthat piece walks through how @Cometml's Opik (open-source) closes this loop, going from a failing trace to a proposed fix to a regression test that stops the same failure from coming back. it's quoted below."
+    },
+    "url": "https://x.com/openmys/status/2112024812751294954",
+    "time": "2026-10-19 11:35",
+    "created_at": "Mon Oct 19 03:35:29 +0000 2026",
+    "id_str": "2112024812751294954",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Anthropic 向开源贡献者免费提供6 个月Claude Max 20x\n\n2026年2月27日 — 入选者将获得六个月的ClaudeMax20x使用权限，以此感谢他们作为生态运转的基石。\n\n适合申请的维护者需是拥有五千以上Star或百万月下载量的仓库核心团队成员。\n\n5000 个 star 目前难度还是很大的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2112457517024645379",
+    "time": "Tue Oct 20 08:14:54 +0000 2026",
+    "created_at": "Tue Oct 20 08:14:54 +0000 2026",
+    "id_str": "2112457517024645379",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@openmys @grok 这篇文章提出了什么新方法，消费了什么数据集，效果和质量如何。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2112457670460596695",
+    "time": "Tue Oct 20 08:15:30 +0000 2026",
+    "created_at": "Tue Oct 20 08:15:30 +0000 2026",
+    "id_str": "2112457670460596695",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "DeepSeek just open sourced its high-performance, large-scale inference framework DeepInfer in Apache-2.0 license.\n\nhttps://github.com/deepseek-ai/DeepInfer\n\nSupported features:\n\n- Optimized kernels, model and sampler runtime\n- Parallelism: Attention DP / balanced CP, MoE EP + EPLB\n- DSpark and confidence-scheduled verification\n- SWA bounded replay\n- Asynchronous scheduling (zero-overhead batch scheduler)\n- Batch-invariant inference\n- Deterministic sampling\n- Structured output",
+    "quoted_tweet": null,
+    "url": "https://x.com/tianyi/status/2112471106426900677",
+    "time": "Tue Oct 20 09:08:54 +0000 2026",
+    "created_at": "Tue Oct 20 09:08:54 +0000 2026",
+    "id_str": "2112471106426900677",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@tianyi @grok 这里的研究结果最低档需要买什么硬件设备，才能研究和复现？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2112492361658044449",
+    "time": "Tue Oct 20 10:33:21 +0000 2026",
+    "created_at": "Tue Oct 20 10:33:21 +0000 2026",
+    "id_str": "2112492361658044449",
+    "is_retweet": false
+  },
+  {
+    "username": "johnternus",
+    "nickname": "John Ternus",
+    "text": "New US partners like Perryman and Qnity Electronics have helped to make iPhone Duo and iPhone 18 Pro possible. https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/",
+    "quoted_tweet": null,
+    "url": "https://x.com/johnternus/status/2112516167000899770",
+    "time": "Tue Oct 20 12:07:57 +0000 2026",
+    "created_at": "Tue Oct 20 12:07:57 +0000 2026",
+    "id_str": "2112516167000899770",
+    "is_retweet": false
+  }
+]
