@@ -341,5 +341,83 @@
     "created_at": "Tue Oct 20 06:45:53 +0000 2026",
     "id_str": "2112435116152947111",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Deepseek 已经开源了自己的内部推理框架\n\n可以实现跟他们类似的高吞吐量和低延迟表现",
+    "quoted_tweet": {
+      "author": "DeepSeek",
+      "username": "deepseek_ai",
+      "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗 http://github.com/deepseek-ai/DeepInfer\n\n1/4"
+    },
+    "url": "https://x.com/op7418/status/2112477307550183920",
+    "time": "Tue Oct 20 09:33:32 +0000 2026",
+    "created_at": "Tue Oct 20 09:33:32 +0000 2026",
+    "id_str": "2112477307550183920",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "补充一下，是可以导出pptx的，但是还原的不是特别好\nhttps://x.com/hetanyufu/status/2112433022335390041",
+    "quoted_tweet": {
+      "author": "河滩渔夫",
+      "username": "hetanyufu",
+      "text": "@dotey 能不能导出成可编辑的 PPTX？"
+    },
+    "url": "https://x.com/dotey/status/2112434424306455006",
+    "time": "Tue Oct 20 06:43:08 +0000 2026",
+    "created_at": "Tue Oct 20 06:43:08 +0000 2026",
+    "id_str": "2112434424306455006",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "艹 已经重置了，都没预告一下",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Day 15/ Nevermind, we're still cooking... and reset. Enjoy."
+    },
+    "url": "https://x.com/dotey/status/2112435012008361988",
+    "time": "Tue Oct 20 06:45:28 +0000 2026",
+    "created_at": "Tue Oct 20 06:45:28 +0000 2026",
+    "id_str": "2112435012008361988",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://x.com/i/article/2112435789703327744",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2112439331000328354",
+    "time": "Tue Oct 20 07:02:38 +0000 2026",
+    "created_at": "Tue Oct 20 07:02:38 +0000 2026",
+    "id_str": "2112439331000328354",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这个刚出那会确实很惊艳，当时就很喜欢拿来学习用",
+    "quoted_tweet": null,
+    "url": "https://x.com/MingTian685474/status/2112441681970905276",
+    "time": "Tue Oct 20 07:11:58 +0000 2026",
+    "created_at": "Tue Oct 20 07:11:58 +0000 2026",
+    "id_str": "2112441681970905276",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@MingTian685474 是的，当时我就想搞到它的系统提示词，一直没成功，今天换了个办法，居然成了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2112442389331906851",
+    "time": "Tue Oct 20 07:14:47 +0000 2026",
+    "created_at": "Tue Oct 20 07:14:47 +0000 2026",
+    "id_str": "2112442389331906851",
+    "is_retweet": false
   }
 ]
