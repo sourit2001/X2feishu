@@ -276,5 +276,83 @@
     "created_at": "Tue Oct 20 00:59:36 +0000 2026",
     "id_str": "2112347972537102808",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Multiplayer AI needs to move past the group chat phase. Chats are chaotic, everyone sees everything (creating social & management issues), and they're bad for long projects. Worse, they keep AI trapped inside existing teams, when its real promise is working & helping across them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112289593286352976",
+    "time": "2026-10-20 05:07",
+    "created_at": "Mon Oct 19 21:07:38 +0000 2026",
+    "id_str": "2112289593286352976",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "There are many more options for multiplayer, but they require serious experimental with organizational form, requiring more effort than just adding AI to existing chat, but also making them into a better strategic moat rather than a generic capability.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112291003537502393",
+    "time": "2026-10-20 05:13",
+    "created_at": "Mon Oct 19 21:13:14 +0000 2026",
+    "id_str": "2112291003537502393",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": {
+      "text": "https://t.co/g7ahJqD7cp",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2112310539162370048",
+          "display": "pic.x.com/g7ahJqD7cp",
+          "original": "https://t.co/g7ahJqD7cp",
+          "replacement": "https://x.com/emollick/status/2112310600806072387/video/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Taylor Lorenz",
+      "username": "TaylorLorenz",
+      "text": "There's nothing people deep in AI psychosis love more than a dashboard"
+    },
+    "url": "https://x.com/emollick/status/2112310600806072387",
+    "time": "2026-10-20 06:31",
+    "created_at": "Mon Oct 19 22:31:06 +0000 2026",
+    "id_str": "2112310600806072387",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "New Claude Projects* is a nice interface for multi-agent work. It does a good job with having a user-facing coordinator model and independent agents running threads that pass messages around. Takes some fiddling but quite powerful.\n\n* Same name but no relation to old Projects🤪",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112332499917681028",
+    "time": "2026-10-20 07:58",
+    "created_at": "Mon Oct 19 23:58:07 +0000 2026",
+    "id_str": "2112332499917681028",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "人与 ai 如何协作？\n\n人：通过“肯定性”的目标描述（要去哪）和“否定性”的边界限制（绝对不能 xxx），点亮一片“子空间”。\n\nai：在点亮的子空间中，探索优化到达路径，并自动执行。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2112354818115445235",
+    "time": "Tue Oct 20 01:26:48 +0000 2026",
+    "created_at": "Tue Oct 20 01:26:48 +0000 2026",
+    "id_str": "2112354818115445235",
+    "is_retweet": false
   }
 ]
