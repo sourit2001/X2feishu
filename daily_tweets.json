@@ -974,5 +974,112 @@
     "created_at": "Tue Oct 20 17:47:35 +0000 2026",
     "id_str": "2112601639672566182",
     "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit 你还在坚持AAOI吗？我想知道AAOI是否还有持续发展的机会",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrychen0awi/status/2112698935357878569",
+    "time": "2026-10-21 08:14",
+    "created_at": "Wed Oct 21 00:14:12 +0000 2026",
+    "id_str": "2112698935357878569",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Yes I still have $AAOI and personally think the $6.6b valuation doesn’t price in next year’s inflection happening Q2 next year onward.\n\nI personally modeling somewhere around ~$1.9B quarterly revenue Q4 2027,  ~40% gross margins.\n\nWith another bump in blended gross margins as ELSFP comes online Q1 2028.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2112701278262546442",
+    "time": "2026-10-21 08:23",
+    "created_at": "Wed Oct 21 00:23:31 +0000 2026",
+    "id_str": "2112701278262546442",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Ethan's first book was about AI as chatbots, this one is all about agents. I was lucky enough to get an early copy. If you're interested in agentic AI, get this book. Ethan talks to all the labs, is a critical early tester of the models, and was super early on agentic AI. Hes also an incredible writer, this book was a pleasure to read and learn from.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "My new book, Co-Existence, is out today.  It is a guide to how to live & work in a world where AI is sometimes, but not always, better than you.\n\n(And, for the release, I worked with Opus 5.5 to make a quite interesting experience for the book's website: https://co-existence.ai/)"
+    },
+    "url": "https://x.com/alexolegimas/status/2112708117515370746",
+    "time": "2026-10-21 08:50",
+    "created_at": "Wed Oct 21 00:50:42 +0000 2026",
+    "id_str": "2112708117515370746",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A few people write is clearly about artificial intelligence as my friend, @emollick.\n\nLooking forward to reading his latest book.",
+    "quoted_tweet": null,
+    "url": "https://x.com/erikbryn/status/2112730920084193313",
+    "time": "2026-10-21 10:21",
+    "created_at": "Wed Oct 21 02:21:18 +0000 2026",
+    "id_str": "2112730920084193313",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@erikbryn I hope you enjoy!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112753618550222941",
+    "time": "2026-10-21 11:51",
+    "created_at": "Wed Oct 21 03:51:30 +0000 2026",
+    "id_str": "2112753618550222941",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@abhishekn Thank you! I hope you enjoy.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112756758552949050",
+    "time": "2026-10-21 12:03",
+    "created_at": "Wed Oct 21 04:03:59 +0000 2026",
+    "id_str": "2112756758552949050",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 这视频做得很棒！Claude 5.5 肝出来的吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/EchoEchoNow/status/2112744932847104363",
+    "time": "2026-10-21 11:16",
+    "created_at": "Wed Oct 21 03:16:59 +0000 2026",
+    "id_str": "2112744932847104363",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@EchoEchoNow 是啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2112749170381799709",
+    "time": "2026-10-21 11:33",
+    "created_at": "Wed Oct 21 03:33:49 +0000 2026",
+    "id_str": "2112749170381799709",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "You can now choose 12-hour prompt caching in the API.\n\nPersistent agents, like dots, reuse context throughout the day. \n\nYou can keep shared instructions, tools, and context cached longer and pay the lower cached-input rate, even when requests are hours apart."
+    },
+    "url": "https://x.com/thsottiaux/status/2112712984644784534",
+    "time": "2026-10-21 09:10",
+    "created_at": "Wed Oct 21 01:10:02 +0000 2026",
+    "id_str": "2112712984644784534",
+    "is_retweet": false
   }
 ]
