@@ -318,5 +318,137 @@
     "created_at": "Wed Oct 21 12:20:35 +0000 2026",
     "id_str": "2112881734173991118",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "To justify today’s data center buildout, AI would need to bring in about $3.5 trillion a year by 2032, per a new Brookings paper.\n\nThat’s 8.8% of U.S. GDP, nearly as much as Americans spend on food (9.1%), and far more than on energy (5.1%).",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2112875798072107470",
+    "time": "2026-10-21 19:57",
+    "created_at": "Wed Oct 21 11:57:00 +0000 2026",
+    "id_str": "2112875798072107470",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "OPENAI AND GOOGLE STRIKE MAJOR AI DISTRIBUTION DEAL\n\nOpenAI will bring its frontier AI models, including GPT-6 Astra, and Codex to Google Cloud in the coming weeks.\n\nEnterprise customers will be able to purchase them through Google Cloud Marketplace, using existing cloud spending commitments.\n\nThe agreement follows OpenAI's expansion to AWS after its exclusive Microsoft distribution arrangement ended.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeItaone/status/2112877180237582775",
+    "time": "2026-10-21 20:02",
+    "created_at": "Wed Oct 21 12:02:29 +0000 2026",
+    "id_str": "2112877180237582775",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales ai has to become groceries by 2032, no pressure",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112879342313185423",
+    "time": "2026-10-21 20:11",
+    "created_at": "Wed Oct 21 12:11:05 +0000 2026",
+    "id_str": "2112879342313185423",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@DeItaone imagine being on the gemini team reading this one",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112881481240699365",
+    "time": "2026-10-21 20:19",
+    "created_at": "Wed Oct 21 12:19:35 +0000 2026",
+    "id_str": "2112881481240699365",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Ken Griffin Says AI Is \"Almost Certainly\" A Bubble As Corporate America Opens Its Anthropic And OpenAI Bills https://www.zerohedge.com/markets/ken-griffin-says-ai-almost-certainly-bubble-corporate-america-opens-its-anthropic-and",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2112896965352522032",
+    "time": "2026-10-21 21:21",
+    "created_at": "Wed Oct 21 13:21:06 +0000 2026",
+    "id_str": "2112896965352522032",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Jensen Huang: a 1 GW AI factory carries a cost of about $50B but could deliver about $40B in annual revenue, which means each month of deployment delay postpones about $3.3B in potential revenue.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rohanpaul_ai/status/2112897730649759889",
+    "time": "2026-10-21 21:24",
+    "created_at": "Wed Oct 21 13:24:09 +0000 2026",
+    "id_str": "2112897730649759889",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge finance teams opening the claude invoice like it's a blood test",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112901273691308264",
+    "time": "2026-10-21 21:38",
+    "created_at": "Wed Oct 21 13:38:14 +0000 2026",
+    "id_str": "2112901273691308264",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@rohanpaul_ai so every late electrician is a $3B problem now",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112903400505356372",
+    "time": "2026-10-21 21:46",
+    "created_at": "Wed Oct 21 13:46:41 +0000 2026",
+    "id_str": "2112903400505356372",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "one model for everything costs you.\n\na workflow that did the rounds last week routes every stage to a different model: a research assistant for planning, one model for day-to-day coding and debugging, a cheaper sibling for writing and running tests, the heavier one again for frontend and design. the same week, people running Gemini 4 Argon reported it ahead of both OpenAI and Claude models on document creation, data analysis and reasoning, while the coding crowd stayed elsewhere.\n\nthe pattern is the same in both: the best model for the job changes by the job.\n\nthe default that costs you: picking one flagship, pointing it at everything, and paying flagship prices for work a cheaper model does as well. tests, formatting, first drafts, summaries. those rarely need the top tier.\n\nwhat I do: write the task list first, then assign a model to each line based on what it needs. reasoning-heavy and high-stakes gets the flagship. volume and latency-sensitive gets the cheap one. anything with a reference answer gets the cheap one plus a check.\n\nthe verification step: run the same task on both tiers once and diff the outputs. if you can't tell them apart, you were overpaying.\n\nI built a prompt that does this mapping for your actual job. it asks what you do all week and returns a 30-day plan of which tasks go to which tool.\n\nGemini 4 Argon became available to Pro users in Antigravity this month.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112918084768153975",
+    "time": "2026-10-21 22:45",
+    "created_at": "Wed Oct 21 14:45:02 +0000 2026",
+    "id_str": "2112918084768153975",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the prompt that maps your real week to the right tools:\n\nhttps://godofprompt.ai/prompt-library/create-personalized-ai-integration-plans",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112918096851988857",
+    "time": "2026-10-21 22:45",
+    "created_at": "Wed Oct 21 14:45:05 +0000 2026",
+    "id_str": "2112918096851988857",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you want to stop paying flagship prices for work a cheaper model handles.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112918109174784260",
+    "time": "2026-10-21 22:45",
+    "created_at": "Wed Oct 21 14:45:08 +0000 2026",
+    "id_str": "2112918109174784260",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://x.com/i/article/2112922755570257920",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112922761173835983",
+    "time": "2026-10-21 23:03",
+    "created_at": "Wed Oct 21 15:03:37 +0000 2026",
+    "id_str": "2112922761173835983",
+    "is_retweet": false
   }
 ]
