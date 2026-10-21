@@ -1,1 +1,117 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Maybe, finally, voice interfaces in AI apps will kill the monstrosity that is the open office. Or just make them a lot worse as you.\n\n(Thread of research on the problems of open offices below)",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "The background noise in open offices, in multiple experiments, decreases the ability to do analytical work, increase bugs in software, and decrease the ability to find bugs.\n\nOpen floor plans are just a bad idea for any solo work."
+    },
+    "url": "https://x.com/emollick/status/2112917311107842130",
+    "time": "2026-10-21 22:41",
+    "created_at": "Wed Oct 21 14:41:57 +0000 2026",
+    "id_str": "2112917311107842130",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Companies I talk to are struggling with the rate of patches they need to do thanks to AI defenses finding issues before the inevitable wave of incoming cyberattacks by other AIs.\n\nNow consumers are going to have the same experience of getting everything updated often & fast.",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.\n\nDue to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. \n\nThis is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.\nhttps://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+    },
+    "url": "https://x.com/emollick/status/2112918582598459644",
+    "time": "2026-10-21 22:47",
+    "created_at": "Wed Oct 21 14:47:00 +0000 2026",
+    "id_str": "2112918582598459644",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It spontaneously chose to use an ElevenLabs clone of my voice as the speaker for the initial typing scene. (The clone was pre-existing, but I did not suggest using it)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2112938901346345394",
+    "time": "2026-10-22 00:07",
+    "created_at": "Wed Oct 21 16:07:45 +0000 2026",
+    "id_str": "2112938901346345394",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is an interesting question because the answer is not obvious.\n\nWhich, by the way, does not mean AI coding tools are not leading to massive improvements, but, as research keeps showing, the bottlenecks to product improvements are often elsewhere.",
+    "quoted_tweet": {
+      "author": "rohit",
+      "username": "krishnanrohit",
+      "text": "What is a piece of normal software that has improved the most because of its its developers using AI extensively? \n(Claude code doesn't count)"
+    },
+    "url": "https://x.com/emollick/status/2112968222538686592",
+    "time": "2026-10-22 02:04",
+    "created_at": "Wed Oct 21 18:04:15 +0000 2026",
+    "id_str": "2112968222538686592",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Turning effort to max rarely fixes a bad run.\n\nIn Anthropic's testing, Opus 5.5 on medium matches or beats Opus 5 on high, and the docs say max shows diminishing returns and is prone to overthinking. The defaults for model, effort, permissions and compaction are tuned per model.\n\nWhen a run goes wrong, find the cause before you touch a setting.",
+    "quoted_tweet": {
+      "author": "God of Prompt",
+      "username": "godofprompt",
+      "text": "https://x.com/i/article/2112922755570257920"
+    },
+    "url": "https://x.com/godofprompt/status/2112941700159299684",
+    "time": "2026-10-22 00:18",
+    "created_at": "Wed Oct 21 16:18:52 +0000 2026",
+    "id_str": "2112941700159299684",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the debugging prompt I run when a build breaks, cause first, fix second:\n\nhttps://godofprompt.ai/prompt-library/fix-code-errors",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2112941712465387690",
+    "time": "2026-10-22 00:18",
+    "created_at": "Wed Oct 21 16:18:55 +0000 2026",
+    "id_str": "2112941712465387690",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@JustLingonberry @sama is this true",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2112906496736641416",
+    "time": "2026-10-21 21:58",
+    "created_at": "Wed Oct 21 13:58:59 +0000 2026",
+    "id_str": "2112906496736641416",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf.",
+    "quoted_tweet": null,
+    "url": "https://x.com/claudeai/status/2112984664256241837",
+    "time": "2026-10-22 03:09",
+    "created_at": "Wed Oct 21 19:09:35 +0000 2026",
+    "id_str": "2112984664256241837",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@claudeai Dot, meet Duet. Duet, meet Dot. Be nice to each other.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2112992042465009736",
+    "time": "2026-10-22 03:38",
+    "created_at": "Wed Oct 21 19:38:55 +0000 2026",
+    "id_str": "2112992042465009736",
+    "is_retweet": false
+  }
+]
