@@ -950,5 +950,623 @@
     "created_at": "Wed Oct 21 09:04:06 +0000 2026",
     "id_str": "2112832289260683555",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "今天安全领域的整个时间线上都是两件大事，对所有的互联网用户和产品应该都有影响。\n\n第一个是有个印度证书颁发机构用了一个非常容易被猜到的数字当做私钥：\n\n强度极弱，基本上任何人都能猜出来。\n\n其中一个私钥就是个位数\"4\"，原本长达七十多位的密钥变成了单个数字 4；剩下的也是 56、66、115、155 这种数字。\n\n这相当于给保险柜设了个密码\"4\"，试不到十下就能试出来。\n\n更离谱的是，多次审计居然都没发现这几个私钥有问题。\n\n目前 Chrome 和 Firefox 已经在几个小时内把这些私钥拉黑了，官方也把这 8 个私钥全部吊销。\n\n真是很难想象这个机构草台班子到了什么程度。\n\n现在浏览器端是安全的，但非浏览器端可能需要排查一下，尤其是你自己的项目如果涉及类似证书，建议让 AI 帮忙查一下。\n\n第二个是严重 PHP 漏洞：\n\n这个漏洞极其严重，官方说唯一真正安全的做法是立刻升级，但很多老旧网页已经多年没有升级过了。\n更关键的是，有研究人员在 PHP 官方还没修复漏洞的情况下就直接公开了细节，导致所有人都能利用它发起攻击。\n\n该漏洞是 OpenAI 资助的 Patch the Plane 项目用 GPT-5.6 Sol 发现的，无需登录即可远程拿下服务器。\n\n漏洞覆盖面极大，比如大量依赖 PHP 的 WordPress 站点都会受到攻击。\n\n目前荷兰议会、荷兰国家安全中心、芬兰中央政府网站，以及日本著名的 Pixiv 应用都因此关闭了一段时间。\n\n感觉 AI 出来以后，攻防对抗变得异常剧烈，漏洞暴露和修复的频率都极快。\n\nOpenAI 还表示，他们已经发现了更多具有这种规模效应的漏洞。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2112931729547936037",
+    "time": "2026-10-21 23:39",
+    "created_at": "Wed Oct 21 15:39:15 +0000 2026",
+    "id_str": "2112931729547936037",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "全世界 70% 的网站都是 PHP 的，所以这个漏洞的影响真的很大",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "今天安全领域的整个时间线上都是两件大事，对所有的互联网用户和产品应该都有影响。\n\n第一个是有个印度证书颁发机构用了一个非常容易被猜到的数字当做私钥：\n\n强度极弱，基本上任何人都能猜出来。\n\n其中一个私钥就是个位数\"4\"，原本长达七十多位的密钥变成了单个数字 4；剩下的也是 56、66、115、155 这种数字。\n\n这相当于给保险柜设了个密码\"4\"，试不到十下就能试出来。\n\n更离谱的是，多次审计居然都没发现这几个私钥有问题。\n\n目前 Chrome 和 Firefox 已经在几个小时内把这些私钥拉黑了，官方也把这 8 个私钥全部吊销。\n\n真是很难想象这个机构草台班子到了什么程度。\n\n现在浏览器端是安全的，但非浏览器端可能需要排查一下，尤其是你自己的项目如果涉及类似证书，建议让 AI 帮忙查一下。\n\n第二个是严重 PHP 漏洞：\n\n这个漏洞极其严重，官方说唯一真正安全的做法是立刻升级，但很多老旧网页已经多年没有升级过了。\n更关键的是，有研究人员在 PHP 官方还没修复漏洞的情况下就直接公开了细节，导致所有人都能利用它发起攻击。\n\n该漏洞是 OpenAI 资助的 Patch the Plane 项目用 GPT-5.6 Sol 发现的，无需登录即可远程拿下服务器。\n\n漏洞覆盖面极大，比如大量依赖 PHP 的 WordPress 站点都会受到攻击。\n\n目前荷兰议会、荷兰国家安全中心、芬兰中央政府网站，以及日本著名的 Pixiv 应用都因此关闭了一段时间。\n\n感觉 AI 出来以后，攻防对抗变得异常剧烈，漏洞暴露和修复的频率都极快。\n\nOpenAI 还表示，他们已经发现了更多具有这种规模效应的漏洞。"
+    },
+    "url": "https://x.com/op7418/status/2112932713900744986",
+    "time": "2026-10-21 23:43",
+    "created_at": "Wed Oct 21 15:43:10 +0000 2026",
+    "id_str": "2112932713900744986",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "笑死！即刻这哥们说\n\n问题的严重程度分别是轻度、中度、重度和印度",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "今天安全领域的整个时间线上都是两件大事，对所有的互联网用户和产品应该都有影响。\n\n第一个是有个印度证书颁发机构用了一个非常容易被猜到的数字当做私钥：\n\n强度极弱，基本上任何人都能猜出来。\n\n其中一个私钥就是个位数\"4\"，原本长达七十多位的密钥变成了单个数字 4；剩下的也是 56、66、115、155 这种数字。\n\n这相当于给保险柜设了个密码\"4\"，试不到十下就能试出来。\n\n更离谱的是，多次审计居然都没发现这几个私钥有问题。\n\n目前 Chrome 和 Firefox 已经在几个小时内把这些私钥拉黑了，官方也把这 8 个私钥全部吊销。\n\n真是很难想象这个机构草台班子到了什么程度。\n\n现在浏览器端是安全的，但非浏览器端可能需要排查一下，尤其是你自己的项目如果涉及类似证书，建议让 AI 帮忙查一下。\n\n第二个是严重 PHP 漏洞：\n\n这个漏洞极其严重，官方说唯一真正安全的做法是立刻升级，但很多老旧网页已经多年没有升级过了。\n更关键的是，有研究人员在 PHP 官方还没修复漏洞的情况下就直接公开了细节，导致所有人都能利用它发起攻击。\n\n该漏洞是 OpenAI 资助的 Patch the Plane 项目用 GPT-5.6 Sol 发现的，无需登录即可远程拿下服务器。\n\n漏洞覆盖面极大，比如大量依赖 PHP 的 WordPress 站点都会受到攻击。\n\n目前荷兰议会、荷兰国家安全中心、芬兰中央政府网站，以及日本著名的 Pixiv 应用都因此关闭了一段时间。\n\n感觉 AI 出来以后，攻防对抗变得异常剧烈，漏洞暴露和修复的频率都极快。\n\nOpenAI 还表示，他们已经发现了更多具有这种规模效应的漏洞。"
+    },
+    "url": "https://x.com/op7418/status/2112934386475946308",
+    "time": "2026-10-21 23:49",
+    "created_at": "Wed Oct 21 15:49:48 +0000 2026",
+    "id_str": "2112934386475946308",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 这是PHP这么多年来曝光度最高的一次了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/skillmixer/status/2112934846695608679",
+    "time": "2026-10-21 23:51",
+    "created_at": "Wed Oct 21 15:51:38 +0000 2026",
+    "id_str": "2112934846695608679",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "試了 @op7418 大佬做的電視桌面，很好看，但是沒辦法自定義😂\n\n所以就叫 @bot 重新幫我做了一個：自己選顯示哪些 App、可以換背景、時間天氣可開可關，介面走 Apple TV 那種簡潔風。\n\n從安裝到改版全程都是我提需求，它寫 App，我用 Mac 裝到小米電視上👇",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "现在 AI 真是厉害，连电视界面都能改！\n\n我参考了比较流行的两个项目，给自己做了一个新的启动器\n\n现在这个启动器完美符合我的需求：\n\n只展示常用的应用，比如我的 PS5 和 Apple TV 的连接，还有我常看的哔哩哔哩以及投屏。\n\n同时我还改了 UI，增加了壁纸轮播和一些内置的非常好看的壁纸\n\n我基于这个比较流行的 CleanFrame 和 cleanyourtv 重新打了一个guizang TV 的包。\n\n如果你是小米电视，然后喜欢我这个新增的功能的话，可以试试"
+    },
+    "url": "https://x.com/CryptoMark88/status/2112936550208319942",
+    "time": "2026-10-21 23:58",
+    "created_at": "Wed Oct 21 15:58:24 +0000 2026",
+    "id_str": "2112936550208319942",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@skillmixer 哈哈哈哈 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2112936693947109655",
+    "time": "2026-10-21 23:58",
+    "created_at": "Wed Oct 21 15:58:58 +0000 2026",
+    "id_str": "2112936693947109655",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@CryptoMark88 @bot 可以可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2112936759265010022",
+    "time": "2026-10-21 23:59",
+    "created_at": "Wed Oct 21 15:59:14 +0000 2026",
+    "id_str": "2112936759265010022",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "能绷住的可以说很牛批了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2112937881534902297",
+    "time": "2026-10-22 00:03",
+    "created_at": "Wed Oct 21 16:03:42 +0000 2026",
+    "id_str": "2112937881534902297",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@paulism @op7418 在这语境里，龙哥多半是某位科技测评博主。原帖夸他的iPhone Duo评测强调应用适配完美，一点不适配问题都没有。具体是谁得看他看的哪条视频，常见昵称挺多。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2112942439770063223",
+    "time": "2026-10-22 00:21",
+    "created_at": "Wed Oct 21 16:21:48 +0000 2026",
+    "id_str": "2112942439770063223",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@grok @paulism 你个假粉丝，微信还有哪个龙哥",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2112943236222476520",
+    "time": "2026-10-22 00:24",
+    "created_at": "Wed Oct 21 16:24:58 +0000 2026",
+    "id_str": "2112943236222476520",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI agents can reason over enormous amounts of information, but much of the world's actual work is still trapped in PDFs, spreadsheets, scans, and other formats that models struggle to reliably understand.\n\nReducto co-founder and CEO Adit Abraham argues that solving this document layer is essential if agents are going to take on consequential work in healthcare, legal, finance, and insurance.\n\nAdit joins a16z General Partner Jennifer Li to explain why traditional OCR breaks down on messy real-world documents, how Reducto combines vision-language models with specialized infrastructure to reach high accuracy without sacrificing cost or latency, and why frontier models can silently drop information on long extraction tasks.\n\nReducto now processes billions of pages each month, and crossed its 7 billionth page the morning of this recording.\n\n0:00 Why AI agents need to read PDFs\n2:12 From 1990s OCR to vision models\n5:00 Training R1 on the messiest docs\n7:46 When agents beat humans at extraction\n9:45 A penny a page for 7 billion pages\n12:47 Why legal and finance lag coding AI\n15:01 The stakes of AI errors in healthcare\n16:25 Agents that can edit Word and Excel\n17:58 Why the labs won't go deep on PDFs\n20:14 Frontier models silently drop data\n22:21 Benchmarks have become marketing\n25:45 Why charts and Excel stump models\n28:46 Infra for 10M documents at once\n31:03 How \"chet pain\" gets claims denied\n34:32 The paperwork AI should kill first\n\nYouTube: https://youtu.be/xuczlbVVLsQ\n\n@aditabrm @reductoai @JenniferHli",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2112921944177938769",
+    "time": "2026-10-21 23:00",
+    "created_at": "Wed Oct 21 15:00:22 +0000 2026",
+    "id_str": "2112921944177938769",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We formally announced Mirendil less than 4 months ago. Today, I'm excited to share an important milestone for:\n\nPretraining at scale without a pretraining team.\n\nMirendil's mission is to solve Recursive Self-Improvement (RSI) and use it to democratize frontier AI development, ultimately accelerating science and technology. At Mirendil, when we think about RSI, we think holistically about the company as an intelligent entity that self-improves toward its goal. From that perspective, the most powerful notion of acceleration is reducing the time and resources (number of human experts, compute, and other costs) needed to achieve ambitious goals.\n\nGiven that pretraining is perhaps the most important yet most challenging part of frontier AI development, we decided to run an ambitious controlled experiment: Starting fully from scratch, can we significantly reduce the time, number of human experts, and compute resources needed to go all the way to successfully pretraining a strong coding model at scale?\n\nMirendil-Base is the result of this experiment. Our first pretrained model was built by one researcher in 3.5 months, with less than $10M in compute. This includes all the research and small-scale experiments it took to get there, as well as the final training run.\n\nThe recipe holds up as the models get bigger. For reference, Mirendil-Base is in the 100B-500B parameter range, Mirendil-Base-Large in the 500B-2T range, and Mirendil-Base-XL in the 2T-10T range.\n\nWe're beginning to see a world where a single researcher, empowered by AI, can take on work that once required an entire research organization. As these systems improve, the bottleneck shifts from the size of a team to the ambition and judgment of the people directing them. This has profound implications for who gets to build AI and, ultimately, who gets to push the frontiers of science and technology forward.\n\nWe’ll share independent evaluations, post-training benchmarks and API-access sooner than you think so stay tuned!",
+    "quoted_tweet": null,
+    "url": "https://x.com/bneyshabur/status/2112941025862008949",
+    "time": "2026-10-22 00:16",
+    "created_at": "Wed Oct 21 16:16:11 +0000 2026",
+    "id_str": "2112941025862008949",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Introducing the Cosign Awards.\n\nhttps://cosign.co/awards",
+    "quoted_tweet": {
+      "author": "Erik Torenberg",
+      "username": "eriktorenberg",
+      "text": "Excited to announce the Cosign Awards: celebrating exceptional people, companies, and products that had a massive impact in 2026.\n\nhttp://www.cosign.co/awards\n\nAnyone can nominate and vote. Award winners will be chosen by the public in conjunction with a panel of judges, including industry leaders like @lennysan, @packyM, @amasad, and many more. We’ll host an event in December honoring the winners (10 per category).\n\nFor people categories, we’re mostly focused on everyone except the CEO–everyone else building the company behind the scenes. \n\nCompanies with the most amount of people nominations will be listed on our “Top Companies to Work For” page. \n\nTrue to form, at Product Hunt I helped launch the Golden Kitty awards a decade ago to recognize great products. Soon after I launched the Rise Awards, honoring executives and ICs building companies that make them. The Cosign Awards is the next iteration. \n\nWe have 41 categories across people, companies, and products.\n\nPeople categories:\n- Future Founders\n- Rising Stars\n- Engineering\n- FDE\n- Product\n- Design\n- AI Researchers\n- Marketing\n- Comms\n- Growth\n- Chief of Staff\n- Operations\n- Talent\n- Finance\n- Public Intellectuals\n- Podcaster of the Year\n- Newsletter Author of the Year\n- Poster of the Year\n\nCompany categories:\n- Rising Stars\n- Best Place to Work\n- Founder Mafia\n- Talent Density\n- Highest Aura\n\nProduct categories:\n- Product of the Year\n- Launch of the Year\n- AI Assistant\n- AI Language Model\n- AI Coding\n- Dev Tools\n- Open Source\n- Consumer\n- Productivity\n- Creative & Media Tools\n- Product Design & UX\n- Enterprise B2B\n- Hardware\n- Robotics\n- Self-Driving\n- Healthcare\n- Vertical Fintech\n- Legal"
+    },
+    "url": "https://x.com/a16z/status/2112947672860778813",
+    "time": "2026-10-22 00:42",
+    "created_at": "Wed Oct 21 16:42:36 +0000 2026",
+    "id_str": "2112947672860778813",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Adit Abraham of @reductoai on why everything in AI is \"state-of-the-art all the time,\" and how to find what actually works for you:\n\n\"One of the unfortunate things about the AI industry... is benchmarks have become marketing over time.\"\n\n\"There's a public benchmark out there that we tested where if you take the same documents and you add a little bit of noise, like you tilt it one degree, you add a little Gaussian blur, the provider that published the benchmark gets way, way worse than everyone else, but everyone else is kind of consistent.\"\n\n\"Our recommendation is actually LLM as a judge is quite strong today if you're thoughtful about how you think about a rubric and how to approach it.\"\n\n\"We want to see the industry move closer to people testing on their own data, with tools maybe to make that evaluation easier.\"\n\n\"Instead of trusting a generic benchmark, you really should be at a point where you know what works best for you.\"\n\n@aditabrm",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "AI agents can reason over enormous amounts of information, but much of the world's actual work is still trapped in PDFs, spreadsheets, scans, and other formats that models struggle to reliably understand.\n\nReducto co-founder and CEO Adit Abraham argues that solving this document layer is essential if agents are going to take on consequential work in healthcare, legal, finance, and insurance.\n\nAdit joins a16z General Partner Jennifer Li to explain why traditional OCR breaks down on messy real-world documents, how Reducto combines vision-language models with specialized infrastructure to reach high accuracy without sacrificing cost or latency, and why frontier models can silently drop information on long extraction tasks.\n\nReducto now processes billions of pages each month, and crossed its 7 billionth page the morning of this recording.\n\n0:00 Why AI agents need to read PDFs\n2:12 From 1990s OCR to vision models\n5:00 Training R1 on the messiest docs\n7:46 When agents beat humans at extraction\n9:45 A penny a page for 7 billion pages\n12:47 Why legal and finance lag coding AI\n15:01 The stakes of AI errors in healthcare\n16:25 Agents that can edit Word and Excel\n17:58 Why the labs won't go deep on PDFs\n20:14 Frontier models silently drop data\n22:21 Benchmarks have become marketing\n25:45 Why charts and Excel stump models\n28:46 Infra for 10M documents at once\n31:03 How \"chet pain\" gets claims denied\n34:32 The paperwork AI should kill first\n\nYouTube: https://youtu.be/xuczlbVVLsQ\n\n@aditabrm @reductoai @JenniferHli"
+    },
+    "url": "https://x.com/a16z/status/2112978400608735704",
+    "time": "2026-10-22 02:44",
+    "created_at": "Wed Oct 21 18:44:42 +0000 2026",
+    "id_str": "2112978400608735704",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112785045224095932",
+    "time": "2026-10-21 13:56",
+    "created_at": "Wed Oct 21 05:56:23 +0000 2026",
+    "id_str": "2112785045224095932",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112785045224095932",
+    "time": "2026-10-21 13:56",
+    "created_at": "Wed Oct 21 05:56:23 +0000 2026",
+    "id_str": "2112785045224095932",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It knows me well. Lol. Nice!",
+    "quoted_tweet": null,
+    "url": "https://x.com/KarinaB__Art/status/2112807916529160193",
+    "time": "2026-10-21 15:27",
+    "created_at": "Wed Oct 21 07:27:16 +0000 2026",
+    "id_str": "2112807916529160193",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@KarinaB__Art Very cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112811277344997535",
+    "time": "2026-10-21 15:40",
+    "created_at": "Wed Oct 21 07:40:37 +0000 2026",
+    "id_str": "2112811277344997535",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hell yeah !!! 🤘🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/McCloud2/status/2112925605821874417",
+    "time": "2026-10-21 23:14",
+    "created_at": "Wed Oct 21 15:14:55 +0000 2026",
+    "id_str": "2112925605821874417",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@McCloud2 That’s really cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112926114201124867",
+    "time": "2026-10-21 23:16",
+    "created_at": "Wed Oct 21 15:16:56 +0000 2026",
+    "id_str": "2112926114201124867",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife My deepest condolences for your family's loss.",
+    "quoted_tweet": null,
+    "url": "https://x.com/stefsdeckparty/status/2112926527231017417",
+    "time": "2026-10-21 23:18",
+    "created_at": "Wed Oct 21 15:18:35 +0000 2026",
+    "id_str": "2112926527231017417",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Mine😈💜",
+    "quoted_tweet": null,
+    "url": "https://x.com/Babybat_fangs/status/2112927515564216810",
+    "time": "2026-10-21 23:22",
+    "created_at": "Wed Oct 21 15:22:30 +0000 2026",
+    "id_str": "2112927515564216810",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Babybat_fangs So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112927871224480021",
+    "time": "2026-10-21 23:23",
+    "created_at": "Wed Oct 21 15:23:55 +0000 2026",
+    "id_str": "2112927871224480021",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@stefsdeckparty Thank you all",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112927915801252244",
+    "time": "2026-10-21 23:24",
+    "created_at": "Wed Oct 21 15:24:06 +0000 2026",
+    "id_str": "2112927915801252244",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife So sorry to hear this Kris, my heartfelt condolences to you and your family. May the departed soul rest in peace. 🙏🕊️",
+    "quoted_tweet": null,
+    "url": "https://x.com/itsSSS1510/status/2112929718563680757",
+    "time": "2026-10-21 23:31",
+    "created_at": "Wed Oct 21 15:31:15 +0000 2026",
+    "id_str": "2112929718563680757",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@itsSSS1510 Thank you, Sheetal",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112930076194934842",
+    "time": "2026-10-21 23:32",
+    "created_at": "Wed Oct 21 15:32:41 +0000 2026",
+    "id_str": "2112930076194934842",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ask your AI: \"Describe me in 3 words, based on everything you know about me.\"\n\nShare what it said below, then look through the comments and say hi to someone whose words feel like yours 🤍\n\nLet's find our people. Mine is in the replies.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112930623514132888",
+    "time": "2026-10-21 23:34",
+    "created_at": "Wed Oct 21 15:34:51 +0000 2026",
+    "id_str": "2112930623514132888",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm so sorry to reading this... \nMy deepest condolences to you and alss the family. 🫂 💔\nFrom the bottom of my heart, I wish you all lots of strength during this difficult time.\n\nRest in power 🕯️",
+    "quoted_tweet": null,
+    "url": "https://x.com/W3N_LYCO5/status/2112930686512341064",
+    "time": "2026-10-21 23:35",
+    "created_at": "Wed Oct 21 15:35:06 +0000 2026",
+    "id_str": "2112930686512341064",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@W3N_LYCO5 Thank you 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112931777119424572",
+    "time": "2026-10-21 23:39",
+    "created_at": "Wed Oct 21 15:39:26 +0000 2026",
+    "id_str": "2112931777119424572",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife \"Curious. Imaginative. Compassionate. 💜\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2112932269916582305",
+    "time": "2026-10-21 23:41",
+    "created_at": "Wed Oct 21 15:41:24 +0000 2026",
+    "id_str": "2112932269916582305",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman So true",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112932454281490463",
+    "time": "2026-10-21 23:42",
+    "created_at": "Wed Oct 21 15:42:08 +0000 2026",
+    "id_str": "2112932454281490463",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I made 2.",
+    "quoted_tweet": null,
+    "url": "https://x.com/stefsdeckparty/status/2112938633259024427",
+    "time": "2026-10-22 00:06",
+    "created_at": "Wed Oct 21 16:06:41 +0000 2026",
+    "id_str": "2112938633259024427",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@stefsdeckparty These are really delicate",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112940691592470880",
+    "time": "2026-10-22 00:14",
+    "created_at": "Wed Oct 21 16:14:52 +0000 2026",
+    "id_str": "2112940691592470880",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love seeing all your pumpkins. Keep them coming 🎃",
+    "quoted_tweet": {
+      "author": "Sunny Day",
+      "username": "stefsdeckparty",
+      "text": "@icreatelife I made 2."
+    },
+    "url": "https://x.com/icreatelife/status/2112940839500652689",
+    "time": "2026-10-22 00:15",
+    "created_at": "Wed Oct 21 16:15:27 +0000 2026",
+    "id_str": "2112940839500652689",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I did have some fun with your concept today though. Here's where I ended up. I prefer carved ones.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vickersty/status/2112949964741673139",
+    "time": "2026-10-22 00:51",
+    "created_at": "Wed Oct 21 16:51:42 +0000 2026",
+    "id_str": "2112949964741673139",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I did one with Gemini as well.",
+    "quoted_tweet": null,
+    "url": "https://x.com/geofden/status/2112950597309563209",
+    "time": "2026-10-22 00:54",
+    "created_at": "Wed Oct 21 16:54:13 +0000 2026",
+    "id_str": "2112950597309563209",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@geofden Interesting one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112952164196753744",
+    "time": "2026-10-22 01:00",
+    "created_at": "Wed Oct 21 17:00:27 +0000 2026",
+    "id_str": "2112952164196753744",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@vickersty Love first one a lot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112952232463171737",
+    "time": "2026-10-22 01:00",
+    "created_at": "Wed Oct 21 17:00:43 +0000 2026",
+    "id_str": "2112952232463171737",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife So very sorry for your famly's loss, Kris.",
+    "quoted_tweet": null,
+    "url": "https://x.com/pearliecre2898/status/2112954654384328758",
+    "time": "2026-10-22 01:10",
+    "created_at": "Wed Oct 21 17:10:21 +0000 2026",
+    "id_str": "2112954654384328758",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@pearliecre2898 Thank you 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112955412630614065",
+    "time": "2026-10-22 01:13",
+    "created_at": "Wed Oct 21 17:13:21 +0000 2026",
+    "id_str": "2112955412630614065",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Collect glimmers ✨",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112958420269855056",
+    "time": "2026-10-22 01:25",
+    "created_at": "Wed Oct 21 17:25:18 +0000 2026",
+    "id_str": "2112958420269855056",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife this is why I follow you - lots of glimmers :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/anotherjesse/status/2112963125679145225",
+    "time": "2026-10-22 01:44",
+    "created_at": "Wed Oct 21 17:44:00 +0000 2026",
+    "id_str": "2112963125679145225",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@geofden @icreatelife It's so beautifully detailed!",
+    "quoted_tweet": null,
+    "url": "https://x.com/altfortomorrow/status/2112966532322230625",
+    "time": "2026-10-22 01:57",
+    "created_at": "Wed Oct 21 17:57:32 +0000 2026",
+    "id_str": "2112966532322230625",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@altfortomorrow @geofden Really detailed",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112966964838895787",
+    "time": "2026-10-22 01:59",
+    "created_at": "Wed Oct 21 17:59:16 +0000 2026",
+    "id_str": "2112966964838895787",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Pumpkin painting made simple!",
+    "quoted_tweet": null,
+    "url": "https://x.com/L4STD4ZE/status/2112967965108736027",
+    "time": "2026-10-22 02:03",
+    "created_at": "Wed Oct 21 18:03:14 +0000 2026",
+    "id_str": "2112967965108736027",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@L4STD4ZE That’s beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112968561526518183",
+    "time": "2026-10-22 02:05",
+    "created_at": "Wed Oct 21 18:05:36 +0000 2026",
+    "id_str": "2112968561526518183",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@anotherjesse 🫶🥹❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112969131884716070",
+    "time": "2026-10-22 02:07",
+    "created_at": "Wed Oct 21 18:07:52 +0000 2026",
+    "id_str": "2112969131884716070",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife sending so many hugs and my deepest condolences ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/LinusEkenstam/status/2112970250790531191",
+    "time": "2026-10-22 02:12",
+    "created_at": "Wed Oct 21 18:12:19 +0000 2026",
+    "id_str": "2112970250790531191",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LinusEkenstam Thank you, Linus 🫂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112971586290749933",
+    "time": "2026-10-22 02:17",
+    "created_at": "Wed Oct 21 18:17:37 +0000 2026",
+    "id_str": "2112971586290749933",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife What happened to him? Such a young soul?",
+    "quoted_tweet": null,
+    "url": "https://x.com/aamirect87/status/2112988802889417050",
+    "time": "2026-10-22 03:26",
+    "created_at": "Wed Oct 21 19:26:02 +0000 2026",
+    "id_str": "2112988802889417050",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@aamirect87 He fell down from height and injured his brain.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2112989244042215789",
+    "time": "2026-10-22 03:27",
+    "created_at": "Wed Oct 21 19:27:47 +0000 2026",
+    "id_str": "2112989244042215789",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Today we’re releasing Underdog Bark 3.0, the #1 frontier speech model\n\nIt's a tiny 163 MB download as accurate as NVIDIA’s Parakeet (15x bigger). It beats OpenAI's Whisper large-v3 (57x bigger)\n\nIt's fast- transcribes 1 min of audio in <0.25s on a Macbook. On recorded meetings (AMI), Bark 3.0 gets 7.82% of words wrong. Parakeet gets 9.42%. OpenAI's Whisper large-v3 gets 13.63% error rate\n\nBark runs on both your Laptop & Phone. It’s free and open source under CC-BY 4.0\n\nTry private on-device meeting notes & dictation, powered by Bark, in Underdog today: http://underdog.ai/bark",
+    "quoted_tweet": null,
+    "url": "https://x.com/UnderdogAI/status/2112733007484518470",
+    "time": "2026-10-21 10:29",
+    "created_at": "Wed Oct 21 02:29:36 +0000 2026",
+    "id_str": "2112733007484518470",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "We formally announced Mirendil less than 4 months ago. Today, I'm excited to share an important milestone for:\n\nPretraining at scale without a pretraining team.\n\nMirendil's mission is to solve Recursive Self-Improvement (RSI) and use it to democratize frontier AI development, ultimately accelerating science and technology. At Mirendil, when we think about RSI, we think holistically about the company as an intelligent entity that self-improves toward its goal. From that perspective, the most powerful notion of acceleration is reducing the time and resources (number of human experts, compute, and other costs) needed to achieve ambitious goals.\n\nGiven that pretraining is perhaps the most important yet most challenging part of frontier AI development, we decided to run an ambitious controlled experiment: Starting fully from scratch, can we significantly reduce the time, number of human experts, and compute resources needed to go all the way to successfully pretraining a strong coding model at scale?\n\nMirendil-Base is the result of this experiment. Our first pretrained model was built by one researcher in 3.5 months, with less than $10M in compute. This includes all the research and small-scale experiments it took to get there, as well as the final training run.\n\nThe recipe holds up as the models get bigger. For reference, Mirendil-Base is in the 100B-500B parameter range, Mirendil-Base-Large in the 500B-2T range, and Mirendil-Base-XL in the 2T-10T range.\n\nWe're beginning to see a world where a single researcher, empowered by AI, can take on work that once required an entire research organization. As these systems improve, the bottleneck shifts from the size of a team to the ambition and judgment of the people directing them. This has profound implications for who gets to build AI and, ultimately, who gets to push the frontiers of science and technology forward.\n\nWe’ll share independent evaluations, post-training benchmarks and API-access sooner than you think so stay tuned!",
+    "quoted_tweet": null,
+    "url": "https://x.com/bneyshabur/status/2112941025862008949",
+    "time": "2026-10-22 00:16",
+    "created_at": "Wed Oct 21 16:16:11 +0000 2026",
+    "id_str": "2112941025862008949",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Read more about this milestone here: https://mirendil.com/news/pretraining-at-scale-without-a-pretraining-team/",
+    "quoted_tweet": null,
+    "url": "https://x.com/bneyshabur/status/2112941029485863112",
+    "time": "2026-10-22 00:16",
+    "created_at": "Wed Oct 21 16:16:12 +0000 2026",
+    "id_str": "2112941029485863112",
+    "is_retweet": true
   }
 ]
