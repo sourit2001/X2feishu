@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我猜测 Codex 和 Work 也是 12 个小时，只不过缓存没有命中的成本 OpenAI 给你覆盖掉了。\nhttps://x.com/hx831126/status/2112776448834683284?s=20",
+    "quoted_tweet": {
+      "author": "虎小象",
+      "username": "hx831126",
+      "text": "@dotey 永久保存～永久！"
+    },
+    "url": "https://x.com/dotey/status/2112780031139176779",
+    "time": "2026-10-21 13:36",
+    "created_at": "Wed Oct 21 05:36:27 +0000 2026",
+    "id_str": "2112780031139176779",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Meta 工程师确认：Meta 已在正式业务里用 Google TPU 跑 AI 推理\n\n10 月 20 日，Google 在开发者博客发布 TPU 版 SGLang 推理引擎，文中引用了 Meta 的 PyTorch-TPU 负责人 Zongwei Zhou 的原话：\"SGLang-TorchTPU 今天已经在 Meta 的生产环境中运行。\"这是目前唯一的一手确认。\n\nTPU 是 Google 自研的 AI 芯片，对手是英伟达 GPU。推理就是 AI \"上岗干活\"，你每问一个问题，它算出答案就是一次推理。\n\nZongwei Zhou 没说规模多大、用在哪些产品、TPU 是租的还是买的。The Information 今年 2 月报道过，Meta 和 Google 签了多年、数十亿美元的 TPU 租用合同，两家没有公开细节。\n\nGoogle 开发者博客：https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/\nPyTorch 博客：https://pytorch.org/blog/introducing-torchtpu/",
+    "quoted_tweet": {
+      "author": "SemiAnalysis",
+      "username": "SemiAnalysis_",
+      "text": "BREAKING NEWS🚨🚨: TODAY META CONFIRMS THEY ARE RUNNING TPU INFERENCE IN PRODUCTION. What does this mean for the CUDA moat?\n\nFor those who read our public newsletter, this is not a surprise, as on Nov 28, 2025, we publicly wrote that Meta is a TPU customer & has lots of engineers working on TPUs. Our accelerator supply chain model has details about Meta's TPU procurement!"
+    },
+    "url": "https://x.com/dotey/status/2112788283251962092",
+    "time": "2026-10-21 14:09",
+    "created_at": "Wed Oct 21 06:09:15 +0000 2026",
+    "id_str": "2112788283251962092",
+    "is_retweet": false
+  }
+]
