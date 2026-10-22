@@ -533,5 +533,220 @@
     "created_at": "Thu Oct 22 18:54:58 +0000 2026",
     "id_str": "2113343371922268264",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://x.com/i/article/2112813136277540864",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2113195080517562646",
+    "time": "Thu Oct 22 09:05:43 +0000 2026",
+    "created_at": "Thu Oct 22 09:05:43 +0000 2026",
+    "id_str": "2113195080517562646",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@damonchen @claudeai 这很不公平，但希望你至少能要回退款。\n\n还是 DHH 经验丰富\nhttps://x.com/dhh/status/2112095267873014079?s=20",
+    "quoted_tweet": {
+      "author": "DHH",
+      "username": "dhh",
+      "text": "@buaaxhm No, I route all my Claude Code use over my tailscale network 😄"
+    },
+    "url": "https://x.com/dotey/status/2113276460312170525",
+    "time": "Thu Oct 22 14:29:05 +0000 2026",
+    "created_at": "Thu Oct 22 14:29:05 +0000 2026",
+    "id_str": "2113276460312170525",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "吓我一跳，还以为 1Password 也出问题了，原来是要把密码共享给 Agent。有些网站我可以，但是主要的几个账号我还是不太放心的。",
+    "quoted_tweet": {
+      "author": "1Password",
+      "username": "1Password",
+      "text": "Today we announce 1Password for Agents platform, building with companies @Muse, SpaceX Super Intelligence Grok @Bot, @AnthropicAI’s @Claudeai, @OpenAI, @TownAI, @Browserbase, @Browser_use, @heydana_ai, Instinct, @usekernel, @Perplexity_ai, @tryramp, @Tomo, and @wajo_ai,  with more integrations on the way. 🎉\n\nWe've heard from so many of our customers who want to use these new personal AI agents to help them get more done, but want more control over what the agent can access with the same trust and ease of use they get when using 1Password directly. \n\n1Password for Agents gives your agents access without giving up your passwords. When an agent reaches a sign-in form, it requests a credential from your vault. If you approve the request, 1Password directly auto-fills the credential in the destination site so the agent can’t see or take possession of the credentials. \n\nThe agent gets the task done, but it doesn’t get your passwords..\n\nYou stay in control. 1Password for Agents free and optional for personal and family accounts. Unless you opt-in to an agent connector, agents cannot touch your vault. \n\n➡️Learn more: https://bit.ly/487da6J"
+    },
+    "url": "https://x.com/dotey/status/2113291134265115101",
+    "time": "Thu Oct 22 15:27:24 +0000 2026",
+    "created_at": "Thu Oct 22 15:27:24 +0000 2026",
+    "id_str": "2113291134265115101",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我一般是这样的：\n我要外出没空搭理你，有问题你找 advisor 确认。\n\n当然前提是设置了 /advisor fable",
+    "quoted_tweet": {
+      "author": "马天翼",
+      "username": "fkysly",
+      "text": "我发现对 Opus 5.5 来说我只有两种说法了：\n1. 那你看着办吧\n2. 我也没办法啊"
+    },
+    "url": "https://x.com/dotey/status/2113296749737476142",
+    "time": "Thu Oct 22 15:49:42 +0000 2026",
+    "created_at": "Thu Oct 22 15:49:42 +0000 2026",
+    "id_str": "2113296749737476142",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "让 opus 当 advisor 这个策略也可以用的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2113298222512742611",
+    "time": "Thu Oct 22 15:55:34 +0000 2026",
+    "created_at": "Thu Oct 22 15:55:34 +0000 2026",
+    "id_str": "2113298222512742611",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我猜测 Tibo 搞这个 28 天不更新就重置活动，就是因为额度变少，需要每 3 天左右重置一次来维持以前一周的用量，否则你就会很快发现 Pro 订阅额度怎么这么少。\n\n可能他们正在加班加点解决模型不耐用问题，靠这 28 天续命呢。\n\n",
+    "quoted_tweet": {
+      "author": "卫斯理",
+      "username": "imwsl90",
+      "text": "不知道是不是一种错觉啊\n\n我感觉Codex最近的量变少了\n\n大家有这种感觉吗\n​\n​难道官方一直在缩小用量 然后疯狂的重置？"
+    },
+    "url": "https://x.com/dotey/status/2113299677785542772",
+    "time": "Thu Oct 22 16:01:21 +0000 2026",
+    "created_at": "Thu Oct 22 16:01:21 +0000 2026",
+    "id_str": "2113299677785542772",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "卡普空确认遭受针对其 CAPCOM ID 账户系统的网络攻击，影响全球 11,774,247 个账户。",
+    "quoted_tweet": {
+      "author": "Hackmanac",
+      "username": "H4ckmanac",
+      "text": "🚨Cyber Alert ‼️\n\n🇯🇵Japan - 𝗖𝗔𝗣𝗖𝗢𝗠\n\nCapcom confirmed a cyberattack targeting its CAPCOM ID account system, affecting 11,774,247 accounts worldwide.\n\nThe breach, detected on October 19, exposed email addresses and account metadata, including registration dates, login activity and IP addresses. Additional personal information was leaked from 43 accounts, while attackers also changed the passwords of 196 accounts without authorisation.\n\nThreat actor: Not specified  \nSector: Arts / Entertainment  \nData exposure (claimed): 11,774,247 accounts  \nData type: Email addresses, account metadata, IP addresses, dates of birth, gender, location and nicknames  \nObserved: Oct 22, 2026  \nStatus: Confirmed  \nESIX©: 6.25\n\nFull details and impact assessment on http://HackRisk.io"
+    },
+    "url": "https://x.com/dotey/status/2113312593821794320",
+    "time": "Thu Oct 22 16:52:40 +0000 2026",
+    "created_at": "Thu Oct 22 16:52:40 +0000 2026",
+    "id_str": "2113312593821794320",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我只希望 Claude Code 能支持读取 .agents/skills，别自己搞一套 .claude/skills",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "We're donating Agent Skills to the Agentic AI Foundation (@AgenticAIFdn), the same foundation we donated MCP to.\n\nSince December 2025, 70+ agent platforms have integrated the standard, including ChatGPT, Cursor, GitHub Copilot, and VS Code. \n\nHere's what that means for you:"
+    },
+    "url": "https://x.com/dotey/status/2113330196401303844",
+    "time": "Thu Oct 22 18:02:37 +0000 2026",
+    "created_at": "Thu Oct 22 18:02:37 +0000 2026",
+    "id_str": "2113330196401303844",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "旧金山聚变公司 Marathon Fusion 称用中子把水银变成了金子，金价不会受影响，他们真正要卖的是抗癌药原料\n\nMarathon Fusion 是旧金山一家 28 人的创业公司。10 月 21 日，公司在 X 上发帖说，上个月他们用核聚变产生的中子，把水银（汞）变成了稳定的金子，速度是欧洲核子研究中心 CERN 2025 年纪录的 10 倍。\n\n先回答最实际的问题：金价会跌吗？不会。\n\n按 Marathon 自己 2025 年论文的算法，一座吉瓦级的聚变电站外面包一层水银，每年能顺带产约 2 吨金子。2025 年全球金矿产量约 3672 吨，要追上这个数，得建 1800 座这样的电站，而眼下一座都没有。Marathon 自己的装置功率是 1 千瓦，只有吉瓦的百万分之一。\n\n这样产出的金子还混着放射性，联合创始人 Adam Rutkowski 去年对英国《金融时报》说，要存放 14 到 18 年才完全安全。\n\n这次实验本身的量也小。CERN 那项纪录是对撞机里铅原子核擦肩而过、被打掉 3 个质子变成的金，2015 到 2018 年四年一共约 29 皮克，不到一克的三百亿分之一，最快时每秒约 8.9 万个原子。\n\nMarathon 说的是“高速率”，比的应该是每秒产量，但公司没说比的是哪个数，也没公布一共做出多少金子、纯度多高。外媒指出，帖子里的证据只有一张伽马射线能谱图，目前没有第三方验证。\n\n原理物理学家早就知道。氘和氚两种氢聚变时，每次反应都会甩出一个速度极快的中子。这个中子撞进汞-198，会顺带再撞出一个中子，剩下的汞-197 过几天自己衰变成金-197，也就是首饰里那种金。普通核电站里这么快的中子很少，聚变装置每反应一次就有一个。\n\n那一家聚变公司为什么要炼金？答案在钱上。\n\nMarathon 今年 2 月发了一篇论文，给每一个聚变中子算了价钱：拿去发电，按每度电约 0.1 美元算，一个中子值约 3×10⁻²⁰ 美元；拿去炼金，值 2.6×10⁻²⁰ 美元，跟发电差不多；拿去做钼-99，值 2.6×10⁻¹⁷ 美元，接近发电的一千倍；拿去做抗癌药原料锕-225，值约 10⁻¹⁰ 美元，是发电的 30 亿倍左右。\n\n这个账决定了聚变装置多早能赚钱。论文算出，只卖电的聚变电站，等离子体放出的能量要达到加热它所用能量的 10 到 22 倍才能回本，现有实验装置离这个门槛还很远。如果同时卖电和金子，门槛降到 3 倍左右。如果专做钼-99，放出的能量只有投入的千分之一也能赚钱。\n\n钼-99 衰变出的锝-99m 是核医学检查里用得最多的显像剂，约八成的核医学扫描靠它，现在主要靠全球少数几座研究用反应堆裂变铀来生产。Marathon 去年 12 月的论文估计，一台 3 兆瓦、远达不到能量回本的聚变装置，就能满足全世界的钼-99 需求。\n\n锕-225 更稀缺。它用于靶向放射治疗：把放射性原子挂在能认出癌细胞的药物分子上，送到肿瘤旁边近距离照射。这类药的市场在长，诺华的前列腺癌药 Pluvicto 2025 年卖了约 20 亿美元。锕-225 长期主要靠美国橡树岭国家实验室从冷战时期留下的核材料里慢慢提取。Marathon 官网写的路线是用聚变中子轰击镭-226 来生产它。\n\n这次帖子里，公司说已经做出第一批医用同位素：用聚变中子轰击锌，得到铜-64 和铜-67。铜-64 用于 PET 扫描找肿瘤，铜-67 用于治疗。产量没有公布。\n\n所以 Marathon 的计划分两步：先用小装置卖医用同位素，以后再靠金子给大型聚变电站补贴收入。论文估计全球黄金市场每年约 7000 亿美元，足够支撑约 2 太瓦（2000 吉瓦）的聚变发电。这些都是公司自己的模型，还没有一笔真实销售。\n\n为了产够中子，Marathon 说要每秒把一万亿个中子打进一个 1 厘米大小的靶子，连续好几年。他们正在旧金山建的装置用加速器把氘离子打到含氚的锂靶上，用途是产中子，不发电。公司的目标是从现在起每月把功率密度翻一倍，这是计划，还没有实际记录。\n\n帖子里还提到，上周他们在“全球最强的等离子体离心机”里富集了同位素，打破了苏联保持 40 年的纪录。这种离心机让带电的气体高速旋转，重的同位素甩到外圈，轻的留在中间。汞-198 只占天然汞的一成左右，炼金前得先这样挑出来。公司没说打破的是哪项纪录、数值是多少。\n\nMarathon 成立于 2023 年，由前 SpaceX 推进工程师 Adam Rutkowski 和 CEO Kyle Schiller 创办，种子轮由 1517 Fund 和矿业巨头英美资源集团领投。团队五分之一有博士学位，这条帖子的后半段在招人。\n\n中子价值论文（2026 年 2 月）：https://arxiv.org/abs/2603.00835\n聚变产同位素论文（2025 年 12 月）：https://arxiv.org/abs/2512.09242\nCERN ALICE 炼金结果：https://home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc\n外媒分析（The Oregon Group）：https://theoregongroup.com/latest-news/marathon-fusion-mercury-gold-cern-record-cost/",
+    "quoted_tweet": {
+      "author": "Marathon Fusion",
+      "username": "MarathonFusion",
+      "text": "Last month, we demonstrated high-rate alchemy: turning mercury into real, stable gold, beating CERN’s record by a factor of 10.\n\nLast week, we enriched isotopes in the world’s most powerful plasma centrifuge, beating the Soviet record that stood for 40 years.\n\nNow, we’re building a fusion reactor in San Francisco to achieve record power density."
+    },
+    "url": "https://x.com/dotey/status/2113363249194222032",
+    "time": "Thu Oct 22 20:13:57 +0000 2026",
+    "created_at": "Thu Oct 22 20:13:57 +0000 2026",
+    "id_str": "2113363249194222032",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "The Decisions API is now generally available!\n\nTo celebrate, I had Codex reimagine a very important app… 🌭",
+    "quoted_tweet": null,
+    "url": "https://x.com/romainhuet/status/2113369156838121938",
+    "time": "Thu Oct 22 20:37:26 +0000 2026",
+    "created_at": "Thu Oct 22 20:37:26 +0000 2026",
+    "id_str": "2113369156838121938",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@romainhuet Not hotdog",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2113371775065325693",
+    "time": "Thu Oct 22 20:47:50 +0000 2026",
+    "created_at": "Thu Oct 22 20:47:50 +0000 2026",
+    "id_str": "2113371775065325693",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\n\nWith Craft, Canva is now the world's second most advanced AI lab for image generation on @DesignArena's global leaderboard.\n\nSee what it can do 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/canva/status/2113348707223753165",
+    "time": "Thu Oct 22 19:16:10 +0000 2026",
+    "created_at": "Thu Oct 22 19:16:10 +0000 2026",
+    "id_str": "2113348707223753165",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Introducing Canva Craft 🚀\n\nExtraordinary image generation is now available to everyone, powered by our first frontier model built specifically for design.\n\nWith Craft, Canva is now the world's second most advanced AI lab for image generation on @DesignArena's global leaderboard.\n\nSee what it can do 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/canva/status/2113348707223753165",
+    "time": "Thu Oct 22 19:16:10 +0000 2026",
+    "created_at": "Thu Oct 22 19:16:10 +0000 2026",
+    "id_str": "2113348707223753165",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@canva @DesignArena Based department",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2113350416133988704",
+    "time": "Thu Oct 22 19:22:58 +0000 2026",
+    "created_at": "Thu Oct 22 19:22:58 +0000 2026",
+    "id_str": "2113350416133988704",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Universal High Income\n\nThe most likely outcome",
+    "quoted_tweet": null,
+    "url": "https://x.com/anabology/status/2113239948144890235",
+    "time": "Thu Oct 22 12:04:00 +0000 2026",
+    "created_at": "Thu Oct 22 12:04:00 +0000 2026",
+    "id_str": "2113239948144890235",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "https://x.com/i/article/2106118739963916288",
+    "quoted_tweet": null,
+    "url": "https://x.com/cdixon/status/2113299399254176221",
+    "time": "Thu Oct 22 16:00:14 +0000 2026",
+    "created_at": "Thu Oct 22 16:00:14 +0000 2026",
+    "id_str": "2113299399254176221",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I'd like to share a little about what I've been working on at my new company @ultrametricai with my cofounder @tylerlastovich. We have been exploring how we could automate the startup itself, leaving founders with more time to focus on their exact mission.\n\nEnter our first release of the Open Startup Repo: https://github.com/ultrametricai/ultrametric\n\nA common foundation for transparent automation of the startup. \n\nAfter close to 20 years in silicon valley, backing hundreds of amazing founders & startups, being in the trenches of founding Heyzap (YC08), then solo founding @golden, going through 2 acquisitions and working behind the scenes with some of the iconic companies today, I'm witnessing the largest change to how we work I could have imagined - a truly monumental era of creative abundance. \n\nI believe the next generation of companies will largely run themselves: from operations, code, product upgrades, growth, vendor control & selection, process execution, special situations, strategy etc etc. That leaves founder time for 'the art' at the very niche core: the (currently) unautomatable, the special leaps humans tend to make, and north star setting.\n\nWe want founders to go super deep into the main problem they are trying to solve and not get held up doing anything else, from searching for domain availability with trademark checks to setting their company up, to running their processes on autopilot. \n\nSo to help that broad foundational layer for starting and running a company, we have spent around a year exploring how to help founders focus on their mission across different verticals, geos, stages and initial starting conditions.\n\nOur first few attempts at making something useful actually failed as the market and AI was moving so fast; it just got absorbed into the models or other product releases. We saw polsia happen, openclaw, then grokbot, muse, dots, etc era as the astras, fables, opuses, kimis and jevs rolled out. What seemed to have been missing along the way was a common repo to identify, unify, open and normalize all the lego bricks that startups have to interact with (vendors, processes, business logic, law, best practices, surface areas, art of the possible). \n\nAs the number of software vendors blew up, the interfaces to drive them multiplied, the international startup founder blew up as silicon valley moved from a specific location to a state of mind and global movement. Unlimited pre seed funding in unlimited vertical sub markets and permutations has brought us to the age of infinity but we have yet to achieve being able to type into an agent a very simple sentence with very complex implications 'just setup my company and make $1m/m'. We have ended up with a hybrid mismash of computer use, API calls, plugins, shifting surface areas (API/MCP/CLI/plugins/chats/musish futures), and changing model absorption to vendor balance making it an exciting and unstable time. \n\nAs our first step we started to rank all the vendors that startups interface to when going about their journey in terms of how agentically controllable they are via their APIs, MCPs, CLIs etc and computer use compatibility as we are largely switching from a UI driven world to the agentic control surfaces and onto full automation. We have 100 ranking areas you can check out with an overall open ranking here: https://ultrametric.ai/overall\n\nThen we looked at the processes that startups do and how the vendors rank for the sub steps or process as a whole and how this changes across geos. Open processes: https://ultrametric.ai/processes\n\nThen we started to hack on an open repo for startups that would contain all the components we are going to need for a common foundation for founders across the globe even if our gov processes vary so much from Bengaluru to SF or Lisbon to Shenzhen.  The founder spirit is geo-invariant. \n\nWe have looked at special founder/startup situations, the business logic that will make open modules for the startup that we can hack on together, ranked law firms, government services and interfaces, stacks that go well together. We have mapped the law and lore that maps to startups and the schemas that make up the data objects and documents. But also the open documents and the missing gaps. MUCH TO DO.\n\nAll the BS processes and fluff work that founders waste their time on needs to goto zero. I want to see more supersonic planes, cancer drugs, seemingly impossible missions done and increase the bang for buck founders have with their funding. \n\nThis is a work in progress and we are keen for the community to come hack on the repo with us here: https://github.com/ultrametricai/ultrametric\n\nLets get into the structure of the general repo and the visualizations we made on http://ultrametric.ai site with example links: \n\n- Open rankings: https://ultrametric.ai/overall\n\n- Open rankings example (online payments): https://ultrametric.ai/arena/payments\n\n- Open ranking example 2 (cap table): https://ultrametric.ai/arena/equity-management \n\n- Open processes: https://ultrametric.ai/processes\n\n- Open process example (Incorporate C-Corp) https://ultrametric.ai/processes/incorporate-c-corp\n\n- Open situations that founders face: https://ultrametric.ai/situations\n\n- Open startup simulator (you can test our different initial starting conditions): https://ultrametric.ai/startup-sim \n\n- Open modules (e.g. cap table, payroll logic etc - we'd love help improving these) https://ultrametric.ai/open-modules\n\n- Open law (we are interested in how law changes the processes, situations and normalizing this over time) https://ultrametric.ai/open-law\n\n- Open lore (we are interested in the historical lore of startups, the rules of thumb and heuristics that might guide your agent): https://ultrametric.ai/open-lore\n\n- Open fields (we are interested in how the schema for the data connects to the open modules, business logic, open documents and artifacts of each process eg how is a EIN defined?) https://ultrametric.ai/fields\n\n- Open documentation (eg SAFE notes and missing! docs) https://ultrametric.ai/open-documents\n\nWe have looked at YC companies as well in terms of which ones do well agentically: https://ultrametric.ai/yc\n\nWe are interested in stacks and how people are changing their work: https://ultrametric.ai/stacks\n\nWe are interested in what is automatable and where the agentic ceiling is currently and how to push that up in all areas: https://ultrametric.ai/rankings/processes/most-automatable\n\nThere is more for you to explore and a lot more coming in terms of how you will be able to navigate business in an optimal way in your chosen surface area; whether you are hanging in grokbot, dots, muse, claude, terminal, chat, or whatever is coming up in this exciting time. \n\nWe have a lot of data to collect, clean up and help agents navigate the vast landscape emerging functionality the entire startup ecosystem has to offer. \n\nCome join us getting your vendor in, ranked or that access pattern you have wanted or getting the data more accurate in terms of which vendor is best for a process or steps. Or open a module of something that currently cost money that could be free. \n\nAlso come play in our discord for founders and join the chaos (we can solve each others issues including fund raising tips from me personally): https://discord.com/invite/3aHky836qP \n\nIt's time to lift all the boats in the harbor and I'm extremely excited as to what the community of hackers and painters will hack into the repo, what asks they will have and whether we can shift normalization of processes globally, gov agentic interfaces and have common repo for founders that grows over time. I expect a lot of experimentation along the way, bugs and upside...\n\nI appreciate our backers having faith in us as well from @ycombinator with @garrytan to @immad doing a sizable check (congrats on $1bn rev homie) to @darbyw (congrats on Stripe buying @clerkyinc), @drewhouston form @Dropbox and also @pioneer_fund @tomerlondon cto @GustoHQ and hopefully this is 'boring' and complex enough for Charlie Songhurst :> @delingpole @Liquid2V @ivolo from @segment @ryanpowe @sonicaghi of @kong @DellyTamer+ other supporters (@michaelwfrank, Fundamental ventures and if I missed you sorry moving fast!). \n\n[And don't worry, all vendor rankings are open scoring methods so no favors are being done if someone backed us and is a vendor they have to compete with how agentic and automatable they are just like anyone else.]\n\nPS: we have bugs and many quality upgrades to make but thought better to go out early and fix as a community. \n\nPPS: we have other stuff to launch we just thought this was a great place to start and have 200 PRs coming out pretty soon but I still want to know what is broken or doesnt make sense or inaccurate. \n\nSpecial thanks to current and past team members for getting us here and all the experiments we did you know who you are.",
+    "quoted_tweet": null,
+    "url": "https://x.com/judegomila/status/2113391416512762304",
+    "time": "Thu Oct 22 22:05:53 +0000 2026",
+    "created_at": "Thu Oct 22 22:05:53 +0000 2026",
+    "id_str": "2113391416512762304",
+    "is_retweet": true
   }
 ]
