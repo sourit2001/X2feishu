@@ -209,5 +209,42 @@
     "created_at": "Wed Oct 21 21:54:59 +0000 2026",
     "id_str": "2113026285723402532",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A visible sign of what AI insiders have been warning about since at least the Mythos release. Acceleration of attack and defense, at inhuman speeds, interacting with the very human systems that need to react to them.",
+    "quoted_tweet": {
+      "author": "⁵⁄₉",
+      "username": "fiveoutofnine",
+      "text": "So basically, today PHP got two critical bugs that let anyone run code on your server without even logging in, which is bad, and then the details leaked before the patch was even out, which is worse, and it works on WordPress and MediaWiki and Magento and Joomla and Laravel, and Censys says like 1.5 million servers are running a version with no fix, so the NSA was like \"take your system offline,\" and the FBI was like \"take your system offline,\" and CISA and the UK and CERT-EU were all like \"take your system offline,\" and then the Prime Minister of Japan, the actual Prime Minister, posted at 5:55 in the morning telling 48.8 million people to take their system offline, so everyone took their system offline, like the Dutch cybersecurity agency took its own website offline, and the Dutch parliament went offline, and the Port of Rotterdam went offline, and Finland and France and Denmark started pulling government sites, and Wikipedia went down, and http://Archive.org went down, and Asana and GOG and Something Awful went down, and the University of Vienna's webmail went down for some reason, and that's just PHP. Because GitLab also dropped a CVSS 10.0, which is the highest score they give out, for a bug that's been there since 2014, so that's every self-hosted GitLab for twelve years, and then LiteLLM 1.107.0 got hijacked and shipped a credential stealer and a remote access trojan in every single wheel and the Docker images, including latest, and you didn't even have to import it, just installing it was enough, and it's the second time this year, and then Railway paused every deployment on the entire platform because someone got into the environment variables, so now everyone has to rotate every secret they've ever stored there, and TiDB Cloud said someone was walking around inside with stolen credentials for basically a month and an extortion group says they took 10.6 terabytes, and Zeabur got breached for the second time in two months and is just shutting down, like the whole company, and Node.js patched remote code execution and a TLS bypass, and CISA says Plex is being actively exploited, and someone took over 300 Tor exit relays to steal SSH passwords, and SafePay ransomware has hit over 600 critical infrastructure orgs, and India's biggest bank filed a data loss incident, and Japan has been in an official state of emergency in cyberspace since October 9, which honestly explains the 5:55 AM post. Oh, and eMudhra, a certificate authority that's issued over 60 million certificates, whose entire job is proving websites are who they say they are, was supposed to be using private keys that are random numbers over a hundred digits long, and one of them was 4. Just 4. And the others were like 66 and 237. Anyway, it's Wednesday."
+    },
+    "url": "https://x.com/emollick/status/2113063313810792916",
+    "time": "Thu Oct 22 00:22:07 +0000 2026",
+    "created_at": "Thu Oct 22 00:22:07 +0000 2026",
+    "id_str": "2113063313810792916",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This Christmas side hustle is going viral with fake math. The real numbers are still worth it.\n\n10 x $5 is $50. You'd need 300 sales.\n\nThe idea is still good, though. A digital coloring book costs almost nothing to make, and parents buy them every December.\n\nHere's how I'd actually do it.\n\n1. Plan it in Claude:\n\"Plan a 30-page Christmas coloring book for kids ages 4-8. Give me a title and 30 page ideas, one simple scene per page. Original characters only, no brands or movie characters. Mix easy pages with a few detailed ones.\"\n\n2. Draw it in ChatGPT Images (Claude doesn't make images):\n\"Black and white coloring page for kids. Thick clean outlines, no shading, no gray, white background. Scene: [page idea]. Portrait, letter size.\"\n\n3. Write the listing in Claude:\n\"Write a Gumroad listing for this book: [title + page list]. Title under 60 characters, 3 short bullets on what parents get, the age range, and one line on printing at home.\"\n\nThen put the pages into one PDF in Canva and upload it.\n\nWhat would you sell for under $10 this Christmas?\n\nMore side-hustle prompts for ChatGPT and Claude: http://godofprompt.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113074356590944337",
+    "time": "Thu Oct 22 01:06:00 +0000 2026",
+    "created_at": "Thu Oct 22 01:06:00 +0000 2026",
+    "id_str": "2113074356590944337",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@menelekmakonnen I kinda jump between both. Appreciate the feedback. I do like the \"pew pews\" too! :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2112979253847576664",
+    "time": "2026-10-22 02:48",
+    "created_at": "Wed Oct 21 18:48:06 +0000 2026",
+    "id_str": "2112979253847576664",
+    "is_retweet": false
   }
 ]
