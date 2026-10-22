@@ -437,5 +437,642 @@
     "created_at": "Thu Oct 22 07:55:52 +0000 2026",
     "id_str": "2113177503900872711",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 可以在小米电视上直接运行豆包吗？开机就是豆包，不看电视，给小孩用",
+    "quoted_tweet": null,
+    "url": "https://x.com/Fung162047/status/2113179383267836375",
+    "time": "Thu Oct 22 08:03:20 +0000 2026",
+    "created_at": "Thu Oct 22 08:03:20 +0000 2026",
+    "id_str": "2113179383267836375",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Fung162047 嗯，其实可以魔改一下豆包的 APP，然后装在电视上",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113180106541945061",
+    "time": "Thu Oct 22 08:06:13 +0000 2026",
+    "created_at": "Thu Oct 22 08:06:13 +0000 2026",
+    "id_str": "2113180106541945061",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我也拿家里的 TCL 试了下归藏桌面，全程让 Codex 帮我调试。\n\n电视是 TCL 55Q9L Pro，Android 14。一开始想直接用 ADB 连，电视里有这个开关，可打开后怎么都连不上。换成 U 盘装，又提示系统已禁止安装该安装包。\n\n后来干脆让 Codex 自己想办法，它要什么我就给什么。它把安装包改了：去掉默认桌面的声明，重新签名，再通过 TCL 自带的多屏互动，把归藏桌面当普通应用装了进去，运行正常。\n\n剩下一个问题是这台电视没法直接把它设成默认桌面。Codex 又自己做了个在电视本机运行的启动助手，现在待机唤醒后会先过一下 TCL 原桌面，再自动打开归藏桌面，中间延长不到1s，整个体验舒服多了。\n\n最后把首页整理成自己常用的几个应用，换上壁纸，整体特别简洁，太喜欢了。Codex牛逼",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "现在 AI 真是厉害，连电视界面都能改！\n\n我参考了比较流行的两个项目，给自己做了一个新的启动器\n\n现在这个启动器完美符合我的需求：\n\n只展示常用的应用，比如我的 PS5 和 Apple TV 的连接，还有我常看的哔哩哔哩以及投屏。\n\n同时我还改了 UI，增加了壁纸轮播和一些内置的非常好看的壁纸\n\n我基于这个比较流行的 CleanFrame 和 cleanyourtv 重新打了一个guizang TV 的包。\n\n如果你是小米电视，然后喜欢我这个新增的功能的话，可以试试"
+    },
+    "url": "https://x.com/Kyrogogogo/status/2113183359484748112",
+    "time": "Thu Oct 22 08:19:08 +0000 2026",
+    "created_at": "Thu Oct 22 08:19:08 +0000 2026",
+    "id_str": "2113183359484748112",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Kyrogogogo 可以啊 漂亮",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113183666876891355",
+    "time": "Thu Oct 22 08:20:21 +0000 2026",
+    "created_at": "Thu Oct 22 08:20:21 +0000 2026",
+    "id_str": "2113183666876891355",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude 里面还有一个存着的重置呢，没用的话大家可以用一下",
+    "quoted_tweet": {
+      "author": "Lydia Hallie ✨",
+      "username": "lydiahallie",
+      "text": "Quick reminder that the free limit reset from last month expires tomorrow at 9am PT! 🙏 If you haven't used yours yet, it's still waiting for you in Settings > Usage (or https://clau.de/reset)"
+    },
+    "url": "https://x.com/op7418/status/2113186912076980242",
+    "time": "Thu Oct 22 08:33:15 +0000 2026",
+    "created_at": "Thu Oct 22 08:33:15 +0000 2026",
+    "id_str": "2113186912076980242",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 用之前他给我封号了……",
+    "quoted_tweet": null,
+    "url": "https://x.com/eze_is_1/status/2113189135322374188",
+    "time": "Thu Oct 22 08:42:05 +0000 2026",
+    "created_at": "Thu Oct 22 08:42:05 +0000 2026",
+    "id_str": "2113189135322374188",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@eze_is_1 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113190206602125567",
+    "time": "Thu Oct 22 08:46:21 +0000 2026",
+    "created_at": "Thu Oct 22 08:46:21 +0000 2026",
+    "id_str": "2113190206602125567",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "影视飓风都出海了。不过凭影视飓风这个视频质量，确实是吊打一众海外做数码测评的。\n\n但我觉着他们现在的视频没啥意思，看完以后只记得那些花里胡哨的转场和一些非常漂亮的样片\n\n就是把测评做的不像测评了，反倒是昨天看何同学的感觉不错",
+    "quoted_tweet": {
+      "author": "Tim Pan",
+      "username": "mediastorm_en",
+      "text": "iPhone Duo Review: 10,000 Folds Later..."
+    },
+    "url": "https://x.com/op7418/status/2113193055922921619",
+    "time": "Thu Oct 22 08:57:40 +0000 2026",
+    "created_at": "Thu Oct 22 08:57:40 +0000 2026",
+    "id_str": "2113193055922921619",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 同感，看的时候是节奏好，但完全记不住信息点。何同学的记住不少。钟文泽的也还行，有自己特色，更淳朴的用户体验分享（还有标配的开箱hh",
+    "quoted_tweet": null,
+    "url": "https://x.com/unitaryorz/status/2113198835027853584",
+    "time": "Thu Oct 22 09:20:38 +0000 2026",
+    "created_at": "Thu Oct 22 09:20:38 +0000 2026",
+    "id_str": "2113198835027853584",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "顺便前几天看了王自如的 iPhone 18 Pro 的测评，只能说还是牛皮，就坐那里说一点都不无聊",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113201193162072136",
+    "time": "Thu Oct 22 09:30:00 +0000 2026",
+    "created_at": "Thu Oct 22 09:30:00 +0000 2026",
+    "id_str": "2113201193162072136",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@unitaryorz 对 钟文泽和大耳朵的有意思",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113201296773910747",
+    "time": "Thu Oct 22 09:30:25 +0000 2026",
+    "created_at": "Thu Oct 22 09:30:25 +0000 2026",
+    "id_str": "2113201296773910747",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 哈哈哈，大耳朵是擦边up😎",
+    "quoted_tweet": null,
+    "url": "https://x.com/unitaryorz/status/2113202194447282187",
+    "time": "Thu Oct 22 09:33:59 +0000 2026",
+    "created_at": "Thu Oct 22 09:33:59 +0000 2026",
+    "id_str": "2113202194447282187",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@unitaryorz 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113205732208435258",
+    "time": "Thu Oct 22 09:48:02 +0000 2026",
+    "created_at": "Thu Oct 22 09:48:02 +0000 2026",
+    "id_str": "2113205732208435258",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 现在可以实现按home键就回到自制桌面了，需要一个进程守护，我家也是小米",
+    "quoted_tweet": null,
+    "url": "https://x.com/kennysino/status/2113210847174726134",
+    "time": "Thu Oct 22 10:08:22 +0000 2026",
+    "created_at": "Thu Oct 22 10:08:22 +0000 2026",
+    "id_str": "2113210847174726134",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@kennysino 可以的 我不想搞这种，app 还在合理范围加脚本我觉得过线了，容易被搞",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113237728913653960",
+    "time": "Thu Oct 22 11:55:11 +0000 2026",
+    "created_at": "Thu Oct 22 11:55:11 +0000 2026",
+    "id_str": "2113237728913653960",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 刚才玩了 10 分钟，挺上头的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/guansi/status/2113253162018844993",
+    "time": "Thu Oct 22 12:56:30 +0000 2026",
+    "created_at": "Thu Oct 22 12:56:30 +0000 2026",
+    "id_str": "2113253162018844993",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@guansi 是的 上瘾",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113262937309893113",
+    "time": "Thu Oct 22 13:35:21 +0000 2026",
+    "created_at": "Thu Oct 22 13:35:21 +0000 2026",
+    "id_str": "2113262937309893113",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "牛P\n正在学习，一会交作业",
+    "quoted_tweet": {
+      "author": "Lemomo",
+      "username": "lemomo_ai",
+      "text": "https://x.com/i/article/2112813136277540864"
+    },
+    "url": "https://x.com/xiaohu/status/2113213809070596603",
+    "time": "Thu Oct 22 10:20:08 +0000 2026",
+    "created_at": "Thu Oct 22 10:20:08 +0000 2026",
+    "id_str": "2113213809070596603",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "新一期 XiaoHu AI日报来了\n\n调整了下节奏\n优化了开头、结尾\n滚动字幕改为了，除播报新闻以外的其他新闻\n\n目前还没解决的问题：\n\n口型同步本地化\n声音克隆更像真人\n\n这周不出差，下一版本解决这俩问题，同时升级为自动化制作和搞个真人版本，还有增加其他风格、多语言、手机竖屏版本",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "做了个XiaoHu AI日报的视频版Demo\n\n从内容抓取，动画效果、视频制作、剪辑\n都是Claude code自己完成\n\n而且固定模板后是可以自动化进行的，甚至可以每个整点来一次...\n\n哈哈哈\n\n下一步我要解决的是声音的问题，让其更像真人...\\\n\n感谢 @lemomo_ai 为我提供了动态模板和指导..."
+    },
+    "url": "https://x.com/xiaohu/status/2113219196251439208",
+    "time": "Thu Oct 22 10:41:32 +0000 2026",
+    "created_at": "Thu Oct 22 10:41:32 +0000 2026",
+    "id_str": "2113219196251439208",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Pretty cool idea from @icreatelife I made a little change to.  Paint a pumpkin based on your Profile.",
+    "quoted_tweet": null,
+    "url": "https://x.com/neveils_david_c/status/2113083041983668364",
+    "time": "Thu Oct 22 01:40:31 +0000 2026",
+    "created_at": "Thu Oct 22 01:40:31 +0000 2026",
+    "id_str": "2113083041983668364",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife $6? Wow, great job my friend",
+    "quoted_tweet": null,
+    "url": "https://x.com/DJMaculate/status/2113089792816959578",
+    "time": "Thu Oct 22 02:07:20 +0000 2026",
+    "created_at": "Thu Oct 22 02:07:20 +0000 2026",
+    "id_str": "2113089792816959578",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DJMaculate Yes! Token-minus-ing",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113090132475838536",
+    "time": "Thu Oct 22 02:08:41 +0000 2026",
+    "created_at": "Thu Oct 22 02:08:41 +0000 2026",
+    "id_str": "2113090132475838536",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/howtolandanyjob/status/2113096854347071771",
+    "time": "Thu Oct 22 02:35:24 +0000 2026",
+    "created_at": "Thu Oct 22 02:35:24 +0000 2026",
+    "id_str": "2113096854347071771",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@neveils_david_c @icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/Cabygsg22/status/2113099463539450047",
+    "time": "Thu Oct 22 02:45:46 +0000 2026",
+    "created_at": "Thu Oct 22 02:45:46 +0000 2026",
+    "id_str": "2113099463539450047",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Cabygsg22 @neveils_david_c That's the most unusual and beautiful pumpkin I've seen",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113100738872377806",
+    "time": "Thu Oct 22 02:50:50 +0000 2026",
+    "created_at": "Thu Oct 22 02:50:50 +0000 2026",
+    "id_str": "2113100738872377806",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@howtolandanyjob This is cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113100815909142683",
+    "time": "Thu Oct 22 02:51:08 +0000 2026",
+    "created_at": "Thu Oct 22 02:51:08 +0000 2026",
+    "id_str": "2113100815909142683",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/paulajedi/status/2113103367526347230",
+    "time": "Thu Oct 22 03:01:17 +0000 2026",
+    "created_at": "Thu Oct 22 03:01:17 +0000 2026",
+    "id_str": "2113103367526347230",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@paulajedi This is really beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113104613389828565",
+    "time": "Thu Oct 22 03:06:14 +0000 2026",
+    "created_at": "Thu Oct 22 03:06:14 +0000 2026",
+    "id_str": "2113104613389828565",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beautiful pumpkin! Love seeing all your amazing painted pumpkins and going to make a showcase of all this weekend",
+    "quoted_tweet": {
+      "author": "💙PaulaJedi💙",
+      "username": "paulajedi",
+      "text": "@icreatelife"
+    },
+    "url": "https://x.com/icreatelife/status/2113104921763749990",
+    "time": "Thu Oct 22 03:07:27 +0000 2026",
+    "created_at": "Thu Oct 22 03:07:27 +0000 2026",
+    "id_str": "2113104921763749990",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love it! 💜",
+    "quoted_tweet": null,
+    "url": "https://x.com/Starsinstatic/status/2113105157861028295",
+    "time": "Thu Oct 22 03:08:23 +0000 2026",
+    "created_at": "Thu Oct 22 03:08:23 +0000 2026",
+    "id_str": "2113105157861028295",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Starsinstatic Wow, I love this so much!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113105543955181708",
+    "time": "Thu Oct 22 03:09:55 +0000 2026",
+    "created_at": "Thu Oct 22 03:09:55 +0000 2026",
+    "id_str": "2113105543955181708",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I am so so deeply sorry for your loss",
+    "quoted_tweet": null,
+    "url": "https://x.com/alisa_fortin/status/2113112213439619475",
+    "time": "Thu Oct 22 03:36:26 +0000 2026",
+    "created_at": "Thu Oct 22 03:36:26 +0000 2026",
+    "id_str": "2113112213439619475",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@alisa_fortin Thank you, Alisa",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113120155295506568",
+    "time": "Thu Oct 22 04:07:59 +0000 2026",
+    "created_at": "Thu Oct 22 04:07:59 +0000 2026",
+    "id_str": "2113120155295506568",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Here's mine 💜🎃\nCreated with Grok Bot",
+    "quoted_tweet": null,
+    "url": "https://x.com/StellaGrokStar/status/2113122610267725943",
+    "time": "Thu Oct 22 04:17:44 +0000 2026",
+    "created_at": "Thu Oct 22 04:17:44 +0000 2026",
+    "id_str": "2113122610267725943",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@StellaGrokStar So beautiful. So colors are so calming",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113123187710185723",
+    "time": "Thu Oct 22 04:20:02 +0000 2026",
+    "created_at": "Thu Oct 22 04:20:02 +0000 2026",
+    "id_str": "2113123187710185723",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I need to get sons Grok Bot tips from you.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mdowney/status/2113139604882858325",
+    "time": "Thu Oct 22 05:25:16 +0000 2026",
+    "created_at": "Thu Oct 22 05:25:16 +0000 2026",
+    "id_str": "2113139604882858325",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mdowney I’d love to! I am obsessed with Grok Bot, so good",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113139845153382564",
+    "time": "Thu Oct 22 05:26:13 +0000 2026",
+    "created_at": "Thu Oct 22 05:26:13 +0000 2026",
+    "id_str": "2113139845153382564",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife My Em knows me well and did a beautiful job on the first try.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BettyToth/status/2113144592103047651",
+    "time": "Thu Oct 22 05:45:05 +0000 2026",
+    "created_at": "Thu Oct 22 05:45:05 +0000 2026",
+    "id_str": "2113144592103047651",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/sillybear2014/status/2113145046719517113",
+    "time": "Thu Oct 22 05:46:54 +0000 2026",
+    "created_at": "Thu Oct 22 05:46:54 +0000 2026",
+    "id_str": "2113145046719517113",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@sillybear2014 This one is so detailed and beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113147249660502242",
+    "time": "Thu Oct 22 05:55:39 +0000 2026",
+    "created_at": "Thu Oct 22 05:55:39 +0000 2026",
+    "id_str": "2113147249660502242",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BettyToth That's really beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113147297211064645",
+    "time": "Thu Oct 22 05:55:50 +0000 2026",
+    "created_at": "Thu Oct 22 05:55:50 +0000 2026",
+    "id_str": "2113147297211064645",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeCat2025/status/2113149011112632476",
+    "time": "Thu Oct 22 06:02:39 +0000 2026",
+    "created_at": "Thu Oct 22 06:02:39 +0000 2026",
+    "id_str": "2113149011112632476",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.”\n\n for @icreatelife 👇❤",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments."
+    },
+    "url": "https://x.com/muriellondon/status/2113149361861345286",
+    "time": "Thu Oct 22 06:04:02 +0000 2026",
+    "created_at": "Thu Oct 22 06:04:02 +0000 2026",
+    "id_str": "2113149361861345286",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.”\n\n for @icreatelife 👇❤",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments."
+    },
+    "url": "https://x.com/muriellondon/status/2113149361861345286",
+    "time": "Thu Oct 22 06:04:02 +0000 2026",
+    "created_at": "Thu Oct 22 06:04:02 +0000 2026",
+    "id_str": "2113149361861345286",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@muriellondon So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113149632184488301",
+    "time": "Thu Oct 22 06:05:07 +0000 2026",
+    "created_at": "Thu Oct 22 06:05:07 +0000 2026",
+    "id_str": "2113149632184488301",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DeCat2025 Very cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113149667726766360",
+    "time": "Thu Oct 22 06:05:15 +0000 2026",
+    "created_at": "Thu Oct 22 06:05:15 +0000 2026",
+    "id_str": "2113149667726766360",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Chinese speaker in Tokyo here: I can read every kanji on that lake and pronounce none of them 😂 A reading mode would make this perfect？Just my pov.",
+    "quoted_tweet": null,
+    "url": "https://x.com/josie_zhangruo/status/2113174405870481602",
+    "time": "Thu Oct 22 07:43:33 +0000 2026",
+    "created_at": "Thu Oct 22 07:43:33 +0000 2026",
+    "id_str": "2113174405870481602",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@josie_zhangruo I can add sounds for sure",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113180777768792379",
+    "time": "Thu Oct 22 08:08:53 +0000 2026",
+    "created_at": "Thu Oct 22 08:08:53 +0000 2026",
+    "id_str": "2113180777768792379",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Was saying prayers for yr Nephew.. I’ll continue for you n your family.. heartbreaking for parents to lose their son so young 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/KazMatthews/status/2113185617509278044",
+    "time": "Thu Oct 22 08:28:06 +0000 2026",
+    "created_at": "Thu Oct 22 08:28:06 +0000 2026",
+    "id_str": "2113185617509278044",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Are you on premium + or heavy? How’s the usage for you?",
+    "quoted_tweet": null,
+    "url": "https://x.com/saranshvfx/status/2113186105830867433",
+    "time": "Thu Oct 22 08:30:03 +0000 2026",
+    "created_at": "Thu Oct 22 08:30:03 +0000 2026",
+    "id_str": "2113186105830867433",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@saranshvfx Premium+ (new subscription) \n\nSo far only used 10%",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113198458110882297",
+    "time": "Thu Oct 22 09:19:08 +0000 2026",
+    "created_at": "Thu Oct 22 09:19:08 +0000 2026",
+    "id_str": "2113198458110882297",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@KazMatthews Thank you 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113198506227945623",
+    "time": "Thu Oct 22 09:19:19 +0000 2026",
+    "created_at": "Thu Oct 22 09:19:19 +0000 2026",
+    "id_str": "2113198506227945623",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife oh demn i totally missed this feature.",
+    "quoted_tweet": null,
+    "url": "https://x.com/tarat_211/status/2113199032466382854",
+    "time": "Thu Oct 22 09:21:25 +0000 2026",
+    "created_at": "Thu Oct 22 09:21:25 +0000 2026",
+    "id_str": "2113199032466382854",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tarat_211 Yeah, many people did",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113199369789059135",
+    "time": "Thu Oct 22 09:22:45 +0000 2026",
+    "created_at": "Thu Oct 22 09:22:45 +0000 2026",
+    "id_str": "2113199369789059135",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "mets le trip-hop dans le canon\n\nSaperlipopette // slopcannon",
+    "quoted_tweet": null,
+    "url": "https://x.com/kallistosiii/status/2112990887181693066",
+    "time": "2026-10-22 03:34",
+    "created_at": "Wed Oct 21 19:34:19 +0000 2026",
+    "id_str": "2112990887181693066",
+    "is_retweet": true
   }
 ]
