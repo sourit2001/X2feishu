@@ -435,5 +435,450 @@
     "created_at": "Thu Oct 22 01:29:25 +0000 2026",
     "id_str": "2113080248371978470",
     "is_retweet": false
+  },
+  {
+    "username": "sama",
+    "nickname": "奥特曼",
+    "text": "I am very grateful Aleksander accepted our request to come take this on; the safety and security challenges in front of us as we confront superintelligence are immense, and he has an excellent set of skills to work on this.",
+    "quoted_tweet": {
+      "author": "Aleksander Madry",
+      "username": "aleks_madry",
+      "text": "Personal update: Turns out that what I thought was leaving OpenAI became more of a sabbatical.\n\nWhen I left a few months ago, I felt that the most important thing to focus on was making AI more useful to people. But we’ve since entered a different regime of AI progress. One in which getting the safety and security challenges of increasingly capable AI right has to become a central priority.\n\nSo I’ll be returning to OpenAI, joining @merettm to help chart a path through these challenges.\n\nThere’s much work to do, so let’s get going."
+    },
+    "url": "https://x.com/sama/status/2112652656602923366",
+    "time": "Tue Oct 20 21:10:19 +0000 2026",
+    "created_at": "Tue Oct 20 21:10:19 +0000 2026",
+    "id_str": "2112652656602923366",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "It was never AI vs humans it was always good AI and humans vs bad AI and humans \n\nPut those “too dangerous to release” models to good use on the defensive please \n\nGodspeed",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2113083875765125278",
+    "time": "Thu Oct 22 01:43:49 +0000 2026",
+    "created_at": "Thu Oct 22 01:43:49 +0000 2026",
+    "id_str": "2113083875765125278",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "In the '90s, general-purpose chips wiped out the specialists. The original Thinking Machines, Cray Computer, and a wave of others shut down, and their best ideas got absorbed into other chips.\n\nZain Asgar of @gimletlabs argues the conditions that made generalists win have changed. Dennard scaling (shrinking transistors made chips faster at the same power) ended around 2005, transistor costs stopped falling around 2012, and memory bandwidth never kept up with compute.\n\nMeanwhile, token demand is projected to grow 24x by 2030 while available power grows about 2x. When power is the bottleneck, performance per watt wins, and that's where specialized chips shine.\n\nFull piece from Zain on why \"the time of specialization is upon us\": https://www.a16z.news/p/why-hardware-specialization-is-back",
+    "quoted_tweet": {
+      "author": "Zain Asgar",
+      "username": "zainasgar",
+      "text": "https://x.com/i/article/2112588009790943232"
+    },
+    "url": "https://x.com/a16z/status/2113008121451037107",
+    "time": "2026-10-22 04:42",
+    "created_at": "Wed Oct 21 20:42:48 +0000 2026",
+    "id_str": "2113008121451037107",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "👀",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "The window to patch software bugs is collapsing\n\nOf the bugs hackers actually exploit, ~87% are now being attacked on or before the day the bug is public knowledge\n\nThat share was 23% in 2020\n\nCharts of the Week: https://www.a16z.news/p/chart-of-the-week-experience-skills"
+    },
+    "url": "https://x.com/a16z/status/2113042704359985318",
+    "time": "2026-10-22 07:00",
+    "created_at": "Wed Oct 21 23:00:13 +0000 2026",
+    "id_str": "2113042704359985318",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The future of security in the AI age is \"the constant pressure of models attacking you,\" says Kevin Mandia of @ArmadinSecurity. That means seeing your network the way a swarm of AI attackers would:\n\n\"We do a thing called a hyperattack. We throw a drone swarm of agents at you, and we map your network. Every service, every route, every system, all assets. We may end up with terabytes of metadata on your network.\"\n\n\"This is the attacker's view of your network. But with that metadata, we now just poll you almost like a heartbeat.\"\n\n\"What's changed?... Did a route change? Did a service get updated? Did a new machine get presented into the target area? We can poll cheaply for change and then attack the change.\"\n\n\"You can't [attack yourself] all the time because it's cost prohibitive, and it's unnecessary. You do it when either the threat changes, new models come out, new intelligence is available, or your network changes.\"\n\n\"Over the weekend, there was a zero-day in a popular product, and immediately we've already got the heartbeat. We just polled who's got the problem.\"\n\n\"Our goal at Armadin is to go from a known vulnerability to knowing whether it's actually exploitable before the bad guys can.\"",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "The window to patch software bugs is collapsing\n\nOf the bugs hackers actually exploit, ~87% are now being attacked on or before the day the bug is public knowledge\n\nThat share was 23% in 2020\n\nCharts of the Week: https://www.a16z.news/p/chart-of-the-week-experience-skills"
+    },
+    "url": "https://x.com/a16z/status/2113057820031741957",
+    "time": "Thu Oct 22 00:00:17 +0000 2026",
+    "created_at": "Thu Oct 22 00:00:17 +0000 2026",
+    "id_str": "2113057820031741957",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 你也只能干点这种谁都能干的事了",
+    "quoted_tweet": null,
+    "url": "https://x.com/mikalens87/status/2112965408622063632",
+    "time": "2026-10-22 01:53",
+    "created_at": "Wed Oct 21 17:53:05 +0000 2026",
+    "id_str": "2112965408622063632",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@mikalens87 那你干干啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2113082563703308500",
+    "time": "Thu Oct 22 01:38:37 +0000 2026",
+    "created_at": "Thu Oct 22 01:38:37 +0000 2026",
+    "id_str": "2113082563703308500",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DallasInk42 Wow",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113038643497423306",
+    "time": "2026-10-22 06:44",
+    "created_at": "Wed Oct 21 22:44:05 +0000 2026",
+    "id_str": "2113038643497423306",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@EmmarsRover Thank you 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113039661547602269",
+    "time": "2026-10-22 06:48",
+    "created_at": "Wed Oct 21 22:48:08 +0000 2026",
+    "id_str": "2113039661547602269",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife amazing!! kanji was always so tricky to learn",
+    "quoted_tweet": null,
+    "url": "https://x.com/kattlatte/status/2113039710771962278",
+    "time": "2026-10-22 06:48",
+    "created_at": "Wed Oct 21 22:48:20 +0000 2026",
+    "id_str": "2113039710771962278",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "せーの🤗",
+    "quoted_tweet": null,
+    "url": "https://x.com/kawaii_ai_zoo/status/2113041946361110761",
+    "time": "2026-10-22 06:57",
+    "created_at": "Wed Oct 21 22:57:13 +0000 2026",
+    "id_str": "2113041946361110761",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kattlatte Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113042553708642487",
+    "time": "2026-10-22 06:59",
+    "created_at": "Wed Oct 21 22:59:37 +0000 2026",
+    "id_str": "2113042553708642487",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I couldn’t get the sound to work, but it was cute!",
+    "quoted_tweet": null,
+    "url": "https://x.com/alternativebyrd/status/2113043324093501768",
+    "time": "2026-10-22 07:02",
+    "created_at": "Wed Oct 21 23:02:41 +0000 2026",
+    "id_str": "2113043324093501768",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That's adorable",
+    "quoted_tweet": null,
+    "url": "https://x.com/awoooouwuooooo/status/2113043523410788715",
+    "time": "2026-10-22 07:03",
+    "created_at": "Wed Oct 21 23:03:29 +0000 2026",
+    "id_str": "2113043523410788715",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Oh Kris I am so sorry to hear this news. Sending love to you and your family",
+    "quoted_tweet": null,
+    "url": "https://x.com/velvetspectrum/status/2113043718853026275",
+    "time": "2026-10-22 07:04",
+    "created_at": "Wed Oct 21 23:04:15 +0000 2026",
+    "id_str": "2113043718853026275",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kawaii_ai_zoo かわいい",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113043845978206414",
+    "time": "2026-10-22 07:04",
+    "created_at": "Wed Oct 21 23:04:45 +0000 2026",
+    "id_str": "2113043845978206414",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@velvetspectrum Thank you, Luke 🙏🙏🫂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113043997601964300",
+    "time": "2026-10-22 07:05",
+    "created_at": "Wed Oct 21 23:05:22 +0000 2026",
+    "id_str": "2113043997601964300",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Noxifer81 @icreatelife 🥺❤️😭🥹🙏🏻\nIt's the same for me.\nYou are amazing. \nI love you so much.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Anne_Ill_404/status/2113046370261279090",
+    "time": "2026-10-22 07:14",
+    "created_at": "Wed Oct 21 23:14:47 +0000 2026",
+    "id_str": "2113046370261279090",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Anne_Ill_404 @Noxifer81 🥹❤️❤️🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113046497763664362",
+    "time": "2026-10-22 07:15",
+    "created_at": "Wed Oct 21 23:15:18 +0000 2026",
+    "id_str": "2113046497763664362",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Courtesy of Grok:",
+    "quoted_tweet": null,
+    "url": "https://x.com/Thom4227/status/2113048408801845249",
+    "time": "2026-10-22 07:22",
+    "created_at": "Wed Oct 21 23:22:53 +0000 2026",
+    "id_str": "2113048408801845249",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I still don’t know why this happened, but this is awesome anyway.\n\nThanks 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/RachelVT42/status/2113050634966519815",
+    "time": "2026-10-22 07:31",
+    "created_at": "Wed Oct 21 23:31:44 +0000 2026",
+    "id_str": "2113050634966519815",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I had it add a background too!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/delilah7777/status/2113054153060851737",
+    "time": "2026-10-22 07:45",
+    "created_at": "Wed Oct 21 23:45:43 +0000 2026",
+    "id_str": "2113054153060851737",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@delilah7777 Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113054911021887645",
+    "time": "2026-10-22 07:48",
+    "created_at": "Wed Oct 21 23:48:44 +0000 2026",
+    "id_str": "2113054911021887645",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Aw this looks so tranquil!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thesoragirls/status/2113062858036539635",
+    "time": "Thu Oct 22 00:20:18 +0000 2026",
+    "created_at": "Thu Oct 22 00:20:18 +0000 2026",
+    "id_str": "2113062858036539635",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@thesoragirls Thanks!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113064911400050827",
+    "time": "Thu Oct 22 00:28:28 +0000 2026",
+    "created_at": "Thu Oct 22 00:28:28 +0000 2026",
+    "id_str": "2113064911400050827",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@awoooouwuooooo Thank you 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113064971739246907",
+    "time": "Thu Oct 22 00:28:42 +0000 2026",
+    "created_at": "Thu Oct 22 00:28:42 +0000 2026",
+    "id_str": "2113064971739246907",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BrokenWings53 @icreatelife Thanks, I made a few before grok on x said NO.\n\nIt said this one was from an episode with you in it.  You remember it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/neveils_david_c/status/2113066442308669504",
+    "time": "Thu Oct 22 00:34:33 +0000 2026",
+    "created_at": "Thu Oct 22 00:34:33 +0000 2026",
+    "id_str": "2113066442308669504",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@neveils_david_c @BrokenWings53 That's beautiful. I don't remember but I like it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113067615929397290",
+    "time": "Thu Oct 22 00:39:13 +0000 2026",
+    "created_at": "Thu Oct 22 00:39:13 +0000 2026",
+    "id_str": "2113067615929397290",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Thom4227 That's really beautiful!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113068294412595487",
+    "time": "Thu Oct 22 00:41:54 +0000 2026",
+    "created_at": "Thu Oct 22 00:41:54 +0000 2026",
+    "id_str": "2113068294412595487",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@alternativebyrd It shall be just ambient sound. I added music to the video afterwards.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113071417017405478",
+    "time": "Thu Oct 22 00:54:19 +0000 2026",
+    "created_at": "Thu Oct 22 00:54:19 +0000 2026",
+    "id_str": "2113071417017405478",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@neveils_david_c @Maria18st That's lovely, I love tennis and your dog",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113072078303965202",
+    "time": "Thu Oct 22 00:56:57 +0000 2026",
+    "created_at": "Thu Oct 22 00:56:57 +0000 2026",
+    "id_str": "2113072078303965202",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RachelVT42 Congratulations 🥳",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113074063006728584",
+    "time": "Thu Oct 22 01:04:50 +0000 2026",
+    "created_at": "Thu Oct 22 01:04:50 +0000 2026",
+    "id_str": "2113074063006728584",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Probably the best result of my dyslexic prompting \n\nprompt: Generate this cat on the white background without a cat",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113075129110716561",
+    "time": "Thu Oct 22 01:09:04 +0000 2026",
+    "created_at": "Thu Oct 22 01:09:04 +0000 2026",
+    "id_str": "2113075129110716561",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "RT @snowyrosa98: What I got:",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113075235767386309",
+    "time": "Thu Oct 22 01:09:29 +0000 2026",
+    "created_at": "Thu Oct 22 01:09:29 +0000 2026",
+    "id_str": "2113075235767386309",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@snowyrosa98 So beautiful!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113075255547715633",
+    "time": "Thu Oct 22 01:09:34 +0000 2026",
+    "created_at": "Thu Oct 22 01:09:34 +0000 2026",
+    "id_str": "2113075255547715633",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm so, so sorry. 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/WeeVolunteer/status/2113075414407225645",
+    "time": "Thu Oct 22 01:10:12 +0000 2026",
+    "created_at": "Thu Oct 22 01:10:12 +0000 2026",
+    "id_str": "2113075414407225645",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@WeeVolunteer Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113075513241776534",
+    "time": "Thu Oct 22 01:10:36 +0000 2026",
+    "created_at": "Thu Oct 22 01:10:36 +0000 2026",
+    "id_str": "2113075513241776534",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Just so you know , I include him in my prayer today Infront of my altar , condolence to you and your family 🙏🕊️",
+    "quoted_tweet": null,
+    "url": "https://x.com/AHOF__GRANDMA/status/2113077276934111716",
+    "time": "Thu Oct 22 01:17:36 +0000 2026",
+    "created_at": "Thu Oct 22 01:17:36 +0000 2026",
+    "id_str": "2113077276934111716",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AHOF__GRANDMA Thank you! I appreciate it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113077845581074697",
+    "time": "Thu Oct 22 01:19:52 +0000 2026",
+    "created_at": "Thu Oct 22 01:19:52 +0000 2026",
+    "id_str": "2113077845581074697",
+    "is_retweet": false
   }
 ]
