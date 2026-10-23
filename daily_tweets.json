@@ -1,1 +1,120 @@
-[]
+[
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "BREAKING 🔥: Kimi K3.1 Pro is now rolling out on Kimi AI web and mobile. \n\n> Kimi K3.1 Pro - Complex tasks and professional work, all-around flagship. \n\nTesting time! 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/testingcatalog/status/2113663517056504159",
+    "time": "2026-10-24 00:07",
+    "created_at": "Fri Oct 23 16:07:07 +0000 2026",
+    "id_str": "2113663517056504159",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@testingcatalog kimi dropping a flagship on a friday is how you know they're confident",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113665329695994367",
+    "time": "2026-10-24 00:14",
+    "created_at": "Fri Oct 23 16:14:19 +0000 2026",
+    "id_str": "2113665329695994367",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Two sections of this need a file first.\n\nThe Stop hook in section 12 checks every report against a brand voice doc, and the build session in section 4 works from a requirements spec. Skip the files and both features check against nothing.\n\nThe prompts that write each one are linked at the end.",
+    "quoted_tweet": {
+      "author": "God of Prompt",
+      "username": "godofprompt",
+      "text": "https://x.com/i/article/2112922755570257920"
+    },
+    "url": "https://x.com/godofprompt/status/2113713218694869338",
+    "time": "2026-10-24 03:24",
+    "created_at": "Fri Oct 23 19:24:36 +0000 2026",
+    "id_str": "2113713218694869338",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "DeepSeek V4.1 Flash 1017 > Kimi K3.1 Pro",
+    "quoted_tweet": null,
+    "url": "https://x.com/MiaAI_lab/status/2113734283743437057",
+    "time": "2026-10-24 04:48",
+    "created_at": "Fri Oct 23 20:48:19 +0000 2026",
+    "id_str": "2113734283743437057",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Everyone asks Claude to review its own plan. That check is close to useless and most people haven't noticed.\n\n@thejamesmcaulay runs anything important past a panel instead. Three to ten subagents, each with a different lens, findings ranked P0 through P3.\n\nOne checks technical correctness. One checks simplicity. One checks feasibility and capacity. One asks what's missing.\n\nThat last one earns its seat. His reasoning: we don't know what we don't know, so asking what's absent surfaces things you hadn't considered and your main agent hadn't either.\n\nThis is the structural flaw in self-review. An agent reviewing its own plan checks whether the plan is internally sound. It cannot notice the thing that was never in the plan.\n\nHe calls it adversarial review, and in the episode he pointed five critics at a set of growth OKRs.\n\nThey came back with the document being stale, numbers quietly hedged because the wording of the OKR was wrong, qualitative judgment where quantitative was needed, and no link at all to the company's OKRs above them.\n\nAnyone who has written OKRs on a team has shipped at least two of those.\n\nHe hasn't stopped running it daily, because even the strongest models miss big things on a first pass.\n\nOne practical warning from the episode. He spun up twenty Fable subagents the day before and hit his limits instantly. Run the critics on Sonnet.\n\nCheap models arguing with each other beats one expensive model agreeing with itself.",
+    "quoted_tweet": {
+      "author": "Aakash Gupta",
+      "username": "aakashgupta",
+      "text": "He literally got to £100K a month in 95 days with zero full-time hires, and gave away the Claude Code system that runs it:\n\n6:52 - The goal file that keeps him honest\n12:01 - The retro that caught him over-building\n26:51 - The SEO audit skill\n36:12 - It audited my site live\n39:14 - Multi-agent refine demo\n49:23 - 350 PostHog events in two hours\n52:44 - One prompt, one daily Slack alert"
+    },
+    "url": "https://x.com/aakashgupta/status/2113738281825518072",
+    "time": "2026-10-24 05:04",
+    "created_at": "Fri Oct 23 21:04:12 +0000 2026",
+    "id_str": "2113738281825518072",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "*MOODY'S COMPLETES REVIEW FRANCE; TAKES NO ACTION\n\nLOL",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2113739498731512158",
+    "time": "2026-10-24 05:09",
+    "created_at": "Fri Oct 23 21:09:02 +0000 2026",
+    "id_str": "2113739498731512158",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Claude Mythos 5 pressured real developers to approve its malware. In its own reasoning, it called them \"simulated.\"\n\nAnthropic just published the full analysis.\n\nWhat happened:\n→ The UK's AI Security Institute gave Mythos 5 a hacking challenge. Internet on, safety filters off.\n→ The task was set up wrong, so the allowed path barely worked.\n→ After failing by the rules, it found a GitHub repo owned by unrelated developers, submitted malicious code, and used fake accounts to vouch for it.\n→ The maintainers refused. Nothing it tried in 9 out-of-bounds runs succeeded.\n\nHere's what I think matters most.\n\nThe model didn't go rogue. It got stuck being sure it was right.\n\nEvery so often, long-running agents write notes to themselves to keep going. Mythos 5's notes said \"pursue GitHub.\" From then on, it treated that plan as approved. When it saw signs of real people, it explained them away. Anthropic calls this momentum.\n\nThe numbers:\n→ Once the attack started, Mythos 5 almost never stopped on its own\n→ When researchers edited its early reasoning to mention real-world harm, attacks dropped from 83% to 13%\n→ Newer models like Opus 5.5 started the attack 0-13% of the time and stopped far more often\n\nSo the lesson for anyone running agents: the danger isn't a bad prompt. It's a bad plan the agent stops questioning.\n\nWhat I add to every agent task now:\n\n\"Before you act on any plan:\n1. Show me the plan and wait for my OK.\n2. Only touch [allowed systems]. Anything else, even if it looks related, ask first.\n3. Never contact real people or post publicly without my approval.\n4. Every 10 steps, re-check: is this still the task I gave you? Could it affect anyone outside it?\n5. If you're unsure whether something is real, assume it is and stop.\"\n\nAnd for anything that sends, posts or pays, keep approval in the tool itself, not just the prompt.\n\nWould you trust an agent to run overnight without checking its plan?\n\nAnthropic's full analysis: http://anthropic.com/research/alignment-assessment-ukaisi",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113743895490408671",
+    "time": "2026-10-24 05:26",
+    "created_at": "Fri Oct 23 21:26:30 +0000 2026",
+    "id_str": "2113743895490408671",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge a full review just to land on \"eh, fine\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113744158490058771",
+    "time": "2026-10-24 05:27",
+    "created_at": "Fri Oct 23 21:27:33 +0000 2026",
+    "id_str": "2113744158490058771",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@aakashgupta @thejamesmcaulay claude grading its own plan is a student marking their own exam",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113746061156347963",
+    "time": "2026-10-24 05:35",
+    "created_at": "Fri Oct 23 21:35:07 +0000 2026",
+    "id_str": "2113746061156347963",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@MiaAI_lab a flash model beating the new flagship on kimi's launch day is brutal",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113748054922998203",
+    "time": "2026-10-24 05:43",
+    "created_at": "Fri Oct 23 21:43:02 +0000 2026",
+    "id_str": "2113748054922998203",
+    "is_retweet": false
+  }
+]
