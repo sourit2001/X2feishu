@@ -123,5 +123,141 @@
     "created_at": "Thu Oct 22 21:31:53 +0000 2026",
     "id_str": "2113382859834622255",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "神奇， B 站也还行了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113559861581484129",
+    "time": "2026-10-23 17:15",
+    "created_at": "Fri Oct 23 09:15:13 +0000 2026",
+    "id_str": "2113559861581484129",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "All of the utility in AI flows to customization.\n\nGTA 6 is cool. You know what's cooler? GTA 6 where the city is your college, and it's multiplayer with the other students.\n\nCustomization at this level was never possible before AI. It's the single greatest unlock of the intelligence era. In the enterprise, it's why all the utility sits in AI transformation.\n\nWhy would I adopt an AI feature in my CRM when I can tie every sales tool I have together, with AI as the interface, and redesign the whole org to be AI native?\n\nGeneric LLM wrappers lose. The winners of the AI age go all in on redesign and customization.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2113430753417585071",
+    "time": "2026-10-23 08:42",
+    "created_at": "Fri Oct 23 00:42:11 +0000 2026",
+    "id_str": "2113430753417585071",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "AI推理越长，显存越吃紧？\n\nEdgeRock 提供了一种新的解法...\n\n普通大模型在进行长文本或复杂推理时，要写很长的推导\n\n它通常会把前文处理过的信息暂存在 GPU 的工作空间里，这个空间叫“显存”。推导越长，这部分信息占的显存空间就会越来越大\n\nEdgeRock-4B 打破了这一规律： 无论模型推理思考了多长时间、上下文扩展到多少万字，每个请求占用的注意力和状态显存大小都锁定不变（仅需 97.76 MiB，其中注意力 KV 仅 72 MiB）\n\n但解高难度题的水平几乎不打折...\n\n实测有多强？\n\n解题能力不缩水：在极难的 AIME 数学竞赛题上，准确率达到 82.9%，几乎追平了那些显存无节制暴涨的正常顶尖小模型，彻底粉碎了“定长内存模型不能做深度推理”的魔咒。\n\n显存省了 99%：在 256K 超长文本下，注意力缓存显存从原来的 8 GB 骤降到 72 MB，降幅达 99.1%。\n\n并发处理能力翻倍：在一张普通的 80GB 显卡上，由于显存不再膨胀，可以直接同时塞满 512 个长推导任务，跑起来的速度和总吞吐量是原本架构的 4.9 到 6.4 倍。\n\n它是怎么做到的？（三件套分工）\n\n模型把记忆工作拆分成了三件事：\n\n看眼前（局部窗口）：随时看清眼下最新的 1,024 个字，保证当前说话、写公式顺畅。\n\n记个大概（循环网络）：用一个固定大小的“印象表”，随时记录上下文的大致发展方向。\n\n关键便签盒（磐石记忆锚点 RMA）：\n挑重点写：模型每产生一个词，都有一个专门的小模块评估：“这句话在后面会不会是关键解题线索？”\n\n限量 1,024 张便签：这个便签盒容量固定，只存最重要的 1,024 条信息。每攒够一批新候选，就进行打分淘汰，只留含金量最高的。\n\n随时翻看原话：这些便签是原文高精度的记录。哪怕是 10 万个字之前定义的一条规则，后续只要用到，直接就能从盒子里原汁原味地翻出来。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2113559301570916713",
+    "time": "2026-10-23 17:13",
+    "created_at": "Fri Oct 23 09:13:00 +0000 2026",
+    "id_str": "2113559301570916713",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "应用场景：\n\n机器狗、无人车或者边缘硬件的内存是有限且固定的，还要分给摄像头看路、雷达感知和电机控制\n\n根本承受不起大模型在半路“胃口大开”突然吃光内存\n\nEdgeRock 正好解决了这一痛点\n\n详细内容：https://mp.weixin.qq.com/s/zzFmFGqKLRrh7Io_hNfzDg",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2113559303626149954",
+    "time": "2026-10-23 17:13",
+    "created_at": "Fri Oct 23 09:13:00 +0000 2026",
+    "id_str": "2113559303626149954",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "#EdgeRock #AI #OpenSourceAI \n\nGitHub｜推理代码与使用说明：\n\nhttps://github.com/rockmatrix-ai/EdgeRock\n\nHugging Face｜模型权重：\n\nhttps://huggingface.co/rockmatrix-ai/EdgeRock\n\n技术报告：\n\nhttps://arxiv.org/pdf/2610.10118",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2113561067372908779",
+    "time": "2026-10-23 17:20",
+    "created_at": "Fri Oct 23 09:20:01 +0000 2026",
+    "id_str": "2113561067372908779",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 我感觉好几天没见小互互老师了",
+    "quoted_tweet": null,
+    "url": "https://x.com/Xian0063/status/2113566892464148785",
+    "time": "2026-10-23 17:43",
+    "created_at": "Fri Oct 23 09:43:09 +0000 2026",
+    "id_str": "2113566892464148785",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Xian0063 在viber coding",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2113571598645244335",
+    "time": "2026-10-23 18:01",
+    "created_at": "Fri Oct 23 10:01:52 +0000 2026",
+    "id_str": "2113571598645244335",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "牛p",
+    "quoted_tweet": {
+      "author": "SNSnote",
+      "username": "snsnotecom",
+      "text": "1984년 매킨토시로 변한 아이폰 듀오\n\n애플의 첫 폴더블폰 〈iPhone Duo〉를\n반쯤 접으면 1984년 매킨토시를\n재현한 작은 노트북으로 변신합니다.\n\n새롭게 공개된 〈Tiny Computers〉는\n매킨토시부터 윈도우 95·XP까지\n고전 컴퓨터 10종을 체험할 수 있는 앱입니다.\n\n키보드 입력은 물론 그림 그리기와\n간단한 게임도 즐길 수 있으며,\n일반 아이폰과 아이패드에서도 이용할 수 있습니다.\n\n🎥 idanbo"
+    },
+    "url": "https://x.com/xiaohu/status/2113622937115009315",
+    "time": "2026-10-23 21:25",
+    "created_at": "Fri Oct 23 13:25:52 +0000 2026",
+    "id_str": "2113622937115009315",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife A lot of work can be done with it, how's the limit?",
+    "quoted_tweet": null,
+    "url": "https://x.com/NEXUS_TO_NOVA/status/2113529799184457989",
+    "time": "2026-10-23 15:15",
+    "created_at": "Fri Oct 23 07:15:46 +0000 2026",
+    "id_str": "2113529799184457989",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NEXUS_TO_NOVA I wasn’t able to read it. This week only used. 18% even though I used it all the time. Will see how my second week goes. \nI also have other agents so there may be that.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113540130955051503",
+    "time": "2026-10-23 15:56",
+    "created_at": "Fri Oct 23 07:56:49 +0000 2026",
+    "id_str": "2113540130955051503",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Now I really want a Tamagotchi bot!",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinrminor/status/2113587983979037077",
+    "time": "2026-10-23 19:06",
+    "created_at": "Fri Oct 23 11:06:58 +0000 2026",
+    "id_str": "2113587983979037077",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@justinrminor Say no more 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113588591146545551",
+    "time": "2026-10-23 19:09",
+    "created_at": "Fri Oct 23 11:09:23 +0000 2026",
+    "id_str": "2113588591146545551",
+    "is_retweet": false
   }
 ]
