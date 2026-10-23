@@ -284,5 +284,481 @@
     "created_at": "Fri Oct 23 00:28:02 +0000 2026",
     "id_str": "2113427192382373931",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "SemiAnalysis：Anthropic 在部分账号上测试新额度，每月总量少约两成，5 小时额度多约两成\n\nSemiAnalysis 说 Anthropic 正在对 Claude 订阅额度做 A/B 测试（同一个套餐给不同用户不同设置，比较效果）。\n\n测试组账号的 5 小时额度提高约 20%，每月总共能用的量折合 API 价格少约 20%。最近 X 上不少人说 Claude 额度变少了，SemiAnalysis 说他们没说错，只是只有部分账号受影响。",
+    "quoted_tweet": {
+      "author": "SemiAnalysis",
+      "username": "SemiAnalysis_",
+      "text": "🚨🚨ALERT: ANTHROPIC IS A/B TESTING USAGE LIMITS\n\nMany users on X are reporting LOWER usage limits right now. THEY ARE NOT WRONG. We detected an A/B test going on that DECREASES your monthly API-value by ~20% while INCREASING your 5h usage limits by ~20%. This only affects SOME accounts. (1/2)🧵"
+    },
+    "url": "https://x.com/dotey/status/2113425021158699384",
+    "time": "2026-10-23 08:19",
+    "created_at": "Fri Oct 23 00:19:25 +0000 2026",
+    "id_str": "2113425021158699384",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Chris Dixon on the \"second-order effects\" behind a16z's early bets on Oculus, drones, and crypto:\n\n\"I joined the firm in 2013. I talked to Marc and Ben, and I said, 'Hey, I wanna do this crazy stuff,' and they were like, 'Great.'\"\n\n\"That led to a couple of themes at the time, and they're all kind of what I would call kinda second-order effects. You had smartphones obviously start in 2007, and by 2013 had gotten mainstream, and there were all these kind of first-order effects like building apps on top.\"\n\n\"But a second-order effect was that you had the components of smartphones. You had sensors and chips getting better and better, and maybe people could repurpose those in different ways.\"\n\n\"We invested in Oculus as an example, and that was really kind of a reconfigured smartphone. Skydio, that was one of our investments from back then that was, at the beginning, kind of a reconfigured smartphone.\"\n\n\"Crypto, I think at the time was kind of a downstream effect to me of sort of the open-source software movement morphing into services and also kind of a result of social media where you could have these communities form without mainstream acceptance and coalesce around these blockchains.\"\n\n@cdixon",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Today, a16z Crypto is becoming a16z Frontier.\n\nSince joining a16z in 2013, @cdixon has focused on technologies that look futuristic well before they reach the mainstream. Those themes led to investments in Oculus, Skydio, Zipline, Coinbase, Solana, and Uniswap.\n\nFrontier expands that mandate beyond crypto to back \"outer planet\" founders who are building new technologies and creating markets that may take years to develop.\n\nChris joins @pmarca, @bhorowitz, and @eriktorenberg to discuss why crypto has become part of the broader tech landscape, why Frontier fills a hole in the firm's architecture, and why they'd rather be too early than too late.\n\nThey also get into why the gap between AI-native startups and incumbents is the widest Marc has ever seen, how AI could pull forward 20 years of frontier technology, why stablecoins may become the way AI agents pay each other, how AI is breaking the internet's business model, and why today's 18-year-olds are about to become superhumans.\n\n0:50 Introducing a16z Frontier\n2:49 Smartphone parts to drones and VR\n4:47 Backing the \"outer planets\"\n7:11 Good ideas that look like bad ideas\n10:43 The JP Morgan photo in Marc's office\n15:13 Good tech ideas eventually work\n16:53 AI may pull tech 20 years forward\n18:18 The widest AI gap Marc's ever seen\n22:06 Workers adopt AI before companies do\n26:32 Old use cases vs. AI-native ones\n30:08 Beyond \"product manager brain\"\n34:45 AI can reverse engineer any hardware\n38:23 The case for open source AI\n46:36 How AI breaks the internet's model\n49:11 VR, homebrew hacking, multiplayer AI\n54:00 If you're 18, study \"modern alchemy\"\n\nYouTube: https://youtu.be/-9XQMHhpypc\n\nNot an offer or solicitation. None of the information herein should be taken as investment advice; Some of the companies mentioned are portfolio companies of a16z. Please see http://a16z.com/disclosures for more information. A list of investments made by a16z is available at http://a16z.com/portfolio."
+    },
+    "url": "https://x.com/a16z/status/2113344806604902730",
+    "time": "Thu Oct 22 19:00:40 +0000 2026",
+    "created_at": "Thu Oct 22 19:00:40 +0000 2026",
+    "id_str": "2113344806604902730",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Marc Andreessen says individuals are adopting AI faster than organizations, and startup formation is going to skyrocket as a result:\n\n\"I think many companies are not adopting AI while their employees are. And their employees are not necessarily telling the management what's happening. I'm gonna guess every single person listening to this podcast right now is thinking, 'Oh yeah, that's what I'm doing.'\"\n\n\"There's something about AI right now where it's much easier for the individual to adopt than it is the institution.\"\n\n\"Some of those individuals are gonna figure out... it's now easier than ever for me to start my own business. So I think startup formation is gonna skyrocket from here.\"\n\n@pmarca",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Today, a16z Crypto is becoming a16z Frontier.\n\nSince joining a16z in 2013, @cdixon has focused on technologies that look futuristic well before they reach the mainstream. Those themes led to investments in Oculus, Skydio, Zipline, Coinbase, Solana, and Uniswap.\n\nFrontier expands that mandate beyond crypto to back \"outer planet\" founders who are building new technologies and creating markets that may take years to develop.\n\nChris joins @pmarca, @bhorowitz, and @eriktorenberg to discuss why crypto has become part of the broader tech landscape, why Frontier fills a hole in the firm's architecture, and why they'd rather be too early than too late.\n\nThey also get into why the gap between AI-native startups and incumbents is the widest Marc has ever seen, how AI could pull forward 20 years of frontier technology, why stablecoins may become the way AI agents pay each other, how AI is breaking the internet's business model, and why today's 18-year-olds are about to become superhumans.\n\n0:50 Introducing a16z Frontier\n2:49 Smartphone parts to drones and VR\n4:47 Backing the \"outer planets\"\n7:11 Good ideas that look like bad ideas\n10:43 The JP Morgan photo in Marc's office\n15:13 Good tech ideas eventually work\n16:53 AI may pull tech 20 years forward\n18:18 The widest AI gap Marc's ever seen\n22:06 Workers adopt AI before companies do\n26:32 Old use cases vs. AI-native ones\n30:08 Beyond \"product manager brain\"\n34:45 AI can reverse engineer any hardware\n38:23 The case for open source AI\n46:36 How AI breaks the internet's model\n49:11 VR, homebrew hacking, multiplayer AI\n54:00 If you're 18, study \"modern alchemy\"\n\nYouTube: https://youtu.be/-9XQMHhpypc\n\nNot an offer or solicitation. None of the information herein should be taken as investment advice; Some of the companies mentioned are portfolio companies of a16z. Please see http://a16z.com/disclosures for more information. A list of investments made by a16z is available at http://a16z.com/portfolio."
+    },
+    "url": "https://x.com/a16z/status/2113352287376785890",
+    "time": "Thu Oct 22 19:30:24 +0000 2026",
+    "created_at": "Thu Oct 22 19:30:24 +0000 2026",
+    "id_str": "2113352287376785890",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Chris Dixon on a16z Frontier's investing philosophy, and why being too early is better than being too late:\n\n\"We believe that basically every good idea that we've ever seen that involved technology has eventually worked or we believe will work, if it hasn't worked yet.\"\n\n\"Almost everything that ended up working had a precursor that didn't work and maybe was 10 years too early. And that's the hardest thing in technology is to predict the timing of these things.\"\n\n\"There's the technology, there's the culture, there's the business environment, there's the political environment. There's so many factors that go into these things and having it all line up.\"\n\n\"Specifically in the Frontier Fund, we want to err on the side of being too early.\"\n\n@cdixon\n\nNot an offer or solicitation. None of the information herein should be taken as investment advice; Some of the companies mentioned are portfolio companies of a16z. Please see http://a16z.com/disclosures for more information. A list of investments made by a16z is available at  http://a16z.com/portfolio.",
+    "quoted_tweet": {
+      "author": "Chris Dixon",
+      "username": "cdixon",
+      "text": "https://x.com/i/article/2106118739963916288"
+    },
+    "url": "https://x.com/a16z/status/2113359836767490514",
+    "time": "Thu Oct 22 20:00:24 +0000 2026",
+    "created_at": "Thu Oct 22 20:00:24 +0000 2026",
+    "id_str": "2113359836767490514",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Chris Dixon on the deal that built the internet, why AI is breaking it, and the \"great reconfiguration\" that comes next:\n\n\"I call it the internet's covenant, which is sort of a deal between the distribution side of the internet, Google, Facebook, and so forth, and the content side, news sites, travel sites, whatever it might be.\"\n\n\"The websites that make money on ads and conversions and other things can no longer do that. You see the early signs of this, like Stack Overflow and some other websites where the traffic dropped precipitously when you had sort of AI replacements.\"\n\n\"Many of these transactions will still happen. They just won't happen in the way they were happening... There's a bunch of businesses that are built on the human attention economy that will have challenges.\"\n\n\"On the entrepreneur side, there's a chance to rethink these things from first principles and say, 'Okay, what does a better internet look like?'\"\n\n\"I think this is gonna happen over the next, let's call it decade, you're gonna have this kinda great reconfiguration of the internet and how the economics work, how the attention flows, how knowledge is shared, how people produce things together, collaborate.\"\n\n@cdixon",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Today, a16z Crypto is becoming a16z Frontier.\n\nSince joining a16z in 2013, @cdixon has focused on technologies that look futuristic well before they reach the mainstream. Those themes led to investments in Oculus, Skydio, Zipline, Coinbase, Solana, and Uniswap.\n\nFrontier expands that mandate beyond crypto to back \"outer planet\" founders who are building new technologies and creating markets that may take years to develop.\n\nChris joins @pmarca, @bhorowitz, and @eriktorenberg to discuss why crypto has become part of the broader tech landscape, why Frontier fills a hole in the firm's architecture, and why they'd rather be too early than too late.\n\nThey also get into why the gap between AI-native startups and incumbents is the widest Marc has ever seen, how AI could pull forward 20 years of frontier technology, why stablecoins may become the way AI agents pay each other, how AI is breaking the internet's business model, and why today's 18-year-olds are about to become superhumans.\n\n0:50 Introducing a16z Frontier\n2:49 Smartphone parts to drones and VR\n4:47 Backing the \"outer planets\"\n7:11 Good ideas that look like bad ideas\n10:43 The JP Morgan photo in Marc's office\n15:13 Good tech ideas eventually work\n16:53 AI may pull tech 20 years forward\n18:18 The widest AI gap Marc's ever seen\n22:06 Workers adopt AI before companies do\n26:32 Old use cases vs. AI-native ones\n30:08 Beyond \"product manager brain\"\n34:45 AI can reverse engineer any hardware\n38:23 The case for open source AI\n46:36 How AI breaks the internet's model\n49:11 VR, homebrew hacking, multiplayer AI\n54:00 If you're 18, study \"modern alchemy\"\n\nYouTube: https://youtu.be/-9XQMHhpypc\n\nNot an offer or solicitation. None of the information herein should be taken as investment advice; Some of the companies mentioned are portfolio companies of a16z. Please see http://a16z.com/disclosures for more information. A list of investments made by a16z is available at http://a16z.com/portfolio."
+    },
+    "url": "https://x.com/a16z/status/2113367423726575752",
+    "time": "Thu Oct 22 20:30:32 +0000 2026",
+    "created_at": "Thu Oct 22 20:30:32 +0000 2026",
+    "id_str": "2113367423726575752",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Marc Andreessen on the case for open source AI:\n\n\"How would you feel if the only way your kid could learn about AI is to go to work for one of two companies? Like that, as a parent, I think would probably drive you pretty crazy.\"\n\n\"Whereas in a world of open source, every kid can learn how this stuff works.\"\n\n\"Without open source, AI inevitably centralizes down to one or two companies, or maybe just flat out the government.\"\n\n\"Close your eyes and picture the concept of government sushi. And then keep your eyes closed and picture government AI. How do you feel about that? Open source is the guarantor that that's not the future.\"\n\n@pmarca",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Today, a16z Crypto is becoming a16z Frontier.\n\nSince joining a16z in 2013, @cdixon has focused on technologies that look futuristic well before they reach the mainstream. Those themes led to investments in Oculus, Skydio, Zipline, Coinbase, Solana, and Uniswap.\n\nFrontier expands that mandate beyond crypto to back \"outer planet\" founders who are building new technologies and creating markets that may take years to develop.\n\nChris joins @pmarca, @bhorowitz, and @eriktorenberg to discuss why crypto has become part of the broader tech landscape, why Frontier fills a hole in the firm's architecture, and why they'd rather be too early than too late.\n\nThey also get into why the gap between AI-native startups and incumbents is the widest Marc has ever seen, how AI could pull forward 20 years of frontier technology, why stablecoins may become the way AI agents pay each other, how AI is breaking the internet's business model, and why today's 18-year-olds are about to become superhumans.\n\n0:50 Introducing a16z Frontier\n2:49 Smartphone parts to drones and VR\n4:47 Backing the \"outer planets\"\n7:11 Good ideas that look like bad ideas\n10:43 The JP Morgan photo in Marc's office\n15:13 Good tech ideas eventually work\n16:53 AI may pull tech 20 years forward\n18:18 The widest AI gap Marc's ever seen\n22:06 Workers adopt AI before companies do\n26:32 Old use cases vs. AI-native ones\n30:08 Beyond \"product manager brain\"\n34:45 AI can reverse engineer any hardware\n38:23 The case for open source AI\n46:36 How AI breaks the internet's model\n49:11 VR, homebrew hacking, multiplayer AI\n54:00 If you're 18, study \"modern alchemy\"\n\nYouTube: https://youtu.be/-9XQMHhpypc\n\nNot an offer or solicitation. None of the information herein should be taken as investment advice; Some of the companies mentioned are portfolio companies of a16z. Please see http://a16z.com/disclosures for more information. A list of investments made by a16z is available at http://a16z.com/portfolio."
+    },
+    "url": "https://x.com/a16z/status/2113374961071235550",
+    "time": "Thu Oct 22 21:00:29 +0000 2026",
+    "created_at": "Thu Oct 22 21:00:29 +0000 2026",
+    "id_str": "2113374961071235550",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI can now find vulnerabilities with internet-scale impact. Greg Brockman on why defenders can hold the advantage, what OpenAI did to secure itself, and its $1B commitment to secure critical infrastructure:\n\n\"This [cyber] capability broadly diffused, I think is something that will really empower threat actors in new ways. And I think that defenders need to use this time before that technology's broadly available to secure themselves.\"\n\n\"At OpenAI, we took 25% of our production engineers and said, 'Sorry, all your projects are on hold. You are now defending... You're going to use the models to find all the holes.' And we found a number of serious issues and we fixed them.\"\n\n\"You want to be in this tight loop of new cyber capability drops, you deploy it against your systems, you find the new holes, and ideally, you've managed to automate this... If you can do that at machine speed, I think the defenders will be advantaged in deeply significant ways.\"\n\n\"Not every organization will have the capital required to do it. So we have a billion-dollar commitment to frontline defenders, so to organizations that we all rely on every day in our communities, to access our models to secure themselves.\"\n\n\"I've never met a CISO who felt that they were appropriately resourced... Now is a moment where we actually have a real both motivation to do it and a real ability to do it.\"\n\n@gdb",
+    "quoted_tweet": {
+      "author": "Greg Brockman",
+      "username": "gdb",
+      "text": "Over the past two months, we have been leading a coalition to mitigate one of the most severe bugs in open source software found in recent memory, php2shell, found as part of our Patch the Planet initiative. https://x.com/i/article/2112920540138844160"
+    },
+    "url": "https://x.com/a16z/status/2113404552439558377",
+    "time": "Thu Oct 22 22:58:05 +0000 2026",
+    "created_at": "Thu Oct 22 22:58:05 +0000 2026",
+    "id_str": "2113404552439558377",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "When I say \"we.\"\n\nThis is what I mean:",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113362968964428279",
+    "time": "Thu Oct 22 20:12:50 +0000 2026",
+    "created_at": "Thu Oct 22 20:12:50 +0000 2026",
+    "id_str": "2113362968964428279",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Currently testing Kling 4 on Firefly platform \n\nWho else have played with Kling 4?\n\nWould love to see if you created something great with it. I mostly test on my 2D animations.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113385082514002013",
+    "time": "Thu Oct 22 21:40:43 +0000 2026",
+    "created_at": "Thu Oct 22 21:40:43 +0000 2026",
+    "id_str": "2113385082514002013",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I found it's easiest to access using this link: https://firefly.adobe.com/quick-actions/kling-4-0",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113385252177563730",
+    "time": "Thu Oct 22 21:41:23 +0000 2026",
+    "created_at": "Thu Oct 22 21:41:23 +0000 2026",
+    "id_str": "2113385252177563730",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I feel it crowds the chat especially if you have so many bots",
+    "quoted_tweet": null,
+    "url": "https://x.com/wilzap/status/2113386375517229462",
+    "time": "Thu Oct 22 21:45:51 +0000 2026",
+    "created_at": "Thu Oct 22 21:45:51 +0000 2026",
+    "id_str": "2113386375517229462",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife У меня не тыква, а ребус какой-то получился. Пора к психотерапевту 😁. Спасибо, Крис!",
+    "quoted_tweet": null,
+    "url": "https://x.com/laramuller79/status/2113386582212595917",
+    "time": "Thu Oct 22 21:46:40 +0000 2026",
+    "created_at": "Thu Oct 22 21:46:40 +0000 2026",
+    "id_str": "2113386582212595917",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@laramuller79 It looks super cool though!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113388551366950965",
+    "time": "Thu Oct 22 21:54:30 +0000 2026",
+    "created_at": "Thu Oct 22 21:54:30 +0000 2026",
+    "id_str": "2113388551366950965",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap Yes, I asked it to post only to the app",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113389609602502696",
+    "time": "Thu Oct 22 21:58:42 +0000 2026",
+    "created_at": "Thu Oct 22 21:58:42 +0000 2026",
+    "id_str": "2113389609602502696",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It's incredible how just in a timespan of few weeks everyone I know including me moved from using chats to using agents. I use them all and still each is good or has access for particular things. My productivity improved so much. I feel like now I only do what I actually love.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113390495946699160",
+    "time": "Thu Oct 22 22:02:13 +0000 2026",
+    "created_at": "Thu Oct 22 22:02:13 +0000 2026",
+    "id_str": "2113390495946699160",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It’s been awesome not having to switch between apps, but I figure letting both post would go against the X rules and regulations?",
+    "quoted_tweet": null,
+    "url": "https://x.com/relsaid/status/2113391454647140628",
+    "time": "Thu Oct 22 22:06:02 +0000 2026",
+    "created_at": "Thu Oct 22 22:06:02 +0000 2026",
+    "id_str": "2113391454647140628",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@relsaid Can they post? I know that they can't send DMs but super helpful to plan content, make stuff.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113394390953562501",
+    "time": "Thu Oct 22 22:17:42 +0000 2026",
+    "created_at": "Thu Oct 22 22:17:42 +0000 2026",
+    "id_str": "2113394390953562501",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@relsaid I had too many bots in my chat and it was a bit too crowded with other messages, so asked it to post stuff only into Grok Bot app on Desktop.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113394852834504780",
+    "time": "Thu Oct 22 22:19:32 +0000 2026",
+    "created_at": "Thu Oct 22 22:19:32 +0000 2026",
+    "id_str": "2113394852834504780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Grok Bot is now officially available directly inside 𝕏 Chat on 𝕏.\n\nIf it feels crowded in your chat, you can also ask it to post responses only into the desktop / mobile app instead, if you don’t want it in your chat.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113395257555464676",
+    "time": "Thu Oct 22 22:21:09 +0000 2026",
+    "created_at": "Thu Oct 22 22:21:09 +0000 2026",
+    "id_str": "2113395257555464676",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife For the past few days I've seen lot of people enjoying Grok bot, Make me want to try it too",
+    "quoted_tweet": null,
+    "url": "https://x.com/NEXUS_TO_NOVA/status/2113397788109099061",
+    "time": "Thu Oct 22 22:31:12 +0000 2026",
+    "created_at": "Thu Oct 22 22:31:12 +0000 2026",
+    "id_str": "2113397788109099061",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NEXUS_TO_NOVA It’s really great! Useful \nI was very skeptical before I tried it but now I feel like it’s an extension of me",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113398232348787193",
+    "time": "Thu Oct 22 22:32:58 +0000 2026",
+    "created_at": "Thu Oct 22 22:32:58 +0000 2026",
+    "id_str": "2113398232348787193",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Impressions?",
+    "quoted_tweet": null,
+    "url": "https://x.com/MichaelgDiamond/status/2113398917643805121",
+    "time": "Thu Oct 22 22:35:41 +0000 2026",
+    "created_at": "Thu Oct 22 22:35:41 +0000 2026",
+    "id_str": "2113398917643805121",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife the cat is clearly implied, and the flowerpot has already been pushed off the sill...",
+    "quoted_tweet": null,
+    "url": "https://x.com/AndreBuckingham/status/2113400418302914921",
+    "time": "Thu Oct 22 22:41:39 +0000 2026",
+    "created_at": "Thu Oct 22 22:41:39 +0000 2026",
+    "id_str": "2113400418302914921",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AndreBuckingham True :))",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113401752011559115",
+    "time": "Thu Oct 22 22:46:57 +0000 2026",
+    "created_at": "Thu Oct 22 22:46:57 +0000 2026",
+    "id_str": "2113401752011559115",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MichaelgDiamond Not sure what you mean",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113401844844134682",
+    "time": "Thu Oct 22 22:47:19 +0000 2026",
+    "created_at": "Thu Oct 22 22:47:19 +0000 2026",
+    "id_str": "2113401844844134682",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Japanese traditional monster vs Halloween",
+    "quoted_tweet": null,
+    "url": "https://x.com/kokukokugo2/status/2113404527261216832",
+    "time": "Thu Oct 22 22:57:59 +0000 2026",
+    "created_at": "Thu Oct 22 22:57:59 +0000 2026",
+    "id_str": "2113404527261216832",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kokukokugo2 Wow  キツネ!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113405252384739839",
+    "time": "Thu Oct 22 23:00:51 +0000 2026",
+    "created_at": "Thu Oct 22 23:00:51 +0000 2026",
+    "id_str": "2113405252384739839",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife upcoming MV, currently in editing mode",
+    "quoted_tweet": null,
+    "url": "https://x.com/designbyArif/status/2113422572771823866",
+    "time": "2026-10-23 08:09",
+    "created_at": "Fri Oct 23 00:09:41 +0000 2026",
+    "id_str": "2113422572771823866",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You can click the All button at the top of Chat and remove the bots",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2113429637434872054",
+    "time": "2026-10-23 08:37",
+    "created_at": "Fri Oct 23 00:37:45 +0000 2026",
+    "id_str": "2113429637434872054",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beautiful and amusing idea! \nFor @icreatelife my pumpkin ☺️:",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments."
+    },
+    "url": "https://x.com/AndromedaArt9/status/2113431985343586385",
+    "time": "2026-10-23 08:47",
+    "created_at": "Fri Oct 23 00:47:05 +0000 2026",
+    "id_str": "2113431985343586385",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Beautiful and amusing idea! \nFor @icreatelife my pumpkin ☺️:",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments."
+    },
+    "url": "https://x.com/AndromedaArt9/status/2113431985343586385",
+    "time": "2026-10-23 08:47",
+    "created_at": "Fri Oct 23 00:47:05 +0000 2026",
+    "id_str": "2113431985343586385",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AndromedaArt9 beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113434088761643512",
+    "time": "2026-10-23 08:55",
+    "created_at": "Fri Oct 23 00:55:27 +0000 2026",
+    "id_str": "2113434088761643512",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/getjinxo/status/2113437071578656945",
+    "time": "2026-10-23 09:07",
+    "created_at": "Fri Oct 23 01:07:18 +0000 2026",
+    "id_str": "2113437071578656945",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@getjinxo That's so cute. I need that plushie",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113438041608172017",
+    "time": "2026-10-23 09:11",
+    "created_at": "Fri Oct 23 01:11:09 +0000 2026",
+    "id_str": "2113438041608172017",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Grok Bot is the Starlink moment for AI agents",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113439022328561917",
+    "time": "2026-10-23 09:15",
+    "created_at": "Fri Oct 23 01:15:03 +0000 2026",
+    "id_str": "2113439022328561917",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It has changed my life. I wish our Grok Bots could speak to each other!",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrod_lew/status/2113439533668905006",
+    "time": "2026-10-23 09:17",
+    "created_at": "Fri Oct 23 01:17:05 +0000 2026",
+    "id_str": "2113439533668905006",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew True and also to my Claude and ChatGPT. I need everything connected.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113439808219402465",
+    "time": "2026-10-23 09:18",
+    "created_at": "Fri Oct 23 01:18:10 +0000 2026",
+    "id_str": "2113439808219402465",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "While other agents are working, I made a Grok Bot that helps me study Japanese grammar",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113441670192681009",
+    "time": "2026-10-23 09:25",
+    "created_at": "Fri Oct 23 01:25:34 +0000 2026",
+    "id_str": "2113441670192681009",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard That's pretty neat. I want them there, just not all the time",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113441800438603807",
+    "time": "2026-10-23 09:26",
+    "created_at": "Fri Oct 23 01:26:05 +0000 2026",
+    "id_str": "2113441800438603807",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@designbyArif Awesome! Good luck!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113443980017099208",
+    "time": "2026-10-23 09:34",
+    "created_at": "Fri Oct 23 01:34:45 +0000 2026",
+    "id_str": "2113443980017099208",
+    "is_retweet": false
   }
 ]
