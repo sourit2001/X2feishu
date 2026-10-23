@@ -1,1 +1,189 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "We don't have a lot of evidence, but the bulk  of the academic papers modelling the dynamic seem to suggest AI initially helps attackers more than defenders because of the low marginal cost of attacks in the short term.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2113466978035749097",
+    "time": "2026-10-23 11:06",
+    "created_at": "Fri Oct 23 03:06:08 +0000 2026",
+    "id_str": "2113466978035749097",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "By every measure, Opus 4.8 beats human experts as peer reviewers in a study of 124 Harvard social science papers covering a range from statistical analyses to formal models to qualitative work.\n\nAs academics, we need to figure out how to adapt the practice of science to AI, fast.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2113483068174692831",
+    "time": "2026-10-23 12:10",
+    "created_at": "Fri Oct 23 04:10:04 +0000 2026",
+    "id_str": "2113483068174692831",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is not going to be the only area in which AIs beat humans...\n\nPaper: https://gking.harvard.edu/peerless/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2113483765917929536",
+    "time": "2026-10-23 12:12",
+    "created_at": "Fri Oct 23 04:12:51 +0000 2026",
+    "id_str": "2113483765917929536",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "当我们直接得到答案\n也许就不会再快乐",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2113442974537584672",
+    "time": "2026-10-23 09:30",
+    "created_at": "Fri Oct 23 01:30:45 +0000 2026",
+    "id_str": "2113442974537584672",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "NVIDIA GTC in Berlin with @mervenoyann and @patloeber 💚",
+    "quoted_tweet": null,
+    "url": "https://x.com/HarperSCarroll/status/2113271474345873652",
+    "time": "Thu Oct 22 14:09:16 +0000 2026",
+    "created_at": "Thu Oct 22 14:09:16 +0000 2026",
+    "id_str": "2113271474345873652",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Been testing the new Surface Laptop Ultra in the studio and it is a complete BEAST.\n\nNVIDIA RTX Spark, 128GB unified memory and enough local AI power to run 120B+ parameter models. In a laptop.\n\nOnly downside is the touchpad falls short of my MBP. I use it with a mouse.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rpnickson/status/2113428398513238134",
+    "time": "2026-10-23 08:32",
+    "created_at": "Fri Oct 23 00:32:50 +0000 2026",
+    "id_str": "2113428398513238134",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@rpnickson Definitely a beast. Totally agree about the trackpad too. I was also a bit frustrated by the time it took to go from getting it out of the box to actually using it. Updates + Microsoft login process + setup wizard. It took 30+ minutes to actually use the thing for the first time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113454550929883473",
+    "time": "2026-10-23 10:16",
+    "created_at": "Fri Oct 23 02:16:45 +0000 2026",
+    "id_str": "2113454550929883473",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@HarperSCarroll @mervenoyann @patloeber Lucky!",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113464879369834902",
+    "time": "2026-10-23 10:57",
+    "created_at": "Fri Oct 23 02:57:48 +0000 2026",
+    "id_str": "2113464879369834902",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I got DeepSeek 4.1 Flash loaded on the DGX Station and running at about 80 t/s on @lmstudio's Bionic.\n\nBut local AI still needs to be much more simple to go mainstream.",
+    "quoted_tweet": null,
+    "url": "https://x.com/MatthewBerman/status/2113468960536707464",
+    "time": "2026-10-23 11:14",
+    "created_at": "Fri Oct 23 03:14:01 +0000 2026",
+    "id_str": "2113468960536707464",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "The Surface Laptop Ultra has become my daily driver laptop. The battery life is crazy good. But I bring a mouse with me lol.",
+    "quoted_tweet": null,
+    "url": "https://x.com/MatthewBerman/status/2113470335609876638",
+    "time": "2026-10-23 11:19",
+    "created_at": "Fri Oct 23 03:19:29 +0000 2026",
+    "id_str": "2113470335609876638",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow @lmstudio Oh damn...should I delete my post?",
+    "quoted_tweet": null,
+    "url": "https://x.com/MatthewBerman/status/2113470516812234754",
+    "time": "2026-10-23 11:20",
+    "created_at": "Fri Oct 23 03:20:12 +0000 2026",
+    "id_str": "2113470516812234754",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@MatthewBerman @lmstudio Phew... You should be safe. For now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113470975778197941",
+    "time": "2026-10-23 11:22",
+    "created_at": "Fri Oct 23 03:22:01 +0000 2026",
+    "id_str": "2113470975778197941",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@MatthewBerman Dude. The battery life has actually been blowing my mind. Although I haven't really tested too hard yet while running local models. I bet that'll be a battery drainer.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113471611483652123",
+    "time": "2026-10-23 11:24",
+    "created_at": "Fri Oct 23 03:24:33 +0000 2026",
+    "id_str": "2113471611483652123",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "The Decisions API is now generally available!\n\nTo celebrate, I had Codex reimagine a very important app… 🌭",
+    "quoted_tweet": null,
+    "url": "https://x.com/romainhuet/status/2113369156838121938",
+    "time": "Thu Oct 22 20:37:26 +0000 2026",
+    "created_at": "Thu Oct 22 20:37:26 +0000 2026",
+    "id_str": "2113369156838121938",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@romainhuet Very baguette of you",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2113404560853397516",
+    "time": "Thu Oct 22 22:58:07 +0000 2026",
+    "created_at": "Thu Oct 22 22:58:07 +0000 2026",
+    "id_str": "2113404560853397516",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 18/ Decisions API is GA, OpenResponses joined the Linux Foundation, we shipped some performance improvements and Uber is going all-in on codex & work. But yes… that’s a reset!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2113492187770175603",
+    "time": "2026-10-23 12:46",
+    "created_at": "Fri Oct 23 04:46:19 +0000 2026",
+    "id_str": "2113492187770175603",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Landing tomorrow before 10am PST together with a small ship.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2113492502355562875",
+    "time": "2026-10-23 12:47",
+    "created_at": "Fri Oct 23 04:47:34 +0000 2026",
+    "id_str": "2113492502355562875",
+    "is_retweet": false
+  }
+]
