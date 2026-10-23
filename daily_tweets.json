@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The inventor of the term \"prompt injection\" suspects (as do I) that this may not be as large a problem in new models. This matches our tests suggesting that you can't simply prompt inject a request for higher grades in a paper, anymore.",
+    "quoted_tweet": {
+      "author": "Simon Willison",
+      "username": "simonw",
+      "text": "@nateberkopec I'm cautiously starting to suspect it may not be a problem with today's strongest models - Anthropic in particular are very confident about their ability to avoid prompt injections - but it's still a real concern for cheaper, weaker models"
+    },
+    "url": "https://x.com/emollick/status/2113626577623826515",
+    "time": "2026-10-23 21:40",
+    "created_at": "Fri Oct 23 13:40:20 +0000 2026",
+    "id_str": "2113626577623826515",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Someone actually tried to sell one of the RTX 5090s stolen from a $470K shipment online.\n\nAnd somehow, they left the serial number visible.\n\nTwo pallets of ZOTAC RTX 5090s were stolen from São Paulo’s Guarulhos Airport. One of the cards later showed up on the second-hand market for around $6,400, and the serial number matched one of the stolen GPUs.\n\nThe listing is gone now, but the rest of the cards are still missing.\nThese people stole almost half a million dollars in GPUs",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2113631538147446893",
+    "time": "2026-10-23 22:00",
+    "created_at": "Fri Oct 23 14:00:02 +0000 2026",
+    "id_str": "2113631538147446893",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Haircut Season Spreads: OpenAI Trims Valuation Target To $1.25 Trillion After \"Thud\" From Investors https://www.zerohedge.com/markets/haircut-season-spreads-openai-trims-valuation-target-125-trillion-after-thud-investors",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2113631567146819792",
+    "time": "2026-10-23 22:00",
+    "created_at": "Fri Oct 23 14:00:09 +0000 2026",
+    "id_str": "2113631567146819792",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "$CRWV  - COREWEAVE SHARES FALL 2.4% AFTER 10% SLIDE IN PRIOR SESSION",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeItaone/status/2113636217233555828",
+    "time": "2026-10-23 22:18",
+    "created_at": "Fri Oct 23 14:18:38 +0000 2026",
+    "id_str": "2113636217233555828",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge only in ai is $1.25 trillion called a haircut",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113636908106424519",
+    "time": "2026-10-23 22:21",
+    "created_at": "Fri Oct 23 14:21:23 +0000 2026",
+    "id_str": "2113636908106424519",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation the heist was flawless right up until the listing photo",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113639377733882268",
+    "time": "2026-10-23 22:31",
+    "created_at": "Fri Oct 23 14:31:11 +0000 2026",
+    "id_str": "2113639377733882268",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@DeItaone crwv holders refreshing the chart like a claude usage meter",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113641300188918037",
+    "time": "2026-10-23 22:38",
+    "created_at": "Fri Oct 23 14:38:50 +0000 2026",
+    "id_str": "2113641300188918037",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "plain grep beat semantic search.\n\nPerplexity described how its agents work inside Projects last week. every project is a git repo. each agent gets its own short-lived sandbox and commits to a shared repository on S3, and fewer than 2% of submissions collide. the search layer is the part worth sitting with: the agents find things with plain ls and grep, and on financial document analysis that beat semantic search on answer accuracy, 63% to 37%.\n\ntwo lessons in one setup. first, structure beats cleverness. a boring repo with a clear file layout let many agents work in parallel with almost no conflicts. second, retrieval an agent can reason about outperforms retrieval it has to trust. grep returns an exact match it can verify. an embedding returns \"probably relevant.\"\n\nthe default that costs you: reaching for vector search and an orchestration framework before you have organised the files.\n\nwhat I do: before any agent touches a codebase or a document set, I write the architecture rules first. folder layout, naming, what lives where, what the agent may change. agents follow structure extremely well and invent it badly.\n\nthe check: ask the agent where a given piece of logic lives. if it has to search semantically to answer, the structure isn't carrying its weight.\n\nI use a prompt that sets exactly this up. it puts the model in the lead-architect seat and makes it follow your architecture rules before it writes code.\n\nPerplexity reports fewer than 2% of agent submissions collide under that setup.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113642859903827992",
+    "time": "2026-10-23 22:45",
+    "created_at": "Fri Oct 23 14:45:02 +0000 2026",
+    "id_str": "2113642859903827992",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the architecture-first prompt, rules before code:\n\nhttps://godofprompt.ai/prompt-library/build-full-stack-software-architectures",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113642871975022886",
+    "time": "2026-10-23 22:45",
+    "created_at": "Fri Oct 23 14:45:04 +0000 2026",
+    "id_str": "2113642871975022886",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you want agents that follow your structure instead of inventing their own.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2113642883593204134",
+    "time": "2026-10-23 22:45",
+    "created_at": "Fri Oct 23 14:45:07 +0000 2026",
+    "id_str": "2113642883593204134",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "AI 的冲击已经开始实际影响社会，这是全人类共同需要面对的难题，共同承担的责任。\n国务院也出了文件，祈祷世界和平，尽量平稳过渡🙏。\n\n10月23日，国务院办公厅印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》。\n其中指出，减缓人工智能应用就业替代影响。发挥人工智能在改善就业环境、提升职业安全水平、提高工作质效等方面的作用，优先在劳动力紧缺、环境高危等岗位推广应用。稳慎把握人工智能在劳动密集型行业应用的范围、力度、节奏，尽可能减少对从业人员的冲击。鼓励企业探索建立失业缓冲期制度，在大规模推广应用人工智能过程中提前告知受影响劳动者、提供转型转岗就业支持。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2113594727555834264",
+    "time": "2026-10-23 19:33",
+    "created_at": "Fri Oct 23 11:33:46 +0000 2026",
+    "id_str": "2113594727555834264",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "历史上的科技带来的基建狂热一般持续4-6年\n明年是 AI 的第 5 年",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2113648638182498505",
+    "time": "2026-10-23 23:07",
+    "created_at": "Fri Oct 23 15:07:59 +0000 2026",
+    "id_str": "2113648638182498505",
+    "is_retweet": false
+  }
+]
