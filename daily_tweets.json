@@ -153,5 +153,31 @@
     "created_at": "Sat Oct 24 15:10:32 +0000 2026",
     "id_str": "2114011664991555691",
     "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Power is one of the AI buildout's biggest bottlenecks, and US capacity to make electrical equipment is shrinking\n\nUS factory capacity since 2019:\n- Comms equipment: +110%\n- Semis: +77%\n- Computers: +16%\n- Electrical equipment: -9%\n\nElectrical equipment prices are up 69%, the biggest jump of the four categories\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-attention-is-all",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2114009072995537108",
+    "time": "2026-10-24 23:00",
+    "created_at": "Sat Oct 24 15:00:14 +0000 2026",
+    "id_str": "2114009072995537108",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Alex Danco and Moses Sternstein on the bear case that GPUs would depreciate fast, what rental rates actually show, and why the data points to scarcity:\n\nAlex: \"There is a whole case that people made on both sides of the argument that these things were assets that would depreciate on a schedule. And in the past 18 months, I think what we have learned is that all our assumptions were wrong.\"\n\nMoses: \"GPU rental rates continue to go up. Even as token pricing comes down, you see more and more consumption, and it's causing relative scarcity amongst the GPUs that we have.\"\n\n\"Even for the older GPUs, the A100s, which have been around already for five years, that were supposed to become obsolete... Whether they had 4-year depreciation schedules, 6-year depreciation schedules, they were supposed to be obsolete almost immediately, and that was the original bear case.\"\n\n\"And plainly, they're not... Everybody is priced above what they should be based on their scheduled obsolescence. And that's true of the older models, the A100 and the H100.\"\n\n@alex_danco @MosesSternstein",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule\n\nRental price vs. schedule:\n- H200: +143%\n- B200: +111%\n- RTX PRO 6000: +73%\n- H100: +54%\n- A100: +9%\n\nMost of the gap opened up after April, when token demand took off\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-attention-is-all"
+    },
+    "url": "https://x.com/a16z/status/2114058804929479045",
+    "time": "2026-10-25 02:17",
+    "created_at": "Sat Oct 24 18:17:51 +0000 2026",
+    "id_str": "2114058804929479045",
+    "is_retweet": false
   }
 ]
