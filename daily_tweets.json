@@ -116,5 +116,72 @@
     "created_at": "Fri Oct 23 21:43:02 +0000 2026",
     "id_str": "2113748054922998203",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The Bulwark crew is absolutely ecstatic over the idea of investigations and prosecutions of Elon Musk.\n\nCan barely contain themselves:\n\n\"He has a body count like a f*cking war criminal. We start with the US Congress and it ends at The Hague for Elon Musk.\"\n\n\"You've got $1 trillion, asshole. Start spending it on lawyers.\"\n\n\"You don't hate him nearly enough.\"\n\n\"There has been a series of meetings among House Democrats. Do you know what they're doing? Yes. They're carving up jurisdictions for who is going to Subpoena him to testify before which of them and for what.\"\n\n\"Get a townhouse, big guy. Got a lot of nice brownstones right there by Capitol Hill.\"\n\n\"Elon! You motherf*cker! You better pack a lunch cause your ass is gonna be living in the Capitol starting January of 2027.\"\n\n\"I feel like my guys, Robert Garcia and Jamie Raskin are f*cking ready. They're loaded for bear.\"\n\nSame kind of people that've cried endlessly about the weaponization of justice are absolutely salivating over the idea of weaponizing justice against their political opposition.",
+    "quoted_tweet": {
+      "author": "Western Lensman",
+      "username": "WesternLensman",
+      "text": "On the Bulwak podcast, Kara Swisher says Elon might already be in jail under Kamala Harris, and \"he knows what's coming for him.\"\n\nAnother one to put in the \"what Democrats plan to do if they take power\" file:\n\n\"If Donald Trump loses the House and the Senate, I would worry. I'd be worried if I were him.\"\n\n\"So they're going to start investigating again. You think he's not on the list? He's at the top of that list.\"\n\n\"He has a very big sense of fate. And I think it's coming for him. And real hard.\"\n\nThey're all just saying this stuff out loud now. There are no secrets about what they want to do."
+    },
+    "url": "https://x.com/WesternLensman/status/2113763920716668992",
+    "time": "2026-10-24 06:46",
+    "created_at": "Fri Oct 23 22:46:05 +0000 2026",
+    "id_str": "2113763920716668992",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@WesternLensman If they want to live by the sword, that is how they will die too",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2113788838065873325",
+    "time": "2026-10-24 08:25",
+    "created_at": "Sat Oct 24 00:25:05 +0000 2026",
+    "id_str": "2113788838065873325",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "My unfiltered thoughts on personal agents.\n\nGrokbot has the best UI and it’s arguably the best overall. In a lot of ways they’re ahead. Their desktop app feels the best, and their multi-bot coordination is great: you can set a team lead and it passes tasks to the other bots. Grokbot also has the best “webhook” feature, which means you can easily turn outside events into triggers that start your agents. That speeds up background workflows like watching your email, Slack and more. It also has Cursor integration, so for bigger tasks Grokbot can spin up a Cursor cloud session with any model (until OpenAI cuts SpaceX off from their models, which I think will happen soon). Unfortunately, running frontier models through Cursor costs more than Claude or Codex. Still, they’re the only ones embracing a team of agents. It’s a really cool idea, but the more bots you have, the more time you spend managing and maintaining them. I’m starting to think one bot with different threads/channels is the right answer, which I’ll get to with Claude Duet.\n\ndots by OpenAI is rough around the edges right now, but it’s probably the most powerful if you use Codex, which I do. dots can spin up Codex sessions in the cloud or locally on your computer. So if you have coding or video editing workflows that need your local files, this is very useful. Codex computer use is also the best in the world: your dot can spin up a local Codex session that fully controls your computer, as long as it’s on. Their real-time voice is incredible. If you have your email and work tools connected, try this: go on a walk with headphones in, ask the agent to summarize your emails, have it draft replies and read them back to you, then send them off. If I remember right, this is close to a workflow you (Tim) used to have with your VAs before AI. It’s my favorite use case for personal agents. The one downside is that you have to call your agent, and it’s an awful experience. It literally rings, and it’s annoying.\n\nMuse by Meta is a toy. I’ve talked to a bunch of finance people I play poker with who all tried it and set up automations, and they all said it doesn’t reliably do what they want. It’s fast, and its user numbers will probably keep growing. But it’s basically free: you get a TON of usage without paying a dime. That’s NOT a trade I’m willing to make. An agent doing high-leverage tasks should be running at the Opus 5.5 or GPT 6.1 Sol level.\n\nClaude Duet - is in early access, so unfortunately not everyone can use it yet. First things first, it runs on Opus 5.5, the best model in the world. I’ve only had access for 72 hours, but Duet feels different from the others. It’s not a personified agent like Grokbot, dot or Muse, which gives it a more professional vibe that I like. When you ask your Duet agent to do something, it spins up a task, which is a new chat thread. All your threads show up in a Tasks tab, so it’s easy to see everything Duet is working on or has finished. And instead of creating more agents (like Grokbot), you create channels, just like Slack (I can tell @anthropic is Slack-pilled). I have a content channel, a finances channel, etc., which keeps different kinds of tasks separate. The only other app I’ve seen do this is Buzz by @jack, and it’s a good experience. Their strong point is documents (artifacts). If you want decks, high-quality docs or design mockups, Opus just wins. Period. It’s not close right now. Their weak point is real-time voice. It’s the worst of the bunch and borderline unusable, though I think they only added it a few days ago.\n\nInstinct lives in iMessage, has no app, and doesn’t do anything notable besides show you product suggestions you didn’t ask for. (Not ads, according to their team.)\n\nMy hot take: \nThe VM is overrated. SpaceX, OpenAI and Meta all talk about the VM your agent can use and feature it in their marketing. It’s not as useful as you’d think, because more and more websites block bots that visit their site on the cloud VM. All of these companies promise their agents can make payments, but most payments either take forever or get blocked altogether. SpaceX has a cool workaround with Grokbot that routes traffic through your computer so it uses your IP address. But I’d much rather the agent just USE my computer for the task, like dot does by handing it off to Codex. Also, i don't think normal people care about the virtual computer. If anything they get offended they have to \"stream a computer\". \n\nThe problem with personal agents: by the time you read this, pick one, and test it for 7 days, every one of them will have released 10 new features and the whole landscape will have changed. It’s nearly impossible to keep up.",
+    "quoted_tweet": {
+      "author": "Tim Ferriss",
+      "username": "tferriss",
+      "text": "If you’ve used a personal AI assistant (@bot, @Muse, dots from @OpenAI, @Claudeai Duet, @Instinct, etc), which was your favorite and why? What are the biggest differences?"
+    },
+    "url": "https://x.com/rileybrown/status/2113773696863064377",
+    "time": "2026-10-24 07:24",
+    "created_at": "Fri Oct 23 23:24:56 +0000 2026",
+    "id_str": "2113773696863064377",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "it's so unbelievably worth it.",
+    "quoted_tweet": {
+      "author": "George Pu",
+      "username": "TheGeorgePu",
+      "text": "Don't connect your email to ChatGPT or Claude.\n\nIt can send emails as you.\n\nSometimes without you knowing.\n\nNot worth it."
+    },
+    "url": "https://x.com/rileybrown/status/2113776573862072765",
+    "time": "2026-10-24 07:36",
+    "created_at": "Fri Oct 23 23:36:21 +0000 2026",
+    "id_str": "2113776573862072765",
+    "is_retweet": false
+  },
+  {
+    "username": "johnternus",
+    "nickname": "John Ternus",
+    "text": "iPhone Duo is here! Loved celebrating its arrival with our teams in Austin this morning.",
+    "quoted_tweet": null,
+    "url": "https://x.com/johnternus/status/2113780444814860509",
+    "time": "2026-10-24 07:51",
+    "created_at": "Fri Oct 23 23:51:44 +0000 2026",
+    "id_str": "2113780444814860509",
+    "is_retweet": false
   }
 ]
