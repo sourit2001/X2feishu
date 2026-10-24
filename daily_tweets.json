@@ -227,5 +227,53 @@
     "created_at": "Sat Oct 24 10:55:11 +0000 2026",
     "id_str": "2113947406786318744",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 感觉效果跟 Claudedesign 差距还是不小",
+    "quoted_tweet": null,
+    "url": "https://x.com/Fridaycn/status/2113804921858613276",
+    "time": "2026-10-24 09:29",
+    "created_at": "Sat Oct 24 01:29:00 +0000 2026",
+    "id_str": "2113804921858613276",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Fridaycn 取决于模型",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2113812597602701646",
+    "time": "2026-10-24 09:59",
+    "created_at": "Sat Oct 24 01:59:30 +0000 2026",
+    "id_str": "2113812597602701646",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Nevada sorely needed a stand alone children's hospital of substance. Medical care here has been iffy & insufficient for a city the size of Las Vegas, an especially tough place for kids and one where many children pay big for bad adult decisions.\nThank you Felicia and a Bevn Horowits for your grand and useful  gift.",
+    "quoted_tweet": {
+      "author": "Marc Andreessen 🇺🇸",
+      "username": "pmarca",
+      "text": "https://news3lv.com/news/local/intermountain-announces-150m-horowitz-gift-for-las-vegas-childrens-hospital-project"
+    },
+    "url": "https://x.com/walterkirn/status/2113817259315765461",
+    "time": "2026-10-24 10:18",
+    "created_at": "Sat Oct 24 02:18:02 +0000 2026",
+    "id_str": "2113817259315765461",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Super intelligent Beauty",
+    "quoted_tweet": null,
+    "url": "https://x.com/tetsuoai/status/2113860764264227015",
+    "time": "2026-10-24 13:10",
+    "created_at": "Sat Oct 24 05:10:54 +0000 2026",
+    "id_str": "2113860764264227015",
+    "is_retweet": true
   }
 ]
