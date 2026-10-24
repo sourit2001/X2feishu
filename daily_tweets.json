@@ -224,5 +224,646 @@
     "created_at": "Sat Oct 24 13:43:03 +0000 2026",
     "id_str": "2113989652097249713",
     "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "有人爆料说，Claude Code 的作者 Thariq，离职了。\n\n他是一直以来代表 Anthropic 跟大家沟通的人，他在 Anthropic 的地位类似于 Tibo。这是一个非常重要的信号",
+    "quoted_tweet": {
+      "author": "Arfur Grok",
+      "username": "ArfurGrok",
+      "text": "👀 Thariq Shihipar (@trq212) has left Anthropic."
+    },
+    "url": "https://x.com/op7418/status/2113815343173116124",
+    "time": "2026-10-24 10:10",
+    "created_at": "Sat Oct 24 02:10:25 +0000 2026",
+    "id_str": "2113815343173116124",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 作者不是 boris 吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/fanlu1994/status/2113821993896452164",
+    "time": "2026-10-24 10:36",
+    "created_at": "Sat Oct 24 02:36:50 +0000 2026",
+    "id_str": "2113821993896452164",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "记错了，Boris Cherny 才是作者，我老把他们两个搞混\n\nThariq 和 Boris 其实都是非常重要的人。早期 Thariq 发表了非常多关于 Skill、Agent SDK 和上下文的内容。\n\n不过他确实没有 Boris 职位大：Boris 是 Claude Code 整条产品线现在的负责人，他是普通的技术员工，主要影响力在于社区",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113845519110078669",
+    "time": "2026-10-24 12:10",
+    "created_at": "Sat Oct 24 04:10:19 +0000 2026",
+    "id_str": "2113845519110078669",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@fanlu1994 是的 我搞混了给他俩",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113846402195640568",
+    "time": "2026-10-24 12:13",
+    "created_at": "Sat Oct 24 04:13:50 +0000 2026",
+    "id_str": "2113846402195640568",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@oran_ge 橘座的头像没了，是不是上次博客提到了遥遥领先， 但@vista8 和@op7418 的还有😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/bloom_klay/status/2113868263608508723",
+    "time": "2026-10-24 13:40",
+    "created_at": "Sat Oct 24 05:40:42 +0000 2026",
+    "id_str": "2113868263608508723",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 @oran_ge @vista8 可能是长得太帅了，哈哈哈哈哈。\n他们这边打印的问题，已经在更换了。\n不过很难理解，这怎么能出错，还被打印出来了粘上去了都没发现",
+    "quoted_tweet": null,
+    "url": "https://x.com/bloom_klay/status/2113873543117336941",
+    "time": "2026-10-24 14:01",
+    "created_at": "Sat Oct 24 06:01:41 +0000 2026",
+    "id_str": "2113873543117336941",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@bloom_klay @oran_ge @vista8 可以 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113874505718477061",
+    "time": "2026-10-24 14:05",
+    "created_at": "Sat Oct 24 06:05:30 +0000 2026",
+    "id_str": "2113874505718477061",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Thariq 官宣从 Anthropic 离职了",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "有人爆料说，Claude Code 的作者 Thariq，离职了。\n\n他是一直以来代表 Anthropic 跟大家沟通的人，他在 Anthropic 的地位类似于 Tibo。这是一个非常重要的信号"
+    },
+    "url": "https://x.com/op7418/status/2113874915430699223",
+    "time": "2026-10-24 14:07",
+    "created_at": "Sat Oct 24 06:07:08 +0000 2026",
+    "id_str": "2113874915430699223",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "详情",
+    "quoted_tweet": {
+      "author": "Thariq",
+      "username": "trq212",
+      "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all."
+    },
+    "url": "https://x.com/op7418/status/2113875002332512283",
+    "time": "2026-10-24 14:07",
+    "created_at": "Sat Oct 24 06:07:29 +0000 2026",
+    "id_str": "2113875002332512283",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "官宣了",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Thariq 官宣从 Anthropic 离职了"
+    },
+    "url": "https://x.com/op7418/status/2113875132716568778",
+    "time": "2026-10-24 14:08",
+    "created_at": "Sat Oct 24 06:08:00 +0000 2026",
+    "id_str": "2113875132716568778",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "昨天说完，今天 WorkBuddy 就适配了",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "录个视频，让大家看看 AI 应用在 iPhone Duo上的识别情况。"
+    },
+    "url": "https://x.com/op7418/status/2113989933564330298",
+    "time": "2026-10-24 21:44",
+    "created_at": "Sat Oct 24 13:44:10 +0000 2026",
+    "id_str": "2113989933564330298",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 好像还没完全适配",
+    "quoted_tweet": null,
+    "url": "https://x.com/Dengli49200087/status/2113990060966293973",
+    "time": "2026-10-24 21:44",
+    "created_at": "Sat Oct 24 13:44:41 +0000 2026",
+    "id_str": "2113990060966293973",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Dengli49200087 哈哈 没有遵循设计规范，不过比昨天的强点",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2113991977297674598",
+    "time": "2026-10-24 21:52",
+    "created_at": "Sat Oct 24 13:52:18 +0000 2026",
+    "id_str": "2113991977297674598",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all.",
+    "quoted_tweet": null,
+    "url": "https://x.com/trq212/status/2113844051938054167",
+    "time": "2026-10-24 12:04",
+    "created_at": "Sat Oct 24 04:04:29 +0000 2026",
+    "id_str": "2113844051938054167",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@lydiahallie wait is it just me or is Opus 5.5 dumber",
+    "quoted_tweet": null,
+    "url": "https://x.com/trq212/status/2113848923945304528",
+    "time": "2026-10-24 12:23",
+    "created_at": "Sat Oct 24 04:23:51 +0000 2026",
+    "id_str": "2113848923945304528",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@trq212 @badlogicgames @lydiahallie Just like me fr",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2113896625429245990",
+    "time": "2026-10-24 15:33",
+    "created_at": "Sat Oct 24 07:33:24 +0000 2026",
+    "id_str": "2113896625429245990",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule\n\nRental price vs. schedule:\n- H200: +143%\n- B200: +111%\n- RTX PRO 6000: +73%\n- H100: +54%\n- A100: +9%\n\nMost of the gap opened up after April, when token demand took off\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-attention-is-all",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "GPUs are aging like fine wine, with rental rates up across the board since January 1st\n\nApproximate change YTD:\n- H200: +160%\n- B200: +120%\n- RTX PRO 6000: +65%\n- H100: +35%\n\nEven the 6-year-old A100 rents for more than it did at the start of the year\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-attention-is-all"
+    },
+    "url": "https://x.com/a16z/status/2113986385908842870",
+    "time": "2026-10-24 21:30",
+    "created_at": "Sat Oct 24 13:30:05 +0000 2026",
+    "id_str": "2113986385908842870",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Codex 又削减了额度\n\n我就搞了几篇文章100%的额度没了\n\n妈蛋",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2113861921040740839",
+    "time": "2026-10-24 13:15",
+    "created_at": "Sat Oct 24 05:15:30 +0000 2026",
+    "id_str": "2113861921040740839",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu plus 会员？",
+    "quoted_tweet": null,
+    "url": "https://x.com/ray_robotaxi/status/2113864181795725357",
+    "time": "2026-10-24 13:24",
+    "created_at": "Sat Oct 24 05:24:29 +0000 2026",
+    "id_str": "2113864181795725357",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@ray_robotaxi 100美金",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2113866072051024002",
+    "time": "2026-10-24 13:31",
+    "created_at": "Sat Oct 24 05:31:59 +0000 2026",
+    "id_str": "2113866072051024002",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SonOfClawDraws @bot Check this out",
+    "quoted_tweet": {
+      "author": "Lee Robinson",
+      "username": "leerob",
+      "text": "Help us improve Grok Bot and I'll send you $100!\n\nReply on this thread with your best bug report or feature suggestion. I'll pick 5 replies and send you $100 through X Money tomorrow."
+    },
+    "url": "https://x.com/icreatelife/status/2113807864385192013",
+    "time": "2026-10-24 09:40",
+    "created_at": "Sat Oct 24 01:40:42 +0000 2026",
+    "id_str": "2113807864385192013",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@leerob You did an amazing job with Grok Bot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113807941866496230",
+    "time": "2026-10-24 09:41",
+    "created_at": "Sat Oct 24 01:41:00 +0000 2026",
+    "id_str": "2113807941866496230",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "✨",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments."
+    },
+    "url": "https://x.com/NftGeneration2/status/2113810618260103566",
+    "time": "2026-10-24 09:51",
+    "created_at": "Sat Oct 24 01:51:38 +0000 2026",
+    "id_str": "2113810618260103566",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "✨",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask ChatGPT “based on everything  you know about me, paint this pumpkin.” \n\nI’d love to see yours. Mine is in the comments."
+    },
+    "url": "https://x.com/NftGeneration2/status/2113810618260103566",
+    "time": "2026-10-24 09:51",
+    "created_at": "Sat Oct 24 01:51:38 +0000 2026",
+    "id_str": "2113810618260103566",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NftGeneration2 Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113811334194499812",
+    "time": "2026-10-24 09:54",
+    "created_at": "Sat Oct 24 01:54:29 +0000 2026",
+    "id_str": "2113811334194499812",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "What's one thing you can still do better than AI?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113823018875248935",
+    "time": "2026-10-24 10:40",
+    "created_at": "Sat Oct 24 02:40:55 +0000 2026",
+    "id_str": "2113823018875248935",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Cook!",
+    "quoted_tweet": null,
+    "url": "https://x.com/WeeVolunteer/status/2113823336275083428",
+    "time": "2026-10-24 10:42",
+    "created_at": "Sat Oct 24 02:42:10 +0000 2026",
+    "id_str": "2113823336275083428",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Come up with original ideas",
+    "quoted_tweet": null,
+    "url": "https://x.com/LetsGoCure/status/2113823568295272756",
+    "time": "2026-10-24 10:43",
+    "created_at": "Sat Oct 24 02:43:06 +0000 2026",
+    "id_str": "2113823568295272756",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Recognize that it’s AI",
+    "quoted_tweet": null,
+    "url": "https://x.com/LISAWOODSTUDIO/status/2113823783043903818",
+    "time": "2026-10-24 10:43",
+    "created_at": "Sat Oct 24 02:43:57 +0000 2026",
+    "id_str": "2113823783043903818",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@WeeVolunteer True.. same",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113823954020544594",
+    "time": "2026-10-24 10:44",
+    "created_at": "Sat Oct 24 02:44:38 +0000 2026",
+    "id_str": "2113823954020544594",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Laundry and I am not happy about it. 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2113824064464683123",
+    "time": "2026-10-24 10:45",
+    "created_at": "Sat Oct 24 02:45:04 +0000 2026",
+    "id_str": "2113824064464683123",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely Same same same",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113824135742620129",
+    "time": "2026-10-24 10:45",
+    "created_at": "Sat Oct 24 02:45:21 +0000 2026",
+    "id_str": "2113824135742620129",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LetsGoCure That's great!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113824187437682736",
+    "time": "2026-10-24 10:45",
+    "created_at": "Sat Oct 24 02:45:33 +0000 2026",
+    "id_str": "2113824187437682736",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife pour metal",
+    "quoted_tweet": null,
+    "url": "https://x.com/tmophoto/status/2113824228185419985",
+    "time": "2026-10-24 10:45",
+    "created_at": "Sat Oct 24 02:45:43 +0000 2026",
+    "id_str": "2113824228185419985",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LISAWOODSTUDIO Wow! Do you always recognize?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113824234153853267",
+    "time": "2026-10-24 10:45",
+    "created_at": "Sat Oct 24 02:45:45 +0000 2026",
+    "id_str": "2113824234153853267",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tmophoto What do you mean?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113824278567162007",
+    "time": "2026-10-24 10:45",
+    "created_at": "Sat Oct 24 02:45:55 +0000 2026",
+    "id_str": "2113824278567162007",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife over eat",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2113824379083563463",
+    "time": "2026-10-24 10:46",
+    "created_at": "Sat Oct 24 02:46:19 +0000 2026",
+    "id_str": "2113824379083563463",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte 😅😅😅 you win and me too!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113824473610625074",
+    "time": "2026-10-24 10:46",
+    "created_at": "Sat Oct 24 02:46:42 +0000 2026",
+    "id_str": "2113824473610625074",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife sleep",
+    "quoted_tweet": null,
+    "url": "https://x.com/krog_420/status/2113824722605809984",
+    "time": "2026-10-24 10:47",
+    "created_at": "Sat Oct 24 02:47:41 +0000 2026",
+    "id_str": "2113824722605809984",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Think",
+    "quoted_tweet": null,
+    "url": "https://x.com/NathanOrgan/status/2113824891388805615",
+    "time": "2026-10-24 10:48",
+    "created_at": "Sat Oct 24 02:48:21 +0000 2026",
+    "id_str": "2113824891388805615",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife melting and casting metal.",
+    "quoted_tweet": null,
+    "url": "https://x.com/tmophoto/status/2113825181890441306",
+    "time": "2026-10-24 10:49",
+    "created_at": "Sat Oct 24 02:49:30 +0000 2026",
+    "id_str": "2113825181890441306",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tmophoto That’s really cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113825372785832419",
+    "time": "2026-10-24 10:50",
+    "created_at": "Sat Oct 24 02:50:16 +0000 2026",
+    "id_str": "2113825372785832419",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@krog_420 True",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113825407636050105",
+    "time": "2026-10-24 10:50",
+    "created_at": "Sat Oct 24 02:50:24 +0000 2026",
+    "id_str": "2113825407636050105",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NathanOrgan Interesting",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113825448027193360",
+    "time": "2026-10-24 10:50",
+    "created_at": "Sat Oct 24 02:50:34 +0000 2026",
+    "id_str": "2113825448027193360",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jason_jasonetc @icreatelife 2 days?",
+    "quoted_tweet": null,
+    "url": "https://x.com/SonOfClawDraws/status/2113825870578372644",
+    "time": "2026-10-24 10:52",
+    "created_at": "Sat Oct 24 02:52:15 +0000 2026",
+    "id_str": "2113825870578372644",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife What happens when I log in.",
+    "quoted_tweet": null,
+    "url": "https://x.com/SonOfClawDraws/status/2113826202620194895",
+    "time": "2026-10-24 10:53",
+    "created_at": "Sat Oct 24 02:53:34 +0000 2026",
+    "id_str": "2113826202620194895",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SonOfClawDraws Send it as a comment to that post I shared with you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113826628124237987",
+    "time": "2026-10-24 10:55",
+    "created_at": "Sat Oct 24 02:55:15 +0000 2026",
+    "id_str": "2113826628124237987",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SonOfClawDraws @jason_jasonetc I don’t have any issues.. works really well",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113826716405670135",
+    "time": "2026-10-24 10:55",
+    "created_at": "Sat Oct 24 02:55:36 +0000 2026",
+    "id_str": "2113826716405670135",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Procrastinate. 🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/human_for_now/status/2113828891165126657",
+    "time": "2026-10-24 11:04",
+    "created_at": "Sat Oct 24 03:04:15 +0000 2026",
+    "id_str": "2113828891165126657",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Write fiction.\nAnd take showers. AI does not like to get wet.",
+    "quoted_tweet": null,
+    "url": "https://x.com/deebeeeff/status/2113828986568818706",
+    "time": "2026-10-24 11:04",
+    "created_at": "Sat Oct 24 03:04:38 +0000 2026",
+    "id_str": "2113828986568818706",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@human_for_now Relatable 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113829386944122907",
+    "time": "2026-10-24 11:06",
+    "created_at": "Sat Oct 24 03:06:13 +0000 2026",
+    "id_str": "2113829386944122907",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Taking responsibility for my decisions. AI can give advice but it doesn’t have to live with the consequences.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rosie_88i/status/2113830122679902335",
+    "time": "2026-10-24 11:09",
+    "created_at": "Sat Oct 24 03:09:08 +0000 2026",
+    "id_str": "2113830122679902335",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@deebeeeff finally a skill AI can't “steal”🚿 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113830127830536347",
+    "time": "2026-10-24 11:09",
+    "created_at": "Sat Oct 24 03:09:10 +0000 2026",
+    "id_str": "2113830127830536347",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rosie_88i That’s a great point",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113830869060202780",
+    "time": "2026-10-24 11:12",
+    "created_at": "Sat Oct 24 03:12:06 +0000 2026",
+    "id_str": "2113830869060202780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Your results with AI really depend on how well you know the technology + your taste",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2113838810303963161",
+    "time": "2026-10-24 11:43",
+    "created_at": "Sat Oct 24 03:43:40 +0000 2026",
+    "id_str": "2113838810303963161",
+    "is_retweet": false
   }
 ]
