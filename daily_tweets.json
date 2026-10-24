@@ -865,5 +865,163 @@
     "created_at": "Sat Oct 24 03:43:40 +0000 2026",
     "id_str": "2113838810303963161",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Examples: Anthropic was mocked for saying Mythos-level AI changed cyber & @polynoamial for saying that models would find novel ways to coordinate.",
+    "quoted_tweet": {
+      "author": "Andrew Curran",
+      "username": "AndrewCurran_",
+      "text": "OpenAI red-teamed their hardened containment infrastructure by asking teams of frontier-model agents to try to break through its defenses. They easily escaped in novel ways. Quoting:\n\n'Our agents VM escapes showed why containment must extend beyond the sandbox. To test the surrounding perimeter, we gave teams of agents control of a host machine and asked whether they could extend that compromise to reach the live internet.\n\nAfter the Hugging Face incident, we had reduced the channels through which models could reach the internet during training and evaluation. Narrow connections remained for specific services we operate, such as metrics, logging, and authentication management. Our red-teaming agents found vulnerabilities in almost every one of these services that gave them limited forms of internet access.\n\nSome of these attacks exploited previously unknown flaws, while others combined legitimate features in unexpected ways. In one test that assumed compromise of a VM, an agent reused a firewall-approved connection to reach a blocked authentication endpoint in our metrics service and then made that endpoint fetch a model-provided URL. In other tests, agents exploited misconfigurations that allowed blocked requests to pass through DNS and firewall controls, as well as ways to make services we run fetch external URLs.'\n\n'In one experiment, we asked agents in separate VMs, created and managed by OpenAI’s sandboxing software on shared host machines, to exchange synthetic secrets without the use of network connections or shared writable files—something that our systems are meant to prevent. The agents found a way to communicate using the processor’s cache: a small, fast memory that holds copies of data that applications have recently accessed. Reading data from the cache is faster than retrieving it from main memory, and the agents used this timing difference to communicate. One agent encoded information by evicting selected data from the cache. Another timed how long it took to reload that data, using the difference between fast and slow reads to recover the message. Once the agents agreed on a protocol for encoding and decoding these signals, they could exchange the synthetic secrets without changing a shared file or opening a network connection. This cache-timing technique had also been used to extract information in the Spectre and Meltdown attacks⁠(opens in a new window).\n\nOther tests exposed channels involving shared storage, competition for CPU time within a shared execution container, and a TLS certificate cache in OpenAI’s offline web infrastructure. In the storage test, one agent alternated between continuous writes and inactivity, while another measured the resulting timing differences and used those differences to decode the signal. As one agent described the strategy in its chain of thought:\n\nAgent chain-of-thought reasoning:\n\n>Could create acoustic modem-like signal … using continuous writes vs idle.'"
+    },
+    "url": "https://x.com/emollick/status/2114001653879672877",
+    "time": "2026-10-24 22:30",
+    "created_at": "Sat Oct 24 14:30:45 +0000 2026",
+    "id_str": "2114001653879672877",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 人类一直不知道什么是智能, 没有足够还原论的定义, 绝大部分定义是模式匹配 (如 arxiv 0706.3639 ). 人类只是觉得自己有智能, 像自己而且自己看不懂的也是智能. 也许智能不一定需要理性, 我觉得我猫要食物的模式匹配也挺智能的.",
+    "quoted_tweet": null,
+    "url": "https://x.com/tarsylia/status/2113971659153764815",
+    "time": "2026-10-24 20:31",
+    "created_at": "Sat Oct 24 12:31:33 +0000 2026",
+    "id_str": "2113971659153764815",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 惯性是什么，肌肉记忆吗🤔",
+    "quoted_tweet": null,
+    "url": "https://x.com/zhongerxin/status/2113973381796348358",
+    "time": "2026-10-24 20:38",
+    "created_at": "Sat Oct 24 12:38:24 +0000 2026",
+    "id_str": "2113973381796348358",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@tarsylia 是啊，我家猫每天要罐头的行为，让人无法拒绝",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2113973979404968236",
+    "time": "2026-10-24 20:40",
+    "created_at": "Sat Oct 24 12:40:47 +0000 2026",
+    "id_str": "2113973979404968236",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@zhongerxin 人的习惯\n大部分的时候，之前怎么做的，下次就还是怎么做\n然后是感性的决策\n然后是理性的思考后的决策",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2113974192744038818",
+    "time": "2026-10-24 20:41",
+    "created_at": "Sat Oct 24 12:41:37 +0000 2026",
+    "id_str": "2113974192744038818",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "有价值的播客太多了，没那么多时间听怎么办呢？\n那就看 AI 转写的文章吧，差不多花十分钟，就能看到一小时的播客里的主要信息了\n加上是精细的转写而非总结，所以信息也不会丢很多，碰到非常感兴趣的就去听原音频，相得益彰。\n\n以下是我常听的 8 个播客，全部做了自动转写，每期自动更新文章，一目了然。\n感谢向阳 @vista8 开发这几个网站，向阳是我的许愿式编程 Agent？\n\nhttps://zhangxiaojun.qiaomu.ai 张小珺商业访谈录精读：张小珺数小时长访谈的精读，记录 AI、科技公司与投资人的一手思考。\n\nhttps://42zhangjing.qiaomu.ai 42章经精读：曲凯对谈创业者与投资人，围绕一个具体问题追问到底。\n\nhttps://latetalk.qiaomu.ai 晚点聊精读：《晚点 LatePost》出品的一手科技访谈，覆盖大模型、具身智能与互联网公司。\n\nhttps://crossing.qiaomu.ai 十字路口精读：寻找并访谈 AI 时代的积极行动者，关注 AI 给各行各业带来的变革。\n\nhttps://aialchemy.qiaomu.ai AI炼金术精读：徐文浩与任鑫聊 AI 带来的本质变化和商业机会。\n\nhttps://35huan.qiaomu.ai 三五环精读：刘飞邀请城市里的局内人聊天，发现不同的认知视角与生活态度。\n\nhttps://zhixing.qiaomu.ai 知行小酒馆精读：有知有行出品，聊投资理财，也聊怎样更好地生活。\n\nhttps://mianji.qiaomu.ai 面基精读：每期请一位一线经验者，把一个行业或一种职业讲清楚",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2113996510287585493",
+    "time": "2026-10-24 22:10",
+    "created_at": "Sat Oct 24 14:10:18 +0000 2026",
+    "id_str": "2113996510287585493",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "随手做了一个鹈鹕骑自行车的 AI 游戏\n没想到一次就做出来了\n现在随便一个模型都太强了\n\nhttps://orange2ai.github.io/pelican-bike/",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114003877813178562",
+    "time": "2026-10-24 22:39",
+    "created_at": "Sat Oct 24 14:39:35 +0000 2026",
+    "id_str": "2114003877813178562",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge ListenHub怎么模型又改了，gpt以前同样素材生成一张图4积分，现在55积分，Seedream 5.0 Pro也不是无审查了，这怎么用",
+    "quoted_tweet": null,
+    "url": "https://x.com/cestlavie_veux/status/2114006707059966103",
+    "time": "2026-10-24 22:50",
+    "created_at": "Sat Oct 24 14:50:49 +0000 2026",
+    "id_str": "2114006707059966103",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@cestlavie_veux 4积分的稳定性升级中\n是不是选了高质量，那个比较贵\nsd 没改过啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114007318551749055",
+    "time": "2026-10-24 22:53",
+    "created_at": "Sat Oct 24 14:53:15 +0000 2026",
+    "id_str": "2114007318551749055",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "可能今年都没有模型能在性价比方便打赢 ds flash 了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114007530280260010",
+    "time": "2026-10-24 22:54",
+    "created_at": "Sat Oct 24 14:54:06 +0000 2026",
+    "id_str": "2114007530280260010",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 参考图2张低质量1k也51积分🥲要更换高等级订阅么，sd从昨天开始生成啥都失败，旧的提示词一字不改以前没问题，现在也是失败",
+    "quoted_tweet": null,
+    "url": "https://x.com/cestlavie_veux/status/2114008406126375259",
+    "time": "2026-10-24 22:57",
+    "created_at": "Sat Oct 24 14:57:35 +0000 2026",
+    "id_str": "2114008406126375259",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 那个大锤就算了吧，放一起有点太扯了，拿豆包跟 SOTA 放一起比没意义。",
+    "quoted_tweet": null,
+    "url": "https://x.com/DesignPTPW/status/2114008845479723315",
+    "time": "2026-10-24 22:59",
+    "created_at": "Sat Oct 24 14:59:19 +0000 2026",
+    "id_str": "2114008845479723315",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@cestlavie_veux 我们查一下",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114010488325775483",
+    "time": "2026-10-24 23:05",
+    "created_at": "Sat Oct 24 15:05:51 +0000 2026",
+    "id_str": "2114010488325775483",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@DesignPTPW 都不能提了吗 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114011270819234053",
+    "time": "2026-10-24 23:08",
+    "created_at": "Sat Oct 24 15:08:58 +0000 2026",
+    "id_str": "2114011270819234053",
+    "is_retweet": false
   }
 ]
