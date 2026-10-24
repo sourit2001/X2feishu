@@ -694,5 +694,53 @@
     "created_at": "Sat Oct 24 23:36:29 +0000 2026",
     "id_str": "2114138992992203082",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You pay Anthropic $200 a month. SemiAnalysis says you get up to $11,700 of API value back.\n\nThat gap is why your limits keep moving.\n\nThis week they compared two Claude Max accounts, same day, same model:\n→ One got about 20% more per 5-hour window\n→ But about 20% less per week\n→ Roughly $11,700 vs $9,400 of monthly API value\n\nThey call it an A/B test on some accounts. Anthropic hasn't commented.\n\nMy take: flat-rate AI plans are a subsidy, and subsidies shrink. Every lab is selling way more compute than $200 buys at API prices. Expect limits to keep tightening, quietly.\n\nSo the skill that matters now isn't finding a bigger plan. It's burning less per task.\n\nWhere usage actually goes:\n1. Long threads. Every message resends the whole chat. New task, new chat.\n2. Round trips. Each follow-up resends everything above it. Put all your context in the first message.\n3. The wrong model. Simple tasks don't need Opus.\n4. Max effort by default. For routine work it mostly buys you longer answers.\n5. Fluff. Recaps and preambles are tokens too.\n\nThe prompt I start every bigger task with:\n\n\"Before you start:\n1. Plan the whole task in 5 lines.\n2. Ask every question you need now, in one message.\n3. Then do it in one pass.\nNo preamble, no recap, no restating my request.\nIf something's unclear later, make a reasonable assumption and list it at the end.\"\n\nSemiAnalysis' original thread: http://x.com/SemiAnalysis_/status/2113383965784502444",
+    "quoted_tweet": {
+      "author": "SemiAnalysis",
+      "username": "SemiAnalysis_",
+      "text": "🚨🚨ALERT: ANTHROPIC IS A/B TESTING USAGE LIMITS\n\nMany users on X are reporting LOWER usage limits right now. THEY ARE NOT WRONG. We detected an A/B test going on that DECREASES your monthly API-value by ~20% while INCREASING your 5h usage limits by ~20%. This only affects SOME accounts. (1/2)🧵"
+    },
+    "url": "https://x.com/godofprompt/status/2114133837886448023",
+    "time": "2026-10-25 07:16",
+    "created_at": "Sat Oct 24 23:16:00 +0000 2026",
+    "id_str": "2114133837886448023",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux oops you misspelled muse",
+    "quoted_tweet": null,
+    "url": "https://x.com/alexandr_wang/status/2114091409485828200",
+    "time": "2026-10-25 04:27",
+    "created_at": "Sat Oct 24 20:27:24 +0000 2026",
+    "id_str": "2114091409485828200",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@alexandr_wang Step 1: Quit posting butts and go buy containers\nStep 2: ???\nStep 3: Celebrate your 12 users",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114125293124542632",
+    "time": "2026-10-25 06:42",
+    "created_at": "Sat Oct 24 22:42:03 +0000 2026",
+    "id_str": "2114125293124542632",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@mitsuhiko I doubt they are on twitter",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114125878804545940",
+    "time": "2026-10-25 06:44",
+    "created_at": "Sat Oct 24 22:44:22 +0000 2026",
+    "id_str": "2114125878804545940",
+    "is_retweet": false
   }
 ]
