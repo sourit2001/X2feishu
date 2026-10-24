@@ -723,5 +723,167 @@
     "created_at": "Sat Oct 24 01:01:22 +0000 2026",
     "id_str": "2113797968134291938",
     "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "目前最顶的开源模型 Kimi K3.1 Pro 发了\n能力非常接近 Astra 和 Opus\n重点增强了现在越来越火的 AI 游戏能力，3D 能力\n周末玩起来",
+    "quoted_tweet": {
+      "author": "Kimi.ai",
+      "username": "Kimi_Moonshot",
+      "text": "Introducing Kimi K3.1 Pro: our most capable 3T-class open-weight model.\n\n🔹 1M-token context, 2.8T total / 104B active params (MoE), Multimodal.\n🔹 Full-project coding: games in Unreal, Unity & Godot.\n🔹 Excels at parametric 3D modeling in Blender & CAD.\n🔹 More reliable at finance work: Accurate modeling with hallucination down by 65%.\n🔹 Matching the strongest proprietary models across coding, agentic and knowledge benchmarks.\n\nKimi K3.1 Pro and K3.1 Pro Highspeed (2–3× faster) are now live on http://Kimi.ai, Kimi Work, Kimi Code, and the Kimi API.  \n\nOpen weights by Nov 4, 2026.\n\n🔗 API: http://platform.kimi.ai \n🔗 Tech blog: http://kimi.ai/blog/kimi-k3-1-pro"
+    },
+    "url": "https://x.com/oran_ge/status/2113760626069868588",
+    "time": "2026-10-24 06:32",
+    "created_at": "Fri Oct 23 22:32:59 +0000 2026",
+    "id_str": "2113760626069868588",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "美国的 AI 裁员潮：\n\n*美国运通将裁减 5% 的职位，约 3,500 名员工\n\n*巴克莱将裁减 5,000 个职位，因为 AI 开始创造效率\n\n*eBay 确认裁减约 9% 的职位\n\n*Netflix 将裁减全球员工 6%，约 1,000 个职位：WSJ",
+    "quoted_tweet": {
+      "author": "zerohedge",
+      "username": "zerohedge",
+      "text": "The AI layoffs are here: \n\n*AMERICAN EXPRESS TO CUT 5% OF JOBS, ABOUT 3,500 EMPLOYEES\n\n*BARCLAYS TO CUT 5,000 JOBS AS AI STARTS CREATING EFFICIENCY\n\n*EBAY CONFIRMS JOB CUTS OF ABOUT 9%\n\n*NETFLIX TO LAY OFF 6% OF GLOBAL STAFF, OR ABOUT 1,000 JOBS: WSJ"
+    },
+    "url": "https://x.com/oran_ge/status/2113766250178592993",
+    "time": "2026-10-24 06:55",
+    "created_at": "Fri Oct 23 22:55:20 +0000 2026",
+    "id_str": "2113766250178592993",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This was my first attempt at editing a video 100% without something like Davinci Resolve. This one was with Claude Code. I recorded the a-roll of me talking and it sourced the b-roll, timed it with me talking, split the top and bottom, and added the subtitles.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113785431917760952",
+    "time": "2026-10-24 08:11",
+    "created_at": "Sat Oct 24 00:11:33 +0000 2026",
+    "id_str": "2113785431917760952",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow Ayyy nice! Just needs some background music 😌",
+    "quoted_tweet": null,
+    "url": "https://x.com/The_Alex/status/2113788167426015743",
+    "time": "2026-10-24 08:22",
+    "created_at": "Sat Oct 24 00:22:26 +0000 2026",
+    "id_str": "2113788167426015743",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow Nice. What made the biggest difference on my Shorts: have it measure the music's loudness onsets with ffmpeg and land the big moments on those. Cuts start feeling edited instead of placed lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/RandyNorthrup/status/2113790140133060714",
+    "time": "2026-10-24 08:30",
+    "created_at": "Sat Oct 24 00:30:16 +0000 2026",
+    "id_str": "2113790140133060714",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@The_Alex I debated. Most of my other shorts don't have background music. But I do think it would probably improve them. Next round!",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113790437702201512",
+    "time": "2026-10-24 08:31",
+    "created_at": "Sat Oct 24 00:31:27 +0000 2026",
+    "id_str": "2113790437702201512",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@RandyNorthrup I'll have it add music to the next one I do.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113790774706086345",
+    "time": "2026-10-24 08:32",
+    "created_at": "Sat Oct 24 00:32:47 +0000 2026",
+    "id_str": "2113790774706086345",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "The coolest thing is that, every little suggestion and fix I told it to make, it kept going back and updating the original skill it created. So now, future edits, should require way less back and forth. And it'll get smoother with each new video.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113791169637634318",
+    "time": "2026-10-24 08:34",
+    "created_at": "Sat Oct 24 00:34:21 +0000 2026",
+    "id_str": "2113791169637634318",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow Use opus to make a chill drum break. Makes for perfect short songs",
+    "quoted_tweet": null,
+    "url": "https://x.com/The_Alex/status/2113791385430348240",
+    "time": "2026-10-24 08:35",
+    "created_at": "Sat Oct 24 00:35:13 +0000 2026",
+    "id_str": "2113791385430348240",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@The_Alex Opus will make the drum beat directly? I tied mine to the ElevenLabs MCP to generate music that way. But if I can skip another middle-man, even better. :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2113791779690729623",
+    "time": "2026-10-24 08:36",
+    "created_at": "Sat Oct 24 00:36:47 +0000 2026",
+    "id_str": "2113791779690729623",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Agents working in tandem. What could go wrong?\n\n✅ Space datacenters\n✅ Kardashev scale\n✅ Dyson spheres\n\nWe put your mascots in orbit. Keeping them alive is your problem.\n\n@thsottiaux @bcherny @alexandr_wang @poteto",
+    "quoted_tweet": null,
+    "url": "https://x.com/playdropai/status/2113762326428152110",
+    "time": "2026-10-24 06:39",
+    "created_at": "Fri Oct 23 22:39:45 +0000 2026",
+    "id_str": "2113762326428152110",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 19/ Small updates. Calls connect much faster for dots, changing reasoning in codex & work mid conversation does not invalidate cache anymore and a we've also updated the codex cli.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2113770573994299544",
+    "time": "2026-10-24 07:12",
+    "created_at": "Fri Oct 23 23:12:31 +0000 2026",
+    "id_str": "2113770573994299544",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "On codex cli updates. We've added reusable prompt presets, inline model and permission settings, and enterprise MCP sign-in. We've also fixed failures when resuming long sessions and added Windows corporate-proxy authentication.\n\nSurprisingly the CLI has grown 2X in usage since devday.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2113770862860222611",
+    "time": "2026-10-24 07:13",
+    "created_at": "Fri Oct 23 23:13:40 +0000 2026",
+    "id_str": "2113770862860222611",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@playdropai @bcherny @alexandr_wang @poteto Fun game",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2113771215433392478",
+    "time": "2026-10-24 07:15",
+    "created_at": "Fri Oct 23 23:15:04 +0000 2026",
+    "id_str": "2113771215433392478",
+    "is_retweet": false
   }
 ]
