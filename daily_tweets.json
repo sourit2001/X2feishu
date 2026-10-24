@@ -179,5 +179,94 @@
     "created_at": "Sat Oct 24 18:17:51 +0000 2026",
     "id_str": "2114058804929479045",
     "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "AlphaGo and coding agents need reasoning, so does robotics, which is arguably orders of magnitude harder. But what is the right representation to perform reasoning?\n\nExcited to introduce DreamCan, led by @GChongkai ! DreamCan performs sparse visual planning, reasoning over sparse visual frames that are both **reachable** by the robot and **makes progress** towards the task goal, and it can learn this capability from action-free suboptimal videos!\n\nCheck out Chongkai’s post for more details 🧵⬇️",
+    "quoted_tweet": {
+      "author": "Chongkai Gao",
+      "username": "GChongkai",
+      "text": "🤖Robots need world models for visual planning, but they don't need to imagine every frame.\n\nIntroducing DreamCan: Sparse Visual Planning for Long-Horizon Robot Manipulation.\n\nProject: https://dreamcan.github.io/\nCode: https://github.com/HeegerGao/DreamCan\nPaper: https://arxiv.org/abs/2610.24981"
+    },
+    "url": "https://x.com/wenlong_huang/status/2113685028664492405",
+    "time": "2026-10-24 01:32",
+    "created_at": "Fri Oct 23 17:32:35 +0000 2026",
+    "id_str": "2113685028664492405",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "「君子不器」",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "The difference between having a tool and being a tool is subtle these days and it’s easy to accidentally build yourself into being a tool. Don’t be a tool."
+    },
+    "url": "https://x.com/lijigang/status/2113973443020681681",
+    "time": "2026-10-24 20:38",
+    "created_at": "Sat Oct 24 12:38:39 +0000 2026",
+    "id_str": "2113973443020681681",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "「清晰表达」更像是一种道德，而不是风格。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2114038080873398477",
+    "time": "2026-10-25 00:55",
+    "created_at": "Sat Oct 24 16:55:30 +0000 2026",
+    "id_str": "2114038080873398477",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow Awesome! 80 percent of my entire editing flow is now completely done with claude but it took two weeks to nail the skill",
+    "quoted_tweet": null,
+    "url": "https://x.com/MattVidPro/status/2113995987500859489",
+    "time": "2026-10-24 22:08",
+    "created_at": "Sat Oct 24 14:08:14 +0000 2026",
+    "id_str": "2113995987500859489",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This is the second video where I let AI edit the entire thing. I recorded my A-roll, gave it to the Claude, gave it ZERO instructions, and it used the skill from my previous video to edit the whole thing (now with music from ElevenLabs). This was one prompt. And the prompt was me just dragging the A-roll (talking head) video in and giving it a link to Kimi's launch video on YouTube.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2114061786404307119",
+    "time": "2026-10-25 02:29",
+    "created_at": "Sat Oct 24 18:29:41 +0000 2026",
+    "id_str": "2114061786404307119",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Here's attempt #2 (with a different subject matter and music added): https://x.com/mreflow/status/2114061786404307119",
+    "quoted_tweet": {
+      "author": "Matt Wolfe",
+      "username": "mreflow",
+      "text": "This is the second video where I let AI edit the entire thing. I recorded my A-roll, gave it to the Claude, gave it ZERO instructions, and it used the skill from my previous video to edit the whole thing (now with music from ElevenLabs). This was one prompt. And the prompt was me just dragging the A-roll (talking head) video in and giving it a link to Kimi's launch video on YouTube."
+    },
+    "url": "https://x.com/mreflow/status/2114061973919084805",
+    "time": "2026-10-25 02:30",
+    "created_at": "Sat Oct 24 18:30:26 +0000 2026",
+    "id_str": "2114061973919084805",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@MattVidPro Yea. Honing in the skill is the funnest part for me. Each time I make a video, I make a slight improvement and then update the skill. I didn't think we'd get here this quick.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2114062221143838969",
+    "time": "2026-10-25 02:31",
+    "created_at": "Sat Oct 24 18:31:25 +0000 2026",
+    "id_str": "2114062221143838969",
+    "is_retweet": false
   }
 ]
