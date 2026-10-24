@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown How do you start a new claude session remotely on the claude app?",
+    "quoted_tweet": null,
+    "url": "https://x.com/anshnanda/status/2114059655592731019",
+    "time": "2026-10-25 02:21",
+    "created_at": "Sat Oct 24 18:21:13 +0000 2026",
+    "id_str": "2114059655592731019",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Print out papers and read them! \n\nI’ve read 3 papers today and my mind is racing with ideas. I don’t like reading on screens at all. I like paper, and I like writing on them. \n\nThis paper alone made me way more bullish on what Meta is doing with AR. \n\nFast LLMs, plus segment anything, plus AI coding will allow people to create their own visual operating systems. \n\nI’m looking for a company that makes fully open AR glasses that can run any model. Does this exist?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2114079572396306834",
+    "time": "2026-10-25 03:40",
+    "created_at": "Sat Oct 24 19:40:22 +0000 2026",
+    "id_str": "2114079572396306834",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown I’m pretty sure Grok bot can use Opus 5.5\n\nAlso, the VM is critically important, in my mind, as a safety feature. I’ll never give an AI fully blanket access to my actual workstation.",
+    "quoted_tweet": null,
+    "url": "https://x.com/JonKakaley/status/2114088140118090129",
+    "time": "2026-10-25 04:14",
+    "created_at": "Sat Oct 24 20:14:25 +0000 2026",
+    "id_str": "2114088140118090129",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@JonKakaley What does it do?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2114088539558498760",
+    "time": "2026-10-25 04:16",
+    "created_at": "Sat Oct 24 20:16:00 +0000 2026",
+    "id_str": "2114088539558498760",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@anshnanda Projects",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2114089245535240632",
+    "time": "2026-10-25 04:18",
+    "created_at": "Sat Oct 24 20:18:48 +0000 2026",
+    "id_str": "2114089245535240632",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Time to release a paper",
+    "quoted_tweet": null,
+    "url": "https://x.com/Miguel07Code/status/2114091590801318338",
+    "time": "2026-10-25 04:28",
+    "created_at": "Sat Oct 24 20:28:07 +0000 2026",
+    "id_str": "2114091590801318338",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@Miguel07Code You should",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2114094188673335319",
+    "time": "2026-10-25 04:38",
+    "created_at": "Sat Oct 24 20:38:27 +0000 2026",
+    "id_str": "2114094188673335319",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Finally nailed the workflow for AI-generated real estate videos.\n\nThis was a one-shot generation from the new Kling 4 - the first model I've found that retains full consistency from the ref images.\n\nThe key is writing a script in advance, which you can  automate. More 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114094246550786520",
+    "time": "2026-10-25 04:38",
+    "created_at": "Sat Oct 24 20:38:41 +0000 2026",
+    "id_str": "2114094246550786520",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins I dont understand the fact why can’t we fix the audio and performance out of these ai models i mean seedance or kling can really nail anything now but it’s just the voice and the acting that makes it not pass the turing test",
+    "quoted_tweet": null,
+    "url": "https://x.com/pranavclickks/status/2114094636767789292",
+    "time": "2026-10-25 04:40",
+    "created_at": "Sat Oct 24 20:40:14 +0000 2026",
+    "id_str": "2114094636767789292",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I gave GPT-6 Astra the Zillow listing for this house and said I wanted to generate a 30 second walkthrough with a real estate agent. \n\nI asked it pick images to use, write a prompt w/ time stamps, and ensure the audio hit the right parts of the walkthrough. \n\nFinal prompt:\n\nCreate a photorealistic, approximately 30-second real estate tour of 146 Lenox Way, San Francisco, in vertical 9:16. \n\nVISUAL APPROACH \nFilm this as a real camera accompanying a realtor inside the actual property. Each reference photograph establishes the appearance of its location.  The presenter must inhabit the room at believable human scale, with perspective, lighting, shadows, and focus consistent with her surroundings. Position her on the actual floor beside recognizable furniture or architectural features. Where appropriate, nearby furniture should naturally overlap part of her lower body to establish depth.  Use an eye-level camera. In presenter shots, frame her approximately mid-thigh upward, with her eyes near the upper third of the screen. Keep her head comfortably below the top edge. Balance her with the feature she describes.  Avoid the appearance of a small presenter placed along the bottom of a background image. Avoid excessive empty ceiling, sky, or floor.  Use subtle, physical camera movement: a short sideways track or gentle movement toward the presenter, with natural changes in perspective between foreground and background. Do not animate the reference photographs as slides or use digital zooms on still images.  Preserve the property’s visible architecture, finishes, furniture, and room proportions. Select a believable vertical camera composition without stretching the room or inventing additional space. \n\n PRESENTER AND SOUND \nUse the same young adult Asian female realtor throughout: natural appearance, dark hair, beige suit, white top. Maintain her identity, clothing, and conversational voice.  \n\nShe appears and speaks with accurate lip-sync in shots 1, 2, 3, 4, 6, and 7. SHOT 5 IS THE EXCEPTION: show only the bedroom and bathroom interiors. The realtor continues speaking as voiceover. No person appears in these three interior views.  Use only the exact dialogue below. No music or added dialogue. Let each sentence finish before the next spoken line begins.  \n\nSHOT 1 — EXTERIOR — approximately 0:00–0:07 \nUse IMAGE 1 as reference. The realtor stands beside the front steps, correctly scaled to the railing and entrance. Frame her mid-thigh upward, eyes near the upper third, with the recognizable facade behind her. She welcomes the viewer with a small natural gesture. The camera gently approaches.  She says: “Welcome to 146 Lenox Way—fourteen hundred square feet of West Portal charm.”  Pronounce 146 as “one forty-six.”  \n\nSHOT 2 — LIVING ROOM — approximately 0:07–0:11 \nUse Image 2 as reference. The realtor stands beside the seating area, physically within the room. Frame her and the built-ins together. She turns slightly toward the built-ins, gestures, and looks back to camera. Make a short sideways camera move. She says: “The living room features beautiful custom built-ins…”  \n\nSHOT 3 — DINING ROOM — approximately 0:11–0:14 \nUse Image 3 as reference. The realtor stands beside the dining table at believable scale. The table edge occupies part of the foreground, establishing depth. She addresses the camera as it moves gently sideways. She says: “…and opens into a formal dining room.” \n\n SHOT 4 — KITCHEN — approximately 0:14–0:17 \nUse Image 4 as reference. Place the realtor in the existing open floor area beside the counter. Frame her upper body and the kitchen together. She gestures naturally toward the kitchen. Preserve the actual layout; do not merge separate reference photographs into a fabricated room. She says: “The kitchen has a breakfast nook nearby.”  \n\nSHOT 5 — BEDROOM AND BATHROOM CUTAWAYS — approximately 0:17–0:21\nUse Image 5, 6, and 7 as reference. Show each space without any presenter or other person. Use three brief, cleanly cut interior views with subtle camera movement. Preserve each room’s separate identity and layout. No dissolves or transformations between rooms. The realtor’s same voice continues OFF CAMERA: “Three bedrooms and two baths, all on one level.”  \n\nSHOT 6 — DOWNSTAIRS FLEX ROOM — approximately 0:21–0:25\nUse Image 7 as reference. The realtor returns on camera, standing beside the seating area at realistic scale. Frame her mid-thigh upward. Preserve the actual ceiling height and exposed features. Make a gentle sideways camera move; do not invent a garage view. She says: “Downstairs, a two-car garage and flexible bonus space.”  \n\nSHOT 7 — BACKYARD — approximately 0:25–0:30 \nUse Image 8 as reference. The realtor stands on the paved area with the garden behind her. Frame her mid-thigh upward, eyes near the upper third. She gestures toward the yard, then addresses the viewer directly as the camera gently approaches. She says: “A flat, fenced backyard for entertaining. Come tour today!” Finish on her natural smile in the backyard.",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114096017595666458",
+    "time": "2026-10-25 04:45",
+    "created_at": "Sat Oct 24 20:45:43 +0000 2026",
+    "id_str": "2114096017595666458",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@pranavclickks Yeah so one way I could've gotten a better voice is generating the full audio track with Eleven v4 instead and then uploading it to Kling as as an audio reference. \n\nBut I wanted to test the model's built-in speech capabilities!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114096267467116885",
+    "time": "2026-10-25 04:46",
+    "created_at": "Sat Oct 24 20:46:42 +0000 2026",
+    "id_str": "2114096267467116885",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins this looks great! one of these days you should make a compilation of your real estate videos to show the progression as technology has improved. the quality (visuals, audio, editing) is really astonishing now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thesoragirls/status/2114097129019031592",
+    "time": "2026-10-25 04:50",
+    "created_at": "Sat Oct 24 20:50:08 +0000 2026",
+    "id_str": "2114097129019031592",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@thesoragirls Yep great point!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114097417532617048",
+    "time": "2026-10-25 04:51",
+    "created_at": "Sat Oct 24 20:51:17 +0000 2026",
+    "id_str": "2114097417532617048",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Also here's the listing.\n\nThe model just had the listing photos as references (I uploaded eight), so it had to generate what the realtor would look like in each scene.\n\nI was shocked it nailed details like the weird lighting fixture in the dining room!\n\nhttps://www.zillow.com/homedetails/146-Lenox-Way-San-Francisco-CA-94127/15133836_zpid/",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114098803636928904",
+    "time": "2026-10-25 04:56",
+    "created_at": "Sat Oct 24 20:56:47 +0000 2026",
+    "id_str": "2114098803636928904",
+    "is_retweet": false
+  }
+]
