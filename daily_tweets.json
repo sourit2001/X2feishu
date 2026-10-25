@@ -1034,5 +1034,618 @@
     "created_at": "Sun Oct 25 20:55:03 +0000 2026",
     "id_str": "2114460753529049466",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Alex Gibney’s 4 hour long movie about Elon Musk has been pulled from theaters within two weeks of release after flopping hard",
+    "quoted_tweet": null,
+    "url": "https://x.com/wholemars/status/2114378322012774805",
+    "time": "2026-10-25 23:27",
+    "created_at": "Sun Oct 25 15:27:29 +0000 2026",
+    "id_str": "2114378322012774805",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wholemars The majority have no problem with Elon. Just a small, but very vocal, group.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Moke1966758/status/2114387471106441432",
+    "time": "2026-10-26 00:03",
+    "created_at": "Sun Oct 25 16:03:51 +0000 2026",
+    "id_str": "2114387471106441432",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "As someone with a portfolio of energized land assets here is what I am seeing:\n\n1. Neoclouds are disorganized and poorly capitalized. Some are definitely better than others however. \n\n2. Hyperscalers are intractable, bureaucratic organizations that take 3 months to do an NDA and want 18mo escrow periods. We built our portfolio by competing against these terms because of our speed and simplicity. The more future assets orgs like ours win, the bigger the problem for the hyperscalers downstream (see 3). \n\n3. There are delays in the existing pipeline that will catch people off guard in 2027. Hyperacalers will (obviously) react by focusing on their own internal compute needs over any third party. If the third party is a model company, they will tell them to go through their model router where they will also take a non-trivial vig. Them telling Ant they have no compute for them (rumored in Ant’s S-1) if true is a huge tell that this is already happening. \n\nAll of this is to say that it does look like there will be a lot of partially stranded compute and compute sitting in inventory in 2027 than is currently forecasted. This is bought and paid for but effectively underearning (below total cost of capital) or collecting dust. We see this as true for everyone - model companies, hyperscalers, neoclouds except ONE (you can guess which one). \n\nThis dislocation will benefit two kinds of orgs: the non-bureaucratic big scalers who can build industrial scale quickly and the nimble, well capitalized players feeding them. \n\n2027 will be a turbulent year because it will clear out a bunch of wrong/bad bets. It will also be a consolidation year for a few.",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@Yuchenj_UW I think we’re going to see a lot of stranded compute in partially complete data centers"
+    },
+    "url": "https://x.com/chamath/status/2114389987563381004",
+    "time": "2026-10-26 00:13",
+    "created_at": "Sun Oct 25 16:13:51 +0000 2026",
+    "id_str": "2114389987563381004",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Elon Musk warned about this before. He was right then, and he’s right today. Ukraine needs a new leader.\n\nThe flower of Ukrainian and Russian youth is being lost to war. It’s time to stop the killing.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2114405828610633776",
+    "time": "2026-10-26 01:16",
+    "created_at": "Sun Oct 25 17:16:47 +0000 2026",
+    "id_str": "2114405828610633776",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Lmao, Gibney assembled the Avengers of people with personal vendettas against Elon Musk, had them push some of the most deranged conspiracy theories imaginable for the runtime of The Return of the King: Extended Edition, and called it a documentary.\n\nThe only surprising thing about its spectacular failure is that anyone expected a different outcome. 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dogeofficialceo/status/2114405842804240727",
+    "time": "2026-10-26 01:16",
+    "created_at": "Sun Oct 25 17:16:51 +0000 2026",
+    "id_str": "2114405842804240727",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This update to Grok Bot with integrated calling is spectacular!\n\nI have dozens of clients and myself that use this daily with an external MPC. But with version 0.77 we will have this integrated!\n\nGrok Bot get better just about daily!\n\nLook for a whole slew of Grok Bots I will release that will make calls.\n\nSome never seen before.\n\nStuff only Grok Bot can do.",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Grok @Bot can now call someone or a business for you, make a request on your behalf, take notes on the response and send you a note summarizing the conversation!"
+    },
+    "url": "https://x.com/BrianRoemmele/status/2114414165704270261",
+    "time": "2026-10-26 01:49",
+    "created_at": "Sun Oct 25 17:49:55 +0000 2026",
+    "id_str": "2114414165704270261",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I spend a lot of hours on the road in my Cybertruck, and my Grok Bot already runs most of my life: travel, email, research, investment management, the works.\n\nI can use it from my phone in the car, but that's where the confusion starts. I end up with two Groks running at once, the one built into the car and my own Grok Bot on the phone, and they don't know about each other.\n\nWhat I want is one Grok Bot that handles both the car and my business, with the same memory and tools wherever I am. I'd love for the car to already know the trip I planned with my Grok Bot, the stops, the chargers and the hotels, so it picks up right where we left off.\n\n@grok, any chance this is on the roadmap?",
+    "quoted_tweet": null,
+    "url": "https://x.com/TeslaLarry/status/2114414988291195282",
+    "time": "2026-10-26 01:53",
+    "created_at": "Sun Oct 25 17:53:11 +0000 2026",
+    "id_str": "2114414988291195282",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The Associated Press is now purposefully misleading their readers. \n\nThis fake news is also leading the top of Apple News. \n\nThese drones were connected to Starlink, a commercial service.",
+    "quoted_tweet": {
+      "author": "John M. Donnelly",
+      "username": "johnmdonnelly",
+      "text": "Ukraine disputes Elon Musk's claim that its military violated Starlink's terms of service\nhttps://apnews.com/article/ukraine-russia-war-starlink-musk-satellite-connectivity-0c6e685ee4637529ec64c1d6a902cc94?utm_source=app&utm_medium=iOS_share&utm_campaign=x"
+    },
+    "url": "https://x.com/KatieMiller/status/2114425979234111605",
+    "time": "2026-10-26 02:36",
+    "created_at": "Sun Oct 25 18:36:52 +0000 2026",
+    "id_str": "2114425979234111605",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Pretty much. \n\nAs of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. \n\nSpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink & launch revenue.\n\nThat means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114434646914068862",
+    "time": "2026-10-26 03:11",
+    "created_at": "Sun Oct 25 19:11:18 +0000 2026",
+    "id_str": "2114434646914068862",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink’s Acceptable Use Policy explicitly prohibits remotely controlling drones.\n\nZelensky himself acknowledged using Starlink for mid-range strikes.\n\nElon is right: Ukraine’s military violated those terms by using the Starlink system for offensive drone strikes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2114435612858356011",
+    "time": "2026-10-26 03:15",
+    "created_at": "Sun Oct 25 19:15:09 +0000 2026",
+    "id_str": "2114435612858356011",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Elon confirms that SpaceX has closed a new $40B debt raise to fund GPU purchases/compute buildout.\n\nSpaceX said on its recent earnings call that it expects Q4 2026 Capex spend to be between $35 billion–$40 billion.",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Pretty much. \n\nAs of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. \n\nSpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink & launch revenue.\n\nThat means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many."
+    },
+    "url": "https://x.com/SawyerMerritt/status/2114441129135583616",
+    "time": "2026-10-26 03:37",
+    "created_at": "Sun Oct 25 19:37:04 +0000 2026",
+    "id_str": "2114441129135583616",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "And still it continues …",
+    "quoted_tweet": {
+      "author": "DogeDesigner",
+      "username": "cb_doge",
+      "text": "Elon Musk’s message today is the same one he shared 3 years ago. He wants peace and an end to the killing.\n\n“The reason I proposed some sort of peace a year ago was because I predicted pretty much exactly what would happen, which is a lot of people dying for basically almost no changes in land. \n\nAnd the loss of the flower of Ukrainian and Russian youth, and we should have some sympathy for the Russian boys as well as the Ukrainian boys, because the Russian boys didn’t ask to be on their front line, they have to be. So, there’s a lot of sons not coming back to their parents, and I think most of them don’t really have, they don’t hate the other side. It’s like young boys who don’t know each other killing each other on behalf of old men that do know each other.”"
+    },
+    "url": "https://x.com/elonmusk/status/2114442930891206870",
+    "time": "2026-10-26 03:44",
+    "created_at": "Sun Oct 25 19:44:13 +0000 2026",
+    "id_str": "2114442930891206870",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@KatieMiller AP stands for Associated Propaganda",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114443149997482458",
+    "time": "2026-10-26 03:45",
+    "created_at": "Sun Oct 25 19:45:06 +0000 2026",
+    "id_str": "2114443149997482458",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@Moke1966758 @wholemars Yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114443262786191753",
+    "time": "2026-10-26 03:45",
+    "created_at": "Sun Oct 25 19:45:32 +0000 2026",
+    "id_str": "2114443262786191753",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wholemars Go woke, go broke (yet again)",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114443365743767802",
+    "time": "2026-10-26 03:45",
+    "created_at": "Sun Oct 25 19:45:57 +0000 2026",
+    "id_str": "2114443365743767802",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@dogeofficialceo 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114443414616064009",
+    "time": "2026-10-26 03:46",
+    "created_at": "Sun Oct 25 19:46:09 +0000 2026",
+    "id_str": "2114443414616064009",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@SawyerMerritt This is primarily callable debt for GPU purchases that will arrive in Q1 and Q2. Not a major factor this quarter.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114444535036321840",
+    "time": "2026-10-26 03:50",
+    "created_at": "Sun Oct 25 19:50:36 +0000 2026",
+    "id_str": "2114444535036321840",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ClownWorld Same",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114445516738322456",
+    "time": "2026-10-26 03:54",
+    "created_at": "Sun Oct 25 19:54:30 +0000 2026",
+    "id_str": "2114445516738322456",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@StephenKing Your mental model outside of short-sighted tribalism is pathetically stupid",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114446098257338633",
+    "time": "2026-10-26 03:56",
+    "created_at": "Sun Oct 25 19:56:48 +0000 2026",
+    "id_str": "2114446098257338633",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Neoclouds: Full Context on Financing\n\nTalking to @liamdaltonjr who has strong network on Wall Street, debt markets have only shut off for unsecured GPUs. What @elonmusk says is not true for hyperscaler backed bare metal deals or investment grade equivalent. \n\nThis is aggressive book talking by omitting full context.",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Pretty much. \n\nAs of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. \n\nSpaceX closed $40B of debt for GPUs, but we’re investment grade and have Starlink & launch revenue.\n\nThat means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many."
+    },
+    "url": "https://x.com/jiahanjimliu/status/2114447388295544861",
+    "time": "2026-10-26 04:01",
+    "created_at": "Sun Oct 25 20:01:56 +0000 2026",
+    "id_str": "2114447388295544861",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@GillesCapital @liamdaltonjr @elonmusk Yes he's trying to drive all of them down so some of them will accept buyouts.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jiahanjimliu/status/2114452499608551797",
+    "time": "2026-10-26 04:22",
+    "created_at": "Sun Oct 25 20:22:15 +0000 2026",
+    "id_str": "2114452499608551797",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@colossalmeiraz Not bad",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114453108155953606",
+    "time": "2026-10-26 04:24",
+    "created_at": "Sun Oct 25 20:24:40 +0000 2026",
+    "id_str": "2114453108155953606",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "No ID is required to vote in New York State or California",
+    "quoted_tweet": {
+      "author": "Maye Musk",
+      "username": "mayemusk",
+      "text": "This morning I voted in NYC. No ID. No lines. Very quick."
+    },
+    "url": "https://x.com/elonmusk/status/2114455152136745221",
+    "time": "2026-10-26 04:32",
+    "created_at": "Sun Oct 25 20:32:47 +0000 2026",
+    "id_str": "2114455152136745221",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@thedimitri 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114455590449606667",
+    "time": "2026-10-26 04:34",
+    "created_at": "Sun Oct 25 20:34:32 +0000 2026",
+    "id_str": "2114455590449606667",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@TeslaLarry Log in to the car with your main Grok Bot?",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114455876761219249",
+    "time": "2026-10-26 04:35",
+    "created_at": "Sun Oct 25 20:35:40 +0000 2026",
+    "id_str": "2114455876761219249",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Talarico is a FAR LEFT extremist",
+    "quoted_tweet": {
+      "author": "Gunther Eagleman™",
+      "username": "GuntherEagleman",
+      "text": "🚨 CAUGHT: James Talarico got hit with a Daily Wire hidden camera, and he admitted his TRANSGENDER policies have NOT changed.\n\nJust days after telling Fox News he would oppose biological males in girls’ sports when safety or fairness is at risk, he told a supposed supporter the opposite.\n\n“The way I fought for transgender kids in the legislature is how I will fight for them in the U.S. Senate.”\n\n“My position hasn’t changed.”\n\nHe even bragged about having “the most inclusive policy” of any candidate running.\n\nTexas sees the game.\n\nVOTE PAXTON."
+    },
+    "url": "https://x.com/elonmusk/status/2114461409811816467",
+    "time": "2026-10-26 04:57",
+    "created_at": "Sun Oct 25 20:57:39 +0000 2026",
+    "id_str": "2114461409811816467",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@jiahanjimliu @liamdaltonjr 😑",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114461905225978238",
+    "time": "2026-10-26 04:59",
+    "created_at": "Sun Oct 25 20:59:37 +0000 2026",
+    "id_str": "2114461905225978238",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@jiahanjimliu @GillesCapital @liamdaltonjr SpaceX is not buying any neoclouds. Pointless.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114462416721633501",
+    "time": "2026-10-26 05:01",
+    "created_at": "Sun Oct 25 21:01:39 +0000 2026",
+    "id_str": "2114462416721633501",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Good questions",
+    "quoted_tweet": {
+      "author": "X Freeze",
+      "username": "XFreeze",
+      "text": "How come Elon Musk is the only one seriously talking about all these young people dying in the trenches for no reason and begging for this war to stop? Innocent young Ukrainians and Russian conscripts are getting blown apart by drones, losing their lives\n\nAnd then you look at Europe. What do you only keep hearing from so many European leaders? More weapons, more ammunition, more military support. “We cannot let Russia win”\n\nYou almost never hear them seriously talking about how to bring peace and end this war for good\n\nWhy the hell aren't those same leaders putting that much energy into figuring out how to stop this meat grinder?\n\nWhat are these leaders actually doing to stop young people from dying every single day? What are they doing to end this endless slaughter? Why aren't they putting the same urgency into finding a way to end this war instead of constantly talking about sending more weapons and how they should continue this war forever?\n\nThese are human beings. They have parents, families, loved ones, and entire lives ahead of them. And they're dying in trenches because of decisions made by people who will never have to experience what those young soldiers are going through\n\nAnd that includes the poor Russian conscripts who have no choice but to fight. They're human beings too. Their lives matter too\n\nHow many more young people need to die before stopping this war becomes just as important as deciding who wins it?\n\nWhy does it take Elon Musk to keep reminding people about the human lives being destroyed by this war?\n\nSeriously, where the hell is the urgency to stop all this killing? everyone who wants to continue this war is pure evil"
+    },
+    "url": "https://x.com/elonmusk/status/2114471229994520809",
+    "time": "2026-10-26 05:36",
+    "created_at": "Sun Oct 25 21:36:40 +0000 2026",
+    "id_str": "2114471229994520809",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "If you've ever wondered why smart TVs are so cheap, this is why.\n\n@log4j rooted his Samsung and found an always-on hot mic, automatic content recognition, geolocation, network mapping, ad targeting and user profiling, shared with Samsung's \"400 partners\".\n\nA lot of it can be blocked in <15 min, wrote a basic guide below.\n\nWhat your TV is doing\n\nThe main culprit is ACR (automatic content recognition). Your TV screenshots what's on screen, fingerprints it, and sends it home to build your ad profile. Samsung does it every 500ms, LG every 10ms [1].\n\nWhat is insane: it happens on connected devices too.\nPlug in your laptop, your console, your work machine, and your TV can fingerprint that via HDMI [1].\nHe also found that if your Samsung doesn't have a mic, it'll look for one from a connected soundbar or bluetooth device.\nhttps://x.com/log4j/status/2113762242327892456?s=20\nIt's on by default, and you likely agreed to it on the setup screen you clicked through in 10 seconds.\n\nStep 1: Turn off ACR\n\nSamsung: Terms & Privacy → Viewing Information Services\nLG: Live Plus\nVizio: Viewing Data\nRoku: \"Use info from TV inputs\"\nSony/Google TV: Samba Interactive TV\n\nMenus vary by model, but those are the names to look for. While you're in there, opt out of interest-based ads, reset your advertising ID, decline every optional privacy agreement, turn off voice recognition, and delete apps you never open.\n\nStep 2: Give smart devices their own network\n\nPut the TV, cameras, speakers and vacuum on your router's guest/IoT network. The logic is simple: these devices rarely get patched. If one gets compromised (getting drastically more frequent with AI), it shouldn't be able to see your other devices or home network.\n\nStep 3: Block trackers for the whole house with DNS-level filtering\n\nNextDNS (cloud-based) is easy and has a solid free plan. Pi-hole is a little bit more work if you prefer self hosting. For simplicity we'll focus on the former.\n\n1. Sign up at http://nextdns.io (free tier is plenty)\n2. Privacy tab: add a blocklist (OISD is a good bet) and turn on Native Tracking Protection for Samsung, LG, Roku, Amazon (see attached image)\n3. Setup tab: copy your endpoint\n4. Paste it into your router's DNS settings as DNS-over-HTTPS/TLS (or use the IPs + \"Link IP\" if your router only does plain DNS)\n5. Bonus: block outbound port 53 except to your router. Some devices hardcode their own DNS to get around you\n\nThen open the NextDNS logs and watch how often your TV phones home. It's eye-opening. If an app or update breaks, find the domain in the logs and allowlist it.\n\nWhy they do this\n\nTV prices are down 97% since 2000 [2]. Most of that is better manufacturing and brutal competition. But once margins on the hardware hit zero, the cost moved to you.\n\nIn Q3 2024, Vizio lost $6.7M selling TVs and made $115.8M in gross profit from ads and viewing data [3]. They've said on earnings calls that they keep TV prices low to grow the audience they sell to advertisers. Walmart bought them in 2024.\n\nThis isn't a conspiracy theory either. Vizio paid $2.2M to the FTC in 2017 for tracking 11 million TVs without consent. Last December, Texas sued Samsung, LG, Sony, Hisense and TCL over ACR. Samsung and LG have since agreed to stop collecting that data without explicit consent [4].\n\nTL;DR\n1. ACR off\n2. Ads + voice off\n3. Smart devices on their own network\n4. NextDNS filtering on the router\n\nSources:\n[1] ACR study: http://arxiv.org/abs/2409.06203\n[2] Cost of US consumer goods: http://aei.org/economics/chart-of-the-day-or-century-8\n[3] Vizio Q3 2024: http://sec.gov/Archives/edgar/data/1835591/000183559124000088/exhibit991-q32024.htm\n[4] Texas v. Samsung: http://texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-major-agreement-samsung-ensure-texans-are-protected-smart-tvs",
+    "quoted_tweet": {
+      "author": "log4j",
+      "username": "log4j",
+      "text": "i own a relatively new (2025) samsung tv.\n\ni kept getting weirdly targeted ads.\n\ni tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.\n\nzero days it is. root shell on new samsung TVs!\n\ndiscovered PRIVACY HORROR. write up?"
+    },
+    "url": "https://x.com/Tristan0x/status/2114311011561812476",
+    "time": "2026-10-25 19:00",
+    "created_at": "Sun Oct 25 11:00:01 +0000 2026",
+    "id_str": "2114311011561812476",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This is wild. I made a video about the cyber security vulnerabilities last week and my whole AI workflow for cutting the videos are failing... Simply because the video is about cyber security. The anthropic models just stop, and \"can't continue\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2114383578104480146",
+    "time": "2026-10-25 23:48",
+    "created_at": "Sun Oct 25 15:48:23 +0000 2026",
+    "id_str": "2114383578104480146",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "You can also go to a public library and have a conversation with a librarian that might help you expand your taste and worldview instead of merely affirming it. They’ll even let you check out the books for free.",
+    "quoted_tweet": {
+      "author": "Justine Moore",
+      "username": "venturetwins",
+      "text": "You can give ChatGPT a photo of an empty bookshelf and ask it to fill the shelves with real books based on what it knows about you.\n\nKinda fun that image gen is so good now!"
+    },
+    "url": "https://x.com/Jacob_Brogan/status/2114327120444899405",
+    "time": "2026-10-25 20:04",
+    "created_at": "Sun Oct 25 12:04:02 +0000 2026",
+    "id_str": "2114327120444899405",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "she’s so tired of generative ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/udiWertheimer/status/2114345584207499373",
+    "time": "2026-10-25 21:17",
+    "created_at": "Sun Oct 25 13:17:24 +0000 2026",
+    "id_str": "2114345584207499373",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Thrilled to announce I'll never be going into a podcast studio again. \n\nThe new Beeble SwitchX 2 model is insanely good at swapping the background and relighting any video 🤯\n\nI've seen it work on much more complex multi-character scenes, will be testing those soon!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114436065885077561",
+    "time": "2026-10-26 03:16",
+    "created_at": "Sun Oct 25 19:16:57 +0000 2026",
+    "id_str": "2114436065885077561",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins shirt changed too. that part is more impressive than the background",
+    "quoted_tweet": null,
+    "url": "https://x.com/serxzsz/status/2114436444634984578",
+    "time": "2026-10-26 03:18",
+    "created_at": "Sun Oct 25 19:18:27 +0000 2026",
+    "id_str": "2114436444634984578",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Both look AI",
+    "quoted_tweet": null,
+    "url": "https://x.com/DoctorYev/status/2114436919723774432",
+    "time": "2026-10-26 03:20",
+    "created_at": "Sun Oct 25 19:20:20 +0000 2026",
+    "id_str": "2114436919723774432",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins does it hold up when you move your hands around or turn your head fast",
+    "quoted_tweet": null,
+    "url": "https://x.com/leononrails/status/2114437149302940024",
+    "time": "2026-10-26 03:21",
+    "created_at": "Sun Oct 25 19:21:15 +0000 2026",
+    "id_str": "2114437149302940024",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@serxzsz Yeah I asked it to put me in white instead",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114437368514302398",
+    "time": "2026-10-26 03:22",
+    "created_at": "Sun Oct 25 19:22:07 +0000 2026",
+    "id_str": "2114437368514302398",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins What software did you use?",
+    "quoted_tweet": null,
+    "url": "https://x.com/TheNFTCPA/status/2114439201160905212",
+    "time": "2026-10-26 03:29",
+    "created_at": "Sun Oct 25 19:29:24 +0000 2026",
+    "id_str": "2114439201160905212",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@DoctorYev Well, the top video is real footage of me from my laptop webcam 🤷‍♀️",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114439317603119430",
+    "time": "2026-10-26 03:29",
+    "created_at": "Sun Oct 25 19:29:52 +0000 2026",
+    "id_str": "2114439317603119430",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@leononrails Yes! @rourke_heath has done much more extensive testing than me, you should check out some of his clips - https://x.com/rourke_heath/status/2099798881374531711?s=46",
+    "quoted_tweet": {
+      "author": "Rourke Heath",
+      "username": "rourke_heath",
+      "text": "Relight your videos with SwitchX2.0 🔥\n\nCheck out Beeble:\nhttps://beeble.ai/?utm_source=youtube&utm_medium=influencer&utm_campaign=switchx2_launch_rourke\n\nBeeble’s AI relighting now runs at 4K, up to 20 seconds, in 10-bit colour, which puts it firmly in production territory rather than test-clip territory. You can reshape the lighting of a scene after it’s filmed and hold onto every bit of detail in the highlights and shadows. Built for filmmakers, editors, and advertisers who need delivery-ready footage. It’s the most production ready AI tool out there imo!\n\nOur mission is to create 100,000 new jobs for creatives, looking to learn and stay ahead in AI? Join GenHQ:\nhttps://join.genhq.io/\n\n#BeebleAI #AIRelighting #4KVideo #AIVideoEditing #creativeai"
+    },
+    "url": "https://x.com/venturetwins/status/2114439779442172240",
+    "time": "2026-10-26 03:31",
+    "created_at": "Sun Oct 25 19:31:42 +0000 2026",
+    "id_str": "2114439779442172240",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@TheNFTCPA Beeble! I don’t think they have an X account but will link the website below.\n\nAnd this isn’t a paid partnership, I just tested out the new model and was super impressed. \n\nhttps://beeble.ai/",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114441158827143208",
+    "time": "2026-10-26 03:37",
+    "created_at": "Sun Oct 25 19:37:11 +0000 2026",
+    "id_str": "2114441158827143208",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins How is this different from using green screen? \nOr is it the fact that you don’t even need the green screen?",
+    "quoted_tweet": null,
+    "url": "https://x.com/teoAI_/status/2114441746255937552",
+    "time": "2026-10-26 03:39",
+    "created_at": "Sun Oct 25 19:39:31 +0000 2026",
+    "id_str": "2114441746255937552",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins @Jacob_Brogan What library in the bay area are you hitting up that isn't part leper colony and part ward for schizophrenics?",
+    "quoted_tweet": null,
+    "url": "https://x.com/ghan_g_loh/status/2114442956790964270",
+    "time": "2026-10-26 03:44",
+    "created_at": "Sun Oct 25 19:44:20 +0000 2026",
+    "id_str": "2114442956790964270",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@udiWertheimer I’m getting genuinely concerned with the rhetoric around AI on Threads. \n\nThey’re whipping themselves into a frenzy in a way that’s totally unproductive and seems mentally damaging. \n\nAnd yet these posts get thousands of comments from people telling her to “keep fighting AI.”",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114445607884706286",
+    "time": "2026-10-26 03:54",
+    "created_at": "Sun Oct 25 19:54:52 +0000 2026",
+    "id_str": "2114445607884706286",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@ghan_g_loh @Jacob_Brogan IMO, Los Altos is probably the best library in the Bay Area. The selection is INSANE. \n\nBut I mostly go to the ones in SF (smaller branches like Noe and Bernal) because I live up here.\n\nHaven’t tried Mill Valley yet but hear amazing things.",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114446820466471082",
+    "time": "2026-10-26 03:59",
+    "created_at": "Sun Oct 25 19:59:41 +0000 2026",
+    "id_str": "2114446820466471082",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@teoAI_ I don’t want to set up a green screen and also you still would have to re-light and create the new background!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114447750456832024",
+    "time": "2026-10-26 04:03",
+    "created_at": "Sun Oct 25 20:03:22 +0000 2026",
+    "id_str": "2114447750456832024",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins I feel like there’s still a slight halo around you or maybe it’s that the lighting on your hair looks different from the background. Super cool though!! I want to check out this tool",
+    "quoted_tweet": null,
+    "url": "https://x.com/TaylorLorenz/status/2114455272517460099",
+    "time": "2026-10-26 04:33",
+    "created_at": "Sun Oct 25 20:33:16 +0000 2026",
+    "id_str": "2114455272517460099",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@TaylorLorenz Fair!! This was literally my first generation on the first shot I tested because I had to leave the house 😅\n\nWill test more later",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114459743716819004",
+    "time": "2026-10-26 04:51",
+    "created_at": "Sun Oct 25 20:51:02 +0000 2026",
+    "id_str": "2114459743716819004",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "So far into the literary crisis that people are bragging about books they havent even read. Congrats you have the most basic interests in existence. Fascinating. Tell me more about what AI thinks you would read if you actually cared about reading.",
+    "quoted_tweet": {
+      "author": "Justine Moore",
+      "username": "venturetwins",
+      "text": "You can give ChatGPT a photo of an empty bookshelf and ask it to fill the shelves with real books based on what it knows about you.\n\nKinda fun that image gen is so good now!"
+    },
+    "url": "https://x.com/Nicole_Lee_Sch/status/2114468509774172441",
+    "time": "2026-10-26 05:25",
+    "created_at": "Sun Oct 25 21:25:52 +0000 2026",
+    "id_str": "2114468509774172441",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@Nicole_Lee_Sch You’re right! I don’t care about reading at all",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2114475379604049969",
+    "time": "2026-10-26 05:53",
+    "created_at": "Sun Oct 25 21:53:10 +0000 2026",
+    "id_str": "2114475379604049969",
+    "is_retweet": false
   }
 ]
