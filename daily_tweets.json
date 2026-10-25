@@ -213,5 +213,42 @@
     "created_at": "Sun Oct 25 10:49:35 +0000 2026",
     "id_str": "2114308386435248404",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 藏老师，可以加一个不保留浏览记录的设置吗，有时候我是真的就即览，不需要记录",
+    "quoted_tweet": null,
+    "url": "https://x.com/yyyhxq/status/2114336268838723834",
+    "time": "2026-10-25 20:40",
+    "created_at": "Sun Oct 25 12:40:23 +0000 2026",
+    "id_str": "2114336268838723834",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yyyhxq 我加一个清除浏览记录呗",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2114359944858472679",
+    "time": "2026-10-25 22:14",
+    "created_at": "Sun Oct 25 14:14:28 +0000 2026",
+    "id_str": "2114359944858472679",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "所以现在已经过度到\n人人都能制作高质量游戏的阶段了吗\n\n当然审美品味已经越来越重要",
+    "quoted_tweet": {
+      "author": "Fork Dev",
+      "username": "ForkedPush",
+      "text": "30 days of Claude Opus 5.5 and 227 commits. Here's what I was able to build."
+    },
+    "url": "https://x.com/xiaohu/status/2114355871719534723",
+    "time": "2026-10-25 21:58",
+    "created_at": "Sun Oct 25 13:58:17 +0000 2026",
+    "id_str": "2114355871719534723",
+    "is_retweet": false
   }
 ]
