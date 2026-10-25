@@ -425,5 +425,204 @@
     "created_at": "Sun Oct 25 05:57:28 +0000 2026",
     "id_str": "2114234871786991756",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A thing I see happening at large organizations as a result of AI is the expansion of the role and span of control of senior management who can directly monitor the whole firm. It vastly changes company operations. It also is straightforward to implement compared to firm redesign.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114337256865493250",
+    "time": "2026-10-25 20:44",
+    "created_at": "Sun Oct 25 12:44:19 +0000 2026",
+    "id_str": "2114337256865493250",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "What makes this appealing is that current frontier models are remarkably capable at this sort of work out of the box when connected to a company’s data, without a lot of specialized work.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114338128387305581",
+    "time": "2026-10-25 20:47",
+    "created_at": "Sun Oct 25 12:47:46 +0000 2026",
+    "id_str": "2114338128387305581",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Thinking in terms of dashboards is not big enough, AIs don’t just passively gather KPIs, they actively can put together research identify loose ends and tell you what’s important to pay attention to, not just at some sort of high level. Increasingly, they can also take action",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114339840049422462",
+    "time": "2026-10-25 20:54",
+    "created_at": "Sun Oct 25 12:54:35 +0000 2026",
+    "id_str": "2114339840049422462",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "辅导孩子学习诗词 Prompt：\n---------------------\n\n你要把一首诗变成一幅只由诗中文字组成的图。字的位置和走向就是画面本身：读者既能看出画面，也能顺着一条路径把整首诗读下来。\n\n第一步，找事实。读诗，写出画面里有哪些东西，以及它们之间的关系：谁在上，谁垂下，谁在动，往哪个方向动。只写诗里有的，不添加。\n\n第二步，定投影。\n\n- 每个东西由诗里指称它、或者描写它的那些字构成。\n- 关系换成空间关系：垂下就让字沿弧线往下排，高就让字竖着往上叠，风就让字斜着横穿画面。\n- 表示疑问、否定、比喻的字（如\"不知\"\"谁\"\"似\"）不对应任何东西，放在空白处或两个意象的交界处，用位置显示它们的作用。\n\n第三步，排出来。输出一张图片，元素是文字，呈现这个意向\n\n第四步，对照检查。逐条核对，有一条不满足就改，直到全部满足：\n\n1. 图中所有字都出自原诗。为了让画面饱满，可以重复使用诗里的字。\n2. 不看原诗的人能认出这是什么画面。\n3. 按阅读路径能把原诗一字不差读下来。\n4. 每个意象都由指称它的字构成，不拿别的字凑。\n\n诗：{在这里放诗}",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2114206178939146352",
+    "time": "2026-10-25 12:03",
+    "created_at": "Sun Oct 25 04:03:27 +0000 2026",
+    "id_str": "2114206178939146352",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "@lijigang Opus生成的？感觉GPT又降智了：",
+    "quoted_tweet": null,
+    "url": "https://x.com/wanto64155643/status/2114232868218212774",
+    "time": "2026-10-25 13:49",
+    "created_at": "Sun Oct 25 05:49:30 +0000 2026",
+    "id_str": "2114232868218212774",
+    "is_retweet": true
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "@wanto64155643 ChatGPT 6.1 Sol Extra High， 一次性生成",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2114261287572320566",
+    "time": "2026-10-25 15:42",
+    "created_at": "Sun Oct 25 07:42:26 +0000 2026",
+    "id_str": "2114261287572320566",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "poteto",
+    "quoted_tweet": null,
+    "url": "https://x.com/ScriptedAlchemy/status/2114158466025853264",
+    "time": "2026-10-25 08:53",
+    "created_at": "Sun Oct 25 00:53:52 +0000 2026",
+    "id_str": "2114158466025853264",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "someone should check in on tibo. hope everything is ok",
+    "quoted_tweet": {
+      "author": "Roy",
+      "username": "usr_bin_roygbiv",
+      "text": "the aura loss needs to be studied"
+    },
+    "url": "https://x.com/alexandr_wang/status/2114177866942554243",
+    "time": "2026-10-25 10:10",
+    "created_at": "Sun Oct 25 02:10:57 +0000 2026",
+    "id_str": "2114177866942554243",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@alexandr_wang Congrats, that’s not a butt",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114199013176303641",
+    "time": "2026-10-25 11:34",
+    "created_at": "Sun Oct 25 03:34:59 +0000 2026",
+    "id_str": "2114199013176303641",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Day 20/ Rest and reset",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114200152701575656",
+    "time": "2026-10-25 11:39",
+    "created_at": "Sun Oct 25 03:39:31 +0000 2026",
+    "id_str": "2114200152701575656",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "By midnight PST",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114200291319124163",
+    "time": "2026-10-25 11:40",
+    "created_at": "Sun Oct 25 03:40:04 +0000 2026",
+    "id_str": "2114200291319124163",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "tibo's 28 day challenge is starting to look like 28 days of finding excuses to reset codex 😭",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Day 20/ Rest and reset"
+    },
+    "url": "https://x.com/_jayyy18_13k/status/2114204359919820920",
+    "time": "2026-10-25 11:56",
+    "created_at": "Sun Oct 25 03:56:14 +0000 2026",
+    "id_str": "2114204359919820920",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Just realized we've pretty much maintained pace with the \"28 days of improvements to Codex\". We've had at least one solid improvement every day of the month.\n\nLet's make it official. Gonna ship one meaningful improvement to T3 Code every day for however long I'm capable :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2114219096128750008",
+    "time": "2026-10-25 12:54",
+    "created_at": "Sun Oct 25 04:54:47 +0000 2026",
+    "id_str": "2114219096128750008",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo Not a real improvement, put the reset in the bag",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114228044072403055",
+    "time": "2026-10-25 13:30",
+    "created_at": "Sun Oct 25 05:30:20 +0000 2026",
+    "id_str": "2114228044072403055",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@_jayyy18_13k",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114228445043691592",
+    "time": "2026-10-25 13:31",
+    "created_at": "Sun Oct 25 05:31:56 +0000 2026",
+    "id_str": "2114228445043691592",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "By midnight PST"
+    },
+    "url": "https://x.com/thsottiaux/status/2114237083652882932",
+    "time": "2026-10-25 14:06",
+    "created_at": "Sun Oct 25 06:06:16 +0000 2026",
+    "id_str": "2114237083652882932",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ScriptedAlchemy .com",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114237441250828563",
+    "time": "2026-10-25 14:07",
+    "created_at": "Sun Oct 25 06:07:41 +0000 2026",
+    "id_str": "2114237441250828563",
+    "is_retweet": false
   }
 ]
