@@ -1,1 +1,396 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Started reading it today! I have a feeling it's going to be packed with just as many great jewels and takeaways as the first one.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DoktorMoose/status/2114409481828270481",
+    "time": "2026-10-26 01:31",
+    "created_at": "Sun Oct 25 17:31:18 +0000 2026",
+    "id_str": "2114409481828270481",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Downloading this today. May considers a book club for this at my company.",
+    "quoted_tweet": null,
+    "url": "https://x.com/eydey/status/2114423375951233161",
+    "time": "2026-10-26 02:26",
+    "created_at": "Sun Oct 25 18:26:31 +0000 2026",
+    "id_str": "2114423375951233161",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@eydey I hope you enjoy!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114442508562313647",
+    "time": "2026-10-26 03:42",
+    "created_at": "Sun Oct 25 19:42:33 +0000 2026",
+    "id_str": "2114442508562313647",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@DoktorMoose Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114442575038017859",
+    "time": "2026-10-26 03:42",
+    "created_at": "Sun Oct 25 19:42:48 +0000 2026",
+    "id_str": "2114442575038017859",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "People ask: “Are you dunking on neolabs?”\n\nMost neolabs will fail. That’s normal. But I believe more AI breakthroughs are coming.\n\nI’m skeptical of those following the same playbook as OpenAI and Anthropic. Raising $1B and spending 50% on GPUs doesn’t make you a $10B company.\n\nI’m rooting for the contrarians. Challenge scaling laws. Challenge transformers. Challenge how models learn. Challenge the next-token prediction paradigm.\n\nMy bigger concern is that brilliant researchers don’t necessarily make great founders. In my experience, researchers often struggle to turn their research into great products / sustainable businesses.",
+    "quoted_tweet": {
+      "author": "Yuchen Jin",
+      "username": "Yuchenj_UW",
+      "text": "Heard from a neolab friend:\n\n“Even if we fail to train the best model, we locked in GPU capacity early. H100/B200/B300 rental prices have since gone up 2–3x. We can just resell the compute and print money.”\n\nOK, so that’s the business model."
+    },
+    "url": "https://x.com/Yuchenj_UW/status/2114402815082913858",
+    "time": "2026-10-26 01:04",
+    "created_at": "Sun Oct 25 17:04:49 +0000 2026",
+    "id_str": "2114402815082913858",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Nanbeige released Nanbeige4.3-33B, a new SOTA open model in the ~30B parameter class. \n\n> \"Nanbeige4.3-33B leads on most of the benchmarks, showing strong performance in both agentic coding and cowork tasks.\"\n\n> The model outperforms Qwen3.8-27B, Muse-Glimmer-30B, and Gemma4-31B on most benchmarks.\n\n> A smaller model, Nanbeige4.3-3B, is also planned for the future.",
+    "quoted_tweet": {
+      "author": "Nanbeige",
+      "username": "nanbeige",
+      "text": "🚀Excited to announce Nanbeige4.3-33B!\nTo push the performance ceiling of small agents, our strategy in Nanbeige4.3 starts with building a powerful teacher first.\nNanbeige4.3-33B delivers SOTA agentic performance among open models at ~30B parameters:\n* Strong results on agentic coding and cowork benchmarks.\n*  When integrated into mainstream agent harnesses, it tackles real-world tasks with cost-efficient inference.\n*  It will serve as a teacher for upcoming smaller Nanbeige models, starting with Nanbeige4.3-3B.\n\n  https://huggingface.co/Nanbeige/Nanbeige4.3-33B\n  https://huggingface.co/Nanbeige/Nanbeige4.3-33B-Base\n\n  #LLM #Agent"
+    },
+    "url": "https://x.com/testingcatalog/status/2114403162027155544",
+    "time": "2026-10-26 01:06",
+    "created_at": "Sun Oct 25 17:06:12 +0000 2026",
+    "id_str": "2114403162027155544",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The website for my book redone with Opus 5.5. The initial version (made with Opus 4.8) required a lot of work to make a distinctive-looking static site. Now Opus mostly did this alone. We have come a long way from generic ClaudeDesign in a very short time. https://co-existence.ai/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114404221021778347",
+    "time": "2026-10-26 01:10",
+    "created_at": "Sun Oct 25 17:10:24 +0000 2026",
+    "id_str": "2114404221021778347",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@emollick opus 4.8 to 5.5 and the purple gradients finally died",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114407500099297688",
+    "time": "2026-10-26 01:23",
+    "created_at": "Sun Oct 25 17:23:26 +0000 2026",
+    "id_str": "2114407500099297688",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@testingcatalog every week a new 30b sota. my ssd is begging me to stop",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114408628920922406",
+    "time": "2026-10-26 01:27",
+    "created_at": "Sun Oct 25 17:27:55 +0000 2026",
+    "id_str": "2114408628920922406",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Yuchenj_UW and the other 50% goes to the launch video",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114409791304933804",
+    "time": "2026-10-26 01:32",
+    "created_at": "Sun Oct 25 17:32:32 +0000 2026",
+    "id_str": "2114409791304933804",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "If you open a restaurant in the suburbs the best way to win business is to offer free stuff for the kids:\n\n- free mini ice cream\n- free toys\n- free crayons and coloring\n- free candy \n\nDoesn’t matter how good your food is or what it costs, the above is the winning strategy.",
+    "quoted_tweet": null,
+    "url": "https://x.com/petergyang/status/2114418066922893394",
+    "time": "2026-10-26 02:05",
+    "created_at": "Sun Oct 25 18:05:25 +0000 2026",
+    "id_str": "2114418066922893394",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The plan moved out of plan mode.\n\nAnthropic's own advice for a big job now skips the mode: have Claude interview you until everything is covered, write a complete spec to a file, then start a fresh session to build from it.\n\nThe fresh session only knows what the file says, so the file has to cover the problem, the users and what done looks like.",
+    "quoted_tweet": {
+      "author": "God of Prompt",
+      "username": "godofprompt",
+      "text": "https://x.com/i/article/2112922755570257920"
+    },
+    "url": "https://x.com/godofprompt/status/2114418290881941824",
+    "time": "2026-10-26 02:06",
+    "created_at": "Sun Oct 25 18:06:19 +0000 2026",
+    "id_str": "2114418290881941824",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the prompt I use to turn a rough idea into that spec file:\n\nhttps://godofprompt.ai/prompt-library/draft-app-requirements",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114418303120863363",
+    "time": "2026-10-26 02:06",
+    "created_at": "Sun Oct 25 18:06:22 +0000 2026",
+    "id_str": "2114418303120863363",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "guess its time to say it.. didn't announce here at all but everyone is asking😅\nyes I joined OpenAI 🚀  to design systems team as a contract Design Engineer🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/aydaoz/status/2114419410224181383",
+    "time": "2026-10-26 02:10",
+    "created_at": "Sun Oct 25 18:10:46 +0000 2026",
+    "id_str": "2114419410224181383",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "CBS present “On the Field” sponsored by ChatGPT",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinbtw_/status/2114421860393746627",
+    "time": "2026-10-26 02:20",
+    "created_at": "Sun Oct 25 18:20:30 +0000 2026",
+    "id_str": "2114421860393746627",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@justinbtw_ chatgpt sponsoring football means every take now opens with \"great question\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114424308588253535",
+    "time": "2026-10-26 02:30",
+    "created_at": "Sun Oct 25 18:30:13 +0000 2026",
+    "id_str": "2114424308588253535",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@aydaoz congrats. now please make the model picker make sense",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114425445877719040",
+    "time": "2026-10-26 02:34",
+    "created_at": "Sun Oct 25 18:34:45 +0000 2026",
+    "id_str": "2114425445877719040",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@petergyang free crayons are just customer acquisition cost with extra steps",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114426584216084899",
+    "time": "2026-10-26 02:39",
+    "created_at": "Sun Oct 25 18:39:16 +0000 2026",
+    "id_str": "2114426584216084899",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 现在很多 AI 新闻主播",
+    "quoted_tweet": null,
+    "url": "https://x.com/chenchen198663/status/2114268616078266819",
+    "time": "2026-10-25 16:11",
+    "created_at": "Sun Oct 25 08:11:33 +0000 2026",
+    "id_str": "2114268616078266819",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@chenchen198663 这主播是人，因为念到一半会卡住\n但稿子都是 AI 写的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114274092832698581",
+    "time": "2026-10-25 16:33",
+    "created_at": "Sun Oct 25 08:33:19 +0000 2026",
+    "id_str": "2114274092832698581",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 你怎么知道是人类播报员？🌚",
+    "quoted_tweet": null,
+    "url": "https://x.com/Lordoomed/status/2114275774534480188",
+    "time": "2026-10-25 16:40",
+    "created_at": "Sun Oct 25 08:40:00 +0000 2026",
+    "id_str": "2114275774534480188",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Lordoomed 念到一半卡住了…",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114285971659530535",
+    "time": "2026-10-25 17:20",
+    "created_at": "Sun Oct 25 09:20:31 +0000 2026",
+    "id_str": "2114285971659530535",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "刚刚在看一个视频，讲到 AI 能力不如人的地方\n讲到数学那里说 AI 的逻辑能力不强，文科还好，但数理逻辑只有初中生水平\n这时候果断打开看了一下时间戳，一年半之前的\n怪不得\n😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114293686049898961",
+    "time": "2026-10-25 17:51",
+    "created_at": "Sun Oct 25 09:51:11 +0000 2026",
+    "id_str": "2114293686049898961",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "一年前完全不担心 AI 取代的职业投票\n第一竟然是创业者",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114295377134543225",
+    "time": "2026-10-25 17:57",
+    "created_at": "Sun Oct 25 09:57:54 +0000 2026",
+    "id_str": "2114295377134543225",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "一年前非常担心 AI 取代的岗位\n好像预测还挺准",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114296399659716726",
+    "time": "2026-10-25 18:01",
+    "created_at": "Sun Oct 25 10:01:58 +0000 2026",
+    "id_str": "2114296399659716726",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "笑话三则：\n\n每次你打客服电话的时候要求转人工\n都是在用行动来支持客服工作人员的岗位\n你不要怕麻烦人\n你不麻烦人\n人就没工作了\n\n以后不要再吐槽甲方说不清需求了\n甲方不停地改来改去，你被甲方按在地上摩擦\n这整个过程就是工作的意义\n当甲方能一句话描述清楚需求了\n你的工作就危险了\n\n如果你在工作中还没有太多地方能用到太多 AI\n那你完全不必焦虑，甚至应该感到开心\n这两年在工作中能大量使用 AI 的人\n他们很多已经失去了工作",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114302685713461432",
+    "time": "2026-10-25 18:26",
+    "created_at": "Sun Oct 25 10:26:56 +0000 2026",
+    "id_str": "2114302685713461432",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 你这里没有苔藓之火！值得关注一下！",
+    "quoted_tweet": null,
+    "url": "https://x.com/gentlemanzhao/status/2114366802490957907",
+    "time": "2026-10-25 22:41",
+    "created_at": "Sun Oct 25 14:41:43 +0000 2026",
+    "id_str": "2114366802490957907",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@gentlemanzhao 关注啦",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114374129868824635",
+    "time": "2026-10-25 23:10",
+    "created_at": "Sun Oct 25 15:10:50 +0000 2026",
+    "id_str": "2114374129868824635",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "holy shit, i'm failing to understand if he is actually serious",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "DM if you want to help scale dots to 1B users and have done similar things in the past"
+    },
+    "url": "https://x.com/kirtandopamine/status/2114267866317086734",
+    "time": "2026-10-25 16:08",
+    "created_at": "Sun Oct 25 08:08:35 +0000 2026",
+    "id_str": "2114267866317086734",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "did you buy https://poteto.com?",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "@ScriptedAlchemy .com"
+    },
+    "url": "https://x.com/himanshutwtxs/status/2114278551725949200",
+    "time": "2026-10-25 16:51",
+    "created_at": "Sun Oct 25 08:51:02 +0000 2026",
+    "id_str": "2114278551725949200",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I made t3 code faster again btw",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2114353370131796371",
+    "time": "2026-10-25 21:48",
+    "created_at": "Sun Oct 25 13:48:20 +0000 2026",
+    "id_str": "2114353370131796371",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo Love to see it!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114365873049993364",
+    "time": "2026-10-25 22:38",
+    "created_at": "Sun Oct 25 14:38:01 +0000 2026",
+    "id_str": "2114365873049993364",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@kirtandopamine Reality",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114435715605885396",
+    "time": "2026-10-26 03:15",
+    "created_at": "Sun Oct 25 19:15:33 +0000 2026",
+    "id_str": "2114435715605885396",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@himanshutwtxs Did you?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114435873857028129",
+    "time": "2026-10-26 03:16",
+    "created_at": "Sun Oct 25 19:16:11 +0000 2026",
+    "id_str": "2114435873857028129",
+    "is_retweet": false
+  }
+]
