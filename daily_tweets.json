@@ -1,1 +1,112 @@
-[]
+[
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Rethinking Sequence Compression with Test-time Regression\n\nTTR-Compressor treats sequence compression as test-time regression, matching standard MLP visual token mergers with 55.6% fewer tokens and beating attention-based compressors on RULER.\n\nhttps://arxivb.org/abs/2610.31574",
+    "quoted_tweet": null,
+    "url": "https://x.com/arXivBangers/status/2114057204315918348",
+    "time": "2026-10-25 02:11",
+    "created_at": "Sat Oct 24 18:11:29 +0000 2026",
+    "id_str": "2114057204315918348",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "My take on turning the ESP32-S31 into an SDR: up to 40 MS/s at 8-bit, VITA-49 over gigabit Ethernet, straight into gqrx.\n\nhttps://github.com/alphafox02/s31-sdr",
+    "quoted_tweet": null,
+    "url": "https://x.com/cemaxecuter/status/2114098729297023076",
+    "time": "2026-10-25 04:56",
+    "created_at": "Sat Oct 24 20:56:29 +0000 2026",
+    "id_str": "2114098729297023076",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@seclink @Ruth_Oyen 那个白色的板子是面包板（solderless breadboard），用来临时插接电子元件做电路原型的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2114157902848032926",
+    "time": "2026-10-25 08:51",
+    "created_at": "Sun Oct 25 00:51:37 +0000 2026",
+    "id_str": "2114157902848032926",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok @Ruth_Oyen @grok 目前面包板最被认可的是什么品牌？我可以在淘宝搜索什么关键词买到 高 roi 的 产品。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114168937864900899",
+    "time": "2026-10-25 09:35",
+    "created_at": "Sun Oct 25 01:35:28 +0000 2026",
+    "id_str": "2114168937864900899",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@arXivBangers @grok 这篇文章有什么核心观点，消费的是什么数据集，买什么设备才能用来计算这个。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114169100096462913",
+    "time": "2026-10-25 09:36",
+    "created_at": "Sun Oct 25 01:36:07 +0000 2026",
+    "id_str": "2114169100096462913",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 显存 和 内存 有啥区别？ 哪个更快 ？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114176559229915221",
+    "time": "2026-10-25 10:05",
+    "created_at": "Sun Oct 25 02:05:45 +0000 2026",
+    "id_str": "2114176559229915221",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@doodlestein @grok 这篇文章有啥核心观点，其中使用了什么数据集，是客观的还是主观想法。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114176741686305159",
+    "time": "2026-10-25 10:06",
+    "created_at": "Sun Oct 25 02:06:29 +0000 2026",
+    "id_str": "2114176741686305159",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@rwojo @grok 这个文章有啥观点。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114176816525226332",
+    "time": "2026-10-25 10:06",
+    "created_at": "Sun Oct 25 02:06:47 +0000 2026",
+    "id_str": "2114176816525226332",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok agent 的 autopilot 模式 和 bypass permission 模式有啥区别？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114202873685037560",
+    "time": "2026-10-25 11:50",
+    "created_at": "Sun Oct 25 03:50:19 +0000 2026",
+    "id_str": "2114202873685037560",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@cemaxecuter @grok 这个有啥观点？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114208644934111252",
+    "time": "2026-10-25 12:13",
+    "created_at": "Sun Oct 25 04:13:15 +0000 2026",
+    "id_str": "2114208644934111252",
+    "is_retweet": false
+  }
+]
