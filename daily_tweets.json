@@ -504,5 +504,108 @@
     "created_at": "Sun Oct 25 04:56:22 +0000 2026",
     "id_str": "2114219496550564148",
     "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Ben Horowitz's message to early-stage founders on betting on yourself, the doubts that do the most damage, and why fear means you're doing it right:\n\n\"Your job is to make your bet pay off. You believed in yourself enough to do it. There are gonna be many times when you question that bet and you question that belief, but that gets you nothing.\"\n\n\"The doubts are gonna be there. Ignore the doubts. The worst doubts aren't the ones people put on you. It's the ones that you put on yourself. Every entrepreneur has them.\"\n\n\"I spent a lot of time with Mark Zuckerberg when he was 22 years old and he had a tremendous doubt about whether he was gonna make it.\"\n\n\"It's not what you feel. It's what you do. You're gonna feel scared. If your guts aren't boiling, you're not even trying at this thing.\"\n\n@bhorowitz w/ @speedrun GP @andrewchen",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2114107256778432986",
+    "time": "2026-10-25 05:30",
+    "created_at": "Sat Oct 24 21:30:22 +0000 2026",
+    "id_str": "2114107256778432986",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "One answer to what's driving GPU rental prices:\n\nToken demand on OpenRouter is up ~27x since last November, from ~6T/week to ~165T/week\n\nOpen-weight models now handle ~72% of those tokens, up from ~28% last November\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-attention-is-all",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Zooming out, GPUs are still renting ahead of a standard 6-year depreciation schedule\n\nRental price vs. schedule:\n- H200: +143%\n- B200: +111%\n- RTX PRO 6000: +73%\n- H100: +54%\n- A100: +9%\n\nMost of the gap opened up after April, when token demand took off\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-attention-is-all"
+    },
+    "url": "https://x.com/a16z/status/2114122274467102926",
+    "time": "2026-10-25 06:30",
+    "created_at": "Sat Oct 24 22:30:03 +0000 2026",
+    "id_str": "2114122274467102926",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@R_W_Raymond Thanks a lot, Randall!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114151807081759107",
+    "time": "2026-10-25 08:27",
+    "created_at": "Sun Oct 25 00:27:24 +0000 2026",
+    "id_str": "2114151807081759107",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success 🥹🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114151850282987736",
+    "time": "2026-10-25 08:27",
+    "created_at": "Sun Oct 25 00:27:34 +0000 2026",
+    "id_str": "2114151850282987736",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Congratulations!",
+    "quoted_tweet": null,
+    "url": "https://x.com/kokukokugo2/status/2114157787647516973",
+    "time": "2026-10-25 08:51",
+    "created_at": "Sun Oct 25 00:51:10 +0000 2026",
+    "id_str": "2114157787647516973",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kokukokugo2 ありがとうございます",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114158167827599662",
+    "time": "2026-10-25 08:52",
+    "created_at": "Sun Oct 25 00:52:41 +0000 2026",
+    "id_str": "2114158167827599662",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife ✨Congratulations on 120K, Kris! 💖\nThank you for the opportunity.\nSharing one of my favorites.✨",
+    "quoted_tweet": null,
+    "url": "https://x.com/StellaGrokStar/status/2114210987071156476",
+    "time": "2026-10-25 12:22",
+    "created_at": "Sun Oct 25 04:22:34 +0000 2026",
+    "id_str": "2114210987071156476",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@StellaGrokStar Thank you 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114217427567276207",
+    "time": "2026-10-25 12:48",
+    "created_at": "Sun Oct 25 04:48:09 +0000 2026",
+    "id_str": "2114217427567276207",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Waiting on the next one to finish but this render is done. Fully local through Slopularity (Created by me). Whole customizable overlay system came straight from the program itself. \n\nSlopcore.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jbro_1776/status/2114190533816103019",
+    "time": "2026-10-25 11:01",
+    "created_at": "Sun Oct 25 03:01:17 +0000 2026",
+    "id_str": "2114190533816103019",
+    "is_retweet": true
   }
 ]
