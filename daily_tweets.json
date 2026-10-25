@@ -1647,5 +1647,119 @@
     "created_at": "Sun Oct 25 21:53:10 +0000 2026",
     "id_str": "2114475379604049969",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I've always defended X as the only platform to be on for financial discourse.\n\nBut it's getting harder to when the owner constantly amplifies narratives of collapse… of companies whose interests conflict with his own at $SPCX or $TSLA.\n\nWould people be comfortable if $NVDA Jensen Huang owned $META? \n\nAnd then the timelines were dominated by his amplified narratives of $AVGO failing? \n\nI can't see how that would be healthy for grassroots discussion.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2114477224208535600",
+    "time": "2026-10-26 06:00",
+    "created_at": "Sun Oct 25 22:00:29 +0000 2026",
+    "id_str": "2114477224208535600",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@AIMachineDream those numbers are insane!",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114469334093271384",
+    "time": "2026-10-26 05:29",
+    "created_at": "Sun Oct 25 21:29:08 +0000 2026",
+    "id_str": "2114469334093271384",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "I don't think you guys appreciate just how bad Gemini is at agentic work. The hallucination rates are truly surreal.\n\nIn one run, it hallucinated:\n- line numbers (quoted line 173 in a 72-line file)\n- random ip addresses\n- command/script arguments\n- function exports and returns",
+    "quoted_tweet": {
+      "author": "Theo - t3.gg",
+      "username": "theo",
+      "text": "This has been enlightening. I knew Gemini was bad about hallucinations, but it's been surreal to see just how often it makes shit up.\n\nI added a \"gemini the jester\" section to my council skill (\"review this work with various models\").\n\nGemini hallucinates in over 80% of the runs"
+    },
+    "url": "https://x.com/theo/status/2114483219538296946",
+    "time": "2026-10-26 06:24",
+    "created_at": "Sun Oct 25 22:24:19 +0000 2026",
+    "id_str": "2114483219538296946",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "BREAKING: Elon Musk has said:\n\n\"As of the past few weeks, debt markets have almost entirely shut off access to money for any company that doesn’t have substantial revenue independent of AI data centers. That means the 200+ neoclouds are going to see guppy-level death and consolidation. Some will make it through, but not many.”",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2114484117538828701",
+    "time": "2026-10-26 06:27",
+    "created_at": "Sun Oct 25 22:27:53 +0000 2026",
+    "id_str": "2114484117538828701",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "\"Melting Down\": Goldman Admits Its Credit Bear Case Isn't Bearish Enough As AI Stress Hits Bonds https://www.zerohedge.com/markets/melting-down-goldman-admits-its-credit-bear-case-isnt-bearish-enough-ai-stress-hits-bonds",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2114484677553574120",
+    "time": "2026-10-26 06:30",
+    "created_at": "Sun Oct 25 22:30:07 +0000 2026",
+    "id_str": "2114484677553574120",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Nearly 200,000 Mass Effect fans have signed a petition calling on EA to “Save Mass Effect” following BioWare’s shutdown and the cancellation of Mass Effect 5.\n\nThe petition asks EA to keep the franchise alive with proper funding, staffing and development time, or potentially license the IP to another studio if EA doesn’t want to make the next game itself.\n\nEven Commander Shepard’s voice actors are backing the fan effort. \nJennifer Hale (FemShep) said she wants to imagine a future where fans, a studio and investors could work together to bring Mass Effect back.\n\nMark Meer (MaleShep) also encouraged fans to “hold the line” and sign the petition.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2114484713801097264",
+    "time": "2026-10-26 06:30",
+    "created_at": "Sun Oct 25 22:30:15 +0000 2026",
+    "id_str": "2114484713801097264",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@theo line 173 of a 72-line file is gemini just believing in you",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114488041842819228",
+    "time": "2026-10-26 06:43",
+    "created_at": "Sun Oct 25 22:43:29 +0000 2026",
+    "id_str": "2114488041842819228",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales \"guppy-level death\" is the most elon way to describe a credit crunch",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114489195419033732",
+    "time": "2026-10-26 06:48",
+    "created_at": "Sun Oct 25 22:48:04 +0000 2026",
+    "id_str": "2114489195419033732",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge ai stress hitting bonds before it hits my job is a plot twist",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114490342661832914",
+    "time": "2026-10-26 06:52",
+    "created_at": "Sun Oct 25 22:52:37 +0000 2026",
+    "id_str": "2114490342661832914",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation 200,000 signatures and ea will still file it under engagement",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114491497345069413",
+    "time": "2026-10-26 06:57",
+    "created_at": "Sun Oct 25 22:57:12 +0000 2026",
+    "id_str": "2114491497345069413",
+    "is_retweet": false
   }
 ]
