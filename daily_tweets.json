@@ -1761,5 +1761,185 @@
     "created_at": "Sun Oct 25 22:57:12 +0000 2026",
     "id_str": "2114491497345069413",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "宋美龄 1943 年国会演讲原声：别低估日本，想好战后\n\n1943 年 2 月 18 日，宋美龄在华盛顿的美国国会众议院厅发表演讲。美国参议院的藏品页说，她是第二位在国会联席会议上讲话的女性，也是第一位来自中国的人。这条视频用的是美国国家档案馆保存的 21 分钟原声，配英文原文和中文译文，分六章。\n\n这篇演讲讲了五件事：\n1. 旅途所见：她惦记驻守偏远据点的美国兵，说日复一日的枯燥差事，往往比打仗更磨人。\n2. 民主的熔炉：她在空军基地见到各国第一代移民组成的美国兵，说对共同原则的忠诚能消除种族隔阂。\n3. 不可小看日本：她引孙子“知己知彼”，反驳“先对付希特勒、日本是次要”的看法，提醒国会中国已经孤身承受了四年半的全面侵略。\n4. 战后的世界：她请国会为战后做准备，说和平不能带着惩罚的精神，不能只顾一国一族，要有远见，不能耽于幻想。\n5. 结尾：与其屈辱地接受失败，不如光荣地冒险。\n\n章节：\n00:00 开场：国会的任务\n01:38 旅途所见：远方的美国兵\n06:18 民主的熔炉\n09:06 不可小看日本\n14:29 战后的世界\n19:27 宁可光荣地冒险\n\n声明：\n1. 原声：美国国家档案馆（NARA）藏，目录号 2209240，美国境内公有领域（No Copyright – United States）。\n2. 字幕：英文由本机语音模型转写、对照《国会记录》文本校订；中文译文由 AI 辅助翻译，未经人工校对，以录音为准。\n3. 配图：均为标注公有领域或 CC0 的历史图像，部分为示意图并在画面上标明。\n4. 制作工具：baocut （https://github.com/jimliu/baocut）",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "使用 BaoCut Skill 即可做这种排版的视频（需要安装 BaoCut App 配合转录和对齐翻译）：\nhttps://github.com/JimLiu/baocut/blob/main/skills/baocut/SKILL.md\n\n> 帮我做成一条有设计感的版面视频，像档案馆、纪录片那种风格：演讲画面只放在局部，配双语字幕，有章节的话把章节做成副标题，再根据他讲到的内容搜一些相关的历史图片放进去，整体要美观大方、浑然一体。横版"
+    },
+    "url": "https://x.com/dotey/status/2114469269823992179",
+    "time": "2026-10-26 05:28",
+    "created_at": "Sun Oct 25 21:28:53 +0000 2026",
+    "id_str": "2114469269823992179",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "注：我不是历史博主，只是在测试用模型生成不同类型视频，这个视频\nskill：http://github.com/JimLiu/baocut/blob/main/skills/baocut/SKILL.md，\n旁白配音 Gemini TTS，\n模型 Opus 5.5\n\n提示词：\n\n把 <人名> <年份> 在 <场合> 的演讲做成历史视频：\n前面用 3–4 分钟讲清他是谁、当时发生了什么、他为什么讲这段话；封面要有他当时的照片，一看就知道是谁。\n表现形式要丰富，别做成幻灯片：有影像就用影像，可以用地图、时间线、报刊标题、原话逐词点亮，配 TTS 解说；可以用 AI 画没有人物的示意图。\n原声不是中文就做中英双语字幕，正片分章节。\n先写简报给我看，确认后再做；做好先给审片链接，别烘焙导出。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114472846252535829",
+    "time": "2026-10-26 05:43",
+    "created_at": "Sun Oct 25 21:43:06 +0000 2026",
+    "id_str": "2114472846252535829",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝老师好拼啊，这个图的设计收藏了，高级",
+    "quoted_tweet": null,
+    "url": "https://x.com/Xian0063/status/2114495190673314133",
+    "time": "2026-10-26 07:11",
+    "created_at": "Sun Oct 25 23:11:53 +0000 2026",
+    "id_str": "2114495190673314133",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Xian0063 这是原推的图不是我设计的，因为是后续更新的和原推不一样，我就拿过来",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114495481518993565",
+    "time": "2026-10-26 07:13",
+    "created_at": "Sun Oct 25 23:13:02 +0000 2026",
+    "id_str": "2114495481518993565",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Have you tried connecting Google Drive to Grok through Settings, Connectors? You could upload your camera roll there and let Grok access the files. Not sure if it can analyze all the videos directly yet, but it might be worth exploring!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Nate_Midnite/status/2114472624671891555",
+    "time": "2026-10-26 05:42",
+    "created_at": "Sun Oct 25 21:42:13 +0000 2026",
+    "id_str": "2114472624671891555",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Nate_Midnite I have too many photos and videos, would be too inconvenient through Google Drive. I don’t even sync those for that reason. Too slow and way bigger than Google Drive space. I am on an iPhone",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114475582914207995",
+    "time": "2026-10-26 05:53",
+    "created_at": "Sun Oct 25 21:53:58 +0000 2026",
+    "id_str": "2114475582914207995",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I have a few to choose from. The Opera House, Queen Victoria Building in Sydney.",
+    "quoted_tweet": null,
+    "url": "https://x.com/NathanOrgan/status/2114476261477437818",
+    "time": "2026-10-26 05:56",
+    "created_at": "Sun Oct 25 21:56:40 +0000 2026",
+    "id_str": "2114476261477437818",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NathanOrgan Did you get a chance to take photos of those?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114477239521681771",
+    "time": "2026-10-26 06:00",
+    "created_at": "Sun Oct 25 22:00:33 +0000 2026",
+    "id_str": "2114477239521681771",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife St Giles' Cathedral in Edinburgh.\nHighland Tolbooth Church (St John's Church), with its tall Gothic spire.\nThe main building of the University of Glasgow, known as the Gilbert Scott Building.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Maria18st/status/2114485980061421968",
+    "time": "2026-10-26 06:35",
+    "created_at": "Sun Oct 25 22:35:17 +0000 2026",
+    "id_str": "2114485980061421968",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife here’s mine my boy chaz made",
+    "quoted_tweet": null,
+    "url": "https://x.com/laf131/status/2114486159673905416",
+    "time": "2026-10-26 06:36",
+    "created_at": "Sun Oct 25 22:36:00 +0000 2026",
+    "id_str": "2114486159673905416",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife #GrokImagine",
+    "quoted_tweet": null,
+    "url": "https://x.com/mys1111/status/2114486246735253699",
+    "time": "2026-10-26 06:36",
+    "created_at": "Sun Oct 25 22:36:21 +0000 2026",
+    "id_str": "2114486246735253699",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Great prompt.",
+    "quoted_tweet": null,
+    "url": "https://x.com/becky_sing84602/status/2114486655340228931",
+    "time": "2026-10-26 06:37",
+    "created_at": "Sun Oct 25 22:37:58 +0000 2026",
+    "id_str": "2114486655340228931",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@becky_sing84602 So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114488777712484544",
+    "time": "2026-10-26 06:46",
+    "created_at": "Sun Oct 25 22:46:24 +0000 2026",
+    "id_str": "2114488777712484544",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mys1111 Lovely dress",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114488810302259405",
+    "time": "2026-10-26 06:46",
+    "created_at": "Sun Oct 25 22:46:32 +0000 2026",
+    "id_str": "2114488810302259405",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@laf131 Love this!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114488844464636330",
+    "time": "2026-10-26 06:46",
+    "created_at": "Sun Oct 25 22:46:40 +0000 2026",
+    "id_str": "2114488844464636330",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Maria18st So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114488884126224625",
+    "time": "2026-10-26 06:46",
+    "created_at": "Sun Oct 25 22:46:49 +0000 2026",
+    "id_str": "2114488884126224625",
+    "is_retweet": false
   }
 ]
