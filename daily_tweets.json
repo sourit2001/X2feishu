@@ -183,5 +183,53 @@
     "created_at": "Mon Oct 26 01:03:19 +0000 2026",
     "id_str": "2114523234217701742",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Opus 5.5 是真的好，几乎全能，有了它我几乎都很少用其他模型，以至于 Tibo 的 Reset 我都不太关心了",
+    "quoted_tweet": {
+      "author": "Peter Walker",
+      "username": "PeterJ_Walker",
+      "text": "New from OpenRouter: 7-day average token volume for Anthropic models is up 3.6x since the launch of Opus 5.5\n\nSonnet 5.5 and Haiku 5.5 have also been well received."
+    },
+    "url": "https://x.com/dotey/status/2114518128910897640",
+    "time": "2026-10-26 08:43",
+    "created_at": "Mon Oct 26 00:43:02 +0000 2026",
+    "id_str": "2114518128910897640",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman At least, it was somewhat relevant as people were writing code. It’s pretty much useless now",
+    "quoted_tweet": null,
+    "url": "https://x.com/rvivek/status/2114492552384852023",
+    "time": "2026-10-26 07:01",
+    "created_at": "Sun Oct 25 23:01:24 +0000 2026",
+    "id_str": "2114492552384852023",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@rvivek HackerRank has spoken, I kneel",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2114505355623641522",
+    "time": "2026-10-26 07:52",
+    "created_at": "Sun Oct 25 23:52:17 +0000 2026",
+    "id_str": "2114505355623641522",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Who's scraping X for the funniest tweets to RL Claude",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2114515648084955573",
+    "time": "2026-10-26 08:33",
+    "created_at": "Mon Oct 26 00:33:10 +0000 2026",
+    "id_str": "2114515648084955573",
+    "is_retweet": false
   }
 ]
