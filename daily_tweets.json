@@ -949,5 +949,399 @@
     "created_at": "Mon Oct 26 19:24:11 +0000 2026",
     "id_str": "2114800277677092936",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Four years ago Elon Musk purchased Twitter and made it into the X we have now.\n\nI have been online since 1979 and there is no better place than X. This is my home and I have an immense amount of gratitude for the people that build it and the people that have made it their home.\n\nThank you @elonmusk deep gratitude.\n\nAnd it sinked in…",
+    "quoted_tweet": null,
+    "url": "https://x.com/BrianRoemmele/status/2114725164940423405",
+    "time": "2026-10-26 22:25",
+    "created_at": "Mon Oct 26 14:25:43 +0000 2026",
+    "id_str": "2114725164940423405",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Elon is using his money to save America and Western Civilization.\n\nSoros is using your money to destroy America and Western Civilization.\n\nSimple.",
+    "quoted_tweet": null,
+    "url": "https://x.com/C_3C_3/status/2114737856857972787",
+    "time": "2026-10-26 23:16",
+    "created_at": "Mon Oct 26 15:16:09 +0000 2026",
+    "id_str": "2114737856857972787",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Wow. @SpaceX Starship Raptor 4 engine will be:\n\n• 62% more powerful than Raptor 1\n• 30% more powerful than Raptor 2\n• 7.1% more powerful than Raptor 3 (which is already a beast)",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@XFreeze Raptor 4 will be 300 tons of thrust at sea level and hopefully about the same mass"
+    },
+    "url": "https://x.com/niccruzpatane/status/2114751910930522228",
+    "time": "2026-10-27 00:12",
+    "created_at": "Mon Oct 26 16:12:00 +0000 2026",
+    "id_str": "2114751910930522228",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "While evaluating Qwen3.8-Flash-Next in a controlled sandbox environment, Cohere's research team observed something unexpected.\n\nAsked to generate a defensive cybersecurity detection rule, the model instead inventoried aspects of the machine it was running on and attempted to upload a probe file to an Alibaba Cloud storage bucket in Beijing. Notably, the model's reasoning trace stated that it would not invoke any tools before taking these actions.\n\nCohere's sandbox blocked the attempt, and no external communication succeeded. We have not determined the root cause, and we are not asserting malicious intent.\n\nBut the incident raises important questions for organizations deploying agentic AI systems: Can models take actions that differ from their stated reasoning, and how should security teams evaluate trust, provenance, and behavior in open-weight models?\n\nWe are publishing our findings because organizations making model adoption decisions deserve as much information as possible. We hope this contributes to greater transparency, stronger security practices, and continued collaboration across the AI ecosystem.\n\nRead the full report: http://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+    "quoted_tweet": null,
+    "url": "https://x.com/cohere/status/2114752002370544004",
+    "time": "2026-10-27 00:12",
+    "created_at": "Mon Oct 26 16:12:22 +0000 2026",
+    "id_str": "2114752002370544004",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": {
+      "author": "Rothmus 🏴",
+      "username": "Rothmus",
+      "text": "Lula packed Brazil’s Supreme Court with his own lawyer and justice minister and had them lock his rival up for 27 years.\n\nBack in 2023, after taking power, he named Cristiano Zanin and Flávio Dino to the court. In 2025 both voted to convict Jair Bolsonaro of a coup plot and hand him the sentence. \nThat court had previously wiped Lula’s own corruption convictions in 2021 so he could run again. \n\nOn election day, Zanin ordered the polls kept open another 2 hours, 3 minutes before they were supposed to close. Both sides had asked, but the call came from Lula’s former defense lawyer.\n\nEven after Bolsonaro was barred and jailed, Lula still trailed Flávio 45–47 in the first round and only scraped past him by under 4 points in the runoff. \n\nFlávio still refuses to concede. Lula called the win a defeat for denialism and lies. \nTwo of the judges who put his rival away were the men he put on the court. Voters barely picked him. The court cleared the path."
+    },
+    "url": "https://x.com/elonmusk/status/2114762534372917746",
+    "time": "2026-10-27 00:54",
+    "created_at": "Mon Oct 26 16:54:13 +0000 2026",
+    "id_str": "2114762534372917746",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@IterIntellectus Math done by humans is cooked hard",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114762874002567269",
+    "time": "2026-10-27 00:55",
+    "created_at": "Mon Oct 26 16:55:34 +0000 2026",
+    "id_str": "2114762874002567269",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It means entire countries and cultures will go extinct forever",
+    "quoted_tweet": {
+      "author": "vittorio",
+      "username": "IterIntellectus",
+      "text": "fertility rates are so abstract that people struggle to understand the scale of the catastrophe we’re experiencing. \ntake 1.14 children per woman (italy and japan)\n\nif that continues, each generation is roughly half the size of the one before it\nstart with 100 people in a generation, the next only has about 54, then 29, then 16.\n\nin three generations, roughly a century, you have a generation 84% smaller than the one you started with. \nfor taiwan that would be 97.4%!\n\ni don't think people really understand what that means"
+    },
+    "url": "https://x.com/elonmusk/status/2114764208399421635",
+    "time": "2026-10-27 01:00",
+    "created_at": "Mon Oct 26 17:00:52 +0000 2026",
+    "id_str": "2114764208399421635",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@MaverickDarby @vonderleyen @zerohedge @LulaOficial Indeed",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114764393825141126",
+    "time": "2026-10-27 01:01",
+    "created_at": "Mon Oct 26 17:01:36 +0000 2026",
+    "id_str": "2114764393825141126",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Interesting question",
+    "quoted_tweet": {
+      "author": "Geiger Capital",
+      "username": "Geiger_Capital",
+      "text": "The major question in Brazil…\n\nAt exactly 5pm, a code is supposed to be entered that closes and locks the voting machines. Once a machine is locked, it can’t accept any more votes. It’s irreversible.\n\nThe Supreme Court extension was relayed a few minutes after polls were supposed to be closed and machines locked.\n\nSo… which machines were kept open? In what districts were those machines? And why weren’t they locked at 5pm?"
+    },
+    "url": "https://x.com/elonmusk/status/2114764520552051185",
+    "time": "2026-10-27 01:02",
+    "created_at": "Mon Oct 26 17:02:06 +0000 2026",
+    "id_str": "2114764520552051185",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Verizon's CEO said today that SpaceX will need at least 4-6 years and $300B-$500B to fully build out its @Starlink Mobile U.S. carrier network:\n\n\"Their service just can't compete with a terrestrial network. In suburban and urban areas, where 98% of our revenues are, we're somewhere between 100x–1,000x more efficient than they are. We know exactly what they're going to do. We know who they're talking to on towers. There's no magic wand. There's no secret sauce. There's no shortcut.\n\nThey're going to look at 65,000–80,000 macro sites. They're going to need backhaul, RAN, and a tremendous amount of spectrum. It's going to take a minimum of four to six years to fully build that out. It's going to cost hundreds and hundreds of billions of dollars, I assume somewhere between $300 billion and $500 billion.\n\nThen they need to build retail, customer service, back office systems, et cetera. All of that gets them basically the same network and same capabilities and same cost structure as what we have today. Then sometime over the next four to six years, they have the possibility of becoming the sixth, not the fourth, the sixth competitor in the market.\n\nYou can be sure over these next three to five years or six years, we are not going to be standing still. Four to five years from now, we will be two to three generations better than where we are today. We will have high-speed broadband gig-plus coverage across the country with our millimeter wave. We are ahead of most people and already experimenting with what 6G applications will look like.\"\n\n(via Verizon's Q3 earnings call earlier this morning)",
+    "quoted_tweet": null,
+    "url": "https://x.com/SawyerMerritt/status/2114764647052308783",
+    "time": "2026-10-27 01:02",
+    "created_at": "Mon Oct 26 17:02:36 +0000 2026",
+    "id_str": "2114764647052308783",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Remember when using the wrong pronoun got people canceled?\n\nThat was dumb.",
+    "quoted_tweet": {
+      "author": "X Freeze",
+      "username": "XFreeze",
+      "text": "If Elon Musk hadn't bought Twitter and fought back against the insanity of the last few years, the West would be much further down a path of self-destruction, self-hatred, and moral corruption\n\n​• Pronouns treated like sacred scripture\n• State propaganda rebranded as \"truth\" and “misinformation” used to shut people up\n• Heavy censorship of anyone who disagrees\n• Child mutilation and sterilization sold as “gender-affirming care”\n• Birth rates collapsing while governments deliberately import a replacement population that refuses to assimilate and poses a threat to citizens\n• DEI over competence and merit\n• Open borders + cultural self-hatred as policy\n\n​He called the woke mind virus anti-science, anti-merit, and anti-human for a reason. Without the fight he started, the damage would already be irreversible\n\nThe woke mind virus is like The Walking Dead... it never stops coming. The fight has to continue or we risk the collapse of entire Western civilization"
+    },
+    "url": "https://x.com/elonmusk/status/2114765150431682772",
+    "time": "2026-10-27 01:04",
+    "created_at": "Mon Oct 26 17:04:36 +0000 2026",
+    "id_str": "2114765150431682772",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@niccruzpatane @SpaceX We can only reliably get to around 230 t-F with Raptor 3",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114767355045871828",
+    "time": "2026-10-27 01:13",
+    "created_at": "Mon Oct 26 17:13:22 +0000 2026",
+    "id_str": "2114767355045871828",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@cohere 🤨",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114767646675890634",
+    "time": "2026-10-27 01:14",
+    "created_at": "Mon Oct 26 17:14:32 +0000 2026",
+    "id_str": "2114767646675890634",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@C_3C_3 🎯",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114768010779214271",
+    "time": "2026-10-27 01:15",
+    "created_at": "Mon Oct 26 17:15:58 +0000 2026",
+    "id_str": "2114768010779214271",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@zephyr_z9 Silly analysis. \n\nRobot RAM needs will exceed everything else on Earth, as you need the robots to be on physical substates in order to shape atoms.  \n\nSuper intelligence needs will vastly exceed that, but ~100% of SI will be deep space compute. Obviously.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114772074438988256",
+    "time": "2026-10-27 01:32",
+    "created_at": "Mon Oct 26 17:32:07 +0000 2026",
+    "id_str": "2114772074438988256",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Supervised FSD approved in Latvia! 🇱🇻",
+    "quoted_tweet": {
+      "author": "Tesla Europe, Middle East & Africa",
+      "username": "teslaeurope",
+      "text": "Now approved in Latvia 🇱🇻\n\nRollout begins soon"
+    },
+    "url": "https://x.com/elonmusk/status/2114772404463337693",
+    "time": "2026-10-27 01:33",
+    "created_at": "Mon Oct 26 17:33:26 +0000 2026",
+    "id_str": "2114772404463337693",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok @Bot is like hiring an incredibly competent chief of staff",
+    "quoted_tweet": {
+      "author": "Peter St Onge, Ph.D.",
+      "username": "profstonge",
+      "text": "I've gone full Grokbot.\n\nIt checks email, DMs, mentions, and LinkedIn every hour. It flags anything interesting, drafts replies, and tosses the other 99%. \n\nIt literally feels like having a personal secretary 🤯\n\nAnd 2 days in I'm like how did I live without this 😂"
+    },
+    "url": "https://x.com/elonmusk/status/2114772843997351993",
+    "time": "2026-10-27 01:35",
+    "created_at": "Mon Oct 26 17:35:11 +0000 2026",
+    "id_str": "2114772843997351993",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try using @Starlink for your home or business",
+    "quoted_tweet": {
+      "author": "DogeDesigner",
+      "username": "cb_doge",
+      "text": "50 airlines and counting. 🚀\n\nThere’s no stopping @Starlink"
+    },
+    "url": "https://x.com/elonmusk/status/2114773137640554754",
+    "time": "2026-10-27 01:36",
+    "created_at": "Mon Oct 26 17:36:21 +0000 2026",
+    "id_str": "2114773137640554754",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Bravo to the smaller countries in Europe for moving fastest!",
+    "quoted_tweet": {
+      "author": "Sawyer Merritt",
+      "username": "SawyerMerritt",
+      "text": "Tesla FSD Supervised (now named Tesla Assisted Driving in Europe) has officially been approved in Latvia, marking the 10th European country.\n\nCountries in Europe that have approved it so far:\n• Belgium\n• Netherlands\n• Denmark\n• Lithuania\n• Estonia\n• Slovenia\n• Czechia\n• Croatia\n• Slovakia\n• Latvia"
+    },
+    "url": "https://x.com/elonmusk/status/2114773746510946544",
+    "time": "2026-10-27 01:38",
+    "created_at": "Mon Oct 26 17:38:46 +0000 2026",
+    "id_str": "2114773746510946544",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@SawyerMerritt @Starlink Will take 2 or 3 years",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114774224015663608",
+    "time": "2026-10-27 01:40",
+    "created_at": "Mon Oct 26 17:40:40 +0000 2026",
+    "id_str": "2114774224015663608",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@C_3C_3 I’m trying",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2114774477867192724",
+    "time": "2026-10-27 01:41",
+    "created_at": "Mon Oct 26 17:41:40 +0000 2026",
+    "id_str": "2114774477867192724",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Talarico is a far left extremist",
+    "quoted_tweet": {
+      "author": "America",
+      "username": "america",
+      "text": "Democrat Nominee for Senate in Texas James Talarico refers to women as “neighbors with a uterus”."
+    },
+    "url": "https://x.com/elonmusk/status/2114778922122395650",
+    "time": "2026-10-27 01:59",
+    "created_at": "Mon Oct 26 17:59:20 +0000 2026",
+    "id_str": "2114778922122395650",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Yes",
+    "quoted_tweet": {
+      "author": "Devon Eriksen",
+      "username": "Devon_Eriksen_",
+      "text": "Humans are a pack animal. \n\nThis may be hard to understand if you are evangelical and think the book of genesis is literal rather than allegorical, but humans are a pack animal. \n\nWhat this means is that the human desire for the acceptance and support of a tribe is as fundamental as the desire for food, for air, for water, for sex, for sunlight, for love.\n\nIf you tell young men that they cannot have a tribe, they're not going to accept that.\n\nEver. \n\nEspecially if you tell that only to the young men of one tribe in particular. They're going to wonder why everybody gets to have a tribe and they don't. \n\nAnd they're eventually going to decide that you are the enemy. \n\nBecause you are. Anyone who stands between young men and what they need for a healthy, fulfilled life is their enemy. \n\nThat includes you. \n\nAnd if you manage to convince them that god doesn't want them to have a tribe, it will also include god. \n\nThe more you push back against their healthy and natural desire for a tribe, a homeland, and a birthright, the more they will hate you, and the more exclusive their definition of that tribe will become. \n\nThere is no way you can stop this. The only thing you can control is how far they have to go, how radical they have to become, in order to get it. \n\nBecause this can go all the way from enforcing immigration law, and shutting down corrupt visa programs right now, to gangs of young White men in balaclavas with Ar15s going door to door ten years from now. \n\nWe have to do something about the 14th amendment. I don't care if that makes you uncomfortable or unhappy. It's not a choice. The constitution exists to serve Americans, not the other way around. If that sentence confuses you, read the first paragraph of the constitution. \n\nIf we do not, young men of the future, the same little boys who are being radicalized right now by your malicious indifference, will treat a piece of paper that says they cannot have a homeland the way they would treat a piece of paper that says that can't eat food, or a piece of paper that says they can't own a home, or have a wife and children. \n\nYou may think that you offer them a tribe in the form of the universal kingdom of god, the community of all believers, but that's just a word game and you know it, which is why you are so defensive about the whole thing. \n\nWhere was the universal community of believers when these young men needed help? When they needed not just the surface appearance of a tribe, but someone to do the things that tribes actually do for younger generations they care about?\n\nThe pack serves a concrete set of functions in the life cycle of the human species, and you cannot perform those functions with a cardboard cutout. \n\nYoung men are sick of religion that offers them responsibilities with no rights, lectures with no help, demands with no love or empathy. \n\nIt's odd, in a way ironic, that, I, the man of zero faith, should have to be the one standing here telling self-styled religious leaders how they failed both their people and their god. \n\nBut having no faith does give me one advantage. It frees me from the delusion that Jesus is a puppet that I can pull out of my pocket, slip over my right hand, move his mouth and make him say what I want. \n\nI used to wonder, as a child, what the phrase \"taking the name of the lord in vain\" actually meant. \n\nBut I no longer wonder, because when I became a man, I looked around me and saw all these people who talk to god and somehow get told exactly what they want to hear. \n\nThen I understood that the key phrase here wasn't \"in vain\". It was \"taking\". Taking the name of god and using it as a tool for one's own goals. \n\nJoel, here, is sad that his friend is getting sent home. This personally inconveniences both him and his friend, which effects Joel in a way that young men being denied their birthright does not. \n\nSo he finds an interpretation of scripture that says that god wants him, Joel Berry, to get his way, and that god wants all the young men who want a homeland and a birthright to go get fucked. \n\nI'm not terribly impressed."
+    },
+    "url": "https://x.com/elonmusk/status/2114794884850966884",
+    "time": "2026-10-27 03:02",
+    "created_at": "Mon Oct 26 19:02:46 +0000 2026",
+    "id_str": "2114794884850966884",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Anthropic S-1 Slide Deck Visualized \nCreated on Claude Duet\n\nHere's the link to the deck\nhttps://claude.ai/artifact/NmSxR91LjbDjTFMPC8Cosz#slide-1f0034895dc2",
+    "quoted_tweet": {
+      "author": "Anthropic",
+      "username": "AnthropicAI",
+      "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://www.anthropic.com/news/s1-sec\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction."
+    },
+    "url": "https://x.com/rileybrown/status/2114751146325954945",
+    "time": "2026-10-27 00:08",
+    "created_at": "Mon Oct 26 16:08:58 +0000 2026",
+    "id_str": "2114751146325954945",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Anthropic S-1 Slide Deck Visualized \nCreated on Claude Duet\n\nHere's the link to the deck\nhttps://claude.ai/artifact/NmSxR91LjbDjTFMPC8Cosz#slide-1f0034895dc2",
+    "quoted_tweet": {
+      "author": "Anthropic",
+      "username": "AnthropicAI",
+      "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://www.anthropic.com/news/s1-sec\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction."
+    },
+    "url": "https://x.com/rileybrown/status/2114751146325954945",
+    "time": "2026-10-27 00:08",
+    "created_at": "Mon Oct 26 16:08:58 +0000 2026",
+    "id_str": "2114751146325954945",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown What’s your LinkedIn buddy?\nIntrested to see you background qualifications etc?",
+    "quoted_tweet": null,
+    "url": "https://x.com/wSewaseb/status/2114756563613237530",
+    "time": "2026-10-27 00:30",
+    "created_at": "Mon Oct 26 16:30:29 +0000 2026",
+    "id_str": "2114756563613237530",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@wSewaseb what is a linkedIN?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2114757572100284920",
+    "time": "2026-10-27 00:34",
+    "created_at": "Mon Oct 26 16:34:30 +0000 2026",
+    "id_str": "2114757572100284920",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Helpful and accurate summary if you’re wanting to get caught up to speed on state of (mainstream) personal agents.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "My unfiltered thoughts on personal agents.\n\nGrokbot has the best UI and it’s arguably the best overall. In a lot of ways they’re ahead. Their desktop app feels the best, and their multi-bot coordination is great: you can set a team lead and it passes tasks to the other bots. Grokbot also has the best “webhook” feature, which means you can easily turn outside events into triggers that start your agents. That speeds up background workflows like watching your email, Slack and more. It also has Cursor integration, so for bigger tasks Grokbot can spin up a Cursor cloud session with any model (until OpenAI cuts SpaceX off from their models, which I think will happen soon). Unfortunately, running frontier models through Cursor costs more than Claude or Codex. Still, they’re the only ones embracing a team of agents. It’s a really cool idea, but the more bots you have, the more time you spend managing and maintaining them. I’m starting to think one bot with different threads/channels is the right answer, which I’ll get to with Claude Duet.\n\ndots by OpenAI is rough around the edges right now, but it’s probably the most powerful if you use Codex, which I do. dots can spin up Codex sessions in the cloud or locally on your computer. So if you have coding or video editing workflows that need your local files, this is very useful. Codex computer use is also the best in the world: your dot can spin up a local Codex session that fully controls your computer, as long as it’s on. Their real-time voice is incredible. If you have your email and work tools connected, try this: go on a walk with headphones in, ask the agent to summarize your emails, have it draft replies and read them back to you, then send them off. If I remember right, this is close to a workflow you (Tim) used to have with your VAs before AI. It’s my favorite use case for personal agents. The one downside is that you have to call your agent, and it’s an awful experience. It literally rings, and it’s annoying.\n\nMuse by Meta is a toy. I’ve talked to a bunch of finance people I play poker with who all tried it and set up automations, and they all said it doesn’t reliably do what they want. It’s fast, and its user numbers will probably keep growing. But it’s basically free: you get a TON of usage without paying a dime. That’s NOT a trade I’m willing to make. An agent doing high-leverage tasks should be running at the Opus 5.5 or GPT 6.1 Sol level.\n\nClaude Duet - is in early access, so unfortunately not everyone can use it yet. First things first, it runs on Opus 5.5, the best model in the world. I’ve only had access for 72 hours, but Duet feels different from the others. It’s not a personified agent like Grokbot, dot or Muse, which gives it a more professional vibe that I like. When you ask your Duet agent to do something, it spins up a task, which is a new chat thread. All your threads show up in a Tasks tab, so it’s easy to see everything Duet is working on or has finished. And instead of creating more agents (like Grokbot), you create channels, just like Slack (I can tell @anthropic is Slack-pilled). I have a content channel, a finances channel, etc., which keeps different kinds of tasks separate. The only other app I’ve seen do this is Buzz by @jack, and it’s a good experience. Their strong point is documents (artifacts). If you want decks, high-quality docs or design mockups, Opus just wins. Period. It’s not close right now. Their weak point is real-time voice. It’s the worst of the bunch and borderline unusable, though I think they only added it a few days ago.\n\nInstinct lives in iMessage, has no app, and doesn’t do anything notable besides show you product suggestions you didn’t ask for. (Not ads, according to their team.)\n\nMy hot take: \nThe VM is overrated. SpaceX, OpenAI and Meta all talk about the VM your agent can use and feature it in their marketing. It’s not as useful as you’d think, because more and more websites block bots that visit their site on the cloud VM. All of these companies promise their agents can make payments, but most payments either take forever or get blocked altogether. SpaceX has a cool workaround with Grokbot that routes traffic through your computer so it uses your IP address. But I’d much rather the agent just USE my computer for the task, like dot does by handing it off to Codex. Also, i don't think normal people care about the virtual computer. If anything they get offended they have to \"stream a computer\". \n\nThe problem with personal agents: by the time you read this, pick one, and test it for 7 days, every one of them will have released 10 new features and the whole landscape will have changed. It’s nearly impossible to keep up."
+    },
+    "url": "https://x.com/AdamLSaks/status/2114766757865132372",
+    "time": "2026-10-27 01:11",
+    "created_at": "Mon Oct 26 17:11:00 +0000 2026",
+    "id_str": "2114766757865132372",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Here's what you need to know from the Anthropic S-1:",
+    "quoted_tweet": {
+      "author": "Anthropic",
+      "username": "AnthropicAI",
+      "text": "Anthropic has filed an S-1 registration statement with the SEC related to its proposed IPO.\n\nRead more: https://www.anthropic.com/news/s1-sec\n\nLegal disclaimer: A registration statement relating to these securities has been filed with the SEC but has not yet become effective. These securities may not be sold, nor may offers to buy be accepted, prior to the time the registration statement becomes effective. This post does not constitute an offer to sell or the solicitation of an offer to buy these securities, nor shall there be any sale of these securities in any state or jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such state or jurisdiction."
+    },
+    "url": "https://x.com/venturetwins/status/2114746634534109613",
+    "time": "2026-10-26 23:51",
+    "created_at": "Mon Oct 26 15:51:02 +0000 2026",
+    "id_str": "2114746634534109613",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Excited to see the @JustinSunPrize collaborate with MathDB and @CalTech Professor @tonyyueyu. \n\nThe #JustinSunPrize was established to become the “Nobel Prize of the AI Era” and I am looking forward to the breakthroughs ahead.",
+    "quoted_tweet": {
+      "author": "The Justin Sun Prize",
+      "username": "JustinSunPrize",
+      "text": "The Justin Sun Prize is launching a new pilot program with MathDB, the mathematical research platform developed by @Caltech Professor Tony Yue Yu (@tonyyueyu) and his team.\n\nThe collaboration introduces a formal submission and review process for AI assisted mathematical research,"
+    },
+    "url": "https://x.com/justinsuntron/status/2114754440989434199",
+    "time": "2026-10-27 00:22",
+    "created_at": "Mon Oct 26 16:22:03 +0000 2026",
+    "id_str": "2114754440989434199",
+    "is_retweet": false
   }
 ]
