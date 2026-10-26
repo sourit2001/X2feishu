@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "is there an api for a notebooklm style podcast? would love to be able to do this from any agent platform.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2114548544845594681",
+    "time": "2026-10-26 10:43",
+    "created_at": "Mon Oct 26 02:43:54 +0000 2026",
+    "id_str": "2114548544845594681",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Keep going",
+    "quoted_tweet": {
+      "author": "Tron Inc.",
+      "username": "TRON_INC",
+      "text": "Tron Inc. (NASDAQ: TRON) acquired 150,997 TRX tokens today at an average price of $0.3311, further increasing its TRX treasury holdings to more than 720.5 million TRX in total. The company aims to further grow its Tron DAT holdings to enhance long term shareholder value. For live update on the designated on-chain TRX treasury wallet for Tron Inc., please refer to: https://tronscan.org/#/address/TEySEZLJf6rs2mCujGpDEsgoMVWKLAk9mT."
+    },
+    "url": "https://x.com/justinsuntron/status/2114570689865003294",
+    "time": "2026-10-26 12:11",
+    "created_at": "Mon Oct 26 04:11:53 +0000 2026",
+    "id_str": "2114570689865003294",
+    "is_retweet": false
+  }
+]
