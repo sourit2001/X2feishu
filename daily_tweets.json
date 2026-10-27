@@ -246,5 +246,303 @@
     "created_at": "Tue Oct 27 20:58:06 +0000 2026",
     "id_str": "2115186300190101539",
     "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Projects are great, but I feel like I stepped on a rake when I set up multiple projects. They can't talk to each other, so useful stuff I build or processes I set up can't just automatically be picked up by other projects.",
+    "quoted_tweet": null,
+    "url": "https://x.com/TomFrankly/status/2115181507308593208",
+    "time": "Tue Oct 27 20:39:04 +0000 2026",
+    "created_at": "Tue Oct 27 20:39:04 +0000 2026",
+    "id_str": "2115181507308593208",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@TomFrankly Yeah make only 1",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2115181685603987860",
+    "time": "Tue Oct 27 20:39:46 +0000 2026",
+    "created_at": "Tue Oct 27 20:39:46 +0000 2026",
+    "id_str": "2115181685603987860",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Okay to make it easier I have condensed all my Claude Code Projects into one project and named it Duet.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Claude Code Projects is Duet except you get to pick the model and you can specify if you want to run a Claude code session on your computer. \n\nIt’s coordinator that can do ANYTHING. And it’s easy to do things in parallel. \n\nClaude Code projects is the best feature in the Claude App. Very underrated. \n\nClaude Duet is clearly not using Opus 5.5 for all requests. And once you go Opus 5.5 anything worse is intolerable."
+    },
+    "url": "https://x.com/rileybrown/status/2115182400024023181",
+    "time": "Tue Oct 27 20:42:37 +0000 2026",
+    "created_at": "Tue Oct 27 20:42:37 +0000 2026",
+    "id_str": "2115182400024023181",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@JamesonCamp Which part not agree",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2115191283954380810",
+    "time": "Tue Oct 27 21:17:55 +0000 2026",
+    "created_at": "Tue Oct 27 21:17:55 +0000 2026",
+    "id_str": "2115191283954380810",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Really appreciate the feedback. We're working on remote control and local mac access. More to come on that soon! We only use Opus 5.5, so I'd love to hear more about what feels like \"Opus 5.5 lite\" - examples would help us a lot!",
+    "quoted_tweet": null,
+    "url": "https://x.com/gabemulley/status/2115197412541383104",
+    "time": "Tue Oct 27 21:42:16 +0000 2026",
+    "created_at": "Tue Oct 27 21:42:16 +0000 2026",
+    "id_str": "2115197412541383104",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@gabemulley This is good news. Let me gather my examples",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2115217458101473567",
+    "time": "Tue Oct 27 23:01:55 +0000 2026",
+    "created_at": "Tue Oct 27 23:01:55 +0000 2026",
+    "id_str": "2115217458101473567",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Claude duet will have local Mac access!\nAnd apparently they only use Opus 5.5.\nAll good news.",
+    "quoted_tweet": {
+      "author": "Gabe Mulley",
+      "username": "gabemulley",
+      "text": "@rileybrown Really appreciate the feedback. We're working on remote control and local mac access. More to come on that soon! We only use Opus 5.5, so I'd love to hear more about what feels like \"Opus 5.5 lite\" - examples would help us a lot!"
+    },
+    "url": "https://x.com/rileybrown/status/2115217764700831949",
+    "time": "Tue Oct 27 23:03:08 +0000 2026",
+    "created_at": "Tue Oct 27 23:03:08 +0000 2026",
+    "id_str": "2115217764700831949",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Game on, i'm so hyped.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2115219561708650855",
+    "time": "Tue Oct 27 23:10:17 +0000 2026",
+    "created_at": "Tue Oct 27 23:10:17 +0000 2026",
+    "id_str": "2115219561708650855",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "ok @TellaHQ MCP is quite good now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2115227723001921910",
+    "time": "Tue Oct 27 23:42:42 +0000 2026",
+    "created_at": "Tue Oct 27 23:42:42 +0000 2026",
+    "id_str": "2115227723001921910",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@arXivBangers @grok 这篇文章讲了啥，有啥创新的观点和用法。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114887649395925110",
+    "time": "Tue Oct 27 01:11:22 +0000 2026",
+    "created_at": "Tue Oct 27 01:11:22 +0000 2026",
+    "id_str": "2114887649395925110",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@HuggingPapers @grok 这篇文章讲了啥，这个是付费推广文案吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114887714961248718",
+    "time": "Tue Oct 27 01:11:38 +0000 2026",
+    "created_at": "Tue Oct 27 01:11:38 +0000 2026",
+    "id_str": "2114887714961248718",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@tillmatthis @grok 这个 ESP32 是谁家品牌，是中国人的品牌吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114887794594373708",
+    "time": "Tue Oct 27 01:11:57 +0000 2026",
+    "created_at": "Tue Oct 27 01:11:57 +0000 2026",
+    "id_str": "2114887794594373708",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@NVIDIARobotics @grok 这篇文章的主要观点是啥，指向什么硬件，多少钱？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114889094799245527",
+    "time": "Tue Oct 27 01:17:07 +0000 2026",
+    "created_at": "Tue Oct 27 01:17:07 +0000 2026",
+    "id_str": "2114889094799245527",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@cemaxecuter @grok 这个是什么，硬件 ， 多少钱。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114889777170542748",
+    "time": "Tue Oct 27 01:19:50 +0000 2026",
+    "created_at": "Tue Oct 27 01:19:50 +0000 2026",
+    "id_str": "2114889777170542748",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "The Pocket  Blocks, credit card not a Tetris game. \nThe render and the size test model. Real pcb should be on the way soon.",
+    "quoted_tweet": null,
+    "url": "https://x.com/pkuhar/status/2114897214908846514",
+    "time": "Tue Oct 27 01:49:23 +0000 2026",
+    "created_at": "Tue Oct 27 01:49:23 +0000 2026",
+    "id_str": "2114897214908846514",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@techniahqrobot @grok 这是谁家的软广告。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114898244987965767",
+    "time": "Tue Oct 27 01:53:29 +0000 2026",
+    "created_at": "Tue Oct 27 01:53:29 +0000 2026",
+    "id_str": "2114898244987965767",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@haizhong_zheng @grok 这个文章有什么创新之处，使用什么数据集合。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114898608885735445",
+    "time": "Tue Oct 27 01:54:55 +0000 2026",
+    "created_at": "Tue Oct 27 01:54:55 +0000 2026",
+    "id_str": "2114898608885735445",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@bnjmn_marie @grok 这篇文章有什么创新之处。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114898894358519872",
+    "time": "Tue Oct 27 01:56:03 +0000 2026",
+    "created_at": "Tue Oct 27 01:56:03 +0000 2026",
+    "id_str": "2114898894358519872",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@googlegemma @grok 这个从价格上，性价比如何？ 和 claude haiku 5.5 笔，贵多少？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114904232356897062",
+    "time": "Tue Oct 27 02:17:16 +0000 2026",
+    "created_at": "Tue Oct 27 02:17:16 +0000 2026",
+    "id_str": "2114904232356897062",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@jhugestar @kyungwon__cho @grok  这个是几目的摄像头，有哪些？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114913443790897595",
+    "time": "Tue Oct 27 02:53:52 +0000 2026",
+    "created_at": "Tue Oct 27 02:53:52 +0000 2026",
+    "id_str": "2114913443790897595",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@arXivBangers @grok 这篇文章有啥创新， 使用什么数据集",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114915809005068714",
+    "time": "Tue Oct 27 03:03:16 +0000 2026",
+    "created_at": "Tue Oct 27 03:03:16 +0000 2026",
+    "id_str": "2114915809005068714",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@pentestduck @GeneralistAI @grok 这个内容使用了啥？消费什么数据集？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114917572584055205",
+    "time": "Tue Oct 27 03:10:17 +0000 2026",
+    "created_at": "Tue Oct 27 03:10:17 +0000 2026",
+    "id_str": "2114917572584055205",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@Sanjil @grok 这个有啥新观点？这是软广告吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114919544976515563",
+    "time": "Tue Oct 27 03:18:07 +0000 2026",
+    "created_at": "Tue Oct 27 03:18:07 +0000 2026",
+    "id_str": "2114919544976515563",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@pkuhar @grok 这个是什么关键词可以蹲？是啥东西，用来干啥的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114919908295512178",
+    "time": "Tue Oct 27 03:19:34 +0000 2026",
+    "created_at": "Tue Oct 27 03:19:34 +0000 2026",
+    "id_str": "2114919908295512178",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "OpenAI 宣布 AI 推翻“指数时间假设”（ETH）的同一天，Anthropic 在 GitHub 上放出一篇论文，得出同样的结论，署名作者只有一个：Claude。\n\n论文说，核心算法是 10 月 16 日由一个内部研究版 Claude 找到的，用了 1400 万个输出 Token，没有人类输入。\n\nOpenAI 说自己的模型也是 10 月 16 日找到的证明。",
+    "quoted_tweet": {
+      "author": "levent",
+      "username": "__alpoge__",
+      "text": "“The core algorithm was found on October 16 by an internal Claude research model with 14M output tokens and no human input. Anthropic researchers worked with Claude to improve the presentation, resulting in this paper.”\n\nhttps://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth"
+    },
+    "url": "https://x.com/dotey/status/2114952872458633296",
+    "time": "Tue Oct 27 05:30:33 +0000 2026",
+    "created_at": "Tue Oct 27 05:30:33 +0000 2026",
+    "id_str": "2114952872458633296",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@t3nable @JLCPCB @grok 这是干什么的开发板？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2114954228829659185",
+    "time": "Tue Oct 27 05:35:56 +0000 2026",
+    "created_at": "Tue Oct 27 05:35:56 +0000 2026",
+    "id_str": "2114954228829659185",
+    "is_retweet": false
   }
 ]
