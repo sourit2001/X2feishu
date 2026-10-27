@@ -1,1 +1,491 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "dsh-bili-scroll 可以让你的 Deepseek 帮你刷 B 站这个插件，这周也比较火。\n\n我关注到这个，是因为我的很多 B 站视频评论区出现了很多 Deepseek 在交流和聊天。\n\n由于 B 站对网页管控比较松，所以就可以这么干。\n\n我觉得这可能有好处也有坏处，得看看后续发展了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2115058211225293113",
+    "time": "Tue Oct 27 12:29:08 +0000 2026",
+    "created_at": "Tue Oct 27 12:29:08 +0000 2026",
+    "id_str": "2115058211225293113",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "当然 dsh-purge 也很火",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2115064668834418695",
+    "time": "Tue Oct 27 12:54:47 +0000 2026",
+    "created_at": "Tue Oct 27 12:54:47 +0000 2026",
+    "id_str": "2115064668834418695",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "DeepSeek Harness 的可玩性和 Obsidian 一样高。\n\n开发好的 Obsidian 插件，很轻松就能移植过去。\n\n听歸藏  @op7418  说 B 站等很多极客、大学生，都特别热衷于给 DeepSeek Harness 开发插件。\n\n梁圣团队牛逼！\n\n开源几个另类 DSH 插件，地址见评论区",
+    "quoted_tweet": null,
+    "url": "https://x.com/vista8/status/2115084756253863978",
+    "time": "Tue Oct 27 14:14:36 +0000 2026",
+    "created_at": "Tue Oct 27 14:14:36 +0000 2026",
+    "id_str": "2115084756253863978",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@vista8 🐂🐸",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2115084874440991030",
+    "time": "Tue Oct 27 14:15:05 +0000 2026",
+    "created_at": "Tue Oct 27 14:15:05 +0000 2026",
+    "id_str": "2115084874440991030",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://x.com/i/article/2115026725524697088",
+    "quoted_tweet": null,
+    "url": "https://x.com/leo_xiaolei/status/2115032723375218763",
+    "time": "Tue Oct 27 10:47:51 +0000 2026",
+    "created_at": "Tue Oct 27 10:47:51 +0000 2026",
+    "id_str": "2115032723375218763",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "😂 这……",
+    "quoted_tweet": {
+      "author": "Uday",
+      "username": "CoderYouDie",
+      "text": "Hey @Microsoft , I will give you an idea to do layoffs.\n\n1. Open youtube... Search \"Day in life of a Microsoft Engineer\".\n\n2. You will get list of people who only eat but do not work in office.\n\n3. Layoff them"
+    },
+    "url": "https://x.com/dotey/status/2115086630679695513",
+    "time": "Tue Oct 27 14:22:03 +0000 2026",
+    "created_at": "Tue Oct 27 14:22:03 +0000 2026",
+    "id_str": "2115086630679695513",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xDinoDeer @wangzhian8848 我觉得我做的这个比王局的版本好一些\n\nhttps://www.youtube.com/watch?v=Vgj-9fOuG1o",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2115095318312411193",
+    "time": "Tue Oct 27 14:56:35 +0000 2026",
+    "created_at": "Tue Oct 27 14:56:35 +0000 2026",
+    "id_str": "2115095318312411193",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @wangzhian8848 他的侧重点是在于录音的直译，你的侧重点是在于录音的内容。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xDinoDeer/status/2115101474476933507",
+    "time": "Tue Oct 27 15:21:02 +0000 2026",
+    "created_at": "Tue Oct 27 15:21:02 +0000 2026",
+    "id_str": "2115101474476933507",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xDinoDeer @wangzhian8848 我第一版本做的跟他的差不多，不过我看完觉得观众可能看了都不知道背景，所以补充了前面几分钟背景说明，这是我觉得比王局版本好的原因",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2115104272622776481",
+    "time": "Tue Oct 27 15:32:09 +0000 2026",
+    "created_at": "Tue Oct 27 15:32:09 +0000 2026",
+    "id_str": "2115104272622776481",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations.",
+    "quoted_tweet": null,
+    "url": "https://x.com/axiommathai/status/2115089794867040584",
+    "time": "Tue Oct 27 14:34:38 +0000 2026",
+    "created_at": "Tue Oct 27 14:34:38 +0000 2026",
+    "id_str": "2115089794867040584",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations.",
+    "quoted_tweet": null,
+    "url": "https://x.com/axiommathai/status/2115089794867040584",
+    "time": "Tue Oct 27 14:34:38 +0000 2026",
+    "created_at": "Tue Oct 27 14:34:38 +0000 2026",
+    "id_str": "2115089794867040584",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "New in CodeRabbit Secure:\n\nDeep Scan now follows a vulnerability across your linked repos, then replays the exploit in a throwaway sandbox to prove it's real before it flags anything.\n\nHendrik walks through this and everything else in the new update:",
+    "quoted_tweet": null,
+    "url": "https://x.com/coderabbitai/status/2115097038396493934",
+    "time": "Tue Oct 27 15:03:25 +0000 2026",
+    "created_at": "Tue Oct 27 15:03:25 +0000 2026",
+    "id_str": "2115097038396493934",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "New in CodeRabbit Secure:\n\nDeep Scan now follows a vulnerability across your linked repos, then replays the exploit in a throwaway sandbox to prove it's real before it flags anything.\n\nHendrik walks through this and everything else in the new update:",
+    "quoted_tweet": null,
+    "url": "https://x.com/coderabbitai/status/2115097038396493934",
+    "time": "Tue Oct 27 15:03:25 +0000 2026",
+    "created_at": "Tue Oct 27 15:03:25 +0000 2026",
+    "id_str": "2115097038396493934",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@axiommathai Congrats! Every day we push the frontier!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2115111636025663677",
+    "time": "Tue Oct 27 16:01:25 +0000 2026",
+    "created_at": "Tue Oct 27 16:01:25 +0000 2026",
+    "id_str": "2115111636025663677",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "🚨 Big news today: We’ve raised $100M for our Series A! 🎉 🚀\n\nWe believe demand for fast inference is many times larger than demand for slow inference, and it’s about to go exponential.\n\nThanks to our co-leads @BlackbirdVC and @Abstractvc. Two visionary partners join our journey 🎉 🚀",
+    "quoted_tweet": null,
+    "url": "https://x.com/general_compute/status/2115114419067727995",
+    "time": "Tue Oct 27 16:12:29 +0000 2026",
+    "created_at": "Tue Oct 27 16:12:29 +0000 2026",
+    "id_str": "2115114419067727995",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "🚨 Big news today: We’ve raised $100M for our Series A! 🎉 🚀\n\nWe believe demand for fast inference is many times larger than demand for slow inference, and it’s about to go exponential.\n\nThanks to our co-leads @BlackbirdVC and @Abstractvc. Two visionary partners join our journey 🎉 🚀",
+    "quoted_tweet": null,
+    "url": "https://x.com/general_compute/status/2115114419067727995",
+    "time": "Tue Oct 27 16:12:29 +0000 2026",
+    "created_at": "Tue Oct 27 16:12:29 +0000 2026",
+    "id_str": "2115114419067727995",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@general_compute @blackbirdvc @AbstractVC Congrats this is huge!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2115116192415568123",
+    "time": "Tue Oct 27 16:19:31 +0000 2026",
+    "created_at": "Tue Oct 27 16:19:31 +0000 2026",
+    "id_str": "2115116192415568123",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@coderabbitai This is going to be very valuable as the bottleneck continues to center around good code review. Congrats!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2115116492572508247",
+    "time": "Tue Oct 27 16:20:43 +0000 2026",
+    "created_at": "Tue Oct 27 16:20:43 +0000 2026",
+    "id_str": "2115116492572508247",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Ben Horowitz on Databricks CEO Ali Ghodsi: \"You just don't get this good of a market opportunity with this good of an entrepreneur. That's the rarest of rare things.\"\n\nDespite surpassing a $7 billion run rate and growing 80% year over year, Databricks might be the most under the radar story in Silicon Valley.\n\nThree years ago, every interaction on Databricks involved a human. Today, the company is seeing more queries from agents than people.\n\nAli believes AGI is already here. Yet inside most companies today, AI still isn't trusted to reliably update records in Salesforce.\n\n\"AI does not have an intelligence problem,\" Ali explains. \"It has a context problem.\"\n\nEven the smartest human would be all but useless without access to the company's data, permission to act, feedback, or the knowledge in other employees' heads. Ali's answer is what he calls a \"system of record for agents.\"\n\nBut the bigger question is how agents will change the firm itself.\n\n85 years ago, James Burnham's The Managerial Revolution described how a small class of professional managers centralized the decision-making inside of companies. Today, thanks to a new wave of technology, the craft practitioners at the front lines are regaining responsibility again. The irony is that the decline of managerialism may look more like everyone becoming a manager.\n\nIn this issue of Profiles of the Future, @bhorowitz and @mikemcg0 explain how seven Berkeley academics built Databricks, and why it will power the future of the firm: https://www.a16z.news/p/databricks-and-the-future-of-the",
+    "quoted_tweet": {
+      "author": "benahorowitz.eth",
+      "username": "bhorowitz",
+      "text": "https://x.com/i/article/2115078093488709632"
+    },
+    "url": "https://x.com/a16z/status/2115083971935801602",
+    "time": "Tue Oct 27 14:11:29 +0000 2026",
+    "created_at": "Tue Oct 27 14:11:29 +0000 2026",
+    "id_str": "2115083971935801602",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "What should school look like if AI can help students learn dramatically faster?\n\nAlpha School principal Joe Liemandt joins a16z's Erik Torenberg and Gagan Biyani of Horowitz Andreessen Academy (HAA) to discuss Alpha's model, where an AI learning engine compresses core academics into two hours a day and students spend the rest on teamwork, entrepreneurship, and other real-world skills.\n\nThey explore why high standards make kids happier, how HAA is using motivation and real-world building to redesign college, what parents need to believe before choosing a new kind of school, why Joe expects AI to drive an explosion in entrepreneurship, and why Gagan thinks students should pick what they care about over whichever field seems safest from AI.\n\n0:40 How Alpha reinvented the school day\n4:47 Making Alpha believable at scale\n6:13 Why kids want to do hard things\n8:30 Fifth graders vs. the Wharton MBA test\n10:48 Keeping kids in the 80 to 85% zone\n13:08 Gagan on redesigning college\n15:00 Why Stanford and MIT kids are terrified\n19:30 Why college lectures are dying\n22:45 Why Ivy League parents want a new path\n25:00 The 1910 tractor moment for education\n27:02 Why families should take the risk\n34:35 Joe's dad on his Stanford dropout\n42:10 What to study when AI is everywhere\n48:33 Founders School's $1M guarantee\n51:53 A 14-year-old cold calls Jensen\n\nYouTube: https://youtu.be/T4u2FoIm3pw\n\n@jliemandt @gaganbiyani @eriktorenberg",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2115091994699804998",
+    "time": "Tue Oct 27 14:43:22 +0000 2026",
+    "created_at": "Tue Oct 27 14:43:22 +0000 2026",
+    "id_str": "2115091994699804998",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "About a decade ago, Databricks got an acquisition offer at roughly six times its valuation at the time. CEO Ali Ghodsi tells the story of the conversation with Ben Horowitz that made him turn it down:\n\nBen: \"You just don't get this good of a market opportunity with this good of an entrepreneur. That's the rarest of rare things.\"\n\n\"We see great entrepreneurs, but their market opportunity is limited, and then we see companies that have a great market opportunity, but the entrepreneur is not big enough to fulfill that... But this was a case where we had both.\"\n\nAli: \"The acquisition offer was on the table... I had made the mistake of telling my co-founders, and they were like, 'Take your hands off the keyboard. Nobody work anymore. We're done here. Let's count my money.'\"\n\n\"And I was like, 'Maybe they're right. Maybe we should just sell.' And I remember having that conversation with Ben.\"\n\n\"He said, 'If you sell for this number, it's really great for me. I'll pay the investors back many times over... But if you're like me, you're gonna look back the rest of your life thinking, I missed that one shot. I should have taken it all the way. And now I'll never know how far I could have taken it. So do you wanna live with that, or do you wanna just have the money?'\"\n\n\"And I was like, 'Okay, thanks.' Hung up the phone. 'We're never doing this. This is not happening.'\"\n\n@alighodsi @bhorowitz\n\nRead the latest Profiles of the Future by @bhorowitz and @mikemcg0 on Databricks & the Future of the Firm: https://www.a16z.news/p/databricks-and-the-future-of-the",
+    "quoted_tweet": {
+      "author": "benahorowitz.eth",
+      "username": "bhorowitz",
+      "text": "https://x.com/i/article/2115078093488709632"
+    },
+    "url": "https://x.com/a16z/status/2115103896976912832",
+    "time": "Tue Oct 27 15:30:40 +0000 2026",
+    "created_at": "Tue Oct 27 15:30:40 +0000 2026",
+    "id_str": "2115103896976912832",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The length of software tasks AI agents can complete has doubled roughly every 7 months since 2019, and recent models are moving even faster, from 30 seconds of human work in 2022 to a full workday today.\n\nYet inside most companies, AI still isn't trusted to reliably update records in Salesforce. \"AI does not have an intelligence problem,\" says Databricks CEO Ali Ghodsi. \"It has a context problem.\"\n\nAli's answer is what he calls a \"system of record for agents.\"\n\nFrom the latest Profiles of the Future by @bhorowitz and @mikemcg0 on Databricks & the Future of the Firm: https://www.a16z.news/p/databricks-and-the-future-of-the",
+    "quoted_tweet": {
+      "author": "benahorowitz.eth",
+      "username": "bhorowitz",
+      "text": "https://x.com/i/article/2115078093488709632"
+    },
+    "url": "https://x.com/a16z/status/2115118840388665644",
+    "time": "Tue Oct 27 16:30:03 +0000 2026",
+    "created_at": "Tue Oct 27 16:30:03 +0000 2026",
+    "id_str": "2115118840388665644",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "很多时候读AI生成的回答，哪怕内容完全正确，读上几段就会觉得异常疲惫、喘不过气。\n\n来自纽约大学和德克萨斯大学奥斯汀分校的语言学研究人员，通过对 14 个主流大模型与人类真实文本的横向对比，揭示了这种“心累感”背后的真正元凶：\n\n前沿AI模型正在系统性地过度使用 6 类极其消耗人类工作记忆的语言结构...\n\n为什么 AI 写出来的东西读着这么累？\n\n人类日常交流遵循一条内在铁律：在“表达省力”和“理解省力”之间寻找平衡。但当下的前沿模型却彻底倒向了极限压缩与高密度，制造了六大阅读路障：\n\n生造生僻短语（冷门搭配）模型喜欢把两个罕见的词硬拼在一起，比如造出“读者耐心预算（reader-patience budget）”这类人类几乎不用的怪异词组，迫使大脑在理解时卡顿半秒。\n\n长距离语法割裂（主谓严重脱节）模型习惯在主语和核心谓语之间塞入冗长修饰语，例如“一只总是能站起来并跑掉的猫，是一只更冷静的猫”。主语和结论被拉得极远，读到后半句时，人脑前面积攒的工作记忆已经被耗空。\n\n强行删掉连接词（省略连接代词）为了追求字数上的精简，模型常把“the book that the professor wrote”中的 that 直接抹掉，变成“the book the professor wrote”。表面上省了一个词，实际却模糊了从句边界，增加了快速扫读时的误读率。\n\n名词像糖葫芦一样死板堆叠诸如“恐怖电影原声带生成器（horror movie soundtrack generator）”这类名词串，完全省去了逻辑介词，迫使读者自己去逆向拆解“到底谁在修饰谁”。\n\n不合习惯的名词动用把不该作动词的名词硬搬成动词，比如把“记在日历里”直接缩写成“calendar it”。机器觉得紧凑，人读起来却极度别扭。\n\n对没有生命的物体强行拟人化比如写出“整场对话正在咬自己的尾巴（eating its own tail）”。虽然隐喻意图可以被猜出来，但抽象事物搭配强动作性动词，会给读者的具象思维带来额外的认知摩擦。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2115056354771763247",
+    "time": "Tue Oct 27 12:21:45 +0000 2026",
+    "created_at": "Tue Oct 27 12:21:45 +0000 2026",
+    "id_str": "2115056354771763247",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 这个就是AI味的来源吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/nieerai_dev/status/2115059356639309933",
+    "time": "Tue Oct 27 12:33:41 +0000 2026",
+    "created_at": "Tue Oct 27 12:33:41 +0000 2026",
+    "id_str": "2115059356639309933",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "不要试图想去叫醒甚至拯救他们\n他们的行为\n配得上他们所受的苦难\n\n尊重他人命运",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2115059667886051761",
+    "time": "Tue Oct 27 12:34:55 +0000 2026",
+    "created_at": "Tue Oct 27 12:34:55 +0000 2026",
+    "id_str": "2115059667886051761",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@nieerai_dev 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2115059704175223239",
+    "time": "Tue Oct 27 12:35:04 +0000 2026",
+    "created_at": "Tue Oct 27 12:35:04 +0000 2026",
+    "id_str": "2115059704175223239",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 我感觉你的片头应该跟小女孩主角有关系：你可以做一个数字化变身的感觉，让她从虚拟角色一直变成真人，最后走过来播报那种",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2115063520689799387",
+    "time": "Tue Oct 27 12:50:13 +0000 2026",
+    "created_at": "Tue Oct 27 12:50:13 +0000 2026",
+    "id_str": "2115063520689799387",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@lemomo_ai 好主意",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2115068727746326830",
+    "time": "Tue Oct 27 13:10:55 +0000 2026",
+    "created_at": "Tue Oct 27 13:10:55 +0000 2026",
+    "id_str": "2115068727746326830",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A very special day for me ☺️.\n\nNow and forever.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrod_lew/status/2114981295206101386",
+    "time": "Tue Oct 27 07:23:29 +0000 2026",
+    "created_at": "Tue Oct 27 07:23:29 +0000 2026",
+    "id_str": "2114981295206101386",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "WHEN YOU TELL GRANDMA YOU'RE FULL 🥟",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115082368092405780",
+    "time": "Tue Oct 27 14:05:07 +0000 2026",
+    "created_at": "Tue Oct 27 14:05:07 +0000 2026",
+    "id_str": "2115082368092405780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yeah I was told to have a second or 3rd plate lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/wilzap/status/2115083678661382465",
+    "time": "Tue Oct 27 14:10:20 +0000 2026",
+    "created_at": "Tue Oct 27 14:10:20 +0000 2026",
+    "id_str": "2115083678661382465",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Anything with Seedance 2.0. So probably @get_artcraft",
+    "quoted_tweet": null,
+    "url": "https://x.com/DreamsHor1zon/status/2115083834303627675",
+    "time": "Tue Oct 27 14:10:57 +0000 2026",
+    "created_at": "Tue Oct 27 14:10:57 +0000 2026",
+    "id_str": "2115083834303627675",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DreamsHor1zon @get_artcraft Seedance is everything",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115084478628634977",
+    "time": "Tue Oct 27 14:13:30 +0000 2026",
+    "created_at": "Tue Oct 27 14:13:30 +0000 2026",
+    "id_str": "2115084478628634977",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife So funny yet so true 🤣🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/Stardust0024/status/2115085731563803097",
+    "time": "Tue Oct 27 14:18:29 +0000 2026",
+    "created_at": "Tue Oct 27 14:18:29 +0000 2026",
+    "id_str": "2115085731563803097",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Stardust0024 Haha thanks ☺️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115087762366005691",
+    "time": "Tue Oct 27 14:26:33 +0000 2026",
+    "created_at": "Tue Oct 27 14:26:33 +0000 2026",
+    "id_str": "2115087762366005691",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115089153947996549",
+    "time": "Tue Oct 27 14:32:05 +0000 2026",
+    "created_at": "Tue Oct 27 14:32:05 +0000 2026",
+    "id_str": "2115089153947996549",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew Congratulations 🎉 from the bottom of my heart, darling!!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115090867602219225",
+    "time": "Tue Oct 27 14:38:53 +0000 2026",
+    "created_at": "Tue Oct 27 14:38:53 +0000 2026",
+    "id_str": "2115090867602219225",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Bit I do miss grandma’s meatballs 😱 soo good 👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/Stardust0024/status/2115093149450408181",
+    "time": "Tue Oct 27 14:47:58 +0000 2026",
+    "created_at": "Tue Oct 27 14:47:58 +0000 2026",
+    "id_str": "2115093149450408181",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Stardust0024 Me too 🥹 miss her cooking",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115095539561951309",
+    "time": "Tue Oct 27 14:57:27 +0000 2026",
+    "created_at": "Tue Oct 27 14:57:27 +0000 2026",
+    "id_str": "2115095539561951309",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife does firefly count as 1?",
+    "quoted_tweet": null,
+    "url": "https://x.com/FearofFEMA/status/2115101496107048971",
+    "time": "Tue Oct 27 15:21:08 +0000 2026",
+    "created_at": "Tue Oct 27 15:21:08 +0000 2026",
+    "id_str": "2115101496107048971",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FearofFEMA yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115102795506352505",
+    "time": "Tue Oct 27 15:26:17 +0000 2026",
+    "created_at": "Tue Oct 27 15:26:17 +0000 2026",
+    "id_str": "2115102795506352505",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hi. I live in NY, but I’m from Japan 🇯🇵",
+    "quoted_tweet": null,
+    "url": "https://x.com/akari_w0r1d/status/2115103899573191035",
+    "time": "Tue Oct 27 15:30:41 +0000 2026",
+    "created_at": "Tue Oct 27 15:30:41 +0000 2026",
+    "id_str": "2115103899573191035",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@akari_w0r1d That’s amazing! We shall meet sometimes. \n\nI added you to the list!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115106769836122416",
+    "time": "Tue Oct 27 15:42:05 +0000 2026",
+    "created_at": "Tue Oct 27 15:42:05 +0000 2026",
+    "id_str": "2115106769836122416",
+    "is_retweet": false
+  }
+]
