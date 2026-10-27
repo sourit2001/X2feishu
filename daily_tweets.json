@@ -487,5 +487,226 @@
     "created_at": "Tue Oct 27 15:42:05 +0000 2026",
     "id_str": "2115106769836122416",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This never gets old (& also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable & GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2115066250938192118",
+    "time": "Tue Oct 27 13:01:04 +0000 2026",
+    "created_at": "Tue Oct 27 13:01:04 +0000 2026",
+    "id_str": "2115066250938192118",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Genie 4 is quite an insane experience, generating game-like enviornments as you go. It isn't flawless but I can type \"Neogothic brutalist city inhabited by robots and horses\" & it creates one in a minute. Then I asked it to add dragons. Then a friendly otter NPC. All in realtime",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2115120818116334084",
+    "time": "Tue Oct 27 16:37:54 +0000 2026",
+    "created_at": "Tue Oct 27 16:37:54 +0000 2026",
+    "id_str": "2115120818116334084",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Genie 4 runs DOOM: \"Walking through a typical office but every computer is running DOOM and all of the walls are also running DOOM and also everything is DOOM\"\n\n\"My coworker who is a demon appears\"\n\n\"He has a chaingun\"\n\n\"He gives me a bonus\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2115127527241085010",
+    "time": "Tue Oct 27 17:04:34 +0000 2026",
+    "created_at": "Tue Oct 27 17:04:34 +0000 2026",
+    "id_str": "2115127527241085010",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "all LLMs are getting cooked here",
+    "quoted_tweet": {
+      "author": "Robert Youssef",
+      "username": "rryssf",
+      "text": "https://x.com/i/article/2115090224498065408"
+    },
+    "url": "https://x.com/godofprompt/status/2115090424742445376",
+    "time": "Tue Oct 27 14:37:08 +0000 2026",
+    "created_at": "Tue Oct 27 14:37:08 +0000 2026",
+    "id_str": "2115090424742445376",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "SSH keys won't stop this one.\n\nOpenAI disclosed an unauthenticated remote code execution bug in Brotli, the compression library inside Node.js, Bun and Envoy, found by its own agents during red-teaming. An unpatched server that accepts compressed input can be taken over by a malicious client, with no account needed. The root cause was fixed in the source in February, but nobody knew it was a security hole, so no release shipped.\n\nThe same month, OpenAI finished two months leading a coalition to patch php2shell. levelsio's advice to anyone running a VPS passed 10,000 bookmarks: get it off the public internet.\n\nthe default that costs you: SSH and web ports open to the whole internet, guarded by a good key. A key stops password guessing. It does nothing against an exploit in the software listening on the port.\n\nwhat to do this week, in this order:\n\n1. Run tailscale up on the server and your laptop, then SSH in over the Tailscale IP.\n2. Only once that works: ufw default deny incoming, then ufw allow in on tailscale0 to any port 22.\n3. Put the site behind Cloudflare Tunnel, or allow 443 only from Cloudflare's IP ranges.\n4. Update Node.js and anything else that bundles Brotli.\n\nthe check: from a network outside your tailnet, nc -zv your-server-ip 22 should time out.\n\nAfter the ports, I run a full audit checklist over the site itself, since the open port was only the first door.\n\nTailscale and Cloudflare Tunnel are both free at this scale.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115092420069343464",
+    "time": "Tue Oct 27 14:45:04 +0000 2026",
+    "created_at": "Tue Oct 27 14:45:04 +0000 2026",
+    "id_str": "2115092420069343464",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the security audit prompt I run once the ports are locked:\n\nhttps://godofprompt.ai/prompt-library/create-website-security-checklist",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115092432341856758",
+    "time": "Tue Oct 27 14:45:07 +0000 2026",
+    "created_at": "Tue Oct 27 14:45:07 +0000 2026",
+    "id_str": "2115092432341856758",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you ship on your own servers. I post the fixes the week the bugs land.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115092444190785953",
+    "time": "Tue Oct 27 14:45:09 +0000 2026",
+    "created_at": "Tue Oct 27 14:45:09 +0000 2026",
+    "id_str": "2115092444190785953",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Someone plugged Claude Code into his cheap car stereo and found a root backdoor, a hidden call recorder and a mic that never turned off.\n\nIf you own a cheap Android TV box, tablet or car stereo, yours could be doing the same.\n\nHere are 6 prompts to run the same audit ↓",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115105689282703693",
+    "time": "Tue Oct 27 15:37:47 +0000 2026",
+    "created_at": "Tue Oct 27 15:37:47 +0000 2026",
+    "id_str": "2115105689282703693",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Prompt 6: Permission audit (Android phone)\n\n\"List every app with mic, camera, location or contacts permission and when it last used each. Flag background mic or location use. Suggest what to revoke, wait for my OK.\"\n\niPhone: Settings → Privacy & Security → App Privacy Report.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115105772732620830",
+    "time": "Tue Oct 27 15:38:07 +0000 2026",
+    "created_at": "Tue Oct 27 15:38:07 +0000 2026",
+    "id_str": "2115105772732620830",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Rules: only devices you own, back up first, make it ask before every change.\n\nMore free Claude prompts, no signup:\nhttps://godofprompt.ai/prompt-library/tool/claude\n\nFollow @godofprompt for prompts that do real work.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115105784376046062",
+    "time": "Tue Oct 27 15:38:10 +0000 2026",
+    "created_at": "Tue Oct 27 15:38:10 +0000 2026",
+    "id_str": "2115105784376046062",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Can we PLEASE get AI agents that actually check their own work before telling us everything is done?? 😭\n\nCuz @axiommathai just used a whole swarm of AI agents to work through one of the biggest mathematical proofs in history (kinda big deal!).\n\nAnd their work was verified all along the way!\n\nNow imagine bringing this approach to coding and your less fav vibe coding. \n\nAI agents building things AND being able to prove their code works 😍\n\nAs someone who spends way too much time fixing what my agents break, I'm VERY interested haha 👀",
+    "quoted_tweet": {
+      "author": "Axiom",
+      "username": "axiommathai",
+      "text": "The largest math proof in human history is now computer-verified.\n\nToday, Axiom announces a complete Lean auto-formalization of the Classification of Finite Simple Groups, the \"periodic table of symmetry.\"\n\nAbout 15,000 pages, built by over 100 mathematicians across generations."
+    },
+    "url": "https://x.com/yulikay/status/2115109977522127074",
+    "time": "Tue Oct 27 15:54:50 +0000 2026",
+    "created_at": "Tue Oct 27 15:54:50 +0000 2026",
+    "id_str": "2115109977522127074",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Turtle Beach is putting a 2.25-inch touchscreen directly on the side of a gaming mouse.\n\nThe MC7 lets you change DPI, switch profiles, trigger macros, launch apps and control OBS from the display, without opening extra software.\n\nIt also features a 30,000 DPI sensor, 8K polling, wireless/Bluetooth/wired connectivity and dual hot-swappable batteries.\n\nThe MC7 costs $159.99",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2115111933309546625",
+    "time": "Tue Oct 27 16:02:36 +0000 2026",
+    "created_at": "Tue Oct 27 16:02:36 +0000 2026",
+    "id_str": "2115111933309546625",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Google Gemini Team is going after the periodic table. \n\n> Argon\n> Carbon (rumored Gemini 4 next checkpoint)\n> Hydrogen (rumored Gemini 4 Flash)",
+    "quoted_tweet": null,
+    "url": "https://x.com/ai_for_success/status/2115112070232637693",
+    "time": "Tue Oct 27 16:03:09 +0000 2026",
+    "created_at": "Tue Oct 27 16:03:09 +0000 2026",
+    "id_str": "2115112070232637693",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "“AI will take the joy out of mathematics.”",
+    "quoted_tweet": {
+      "author": "Ken Ono",
+      "username": "KenOno691",
+      "text": "I was brought to tears on Sunday when the last milestone cleared. My father, a mathematician who passed in Jan, introduced me to the giants of group theory as a kid. CFSG defined my 80s college years. I can't believe I somehow got to be part of this human achievement."
+    },
+    "url": "https://x.com/Hesamation/status/2115112086296822212",
+    "time": "Tue Oct 27 16:03:12 +0000 2026",
+    "created_at": "Tue Oct 27 16:03:12 +0000 2026",
+    "id_str": "2115112086296822212",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation $160 to get notifications in the palm of my hand",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115117052017164477",
+    "time": "Tue Oct 27 16:22:56 +0000 2026",
+    "created_at": "Tue Oct 27 16:22:56 +0000 2026",
+    "id_str": "2115117052017164477",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@ai_for_success hydrogen for the flash model checks out, light and a little explosive",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115118194822451615",
+    "time": "Tue Oct 27 16:27:29 +0000 2026",
+    "created_at": "Tue Oct 27 16:27:29 +0000 2026",
+    "id_str": "2115118194822451615",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@yulikay @axiommathai make it write the failing test first, then it can't fake done",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115119302734995727",
+    "time": "Tue Oct 27 16:31:53 +0000 2026",
+    "created_at": "Tue Oct 27 16:31:53 +0000 2026",
+    "id_str": "2115119302734995727",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Hesamation ken ono literally cried from joy, so that prediction aged fast",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115120686335225930",
+    "time": "Tue Oct 27 16:37:23 +0000 2026",
+    "created_at": "Tue Oct 27 16:37:23 +0000 2026",
+    "id_str": "2115120686335225930",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@cfryant @bot Just happy to make the list.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2115116527464911252",
+    "time": "Tue Oct 27 16:20:51 +0000 2026",
+    "created_at": "Tue Oct 27 16:20:51 +0000 2026",
+    "id_str": "2115116527464911252",
+    "is_retweet": false
   }
 ]
