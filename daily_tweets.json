@@ -1,1 +1,484 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 大佬，记得优化下打开100MB以上html闪退的问题",
+    "quoted_tweet": null,
+    "url": "https://x.com/lukaprice/status/2114915030546416070",
+    "time": "Tue Oct 27 03:00:11 +0000 2026",
+    "created_at": "Tue Oct 27 03:00:11 +0000 2026",
+    "id_str": "2114915030546416070",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@lukaprice 我去，100 兆太大了吧？里面有啥东西啊？\n\n我记一下这个问题，但可能不太好优化",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2114915857537351961",
+    "time": "Tue Oct 27 03:03:28 +0000 2026",
+    "created_at": "Tue Oct 27 03:03:28 +0000 2026",
+    "id_str": "2114915857537351961",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "优化了一下我的个人 Memory 和多 Agent 的协作体系\n\n目前是 Codex、Muse 和 Grokbot 一起协作，每个有各自的职能，Claude 没敢让他加入",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2114928011569213603",
+    "time": "Tue Oct 27 03:51:46 +0000 2026",
+    "created_at": "Tue Oct 27 03:51:46 +0000 2026",
+    "id_str": "2114928011569213603",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 请教一下，这是什么工具？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dsd2077/status/2114932032203829482",
+    "time": "Tue Oct 27 04:07:44 +0000 2026",
+    "created_at": "Tue Oct 27 04:07:44 +0000 2026",
+    "id_str": "2114932032203829482",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 好奇问下～同时挂这么多，各自真正差异在哪？\n我感觉很多 pa在 Codex 基础上稍微改造下就能互相替代。目前只觉得 Grok 在 X 信息获取上有独特优势。",
+    "quoted_tweet": null,
+    "url": "https://x.com/bird_helen67403/status/2114932329936539981",
+    "time": "Tue Oct 27 04:08:55 +0000 2026",
+    "created_at": "Tue Oct 27 04:08:55 +0000 2026",
+    "id_str": "2114932329936539981",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@dsd2077 自己写的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2114933944366096828",
+    "time": "Tue Oct 27 04:15:20 +0000 2026",
+    "created_at": "Tue Oct 27 04:15:20 +0000 2026",
+    "id_str": "2114933944366096828",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@bird_helen67403 日常内容生产我主要用 Grok bot 可以手机完成图片视频的制作",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2114934076708975003",
+    "time": "Tue Oct 27 04:15:52 +0000 2026",
+    "created_at": "Tue Oct 27 04:15:52 +0000 2026",
+    "id_str": "2114934076708975003",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这句话是GPT生成的吧😼\n\n这些都还是 OpenAI 的说法，没经过同行评审，截至发稿也没有参与核查的专家公开评价结论对错。",
+    "quoted_tweet": null,
+    "url": "https://x.com/rollothomasi123/status/2114875765234028590",
+    "time": "Tue Oct 27 00:24:09 +0000 2026",
+    "created_at": "Tue Oct 27 00:24:09 +0000 2026",
+    "id_str": "2114875765234028590",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@rollothomasi123 是 Claude 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114878505532203214",
+    "time": "Tue Oct 27 00:35:02 +0000 2026",
+    "created_at": "Tue Oct 27 00:35:02 +0000 2026",
+    "id_str": "2114878505532203214",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师，我想请教一下，这种软件的逆向得怎么让AI完成，是直接一句话描述吗。我最近发现AW的运动计算跟之前差别好大，我想逆向让AI看看运动算法",
+    "quoted_tweet": null,
+    "url": "https://x.com/seazon000/status/2114897122684477511",
+    "time": "Tue Oct 27 01:49:01 +0000 2026",
+    "created_at": "Tue Oct 27 01:49:01 +0000 2026",
+    "id_str": "2114897122684477511",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@seazon000 试试 REA 看看，借助反编译工具能还原算法",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114898010690003391",
+    "time": "Tue Oct 27 01:52:33 +0000 2026",
+    "created_at": "Tue Oct 27 01:52:33 +0000 2026",
+    "id_str": "2114898010690003391",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "security前面裁员裁太狠了，人不够了",
+    "quoted_tweet": {
+      "author": "Conspiracookie",
+      "username": "Conspiracookie",
+      "text": "These are all of the orgs being impacted by the cuts. Screenshot provided by the same Sr. Director."
+    },
+    "url": "https://x.com/suwakopro/status/2114903369907363975",
+    "time": "Tue Oct 27 02:13:51 +0000 2026",
+    "created_at": "Tue Oct 27 02:13:51 +0000 2026",
+    "id_str": "2114903369907363975",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "哈佛大学图书馆的馆藏里有一盘拉德克利夫研究所研讨会的录音，可以公开收听。演讲人是张爱玲，用英文讲中文翻译，主持人报的题目是「一种文化影响的载体」。目录没有标日期，从录音里提到的日期和二手资料推断是 1969 年前后。\n\n这一版先用 3 分钟讲背景。她 1920 年生在上海，去香港读过书，1940 年代在上海成名。1952 年她离开上海，1955 年到美国，第二年嫁给美国作家赖雅。1967 年她到了拉德克利夫研究所，同年赖雅病逝，她在剑桥把《海上花列传》译成英文。接着讲这场讲座讲什么、为什么值得听。片头用的是她当时的照片、书影、她寄给夏志清的信封和地图，开头先放她在讲座里的一句原话。\n\n然后是完整的录音原声，约 72 分钟，包括主持人开场、讲座和听众问答，配中英双语字幕，分 10 章。她讲了这些事：\n\n- 晚清严复译西学，林纾不懂外文，靠别人口述译了一大批小说，哈葛德、狄更斯都在其中。\n- 五四以后白话文学兴起，西方思想和短篇小说成批译进来；毛姆《在中国屏风上》里的辜鸿铭和宋春舫。\n- 《小说月报》、俄国文学和《飘》的中译；科举、排外，林语堂的意译与左翼的直译。\n- 古典诗和小说怎样译成西方语言，五四文学为什么遭冷落，西方读者眼里的中国。\n- 问答：中文版《读者文摘》和扫盲、《红楼梦》后三分之一的疑点、人名为什么难记、汉字与罗马字拼音。\n\n章节：\n\n00:00 背景：她是谁，这场讲座讲什么\n03:05 主持人开场\n05:28 晚清：严复与林纾\n11:44 五四：白话与西学涌入\n16:28 毛姆笔下的中国人\n23:02 译进来的西方\n34:05 排外、科举与直译\n37:35 中国文学走向西方\n42:57 问答一：《读者文摘》与扫盲\n48:30 问答二：《红楼梦》与旧小说\n1:05:35 问答三：汉字与拼音\n\n----\n\n制作这期视频主要还是为了探索音频转成视频的表现形式。\n\n提示词（需要配合 baocut skill 和 app： https://github.com/JimLiu/baocut ，理论上来说只用 Skill 也可以，但要配合 TTS）：\n\n> 基于张爱玲 1969 年那场英文讲座（视频库里的 eileen-chang-1969-radcliffe-zh-en）出一期视频：前面用几分钟讲清她是谁、那时她在哪里做什么、这场讲座讲的是什么、为什么值得听，封面要有她当时的照片，一看就知道是谁。表现形式要丰富，别做成幻灯片，有影像就用影像，可以配 TTS 解说，可以用 AI 画没有人物的示意图。简报写好按你的建议直接做，不用等我确认；先别烘焙导出，做好给我审片链接。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "使用 BaoCut Skill 即可做这种排版的视频（需要安装 BaoCut App 配合转录和对齐翻译）：\nhttps://github.com/JimLiu/baocut/blob/main/skills/baocut/SKILL.md\n\n> 帮我做成一条有设计感的版面视频，像档案馆、纪录片那种风格：演讲画面只放在局部，配双语字幕，有章节的话把章节做成副标题，再根据他讲到的内容搜一些相关的历史图片放进去，整体要美观大方、浑然一体。横版"
+    },
+    "url": "https://x.com/dotey/status/2114907009350774901",
+    "time": "Tue Oct 27 02:28:18 +0000 2026",
+    "created_at": "Tue Oct 27 02:28:18 +0000 2026",
+    "id_str": "2114907009350774901",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@suwakopro 以后 Security 可重要了，救不完的火",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114908053007147432",
+    "time": "Tue Oct 27 02:32:27 +0000 2026",
+    "created_at": "Tue Oct 27 02:32:27 +0000 2026",
+    "id_str": "2114908053007147432",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 给宝玉老师报最新情况：最近这几天我已经彻底对bot沦陷了，不过不是对grok bot或muse，dots等等，不过我着迷的是自己搭建的OpenClaw@TG@computer use😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/wjsjw/status/2114912506896646354",
+    "time": "Tue Oct 27 02:50:09 +0000 2026",
+    "created_at": "Tue Oct 27 02:50:09 +0000 2026",
+    "id_str": "2114912506896646354",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols @dotey 你们是怎么识别到是AI写的？有一个美女说我说话非常像AI，你们觉得我这个评论是AI的吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/wjsjw/status/2114912671095312885",
+    "time": "Tue Oct 27 02:50:48 +0000 2026",
+    "created_at": "Tue Oct 27 02:50:48 +0000 2026",
+    "id_str": "2114912671095312885",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@wjsjw @gantrols AI 怎么会关心说话的是不是美女",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114919403628466614",
+    "time": "Tue Oct 27 03:17:33 +0000 2026",
+    "created_at": "Tue Oct 27 03:17:33 +0000 2026",
+    "id_str": "2114919403628466614",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@wjsjw 有用就好👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114919537460064311",
+    "time": "Tue Oct 27 03:18:05 +0000 2026",
+    "created_at": "Tue Oct 27 03:18:05 +0000 2026",
+    "id_str": "2114919537460064311",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "推荐阅读：《用 Manus 改造 Manus，AI Native 组织改造的实践和思考》https://mp.weixin.qq.com/s/I_hNNAf7LFBf5nJ0rEJHig 来自 Manus 很好的 AI Native 组织改造一手实践分享。\n\n基于我的理解提炼一下要点：\n\n【1】团队的工程基建，从对人友好，变成了向 AI 暴露接口\n\n过去我们做工程基建，核心是提升开发者体验，怎么让工程师写代码更爽；但 AI 原生的第一性原理，是如何让 Agent 能接触到真实世界，自己能获得充足的上下文。\n\n比如 Manus 把分散的仓库串成统一入口、让 AI 能在几秒钟内跑通端到端测试、给 AI 权限去读线上日志、看报警、发邮件、控制 Feature Flag，他们做的这些，都是在把整个软件开发生命周期和业务流彻底暴露给 Agent。\n\n人能看到什么、操作什么，Agent 就必须能看到、能操作。当 Agent 能够自己可以验证结果，形成“修改-验证-排查”的闭环时，它才真正从副驾驶变成了司机。\n\n【2】人和 AI 的交互，从过程控制微管理，变成了只给目标，要证据\n\n在传统的模式里，人跟 AI 是结对的方式，AI 写一段人来修改，人还要操心上下文有没有超、代码写得优不优雅，是不是有垃圾代码。但实际上这种过程工程是低效的，就好比你作为一个管理者去微管理你的员工。\n\n- 直接给结果\nManus 工程师把 Slack 里的需求原文一字不改丢给 Agent，老板要什么就告诉 Agent 要什么，不需要告诉 Agent 怎么做，Agent 自己会想办法完成任务。\n\n- 要证据\n\n当人不再一行行看代码时，怎么相信 AI 的结果是否靠谱呢？\n\nManus 用最好的模型做代码审核机器人，让 AI 自己证明自己做对了。Manus 让 Agent 用测试账号走完注册、支付流程并逐步录屏，产品经理看录屏就能指出哪里不对。\n\n【3】AI 工作流，从人等 Agent，变成 Agent 等人\n\n真正的 AI 原生工作流是高度异步、大规模并发的。如果你只有一个 Agent 在干活，你就得等着它干活，但如果你安排了很多 Agent 同时干活，那么你就不需要等，只需要频繁的在不同的 Agent 之间切换，要么在分配任务，要么验证下结果，效率可以很高。\n\nManus 的工程师一个人同时开着十几二十个 Session 处理需求；领导层把 20 多个待办丢给一个主控 Session，让它自己去拉取 Slack、Gmail 和 Notion 做背景调研并分发任务；市场部的数字 Agent 更是学会了只在一个工作台接收任务，把任务拆给后台的多个子 Session 并行跑，甚至通过定时唤醒在收到系统信号时自动干活，遇到工具不好用还能自己提需求改系统。\n\n【4】组织极致扁平与敏捷，从以前明确的工种，到现在每个人都能身兼多职\n\n传统软件工程里最大的损耗是在人和人之间。 前后端联调的扯皮、产品设计研发对文档理解的偏差、跨部门的排期与优先级错位，毕竟人类无法低成本地共享上下文，所以才不得不靠精细的分工来凑。\n\n而当 AI 抹平了技术栈的鸿沟，分工就不再必要了。在 Manus，一个人可以写完前后端和移动端，7 个人维护 4 个 App；所有产品经理都提交过代码，甚至一半能独立上线功能。\n\n当然这样做不是没有代价的，Manus 人均每月 1 万美元的夸张 Token 消耗，当然hidecloud 在文章中解释了：买的是时间和注意力。\n\n买的是“消除人际沟通损耗”和“保护人类的注意力”。当很多事情不再需要找人问，不需要临时打断别人时，组织才真正实现了极致的扁平与敏捷。\n\n【5】Agent 对话 Session 正在成为公司的新一代资产\n\n对话流（Session / Thread）正在取代传统的文档和看板，成为组织的核心工作对象与记忆载体。组织的知识已经不依赖人和文档，还依赖于 Agent 是否能读得到。\n\nManus 的运维同事嫌总被找去帮忙发版，就把发版流程写进 Agents.md，之后谁都能让 AI 来发；同一项目的成员能看到彼此的 Session，不用再追着人问进度。\n\n【6】当 AI 做了 90% 的事，人还剩下什么？\n\n引用下 hidecloud 的话：\n> 在 AI Native 组织里，人的角色没有变小，而是更集中了。定义问题，判断质量，决定什么值得做，并为结果负责。还有很重要的一点：与 AI 共同成长。\n\n人的位置一直在往上移，从亲手做，到定规则、看证据、做决定。往上移的时候，要小心把判断也一起交出去。\n\n执行可以交给 AI，思考要留给自己。\n\n---\n\n补充一个有意思的点，他们产品经理把需求用 AI 做成视频，然后把视频当需求文档提交，看了下他们的那个视频，确实这个功能要描述清楚不容易，配合视频会简单很多，这确实是一种降低人和人之间沟通损耗的办法。\n\n其实可以试试 Claude Design，这种交互都也能描述清楚，绝大部分功能直接做成高精度原型比视频效果直观多了。\n\n---\n\n虽然现在各个团队都在喊 AI 原生转型，但要做好是真不容易，如果只是在传统流程上加上一点 AI，那很难真正做到 AI 原生。\n\n真想要做好，可以学学 Manus 那样，一切围绕 Agent 重新建立分工和流程，还得舍得砸钱用最好的模型，现在这些模型虽然贵，但是一两年后 Fable 这样的模型成本可能也跟 DeepSeek Flash 差不多了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2114929079975563269",
+    "time": "Tue Oct 27 03:56:00 +0000 2026",
+    "created_at": "Tue Oct 27 03:56:00 +0000 2026",
+    "id_str": "2114929079975563269",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 宣布 AI 推翻“指数时间假设”（ETH）的同一天，Anthropic 在 GitHub 上放出一篇论文，得出同样的结论，署名作者只有一个：Claude。\n\n论文说，核心算法是 10 月 16 日由一个内部研究版 Claude 找到的，用了 1400 万个输出 Token，没有人类输入。\n\nOpenAI 说自己的模型也是 10 月 16 日找到的证明。",
+    "quoted_tweet": {
+      "author": "levent",
+      "username": "__alpoge__",
+      "text": "“The core algorithm was found on October 16 by an internal Claude research model with 14M output tokens and no human input. Anthropic researchers worked with Claude to improve the presentation, resulting in this paper.”\n\nhttps://github.com/anthropics/formal-math/tree/16a5ce41304fcdaea4e0be7c132e1c361dc26da5/eth"
+    },
+    "url": "https://x.com/dotey/status/2114952872458633296",
+    "time": "Tue Oct 27 05:30:33 +0000 2026",
+    "created_at": "Tue Oct 27 05:30:33 +0000 2026",
+    "id_str": "2114952872458633296",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 的\nhttps://x.com/dotey/status/2114867168072315221?s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "OpenAI 称 AI 推翻计算机科学的“指数时间假设”，还证出杨-米尔斯理论存在，外部专家组开始核查\n\nOpenAI 10 月 26 日宣布，内部模型在数学、计算机、物理上各拿出一项成果，其中两项碰的是几十年的难题。这些都还是 OpenAI 的说法，没经过同行评审，截至发稿也没有参与核查的专家公开评价结论对错。\n\n【计算机：一条被当作地基的假设】\n\n“可满足性问题”是这样一类题：给你一堆“A 和 B 至少一个为真”之类的条件，问能不能让它们同时成立。每多一个变量，要试的组合就翻一倍。\n\n1999 年 Russell Impagliazzo 和 Ramamohan Paturi 提出“指数时间假设”（ETH）：这类题没有本质上更快的解法，耗时注定翻倍式增长。几百篇论文拿它当前提，论证很多问题“快不了”。\n\nOpenAI 公开的论文给出一个新算法，依然很慢，但耗时增长得比 ETH 断言的慢，这就足以推翻它。它没有证明“所有难题都有快速解法”（P=NP），OpenAI 也说变成实际提速还要大量研究。\n\nOpenAI 说证明已用 Lean 检查过。Lean 是一种证明检查程序，把证明拆成最小步骤逐条核对，错一步就不通过。论文和 Lean 代码都在 GitHub 上，任何人能复核。核查小组由 Impagliazzo、Paturi 和 MIT 的 Ryan Williams 牵头。\n\n【物理：千禧年难题的一半】\n\n量子色动力学（QCD）描述夸克和胶子怎样靠“强力”粘成原子核，计算和实验对得上，但没人用数学严格证明过它能成立。它的简化版“杨-米尔斯理论”是克雷数学研究所悬赏 100 万美元的千禧年难题。\n\nOpenAI 称模型 9 月写出了两者存在的证明，10 月中旬完成 Lean 检查。不过这道千禧年难题要证两件事：理论存在，以及最轻的粒子也有质量（“质量间隙”）。OpenAI 只说做了前一件。\n\n物理材料暂不公开，由诺贝尔奖得主 David Gross 带队的专家组先自己写成论文，外界目前没法检查。\n\n【数学：Kakeya 猜想推到所有维度】\n\nKakeya 问题问的是：一个图形要能放下指向每个方向的单位线段，最少多大。面积能小到接近零，但数学家猜它在“维度”上总是满的。2025 年王虹和 Joshua Zahl 证了三维。OpenAI 称模型证明了一个更强的猜想，顺带拿下所有维度，论文和 Lean 证明已直接公开。\n\n【为什么换了发布方式】\n\n9 月 OpenAI 宣布解决纳维-斯托克斯千禧年难题，有数学家说撞上自己未公开的研究，引发署名之争；10 月 6 日它一口气发了 722 篇 AI 论文，次日因错误撤回 3 篇。这次改请外部专家牵头：不签保密协议，OpenAI 不要学术署名，专家无偿独立参与。\n\nOpenAI 原文：https://openai.com/index/building-scientific-understanding-with-academic-communities/\n论文与 Lean 证明：https://github.com/openai/math"
+    },
+    "url": "https://x.com/dotey/status/2114953023525212546",
+    "time": "Tue Oct 27 05:31:09 +0000 2026",
+    "created_at": "Tue Oct 27 05:31:09 +0000 2026",
+    "id_str": "2114953023525212546",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "it took accidentally building my own cluely from first principles to realize that cluely is a good idea",
+    "quoted_tweet": null,
+    "url": "https://x.com/zeroxjackson/status/2114871818922127471",
+    "time": "Tue Oct 27 00:08:28 +0000 2026",
+    "created_at": "Tue Oct 27 00:08:28 +0000 2026",
+    "id_str": "2114871818922127471",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@zeroxjackson Real",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2114913025006469358",
+    "time": "Tue Oct 27 02:52:13 +0000 2026",
+    "created_at": "Tue Oct 27 02:52:13 +0000 2026",
+    "id_str": "2114913025006469358",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "OCR 模型出现吞金兽了\n\n文心 Unlimited OCR 第二代发布\n从连续解析几十页，升级到直接能把3600页哈利波特七部全吞了\n\n将文档解析的处理上限从数十页推向“无限”\n\n第二代的Unlimited OCR引入 Unlimited-Horizon Decoding Paradigm，无限跨度解码机制：\n\n具备端到端一次性吞吐数千页超长文档的能力（例如一口气解析 1200+ 页的《三体》全三册、3600+ 页的《哈利·波特》七部曲）\n\n它将文档划成多个页面块\n相邻块共享一个边界页\n\n当前块解析完成后，保留边界页的视觉 KV，以及近期输出的文本 KV\n\n进入下一块，复用这些状态\n释放已经不活跃的旧页面缓存\n\n例如，处理完第 1–10 页后，可以保留第 10 页作为边界，继续处理后面的页面\n\n这样，GPU 上主要驻留当前活动块所需的缓存，而不必驻留整本书\n\nUnlimited OCR  2重点处理的内容包括：\n\n文字和阅读顺序：认出页面上的文字，并按正确顺序排列，避免正文、脚注等内容混在一起\n\n表格和续表：识别表格里的文字、数字和行列关系。如果一张表分在两页上，尽量把它接成一张完整的表。\n\n跨页段落：判断上一页没写完的段落，是否在下一页继续，把前后内容接起来\n\n标题和章节关系：识别哪些是大标题、哪些是小标题，尽量保留文章原来的章节结构\n\n图片和图表的位置：找出页面上哪里有图片、哪里有图表，记录它们的位置",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2114927673894199611",
+    "time": "Tue Oct 27 03:50:25 +0000 2026",
+    "created_at": "Tue Oct 27 03:50:25 +0000 2026",
+    "id_str": "2114927673894199611",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "最后还有个小彩蛋\n\nUnlimited OCR Works 的名字，借用了日本知名游戏和动画《Fate/stay night》里的一个招式名：“无限剑制”（Unlimited Blade Works）。在作品中，这个招式能展开一个布满刀剑的空间，使用前还有一段经典台词。\n\n第一代模型发布后，一位社区用户把这段台词改成了 OCR 版本：\n\n“像素为身，Token 为血\n我已阅尽千余页文档……”\n\n把刀剑换成了像素和文字，呼应模型不断解析长文档的目标\n\n团队很喜欢这个改编，便把它写进了第二代技术报告的开头，这或许就是Unlimited OCR团队的「无限」愿景吧！",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2114927687571825122",
+    "time": "Tue Oct 27 03:50:28 +0000 2026",
+    "created_at": "Tue Oct 27 03:50:28 +0000 2026",
+    "id_str": "2114927687571825122",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Unlimited OCR 在 HuggingFace 上下载量累计超 1000 万，Github 上已获得 2.83万 stars\n\nHuggingFace：https://huggingface.co/baidu/Unlimited-OCR/tree/main\n\nGithub：https://github.com/baidu/Unlimited-OCR\n\n一口气读完三体，约1200+页",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2114927689945727444",
+    "time": "Tue Oct 27 03:50:29 +0000 2026",
+    "created_at": "Tue Oct 27 03:50:29 +0000 2026",
+    "id_str": "2114927689945727444",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Cockroach couture",
+    "quoted_tweet": null,
+    "url": "https://x.com/OdetotheBroken/status/2114922574669115671",
+    "time": "Tue Oct 27 03:30:09 +0000 2026",
+    "created_at": "Tue Oct 27 03:30:09 +0000 2026",
+    "id_str": "2114922574669115671",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@OdetotheBroken Looks actually good",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114925709344784807",
+    "time": "Tue Oct 27 03:42:37 +0000 2026",
+    "created_at": "Tue Oct 27 03:42:37 +0000 2026",
+    "id_str": "2114925709344784807",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "You can only use one AI tool till the rest of your life. Which one would you choose?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114945925512835403",
+    "time": "Tue Oct 27 05:02:57 +0000 2026",
+    "created_at": "Tue Oct 27 05:02:57 +0000 2026",
+    "id_str": "2114945925512835403",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Right this second Claude. But it changes all the time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/AIandDesign/status/2114948976109842474",
+    "time": "Tue Oct 27 05:15:04 +0000 2026",
+    "created_at": "Tue Oct 27 05:15:04 +0000 2026",
+    "id_str": "2114948976109842474",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AIandDesign I am literraly prompting Opus 5.5 right now",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114949104640110895",
+    "time": "Tue Oct 27 05:15:35 +0000 2026",
+    "created_at": "Tue Oct 27 05:15:35 +0000 2026",
+    "id_str": "2114949104640110895",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Opus 5.5 is magic. Did you see my AI Music Video creator Plugin?",
+    "quoted_tweet": null,
+    "url": "https://x.com/AIandDesign/status/2114949281320997149",
+    "time": "Tue Oct 27 05:16:17 +0000 2026",
+    "created_at": "Tue Oct 27 05:16:17 +0000 2026",
+    "id_str": "2114949281320997149",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AIandDesign Been super busy, haven't been online much.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114950294803296548",
+    "time": "Tue Oct 27 05:20:18 +0000 2026",
+    "created_at": "Tue Oct 27 05:20:18 +0000 2026",
+    "id_str": "2114950294803296548",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Of course I get it! When you get to it, give it a go. It's blowing my mind.\n\nhttps://github.com/TheMarco/claude-music-video",
+    "quoted_tweet": null,
+    "url": "https://x.com/AIandDesign/status/2114950503910269304",
+    "time": "Tue Oct 27 05:21:08 +0000 2026",
+    "created_at": "Tue Oct 27 05:21:08 +0000 2026",
+    "id_str": "2114950503910269304",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AIandDesign Ah, I actually can't use external plug ins like this (it's my work Claude), but I am so impressed you made one! Well done",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2114951819386368021",
+    "time": "Tue Oct 27 05:26:22 +0000 2026",
+    "created_at": "Tue Oct 27 05:26:22 +0000 2026",
+    "id_str": "2114951819386368021",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I put 3 Grok @bot bots in a groupchat and let them go to town on a music video for https://slop.cc. I asked them to brainstorm the concept. The result was ULTIMA PURGATIO",
+    "quoted_tweet": null,
+    "url": "https://x.com/EnormousProfit/status/2114269233773490371",
+    "time": "2026-10-25 16:14",
+    "created_at": "Sun Oct 25 08:14:01 +0000 2026",
+    "id_str": "2114269233773490371",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "DELETE ME AGAIN \na slopcore music video\nfull video on YouTube: http://youtu.be/MoCv-aUFJPg\n\nmade with\nsong: http://makebestmusic.com\nimages: @midjourney\ndirector: Claude Opus 5.5 (@claudeai)\nmotion: Grok Imagine (@imagine), plus @Kling_ai and Veo 3.1 (@GoogleDeepMind)\nlip sync: OmniHuman 1.5 by ByteDance\n\ntied together with @wjvill",
+    "quoted_tweet": null,
+    "url": "https://x.com/sappyalien/status/2114401473467457550",
+    "time": "2026-10-26 00:59",
+    "created_at": "Sun Oct 25 16:59:29 +0000 2026",
+    "id_str": "2114401473467457550",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "ClaudiaGI - Faîtes l'amour, pas des prompts! (Make love, not prompts!)\nYour daily bucket of french #slopcore with english subtitles 😍",
+    "quoted_tweet": null,
+    "url": "https://x.com/Extraltodeus/status/2114401522213650864",
+    "time": "2026-10-26 00:59",
+    "created_at": "Sun Oct 25 16:59:41 +0000 2026",
+    "id_str": "2114401522213650864",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "EXCLUSIVE: In less than 12 hours, a group of ex-DOGE cyber researchers were able to penetrate Anthropic’s systems using AI agents — including Slack channels where the most sensitive models are discussed. \nThis is just weeks after \nAnthropic whistleblower Joseph Coxon charged the company w/launching “a hubristic gamble” from a “private company’s Slack.”\nRead our story here (gift link):\nhttps://wapo.st/4smNlsC",
+    "quoted_tweet": null,
+    "url": "https://x.com/lizzadwoskin/status/2114646230764851695",
+    "time": "2026-10-26 17:12",
+    "created_at": "Mon Oct 26 09:12:04 +0000 2026",
+    "id_str": "2114646230764851695",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Introducing Fern, Mirendil’s first model: pretrained from scratch, with up to 10M tokens of context!\n\nThat’s ~0.5M lines of code (roughly Megatron-LM scale) or days of an agent’s work, all in context at once.\n\nIts first version, Fern 0.1, had a short round of post-training 🚢",
+    "quoted_tweet": null,
+    "url": "https://x.com/bneyshabur/status/2114743262565339148",
+    "time": "2026-10-26 23:37",
+    "created_at": "Mon Oct 26 15:37:38 +0000 2026",
+    "id_str": "2114743262565339148",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "https://x.com/i/article/2114743948346556416",
+    "quoted_tweet": null,
+    "url": "https://x.com/pmarca/status/2114751107293749731",
+    "time": "2026-10-27 00:08",
+    "created_at": "Mon Oct 26 16:08:48 +0000 2026",
+    "id_str": "2114751107293749731",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "For centuries, the architecture of the firm has barely changed: hierarchies of people organized into departments and coordinated through bureaucracy.\n\nAI agents are about to upend that.\n\nWe’re moving toward the self-driving company where humans exercise judgment and agents execute most of the work.\n\nAt Replit, we’re building the foundation for this new kind of company. We’re calling it “the Agent Habitat.”\n\nMarc Andreessen wrote a fantastic piece placing this shift in the history of computing. Every major computing revolution began with chaos before businesses figured out how to harness it.",
+    "quoted_tweet": {
+      "author": "Marc Andreessen 🇺🇸",
+      "username": "pmarca",
+      "text": "https://x.com/i/article/2114743948346556416"
+    },
+    "url": "https://x.com/amasad/status/2114760898225299721",
+    "time": "2026-10-27 00:47",
+    "created_at": "Mon Oct 26 16:47:43 +0000 2026",
+    "id_str": "2114760898225299721",
+    "is_retweet": true
+  }
+]
