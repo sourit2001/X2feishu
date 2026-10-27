@@ -194,5 +194,57 @@
     "created_at": "Tue Oct 27 20:37:21 +0000 2026",
     "id_str": "2115181078197473442",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Working on the vaccines part of this @PopVaxIndia supported in large part by Vitalik and Balvi, and would strongly recommend others jump in and work in all of these areas as well!",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "For anyone getting into biology, please consider taking airborne disease resistance more seriously.\n\nIt's a super important area of medicine that is a huge cause of death and sickness but easily gets forgotten. We're likely to get many more airborne plagues in the future due to the combination of not just extremely dense and interconnected society (including city and farm animals), but also accidents from bio research and offensive biotech (both from random people and from secret government programs that can easily get themselves exempted from safety restrictions), all enhanced by powerful AI.\n\nRight now, this area is getting way less love than longevity research (which continues to be super important!), but it's an area where there are lots of unclaimed wins that we know exactly how to do (but are not yet doing) with present-day tech:\n\n* early detection\n* passive universal testing\n* filtration/ventilation/UVC\n* better vaccines (including making them open source and open science)\n* cryptography to make all of the above privacy-preserving\n\nWe can have China-level pandemic resistance with Sweden-level limited intrusion into people's lives, and then go even further. We just have to actually do the work for it."
+    },
+    "url": "https://x.com/sohamsankaran/status/2115066794520232065",
+    "time": "Tue Oct 27 13:03:14 +0000 2026",
+    "created_at": "Tue Oct 27 13:03:14 +0000 2026",
+    "id_str": "2115066794520232065",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "apparently 4 is the new 256-bit security standard. eMudhra walked so GoAhead could crawl. 😭😭",
+    "quoted_tweet": {
+      "author": "John Althouse",
+      "username": "4A4133",
+      "text": "Announcing 3 Critical vulns for hundreds of millions of IoT, Firewalls, OT, and Military devices including: Palo Alto Networks, Comcast, D-Link, HP, Canon, Honeywell, GE, Oracle, Siemens, Rockwell, Digi, Lockheed Martin, Boeing... \n\nThe vulns are with GoAhead Web Server which is a backend library used by these devices. There's a patch available from GoAhead but that doesn't mean there's a patch available for the devices yet -- that's up to the manufacturer.\n\n- TLS traffic over DHE ciphers have a 1-byte secret, \"04\", meaning anyone can decrypt connections to these devices and steal login credentials and session tokens if the client negotiated with DHE ciphers like the latest TLS_DHE_RSA_WITH_CHACHA20_POLY1305_SHA256, which is extremely likely.\n\n- LibreSSL mTLS has been completely bypassed, meaning anyone can connect over mTLS. If you have one of these devices listening on the internet and are expecting mTLS to protect it from attackers, take it offline or patch asap.\n\n- OpenSSL Certificate Revocation Lists (CRLs) are not enforced, meaning if a user device is stolen or compromised, and you revoke that mTLS cert, nothing actually happens. There are a lot of other attacks this can be used for.\n\nThese are critical because these types of devices run our world. Water systems, electricity, military, firewalls, critical infrastructure.\n\nhttps://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead"
+    },
+    "url": "https://x.com/pcaversaccio/status/2115148267940119039",
+    "time": "Tue Oct 27 18:26:59 +0000 2026",
+    "created_at": "Tue Oct 27 18:26:59 +0000 2026",
+    "id_str": "2115148267940119039",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@pcaversaccio they were on to something",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2115186300190101539",
+    "time": "Tue Oct 27 20:58:06 +0000 2026",
+    "created_at": "Tue Oct 27 20:58:06 +0000 2026",
+    "id_str": "2115186300190101539",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@pcaversaccio they were on to something",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2115186300190101539",
+    "time": "Tue Oct 27 20:58:06 +0000 2026",
+    "created_at": "Tue Oct 27 20:58:06 +0000 2026",
+    "id_str": "2115186300190101539",
+    "is_retweet": true
   }
 ]
