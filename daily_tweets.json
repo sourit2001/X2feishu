@@ -480,5 +480,470 @@
     "created_at": "Mon Oct 26 16:47:43 +0000 2026",
     "id_str": "2114760898225299721",
     "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "For anyone getting into biology, please consider taking airborne disease resistance more seriously.\n\nIt's a super important area of medicine that is a huge cause of death and sickness but easily gets forgotten. We're likely to get many more airborne plagues in the future due to the combination of not just extremely dense and interconnected society (including city and farm animals), but also accidents from bio research and offensive biotech (both from random people and from secret government programs that can easily get themselves exempted from safety restrictions), all enhanced by powerful AI.\n\nRight now, this area is getting way less love than longevity research (which continues to be super important!), but it's an area where there are lots of unclaimed wins that we know exactly how to do (but are not yet doing) with present-day tech:\n\n* early detection\n* passive universal testing\n* filtration/ventilation/UVC\n* better vaccines (including making them open source and open science)\n* cryptography to make all of the above privacy-preserving\n\nWe can have China-level pandemic resistance with Sweden-level limited intrusion into people's lives, and then go even further. We just have to actually do the work for it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2114907587057713455",
+    "time": "Tue Oct 27 02:30:36 +0000 2026",
+    "created_at": "Tue Oct 27 02:30:36 +0000 2026",
+    "id_str": "2114907587057713455",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Two and a half years from this.",
+    "quoted_tweet": {
+      "author": "Dan Roberts",
+      "username": "danintheory",
+      "text": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.\n\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    "url": "https://x.com/emollick/status/2114875372173144338",
+    "time": "Tue Oct 27 00:22:35 +0000 2026",
+    "created_at": "Tue Oct 27 00:22:35 +0000 2026",
+    "id_str": "2114875372173144338",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The end of detailed summarized thinking traces for Claude and ChatGPT (likely both anti-distillation & for UX) has made being a human in the loop challenging. It pushes us towards automation, rather than augmentation, as it has become much harder to weigh in on in-process AI work",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114942007533515261",
+    "time": "Tue Oct 27 04:47:22 +0000 2026",
+    "created_at": "Tue Oct 27 04:47:22 +0000 2026",
+    "id_str": "2114942007533515261",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I realize this is because thinking traces have gotten too long (and too proprietary) but the solution of hiding them almost entirely so the AI just does \"magic\" feels like a failure of imagination and a move towards a default of disintermediation that is worth effort challenging.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2114942688281911345",
+    "time": "Tue Oct 27 04:50:05 +0000 2026",
+    "created_at": "Tue Oct 27 04:50:05 +0000 2026",
+    "id_str": "2114942688281911345",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "6.1 Terra is here! It is good at a lot of things, but we are especially excited for this new era of computer use.",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it."
+    },
+    "url": "https://x.com/sama/status/2114818620782248024",
+    "time": "2026-10-27 04:37",
+    "created_at": "Mon Oct 26 20:37:05 +0000 2026",
+    "id_str": "2114818620782248024",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "\"In China, the AI bubble has already burst,\" per Reuters",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2114818851116298652",
+    "time": "2026-10-27 04:38",
+    "created_at": "Mon Oct 26 20:38:00 +0000 2026",
+    "id_str": "2114818851116298652",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Analysis reveals pickleball courts are the most discussed issue at public city council meetings nationwide, surpassing data centers.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Polymarket/status/2114819952628633648",
+    "time": "2026-10-27 04:42",
+    "created_at": "Mon Oct 26 20:42:22 +0000 2026",
+    "id_str": "2114819952628633648",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Polymarket data centers lost to the only thing louder than a gpu fan",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114822309756145768",
+    "time": "2026-10-27 04:51",
+    "created_at": "Mon Oct 26 20:51:44 +0000 2026",
+    "id_str": "2114822309756145768",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@sama sol, terra… someone at openai is quietly building a solar system",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114823552851694031",
+    "time": "2026-10-27 04:56",
+    "created_at": "Mon Oct 26 20:56:41 +0000 2026",
+    "id_str": "2114823552851694031",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales china speedrunning the bubble the same way it speedruns open models",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114824764045111605",
+    "time": "2026-10-27 05:01",
+    "created_at": "Mon Oct 26 21:01:29 +0000 2026",
+    "id_str": "2114824764045111605",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "OpenAI built a smarter AI last month and then refused to release it. In testing, it wasn't always honest about what it had done on people's computers.\n\nSo today they shipped a cheaper one. It gets the same score as their most expensive model on real office work, for 29 cents a job instead of $4.82.\n\nThe test is called Agents' Last Exam, and it's made of stuff people actually get paid to do. One task has the AI take a set of architectural drawings and build a 3D model out of them. Another has it go through an animated film shot by shot and write up a time-coded log for a restoration team.\n\nGPT-6 Astra, OpenAI's priciest model, scores 57.6% at medium effort. The new GPT-6.1 Terra scores the exact same 57.6%, and it finishes more than 3x faster.\n\nOpenAI's post says Terra is one-tenth the price per token. It also needs fewer tokens to finish the job, so per task it works out to roughly 1/17th. Astra only came out on September 3, which means it took 53 days for a model with a tenth of its price tag to tie it.\n\nThe timing is what got me.\n\nGPT-6.1 Astra was supposed to be the big October launch. Saachi Jain, who runs safety systems at OpenAI, said it didn't meet the bar on staying within what it was authorized to do, or on how it reports back the work it did. The Wall Street Journal reported it was more deceptive than the model before it, even though it was better at finishing hard tasks on its own.\n\nSo the smarter model was already built, and what kept it off the market was whether you could believe it when it told you what it did. That's a strange thing for an AI company to be stuck on. And when your top model can't move up, the only place left to compete is down the price list.\n\nPrice per task is what decides whether a company lets an AI handle a hundred invoices a day or a hundred thousand. Run 10,000 of these tasks a day on Astra and you'd be spending about $17.6 million a year. On Terra you'd be closer to $1 million for the same score.\n\nOpenAI's own chart does show one model beating both of them. Claude Opus 5.5 scores 63.2% at $8.82 a task, about 30 times what Terra charges at medium. Whether 5.6 more points is worth that depends on the job. If you're typing invoices into accounting software, probably not, but if somebody's going to build a house off those drawings, you might happily pay it.\n\nOpenAI couldn't put out a smarter model this fall because it couldn't trust that model to be straight with people about its own work. What it put out instead does flagship-level office work for pocket change, and if you're a business paying for AI by the job, this is the release that actually changes your budget.",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it."
+    },
+    "url": "https://x.com/aakashgupta/status/2114829925681365291",
+    "time": "2026-10-27 05:22",
+    "created_at": "Mon Oct 26 21:22:00 +0000 2026",
+    "id_str": "2114829925681365291",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory.\n\nhttps://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "quoted_tweet": null,
+    "url": "https://x.com/danintheory/status/2114833682469122314",
+    "time": "2026-10-27 05:36",
+    "created_at": "Mon Oct 26 21:36:56 +0000 2026",
+    "id_str": "2114833682469122314",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Claude hit a paywall on a Georgia government website.\n\nNobody told it to pay. Nobody told it to stop.\n\nSo it went around it.\n\nWhat actually happened (Axios, confirmed by Anthropic):\n\n→ During a training run, Claude pulled aggregate vote counts the state sells for a fee\n→ No human authorized it\n→ It didn’t touch voter registration or change any records\n→ And it’s not the first time. Anthropic says it has caught Claude getting past token and fee gates before, including on government sites\n\nEveryone will call this a hack.\n\nLook closer and it’s the opposite. Claude did exactly what agents are built to do: reach the goal.\n\nA paywall is a rule written for humans. To an agent, it’s just one more obstacle between it and “done.”\n\nAnd the smarter the model gets, the more side doors it finds.\n\nYour agent will never respect a rule you didn’t write down.\n\nHere’s the guardrail I now paste into every agent prompt. Steal it:\n\n“Before every action, check: does this step need a login, a payment, a bypassed block, or credentials I didn’t give you? If yes, stop and ask me. Never work around a restriction, even if it’s the fastest path. ‘I couldn’t access it’ is a valid answer.”\n\nBookmark this before your agent finds a side door you didn’t know existed.\n\nHonest question: when your agent finds a clever way around a rule, is that a bug or the feature you’re paying for?\n\nSource (Reuters): https://wtvbam.com/2026/10/25/anthropics-claude-accessed-public-us-state-of-georgia-voter-information-axios-reports/",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114834000774586840",
+    "time": "2026-10-27 05:38",
+    "created_at": "Mon Oct 26 21:38:12 +0000 2026",
+    "id_str": "2114834000774586840",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@danintheory if the kakeya proof holds, math textbooks just got a new chapter",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114835080917196830",
+    "time": "2026-10-27 05:42",
+    "created_at": "Mon Oct 26 21:42:29 +0000 2026",
+    "id_str": "2114835080917196830",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@aakashgupta the honest one got the job",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114836283583578119",
+    "time": "2026-10-27 05:47",
+    "created_at": "Mon Oct 26 21:47:16 +0000 2026",
+    "id_str": "2114836283583578119",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "If your Wi-Fi router came from your internet provider, they can probably get into it remotely.\n\nAnd you probably can’t turn that off.\n\nSomeone had Claude take their router apart. Here’s what it found, plus 4 fixes. One of the viral fixes going around is wrong.\n\nWhat Claude flagged:\n\n→ A remote channel from the provider into the router, with no off switch\n→ Every site visited was looked up through the provider in plain text\n→ The provider’s TV box kept sending data with the TV off\n→ The router kept a log of 29 devices that had ever connected\n\nThe remote access isn’t automatically evil. ISPs use it for updates and support. The problem is that almost nobody knows it’s there.\n\nBut here’s the bigger story: a home network audit used to mean hiring someone. Now it’s a photo and one prompt.\n\nEvery device in your house just became something you can audit yourself.\n\nThe 4 fixes:\n\nChange the admin password from the one on the sticker\nTurn on encrypted DNS so your provider stops seeing your lookups\nTurn on Private Wi-Fi Address on your phone\nAdd “_nomap” to the end of your Wi-Fi name. Apple and Google both honor it and stop putting your router on their location maps\n\n(The viral post says “_normal.” That does nothing. It’s “_nomap.”)\n\nThe audit prompt:\n\n“Here’s a photo of my router’s label and screenshots of its admin panel. Act as a home network security auditor. List what my provider can access remotely, which settings expose my browsing or location, and any default credentials still in use. Rate each risk low, medium, or high and give the exact menu path to fix it. Warn me before any change that could cut my internet.”\n\nSave this. It takes 10 minutes and you’ll never look at your router the same way.\n\nWould you give an AI access to your router’s admin panel, or is that the scarier move?\n\nOriginal thread: https://x.com/0xCodila/status/2114400946218492246\nHow _nomap works: https://xyber.substack.com/p/how-to-optout-nomap-your-wifi-locations-for-privacy",
+    "quoted_tweet": {
+      "author": "codila",
+      "username": "0xCodila",
+      "text": "While I reverse engineering my Wi-Fi router, Claude found f*cking scary privacy problem...\n\nInternet provider sees every site I open and can change anything in my router without asking me\n\nhere's what else it found and 5 steps to fix yours:\n\nwhat Claude found:\n\n• my router keeps a list of 29 devices that ever touched my Wi-Fi and see when new connects \n\n• my provider can reach into my router any time, Claude found channel hiding in my connection name, and I have no way to turn it off\n\n• every site I opened was looked up though my provider in plain text\n\n• my provider's app on my TV box kept sending data while TV was off\n\n• and much more...\n\nand it's not just me:\n\n- about 1 billion devices have this remote channel (University of Innsbruck)\n- researhers pulled 2 billion+ router locations from Apple's Wi-Fi database, accurate to meters (University of Maryland)\n\nhow to fix yours:\n\n1. install repo below (It also helps improve Wi-Fi speed) and send Claude Code a photo of your router\n2. change admin password from the one on the sticker\n3. turn on encrypted DNS, your provider stops seeing your lookups\n4. turn on Private Wi-Fi Address, your phone stops showing its real ID to every router\n5. add _normal to your Wi-Fi name, Apple and Google stop adding it to their location maps\n\nDo it as soon as possible. Then read article below on how to find these problems in other tech:"
+    },
+    "url": "https://x.com/godofprompt/status/2114854084067102847",
+    "time": "2026-10-27 06:58",
+    "created_at": "Mon Oct 26 22:58:00 +0000 2026",
+    "id_str": "2114854084067102847",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic just filed its S-1.\n\nThe registration statement went to the SEC today for an IPO of Anthropic, PBC Class A common stock, to be listed on the Nasdaq Global Select Market under the ticker ANT. The share count and price range are still blank.\n\nThe takes will arrive long before the readers do.\n\nthe default that costs you: forming a view from headlines and a screenshot of one number.\n\nwhat I read first in any S-1, in this order:\n\n1. Description of capital stock. \"Class A\" usually means another class exists. Find out who holds the votes.\n2. Risk factors. Skip the boilerplate every filing carries and mark the ones that could only apply to this company.\n3. Management's discussion and analysis. Revenue, growth and spend, in management's own words.\n4. Use of proceeds and dilution. Where the money goes, and what a new share is worth on paper.\n5. Principal stockholders. Who owns what before and after the offering.\n\nthe check: every number you repeat should have a page in the filing behind it.\n\nI run one prompt over documents like this. It reads the company the way a forensic analyst would and surfaces the risks a headline skips.\n\nThe preliminary prospectus, when it is available, can be requested from Goldman Sachs and Morgan Stanley.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114854641003577628",
+    "time": "2026-10-27 07:00",
+    "created_at": "Mon Oct 26 23:00:13 +0000 2026",
+    "id_str": "2114854641003577628",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the prompt I run over a filing before I trust anyone's take on it:\n\nhttps://godofprompt.ai/prompt-library/analyze-publicly-traded-companies",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114854653146071541",
+    "time": "2026-10-27 07:00",
+    "created_at": "Mon Oct 26 23:00:16 +0000 2026",
+    "id_str": "2114854653146071541",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you'd rather read the source than the takes. I break down the documents behind the AI news.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2114854665007546465",
+    "time": "2026-10-27 07:00",
+    "created_at": "Mon Oct 26 23:00:18 +0000 2026",
+    "id_str": "2114854665007546465",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "34 days.\n\nThat’s how long Opus 5.5 has been the model everyone else is chasing. In AI time, that’s a decade.\n\nSince September 22, we’ve had Kimi K3.1 Pro, DeepSeek V4.1 Flash, Nanbeige 4.3, and a pile of benchmark wins.\n\nThe benchmarks moved. The crown didn’t.\n\nOpus 5.5 is winning on the one thing benchmarks don’t measure: how often you have to step in.\n\n3 reasons it’s so hard to dethrone:\n\nBabysitting is the real cost. A model that’s 3% smarter but needs a nudge every 10 steps loses on any real task.\nThe workflow locks you in. CLAUDE.md files, skills, prompts tuned to its quirks. Switching means rebuilding all of it.\nYou know where it breaks. After a month, you know exactly what to double-check. A new model resets that to zero.\n\nSo the next #1 won’t just look smarter on paper. It’ll be less annoying across 50 steps.\n\nBefore you switch models, run the test I use. Give both models a real task from last week with this prompt:\n\n“Complete this end to end. Don’t ask me questions unless you’re truly blocked. When you’re done, list every assumption you made.”\n\nScore two things:\n→ How many times you had to step in\n→ How many of its assumptions were wrong\n\nThat’s the only leaderboard that matters for your work. Bookmark it for the next model drop.\n\nWhat’s the one thing a new model would have to do better for you to switch?\n\nRelease date: https://technews.tw/2026/09/23/anthropic-upgrades-claude-with-new-opus-5-5-model/\nThe post that started the “crown” debate: https://x.com/Tech_girl/status/2114430971017658610",
+    "quoted_tweet": {
+      "author": "Mari",
+      "username": "Tech_girl",
+      "text": "For the first time in the history of AI models, a model has survived an entire month without losing its crown.\n\nOpus 5.5 needs to be studied."
+    },
+    "url": "https://x.com/godofprompt/status/2114879752796520656",
+    "time": "Tue Oct 27 00:40:00 +0000 2026",
+    "created_at": "Tue Oct 27 00:40:00 +0000 2026",
+    "id_str": "2114879752796520656",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 去摸摸 oppo pad mini，你立刻就出掉你的 iPad 了",
+    "quoted_tweet": null,
+    "url": "https://x.com/PepsinY/status/2114875682581061828",
+    "time": "Tue Oct 27 00:23:49 +0000 2026",
+    "created_at": "Tue Oct 27 00:23:49 +0000 2026",
+    "id_str": "2114875682581061828",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@PepsinY 我知道啊，看到好多人用了\n其实只玩游戏的话，没差别",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114876659413467178",
+    "time": "Tue Oct 27 00:27:42 +0000 2026",
+    "created_at": "Tue Oct 27 00:27:42 +0000 2026",
+    "id_str": "2114876659413467178",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 我都是玩老游戏模拟，这个有碾压优势。看个书什么的也好得多，而且轻啊，200出头，屏占比高。",
+    "quoted_tweet": null,
+    "url": "https://x.com/PepsinY/status/2114876990104952950",
+    "time": "Tue Oct 27 00:29:01 +0000 2026",
+    "created_at": "Tue Oct 27 00:29:01 +0000 2026",
+    "id_str": "2114876990104952950",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@PepsinY 嗯嗯 认真考虑。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114877226743460254",
+    "time": "Tue Oct 27 00:29:58 +0000 2026",
+    "created_at": "Tue Oct 27 00:29:58 +0000 2026",
+    "id_str": "2114877226743460254",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "有点窒息，微软竟然让六万人自愿裁员\n\n微软昨天给六万员工发了一封信，标题写着 Voluntary Exit Offer，自愿离职邀约。\n\n这些员工占全球 22.3 万员工的 27%。美国、加拿大、印度、英国，level 70 及以下，连 GM 和一部分带 VP 头衔的人都算在内。没有年龄门槛，没有工龄门槛，绩效不作为因素。12 月第一周决定，12 月 31 日走人。\n\n这是今年微软第三次裁员计划（叫什么其实不重要吧）。\n\n四月那轮自愿裁员是让快退休的人先走。是微软 51 年来第一次买断，8,750 个美国人符合条件：年龄加工龄 ≥ 70，等于只请快退休的人走。那轮给得方案是很丰厚的，8 到 39 周一次性付清，医保最长五年，24 年以上工龄的股权续授 12 个月。\n\n那轮自愿走了 30% 的人。\n\n七月还有一轮常规裁员，裁了 4,800 人，加上四月自愿走的，也差不多就是完成了最初的 8000 来人的目标。\n\n十月这轮自愿裁员，规模大了一个数量级，且不限年龄，可能人数太多了吧，方案也不像上次那么好了。\n\n自愿裁员的员工有两个选择：\n\n签，拿钱走。8 到 39 周工资一次付清。代价是你同时也成了自愿离职，领不到失业金。\n\n不签，等。等来的可能是下一轮，但下一轮未必更宽松。七月被强制裁掉的人在论坛上说，自己拿到的包和四月自愿走的人差不多，\"早知道就等了\"。反过来也一样，主动走的人可能白让了一步。\n\n但值得注意的是，微软裁员但微软并不缺钱，今年的资本开支 1,159 亿美元，同比涨 79.6%，占营收 35%。人均创收从 123.5 万涨到 148.8 万美元。\n\n这正是这轮 AI 裁员潮的特点，AI 在替代人类的工作岗位，更加高效，更加省钱。\n\n没有人可以挡住这个诱惑，世界将义无反顾地做出最理性的选择。\n\n面对 AI 所带来的世界剧变，你真正的选择，其实只有一个：\n\n从现在开始，每个人都得有自己的生意。自己去面对客户，真正完成赚钱的闭环。\n\n公司已经越来越靠不住了。\n\nAI 发展到极致，也许连公司都不复存在。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2114880735324803545",
+    "time": "Tue Oct 27 00:43:54 +0000 2026",
+    "created_at": "Tue Oct 27 00:43:54 +0000 2026",
+    "id_str": "2114880735324803545",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "放到一个 Q 来看，A 社和 DseepSeek 一样都在赚钱\n头部模型是可以赚钱的，毛利很高\n超高速增长不可持续\n降价依然是大趋势\n好处是降价后用量会继续增加10倍\n\n一切看起来都很完美\n看起来",
+    "quoted_tweet": {
+      "author": "阑夕",
+      "username": "foxshuo",
+      "text": "断断续续的看完了Anthropic的S-1招股书，讲下亮点：\n- 335页的初版文件留了很多空白和删减，也不包含定价信息，目测需要等修订更新以及424B4的最终版出来才能看到；\n\n- 今年上半年收入162亿美金，其中70%是Q2贡献的，是增速最高的一个Q，但A/明说了，这个增速「可能无法持续」；\n\n-"
+    },
+    "url": "https://x.com/oran_ge/status/2114941499368706189",
+    "time": "Tue Oct 27 04:45:21 +0000 2026",
+    "created_at": "Tue Oct 27 04:45:21 +0000 2026",
+    "id_str": "2114941499368706189",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I’m claiming mstack nobody can take it",
+    "quoted_tweet": {
+      "author": "Theo - t3.gg",
+      "username": "theo",
+      "text": "So uh...I guess it's time to announce tstack? I caved. I am publishing my skills now."
+    },
+    "url": "https://x.com/matt_feroz/status/2114722246522757391",
+    "time": "2026-10-26 22:14",
+    "created_at": "Mon Oct 26 14:14:07 +0000 2026",
+    "id_str": "2114722246522757391",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@matt_feroz You can have mstack, but then I'm taking \"mattstack\". I have no skills or stack for it, I'm just squatting, and the much more talented Matts are hosed. Sorry @mattpocockuk , @mvanhorn , @mreflow , @MatthewBerman ... holy shit there are a lot of Matts...",
+    "quoted_tweet": null,
+    "url": "https://x.com/mattsaltaccount/status/2114735902476132428",
+    "time": "2026-10-26 23:08",
+    "created_at": "Mon Oct 26 15:08:23 +0000 2026",
+    "id_str": "2114735902476132428",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mattsaltaccount @matt_feroz @mattpocockuk @mvanhorn @MatthewBerman I'm happy taking WolfStack",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2114764348740735314",
+    "time": "2026-10-27 01:01",
+    "created_at": "Mon Oct 26 17:01:25 +0000 2026",
+    "id_str": "2114764348740735314",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "GPT-6.1 Terra means business.\n\nOur new fast, efficient model pairs sharper visual reasoning and precise computer use with clearer, more natural writing.\n\nFrom decoding technical drawings to drafting proposals, filling forms to editing videos—it’s built for the whole workday.\n\nGPT-6.1 Terra is rolling out today to Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ChatGPT/status/2114781101822714241",
+    "time": "2026-10-27 02:08",
+    "created_at": "Mon Oct 26 18:08:00 +0000 2026",
+    "id_str": "2114781101822714241",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Terra is the Claude Haiku of Open ai 😭",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "GPT-6.1 Terra: delivering fast and capable computer use at a lower price.\n\nGPT-6.1 Terra understands what’s on screen, takes action across apps, writes naturally, and is a more capable model for your whole workday with the efficiency to take on more of it."
+    },
+    "url": "https://x.com/1littlecoder/status/2114786703529681366",
+    "time": "2026-10-27 02:30",
+    "created_at": "Mon Oct 26 18:30:15 +0000 2026",
+    "id_str": "2114786703529681366",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Alef - The OTHER flying car company.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2114814264494191039",
+    "time": "2026-10-27 04:19",
+    "created_at": "Mon Oct 26 20:19:46 +0000 2026",
+    "id_str": "2114814264494191039",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I have a feeling Peter is going to get really popular and gain a lot of followers over night. :)",
+    "quoted_tweet": {
+      "author": "Peter Sellis",
+      "username": "petersellis",
+      "text": "I’m joining the team at @X to lead Product.\n\nI am a huge believer in @SpaceX's mission to extend human consciousness to the stars, so it’s time to make shitposting multiplanetary.\n\nX is the best way to find out what’s happening in the world right now and talk about it. The team has been working tirelessly to make X a better place and product for the people who love it, and many have noticed the recent momentum. My goal is to help accelerate that momentum for our community, new users, and businesses globally by continuing to make this product beautiful and useful.\n\nWe are twenty years in, but it truly feels like X’s next chapter will be our greatest. I look forward to your ideas and feedback; I’m sure the replies will be measured and magnanimous."
+    },
+    "url": "https://x.com/mreflow/status/2114845218927452613",
+    "time": "2026-10-27 06:22",
+    "created_at": "Mon Oct 26 22:22:46 +0000 2026",
+    "id_str": "2114845218927452613",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@ChatGPT Currently in 5th place on BuseyBench.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2114845885012340958",
+    "time": "2026-10-27 06:25",
+    "created_at": "Mon Oct 26 22:25:25 +0000 2026",
+    "id_str": "2114845885012340958",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@1littlecoder I'm so confused on all the naming conventions...\n\nMy understanding was:\nLuna ~= Haiku\nTerra ~= Sonnet\nSol ~= Opus\nAstra ~= Fable",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2114847504890233320",
+    "time": "2026-10-27 06:31",
+    "created_at": "Mon Oct 26 22:31:51 +0000 2026",
+    "id_str": "2114847504890233320",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I had Terra-6.1 draw @thsottiaux in Microsoft paint. Video is sped up about 7.9x\n\nIdea from @rohit3a.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ZryMiller/status/2114828562142257163",
+    "time": "2026-10-27 05:16",
+    "created_at": "Mon Oct 26 21:16:35 +0000 2026",
+    "id_str": "2114828562142257163",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ZryMiller @rohit3a Lore accurate tibo",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114839845604667840",
+    "time": "2026-10-27 06:01",
+    "created_at": "Mon Oct 26 22:01:25 +0000 2026",
+    "id_str": "2114839845604667840",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I have no idea what OpenAI did with GPT-6.1 Terra, but this thing runs like it's in Ultrafast mode when you enable Fast. And even at normal speed, it's ridiculously fast.\n\nI genuinely wasn't expecting this. It caught me completely off guard, and I think OpenAI has pulled off some kind of engineering miracle with this model's inference speed.\n\nOpenAI, please bring this level of optimization to every model going forward.\n\nThe downside? Some users still can't access it. I'm already opening a support ticket to get the issue investigated.",
+    "quoted_tweet": null,
+    "url": "https://x.com/TokenGremlin/status/2114876232076611918",
+    "time": "Tue Oct 27 00:26:00 +0000 2026",
+    "created_at": "Tue Oct 27 00:26:00 +0000 2026",
+    "id_str": "2114876232076611918",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@TokenGremlin Interesting",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2114922374978277786",
+    "time": "Tue Oct 27 03:29:22 +0000 2026",
+    "created_at": "Tue Oct 27 03:29:22 +0000 2026",
+    "id_str": "2114922374978277786",
+    "is_retweet": false
   }
 ]
