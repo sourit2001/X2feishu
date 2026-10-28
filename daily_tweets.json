@@ -131,5 +131,406 @@
     "created_at": "Wed Oct 28 22:58:23 +0000 2026",
     "id_str": "2115578956674191429",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "There has been a bunch of really interesting experiments with activating individual neurons in open AI models, locking them into particular personas.\n\nHere historian @ResObscura tries the same trick with a model trained only on data before 1930, and the results are delightful.",
+    "quoted_tweet": {
+      "author": "Benjamin Breen",
+      "username": "ResObscura",
+      "text": "Inspired by @Sauers_ and @jfonsecarivera and other fun recent work with personas in AI models, I built a partial neuron atlas for Talkie-1930, the historical language model created by @status_effects and @AlecRad. Here's the link: https://talkieneurons.vercel.app"
+    },
+    "url": "https://x.com/emollick/status/2115419671877062710",
+    "time": "2026-10-28 20:25",
+    "created_at": "Wed Oct 28 12:25:27 +0000 2026",
+    "id_str": "2115419671877062710",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I just found out that my new book, Co-Existence, debuted at #3 on the New York Times bestseller list. Thank you so much to everyone who bought a copy!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2115584471089262988",
+    "time": "2026-10-29 07:20",
+    "created_at": "Wed Oct 28 23:20:18 +0000 2026",
+    "id_str": "2115584471089262988",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Anthropic slashes Claude prices 40% for US government agencies",
+    "quoted_tweet": null,
+    "url": "https://x.com/Kalshi_Finance/status/2115435922632446184",
+    "time": "2026-10-28 21:30",
+    "created_at": "Wed Oct 28 13:30:01 +0000 2026",
+    "id_str": "2115435922632446184",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Great paper from Amazon and colleagues on self-improving multi-agent systems.\n\nEpisodic memory for agents is so underrated.\n\nBut I am starting to see lots of good applications as frontier models improve.\n\nThis paper is the latest example.\n\nThey built a system that has three parts, all run by the same LLM. A controller plans each task and runs it one step at a time, choosing which sub-agent and which skills to use at each step. Sub-agents start as a generalist, and each specialist inherits the generalist's prompt plus its own role-specific method. Skills are short procedures, such as algorithms or pitfall checklists.\n\nEMMA treats the controller's routing memory, the agent prompts, and the skills as episodic memory that improves from failures. After a failed task, a reflector decides which of the three owns the fix and proposes one edit there. Guards keep every accepted edit scoped, incremental, and bounded.\n\nEMMA beats ACE, GEPA, EvoMAS, and ADAS on KramaBench, AppWorld, and BBEH, by up to 32.5% over the strongest baseline, and uses 17 to 38% fewer training executions.\n\nhttps://arxiv.org/abs/2610.35966\n\nChat with Paper: https://academy.dair.ai/papers/emma-structured-episodic-memory-for-multi-agent-workflow-synthesis-2610.35966",
+    "quoted_tweet": null,
+    "url": "https://x.com/omarsar0/status/2115438189901181296",
+    "time": "2026-10-28 21:39",
+    "created_at": "Wed Oct 28 13:39:02 +0000 2026",
+    "id_str": "2115438189901181296",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "'No Point': UC Berkeley Math Professor Quits Grading Homework Over Student AI Use https://www.zerohedge.com/ai/no-point-uc-berkeley-math-professor-quits-grading-homework-over-student-ai-use",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2115438472735375852",
+    "time": "2026-10-28 21:40",
+    "created_at": "Wed Oct 28 13:40:09 +0000 2026",
+    "id_str": "2115438472735375852",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge the only ai-proof assignment left is office hours nobody attends",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115447903942480266",
+    "time": "2026-10-28 22:17",
+    "created_at": "Wed Oct 28 14:17:38 +0000 2026",
+    "id_str": "2115447903942480266",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Kalshi_Finance time to register my side project as a federal agency",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115449101739282919",
+    "time": "2026-10-28 22:22",
+    "created_at": "Wed Oct 28 14:22:23 +0000 2026",
+    "id_str": "2115449101739282919",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@omarsar0 one fix per failure is the part to steal for your own prompts",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115450360567341133",
+    "time": "2026-10-28 22:27",
+    "created_at": "Wed Oct 28 14:27:23 +0000 2026",
+    "id_str": "2115450360567341133",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Tests check examples. Proofs check everything.\n\nAnthropic and Theorem used Claude to formally verify security properties in 123 open-source libraries at the RISC-V assembly level, in a few weeks. For every input under 64 MB, the proven programs exit normally, with no memory-safety errors or failed assertions, under stated assumptions. Along the way Claude found bugs that had survived trillions of test runs.\n\nFor scale: the seL4 kernel took two person-years to build and twenty to formally verify. That cost kept proofs inside avionics and kernels until now.\n\nthe default that costs you: reading a green test suite as proof. A test checks the inputs someone thought of, and the bug sits in the one nobody tried.\n\nthe version you can run today: before asking a model for tests, ask it for properties.\n\n\"List the properties this function must hold for every input: what it never returns, when it must never crash, and what two implementations must always agree on. Then write property-based tests that throw thousands of random inputs at each one.\"\n\nthe check: break the function on purpose. A useful property fails on the broken version. If nothing fails, the property is too weak.\n\nFor the agreement step I use a prompt that compares two implementations with property-based testing. It is the testing cousin of what Anthropic did when it proved behavioral equivalence for a Python interpreter written in Rust.\n\nTheorem is publishing a Claude skill for developers who want to verify their own code.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115454808157266170",
+    "time": "2026-10-28 22:45",
+    "created_at": "Wed Oct 28 14:45:04 +0000 2026",
+    "id_str": "2115454808157266170",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the property-based comparison prompt:\n\nhttps://godofprompt.ai/prompt-library/compare-function-outputs",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115454820232704260",
+    "time": "2026-10-28 22:45",
+    "created_at": "Wed Oct 28 14:45:07 +0000 2026",
+    "id_str": "2115454820232704260",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you'd rather prove your code than hope about it. I cover the verification side of AI coding.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115454832052170806",
+    "time": "2026-10-28 22:45",
+    "created_at": "Wed Oct 28 14:45:09 +0000 2026",
+    "id_str": "2115454832052170806",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Anthropic IPO filing reveals the company holds more cash than nearly every non-bank U.S. company except Berkshire Hathaway & Alphabet.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Polymarket/status/2115477105097998365",
+    "time": "2026-10-29 00:13",
+    "created_at": "Wed Oct 28 16:13:40 +0000 2026",
+    "id_str": "2115477105097998365",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "There is a 52% chance Anthropic goes public by November 20, per Polymarket⁠.com.\n\nIts IPO filing revealed a net loss of $80.7 billion through June, though the vast majority came from accounting charges tied to its rising valuation.",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2115477463992312225",
+    "time": "2026-10-29 00:15",
+    "created_at": "Wed Oct 28 16:15:05 +0000 2026",
+    "id_str": "2115477463992312225",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "It's insanely cool to have an AI app on my phone that can fix any photo.\n\nI no longer worry about getting the right angle, lighting, or background on every shot - it's a quick (and automatic) fix.\n\nExcited for more people to get to use this soon 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2115477986824839494",
+    "time": "2026-10-29 00:17",
+    "created_at": "Wed Oct 28 16:17:10 +0000 2026",
+    "id_str": "2115477986824839494",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Polymarket all that cash and i still hit my usage limit by lunch",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115478482067038235",
+    "time": "2026-10-29 00:19",
+    "created_at": "Wed Oct 28 16:19:08 +0000 2026",
+    "id_str": "2115478482067038235",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales lost $80 billion by being worth too much. accountants are undefeated",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115479592387616897",
+    "time": "2026-10-29 00:23",
+    "created_at": "Wed Oct 28 16:23:33 +0000 2026",
+    "id_str": "2115479592387616897",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@venturetwins finally a fix for the random stranger in every paris photo",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115480733234135158",
+    "time": "2026-10-29 00:28",
+    "created_at": "Wed Oct 28 16:28:05 +0000 2026",
+    "id_str": "2115480733234135158",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The best cyber model isn't for you yet.\n\nGemini 4 Carbon tops SEC-bench Pro at 88.2% and ExploitGym at 54.8%, and Google is handing it to cyber defenders first. Developers get \"coming soon\", with no date.\n\nYou don't need it to find the obvious holes in your own app this week. You can run an OWASP Top 10 audit on your code today with the model you already pay for.",
+    "quoted_tweet": {
+      "author": "Google DeepMind",
+      "username": "GoogleDeepMind",
+      "text": "Gemini 4 Carbon is our next frontier model.\n\nIt’s state-of-the-art across cybersecurity and long-horizon capabilities."
+    },
+    "url": "https://x.com/godofprompt/status/2115502183491965409",
+    "time": "2026-10-29 01:53",
+    "created_at": "Wed Oct 28 17:53:19 +0000 2026",
+    "id_str": "2115502183491965409",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the audit prompt I'd run on any vibe-coded app before it ships, OWASP Top 10 plus fixes with code:\n\nhttps://godofprompt.ai/prompt-library/secure-vibe-coded-app",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115502195848409152",
+    "time": "2026-10-29 01:53",
+    "created_at": "Wed Oct 28 17:53:22 +0000 2026",
+    "id_str": "2115502195848409152",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Elon Musk calls $GOOGL new Gemini 4 Carbon AI model “impressive” after it topped major benchmarks with particularly strong cybersecurity results.",
+    "quoted_tweet": null,
+    "url": "https://x.com/StockSavvyShay/status/2115506819745595486",
+    "time": "2026-10-29 02:11",
+    "created_at": "Wed Oct 28 18:11:44 +0000 2026",
+    "id_str": "2115506819745595486",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Dive into new topics with immersive explorations in Gemini.\n\nWhether it’s tracing trade routes on the Silk Road, peering inside a jet engine, or studying the physics of lightning, each scene unfolds into interactive layers with guided explanations that let you dig even deeper.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GeminiApp/status/2115507092660289631",
+    "time": "2026-10-29 02:12",
+    "created_at": "Wed Oct 28 18:12:49 +0000 2026",
+    "id_str": "2115507092660289631",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "$NVDA  - US DOJ EXAMINING NVIDIA ACQUISITION OF AI PLATFORM HUGGING FACE, TWO PEOPLE SAY",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeItaone/status/2115511823021576285",
+    "time": "2026-10-29 02:31",
+    "created_at": "Wed Oct 28 18:31:37 +0000 2026",
+    "id_str": "2115511823021576285",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@DeItaone nvidia buying the site where you download models to run on nvidia",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115513285168554343",
+    "time": "2026-10-29 02:37",
+    "created_at": "Wed Oct 28 18:37:26 +0000 2026",
+    "id_str": "2115513285168554343",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@GeminiApp ask it to quiz you after each layer, that's where it actually sticks",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115514389096985018",
+    "time": "2026-10-29 02:41",
+    "created_at": "Wed Oct 28 18:41:49 +0000 2026",
+    "id_str": "2115514389096985018",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@StockSavvyShay argon held the crown for two weeks, shorter than most free trials",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115515483302584725",
+    "time": "2026-10-29 02:46",
+    "created_at": "Wed Oct 28 18:46:10 +0000 2026",
+    "id_str": "2115515483302584725",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt \"coming soon\" with no date is the most honest roadmap in tech",
+    "quoted_tweet": null,
+    "url": "https://x.com/odozsantos/status/2115522319644803256",
+    "time": "2026-10-29 03:13",
+    "created_at": "Wed Oct 28 19:13:20 +0000 2026",
+    "id_str": "2115522319644803256",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@odozsantos It’s pretty fair for a model of such scale",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115550972344987907",
+    "time": "2026-10-29 05:07",
+    "created_at": "Wed Oct 28 21:07:11 +0000 2026",
+    "id_str": "2115550972344987907",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Woah $GOOGL has now shed ~$450B in market value  😳",
+    "quoted_tweet": {
+      "author": "Shay Boloor",
+      "username": "StockSavvyShay",
+      "text": "$GOOGL just keeps putting up video game numbers every single quarter  🤯"
+    },
+    "url": "https://x.com/StockSavvyShay/status/2115561681086714343",
+    "time": "2026-10-29 05:49",
+    "created_at": "Wed Oct 28 21:49:44 +0000 2026",
+    "id_str": "2115561681086714343",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We’re launching a preview of our Connected Apps Platform, giving developers a single place to build and manage apps for Search and the @GeminiApp.\n\nPlus, we’re rolling out a new set of Connected Apps from partners like @Adobe, @Calm, and @onepeloton to make your everyday activities more streamlined.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Google/status/2115562774231155045",
+    "time": "2026-10-29 05:54",
+    "created_at": "Wed Oct 28 21:54:05 +0000 2026",
+    "id_str": "2115562774231155045",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "24M Series A to engineer an AI voice model indistinguishable from a real human.\n\nRime also notes that it is able to process human emotions through tonality and respond with empathy",
+    "quoted_tweet": {
+      "author": "lily clifford",
+      "username": "lilyjclifford",
+      "text": "introducing prism, the world’s first speech-to-speech model you can’t tell from a human in conversation\n\nprism has:\n> 300ms response time, 4x faster than OpenAI GPT-Live\n> outperforms every other s2s model on intelligence (with NO reasoning)\n> the first s2s model customizable through reinforcement learning\n\nwe’re a team of 35 with $35M in funding, and we’re unlocking s2s model adoption faster than openai, google, and x.\n\nthe first 100 people to sign up here get 1 month free: https://rime.ai/prism?utm_campaign=prism-launch&utm_source=X&utm_medium=organic"
+    },
+    "url": "https://x.com/unusual_whales/status/2115563833528098886",
+    "time": "2026-10-29 05:58",
+    "created_at": "Wed Oct 28 21:58:17 +0000 2026",
+    "id_str": "2115563833528098886",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You use Claude to write emails. One guy used it to run 11 labs, and Anthropic just bought his company.\n\nThat gap is the whole skill now: using Claude as your operations team, not your writer.\n\nHis name is Cody Tranbarger. No employees. Just him, part-time consultants and, in his words, \"a bunch of Claude.\" With Claude he coordinated 11 outside labs. In under 18 months his treatment for a rare form of muscular dystrophy went from idea to promising results in mice.\n\nAnthropic announced the acquisition of his company, Mithril Medicine, yesterday. Cody now works there.\n\nMy take: the labs did the science. Keeping 11 vendors, contracts and deadlines moving is a job that usually takes a whole team. He did it with Claude. You can run any project with 5+ moving parts the same way:\n\n“Here are my vendors and what each owes me. Build a tracker with deliverable, deadline, status and next action. Flag anything due in 7 days or waiting on me.”\n“Write a follow-up to [vendor] under 80 words. Restate the deadline and what I need, and end with one yes-or-no question.”\n“Read this contract. Pull out payment terms, deadlines, IP ownership and cancellation terms. Flag what a small business should push back on.”\n“Using my tracker, plan my week by what unblocks the most work.”\n\nWhat would you run solo if Claude handled the coordination?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115564118568849703",
+    "time": "2026-10-29 05:59",
+    "created_at": "Wed Oct 28 21:59:25 +0000 2026",
+    "id_str": "2115564118568849703",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Source, Anthropic's write-up on Mithril: https://www.anthropic.com/research/early-progress-drug-development",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115564131231342979",
+    "time": "2026-10-29 05:59",
+    "created_at": "Wed Oct 28 21:59:28 +0000 2026",
+    "id_str": "2115564131231342979",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales finally a support bot that sounds sorry about the 45 minute hold",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115564881869173061",
+    "time": "2026-10-29 06:02",
+    "created_at": "Wed Oct 28 22:02:27 +0000 2026",
+    "id_str": "2115564881869173061",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Google @GeminiApp @Adobe @calm @onepeloton peloton inside gemini so it can guilt trip me in two apps",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115566044509261908",
+    "time": "2026-10-29 06:07",
+    "created_at": "Wed Oct 28 22:07:04 +0000 2026",
+    "id_str": "2115566044509261908",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@StockSavvyShay number one model at lunch, minus $450 billion by dinner",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115567165277626856",
+    "time": "2026-10-29 06:11",
+    "created_at": "Wed Oct 28 22:11:32 +0000 2026",
+    "id_str": "2115567165277626856",
+    "is_retweet": false
   }
 ]
