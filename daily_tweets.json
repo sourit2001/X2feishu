@@ -590,5 +590,57 @@
     "created_at": "Wed Oct 28 17:07:06 +0000 2026",
     "id_str": "2115490555480461555",
     "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Google's latest model (which is announced but not publicly available yet) just jumped into the lead. Everyone talks about Google dropping the ball. I keep saying over and over again, never count out Google.",
+    "quoted_tweet": {
+      "author": "Logan Kilpatrick",
+      "username": "OfficialLoganK",
+      "text": "Introducing Gemini 4 Carbon, it's a big jump over Argon which we released just 2 weeks ago.\n\nGemini 4 Carbon is SOTA on cyber, long horizon tasks, ranks #1 on Artificial Analysis V5, significantly improves on usability in domains like coding, and is more aligned."
+    },
+    "url": "https://x.com/mreflow/status/2115512433204973661",
+    "time": "2026-10-29 02:34",
+    "created_at": "Wed Oct 28 18:34:03 +0000 2026",
+    "id_str": "2115512433204973661",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "tibo: \"we've decided not to reduce $200 pro plan usage limits from 20x to 10x of plus\"\n\nimagine if this is the good news he's teasing for tomorrow.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Ananth7e/status/2115424711866040708",
+    "time": "2026-10-28 20:45",
+    "created_at": "Wed Oct 28 12:45:28 +0000 2026",
+    "id_str": "2115424711866040708",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Pretty wild that this site got 3M views.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "https://www.poteto.com has landed"
+    },
+    "url": "https://x.com/thsottiaux/status/2115473170279080149",
+    "time": "2026-10-28 23:58",
+    "created_at": "Wed Oct 28 15:58:02 +0000 2026",
+    "id_str": "2115473170279080149",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Ananth7e If only",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2115473280677363810",
+    "time": "2026-10-28 23:58",
+    "created_at": "Wed Oct 28 15:58:28 +0000 2026",
+    "id_str": "2115473280677363810",
+    "is_retweet": false
   }
 ]
