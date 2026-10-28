@@ -544,5 +544,532 @@
     "created_at": "Tue Oct 27 05:35:56 +0000 2026",
     "id_str": "2114954228829659185",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xiaohu 加个小蝌蚪游向球就更好了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2115196058427134030",
+    "time": "Tue Oct 27 21:36:53 +0000 2026",
+    "created_at": "Tue Oct 27 21:36:53 +0000 2026",
+    "id_str": "2115196058427134030",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 工程经理 Felix Rieseberg：面试不再考编程题，新人的冲劲正在跑赢资历\n\nFelix Rieseberg 在 Anthropic 当工程经理，自己招人。他 10 月 27 日在个人博客说，这个月起，他面试时不再让候选人做传统的编程题。理由是 Claude 现在比人更会做这些题：考一道 React（常用的网页开发框架）小题，和考人汇编语言（最接近机器的底层语言）一样没意义。他团队里最能做出成果的人，跟这类测试考得好不好关系不大。\n\n这说的是他自己的面试，Anthropic 全公司是否都这么做，文章没说。\n\nFelix 在 Anthropic 先后带过 http://Claude.ai、Cowork 和 Claude Code 桌面版的工程团队，也是 Electron 的联合维护者。Electron 是很多桌面软件的底座，Slack、VS Code 的电脑版都用它做。他此前在微软、Slack、Stripe、Notion 工作过。\n\n外界常说 AI 让初级程序员更难找工作。Felix 的看法乐观一些：有了 AI 写代码，一个人能做出多大成果，不再那么取决于他攒了多少年框架和代码库的经验。他看到一些入行不久的工程师，跑赢了代码可能写得更好、资历也更老的人。文章标题就叫“冲劲胜过资历”（Hunger beats tenure）。他还说“初级”这个词不准确，这篇其实写给在公司里没人脉、没地位、没话语权的工程师。\n\n【新人看得见问题，但没人听】\n\nFelix 认为，新人的本钱是还不知道公司里那些“规矩”。他面试 Notion 时，有一道题是设计离线模式。后来他才知道，这在 Notion 内部算刁难题：大家都认为离线模式做不出来，整个工作区的数据结构太复杂，没法整体同步；只下载单个页面，大家又觉得 CEO Ivan Zhao 不会接受这种体验。数据结构复杂是真的，CEO 会反对却只是一条没人核实过的“常识”。Felix 当时是新人，什么都不知道，就直接去问了。\n\n他自己也当过“老员工”。刚进 Notion 时，他想给各团队装大电视，实时显示数据看板，在公司里碰了壁，没坚持下去。一年后新同事 Ji Pei 提了同样的想法，Felix 劝他别白费劲，自己早试过了。对方其实已经去问了，第二天电视就到了。Felix 说，那一年里他自己变成了老员工。\n\n新人的短板是没人在乎你怎么想。过去把一个想法做出来很贵，公司通常靠少数几个人拍板哪些点子能上，新人得先熬出地位，公司才肯押注你的想法。就算是相信 AI 的公司，也多半只希望新人把分到的活干得更快。Felix 说，现在把东西做出来已经不贵了。\n\n【他给新人的五条建议】\n\n第一，盯着业务影响，别只做分到手的任务。他引用程序员博主 Patrick McKenzie 2011 年的建议：把自己绑在公司赚钱的那部分业务上。先弄清公司（大公司就看你所在的部门）到底想达成什么，看看你上级的上级在追什么目标，是个好参照。\n\n第二，想一个大胆的点子，一旦成功，能让团队离这些目标近一大步。\n\n第三，用一个周末把它做出来。Felix 见过个人或小团队直接拿着能跑的原型，跳过写需求文档、争取各方支持、排队等设计师和产品经理这一整套流程。\n\n第四，一个原型只放一个好点子。他发现新人常把好几个想法塞进一个原型，三个好点子埋在 20 个烂点子里。原型的用处是把一个想法讲清楚，让领导很快看懂机会在哪，也看出你就是能把它做成的人。\n\n第五，用好自己的新视角。做面向用户的产品，新人更懂外部用户的感受，Felix 说他在 Slack 和 Notion 的同事就很难体会外部用户用自家产品是什么感觉。做基础设施和工具，新人还没学过那些“为什么做不到”的理由。\n\n【Claude Code 桌面版就是这么来的】\n\nFelix 举了 Anthropic 自己的例子。Claude Code 原本在命令行终端里用，靠敲命令、看文字输出，公司里大家都用惯了。后来是两位入职不久的工程师 Anthony Morris 和 Alice Zhao，用一个周末做出了带图形界面的原型，大约八天后第一个公开版本就上线了。Felix 说，这个图形界面版现在很受欢迎。\n\n不考编程题之后考什么，Felix 说他还没想好。目前他会翻简历和作品集，找那些能看出品味、同理心和有原则的思考的小原型。他在文章末尾请读者告诉他更好的办法。\n\n原文：https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
+    "quoted_tweet": {
+      "author": "Felix Rieseberg",
+      "username": "felixrieseberg",
+      "text": "The coding interview is dead, at least for my team at Anthropic. I've seen enough to know that it no longer provides signal. I removed it from loops this month.\n\nI have a spicy, optimistic take - I think there's an opportunity for junior engineers: https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/"
+    },
+    "url": "https://x.com/dotey/status/2115218749888634988",
+    "time": "Tue Oct 27 23:07:03 +0000 2026",
+    "created_at": "Tue Oct 27 23:07:03 +0000 2026",
+    "id_str": "2115218749888634988",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@AkiiwaGames 需要慢慢适应，但这就是未来干活的日常",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2115219749319725514",
+    "time": "Tue Oct 27 23:11:01 +0000 2026",
+    "created_at": "Tue Oct 27 23:11:01 +0000 2026",
+    "id_str": "2115219749319725514",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 平台工程负责人 Katelyn Lesse：上千个 AI 智能体一起干活，还缺程序员解决四个难题\n\nAI 越来越会写代码，很多程序员开始怀疑自己的手艺还值不值钱。Anthropic 平台工程负责人 Katelyn Lesse 10 月 25 日发文说，她看到的情况正相反：接下来一两年，AI 想做成大事，得先靠程序员解决一批新问题。她说，现在是当工程师最有意思的时候之一。\n\nLesse 在 Anthropic 负责平台工程，据她接受 Kleiner Perkins 访谈时的介绍，团队约 200 人。她此前在 Stripe 和 Betterment 带过工程团队。这篇文章发在她的个人博客和 X 上，X 上阅读量约 61 万。\n\n【这些问题从哪来】\n\nAI 智能体，就是能自己调用工具、一步步完成任务的 AI 程序。Lesse 说，它最早只是聊天框，人盯着一问一答；后来模型能独立干更久、更难的活，开始搬到云端运行；再往后出现了多智能体系统：一个总管 AI 把任务拆开，分给一批助手去做，还有的 AI 专门负责打分、提建议。\n\n她说，现在已经有人在搭由成千上万个智能体组成、连续工作不停的系统，用来做科研、新发现和硬件设计。规模一上来，就冒出了四类新问题。\n\n【难题一：服务器怎么安排】\n\n现在大部分软件跑在 Kubernetes 上，这是一套给服务器排班的系统，擅长管“一模一样的副本，哪个挂了换一个顶上”。Lesse 说智能体正好相反：每个都是独一份，记着自己干到哪了；大量时间在等模型回话、等工具、等别的智能体或等人回复，闲多久说不准，忙起来又可能一下冒出几千个。\n\nGoogle 上个月开源的 Agent Substrate 就是冲这个问题做的。据 Google 官方博客，它能让闲着的智能体休眠、把资源腾出来，需要时半秒内唤醒。Lesse 说这块还有大量问题没解决。\n\n【难题二：谁在干活，能干什么】\n\n很多智能体用的是人的账号和权限，系统得分清某个操作是人做的，还是 AI 替人做的。更难的是授权：一个系统替你连干几周，你怎么事先讲清它能做什么、不能做什么？智能体之间互相派活时，一个智能体凭什么相信另一个？Lesse 说，确认身份可以借用现成技术，比如用很快过期的临时凭证代替长期有效的密钥；授权这块基本还是空白。\n\n【难题三：一个被骗，全队遭殃】\n\nLesse 说，最近几个月，尤其最近几周，软件漏洞冒出来的速度超过了业界修补的速度，很多出在大量系统依赖的核心软件里。本月 PHP、GitLab、Node.js 就接连发布了严重漏洞的修复。上千个智能体跑在这些软件上，还要写来路不明的代码、读来路不明的网页，没修好的漏洞就危险得多。\n\n多智能体还多一层风险：一个智能体被网页里藏的恶意指令骗了，可能把指令转给同伴，甚至写进共享记忆，让后来的智能体也照做。她的建议是让每个智能体在严格隔离的“沙箱”里干活，好比实验室把每份样本放进独立的密封箱，一个出事不会传染整屋。\n\n【难题四：跑偏了要能叫停】\n\n系统得记下每个智能体做了什么，而且任何智能体都改不了自己或别人的记录。还得有一个总闸，监控一发现问题，就能把整个系统一次停下，收回所有权限。Lesse 说最难的是判断系统有没有跑偏：一个智能体反复尝试访问不在白名单里的网站，可能是在搞破坏，也可能只是太想把任务做完。\n\n文章最后，Lesse 对正在焦虑的工程师说，这些领域大多还没有现成答案，值得钻进去学、形成自己的判断。\n\n原文：https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve\n\nAgent Substrate 官方介绍：https://cloud.google.com/blog/products/containers-kubernetes/agent-substrate-available-on-gke",
+    "quoted_tweet": {
+      "author": "Katelyn Lesse",
+      "username": "katelyn_lesse",
+      "text": "software engineers are going to have to tackle a new set of problems to unlock powerful multiagent systems to solve the world's hardest problems - right now is one of the most interesting moments in history to be an engineer. https://x.com/i/article/2114537761030230016"
+    },
+    "url": "https://x.com/dotey/status/2115229306490126432",
+    "time": "Tue Oct 27 23:49:00 +0000 2026",
+    "created_at": "Tue Oct 27 23:49:00 +0000 2026",
+    "id_str": "2115229306490126432",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Joe Liemandt of Alpha School on why AI is today's 1910 tractor moment, and why parents once again have to rethink their kids' future:\n\n\"In 1910, 90% of America had an 8th grade education. There were basically no high schools. And over 30% of America is a farmer. So everybody's on the farm, 8th grade was enough.\"\n\n\"Then in 1910, the Case tractor rolled up on the American farm. You can go look at the ads, it literally looks like an Anthropic ad. 'Does the work of 50 programmers. Does the work of 50 farm hands.'\"\n\n\"Literally everybody in America realized 30% of the jobs are going away. That path is gone, and we have to get our kids ready for this new future. And it was that same recognition I think that parents have today.\"\n\n\"What America did back then... they voted to fund an education that they never experienced. They knew they had to do something different than their background, see the world differently, to get their kids ready and get them the good jobs.\"\n\n\"That school system became the industrial system we've had the last 100 years. It served us really well for 100 years, but now it's time for the next change.\"\n\n@jliemandt",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "What should school look like if AI can help students learn dramatically faster?\n\nAlpha School principal Joe Liemandt joins a16z's Erik Torenberg and Gagan Biyani of Horowitz Andreessen Academy (HAA) to discuss Alpha's model, where an AI learning engine compresses core academics into two hours a day and students spend the rest on teamwork, entrepreneurship, and other real-world skills.\n\nThey explore why high standards make kids happier, how HAA is using motivation and real-world building to redesign college, what parents need to believe before choosing a new kind of school, why Joe expects AI to drive an explosion in entrepreneurship, and why Gagan thinks students should pick what they care about over whichever field seems safest from AI.\n\n0:40 How Alpha reinvented the school day\n4:47 Making Alpha believable at scale\n6:13 Why kids want to do hard things\n8:30 Fifth graders vs. the Wharton MBA test\n10:48 Keeping kids in the 80 to 85% zone\n13:08 Gagan on redesigning college\n15:00 Why Stanford and MIT kids are terrified\n19:30 Why college lectures are dying\n22:45 Why Ivy League parents want a new path\n25:00 The 1910 tractor moment for education\n27:02 Why families should take the risk\n34:35 Joe's dad on his Stanford dropout\n42:10 What to study when AI is everywhere\n48:33 Founders School's $1M guarantee\n51:53 A 14-year-old cold calls Jensen\n\nYouTube: https://youtu.be/T4u2FoIm3pw\n\n@jliemandt @gaganbiyani @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2115134068698616303",
+    "time": "Tue Oct 27 17:30:33 +0000 2026",
+    "created_at": "Tue Oct 27 17:30:33 +0000 2026",
+    "id_str": "2115134068698616303",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "US construction productivity fell from 1970 to 2020 while the rest of the economy got more productive, and a 1-year-old startup called Unlimited Industries is trying to reverse that.\n\nUnlimited is managing $10 billion in data center and power plant projects, compressing design and engineering work that typically takes 18 months and 100,000 human hours into a single day.\n\nThe team has set out to do for construction what SpaceX did for launch and Anduril did for defense: question every assumption and build from first principles.\n\n\"We were better at building in the '60s, everything from power plants to houses and everything in the middle, than we are today. An era before we had computers, we were better at building stuff than we are now.\"\n\nCo-founder and CEO Alex Modon expects to 2-3x the team in the next 6 months.\n\nUnlimited is hiring founding roles across engineering, sales, supply chain, construction management, and recruiting, all in SF: https://a16zjobs.substack.com/p/inside-unlimited-the-1-year-old-ai\n\n@alexmodon @unltdindustries",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2115144076958064974",
+    "time": "Tue Oct 27 18:10:20 +0000 2026",
+    "created_at": "Tue Oct 27 18:10:20 +0000 2026",
+    "id_str": "2115144076958064974",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks CEO Ali Ghodsi says we already have all the intelligence we need, and the opportunity now is applying it productively:\n\n\"I think we already have AGI. I actually think we have achieved AGI. We just need to make it useful.\"\n\n\"Apply it to everyday things that we wanna do, and make it valuable at simple things. That's all we need, and that's what's gonna prove out to be very, very valuable for everything, businesses, companies, organizations.\"\n\n\"We don't need more intelligence, honestly.\"\n\n@alighodsi (UC Berkeley, 2025)\n\nRead the latest Profiles of the Future by @bhorowitz and @mikemcg0 on Databricks & the Future of the Firm: https://www.a16z.news/p/databricks-and-the-future-of-the",
+    "quoted_tweet": {
+      "author": "benahorowitz.eth",
+      "username": "bhorowitz",
+      "text": "https://x.com/i/article/2115078093488709632"
+    },
+    "url": "https://x.com/a16z/status/2115151606128001034",
+    "time": "Tue Oct 27 18:40:15 +0000 2026",
+    "created_at": "Tue Oct 27 18:40:15 +0000 2026",
+    "id_str": "2115151606128001034",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Every company can rent the same frontier models, so the edge comes from what a company's agents learn about its own business. Databricks' answer is a system of record built for agents.\n\nBefore an agent can be trusted with real work, that record has to tell it:\n\n1. What's true: the company's own data\n\n2. What it means: how the business defines things (grounding agents in it raised accuracy from about 50% to 84.5% in Databricks' testing)\n\n3. What it's allowed to do: an identity, a budget, and guardrails\n\n4. Whether it worked: grading against the company's own definition of good\n\nFeed every correction back into the record, and the company keeps what it learns even when the model changes.\n\n\"If you replace the AI model at your company and the new one inherits your definitions, permissions, evaluated cases, customer history, and hard-won exceptions, that is a foundation for a sustainable competitive advantage.\"\n\nFrom the latest Profiles of the Future by @bhorowitz and @mikemcg0 on Databricks & the Future of the Firm: https://www.a16z.news/p/databricks-and-the-future-of-the",
+    "quoted_tweet": {
+      "author": "benahorowitz.eth",
+      "username": "bhorowitz",
+      "text": "https://x.com/i/article/2115078093488709632"
+    },
+    "url": "https://x.com/a16z/status/2115164140780265921",
+    "time": "Tue Oct 27 19:30:03 +0000 2026",
+    "created_at": "Tue Oct 27 19:30:03 +0000 2026",
+    "id_str": "2115164140780265921",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Gagan Biyani of Horowitz Andreessen Academy (HAA) on why the best way to future-proof a career is being AI-native in whatever field you love:\n\n\"The question of, 'What field should I study so that I can be sure that I'm resilient to the future?' is not the right question.\"\n\n\"The question is, 'What field am I interested in?' I have enough faith that if you're AI-native in any field, it does not matter.\"\n\n\"A lot of people are concerned about coding or math. There's gonna be a whole new type of coding and math that happens with the AI-native mathematicians.\"\n\n\"The new students who love math, they're gonna do just fine. In fact, they're gonna go and do things none of us ever thought possible.\"\n\n\"That's actually something that we were trying to screen for at HAA. We really don't want someone who's like, 'I wanna make sure I'm resilient to the future.' It's a very defensive way of approaching the world, and we want you to be on offense.\"\n\n@gaganbiyani",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "What should school look like if AI can help students learn dramatically faster?\n\nAlpha School principal Joe Liemandt joins a16z's Erik Torenberg and Gagan Biyani of Horowitz Andreessen Academy (HAA) to discuss Alpha's model, where an AI learning engine compresses core academics into two hours a day and students spend the rest on teamwork, entrepreneurship, and other real-world skills.\n\nThey explore why high standards make kids happier, how HAA is using motivation and real-world building to redesign college, what parents need to believe before choosing a new kind of school, why Joe expects AI to drive an explosion in entrepreneurship, and why Gagan thinks students should pick what they care about over whichever field seems safest from AI.\n\n0:40 How Alpha reinvented the school day\n4:47 Making Alpha believable at scale\n6:13 Why kids want to do hard things\n8:30 Fifth graders vs. the Wharton MBA test\n10:48 Keeping kids in the 80 to 85% zone\n13:08 Gagan on redesigning college\n15:00 Why Stanford and MIT kids are terrified\n19:30 Why college lectures are dying\n22:45 Why Ivy League parents want a new path\n25:00 The 1910 tractor moment for education\n27:02 Why families should take the risk\n34:35 Joe's dad on his Stanford dropout\n42:10 What to study when AI is everywhere\n48:33 Founders School's $1M guarantee\n51:53 A 14-year-old cold calls Jensen\n\nYouTube: https://youtu.be/T4u2FoIm3pw\n\n@jliemandt @gaganbiyani @eriktorenberg"
+    },
+    "url": "https://x.com/a16z/status/2115179298718138648",
+    "time": "Tue Oct 27 20:30:17 +0000 2026",
+    "created_at": "Tue Oct 27 20:30:17 +0000 2026",
+    "id_str": "2115179298718138648",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Databricks CEO Ali Ghodsi says if frontier models stopped advancing, it wouldn't matter for most orgs because enterprise AI is bottlenecked on context, not intelligence:\n\n\"There's no agentic work that's automated the whole enterprise. That has just not happened. Why is that? The real reason is the models are smart enough, but they just don't have the context that exists inside of any organization.\"\n\n\"They have not been in every meeting. They don't know what's in everybody's heads. They don't know all the processes. There's always a couple of employees who know everything in every organization. You go tap on their shoulder, and everybody's like, 'Oh my God, what would happen if he or she quits?'\"\n\n\"If you just fused that and gave that context into the AI models, just the frontier today, I think there's so much productivity gains you could get for any organization on the planet.\"\n\n\"For that, we actually don't need smarter models... If the frontier doesn't advance, it doesn't actually matter for the vast majority of organizations on the planet. They're just so far behind in the adoption curve of actually automating things and getting value out of this stuff.\"\n\n@alighodsi\n\nRead the latest Profiles of the Future by @bhorowitz and @mikemcg0 on Databricks & the Future of the Firm: https://www.a16z.news/p/databricks-and-the-future-of-the",
+    "quoted_tweet": {
+      "author": "benahorowitz.eth",
+      "username": "bhorowitz",
+      "text": "https://x.com/i/article/2115078093488709632"
+    },
+    "url": "https://x.com/a16z/status/2115196931979014345",
+    "time": "Tue Oct 27 21:40:21 +0000 2026",
+    "created_at": "Tue Oct 27 21:40:21 +0000 2026",
+    "id_str": "2115196931979014345",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "How to ask a girl out? Make no mistakes.\n\nThis is what happens inside AI when you ask such questions.\n\nIntroducing Inside AI, our latest AI short film.\n\nNow 100% open source, with every prompt and asset now public.",
+    "quoted_tweet": null,
+    "url": "https://x.com/higgsfield_ai/status/2115094837796257917",
+    "time": "Tue Oct 27 14:54:40 +0000 2026",
+    "created_at": "Tue Oct 27 14:54:40 +0000 2026",
+    "id_str": "2115094837796257917",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 他妈的，这篇帖子是 ai 写的，底下全他妈是 ai 回复",
+    "quoted_tweet": null,
+    "url": "https://x.com/MorrisStil24797/status/2115121447123521729",
+    "time": "Tue Oct 27 16:40:24 +0000 2026",
+    "created_at": "Tue Oct 27 16:40:24 +0000 2026",
+    "id_str": "2115121447123521729",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@MorrisStil24797 ？评论全拉黑",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2115125460065812700",
+    "time": "Tue Oct 27 16:56:21 +0000 2026",
+    "created_at": "Tue Oct 27 16:56:21 +0000 2026",
+    "id_str": "2115125460065812700",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Had early access to Genie 4 from @GoogleDeepMind.\n\nThis is a fully generated, interactive world from a single starting prompt (environment + character) 🤯\n\nFeels like a massive step forward - you can now prompt to change the world and interact with it. With native audio!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2115114238943568324",
+    "time": "Tue Oct 27 16:11:46 +0000 2026",
+    "created_at": "Tue Oct 27 16:11:46 +0000 2026",
+    "id_str": "2115114238943568324",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Small tip for more personal AI art: \n\nStart from a photo you took yourself. Your street, your window, your morning coffee. Then ask AI to reinterpret it in a style you love. The result feels like yours, because the eye behind it is yours",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115136461494206890",
+    "time": "Tue Oct 27 17:40:04 +0000 2026",
+    "created_at": "Tue Oct 27 17:40:04 +0000 2026",
+    "id_str": "2115136461494206890",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Do you block bots when you see their generic replies? I block even when they’re verified. \nHow to spot: they don’t follow you, reply to every single post with clearly AI generated text and over explain stuff usually repeating the original post.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115165868628025478",
+    "time": "Tue Oct 27 19:36:55 +0000 2026",
+    "created_at": "Tue Oct 27 19:36:55 +0000 2026",
+    "id_str": "2115165868628025478",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Nate_Midnite @icreatelife Nate does amazing work",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2115168805865574412",
+    "time": "Tue Oct 27 19:48:35 +0000 2026",
+    "created_at": "Tue Oct 27 19:48:35 +0000 2026",
+    "id_str": "2115168805865574412",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte @Nate_Midnite Wow, that's beautiful. Followed Nate now",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115168924803399749",
+    "time": "Tue Oct 27 19:49:04 +0000 2026",
+    "created_at": "Tue Oct 27 19:49:04 +0000 2026",
+    "id_str": "2115168924803399749",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte @icreatelife Thank you Toshi. My niche is limited and traditional. You do yours so well!",
+    "quoted_tweet": null,
+    "url": "https://x.com/neeha7777/status/2115169726561390708",
+    "time": "Tue Oct 27 19:52:15 +0000 2026",
+    "created_at": "Tue Oct 27 19:52:15 +0000 2026",
+    "id_str": "2115169726561390708",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@neeha7777 @ToshiArte Very cool style of illustrations",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115170249570124180",
+    "time": "Tue Oct 27 19:54:20 +0000 2026",
+    "created_at": "Tue Oct 27 19:54:20 +0000 2026",
+    "id_str": "2115170249570124180",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Kling 4 in Adobe Firefly has some of the coolest camera movement \n\nCrash zoom, time-freeze, whip back out \n\nPrompt below 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115171368446701913",
+    "time": "Tue Oct 27 19:58:46 +0000 2026",
+    "created_at": "Tue Oct 27 19:58:46 +0000 2026",
+    "id_str": "2115171368446701913",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Prompt (use references as elements) \nI mean a portrait, then a character sheet of portrait, then wardrobe and environment. You'd only need these four",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115171371299078245",
+    "time": "Tue Oct 27 19:58:47 +0000 2026",
+    "created_at": "Tue Oct 27 19:58:47 +0000 2026",
+    "id_str": "2115171371299078245",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Here you can use Kling 4 on Firefly platform: \nhttps://firefly.adobe.com/quick-actions/kling-4-0",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115171374469693913",
+    "time": "Tue Oct 27 19:58:48 +0000 2026",
+    "created_at": "Tue Oct 27 19:58:48 +0000 2026",
+    "id_str": "2115171374469693913",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@venturetwins @GoogleDeepMind That’s really cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115172343618101695",
+    "time": "Tue Oct 27 20:02:39 +0000 2026",
+    "created_at": "Tue Oct 27 20:02:39 +0000 2026",
+    "id_str": "2115172343618101695",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@umesh_ai Very cool, Umesh",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115172481535533321",
+    "time": "Tue Oct 27 20:03:12 +0000 2026",
+    "created_at": "Tue Oct 27 20:03:12 +0000 2026",
+    "id_str": "2115172481535533321",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@IamEmily2050 Wow that’s awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115172998638420197",
+    "time": "Tue Oct 27 20:05:15 +0000 2026",
+    "created_at": "Tue Oct 27 20:05:15 +0000 2026",
+    "id_str": "2115172998638420197",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I always felt like these throttle or limit your views when this happens..??",
+    "quoted_tweet": null,
+    "url": "https://x.com/MusicManVA/status/2115173568468148600",
+    "time": "Tue Oct 27 20:07:31 +0000 2026",
+    "created_at": "Tue Oct 27 20:07:31 +0000 2026",
+    "id_str": "2115173568468148600",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MusicManVA If you block and report them, it limits their views.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115174054063656990",
+    "time": "Tue Oct 27 20:09:27 +0000 2026",
+    "created_at": "Tue Oct 27 20:09:27 +0000 2026",
+    "id_str": "2115174054063656990",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@carolletta Great photo of you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115174892349833667",
+    "time": "Tue Oct 27 20:12:47 +0000 2026",
+    "created_at": "Tue Oct 27 20:12:47 +0000 2026",
+    "id_str": "2115174892349833667",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@999PureBS Haha true",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115175021454786974",
+    "time": "Tue Oct 27 20:13:17 +0000 2026",
+    "created_at": "Tue Oct 27 20:13:17 +0000 2026",
+    "id_str": "2115175021454786974",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife looks really cool 👍👍👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/NURM_Dima/status/2115176827995959798",
+    "time": "Tue Oct 27 20:20:28 +0000 2026",
+    "created_at": "Tue Oct 27 20:20:28 +0000 2026",
+    "id_str": "2115176827995959798",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NURM_Dima Thank you, Dima! I've been playing with prompts a lot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115178267305185516",
+    "time": "Tue Oct 27 20:26:11 +0000 2026",
+    "created_at": "Tue Oct 27 20:26:11 +0000 2026",
+    "id_str": "2115178267305185516",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Woooo can’t wait to use it on there!",
+    "quoted_tweet": null,
+    "url": "https://x.com/artisin_ai/status/2115180494501421223",
+    "time": "Tue Oct 27 20:35:02 +0000 2026",
+    "created_at": "Tue Oct 27 20:35:02 +0000 2026",
+    "id_str": "2115180494501421223",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I block 🤷‍♀️ it’s getting so bad.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2115183089580184042",
+    "time": "Tue Oct 27 20:45:21 +0000 2026",
+    "created_at": "Tue Oct 27 20:45:21 +0000 2026",
+    "id_str": "2115183089580184042",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I'm looking to make some new Grok Bots.\n\nReply with a screenshot of your @bot list, here's mine:",
+    "quoted_tweet": null,
+    "url": "https://x.com/petergyang/status/2115183650082054586",
+    "time": "Tue Oct 27 20:47:35 +0000 2026",
+    "created_at": "Tue Oct 27 20:47:35 +0000 2026",
+    "id_str": "2115183650082054586",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115186691489382615",
+    "time": "Tue Oct 27 20:59:40 +0000 2026",
+    "created_at": "Tue Oct 27 20:59:40 +0000 2026",
+    "id_str": "2115186691489382615",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I've been beginning to do this. It's getting sooo annoying seeing automated replies in my posts.",
+    "quoted_tweet": null,
+    "url": "https://x.com/realjohnnewburg/status/2115187368307376510",
+    "time": "Tue Oct 27 21:02:21 +0000 2026",
+    "created_at": "Tue Oct 27 21:02:21 +0000 2026",
+    "id_str": "2115187368307376510",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @bot librarian is for public library books?\n\nwhat do some of the others do? cool names!",
+    "quoted_tweet": null,
+    "url": "https://x.com/petergyang/status/2115187374410059810",
+    "time": "Tue Oct 27 21:02:22 +0000 2026",
+    "created_at": "Tue Oct 27 21:02:22 +0000 2026",
+    "id_str": "2115187374410059810",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@petergyang @bot https://x.com/icreatelife/status/2113733490772517340",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Who does what:\n\nGrok Bot, my everyday helper\n\nLibrarian, picks my next book\n\nFun Fun, helps me write posts\n\nMailman, my Japanese tutor\n\nMimi, helps with my AI series\n\nInsta, my Instagram coach\n\nKris, my X growth consultant\n\nStar, my AI animation intern"
+    },
+    "url": "https://x.com/icreatelife/status/2115187578555216307",
+    "time": "Tue Oct 27 21:03:11 +0000 2026",
+    "created_at": "Tue Oct 27 21:03:11 +0000 2026",
+    "id_str": "2115187578555216307",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love hearing this from a professional photographer! You add such a good perspective",
+    "quoted_tweet": null,
+    "url": "https://x.com/pop_smoke78/status/2115198195512852545",
+    "time": "Tue Oct 27 21:45:22 +0000 2026",
+    "created_at": "Tue Oct 27 21:45:22 +0000 2026",
+    "id_str": "2115198195512852545",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@pop_smoke78 Thank you! Photography used to be a job, now it's still a big passion.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115199266780258754",
+    "time": "Tue Oct 27 21:49:38 +0000 2026",
+    "created_at": "Tue Oct 27 21:49:38 +0000 2026",
+    "id_str": "2115199266780258754",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "i've gotten a lot of questions about how i manage my X account with grok bot, so i'm sharing my bot tibot today! he watches your mentions and:\n\n• finds every post about you or any keywords, tagged or not\n• gives one short, sorted digest a day (or hourly, your call)\n• skips spam and noise\n• translates non-English posts\n• can auto block trolls and abuse\n• never posts for you\n\ni still write all my posts and articles by hand but tibot has been very helpful with keeping me in the loop.\n\nhire tibot today!\n\nhttps://x.ai/bot/xZ4wRvomWqzCXnyYFr7i3",
+    "quoted_tweet": null,
+    "url": "https://x.com/poteto/status/2115205951649423585",
+    "time": "Tue Oct 27 22:16:12 +0000 2026",
+    "created_at": "Tue Oct 27 22:16:12 +0000 2026",
+    "id_str": "2115205951649423585",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@artisin_ai Enjoy!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115227133463118130",
+    "time": "Tue Oct 27 23:40:22 +0000 2026",
+    "created_at": "Tue Oct 27 23:40:22 +0000 2026",
+    "id_str": "2115227133463118130",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@realjohnnewburg So true",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115227185619595402",
+    "time": "Tue Oct 27 23:40:34 +0000 2026",
+    "created_at": "Tue Oct 27 23:40:34 +0000 2026",
+    "id_str": "2115227185619595402",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@poteto This is great! Thanks",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2115239398958576006",
+    "time": "2026-10-28 08:29",
+    "created_at": "Wed Oct 28 00:29:06 +0000 2026",
+    "id_str": "2115239398958576006",
+    "is_retweet": false
   }
 ]
