@@ -311,5 +311,244 @@
     "created_at": "Thu Oct 29 23:43:46 +0000 2026",
     "id_str": "2115952767647056144",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "ChatGPT web app now has a new hidden shared usage limit checkout disclaimer - \"Starting in December, plan usage will have a shared limit across all of ChatGPT and Codex\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/btibor91/status/2115927832069292214",
+    "time": "Thu Oct 29 22:04:41 +0000 2026",
+    "created_at": "Thu Oct 29 22:04:41 +0000 2026",
+    "id_str": "2115927832069292214",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Binance have suffered a massive hack involving over $2 billion in crypto.\n\nAccording to on-chain reports, more than $2 billion in ETH and other tokens were transferred from Binance hot wallets to a newly created address.\n\nThe transaction was initiated by a wallet funded through Tornado Cash. Around 195,460 ETH was later moved to another address, while roughly $1.5 billion in tokens remained in the receiving wallet.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2115928851515662379",
+    "time": "Thu Oct 29 22:08:44 +0000 2026",
+    "created_at": "Thu Oct 29 22:08:44 +0000 2026",
+    "id_str": "2115928851515662379",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We gave Claude Opus 5.5 one goal: \nBeat the Nasdaq. 🧠\n\n$QQQ: +63.8%\n$QLD: +111.5%\nOpus 5.5 Strat: +126.8%\n\nAdd this strategy for free 👇\nhttps://trendspider.cc/QLDScalper",
+    "quoted_tweet": null,
+    "url": "https://x.com/TrendSpider/status/2115930426275422719",
+    "time": "Thu Oct 29 22:15:00 +0000 2026",
+    "created_at": "Thu Oct 29 22:15:00 +0000 2026",
+    "id_str": "2115930426275422719",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Anthropic quadruples maximum request size on its Claude API from 32 MB to 128 MB, allowing significantly larger PDFs, image-heavy prompts, & computer-use sessions.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Polymarket/status/2115933697119793655",
+    "time": "Thu Oct 29 22:28:00 +0000 2026",
+    "created_at": "Thu Oct 29 22:28:00 +0000 2026",
+    "id_str": "2115933697119793655",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You pay OpenAI $200 a month for ChatGPT Pro. Since yesterday, OpenAI gives the same $200 back every month as API credits.\n\nDon't claim them and they're gone. Credits don't roll over.\n\nHow it works:\n→ Pro $100, $200 and $500 tiers get $100, $200 or $500 a month in API credits\n→ Business: $20 per Standard seat, $100 per Premium seat, up to $500 per workspace\n→ Claim in ChatGPT: Settings → Billing. Your plan has to be active 7+ days, and the first month is prorated\n→ Covers the API: agents, image generation, realtime voice, built-in tools\n→ It does NOT raise your ChatGPT or Codex limits and doesn't cover Codex through API keys\n→ Rolling out by country and group, so some people don't see it yet\n\nMy take: most Pro users will never claim this because they don't think of themselves as developers. You don't need to be one. Codex or Claude writes the code, the credits pay for running it.\n\nFirst, set a monthly spend limit in API billing so one bug can't burn the balance. Then:\n\nPrompt 1: Receipts to spreadsheet\n\"Using the OpenAI API, build a script that reads a folder of receipt photos and PDFs, pulls date, vendor, amount and category, and saves a CSV. Use the cheapest model that reads images. Show me the cost per receipt before running it on everything.\"\n\nPrompt 2: Morning digest\n\"Build a daily digest. Every morning, pull these RSS feeds [list], pick the 5 most important items, summarize each in 3 lines and email it to me. Estimate the monthly API cost first and keep it under $20.\"\n\nPrompt 3: Reply drafter\n\"Build a tool where I paste a customer email and it drafts a reply in my tone, using these 10 past replies as examples. Log the cost of every call.\"\n\nWe keep hundreds of prompts like these at God of Prompt. Free library in the first reply.\n\nWill you actually use the credits, or is OpenAI counting on most people leaving them on the table?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115933826136653904",
+    "time": "Thu Oct 29 22:28:30 +0000 2026",
+    "created_at": "Thu Oct 29 22:28:30 +0000 2026",
+    "id_str": "2115933826136653904",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "OpenAI's help article: https://help.openai.com/en/articles/20001626-api-credits-benefit-for-eligible-chatgpt-subscriptions\n\nFree prompts, no signup: https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115933838471991800",
+    "time": "Thu Oct 29 22:28:33 +0000 2026",
+    "created_at": "Thu Oct 29 22:28:33 +0000 2026",
+    "id_str": "2115933838471991800",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Polymarket finally big enough for the scanned 400 page pdf my landlord sent",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115934131926249914",
+    "time": "Thu Oct 29 22:29:43 +0000 2026",
+    "created_at": "Thu Oct 29 22:29:43 +0000 2026",
+    "id_str": "2115934131926249914",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@btibor91 december is when codex starts eating my therapy chat budget",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115935253659623680",
+    "time": "Thu Oct 29 22:34:11 +0000 2026",
+    "created_at": "Thu Oct 29 22:34:11 +0000 2026",
+    "id_str": "2115935253659623680",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation hot wallet finally living up to the name",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115936381604335944",
+    "time": "Thu Oct 29 22:38:40 +0000 2026",
+    "created_at": "Thu Oct 29 22:38:40 +0000 2026",
+    "id_str": "2115936381604335944",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@TrendSpider out of sample, or did claude already know how the chart ended?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115937513269272733",
+    "time": "Thu Oct 29 22:43:10 +0000 2026",
+    "created_at": "Thu Oct 29 22:43:10 +0000 2026",
+    "id_str": "2115937513269272733",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "$NVDA is reportedly in talks to provide over $5B in credit guarantees for Nscale's 460MW data center backed by a $45B $ANT compute contract.\n\nNvidia would essentially be financing power and construction rather than GPUs which could help bring more Vera Rubin capacity online faster while lowering borrowing costs for its customers.",
+    "quoted_tweet": null,
+    "url": "https://x.com/StockSavvyShay/status/2115940242918350906",
+    "time": "Thu Oct 29 22:54:00 +0000 2026",
+    "created_at": "Thu Oct 29 22:54:00 +0000 2026",
+    "id_str": "2115940242918350906",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "i hate sf halloween, what do you mean you keep saying you’re five minutes away but haven’t shown up because you’re dressed as the openai ipo",
+    "quoted_tweet": null,
+    "url": "https://x.com/paularambles/status/2115942287628972205",
+    "time": "Thu Oct 29 23:02:08 +0000 2026",
+    "created_at": "Thu Oct 29 23:02:08 +0000 2026",
+    "id_str": "2115942287628972205",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "BREAKING: Jim Cramer declares \"let things fall\" as tech stocks suffer a brutal selloff amid mounting concerns over AI spending.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Polymarket/status/2115944518432194771",
+    "time": "Thu Oct 29 23:11:00 +0000 2026",
+    "created_at": "Thu Oct 29 23:11:00 +0000 2026",
+    "id_str": "2115944518432194771",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@StockSavvyShay vendor financing, but make it a 460 megawatt building",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115946051085459963",
+    "time": "Thu Oct 29 23:17:05 +0000 2026",
+    "created_at": "Thu Oct 29 23:17:05 +0000 2026",
+    "id_str": "2115946051085459963",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@paularambles my costume is agi, been five minutes away since 2023",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115947371171602882",
+    "time": "Thu Oct 29 23:22:20 +0000 2026",
+    "created_at": "Thu Oct 29 23:22:20 +0000 2026",
+    "id_str": "2115947371171602882",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Polymarket \"let things fall\" is also what my agent says right before deleting prod",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2115948532322513187",
+    "time": "Thu Oct 29 23:26:57 +0000 2026",
+    "created_at": "Thu Oct 29 23:26:57 +0000 2026",
+    "id_str": "2115948532322513187",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "今天也许是一个黑色星期五\n没人怀疑 AI 需求强劲\n但是 AI 投资已经到达了极限\nROI 要算不过来了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2115935203311128969",
+    "time": "Thu Oct 29 22:33:59 +0000 2026",
+    "created_at": "Thu Oct 29 22:33:59 +0000 2026",
+    "id_str": "2115935203311128969",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "最近看到很多人讨论。\nAI 让智力平权之后，人就很难通过智力赚到钱了（不稀缺=不赚钱）\n\n那什么反而变得更重要了呢？\n有人说是人脉\n有人说是声望\n有人说是品牌\n有人说是IP\n有人说是credit\n\n这些又统统指向了一件事：\n信任\n\n当人人都可以做一项工作\n我们会倾向于交给最信任的人做\n\n信任，来源于靠谱的过去，你做过的事情，别人对你的评价\n信任，是做生意的基础，不管做大生意还是小生意\n\n信任也是人类永恒的话题\n在人类还在群居的时候，就通过语言传递信任的信号：八卦\n因为人类很早意识到，一个群体里不靠谱的人总会在未来伤害集体利益\n八卦就是判断此人是否值得信任的一种常用方法\n\n那如何构建信任呢？\n认真对待每一件事\n用心对待每一个人\n你今天所付出的努力、品德和声誉\n终会成为你未来可以坦然回首的过往\n\nTry to have a good past \n— 老黄",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2115962887684657353",
+    "time": "2026-10-30 08:23",
+    "created_at": "Fri Oct 30 00:23:59 +0000 2026",
+    "id_str": "2115962887684657353",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": {
+      "text": "https://t.co/9LM9bEEl9H",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2115967202906324992",
+          "display": "pic.x.com/9LM9bEEl9H",
+          "original": "https://t.co/9LM9bEEl9H",
+          "replacement": "https://x.com/ajambrosino/status/2115967206333075945/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/ajambrosino/status/2115967206333075945",
+    "time": "2026-10-30 08:41",
+    "created_at": "Fri Oct 30 00:41:09 +0000 2026",
+    "id_str": "2115967206333075945",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ajambrosino You merge, I split",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2115974268936712436",
+    "time": "2026-10-30 09:09",
+    "created_at": "Fri Oct 30 01:09:13 +0000 2026",
+    "id_str": "2115974268936712436",
+    "is_retweet": false
   }
 ]
