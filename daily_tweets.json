@@ -447,5 +447,400 @@
     "created_at": "Sat Oct 31 12:29:38 +0000 2026",
     "id_str": "2116507892115542314",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 藏师傅，深色主题还没有适配",
+    "quoted_tweet": null,
+    "url": "https://x.com/GuoKarl26984/status/2116347559212191935",
+    "time": "2026-10-31 09:52",
+    "created_at": "Sat Oct 31 01:52:32 +0000 2026",
+    "id_str": "2116347559212191935",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "苹果 AI 功能终于要在国内上线了！\n\n不过 Siri 这部分应该是之前的版本，不是最新的，是 24 年那个版本。\n\n里面也写了是千问驱动。\n\n然后会在 iOS 27.3 更新，应该是 12 月。\n\n最主要的不是 Siri，Siri 倒无所谓，是一些比如说关于实时翻译呀之类的其他设备的 AI 功能挺有用的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116348058254647552",
+    "time": "2026-10-31 09:54",
+    "created_at": "Sat Oct 31 01:54:31 +0000 2026",
+    "id_str": "2116348058254647552",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@GuoKarl26984 我更新一下",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116348105662804372",
+    "time": "2026-10-31 09:54",
+    "created_at": "Sat Oct 31 01:54:42 +0000 2026",
+    "id_str": "2116348105662804372",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 我真的真的对国内的Siri感到失望\n甚至还不如豆包（逃）\n\n大肥鱼你啥时候能和Apple联动啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/sujingshen/status/2116349833959362737",
+    "time": "2026-10-31 10:01",
+    "created_at": "Sat Oct 31 02:01:34 +0000 2026",
+    "id_str": "2116349833959362737",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@sujingshen 哈哈 自己手搓一个",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116350599856103747",
+    "time": "2026-10-31 10:04",
+    "created_at": "Sat Oct 31 02:04:37 +0000 2026",
+    "id_str": "2116350599856103747",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Claude 200 美元的订阅计划移除了 5 小时的限制\n\n200 美元的计划现在叫 Ultra 会员\n\n不过跟我们关系不大。移除 5 小时的限制，也需要他们自动进行验证，通过了才会移除。估计是为了防止蒸馏之类的东西",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "We’re renaming our Max plans: \n\nMax 5x → Max\nMax 20x → Ultra\n\nMax is still $100/month, and Ultra is still $200. If you’re a subscriber, there’s nothing you need to do.\n\nWe’re also removing the 5-hour limit for verified Ultra accounts, starting today with most existing subscribers. Newer accounts keep a temporary limit until they’re verified, which helps us prevent fraud and abuse. You'll get an email when it's removed.\n\nWeekly limits remain unchanged. View our plans here:  http://claude.com/pricing"
+    },
+    "url": "https://x.com/op7418/status/2116351174253359293",
+    "time": "2026-10-31 10:06",
+    "created_at": "Sat Oct 31 02:06:54 +0000 2026",
+    "id_str": "2116351174253359293",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这次给 Deepseek Harness 做的这个新插件 dsh-guizang-design，旧的 PPT Skill 也进行了很多优化。\n\n如果你已经安装过其中的几个 Skill 的话，建议更新一下\n\n这个插件内置的几个 Skill，比如 PPT Skill、社交媒体卡片 Skill 都获得了更新。\n\n比如 PPT Skill 那个杂志风格的 WebGL 背景加回来了，而且大幅优化了性能，不会再因为这个东西变得卡顿发热了",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "终于把自己的几个设计 Skill 合并了！\n\n做成了一个 DSH 的插件 dsh-guizang-design\n\n共用一套设计系统和 Design Token，还加了几个有用的功能"
+    },
+    "url": "https://x.com/op7418/status/2116357353566302376",
+    "time": "2026-10-31 10:31",
+    "created_at": "Sat Oct 31 02:31:27 +0000 2026",
+    "id_str": "2116357353566302376",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 想问下更新是直接覆盖装就行吗？旧版单独装的 PPT Skill 和插件里同名的 Skill 会不会冲突，被智能体同时加载",
+    "quoted_tweet": null,
+    "url": "https://x.com/SuperRayan/status/2116385361689804980",
+    "time": "2026-10-31 12:22",
+    "created_at": "Sat Oct 31 04:22:45 +0000 2026",
+    "id_str": "2116385361689804980",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@SuperRayan 不会",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116385725235249571",
+    "time": "2026-10-31 12:24",
+    "created_at": "Sat Oct 31 04:24:12 +0000 2026",
+    "id_str": "2116385725235249571",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 马上试用一下～",
+    "quoted_tweet": null,
+    "url": "https://x.com/tianyi/status/2116386249934274618",
+    "time": "2026-10-31 12:26",
+    "created_at": "Sat Oct 31 04:26:17 +0000 2026",
+    "id_str": "2116386249934274618",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@tianyi 哈哈 可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116386365793583321",
+    "time": "2026-10-31 12:26",
+    "created_at": "Sat Oct 31 04:26:44 +0000 2026",
+    "id_str": "2116386365793583321",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "暗色模式适配",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116388611847602270",
+    "time": "2026-10-31 12:35",
+    "created_at": "Sat Oct 31 04:35:40 +0000 2026",
+    "id_str": "2116388611847602270",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "这次随之发布的，还有大家以前一直想要的网页排版 skill（guizang-pages-skill），也内置在插件里了。\n\n它会帮你把图文、视频排成一个非常精美的网页，所有的字体、字号、间距和细节都是为了阅读而设计的，尤其针对中文排版做了很多优化。\n\n右下角可以自定义样式，也做了移动端优化。\n\n同时它还可以帮你导出 PDF，非常适合将自己写的内容和 AI 的内容分享给朋友们",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "终于把自己的几个设计 Skill 合并了！\n\n做成了一个 DSH 的插件 dsh-guizang-design\n\n共用一套设计系统和 Design Token，还加了几个有用的功能"
+    },
+    "url": "https://x.com/op7418/status/2116398126546526443",
+    "time": "2026-10-31 13:13",
+    "created_at": "Sat Oct 31 05:13:28 +0000 2026",
+    "id_str": "2116398126546526443",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 这个可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/minger_/status/2116403397486383442",
+    "time": "2026-10-31 13:34",
+    "created_at": "Sat Oct 31 05:34:25 +0000 2026",
+    "id_str": "2116403397486383442",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@minger_ 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116403486720152003",
+    "time": "2026-10-31 13:34",
+    "created_at": "Sat Oct 31 05:34:46 +0000 2026",
+    "id_str": "2116403486720152003",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Grok bot 居然支持支付宝和银联卡支付了，还是老马呀，管你这那的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116442573296513082",
+    "time": "2026-10-31 16:10",
+    "created_at": "Sat Oct 31 08:10:05 +0000 2026",
+    "id_str": "2116442573296513082",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 真服了\n下面的评论全是ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/WishWithWe/status/2116443819059417264",
+    "time": "2026-10-31 16:15",
+    "created_at": "Sat Oct 31 08:15:02 +0000 2026",
+    "id_str": "2116443819059417264",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@WishWithWe 哎 根本拉黑不过来，拉黑的多自己号也受影响",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116444056926720104",
+    "time": "2026-10-31 16:15",
+    "created_at": "Sat Oct 31 08:15:59 +0000 2026",
+    "id_str": "2116444056926720104",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "还支持花呗付款呢，哈哈哈哈，刚测过",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "Grok bot 居然支持支付宝和银联卡支付了，还是老马呀，管你这那的。"
+    },
+    "url": "https://x.com/minger_/status/2116446261096374620",
+    "time": "2026-10-31 16:24",
+    "created_at": "Sat Oct 31 08:24:44 +0000 2026",
+    "id_str": "2116446261096374620",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@minger_ 🐂🍺 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116446330281501059",
+    "time": "2026-10-31 16:25",
+    "created_at": "Sat Oct 31 08:25:01 +0000 2026",
+    "id_str": "2116446330281501059",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "可以直接国区 iPhone 走内购！",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116449171528102053",
+    "time": "2026-10-31 16:36",
+    "created_at": "Sat Oct 31 08:36:18 +0000 2026",
+    "id_str": "2116449171528102053",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "最近越来越喜欢刷 threads 了。\n\n一个是那边没有 AI 评论 和一眼是 AI 生成的内容。\n\n第二个是各种体验和交互设计得太好了 刷得很舒服。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116546563053178884",
+    "time": "2026-10-31 23:03",
+    "created_at": "Sat Oct 31 15:03:18 +0000 2026",
+    "id_str": "2116546563053178884",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The hiring hangover is shaking off\n\nJob postings vs. pre-pandemic, roughly:\n- Engineering up 45%\n- Healthcare up 30%\n- Manufacturing up 25%\n- HR back to even\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-job-fud-fades",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "The AI jobs panic peaked in May and has faded fast since:\n\n- News reports on AI job loss are down ~65%, back to year-ago levels\n\n- Layoff announcements that cite AI are down ~90%, near the lowest of the year\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-job-fud-fades"
+    },
+    "url": "https://x.com/a16z/status/2116523102821908595",
+    "time": "2026-10-31 21:30",
+    "created_at": "Sat Oct 31 13:30:05 +0000 2026",
+    "id_str": "2116523102821908595",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Builders are in demand\n\nJob postings, past 12 months:\n- Engineering +30%\n- Software dev +26%\n- Manufacturing +13%\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-job-fud-fades",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "The AI jobs panic peaked in May and has faded fast since:\n\n- News reports on AI job loss are down ~65%, back to year-ago levels\n\n- Layoff announcements that cite AI are down ~90%, near the lowest of the year\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-job-fud-fades"
+    },
+    "url": "https://x.com/a16z/status/2116545786062496021",
+    "time": "2026-10-31 23:00",
+    "created_at": "Sat Oct 31 15:00:13 +0000 2026",
+    "id_str": "2116545786062496021",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/ImcbdcjfiU",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2116553239088754688",
+          "display": "pic.x.com/ImcbdcjfiU",
+          "original": "https://t.co/ImcbdcjfiU",
+          "replacement": "https://x.com/JenPanepinto/status/2116553280163660131/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/JenPanepinto/status/2116553280163660131",
+    "time": "2026-10-31 23:30",
+    "created_at": "Sat Oct 31 15:30:00 +0000 2026",
+    "id_str": "2116553280163660131",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Mine looks neat I love it",
+    "quoted_tweet": null,
+    "url": "https://x.com/FieryStardust9/status/2116556204998643870",
+    "time": "2026-10-31 23:41",
+    "created_at": "Sat Oct 31 15:41:37 +0000 2026",
+    "id_str": "2116556204998643870",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/KdeanRadio/status/2116556506476728433",
+    "time": "2026-10-31 23:42",
+    "created_at": "Sat Oct 31 15:42:49 +0000 2026",
+    "id_str": "2116556506476728433",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/DOD_the_OG/status/2116557638397731117",
+    "time": "2026-10-31 23:47",
+    "created_at": "Sat Oct 31 15:47:19 +0000 2026",
+    "id_str": "2116557638397731117",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DOD_the_OG Wow stunning",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116557676427567349",
+    "time": "2026-10-31 23:47",
+    "created_at": "Sat Oct 31 15:47:28 +0000 2026",
+    "id_str": "2116557676427567349",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@KdeanRadio So great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116557724066439242",
+    "time": "2026-10-31 23:47",
+    "created_at": "Sat Oct 31 15:47:39 +0000 2026",
+    "id_str": "2116557724066439242",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FieryStardust9 Very cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116557781327388841",
+    "time": "2026-10-31 23:47",
+    "created_at": "Sat Oct 31 15:47:53 +0000 2026",
+    "id_str": "2116557781327388841",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JenPanepinto Happy Halloween 🎃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116558017739227621",
+    "time": "2026-10-31 23:48",
+    "created_at": "Sat Oct 31 15:48:49 +0000 2026",
+    "id_str": "2116558017739227621",
+    "is_retweet": false
   }
 ]
