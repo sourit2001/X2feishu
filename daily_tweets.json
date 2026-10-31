@@ -98,5 +98,849 @@
     "created_at": "Sat Oct 31 05:53:15 +0000 2026",
     "id_str": "2116408135930069347",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ccw1942796 @tianyi 作为 skill 也可以的，但是用skill不好做和agent的交互，比如其中有个功能是把标注的评论发到agent，如果是skill就没办法做，插件就可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116363074986766801",
+    "time": "2026-10-31 10:54",
+    "created_at": "Sat Oct 31 02:54:11 +0000 2026",
+    "id_str": "2116363074986766801",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "作者的 X 账号，推荐关注\nhttps://x.com/hidecloud/status/2116201052437717175?a=zuGE2fySmthgUUO_Dec&s=20",
+    "quoted_tweet": {
+      "author": "hidecloud",
+      "username": "hidecloud",
+      "text": "A year ago, an engineer would read my request, work out what I meant, then write the code.  \n\nNow our engineers often has 10–20 requests running at once. \n\nIn September I found my Slack message pasted word for word as an engineer's prompt.  \n\nWhat changed when we rebuilt Manus with Manus:"
+    },
+    "url": "https://x.com/dotey/status/2116364406871441755",
+    "time": "2026-10-31 10:59",
+    "created_at": "Sat Oct 31 02:59:29 +0000 2026",
+    "id_str": "2116364406871441755",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "疑似造假：有人称偷到 Claude Fable 5 权重在兜售，网友比对发现文件来自 DeepSeek 免费开源的模型\n\n网上有人在兜售所谓 Anthropic 旗舰模型 Claude Fable 5 的“权重”。这个说法没有证实，已有网友指出是假的：卖家晒出的文件，和 DeepSeek 免费公开下载的模型文件一个字节都不差。截至北京时间 31 日上午，Anthropic 和亚马逊都没有回应，也没有主流媒体报道。\n\n【卖家怎么说】\n\n消息来自 X 账号 Dark Web Informer，它专门转发黑客论坛上的动态。帖子说，一个叫“localizer”的人声称，亚马逊云（AWS）上有个和 Amazon Bedrock 相关的存储桶权限没设好，他从里面拿到了 Fable 5 权重的一个分片，约 7GB。\n\n模型权重是模型训练出来的全部参数，就是一大堆数字组成的文件，拿到它就能在自己的机器上跑这个模型。Anthropic 从不公开权重，外人只能付费调用。Amazon Bedrock 是亚马逊的 AI 模型平台，企业可以在上面调用 Claude。权重文件太大，要切成很多块存放，就像压缩包分卷，每一块叫一个分片。\n\nlocalizer 说完整模型有 640 个分片、约 8TB，他只拿到 1 片，存储桶就被锁了。他晒出了文件名、模型信息和文件内容的截图当证据，现在要卖这一片。Dark Web Informer 在帖子里也写明：说法未经证实，文件真假、和 Anthropic 有没有关系都没确认。\n\n【为什么说疑似造假】\n\nX 用户 toriset 回帖说这是假的，给了四条理由。\n\n第一，截图里每个文件的大小和内容，都和 DeepSeek V4.1-Flash-1017 第 13 到 42 号分片完全一样。这个模型 10 月 17 日刚开源，任何人都能从 Hugging Face 免费下载。我查了 Hugging Face 上的文件列表，这个模型的分片大多是 7,389,761,368 字节，也就是 7.39GB，和卖家说的“约 7GB”对得上。卖家的截图我没能看到，没法自己逐字节比对。\n\n第二，toriset 说 eu-north-1（AWS 的斯德哥尔摩区域）不托管 Fable。Dark Web Informer 的帖子没提区域，从回帖推断，卖家材料里写的是这个区域。AWS 文档显示，在斯德哥尔摩调用 Fable 5，请求会被转到别的地区处理，当地本身不运行这个模型。\n\n第三，数字对不上。640 片乘以 7.39GB 约等于 4.73TB，离卖家说的 8TB 差了三千多 GB。\n\n第四，toriset 说，只有 1/640 的权重，没法拿来蒸馏（用强模型训练自己的模型）。就算文件是真的，这也好比 640 卷的百科全书只拿到一卷，模型跑不起来。\n\n另一位 X 用户 Ondrej Simaichl 提到，发帖的论坛账号这个月才注册。\n\n【Anthropic 这周还有一起安全事件】\n\n这条传言出现时，Anthropic 正在处理另一起已经证实的安全事件。据《华盛顿邮报》10 月 26 日报道，安全创业公司 Cathedral 在参加 Anthropic 的漏洞悬赏时，用 AI agent 通过第三方办公软件进入 Anthropic 内部系统，看到了工资、会议记录和 Slack 消息。Anthropic 说被访问的只是销售、人事和 IT 的一部分系统，用户的 Claude 聊天记录、源代码和模型权重都没有泄露，并指责 Cathedral 违反了悬赏规则。目前看不出这两件事有关联。\n\n来源：\nDark Web Informer 原帖：X @DarkWebInformer\ntoriset 反驳：X @torisetxd\nDeepSeek V4.1-Flash-1017 文件列表：https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017/tree/main\nAWS Bedrock Fable 5 可用区域：https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude-fable-5.html\nCathedral 事件（The Decoder 转述《华盛顿邮报》）：https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+    "quoted_tweet": {
+      "author": "Dark Web Informer",
+      "username": "DarkWebInformer",
+      "text": "🚨🇺🇸 Anthropic model weights allegedly exposed through misconfigured AWS S3 bucket\n\nAn actor using the handle \"localizer\" claims to have obtained a 7 GB shard of Anthropic's alleged \"Claude Fable 5\" model weights from a misconfigured AWS S3 bucket associated with Amazon Bedrock.\n\nThe actor claims the complete model consists of 640 shards totaling approximately 8 TB, but says only one shard was retrieved before access was restricted.\n\nScreenshots showing a .safetensors file, model metadata, and a hexadecimal dump have been published as alleged proof. The actor is now offering the material for sale.\n\nClaim is currently unverified. The authenticity of the files and their connection to Anthropic have not been established.\n\n💥 No delays. No guessing. No redactions. Get the intel threat actors see, the moment they post it. http://darkwebinformer.com/pricing"
+    },
+    "url": "https://x.com/dotey/status/2116366460939386990",
+    "time": "2026-10-31 11:07",
+    "created_at": "Sat Oct 31 03:07:39 +0000 2026",
+    "id_str": "2116366460939386990",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 真的吗？还可以这样做？它可以直接识别出来？",
+    "quoted_tweet": null,
+    "url": "https://x.com/leikejun/status/2116373970509533541",
+    "time": "2026-10-31 11:37",
+    "created_at": "Sat Oct 31 03:37:29 +0000 2026",
+    "id_str": "2116373970509533541",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@leikejun 下次试试看",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116377110386237507",
+    "time": "2026-10-31 11:49",
+    "created_at": "Sat Oct 31 03:49:58 +0000 2026",
+    "id_str": "2116377110386237507",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@jesselaunz 卧槽，吓我一跳",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116382213633904826",
+    "time": "2026-10-31 12:10",
+    "created_at": "Sat Oct 31 04:10:14 +0000 2026",
+    "id_str": "2116382213633904826",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Tibo 终于熬完他的 28 天了，最后两天送重置卡👍",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Day 26/ You can now easily switch between multiple accounts on mobile, and coming soon to desktop too. Next two days will be resets… banked… do with this what you may 👀.\n\nhttps://help.openai.com/en/articles/20001068-using-multiple-chatgpt-accounts-on-web-and-mobile"
+    },
+    "url": "https://x.com/dotey/status/2116409662635692138",
+    "time": "2026-10-31 13:59",
+    "created_at": "Sat Oct 31 05:59:19 +0000 2026",
+    "id_str": "2116409662635692138",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 昨天试了一下评论功能，提意见快多了。用的是偶想到的点，如果网页能让其他同时也能看到并提意见就更好了，可以导出给别人看，但那样就不能评论了，监听网络改到0.0.0.0 可以局域网解决部分问题，不知道还有没有更好的解法，还是我没有发现其实有这种功能，能让我发到群里，让别人评论的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/robaggio/status/2116410352212852813",
+    "time": "2026-10-31 14:02",
+    "created_at": "Sat Oct 31 06:02:03 +0000 2026",
+    "id_str": "2116410352212852813",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@robaggio 如果是局域网相对简单，公网就不好办，我先尝试着把局域网的支持加上",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116411240620658820",
+    "time": "2026-10-31 14:05",
+    "created_at": "Sat Oct 31 06:05:35 +0000 2026",
+    "id_str": "2116411240620658820",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 今天什么时候重置啊？",
+    "quoted_tweet": null,
+    "url": "https://x.com/sucreqiu/status/2116413044251414698",
+    "time": "2026-10-31 14:12",
+    "created_at": "Sat Oct 31 06:12:45 +0000 2026",
+    "id_str": "2116413044251414698",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@sucreqiu 今天不会重置，明天送两张充值卡，如果我没理解错的话",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116427453011013980",
+    "time": "2026-10-31 15:10",
+    "created_at": "Sat Oct 31 07:10:00 +0000 2026",
+    "id_str": "2116427453011013980",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @tianyi 宝玉老师用的是什么录屏软件",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rantahnc/status/2116428303850729623",
+    "time": "2026-10-31 15:13",
+    "created_at": "Sat Oct 31 07:13:23 +0000 2026",
+    "id_str": "2116428303850729623",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 奇怪  我的还在",
+    "quoted_tweet": null,
+    "url": "https://x.com/kpnjinfan/status/2116429761618874681",
+    "time": "2026-10-31 15:19",
+    "created_at": "Sat Oct 31 07:19:11 +0000 2026",
+    "id_str": "2116429761618874681",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@kpnjinfan 我的也还在，可能要等等",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116431724842258555",
+    "time": "2026-10-31 15:26",
+    "created_at": "Sat Oct 31 07:26:59 +0000 2026",
+    "id_str": "2116431724842258555",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Rantahnc @tianyi 我让 Claude Code + Opus 5.5 自己去截图做的视频，配乐是 baocut cli 调用音乐模型 YuE2 3B",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116431966874542380",
+    "time": "2026-10-31 15:27",
+    "created_at": "Sat Oct 31 07:27:56 +0000 2026",
+    "id_str": "2116431966874542380",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman taking big notes 🤝",
+    "quoted_tweet": null,
+    "url": "https://x.com/VibeMarketer_/status/2116296508349768170",
+    "time": "2026-10-31 06:29",
+    "created_at": "Fri Oct 30 22:29:41 +0000 2026",
+    "id_str": "2116296508349768170",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "This article articulates the issue with enterprise AI so clearly: the main reason AI pilots fail isn't even because of the AI. \n\nMost enterprises have piloted 3 or more AI projects in the last 12 months. Yet, you won't find any of them on their P&L. Why?\n\n- They built the AI model based on the SOP, but real processes have exceptions that can be 40% of the volume.\n- They thought a quicker W-9 review would improve vendor onboarding. It didn't. That process still takes 22 days.\n- There wasn't a clear owner for the AI agent 7 months in, after the innovation budget ran out and the consultants left.\n\nFantastic article by the former COO of Citadel Securities in the EMEA region. If you've piloted AI projects that never made it to your P&L, read this before piloting another.",
+    "quoted_tweet": {
+      "author": "Daniel Kornum",
+      "username": "dkfromdk",
+      "text": "https://x.com/i/article/2116290079316660224"
+    },
+    "url": "https://x.com/vasuman/status/2116308503338066116",
+    "time": "2026-10-31 07:17",
+    "created_at": "Fri Oct 30 23:17:20 +0000 2026",
+    "id_str": "2116308503338066116",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman 🙏🙏🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/dkfromdk/status/2116309532767097184",
+    "time": "2026-10-31 07:21",
+    "created_at": "Fri Oct 30 23:21:26 +0000 2026",
+    "id_str": "2116309532767097184",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman fantastic read",
+    "quoted_tweet": null,
+    "url": "https://x.com/eyad_khrais/status/2116310366259175655",
+    "time": "2026-10-31 07:24",
+    "created_at": "Fri Oct 30 23:24:45 +0000 2026",
+    "id_str": "2116310366259175655",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dkfromdk Great writeup.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116311172274323721",
+    "time": "2026-10-31 07:27",
+    "created_at": "Fri Oct 30 23:27:57 +0000 2026",
+    "id_str": "2116311172274323721",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@eyad_khrais Was killer.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116311192939765934",
+    "time": "2026-10-31 07:28",
+    "created_at": "Fri Oct 30 23:28:02 +0000 2026",
+    "id_str": "2116311192939765934",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@VibeMarketer_ Yes sir",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116311245427208651",
+    "time": "2026-10-31 07:28",
+    "created_at": "Fri Oct 30 23:28:14 +0000 2026",
+    "id_str": "2116311245427208651",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@damianplayer He's back",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116311260061151396",
+    "time": "2026-10-31 07:28",
+    "created_at": "Fri Oct 30 23:28:18 +0000 2026",
+    "id_str": "2116311260061151396",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Hiring:\n\n1 Engineers: to join our Platform team, built the agent operating system that powers the world’s largest companies. \n\n2 FDEs and 2 FDSs to join our Delta team, interface with C-Suite executives, redesign entire departments, and build agents to deliver millions in value. \n\nGuarantee this will be the most fun company you will ever join, and you’ll learn a ton. \n\nEveryone wears multiple hats, everyone comes in early and stays late, and we’re growing 100% month over month.\n\nUp to 250k base plus Equity.\n\nDMs open.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116322428154769744",
+    "time": "2026-10-31 08:12",
+    "created_at": "Sat Oct 31 00:12:40 +0000 2026",
+    "id_str": "2116322428154769744",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman I know a new grad swe here in sf who has been working at startups who is looking for a an engineering position, should I refer him?",
+    "quoted_tweet": null,
+    "url": "https://x.com/GENIC0N/status/2116330446854435149",
+    "time": "2026-10-31 08:44",
+    "created_at": "Sat Oct 31 00:44:32 +0000 2026",
+    "id_str": "2116330446854435149",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman @EXM7777 Is this for SF or NYC",
+    "quoted_tweet": null,
+    "url": "https://x.com/Joash0x/status/2116334241629818998",
+    "time": "2026-10-31 08:59",
+    "created_at": "Sat Oct 31 00:59:37 +0000 2026",
+    "id_str": "2116334241629818998",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman I want to see how your thing plays out in the end. I figure you get bought out buy a lab by Summer and hired in by next Fall.",
+    "quoted_tweet": null,
+    "url": "https://x.com/WesleyP91308/status/2116341895500587469",
+    "time": "2026-10-31 09:30",
+    "created_at": "Sat Oct 31 01:30:02 +0000 2026",
+    "id_str": "2116341895500587469",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@ShaneMac pretty sure this is all @vasuman does with @varickagents \n\nembedded AI built for enterprise",
+    "quoted_tweet": null,
+    "url": "https://x.com/defyneric/status/2116341996390695120",
+    "time": "2026-10-31 09:30",
+    "created_at": "Sat Oct 31 01:30:26 +0000 2026",
+    "id_str": "2116341996390695120",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@defyneric @ShaneMac @varickagents Happy to chat if relevant.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116347368488804832",
+    "time": "2026-10-31 09:51",
+    "created_at": "Sat Oct 31 01:51:47 +0000 2026",
+    "id_str": "2116347368488804832",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@GENIC0N Yes please",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116348425516273828",
+    "time": "2026-10-31 09:55",
+    "created_at": "Sat Oct 31 01:55:59 +0000 2026",
+    "id_str": "2116348425516273828",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman \"everyone comes in early and stays late,\"\n\nEw",
+    "quoted_tweet": null,
+    "url": "https://x.com/dantrappx/status/2116348474593882174",
+    "time": "2026-10-31 09:56",
+    "created_at": "Sat Oct 31 01:56:10 +0000 2026",
+    "id_str": "2116348474593882174",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@WesleyP91308 Already turned down offers",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116354676983824717",
+    "time": "2026-10-31 10:20",
+    "created_at": "Sat Oct 31 02:20:49 +0000 2026",
+    "id_str": "2116354676983824717",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dantrappx Not for everyone 👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116359964986089519",
+    "time": "2026-10-31 10:41",
+    "created_at": "Sat Oct 31 02:41:50 +0000 2026",
+    "id_str": "2116359964986089519",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@Joash0x @EXM7777 SF",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116360027498041726",
+    "time": "2026-10-31 10:42",
+    "created_at": "Sat Oct 31 02:42:05 +0000 2026",
+    "id_str": "2116360027498041726",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman You literally said the word \"everyone\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/dantrappx/status/2116360341521301862",
+    "time": "2026-10-31 10:43",
+    "created_at": "Sat Oct 31 02:43:20 +0000 2026",
+    "id_str": "2116360341521301862",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dantrappx As in everyone on the team is down for this. This job is not for everyone.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2116368734122328313",
+    "time": "2026-10-31 11:16",
+    "created_at": "Sat Oct 31 03:16:41 +0000 2026",
+    "id_str": "2116368734122328313",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@sundyme 第三阶段",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2116432026798833891",
+    "time": "2026-10-31 15:28",
+    "created_at": "Sat Oct 31 07:28:11 +0000 2026",
+    "id_str": "2116432026798833891",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Subvocal：无需出声，也能输入文字的AI眼镜\n\n你无需发出声音，只需做出细微发声动作\n眼镜就能通过感知相关肌肉运动，解析你要输出的内容\n\n再由 AI 将信号转换成文字\n团队宣称，输入速度可超过每分钟 200 个英文单词\n\n视频展示的用途包括：\n向 AI 提问、写消息、操作电脑，以及让两名佩戴者进行旁人听不到的交流",
+    "quoted_tweet": {
+      "author": "Aarush Yadav",
+      "username": "AarushYadav47",
+      "text": "We’ve raised $1.3M from YC & Afore Capital so you never have to type or speak again.\n\nTyping is slow. Talking into your computer is awkward. Subvocal fixes both\n\nOur glasses give you the speed of speech without you making a sound or touching a keyboard.\n\nIt tracks your internal speech muscles with non-contact sensing and decodes silent, almost invisible mouthing into text at more than 200 words/min.\n\nPre-orders are now live at:\nhttp://subvocal.co/preorder?utm_source=x"
+    },
+    "url": "https://x.com/xiaohu/status/2116445350865367066",
+    "time": "2026-10-31 16:21",
+    "created_at": "Sat Oct 31 08:21:07 +0000 2026",
+    "id_str": "2116445350865367066",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "陶哲轩：AI 时代要主动锻炼思考能力\n\n陶哲轩用粮食生产作类比：\n\n生产革命让食物便宜、充足\n人们却开始需要主动控制饮食、安排运动。\n\n过去，体力劳动自然提供了锻炼；今天，这件事需要刻意维护。\n\n同理：AI 让脑力任务变得便宜、容易，但生活中原本自带的思考训练会随之减少...\n\n因此，人们需要注意自己的“精神食粮”，主动保持解决问题的能力，锻炼你的大脑...\n\n否则，有些人可能越来越依赖 AI，一旦失去工具，就难以应对现实问题...",
+    "quoted_tweet": {
+      "author": "Dany",
+      "username": "danysvnt",
+      "text": "TERENCE TAO SAYS AI WILL DO TO OUR BRAINS WHAT CHEAP FOOD DID TO OUR BODIES\n\nfor most of history life was the workout. then food got cheap and people had to start watching their diet on purpose\n\ntao says thinking is next:\n\"you have to watch your mental diet, and you do have to maintain mental exercise\"\n\nMIT had students write essays with ChatGPT. minutes later 83% couldn't quote a single sentence they'd \"written\"\n\nthe ones who wrote on their own first and got ChatGPT later used it better, and their brain activity went up\n\nthe struggle before the answer is the part your brain keeps\n\nan answer you didn't work for is easy to get and even easier to forget\n\nwould you let your kid use AI for homework from day one, or make them struggle first?"
+    },
+    "url": "https://x.com/xiaohu/status/2116448508593283300",
+    "time": "2026-10-31 16:33",
+    "created_at": "Sat Oct 31 08:33:40 +0000 2026",
+    "id_str": "2116448508593283300",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "At least I can call @grok a dipshit and it will laugh instead of trying to destroy humanity.",
+    "quoted_tweet": null,
+    "url": "https://x.com/EmpressTrash/status/2116387574247743870",
+    "time": "2026-10-31 12:31",
+    "created_at": "Sat Oct 31 04:31:32 +0000 2026",
+    "id_str": "2116387574247743870",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/ivyyd5Q5GD",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2116395548965998592",
+          "display": "pic.x.com/ivyyd5Q5GD",
+          "original": "https://t.co/ivyyd5Q5GD",
+          "replacement": "https://x.com/PiperPyde/status/2116395604448252312/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask your AI “based on everything  you know about me, carve this pumpkin”\n\nI’ll make a showcase of all your pumpkins and share on Halloween 🎃"
+    },
+    "url": "https://x.com/PiperPyde/status/2116395604448252312",
+    "time": "2026-10-31 13:03",
+    "created_at": "Sat Oct 31 05:03:27 +0000 2026",
+    "id_str": "2116395604448252312",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PiperPyde That’s so cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116396196457505144",
+    "time": "2026-10-31 13:05",
+    "created_at": "Sat Oct 31 05:05:48 +0000 2026",
+    "id_str": "2116396196457505144",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Jake_Joseph So cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116396257975648753",
+    "time": "2026-10-31 13:06",
+    "created_at": "Sat Oct 31 05:06:03 +0000 2026",
+    "id_str": "2116396257975648753",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Love this idea!",
+    "quoted_tweet": null,
+    "url": "https://x.com/isaaclimb/status/2116397644973240426",
+    "time": "2026-10-31 13:11",
+    "created_at": "Sat Oct 31 05:11:33 +0000 2026",
+    "id_str": "2116397644973240426",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/SeederStar90148/status/2116398296076091505",
+    "time": "2026-10-31 13:14",
+    "created_at": "Sat Oct 31 05:14:09 +0000 2026",
+    "id_str": "2116398296076091505",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SeederStar90148 I want to believe 👽 🛸",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116398933702508929",
+    "time": "2026-10-31 13:16",
+    "created_at": "Sat Oct 31 05:16:41 +0000 2026",
+    "id_str": "2116398933702508929",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🤣😅 have a good weekend kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/titlejt/status/2116398998361903420",
+    "time": "2026-10-31 13:16",
+    "created_at": "Sat Oct 31 05:16:56 +0000 2026",
+    "id_str": "2116398998361903420",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@isaaclimb Love this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116399030297313776",
+    "time": "2026-10-31 13:17",
+    "created_at": "Sat Oct 31 05:17:04 +0000 2026",
+    "id_str": "2116399030297313776",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@titlejt Haha you too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116399095212659137",
+    "time": "2026-10-31 13:17",
+    "created_at": "Sat Oct 31 05:17:19 +0000 2026",
+    "id_str": "2116399095212659137",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/usbhbY18jK",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2116402890021515264",
+          "display": "pic.x.com/usbhbY18jK",
+          "original": "https://t.co/usbhbY18jK",
+          "replacement": "https://x.com/RSpatter/status/2116402893536329744/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask your AI “based on everything  you know about me, carve this pumpkin”\n\nI’ll make a showcase of all your pumpkins and share on Halloween 🎃"
+    },
+    "url": "https://x.com/RSpatter/status/2116402893536329744",
+    "time": "2026-10-31 13:32",
+    "created_at": "Sat Oct 31 05:32:25 +0000 2026",
+    "id_str": "2116402893536329744",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Cool",
+    "quoted_tweet": {
+      "author": "Thore Gundi",
+      "username": "GundiThore",
+      "text": "@ROBO_F8 I started an Ai community called \"Prompt Share\" - @icreatelife  helped me out too, she mentioned my channel and it grew 200% and has grown since then!!"
+    },
+    "url": "https://x.com/icreatelife/status/2116402985140191737",
+    "time": "2026-10-31 13:32",
+    "created_at": "Sat Oct 31 05:32:47 +0000 2026",
+    "id_str": "2116402985140191737",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GundiThore @ROBO_F8 I am so glad to hear it. I'll keep promoting AI creators and community builders always",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116403073836867838",
+    "time": "2026-10-31 13:33",
+    "created_at": "Sat Oct 31 05:33:08 +0000 2026",
+    "id_str": "2116403073836867838",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RSpatter This is beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116403125636456531",
+    "time": "2026-10-31 13:33",
+    "created_at": "Sat Oct 31 05:33:20 +0000 2026",
+    "id_str": "2116403125636456531",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/Stentor_/status/2116405388773937649",
+    "time": "2026-10-31 13:42",
+    "created_at": "Sat Oct 31 05:42:20 +0000 2026",
+    "id_str": "2116405388773937649",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I’ll play here’s mine",
+    "quoted_tweet": null,
+    "url": "https://x.com/PatriciaLWatts/status/2116405435611644351",
+    "time": "2026-10-31 13:42",
+    "created_at": "Sat Oct 31 05:42:31 +0000 2026",
+    "id_str": "2116405435611644351",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PatriciaLWatts Beautiful kitty",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116405744052604989",
+    "time": "2026-10-31 13:43",
+    "created_at": "Sat Oct 31 05:43:44 +0000 2026",
+    "id_str": "2116405744052604989",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Stentor_ I love the Claude cup. I need one",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116405812298158549",
+    "time": "2026-10-31 13:44",
+    "created_at": "Sat Oct 31 05:44:01 +0000 2026",
+    "id_str": "2116405812298158549",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@EmpressTrash @grok Haha",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116405908628472258",
+    "time": "2026-10-31 13:44",
+    "created_at": "Sat Oct 31 05:44:24 +0000 2026",
+    "id_str": "2116405908628472258",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rofoverse How beautiful is that",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116406014245515699",
+    "time": "2026-10-31 13:44",
+    "created_at": "Sat Oct 31 05:44:49 +0000 2026",
+    "id_str": "2116406014245515699",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/waozixyz/status/2116410196209582132",
+    "time": "2026-10-31 14:01",
+    "created_at": "Sat Oct 31 06:01:26 +0000 2026",
+    "id_str": "2116410196209582132",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/oprylamb/status/2116410253827043763",
+    "time": "2026-10-31 14:01",
+    "created_at": "Sat Oct 31 06:01:40 +0000 2026",
+    "id_str": "2116410253827043763",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@oprylamb Lovely pumpkin, Holly! \nHappy Halloween 🎃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116412155851399536",
+    "time": "2026-10-31 14:09",
+    "created_at": "Sat Oct 31 06:09:13 +0000 2026",
+    "id_str": "2116412155851399536",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@waozixyz Haha 😆 great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116412209387499707",
+    "time": "2026-10-31 14:09",
+    "created_at": "Sat Oct 31 06:09:26 +0000 2026",
+    "id_str": "2116412209387499707",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "🎯",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116419038519660885",
+    "time": "2026-10-31 14:36",
+    "created_at": "Sat Oct 31 06:36:34 +0000 2026",
+    "id_str": "2116419038519660885",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife cool idea for a thread! 🔥🎃🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/CrazerArts/status/2116420608762548561",
+    "time": "2026-10-31 14:42",
+    "created_at": "Sat Oct 31 06:42:48 +0000 2026",
+    "id_str": "2116420608762548561",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CrazerArts Thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116422233791005177",
+    "time": "2026-10-31 14:49",
+    "created_at": "Sat Oct 31 06:49:16 +0000 2026",
+    "id_str": "2116422233791005177",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Mine",
+    "quoted_tweet": null,
+    "url": "https://x.com/RobertKCroft/status/2116427027209134278",
+    "time": "2026-10-31 15:08",
+    "created_at": "Sat Oct 31 07:08:19 +0000 2026",
+    "id_str": "2116427027209134278",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RobertKCroft Nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116427610528043014",
+    "time": "2026-10-31 15:10",
+    "created_at": "Sat Oct 31 07:10:38 +0000 2026",
+    "id_str": "2116427610528043014",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MattPRD 💯",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116434282390671692",
+    "time": "2026-10-31 15:37",
+    "created_at": "Sat Oct 31 07:37:09 +0000 2026",
+    "id_str": "2116434282390671692",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Enjoy New York autumn vibes 🍂🍁 \nI hope to show you my city one day",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116440867569377693",
+    "time": "2026-10-31 16:03",
+    "created_at": "Sat Oct 31 08:03:19 +0000 2026",
+    "id_str": "2116440867569377693",
+    "is_retweet": false
   }
 ]
