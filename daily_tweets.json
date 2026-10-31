@@ -905,5 +905,194 @@
     "created_at": "Sat Oct 31 10:06:01 +0000 2026",
     "id_str": "2116471746404712467",
     "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Halloween at World Labs 🎃\n\nAn epic battle was inevitable.",
+    "quoted_tweet": null,
+    "url": "https://x.com/theworldlabs/status/2116562180439237098",
+    "time": "2026-11-01 00:05",
+    "created_at": "Sat Oct 31 16:05:22 +0000 2026",
+    "id_str": "2116562180439237098",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@theworldlabs Cool kids work here at @theworldlabs ! 😎",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2116573135185256723",
+    "time": "2026-11-01 00:48",
+    "created_at": "Sat Oct 31 16:48:54 +0000 2026",
+    "id_str": "2116573135185256723",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "OpenAI kills a lot of its products\n\nSora lasted 6 months, Agent Builder 8 months, Group Chat 8 months, Atlas 9 months...\n\nMost of the time (Sora excepted?) their own product became obsolete within months, in case you think they are immune to misjudging the exponential themselves",
+    "quoted_tweet": {
+      "author": "Emaad Manzoor",
+      "username": "emaadmanzoor",
+      "text": "as predicted"
+    },
+    "url": "https://x.com/emollick/status/2116282885112205365",
+    "time": "2026-10-31 05:35",
+    "created_at": "Fri Oct 30 21:35:33 +0000 2026",
+    "id_str": "2116282885112205365",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Do you block them? Just spot-checking a few it seems you have a lot of repeat offenders. I don’t have as many followers as you but I just block them on sight and the ones left are a minor annoyance.",
+    "quoted_tweet": null,
+    "url": "https://x.com/goodside/status/2116300149764874334",
+    "time": "2026-10-31 06:44",
+    "created_at": "Fri Oct 30 22:44:09 +0000 2026",
+    "id_str": "2116300149764874334",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is some good advice on working with a Dot (I will never stop capitalizing it, OpenAI!) but also a sign of the issues with the UX of Dot (& all personal agents) right now: you can't easily tell what they are working on, what they know about you, and what they will do for you",
+    "quoted_tweet": {
+      "author": "Nick",
+      "username": "nickbaumann_",
+      "text": "https://x.com/i/article/2116298153058037760"
+    },
+    "url": "https://x.com/emollick/status/2116321075164500438",
+    "time": "2026-10-31 08:07",
+    "created_at": "Sat Oct 31 00:07:18 +0000 2026",
+    "id_str": "2116321075164500438",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Magic doesn't always need to be the default mode of an AI system. Control is nice, especially for a personal assistant.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2116323245641101729",
+    "time": "2026-10-31 08:15",
+    "created_at": "Sat Oct 31 00:15:55 +0000 2026",
+    "id_str": "2116323245641101729",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Agree with this. Scheduled local Codex sessions that email you or message you offer a lot more control over important tasks because you can change the context and prompts. I still enjoy using a Dot for many tasks, but it is not a replacement. https://x.com/krishnanrohit/status/2116323804695966093?a=A_RcI2tdDKt_VYbF3y4&s=20",
+    "quoted_tweet": {
+      "author": "rohit",
+      "username": "krishnanrohit",
+      "text": "@emollick For many of the use cases, I've gone back to starting to use Codex locally precisely because of this. I know when I can and should intervene."
+    },
+    "url": "https://x.com/emollick/status/2116330271901360248",
+    "time": "2026-10-31 08:43",
+    "created_at": "Sat Oct 31 00:43:50 +0000 2026",
+    "id_str": "2116330271901360248",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@goodside I do, and then new ones appear. At some point, it is just not my problem, it is the platform's.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2116330601657913743",
+    "time": "2026-10-31 08:45",
+    "created_at": "Sat Oct 31 00:45:09 +0000 2026",
+    "id_str": "2116330601657913743",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Huh",
+    "quoted_tweet": {
+      "author": "Hugo Edwards",
+      "username": "hugo_edwards_",
+      "text": "Interesting how Kimi has a near-identical personality to Astra..."
+    },
+    "url": "https://x.com/emollick/status/2116333409760927780",
+    "time": "2026-10-31 08:56",
+    "created_at": "Sat Oct 31 00:56:19 +0000 2026",
+    "id_str": "2116333409760927780",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "For reference, the big proprietary models look very different from each other. (And not every open model overlaps so much with a closed one)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2116334347196277141",
+    "time": "2026-10-31 09:00",
+    "created_at": "Sat Oct 31 01:00:02 +0000 2026",
+    "id_str": "2116334347196277141",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The market for software migration from legacy systems has been limited to $30B a year or so because migration is very expensive and maintenance is easier. Talking to older firms, there is a real backlog of scoped cheaper migration projects being unlocked by AI surprisingly fast",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2116526543346483419",
+    "time": "2026-10-31 21:43",
+    "created_at": "Sat Oct 31 13:43:45 +0000 2026",
+    "id_str": "2116526543346483419",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "For Halloween, I asked Opus 5.5 to suggest a spooky project based on my existing work, and it came up with the idea of the ghost census. Pick a location and see how many people died within a 100 meters of it through all of history up to a century ago.  https://ghost-census.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2116537058433081669",
+    "time": "2026-10-31 22:25",
+    "created_at": "Sat Oct 31 14:25:32 +0000 2026",
+    "id_str": "2116537058433081669",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Came across these glasses yesterday from SubVocal and, since I'm making videos about the closest stuff I've come across, I made a quick video about them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2116594490727366784",
+    "time": "2026-11-01 02:13",
+    "created_at": "Sat Oct 31 18:13:45 +0000 2026",
+    "id_str": "2116594490727366784",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "More details for the interested: https://x.com/AarushYadav47/status/2116198463847408066",
+    "quoted_tweet": {
+      "author": "Aarush Yadav",
+      "username": "AarushYadav47",
+      "text": "We’ve raised $1.3M from YC & Afore Capital so you never have to type or speak again.\n\nTyping is slow. Talking into your computer is awkward. Subvocal fixes both\n\nOur glasses give you the speed of speech without you making a sound or touching a keyboard.\n\nIt tracks your internal speech muscles with non-contact sensing and decodes silent, almost invisible mouthing into text at more than 200 words/min.\n\nPre-orders are now live at:\nhttp://subvocal.co/preorder?utm_source=x"
+    },
+    "url": "https://x.com/mreflow/status/2116596796764107005",
+    "time": "2026-11-01 02:22",
+    "created_at": "Sat Oct 31 18:22:55 +0000 2026",
+    "id_str": "2116596796764107005",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I'm definitely doing this next year for Halloween!",
+    "quoted_tweet": {
+      "author": "Science girl",
+      "username": "sciencegirl",
+      "text": "Next level halloween decoration"
+    },
+    "url": "https://x.com/mreflow/status/2116603834005111178",
+    "time": "2026-11-01 02:50",
+    "created_at": "Sat Oct 31 18:50:53 +0000 2026",
+    "id_str": "2116603834005111178",
+    "is_retweet": false
   }
 ]
