@@ -1,1 +1,388 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Twitter 设计师的一个 skill 可以帮你制作更好的 UI 元素。\n\n比如在动效、交互体验的结果以及排版上都能有一些优化。\n\n如果有页面设计的需求，可以试试它。",
+    "quoted_tweet": {
+      "author": "Benji Taylor",
+      "username": "benjitaylor",
+      "text": "Stageshow: a skill that helps your agent make better faux UI stills, animations, bento grids, and more. \n\nnpx skills add benjitaylor/skills --skill stageshow"
+    },
+    "url": "https://x.com/op7418/status/2116711094622593292",
+    "time": "2026-11-01 09:57",
+    "created_at": "Sun Nov 01 01:57:06 +0000 2026",
+    "id_str": "2116711094622593292",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 X平台将死于AI泔水内容泛滥。@elonmusk",
+    "quoted_tweet": null,
+    "url": "https://x.com/lipeng0820/status/2116725743451623869",
+    "time": "2026-11-01 10:55",
+    "created_at": "Sun Nov 01 02:55:18 +0000 2026",
+    "id_str": "2116725743451623869",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@lipeng0820 @elonmusk 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116743078853955911",
+    "time": "2026-11-01 12:04",
+    "created_at": "Sun Nov 01 04:04:11 +0000 2026",
+    "id_str": "2116743078853955911",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 是啊，对于中文用户来说，threads的使用体验比X好多了，中文用户也多，机器人更少，也没有黄推评论。",
+    "quoted_tweet": null,
+    "url": "https://x.com/williamlong/status/2116746257247191384",
+    "time": "2026-11-01 12:16",
+    "created_at": "Sun Nov 01 04:16:49 +0000 2026",
+    "id_str": "2116746257247191384",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@williamlong 是的 mate 干这个还是在行",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116746379938951398",
+    "time": "2026-11-01 12:17",
+    "created_at": "Sun Nov 01 04:17:18 +0000 2026",
+    "id_str": "2116746379938951398",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 几个人同时改一页，冲突怎么处理？",
+    "quoted_tweet": null,
+    "url": "https://x.com/hotmob/status/2116628236973244753",
+    "time": "2026-11-01 04:27",
+    "created_at": "Sat Oct 31 20:27:51 +0000 2026",
+    "id_str": "2116628236973244753",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 多人同时改要是撞车了，是后存的直接覆盖，还是能看清谁改了哪块？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xianrong996/status/2116676452276224010",
+    "time": "2026-11-01 07:39",
+    "created_at": "Sat Oct 31 23:39:26 +0000 2026",
+    "id_str": "2116676452276224010",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 局域网分享那个，同事改完能看到是谁改了哪一处吗，还是只同步最终稿？",
+    "quoted_tweet": null,
+    "url": "https://x.com/stansKoya/status/2116686680279470283",
+    "time": "2026-11-01 08:20",
+    "created_at": "Sun Nov 01 00:20:05 +0000 2026",
+    "id_str": "2116686680279470283",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@stansKoya 还只同步最终稿，不过你说的是个好问题，我来完善下",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116690020601852095",
+    "time": "2026-11-01 08:33",
+    "created_at": "Sun Nov 01 00:33:21 +0000 2026",
+    "id_str": "2116690020601852095",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@hotmob 会有覆盖的风险，等我完善下",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116696654522843269",
+    "time": "2026-11-01 08:59",
+    "created_at": "Sun Nov 01 00:59:43 +0000 2026",
+    "id_str": "2116696654522843269",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xianrong996 现在是直接覆盖，确实不够完善，等我优化一下",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116696765302755798",
+    "time": "2026-11-01 09:00",
+    "created_at": "Sun Nov 01 01:00:09 +0000 2026",
+    "id_str": "2116696765302755798",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Twitter 设计师的一个 skill 可以帮你制作更好的 UI 元素。\n\n比如在动效、交互体验的结果以及排版上都能有一些优化。\n\n如果有页面设计的需求，可以试试它。",
+    "quoted_tweet": {
+      "author": "Benji Taylor",
+      "username": "benjitaylor",
+      "text": "Stageshow: a skill that helps your agent make better faux UI stills, animations, bento grids, and more. \n\nnpx skills add benjitaylor/skills --skill stageshow"
+    },
+    "url": "https://x.com/op7418/status/2116711094622593292",
+    "time": "2026-11-01 09:57",
+    "created_at": "Sun Nov 01 01:57:06 +0000 2026",
+    "id_str": "2116711094622593292",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Michaelzsguo 这视频是个人用 AI 生成的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116743069307724165",
+    "time": "2026-11-01 12:04",
+    "created_at": "Sun Nov 01 04:04:09 +0000 2026",
+    "id_str": "2116743069307724165",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I am  at the Ghostbusters firehouse in New York \nEcto-1 out front, a giant Stay Puft Marshmallow Man between buildings and a crowd of people in Halloween costumes! \nWho you gonna call? 👻",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116683828832211021",
+    "time": "2026-11-01 08:08",
+    "created_at": "Sun Nov 01 00:08:45 +0000 2026",
+    "id_str": "2116683828832211021",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Few more photos",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116685208762146905",
+    "time": "2026-11-01 08:14",
+    "created_at": "Sun Nov 01 00:14:14 +0000 2026",
+    "id_str": "2116685208762146905",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Lucky!",
+    "quoted_tweet": null,
+    "url": "https://x.com/The_Art_Of_AI/status/2116685239108227072",
+    "time": "2026-11-01 08:14",
+    "created_at": "Sun Nov 01 00:14:21 +0000 2026",
+    "id_str": "2116685239108227072",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Happy Halloween 👻 awesome I’m watching ghostbusters afterlife right now 👍 have a safe night Kris.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Renkasha/status/2116685507954384913",
+    "time": "2026-11-01 08:15",
+    "created_at": "Sun Nov 01 00:15:25 +0000 2026",
+    "id_str": "2116685507954384913",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Renkasha I haven’t seen that one!! Happy Halloween 🎃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116686135409697237",
+    "time": "2026-11-01 08:17",
+    "created_at": "Sun Nov 01 00:17:55 +0000 2026",
+    "id_str": "2116686135409697237",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@The_Art_Of_AI Thanks! Come visit soon",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116686396463178030",
+    "time": "2026-11-01 08:18",
+    "created_at": "Sun Nov 01 00:18:57 +0000 2026",
+    "id_str": "2116686396463178030",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It’s cool I haven’t seen the ones after it yet ^^",
+    "quoted_tweet": null,
+    "url": "https://x.com/Renkasha/status/2116687520255881382",
+    "time": "2026-11-01 08:23",
+    "created_at": "Sun Nov 01 00:23:25 +0000 2026",
+    "id_str": "2116687520255881382",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Renkasha I only saw the first one 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116689538609455396",
+    "time": "2026-11-01 08:31",
+    "created_at": "Sun Nov 01 00:31:26 +0000 2026",
+    "id_str": "2116689538609455396",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Showcase is coming tonight at midnight New York time! You can submit till then! \n\nHappy Halloween 🎃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116691819643695240",
+    "time": "2026-11-01 08:40",
+    "created_at": "Sun Nov 01 00:40:30 +0000 2026",
+    "id_str": "2116691819643695240",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Showcase is coming tonight at midnight New York time! You can submit till then! \n\nHappy Halloween 🎃",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask your AI “based on everything  you know about me, carve this pumpkin”\n\nI’ll make a showcase of all your pumpkins and share on Halloween 🎃"
+    },
+    "url": "https://x.com/icreatelife/status/2116691855924732384",
+    "time": "2026-11-01 08:40",
+    "created_at": "Sun Nov 01 00:40:39 +0000 2026",
+    "id_str": "2116691855924732384",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "New York Halloween Parade 2026 right now 🎃🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116692148909470065",
+    "time": "2026-11-01 08:41",
+    "created_at": "Sun Nov 01 00:41:49 +0000 2026",
+    "id_str": "2116692148909470065",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "One of my fav Halloween costumes at New York Halloween parade right now 🫧",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116697848343658939",
+    "time": "2026-11-01 09:04",
+    "created_at": "Sun Nov 01 01:04:28 +0000 2026",
+    "id_str": "2116697848343658939",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Peak SF Halloween",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2116699699659084287",
+    "time": "2026-11-01 09:11",
+    "created_at": "Sun Nov 01 01:11:49 +0000 2026",
+    "id_str": "2116699699659084287",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife What costume are you wearing?",
+    "quoted_tweet": null,
+    "url": "https://x.com/derek_ai/status/2116712420643402153",
+    "time": "2026-11-01 10:02",
+    "created_at": "Sun Nov 01 02:02:22 +0000 2026",
+    "id_str": "2116712420643402153",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Happy Halloween, Pablo and Kris!",
+    "quoted_tweet": null,
+    "url": "https://x.com/AllaAisling/status/2116726295178690659",
+    "time": "2026-11-01 10:57",
+    "created_at": "Sun Nov 01 02:57:30 +0000 2026",
+    "id_str": "2116726295178690659",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/AllaAisling/status/2116729619034357867",
+    "time": "2026-11-01 11:10",
+    "created_at": "Sun Nov 01 03:10:42 +0000 2026",
+    "id_str": "2116729619034357867",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AllaAisling Lovely",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116730493060198436",
+    "time": "2026-11-01 11:14",
+    "created_at": "Sun Nov 01 03:14:11 +0000 2026",
+    "id_str": "2116730493060198436",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AllaAisling Happy Halloween 🎃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116730565311205577",
+    "time": "2026-11-01 11:14",
+    "created_at": "Sun Nov 01 03:14:28 +0000 2026",
+    "id_str": "2116730565311205577",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@derek_ai I am not on the video! I was filming it. This year I came as a cat sceleton 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116731398879109500",
+    "time": "2026-11-01 11:17",
+    "created_at": "Sun Nov 01 03:17:47 +0000 2026",
+    "id_str": "2116731398879109500",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Pumpkin showcase takes a bit longer!! Over 300 pumpkins so far 😱\nI’ll post a showcase tomorrow. Happy Halloween 🎃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116750907203358780",
+    "time": "2026-11-01 12:35",
+    "created_at": "Sun Nov 01 04:35:18 +0000 2026",
+    "id_str": "2116750907203358780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@venturetwins 😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2116759094971285847",
+    "time": "2026-11-01 13:07",
+    "created_at": "Sun Nov 01 05:07:50 +0000 2026",
+    "id_str": "2116759094971285847",
+    "is_retweet": false
+  }
+]
