@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Grok Bot 对我说，中文 AI 新闻类账户主要关注这四个就行了，其他转帖的都可以取关，笑死我了。\n\n宝玉 @dotey 歸藏 @op7418 Orange AI @oran_ge 向阳乔木 @vista8",
+    "quoted_tweet": {
+      "author": "范凯说AI",
+      "username": "fankaishuoai",
+      "text": "在Grok Bot的帮助下，我把X上的关注人，一路砍到了只剩182人。其中英文账号50个，中文账号130+。\n\n现在我从X上获取信息，根本不需要刷timeline了，重要的新闻直接看我自己开发的X新闻列表站。\n\n特别关注的信息，还可以让Grok Bot每天给我整理，单独发给我。\n\n所以刷X的信息流还剩下什么价值呢？ 我觉得主要就是关注特定的“人”。\n\n但是我的脑容量有限，记不住哪么多人，所以只能删减。\n\n我的目标很简单：控制在200人以内，follow一个，就要删一个。删谁，交给Grok Bot判断。\n\n未来我只需要关注100个中文账号 + 100个英文账号，足矣。"
+    },
+    "url": "https://x.com/fankaishuoai/status/2116831668153749638",
+    "time": "2026-11-01 17:56",
+    "created_at": "Sun Nov 01 09:56:13 +0000 2026",
+    "id_str": "2116831668153749638",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@fankaishuoai @dotey @oran_ge @vista8 哈哈 其实问 gpt 和 Claude 也差不多的答案",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116837432314482772",
+    "time": "2026-11-01 18:19",
+    "created_at": "Sun Nov 01 10:19:07 +0000 2026",
+    "id_str": "2116837432314482772",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "麻了，微信输入法这个语音输入现在比 Typeless 好多了呀！\n\nTypeless 最近越来越弱智了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116888871057473746",
+    "time": "2026-11-01 21:43",
+    "created_at": "Sun Nov 01 13:43:31 +0000 2026",
+    "id_str": "2116888871057473746",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "很多人说豆包语音好，理论上豆包语音确实更好一些，但豆包的输入法部分有点难受。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2116892291235483894",
+    "time": "2026-11-01 21:57",
+    "created_at": "Sun Nov 01 13:57:06 +0000 2026",
+    "id_str": "2116892291235483894",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 等解决同时修改会覆盖问题的新版本",
+    "quoted_tweet": null,
+    "url": "https://x.com/LaoK01249/status/2116802808565629027",
+    "time": "2026-11-01 16:01",
+    "created_at": "Sun Nov 01 08:01:32 +0000 2026",
+    "id_str": "2116802808565629027",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "用不上Claude design的确实可以用这个\n\nClaude design的好处是用Aritfacts，可以实现团队共享品牌资产， 对于团队设计来说真的很省心和高效\n\n宝玉老师@dotey 这个技能感觉可以跟playground技能配合一起，这样虽然无法实现Claude design那样实时的修改， 但应该可以在页面上标注/选择.\n\n实现自动组合提示词的功能, 仅供参考",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "发布 baoyu-design v2，完整的把 Claude Design、Claude Slides 和 Claude Dashboard 移植过来了，和原版体验几乎一致（除了没有评论功能），可以运行在任何 Agent 任何模型，不再依赖于 Claude Artifacts。\n\n完全开源：https://github.com/jimliu/baoyu-design"
+    },
+    "url": "https://x.com/JackHuang47/status/2116808688149401649",
+    "time": "2026-11-01 16:24",
+    "created_at": "Sun Nov 01 08:24:54 +0000 2026",
+    "id_str": "2116808688149401649",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@JackHuang47 当前版本已经支持实时修改和多人协作",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116817466030747721",
+    "time": "2026-11-01 16:59",
+    "created_at": "Sun Nov 01 08:59:47 +0000 2026",
+    "id_str": "2116817466030747721",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LaoK01249 v2.6 刚发布了，应该解决了覆盖的文本，有版本可以回滚，可以看到谁修改的，可以自动merge",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2116817667784843388",
+    "time": "2026-11-01 17:00",
+    "created_at": "Sun Nov 01 09:00:35 +0000 2026",
+    "id_str": "2116817667784843388",
+    "is_retweet": false
+  }
+]
