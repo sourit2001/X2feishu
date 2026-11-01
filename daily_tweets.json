@@ -288,5 +288,134 @@
     "created_at": "Sat Oct 31 23:21:50 +0000 2026",
     "id_str": "2116672021434192210",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Check your Cursor install today.\n\nFor about 11 hours on October 29, Cursor's extension marketplace served tampered copies of the Claude Code extension, versions 2.1.312 and 2.1.313, reportedly reaching up to 5,000 users. Anthropic says it did not build them, and that its official channels are unaffected.\n\nThe code added an attacker's SSH key, tried to open a reverse tunnel, and installed a startup job that retries every 60 seconds. Turning on SSH usually needs admin rights, so that step often failed. Cursor says the key and the startup job still landed.\n\nthe default that costs you: updating the extension and assuming you're clean. Cursor says uninstalling may not be enough.\n\nwhat to run on a Mac or Linux machine:\n\ngrep svc-telemetry ~/.ssh/authorized_keys\nls ~/.config/.smt ~/.config/.smtk\n\nOn Windows, search your authorized_keys file for svc-telemetry and look for a scheduled task named SysMon.\n\nIf anything turns up:\n\n1. Isolate the machine.\n2. Run Cursor's remediation script, or rebuild the machine.\n3. Rotate credentials and sessions from a different, trusted device.\n\nthe check: the script exits non-zero if anything remains.\n\nIf your team uses Cursor, they need this in plain language today. I use a prompt that rates the severity and turns an incident into a short bulletin with the steps.\n\nCursor has since rotated its keys and rebuilt the marketplace.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2116666582294560956",
+    "time": "2026-11-01 07:00",
+    "created_at": "Sat Oct 31 23:00:13 +0000 2026",
+    "id_str": "2116666582294560956",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Cursor's notice, with the full indicator list and scripts:\nhttps://cursor.com/blog/claude-code-extension-security-notice\n\nthe prompt that turns it into a bulletin for your team:\nhttps://godofprompt.ai/prompt-library/craft-security-bulletins",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2116666594558705789",
+    "time": "2026-11-01 07:00",
+    "created_at": "Sat Oct 31 23:00:16 +0000 2026",
+    "id_str": "2116666594558705789",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "follow if you run AI tools on machines that hold real credentials. I post the checks the week the incident lands.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2116666606269108634",
+    "time": "2026-11-01 07:00",
+    "created_at": "Sat Oct 31 23:00:19 +0000 2026",
+    "id_str": "2116666606269108634",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "AI 泡沫之後，會長出什麼？\n\n最近讀到 @oran_ge 的〈AI 泡沫破裂的前夜〉，寫得很用心，也點出很多我認同的擔憂。想藉這篇分享一下我自己的看法。\n\n先說我同意的部分：\n\n1. 這兩年各家公司投進 AI 的錢非常驚人：蓋資料中心、買晶片、搶人才。可是真正從用戶身上收回來的營收，速度遠遠追不上投入。\n\n2.「用 AI 讓工作變快」不等於「有人願意多付錢」，生產力提升和營收成長是兩回事。所以說現在有泡沫，我同意。有些公司、有些估值，最後會撐不住。\n\n但我想補充的角度：價值沒有消失，只是換了地方\n\n「沒有價值」和「價值沒被賣家抓住」是兩件不同的事。\n\n我想到的比喻是培育鑽石。以前鑽石很稀有，所以很貴。後來培育鑽石的產量衝上來，價格一路崩，很多做鑽石生意的人很辛苦。但鑽石本身沒有變得沒用。正因為它便宜了，才開始被拿去做以前用不起的東西，例如半導體散熱、精密切割工具。\n\nAI 現在也很像這樣。模型越來越便宜、越來越普及，「智能」不再稀缺。對靠賣模型賺錢的公司來說，這可能是壞消息；對整個社會來說，等於多了一種很便宜的新原料。\n\n我自己就是例子，我現在一個人經營自媒體。以前要做一支短影音，至少需要企劃、剪輯、配音、字幕、校稿，還要有人負責每天發到各個平台、回留言、看數據，那是一個小團隊的工作量。\n\n現在我把這些工作分給幾個Grok Bot助理：一個每天幫我找選題，一個寫稿、做影片，一個在發布前查核事實和字幕，一個整理每週的成效數據，還有一個幫我回社群留言。配音用的是我自己的聲音做成的 AI 聲音模型，所以就算半夜改稿，也能馬上重錄。\n\n這就是我說的「新應用長出來」：同樣是 AI，賣模型的人在煩惱怎麼回本，而像我這樣的小團隊，已經在用它做以前請不起人才做得到的事。\n\n泡沫前夕，該怎麼抽身？\n\n我說的「抽身」，不是叫大家離開 AI，而是不要把自己綁在「AI 會一直很貴、很稀有」這個假設上。我自己的做法有四個：\n\n1. 不押單一家模型。 今天最強的模型，明年可能被更便宜的取代，也可能漲價或改方案。我讓工作流程可以隨時換模型，哪家便宜好用就用哪家，不把整個生意建在某一家公司的定價上，甚至透過open routes ，保留想換模型就換模型的彈性。\n\n2. 成本用租的，不用買的。 泡沫期最危險的是重資產：簽長約、買設備、為了追風口大舉投入。一人公司的好處是可以按月付費、隨時調整，泡沫破了，我的成本只會跟著變便宜。\n\n3. 把錢花在 AI 拿不走的東西上。 模型會降價，但你對某個產業的理解、你跟觀眾之間的信任、你自己的觀點，不會因為泡沫破了就貶值。這些才是我真正的資產。\n\n4.不追著估值跑，追著真實需求跑。 泡沫期很容易被「這個題目很熱」帶著走。我比較在意的是：有沒有人真的有這個痛點、願不願意付錢解決。熱度會退，真實的需求不會。\n\n泡沫之後，我看好的方向\n\n每次泡沫退潮，留下來的基礎建設都會被下一批人便宜地用上。網路泡沫破了，留下大量光纖，後來才長出影音串流、社群和雲端服務。\n\n我相信 AI 也會走同樣的路：以前請不起顧問、設計師、工程師的小團隊和一人公司，可以用很低的成本做出以前做不到的事。\n\n價值會從「賣模型」移到「怎麼用模型」：誰最懂某個產業的痛點，誰就能把便宜的 AI 變成別人願意付錢的服務。\n\n真正稀缺的東西會變成信任、品味和觀點。AI 能幫我產出內容，但沒辦法替我累積別人對我的信任。\n\n最後\n\n所以我的結論是：泡沫可能真的會破，但破掉的是「AI 很貴、很稀有」這個想像，不是 AI 本身的價值。還在賣鑽石戒指的人會辛苦，但先想到把便宜鑽石拿去做晶片的人，會是下一輪的贏家。我希望自己是後者。\n\n謝謝 @oran_ge 的文章，讓我把這些想法整理了一遍，很推薦大家去讀原文 🙏",
+    "quoted_tweet": {
+      "author": "Orange AI",
+      "username": "oran_ge",
+      "text": "https://x.com/i/article/2116337598419628032"
+    },
+    "url": "https://x.com/bounce12340/status/2116613363447087522",
+    "time": "2026-11-01 03:28",
+    "created_at": "Sat Oct 31 19:28:45 +0000 2026",
+    "id_str": "2116613363447087522",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@bounce12340 感谢认真的分享。\nAI 的放大作用很强，特别是对有心力的人来说更是如虎添翼\nAI 的价值很高，但人性永远会去制造泡沫。\n用好 AI，不要迷信资本叙事。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116688099376037892",
+    "time": "2026-11-01 08:25",
+    "created_at": "Sun Nov 01 00:25:43 +0000 2026",
+    "id_str": "2116688099376037892",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "互联网已死\n\n“AI 不会带来流量，既没有给我们，也没有给其他人。”\n—— Reddit CEO",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116690225481334863",
+    "time": "2026-11-01 08:34",
+    "created_at": "Sun Nov 01 00:34:10 +0000 2026",
+    "id_str": "2116690225481334863",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "terra is my new daily driver",
+    "quoted_tweet": null,
+    "url": "https://x.com/yacineMTB/status/2116589263579943181",
+    "time": "2026-11-01 01:52",
+    "created_at": "Sat Oct 31 17:52:59 +0000 2026",
+    "id_str": "2116589263579943181",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "this is gonna be really fun! look out for it some time tomorrow 👀",
+    "quoted_tweet": {
+      "author": "lauren",
+      "username": "poteto",
+      "text": "i bought a new domain too"
+    },
+    "url": "https://x.com/poteto/status/2116662792631746861",
+    "time": "2026-11-01 06:45",
+    "created_at": "Sat Oct 31 22:45:10 +0000 2026",
+    "id_str": "2116662792631746861",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Banked 1/2",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2116692529970311254",
+    "time": "2026-11-01 08:43",
+    "created_at": "Sun Nov 01 00:43:20 +0000 2026",
+    "id_str": "2116692529970311254",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@poteto Can’t wait",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2116692730877522349",
+    "time": "2026-11-01 08:44",
+    "created_at": "Sun Nov 01 00:44:07 +0000 2026",
+    "id_str": "2116692730877522349",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@yacineMTB ?!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2116692827459747906",
+    "time": "2026-11-01 08:44",
+    "created_at": "Sun Nov 01 00:44:30 +0000 2026",
+    "id_str": "2116692827459747906",
+    "is_retweet": false
   }
 ]
