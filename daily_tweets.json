@@ -773,5 +773,186 @@
     "created_at": "Mon Nov 02 04:12:03 +0000 2026",
     "id_str": "2117107444149362935",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "California is trying to buy a Texas Senate seat.\n\nTalarico is getting 53% of his itemized money from outside the state. \n\nCalifornia alone dropped $7.8 million on him, more than Paxton raised from every other state combined. \n\nNew York added $3 million. \n\nMassachusetts another $2.1 million. \n\nPaxton’s campaign is 73% Texas money. \n\nTalarico’s is a coastal donor operation. \n\nThe left can’t win Texas on the merits, so they flooded the race with blue state cash instead. \n\nSo no, nothing “grassroots” about him.",
+    "quoted_tweet": {
+      "author": "Rothmus 🏴",
+      "username": "Rothmus",
+      "text": ">be Talarico\n>call yourself a devout Christian\n>say “God is nonbinary” on the House floor to defend boys in girls’ sports\n>church hangs the trans flag and has ministers who say most members are atheists or agnostics\n>Instagram follows a pile of OnlyFans models, porn stars, and escorts\n>like their pics\n>campaign says you “don’t judge them” and that’s what your faith calls you to do\n>claim you never subscribed or used them\n>now your old email shows up in a 2011 http://Fling.com data leak\n>profile lists interests in FETISH, GROUPSEX, SEXUAL RELATIONS, ONLINE FLIRTING\n>email was validated\n>IP matches one tied to your sister’s email from the same household network\n>lawyers say someone hacked the email and a bot made the account\n>mismatched birth date and zip so it can’t be you\n>your team already follows hookers and camgirls “without investigating”\n\nNot the most religious person, but I’m pretty sure Jesus told people to leave their sin and follow him so they could be forgiven, not keep the fetish profiles and OnlyFans follows and pretend that inviting degeneracy is Christian acceptance.\n\nAnd don’t lie."
+    },
+    "url": "https://x.com/Rothmus/status/2117043924690747428",
+    "time": "2026-11-02 07:59",
+    "created_at": "Sun Nov 01 23:59:39 +0000 2026",
+    "id_str": "2117043924690747428",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It's true. \n\nEvery single person I've told to try Grok Bot:\n\n- \"Holy fk it's really THAT GOOD\"\n- Starts telling other people to try Grok Bot",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible."
+    },
+    "url": "https://x.com/stevenmarkryan/status/2117047788882264533",
+    "time": "2026-11-02 08:15",
+    "created_at": "Mon Nov 02 00:15:00 +0000 2026",
+    "id_str": "2117047788882264533",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "My only regret is not moving to New York sooner.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2117072141602681310",
+    "time": "2026-11-02 09:51",
+    "created_at": "Mon Nov 02 01:51:46 +0000 2026",
+    "id_str": "2117072141602681310",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Have you used the Muse app in the past 7 days.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2117123978238337429",
+    "time": "2026-11-02 13:17",
+    "created_at": "Mon Nov 02 05:17:45 +0000 2026",
+    "id_str": "2117123978238337429",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Have you used the Muse app in the past 7 days.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2117123978238337429",
+    "time": "2026-11-02 13:17",
+    "created_at": "Mon Nov 02 05:17:45 +0000 2026",
+    "id_str": "2117123978238337429",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "This is cool but a single 90min YouTube video released by Karpathy would be more valuable than this entire site.",
+    "quoted_tweet": {
+      "author": "Andrej Karpathy",
+      "username": "karpathy",
+      "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of."
+    },
+    "url": "https://x.com/rileybrown/status/2117127269571330326",
+    "time": "2026-11-02 13:30",
+    "created_at": "Mon Nov 02 05:30:50 +0000 2026",
+    "id_str": "2117127269571330326",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "An atheist in Kentucky applied for (and received) a religious exemption so he wouldn't have to use AI at work.\n\nI will immediately be filing similar documentation regarding Microsoft Teams.",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2117060491009032521",
+    "time": "2026-11-02 09:05",
+    "created_at": "Mon Nov 02 01:05:28 +0000 2026",
+    "id_str": "2117060491009032521",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "https://x.com/i/article/2116829218935857152",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeepSeekHarness/status/2116857257245987236",
+    "time": "2026-11-01 19:37",
+    "created_at": "Sun Nov 01 11:37:54 +0000 2026",
+    "id_str": "2116857257245987236",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Yann LeCun was right & nobody in this industry wants to say it out loud.\n\n109 million parameters beat 72 billion.\n\nHe has spent years saying scale is not the thing that makes a model understand the world. Meta bet the other way. He left in November and started his own lab in Paris.\n\nLast Thursday he published the proof.\n\nThe theory everyone has been running on since 2024 is that if you train models big enough, on text, on images, on sound, they all end up with the same picture of reality inside them. Size does it. Nobody ever proved that part.\n\nRandall Balestriero and LeCun proved it. And the proof says size was never doing the work.\n\nWhat does the work is which two things you show a model together.\n\nA photo and the caption of that photo are two views of one thing. Models trained on pairs like that get there fast.\n\nTwo paragraphs pulled from the same document are not two views of one thing. Models trained on those get there slowly and expensively.\n\nNext word prediction is the second kind. That is what every chatbot in the world runs on.\n\nIn their tests the first method reached the same understanding after 21.6 million examples. Next word prediction needed 900 million.\n\nAnd a 109 million parameter text model ended up closer to an image model's view of the world than a 72 billion parameter language model was.\n\n660 times smaller.",
+    "quoted_tweet": null,
+    "url": "https://x.com/heyshrutimishra/status/2116931531000156348",
+    "time": "2026-11-02 00:33",
+    "created_at": "Sun Nov 01 16:33:02 +0000 2026",
+    "id_str": "2116931531000156348",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2116957135661945283",
+    "time": "2026-11-02 02:14",
+    "created_at": "Sun Nov 01 18:14:46 +0000 2026",
+    "id_str": "2116957135661945283",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2116957135661945283",
+    "time": "2026-11-02 02:14",
+    "created_at": "Sun Nov 01 18:14:46 +0000 2026",
+    "id_str": "2116957135661945283",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@karpathy @grok 这篇文章消费什么数据集 ？ 使用了什么创新的方法，在什么业务场景下特别适合使用？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2117083875390488969",
+    "time": "2026-11-02 10:38",
+    "created_at": "Mon Nov 02 02:38:24 +0000 2026",
+    "id_str": "2117083875390488969",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@heyshrutimishra @grok 这个篇文章有什么核心观点，消费什么数据集？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2117113949758050674",
+    "time": "2026-11-02 12:37",
+    "created_at": "Mon Nov 02 04:37:54 +0000 2026",
+    "id_str": "2117113949758050674",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@DeepSeekHarness @grok 这个文章有什么核心观点，使用什么数据集，解决什么问题。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2117159369905451078",
+    "time": "2026-11-02 15:38",
+    "created_at": "Mon Nov 02 07:38:23 +0000 2026",
+    "id_str": "2117159369905451078",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "A proof has to stand up to tough questions. \n\nThat’s why public review matters. #JustinSunPrize",
+    "quoted_tweet": {
+      "author": "The Justin Sun Prize",
+      "username": "JustinSunPrize",
+      "text": "A submitted proof is not yet a #JustinSunPrize award.\n\nOutside the MathDB pilot, a verified contribution first becomes a public candidate. Anyone can challenge it during a 14-day public review. Recipient confirmation and the award come after.\n\nProcess 👇\nhttps://github.com/TheJustinSunPrize/awards/blob/main/docs/award-process.md"
+    },
+    "url": "https://x.com/justinsuntron/status/2117130605595152618",
+    "time": "2026-11-02 13:44",
+    "created_at": "Mon Nov 02 05:44:05 +0000 2026",
+    "id_str": "2117130605595152618",
+    "is_retweet": false
   }
 ]
