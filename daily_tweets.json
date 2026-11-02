@@ -522,5 +522,256 @@
     "created_at": "Mon Nov 02 02:37:08 +0000 2026",
     "id_str": "2117083560503021724",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Nice to see a successor to GDPval to evaluate AI work but really needs human baselines like GDPval.\n\nFunnily enough, GPT-6 Pro spotted some errors in the grading. I also think the 0% scores hide economically meaningful differences in success rates. But still a valuable benchmark!",
+    "quoted_tweet": {
+      "author": "SemiAnalysis",
+      "username": "SemiAnalysis_",
+      "text": "Today we’re releasing GDPx, a benchmark for measuring agentic capabilities across the most valuable domains.\n\nGDPx is a true frontier-level benchmark: even the best model scores just 12% (1/7)🧵"
+    },
+    "url": "https://x.com/emollick/status/2117142297934757916",
+    "time": "2026-11-02 14:30",
+    "created_at": "Mon Nov 02 06:30:33 +0000 2026",
+    "id_str": "2117142297934757916",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Again, @SemiAnalysis_ is doing something valuable here & you can see why benchmarks of expert-level work are incredibly hard to pull off. I think this is quite useful at a time where so many other major benchmarks (ARC-AGI, GDPval, METR Long Tasks) are completely saturated.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2117143076443746659",
+    "time": "2026-11-02 14:33",
+    "created_at": "Mon Nov 02 06:33:38 +0000 2026",
+    "id_str": "2117143076443746659",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "grok bot 已经满足了我沉浸式翻译的场景了",
+    "quoted_tweet": null,
+    "url": "https://x.com/randyloop/status/2116790667217391892",
+    "time": "2026-11-01 15:13",
+    "created_at": "Sun Nov 01 07:13:17 +0000 2026",
+    "id_str": "2116790667217391892",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "保护好身体\n安心等待技术进步\n在自己喜欢和擅长的地方做点贡献\n降低欲望\n控制消费\n\n幸福人生",
+    "quoted_tweet": null,
+    "url": "https://x.com/kalasoo/status/2116802627589779787",
+    "time": "2026-11-01 16:00",
+    "created_at": "Sun Nov 01 08:00:49 +0000 2026",
+    "id_str": "2116802627589779787",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "股灾是会传导的，大家的资产缩水后，会影响实体经济消费和楼市价格，资产会进一步缩水。\n\n面对此情此景，我目前能想到的唯一办法，就是做好储蓄，减少消费。\n\n大家做好过冬的准备",
+    "quoted_tweet": {
+      "author": "政经鲁社长",
+      "username": "xzzzjpl",
+      "text": "股灾之后，是居民资产负债表的进一步坍塌，是通缩和消费萎靡的进一步加剧。"
+    },
+    "url": "https://x.com/python_xxt/status/2116820205620101256",
+    "time": "2026-11-01 17:10",
+    "created_at": "Sun Nov 01 09:10:40 +0000 2026",
+    "id_str": "2116820205620101256",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "继 ChatGPT 之后，Grok bot 也官方认证了\n其中三个都是 Next Token 的主播\n你知道 AI 行业播客要听哪个了吧",
+    "quoted_tweet": {
+      "author": "范凯说AI",
+      "username": "fankaishuoai",
+      "text": "Grok Bot 对我说，中文 AI 新闻类账户主要关注这四个就行了，其他转帖的都可以取关，笑死我了。\n\n宝玉 @dotey 歸藏 @op7418 Orange AI @oran_ge 向阳乔木 @vista8"
+    },
+    "url": "https://x.com/oran_ge/status/2116834306912100423",
+    "time": "2026-11-01 18:06",
+    "created_at": "Sun Nov 01 10:06:42 +0000 2026",
+    "id_str": "2116834306912100423",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@kalasoo 安心等待长寿时代",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116836600160354363",
+    "time": "2026-11-01 18:15",
+    "created_at": "Sun Nov 01 10:15:49 +0000 2026",
+    "id_str": "2116836600160354363",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 完整经历15年股灾的人，见识过熔断的人，\n啊不对，是韭菜，在此...",
+    "quoted_tweet": null,
+    "url": "https://x.com/python_xxt/status/2116842843616722996",
+    "time": "2026-11-01 18:40",
+    "created_at": "Sun Nov 01 10:40:37 +0000 2026",
+    "id_str": "2116842843616722996",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@python_xxt +1",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116851634697535517",
+    "time": "2026-11-01 19:15",
+    "created_at": "Sun Nov 01 11:15:33 +0000 2026",
+    "id_str": "2116851634697535517",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@randyloop 谁能想到…🐮",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116852724969185555",
+    "time": "2026-11-01 19:19",
+    "created_at": "Sun Nov 01 11:19:53 +0000 2026",
+    "id_str": "2116852724969185555",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "细思恐极，今天看了《人类简史》的作者尤瓦尔赫拉利的演讲：\n《AI已经破解了人类文明底层代码》\n大概的内容是这样的：\n\n人类通过合作成为了世界的主宰\n合作的工具是语言\n合作的本质是信任\n通过语言，我们构建了政治、经济、法律系统，他们的本质是信任系统\n有了这些系统，人类才可以进行大规模的合作\n比如股票，数万人可以购买一个公司的股票，他们并不直接认识这家公司的任何人，但是通过金融系统他们就可以完成投资\n可以说，基于语言所构建的信任系统，是人类文明的底层代码\n\n几千年来，这段代码只有人类能读写。文字、印刷、电报、互联网，都只是搬运人写下的语言，作者永远是人 。\n而现在，AI ，也就是大语言模型来了。\nAI 不一样，它是第一个能自己写这种语言的技术\nAI 的特长就是其语言能力。\n我们人类将会从信任系统，逐渐变为信任 AI。\nAI 已经成为人类文明中不可或缺的一部分。\n我们人类将会不知不觉地受到 AI 的影响。\n就像 A 社通过 Agent 影响人类判断的实验所证明的那样。\nAI 已经破解了人类文明的底层密码。\n这将是人类面对的最大的挑战。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116873991432667494",
+    "time": "2026-11-01 20:44",
+    "created_at": "Sun Nov 01 12:44:23 +0000 2026",
+    "id_str": "2116873991432667494",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "视频链接 https://www.bilibili.com/video/BV1KPTs6AEbY/?spm_id_from=333.1391.0.0&vd_source=884ee13f288f7716c4b12b1f017b860c",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116874040136876261",
+    "time": "2026-11-01 20:44",
+    "created_at": "Sun Nov 01 12:44:35 +0000 2026",
+    "id_str": "2116874040136876261",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这是 A 社最新的相关研究\nHow AI agents shape experts’ judgment calls \nAI智能体如何影响专家的判断决策\n\nhttps://x.com/AlexTamkin/status/2115190541688398184",
+    "quoted_tweet": {
+      "author": "Alex Tamkin",
+      "username": "AlexTamkin",
+      "text": "New Anthropic research: How AI agents shape experts' judgment calls\n\nWhen experts delegate work to an agent, do they still make the key decisions? We tested this in a randomized trial with 50 professional data analysts."
+    },
+    "url": "https://x.com/oran_ge/status/2116877596877340729",
+    "time": "2026-11-01 20:58",
+    "created_at": "Sun Nov 01 12:58:43 +0000 2026",
+    "id_str": "2116877596877340729",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "一旦这个密码被破解\nAI 便无需像科幻电影里那样叛变人类，只需要潜移默化地引导\n就像人类沉迷 AI 短剧和算法推荐流那样",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2116880410621960207",
+    "time": "2026-11-01 21:09",
+    "created_at": "Sun Nov 01 13:09:54 +0000 2026",
+    "id_str": "2116880410621960207",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "A 社说他们因为封号损失了 5% 到 7% 的收入，路透社估计损失金额大概在 20亿美元左右。\n\n那为什么还要封号呢？答案就是反蒸馏能赚钱。\n\nA 社的整个商业模式都建立在模型的代际差上，用户为了前沿智能的稀缺性而买单。\n一旦竞争对手追上来了，这代模型的价值也就下降了。\n我们从 S1 看，模型推理的毛利率高达 85%，推理是非常赚钱的。\n但模型的成本中最大的其实是研发成本，算上研发成本，就把利润抹平了。\n\n（2026 年上半年收入 162.86 亿美元，收入成本只有 23.8 亿，毛利 139.06 亿。同期研发花了 97.41 亿美元，比收入成本高出四倍；再加上销售 38.08 亿、行政 10.5 亿，最后经营亏损 6.93 亿。）\n\n所以让模型保持领先的身位就是利润的来源。\n而这些违反规定的客户，大部分的消耗都是用来蒸馏模型的，蒸馏可以加速竞争对手研发，快速缩短代际差。\n封号看似是损失，其实账都已经算明白了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2117022556175942027",
+    "time": "2026-11-02 06:34",
+    "created_at": "Sun Nov 01 22:34:44 +0000 2026",
+    "id_str": "2117022556175942027",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "扣子的故事结束了。\n同时结束的，还有字节的N条AI产品线。\n这个时代很神奇，大厂的产品的寿命可能还活不过创业公司的产品。",
+    "quoted_tweet": {
+      "author": "Bestony | 白宦成",
+      "username": "xiqingongzi",
+      "text": "当有人问到：你们如何看待大厂做你们的产品?\nDify 可以选择丢出这个东西： @alterxyz4"
+    },
+    "url": "https://x.com/oran_ge/status/2117025598375870876",
+    "time": "2026-11-02 06:46",
+    "created_at": "Sun Nov 01 22:46:49 +0000 2026",
+    "id_str": "2117025598375870876",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "马斯克也顶不住，没办法持续补贴 Grok Bot 了。\n\n前几天说用 Opus 5.5 驱动 Grok Bot，刚开始的几天确实很多任务都用的 Opus 5.5。\n\n但最近大家发现，路由到 Opus 5.5 的几率越来越低了。\n\n同时昨天，很多人发现 Grok Bot 的使用额度一瞬间跳了 20%、30% 甚至 40%，原来是用不完的，现在一夜之间就没有额度了。\n\n马斯克说，Grok Bot 的成本相对于他们的收入来说太高了，是不可持续的。\n\n所以目前来看，Personal Agent 这条路具体的收益到底怎么样，其实很难算。我相信 Meta，但 Muse 免费肯定也不是很好受。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2117092326690726075",
+    "time": "2026-11-02 11:11",
+    "created_at": "Mon Nov 02 03:11:59 +0000 2026",
+    "id_str": "2117092326690726075",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "当工作中的重复性事务越来越多了之后，同事开始用 AI 捏出了各种自动化的 SOP。他说之前也有这样的需求，没动力搞，最近实在忙不过来了。\n\n你看，忙才是第一生产力，不忙的人，永远不知道如何去偷懒。🐶",
+    "quoted_tweet": null,
+    "url": "https://x.com/Barret_China/status/2117096791237939306",
+    "time": "2026-11-02 11:29",
+    "created_at": "Mon Nov 02 03:29:43 +0000 2026",
+    "id_str": "2117096791237939306",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@op7418 一直补贴扛不住的\n不过现在已经这个规模了\n其实也是阶段性胜利了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2117127105272262971",
+    "time": "2026-11-02 13:30",
+    "created_at": "Mon Nov 02 05:30:10 +0000 2026",
+    "id_str": "2117127105272262971",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Barret_China 可悲的是，大部分白领不忙",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2117127352782410027",
+    "time": "2026-11-02 13:31",
+    "created_at": "Mon Nov 02 05:31:09 +0000 2026",
+    "id_str": "2117127352782410027",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This might be the future of places like Disneyland...",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2117107444149362935",
+    "time": "2026-11-02 12:12",
+    "created_at": "Mon Nov 02 04:12:03 +0000 2026",
+    "id_str": "2117107444149362935",
+    "is_retweet": false
   }
 ]
