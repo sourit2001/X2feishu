@@ -323,5 +323,152 @@
     "created_at": "Sun Nov 01 23:27:20 +0000 2026",
     "id_str": "2117035794678546764",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Google co-founder Larry Page on why he'd give his fortune to Elon instead of to charity:\n\n\"THAT'S A WORTHY GOAL.\"\n\nCharlie Rose: \"Just simply giving it to Elon Musk, because you had confidence that he would change the future.\"\n\nLarry Page: \"He wants to go to Mars to back up humanity, that's a worthy goal, but it's a company.\"\n\nThat was on the TED stage in 2014, when SpaceX hadn't landed a single booster yet.\n\nOne of the richest men on Earth looked at a rocket company and saw the best place to put his money.\n\nCharity spends money once. A company building toward Mars keeps paying it forward.\n\nMars is humanity's backup drive.\n\nVideo: TED / TED2014, \"Where's Google going next?\" Larry Page with Charlie Rose",
+    "quoted_tweet": null,
+    "url": "https://x.com/teslaownersSV/status/2116997397348045165",
+    "time": "2026-11-02 04:54",
+    "created_at": "Sun Nov 01 20:54:46 +0000 2026",
+    "id_str": "2116997397348045165",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "grok bot templates are a VERY good example of a feature that doubles as a distribution mechanism...\n\nlook closely and they're basically instructions, simple prompts for each agent\n\nbut because they're easy to share, people on X feel like they can plug new modules and extra capabilities into their setup with a simple copy + paste\n\nthe team behind them knew people would build marketplaces, farm engagement on X with these, even sell them\n\nthe smartest way to build a product when distribution is the goal",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2116999470437339364",
+    "time": "2026-11-02 05:03",
+    "created_at": "Sun Nov 01 21:03:00 +0000 2026",
+    "id_str": "2116999470437339364",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@dvorahfr Upgrade to higher usage plan cost increase is too high?",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2117008189195800814",
+    "time": "2026-11-02 05:37",
+    "created_at": "Sun Nov 01 21:37:39 +0000 2026",
+    "id_str": "2117008189195800814",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@mikepat711 Just being sensible",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2117008375711952943",
+    "time": "2026-11-02 05:38",
+    "created_at": "Sun Nov 01 21:38:23 +0000 2026",
+    "id_str": "2117008375711952943",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try Grok @Bot! You will love it.\n\nWe land a few dozen fixes, features and sometimes powers to Bot 7 days a week and we look at your feedback to make Bot as perfect as possible.",
+    "quoted_tweet": {
+      "author": "しまぶー",
+      "username": "shimabu_it",
+      "text": "本当にこれ\n\nマジでCursor（Grok Bot）を使っていない人は一度だけでいいから使ってみてほしい。\n\nClaude Code、Codexよりも断然良いから。今UXの観点でCursorが負けているところは正直ないと思っている。\n\nモデルの性能という点で現状はClaude Codeも使わざるを得ないが、Grokの性能がOpus 5.5と同等レベルになったらCursorオンリーにできると思っている。\n\nSpaceXAIさん、次のGrokは頼みますよ。4.7も悪くないけどOpusと比べると力不足なので..."
+    },
+    "url": "https://x.com/elonmusk/status/2117033967782113327",
+    "time": "2026-11-02 07:20",
+    "created_at": "Sun Nov 01 23:20:05 +0000 2026",
+    "id_str": "2117033967782113327",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2116957135661945283",
+    "time": "2026-11-02 02:14",
+    "created_at": "Sun Nov 01 18:14:46 +0000 2026",
+    "id_str": "2116957135661945283",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@karpathy Miss the old arxiv sanity",
+    "quoted_tweet": null,
+    "url": "https://x.com/RagavanThurair/status/2116957700739268666",
+    "time": "2026-11-02 02:17",
+    "created_at": "Sun Nov 01 18:17:01 +0000 2026",
+    "id_str": "2116957700739268666",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@karpathy I feel really sorry for the agent that had to read 43 million HN comments. It must be traumatized beyond repair. Nobody deserves that much \"well, actually\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/eyadnour/status/2116959158826320083",
+    "time": "2026-11-02 02:22",
+    "created_at": "Sun Nov 01 18:22:49 +0000 2026",
+    "id_str": "2116959158826320083",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@eyadnour Oh tbc Claude filtered it down a lot: urls, regexes, dropping spam, only the remainder was dispatched to Sonnet with a CC Workflow (so it uses the sub tokens). You can see surviving comments under videos, the comments that recommend videos seem to be of nice & helpful character.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2116970707867566106",
+    "time": "2026-11-02 03:08",
+    "created_at": "Sun Nov 01 19:08:42 +0000 2026",
+    "id_str": "2116970707867566106",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@karpathy Open Source?",
+    "quoted_tweet": null,
+    "url": "https://x.com/davegoldblatt/status/2116976131538821152",
+    "time": "2026-11-02 03:30",
+    "created_at": "Sun Nov 01 19:30:15 +0000 2026",
+    "id_str": "2116976131538821152",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@RagavanThurair Same... I had to bring it down (RIP) because it was just too much work to maintain, it would have been a lot easier today. But today there's also https://www.alphaxiv.org, which I like & use and is in the same spirit.",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2116979365242429721",
+    "time": "2026-11-02 03:43",
+    "created_at": "Sun Nov 01 19:43:06 +0000 2026",
+    "id_str": "2116979365242429721",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@davegoldblatt \"Hi Claude good morning how are you I'm great thx build me a YouTube-style site but restricted to videos that have been repeatedly recommended on HN over the years pls. Don't make any mistakes.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2116980174667583602",
+    "time": "2026-11-02 03:46",
+    "created_at": "Sun Nov 01 19:46:19 +0000 2026",
+    "id_str": "2116980174667583602",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Day 1 of remaking “Hell’s Kitchen” with my cat",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2116986844126818411",
+    "time": "2026-11-02 04:12",
+    "created_at": "Sun Nov 01 20:12:50 +0000 2026",
+    "id_str": "2116986844126818411",
+    "is_retweet": false
   }
 ]
