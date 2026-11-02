@@ -1,1 +1,526 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Karpathy 的新项目：\n\n他实在是受不了 YouTube 的推荐了，自己做了一个新的视频网站，内容来自于 Hacker News 20 年中反复被推荐的视频。\n\n然后他日常用的居然是 Opus 5.5 的中等推理强度。",
+    "quoted_tweet": {
+      "author": "Andrej Karpathy",
+      "username": "karpathy",
+      "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of."
+    },
+    "url": "https://x.com/op7418/status/2117067687943909881",
+    "time": "2026-11-02 09:34",
+    "created_at": "Mon Nov 02 01:34:04 +0000 2026",
+    "id_str": "2117067687943909881",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Super-agent 文章的官方英文版发布啦～\n\n做 Agent 产品，DeepSeek 有一流的模型、算法、基建，有优秀的研究员和工程师。但是，目前优秀的产品经理和设计师的数量还远远不够。\n\n欢迎想做世界一流 Agent 产品的优秀产品经理和产品设计师给 DeepSeek 产品部投简历。",
+    "quoted_tweet": {
+      "author": "DeepSeek Harness",
+      "username": "DeepSeekHarness",
+      "text": "https://x.com/i/article/2116829218935857152"
+    },
+    "url": "https://x.com/tianyi/status/2116859582639403080",
+    "time": "2026-11-01 19:47",
+    "created_at": "Sun Nov 01 11:47:08 +0000 2026",
+    "id_str": "2116859582639403080",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果你要上架 App 到国内安卓商店但是遇到一些障碍，可以看这篇文章分享的一些经验",
+    "quoted_tweet": {
+      "author": "Toby!",
+      "username": "TobyAtLarge",
+      "text": "https://x.com/i/article/2116812108092616704"
+    },
+    "url": "https://x.com/dotey/status/2116950743559078252",
+    "time": "2026-11-02 01:49",
+    "created_at": "Sun Nov 01 17:49:22 +0000 2026",
+    "id_str": "2116950743559078252",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Shoppers sent by AI show up ready to buy\n\nAI-referred shoppers vs. other online shoppers:\n- Conversion +60%\n- Revenue per visit +53%\n- Bounce rate -34%\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-job-fud-fades",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2116974326989857048",
+    "time": "2026-11-02 03:23",
+    "created_at": "Sun Nov 01 19:23:05 +0000 2026",
+    "id_str": "2116974326989857048",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Connor Love on why the old defense model gave soldiers systems \"developed for 10 years ago,\" and how private capital lets startups build what they need before the Pentagon asks:\n\n\"I experienced this in my past when I served in the Army. The buyer is not the user, and the appropriator of the dollars for the buyer is completely removed.\"\n\n\"You had primes who would just sit there and listen, like, 'Tell me what you want. I'll develop the thing after you give me the money.'... You get a system that was developed for 10 years ago.\"\n\n\"The beautiful thing is venture capital and what we do in American Dynamism, but also the rest of the capital markets is saying, 'We will actually fund that in advance.'\"\n\n\"The outcome of that is the soldier gets a better product, gets something that actually fundamentally changes the battlefield and helps with deterrence or security or safety.\"\n\n\"More importantly, you get a type of system that is actually aligned with the requirement of the market and what technology can do today.\"\n\n\"Instead of sitting and waiting for the government to tell you what they want, the government signals, and you see it, and you build it in advance by using private capital, and that just has not happened in the history of defense.\"\n\n@ConnorLoveCA",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2117007937189425564",
+    "time": "2026-11-02 05:36",
+    "created_at": "Sun Nov 01 21:36:38 +0000 2026",
+    "id_str": "2117007937189425564",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude Code工程师，你可能给 Claude 写了太多提示词：哪些该删，哪些要讲清楚 https://xiaohu.ai/article/claude-overprompting/",
+    "quoted_tweet": {
+      "author": "Addy Osmani",
+      "username": "addyosmani",
+      "text": "https://x.com/i/article/2115682550723313664"
+    },
+    "url": "https://x.com/xiaohu/status/2117077218228891742",
+    "time": "2026-11-02 10:11",
+    "created_at": "Mon Nov 02 02:11:56 +0000 2026",
+    "id_str": "2117077218228891742",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Your Halloween pumpkins are here 🎃\n\nI asked you to tell your AI \"based on everything you know about me, carve this pumpkin\" and 276 of you shared yours. \n\nEveryone is credited in the replies 👇",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Ask your AI “based on everything  you know about me, carve this pumpkin”\n\nI’ll make a showcase of all your pumpkins and share on Halloween 🎃"
+    },
+    "url": "https://x.com/icreatelife/status/2117029917808349474",
+    "time": "2026-11-02 07:03",
+    "created_at": "Sun Nov 01 23:03:59 +0000 2026",
+    "id_str": "2117029917808349474",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yes, makes me smile because the community is so great!",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2117030817738223792",
+    "time": "2026-11-02 07:07",
+    "created_at": "Sun Nov 01 23:07:34 +0000 2026",
+    "id_str": "2117030817738223792",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @GlitterPixely @RichSilver @gloria_syed @altfortomorrow @ApexVerus @fAIkout @BackyardFlapper @DoughnutsinNov @RDMellish @AIEmmy348019 @ToshiArte @becky_sing84602 @jwilki10 @akari_w0r1d @AtikoAE @rolyataylor2 @Trowa_ @tucsontillie @cradrrat Thank you for including me, Kris! 🖤🎃 I always appreciate the heart and time you pour into this community. So many creative minds, each with their own little universe, all brought together in one place. That's the kind of magic I love seeing. ✨",
+    "quoted_tweet": null,
+    "url": "https://x.com/Nate_Midnite/status/2117030834096238711",
+    "time": "2026-11-02 07:07",
+    "created_at": "Sun Nov 01 23:07:38 +0000 2026",
+    "id_str": "2117030834096238711",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Nate_Midnite @GlitterPixely @RichSilver @gloria_syed @altfortomorrow @ApexVerus @fAIkout @BackyardFlapper @DoughnutsinNov @RDMellish @AIEmmy348019 @ToshiArte @becky_sing84602 @jwilki10 @akari_w0r1d @AtikoAE @rolyataylor2 @Trowa_ @tucsontillie @cradrrat I am so glad you participated, Nate!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117030929571168264",
+    "time": "2026-11-02 07:08",
+    "created_at": "Sun Nov 01 23:08:00 +0000 2026",
+    "id_str": "2117030929571168264",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte Really great! It made me so happy to see all the pumpkins",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117030988425449479",
+    "time": "2026-11-02 07:08",
+    "created_at": "Sun Nov 01 23:08:14 +0000 2026",
+    "id_str": "2117030988425449479",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @GlitterPixely @RichSilver @gloria_syed @ApexVerus @fAIkout @BackyardFlapper @Nate_Midnite @DoughnutsinNov @RDMellish @AIEmmy348019 @ToshiArte @becky_sing84602 @jwilki10 @akari_w0r1d @AtikoAE @rolyataylor2 @Trowa_ @tucsontillie @cradrrat These are all so good. You can tell everyone had a lot of fun playing with them💙",
+    "quoted_tweet": null,
+    "url": "https://x.com/altfortomorrow/status/2117031516639539499",
+    "time": "2026-11-02 07:10",
+    "created_at": "Sun Nov 01 23:10:20 +0000 2026",
+    "id_str": "2117031516639539499",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@altfortomorrow @GlitterPixely @RichSilver @gloria_syed @ApexVerus @fAIkout @BackyardFlapper @Nate_Midnite @DoughnutsinNov @RDMellish @AIEmmy348019 @ToshiArte @becky_sing84602 @jwilki10 @akari_w0r1d @AtikoAE @rolyataylor2 @Trowa_ @tucsontillie @cradrrat Thanks for being a part!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117031834525860243",
+    "time": "2026-11-02 07:11",
+    "created_at": "Sun Nov 01 23:11:36 +0000 2026",
+    "id_str": "2117031834525860243",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Excluded, again.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Toy_Maestro/status/2117033826438533493",
+    "time": "2026-11-02 07:19",
+    "created_at": "Sun Nov 01 23:19:31 +0000 2026",
+    "id_str": "2117033826438533493",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Toy_Maestro Likely my filter counted it as an ad and excluded it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117034150578266389",
+    "time": "2026-11-02 07:20",
+    "created_at": "Sun Nov 01 23:20:48 +0000 2026",
+    "id_str": "2117034150578266389",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Wow! 🥰 They are all amazing! What a fun idea Kris! So nice of you to put together! I created one too, but I think I fell asleep and I missed posting on time. 🤦🏻‍♀️ It’s okay I’ll share mine now, I thought you might like to see it. 🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/DonnaLisaArt/status/2117034309525639532",
+    "time": "2026-11-02 07:21",
+    "created_at": "Sun Nov 01 23:21:26 +0000 2026",
+    "id_str": "2117034309525639532",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DonnaLisaArt That’s gorgeous!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117034440710857039",
+    "time": "2026-11-02 07:21",
+    "created_at": "Sun Nov 01 23:21:57 +0000 2026",
+    "id_str": "2117034440710857039",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Creativity abounds!  Thanks @icreatelife for putting this together.  🎃",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Your Halloween pumpkins are here 🎃\n\nI asked you to tell your AI \"based on everything you know about me, carve this pumpkin\" and 276 of you shared yours. \n\nEveryone is credited in the replies 👇"
+    },
+    "url": "https://x.com/charis_ai/status/2117035042341801994",
+    "time": "2026-11-02 07:24",
+    "created_at": "Sun Nov 01 23:24:21 +0000 2026",
+    "id_str": "2117035042341801994",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@charis_ai Welcome! And thanks a lot for participating 🧡🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117035157592883282",
+    "time": "2026-11-02 07:24",
+    "created_at": "Sun Nov 01 23:24:48 +0000 2026",
+    "id_str": "2117035157592883282",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Here it goes:",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Your Halloween pumpkins are here 🎃\n\nI asked you to tell your AI \"based on everything you know about me, carve this pumpkin\" and 276 of you shared yours. \n\nEveryone is credited in the replies 👇"
+    },
+    "url": "https://x.com/icreatelife/status/2117035289923469651",
+    "time": "2026-11-02 07:25",
+    "created_at": "Sun Nov 01 23:25:20 +0000 2026",
+    "id_str": "2117035289923469651",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "This was fun. Asking your AI to carve a pumpkin based on what it knows about you!\n\nSome awesome carvings here!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "1. Pumpkins 1-20 🎃 @GlitterPixely @RichSilver @gloria_syed @altfortomorrow @ApexVerus @fAIkout @BackyardFlapper @Nate_Midnite @DoughnutsinNov @RDMellish @AIEmmy348019 @ToshiArte @becky_sing84602 @jwilki10 @akari_w0r1d @AtikoAE @rolyataylor2 @Trowa_ @tucsontillie @cradrrat"
+    },
+    "url": "https://x.com/cradrrat/status/2117035464729444418",
+    "time": "2026-11-02 07:26",
+    "created_at": "Sun Nov 01 23:26:02 +0000 2026",
+    "id_str": "2117035464729444418",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Thank you all for participating 🎃🧡🫶\nI included as many of you as I could \nIf you submitted and for whatever reason isn’t in the showcase, don’t worry, I’ll do another community thing like this very soon and include as many of you as I can!",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Your Halloween pumpkins are here 🎃\n\nI asked you to tell your AI \"based on everything you know about me, carve this pumpkin\" and 276 of you shared yours. \n\nEveryone is credited in the replies 👇"
+    },
+    "url": "https://x.com/icreatelife/status/2117035685819605121",
+    "time": "2026-11-02 07:26",
+    "created_at": "Sun Nov 01 23:26:54 +0000 2026",
+    "id_str": "2117035685819605121",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@cradrrat Thanks for taking part 🎃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117035776730939659",
+    "time": "2026-11-02 07:27",
+    "created_at": "Sun Nov 01 23:27:16 +0000 2026",
+    "id_str": "2117035776730939659",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @popped_pixels Oh wow 😮 these are wonderful pumpkins 🎃 how did I miss this 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/Stardust0024/status/2117042412866686987",
+    "time": "2026-11-02 07:53",
+    "created_at": "Sun Nov 01 23:53:38 +0000 2026",
+    "id_str": "2117042412866686987",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Stardust0024 @popped_pixels Worry not! I will do one more around Christmas time",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117043039155757445",
+    "time": "2026-11-02 07:56",
+    "created_at": "Sun Nov 01 23:56:07 +0000 2026",
+    "id_str": "2117043039155757445",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife This was so fun Kris!!! 🌻💚",
+    "quoted_tweet": null,
+    "url": "https://x.com/tucsontillie/status/2117043298976346240",
+    "time": "2026-11-02 07:57",
+    "created_at": "Sun Nov 01 23:57:09 +0000 2026",
+    "id_str": "2117043298976346240",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tucsontillie Glad you enjoyed!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117043644695724464",
+    "time": "2026-11-02 07:58",
+    "created_at": "Sun Nov 01 23:58:32 +0000 2026",
+    "id_str": "2117043644695724464",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I guess mine wasn't in that. \n\nhttps://x.com/DiazKincade/status/2116536648716501492?a=Vlr6QAHEBRd3qEuUtt4&s=20",
+    "quoted_tweet": {
+      "author": "Diaz Kincade",
+      "username": "DiazKincade",
+      "text": "@icreatelife Well this was interesting."
+    },
+    "url": "https://x.com/DiazKincade/status/2117053560340779468",
+    "time": "2026-11-02 08:37",
+    "created_at": "Mon Nov 02 00:37:56 +0000 2026",
+    "id_str": "2117053560340779468",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Mine is very pretty!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Abyssal__Walker/status/2117065815564652753",
+    "time": "2026-11-02 09:26",
+    "created_at": "Mon Nov 02 01:26:38 +0000 2026",
+    "id_str": "2117065815564652753",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @ODB123 @NathanOrgan @Serina__L @mys1111 @88breess @xenowiz @yay3d @ISevrujka23232 @PatHoliday15 @KillenCactus @DeCat2025 @deebeeeff @SotaGames @ihealer_fashion @EmpressTrash @redwooddesigns @OrahOnX @drnwrkrb @DrEliotX @StellaGrokStar Thats so cool! Thanks for making this 🔥😎💯",
+    "quoted_tweet": null,
+    "url": "https://x.com/BossmanCom74811/status/2117066819273982410",
+    "time": "2026-11-02 09:30",
+    "created_at": "Mon Nov 02 01:30:37 +0000 2026",
+    "id_str": "2117066819273982410",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Abyssal__Walker That’s nice",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117066912043561124",
+    "time": "2026-11-02 09:30",
+    "created_at": "Mon Nov 02 01:30:59 +0000 2026",
+    "id_str": "2117066912043561124",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BossmanCom74811 @ODB123 @NathanOrgan @Serina__L @mys1111 @88breess @xenowiz @yay3d @ISevrujka23232 @PatHoliday15 @KillenCactus @DeCat2025 @deebeeeff @SotaGames @ihealer_fashion @EmpressTrash @redwooddesigns @OrahOnX @drnwrkrb @DrEliotX @StellaGrokStar Welcome! Glad you enjoyed!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117067226000003431",
+    "time": "2026-11-02 09:32",
+    "created_at": "Mon Nov 02 01:32:14 +0000 2026",
+    "id_str": "2117067226000003431",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DiazKincade Wow, that's a beautiful pumpkin. I used Grok Bot to help me sort and not sure why it missed it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117068542436659653",
+    "time": "2026-11-02 09:37",
+    "created_at": "Mon Nov 02 01:37:28 +0000 2026",
+    "id_str": "2117068542436659653",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I used Grok Bot to help me sort and put this together. \nI noticed that some of the pumpkins weren't included (it could be either the cut out time as I started working on it at midnight yesterday) or some other reason. I promise to make more of those in future. Thank you all for participating.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117069187587641624",
+    "time": "2026-11-02 09:40",
+    "created_at": "Mon Nov 02 01:40:02 +0000 2026",
+    "id_str": "2117069187587641624",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Its okay. I lost track of the thread after I posted it because I was at work.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DiazKincade/status/2117069736521441634",
+    "time": "2026-11-02 09:42",
+    "created_at": "Mon Nov 02 01:42:13 +0000 2026",
+    "id_str": "2117069736521441634",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DiazKincade Thanks for participating. Your pumpkin is one of my favorites.. maybe I'll make a video for all the pumpkins that were lost like this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117071359855460673",
+    "time": "2026-11-02 09:48",
+    "created_at": "Mon Nov 02 01:48:40 +0000 2026",
+    "id_str": "2117071359855460673",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Aww mine didn’t make it 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/gab_ackerman55/status/2117072473221218409",
+    "time": "2026-11-02 09:53",
+    "created_at": "Mon Nov 02 01:53:05 +0000 2026",
+    "id_str": "2117072473221218409",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@gab_ackerman55 Oh no! Show me yours!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117073002844291399",
+    "time": "2026-11-02 09:55",
+    "created_at": "Mon Nov 02 01:55:11 +0000 2026",
+    "id_str": "2117073002844291399",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I shared it yesterday in the post, but I could see why it didn’t get included 😅 it was a lot lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/gab_ackerman55/status/2117073245723656425",
+    "time": "2026-11-02 09:56",
+    "created_at": "Mon Nov 02 01:56:09 +0000 2026",
+    "id_str": "2117073245723656425",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@gab_ackerman55 These are so cute.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117076024857182353",
+    "time": "2026-11-02 10:07",
+    "created_at": "Mon Nov 02 02:07:12 +0000 2026",
+    "id_str": "2117076024857182353",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife lol I'm late but all right.",
+    "quoted_tweet": null,
+    "url": "https://x.com/OzgurCreativity/status/2117082716499820836",
+    "time": "2026-11-02 10:33",
+    "created_at": "Mon Nov 02 02:33:47 +0000 2026",
+    "id_str": "2117082716499820836",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TrickyWoo_art @icreatelife me as well.",
+    "quoted_tweet": null,
+    "url": "https://x.com/MrNorseHawk/status/2117082838571130994",
+    "time": "2026-11-02 10:34",
+    "created_at": "Mon Nov 02 02:34:16 +0000 2026",
+    "id_str": "2117082838571130994",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MrNorseHawk @TrickyWoo_art 😭 seems like Grok Bot didn’t include a lot. Next time I’ll check better",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117083503191839121",
+    "time": "2026-11-02 10:36",
+    "created_at": "Mon Nov 02 02:36:55 +0000 2026",
+    "id_str": "2117083503191839121",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@OzgurCreativity Cool cool!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2117083560503021724",
+    "time": "2026-11-02 10:37",
+    "created_at": "Mon Nov 02 02:37:08 +0000 2026",
+    "id_str": "2117083560503021724",
+    "is_retweet": false
+  }
+]
