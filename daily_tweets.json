@@ -662,5 +662,109 @@
     "created_at": "Mon Nov 02 21:12:26 +0000 2026",
     "id_str": "2117364233210151160",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "If anyone did this to George Soros they would be called Nazis and not given a puff piece in WIRED. It is overt stochastic terrorism.",
+    "quoted_tweet": {
+      "author": "WIRED Science",
+      "username": "WIREDScience",
+      "text": "The Capytistas, a secretive group claiming more than $1.2 million in backing, started with Elon Musk and Tesla’s board. Members argue that those who buy political power deserve the scrutiny they’ll impose. https://www.wired.com/story/anti-oligarchy-activists-plan-to-dox-elon-musk-and-hundreds-of-billionaire-linked-homes/?utm_brand=wired-science&utm_campaign=aud-dev&utm_medium=social&utm_social-type=owned&utm_source=twitter-science"
+    },
+    "url": "https://x.com/peterrhague/status/2117329780706300079",
+    "time": "2026-11-03 02:55",
+    "created_at": "Mon Nov 02 18:55:32 +0000 2026",
+    "id_str": "2117329780706300079",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This is the way",
+    "quoted_tweet": {
+      "author": "Jason Ginsberg",
+      "username": "JasonBud",
+      "text": "Treat Grok Bot like a teammate and give @bot an ambitious task you’d normally give to a new hire."
+    },
+    "url": "https://x.com/elonmusk/status/2117360990119506022",
+    "time": "2026-11-03 04:59",
+    "created_at": "Mon Nov 02 20:59:33 +0000 2026",
+    "id_str": "2117360990119506022",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@jun_song Wow",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2117361237155860891",
+    "time": "2026-11-03 05:00",
+    "created_at": "Mon Nov 02 21:00:32 +0000 2026",
+    "id_str": "2117361237155860891",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@peterrhague True",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2117422529333592482",
+    "time": "Tue Nov 03 01:04:05 +0000 2026",
+    "created_at": "Tue Nov 03 01:04:05 +0000 2026",
+    "id_str": "2117422529333592482",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok @Bot improvements",
+    "quoted_tweet": {
+      "author": "matt palmer",
+      "username": "mattyp",
+      "text": "What's New in Grok Bot\n\n00:14 Shopping cards\n00:27 Product pages\n00:39 Order tracking\n00:53 Payments\n01:33 Custom modes\n01:52 Team Bot logins and setup\n02:09 Share and find Team Bots\n02:51 Connector asks in Slack\n03:12 Contacts in Vault\n03:31 Rapid fire"
+    },
+    "url": "https://x.com/elonmusk/status/2117422818648555595",
+    "time": "Tue Nov 03 01:05:14 +0000 2026",
+    "created_at": "Tue Nov 03 01:05:14 +0000 2026",
+    "id_str": "2117422818648555595",
+    "is_retweet": false
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "Introducing Honest Thumbnails\n\nA Chrome Extension to unslop YouTube thumbnails with stills from the video. Brings back the early 2010s vibe of Youtube where not everything was about clickbait.\n\nWhile looking into how @karpathy's HackerTube works, I learnt that YouTube has a CDN that provides still frames from the following chunks ¼, ½, ¾ of each video.\n\nSo as you can imagine, it was only a matter of time until Claude turned this into a Chrome Extension. Honestly, it took me longer to make the icon than it took Claude to write the code.\n\nOpen Source and MIT. Fork it, steal it, do whatever your heart wants with it.\n\nhttps://github.com/851-labs/honest-thumbnails",
+    "quoted_tweet": {
+      "author": "Andrej Karpathy",
+      "username": "karpathy",
+      "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://hackertube.org/\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of."
+    },
+    "url": "https://x.com/pondorasti/status/2117321609665261667",
+    "time": "2026-11-03 02:23",
+    "created_at": "Mon Nov 02 18:23:04 +0000 2026",
+    "id_str": "2117321609665261667",
+    "is_retweet": true
+  },
+  {
+    "username": "karpathy",
+    "nickname": "卡帕斯",
+    "text": "@pondorasti Yeah this is really good. Btw you can also just tell your Claude Code \"Create and deploy an extension for my browser that shows YouTube thumbnails from halfway of the video instead of the user-uploaded version. Include a toggle between the two\", works great",
+    "quoted_tweet": null,
+    "url": "https://x.com/karpathy/status/2117431189074330032",
+    "time": "Tue Nov 03 01:38:30 +0000 2026",
+    "created_at": "Tue Nov 03 01:38:30 +0000 2026",
+    "id_str": "2117431189074330032",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "The state of video models",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2117367518138704095",
+    "time": "2026-11-03 05:25",
+    "created_at": "Mon Nov 02 21:25:29 +0000 2026",
+    "id_str": "2117367518138704095",
+    "is_retweet": false
   }
 ]
