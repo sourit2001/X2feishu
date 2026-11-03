@@ -1,1 +1,485 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "给我的 DeepSeek Harness 插件 dsh-guizang-design 做了个宣传片\n\n可以在 DSH 里面用藏师傅所有的这几个设计 Skill，我日常的内容生产工作流也整合到了里面\n\n还内置了一个作品库，可以将你以前做的PPT、网页、文档都收集到一起，方面重复利用，还能一键做同款。",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "终于把自己的几个设计 Skill 合并了！\n\n做成了一个 DSH 的插件 dsh-guizang-design\n\n共用一套设计系统和 Design Token，还加了几个有用的功能"
+    },
+    "url": "https://x.com/op7418/status/2117436999250649439",
+    "time": "Tue Nov 03 02:01:35 +0000 2026",
+    "created_at": "Tue Nov 03 02:01:35 +0000 2026",
+    "id_str": "2117436999250649439",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Coze要下线了，而我在字节就是干Coze的\n今天我的主主页还挂着Coze Workflow引擎开发者，估计明年再挂这玩意就没人知道Coze是啥了\n\n对于这玩意走向结束比较感慨，说点外面看不到的：\n\n1. workflow 不是被 AI 淘汰的，是被「模型自己会规划」淘汰的\n\n2. 当年我们拼命做的拖拽节点，其实是在替模型的笨买单，实际上这玩意就是一种低代码平台延续出来的过渡模式，是一个中间产物\n\n3. 业务KnowHow大于一切，当年人们学的如何搭建工作流的技能已经被Agent内化，一文不值",
+    "quoted_tweet": {
+      "author": "黄啊码",
+      "username": "ama_huangama",
+      "text": "去年如日中天的扣子，今日宣布即将下线，太可惜了。\n\n想想去年过年的时候，我的作品在扣子排行前十，是扣子造就了AI 时代最初的我，非常感谢这个产品对我的认可，所以后边扣子无论怎么改，虽然表面有时会嘀嘀咕咕，但依旧希望它能够活得很好。\n\n时代的巨轮滚滚向前，工作流时代终究要结束，只是没想到来得这么快。"
+    },
+    "url": "https://x.com/Sither_V/status/2117188524038336709",
+    "time": "2026-11-02 17:34",
+    "created_at": "Mon Nov 02 09:34:14 +0000 2026",
+    "id_str": "2117188524038336709",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "好友来公司拜访，根据体型，实现了 personal agent 级别的个性化服务。\n\n一起畅聊许久，最有收获的是：\n\n1、大厂做 personal agent 没机会。原因是，大厂没有 personal。\n\n2、在美华人的地下室都是充满机会的地方。特别是里面放满 Mac mini 的时候。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lifesinger/status/2117262185558921358",
+    "time": "2026-11-02 22:26",
+    "created_at": "Mon Nov 02 14:26:56 +0000 2026",
+    "id_str": "2117262185558921358",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Manus 的客户端对于专业人士来说基本上是半透明的，里面的提示词、skills、harness 的逻辑都可以分析的出来。现在有 AI 价值，技术已经没啥护城河了。\n\n不过就算再克隆一个 Manus 也没啥意义，多半用户也不会选克隆版的。\n\n用户选一个产品一个重要因素是对品牌的信任，一个不知名第三方做一个用之前就要打一个问号。\n\n跟在别人后面克隆是没有前途的，永远慢半拍，永远跟着别人走，不能理解产品决策背后的原因，终究是走不远的。",
+    "quoted_tweet": {
+      "author": "DinoDeer",
+      "username": "xDinoDeer",
+      "text": "Manus 允许用户使用自定义的 LLM API，再加上 Manus 的客户端是用 Electron 封装的；是否可以认为，现在破解 Manus 基本上难度极小了。\n\n通过自定义的 LLM API，基本上可以拿到Manus 的后端逻辑；客户端可以拿到 Manus 的的前端逻辑。\n\nManus 肯定也懂这一点，代码层面的防护基本上不 care 了。"
+    },
+    "url": "https://x.com/dotey/status/2117306470727336321",
+    "time": "2026-11-03 01:22",
+    "created_at": "Mon Nov 02 17:22:54 +0000 2026",
+    "id_str": "2117306470727336321",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lifesinger 我有地下室，就差 Mac Mini 了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2117312968149123229",
+    "time": "2026-11-03 01:48",
+    "created_at": "Mon Nov 02 17:48:44 +0000 2026",
+    "id_str": "2117312968149123229",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Fable 5.5 做视频能力进一步提升了，确实很强，纯代码能做到这种程度。\n\n但对普通人来说这个能力加成有限，更期待看到其他方面的能力提升。\n\nFable 5.5 还没有正式发布，作者应该是灰度测试到了，作者用的测试方法是问模型\n“Where did @karpathy go in 2026?” with web search and memory turned off. Only the new Fable knows the answer. Then give it the prompt.\n\n如果它知道正确答案就说明是新模型（其实就是看模型训练截止时间）\n\n作者用的提示词在原推有。",
+    "quoted_tweet": {
+      "author": "Chetaslua",
+      "username": "chetaslua",
+      "text": "Fable 5.5 its over for video and image models 🤯\n\nTHIS IS PURE CODE \n\none shotted this video holy shit , how this is more beautiful than ai video models \n\nTwo ways to check this yourself:\n\nAsk: “Where did @karpathy go in 2026?” with web search and memory turned off. Only the new Fable knows the answer. Then give it the prompt.\nRun the same prompt I used for the test (it’s in the screenshot) and see for yourself.\n\nDon’t rely on Grok for basic reasoning like this. Grok doesn’t have up-to-date knowledge of niche stuff. Either join the community or run the test yourself.\n\nAlso, a knowledge cutoff doesn’t mean a model knows everything before that date. Sometimes a model doesn’t know about an event even if it happened before its cutoff. This test shows that too.\n\nRun the same prompt on regular Opus 5.5 and the quality drops. On Fable 5.1 it’s worse."
+    },
+    "url": "https://x.com/dotey/status/2117326303380611582",
+    "time": "2026-11-03 02:41",
+    "created_at": "Mon Nov 02 18:41:43 +0000 2026",
+    "id_str": "2117326303380611582",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Musiclover2000A @dotey @karpathy 这种主要好处是模型更加能够控制自己知道什么",
+    "quoted_tweet": null,
+    "url": "https://x.com/suwakopro/status/2117332647479476328",
+    "time": "2026-11-03 03:06",
+    "created_at": "Mon Nov 02 19:06:55 +0000 2026",
+    "id_str": "2117332647479476328",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@suwakopro @Musiclover2000A @karpathy 没错，代码写出来的是好控制和确定性的，不过恐怕很难做成真人视频",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2117337850685403315",
+    "time": "2026-11-03 03:27",
+    "created_at": "Mon Nov 02 19:27:36 +0000 2026",
+    "id_str": "2117337850685403315",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude API 公测 Message Threads：长对话不用每轮重发历史，回复更快，价格不变\n\nAnthropic 今天给 Messages API（开发者调用 Claude 的主要接口）上线了“消息线程”（message threads）公测：服务器替你把对话暂存几分钟，下一轮只需要发新消息和上一条回复的 ID。\n\n以前这个接口不记历史消息，每次请求都要把之前所有消息、工具返回的结果从头再发一遍。Agent 一次会话可能发几百个请求，对话涨到几十万 token 后，光是重发就会拖慢 Claude 开始回复的时间。\n\nClaude Code 已经给大多数用户默认开了这个功能。官方数据：50 万到 100 万 token 的请求，从发出到 Claude 开始输出的等待时间（中位数）缩短约 35%；长对话里，单次请求的大小（中位数）从约 800 KB 降到 1.8 KB。\n\n【要多花钱吗】\n\n不用，但也省不了钱。按标准 token 价格计费，速率限制不变。请求虽然变小了，Claude 每轮仍要读一遍完整对话，消耗的 token 和以前一样。\n\n【和提示词缓存有什么区别】\n\n提示词缓存（prompt caching）让服务器不用重复处理已经读过的内容，命中缓存的部分按更低价格计费，省的是钱和计算。消息线程省的是上传，你不用再把整段历史传过去。线程不会自动帮你做缓存，缓存断点还得自己设，官方示例里两者是一起用的。\n\n【开发者怎么用】\n\n在请求里加 thread 参数和 beta 请求头（message-threads-2026-08-12）。第一轮照常发完整对话、系统提示词和工具定义，标记为新建线程；之后每轮只发新消息，带上上一条回复的 ID。\n\n线程 5 分钟没有新请求就过期，接口返回 404，这时要用你自己保存的完整对话重新建一个线程。所以本地仍要留一份完整记录，官方 SDK 的辅助方法能自动处理这一步。\n\n线程中途不能改系统提示词和工具，模型、思考设置也要和第一轮一致，想改就得重开线程。线程数据加密存在内存里、不写硬盘，但它不支持零数据保留（ZDR）和 HIPAA 合规，对数据留存有严格要求的企业要留意。批处理接口暂不支持。\n\n适合长时间运行的 Agent、操作电脑的 Agent（截图不用每轮重传），以及带大量文档、图片的对话。Claude 自家平台、AWS、Microsoft Foundry 和 Google Cloud（Anthropic 托管版）上都能用。\n\n博客：https://claude.com/resources/articles/message-threads\n文档：https://platform.claude.com/docs/en/build-with-claude/message-threads",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "Message threads are now in public beta on the Messages API.\n\nThe API caches your conversation on the server between turns, so instead of resending the full conversation, you send only new messages and the previous message ID, and Claude starts responding sooner."
+    },
+    "url": "https://x.com/dotey/status/2117339521683448221",
+    "time": "2026-11-03 03:34",
+    "created_at": "Mon Nov 02 19:34:14 +0000 2026",
+    "id_str": "2117339521683448221",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 招驻留研究员：教授、技术创始人、资深工程师可转行做 AI 安全，不要求机器学习背景，年薪折合 35 万到 50 万美元，11 月 22 日截止\n\nAnthropic 今天开放了 Anthropic Residency（驻留研究项目）的申请。这是一个付费、有固定期限的全职研究项目，分六周、三个月、六个月三档，招的是在别的技术领域已经做出成绩、想转行全职做 AI 安全研究的人。不要求机器学习背景。\n\n【谁适合申请】\n\n官方点名三类人：定量学科（数学、物理、统计这类靠数字和模型做研究的学科）的教授、技术型创始人、Staff 级工程师（大厂里比高级工程师再高一级、能主导大型项目的那一层）。官方写明，不需要博士学位、机器学习经验或论文发表记录。\n\n招聘页列的加分项是：写过机器学习、自然语言处理或 AI 安全方向的论文，或者有大模型、强化学习、Kubernetes 集群和大型共享代码库的经验。\n\nAnthropic 给的理由是，机器学习还是个年轻领域，现在很多资深研究员（包括 Anthropic 自己的）原本是物理学家、数学家、神经科学家或软件工程师。模型越强，研究里越重要的是定研究方向、判断什么值得做，其他领域的资深人士往往已经擅长这些，缺的是对前沿 AI 的了解。\n\n这个项目是照着 Anthropic Fellows 项目改的。Fellows 面向新入行的研究者，出过“潜意识学习”（模型通过看似无关的数据把行为倾向传给另一个模型）、Petri 模型审计工具、人格向量等研究。Residency 把同样的模式用在有资历的技术负责人身上。\n\n【去了做什么】\n\n每人配一位 Anthropic 研究员当导师，定期一对一指导，课题由 Anthropic 研究员提出、按个人兴趣和背景匹配。项目留出自学时间，配讲座和辅导，帮人补上现代机器学习和 AI 安全的基础；可以用前沿模型，课题有专门的算力预算。\n\n研究方向分三块。\n\n第一块是 AI 安全与对齐，比如模型在某些领域超过人类之后怎么监督它、拆开模型看内部怎么运作、AI 福祉。\n\n第二块是 AI 安全攻防和前沿红队测试，专门摸清模型在网络安全、机器人、密码学等领域到底能做到什么程度。\n\n第三块是模型训练和背后的基础设施，从模型架构、优化器、训练数据，到加速器模拟器、硬件后端和强化学习训练环境。\n\n官方列了 9 位可能的导师，包括对齐科学团队负责人 Ethan Perez、模型心理学团队负责人 Jack Lindsey、前 Google Brain 首席科学家 Jascha Sohl-Dickstein、研究对抗机器学习和 AI 安全的 Nicholas Carlini。\n\n【待遇和地点】\n\n美国岗年薪折合 35 万到 50 万美元，英国岗 26.5 万到 37.5 万英镑，按实际时长折算，另有福利。按比例算，做满六个月是 17.5 万到 25 万美元。\n\nAnthropic 希望大家在旧金山办公室工作，但也能远程，短期项目尤其如此。远程的人必须身在 Anthropic 能合法雇人的国家，官方没列具体是哪些国家。三个月及以上可以办签证，六周的鼓励远程参加。英国岗默认在英国远程，可以去伦敦办公室。\n\nAnthropic 说，目标是让每个人结束后都能继续全职做 AI 研究，去 Anthropic 或别处都可以。它同时提到，Anthropic 大多数全职研究岗要求搬到旧金山。\n\n【怎么申请】\n\n招聘页分美国岗（地点写的是旧金山、纽约）和英国岗（伦敦）两个入口。截止时间是太平洋时间 11 月 22 日晚 11:59，也就是北京时间 11 月 23 日下午 3:59。流程是提交申请、招聘官初筛、技术评估、研究讨论、背景调查，预计 2027 年 1 月发录用通知。申请人也可能被一并考虑进 Fellows 项目。\n\n项目介绍：https://alignment.anthropic.com/2026/anthropic-residency/\n美国岗申请：https://job-boards.greenhouse.io/anthropic/jobs/5438311008\n英国岗申请：https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
+    "quoted_tweet": {
+      "author": "Anthropic",
+      "username": "AnthropicAI",
+      "text": "Applications are now open for the Anthropic Residency, a paid, fixed-term research program for academics, technical founders, and staff-level engineers who want to make AI safe and beneficial for everyone. No ML background is required.\n\nApply by November 22: https://alignment.anthropic.com/2026/anthropic-residency/"
+    },
+    "url": "https://x.com/dotey/status/2117361528504496318",
+    "time": "2026-11-03 05:01",
+    "created_at": "Mon Nov 02 21:01:41 +0000 2026",
+    "id_str": "2117361528504496318",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "不训练、不算梯度，GPT-6 Astra 直接改了另一个模型的权重：只动了 Qwen3.5-0.8B 0.016% 的权重，MATH-500 数学正确率从 7.9% 涨到 48.1%，约 6 倍。\n\n这是 MIT CSAIL 四位研究者 11 月 2 日发的博客，他们把这叫“在权重空间里编程”：前沿大模型可以像读写代码一样，直接读懂、修改、甚至从零写出神经网络的权重。\n\n过去的常识是，权重是训练出来的，人看不懂也没法手改，想改模型只能再训练。这项工作把原始权重直接交给通用大模型，让它自己读、自己改。\n\n几个实验：\n只看权重，不给游戏名、不给工具，Astra 认出了四个结构完全相同的游戏网络：打砖块、乒乓、吃豆人、过马路。\n\n一辆训练了 10 亿步、256 次全失败的仿真小车，Astra 看了权重和一次失败录像，一次回复改了 3.5% 的权重，之后 1,024 次全部成功。\n\n从零写打砖块网络，没有数据、不能试玩，一次写成，得分 517.4，是训练 5 亿步的强化学习网络（25.3）的约 20 倍。另外两个游戏没超过训练 5 亿步的版本。\n\nQwen 的 6 倍有几个条件：\n原模型开思考模式后容易陷入重复循环，93% 的回答一直输出到长度上限，起点很低。Astra 找到第 15、19 层里引起循环的一个方向，把它删掉。\n\n这要允许 Astra 拿练习题试跑 50 次。只试 10 次或 25 次，循环基本没消失。\n\n换成很少循环的 Gemma 3 270M，同样的方法没带来提升。作者的结论是：改权重能去掉挡住能力的障碍，加不出模型本来没有的能力。\n\n和“AI 改进 AI”的关系：现在的自我改进，大多是让 AI 生成数据、写训练代码，最后还是靠训练。作者把“模型检查并改进自己或下一代的权重”列为后续方向之一。\n\nChandan Singh 也公开了类似实验：Claude 在加法、排序等 10 个算法任务上直接写出小模型权重，最多 3 次就全部 100% 正确。他的报告也记录了，有一个任务里 Claude 用测试集数据做了拟合，违反规则，那个结果被判无效。\n\n目前结果都由作者自己报告，还没有独立复现。\n\n原文：https://rikiyat.github.io/blog/weight-space-programming/",
+    "quoted_tweet": {
+      "author": "Rikiya Takehi",
+      "username": "rikiyatakehi",
+      "text": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://rikiyat.github.io/blog/weight-space-programming/"
+    },
+    "url": "https://x.com/dotey/status/2117408133773705525",
+    "time": "Tue Nov 03 00:06:53 +0000 2026",
+    "created_at": "Tue Nov 03 00:06:53 +0000 2026",
+    "id_str": "2117408133773705525",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我昨天写的帖子，受到了很多关注，非常感谢大家的留言和评论。其实我还有下半部分没写，昨天写的是现象的总结，却故意没有剖析原因。今天我再来聊聊美国人不说实话背后的游戏规则（在国内被称为底层逻辑）。首先我要澄清一下，我说的美国人不说实话，其实和是否有边界感、是否可以一起打牌看电影关系不大，主要说的是他们不会向你透露游戏规则。你作为一代移民，必须自己通过现象看本质，自己去摸索，去试错，去小结。很多时候语言是最廉价的，而珍贵的经验和教训需要自己去复盘。比如我上个帖子里说博士老板强力推销一个鸡肋的课题，而系里别的老师也对无足轻重的课题赞不绝口，似乎无人告诉真相。背后的底层逻辑是：除非你是拿fellowship有着自主研究权，只要你做RA，你的研究课题就被限制死在老板获得funding的课题框架内。如果老板资源少，你的研究课题就会非常狭窄，如果老板资源多，你或许还会有不少研究的自由度。别的老师对你老板的课题赞不绝口，是因为别的老师不想因为你一个几年后就要离开的局外人去得罪自己几十年的同事，更不愿承担挖墙脚的罪名（比如学生突然说既然我老板的课题没意思，不如我转到你的实验室来干活吧这类挖墙脚）。\n\n至于研究生可以自主研究的fellowship，基本上被限制成只有美国公民和绿卡才能申请，这就堵死了大部分留学生做自主研究的可能性。你最重要的事情，是根据研究课题的热度，和系里老师拥有资源的程度，做一个多维度的老师排行，之后再去找老板。当然，这些信息差对于一个刚开始PhD旅程的学生来说，几乎很难获得，不要紧，我们日后复盘，然后再用复盘的心得去展望未来。\n\n至于没有人告诉我为什么找不到教职的真实原因，其实这是一种美国一脉相承的暗箱操作法则。和中国大部分学生参加高考按照分数录取大学不同，美国的大学录取就具有非常大的暗箱操作自由度，高中生申请学校需要靠着家长财力和人脉作为后援，然后就是各种玄学。这种玄学也一直延伸到找教职，有很多因素影响教职，比如是否优先录取本土人？是否撞上了左派的诸如DEI叙事的加持？你的（来自你老板）的课题，是否会成为未来至少十年的funding热门？当然是老板的人脉、人脉背后的利益交换也是重要黑箱因素。一个工作有一千种理由拒绝你，却只需要一个理由就可以录用你。有意思的是，教职的透明度要比公司招工要透明很多，我们可以直接看到他们到底招了谁，就可以猜出他们在幕后灯下到底在搞什么，根本不需要再张嘴问人。\n\n至于美国人不和你说真话，有多种可能，比如他们其实也不知道，不能通过和你讲实话来彰显自己人脉的无力感；政治正确和打小报告的恶习让在学校的工作人员如履薄冰，无法开口说真话；或者是存粹地把你当外人，不认为你会进入他们的圈子。无论是人的无力感还是人情的淡薄，这是世人间的常态，只要没有期待也就不会失望。\n\n对于我们这种工业界毫无对口工作的纯粹研究，许多人保持着理想的科研精神（比如我），甚至鄙视资本主义的基本逻辑（比如曾经的我），所以往往会把大学教职看的非常神圣，似乎只有教职才配上自己科研的纯粹。但是，当你不再被这套体系看重，不再被他们囊括在他们的叙事之中，当你成为边缘人以至于随时消亡而无人关注的时候，你应该感谢上天给了你一次对学术界祛魅的机会。学术界已经不是柏拉图的雅典学院，也不是希尔伯特的哥丁根，在这种情况下，如果你还想留在美国，就应该带着学术界学来的经验，挥一挥衣袖离开学术界了。这时候，你周围的美国人的话语，已经成为了存粹的噪音，或者是逢场作戏（权当练习英语口语），你所应该寻找的真实内容，在一亩三分地，在当年还没死去的mitbbs，在linkedin上的师兄师姐。\n\n最后再来谈谈创业。其实我创业惨败，本来没有资格谈论创业。但是和之前的失败一样，我们应该善于复盘。举一个例子，来谈谈networking。我的认识是：本地的meetup不能一棍子打死，那种所谓的panel就是几个人坐在前面吹大牛然后让大家闲扯的，基本上都是无效的。但是如果是pitch demo，就是让本地创业公司展示自己的成果的，一般是有益的。如果你进入不了pitch demo，基本上是一个危险的信号，证明你的创业无法进入到创业叙事中。要时刻为自己建立一系列的feedback loop，把network当做闭环中的一些指标，但并不能过度看重network。创业的信号要比学术界的信号要复杂的多，具有极大的噪音，各种出来卖课、兜售方法论的、假装自己有资源来割的，必须养成几眼就可以看穿的能力。\n\n至于评论里大家讨论很多的边界感、交友难易等，其实在另外一个维度。我上面大谈特谈的，都是career角度，是否可以、如何能够从美国人那里获得真实的信息。当无法获得信息的时候，我们应该本着什么样的方法去探求美国这个国家背后的游戏规则。至于交友、边界，其实当年马克思就说过，资本主义让人“异化”，人不再是农业社会时代的人。农业社会里，中国人用家族、同乡的情谊联络在一起，西方人通过家族、信仰联络在一起。现代社会有两种相反的趋势，一种是让人“原子化”，社会“散沙化”，虽然人显得更独立，但是更依赖于大政府、大组织，相互之间更难建立深度的联络。一种趋势是努力坚持传统的归属感，比如家族、信仰、乡情、种族之间的归属感。当你明确知道自己要追求什么的时候，你可以看看什么社会网络和社会哲学和你的需求有最大的公约数，这才是最重要的事情。",
+    "quoted_tweet": {
+      "author": "snowboat",
+      "username": "snowboat84",
+      "text": "今天来说几句心里话。我在美国这么多年，发现一个最大的问题是：美国人从来不会和你说实话，要不就是好为人师爹味重，要不就是基本都是废话。在中国和哥们喝几杯，酒过三盏菜过五味，哥们一句“操！”，之后就开始推心置腹了。这在美国根本不存在，人心隔肚皮，美国人从来不和你说真话。当年我读博士的时候，博士老板扔给我一个屎上雕花的课题，我一看就不太对劲，觉得不值得为这个细枝末节无关大局的课题浪费我的数年青春。结果老板给我大画大饼，说这个课题无比重要，做好了绝对功成名就。这还不算，我问了好些系里的别的老师，都说这课题不得了啊，太重要了。他娘的，我一时间将信将疑，还被忽悠进了（当然拒绝被忽悠也是死路，只能卷铺盖滚回国）。\n\n等到博士快毕业，才知道我做的东西无足轻重，差点找不到博士后，证明了我最初的感觉是对的。那时候找教职一定要找先做博士后缓冲缓冲，然后就是找教职。费了好大的劲申请了两年，只拿到了两个学校的面试，最后全挂。我琢磨着，究竟我的gap在哪里，我也好通过一年时间再提升一下自己，来年再战教职。但是根本不会有人告诉你，你的问题在哪里。美国人都会说：不知道啊不知道，不知道为什么人家不要你。我问：如果我水平太烂，那为啥这么多北大清华本科毕业、哈佛普林斯顿的博士，依旧没找到教职？美国人说：不知道，不知道，it happens。他娘的，反正就是没人愿意和你说真话。\n\n直到一个中国师兄和我说：呵呵，不要白费力气了，现在学校推行DEI，你就别做无用功了。然后这个师兄就卷铺盖回国了。这种话，不一定全对，但是美国人是肯定不会和我这么说的，不但不会说，还会强力否定DEI招工政策，再和我说一些道貌岸然的爹味话，或者是毫无信息量的废话。\n\n后来我只能被迫转行。好笑的是，转行之前，我又拿到一个博士后的offer，一看这个博士后岗位毫无前途，根本不能让我在美国找到教职，只能耗费生命。结果我遇到的许多美国老师都和我说，哇！恭喜恭喜！这个博后的职位太棒了，你一定可以在那里做出好多的成绩，太好了，太为你高兴了！你可拉倒吧，我已经不吃这套了。\n\n更搞笑的是，我转行之前给某杂志写了一篇综述文章，打算做为我科研的遗作墓志铭，于是我用心写了很久。我关系亲密的老师说，写综述毫无前途，浪费人生，你应该乖乖地给博士后老板打工，写个屁的综述。结果，我这篇综述成为了我引用率最高的文章，至今还有不少人在引用。\n\n接下来是在大厂工作，这段旅程按下不表。从大厂辞职创业后，我找了几个美国的商业顾问，当时的想法是，咱家要在美国开铺子，总不能老混华人圈，总得找一些正宗美国人，看看能不能获得有用的信息。结果所谓的商业顾问，无非把那些耳子都听到磨出茧子的如何获得客户，如何lean startup那套，给我照本宣科复述一遍，然后伸手要钱。\n\n我想我靠，网上随便找骗子，不如本地建立联系。于是我花了一年时间，参加了无数的本地聚会，各种meetups，除了加了无数根本不会第二次联系的人的linkedin，别的几乎一无所获。主动联系的美国人，大都是来割的，上来就说，Hi，我可以帮你打通学校的关系，Hi，我可以帮你获得更多的客户，Hi，我可以帮你做marketing。嘿嘿，一开始我还信了几个，后来发现都是毫无资源出来骗的。我现在meetups基本上都不去了，99%都是无效社交。\n\n我寻思着，为什么美国人从来不和我说真话？原因可能有以下三种：\n\n第一，他们从小就练就了说废话的本领，可以大吹特吹、或者好为人师说几个小时言之无物的废话。和只有几面之缘的人说话，说一晚上废话，是基本功。\n\n第二，真话代表着信息差。在美国，信息差是一种商品，是绝对不会免费公开的。\n\n第三，在美国人眼里，我辈不过是外来务工人员。他们有自己的圈子，是不会和你这样的圈子外的外来务工人员说推心置腹的话的。\n\n以上都是我的个人体验，我知道肯定会有人说，他的交友圈特别高大上，都是美国上流社会，你从洋大爷那边获不到有用的信息，只能怪自己没用。那我就只能说good luck了。"
+    },
+    "url": "https://x.com/snowboat84/status/2117428651436462097",
+    "time": "Tue Nov 03 01:28:25 +0000 2026",
+    "created_at": "Tue Nov 03 01:28:25 +0000 2026",
+    "id_str": "2117428651436462097",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我昨天写的帖子，受到了很多关注，非常感谢大家的留言和评论。其实我还有下半部分没写，昨天写的是现象的总结，却故意没有剖析原因。今天我再来聊聊美国人不说实话背后的游戏规则（在国内被称为底层逻辑）。首先我要澄清一下，我说的美国人不说实话，其实和是否有边界感、是否可以一起打牌看电影关系不大，主要说的是他们不会向你透露游戏规则。你作为一代移民，必须自己通过现象看本质，自己去摸索，去试错，去小结。很多时候语言是最廉价的，而珍贵的经验和教训需要自己去复盘。比如我上个帖子里说博士老板强力推销一个鸡肋的课题，而系里别的老师也对无足轻重的课题赞不绝口，似乎无人告诉真相。背后的底层逻辑是：除非你是拿fellowship有着自主研究权，只要你做RA，你的研究课题就被限制死在老板获得funding的课题框架内。如果老板资源少，你的研究课题就会非常狭窄，如果老板资源多，你或许还会有不少研究的自由度。别的老师对你老板的课题赞不绝口，是因为别的老师不想因为你一个几年后就要离开的局外人去得罪自己几十年的同事，更不愿承担挖墙脚的罪名（比如学生突然说既然我老板的课题没意思，不如我转到你的实验室来干活吧这类挖墙脚）。\n\n至于研究生可以自主研究的fellowship，基本上被限制成只有美国公民和绿卡才能申请，这就堵死了大部分留学生做自主研究的可能性。你最重要的事情，是根据研究课题的热度，和系里老师拥有资源的程度，做一个多维度的老师排行，之后再去找老板。当然，这些信息差对于一个刚开始PhD旅程的学生来说，几乎很难获得，不要紧，我们日后复盘，然后再用复盘的心得去展望未来。\n\n至于没有人告诉我为什么找不到教职的真实原因，其实这是一种美国一脉相承的暗箱操作法则。和中国大部分学生参加高考按照分数录取大学不同，美国的大学录取就具有非常大的暗箱操作自由度，高中生申请学校需要靠着家长财力和人脉作为后援，然后就是各种玄学。这种玄学也一直延伸到找教职，有很多因素影响教职，比如是否优先录取本土人？是否撞上了左派的诸如DEI叙事的加持？你的（来自你老板）的课题，是否会成为未来至少十年的funding热门？当然是老板的人脉、人脉背后的利益交换也是重要黑箱因素。一个工作有一千种理由拒绝你，却只需要一个理由就可以录用你。有意思的是，教职的透明度要比公司招工要透明很多，我们可以直接看到他们到底招了谁，就可以猜出他们在幕后灯下到底在搞什么，根本不需要再张嘴问人。\n\n至于美国人不和你说真话，有多种可能，比如他们其实也不知道，不能通过和你讲实话来彰显自己人脉的无力感；政治正确和打小报告的恶习让在学校的工作人员如履薄冰，无法开口说真话；或者是存粹地把你当外人，不认为你会进入他们的圈子。无论是人的无力感还是人情的淡薄，这是世人间的常态，只要没有期待也就不会失望。\n\n对于我们这种工业界毫无对口工作的纯粹研究，许多人保持着理想的科研精神（比如我），甚至鄙视资本主义的基本逻辑（比如曾经的我），所以往往会把大学教职看的非常神圣，似乎只有教职才配上自己科研的纯粹。但是，当你不再被这套体系看重，不再被他们囊括在他们的叙事之中，当你成为边缘人以至于随时消亡而无人关注的时候，你应该感谢上天给了你一次对学术界祛魅的机会。学术界已经不是柏拉图的雅典学院，也不是希尔伯特的哥丁根，在这种情况下，如果你还想留在美国，就应该带着学术界学来的经验，挥一挥衣袖离开学术界了。这时候，你周围的美国人的话语，已经成为了存粹的噪音，或者是逢场作戏（权当练习英语口语），你所应该寻找的真实内容，在一亩三分地，在当年还没死去的mitbbs，在linkedin上的师兄师姐。\n\n最后再来谈谈创业。其实我创业惨败，本来没有资格谈论创业。但是和之前的失败一样，我们应该善于复盘。举一个例子，来谈谈networking。我的认识是：本地的meetup不能一棍子打死，那种所谓的panel就是几个人坐在前面吹大牛然后让大家闲扯的，基本上都是无效的。但是如果是pitch demo，就是让本地创业公司展示自己的成果的，一般是有益的。如果你进入不了pitch demo，基本上是一个危险的信号，证明你的创业无法进入到创业叙事中。要时刻为自己建立一系列的feedback loop，把network当做闭环中的一些指标，但并不能过度看重network。创业的信号要比学术界的信号要复杂的多，具有极大的噪音，各种出来卖课、兜售方法论的、假装自己有资源来割的，必须养成几眼就可以看穿的能力。\n\n至于评论里大家讨论很多的边界感、交友难易等，其实在另外一个维度。我上面大谈特谈的，都是career角度，是否可以、如何能够从美国人那里获得真实的信息。当无法获得信息的时候，我们应该本着什么样的方法去探求美国这个国家背后的游戏规则。至于交友、边界，其实当年马克思就说过，资本主义让人“异化”，人不再是农业社会时代的人。农业社会里，中国人用家族、同乡的情谊联络在一起，西方人通过家族、信仰联络在一起。现代社会有两种相反的趋势，一种是让人“原子化”，社会“散沙化”，虽然人显得更独立，但是更依赖于大政府、大组织，相互之间更难建立深度的联络。一种趋势是努力坚持传统的归属感，比如家族、信仰、乡情、种族之间的归属感。当你明确知道自己要追求什么的时候，你可以看看什么社会网络和社会哲学和你的需求有最大的公约数，这才是最重要的事情。",
+    "quoted_tweet": {
+      "author": "snowboat",
+      "username": "snowboat84",
+      "text": "今天来说几句心里话。我在美国这么多年，发现一个最大的问题是：美国人从来不会和你说实话，要不就是好为人师爹味重，要不就是基本都是废话。在中国和哥们喝几杯，酒过三盏菜过五味，哥们一句“操！”，之后就开始推心置腹了。这在美国根本不存在，人心隔肚皮，美国人从来不和你说真话。当年我读博士的时候，博士老板扔给我一个屎上雕花的课题，我一看就不太对劲，觉得不值得为这个细枝末节无关大局的课题浪费我的数年青春。结果老板给我大画大饼，说这个课题无比重要，做好了绝对功成名就。这还不算，我问了好些系里的别的老师，都说这课题不得了啊，太重要了。他娘的，我一时间将信将疑，还被忽悠进了（当然拒绝被忽悠也是死路，只能卷铺盖滚回国）。\n\n等到博士快毕业，才知道我做的东西无足轻重，差点找不到博士后，证明了我最初的感觉是对的。那时候找教职一定要找先做博士后缓冲缓冲，然后就是找教职。费了好大的劲申请了两年，只拿到了两个学校的面试，最后全挂。我琢磨着，究竟我的gap在哪里，我也好通过一年时间再提升一下自己，来年再战教职。但是根本不会有人告诉你，你的问题在哪里。美国人都会说：不知道啊不知道，不知道为什么人家不要你。我问：如果我水平太烂，那为啥这么多北大清华本科毕业、哈佛普林斯顿的博士，依旧没找到教职？美国人说：不知道，不知道，it happens。他娘的，反正就是没人愿意和你说真话。\n\n直到一个中国师兄和我说：呵呵，不要白费力气了，现在学校推行DEI，你就别做无用功了。然后这个师兄就卷铺盖回国了。这种话，不一定全对，但是美国人是肯定不会和我这么说的，不但不会说，还会强力否定DEI招工政策，再和我说一些道貌岸然的爹味话，或者是毫无信息量的废话。\n\n后来我只能被迫转行。好笑的是，转行之前，我又拿到一个博士后的offer，一看这个博士后岗位毫无前途，根本不能让我在美国找到教职，只能耗费生命。结果我遇到的许多美国老师都和我说，哇！恭喜恭喜！这个博后的职位太棒了，你一定可以在那里做出好多的成绩，太好了，太为你高兴了！你可拉倒吧，我已经不吃这套了。\n\n更搞笑的是，我转行之前给某杂志写了一篇综述文章，打算做为我科研的遗作墓志铭，于是我用心写了很久。我关系亲密的老师说，写综述毫无前途，浪费人生，你应该乖乖地给博士后老板打工，写个屁的综述。结果，我这篇综述成为了我引用率最高的文章，至今还有不少人在引用。\n\n接下来是在大厂工作，这段旅程按下不表。从大厂辞职创业后，我找了几个美国的商业顾问，当时的想法是，咱家要在美国开铺子，总不能老混华人圈，总得找一些正宗美国人，看看能不能获得有用的信息。结果所谓的商业顾问，无非把那些耳子都听到磨出茧子的如何获得客户，如何lean startup那套，给我照本宣科复述一遍，然后伸手要钱。\n\n我想我靠，网上随便找骗子，不如本地建立联系。于是我花了一年时间，参加了无数的本地聚会，各种meetups，除了加了无数根本不会第二次联系的人的linkedin，别的几乎一无所获。主动联系的美国人，大都是来割的，上来就说，Hi，我可以帮你打通学校的关系，Hi，我可以帮你获得更多的客户，Hi，我可以帮你做marketing。嘿嘿，一开始我还信了几个，后来发现都是毫无资源出来骗的。我现在meetups基本上都不去了，99%都是无效社交。\n\n我寻思着，为什么美国人从来不和我说真话？原因可能有以下三种：\n\n第一，他们从小就练就了说废话的本领，可以大吹特吹、或者好为人师说几个小时言之无物的废话。和只有几面之缘的人说话，说一晚上废话，是基本功。\n\n第二，真话代表着信息差。在美国，信息差是一种商品，是绝对不会免费公开的。\n\n第三，在美国人眼里，我辈不过是外来务工人员。他们有自己的圈子，是不会和你这样的圈子外的外来务工人员说推心置腹的话的。\n\n以上都是我的个人体验，我知道肯定会有人说，他的交友圈特别高大上，都是美国上流社会，你从洋大爷那边获不到有用的信息，只能怪自己没用。那我就只能说good luck了。"
+    },
+    "url": "https://x.com/snowboat84/status/2117428651436462097",
+    "time": "Tue Nov 03 01:28:25 +0000 2026",
+    "created_at": "Tue Nov 03 01:28:25 +0000 2026",
+    "id_str": "2117428651436462097",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@snowboat84 听君一席话 胜读十年书",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2117435701046436252",
+    "time": "Tue Nov 03 01:56:25 +0000 2026",
+    "created_at": "Tue Nov 03 01:56:25 +0000 2026",
+    "id_str": "2117435701046436252",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "baoyu-design 新增了 Motion 功能了，在 Claude Motion 基础上完善了多人协作和编辑器功能。\n\n你不需要等整个视频渲染完成才能看到效果（用 Opus 5.5 做过 Motion 动画的都知道从浏览器截屏渲染一个视频多慢），从一开始就可以看到 Motion 被渲染的过程，修改起来也很方便。\n\nMotion 中的文字可以随时编辑，支持 Design System 和风格样式。\n\n可以运行在任意 Agent，包括 DeepSeek Harness 插件。\n\n但也不要期望太高，做出来的效果并没有特别好，还是需要配合擅长 Motion 的模型（比如 Opus 5.5）和特定提示词或 skill 才能做的更好。\n\n但有一点我觉得方向是对的，就是我们只需要一个简单的视频编辑器，只要标记和评论就可以修改。\n\n后续会在和 Claude Motion 保持同步的同时加一些功能。\n\n项目地址：https://github.com/JimLiu/baoyu-design",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "baoyu-design 增加了局域网内的团队共享功能，现在你的设计稿做好了，或者slides写好了，可以在局域网内分享，生成一个内部 IP 地址加端口的 URL（注意防火墙设置），让你的同事、老板也能对你的内容进行编辑、评论，并且实时同步。\n\n安全性也不用担心，所有数据都在你本机，你可以控制分享的权限级别：只读、评论、编辑，并且可以随时修改权限设置。\n\ndeepseek harness 的插件也同步更新了，一样支持这个功能。\n\n最新版本：https://github.com/JimLiu/baoyu-design"
+    },
+    "url": "https://x.com/dotey/status/2117442507306901741",
+    "time": "Tue Nov 03 02:23:28 +0000 2026",
+    "created_at": "Tue Nov 03 02:23:28 +0000 2026",
+    "id_str": "2117442507306901741",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Introducing the Hume Audio Decision API.\n\nAsk anything: How many speakers? Is anyone laughing? Is the caller frustrated?\n\nWhat used to take 10+ models is now one call.\n\nTrained on 10M+ human judgments, so it answers the way human listeners would.\n\nRealtime, or across hours of recordings.\n\nRequest access below.",
+    "quoted_tweet": null,
+    "url": "https://x.com/hume_ai/status/2117285608745820372",
+    "time": "2026-11-03 00:00",
+    "created_at": "Mon Nov 02 16:00:01 +0000 2026",
+    "id_str": "2117285608745820372",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "some personal news: i’ve joined @tryramp as a principal engineer, working on glass!",
+    "quoted_tweet": null,
+    "url": "https://x.com/colemurray/status/2117302404651905342",
+    "time": "2026-11-03 01:06",
+    "created_at": "Mon Nov 02 17:06:45 +0000 2026",
+    "id_str": "2117302404651905342",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@colemurray @tryramp Congrats! What a snipe by Ramp 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117316768381436208",
+    "time": "2026-11-03 02:03",
+    "created_at": "Mon Nov 02 18:03:50 +0000 2026",
+    "id_str": "2117316768381436208",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "“Our [generic AI vibe coded slop] just KILLED [multi hundred billion dollar company]” \n\n- YC founder who spent half the seed round on a launch video",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117339433422991831",
+    "time": "2026-11-03 03:33",
+    "created_at": "Mon Nov 02 19:33:53 +0000 2026",
+    "id_str": "2117339433422991831",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman you should be off the waitlist, the team just sent you another email with next steps!",
+    "quoted_tweet": null,
+    "url": "https://x.com/yuki__kb/status/2117372558094012575",
+    "time": "2026-11-03 05:45",
+    "created_at": "Mon Nov 02 21:45:31 +0000 2026",
+    "id_str": "2117372558094012575",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@yuki__kb Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117381998054686938",
+    "time": "2026-11-03 06:23",
+    "created_at": "Mon Nov 02 22:23:02 +0000 2026",
+    "id_str": "2117381998054686938",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Hiring a Head of Marketing for Varick.\n\nIn the last year we've done over 300M impressions on socials, without even trying. It was me posting between meetings or while walking to work. \n\nI want you doing this full time so we hit 3B in the next year.\n\nMust be chronically addicted to AI Twitter, and must have S-Tier video/image editing and design experience.\n\nUp to $200K base + equity. In person at our SF HQ. DMs open.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117406548100256012",
+    "time": "Tue Nov 03 00:00:35 +0000 2026",
+    "created_at": "Tue Nov 03 00:00:35 +0000 2026",
+    "id_str": "2117406548100256012",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Can't recommend this job enough. I often say \"It's not enough to be right\", the message has to come across. That latter part is more complex that it seems. Come help us!",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "Hiring a Head of Marketing for Varick.\n\nIn the last year we've done over 300M impressions on socials, without even trying. It was me posting between meetings or while walking to work. \n\nI want you doing this full time so we hit 3B in the next year.\n\nMust be chronically addicted to AI Twitter, and must have S-Tier video/image editing and design experience.\n\nUp to $200K base + equity. In person at our SF HQ. DMs open."
+    },
+    "url": "https://x.com/thmslj/status/2117411096432898489",
+    "time": "Tue Nov 03 00:18:39 +0000 2026",
+    "created_at": "Tue Nov 03 00:18:39 +0000 2026",
+    "id_str": "2117411096432898489",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "This dream job!!!!",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "Hiring a Head of Marketing for Varick.\n\nIn the last year we've done over 300M impressions on socials, without even trying. It was me posting between meetings or while walking to work. \n\nI want you doing this full time so we hit 3B in the next year.\n\nMust be chronically addicted to AI Twitter, and must have S-Tier video/image editing and design experience.\n\nUp to $200K base + equity. In person at our SF HQ. DMs open."
+    },
+    "url": "https://x.com/jerseejess/status/2117412149492424897",
+    "time": "Tue Nov 03 00:22:50 +0000 2026",
+    "created_at": "Tue Nov 03 00:22:50 +0000 2026",
+    "id_str": "2117412149492424897",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "This dream job!!!!",
+    "quoted_tweet": {
+      "author": "vas",
+      "username": "vasuman",
+      "text": "Hiring a Head of Marketing for Varick.\n\nIn the last year we've done over 300M impressions on socials, without even trying. It was me posting between meetings or while walking to work. \n\nI want you doing this full time so we hit 3B in the next year.\n\nMust be chronically addicted to AI Twitter, and must have S-Tier video/image editing and design experience.\n\nUp to $200K base + equity. In person at our SF HQ. DMs open."
+    },
+    "url": "https://x.com/jerseejess/status/2117412149492424897",
+    "time": "Tue Nov 03 00:22:50 +0000 2026",
+    "created_at": "Tue Nov 03 00:22:50 +0000 2026",
+    "id_str": "2117412149492424897",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jerseejess 🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117413106368602276",
+    "time": "Tue Nov 03 00:26:38 +0000 2026",
+    "created_at": "Tue Nov 03 00:26:38 +0000 2026",
+    "id_str": "2117413106368602276",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman Don’t do it. Just automate it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mattgould/status/2117415562628514166",
+    "time": "Tue Nov 03 00:36:24 +0000 2026",
+    "created_at": "Tue Nov 03 00:36:24 +0000 2026",
+    "id_str": "2117415562628514166",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@mattgould All the AI bots get their content ideas from me. If I became an AI bot this whole economy comes crashing down.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117419156853395884",
+    "time": "Tue Nov 03 00:50:41 +0000 2026",
+    "created_at": "Tue Nov 03 00:50:41 +0000 2026",
+    "id_str": "2117419156853395884",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Cant log into Claude direct, because then you might get hacked. Only after SSO, 2FA, WorkOS, 1Password, and DuoMobile, are you allowed to log in. And then you get hacked.",
+    "quoted_tweet": null,
+    "url": "https://x.com/dkfromdk/status/2117423434431115558",
+    "time": "Tue Nov 03 01:07:41 +0000 2026",
+    "created_at": "Tue Nov 03 01:07:41 +0000 2026",
+    "id_str": "2117423434431115558",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dkfromdk Lmao",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117423743219958176",
+    "time": "Tue Nov 03 01:08:54 +0000 2026",
+    "created_at": "Tue Nov 03 01:08:54 +0000 2026",
+    "id_str": "2117423743219958176",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": {
+      "text": "https://t.co/njcWFYyTiG",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2117423760626380800",
+          "display": "pic.x.com/njcWFYyTiG",
+          "original": "https://t.co/njcWFYyTiG",
+          "replacement": "https://x.com/vasuman/status/2117425954914287913/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Daniel Kornum",
+      "username": "dkfromdk",
+      "text": "Cant log into Claude direct, because then you might get hacked. Only after SSO, 2FA, WorkOS, 1Password, and DuoMobile, are you allowed to log in. And then you get hacked."
+    },
+    "url": "https://x.com/vasuman/status/2117425954914287913",
+    "time": "Tue Nov 03 01:17:42 +0000 2026",
+    "created_at": "Tue Nov 03 01:17:42 +0000 2026",
+    "id_str": "2117425954914287913",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman No one else mapped out the entire AI ecosystem: 70,000 people and 10,000 companies.\n\n:-)\n\nAt https://x.com/scobleizer/lists",
+    "quoted_tweet": null,
+    "url": "https://x.com/Scobleizer/status/2117428533807223268",
+    "time": "Tue Nov 03 01:27:57 +0000 2026",
+    "created_at": "Tue Nov 03 01:27:57 +0000 2026",
+    "id_str": "2117428533807223268",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@Scobleizer Wanna join 🙂",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2117438569317028102",
+    "time": "Tue Nov 03 02:07:49 +0000 2026",
+    "created_at": "Tue Nov 03 02:07:49 +0000 2026",
+    "id_str": "2117438569317028102",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Josh Gruenstein of Tutor Intelligence says he watched robot startups die the same way \"5 to 10 times in a row,\" and explains what they got wrong:\n\n\"We started this company at a time we're seeing all of these very academic supply chain oriented robotic startups get started and then not succeed... One of the big things I think that robotics companies get wrong is they're not actually product companies.\"\n\n\"They're like, 'Okay, some really big company has a very specific problem... We're gonna spend two years building a very custom system to solve their problem.'\"\n\n\"Chances are it won't work... doing product requires iteration. Even if it does work, who's to say that customer still has that problem? So boom, the company's done.\"\n\n\"Working with a diverse range of customers is this beautiful forcing function for building the right shape of product, which to us is a general robot.\"\n\n\"If you can sign a contract in two weeks with a mid-market customer and have a robot running immediately after that... you know you're being successful.\"\n\n@joshgruenstein @tutorintel",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Tutor Intelligence co-founder and CEO Josh Gruenstein is putting AI robots to work in American factories and warehouses, taking on the back-breaking jobs they can't hire for.\n\nTutor builds its robots in Massachusetts and charges by the hour, with no upfront cost. When the AI gets stuck, a human \"tutor\" takes over and teaches it the task, creating training data along the way.\n\nJosh joins a16z's Martin Casado and Raghu Raghuram to discuss how Tutor goes from a first sales call to a working robot in about three months, why so many robot startups died building for a single customer, why anyone will be able to start a business in the physical world, and a whole lot more.\n\n0:50 Deploy robots, then build the data\n2:50 Why smart robots aren't enough\n4:38 The ultimate systems problem\n6:45 Why robot companies go vertical\n9:07 How remote humans tutor robots\n11:00 Will robots outgrow their tutors?\n14:54 How AI labs sped up robotics\n16:57 Meet Cassie and Sonny\n20:55 What factory work actually looks like\n23:18 A robot for $16 an hour\n25:51 When robots become coworkers\n29:04 Why robot startups keep dying\n31:21 When 1% cheaper flips a market\n34:52 Robots cost more to run than to buy\n38:18 China's automation bet may backfire\n42:02 Real-world RL on a 100-robot fleet\n\nYouTube: https://youtu.be/lXkjXSul6yg\n\n@joshgruenstein @tutorintel @martin_casado @RaghuRaghuram"
+    },
+    "url": "https://x.com/a16z/status/2117368778912866548",
+    "time": "2026-11-03 05:30",
+    "created_at": "Mon Nov 02 21:30:30 +0000 2026",
+    "id_str": "2117368778912866548",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Josh Gruenstein of Tutor Intelligence on the factories their robots work in: \"None of these places can hire.\"\n\nThe year-over-year data agrees:\n\n- Hours per worker are up in all 10 manufacturing categories\n- Hours per worker are growing faster than headcount in 7 of 10\n\n\"Back-breaking work that's really hard to hire for. There's a three-month turnover and your average age of the worker doing that work is 55 years old and about to retire... Have you ever considered a robot for 16 bucks an hour?\"\n\n@joshgruenstein @tutorintel",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Tutor Intelligence co-founder and CEO Josh Gruenstein is putting AI robots to work in American factories and warehouses, taking on the back-breaking jobs they can't hire for.\n\nTutor builds its robots in Massachusetts and charges by the hour, with no upfront cost. When the AI gets stuck, a human \"tutor\" takes over and teaches it the task, creating training data along the way.\n\nJosh joins a16z's Martin Casado and Raghu Raghuram to discuss how Tutor goes from a first sales call to a working robot in about three months, why so many robot startups died building for a single customer, why anyone will be able to start a business in the physical world, and a whole lot more.\n\n0:50 Deploy robots, then build the data\n2:50 Why smart robots aren't enough\n4:38 The ultimate systems problem\n6:45 Why robot companies go vertical\n9:07 How remote humans tutor robots\n11:00 Will robots outgrow their tutors?\n14:54 How AI labs sped up robotics\n16:57 Meet Cassie and Sonny\n20:55 What factory work actually looks like\n23:18 A robot for $16 an hour\n25:51 When robots become coworkers\n29:04 Why robot startups keep dying\n31:21 When 1% cheaper flips a market\n34:52 Robots cost more to run than to buy\n38:18 China's automation bet may backfire\n42:02 Real-world RL on a 100-robot fleet\n\nYouTube: https://youtu.be/lXkjXSul6yg\n\n@joshgruenstein @tutorintel @martin_casado @RaghuRaghuram"
+    },
+    "url": "https://x.com/a16z/status/2117383776867356847",
+    "time": "2026-11-03 06:30",
+    "created_at": "Mon Nov 02 22:30:06 +0000 2026",
+    "id_str": "2117383776867356847",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Josh Gruenstein of Tutor Intelligence on how to value a robot: \"You take how much work a robot can do and you divide it by its cost, and that's it. Everything else is commentary.\"\n\nIf robots can do that work for less, he says the market is \"all physical work done.\"\n\nOne Wall Street firm's view of the scale, in a forecast of annual robot sales:\n- 2026: 29 million\n- 2030: 93 million\n- 2040: 605 million\n- 2050: 1.4 billion\n\n\"We're just gonna have way more factories in the same way that we have way more businesses because the cloud and all of the software tooling let people build new businesses.\"\n\n\"Anybody will be able to start a business in the physical world. Anybody will be able to scale a business in the physical world if we kind of have this infinite flexible labor substrate.\"\n\n@joshgruenstein @tutorintel",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Tutor Intelligence co-founder and CEO Josh Gruenstein is putting AI robots to work in American factories and warehouses, taking on the back-breaking jobs they can't hire for.\n\nTutor builds its robots in Massachusetts and charges by the hour, with no upfront cost. When the AI gets stuck, a human \"tutor\" takes over and teaches it the task, creating training data along the way.\n\nJosh joins a16z's Martin Casado and Raghu Raghuram to discuss how Tutor goes from a first sales call to a working robot in about three months, why so many robot startups died building for a single customer, why anyone will be able to start a business in the physical world, and a whole lot more.\n\n0:50 Deploy robots, then build the data\n2:50 Why smart robots aren't enough\n4:38 The ultimate systems problem\n6:45 Why robot companies go vertical\n9:07 How remote humans tutor robots\n11:00 Will robots outgrow their tutors?\n14:54 How AI labs sped up robotics\n16:57 Meet Cassie and Sonny\n20:55 What factory work actually looks like\n23:18 A robot for $16 an hour\n25:51 When robots become coworkers\n29:04 Why robot startups keep dying\n31:21 When 1% cheaper flips a market\n34:52 Robots cost more to run than to buy\n38:18 China's automation bet may backfire\n42:02 Real-world RL on a 100-robot fleet\n\nYouTube: https://youtu.be/lXkjXSul6yg\n\n@joshgruenstein @tutorintel @martin_casado @RaghuRaghuram"
+    },
+    "url": "https://x.com/a16z/status/2117398863963443537",
+    "time": "2026-11-03 07:30",
+    "created_at": "Mon Nov 02 23:30:03 +0000 2026",
+    "id_str": "2117398863963443537",
+    "is_retweet": false
+  }
+]
