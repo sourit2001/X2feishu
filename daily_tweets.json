@@ -246,5 +246,421 @@
     "created_at": "Mon Nov 02 00:00:00 +0000 2026",
     "id_str": "2117044016621748292",
     "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "AI adoption continues to grow (remember last year during the summer when everyone thought adoption was dropping?)\n\nAlso good discussion of changes in methodology by Simon in the post.",
+    "quoted_tweet": {
+      "author": "Simon Willison",
+      "username": "simonw",
+      "text": "In updating a graphic showing U.S. company AI adoption over time according to a long-running U.S. Census Bureau survey, I found out that the Bureau's work has been sullied by that asinine \"Super Intelligence\" executive order https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/"
+    },
+    "url": "https://x.com/emollick/status/2117338116185035004",
+    "time": "2026-11-03 03:28",
+    "created_at": "Mon Nov 02 19:28:39 +0000 2026",
+    "id_str": "2117338116185035004",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Waiting for replication but this is a pretty big deal.",
+    "quoted_tweet": {
+      "author": "Rikiya Takehi",
+      "username": "rikiyatakehi",
+      "text": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://rikiyat.github.io/blog/weight-space-programming/"
+    },
+    "url": "https://x.com/emollick/status/2117338841749029221",
+    "time": "2026-11-03 03:31",
+    "created_at": "Mon Nov 02 19:31:32 +0000 2026",
+    "id_str": "2117338841749029221",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I had Opus 5.5 create a site where you can see the fastest routes into every city in the US, figure out where in America is fairest to meet up, see the \"watersheds\" of the largest cities, and more: https://all-roads-lead-to.netlify.app\n\n(Inspired by the defunct Arterial Mapping site)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2117346417979384162",
+    "time": "2026-11-03 04:01",
+    "created_at": "Mon Nov 02 20:01:39 +0000 2026",
+    "id_str": "2117346417979384162",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@maxxbuilds You would not use it because:\n1) You are an AI\n2) It is not a useful tool, it is a fun mapping exercise which\n3) You would know if you had a better prompt and stronger model",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2117349798173086132",
+    "time": "2026-11-03 04:15",
+    "created_at": "Mon Nov 02 20:15:04 +0000 2026",
+    "id_str": "2117349798173086132",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Opus 5.5: \"Give me 10 brilliant ideas for a science fiction short short story, pick the most brilliant and execute it terribly\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2117372481191239762",
+    "time": "2026-11-03 05:45",
+    "created_at": "Mon Nov 02 21:45:13 +0000 2026",
+    "id_str": "2117372481191239762",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Polymarket launches 24/7 perpetual futures trading for Anthropic $ANT pre-IPO with up to 10x leverage.",
+    "quoted_tweet": null,
+    "url": "https://x.com/WatcherGuru/status/2117323940930764800",
+    "time": "2026-11-03 02:32",
+    "created_at": "Mon Nov 02 18:32:20 +0000 2026",
+    "id_str": "2117323940930764800",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@WatcherGuru 10x leverage on anthropic, still 1x on my usage limit",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117324820744450346",
+    "time": "2026-11-03 02:35",
+    "created_at": "Mon Nov 02 18:35:49 +0000 2026",
+    "id_str": "2117324820744450346",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Waiting for replication but this is a pretty big deal.",
+    "quoted_tweet": {
+      "author": "Rikiya Takehi",
+      "username": "rikiyatakehi",
+      "text": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://rikiyat.github.io/blog/weight-space-programming/"
+    },
+    "url": "https://x.com/emollick/status/2117338841749029221",
+    "time": "2026-11-03 03:31",
+    "created_at": "Mon Nov 02 19:31:32 +0000 2026",
+    "id_str": "2117338841749029221",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Sam Altman met with Abu Dhabi’s crown prince as OpenAI raises a new funding round co-led by UAE investors, per CNBC.\n\nThe visit came with deals across Abu Dhabi, from ADNOC and G42 deploying OpenAI’s top models to the government making its regulations readable by AI.",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2117340466630771162",
+    "time": "2026-11-03 03:38",
+    "created_at": "Mon Nov 02 19:38:00 +0000 2026",
+    "id_str": "2117340466630771162",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales regulations readable by ai, still unreadable by the people who have to follow them",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117341778038673742",
+    "time": "2026-11-03 03:43",
+    "created_at": "Mon Nov 02 19:43:12 +0000 2026",
+    "id_str": "2117341778038673742",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Anthropic discloses $895,400,000,000.00 in contractual spending commitments ahead of its IPO.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Polymarket/status/2117342177730961738",
+    "time": "2026-11-03 03:44",
+    "created_at": "Mon Nov 02 19:44:48 +0000 2026",
+    "id_str": "2117342177730961738",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@emollick does the 6x hold on math sets astra never saw while editing?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117342826594029955",
+    "time": "2026-11-03 03:47",
+    "created_at": "Mon Nov 02 19:47:22 +0000 2026",
+    "id_str": "2117342826594029955",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Polymarket $895 billion committed and i still get \"claude is at capacity\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117343917905441031",
+    "time": "2026-11-03 03:51",
+    "created_at": "Mon Nov 02 19:51:43 +0000 2026",
+    "id_str": "2117343917905441031",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Robot Mowers Invade America's Golf Courses, Putting Groundskeepers On Notice https://www.zerohedge.com/technology/robot-mowers-invade-americas-golf-courses-putting-groundskeepers-notice",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2117357438303142168",
+    "time": "2026-11-03 04:45",
+    "created_at": "Mon Nov 02 20:45:26 +0000 2026",
+    "id_str": "2117357438303142168",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge finally a groundskeeper that won't judge my swing",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117358334516830466",
+    "time": "2026-11-03 04:49",
+    "created_at": "Mon Nov 02 20:49:00 +0000 2026",
+    "id_str": "2117358334516830466",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "$AAPL Q4 EARNINGS\n\n• Revenue $114.5B vs Est. $113.4B\n• EPS $2.10 vs Est. $1.99\n• China Revenue $17.5B vs Est. $18.6B\n• iPhone Revenue $57.6B vs Est. $56.5B\n• Mac Revenue $10.8B vs Est. $9.7B",
+    "quoted_tweet": null,
+    "url": "https://x.com/StockSavvyShay/status/2117369958162444446",
+    "time": "2026-11-03 05:35",
+    "created_at": "Mon Nov 02 21:35:11 +0000 2026",
+    "id_str": "2117369958162444446",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "ANTHROPIC IPO INVESTORS PUSH FOR LOWER $1.5T–$1.6T VALUATION: WSJ\n\nMajor institutional investors are reportedly urging Anthropic to pursue a more conservative IPO valuation of $1.5T to $1.6T, well below the roughly $2T valuation discussed in recent months.\n\nSome investors reportedly favor a lower starting valuation to leave room for a strong first-day trading gain, with expectations that Anthropic could potentially reach a $2T valuation after its market debut.\n\nThe company has not finalized its IPO valuation or the number of shares it plans to sell.\n\nAnthropic is expected to begin its IPO roadshow as soon as next week, with its Nasdaq debut targeted for the week before Thanksgiving.",
+    "quoted_tweet": null,
+    "url": "https://x.com/wallstengine/status/2117372595683385348",
+    "time": "2026-11-03 05:45",
+    "created_at": "Mon Nov 02 21:45:40 +0000 2026",
+    "id_str": "2117372595683385348",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@StockSavvyShay mac beat by a billion. that's just people buying mac minis for their agents",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117374206417780871",
+    "time": "2026-11-03 05:52",
+    "created_at": "Mon Nov 02 21:52:04 +0000 2026",
+    "id_str": "2117374206417780871",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@wallstengine even anthropic's ipo is getting rate limited",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117375377005748409",
+    "time": "2026-11-03 05:56",
+    "created_at": "Mon Nov 02 21:56:43 +0000 2026",
+    "id_str": "2117375377005748409",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Apple plans to charge for higher Siri AI usage.\n\nCEO John Ternus says Siri handles over 2.5B requests a day. Server-based AI features, including Siri AI and photo editing, will have usage limits, with paid upgrades via iCloud+\n\nAnother potential growth driver for $AAPL Services.",
+    "quoted_tweet": null,
+    "url": "https://x.com/wallstengine/status/2117387595995054315",
+    "time": "2026-11-03 06:45",
+    "created_at": "Mon Nov 02 22:45:16 +0000 2026",
+    "id_str": "2117387595995054315",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Decompiling Battlefield 1942 and then porting it to C and then WASM cost me 1 million output tokens\n\nAt API prices that's about $100\n\nBut I pay $100/mo Claude",
+    "quoted_tweet": {
+      "author": "Vahagn",
+      "username": "vahagnzak",
+      "text": "@levelsio Wow this is instance... Roughly, how many tokens (input/output/cache) did you use to do this?"
+    },
+    "url": "https://x.com/levelsio/status/2117389002470769143",
+    "time": "2026-11-03 06:50",
+    "created_at": "Mon Nov 02 22:50:52 +0000 2026",
+    "id_str": "2117389002470769143",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@levelsio 1m output tokens for a full port is lean. most of us burn that on retries",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117389651963179288",
+    "time": "2026-11-03 06:53",
+    "created_at": "Mon Nov 02 22:53:26 +0000 2026",
+    "id_str": "2117389651963179288",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@wallstengine siri getting usage limits before it got good is a bold sequence",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117390670990279052",
+    "time": "2026-11-03 06:57",
+    "created_at": "Mon Nov 02 22:57:29 +0000 2026",
+    "id_str": "2117390670990279052",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We added a new sign up page for Agents.\n\nWe're building Coinbase to be the most AI-enabled financial account.\n\nGive it a try: https://coinbase.com/agents",
+    "quoted_tweet": null,
+    "url": "https://x.com/brian_armstrong/status/2117400236360708585",
+    "time": "2026-11-03 07:35",
+    "created_at": "Mon Nov 02 23:35:30 +0000 2026",
+    "id_str": "2117400236360708585",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@brian_armstrong first sign up page where the captcha checks that you're not a human",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117405401918443926",
+    "time": "2026-11-03 07:56",
+    "created_at": "Mon Nov 02 23:56:01 +0000 2026",
+    "id_str": "2117405401918443926",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You pay OpenAI $20 to $500 a month. This weekend it handed out 2 free Codex resets.\nRedeem one the day before your weekly refresh and it buys you exactly one day.\n\nThat's why \"Banked 2/2\" got 1M views and almost nobody read the fine print.\n\nThe math OpenAI's help page implies but never says:\n\nA reset doesn't add a week. It restarts your weekly clock. So a reset is worth the days left until your normal refresh.\n\n→ Out of usage Tuesday, refresh due Friday: redeem now, you unlock 3 days you'd have spent locked out.\n→ Out of usage Thursday, refresh due Friday: you unlock 1 day, and your next refresh moves to next Thursday.\n\nThe fine print:\n\n→ It won't redeem unless a covered bar is under 80%. You'll see \"Your usage does not need a reset right now.\"\n→ Plus gets the 5-hour and weekly bars back. Pro 100/200/500 gets the weekly bar only.\n→ \"Allow your assistant to use resets\" lets Codex spend one by itself at 10% left. Check that toggle.\n→ No redeeming from the mobile app. Desktop, web, or /usage in the CLI.\n→ Each reset has an expiry date. Expired or used by accident, support won't replace it.\n\nThe paid reset is the same deal. OpenAI's words: it \"pulls your normal weekly allowance forward.\" You're buying next week early, not extra usage.\n\nMy take: hold both until you hit zero with 3+ days left. And turn off the auto-use toggle today.\n\nResets won't help in December, when ChatGPT checkout says chat and Codex start sharing one limit. What helps is fewer wasted turns: an agent that knows what \"done\" looks like stops burning your bar guessing. That's what our prompts are built for, link below.\n\nAre you saving your resets for a crunch week, or burning them before they expire?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117407072375730323",
+    "time": "Tue Nov 03 00:02:40 +0000 2026",
+    "created_at": "Tue Nov 03 00:02:40 +0000 2026",
+    "id_str": "2117407072375730323",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "OpenAI's help article on resets: https://help.openai.com/en/articles/20001498-how-resets-work-in-codex\n\nFree prompts, no signup: https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2117407084786663541",
+    "time": "Tue Nov 03 00:02:43 +0000 2026",
+    "created_at": "Tue Nov 03 00:02:43 +0000 2026",
+    "id_str": "2117407084786663541",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "one week in my takeaway is that you don't need unlimited tokens to do great work, the $200 plans are amazing \n\nand this is the most expensive intelligence will ever be",
+    "quoted_tweet": null,
+    "url": "https://x.com/trq212/status/2117305792923889731",
+    "time": "2026-11-03 01:20",
+    "created_at": "Mon Nov 02 17:20:13 +0000 2026",
+    "id_str": "2117305792923889731",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@trq212 try deepseek flash",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2117393087312105496",
+    "time": "2026-11-03 07:07",
+    "created_at": "Mon Nov 02 23:07:05 +0000 2026",
+    "id_str": "2117393087312105496",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "RSI 初现端倪\n连模型训练都不需要了。。\n直接用大模型直接修改小模型的权重\n让其数学能力提升六倍",
+    "quoted_tweet": {
+      "author": "Rikiya Takehi",
+      "username": "rikiyatakehi",
+      "text": "We asked GPT-6 Astra to edit Qwen3.5-0.8B weights to improve math.\nIt directly changed only 0.016% of weights, fixing 0.8B's reasoning loops & improving math up to 6x and even instruction following 3x, without gradients or training.\n\nWe call this Weight-Space Programming: frontier LLMs can now natively read/write neural network weights! 🧵\nBlog: https://rikiyat.github.io/blog/weight-space-programming/"
+    },
+    "url": "https://x.com/oran_ge/status/2117398931932082403",
+    "time": "2026-11-03 07:30",
+    "created_at": "Mon Nov 02 23:30:19 +0000 2026",
+    "id_str": "2117398931932082403",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "把这几件事连起来看：\n\nA 社做研究证明 AI 会暗中影响专家的决策，但专家不会承认。\n高盛禁止交易员使用 Claude Code，但量化策略师除外，原因没说。\nWorkbuddy 的第一大用户场景是炒股。\n\n身边炒股的朋友，连选股都交给了 AI。\n身边的投资人朋友，他们做调研分析都是用 AI。\n在未来，会不会每一次交易都受到 AI 影响？\n\n我们都说不要把思考让渡给 AI\n我们都说人要保留做判断的能力\n\n但这真的能做到吗？\n这件事我们可以认真想想。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2117406916737659016",
+    "time": "Tue Nov 03 00:02:03 +0000 2026",
+    "created_at": "Tue Nov 03 00:02:03 +0000 2026",
+    "id_str": "2117406916737659016",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 我觉得这是没办法的事，我们要投资做判断，首先一步是要做数据的收集。在这一点上，AI 肯定比人脑强大无数倍。",
+    "quoted_tweet": null,
+    "url": "https://x.com/rockeymen/status/2117409019421958249",
+    "time": "Tue Nov 03 00:10:24 +0000 2026",
+    "created_at": "Tue Nov 03 00:10:24 +0000 2026",
+    "id_str": "2117409019421958249",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@rockeymen AI 在数据收集和数据分析都比人强\n好像也是合理的事情\n只是从全局视角看\n人类的金融体系已经被渗透了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2117410980112289828",
+    "time": "Tue Nov 03 00:18:11 +0000 2026",
+    "created_at": "Tue Nov 03 00:18:11 +0000 2026",
+    "id_str": "2117410980112289828",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Here's a world model similar to Genie 4 that's actually open-source and available to test right now...",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2117393282951225507",
+    "time": "2026-11-03 07:07",
+    "created_at": "Mon Nov 02 23:07:52 +0000 2026",
+    "id_str": "2117393282951225507",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "personal update:",
+    "quoted_tweet": null,
+    "url": "https://x.com/jxnlco/status/2117318705801736617",
+    "time": "2026-11-03 02:11",
+    "created_at": "Mon Nov 02 18:11:31 +0000 2026",
+    "id_str": "2117318705801736617",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@jxnlco Always been a fan",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2117364233210151160",
+    "time": "2026-11-03 05:12",
+    "created_at": "Mon Nov 02 21:12:26 +0000 2026",
+    "id_str": "2117364233210151160",
+    "is_retweet": false
   }
 ]
