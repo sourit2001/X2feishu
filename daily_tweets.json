@@ -375,5 +375,800 @@
     "created_at": "Wed Nov 04 12:54:14 +0000 2026",
     "id_str": "2117963632273416425",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "我操，这 B 站太猛了！\n\n我刚清的通知，过了 5 分钟点开，咋就这样了？",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118007476520132703",
+    "time": "2026-11-04 23:48",
+    "created_at": "Wed Nov 04 15:48:27 +0000 2026",
+    "id_str": "2118007476520132703",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "注意看时间\n这大概就是大手和我这样的普通人的眼界差距吧",
+    "quoted_tweet": {
+      "author": "Andrej Karpathy",
+      "username": "karpathy",
+      "text": "Gradient descent can write code better than you. I'm sorry."
+    },
+    "url": "https://x.com/Jackywine/status/2117879288301318195",
+    "time": "2026-11-04 15:19",
+    "created_at": "Wed Nov 04 07:19:05 +0000 2026",
+    "id_str": "2117879288301318195",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "上个月我还在抱怨 Rust 磁盘占用，每天都要清理。\n\n今天这已经不再是一个问题，我的电脑打满了 worktree，自动化 AI 开发。但我根本没遇到磁盘问题了，今天是第 5 天。\n\n由于不再删除 target，就不会全新编译，电脑也不卡了。\n\n放心搞 Rust，直接安装我这个 huacnlee/cargo。\n\n截图是我的 Omarchy 和 Mac，基本上每个项目能有效控制在 20G 左右。\n\nWe can fix everything!\n\nhttps://huacnlee.github.io/cargo/",
+    "quoted_tweet": {
+      "author": "Jason Lee",
+      "username": "huacnlee",
+      "text": "Rust 的编译速度和构建产物占用，已成为 AI 时代的严重瓶颈。\n\n多个 agents 并行、多 worktree，反复 build 和 check，再强的 CPU 也经常被打满，一个个几十 G 起步的 target 一点一点吃掉磁盘空间（并且今年 SSD 还那么贵）。\n\nAI 写代码越来越快，构建成本越来越显眼。\n\n如果有一门能有 Go 一样的编译速度，又有 Rust 那样无 GC、内存安全，以及深入底层做极致性能优化的能力，那将是最适合 AI 时代的编程语言。"
+    },
+    "url": "https://x.com/huacnlee/status/2117892529949667444",
+    "time": "2026-11-04 16:11",
+    "created_at": "Wed Nov 04 08:11:42 +0000 2026",
+    "id_str": "2117892529949667444",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "OpenAI 宣布收购 Pierre，给 Codex 补上“看代码、审代码”的工具\n\nOpenAI 宣布将收购开发者工具公司 Pierre Computer Company（下称 Pierre）。如果你在 Codex App 里浏览过项目文件、看过代码改动，你用的就是 Pierre 做的两个开源组件。收购金额官方没说。\n\n先补一点背景。Codex 是 OpenAI 的编程智能体，也就是能自己写代码、改代码的 AI 助手。程序员管理代码普遍用 Git，它会记下每一次改动，谁在什么时候改了哪一行都能查到。代码合进正式版本前，通常要有人审一遍：对着改动前后的差异逐行检查，有没有写错、有没有隐患。\n\nPierre 做的就是这一块。它的开源组件 Trees 用来在项目里快速翻找文件，Diffs 用来展示改了哪些地方，两者在代码量很大时也能保持流畅。Diffs 还有个编辑模式，审代码的人看到问题可以当场改那一行，不用切回编辑器。\n\nPierre 最近还发布了语法高亮工具 Highlights，AI 一边往外输出代码，高亮一边跟着更新。另外它有一项服务叫 Code Storage，让其他 App 能用 Git 的方式存代码、记录修改历史。\n\nOpenAI 为什么要买它？AI 写代码越来越快，还能同时开好几路任务，人要审的改动量跟着暴涨，看代码、审代码成了新的瓶颈。\n\nOpenAI 这周早些时候刚公开了内部自研的代码管理后台 Pando，供工程师和 AI 智能体一起使用。OpenAI 说，收购 Pierre 是想把从 AI 新建第一个分支（在代码副本上单独修改，改好再合并回去）到代码正式上线的整条流程，都放进 Codex 里完成。\n\n对现有用户的影响：Pierre 的开源项目会继续开源，OpenAI 表示会继续参与贡献。Code Storage 的客户在收购完成后可以接着用，OpenAI 会逐步把它的功能并入 Codex；这项服务之后会单独保留多久，官方没说。\n\n这笔交易还要等监管审批等常规条件，完成前两家仍是独立公司。",
+    "quoted_tweet": {
+      "author": "OpenAI Newsroom",
+      "username": "OpenAINewsroom",
+      "text": "Today we’re announcing that OpenAI will acquire @pierrecomputer to accelerate our vision for making Codex a place where teams can build software together with AI, from first idea to the version they ship.\n\nPierre’s open-source developer tools already power parts of Codex today. Together, we’ll build on that foundation for the agentic era.\n\nhttps://openai.com/index/openai-to-acquire-pierre/"
+    },
+    "url": "https://x.com/dotey/status/2118010240587239540",
+    "time": "2026-11-04 23:59",
+    "created_at": "Wed Nov 04 15:59:26 +0000 2026",
+    "id_str": "2118010240587239540",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "之前分析 Codex 代码就发现 Codex 用的是 Pierre 的开源组件\n\nhttps://x.com/dotey/status/2051864435858276833?a=va918phogLGX0Gl47Qo&s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Codex App 漂亮的 TreeView 和 Diff View 来自第三方库：\nhttps://github.com/pierrecomputer/pierre\n\n作者：@amadeus"
+    },
+    "url": "https://x.com/dotey/status/2118011083797807403",
+    "time": "2026-11-05 00:02",
+    "created_at": "Wed Nov 04 16:02:47 +0000 2026",
+    "id_str": "2118011083797807403",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google DeepMind 招人，构建 AI Studio 和 Gemini API",
+    "quoted_tweet": {
+      "author": "Evan Otero",
+      "username": "EvanOtero",
+      "text": "We’re hiring exceptional engineers to join us in Google DeepMind building Google AI Studio and the Gemini API.\n\nIf you care deeply about developer experience, pushing the frontier, and shipping fast --> my DMs are open. Know someone great? Tag them below."
+    },
+    "url": "https://x.com/dotey/status/2118013295340945643",
+    "time": "2026-11-05 00:11",
+    "created_at": "Wed Nov 04 16:11:35 +0000 2026",
+    "id_str": "2118013295340945643",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "开源的文档编辑器，兼容飞书，整个界面由 Rust 和 GPUI 直接用 GPU 绘制，性能很好。",
+    "quoted_tweet": {
+      "author": "sida",
+      "username": "s1dashu",
+      "text": "quiet.md is now open source!\n\nA fast, local-first rich text editor compatible with Feishu (Lark) docs. Beta for macOS and Windows.\n\n- Native speed: Rust + GPUI, no WebView. Typing in a 1,000,000-character doc takes ~5ms per frame.\n- Local files: no account, and it stays offline by default. Notes are plain XML files that agents like Claude Code can read and edit.\n- Feishu-compatible: most blocks and interactions, minus the cloud features.\n\nhttps://quiet.md\nhttps://github.com/s1dashu/quiet-md"
+    },
+    "url": "https://x.com/dotey/status/2118035176081015047",
+    "time": "2026-11-05 01:38",
+    "created_at": "Wed Nov 04 17:38:31 +0000 2026",
+    "id_str": "2118035176081015047",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这道理不只是适用于出版图书，很多领域都适用呀：\n\n未来会有三种书，\n\n第一种，是用2H铅笔写在纸上的书，以便证明没用AI，只有那些买了也不会读的超级富豪会买。（很多人会死守这个立场。） \n\n第二种，作者用AI创作、读者仍然想读的书。（传统出版会走这条路。） \n\n第三种，读者告诉AI自己想读什么书，AI就生成给他们。（这才是Amazon正在走的方向。）",
+    "quoted_tweet": {
+      "author": "阑夕",
+      "username": "foxshuo",
+      "text": "就很离谱，一个南非女作家Coral Hart在一年半的时间里用AI出版了371本书，总体算下来赚了差不多100万美金。\n\n在拿AI写书之前，她就是一个专门创作言情水文的高产作家，平均每个月能出版1本书，不是那种能登上畅销榜的品质，主要靠量赚钱。\n\n去年，出版社和她解约了，因为觉得反正都是水文，不如用AI代替这种水平的作家，Coral Hart倒是很快接受了现实，既然打不过，那就加入吧，她也开始工业化的训练AI写书，通过亚马逊的自出版和订阅模式，实现了比过去更高的收入。\n\n从结果来看，这很像是一个因为AI而失业的人使用AI「报复社会」的逆转剧情，不就是往互联网上堆屎吗，谁怕谁啊，我不但能堆，还能赚得盆满钵满，气不气？\n\n根据Coral Hart的说法，今年开始模型进步巨大，去年需要一段段的生成文本，而且需要花大力气雕琢提示词，但现在基本上已经可以一次性生成整本书的初稿了，「语法、结构、情感都有了飞跃提升」。\n\n她说，如果你只会给模型下任务「给我写本xx主题的书」，那么得到的也一定是垃圾，作家在这个流程里必须介入确定故事改编、写作风格、人物细节和章节大纲，「ChatGPT擅长对话，但散文能力很差，Claude善于设计故事骨架，却完全不知道怎么写肉戏，Gork经常不遵循指令，不过很懂怎么表达情欲」。\n\n我看看了这老姐在Reddit的AMA（问答马拉松），部分内容还算坦诚，我贴过来你们看看吧：\n\n问：\n怎么去AI化？你那个产量太夸张了，靠自己来改写根本不可能吧。还有，你是把写作当成生意，还是一门手艺？\n\n答：\nAI会偏离方向、胡编乱造，所以我会用一套流程，用AI去监管AI，用得最多的模型是Opus系列。\n读者买的是感受，而不只是书，我根据市场需求写好书。从「会出书的作家」转变成「会写作的出版人」，这种思维变化很重要，因为它让我能够作出明智的商业选择，同时不牺牲创作思维。\n\n问：\n你为自己的书感到自豪吗？你自己会欣赏或者购买它们吗？\n\n答：\n在开始生成正文以前，我会做很多工作：文风规范、写作技法手册、设定资料库、人物设定表、世界构建、情节节拍表、节奏图，最后才是大纲。\n在AI出现之前我就写得很快——不用AI，我一天也能写1万字，因此我的工作流程本来就很快。AI只是让我能更快，没有降低质量。\n我是个讲故事的人，脑子里总会冒出另一个人物、世界或反派。现在我终于能跟上自己的想法，让它们都有机会被写出来。\n以前没有AI时，只有商业上可行的书才会被写出来，因为没有时间浪费在那些「只是好玩」的作品上……\n\n问：\n细说一下你的百万级收入构成吧？\n\n答：\n每写完一本书后，先做小规模邮件推送，只有那些每天能卖出100美金的书，才会追投引流广告。\n广告卖不动烂书，所以我会先测试这些书，之后再加入 BookBub广告，只有数据表现最好的，才投AMS和Facebook广告。\n清水文，80%的收入来自直接付费，20%来自订阅付费，肉文，43的收入来自直接付费，57%来自订阅付费。\n整体而言，63%的收入是由9大语种版本贡献的，美国是最大的市场，其次是英国、澳大利亚、加拿大和法国。\n对我来说，成功的书每天都会有销量，失败的书要么表现平平，要么始终没能与读者建立联系。\n而我从失败中学到的是：哪里误判了市场，哪里没有听见读者的需要，我把每次表现不佳都视为学习或修好那本书的机会。\n\n问：\n谢谢你的回答，这确实让我更理解你的模式了，你已经建立了自己的读者群，并不依赖Amazon，令人羡慕。\n\n答：\n如果你依靠广告或社交平台，你其实是在租用那个读者——没办法直接互动，没办法把他们带回来、吸引他们继续购买。\n租用永远是一项成本，我的邮件名单归我自己所有，是一项资产，具有实实在在的价值。\n\n问：\n我有一个朋友，是一个曾经反对AI的作家，但他现在也改变主意了，想要学会用AI写作，你觉得他能追上你吗？这样的人会为自己以前的坚持付出怎样的代价？\n\n答：\n你说的这个朋友是不是……\n我觉得学习的机会窗口正在迅速关闭……即使你反对AI，也应该学会怎么使用它，这样才能具备相应的能力。\n我觉得反AI的作者会付出沉重代价吗？我觉得他们会在这个立场上死磕到底，除非他们有计划，而且已经理解AI如何运作、变化又有多快。\n我认为，现在对任何作者的职业生涯来说，最危险的事情就是害怕学习。你可以先学，再决定怎样运用这些知识……不能等海啸已经发生了才去报游泳课。\n\n问：\n那些「真正」的作家、不用AI也能写进畅销榜的作家，他们以后会屈从于AI吗？\n\n答：\n请站在出版商的立场，用商业头脑来问这个问题——如果我可以利用手头的市场数据，不断制造畅销书，又不用支付六位数的预付款或版税，怎样选择才是聪明的商业决策？如果我可以买一个工具，再用以前价格的10%买下你的创意，你真觉得他们不会这么做吗？\nAI会影响每一位作者。认识到我们提供的实际上是创意、扮演的是创意总监，而现在出售的东西就是创意，这将是大多数人最难完成的思维转变。\n我认识的畅销书作家都在学AI了，只不过他们一时半会不会告诉你们罢了。\n\n问：\n如果Amazon以后决定清除用AI出版的书了，怎么办？\n\n答：\n未来会有三种书，第一种，是用2H铅笔写在纸上的书，以便证明没用AI，只有那些买了也不会读的超级富豪会买。（很多人会死守这个立场。）\n第二种，作者用AI创作、读者仍然想读的书。（传统出版会走这条路。）\n第三种，读者告诉AI自己想读什么书，AI就生成给他们。（这才是Amazon正在走的方向。）\n\n问：\n所以对于一个作家而言，自己实际上是在用AI写书这件事情，是必须承认还是可以隐瞒的？\n\n答：\n我公开了自己使用AI这件事……结果我被开盒，收到死亡威胁（数以千计），有人叫我去死，他们还跑到我孩子的社交媒体上骚扰他们，给我的书集中刷差评。\n如果你能承受这种仇恨，那就公开你用了AI。\n如果你的心理状态应付不了这种程度的暴力，那就别公开。\n有人在YouTube上发了一个小时的视频骂我，但她之前给我的6本AI小说打过5星好评，如果你需要一个「AI」标签才会讨厌一个故事，那你讨厌的究竟是故事，还是AI？\n\n问：\n你怎么看那些批评AI本质上是一个窃贼、而且是在源源不断的制造垃圾的声音？\n\n答：\n嗯——你不能一边哭喊AI偷了你的作品，一边又骂它生成的是垃圾，还指望自己看起来不蠢。（如果生成的是垃圾，那它就是从你那里学来的垃圾，那么……嗯。）\n不过，我还遵循这样的原则：\n有没有被影响，得由你自己接下才成立。我不能把它强加给你，你也不能把它强加给我——我选择不接。\n我的态度就是「我才他妈不在乎」，黑子总会继续黑……随他们去。"
+    },
+    "url": "https://x.com/dotey/status/2118040410706911267",
+    "time": "2026-11-05 01:59",
+    "created_at": "Wed Nov 04 17:59:19 +0000 2026",
+    "id_str": "2118040410706911267",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Cicada 是一款开源的、完全原生的 macOS 实时语音翻译与 AI 会议助手。 \n\n它可以在 Zoom、腾讯会议、飞书、YouTube 等应用中提供实时双语字幕、AI 会议纪要，还能把你说的话翻译成另一种语言，通过虚拟麦克风直接传给会议软件。\n\nhttps://github.com/wquguru/cicada",
+    "quoted_tweet": {
+      "author": "WquGuru",
+      "username": "wquguru",
+      "text": "🎉 所有用 Mac 的朋友，用上这个开源会议纪要和同声传译软件，还能白嫖支付宝家每月50小时的额度！\n\n知了 / Cicada，已经按 Apache-2.0 协议免费开源，改了自用、拿去商用或闭源再发布都行。\n\n几大功能：\n- 实时字幕翻译，不管跨国会议、直播还是视频，都能自动翻译\n\n- 飞书级别的会议纪要，每 45 秒更新，有总结、议题和鱼骨图，每条结论和待办都标着原话出处和时间\n\n- 同声传译，克隆音色，语音直接转成另一种语言，直播室聊天无障碍\n\n- 说话人识别，目前在实验阶段，需要在设置中打开\n\n其中实时纪要用 Ling 模型，同声传译用 Ming-3.0 模型。配置只需三步：\n\n1. 去 Ling 开放平台注册登录（免费额度可支撑50小时/月，链接在评论区）\n2. 在 API 控制台创建一个API Key\n3. 打开知了，粘贴到“设置 › AI 服务”\n\n有问题欢迎在评论区或 GitHub 提，我会持续更新，Windows、Linux、Android也将推出！\n\n开源地址 https://github.com/wquguru/cicada\n官网 https://cicada.indaloop.app"
+    },
+    "url": "https://x.com/dotey/status/2118052017755005210",
+    "time": "2026-11-05 02:45",
+    "created_at": "Wed Nov 04 18:45:27 +0000 2026",
+    "id_str": "2118052017755005210",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 在五国推出自愿离职补偿，最多给 12 个月工资\n\nGoogle 正在出钱请部分员工主动离职。路透社 11 月 4 日独家报道，Google 从今年 6 月起，向加拿大、法国、德国、日本和瑞士的部分员工提供“自愿离职补偿”，负责 AI 研究的 DeepMind 部门不在其中。\n\n这种做法和裁员不同。裁员是公司决定让谁走；自愿离职计划是公司先开出补偿条件，员工自己决定要不要申请，申请通过后拿一笔补偿金离开。\n\nGoogle 向路透社确认了这件事。Google 发言人说，2025 年公司部分团队推出了带补偿金的自愿离职计划，今年 6 月又把它扩展到“几个国家”，目的是“支持接下来的重要工作”。这一轮之前没有被报道过，路透社没能查到有多少人接受。\n\n【补偿给多少】\n\n瑞士的情况最具体。Google 在瑞士有大约 5000 名员工，苏黎世是它的一个主要工程中心。据三名知情人士说，Google 在 6 月中旬公布方案，7 月中旬前答复了申请的员工，8 月开始有人离开。\n\n接受的员工每工作一年拿一个月工资，最多 12 个月。也就是说，工作满 5 年拿 5 个月工资，工作满 15 年也只拿 12 个月。\n\n其中一名知情人士说，在一个约 50 人的团队里，至少有 4 人接受了。瑞士这一轮覆盖多个部门，但不包括 DeepMind。\n\n【哪些人不在名单里】\n\nGoogle Cloud 和 DeepMind 的员工，过去几轮都没有被纳入。路透社说，这次扩展看起来也是同样的安排。Google 的母公司叫 Alphabet，它的首席财务官 Anat Ashkenazi 在季度财报会上多次说，AI 和云计算是招聘重点。\n\n【计划的来历】\n\n这个计划不是今年才有。去年起，Google 已经在美国和英国的部分部门推行过。公司高管把它说成是给“不再认同公司节奏或方向”的员工的一个选择。路透社说，至少有一个部门在自愿离职之后又进行了裁员。\n\n路透社把这件事放在 AI 投入的背景下报道：Alphabet 在 AI 上花的钱越来越多，让华尔街投资者不安，也压低了它的股价，Google 想借此控制成本。Alphabet 的员工总数近几个季度在稳定增长，同时公司在把人力往重点领域调。上周，微软也向 6 万名员工提供了自愿离职补偿，目的同样是控制成本。\n\nGoogle 在瑞士有过裁员先例：2023 年它在瑞士裁掉 200 多人，引发员工抗议和集体离岗。\n\n来源：https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118064749011194009",
+    "time": "2026-11-05 03:36",
+    "created_at": "Wed Nov 04 19:36:02 +0000 2026",
+    "id_str": "2118064749011194009",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Jackywine 当时我还看不起他说的 Vibe Coding，现在整天“真香”",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118067247789040118",
+    "time": "2026-11-05 03:45",
+    "created_at": "Wed Nov 04 19:45:58 +0000 2026",
+    "id_str": "2118067247789040118",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "We decoupled memory from the model.\n\nLiving Brain is one persistent brain for ChatGPT, Claude, Cursor, Codex and your own agents. Write in one, retrieve in any.\n\n92.2% on LoCoMo. 464ms median retrieval. Up to 22.6x fewer tokens per question.\n\nLLMs have parameters. Living Brain has plasticity.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ladyxtel/status/2117980022250316282",
+    "time": "2026-11-04 21:59",
+    "created_at": "Wed Nov 04 13:59:22 +0000 2026",
+    "id_str": "2117980022250316282",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Will is one of the most talented people I’ve ever met.\n\nif you're a founder who wants to tell your story, there's no better guy to work with.",
+    "quoted_tweet": {
+      "author": "Will Phillips",
+      "username": "willsclips_",
+      "text": "To celebrate, I’ve just dropped the biggest INSIDE episode we’ve done yet, this time in New York!\n\nIn this episode we go inside @runwayml's robotics work, @dragonfly’s $4B fund and @hanoverpark’s push to rebuild fund administration. Plus a visit to @Polymarket and conversations with @thesamparr, @mytechceoo, @damianplayer and @wallstreetpaper.\n\n@matamalaortiz @AndyChenML @HarlemCapital @HadickM @hosseeb @tomhschmidt @HereComesKumar @chrishlad @AnnicaBenning @whop @cultured @czoob3"
+    },
+    "url": "https://x.com/damianplayer/status/2117994592297717823",
+    "time": "2026-11-04 22:57",
+    "created_at": "Wed Nov 04 14:57:15 +0000 2026",
+    "id_str": "2117994592297717823",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@typesafeai's launch post passed 40 million views. @damianplayer and his team at Doomers ran the launch.\n\nHis point - it isn't 'post a video and hope'. You line up the right founders and builders to amplify, the hook, the story, the video. And views are worthless if they don't convert.\n\nBy his numbers, it drove 150,000 waitlist signups in the first 24 hours.\n\nDoomers plans and runs startup launches for some of the biggest tech startups!",
+    "quoted_tweet": {
+      "author": "Will Phillips",
+      "username": "willsclips_",
+      "text": "Today, @Whop becomes the presenting partner of INSIDE Startups.\n\n@czoob3 @cultured"
+    },
+    "url": "https://x.com/willsclips_/status/2118014725435085121",
+    "time": "2026-11-05 00:17",
+    "created_at": "Wed Nov 04 16:17:16 +0000 2026",
+    "id_str": "2118014725435085121",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@typesafeai's launch post passed 40 million views. @damianplayer and his team at Doomers ran the launch.\n\nHis point - it isn't 'post a video and hope'. You line up the right founders and builders to amplify, the hook, the story, the video. And views are worthless if they don't convert.\n\nBy his numbers, it drove 150,000 waitlist signups in the first 24 hours.\n\nDoomers plans and runs startup launches for some of the biggest tech startups!",
+    "quoted_tweet": {
+      "author": "Will Phillips",
+      "username": "willsclips_",
+      "text": "Today, @Whop becomes the presenting partner of INSIDE Startups.\n\n@czoob3 @cultured"
+    },
+    "url": "https://x.com/willsclips_/status/2118014725435085121",
+    "time": "2026-11-05 00:17",
+    "created_at": "Wed Nov 04 16:17:16 +0000 2026",
+    "id_str": "2118014725435085121",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@damianplayer Goat",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118016145211142374",
+    "time": "2026-11-05 00:22",
+    "created_at": "Wed Nov 04 16:22:54 +0000 2026",
+    "id_str": "2118016145211142374",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@willsclips_ @typesafeai @damianplayer Damian is 1 of 1",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118016226681303545",
+    "time": "2026-11-05 00:23",
+    "created_at": "Wed Nov 04 16:23:13 +0000 2026",
+    "id_str": "2118016226681303545",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "After Google acquired my AR startup, I started thinking about the next interface, this time for AI. Text and voice work fine, just like DOS did before the Mac. But nothing’s more intuitive than face to face.\n\nAfter two years of research, today we’re launching Atmee v2: a real-time avatar model that makes live video agents feel truly life-like.\n\n• Any character from 1 image + 10s of audio\n• Contextual expressions, gestures, even interacting with the environment\n• Live video calls, voice only, or video generation\n\nAt its core, Atmee v2 is a video foundation model, it can render anything, but it’s built to excel at characters, which is what video models like Seedance 2.5 and Wan 3.0 are mostly used for. In comparison:\nAtmee v2\n\n• Up to 50x faster\n• 10-100x cheaper\n\nBuild tutors, sales coaches, support agents, companions, game characters, even whole living worlds. The interface after text and voice starts today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/yuchenping/status/2118017931519078609",
+    "time": "2026-11-05 00:30",
+    "created_at": "Wed Nov 04 16:30:00 +0000 2026",
+    "id_str": "2118017931519078609",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "the biggest launch of 2026.",
+    "quoted_tweet": {
+      "author": "Will Phillips",
+      "username": "willsclips_",
+      "text": "@typesafeai's launch post passed 40 million views. @damianplayer and his team at Doomers ran the launch.\n\nHis point - it isn't 'post a video and hope'. You line up the right founders and builders to amplify, the hook, the story, the video. And views are worthless if they don't convert.\n\nBy his numbers, it drove 150,000 waitlist signups in the first 24 hours.\n\nDoomers plans and runs startup launches for some of the biggest tech startups!"
+    },
+    "url": "https://x.com/damianplayer/status/2118040456109973997",
+    "time": "2026-11-05 01:59",
+    "created_at": "Wed Nov 04 17:59:30 +0000 2026",
+    "id_str": "2118040456109973997",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@damianplayer Insane",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118051899463369033",
+    "time": "2026-11-05 02:44",
+    "created_at": "Wed Nov 04 18:44:58 +0000 2026",
+    "id_str": "2118051899463369033",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Top-quartile venture beat top-quartile buyout through the internet buildout and again through mobile and cloud, and a16z's Jen Kha argues we're at the start of the next wave.\n\nTech buyouts have long been the \"safe\" bet in private markets. Now the stress is showing:\n\n- In the first half of 2026, venture funds marked their tech holdings up 16%, while buyout funds marked theirs down 4%\n\n- 70% of the debt foreclosed in 2025 and 2026 came from deals done in 2021 or 2022\n\n- A typical buyout now needs 10 to 12% EBITDA growth a year to make 2.5x in five years, up from about 5% in 2015\n\n- Top 5% venture funds from 2007-16 returned 5.3x their capital in cash, versus 3.5x for top 5% buyout funds\n\n\"Tech buyout is a late-cycle asset class. It's most effective once a technology wave has settled and when business models are predictable enough to borrow against. When a new technology wave drops, all bets are off. By contrast, that's when venture shines.\"\n\nFull piece from a16z's Jen Kha: https://www.a16z.news/p/is-private-equity-cooked\n\nNot an offer or solicitation. None of the above should be taken as investment advice or an advertisement for investment services. Please see http://a16z.com/disclosures for more information.",
+    "quoted_tweet": {
+      "author": "Jen Kha",
+      "username": "jkhamehl",
+      "text": "https://x.com/i/article/2117995817655238656"
+    },
+    "url": "https://x.com/a16z/status/2118010680054034879",
+    "time": "2026-11-05 00:01",
+    "created_at": "Wed Nov 04 16:01:11 +0000 2026",
+    "id_str": "2118010680054034879",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "David Pawlan, creator of Assistant Benchmark, has tracked 147 AI assistants so far, and in his group chats of AI power users, the number one fear is trust. It comes up in 22% of roughly 3,600 messages.\n\nHe puts agents through head-to-head tests, like ordering same-day flowers as cheaply as possible or planning a weekend in LA that's both luxurious and cost-efficient, to see which ones can hold competing preferences.\n\nHe joins a16z's Anish Acharya and Josh Elman to discuss why the scariest agent failures are the embarrassing ones, why agents are where e-commerce was in 1997, why scale is still a moat, and the \"dark agent\" that could speak to the parts of ourselves we don't reveal.\n\n0:52 Inside a meetup for 100 agent nerds\n2:52 Why we'll all have an army of agents\n5:36 Trust is power users' top fear\n6:28 Building fences around your agent\n10:14 Privacy loses to free pizza\n12:41 Can agents balance price and speed?\n14:19 How agents define luxury differently\n19:44 Migrating from one agent to another\n21:06 What your photo roll tells an agent\n25:48 Will agents make us more rational?\n27:38 Why paternalism kills products\n31:43 Gossipy agents as social glue\n33:41 Scale is still a software moat\n36:55 From OpenClaw to agents hanging out\n39:23 Agents that introduce you to people\n46:15 Predictions and the dark agent idea\n\nYouTube: https://youtu.be/dSiTwPl0t1U\n\n@DavidPawlan @illscience @joshelman",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2118018019498529177",
+    "time": "2026-11-05 00:30",
+    "created_at": "Wed Nov 04 16:30:21 +0000 2026",
+    "id_str": "2118018019498529177",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We’re thrilled to invest in Phaze.\n\n@Phaze_in is a high-performance remote desktop solution for giving humans and agents a local-like experience on remote workstations. It’s the best solution for interactive, latency-sensitive workloads, and it was designed from the ground up for working with agents, which makes compatibility, management and administration seamless.\n\nIt’s not a surprise Phaze is as good as it is given the team behind it. @boxerbk and Chris Dickson, the founders of Phaze, previously built Parsec, which at the time was the leading remote desktop solution for graphics-intensive applications.\n\nWe’re very excited to be working with this team again to bring desktops and applications to agents. And of course to humans too.\n\nBy @martin_casado",
+    "quoted_tweet": {
+      "author": "Benjy Boxer",
+      "username": "boxerbk",
+      "text": "Today we’re announcing an $8.75M seed round for Phaze.\n\nCompanies aren’t ready for how many computers people and AI agents are about to need. And it’s happening just as computer prices are up 3x.\n\nChris and I spent years building Parsec to make a computer thousands of miles away feel like it’s sitting right in front of you. We sold that company, and we’re starting over because people aren’t the only users of computers anymore.\n\nNow, agents need access to real computers to run applications, test software, and get work done. They need to work alongside people, hand off control when necessary, and operate within the security policies companies already have in place. And companies need to start managing computers like infrastructure.\n\nThat’s why we’re building @Phaze_in: secure, high-performance access to computers, wherever those machines happen to be.\n\nAn engineer can connect to a CAD workstation from any device and forget about being physically stuck at that workstation. A video editor can ask an AI agent to connect to a render machine to monitor and fix broken renders. An IT support person can fix multiple machines at the same time with an AI agent connecting to employees’ computers. If the agent needs help, it can hand control back to the technician in the same session.\n\nWe loved working with the firms who backed Parsec, so we’re running it back. Our Seed round is led by @martin_casado at @a16z, with @bryce at @indievc, @davidbeisel at @NextViewVC, @BenjLerer at @LererHippeau, and @Ryann_Lai at @makersfundvc."
+    },
+    "url": "https://x.com/a16z/status/2118026670221521194",
+    "time": "2026-11-05 01:04",
+    "created_at": "Wed Nov 04 17:04:43 +0000 2026",
+    "id_str": "2118026670221521194",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The higher up you go, the more venture pulls ahead of buyout\n\nAmong the top 5% of US funds from 2007-16 vintages:\n- Venture funds hit 8.5x TVPI, with 5.3x returned in cash\n- Buyout funds hit 3.8x TVPI, with 3.5x returned in cash\n\n\"In venture, winning tends to beget winning: the best firms typically get the next call from the best founders.\"\n\nFull piece from a16z's Jen Kha: https://www.a16z.news/p/is-private-equity-cooked\n\nNot an offer or solicitation. None of the above should be taken as investment advice or an advertisement for investment services. Please see http://a16z.com/disclosures for more information.",
+    "quoted_tweet": {
+      "author": "Jen Kha",
+      "username": "jkhamehl",
+      "text": "https://x.com/i/article/2117995817655238656"
+    },
+    "url": "https://x.com/a16z/status/2118036811666849822",
+    "time": "2026-11-05 01:45",
+    "created_at": "Wed Nov 04 17:45:01 +0000 2026",
+    "id_str": "2118036811666849822",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Plaintiff lawyers only get paid if they win, so every legal firm hits a limit on how many cases it can take, and every case it turns down leaves someone without a lawyer.\n\nEve builds AI that handles the time-intensive casework, like reviewing medical records, drafting key documents, and opening insurance claims, cutting work that took days to under an hour. One firm went from about 100 clients per attorney to 500.\n\nThat gives small firms a real shot against insurers with far more resources.\n\nCo-founder and CEO Jay Madheswaran: \"Think about giving David a slingshot to take down Goliath. That's what we're doing.\"\n\nThree years in, 1,700+ of the roughly 29,000 plaintiff firms in the US use Eve. It's been used in 350,000+ cases and helped recover $3.5 billion for clients.\n\nEve is hiring across engineering, machine learning, sales, and customer success in SF, the Bay Area, and remotely across the US: https://a16zjobs.substack.com/p/with-164m-in-funding-eve-is-building\n\n@jayanthmadhesw1 @evelegalai",
+    "quoted_tweet": {
+      "author": "Jayanth Madheswaran",
+      "username": "jayanthmadhesw1",
+      "text": "Huge milestone: Eve has helped 350,000 people take on a system built to wear them down.\n\nTake Mike Dickerson. A four-car pileup, two hip surgeries, then an insurer betting he’d take a lowball offer.\n\nHe didn’t. His lawyers @GeigerGroup fought for years and, with Eve’s help, got him 15x the first offer.\n\nFirms on Eve have recovered $3.5B+ for their clients, and we’re just getting started.\n\nNext milestone: 1 million people helped."
+    },
+    "url": "https://x.com/a16z/status/2118048262825665018",
+    "time": "2026-11-05 02:30",
+    "created_at": "Wed Nov 04 18:30:31 +0000 2026",
+    "id_str": "2118048262825665018",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "PE's appetite for tech peaked just as the AI wave arrived\n\nTech's share of global buyout deal value:\n- 23% in 2018\n- 34% in 2023, the year after ChatGPT launched\n- 29% in 2025\n- 11% in the first quarter of 2026\n\n\"SaaS, of course, was also the manna from heaven for private equity: capital-light, consistent recurring revenue that was easy to lend against, lots of small markets with clear leaders, and a small but critical line in the customer's budget, so prices could go up.\"\n\n\"It is safe to say that the 2010s aren't coming back anytime soon: a supply of fixer-uppers, a decade of falling rates, and fast-growing funds that kept buying from each other at higher prices. A few rate cuts help the debt; they don't re-create that decade.\"\n\nFull piece from a16z's Jen Kha: https://www.a16z.news/p/is-private-equity-cooked\n\nNot an offer or solicitation. None of the above should be taken as investment advice or an advertisement for investment services. Please see http://a16z.com/disclosures for more information.",
+    "quoted_tweet": {
+      "author": "Jen Kha",
+      "username": "jkhamehl",
+      "text": "https://x.com/i/article/2117995817655238656"
+    },
+    "url": "https://x.com/a16z/status/2118067011943329903",
+    "time": "2026-11-05 03:45",
+    "created_at": "Wed Nov 04 19:45:02 +0000 2026",
+    "id_str": "2118067011943329903",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "PE-backed software now grows slower than public software, while venture-backed companies grow several times faster\n\nMedian revenue growth (latest available):\n- PE-backed software grows 3 to 7%\n- Public software grows 10 to 16%\n- Venture-backed private software grows 18 to 30%\n\n\"Because the best companies are staying private longer than ever, more of that growth is happening before they ever hit the public markets.\"\n\nFull piece from a16z's Jen Kha: https://www.a16z.news/p/is-private-equity-cooked\n\nNot an offer or solicitation. None of the above should be taken as investment advice or an advertisement for investment services. Please see http://a16z.com/disclosures for more information.",
+    "quoted_tweet": {
+      "author": "Jen Kha",
+      "username": "jkhamehl",
+      "text": "https://x.com/i/article/2117995817655238656"
+    },
+    "url": "https://x.com/a16z/status/2118078342746476919",
+    "time": "2026-11-05 04:30",
+    "created_at": "Wed Nov 04 20:30:03 +0000 2026",
+    "id_str": "2118078342746476919",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Anish Acharya and David Pawlan, creator of Assistant Benchmark, on the gap between people's stated and revealed preferences on privacy, and what that means for AI agent adoption:\n\n\"I think in revealed preferences, consumers will share any amount of data for even the most trivial amount of upside.\"\n\n\"People have been connecting their cards, their credit cards, and their bank accounts via Plaid since the Venmo era. But when you ask them, they're like, 'Oh, yes, I'm very concerned about trust and safety.'\"\n\n\"I think an example though of where consumers are very concerned about sort of trust and assumptions is around being embarrassed and social signaling... The social mechanics actually feel so much higher stakes than the actual, like, real-world implications.\"\n\n\"[One company] offered a million dollars worth of pizza to anyone that wanted to use their product... In order to get that $30 of pizza, you were granting access to your entire Google Workspace, all of your emails, all of your data for 30 bucks.\"\n\n\"It just proves it right there, that people are willing to just give up all that data for some free pizza.\"\n\n@illscience @DavidPawlan",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "David Pawlan, creator of Assistant Benchmark, has tracked 147 AI assistants so far, and in his group chats of AI power users, the number one fear is trust. It comes up in 22% of roughly 3,600 messages.\n\nHe puts agents through head-to-head tests, like ordering same-day flowers as cheaply as possible or planning a weekend in LA that's both luxurious and cost-efficient, to see which ones can hold competing preferences.\n\nHe joins a16z's Anish Acharya and Josh Elman to discuss why the scariest agent failures are the embarrassing ones, why agents are where e-commerce was in 1997, why scale is still a moat, and the \"dark agent\" that could speak to the parts of ourselves we don't reveal.\n\n0:52 Inside a meetup for 100 agent nerds\n2:52 Why we'll all have an army of agents\n5:36 Trust is power users' top fear\n6:28 Building fences around your agent\n10:14 Privacy loses to free pizza\n12:41 Can agents balance price and speed?\n14:19 How agents define luxury differently\n19:44 Migrating from one agent to another\n21:06 What your photo roll tells an agent\n25:48 Will agents make us more rational?\n27:38 Why paternalism kills products\n31:43 Gossipy agents as social glue\n33:41 Scale is still a software moat\n36:55 From OpenClaw to agents hanging out\n39:23 Agents that introduce you to people\n46:15 Predictions and the dark agent idea\n\nYouTube: https://youtu.be/dSiTwPl0t1U\n\n@DavidPawlan @illscience @joshelman"
+    },
+    "url": "https://x.com/a16z/status/2118093537619349550",
+    "time": "2026-11-05 05:30",
+    "created_at": "Wed Nov 04 21:30:26 +0000 2026",
+    "id_str": "2118093537619349550",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I started one week ago a new animation project. Today 111k+ views of my Babushka (=Grandma). Yesterday I had my first break through with a reel that’s still gaining views and engagement (close to 50k). \n\nMy advice: experiment with different platforms and formats. And be YOU!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118016085840515419",
+    "time": "2026-11-05 00:22",
+    "created_at": "Wed Nov 04 16:22:40 +0000 2026",
+    "id_str": "2118016085840515419",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 111K views in a week from 7 posts is wild. A new episode every day is a big promise. How far ahead are you?",
+    "quoted_tweet": null,
+    "url": "https://x.com/jakekimkim21/status/2118017727072022565",
+    "time": "2026-11-05 00:29",
+    "created_at": "Wed Nov 04 16:29:11 +0000 2026",
+    "id_str": "2118017727072022565",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jakekimkim21 I have 5 episodes already filmed and about 30 episodes ideas in the works!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118018919017439418",
+    "time": "2026-11-05 00:33",
+    "created_at": "Wed Nov 04 16:33:55 +0000 2026",
+    "id_str": "2118018919017439418",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 30 ideas already! Babushka is going to be busy. Which one are you most excited about?",
+    "quoted_tweet": null,
+    "url": "https://x.com/jakekimkim21/status/2118021641691345186",
+    "time": "2026-11-05 00:44",
+    "created_at": "Wed Nov 04 16:44:44 +0000 2026",
+    "id_str": "2118021641691345186",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jakekimkim21 You’ll see",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118022536751624424",
+    "time": "2026-11-05 00:48",
+    "created_at": "Wed Nov 04 16:48:18 +0000 2026",
+    "id_str": "2118022536751624424",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hey, Congratulations kris!! It reminds me of old kissan ads: https://vimeo.com/400588248",
+    "quoted_tweet": null,
+    "url": "https://x.com/mjayai/status/2118023963733528641",
+    "time": "2026-11-05 00:53",
+    "created_at": "Wed Nov 04 16:53:58 +0000 2026",
+    "id_str": "2118023963733528641",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Amazing✨",
+    "quoted_tweet": null,
+    "url": "https://x.com/carolletta/status/2118024489464373747",
+    "time": "2026-11-05 00:56",
+    "created_at": "Wed Nov 04 16:56:03 +0000 2026",
+    "id_str": "2118024489464373747",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mjayai That is a really cute ad!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118024595404194258",
+    "time": "2026-11-05 00:56",
+    "created_at": "Wed Nov 04 16:56:29 +0000 2026",
+    "id_str": "2118024595404194258",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife nice, make sure to also post on facebook, it is way easier to reach audience there, good luck Kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/DrSadek_/status/2118024834516910148",
+    "time": "2026-11-05 00:57",
+    "created_at": "Wed Nov 04 16:57:26 +0000 2026",
+    "id_str": "2118024834516910148",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DrSadek_ Yes, I post there automatically. FB page is growing as well but much slower than Instagram! That particular reel performed good on FB as well. I also post on YT!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118025997903884527",
+    "time": "2026-11-05 01:02",
+    "created_at": "Wed Nov 04 17:02:03 +0000 2026",
+    "id_str": "2118025997903884527",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@carolletta Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118026523408290235",
+    "time": "2026-11-05 01:04",
+    "created_at": "Wed Nov 04 17:04:08 +0000 2026",
+    "id_str": "2118026523408290235",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@koltregaskes Happy birthday to you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118027517604876568",
+    "time": "2026-11-05 01:08",
+    "created_at": "Wed Nov 04 17:08:05 +0000 2026",
+    "id_str": "2118027517604876568",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "X needs more photography \n\nPost photos that YOU took \n\nI took this one this morning. Last moments of New York’s autumn 🍂",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118028411872608442",
+    "time": "2026-11-05 01:11",
+    "created_at": "Wed Nov 04 17:11:39 +0000 2026",
+    "id_str": "2118028411872608442",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/MichaelgDiamond/status/2118029368408850799",
+    "time": "2026-11-05 01:15",
+    "created_at": "Wed Nov 04 17:15:27 +0000 2026",
+    "id_str": "2118029368408850799",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife A few weeks back at dumbo.",
+    "quoted_tweet": null,
+    "url": "https://x.com/chrisin_LA/status/2118029786421588269",
+    "time": "2026-11-05 01:17",
+    "created_at": "Wed Nov 04 17:17:06 +0000 2026",
+    "id_str": "2118029786421588269",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@MichaelgDiamond Wow, that's beautiful! What mountain is it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118030087312597204",
+    "time": "2026-11-05 01:18",
+    "created_at": "Wed Nov 04 17:18:18 +0000 2026",
+    "id_str": "2118030087312597204",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thats great, how do you make these animations ?",
+    "quoted_tweet": null,
+    "url": "https://x.com/nksages/status/2118030699869700471",
+    "time": "2026-11-05 01:20",
+    "created_at": "Wed Nov 04 17:20:44 +0000 2026",
+    "id_str": "2118030699869700471",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Gorgeous shot, Kris!",
+    "quoted_tweet": null,
+    "url": "https://x.com/caffeineisweak/status/2118031391753371853",
+    "time": "2026-11-05 01:23",
+    "created_at": "Wed Nov 04 17:23:29 +0000 2026",
+    "id_str": "2118031391753371853",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@caffeineisweak Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118031530379677788",
+    "time": "2026-11-05 01:24",
+    "created_at": "Wed Nov 04 17:24:02 +0000 2026",
+    "id_str": "2118031530379677788",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@nksages I am going to share my entire workflow!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118031676337205505",
+    "time": "2026-11-05 01:24",
+    "created_at": "Wed Nov 04 17:24:37 +0000 2026",
+    "id_str": "2118031676337205505",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/zukeworks/status/2118033074722341150",
+    "time": "2026-11-05 01:30",
+    "created_at": "Wed Nov 04 17:30:10 +0000 2026",
+    "id_str": "2118033074722341150",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@zukeworks That's a great sculpture. I think, we have some sculptures by the same artist in New York",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118033203462336876",
+    "time": "2026-11-05 01:30",
+    "created_at": "Wed Nov 04 17:30:41 +0000 2026",
+    "id_str": "2118033203462336876",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@chrisin_LA One of my fav places in NYC! Great shot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118033824772653486",
+    "time": "2026-11-05 01:33",
+    "created_at": "Wed Nov 04 17:33:09 +0000 2026",
+    "id_str": "2118033824772653486",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "One of mine...",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "X needs more photography \n\nPost photos that YOU took \n\nI took this one this morning. Last moments of New York’s autumn 🍂"
+    },
+    "url": "https://x.com/moorelife_nl/status/2118039212305899789",
+    "time": "2026-11-05 01:54",
+    "created_at": "Wed Nov 04 17:54:34 +0000 2026",
+    "id_str": "2118039212305899789",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@moorelife_nl Nature is so beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118039587167895936",
+    "time": "2026-11-05 01:56",
+    "created_at": "Wed Nov 04 17:56:03 +0000 2026",
+    "id_str": "2118039587167895936",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Toronto street",
+    "quoted_tweet": null,
+    "url": "https://x.com/AChristopherNi1/status/2118043070658646022",
+    "time": "2026-11-05 02:09",
+    "created_at": "Wed Nov 04 18:09:54 +0000 2026",
+    "id_str": "2118043070658646022",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🍀",
+    "quoted_tweet": null,
+    "url": "https://x.com/Iyilik77966/status/2118045075213332930",
+    "time": "2026-11-05 02:17",
+    "created_at": "Wed Nov 04 18:17:51 +0000 2026",
+    "id_str": "2118045075213332930",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Iyilik77966 So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118047151486009833",
+    "time": "2026-11-05 02:26",
+    "created_at": "Wed Nov 04 18:26:06 +0000 2026",
+    "id_str": "2118047151486009833",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AChristopherNi1 So yellow!! Beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118047190266323028",
+    "time": "2026-11-05 02:26",
+    "created_at": "Wed Nov 04 18:26:16 +0000 2026",
+    "id_str": "2118047190266323028",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/McCloud2/status/2118052351122776448",
+    "time": "2026-11-05 02:46",
+    "created_at": "Wed Nov 04 18:46:46 +0000 2026",
+    "id_str": "2118052351122776448",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@McCloud2 This is so beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118053180177101078",
+    "time": "2026-11-05 02:50",
+    "created_at": "Wed Nov 04 18:50:04 +0000 2026",
+    "id_str": "2118053180177101078",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Another proof crossposting strategy works\nLike magic!! Congrats!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Framer_X/status/2118068751530922055",
+    "time": "2026-11-05 03:51",
+    "created_at": "Wed Nov 04 19:51:56 +0000 2026",
+    "id_str": "2118068751530922055",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Framer_X Thank you 🙏 we should have done it four years ago! But better late than never",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118070350730990019",
+    "time": "2026-11-05 03:58",
+    "created_at": "Wed Nov 04 19:58:18 +0000 2026",
+    "id_str": "2118070350730990019",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Found this church in the middle of nowhere in a forest in Vermont!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Dave_it_up/status/2118080834095718746",
+    "time": "2026-11-05 04:39",
+    "created_at": "Wed Nov 04 20:39:57 +0000 2026",
+    "id_str": "2118080834095718746",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Took this on Sunday. It rained the day before and early that morning.\n\nManhattan Beach Pier at Manhattan Beach, California.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thealphatron/status/2118086386201084043",
+    "time": "2026-11-05 05:02",
+    "created_at": "Wed Nov 04 21:02:01 +0000 2026",
+    "id_str": "2118086386201084043",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Dave_it_up That’s such interesting architecture",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118086455767826525",
+    "time": "2026-11-05 05:02",
+    "created_at": "Wed Nov 04 21:02:17 +0000 2026",
+    "id_str": "2118086455767826525",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@thealphatron wow beautiful! And I am in Manhattan, New York!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118093369520128157",
+    "time": "2026-11-05 05:29",
+    "created_at": "Wed Nov 04 21:29:46 +0000 2026",
+    "id_str": "2118093369520128157",
+    "is_retweet": false
   }
 ]
