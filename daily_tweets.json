@@ -1170,5 +1170,374 @@
     "created_at": "Wed Nov 04 21:29:46 +0000 2026",
     "id_str": "2118093369520128157",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit I refuse to believe any sentient humans are selling at these prices, all algos trying to bait people or stop loss hunt",
+    "quoted_tweet": null,
+    "url": "https://x.com/soulbiri1/status/2118020064607965635",
+    "time": "2026-11-05 00:38",
+    "created_at": "Wed Nov 04 16:38:28 +0000 2026",
+    "id_str": "2118020064607965635",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Lot of funds / pods reportedly blew up recently so there's been a lot of forced selling. \n\nFor example... even if $POET goes below their net cash (we're getting close), funds can be forced to liquidate holdings anyway. \n\nEven if another name looks operationally bullish like $NBIS, stock prices can look catastrophic and irrational until deleveraging stops.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2118022302646546820",
+    "time": "2026-11-05 00:47",
+    "created_at": "Wed Nov 04 16:47:22 +0000 2026",
+    "id_str": "2118022302646546820",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "If a company is valued at $2B, has ~$1B in cash/inventory... And makes $354M FCF a quarter. \n\nThen returns 30-50% of FCF for dividends next year. \n\nI'd argue it's more of a matter of time before shareholder returns/fundamentals, (especially memory) overpower forced selling. \n\nBut stock prices can look really dislocated from actual performance for periods of time, like now. \n\nSame with photonics, but that's more of a 2027-2028 growth type story with CPO + more optical content/xpu.\n\nLaser companies like $LITE, $AAOI, and potentially $SIVE depending on quals, would likely be printing few years after capacity expansion comes online.\n\nAnd it's already been largely funded... Lumentum with $NVDA + hyperscalers, AOI with $1.6B+ in ATMs, Sivers with 700M SEK from institutions. \n\nCompared to other sectors that still require a lot of capital for their buildouts.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2118026727859573178",
+    "time": "2026-11-05 01:04",
+    "created_at": "Wed Nov 04 17:04:57 +0000 2026",
+    "id_str": "2118026727859573178",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe\n\nThat even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. \n\nWe're seeing this before the next architectural shifts, where $NVDA Jensen Huang expects 15x optical volume for CPO scale-up. \n\nAnd as more hyperscalers commit to NPO as seen with $LITE new $5B UHP laser contracts. \n\nI'd argue this is more nuanced since I can't say the same for finished 800G/1.6T pluggables or lower end 70mW-100mW laser ranges that are currently bottlenecks. \n\nBut this argument is more toward higher spec lasers. \n\n$AAOI is vertically integrated and has 300-400 mW capabilities, so they have the capability to shift attention to merchant lasers over supplying end-to-end optical transceivers. \n\n$SIVE is more pure play on this laser bottleneck, but they have the capabilities for 200mW + higher margin multiwavelength NPO/CPO lasers. \n\nI'd argue this is specifically the case for bottlenecks where demand imbalances are so deep (creating higher long term visibility, such as HBM). \n\nWhether it's large body substrates from $ATS that's bottlenecking Marvell + $AMD or lasers from $LITE that are sold out into 2029. \n\nor liquid transformers that have 4-5 year lead times. \n\nThey they would still sell out of capacity even if overall demand decreased. \n\nIf markets de-risked, it would make sense to hit optical module manufacturing players, maybe server rack assembly, to companies that still require heavy financing like Neoclouds.\n\nAnd obviously haircut growth valuations (but not to the point where demand collapses to 0).\n\nYet we're seeing everything in AI trade is getting lumped up together as something that requires heavy financing + not profitable.",
+    "quoted_tweet": {
+      "author": "Booray",
+      "username": "dBooray",
+      "text": "@aleabitoreddit @Annoyinmous How do you see AAOI and SIVE demand if data centre builds get delayed or slow down. Do orders get pushed back etc. thanks"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2118035778253283768",
+    "time": "2026-11-05 01:40",
+    "created_at": "Wed Nov 04 17:40:55 +0000 2026",
+    "id_str": "2118035778253283768",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit How about $AXTI ?",
+    "quoted_tweet": null,
+    "url": "https://x.com/360_zaki/status/2118036181178818606",
+    "time": "2026-11-05 01:42",
+    "created_at": "Wed Nov 04 17:42:31 +0000 2026",
+    "id_str": "2118036181178818606",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit its over Sen. All companies are still too expensive. 6 months of dead money.",
+    "quoted_tweet": null,
+    "url": "https://x.com/belikejustin/status/2118036369037562275",
+    "time": "2026-11-05 01:43",
+    "created_at": "Wed Nov 04 17:43:16 +0000 2026",
+    "id_str": "2118036369037562275",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "With $AXTI, even if demand was cut 50%, they'd still likely be sold out.\n\nSince customers are asking for 3x+ their contracted volumes. I'd argue InP substrates are just as severe as lasers. \n\nIn just 90 days, $AXTI literally went from:\n\nQ2 backlog: $100m \nQ3 backlog: $500m+\n\nWith an extra $300-$400m+ from ordinary business, not multi-year agreements from $LITE / $COHR. \n\nI'm sure there's some double ordering but the materials are just so cheap relative to overall BOM, that it's spare change.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2118037844086391253",
+    "time": "2026-11-05 01:49",
+    "created_at": "Wed Nov 04 17:49:07 +0000 2026",
+    "id_str": "2118037844086391253",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@belikejustin “AI names are too expensive”",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2118039560965980661",
+    "time": "2026-11-05 01:55",
+    "created_at": "Wed Nov 04 17:55:57 +0000 2026",
+    "id_str": "2118039560965980661",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. \n\nEven $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. \n\nIt's literally a problem of how much you throw at compute for vulnerability discovery + model capability, from of my chats w/ Horizon3. \n\nAnd this is going to become a nation state issue, as seen with the implications already with PHP to vulnerabilities with banks/infrastructure from AI swarms. \n\nBut people see this and throw money at $CRWD, $NET, and others, which I was saying was a bubble. \n\nIf it's a compute issue, the economics go to the infra, from neoclouds to $NBIS to networking like $AAOI. \n\nWe'll likely see swarms go wild from aggressor nation states in the next few years. \n\nAnd any country, whether that's Japan or EU that don't have their own capabilities might suffer severe damage. \n\nUS spent $11T+ cumulatively (inflation adjusted) on Nuclear weapons and we're like ~$1.8T into the the \"cyber-nuclear weapon\" equivalent of that\n\nAnd this is not even including the endless other economic implications from AI in other fields from advancing cancer discovery to workforce automation with physical AI. \n\nIt's hard to measure AI sustainability if $50K in compute spend from a foreign actor can take down $10B of your own infrastructure. \n\nAI has become a bipartisan national security issue, and even Democrats would not want China overtake the US in this field.",
+    "quoted_tweet": {
+      "author": "SmallTimeInvestor",
+      "username": "cryptoislife05",
+      "text": "@aleabitoreddit @belikejustin I believe they are worried about it being cyclical and unsustainable bro.\n\nAfter AI agentic coding, what is realistically next for investors to be excited about? Agents like muse or grokbot? So far the traction has not been proven and is not exciting"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2118044688829845703",
+    "time": "2026-11-05 02:16",
+    "created_at": "Wed Nov 04 18:16:19 +0000 2026",
+    "id_str": "2118044688829845703",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. \n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the former $TSM chairman bought $7.8M of $MU back in the $300's.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2118049698733064433",
+    "time": "2026-11-05 02:36",
+    "created_at": "Wed Nov 04 18:36:14 +0000 2026",
+    "id_str": "2118049698733064433",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "here are the new leaders of the Agentic Memory bench",
+    "quoted_tweet": {
+      "author": "Timmy Ghiurau",
+      "username": "itzik009",
+      "text": "83.2% on @mem0ai  DolphinBench: Mapping the Pareto frontier of agent memory, across 600 tests.\n\nSame agent and model as the leaderboard: @NousResearch Hermes  with GPT 5.6 Luna. $64 in harness cost.\n\nProduction @MidbrainAI , with two experimental prefetch features on."
+    },
+    "url": "https://x.com/godofprompt/status/2118062777608650763",
+    "time": "2026-11-05 03:28",
+    "created_at": "Wed Nov 04 19:28:12 +0000 2026",
+    "id_str": "2118062777608650763",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt 🤓with alot of hard work",
+    "quoted_tweet": null,
+    "url": "https://x.com/itzik009/status/2118063194207912383",
+    "time": "2026-11-05 03:29",
+    "created_at": "Wed Nov 04 19:29:51 +0000 2026",
+    "id_str": "2118063194207912383",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@itzik009 and more to come",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118070065539014938",
+    "time": "2026-11-05 03:57",
+    "created_at": "Wed Nov 04 19:57:10 +0000 2026",
+    "id_str": "2118070065539014938",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Anthropic planning its IPO right as everyone decides AI is dead again is either terrible timing or best possible setup and I genuinely can’t tell which.",
+    "quoted_tweet": {
+      "author": "KraneShares",
+      "username": "KraneShares",
+      "text": "Anthropic is reportedly targeting a $1.5T IPO valuation.  \n\nBut $AGIX identified the company long before the IPO headlines, becoming the first ETF to hold Anthropic in February 2025, when it was valued at $61.5B... \n\nNow, Anthropic’s S-1 filing reveals just how dramatically the business has scaled:  \n\nQuarterly recognized revenue grew from $380M in Q1 2025 to $17B in Q3 2026.\n\nThat’s 45x growth in less than two years.\n  \nAnthropic is still a private company, but investors don't have to wait for its IPO to gain exposure. \n\nAGIX already holds Anthropic through a direct private-company investment, offering a way to access the company ahead of its anticipated public debut. \n\nAnthropic is 2.44% of AGIX’s portfolio as of date 10/30/2026.  \n\nHoldings are subject to change. To learn more about how to get exposure to Anthropic and AGIX top 10 holdings visit: http://kraneshares.com/agix"
+    },
+    "url": "https://x.com/StockSavvyShay/status/2118072233893700055",
+    "time": "2026-11-05 04:05",
+    "created_at": "Wed Nov 04 20:05:47 +0000 2026",
+    "id_str": "2118072233893700055",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Sony’s dynamic pricing is affecting PS Store Black Friday deals, with different players getting different prices for the same games.\n\nAstro Bot ranges from $33.59 to $39.59, while Death Stranding 2 goes from $34.29 to $39.89 depending on the account.\n\nSony hasn’t explained why some players get better discounts than others.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2118072963195146656",
+    "time": "2026-11-05 04:08",
+    "created_at": "Wed Nov 04 20:08:40 +0000 2026",
+    "id_str": "2118072963195146656",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We’re sharing how our biology research team worked with Claude to map the first 3D structure of a vault particle from bacterial life.\n\nVault particles are a longstanding mystery. They are barrel-shaped objects, among the largest protein structures found in our cells. They were first discovered by Leonard Rome and Nancy Kedersha in 1986, but their function remains unknown.\n\nWith Claude, we’ve found results that might bring us closer to solving that mystery.\n\nUntil now, vaults were only known in the cells of complex things like animals and plants. We have shown that similar proteins from bacteria (and the viruses that infect them) can also assemble into vaults. Finding the structures in these simpler forms of life may make it easier to investigate their function in our own cells.\n\nFor our life sciences team, the project was also a demonstration of the potential (and the limitations) of using AI to accelerate science.\n\nIn our full piece, we discuss how Claude was able to dramatically speed up some stages—manually determining the vault particle’s structure would have taken weeks to months of painstaking work, but here it took days. We also discuss how Claude made some simple mistakes along the way, and how we collaborated with our machine learning researchers to address them.\n\nRead more: https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+    "quoted_tweet": null,
+    "url": "https://x.com/AnthropicAI/status/2118073665296228863",
+    "time": "2026-11-05 04:11",
+    "created_at": "Wed Nov 04 20:11:28 +0000 2026",
+    "id_str": "2118073665296228863",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@AnthropicAI did claude propose the structure or just speed up the grind work?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118074548218151032",
+    "time": "2026-11-05 04:14",
+    "created_at": "Wed Nov 04 20:14:58 +0000 2026",
+    "id_str": "2118074548218151032",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation astro bot costs $6 more if you looked at it twice",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118074855665094709",
+    "time": "2026-11-05 04:16",
+    "created_at": "Wed Nov 04 20:16:12 +0000 2026",
+    "id_str": "2118074855665094709",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@StockSavvyShay ai has died about six times this year and my usage bill never noticed",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118075105137820078",
+    "time": "2026-11-05 04:17",
+    "created_at": "Wed Nov 04 20:17:11 +0000 2026",
+    "id_str": "2118075105137820078",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Grok was asked to turn $300 into rent money in 6 months. Its week-one plan costs $12.\n\n164,000 people read the answer. Most of them will skip the only step that matters.\n\nGrok's week one:\n→ Find urgent small-business problems on Reddit and X that AI can solve\n→ Build one simple tool around one of them\n→ Buy a $12 domain and put a waitlist on a one-page site\n\nThe tool is the easy part. Finding a problem people already pay to fix is the whole game.\n\nSo here's the prompt for that step:\n\n\"Here are 20 posts from r/smallbusiness: [paste]. Group the complaints by pain. Rank them by how often they come up and how urgent they sound. For the top 3, tell me what people pay for it today, what they hate about that option, and what a $20 to $50 a month fix would look like.\"\n\nThen test it before you build anything:\n\n\"Write 5 short DMs to business owners who posted about [pain]. Mention their post, ask how they handle it today, and don't pitch anything yet.\"\n\nIf 3 of 5 reply, build it. If nobody does, you just saved 6 months.\n\nLanding page and sales prompts are in the God of Prompt library. 7,200+ prompts, free, no signup. Link below.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118090904036929864",
+    "time": "2026-11-05 05:19",
+    "created_at": "Wed Nov 04 21:19:58 +0000 2026",
+    "id_str": "2118090904036929864",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "7,200+ prompts, free, no signup: https://www.godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118090916129112532",
+    "time": "2026-11-05 05:20",
+    "created_at": "Wed Nov 04 21:20:01 +0000 2026",
+    "id_str": "2118090916129112532",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "喜欢修高墙大厂们只有等将死之时，才能意识到之前修的墙，圈养的内容和用户在 AI 时代已经毫无价值，甚至是负资产了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/zhufengme/status/2117941798421328324",
+    "time": "2026-11-04 19:27",
+    "created_at": "Wed Nov 04 11:27:28 +0000 2026",
+    "id_str": "2117941798421328324",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@zhufengme 不管怎么欺骗自己，也终将被淘汰",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2118099484144177548",
+    "time": "2026-11-05 05:54",
+    "created_at": "Wed Nov 04 21:54:04 +0000 2026",
+    "id_str": "2118099484144177548",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "谷歌参考微软，推出自愿裁员计划\nAI 替代的浪潮势不可当\n时代的尘埃落在每一个人身上都是一座大山",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Google 在五国推出自愿离职补偿，最多给 12 个月工资\n\nGoogle 正在出钱请部分员工主动离职。路透社 11 月 4 日独家报道，Google 从今年 6 月起，向加拿大、法国、德国、日本和瑞士的部分员工提供“自愿离职补偿”，负责 AI 研究的 DeepMind 部门不在其中。\n\n这种做法和裁员不同。裁员是公司决定让谁走；自愿离职计划是公司先开出补偿条件，员工自己决定要不要申请，申请通过后拿一笔补偿金离开。\n\nGoogle 向路透社确认了这件事。Google 发言人说，2025 年公司部分团队推出了带补偿金的自愿离职计划，今年 6 月又把它扩展到“几个国家”，目的是“支持接下来的重要工作”。这一轮之前没有被报道过，路透社没能查到有多少人接受。\n\n【补偿给多少】\n\n瑞士的情况最具体。Google 在瑞士有大约 5000 名员工，苏黎世是它的一个主要工程中心。据三名知情人士说，Google 在 6 月中旬公布方案，7 月中旬前答复了申请的员工，8 月开始有人离开。\n\n接受的员工每工作一年拿一个月工资，最多 12 个月。也就是说，工作满 5 年拿 5 个月工资，工作满 15 年也只拿 12 个月。\n\n其中一名知情人士说，在一个约 50 人的团队里，至少有 4 人接受了。瑞士这一轮覆盖多个部门，但不包括 DeepMind。\n\n【哪些人不在名单里】\n\nGoogle Cloud 和 DeepMind 的员工，过去几轮都没有被纳入。路透社说，这次扩展看起来也是同样的安排。Google 的母公司叫 Alphabet，它的首席财务官 Anat Ashkenazi 在季度财报会上多次说，AI 和云计算是招聘重点。\n\n【计划的来历】\n\n这个计划不是今年才有。去年起，Google 已经在美国和英国的部分部门推行过。公司高管把它说成是给“不再认同公司节奏或方向”的员工的一个选择。路透社说，至少有一个部门在自愿离职之后又进行了裁员。\n\n路透社把这件事放在 AI 投入的背景下报道：Alphabet 在 AI 上花的钱越来越多，让华尔街投资者不安，也压低了它的股价，Google 想借此控制成本。Alphabet 的员工总数近几个季度在稳定增长，同时公司在把人力往重点领域调。上周，微软也向 6 万名员工提供了自愿离职补偿，目的同样是控制成本。\n\nGoogle 在瑞士有过裁员先例：2023 年它在瑞士裁掉 200 多人，引发员工抗议和集体离岗。\n\n来源：https://www.reuters.com/business/media-telecom/google-extends-voluntary-buyout-offers-employees-several-countries-2026-11-04/"
+    },
+    "url": "https://x.com/oran_ge/status/2118103572932120603",
+    "time": "2026-11-05 06:10",
+    "created_at": "Wed Nov 04 22:10:18 +0000 2026",
+    "id_str": "2118103572932120603",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "推特上 Agent 很火，但现实中 Agent 很冷\nUber 在万圣节周处理了 3.2 亿次订单。  \n其中通过 Agent 完成的，只有 500 个外卖订单和4次打车。\n有人开玩笑说，这4个人肯定都是推油吧。",
+    "quoted_tweet": {
+      "author": "modest proposal",
+      "username": "modestproposal1",
+      "text": "I guarantee these four people are on Twitter"
+    },
+    "url": "https://x.com/oran_ge/status/2118105193074356384",
+    "time": "2026-11-05 06:16",
+    "created_at": "Wed Nov 04 22:16:45 +0000 2026",
+    "id_str": "2118105193074356384",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@vista8 原来有地方能管理。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2118106273396957414",
+    "time": "2026-11-05 06:21",
+    "created_at": "Wed Nov 04 22:21:02 +0000 2026",
+    "id_str": "2118106273396957414",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Rumor is Tibo is getting moved to a new role, and honestly that thread looks exactly like a handover. Tibo says \"Please make the model better, it doesn’t yet do everything\" and Andrew Ambrosino replies \"will get right on that\". Felt a faint sadness reading it ngl.\n\nIf the rumor's true, Andrew, please drop a reset on day one. Then the whole timeline is yours 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/AnikaCodes/status/2117923208934679021",
+    "time": "2026-11-04 18:13",
+    "created_at": "Wed Nov 04 10:13:36 +0000 2026",
+    "id_str": "2117923208934679021",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Today was my last day at Anthropic.\n\nI am so thankful for the time I got to spend there. I couldn't be more thankful for the time I spent and the connections I made.\n\nWill be taking some time off as I prepare for my next thing. I'll share more soon :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2117927404027118027",
+    "time": "2026-11-04 18:30",
+    "created_at": "Wed Nov 04 10:30:16 +0000 2026",
+    "id_str": "2117927404027118027",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Computers have RAM, right? \n\nWelcome Pierre. Let’s reinvent everything",
+    "quoted_tweet": {
+      "author": "Pierre",
+      "username": "pierrecomputer",
+      "text": "an announcement from the pierre computer company"
+    },
+    "url": "https://x.com/thsottiaux/status/2118024169762029594",
+    "time": "2026-11-05 00:54",
+    "created_at": "Wed Nov 04 16:54:47 +0000 2026",
+    "id_str": "2118024169762029594",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo Which team were you on?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2118024484594803084",
+    "time": "2026-11-05 00:56",
+    "created_at": "Wed Nov 04 16:56:02 +0000 2026",
+    "id_str": "2118024484594803084",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@AnikaCodes I was moved to the basement yesterday",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2118024737070957009",
+    "time": "2026-11-05 00:57",
+    "created_at": "Wed Nov 04 16:57:02 +0000 2026",
+    "id_str": "2118024737070957009",
+    "is_retweet": false
   }
 ]
