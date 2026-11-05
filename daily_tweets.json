@@ -308,5 +308,444 @@
     "created_at": "Thu Nov 05 17:40:42 +0000 2026",
     "id_str": "2118398110942765202",
     "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。\n\n提示词放下面\n\n你可以用这套提示词生成各种大肥鱼表情包。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118181775688241456",
+    "time": "Thu Nov 05 03:21:03 +0000 2026",
+    "created_at": "Thu Nov 05 03:21:03 +0000 2026",
+    "id_str": "2118181775688241456",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "提示词在这里，参考图用这两张就行，注意最后需要你填写的部分。\n\n请以我上传的大肥鱼图片为角色和画风参考，根据最后一行的「表情包主题」，直接制作一张可下载的动态 GIF 表情包。\n\n【角色保持一致】\n保留参考图中的蓝色渐变长发、呆毛、鲸鱼耳鳍、蓝色蝴蝶结、白色女仆头饰、蓝白女仆裙和大鲸鱼尾巴。\n保持原图的大头小身体 Q 版比例、圆脸和可爱画风，人物外观在所有帧中保持一致。\n\n【自动设计动作】\n理解我想表达的情绪或梗，将它设计成一个简单、有趣、一眼能看懂的短动作。\n突出一个核心笑点，用夸张表情、动作反差和轻微的压缩回弹增加喜感。头发、呆毛、耳鳍和尾巴自然跟随动作。\n根据主题添加必要的少量道具，保持画面简洁。\n主动设计首尾衔接，让动画能够自然循环播放。\n\n【自动配字】\n根据主题提炼一句简短、有网感的中文配字，优先控制在 2～8 个字。\n如果主题中用引号指定了台词，直接使用该台词。\n字幕放在顶部，使用粗圆体、深蓝字、白色描边；文字、字形和位置全程稳定，角色与道具不遮挡字幕。\n\n【画面与输出】\n正方形画面，纯白背景，固定镜头，主体居中并保留足够边距。\n动画约 2～3 秒，无限循环，动作清晰，适合聊天时作为表情包发送。\n最终交付实际会播放的多帧 GIF 文件，并提供下载。\n\n表情包主题：【在这里填一句话，描述你想表达的梗、情绪或动作】",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118181972451438662",
+    "time": "Thu Nov 05 03:21:50 +0000 2026",
+    "created_at": "Thu Nov 05 03:21:50 +0000 2026",
+    "id_str": "2118181972451438662",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 不是不支持参考图生成gif吗？还是先生成动作帧再用程序合成？",
+    "quoted_tweet": null,
+    "url": "https://x.com/linke1427832/status/2118183763356360803",
+    "time": "Thu Nov 05 03:28:57 +0000 2026",
+    "created_at": "Thu Nov 05 03:28:57 +0000 2026",
+    "id_str": "2118183763356360803",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@linke1427832 对，它会生成精灵图，然后再用精灵图合成 gif。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118184315507118272",
+    "time": "Thu Nov 05 03:31:09 +0000 2026",
+    "created_at": "Thu Nov 05 03:31:09 +0000 2026",
+    "id_str": "2118184315507118272",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "交作业！！",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "GPT-image-2.6 今天发布了，主要的新特性就是能够直接生成 GIF 动图了。\n\n这个很好玩！用它做了几张最近很火的大肥鱼表情包。\n\n神奇的是，我在 Codex 里用 Codex 说调不了 2.6，烦死了。然后在 GPT 里做的。\n\n提示词放下面\n\n你可以用这套提示词生成各种大肥鱼表情包。"
+    },
+    "url": "https://x.com/LllSy72895/status/2118254918184423837",
+    "time": "Thu Nov 05 08:11:42 +0000 2026",
+    "created_at": "Thu Nov 05 08:11:42 +0000 2026",
+    "id_str": "2118254918184423837",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "前几天又聊到语音输入法\n\n评论区有朋友说网易的叭哥说不错，试了一下，确实可以！\n\n网易在 AI 领域最近做这些小产品都很不错，这个叭哥说，还有 UU 远程都非常好。\n\n它这个是免费的，像 Typeless 还是就海外很多都是收费的.\n\n他们用到的这个本地的模型也是他们自己训的 ASR 模型。\n\n我主要是在桌面端将语音输入法和正常的输入法分开，这样的话就不会相互影响.\n\n正常输入法有语音的时候，因为输入法切换什么的，经常会被打断，然后你输出一长串，最后又被打断没了。\n\n这个就很麻烦，后分开的话就可以避免这个问题。\n\n然后国产的这种语音输入法有个什么好处呢？就是它速度快呀。老快了，这个速度。\n\n他们这个也没有什么多余功能，非常克制，就是一个输入，然后还有一个翻译，没有什么花里胡哨的一个界面，进去就直接用。\n\n然后润色，比如说 Typeless 的润色啊，真的很烦。\n\n每次尤其是这种模型名称、数字之类的，他固执地认为 Claude 的模型就只有到 3.5，模型名称和一些数字上就要给我故意改错，就我说的很清楚，他也会改错。\n\n然后叭哥说就没有这个问题。他掌握得很好，不会过度润色。\n\n自定义词库也有，因为我有自己的 Memory ，我直接让 Codex 分析了一下我的 Memory，给我出了一个自定义词库的文件，直接上传就全部搞好了。\n\n这段也都是叭哥说语音输入的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118255706759651755",
+    "time": "Thu Nov 05 08:14:50 +0000 2026",
+    "created_at": "Thu Nov 05 08:14:50 +0000 2026",
+    "id_str": "2118255706759651755",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@LllSy72895 可爱",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118255906110808312",
+    "time": "Thu Nov 05 08:15:37 +0000 2026",
+    "created_at": "Thu Nov 05 08:15:37 +0000 2026",
+    "id_str": "2118255906110808312",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 在藏师傅的基础上优化了一下提示词，适合我这种懒人去生成表情包",
+    "quoted_tweet": null,
+    "url": "https://x.com/yilearningai/status/2118261874240188519",
+    "time": "Thu Nov 05 08:39:20 +0000 2026",
+    "created_at": "Thu Nov 05 08:39:20 +0000 2026",
+    "id_str": "2118261874240188519",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 比豆包的优势在哪里？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xinyang193293/status/2118262137156227239",
+    "time": "Thu Nov 05 08:40:23 +0000 2026",
+    "created_at": "Thu Nov 05 08:40:23 +0000 2026",
+    "id_str": "2118262137156227239",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@xinyang193293 可以试试，反正免费。我主要不太喜欢把输入法跟语音输入法放在一起，分开比较好。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118262988792840235",
+    "time": "Thu Nov 05 08:43:46 +0000 2026",
+    "created_at": "Thu Nov 05 08:43:46 +0000 2026",
+    "id_str": "2118262988792840235",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yilearningai 可以可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118263068123857019",
+    "time": "Thu Nov 05 08:44:05 +0000 2026",
+    "created_at": "Thu Nov 05 08:44:05 +0000 2026",
+    "id_str": "2118263068123857019",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 中英混输还行，但专业词（变量名、API）经常得改两三遍",
+    "quoted_tweet": null,
+    "url": "https://x.com/freeman1266/status/2118264973499806188",
+    "time": "Thu Nov 05 08:51:39 +0000 2026",
+    "created_at": "Thu Nov 05 08:51:39 +0000 2026",
+    "id_str": "2118264973499806188",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@freeman1266 这种只能加到词库里 但我感觉现在的这个语音输入法加到词库里 有时候它也不认。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118265925287997889",
+    "time": "Thu Nov 05 08:55:26 +0000 2026",
+    "created_at": "Thu Nov 05 08:55:26 +0000 2026",
+    "id_str": "2118265925287997889",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "下载了，同时卸载了Typeless和闪电说。\n\n好产品真是极致的简单啊！何况还免费。\n\n就是这种，打眼一看就完全能看懂怎么用，而且每个细分功能，都是不能再简化的必备功能。\n\n我觉得它唯一的缺陷，在于这个名字取得着实有点……",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "前几天又聊到语音输入法\n\n评论区有朋友说网易的叭哥说不错，试了一下，确实可以！\n\n网易在 AI 领域最近做这些小产品都很不错，这个叭哥说，还有 UU 远程都非常好。\n\n它这个是免费的，像 Typeless 还是就海外很多都是收费的.\n\n他们用到的这个本地的模型也是他们自己训的 ASR 模型。"
+    },
+    "url": "https://x.com/yezili22/status/2118343080705478761",
+    "time": "Thu Nov 05 14:02:02 +0000 2026",
+    "created_at": "Thu Nov 05 14:02:02 +0000 2026",
+    "id_str": "2118343080705478761",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@yezili22 哈哈 我老记成兔八哥",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118343154428703019",
+    "time": "Thu Nov 05 14:02:19 +0000 2026",
+    "created_at": "Thu Nov 05 14:02:19 +0000 2026",
+    "id_str": "2118343154428703019",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "非常火的 Linux 发行版 Omarchy 4.5 终于支持了苹果的 M1、M2、M3 芯片，还有 Neo。\n\n感觉这么算下来，M4 估计也快了呀，等它支持，我就把我那个 M4 的 Mac mini 刷成 Omarchy。",
+    "quoted_tweet": {
+      "author": "Omarchy",
+      "username": "omarchy",
+      "text": "Omarchy 4.5 is finally here! Traditional desktop mode, M1/M2/M3/Neo compatibility, 50 languages, 7-second installs, and a million other features, fixes, and improvements. https://omarchy.org/news/2026/11/omarchy-4-5/"
+    },
+    "url": "https://x.com/op7418/status/2118343623901389146",
+    "time": "Thu Nov 05 14:04:11 +0000 2026",
+    "created_at": "Thu Nov 05 14:04:11 +0000 2026",
+    "id_str": "2118343623901389146",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 能做双系统不",
+    "quoted_tweet": null,
+    "url": "https://x.com/FengChuiAI/status/2118355767669740020",
+    "time": "Thu Nov 05 14:52:26 +0000 2026",
+    "created_at": "Thu Nov 05 14:52:26 +0000 2026",
+    "id_str": "2118355767669740020",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@FengChuiAI 可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118356184554164290",
+    "time": "Thu Nov 05 14:54:06 +0000 2026",
+    "created_at": "Thu Nov 05 14:54:06 +0000 2026",
+    "id_str": "2118356184554164290",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "美股所有 AI 领域和 AI 硬件相关的全部暴跌了，民主党这个胜利还是影响力太大了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118374811202416848",
+    "time": "Thu Nov 05 16:08:07 +0000 2026",
+    "created_at": "Thu Nov 05 16:08:07 +0000 2026",
+    "id_str": "2118374811202416848",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "开盘 30 分钟 跌了 2 万亿美元。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118378440596639828",
+    "time": "Thu Nov 05 16:22:32 +0000 2026",
+    "created_at": "Thu Nov 05 16:22:32 +0000 2026",
+    "id_str": "2118378440596639828",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 先打压下去，然后他们发布新的AI发展方向或规则，再股市拉上去，最后宣布是他们的功劳，他们对AI才有话语权。",
+    "quoted_tweet": null,
+    "url": "https://x.com/LiFoDetails/status/2118378711154377149",
+    "time": "Thu Nov 05 16:23:36 +0000 2026",
+    "created_at": "Thu Nov 05 16:23:36 +0000 2026",
+    "id_str": "2118378711154377149",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "不知道 Anthropic 是否会在这个情绪下坚持上市。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118378838036234704",
+    "time": "Thu Nov 05 16:24:07 +0000 2026",
+    "created_at": "Thu Nov 05 16:24:07 +0000 2026",
+    "id_str": "2118378838036234704",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@LiFoDetails 确实有可能 无论共和党还是民主党 都不太可能说彻底限制 AI。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118379778571206866",
+    "time": "Thu Nov 05 16:27:51 +0000 2026",
+    "created_at": "Thu Nov 05 16:27:51 +0000 2026",
+    "id_str": "2118379778571206866",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "For two decades, writing the exploit was the bottleneck in a cyberattack. AI made that step cheap, and patching hasn't gotten faster:\n\n- On average, attacks went from landing 63 days after disclosure in 2018-19 to 7 days before it in 2025\n\n- A working exploit went from a skilled person's month to a few hours of machine time\n\n- The median time to fully fix a known-exploited bug rose to 43 days\n\na16z's @asaf_ez and @steph_zhang expect a long, expensive worm era, hitting hardest where systems can't update fast: hospitals, schools, small water systems.\n\n\"When attacking is nearly free, attackers no longer need to want a target.\"\n\nFull piece from Asaf Ezra and Steph Zhang: https://www.a16z.news/p/the-exploit-was-the-bottleneck",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118161646514278401"
+    },
+    "url": "https://x.com/a16z/status/2118361452583289082",
+    "time": "Thu Nov 05 15:15:02 +0000 2026",
+    "created_at": "Thu Nov 05 15:15:02 +0000 2026",
+    "id_str": "2118361452583289082",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Figma CFO Praveer Melwani used to spend his days writing hundreds of lines of SQL just to get one set of numbers everyone trusted. Now his finance team builds its own AI tools to do that work.\n\nHe sees the CFO's job shifting from traffic cop to business enabler, as long as the people doing the building still own their thinking.\n\nPraveer joins a16z's Seema Amble and Ivan Makarov, authors of \"You Need a New CFO,\" to discuss the growth-stage finance team that built 40 to 50 agents in a month or two, what breaks when every rep vibe codes their own dashboard, and how finance went from sitting out hackathons to winning them.\n\n0:00 From traffic cop to business enabler\n8:48 Hire people who understand the model\n12:20 Vibe coding a target to test moats\n13:15 An AI Dylan Field reviews the memos\n18:01 Let AI make the messy data calls\n20:00 Unused agents still build the habit\n20:46 The CIO's new job: scale what works\n22:36 The rise of the finance engineer\n26:24 Why the board trusts his numbers\n30:25 AI tools as a recruiting perk\n40:35 Why Excel is his \"love language\"\n44:20 What to look for in your next CFO\n\nYouTube: https://youtu.be/9iAQdKxyiQc\n\n@figma @seema_amble @IvanoMakSF",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2118369093506019627",
+    "time": "Thu Nov 05 15:45:23 +0000 2026",
+    "created_at": "Thu Nov 05 15:45:23 +0000 2026",
+    "id_str": "2118369093506019627",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI's cyber skills are doubling every 4 to 5 months, on the same curve as coding\n\nLongest cyber task a frontier model can reliably finish, in expert time:\n- Late 2024: 5.5 minutes\n- Early 2026: 40 minutes\n- April 2026: 4.8 hours\n\nFrom a16z's Asaf Ezra and Steph Zhang: https://www.a16z.news/p/the-exploit-was-the-bottleneck",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118161646514278401"
+    },
+    "url": "https://x.com/a16z/status/2118388149449871712",
+    "time": "Thu Nov 05 17:01:07 +0000 2026",
+    "created_at": "Thu Nov 05 17:01:07 +0000 2026",
+    "id_str": "2118388149449871712",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Figma CFO Praveer Melwani says his corp dev team now tests a target's moat by trying to vibe code its product, then runs the M&A memo past AI versions of Figma's leaders:\n\n\"I think our team's gotten really damn good at some of this. You can get through some of the, you know, 'Is this a real thing? Is it not? How difficult is it or not?' There's obviously nuances to a whole bunch of these ideas, but it gives you like a solid intuition there.\"\n\n\"More often than not, there are themes, there are similar questions, there are ways that we all as leaders tend to have a way of looking at problems. And what's been interesting is [the corp dev team has] gone and created unique [AI] personalities for each of us as leaders... that they can go and run their investment memos by.\"\n\n\"They'll sit there kind of going back and forth and saying, 'Okay, this is what Praveer would say, and this is what [CEO] Dylan would say, and this is what Sean would say,' our CRO... It reduces the cycle time that we're all sitting together on.\"\n\n@figma @seema_amble @IvanoMakSF",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Figma CFO Praveer Melwani used to spend his days writing hundreds of lines of SQL just to get one set of numbers everyone trusted. Now his finance team builds its own AI tools to do that work.\n\nHe sees the CFO's job shifting from traffic cop to business enabler, as long as the people doing the building still own their thinking.\n\nPraveer joins a16z's Seema Amble and Ivan Makarov, authors of \"You Need a New CFO,\" to discuss the growth-stage finance team that built 40 to 50 agents in a month or two, what breaks when every rep vibe codes their own dashboard, and how finance went from sitting out hackathons to winning them.\n\n0:00 From traffic cop to business enabler\n8:48 Hire people who understand the model\n12:20 Vibe coding a target to test moats\n13:15 An AI Dylan Field reviews the memos\n18:01 Let AI make the messy data calls\n20:00 Unused agents still build the habit\n20:46 The CIO's new job: scale what works\n22:36 The rise of the finance engineer\n26:24 Why the board trusts his numbers\n30:25 AI tools as a recruiting perk\n40:35 Why Excel is his \"love language\"\n44:20 What to look for in your next CFO\n\nYouTube: https://youtu.be/9iAQdKxyiQc\n\n@figma @seema_amble @IvanoMakSF"
+    },
+    "url": "https://x.com/a16z/status/2118403290392387636",
+    "time": "Thu Nov 05 18:01:17 +0000 2026",
+    "created_at": "Thu Nov 05 18:01:17 +0000 2026",
+    "id_str": "2118403290392387636",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife My two year old (who is not allowed to play games on the iPad) playing a video game I made using Opus 5.5 and Grok Bot",
+    "quoted_tweet": null,
+    "url": "https://x.com/vancomycin87/status/2118177121600213194",
+    "time": "Thu Nov 05 03:02:34 +0000 2026",
+    "created_at": "Thu Nov 05 03:02:34 +0000 2026",
+    "id_str": "2118177121600213194",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@vancomycin87 That’s so cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118185628042936461",
+    "time": "Thu Nov 05 03:36:22 +0000 2026",
+    "created_at": "Thu Nov 05 03:36:22 +0000 2026",
+    "id_str": "2118185628042936461",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@OddSideQuest Thank you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118228081919820278",
+    "time": "Thu Nov 05 06:25:04 +0000 2026",
+    "created_at": "Thu Nov 05 06:25:04 +0000 2026",
+    "id_str": "2118228081919820278",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@marketdigitalk On Instagram",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118228131467215024",
+    "time": "Thu Nov 05 06:25:15 +0000 2026",
+    "created_at": "Thu Nov 05 06:25:15 +0000 2026",
+    "id_str": "2118228131467215024",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@VeeGlitters Cuuuuute and great to see you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118229117170511987",
+    "time": "Thu Nov 05 06:29:10 +0000 2026",
+    "created_at": "Thu Nov 05 06:29:10 +0000 2026",
+    "id_str": "2118229117170511987",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "AI creators support each other! \nLet’s go!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118232122204815511",
+    "time": "Thu Nov 05 06:41:07 +0000 2026",
+    "created_at": "Thu Nov 05 06:41:07 +0000 2026",
+    "id_str": "2118232122204815511",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife AI animation creators, raise your hands! I'm ready to follow you and discover what you're creating! Let's support each other!",
+    "quoted_tweet": null,
+    "url": "https://x.com/TechyTricksAI/status/2118241451528319140",
+    "time": "Thu Nov 05 07:18:11 +0000 2026",
+    "created_at": "Thu Nov 05 07:18:11 +0000 2026",
+    "id_str": "2118241451528319140",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TechyTricksAI That's super nice of you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118241586043838542",
+    "time": "Thu Nov 05 07:18:43 +0000 2026",
+    "created_at": "Thu Nov 05 07:18:43 +0000 2026",
+    "id_str": "2118241586043838542",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": {
+      "text": "https://t.co/4qEB44gV1r",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2118397810609455104",
+          "display": "pic.x.com/4qEB44gV1r",
+          "original": "https://t.co/4qEB44gV1r",
+          "replacement": "https://x.com/icreatelife/status/2118397836177944722/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118397836177944722",
+    "time": "Thu Nov 05 17:39:36 +0000 2026",
+    "created_at": "Thu Nov 05 17:39:36 +0000 2026",
+    "id_str": "2118397836177944722",
+    "is_retweet": false
   }
 ]
