@@ -1,1 +1,337 @@
-[]
+[
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "可不敢啊。\n\n我兄弟就是做这个的。\n\n当时他就激动的一晚上和我喝酒画大饼，让我和他一起干。\n\n有几个问题，你们要考虑好\n\n1，教培需要资质，你要先搞定这个。这就需要不少功夫，看你的场地面积，培训项目难度不同。现在教育营业范围挺难办的。\n\n2，如果你通了 1，你要考虑的是多大的场地，要学校周边还是商圈周边。这个房租成本，和办学硬件成本算个帐。\n\n大概最少得 30 万左右，我还是按 50 人的班来粗算。\n\n3，一人教，还是多人教，老师工资，社保，你要计算好，现在公司必须交社保，现在没有空可钻了。提前问好，新政策。\n\n4，电脑配置，API 算力成本投入。这也是笔大钱。全买二手也行。。\n\n5，最重要的是营销，你怎么推广？发 DM单，还是做短视频按地区投流？不管用哪个，这个重中之重，占你营业支出的大部分资金。\n\n6，现在孩子们学这个的年龄段大概是 12岁--15 岁以下，看看本地区有多少这个年龄段的孩子，算算总人数和周边覆盖占比。\n\n15 岁以上的，学业压力太大，这类兴趣培训，一般没多少人有精力学习。\n\n12 岁以下，电脑玩不明白，IPAD 玩的挺溜，那你是要自己开发 APP 教学吗？如果是的话，考虑这个开发成本。\n\n再小的孩子，无法理解。。只有这个年龄段的孩子对玩，开发游戏有兴趣。\n\n7，最麻烦的不是教，是让家长看到产出，情绪价值是一部分，但更多的是要交付成果。。\n\n这个成果，你如何量化？体现出来？学费支出得有个响儿吧？？怎么响？？想好了吗？\n\n8，还有个最大的坑。。。。\n\n我就不说了。。。这个坑我这朋友现在就遇到了。。如果他解决了，我再来补充。有点不可抗力。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/binghe/status/2118654348813381830",
+    "time": "2026-11-06 18:38",
+    "created_at": "Fri Nov 06 10:38:54 +0000 2026",
+    "id_str": "2118654348813381830",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://x.com/i/article/2118652439049986048",
+    "quoted_tweet": null,
+    "url": "https://x.com/dongxi_nlp/status/2118682698684178878",
+    "time": "2026-11-06 20:31",
+    "created_at": "Fri Nov 06 12:31:33 +0000 2026",
+    "id_str": "2118682698684178878",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师好，image-2.6什么时候能上呀，期待",
+    "quoted_tweet": null,
+    "url": "https://x.com/ManusChina/status/2118691382483472775",
+    "time": "2026-11-06 21:06",
+    "created_at": "Fri Nov 06 13:06:03 +0000 2026",
+    "id_str": "2118691382483472775",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ManusChina 等我加一下",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118734543687692477",
+    "time": "2026-11-06 23:57",
+    "created_at": "Fri Nov 06 15:57:34 +0000 2026",
+    "id_str": "2118734543687692477",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ManusChina @dotey 宝玉老师，image-2.6 是卡在算力排队还是灰度名单？给个准信儿呗。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Master11959/status/2118751430693761188",
+    "time": "2026-11-07 01:04",
+    "created_at": "Fri Nov 06 17:04:40 +0000 2026",
+    "id_str": "2118751430693761188",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Master11959 @ManusChina 应该已经能用了\nhttps://x.com/dotey/status/2118127825186177270",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "OpenAI 推出 Images 2.6：能导出 SVG 矢量图，还能做 GIF 动图，出图快一半\n\nOpenAI 11 月 4 日发布图像模型 Images 2.6，ChatGPT 和 Codex 所有档位的用户今天起都能用，电脑、手机和网页版都有。\n\n这次一个重要变化是能把生成的图导出成 SVG 矢量图，可以直接拿去做网站、App 和印刷品。另外还能生成 GIF 动图，出图速度比上一版快 50%，改图时能更准确地只改指定的地方。\n\n开发者可以通过 API 调用这个模型。API 是开发者把模型接进自己产品的接口，按用量付费。OpenAI 说，现在全球用户每周在 ChatGPT、Codex 和 API 上生成 40 亿张图，平均每天超过 5 亿张。\n\n【导出 SVG：图能直接拿去用了】\n\nAI 生成的图通常是“位图”，比如常见的 PNG、JPG。位图由一个个小色点拼成，放大后会变糊，边缘出现锯齿。想把 AI 画的图标、Logo 用到正式场合，通常要设计师照着重新画成矢量图。\n\nSVG 是“矢量图”，记录的不是色点，而是线条和形状本身，比如“从这里到那里画一条曲线，填上蓝色”。所以它放大多少倍都清晰，小到 App 图标、大到户外海报都能用同一个文件；在设计软件里还能单独改某根线条的颜色和粗细，不用整张重画。网站上的图标、Logo，大多就是 SVG。\n\nOpenAI 在公告里说，导出 SVG 让设计“可以直接用在网站、App 和印刷品上”。这一项写在给开发者的新功能里，公告没说 ChatGPT 里能不能直接导出 SVG。\n\n【GIF 动图】\n\nGIF 是一种会循环播放的短动图，社交媒体上的表情包大多是这种格式。用户可以用一句话描述，或上传一张照片、一张手绘草图，让模型做成动图。\n\nOpenAI 举的例子有：让品牌吉祥物动起来，把商品图做成循环小动画，拍视频前先用动图试一试角色动作。\n\n合作方 OpenArt 公开的示例提示词是这样做的：先让模型在一张图里按 3 列 2 行画出 6 帧连续画面，再按顺序播放成动图。\n\n这种把多帧画面拼在一张图里的做法叫“精灵图”，游戏动画常用。据 Decrypt 转述 The Verge 的报道，ChatGPT 的 GIF 功能是分批开放的，做好后可以调播放速度、逐帧查看和修改。\n\n【两个 API 版本】\n\nAPI 里有两个版本可选：\n\n1. Flare 偏速度。画质设为低时，最快约 6 秒出一张图。海报、商品图这类需要排版的图，效果也有改进。\n\n2. Sunburst 偏画质。画质设为中或高时细节更多，连续改好几轮，人物和商品的样子也更不容易走样。\n\n这些速度和画质的说法都来自 OpenAI，目前还没有第三方测试结果。\n\n【给开发者的其他新功能】\n\n除了导出 SVG，还有两项：\n\n1. 图片标注：ChatGPT 里已有的功能加进了 API。在图上圈出要改的位置，模型只改那一块。\n2. 复杂度参数：控制模型动笔前花多少功夫安排画面。画质参数管细节清不清楚，复杂度管画面里能安排多少东西。OpenAI 建议简单修改用低复杂度，元素多、要求多的画面用中或高。\n\n设计工具 Figma Weave、图片编辑应用 Picsart 等已经提前接入。\n\n【价格】\n\nChatGPT 和 Codex 的所有订阅档位都能用 Images 2.6，公告没提要额外付费。\n\nOpenAI 定价页显示，2.6 的 Flare 和 Sunburst 两款同价：生成图片每 100 万 token 30 美元，输入参考图每 100 万 token 8 美元，输入文字每 100 万 token 5 美元。这和上一代 2.5 的价格一样。\n\nFlare 速度更快，但按 token 算的单价和 Sunburst 相同。定价页的批量处理价目表（不急着要结果的任务，价格减半）里暂时没有 2.6。\n\n谷歌 10 月推出的同类模型 Nano Banana 2.1，生成图片也是每 100 万 token 30 美元，按谷歌定价页的换算，一张 1K 分辨率的图约 0.034 美元。\n\n原文链接：https://openai.com/index/introducing-images-2-6/\n来源链接：\nOpenAI API 定价页 https://developers.openai.com/api/docs/pricing#image-generation\n谷歌 Gemini API 定价页 https://ai.google.dev/gemini-api/docs/pricing\nDecrypt 报道 https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model"
+    },
+    "url": "https://x.com/dotey/status/2118753162052121076",
+    "time": "2026-11-07 01:11",
+    "created_at": "Fri Nov 06 17:11:33 +0000 2026",
+    "id_str": "2118753162052121076",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @ManusChina 宝玉老师，SVG 导出的路径会自动简化节点吗，还是直接一堆碎路径进 Figma 就卡？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Master11959/status/2118768413812408688",
+    "time": "2026-11-07 02:12",
+    "created_at": "Fri Nov 06 18:12:09 +0000 2026",
+    "id_str": "2118768413812408688",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Master11959 @ManusChina 我还没试过呢",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118770607722828120",
+    "time": "2026-11-07 02:20",
+    "created_at": "Fri Nov 06 18:20:52 +0000 2026",
+    "id_str": "2118770607722828120",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Ramp 数据：企业用的 AI 越来越多，花的钱 8、9 月几乎没涨，Anthropic 上市估值预期降到 1.2 万亿到 1.3 万亿美元\n\n美国企业财务软件公司 Ramp 的最新数据显示，企业消耗的 token 还在猛涨，但花在 token 上的钱从 8 月起基本停了。7 月企业 token 支出比上月涨了 42%，8 月只涨 1%，9 月只涨 0.2%。\n\n拿 Ramp 的周度数据算，从 8 月初到 10 月中，企业用掉的 token 多了约 65%，花的钱只多了 1.5%。\n\n这组数据由 Ramp 首席经济学家 Ara Kharazian 发布，TechCrunch 11 月 6 日做了报道。这时 Anthropic 正在准备 IPO，而投资者给它的高估值，前提是 AI 收入继续高速增长。\n\n【对用 AI 的公司和个人：同样的活，花得更少了】\n\n钱没涨，主要因为 AI 变便宜了。9 月 OpenAI 发布 GPT-6 Sol 和 Luna，API 价格直接砍半：Sol 从每百万输入 token 4 美元降到 2 美元。Anthropic 同月发 Fable 5.1 和 Opus 5.5，招股书说 Fable 5.1 让常见任务成本降了约 25%，Opus 5.5 每个任务的成本比 Opus 5 降了约 40%，一部分靠降价，一部分靠模型更省 token。\n\nRamp 统计的 OpenAI 和 Anthropic 综合单价，9 月下旬到 10 月下旬一个月就从每百万 token 0.76 美元降到 0.56 美元，降了 27%。\n\n企业自己也学会了省钱。Kharazian 说，AI 用得越熟的公司，越会给员工设预算，默认不让长任务跑最贵的模型，再用路由工具把活分给更便宜的小模型。\n\n还有更便宜的选择冒出来。TechCrunch 提到一个叫 Jev 的模型，来自前 OpenAI 研究员 Almeida 创办的 TypeSafe AI。它不生成文字，只在开发者事先设定好的几个答案里选一个，并给出把握有多大，适合“是不是垃圾邮件”“这条命令危不危险”这类判断题。它的输出 token 免费，输入按十亿 token 计价。Vercel 的数据显示，Jev 上线两周，它的 AI 网关上就有 35% 的付费团队在用。Kharazian 说：“很多 AI 用途只需要一个简单的是或否。”\n\n再加上 Meta、英伟达和一批中美开源模型在抢企业客户，Kharazian 认为现在是买方市场。他从企业那里听说，OpenAI 和 Anthropic 推的企业长约基本没有逼客户多花钱，签了还能拿到折扣。\n\n【花钱最多的那 1% 公司，开始不往上加了】\n\nRamp 此前发现，企业花在 OpenAI 和 Anthropic 上的钱，80% 来自最舍得花钱的 1% 公司。这批公司 7 月人均每月花 9873 美元，8 月掉到 8568 美元，9 月回升到 9568 美元，仍比 7 月低 3%。\n\n普通公司离这个数差得很远：排前 10% 的公司人均每月 813 美元，中位数公司只有 15.7 美元。Kharazian 说，软件、金融行业对 AI 编程有大量需求，但诊所、汽车经销店未必需要每人每月花上万美元。\n\n10 月有回暖：截至 10 月 23 日那一周，token 支出比一个月前同一周涨了 8.9%，token 用量涨了 37%。Kharazian 仍认为增速放缓的压力很大。\n\n【对 Anthropic IPO 意味着什么】\n\n在 Ramp 截至 10 月 23 日那一周的数据里，Anthropic 拿走了企业 token 支出的 60.5%，价格战首先打在它身上。\n\nAnthropic 11 月 2 日更新的招股书里，三季度收入 169.6 亿美元，比二季度的 115.6 亿涨了 47%，增长仍然很快。招股书同时写明，这个季度用量增长带来的收入，被新模型降价和合同折扣抵掉了约 6 亿美元。\n\n投资者的估值预期一路下调。据彭博社 11 月 6 日报道，10 月初投资者讨论的估值高达 2 万亿美元，10 月中投资者说明会后降到 1.4 万亿到 1.5 万亿，周四纳斯达克 100 指数单日暴跌 6.4% 后，部分潜在投资者在谈的是 1.2 万亿到 1.3 万亿。消息人士说还没有最终决定，Anthropic 不予置评。\n\n借钱的成本也可能变高。据《金融时报》10 月 30 日报道，黑石作为 Anthropic 一笔芯片融资的基石投资者，告诉参与这笔交易的投资者它预计 Anthropic 上市后的信用评级是 BB 级，属于“垃圾级”里最高的一档，而黑石之前的说法是 2027 年前能拿到投资级。这只是黑石的预测，评级机构还没出结果。\n\nOpenAI 也在降预期。《金融时报》10 月 31 日报道，OpenAI 这轮融资目标从 300 亿美元降到约 200 亿，投前估值从 1.4 万亿降到 1.25 万亿。\n\n【这份数据代表谁】\n\nRamp AI 指数覆盖 8.5 万多家用 Ramp 公司卡和付款系统的美国企业。token 用量和支出这组数据，只来自其中接入了 Ramp token 支出管理工具的公司，Ramp 自己说这批公司比整体样本更偏科技。Kharazian 对 TechCrunch 说，AI 支出几乎全部来自风投支持的高增长科技公司，它们一起放缓，就会一起拖累 AI 公司的收入。\n\n员工自己掏钱的个人账号、不用 Ramp 的公司，都不在统计里。\n\nNotion 联合创始人 Akshay Kothari 10 月 22 日发过 Notion 自己的数据，每周 token 用量一路往上，每百万 token 成本一路往下，配的话是“tokens go brrr. costs go ahhh”。\n\n投资者押注的是下一个像 AI 编程那样能大把花钱的新用途。OpenAI 的 Dots、xAI 的 Grok Bot、Meta 的 Muse 都是这个方向的个人 AI 助理。Kharazian 认为个人助理的经济产出不如编程，撑不起持续的高速增长。\n\n原文：https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/\nRamp 报告：https://ramp.com/data/ai-index-oct-2026",
+    "quoted_tweet": {
+      "author": "TechCrunch",
+      "username": "TechCrunch",
+      "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.\nhttps://spr.ly/6019BHNzY7"
+    },
+    "url": "https://x.com/dotey/status/2118773706402967960",
+    "time": "2026-11-07 02:33",
+    "created_at": "Fri Nov 06 18:33:11 +0000 2026",
+    "id_str": "2118773706402967960",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "比如西安的几所高校，\n西安交通大学本来是没啥军工项目的，但是在十几年前，做了保密审查，开始接少量的军工项目。\n西电又叫西军电，所以不用说了。\n西工大在各个黑名单上。\n西安工业大属于“兵器七子”之一，\n西安理工原来一机部下属大学。\n\n而且这个名单，还有漏网之鱼。其实可以反查。\n如果一个学校具备 军工一级保密资格 或者军工二级保密资格的，都是和军工有关系的。\n\n不过把二级资质拉黑的话，基本上就把中国top 100大学都给拉黑了。",
+    "quoted_tweet": {
+      "author": "Rainier",
+      "username": "mtrainier2020",
+      "text": "绝大部分和军工项目有关系。列这个表的人对国内军工项目了如指掌。"
+    },
+    "url": "https://x.com/mtrainier2020/status/2118788441177743484",
+    "time": "2026-11-07 03:31",
+    "created_at": "Fri Nov 06 19:31:44 +0000 2026",
+    "id_str": "2118788441177743484",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "没想到做个 DeepSeek Harness 插件，还要自己实现插件自动更新机制 😂",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "更新了 Baoyu Design Skill 的 DeepSeek Harness 插件，现在可以有统一的入口，看到所有生成的 Slides、Design、Dashboard、Motion 的结果，也方便发起相应的会话。\n\n更新地址：https://github.com/JimLiu/baoyu-design"
+    },
+    "url": "https://x.com/dotey/status/2118790959341441289",
+    "time": "2026-11-07 03:41",
+    "created_at": "Fri Nov 06 19:41:44 +0000 2026",
+    "id_str": "2118790959341441289",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@mtrainier2020 我要不是早几年就来不了美国了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118792726644691296",
+    "time": "2026-11-07 03:48",
+    "created_at": "Fri Nov 06 19:48:45 +0000 2026",
+    "id_str": "2118792726644691296",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TsukiWong Love this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118726517337284954",
+    "time": "2026-11-06 23:25",
+    "created_at": "Fri Nov 06 15:25:40 +0000 2026",
+    "id_str": "2118726517337284954",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Seedance 2.5 is now on Firefly Boards 🎉\n\nI've been using SD 2.5 for past few months for all my viral animations and so good to have it in Firefly Boards now that I use every day for making assets for my shows",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118798048541519887",
+    "time": "2026-11-07 04:09",
+    "created_at": "Fri Nov 06 20:09:54 +0000 2026",
+    "id_str": "2118798048541519887",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Excellent, does Firefly have MCP integration?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2118798233459965966",
+    "time": "2026-11-07 04:10",
+    "created_at": "Fri Nov 06 20:10:38 +0000 2026",
+    "id_str": "2118798233459965966",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife those two cats are the real stars of that board",
+    "quoted_tweet": null,
+    "url": "https://x.com/ElectraOnSol/status/2118798332835385645",
+    "time": "2026-11-07 04:11",
+    "created_at": "Fri Nov 06 20:11:02 +0000 2026",
+    "id_str": "2118798332835385645",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Oh great. Now I get to try it. Yay! 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/amynys/status/2118798781487497497",
+    "time": "2026-11-07 04:12",
+    "created_at": "Fri Nov 06 20:12:49 +0000 2026",
+    "id_str": "2118798781487497497",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Firefly Boards saves a bunch of time!\nI remember using it plenty a while ago when I had 3 months of free sub.",
+    "quoted_tweet": null,
+    "url": "https://x.com/AI_Timemachine/status/2118802310189187318",
+    "time": "2026-11-07 04:26",
+    "created_at": "Fri Nov 06 20:26:50 +0000 2026",
+    "id_str": "2118802310189187318",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife So exciting!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2118804301019537587",
+    "time": "2026-11-07 04:34",
+    "created_at": "Fri Nov 06 20:34:45 +0000 2026",
+    "id_str": "2118804301019537587",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone It does for enterprise \nhttps://developer.adobe.com/internals/mcp-registry-web-app/mcp/run-workflow",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118807079905595565",
+    "time": "2026-11-07 04:45",
+    "created_at": "Fri Nov 06 20:45:48 +0000 2026",
+    "id_str": "2118807079905595565",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AI_Timemachine You shall get into our CPP! You'd get free sub!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118807263704211721",
+    "time": "2026-11-07 04:46",
+    "created_at": "Fri Nov 06 20:46:31 +0000 2026",
+    "id_str": "2118807263704211721",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@amynys Enjoy, Amy!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118809409006494025",
+    "time": "2026-11-07 04:55",
+    "created_at": "Fri Nov 06 20:55:03 +0000 2026",
+    "id_str": "2118809409006494025",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely Me too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118809431790006549",
+    "time": "2026-11-07 04:55",
+    "created_at": "Fri Nov 06 20:55:08 +0000 2026",
+    "id_str": "2118809431790006549",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife How much are you paying them. Or are you just using them. 🙃",
+    "quoted_tweet": null,
+    "url": "https://x.com/CaffeineMike65/status/2118809498080907592",
+    "time": "2026-11-07 04:55",
+    "created_at": "Fri Nov 06 20:55:24 +0000 2026",
+    "id_str": "2118809498080907592",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ElectraOnSol It's one cat with different expression :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118809536865980696",
+    "time": "2026-11-07 04:55",
+    "created_at": "Fri Nov 06 20:55:33 +0000 2026",
+    "id_str": "2118809536865980696",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Here is my team.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2118809740319023365",
+    "time": "2026-11-07 04:56",
+    "created_at": "Fri Nov 06 20:56:22 +0000 2026",
+    "id_str": "2118809740319023365",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@CaffeineMike65 Paying them $300 a year :D",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118809885618196931",
+    "time": "2026-11-07 04:56",
+    "created_at": "Fri Nov 06 20:56:56 +0000 2026",
+    "id_str": "2118809885618196931",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I have 17 AI helpers with Grok Bot now \n\nOne for my animated series. One for books. One for Japanese. One for memes. One for pumpkin spice season. Two for work. \n\nMy little team 🤖 I'd love to see what bots you have",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118810051599278470",
+    "time": "2026-11-07 04:57",
+    "created_at": "Fri Nov 06 20:57:36 +0000 2026",
+    "id_str": "2118810051599278470",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard Nice!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118810157870403798",
+    "time": "2026-11-07 04:58",
+    "created_at": "Fri Nov 06 20:58:01 +0000 2026",
+    "id_str": "2118810157870403798",
+    "is_retweet": false
+  }
+]
