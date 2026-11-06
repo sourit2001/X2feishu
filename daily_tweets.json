@@ -1,1 +1,350 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 一开始生成了9帧的，叫gpt生成个30帧试试，感觉还是有点卡。（不知道为啥）\n\n第一张 gif 9帧，第二张 gif 30帧",
+    "quoted_tweet": null,
+    "url": "https://x.com/Sleep4993/status/2118525559210930346",
+    "time": "2026-11-06 10:07",
+    "created_at": "Fri Nov 06 02:07:08 +0000 2026",
+    "id_str": "2118525559210930346",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "提示词已经补充到我的提示词库里去了：https://op7418.github.io/guizang-s-prompt/",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118537386040975379",
+    "time": "2026-11-06 10:54",
+    "created_at": "Fri Nov 06 02:54:08 +0000 2026",
+    "id_str": "2118537386040975379",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Sleep4993 30 帧明显不稳定了呀，你看他人物都在飘，说明他连续单张图生成30张精灵图这个事他就不太稳定，而清晰度也下降了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118537674713903141",
+    "time": "2026-11-06 10:55",
+    "created_at": "Fri Nov 06 02:55:16 +0000 2026",
+    "id_str": "2118537674713903141",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 我发现还挺好用的~~\n抛弃typeless了😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/berryxia/status/2118578128398524715",
+    "time": "2026-11-06 13:36",
+    "created_at": "Fri Nov 06 05:36:01 +0000 2026",
+    "id_str": "2118578128398524715",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@berryxia 哈哈 可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2118597599888584975",
+    "time": "2026-11-06 14:53",
+    "created_at": "Fri Nov 06 06:53:24 +0000 2026",
+    "id_str": "2118597599888584975",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "强烈推荐所有技术人看看这篇复盘，黑客们是如何轻易地让你电脑中毒的，以及下面这个技巧🤣：\n\n“要不你们先打 1000U 给我验证一下，我们再继续面试。不打的话我就不说话了。然后把钱包地址一丢。过了一会儿，他们真的打了 1000U 过来。我收到之后就把对方拉黑了。”",
+    "quoted_tweet": null,
+    "url": "https://x.com/evilcos/status/2118546226782326848",
+    "time": "2026-11-06 11:29",
+    "created_at": "Fri Nov 06 03:29:15 +0000 2026",
+    "id_str": "2118546226782326848",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "以前我团队有个员工做事比较粗心，也比较懒，每次让别人 Review PR 都不自己测，一审查就发现很多问题，后来我就让他提交 PR 的时候必须要带上相关功能修改的截屏，这样效果很好，至少去截图的时候得测试一遍。\n\n现在我也把这一套应用在 AI 身上了，每次 Agent 任务完成，让它自己测试验证后，生成效果截图，让我看看效果。很多时候它自己截图的时候就发现问题，能顺手修复一下。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "Anthropic 的 Addy Osmani：一天合并三万次代码变更，人看的是 AI 交上来的证据\n\nAnthropic 今年 5 月每天往代码库里合并大约 2500 次代码变更，到 9 月已经超过 3 万次，涨了十几倍。这么多改动，显然不可能每一行都有人看过。那他们凭什么敢合并？\n\n负责 Claude Code 开发者体验的 Addy Osmani 在这场对谈里讲了他们的做法：每个改动先由 Claude 像真实用户一样实际用一遍、审一遍，发现问题自动修；人不再逐行读代码，而是去看 AI 交上来的证据，比如它在浏览器里点来点去的录屏、在手机和电脑上的截图。\n\n在他看来，写代码已经不是难点，接下来能不能再快一截，取决于能不能把“验证”做扎实。给 AI 一个检查自己做得对不对的办法，产出的质量能好两到三倍。如果你也在用 AI 写代码，又拿不准哪些改动敢直接合并，这期给了一份大公司内部的参考答案。\n\n这是 AI Engineer 大会上一场 18 分钟的台上对谈。Addy Osmani 在 Google 工作了大约 14 年，长期负责 Chrome 的开发者体验，写过大量面向开发者的文章，今年 9 月加入 Anthropic。提问的 Manish Kapur 在 Sonar 负责产品和开发者关系，Sonar 是做代码质量和安全检查工具的公司，旗下的 SonarQube 用来自动扫描代码里的漏洞和问题。\n\n【Anthropic 的做法：Claude 先审一遍，人看证据】\n\nManish 提到，他前一晚刚读了 Anthropic 发的一篇文章，里面说 Anthropic 现在每天合并约 3 万次代码变更。Addy 补充了两个数字：5 月的时候每天大约 2500 次；最近 http://Claude.ai 网页版重做，性能提到了原来的三倍左右，这次重做在很短时间里合并了大约 3000 个 PR（代码合并请求），参与的不只有工程师，还有产品设计师和其他岗位的人。\n\n他说他们的审查流程分几步。第一步是让 Claude 先审一遍，关键在于要让它能像真实用户一样把功能实际用一遍：跑端到端测试（从头到尾模拟用户操作的自动化测试），在浏览器里打开页面检查，运行各种工具和代码规范检查，凡是能建立信心的检查都做。\n\n发现 bug 或者功能缺口怎么办？他们设置了 Hook（一种在特定时机自动触发的脚本），每次代码有改动就自动运行，检查这次改了什么，这样 PR 里的问题能尽快被改掉。Anthropic 还有一个代码审查产品，他们自己也在用。整体思路是尽可能把代码审查自动化。\n\n第二步是把团队的“品味”写下来。Addy 说现在大家常讲品味和判断力，团队应该把自己认为的最佳实践和品味写进共享的 CLAUDE.md、AGENTS.md 这类文件（放在项目里、专门写给 AI 看的说明文档），AI 审代码时会去参考。\n\n第三步才轮到人，人负责检查 AI 给出的证据。他举的例子是：做一个用户在浏览器里用的界面，就要确认它在浏览器里测过，最好让 AI 生成一段它点来点去的录屏，看完你就有信心说“这个能用”；在意手机或桌面端的体验，就让它给出这些设备上的截图或录屏。他说目标是让 AI 尽可能多地提供验证证据。\n\n【瓶颈从写代码转到了验证】\n\nManish 给了几组数字说明问题。持续集成服务 CircleCI（代码提交后自动构建、测试的云服务）今年分析了 2800 万次自动化流程，发现代码产出量涨了 59%，但每 10 次往生产环境合并的尝试里有 3 次失败。Sonar 即将发布的一份调查里，76% 用 AI 生成代码的开发者说，代码产出的速度快到他们根本来不及验证。\n\nAddy 说，现在技术负责人最关心的是怎么在保证有信心的前提下更快上线。过去我们说一段代码质量高，依据是好的测试、性能基准、需求规格，这些能给人信心的东西现在都可以让 AI 便宜又快地生成出来，人再去修改完善。他认为工程师现在最该花时间的就是这些检查。\n\n至于下一步的提升从哪来，他说模型质量已经相当不错了，他举了 Opus 5.5 为例。更大的空间在验证，而且要讲具体。你跟人说“验证一下”，对方下一个问题就是“验证到底指什么”。所以讨论应该落到哪些测试真正有用上。Anthropic 用得最多的是三类：端到端测试；属性测试，也就是不写一个个具体例子，而是写一条规则（比如“排序后列表长度不变”），让程序自动生成大量随机输入去验证；还有视觉验证测试，通过截图对比检查界面有没有变样。目标是有足够的信心让这些改动自动合并。\n\nManish 从 Sonar 的角度补充了一个“多层验证”的框架，主张零信任，在每个环节都验证。第一层是规则固定的自动扫描，查 SQL 注入这类安全漏洞和常见 bug；第二层是 AI 审查，查规则扫不出来的逻辑问题，以及代码是否符合本来的意图；第三层是软件供应链检查，看项目依赖的第三方代码包里有没有已知漏洞或恶意代码。每一层专门抓一类问题。\n\n【从“亮灯工厂”到“熄灯工厂”，自主权要一步步挣】\n\n对谈的标题里有个说法叫“软件工厂”，来自 Addy 今年写的一篇文章，他的定义是“把循环规模化”：让 AI 一遍又一遍地规划、编写、检查、上线代码。他把软件工厂分成两种。亮灯工厂里，AI 承担这些步骤，但人还在里面，用自己的判断和品味把关。熄灯工厂更像全自动的汽车厂，机器人一直在干活，人退到更上游，只负责定方向，只有遇到最特殊的例外情况才被叫进来。\n\n他说大多数团队处在两者之间，都在摸索怎么在信得过的前提下一步步提高自动化程度。AI 能给出的验证越多、越让人有信心，就越能往熄灯的方向走。Sonar 的调查显示，目前只有 5% 的公司在用软件工厂，预计会涨到 34%，金融行业是 39%。被问到 2027 年底大多数团队会是哪种工厂，Addy 的判断是：亮灯工厂为主，带着一些熄灯的角落。\n\n自动化程度高了，管控就成了企业的难题。Addy 说，几个月前他接触过的很多公司都在担心同一件事：放手让工程团队用 AI 智能体，结果冒出了几百甚至几千个智能体，谁也不知道它们在干什么，它们访问各种系统和数据，可能还在往生产环境部署。他总结企业最关心三件事：怎么控制、怎么分配权限、怎么用沙箱（隔离的运行环境）保证智能体不越界。\n\nAI 写的代码要不要在 PR 里标出来？Addy 认为应该。过去工程师对自己写的代码有很强的归属感，在 Anthropic 大家没那么在意 Claude 被署名为作者，更看重给用户交付的东西对不对。标出来还有一个用处：知道是 AI 写的，就能决定要加哪些额外的约束和检查。Manish 也同意，他认为至少未来半年到九个月里应该标注，对金融客户来说还关系到审计。两人都强调责任归属不变。Addy 说，就算这次是我让 Claude 去干的活，出了问题还是我负责，还得我去修。\n\n那 AI 开的 PR 什么时候能放心合并？Addy 的回答是：你有充分的信心不会出问题，或者已经尽可能把风险降下来的时候。\n\n快问快答里，Addy 还给了两条建议。对技术负责人，要推着团队想清楚“验证”具体指什么，现在的测试做到了哪一步，离“AI 自己判断代码可以合并、你也放心”还差什么。对刚入行的开发者，多积累各种测试的经验，端到端测试、属性测试都要会。\n\n【不逐行看代码，和不验证是两回事】\n\nAnthropic 一天三万次合并，人显然也没有逐行看，但按 Addy 的说法，每次合并之前 AI 都得先把功能实际跑一遍，再把证据交给人看。省掉的是读代码的时间，验证一步都没少。\n\n他们能这样做是有前提的。\n\n一是模型，Addy 自己提到 Opus 5.5 这一代已经够好，我也是用上 Fable 和 Opus 5.5 之后才放心不怎么 Review。\n\n二是验证的基础设施：端到端测试、自动录屏、每次改动都触发的检查，这些都得先搭好。\n\n为了扛住这个量，据 Anthropic 10 月发的工程博客，他们连 Git 都换成了自己开发的版本管理系统。这样的投入，大多数团队一时做不到。\n\n所以我的建议是，想少看代码，别先急着把 Review 关掉，先补上 Addy 说的那一步：让 AI 交活的时候附上证据。如果不知道从哪里下手的话，可以从最容易出问题的界面开始，要求它在浏览器里实际操作一遍，给你截图或录屏。证据还是要你自己看，只是看录屏比读几百行代码快得多。\n\n另外，Manish 讲的三层验证框架可以参考，不过 Sonar 本身就是卖代码检查工具的，听这部分时心里有个数就行。\n\n视频来源：https://www.youtube.com/watch?v=AnsXWH2_EBU"
+    },
+    "url": "https://x.com/dotey/status/2118569598379229219",
+    "time": "2026-11-06 13:02",
+    "created_at": "Fri Nov 06 05:02:08 +0000 2026",
+    "id_str": "2118569598379229219",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我的codex好像没有要求也会自己截图",
+    "quoted_tweet": null,
+    "url": "https://x.com/LiuGods/status/2118570400196276387",
+    "time": "2026-11-06 13:05",
+    "created_at": "Fri Nov 06 05:05:19 +0000 2026",
+    "id_str": "2118570400196276387",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@LiuGods Codex 验证是做的不错，它截图是给自己看的中间结果，有时候还是需要人看看",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118570828711276765",
+    "time": "2026-11-06 13:07",
+    "created_at": "Fri Nov 06 05:07:01 +0000 2026",
+    "id_str": "2118570828711276765",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Starting today, every engineer who joins Serval begins with a weeklong, $10,000 paid vacation. We’re building the next generational company. We need generational talent to see it through.\n\nOur mission has always been to empower people across every team to turn their understanding of a problem into working, trustworthy automations. Making that function inside the largest enterprises takes world-class engineering.\n\nThat’s what you’d be joining us to do. There are foundational decisions still to make, and the engineers making them will shape the future of how big we can build this company.\n\nWe want you to arrive rested and ready to do the best work of your life. So your first week is a chance to get away.\n\nAnd if a @getserval employee refers you, both you and that employee receive $30,000, on top of the vacation.\n\nCome build with us: https://www.serval.com/careers",
+    "quoted_tweet": {
+      "author": "Kaz Hishida",
+      "username": "khishida",
+      "text": "https://x.com/i/article/2118375976992227328"
+    },
+    "url": "https://x.com/AlexAtServal/status/2118396934566097349",
+    "time": "Thu Nov 05 17:36:01 +0000 2026",
+    "created_at": "Thu Nov 05 17:36:01 +0000 2026",
+    "id_str": "2118396934566097349",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@levie Congrats on the launch!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118401021517140068",
+    "time": "Thu Nov 05 17:52:16 +0000 2026",
+    "created_at": "Thu Nov 05 17:52:16 +0000 2026",
+    "id_str": "2118401021517140068",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The RL era of robotics is here, and simulation is how to scale it.\n\nAn early look at our research on a achieving a better scaling paradigm for robot learning with simulation 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/moonlake/status/2118405991662493737",
+    "time": "Thu Nov 05 18:12:01 +0000 2026",
+    "created_at": "Thu Nov 05 18:12:01 +0000 2026",
+    "id_str": "2118405991662493737",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@moonlake Cooking 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118424521669800286",
+    "time": "Thu Nov 05 19:25:39 +0000 2026",
+    "created_at": "Thu Nov 05 19:25:39 +0000 2026",
+    "id_str": "2118424521669800286",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "If you can watch this video, and really understand what the hell is going on, you're front-running the next trillion dollar boom of 2027/28. \n\nStrongly recommend everyone give this a watch.",
+    "quoted_tweet": {
+      "author": "Moonlake",
+      "username": "moonlake",
+      "text": "The RL era of robotics is here, and simulation is how to scale it.\n\nAn early look at our research on a achieving a better scaling paradigm for robot learning with simulation 👇"
+    },
+    "url": "https://x.com/vasuman/status/2118425412980318639",
+    "time": "Thu Nov 05 19:29:11 +0000 2026",
+    "created_at": "Thu Nov 05 19:29:11 +0000 2026",
+    "id_str": "2118425412980318639",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Bugs are piling up faster than attackers can use them\n\nPublished vulnerabilities grew more than 3x since 2017, and confirmed exploits in the wild stayed under 900 a year\n\nFull piece from a16z's Asaf Ezra and Steph Zhang on AI and the patch gap: https://www.a16z.news/p/the-exploit-was-the-bottleneck",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118161646514278401"
+    },
+    "url": "https://x.com/a16z/status/2118418125435904271",
+    "time": "Thu Nov 05 19:00:14 +0000 2026",
+    "created_at": "Thu Nov 05 19:00:14 +0000 2026",
+    "id_str": "2118418125435904271",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Figma CFO Praveer Melwani says AI makes a financial model easy to build, so his hiring case study tests whether you still did the thinking:\n\n\"Right now I'm hiring for a VP of finance. And the case study part of the process for me is so, so sacred. I wanna both test for, how are you using the tools available to you... but how you actually piece those puzzle pieces together in a way that actually makes sense.\"\n\n\"Have you really, really understood the structure that you've created?... Do you have a strong intuition on how the business is actually working using the tool that you've created? Can you effectively communicate that?\"\n\n\"Anyone can go and create like a model. Pick your favorite LLM. You can go and do that really, really easily. But are you using it as an effective tool that actually is enabling you to think?\"\n\n\"You don't wanna outsource your thinking today. I think you wanna use AI as a tool to help you and empower you. But it's really, really critical to still be that thinker.\"\n\n@figma",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Figma CFO Praveer Melwani used to spend his days writing hundreds of lines of SQL just to get one set of numbers everyone trusted. Now his finance team builds its own AI tools to do that work.\n\nHe sees the CFO's job shifting from traffic cop to business enabler, as long as the people doing the building still own their thinking.\n\nPraveer joins a16z's Seema Amble and Ivan Makarov, authors of \"You Need a New CFO,\" to discuss the growth-stage finance team that built 40 to 50 agents in a month or two, what breaks when every rep vibe codes their own dashboard, and how finance went from sitting out hackathons to winning them.\n\n0:00 From traffic cop to business enabler\n8:48 Hire people who understand the model\n12:20 Vibe coding a target to test moats\n13:15 An AI Dylan Field reviews the memos\n18:01 Let AI make the messy data calls\n20:00 Unused agents still build the habit\n20:46 The CIO's new job: scale what works\n22:36 The rise of the finance engineer\n26:24 Why the board trusts his numbers\n30:25 AI tools as a recruiting perk\n40:35 Why Excel is his \"love language\"\n44:20 What to look for in your next CFO\n\nYouTube: https://youtu.be/9iAQdKxyiQc\n\n@figma @seema_amble @IvanoMakSF"
+    },
+    "url": "https://x.com/a16z/status/2118433333973803219",
+    "time": "Thu Nov 05 20:00:40 +0000 2026",
+    "created_at": "Thu Nov 05 20:00:40 +0000 2026",
+    "id_str": "2118433333973803219",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI can write an exploit before most companies have read the advisory\n\nHow long it took to turn a patched bug into a working attack:\n- 2017: about 3 weeks for a professional\n- 2023: about 1 week\n- 2025: an afternoon with AI\n\nFull piece from a16z's Asaf Ezra and Steph Zhang on AI and the patch gap: https://www.a16z.news/p/the-exploit-was-the-bottleneck",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118161646514278401"
+    },
+    "url": "https://x.com/a16z/status/2118448320905679276",
+    "time": "Thu Nov 05 21:00:13 +0000 2026",
+    "created_at": "Thu Nov 05 21:00:13 +0000 2026",
+    "id_str": "2118448320905679276",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Figma CFO Praveer Melwani says AI acccess is now a recruiting tool, and the companies that win talent are the ones where you can see people building:\n\n\"The policies that we created and the freedom we've given folks to explore are the reasons why some folks are like, 'I wanna stay here. I really, really like what I'm doing.'\"\n\n\"I don't know if folks are actually treating access to technology as a recruiting vehicle as much as they could or should. You know, I've at least started to do that in the recruiting conversations since I started to hear that from the team.\"\n\n\"Especially when you're trying to pull from folks who are not necessarily in technology. They're like, 'Oh my gosh, this is my front entrance into an entirely new world, and if I'm empowered to learn, this is really cool.'\"\n\n\"If you get this feeling that you're joining an organization that's not just saying that they give access to these things, but they're actually building and that you can see it and you can feel it through the interview process, those are the places I'd gravitate to.\"\n\n@figma @IvanoMakSF",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Figma CFO Praveer Melwani used to spend his days writing hundreds of lines of SQL just to get one set of numbers everyone trusted. Now his finance team builds its own AI tools to do that work.\n\nHe sees the CFO's job shifting from traffic cop to business enabler, as long as the people doing the building still own their thinking.\n\nPraveer joins a16z's Seema Amble and Ivan Makarov, authors of \"You Need a New CFO,\" to discuss the growth-stage finance team that built 40 to 50 agents in a month or two, what breaks when every rep vibe codes their own dashboard, and how finance went from sitting out hackathons to winning them.\n\n0:00 From traffic cop to business enabler\n8:48 Hire people who understand the model\n12:20 Vibe coding a target to test moats\n13:15 An AI Dylan Field reviews the memos\n18:01 Let AI make the messy data calls\n20:00 Unused agents still build the habit\n20:46 The CIO's new job: scale what works\n22:36 The rise of the finance engineer\n26:24 Why the board trusts his numbers\n30:25 AI tools as a recruiting perk\n40:35 Why Excel is his \"love language\"\n44:20 What to look for in your next CFO\n\nYouTube: https://youtu.be/9iAQdKxyiQc\n\n@figma @seema_amble @IvanoMakSF"
+    },
+    "url": "https://x.com/a16z/status/2118463531452703022",
+    "time": "Thu Nov 05 22:00:39 +0000 2026",
+    "created_at": "Thu Nov 05 22:00:39 +0000 2026",
+    "id_str": "2118463531452703022",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Confirmed ransomware attacks on healthcare providers grew about 6x from 2018 to 2024\n\nAverage days a US provider was down per attack:\n- 2018: 4\n- 2021: 17\n- 2024: 18\n\nFull piece from a16z's Asaf Ezra and Steph Zhang on AI and the patch gap: https://www.a16z.news/p/the-exploit-was-the-bottleneck",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118161646514278401"
+    },
+    "url": "https://x.com/a16z/status/2118478510276911515",
+    "time": "Thu Nov 05 23:00:10 +0000 2026",
+    "created_at": "Thu Nov 05 23:00:10 +0000 2026",
+    "id_str": "2118478510276911515",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Muse 也能打电话了\n\n但是\n好像比\n\nGrok Bot 好用一些了，不得不说每家公司基因不一样确实干活不一样，Meta to C的能力就是很强...\n\n产品定位很符合大众",
+    "quoted_tweet": {
+      "author": "Muse",
+      "username": "Muse",
+      "text": "Introducing Voice. Talk to your Muse and Muse talks back, so you can go from “what should I cook?” to cooking, just like that ✨"
+    },
+    "url": "https://x.com/xiaohu/status/2118512604868219270",
+    "time": "2026-11-06 09:15",
+    "created_at": "Fri Nov 06 01:15:39 +0000 2026",
+    "id_str": "2118512604868219270",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "你敢信？\nMacBook Pro 触摸屏\n\n可以这样玩？？？",
+    "quoted_tweet": {
+      "author": "Tim Pan",
+      "username": "mediastorm_en",
+      "text": "MacBook Pro Review: A Lot of Touches Later…"
+    },
+    "url": "https://x.com/xiaohu/status/2118514934506258923",
+    "time": "2026-11-06 09:24",
+    "created_at": "Fri Nov 06 01:24:55 +0000 2026",
+    "id_str": "2118514934506258923",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "美股暴跌，AI 股全线崩盘 📉\n\n纳指跌 5.5%，标普一天蒸发 2.8 万亿美元\n\n费城半导体指数跌 12.3%，英伟达一天蒸发近 4500 亿美元\n\n今早韩国股市开盘跌 8%，全市场暂停交易\n\n这一跌是怎么来的？\n今天的小互 AI 日报从头讲清楚，另外还有 8 条 AI 大事 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2118530641616875637",
+    "time": "2026-11-06 10:27",
+    "created_at": "Fri Nov 06 02:27:20 +0000 2026",
+    "id_str": "2118530641616875637",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "小互首次真人出镜...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2118532041348460991",
+    "time": "2026-11-06 10:32",
+    "created_at": "Fri Nov 06 02:32:53 +0000 2026",
+    "id_str": "2118532041348460991",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "兄弟们\n这个项目我真觉得可以投啊\n\n很有前景🤣",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2118577156670607587",
+    "time": "2026-11-06 13:32",
+    "created_at": "Fri Nov 06 05:32:10 +0000 2026",
+    "id_str": "2118577156670607587",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 6啊！这个视频的原创作者请问是谁啊？",
+    "quoted_tweet": null,
+    "url": "https://x.com/deepcarryai/status/2118592433282044408",
+    "time": "2026-11-06 14:32",
+    "created_at": "Fri Nov 06 06:32:52 +0000 2026",
+    "id_str": "2118592433282044408",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@deepcarryai 抖音：AI创意研习社",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2118593405454565866",
+    "time": "2026-11-06 14:36",
+    "created_at": "Fri Nov 06 06:36:44 +0000 2026",
+    "id_str": "2118593405454565866",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@carolletta @icreatelife Hope Kris does too",
+    "quoted_tweet": null,
+    "url": "https://x.com/mezdez/status/2118534882322469357",
+    "time": "2026-11-06 10:44",
+    "created_at": "Fri Nov 06 02:44:11 +0000 2026",
+    "id_str": "2118534882322469357",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@mezdez @carolletta Thanks a lot, Matt! Love this",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118574078797701134",
+    "time": "2026-11-06 13:19",
+    "created_at": "Fri Nov 06 05:19:56 +0000 2026",
+    "id_str": "2118574078797701134",
+    "is_retweet": false
+  }
+]
