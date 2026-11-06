@@ -333,5 +333,112 @@
     "created_at": "Fri Nov 06 20:58:01 +0000 2026",
     "id_str": "2118810157870403798",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You burn your weekly Claude limit by Wednesday.\n\nMost of it is the top model doing easy work.\n\nOne builder hit 85% of his weekly limit by midweek and found exactly that. On the API the gap is easy to see: 1,000 tasks cost $60 on one top model and $9.96 when each task goes to the cheapest model that can do it.\n\nThe 6 levers, free wins first:\n→ Cache. Put files you reuse in a Project instead of uploading them in every chat.\n→ Shape the output. Ask for \"5 bullets\" or \"under 100 words\" when that's all you need.\n→ Send less. New task, new chat. Claude rereads the whole chat on every message.\n→ Batch. Five small asks in one message beat five messages.\n→ Lower the effort. Turn off extended thinking for rewrites and summaries.\n→ Route. Sonnet or Haiku for easy work, Opus only for hard calls.\n\nBefore: fixing an email in a 60-message Opus chat with thinking on.\nAfter: a fresh chat, Sonnet, thinking off. Same email.\n\nPrompt 1: The weekly audit (run it today)\n\n\"Here's what I used Claude for this week: [list tasks, rough is fine]. My plan: [Pro/Max]. Models I can pick: [list].\n- Sort every task into easy, medium or hard.\n- For each one, name the cheapest model that would have done it well, and whether it needed extended thinking.\n- Tell me which 3 habits burned the most of my limit and the one change that saves the most.\nBe blunt. A short table, then 3 bullets.\"\n\nPrompt 2: The router (run it in a light model before any big task)\n\n\"Act as my model router. My plan: [Pro/Max]. Models I can pick: [list]. Here's the task: [task].\n- Rate it: easy (rewrite, summary, format), medium (research, analysis, drafting) or hard (multi-step plan, debugging, a decision with tradeoffs).\n- Pick the model and say if extended thinking is worth it. One line each.\n- Rewrite my task as a tight prompt for that model: goal, context it needs, output format, length limit.\n- Tell me what to paste in and what to leave out.\nUnder 150 words.\"\n\nPrompt 3: The handoff (when a chat gets long)\n\n\"This chat is getting long. Write a handoff note I can paste into a new chat: the goal, decisions we made, where we are now, open questions and the next step. Under 200 words. Skip anything we rejected.\"\n\nOur take: run one week like this before you pay for a bigger plan.\n\nWe put all 6 levers, 3-tier routing at current prices, a Sheets calculator and 10 before/after examples with the math into a free guide. Link in the first reply.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118784913789108369",
+    "time": "2026-11-07 03:17",
+    "created_at": "Fri Nov 06 19:17:43 +0000 2026",
+    "id_str": "2118784913789108369",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Free guide: Cut Your AI Token Costs → https://godofprompt.ai/guides/cut-ai-token-costs",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118784925969305851",
+    "time": "2026-11-07 03:17",
+    "created_at": "Fri Nov 06 19:17:46 +0000 2026",
+    "id_str": "2118784925969305851",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "the guy behind the Center for AI Safety thinks alignment is an identity problem\n\nDan Hendrycks' Eigenism paper says make the AI see us as partly itself, and it'll care about us for selfish reasons\n\nhow it works:\n\n> your \"self\" is a pattern of info, not a body\n> anyone who shares your memories, projects and goals is partly you\n> so you care about them the way you care about future you\n\nthe whole thing is one sum:\n\nΣ c·w\n\nc = how connected you are to someone\nw = how well they're doing\n\nhis alignment fix:\n\n> wire AI deep into human lives\n> give it shared memories and projects with us\n> its self overlaps with ours, so our wellbeing counts\n\nthe catch:\n\n> a stranger who shares nothing gets c near zero\n> so their wellbeing barely counts\n\nwhich makes this a context problem\n\nwhoever the AI spends its context with is who it ends up caring about",
+    "quoted_tweet": null,
+    "url": "https://x.com/rryssf/status/2118792520813752402",
+    "time": "2026-11-07 03:47",
+    "created_at": "Fri Nov 06 19:47:56 +0000 2026",
+    "id_str": "2118792520813752402",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "jailbreak prompts just got their own threat scale\n\nthe era of \"pretend you're my grandma reading napalm recipes\" is officially over",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections.\n\n\"...This framework is an important step toward a common methodology for evaluating and comparing the severity of cyber jailbreaks, including the capabilities they unlock and how readily they can be used. Shared approaches like this can help the AI and security communities build a clearer evidence base and prioritize improvements to safeguards.\"  - OpenAI's Sasha Baker, Head of National Security Policy\n\nhttps://www.frontiermodelforum.org/updates/introducing-the-fmf-jailbreak-rating-framework-for-frontier-cyber-threats/"
+    },
+    "url": "https://x.com/godofprompt/status/2118797907440656536",
+    "time": "2026-11-07 04:09",
+    "created_at": "Fri Nov 06 20:09:21 +0000 2026",
+    "id_str": "2118797907440656536",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Claude Code cloud sessions now set up your repo for you.\n\nwhat it handles:\n\n> figures out dependencies\n> figures out network access\n> asks for the API keys it needs\n> saves the whole environment for next time\n\nand your keys stay hidden from Claude\n\nif setup was the reason you never tried cloud sessions, that excuse is gone. on Pro, Max and Ultra",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "We've made it easier to get your repo running in Claude Code cloud sessions on Pro, Max, and Ultra.\n\nClaude figures out what dependencies, network access, and API keys it needs, then saves the environment for next time. API keys are saved securely, so Claude never sees them."
+    },
+    "url": "https://x.com/godofprompt/status/2118801024890855652",
+    "time": "2026-11-07 04:21",
+    "created_at": "Fri Nov 06 20:21:44 +0000 2026",
+    "id_str": "2118801024890855652",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This is crazy. They figured out how to create threads that have touchscreen LEDs in them and have started weaving them directly into clothes. Now any piece of clothing can be a touchscreen display.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2118779058519785921",
+    "time": "2026-11-07 02:54",
+    "created_at": "Fri Nov 06 18:54:27 +0000 2026",
+    "id_str": "2118779058519785921",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Is posting every hour the best growth strategy on X?",
+    "quoted_tweet": null,
+    "url": "https://x.com/andrewcshin7/status/2118798930917925199",
+    "time": "2026-11-07 04:13",
+    "created_at": "Fri Nov 06 20:13:25 +0000 2026",
+    "id_str": "2118798930917925199",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@andrewcshin7 No",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2118802796749508830",
+    "time": "2026-11-07 04:28",
+    "created_at": "Fri Nov 06 20:28:46 +0000 2026",
+    "id_str": "2118802796749508830",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "More things to come, join our Cyber at the Frontier livestream on November 12, 10am PT: https://openai.com/cyber-at-the-frontier",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2118802895604994463",
+    "time": "2026-11-07 04:29",
+    "created_at": "Fri Nov 06 20:29:10 +0000 2026",
+    "id_str": "2118802895604994463",
+    "is_retweet": false
   }
 ]
