@@ -556,5 +556,266 @@
     "created_at": "Sat Nov 07 16:26:40 +0000 2026",
     "id_str": "2119104258670989402",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "GPUI 除了 webview 之外。\n\n【没有】【任何】【缺点】。\n\n它比原生更原生。面向显示器编程。",
+    "quoted_tweet": null,
+    "url": "https://x.com/chunxiangai/status/2119056820467896372",
+    "time": "2026-11-07 21:18",
+    "created_at": "Sat Nov 07 13:18:10 +0000 2026",
+    "id_str": "2119056820467896372",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ring_hyacinth @simonxxoo 牛逼👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119095291068735897",
+    "time": "2026-11-07 23:51",
+    "created_at": "Sat Nov 07 15:51:02 +0000 2026",
+    "id_str": "2119095291068735897",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@chunxiangai 其实坑挺多的，不是适合所有场景\nhttps://x.com/dotey/status/2112552063640997984",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "感谢分享，我说一下我在上一个版本 baocut 用 GPUI 踩的坑。\n\nGPUI 挺好的，性能好，跨平台，AI 友好，但也有坑：\n1. UI 复杂一点的话大概率你要 fork 一份改一下，有些功能原生支持不了，但也不是大问题\n\n2. Accessibility 支持不太好，要支持一些键盘操作会比较麻烦（也可能我用法不对）\n\n3. Rust 编译资源消耗很大\n每次编译，无论是 CPU 占用还是磁盘占用，都巨大，对于我这样用 Mac Mini M4 16G + 1T 硬盘的来说简直太痛苦了，不敢并行多开编译任务，磁盘空间永远不够用（后来我把编译结果默认放到移动硬盘缓解了一点）\n\n4. 编译时间很长，不支持热更新。\n这点很要命，这意味着你如果改一点 UI 代码，要重新编译，然后要等少则几分钟多则十几分钟，这时间无论对于 agent 还是对于人来说都是很大的时间成本，加上不能随便多任务，会拖慢你的开发速度\n\n5. agent 验证 UI 不算太友好\ncodex、claude code 都可以借助 computer use 去验证 GPUI 的结果，但一个是慢，另一个相对成本也不低。\n\n---\n\n后来我之所以换回 Electron，就是因为 Electron App 对于 Agent 相对友好，编译快、热更新，UI 改动很快看到效果，然后 Electron App 还能跑到 agent 内置的浏览器中，agent 验证起来很快，都不需要用 computer use 去打开 electron app。\n\n至于网页渲染性能不够好的问题，我把原来一些需要复杂渲染的部分，都用 rust 编译成了 wasm，这样在浏览器运行也可以保证高性能。\n\n以前 rust 做的转录、tts 模块也都以 worker 进程的形式保留下来了，electron 需要用到的时候可以直接起 rust 编译出来的进程（Codex 也是类似），和这些进程通信，后台的性能也比纯 TypeScript + Node 要好不少。\n\n有兴趣的话可以看代码库：https://github.com/jimliu/baocut"
+    },
+    "url": "https://x.com/dotey/status/2119108285316153572",
+    "time": "2026-11-08 00:42",
+    "created_at": "Sat Nov 07 16:42:41 +0000 2026",
+    "id_str": "2119108285316153572",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "如果你打算用 GPUI 之前可以看看这篇",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "感谢分享，我说一下我在上一个版本 baocut 用 GPUI 踩的坑。\n\nGPUI 挺好的，性能好，跨平台，AI 友好，但也有坑：\n1. UI 复杂一点的话大概率你要 fork 一份改一下，有些功能原生支持不了，但也不是大问题\n\n2. Accessibility 支持不太好，要支持一些键盘操作会比较麻烦（也可能我用法不对）\n\n3. Rust 编译资源消耗很大\n每次编译，无论是 CPU 占用还是磁盘占用，都巨大，对于我这样用 Mac Mini M4 16G + 1T 硬盘的来说简直太痛苦了，不敢并行多开编译任务，磁盘空间永远不够用（后来我把编译结果默认放到移动硬盘缓解了一点）\n\n4. 编译时间很长，不支持热更新。\n这点很要命，这意味着你如果改一点 UI 代码，要重新编译，然后要等少则几分钟多则十几分钟，这时间无论对于 agent 还是对于人来说都是很大的时间成本，加上不能随便多任务，会拖慢你的开发速度\n\n5. agent 验证 UI 不算太友好\ncodex、claude code 都可以借助 computer use 去验证 GPUI 的结果，但一个是慢，另一个相对成本也不低。\n\n---\n\n后来我之所以换回 Electron，就是因为 Electron App 对于 Agent 相对友好，编译快、热更新，UI 改动很快看到效果，然后 Electron App 还能跑到 agent 内置的浏览器中，agent 验证起来很快，都不需要用 computer use 去打开 electron app。\n\n至于网页渲染性能不够好的问题，我把原来一些需要复杂渲染的部分，都用 rust 编译成了 wasm，这样在浏览器运行也可以保证高性能。\n\n以前 rust 做的转录、tts 模块也都以 worker 进程的形式保留下来了，electron 需要用到的时候可以直接起 rust 编译出来的进程（Codex 也是类似），和这些进程通信，后台的性能也比纯 TypeScript + Node 要好不少。\n\n有兴趣的话可以看代码库：https://github.com/jimliu/baocut"
+    },
+    "url": "https://x.com/dotey/status/2119108669392720336",
+    "time": "2026-11-08 00:44",
+    "created_at": "Sat Nov 07 16:44:12 +0000 2026",
+    "id_str": "2119108669392720336",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师你的评论区ai太多了",
+    "quoted_tweet": null,
+    "url": "https://x.com/BtfkmS/status/2119122997810450939",
+    "time": "2026-11-08 01:41",
+    "created_at": "Sat Nov 07 17:41:08 +0000 2026",
+    "id_str": "2119122997810450939",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@BtfkmS 现在整个 X 都好不到哪去，当然我这里确实更为严重",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119124412322460105",
+    "time": "2026-11-08 01:46",
+    "created_at": "Sat Nov 07 17:46:45 +0000 2026",
+    "id_str": "2119124412322460105",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Mac 上也能玩《燕云十六声》了，体验还不错，接上 XBox 手柄可以用手柄玩",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119130688737718462",
+    "time": "2026-11-08 02:11",
+    "created_at": "Sat Nov 07 18:11:42 +0000 2026",
+    "id_str": "2119130688737718462",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝哥觉得燕云好玩吗，之前想入坑，玩了几个小时没坚持下去，当时 mac 玩不了在 iPad 玩的",
+    "quoted_tweet": null,
+    "url": "https://x.com/SpencerSi81456/status/2119133784947966029",
+    "time": "2026-11-08 02:24",
+    "created_at": "Sat Nov 07 18:24:00 +0000 2026",
+    "id_str": "2119133784947966029",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@SpencerSi81456 我玩游戏不多，偶尔玩下还行",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119135880208363779",
+    "time": "2026-11-08 02:32",
+    "created_at": "Sat Nov 07 18:32:20 +0000 2026",
+    "id_str": "2119135880208363779",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "纽约时报 11 月 5 日发了一篇 Anthropic CEO Dario Amodei 的长篇人物稿，赶在 Anthropic 本月上市之前。记者采访了他二十多位同学、朋友、老师和同事，还看到了他早年的邮件和在 OpenAI 的内部消息。\n\nDario 通过公司发言人拒绝受访。所以下面的故事大多是别人的回忆，只有一部分有邮件、博客等文件佐证。\n\n这些人的说法归结起来是：Dario 年轻时泡在“理性主义”和“有效利他主义”两个圈子里，两者合在一起，让他认定 AI 危险到只有他和想法相近的人才值得托付去造。朋友和同事认为，这推动他抢在不在乎安全的人之前造出 AI，也让他想把这项技术掌控在自己手里。\n\n【两个圈子是什么】\n\n理性主义是围绕 Eliezer Yudkowsky 等人的博客形成的网络社群，讲究用冷静的推理看世界，其中很多人认为 AI 终将强大到毁掉人类社会。\n\n有效利他主义跟它差不多同时成长起来，主张用数学算清楚怎么捐钱、怎么做事，才能让好处最大。两边共同相信：靠严密的计算，可以改变人类的未来。\n\n【从小就爱算账】\n\nDario 在旧金山 Mission 区长大，父亲是皮匠，母亲管理公共图书馆的翻修工程。高中读的是旧金山最好的公立高中 Lowell，同时去伯克利上课。同学记得他那时就在琢磨功利主义，也就是“让最多的生命得到最多的幸福”。\n\n上大学后，他和高中好友在寿司店争论功利主义。Dario 吃素，但认为吃螃蟹没问题，因为螃蟹是无脊椎动物。\n\n朋友出了个思想实验：如果有人拼命杀鸡，杀到多少只时，杀掉这个人才算合理？据在场的 Nathan Avery 回忆，Dario 笑了笑，说从功利主义的角度看，总有某个数量的鸡，分量会超过一个人。\n\n【父亲去世，和“时间有限”】\n\n2006 年 Dario 从斯坦福毕业，去普林斯顿读物理博士，后来专攻生物物理和计算神经科学。同一年，父亲因丙肝去世。\n\n前女友 Jade Wang 回忆，两人常聊：一辈子只研究一种病的科学家，影响力比不上给整个领域造工具和方法的人。Dario 举的例子就是父亲，父亲没等到后来能治好大多数丙肝的药。\n\n2007 年，24 岁的 Dario 读完 Ray Kurzweil 的《奇点临近》，对来访的高中同学 Colin Heckman 说，奇点会在 2040 年前到来，人类以后可能和机器融合。Heckman 说他从此“着了魔”，说 AI 必须造对，不然人类就完了。\n\n那段时间，Dario 在读 Accelerating Future、Overcoming Bias 这类讨论 AI 毁灭人类的小众博客，还鼓动朋友和妹妹 Daniela 去参加 Yudkowsky 办的奇点研究所年会（现在叫机器智能研究所，MIRI）。\n\n纽约时报看到一封 2008 年的邮件，Dario 在信里称 Yudkowsky 是“我遇到过最深刻的思想者之一”。Yudkowsky 现在给纽约时报回邮件说，Dario 如今不向他请教，也不听他的建议，他也不记得 Dario 什么时候这样做过。\n\n同年，Dario 通过经济学家 Tyler Cowen 的博客知道了 GiveWell，一个评估慈善机构效率的组织，开始活跃在它的论坛上。2010 年他在邮件里说在考虑去做金融，好赚更多钱捐出去。\n\n同年他在 GiveWell 博客上公开盘算一笔 1 万美元的捐款，在成人结核病项目和非洲儿童疫苗项目之间权衡。他写道，成年人能有更深刻的体验，“一个成年人的死亡也许比一个婴儿的死亡糟糕两三倍”。最后他还是选了疫苗项目，理由是这家执行得更有效。\n\n2011 年起他在斯坦福做癌细胞研究的博士后，吃抗衰老补剂，严格坚持游泳，还研究节食延寿。Avery 说，他常讲时间是唯一不可再生的资源，对自己的时间“毫不留情”。据两位知情人说，2014 年他确诊睾丸癌，化疗后完全康复。\n\n【一屋子未来的创始人】\n\n那几年，Daniela 和 GiveWell 创始人 Holden Karnofsky 在交往（两人 2017 年结婚），住进旧金山一处合租屋。后来搬进来的还有 Dario、理论物理学家 Jared Kaplan，以及大学辍学、数学由 Dario 辅导过的 Chris Olah。\n\n据三位去过的人说，室友们会一起讨论 Yudkowsky 的文章，也一起去火人节，有时穿动物服装。Kaplan 和 Olah 后来与 Amodei 兄妹一起创办了 Anthropic，Karnofsky 2025 年也加入了公司。\n\n【在 OpenAI，立场变硬】\n\n2014 年 Dario 进入百度硅谷实验室，同事说他“几乎一有机会就激烈争论”。2015 年他对同事说，AI 可能很快赶上甚至超过人脑。同年他去 Google Brain 做 AI 安全，和 Olah 等人写了论文《AI 安全中的具体问题》。\n\n2016 年他加入当时还是非营利组织的 OpenAI，带安全团队和研究“规模定律”的团队。七位前同事说，他在 OpenAI 的立场越来越强硬。\n\n纽约时报看到的内部消息显示，2016 年特朗普当选三天后，Dario 写道，他“不愿在一个威权国家研究具有军事威力的技术”。他还说，给特朗普竞选捐了 125 万美元的 Peter Thiel “在道德上应受谴责”，OpenAI 不该再收他的钱。Thiel 创办的 Founders Fund 后来投资了 Anthropic。\n\n据三位知情人说，2017 年 Dario 牵线，让 Karnofsky 的慈善机构（现名 Coefficient Giving）给 OpenAI 捐了 3000 万美元，Karnofsky 也进了 OpenAI 董事会。Dario 当时是这家机构的技术顾问。\n\n2018 年 Daniela 加入 OpenAI，后来做到安全与政策副总裁，有员工开始担心兄妹俩影响力太大。据三位知情人说，那年 12 月研究员 Joshua Achiam 劝 Sam Altman 别让 Dario 当首席伦理官，认为 AI 的监督应该由不同视角的人分担，并坚持请外部专家。Dario 当面提高嗓门说，没有人比他更合适。\n\n同年兄妹俩接手了 GPT 项目，探索让 AI 在人类指导下学会做事的安全技术。纽约时报的判断是，先把 AI 推近危险、再用安全技术去检验，成了 Dario 此后整个职业生涯的做法。\n\n据两位知情人说，OpenAI 总裁 Greg Brockman 想参与 GPT，兄妹俩不让。Dario 多次对 Altman 说，不把 Brockman 挡在外面他就走。Altman 拒绝了。2020 年 12 月，Dario、Daniela 和几位同事离职，四周后创办了 Anthropic。\n\n【和今天的 Anthropic 有什么关系】\n\nAnthropic 2021 年成立时，Amodei 兄妹和另外五位联合创始人都在这两个圈子附近待过。纽约时报认为，公司做大以后，这套想法也随着 Dario 一次次公开表态变得越来越有分量：他主张限制对华芯片出口，主张监管 AI 防止失控，在和美国国防部的争执里坚持 AI 不能用于大规模监控美国人、不能用于自主武器。\n\n今年 9 月，Dario 发文呼吁放慢前沿 AI 的发展。他在文中说，只有把技术用正确的方式造出来，好处才会兑现，只要把争取到的时间用好，“值得格外谨慎地把它做对”。\n\nDario 本人一直在和这两个圈子划清界限。2023 年他上纽约时报播客《Hard Fork》时说，自己不算有效利他主义者，“认同其中不少观点”，但反对“把人分成不同部落”。\n\n来源（纽约时报）：https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html\nDario 9 月文章：https://darioamodei.com/post/we-must-pace-the-frontier",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119191652770226525",
+    "time": "2026-11-08 06:13",
+    "created_at": "Sat Nov 07 22:13:57 +0000 2026",
+    "id_str": "2119191652770226525",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Me always\n\nI have Muse driving ComfyUI now",
+    "quoted_tweet": null,
+    "url": "https://x.com/D_the_Designer/status/2119151365532606780",
+    "time": "2026-11-08 03:33",
+    "created_at": "Sat Nov 07 19:33:52 +0000 2026",
+    "id_str": "2119151365532606780",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Right now there are so many new things every day that i just can’t not enjoy trying all that i can",
+    "quoted_tweet": null,
+    "url": "https://x.com/brseoane/status/2119155159699706075",
+    "time": "2026-11-08 03:48",
+    "created_at": "Sat Nov 07 19:48:56 +0000 2026",
+    "id_str": "2119155159699706075",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@D_the_Designer That’s awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119156692189618239",
+    "time": "2026-11-08 03:55",
+    "created_at": "Sat Nov 07 19:55:02 +0000 2026",
+    "id_str": "2119156692189618239",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@brseoane So true! Agents are amazing in particular, I think",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119156797780947378",
+    "time": "2026-11-08 03:55",
+    "created_at": "Sat Nov 07 19:55:27 +0000 2026",
+    "id_str": "2119156797780947378",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Turn your profile picture or any photo to an entire fashion editorial? ✨\n\nWould love to see your versions of this. Here’s mine based on my pfp \n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119159225364726032",
+    "time": "2026-11-08 04:05",
+    "created_at": "Sat Nov 07 20:05:06 +0000 2026",
+    "id_str": "2119159225364726032",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Analyze the attached social media profile screenshot: its colors, profile picture, header, bio, post themes, and overall aesthetic. Create a fashion lookbook collage of the same fictional person plus styled object photos that captures the profile's identity.\n\nLayout: vertical 4:5, solid ecru background (#F3EEE4). A clean 3×3 grid of 3:4 tiles centered on the page, with wide outer margins (about 12% of the width) and thin gaps (about 2%). Square corners. Nothing goes into the margins.\n\nPeople: the four corner tiles and the center show the same photorealistic fictional adult with an identical face, hair, and makeup. Don't copy anyone from the screenshot. Each corner uses a bold, cropped angle: an extreme face close-up, a low angle, a high angle, and a body detail. Two diagonal corners sit in real fine-art frames, one thick wood and one ornate gold, with a wide white mat.\n\nCenter: a paper-cutout collage on the ecru background. A full-body cutout of the person, about twice a tile's height, overlaps the tiles above and below. It has a thin white hand-cut outline, a subtle shadow, and a slight tilt. Around it go 3–4 cutout accessories from the outfit, a scrap of colored paper, and a piece of masking tape.\n\nObjects: the four middle-edge tiles hold object photos that reflect the person's job, interests, and lifestyle (a bag, shoes or jewelry flat lays, work tools or favorite things, a motif from the profile). Each shows one small human detail, like fingertips, a sleeve, or a bag strap, never a face. Natural nails.\n\nMakeup: fresh glowing skin, high colored blush, one colored eye accent matching a background color, defined brows, glossy lips.\n\nFashion: five clearly different elevated smart-casual outfits, like a department store ad. Each has one statement piece (two of them patterned), one or two current details, a different accent color, mixed materials, and minimal accessories. No logos.\n\nColors: each photo has a seamless solid background in one of three colors: sage or teal, mustard, and the profile's signature color (deepened if too bright). Split them 3/3/2 across the eight tiles, with no matching tiles next to each other. Nothing childish or neon.\n\nLight: bright, soft, high-key studio light, with real skin and fabric texture, no HDR.\n\nText: one short positive English phrase (2–4 words) in small, thin, spaced-out uppercase serif, centered in the bottom margin. No other text, logos, or UI anywhere.\n\nThe result should feel like an elegant, slightly playful fashion magazine lookbook page.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119160956731486630",
+    "time": "2026-11-08 04:11",
+    "created_at": "Sat Nov 07 20:11:58 +0000 2026",
+    "id_str": "2119160956731486630",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2119162546674397620",
+    "time": "2026-11-08 04:18",
+    "created_at": "Sat Nov 07 20:18:17 +0000 2026",
+    "id_str": "2119162546674397620",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Chic",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119163413184315676",
+    "time": "2026-11-08 04:21",
+    "created_at": "Sat Nov 07 20:21:44 +0000 2026",
+    "id_str": "2119163413184315676",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm in the final stretches of finishing a 30 page comic book. The entire process has been an absolute blast. Kind of feels like a puzzle sometimes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/PartandParcelGs/status/2119170397014757573",
+    "time": "2026-11-08 04:49",
+    "created_at": "Sat Nov 07 20:49:29 +0000 2026",
+    "id_str": "2119170397014757573",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PartandParcelGs I love that you are making comic books! \n“Zarya of the Dawn” changed my life!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119171041591509213",
+    "time": "2026-11-08 04:52",
+    "created_at": "Sat Nov 07 20:52:03 +0000 2026",
+    "id_str": "2119171041591509213",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 🤎💚🤍",
+    "quoted_tweet": null,
+    "url": "https://x.com/VikaZenenko/status/2119187447225454642",
+    "time": "2026-11-08 05:57",
+    "created_at": "Sat Nov 07 21:57:14 +0000 2026",
+    "id_str": "2119187447225454642",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@VikaZenenko Great style",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119188191483748432",
+    "time": "2026-11-08 06:00",
+    "created_at": "Sat Nov 07 22:00:12 +0000 2026",
+    "id_str": "2119188191483748432",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Don’t stop making art. Use the tools you like.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119195121203974403",
+    "time": "2026-11-08 06:27",
+    "created_at": "Sat Nov 07 22:27:44 +0000 2026",
+    "id_str": "2119195121203974403",
+    "is_retweet": false
   }
 ]
