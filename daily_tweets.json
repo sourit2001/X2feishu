@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "一条手剪2小时，Bot 2小时剪完十条\n\nX 官方创作者账号发了份 Grok Bot 短视频指南，作者 Ethan Ng 在 SpaceXAI 增长团队做创作者营销，团队每月合作数百位创作者。\n\n先交代口径：十条是并行剪的，这 2 小时里他给了几轮反馈。另外作者是自家人，这份指南也算官方教程。\n\n下面几个做法可以直接抄：\n\n1. 先喂上下文，别急着开工\n历史成片、过往脚本、改稿反馈、你认可的爆款、后台数据，都交给它。\n再用语音把自己的口头禅和不许出现的套话说一遍。\n他说这要聊好几轮，五分钟搞不定。\n\n2. 收藏夹变选题库\n让 Bot 去看你收藏的几百条视频，每条拆成五项：为什么火、前三秒钩子、节奏、用了哪首歌、怎么改成你的版本，记进 Notion 或 Google Docs。\n\n3. 脚本别让它写，让它挑刺\n直接让 AI 写，出来全是说明书腔。\n正确用法是你交草稿，它像教练一样批注：\n开头太慢\n讲道理讲得太早\n张力在这掉了，删这句\n这听起来不像你\n\n4. 剪辑留两道人工把关\nWhisper 转写素材，Remotion 用代码排时间线，复杂动效交给 Cursor 云端 Agent。\n一段 10 分钟的长镜头扔进去，它先挑出最好的几条 take，再出剪辑方案。你回一句「I APPROVE」它才开剪，成片你再审一遍。\n\n5. 观众在哪划走，下一条就改哪\n比如 0:18 留存掉了，Bot 给出三个可能原因：从讲故事切到讲解释、镜头一直没换、悬念已经揭晓。\n下一条脚本拿这几条去验证。（原文这张是示意图，不是真实数据）\n\n6. 一份成片发四个平台\nX、YouTube、Instagram、TikTok，前提是先把账号接好。\n\n这一套跑下来，人手里还剩三件事：定选题、批方案、审初剪。\n\n最值得抄的是第 3 条：AI 别当写手，让它当审稿人。不用 Grok Bot，换哪个模型都能这么干。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2119044748388503709",
+    "time": "2026-11-07 20:30",
+    "created_at": "Sat Nov 07 12:30:12 +0000 2026",
+    "id_str": "2119044748388503709",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "补一个局限：指南说也能在 CapCut、DaVinci Resolve、Premiere 里剪，但没讲具体怎么接，官方推荐的是云端电脑模式；多平台代发也要单独配置。\n完整解读：https://xiaohu.ai/article/grok-bot-creator-guide/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2119044801542889535",
+    "time": "2026-11-07 20:30",
+    "created_at": "Sat Nov 07 12:30:25 +0000 2026",
+    "id_str": "2119044801542889535",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "绝对疯狂",
+    "quoted_tweet": {
+      "author": "Ravi Parikh",
+      "username": "ravisparikh",
+      "text": "Dear Claude: you are being held back by human-centric graphics APIs.\n\nI've built a 3D and VFX engine where agents can write their own shaders, materials, cameras, physics.\n\nThe core API fits in ~2,500 tokens.\n\nVork is:\n• 2x more token-efficient vs Blender, Unreal Engine, Houdini\n• Up to 24x faster rendering times\n• Rust and Slang based engine, runs on GPU via Metal/Vulkan\n\nBelow is a simulation of 1 million birds - each with unique trajectories - rendered in 97 sec on one NVIDIA L4 GPU (Blender EEVEE: 31 minutes)"
+    },
+    "url": "https://x.com/xiaohu/status/2119058037885526072",
+    "time": "2026-11-07 21:23",
+    "created_at": "Sat Nov 07 13:23:01 +0000 2026",
+    "id_str": "2119058037885526072",
+    "is_retweet": false
+  }
+]
