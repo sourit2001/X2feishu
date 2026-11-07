@@ -1,1 +1,209 @@
-[]
+[
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "We've been cooking something truly special at Walden... We can't wait to share very exciting AI news during Russ's CoRL keynote!\n\nPS: funnily enough, the other 2 keynotes are from @drfeifei (my Stanford boss) and @wolfram_burgard (my former TRI boss), so CoRL is actually just a reunion of Adrien's bosses... 😉",
+    "quoted_tweet": {
+      "author": "Walden Robotics",
+      "username": "WaldenRobotics",
+      "text": "Heading to CoRL in Austin? Meet the Walden team at booth 104 and catch our co-founder and CEO @RussTedrake's keynote, “Learning in the factories,” on Nov 10 at 3:30pm CT.\n\nhttps://2026.corl.org/program/keynotes"
+    },
+    "url": "https://x.com/adnothing/status/2118757829255553168",
+    "time": "2026-11-07 01:30",
+    "created_at": "Fri Nov 06 17:30:05 +0000 2026",
+    "id_str": "2118757829255553168",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@adnothing @wolfram_burgard 😆😍",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2118828176885575919",
+    "time": "2026-11-07 06:09",
+    "created_at": "Fri Nov 06 22:09:37 +0000 2026",
+    "id_str": "2118828176885575919",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Some new data from Anthropic looking at the impact of AI on the sciences by field: \"With current capabilities, if adopted widely, AI could take on 27–52% of the researcher time needed to produce a new study, with a median of 38% across fields...\"\nHere: https://www.anthropic.com/research/how-researchers-use-claude",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2118859591798980657",
+    "time": "2026-11-07 08:14",
+    "created_at": "Sat Nov 07 00:14:27 +0000 2026",
+    "id_str": "2118859591798980657",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "\"These shares imply research accelerations ranging from 1.35x in the arts, 1.36x in anthropology, and 1.41x in chemistry to 1.96x in computer science and 2.02x in statistics,\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2118860275986399501",
+    "time": "2026-11-07 08:17",
+    "created_at": "Sat Nov 07 00:17:10 +0000 2026",
+    "id_str": "2118860275986399501",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Birostris_77 @godofprompt keys stay hidden from the session. finally",
+    "quoted_tweet": null,
+    "url": "https://x.com/dkolosovs/status/2118807910071333260",
+    "time": "2026-11-07 04:49",
+    "created_at": "Fri Nov 06 20:49:05 +0000 2026",
+    "id_str": "2118807910071333260",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@dkolosovs @Birostris_77 tons of ppl leaked them for sure",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2118846748655485078",
+    "time": "2026-11-07 07:23",
+    "created_at": "Fri Nov 06 23:23:25 +0000 2026",
+    "id_str": "2118846748655485078",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Haircut No. 2: Anthropic IPO Talk Slides To $1.2 Trillion As AI Rout Crushes Odds Of A November Listing https://www.zerohedge.com/markets/haircut-no-2-anthropic-ipo-talk-slides-12-trillion-ai-rout-crushes-odds-november-listing",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2118734766090461688",
+    "time": "2026-11-06 23:58",
+    "created_at": "Fri Nov 06 15:58:27 +0000 2026",
+    "id_str": "2118734766090461688",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Ramp 数据：企业用的 AI 越来越多，花的钱 8、9 月几乎没涨，Anthropic 上市估值预期降到 1.2 万亿到 1.3 万亿美元\n\n美国企业财务软件公司 Ramp 的最新数据显示，企业消耗的 token 还在猛涨，但花在 token 上的钱从 8 月起基本停了。7 月企业 token 支出比上月涨了 42%，8 月只涨 1%，9 月只涨 0.2%。\n\n拿 Ramp 的周度数据算，从 8 月初到 10 月中，企业用掉的 token 多了约 65%，花的钱只多了 1.5%。\n\n这组数据由 Ramp 首席经济学家 Ara Kharazian 发布，TechCrunch 11 月 6 日做了报道。这时 Anthropic 正在准备 IPO，而投资者给它的高估值，前提是 AI 收入继续高速增长。\n\n【对用 AI 的公司和个人：同样的活，花得更少了】\n\n钱没涨，主要因为 AI 变便宜了。9 月 OpenAI 发布 GPT-6 Sol 和 Luna，API 价格直接砍半：Sol 从每百万输入 token 4 美元降到 2 美元。Anthropic 同月发 Fable 5.1 和 Opus 5.5，招股书说 Fable 5.1 让常见任务成本降了约 25%，Opus 5.5 每个任务的成本比 Opus 5 降了约 40%，一部分靠降价，一部分靠模型更省 token。\n\nRamp 统计的 OpenAI 和 Anthropic 综合单价，9 月下旬到 10 月下旬一个月就从每百万 token 0.76 美元降到 0.56 美元，降了 27%。\n\n企业自己也学会了省钱。Kharazian 说，AI 用得越熟的公司，越会给员工设预算，默认不让长任务跑最贵的模型，再用路由工具把活分给更便宜的小模型。\n\n还有更便宜的选择冒出来。TechCrunch 提到一个叫 Jev 的模型，来自前 OpenAI 研究员 Almeida 创办的 TypeSafe AI。它不生成文字，只在开发者事先设定好的几个答案里选一个，并给出把握有多大，适合“是不是垃圾邮件”“这条命令危不危险”这类判断题。它的输出 token 免费，输入按十亿 token 计价。Vercel 的数据显示，Jev 上线两周，它的 AI 网关上就有 35% 的付费团队在用。Kharazian 说：“很多 AI 用途只需要一个简单的是或否。”\n\n再加上 Meta、英伟达和一批中美开源模型在抢企业客户，Kharazian 认为现在是买方市场。他从企业那里听说，OpenAI 和 Anthropic 推的企业长约基本没有逼客户多花钱，签了还能拿到折扣。\n\n【花钱最多的那 1% 公司，开始不往上加了】\n\nRamp 此前发现，企业花在 OpenAI 和 Anthropic 上的钱，80% 来自最舍得花钱的 1% 公司。这批公司 7 月人均每月花 9873 美元，8 月掉到 8568 美元，9 月回升到 9568 美元，仍比 7 月低 3%。\n\n普通公司离这个数差得很远：排前 10% 的公司人均每月 813 美元，中位数公司只有 15.7 美元。Kharazian 说，软件、金融行业对 AI 编程有大量需求，但诊所、汽车经销店未必需要每人每月花上万美元。\n\n10 月有回暖：截至 10 月 23 日那一周，token 支出比一个月前同一周涨了 8.9%，token 用量涨了 37%。Kharazian 仍认为增速放缓的压力很大。\n\n【对 Anthropic IPO 意味着什么】\n\n在 Ramp 截至 10 月 23 日那一周的数据里，Anthropic 拿走了企业 token 支出的 60.5%，价格战首先打在它身上。\n\nAnthropic 11 月 2 日更新的招股书里，三季度收入 169.6 亿美元，比二季度的 115.6 亿涨了 47%，增长仍然很快。招股书同时写明，这个季度用量增长带来的收入，被新模型降价和合同折扣抵掉了约 6 亿美元。\n\n投资者的估值预期一路下调。据彭博社 11 月 6 日报道，10 月初投资者讨论的估值高达 2 万亿美元，10 月中投资者说明会后降到 1.4 万亿到 1.5 万亿，周四纳斯达克 100 指数单日暴跌 6.4% 后，部分潜在投资者在谈的是 1.2 万亿到 1.3 万亿。消息人士说还没有最终决定，Anthropic 不予置评。\n\n借钱的成本也可能变高。据《金融时报》10 月 30 日报道，黑石作为 Anthropic 一笔芯片融资的基石投资者，告诉参与这笔交易的投资者它预计 Anthropic 上市后的信用评级是 BB 级，属于“垃圾级”里最高的一档，而黑石之前的说法是 2027 年前能拿到投资级。这只是黑石的预测，评级机构还没出结果。\n\nOpenAI 也在降预期。《金融时报》10 月 31 日报道，OpenAI 这轮融资目标从 300 亿美元降到约 200 亿，投前估值从 1.4 万亿降到 1.25 万亿。\n\n【这份数据代表谁】\n\nRamp AI 指数覆盖 8.5 万多家用 Ramp 公司卡和付款系统的美国企业。token 用量和支出这组数据，只来自其中接入了 Ramp token 支出管理工具的公司，Ramp 自己说这批公司比整体样本更偏科技。Kharazian 对 TechCrunch 说，AI 支出几乎全部来自风投支持的高增长科技公司，它们一起放缓，就会一起拖累 AI 公司的收入。\n\n员工自己掏钱的个人账号、不用 Ramp 的公司，都不在统计里。\n\nNotion 联合创始人 Akshay Kothari 10 月 22 日发过 Notion 自己的数据，每周 token 用量一路往上，每百万 token 成本一路往下，配的话是“tokens go brrr. costs go ahhh”。\n\n投资者押注的是下一个像 AI 编程那样能大把花钱的新用途。OpenAI 的 Dots、xAI 的 Grok Bot、Meta 的 Muse 都是这个方向的个人 AI 助理。Kharazian 认为个人助理的经济产出不如编程，撑不起持续的高速增长。\n\n原文：https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/\nRamp 报告：https://ramp.com/data/ai-index-oct-2026",
+    "quoted_tweet": {
+      "author": "TechCrunch",
+      "username": "TechCrunch",
+      "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.\nhttps://spr.ly/6019BHNzY7"
+    },
+    "url": "https://x.com/dotey/status/2118773706402967960",
+    "time": "2026-11-07 02:33",
+    "created_at": "Fri Nov 06 18:33:11 +0000 2026",
+    "id_str": "2118773706402967960",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Ramp 数据：企业用的 AI 越来越多，花的钱 8、9 月几乎没涨，Anthropic 上市估值预期降到 1.2 万亿到 1.3 万亿美元\n\n美国企业财务软件公司 Ramp 的最新数据显示，企业消耗的 token 还在猛涨，但花在 token 上的钱从 8 月起基本停了。7 月企业 token 支出比上月涨了 42%，8 月只涨 1%，9 月只涨 0.2%。\n\n拿 Ramp 的周度数据算，从 8 月初到 10 月中，企业用掉的 token 多了约 65%，花的钱只多了 1.5%。\n\n这组数据由 Ramp 首席经济学家 Ara Kharazian 发布，TechCrunch 11 月 6 日做了报道。这时 Anthropic 正在准备 IPO，而投资者给它的高估值，前提是 AI 收入继续高速增长。\n\n【对用 AI 的公司和个人：同样的活，花得更少了】\n\n钱没涨，主要因为 AI 变便宜了。9 月 OpenAI 发布 GPT-6 Sol 和 Luna，API 价格直接砍半：Sol 从每百万输入 token 4 美元降到 2 美元。Anthropic 同月发 Fable 5.1 和 Opus 5.5，招股书说 Fable 5.1 让常见任务成本降了约 25%，Opus 5.5 每个任务的成本比 Opus 5 降了约 40%，一部分靠降价，一部分靠模型更省 token。\n\nRamp 统计的 OpenAI 和 Anthropic 综合单价，9 月下旬到 10 月下旬一个月就从每百万 token 0.76 美元降到 0.56 美元，降了 27%。\n\n企业自己也学会了省钱。Kharazian 说，AI 用得越熟的公司，越会给员工设预算，默认不让长任务跑最贵的模型，再用路由工具把活分给更便宜的小模型。\n\n还有更便宜的选择冒出来。TechCrunch 提到一个叫 Jev 的模型，来自前 OpenAI 研究员 Almeida 创办的 TypeSafe AI。它不生成文字，只在开发者事先设定好的几个答案里选一个，并给出把握有多大，适合“是不是垃圾邮件”“这条命令危不危险”这类判断题。它的输出 token 免费，输入按十亿 token 计价。Vercel 的数据显示，Jev 上线两周，它的 AI 网关上就有 35% 的付费团队在用。Kharazian 说：“很多 AI 用途只需要一个简单的是或否。”\n\n再加上 Meta、英伟达和一批中美开源模型在抢企业客户，Kharazian 认为现在是买方市场。他从企业那里听说，OpenAI 和 Anthropic 推的企业长约基本没有逼客户多花钱，签了还能拿到折扣。\n\n【花钱最多的那 1% 公司，开始不往上加了】\n\nRamp 此前发现，企业花在 OpenAI 和 Anthropic 上的钱，80% 来自最舍得花钱的 1% 公司。这批公司 7 月人均每月花 9873 美元，8 月掉到 8568 美元，9 月回升到 9568 美元，仍比 7 月低 3%。\n\n普通公司离这个数差得很远：排前 10% 的公司人均每月 813 美元，中位数公司只有 15.7 美元。Kharazian 说，软件、金融行业对 AI 编程有大量需求，但诊所、汽车经销店未必需要每人每月花上万美元。\n\n10 月有回暖：截至 10 月 23 日那一周，token 支出比一个月前同一周涨了 8.9%，token 用量涨了 37%。Kharazian 仍认为增速放缓的压力很大。\n\n【对 Anthropic IPO 意味着什么】\n\n在 Ramp 截至 10 月 23 日那一周的数据里，Anthropic 拿走了企业 token 支出的 60.5%，价格战首先打在它身上。\n\nAnthropic 11 月 2 日更新的招股书里，三季度收入 169.6 亿美元，比二季度的 115.6 亿涨了 47%，增长仍然很快。招股书同时写明，这个季度用量增长带来的收入，被新模型降价和合同折扣抵掉了约 6 亿美元。\n\n投资者的估值预期一路下调。据彭博社 11 月 6 日报道，10 月初投资者讨论的估值高达 2 万亿美元，10 月中投资者说明会后降到 1.4 万亿到 1.5 万亿，周四纳斯达克 100 指数单日暴跌 6.4% 后，部分潜在投资者在谈的是 1.2 万亿到 1.3 万亿。消息人士说还没有最终决定，Anthropic 不予置评。\n\n借钱的成本也可能变高。据《金融时报》10 月 30 日报道，黑石作为 Anthropic 一笔芯片融资的基石投资者，告诉参与这笔交易的投资者它预计 Anthropic 上市后的信用评级是 BB 级，属于“垃圾级”里最高的一档，而黑石之前的说法是 2027 年前能拿到投资级。这只是黑石的预测，评级机构还没出结果。\n\nOpenAI 也在降预期。《金融时报》10 月 31 日报道，OpenAI 这轮融资目标从 300 亿美元降到约 200 亿，投前估值从 1.4 万亿降到 1.25 万亿。\n\n【这份数据代表谁】\n\nRamp AI 指数覆盖 8.5 万多家用 Ramp 公司卡和付款系统的美国企业。token 用量和支出这组数据，只来自其中接入了 Ramp token 支出管理工具的公司，Ramp 自己说这批公司比整体样本更偏科技。Kharazian 对 TechCrunch 说，AI 支出几乎全部来自风投支持的高增长科技公司，它们一起放缓，就会一起拖累 AI 公司的收入。\n\n员工自己掏钱的个人账号、不用 Ramp 的公司，都不在统计里。\n\nNotion 联合创始人 Akshay Kothari 10 月 22 日发过 Notion 自己的数据，每周 token 用量一路往上，每百万 token 成本一路往下，配的话是“tokens go brrr. costs go ahhh”。\n\n投资者押注的是下一个像 AI 编程那样能大把花钱的新用途。OpenAI 的 Dots、xAI 的 Grok Bot、Meta 的 Muse 都是这个方向的个人 AI 助理。Kharazian 认为个人助理的经济产出不如编程，撑不起持续的高速增长。\n\n原文：https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/\nRamp 报告：https://ramp.com/data/ai-index-oct-2026",
+    "quoted_tweet": {
+      "author": "TechCrunch",
+      "username": "TechCrunch",
+      "text": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.\nhttps://spr.ly/6019BHNzY7"
+    },
+    "url": "https://x.com/dotey/status/2118773706402967960",
+    "time": "2026-11-07 02:33",
+    "created_at": "Fri Nov 06 18:33:11 +0000 2026",
+    "id_str": "2118773706402967960",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://x.com/i/article/2118846890561466368",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2118847068001431641",
+    "time": "2026-11-07 07:24",
+    "created_at": "Fri Nov 06 23:24:41 +0000 2026",
+    "id_str": "2118847068001431641",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@dotey 差不多到企业能支撑的上限了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2118852999980409310",
+    "time": "2026-11-07 07:48",
+    "created_at": "Fri Nov 06 23:48:16 +0000 2026",
+    "id_str": "2118852999980409310",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Airbnb 用的人越来越多，也越来越赚钱了\n这件事值得注意下",
+    "quoted_tweet": {
+      "author": "Craig Shapiro ⚽️",
+      "username": "cshapiro",
+      "text": "Interesting bits from Brian’s Airbnb earnings call about AI agents and consumer behavior:\n\n— Airbnb gets ~500k bookings a day\n— ”very non-material” traffic from Muse/Instinct\n— says people *want* to browse: average user looks at dozens of listings and 25+ photos \n— 90% of users message the host\n— most traffic comes between 9 to 5 when people are at work (using Airbnb as escapism)\n— 80% of travels say they like doing their own travel research"
+    },
+    "url": "https://x.com/oran_ge/status/2118853434359353592",
+    "time": "2026-11-07 07:49",
+    "created_at": "Fri Nov 06 23:49:59 +0000 2026",
+    "id_str": "2118853434359353592",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "最近世界冲击很大，从 AI 基建大跃进反转到了 超级 AI 禁令，我写了一篇文章来理性分析。\n\n再重申一下我的观点：\n1. AI 是非常好的技术，我们要大力发展，但没必要故意制造泡沫拔苗助长。\n\n2. 一定注意开发超级 AI 时安全问题，科技以人为本，因为发展科技而损害人的利益，这是本末倒置。\n\n3. 我相信 AI 未来的增量价值会很大，但目前确实还是替代价值为主，还没有把蛋糕做大，所以人类对 AI 的需求也没那么旺盛。\n\n大家在看问题时候要分清楚现状和未来。\n实事求是，理性思考。\n\n本文提供播客版本，可在此收听：\nhttps://www.xiaoyuzhoufm.com/episode/6aedebef5b7c4709bfe235a3",
+    "quoted_tweet": {
+      "author": "Orange AI",
+      "username": "oran_ge",
+      "text": "https://x.com/i/article/2118846890561466368"
+    },
+    "url": "https://x.com/oran_ge/status/2118854648979402945",
+    "time": "2026-11-07 07:54",
+    "created_at": "Fri Nov 06 23:54:49 +0000 2026",
+    "id_str": "2118854648979402945",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 我现在看啥文章都感觉是AI写的😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/realhyperplayer/status/2118864300173615459",
+    "time": "2026-11-07 08:33",
+    "created_at": "Sat Nov 07 00:33:10 +0000 2026",
+    "id_str": "2118864300173615459",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@realhyperplayer 草木皆兵",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2118867317987963257",
+    "time": "2026-11-07 08:45",
+    "created_at": "Sat Nov 07 00:45:09 +0000 2026",
+    "id_str": "2118867317987963257",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "It's Friday",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2118871902366441879",
+    "time": "2026-11-07 09:03",
+    "created_at": "Sat Nov 07 01:03:22 +0000 2026",
+    "id_str": "2118871902366441879",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ritu_twts Love that you immediately picked up and answered all my questions on how you use dots",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2118874107341389982",
+    "time": "2026-11-07 09:12",
+    "created_at": "Sat Nov 07 01:12:08 +0000 2026",
+    "id_str": "2118874107341389982",
+    "is_retweet": false
+  }
+]
