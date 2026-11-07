@@ -809,5 +809,304 @@
     "created_at": "Fri Nov 06 22:07:51 +0000 2026",
     "id_str": "2118827729021985159",
     "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 发布 Gemini Omni 1.2 Flash：单条视频最长 15 秒，720p 一条约 1 美元，开发者和企业今天就能用\n\nGoogle 11 月 5 日发布视频模型 Gemini Omni 1.2 Flash。一次最长能生成 15 秒带声音的视频，比上一版 1.1 降价 30%，720p 每秒 0.07 美元。\n\n这也是 Omni 第一次正式商用（GA），可以直接用在生产环境。Omni 是 Google 今年 5 月在 I/O 大会上发布的模型，Google 拿它跟 Nano Banana 类比：像改图一样，用聊天一轮轮改视频。\n\n【一条 15 秒视频多少钱】\n\n按官方定价页换算，720p 一条 15 秒约 1.04 美元。1.1 版每秒约 0.10 美元、最长 10 秒，以前 1 美元买 10 秒，现在买 15 秒。\n\n先用 360p 打草稿，15 秒约 0.35 美元；满意了再出高清，1080p 约 1.56 美元，4K 约 3.13 美元。时长 3 到 15 秒按整秒选。\n\nAPI 免费层不能用，要开付费账户。12 月 3 日起，调用 1.1 的请求自动转给 1.2，按 1.2 的价格收费。\n\n【谁能用、在哪用】\n\n开发者今天就能在 Google AI Studio 里试，用 Gemini API 接入；企业走 Google Cloud。\n\n普通用户：Google Vids（Google 的视频制作工具）里有 Google 账号就能生成 15 秒片段，不额外收费；Gemini App 正逐步推给 AI Ultra 订阅用户。\n\nAI 拍片工具 Flow 里也能用，博客没写要哪档订阅，1.1 版当时开放给 AI Plus、Pro、Ultra 用户。Google Ads 里可以用它批量做广告视频。\n\n【比 1.1 强在哪】\n\n一是长度从 10 秒变成 15 秒，一条完整的产品介绍或社交媒体广告，一次就能生成完。\n\n二是能对着同一条视频连续提要求：换产品、换背景、改光线、改横竖屏，不用从头重来。同一条广告改出几个版本，投给不同人群。\n\n三是更听参考素材的话。最多给 6 张参考图（人物、产品、风格）加一段 3 秒内的动作视频，Google 说人脸、衣服、包装上的字和品牌颜色，换机位也不走样。\n\nGoogle 自己放的演示里，一张模特照加三套衣服的正反面图，生成了 15 秒的转身试穿视频；另一条连换 5 次背景，角色的表演和构图不变。对话的口型也更准了。\n\n【跟 Veo、Sora 和别家比】\n\n在 Gemini API 上，Omni 已经接替了 Veo：Veo 3.1 预览版 10 月 22 日下线，官方让开发者迁到 Omni 1.2，或去 Google Cloud 用 Veo 正式版。\n\nOpenAI 那边已经没有 Sora 可选。据 OpenAI 帮助中心，Sora App 4 月 26 日关闭，API 9 月 24 日停服。\n\n同时卖多家模型的 Runway 开发者平台上，带声音视频每秒价格是：Veo 3.1 0.40 美元，Veo 3.1 Fast 0.15 美元，字节 Seedance 2.0（720p）0.30 美元，快手可灵 4（720p）原价约 0.16 美元。Omni 1.1 在那里卖 0.10 美元，跟 Google 自家价格一样。跟这几家比，Omni 1.2 的 0.07 美元最低。\n\n画质目前只有 Google 和 Runway、Picsart 等合作方的说法，演示也是 Google 自己挑的。Google 说快速体育动作、复杂物理效果还要再改进。官方文档写明只有英文做过完整评估，中文提示词效果没保证；上传自己的音频做参考，Gemini API 暂不支持。\n\n官方博客：https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\nAPI 定价：https://aistudio.google.com/docs/pricing#gemini-omni-1.2-flash\n https://x.com/Google/status/2118390406316728555/video/1",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118820452038557790",
+    "time": "2026-11-07 05:38",
+    "created_at": "Fri Nov 06 21:38:56 +0000 2026",
+    "id_str": "2118820452038557790",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 有更新功能已经很好了，前几个版本要卸载了再重新安装",
+    "quoted_tweet": null,
+    "url": "https://x.com/liguobao2077/status/2118870520276132163",
+    "time": "2026-11-07 08:57",
+    "created_at": "Sat Nov 07 00:57:53 +0000 2026",
+    "id_str": "2118870520276132163",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@liguobao2077 我自己实现的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118878378816131196",
+    "time": "2026-11-07 09:29",
+    "created_at": "Sat Nov 07 01:29:07 +0000 2026",
+    "id_str": "2118878378816131196",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 插件自动更新你现写的？",
+    "quoted_tweet": null,
+    "url": "https://x.com/imocone/status/2118897067561234436",
+    "time": "2026-11-07 10:43",
+    "created_at": "Sat Nov 07 02:43:22 +0000 2026",
+    "id_str": "2118897067561234436",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 那是不是自动更新功能也可以做成一个小插件，给其他插件用了？",
+    "quoted_tweet": null,
+    "url": "https://x.com/wuyexiong/status/2118914151590588606",
+    "time": "2026-11-07 11:51",
+    "created_at": "Sat Nov 07 03:51:15 +0000 2026",
+    "id_str": "2118914151590588606",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@imocone dsh 插件可以做的事情很多，自动更新不复杂",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118932403469398078",
+    "time": "2026-11-07 13:03",
+    "created_at": "Sat Nov 07 05:03:47 +0000 2026",
+    "id_str": "2118932403469398078",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@wuyexiong 还是等官方自己实现",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2118943383288680683",
+    "time": "2026-11-07 13:47",
+    "created_at": "Sat Nov 07 05:47:25 +0000 2026",
+    "id_str": "2118943383288680683",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "What does AI for PE firms actually look like?\n\nWe've been on calls with a handful of PE operating partners over the last 2 weeks. Their #1 issue is that portcos' AI efforts are stuck in the IT org.\n\nThese companies have scaled and some have moats, but they are not sophisticated from a technology standpoint. Some have large engineering teams, some have a help desk and an outsourced MSP, but regardless, AI efforts get stuck as a side-of-desk activity or with the \"3 guys in the closet upstairs.\"\n\nMeanwhile, there is a ton of work that needs to get done. One portfolio company is a distributor where the inside sales team gets orders scribbled on a whiteboard and then re-enters them into the ERP. It takes an hour to enter a 100 item order, and when a contractor sends work to 3 distributors, the first quote back generally gets the work. If you can get the order entered quicker, you get the work.\n\nSo portfolio companies are struggling with:\n\n1. Hiring: Should we hire someone on the business side to lead AI, or an AI-aware accounting lead? (Good luck hiring these people…)\n\n2. Build vs Buy: There are a ton of \"AI for X function\" companies out there, and a ton of noise, how do you even begin to navigate?\n\n3. If we build, how do we get the capacity in a portfolio company without issuing an RFP for every use case? (A couple wanted to sign a contract at the fund level, \"almost like a captive capability\")\n\n4. Are we doing this for labor takeout or to increase the exit multiple? (You can push EBITDA up 5 points, but it doesn't increase the value of the company unless you have a new narrative. \"Nobody wants it unless you can show that you have an agentic offering\")\n\n5. Should we do outcome-based pricing? (Generally bogs down in contract negotiations - what does it mean to save an hour and is it really worth $17?)\n\n6. Who will do the work? \"Everybody has a story to tell, and the sales pitch was great, but the project was terrible. It comes down to who you have walking in the door.\"\n\n7. What is the business case? We've seen AI briefs that show a function can be 40% automated that were written by someone that never talked to the function.\n\nWe do this for PE-backed companies every day at Varick. Work with us below:",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118829175662682300",
+    "time": "2026-11-07 06:13",
+    "created_at": "Fri Nov 06 22:13:36 +0000 2026",
+    "id_str": "2118829175662682300",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "We make companies AI native at https://varickagents.com",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118829176820281715",
+    "time": "2026-11-07 06:13",
+    "created_at": "Fri Nov 06 22:13:36 +0000 2026",
+    "id_str": "2118829176820281715",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman 100%, AI for PE firms requires a very different runbook - these are some of the main reasons",
+    "quoted_tweet": null,
+    "url": "https://x.com/dkfromdk/status/2118835009289441622",
+    "time": "2026-11-07 06:36",
+    "created_at": "Fri Nov 06 22:36:46 +0000 2026",
+    "id_str": "2118835009289441622",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The last 20% break when the first 80% don't have the right foundations. Fun exploration on enterprise governance: https://x.com/i/article/2118818726577598464",
+    "quoted_tweet": null,
+    "url": "https://x.com/thmslj/status/2118838596816064629",
+    "time": "2026-11-07 06:51",
+    "created_at": "Fri Nov 06 22:51:02 +0000 2026",
+    "id_str": "2118838596816064629",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "The last 20% break when the first 80% don't have the right foundations. Fun exploration on enterprise governance: https://x.com/i/article/2118818726577598464",
+    "quoted_tweet": null,
+    "url": "https://x.com/thmslj/status/2118838596816064629",
+    "time": "2026-11-07 06:51",
+    "created_at": "Fri Nov 06 22:51:02 +0000 2026",
+    "id_str": "2118838596816064629",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@thmslj Very good read",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118841436808577422",
+    "time": "2026-11-07 07:02",
+    "created_at": "Fri Nov 06 23:02:19 +0000 2026",
+    "id_str": "2118841436808577422",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dkfromdk They require a unique runbook AND handover process.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2118863964562133108",
+    "time": "2026-11-07 08:31",
+    "created_at": "Sat Nov 07 00:31:50 +0000 2026",
+    "id_str": "2118863964562133108",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Every CIO in the country has been tasked with AI governance, a buzzword that deserves a proper explanation.\n\nThe below article is a must read.\n\nSimply put, if you want to build agents that move the needle for large companies, you have to handle concerns around governance, auditability, and evals, you will fail. \n\nThere will be 1000x more agents deployed as time goes on, meaning this issue compounds if not handled correctly now. \n\nThomas was an early Dropbox engineer, is top 0.01% in terms of AI understanding and ability, and is now Head of Engineering at Varick. \n\nThere is no one more qualified to speak on the topic than him!",
+    "quoted_tweet": {
+      "author": "Thomas LJ",
+      "username": "thmslj",
+      "text": "The last 20% break when the first 80% don't have the right foundations. Fun exploration on enterprise governance: https://x.com/i/article/2118818726577598464"
+    },
+    "url": "https://x.com/vasuman/status/2118865081064996917",
+    "time": "2026-11-07 08:36",
+    "created_at": "Sat Nov 07 00:36:16 +0000 2026",
+    "id_str": "2118865081064996917",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Salesforce's John Somorjai has spent more than 20 years doing deals for Marc Benioff, from Slack to six rounds of Anthropic, and runs a venture arm that has backed more than 750 companies.\n\nHis playbook is finding great technology that's starved for distribution and plugging it into 15,000 sales reps. Salesforce piloted Fin on its own help site, where it went live in 14 days and now handles over 40% of the traffic, resolving 65% without a human.\n\nJohn joins a16z's Alex Immerman to discuss why Slack revenue is up almost 3x since the acquisition, how strong revenue can hide the churn that kills deals, the pen test that got into a CEO's laptop, and why robotics is where he's most excited to invest.\n\n0:58 How Marc Benioff spots what to buy\n3:48 The 3 tests for every acquisition\n5:17 Salesforce's model as AI cuts seats\n8:23 Fin resolves 65% with no human\n10:32 The power of 15,000 sales reps\n14:22 Founders who became product chiefs\n17:34 Build vs buy when code is cheap\n20:27 Why Salesforce bought Fin\n22:58 Why Slack is perfect for AI agents\n28:19 Salesforce Ventures' robotics bets\n35:46 Why he's wary of new CRM startups\n37:53 Why $10B+ startups have few buyers\n39:32 Why he backed Anthropic six times\n41:50 Red flags that kill acquisitions\n44:27 The pen test that sank a deal\n46:01 Growing up with a scientist father\n\nYouTube: https://youtu.be/y4BdOtm40SA\n\n@jsomorjai @salesforce @aleximm",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2118728049227076078",
+    "time": "2026-11-06 23:31",
+    "created_at": "Fri Nov 06 15:31:45 +0000 2026",
+    "id_str": "2118728049227076078",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "John Somorjai of Salesforce on what kills company acquisition deals, from attrition hiding behind ARR to a veto from the security team:\n\n\"It's really important that you're ready and you're organized so that the data is flowing and it doesn't look like you're having trouble getting access to data.\"\n\n\"One of the mistakes that a lot of founders are making these days is they focus on one metric alone, which is ARR. And ARR is a wonderful metric, but it masks attrition.\"\n\n\"When you meet with a company that has very high attrition, that usually means that there are a lot of not just unhappy customers, but there might be some product quality issues as well.\"\n\n\"We have 14 functions that we work with on all of our diligence processes, and security is the one function that can hold up the red flag and say, 'I'm killing this deal.'\"\n\n\"You definitely want to identify the vulnerabilities before we do.\"\n\n\"Nothing goes better in a process when a company is totally buttoned up... But when they don't, that's when, you know, deals can die.\"\n\n@jsomorjai @aleximm",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Salesforce's John Somorjai has spent more than 20 years doing deals for Marc Benioff, from Slack to six rounds of Anthropic, and runs a venture arm that has backed more than 750 companies.\n\nHis playbook is finding great technology that's starved for distribution and plugging it into 15,000 sales reps. Salesforce piloted Fin on its own help site, where it went live in 14 days and now handles over 40% of the traffic, resolving 65% without a human.\n\nJohn joins a16z's Alex Immerman to discuss why Slack revenue is up almost 3x since the acquisition, how strong revenue can hide the churn that kills deals, the pen test that got into a CEO's laptop, and why robotics is where he's most excited to invest.\n\n0:58 How Marc Benioff spots what to buy\n3:48 The 3 tests for every acquisition\n5:17 Salesforce's model as AI cuts seats\n8:23 Fin resolves 65% with no human\n10:32 The power of 15,000 sales reps\n14:22 Founders who became product chiefs\n17:34 Build vs buy when code is cheap\n20:27 Why Salesforce bought Fin\n22:58 Why Slack is perfect for AI agents\n28:19 Salesforce Ventures' robotics bets\n35:46 Why he's wary of new CRM startups\n37:53 Why $10B+ startups have few buyers\n39:32 Why he backed Anthropic six times\n41:50 Red flags that kill acquisitions\n44:27 The pen test that sank a deal\n46:01 Growing up with a scientist father\n\nYouTube: https://youtu.be/y4BdOtm40SA\n\n@jsomorjai @salesforce @aleximm"
+    },
+    "url": "https://x.com/a16z/status/2118739070138687779",
+    "time": "2026-11-07 00:15",
+    "created_at": "Fri Nov 06 16:15:33 +0000 2026",
+    "id_str": "2118739070138687779",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "AI can now help turn a published fix into a working exploit in hours. Patching still takes weeks, and for many old routers, cameras, and supermarket fridges, a fix never arrives.\n\n\"So the question isn't how to patch faster. It's how to stop needing to.\"\n\nSix openings for new cybersecurity companies today, each one making patching \"unnecessary, or someone else's job\":\n\n1. Live fixes: blocks an exploit on running systems within hours, then has AI write and ship the real code fix\n\n2. An AI first responder: spots attacks without hand-written rules and contains them as they unfold\n\n3. Per-request access: checks every request from a person or their AI agents, with credentials that expire in minutes\n\n4. Proven recovery: keeps restoring your backups in a sealed-off test environment to prove they work, with records insurers will accept\n\n5. An install gateway: holds and sandboxes every package, extension and AI agent tool before it can run\n\n6. Security for the long tail: one managed service for water utilities, clinics and others that will never have a security team\n\nFull piece from a16z's Asaf Ezra and Steph Zhang: https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118738437121433600"
+    },
+    "url": "https://x.com/a16z/status/2118752443089780837",
+    "time": "2026-11-07 01:08",
+    "created_at": "Fri Nov 06 17:08:41 +0000 2026",
+    "id_str": "2118752443089780837",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Think different, CapEx edition:\n\nSince Q1 2023, Alphabet, Microsoft, Amazon, and Meta have increased CapEx 5-8x\n\nMeanwhile, Apple now spends 20% less than it did before the AI boom\n\nCharts of the Week: https://www.a16z.news/p/charts-of-the-week-apple-skips-capex",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2118765453074161781",
+    "time": "2026-11-07 02:00",
+    "created_at": "Fri Nov 06 18:00:23 +0000 2026",
+    "id_str": "2118765453074161781",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Companies are more confident in their backups than they perhaps should be\n\n90% of leaders say they can recover from a cyberattack, but only 28% of victims actually got all their data back\n\nMedian recovery cost:\n- Backups survived: $375K\n- Backups hit: $3M\n\nFull piece from a16z's Asaf Ezra and Steph Zhang on six cybersecurity companies worth building: https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118738437121433600"
+    },
+    "url": "https://x.com/a16z/status/2118776813145211038",
+    "time": "2026-11-07 02:45",
+    "created_at": "Fri Nov 06 18:45:31 +0000 2026",
+    "id_str": "2118776813145211038",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "John Somorjai of Salesforce on the exit math behind today's startup valuations, and a16z's Alex Immerman on the much bigger outcomes that now drive returns:\n\nJohn: \"I think there's a lot of irresponsibility going on. The valuations are of course way too high.\"\n\n\"When you think about investing, you want to think about, what are my exit opportunities? And not every company is going to go public. In fact, very, very few companies go public, probably 1% or less.\"\n\n\"Once you get above $10 billion, for example, the buyer universe is so small, and yet you're seeing so many of these enormous multi-billion dollar valued companies out there, and there will be a reckoning that happens.\"\n\n\"A lot of these companies have valuations that are not sustainable, that they won't be able to grow into, and are also, I think, going to be bad for their employees.\"\n\nAlex: \"Part of my optimism comes from what a top one percent outcome was 10 years ago is very different from what a top one percent outcome is today... There have been these larger outcomes that drive the returns for the ecosystem at large.\"\n\nJohn: \"I'm an optimist. I could not do my job if I wasn't an optimist. But just know that I see the thousands of companies every year that don't make it. Because they all come to us to try to be acquired.\"\n\n@jsomorjai @aleximm",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Salesforce's John Somorjai has spent more than 20 years doing deals for Marc Benioff, from Slack to six rounds of Anthropic, and runs a venture arm that has backed more than 750 companies.\n\nHis playbook is finding great technology that's starved for distribution and plugging it into 15,000 sales reps. Salesforce piloted Fin on its own help site, where it went live in 14 days and now handles over 40% of the traffic, resolving 65% without a human.\n\nJohn joins a16z's Alex Immerman to discuss why Slack revenue is up almost 3x since the acquisition, how strong revenue can hide the churn that kills deals, the pen test that got into a CEO's laptop, and why robotics is where he's most excited to invest.\n\n0:58 How Marc Benioff spots what to buy\n3:48 The 3 tests for every acquisition\n5:17 Salesforce's model as AI cuts seats\n8:23 Fin resolves 65% with no human\n10:32 The power of 15,000 sales reps\n14:22 Founders who became product chiefs\n17:34 Build vs buy when code is cheap\n20:27 Why Salesforce bought Fin\n22:58 Why Slack is perfect for AI agents\n28:19 Salesforce Ventures' robotics bets\n35:46 Why he's wary of new CRM startups\n37:53 Why $10B+ startups have few buyers\n39:32 Why he backed Anthropic six times\n41:50 Red flags that kill acquisitions\n44:27 The pen test that sank a deal\n46:01 Growing up with a scientist father\n\nYouTube: https://youtu.be/y4BdOtm40SA\n\n@jsomorjai @salesforce @aleximm"
+    },
+    "url": "https://x.com/a16z/status/2118803269455884626",
+    "time": "2026-11-07 04:30",
+    "created_at": "Fri Nov 06 20:30:39 +0000 2026",
+    "id_str": "2118803269455884626",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Some of the biggest openings in security have nothing to do with patching\n\nHow breaches began, per a 2026 report:\n- 31% exploited a vulnerability\n- 35% used phishing, stolen logins or impersonation scams\n\nAnd nearly half now involve a vendor or partner, up 3x since 2024\n\nFull piece from a16z's Asaf Ezra and Steph Zhang on six cybersecurity companies worth building: https://www.a16z.news/p/defense-in-depth-rebuilt-for-machine",
+    "quoted_tweet": {
+      "author": "Asaf Ezra",
+      "username": "asaf_ez",
+      "text": "https://x.com/i/article/2118738437121433600"
+    },
+    "url": "https://x.com/a16z/status/2118818217271656653",
+    "time": "2026-11-07 05:30",
+    "created_at": "Fri Nov 06 21:30:03 +0000 2026",
+    "id_str": "2118818217271656653",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Small weekend joy 🎞️\n\nTurned everyday photos of my friends and me, just us at work, into frames from a hand-painted 1890s animation.\n\nPrompt by @icreatelife. Her posts surprise me every time, and they're a daily stop for me.\n\nPrompt 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/josie_zhangruo/status/2118878730458423586",
+    "time": "2026-11-07 09:30",
+    "created_at": "Sat Nov 07 01:30:30 +0000 2026",
+    "id_str": "2118878730458423586",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I support you Kris!",
+    "quoted_tweet": null,
+    "url": "https://x.com/RodmanAi/status/2118935414614446375",
+    "time": "2026-11-07 13:15",
+    "created_at": "Sat Nov 07 05:15:45 +0000 2026",
+    "id_str": "2118935414614446375",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RodmanAi Thank you ☺️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2118949345546674298",
+    "time": "2026-11-07 14:11",
+    "created_at": "Sat Nov 07 06:11:06 +0000 2026",
+    "id_str": "2118949345546674298",
+    "is_retweet": false
   }
 ]
