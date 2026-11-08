@@ -405,5 +405,526 @@
     "created_at": "Sun Nov 08 20:47:58 +0000 2026",
     "id_str": "2119532403593191733",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "补充说明一下，这个截图或者录频重点是给人看的，Agent 要给验收的人类证明它把活干完了干好了。\n\n比如今天有人报了个 Issue 说评论有问题，我把 Issue 直接发给 Agent 让它修，它修的时候也许自己也截图了，但是对我来说还是个黑盒子。\n\n所以我需要它给我看“证据”，证明它修好了，当我看到这样的截图我就基本上可以确定它真的修好了没骗我。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "以前我团队有个员工做事比较粗心，也比较懒，每次让别人 Review PR 都不自己测，一审查就发现很多问题，后来我就让他提交 PR 的时候必须要带上相关功能修改的截屏，这样效果很好，至少去截图的时候得测试一遍。\n\n现在我也把这一套应用在 AI 身上了，每次 Agent 任务完成，让它自己测试验证后，生成效果截图，让我看看效果。很多时候它自己截图的时候就发现问题，能顺手修复一下。"
+    },
+    "url": "https://x.com/dotey/status/2119261146364391846",
+    "time": "2026-11-08 10:50",
+    "created_at": "Sun Nov 08 02:50:05 +0000 2026",
+    "id_str": "2119261146364391846",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "清华清华大学讲席教授张亚勤犀利提问腾讯首席AI科学家姚顺雨：DeepSeek、腾讯、Anthropic、OpenAI...你家用户黏性何在？\n\n---\n\n姚顺雨：\n\n护城河更多在产品层，而不是模型层。我认为有两方面。首先是数据和上下文。如果你有别人没有的私有数据和上下文，那可能就是最大的护城河。\n\n因为你想，现在你可以在微信里使用 AI。它不必是最聪明的 AI，但它知道你的日程、朋友和活动，这就很难被取代。你可以有一个更聪明的模型，但它并不了解你是谁。\n\n另一道护城河是信任。你是否信任 AI 了解你的数据和上下文，并采取行动？\n\n张亚勤：\n所以你是说，Anthropic 不值两万亿美元，甚至不值一万亿美元。它总有一天会变成同质化商品，对吧？开个玩笑。别听我的建议去买股票。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119264167483850884",
+    "time": "2026-11-08 11:02",
+    "created_at": "Sun Nov 08 03:02:06 +0000 2026",
+    "id_str": "2119264167483850884",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 拆解智能体记忆：Claude 边干边记，再靠“做梦”回头纠错整理\n\nAnthropic 工程团队 11 月 6 日发文，讲他们怎么给 Claude 设计跨会话的记忆。难点在于：Claude 得在当下决定什么值得记，可它并不知道以后会用到什么。\n\n他们的办法是加一个后台步骤，叫“做梦”（dreaming）：会话结束后，让 Claude 回头翻原始对话记录，改掉记错的笔记，把零散笔记整理成更好找的形式。这有点像人睡觉时大脑回放白天的经历，把一部分沉淀成长期知识。\n\n• 新模型明显更会用记忆：在一个查数据库答题的测试里，Sonnet 4.6 有记忆只从 0.330 涨到 0.364，Opus 5 从 0.564 涨到 0.828（满分 1）\n• 玩宝可梦红版，Sonnet 3.7 写了 413 个记忆文件，只拿到 1 枚徽章；Fable 5 只写了 10 个文件，拿到 4 枚\n• 一条记错的笔记经“做梦”改正后，Claude 走出了月见山；没改的那次三次掉回原路，最后也没到下一座城\n\n【记忆分四层】\n\n文章给“智能体记忆”的定义是：Claude 从经历中学到、跨会话保留、存成以后能读的内容。改模型权重、单次对话里临时学到的东西、上下文快满时把旧对话压成摘要，这三种都不算。\n\n按 Anthropic 的划分，记忆从下到上分四层：最底下是原始会话记录，可以搜索；往上是 Claude 自己写的记忆笔记；再往上是整理出来的结构，比如互相链接的 wiki；最顶层是每次开新会话就自动塞进上下文的内容。“做梦”负责把下层的东西核对、提炼，再往上送。\n\n【会挑比记得多更重要】\n\n宝可梦测试最能说明问题。Sonnet 3.7 觉得什么都可能有用，每场战斗、每个道具、每个路人都单独建文件，玩到 1 万步左右，记忆已有近 98 万字符。那时它开始建第四个“总”文件夹，接下来 17 步新建 6 个文件、删掉 9 个，一步游戏都没玩。\n\nFable 5 只记屏幕上看不到的东西。钱和位置每回合都能从画面读出来，记下来多余，还很快过期；策略和验证过的规律只有自己总结出来才存在。它用一个 global.md 当总控台，写着当前目标、打道馆的计划和自己的记忆规则。七个精灵球都没抓到鲤鱼王之后，它记下：“连续 3 球失败，就改变节奏，在菜单步骤之间多按几下等待。”Opus 5.5 用类似的小文件夹，边玩边改，最后通关。\n\n数据库测试里，每道题都开新会话，只有记忆文件夹能带过去，答完会被告知正确答案。Sonnet 4.6 只会堆一堆没验证的猜测。Anthropic 说 Opus 5 是这批模型里第一个形成完整学习循环的：大多数笔记写了规则、怎么确认它成立、以前的答案，还有踩过的坑。\n\n【给开发者的几条经验】\n\n告诉 Claude 记忆是干什么的，别规定怎么记。只说一句“有个记忆文件夹可用”，Opus 4.7 和 Opus 5 就用得很好；加一条“只记录失败”，两者都丢掉了记忆带来的大部分提升。\n\n老模型需要点拨。让 Sonnet 4.6 答题前先读记忆、并验证自己的猜测，得分从 0.364 涨到 0.641。Sonnet 5 不用提醒，10 次里有 9 次会自己先读。\n\n自动加载的那一层要小。它每次都占 token，错一条会被带进每个会话，而且指令文件越长，模型越不容易照做。Claude Code 的自动记忆只加载 MEMORY.md 的前 200 行或 25KB，这部分当目录用，细节放在下层，留个链接。\n\n多个 agent 并行时别写同一个文件。在一个收购合同测试里，四个 agent 同时往一张共享条款表里写，互相覆盖，57 条要点只留住 41 条。改成每份合同一页、一个 agent 负责、条款原文照抄，57 条全部保住。\n\n【“做梦”还能建 wiki】\n\nAnthropic 用 5 月收购的软件公司 Stainless 的约 35 万份内部文件（约 4.2 亿 token）做测试，让 Opus 5 分 128 次会话持续整理成 wiki，再回答 25 个问题。只靠 wiki，得分从 13% 涨到 48%；只靠搜索是 53%；wiki 加搜索从 54% 涨到 61%，每题还省约 2 万 token。\n\nwiki 适合需要跨文档拼信息的问题。一组 24 题的并购问答，过半要综合多份文件，用 wiki 答对 87%，只用搜索是 73%。答案在单份文件里就能搜到的任务，wiki 没有明显帮助；有一次 wiki 写到 203KB，比 115KB 的原始文件还大。\n\n【能不能用上】\n\n“做梦”已经是 Claude Managed Agents（Anthropic 托管的 agent 运行服务）里的功能，目前是研究预览，要申请才能用；跨会话的记忆库功能是 beta。Anthropic 也放出了 cookbook，教开发者用自己的提示词和模型搭一套。\n\n以上数字都来自 Anthropic 自己的测试，宝可梦的对比是每个模型各跑一次。文章也说，“做梦”要额外花算力，记忆该多久复查一次、在干活时记还是事后整理，都还没有定论。\n\n原文：https://www.anthropic.com/research/components-of-agent-memory",
+    "quoted_tweet": {
+      "author": "Anthropic",
+      "username": "AnthropicAI",
+      "text": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time. https://www.anthropic.com/research/components-of-agent-memory"
+    },
+    "url": "https://x.com/dotey/status/2119269064543445168",
+    "time": "2026-11-08 11:21",
+    "created_at": "Sun Nov 08 03:21:33 +0000 2026",
+    "id_str": "2119269064543445168",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "很好奇啊，OpenAI 之前连 Sora2 都愿意做一个独立的 APP\n\n现在怎么反而不愿意给 Dots 做独立 APP，只把它塞到 ChatGPT 里面呢？",
+    "quoted_tweet": null,
+    "url": "https://x.com/YinsenW_/status/2119269514101809167",
+    "time": "2026-11-08 11:23",
+    "created_at": "Sun Nov 08 03:23:20 +0000 2026",
+    "id_str": "2119269514101809167",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 但是这样的使用便利度真的远远不如 Grok bot",
+    "quoted_tweet": null,
+    "url": "https://x.com/YinsenW_/status/2119271030065975613",
+    "time": "2026-11-08 11:29",
+    "created_at": "Sun Nov 08 03:29:22 +0000 2026",
+    "id_str": "2119271030065975613",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@YinsenW_ 是的，但是可以接受\nClaude Duet 也是在 Claude Desktop 可以用",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119272457106559125",
+    "time": "2026-11-08 11:35",
+    "created_at": "Sun Nov 08 03:35:02 +0000 2026",
+    "id_str": "2119272457106559125",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Anthropic 分析 20 万次科研会话：科学家用 Claude 最多的是分析数据和写论文，他们最看重的提想法反而用得最少\n\nAnthropic 11 月 4 日发布研究报告，统计了 2026 年 8 月 2 日到 9 月 30 日约 20.7 万次科研相关的 Claude 会话，看科学家拿 AI 干什么，以及 AI 能让科研快多少。\n\n先说结论：\n\n• 分析数据是第一大用途，占 Claude 科研会话的三分之一，Claude Code 的近一半\n• 科学家认为最重要的两件事，提出想法和收集数据，用 AI 最少\n• 现有 AI 能力如果普及开来，部分领域科研产出最多翻一倍；要是 AI 能包揽所有不用动手的工作，计算机、统计能快约 15 倍，化学、生物只能快 3 到 4 倍，因为实验还得有人在实验室做\n\n【数据怎么来的】\n\n样本来自个人订阅用户，聊天和 Cowork 里 12.9 万次，Claude Code 里 7.8 万次。研究团队让模型给每段会话打上“化学”“数据清洗”这类标签，研究内容本身不保存。\n\n【用在哪：分析和写作多，想点子少】\n\n报告拿每类工作的 AI 用量，和科学家花在这类工作上的时间对比。\n\n分析数据占科研时间约 28%，在 Claude 上占 33.7%，在 Claude Code 上占 48.1%。写作和沟通只占科研时间 16%，在 Claude 上占 32%，单项最多的任务是起草论文。\n\n收集数据占科研时间 28.6%，在 Claude 上只占约 12%，临床样本、生化数据这类要动手采集的尤其少。提出想法和假设占科研时间 7.1%，在 Claude 上占 4.2%，Claude Code 上只有 2.1%。\n\nAnthropic 还调查了 528 位科学家，请他们给四类工作的重要性分配 100 分。提想法拿 35.6 分排第一，收集数据 23.6 分排第二。\n\n报告的解释是：收集数据大多要动手；提想法，科学家可能更愿意自己来，AI 在挑研究问题上也可能确实更弱。\n\n【AI 越擅长的活，用得越多】\n\n研究团队给 7000 多项科研任务各打了一个“AI 能力分”：把任务拆成步骤，让模型两两比较哪一步 AI 做得更好，再用类似国际象棋等级分的办法算出排名。\n\n然后算“使用倍数”：一项任务在 Claude 会话里的占比，除以它在科研时间里的占比。一项任务占科研时间 5%、占会话 10%，倍数就是 2，说明 AI 用量是按时间推算的两倍。\n\n能力分排前 20% 的任务，比如画数据图、做统计检验，Claude 上的使用倍数约 2，Claude Code 上约 4。排后 20% 的任务，比如提纯化学反应产物、实地观察研究对象，几乎没人用 AI。\n\n能力分高的任务有共同点：对错容易判断，能在电脑里大量模拟，反馈来得快。这正是最适合用强化学习训练 AI 的任务，两者的相关系数是 0.78。科学家在 AI 好用的地方用 AI。\n\n【Claude Science：专门做科研的版本】\n\nClaude Science 是 Anthropic 面向科研的产品，把 Claude 接上各种科研数据库和工具，比如查一个蛋白的结构、测过哪些药、有哪些相关试验，不用再一个个库分开查。付费用户都能用。\n\n它的会话一半以上来自生物医学和生物学。在这里，提出想法和假设占会话的 8%，约是普通 Claude 的两倍，和科学家实际花在这件事上的时间差不多。\n\n任务也更重。在生物和生物医学领域，Claude Science 上的活如果人自己干平均要 10.3 小时，普通 Claude 上是 4.9 小时；73% 的会话由 AI 高度自主完成，普通 Claude 只有 24%。\n\n【科研能快多少】\n\n报告估算了三种情况下，同样的科研经费能多出多少成果。\n\n第一种，现有 AI 能力被广泛用起来：AI 能接手 27% 到 52% 的科研时间，产出提升从艺术领域的 1.35 倍到统计学的 2.02 倍，计算机 1.96 倍。现在的 AI 多是帮忙或一起干，几乎每一步人都还得花不少时间，所以提升有限。\n\n第二、三种是 AI 包揽 75% 或全部不用动手的步骤。包揽全部时，统计、计算机、经济、数学、心理学，以及大部分社科和人文领域，都能到 15 到 16 倍。生物、化学、材料这些做实验的学科只有 3 到 4 倍：约 40% 的科研时间花在动手的步骤上，没有自动化实验室，这部分省不掉。\n\n16 倍左右是成本定下的上限。报告假设研究员每小时 95 美元，AI 每小时 30 美元，每替研究员省 1 小时 AI 要跑 0.2 小时，算下来 AI 干同样的活只花人工的约十六分之一。AI 成本减半，上限就翻倍。\n\n【科学家自己怎么看】\n\n528 位受访者里，38% 认为 AI 分析数据已经达到本领域顶尖研究者的水平。约 40% 预计 2030 年前 AI 能不靠人独立完成一个完整的研究项目，2035 年前这个比例约 64%，也有 16% 认为永远不会。\n\n受访者大多是美国和加拿大生命、健康科学领域的研究者，申请过 Anthropic 的科研资助，用 AI 比一般科学家多。三种加速情况是假设推算，报告说明它们不是预测。Claude Science 的任务更重，也可能因为用它的人本来需求就更专业。\n\n原文：https://www.anthropic.com/research/how-researchers-use-claude",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119283516143776186",
+    "time": "2026-11-08 12:18",
+    "created_at": "Sun Nov 08 04:18:59 +0000 2026",
+    "id_str": "2119283516143776186",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "现在要189.99了，恍如隔世",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "给你看看我的扩容解决方案：Costco 买一个 1TB 的 SanDisk 1TB Extreme Go SSD（$79.99），胶带固定在 Mac 上\n\nhttps://www.costco.com/sandisk-1tb-extreme-go-ssd-.product.4000175415.html"
+    },
+    "url": "https://x.com/crypt0x/status/2119384606109737444",
+    "time": "2026-11-08 19:00",
+    "created_at": "Sun Nov 08 11:00:41 +0000 2026",
+    "id_str": "2119384606109737444",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "印度光明节，号称 built in 印度的 Alpie 9B 发布。看了一下，完全是向 Qwen3.5-9B “致敬”：\n\n- 架构方面，完全 copy\n- 分词器方面，词表一个字没动\n- 权重结构和数值：基本逐位相同\n\n哦，唯一不同的是模型的自我认知：\n\nchat template 每轮都注入指令，问来自哪里就答 “India”。\n\n把 X 网友当傻子么？\n\nhttps://huggingface.co/169Pi/Alpie_seed/blob/main/chat_template.jinja#L3",
+    "quoted_tweet": {
+      "author": "169Pi",
+      "username": "169Pi_ai",
+      "text": "This Diwali, a little more light from India's AI research community onto the global AI landscape.\n\nIntroducing the latest benchmark results from Alpie Seed, our 9B multimodal reasoning model developed at @169Pi_ai Research.\n\nWe believe the next generation of AI will be shaped not only by models that scale bigger, but by the research and engineering that make smaller models increasingly capable.\n\nWe put Alpie Seed through a range of demanding evaluations across reasoning, scientific knowledge, mathematics, coding and software engineering.\n\nHere are some of the results:\n\n→ 82.54% on MMLU-Pro\n→ 84.32% on GPQA Diamond\n→ 72.99% on LiveCodeBench v6\n→ 61.20% on SWE-Bench Verified\n\nThe comparison highlights some interesting results.\n\nAlpie Seed records the highest GPQA Diamond score among the models shown. On MMLU-Pro, it performs competitively with larger models, while its LiveCodeBench result is within striking distance of substantially larger systems.\n\nIts SWE-Bench Verified result of 61.20% is another important milestone, reflecting its ability to work through real-world software engineering tasks. This evaluation used mini-SWE-agent without retries.\n\nBeyond benchmark accuracy, we also examined inference efficiency.\n\nIn a separate profiling evaluation, Alpie Seed recorded:\n\n→ 36.66 ms time to first token\n→ 41.37 tokens/s generation speed\n→ 9,796.22 tokens/s prompt processing speed\n\nThese measurements come from a separate profiling setup and should not be confused with the comparative benchmark results.\n\nWhat makes this work meaningful to us is the process behind it: developing a compact model through supervised fine-tuning and reinforcement learning, evaluating it across diverse tasks, and making the resulting weights accessible to the wider community.\n\nThe comparison includes published results from other model developers. These evaluations were not rerun under a common harness, so differences in methodology and configuration should be considered when interpreting the numbers.\n\nBuilt in India. Developed for a global research and developer community.\n\nThis is Alpie Seed. And this is one step in a much larger journey for 169Pi Research.\n\nExplore the model:\n\nHugging Face: https://huggingface.co/169Pi/Alpie_seed\nGGUF: https://huggingface.co/169Pi/Alpie_Seed_GGUF\nOllama: https://ollama.com/169pi/alpie-seed\nKaggle: https://www.kaggle.com/models/alpie/alpie-seed-9b\n\nHappy Diwali from everyone at 169Pi."
+    },
+    "url": "https://x.com/dongxi_nlp/status/2119444194661945710",
+    "time": "2026-11-08 22:57",
+    "created_at": "Sun Nov 08 14:57:28 +0000 2026",
+    "id_str": "2119444194661945710",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "推友大佬们好\n\n纯小白打算从现在开始学设计，有没有什么建议？谢谢🙏",
+    "quoted_tweet": null,
+    "url": "https://x.com/Jackywine/status/2119456916401516755",
+    "time": "2026-11-08 23:48",
+    "created_at": "Sun Nov 08 15:48:01 +0000 2026",
+    "id_str": "2119456916401516755",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@crypt0x 涨的太厉害了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119460043519148184",
+    "time": "2026-11-09 00:00",
+    "created_at": "Sun Nov 08 16:00:26 +0000 2026",
+    "id_str": "2119460043519148184",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "“DeepSeek 希望 DeepSeek Harness 可以作为 Agent 时代的操作系统。”",
+    "quoted_tweet": {
+      "author": "Tianyi Cui",
+      "username": "tianyi",
+      "text": "很多 DeepSeek Harness 插件作者都有问过我，什么样的插件和功能官方会做成内置，如果一个功能官方会做，那第三方插件做还是否有意义。\n\n我们的希望是，DeepSeek Harness 可以作为 Agent 时代的操作系统。\n\n所以，也许可以用操作系统来举例。以智能手机操作系统为例，系统会内置一些通用的 App，例如闹铃与计算器，满足用户的基本需求。但做手机操作系统的厂商肯定更希望生态中能出现更多更广的 App 满足更广泛的需求，希望智能手机生态中出现更好的更适合用户的闹铃 App 与计算器 App 能够比内置功能做得更好，希望第三方开发者能够使用智能手机操作系统提供的 API 做出发明智能手机的人从来没想过的 App。\n\nDeepSeek Harness 对于第三方插件生态的想法会是类似的。我们会为用户提供稳定的基础能力，并内置大多数人都需要的通用功能。但在“一切皆插件”的设计下，内置功能同样可以被第三方插件替换，我们希望更多的社区作品成为用户的日常选择。"
+    },
+    "url": "https://x.com/dotey/status/2119481319935692908",
+    "time": "2026-11-09 01:24",
+    "created_at": "Sun Nov 08 17:24:59 +0000 2026",
+    "id_str": "2119481319935692908",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Jackywine 用 Claude Design",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119495203388260441",
+    "time": "2026-11-09 02:20",
+    "created_at": "Sun Nov 08 18:20:09 +0000 2026",
+    "id_str": "2119495203388260441",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 根本没提这茬吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/meruem_sota/status/2119532767503651268",
+    "time": "2026-11-09 04:49",
+    "created_at": "Sun Nov 08 20:49:25 +0000 2026",
+    "id_str": "2119532767503651268",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@meruem_sota 八九不离十",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2119533113910895103",
+    "time": "2026-11-09 04:50",
+    "created_at": "Sun Nov 08 20:50:48 +0000 2026",
+    "id_str": "2119533113910895103",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "猜测是 GPT-6.2 要来了",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "Tomorrow."
+    },
+    "url": "https://x.com/dotey/status/2119539550112317743",
+    "time": "2026-11-09 05:16",
+    "created_at": "Sun Nov 08 21:16:22 +0000 2026",
+    "id_str": "2119539550112317743",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "黄仁勋致信员工承认出轨，英伟达董事会成立独立委员会调查他是否成了间谍行动的目标\n\n英伟达 CEO 黄仁勋在给员工的邮件里承认，自己对妻子不忠。美国时间 11 月 8 日（周日），英伟达董事会宣布，由独立董事组成委员会，请外部律师协助调查此事。\n\n这封信牵扯的是一桩间谍案。过去十天，纽约时报接连报道，美国情报部门认定，和黄仁勋关系密切的新加坡数据中心公司 Megaspeed 高管 Alice Huang 是中国情报人员。董事会在声明里说，调查针对的是黄仁勋“成为外国情报行动目标”的相关报道。Axios 把信里承认的这段关系写成“与一名疑似中国间谍的恋情”，但从彭博公布的邮件全文看，黄仁勋没有点名对方，也没有提到间谍，只提到“新闻报道中提出的国家安全疑虑”。\n\n【信里说了什么】\n\n彭博公布了这封邮件的全文，标题是“致公司的一封信”。黄仁勋写道：“我欠家人和你们所有人一个道歉。我对妻子不忠，我的行为伤害了她和我们的孩子，我做的事没有任何借口。我深感抱歉。”\n\n他说自己承担全部责任，接受随之而来的批评，希望家庭能慢慢愈合。对同事、董事会、合作伙伴和股东，他写道：“你们值得我做得更好。”“领导英伟达是我一生的荣幸……我辜负了这份责任。我会全身心投入英伟达，努力重新赢得你们的信任。”\n\n信的后半段谈到了相关报道：“关于新闻报道中提出的国家安全疑虑，英伟达董事会已启动独立调查。我支持调查，并将全力配合。我爱我们的国家和我们的公司，致力于保护英伟达、支持美国的国家安全。我为身为美国人感到自豪和感激。”\n\n信的最后一句是：“我的家人不为我的选择负任何责任，责任在我。请给他们隐私。”\n\n【他还当 CEO 吗，有没有泄密】\n\n还当。彭博报道，黄仁勋会在调查结果出来之前继续担任 CEO。英伟达公共政策传播负责人 John Rizzo 在声明里说：“今天的消息不会让英伟达慢下来。Jensen 会继续担任 CEO，不中断地领导英伟达。”\n\n董事会声明的原话是：“虽然董事会没有理由相信国家安全或英伟达的机密受到了损害，但董事会的调查将审查所有可获得的信息。”据 Axios 报道，董事会还对黄仁勋的领导表示信任。\n\n彭博指出，这件事让外界开始担心英伟达的前景：公司没有公开的接班计划，也没有明显的接班人。63 岁的黄仁勋多次说想再干几十年，他的直接下属主要负责快速执行他的决定。英伟达本月晚些时候发布财报。\n\n【事情是怎么一步步出来的】\n\n10 月 29 日，纽约时报报道，美国情报部门在监控 Alice Huang 时发现她在和黄仁勋联系，认定她一边和黄仁勋发展“密切关系”，一边向北京传递信息。报道还说，特朗普大约一年前就听过这项情报汇报，没有采取行动。英伟达当时回应，两人的往来“并不反常，也不意外”，没有涉及任何与国家安全相关的信息。黄仁勋本人也对彭博说，他和 Megaspeed 员工的往来，和他与许多中国客户、高管之间的往来一样，都是常见的商业往来。\n\n10 月 31 日，特朗普对记者说，他不知道这件具体的事，“我们会非常仔细地查一查”，又说自己一直觉得黄仁勋“非常光明磊落”。\n\n11 月 6 日，纽约时报报道，Alice Huang 是被中国国家安全部招募的，任务是打探信息，并可能推动英伟达的先进芯片进入中国，绕开现有禁令。据 Axios 转述纽约时报的报道，国务卿鲁比奥曾就黄仁勋和这名女子的关系提醒特朗普政府高层。此前，众议院三位共和党籍委员会主席已要求黄仁勋在 11 月 18 日前出席闭门简报，说明这段关系和英伟达保护敏感信息的措施。\n\n11 月 8 日，黄仁勋的信和董事会的调查决定先后曝光。\n\n【为什么这件事敏感】\n\n美国禁止向中国出售最先进的 AI 芯片，黄仁勋是华盛顿主张放宽这条限制的主要人物。他的理由是，让美国技术留在中国市场能增强美国的竞争力，也能让中国没那么快造出可能更先进的自研芯片。2025 年 12 月，特朗普同意英伟达向中国卖 H200 芯片，美国政府从中抽成 25%。不过中方限制进口这些芯片，英伟达在中国的销售至今受限。\n\n按纽约时报的说法，Alice Huang 的任务之一恰好是推动英伟达芯片进入中国。\n\n说明：情报结论来自纽约时报引述的匿名官员，没有公开证据；中国驻美大使馆称相关报道“毫无根据”，是对中国的抹黑。Alice Huang 没有回应。黄仁勋的邮件依据彭博公布的全文，董事会声明依据彭博的引述，声明全文本文没有读到。纽约时报原文有付费墙，相关内容依据 Axios、彭博、Gizmodo、The Hill 等媒体的转述。\n\n来源：\nAxios：https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation\n彭博：https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity\n纽约时报 11 月 6 日报道（付费墙）：https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html\nGizmodo：https://gizmodo.com/chinese-spy-who-targeted-jensen-huang-worked-directly-for-china-s-top-spy-agency-report-2000836560\nThe Hill（10 月 29 日）：https://thehill.com/policy/technology/6181938-nvidia-huang-china-intelligence-report/\nGulf News（特朗普表态）：https://gulfnews.com/technology/trump-says-us-probing-report-nvidia-ceo-jensen-huang-was-targeted-in-china-spy-plot-1.500731371",
+    "quoted_tweet": {
+      "author": "Madison Mills",
+      "username": "MadisonMills22",
+      "text": "BREAKING: Nvidia CEO Jensen Huang admits affair, board to launch investigation: \"\"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did.\" https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation"
+    },
+    "url": "https://x.com/dotey/status/2119540611179323431",
+    "time": "2026-11-09 05:20",
+    "created_at": "Sun Nov 08 21:20:35 +0000 2026",
+    "id_str": "2119540611179323431",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": ".@boardyai ????",
+    "quoted_tweet": {
+      "author": "U.S. Central Command",
+      "username": "CENTCOM",
+      "text": "Rewards for Justice is offering a reward of up to $20 million and possible relocation for information about Iran’s nuclear program, including its facilities, equipment, and associated personnel, such as those in the scientific community, or the movement of any of the above.\n\nSubmit a tip: https://rewardsforjustice.net/rewards/iran-nuclear-program/"
+    },
+    "url": "https://x.com/barre_of_lube/status/2118876168447496456",
+    "time": "2026-11-07 09:20",
+    "created_at": "Sat Nov 07 01:20:20 +0000 2026",
+    "id_str": "2118876168447496456",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@barre_of_lube @boardyai 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2119504124328989141",
+    "time": "2026-11-09 02:55",
+    "created_at": "Sun Nov 08 18:55:36 +0000 2026",
+    "id_str": "2119504124328989141",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "we're celebrating 1 million AI Engineers all week at aie code.\n\nQT with your favorite AIE talk and/or speaker, and why!",
+    "quoted_tweet": {
+      "author": "AI.Engineer 🔜 CODE",
+      "username": "aiDotEngineer",
+      "text": "One. \nMillion. \nAI Engineers.\n\nthank you."
+    },
+    "url": "https://x.com/swyx/status/2119513321468735749",
+    "time": "2026-11-09 03:32",
+    "created_at": "Sun Nov 08 19:32:09 +0000 2026",
+    "id_str": "2119513321468735749",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@swyx Congrats man this is awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2119531709498859655",
+    "time": "2026-11-09 04:45",
+    "created_at": "Sun Nov 08 20:45:13 +0000 2026",
+    "id_str": "2119531709498859655",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "What if we fine-tuned a model on every Social Security number? That way when we need to generate the next one we can call the cheaper fine-tuned model instead of GPT 6 Astra Max.\n\nHas anyone thought of this?",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2119533275882602652",
+    "time": "2026-11-09 04:51",
+    "created_at": "Sun Nov 08 20:51:26 +0000 2026",
+    "id_str": "2119533275882602652",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 💗",
+    "quoted_tweet": {
+      "author": "Sara | 사라 Al ✦ 🎥✍️",
+      "username": "sara4ai",
+      "text": "3/50 — Your Presence Is a Gift \n\nFor us, it may be a brief visit before carrying on with our day. For them, it’s the joy they’ve been waiting for all morning. An extra cup, a hopeful glance at the door… our time and conversation mean more than we realize.\n\nThey filled our childhood with love. Fill their days with your presence."
+    },
+    "url": "https://x.com/sara4ai/status/2119496170208702877",
+    "time": "2026-11-09 02:23",
+    "created_at": "Sun Nov 08 18:23:59 +0000 2026",
+    "id_str": "2119496170208702877",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@sara4ai Lovely!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119496543493620014",
+    "time": "2026-11-09 02:25",
+    "created_at": "Sun Nov 08 18:25:28 +0000 2026",
+    "id_str": "2119496543493620014",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife you are doing great",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xemotions_/status/2119503860511445324",
+    "time": "2026-11-09 02:54",
+    "created_at": "Sun Nov 08 18:54:33 +0000 2026",
+    "id_str": "2119503860511445324",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@0xemotions_ Thanks!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119504535525675333",
+    "time": "2026-11-09 02:57",
+    "created_at": "Sun Nov 08 18:57:14 +0000 2026",
+    "id_str": "2119504535525675333",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I've been trying to learn how to use Claude with Magnific.😃",
+    "quoted_tweet": null,
+    "url": "https://x.com/popped_pixels/status/2119507212418658351",
+    "time": "2026-11-09 03:07",
+    "created_at": "Sun Nov 08 19:07:52 +0000 2026",
+    "id_str": "2119507212418658351",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love using Suno and Midjourney the most :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/dhurjati_n/status/2119507653189656969",
+    "time": "2026-11-09 03:09",
+    "created_at": "Sun Nov 08 19:09:37 +0000 2026",
+    "id_str": "2119507653189656969",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "GN beautiful people ❤\n\nEnding this Sunday feeling grateful for this incredible community.\n\nWhat started as a place to share art has become so much more. I've discovered extraordinary artists, made genuine friendships and found people who make even the difficult days a little brighter.\n\nThere's something really special about being surrounded by people who understand your passion and genuinely celebrate each other's journey.\n\nSo happy to be part of this circle. Thank you for being here.\n\nSleep well, everyone! ❤",
+    "quoted_tweet": null,
+    "url": "https://x.com/muriellondon/status/2119511774068343294",
+    "time": "2026-11-09 03:26",
+    "created_at": "Sun Nov 08 19:26:00 +0000 2026",
+    "id_str": "2119511774068343294",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Me. Just created this",
+    "quoted_tweet": {
+      "author": "Amy G",
+      "username": "amynys",
+      "text": "This little fox started as an idea and a chat with Hailuo Agent \n\nI wrote a step-by-step article showing how I created this 32-second video. Full workflow in the reply 👇\n\nWhat story would you create?\n\nHailuo AI is powered by MiniMax. \n\nTry it here: https://hailuoai.pxf.io/aNo7Eq  \n\nCreated with @Hailuo_AI\n#CreateWithHailuoAI #HailuoAI #MiniMaxDesign"
+    },
+    "url": "https://x.com/amynys/status/2119513127821717667",
+    "time": "2026-11-09 03:31",
+    "created_at": "Sun Nov 08 19:31:22 +0000 2026",
+    "id_str": "2119513127821717667",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@amynys So cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119513368398888982",
+    "time": "2026-11-09 03:32",
+    "created_at": "Sun Nov 08 19:32:20 +0000 2026",
+    "id_str": "2119513368398888982",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dhurjati_n I haven’t used Suno in such a long time!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119513460249600274",
+    "time": "2026-11-09 03:32",
+    "created_at": "Sun Nov 08 19:32:42 +0000 2026",
+    "id_str": "2119513460249600274",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@popped_pixels Nice movement",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119513511059669010",
+    "time": "2026-11-09 03:32",
+    "created_at": "Sun Nov 08 19:32:54 +0000 2026",
+    "id_str": "2119513511059669010",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife there's a lot more awesome bells and whistles now!",
+    "quoted_tweet": null,
+    "url": "https://x.com/dhurjati_n/status/2119519999069172128",
+    "time": "2026-11-09 03:58",
+    "created_at": "Sun Nov 08 19:58:41 +0000 2026",
+    "id_str": "2119519999069172128",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm building my dream game at the age of 49 with no game dev experience. Using AI tools. Still super early in development.\nhttps://x.com/ApexVerus/status/2119245587950526714",
+    "quoted_tweet": {
+      "author": "ApexVerus",
+      "username": "ApexVerus",
+      "text": "Starting to look like a real world now. We have clouds and better lighting!"
+    },
+    "url": "https://x.com/ApexVerus/status/2119520006857728067",
+    "time": "2026-11-09 03:58",
+    "created_at": "Sun Nov 08 19:58:43 +0000 2026",
+    "id_str": "2119520006857728067",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dhurjati_n I am going to check it since you reminded me",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119520579871019231",
+    "time": "2026-11-09 04:00",
+    "created_at": "Sun Nov 08 20:00:59 +0000 2026",
+    "id_str": "2119520579871019231",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ApexVerus This looks so cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119520652453396688",
+    "time": "2026-11-09 04:01",
+    "created_at": "Sun Nov 08 20:01:16 +0000 2026",
+    "id_str": "2119520652453396688",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@muriellondon 🥹🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119520799103299767",
+    "time": "2026-11-09 04:01",
+    "created_at": "Sun Nov 08 20:01:51 +0000 2026",
+    "id_str": "2119520799103299767",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@koldo2k @topazlabs Same!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119520840723362020",
+    "time": "2026-11-09 04:02",
+    "created_at": "Sun Nov 08 20:02:01 +0000 2026",
+    "id_str": "2119520840723362020",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@missmayad 😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119520907647492598",
+    "time": "2026-11-09 04:02",
+    "created_at": "Sun Nov 08 20:02:17 +0000 2026",
+    "id_str": "2119520907647492598",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success Happy Diwali 🪔",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119520967273988426",
+    "time": "2026-11-09 04:02",
+    "created_at": "Sun Nov 08 20:02:32 +0000 2026",
+    "id_str": "2119520967273988426",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Happy Diwali 🪔",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2119521003638505599",
+    "time": "2026-11-09 04:02",
+    "created_at": "Sun Nov 08 20:02:40 +0000 2026",
+    "id_str": "2119521003638505599",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "SLOPTOBERFEST winners have been decided! \n\nThe First Annual Sloppies will be livestreamed Monday November 9th at 8pm EST with a demo of an exciting new feature we think you will love.\n\nBig thanks to @pmarca for sponsoring the first Golden Cannon d'Or grand prize as well as all judges, sponsors, and participants. \n\nThe past two months have been a whirlwind for me. I have no comparable experiences. What started as a bit has become my life's work. It is an honor to be given this slopportunity. \n\nI've seen people change their lives with the cannon. I've watched as they uncork their creative side and pour forth video after video as they adapt to their new powers. These secret creatives stuffed into a box by the world, jaded by their careers, suddenly able to feel the joy of creation again.\n\nIt is a blessing to be able to watch this little miracle unfold and it fills me with gratitude everyday. We are doing something important here. \n\nTHE SLOPPIES. MONDAY 8PM EST. NEW FEATURE DEBUT. GET IN THE CANNON.",
+    "quoted_tweet": null,
+    "url": "https://x.com/boneGPT/status/2119165596093018218",
+    "time": "2026-11-08 04:30",
+    "created_at": "Sat Nov 07 20:30:24 +0000 2026",
+    "id_str": "2119165596093018218",
+    "is_retweet": true
   }
 ]
