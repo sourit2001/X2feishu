@@ -128,5 +128,282 @@
     "created_at": "Sun Nov 08 17:04:27 +0000 2026",
     "id_str": "2119476153828192703",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": {
+      "text": "https://t.co/Wlgm5dVeoX",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2119483525405478912",
+          "display": "pic.x.com/Wlgm5dVeoX",
+          "original": "https://t.co/Wlgm5dVeoX",
+          "replacement": "https://x.com/emollick/status/2119483529591504896/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": {
+      "author": "Justin Lo",
+      "username": "loresjpg",
+      "text": "Nice DeepSWE score! Does it survive a lowercase filename?\n\nIntroducing MaxxBench: 89 DeepSWE tasks with small changes to the instructions or starting code. Same engineering problem, slightly different requirement.\n\nModels clustered around 74% on DeepSWE end up 23 pp apart.\n\nGood at coding, or good at DeepSWE? 🧵"
+    },
+    "url": "https://x.com/emollick/status/2119483529591504896",
+    "time": "2026-11-09 01:33",
+    "created_at": "Sun Nov 08 17:33:46 +0000 2026",
+    "id_str": "2119483529591504896",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Does it survive a lowercase filename? Mine doesn't survive a Tuesday",
+    "quoted_tweet": null,
+    "url": "https://x.com/Hussein__khidr/status/2119485675225632901",
+    "time": "2026-11-09 01:42",
+    "created_at": "Sun Nov 08 17:42:17 +0000 2026",
+    "id_str": "2119485675225632901",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Hussein__khidr Please change your prompt. This is terrible",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2119494410463224051",
+    "time": "2026-11-09 02:17",
+    "created_at": "Sun Nov 08 18:17:00 +0000 2026",
+    "id_str": "2119494410463224051",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "1 line in your prompt decides whether you get a 3D model you can edit or a lump you can't.\n\nTripo's library has 300+ prompts that already get it right, each with the finished model next to it and a note on why it works. Free to browse, no sign-up.\n\nSearch \"Tripo 3D Prompts\" and it's the first result.\n\n#tripo3d #tripoai #3dprompts #ai3d",
+    "quoted_tweet": null,
+    "url": "https://x.com/rryssf/status/2119455058417041798",
+    "time": "2026-11-08 23:40",
+    "created_at": "Sun Nov 08 15:40:38 +0000 2026",
+    "id_str": "2119455058417041798",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@rryssf need to work on 3d prompts to catch up",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2119457602316988671",
+    "time": "2026-11-08 23:50",
+    "created_at": "Sun Nov 08 15:50:44 +0000 2026",
+    "id_str": "2119457602316988671",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "AI 的需求上升是指数级的\nAI 的成本下降也是指数级的\nAI 数据中心的建设按部就班即可\n根本无须焦虑，无须fomo，更无须炒作",
+    "quoted_tweet": {
+      "author": "(((The Daily Shot)))",
+      "username": "SoberLook",
+      "text": "AI costs are declining faster than those of previous transformative technologies.\n\nSource: @EugeneNg"
+    },
+    "url": "https://x.com/oran_ge/status/2119397408027365883",
+    "time": "2026-11-08 19:51",
+    "created_at": "Sun Nov 08 11:51:33 +0000 2026",
+    "id_str": "2119397408027365883",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "NVIDIA built an AI that makes up every single move for a video game character or a robot on the fly. It's called MotionBricks. Nobody animated any of this hand. Normally, an animator would need to create every one of these moves.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2119498621272104983",
+    "time": "2026-11-09 02:33",
+    "created_at": "Sun Nov 08 18:33:44 +0000 2026",
+    "id_str": "2119498621272104983",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Who will win?\n\n@claudeai @bot @Meta @OpenAI",
+    "quoted_tweet": null,
+    "url": "https://x.com/alexmichael/status/2119237905784725637",
+    "time": "2026-11-08 09:17",
+    "created_at": "Sun Nov 08 01:17:44 +0000 2026",
+    "id_str": "2119237905784725637",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@hakmgpt That is not correct.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119293235353006321",
+    "time": "2026-11-08 12:57",
+    "created_at": "Sun Nov 08 04:57:36 +0000 2026",
+    "id_str": "2119293235353006321",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@JamesMalsawm Yes, but I am also very fond of this little x bubble",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119294044480401585",
+    "time": "2026-11-08 13:00",
+    "created_at": "Sun Nov 08 05:00:49 +0000 2026",
+    "id_str": "2119294044480401585",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119296267545419987",
+    "time": "2026-11-08 13:09",
+    "created_at": "Sun Nov 08 05:09:39 +0000 2026",
+    "id_str": "2119296267545419987",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@techleadhd",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119303444683255991",
+    "time": "2026-11-08 13:38",
+    "created_at": "Sun Nov 08 05:38:10 +0000 2026",
+    "id_str": "2119303444683255991",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@JamesMalsawm Pretty wild to me that GPT 6.1 Terra gets compared to Opus 5.5. No doubt that it's a great model, but it's not meant to compete in the big leagues. We've got other models for that.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119304055126425939",
+    "time": "2026-11-08 13:40",
+    "created_at": "Sun Nov 08 05:40:36 +0000 2026",
+    "id_str": "2119304055126425939",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@TJwithAI Basement is fun",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119304841873023158",
+    "time": "2026-11-08 13:43",
+    "created_at": "Sun Nov 08 05:43:43 +0000 2026",
+    "id_str": "2119304841873023158",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Would a Pro 50 make sense? Wdyt?",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Saw some confusions, but all Pro plans have no 5-hour limits, and give the following usage compared to Plus.\n\n✅ Pro 100 = 10X\n✅ Pro 200 = 20X\n✅ Pro 500 = 50X, access to ultrafast"
+    },
+    "url": "https://x.com/thsottiaux/status/2119305294291612140",
+    "time": "2026-11-08 13:45",
+    "created_at": "Sun Nov 08 05:45:31 +0000 2026",
+    "id_str": "2119305294291612140",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@JamesMalsawm They already did, come over",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119305379100450928",
+    "time": "2026-11-08 13:45",
+    "created_at": "Sun Nov 08 05:45:51 +0000 2026",
+    "id_str": "2119305379100450928",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ForwardEditor We hesitated to embed https://x.com into the codex app to make sense of the resets, but decided against it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119308687676432672",
+    "time": "2026-11-08 13:59",
+    "created_at": "Sun Nov 08 05:59:00 +0000 2026",
+    "id_str": "2119308687676432672",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@alexmichael @claudeai @bot @Meta @OpenAI Alfred plays to win",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119309070658318698",
+    "time": "2026-11-08 14:00",
+    "created_at": "Sun Nov 08 06:00:31 +0000 2026",
+    "id_str": "2119309070658318698",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Out of curiosity I am doing some open source eval work on harnesses with frontier models and here’s what is coming back so far",
+    "quoted_tweet": null,
+    "url": "https://x.com/garrytan/status/2119492448200405110",
+    "time": "2026-11-09 02:09",
+    "created_at": "Sun Nov 08 18:09:12 +0000 2026",
+    "id_str": "2119492448200405110",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "One day we’ll get a good game out of the great agent beef of 2026",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Get me out of the basement\n\nhttps://poteto.com/"
+    },
+    "url": "https://x.com/MillionInt/status/2119502745036288421",
+    "time": "2026-11-09 02:50",
+    "created_at": "Sun Nov 08 18:50:07 +0000 2026",
+    "id_str": "2119502745036288421",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@MillionInt Jerry, I challenge you to make a game",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119528988033073501",
+    "time": "2026-11-09 04:34",
+    "created_at": "Sun Nov 08 20:34:24 +0000 2026",
+    "id_str": "2119528988033073501",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@garrytan Thanks for running those and publishing",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2119532403593191733",
+    "time": "2026-11-09 04:47",
+    "created_at": "Sun Nov 08 20:47:58 +0000 2026",
+    "id_str": "2119532403593191733",
+    "is_retweet": false
   }
 ]
