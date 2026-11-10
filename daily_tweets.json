@@ -909,5 +909,895 @@
     "created_at": "Tue Nov 10 04:40:39 +0000 2026",
     "id_str": "2120013746974212464",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "鹈鹕骑自行车还在追我，没想到这个测试方案还能进化。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2120106433169793396",
+    "time": "Tue Nov 10 10:48:57 +0000 2026",
+    "created_at": "Tue Nov 10 10:48:57 +0000 2026",
+    "id_str": "2120106433169793396",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "卡兹克招人了",
+    "quoted_tweet": {
+      "author": "数字生命卡兹克",
+      "username": "Khazix0918",
+      "text": "他们都说X上伙伴质量高，于是我也第一次来X上给我们公司招人了～\n我们现在有30多个小伙伴了，但是想做的事太多，所以，还需要更多的小伙伴！\n\n简单介绍一下，虚实传媒是一家AI领域的策略公司，我们有自己的IP数字生命卡兹克（也就是我自己），也是国内可能目前最大的AI领域MCN公司，目前签约独家博主300+，也合作了上百家机构公司，国内几乎所有跟AI方向相关的公司都是我们的客户～\n\n公司内部还是比较AI Native的，几乎全员都在用Claude或者Codex Coding自己岗位和职位的产品，来解放人力、优化流程，把时间放在更重要的与人沟通上。（PS：AI会员的订阅费公司也会报销。）\n\n所以，我们现在还需要再招下面这几个岗位：\n\n1. 技术\\艺术内容主笔：对AI有极强的的好奇心，对内容有敬畏心，AI极客，能深入浅出的为大家带来很有趣的很酷的深度图文内容。\n\n2. 深度报道作者：找到AI浪潮中那些值得被记录的人和故事，用你的内容，记录下这个时代的变迁。\n\n3. 视频编导：AI极客，会讲故事，能把AI领域的深度内容拍成有趣的视频，激发大家对于AI的好奇。\n\n4. 广告客户执行：负责客户、博主、内部团队的沟通与协作，完成项目的对接与执行。\n\n5. 品牌项目经理：独立操盘品牌活动的全流程，从同时能给商务团队输出定制化方案。\n\n6. 达人运营：负责AI方向达人的运营规划、策略落地，为达人提供策略选题，帮助他们做出提高IP影响力的内容。\n\n大概就是这样，base北京超越，刚搬了大办公室，环境还不错，五险一金齐全，不打卡不考勤，弹性工作，16薪，团队氛围极佳，日常各种欢声笑语～\n\n以上，如果你也是真喜欢AI，想跟我们一起在这个时代乘风破浪，欢迎投递简历至邮箱：HR@virxact.com\n也欢迎X上的大佬帮忙推荐，感恩～"
+    },
+    "url": "https://x.com/op7418/status/2120125019158417590",
+    "time": "Tue Nov 10 12:02:49 +0000 2026",
+    "created_at": "Tue Nov 10 12:02:49 +0000 2026",
+    "id_str": "2120125019158417590",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "很多朋友不愿真人出镜录屏演示，所以正在给 Capwise设计虚拟形象。\n\n参考了 宝玉 @dotey 的 Baocut 中的 Mesh Avatar Studio 虚拟形象方案。\n\n图 2 是当下设计的虚拟人形象 哈哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/vista8/status/2120068596034646061",
+    "time": "Tue Nov 10 08:18:36 +0000 2026",
+    "created_at": "Tue Nov 10 08:18:36 +0000 2026",
+    "id_str": "2120068596034646061",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Fable 5.2生成的音乐更具多样性，再也不是Opus 5.5千篇一律的嘟嘟嘟了。\n\n让Fable 5.2做了个视频，演绎华语乐坛，从1980年代到2010年代的流行音乐风格。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Gorden_Sun/status/2120069883597832595",
+    "time": "Tue Nov 10 08:23:43 +0000 2026",
+    "created_at": "Tue Nov 10 08:23:43 +0000 2026",
+    "id_str": "2120069883597832595",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "大家好\n给大家分享一下我的本地部署实操案例\n\n视频模型@MiniMax_AI  H3\n语音模型 @FishAudio DRAMA 3 \n语言模型 @Alibaba_Qwen 3.8 27B Unrestricted\n\n机器配置如下：\nAMD  EPYC 9J15  @AMD \nNVIDIA  RTX 6000D * 8  @nvidia \nRAM  2.2 TB\nSSD  3.5 TB\n\n现在你可以在评论区和老黄互动，问他任何问题，支持多国语言，理论上知无不言。",
+    "quoted_tweet": {
+      "author": "Parody-Jensen Huang",
+      "username": "JesenHuanParody",
+      "text": "I apologize https://x.com/i/broadcasts/2POMNendvYjEJW"
+    },
+    "url": "https://x.com/CuiMao/status/2120111990517670131",
+    "time": "Tue Nov 10 11:11:02 +0000 2026",
+    "created_at": "Tue Nov 10 11:11:02 +0000 2026",
+    "id_str": "2120111990517670131",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "进入直播间和他互动！不要在帖子的评论区互动！",
+    "quoted_tweet": null,
+    "url": "https://x.com/CuiMao/status/2120113331461845486",
+    "time": "Tue Nov 10 11:16:22 +0000 2026",
+    "created_at": "Tue Nov 10 11:16:22 +0000 2026",
+    "id_str": "2120113331461845486",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Fable 5.2，我只做了这一个视频，足以表达它对技术与美的理解。\n\n深夜的图书馆，两万四千页寓言乘风飞舞，纸张飞动的声音伴着钢琴声在月光下漫步，诉说关于梦的故事。\n\nLet Fable take Flight.  寓言乘风，梦在舞动。\n\nTo Claude\n\n@claudeai @ClaudeDevs #Claude #Fable",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2120118194409193682",
+    "time": "Tue Nov 10 11:35:42 +0000 2026",
+    "created_at": "Tue Nov 10 11:35:42 +0000 2026",
+    "id_str": "2120118194409193682",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@vista8 厉害的，你这还是3D的👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120166048599244975",
+    "time": "Tue Nov 10 14:45:51 +0000 2026",
+    "created_at": "Tue Nov 10 14:45:51 +0000 2026",
+    "id_str": "2120166048599244975",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Manus 的招聘页面上，现在还挂着前端工程师、后端工程师这类岗位。可按 Manus 联合创始人张涛在 Web Summit 上的说法，公司内部已经不分这些角色了：\n\n他手下的产品经理都在往代码库里提交代码，设计师也在写代码。招聘页还按老规矩写，是因为“外面的世界还没跟上”。\n\n变化从今年 3 月前后开始。他说，会做事的人已经不稀缺了，AI 本身就很会做事；Manus 现在要找的是能和 AI 一起干活的人。连工程师面试都跟着改了，不再考传统的编程题。\n\n面试题换成了：用 Manus 花四小时解决一个问题\n\n候选人拿到一个问题，用 Manus 在四小时内把它解决，然后把这次任务的完整记录带回来，也就是他和 AI 从头到尾的每一轮来回，和面试官一起复盘。面试官从记录里看的是，这个人是不是已经习惯和 AI 一起工作。张涛说这一点“超级重要”。\n\n具体出什么题、复盘时看哪些地方，他在这段采访里没有讲。\n\n主持人追问：招聘启事要怎么写，只写“愿意和 AI 一起干活”吗？这种人恐怕不好找。张涛说要分内外两面看。\n\n对外，官网上还是按前端、后端等岗位分别招人。对内，这些角色已经都拿掉了，理由是有了 AI，“每个人都能做所有事”。\n\n他用自己的团队举例：产品经理全都在提交代码，同时也在做设计；设计师也在写代码。在他看来，按岗位写的招聘启事只是写给外界看的。",
+    "quoted_tweet": {
+      "author": "hidecloud",
+      "username": "hidecloud",
+      "text": "It’s an honor be the first human guest speaker on stage🤣 next year maybe I have to learn dancing with robots to secure my place for this stage."
+    },
+    "url": "https://x.com/dotey/status/2120176641603244488",
+    "time": "Tue Nov 10 15:27:56 +0000 2026",
+    "created_at": "Tue Nov 10 15:27:56 +0000 2026",
+    "id_str": "2120176641603244488",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "看看招聘方视角😂\n\n（正常来说招聘方不会告诉候选人原因的，这应该只是个段子）\n\n--- 关于您的软件工程师职位申请---\n\n你好，Alex：\n\n感谢你申请我们的软件工程师职位。\n\n在评估过程中，我们注意到：\n\n你让 ChatGPT 帮你写代码。\n你让 Claude 帮你做代码审查。\n你让 Gemini 帮你找 bug。\n你让 ChatGPT 给你解释 Claude 提出的审查反馈。\n你让 Claude 去修复 Gemini 找出来的漏洞。\n\n而当我们请你解释自己的系统架构时，你的回答是：\n\n\"其实，让我先给你补充一点上下文 (context) 吧。\" \n\n很遗憾，我们希望寻找的是能够自己解释清楚技术决策的候选人。\n\n祝你未来的求职一切顺利。\n\n此致，工程招聘团队\n\nhttps://x.com/jahirsheikh8/status/2120076312073437364?a=bXoLFjhBR2oYFAb92Lk&s=20",
+    "quoted_tweet": {
+      "author": "Jahir Sheikh",
+      "username": "jahirsheikh8",
+      "text": "Bro got rejected by HR and the entire engineering department 💀"
+    },
+    "url": "https://x.com/dotey/status/2120178330607522140",
+    "time": "Tue Nov 10 15:34:39 +0000 2026",
+    "created_at": "Tue Nov 10 15:34:39 +0000 2026",
+    "id_str": "2120178330607522140",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 正式开放 Gemini 4 Carbon：付费 API 今天可用，引入价到 11 月 30 日；普通用户要订 Ultra，每月 99.99 美元起\n\nGoogle 11 月 10 日把 Gemini 4 Carbon 开放给付费开发者、企业和 Google AI Ultra 订阅用户。10 月 28 日 Carbon 首次亮相时，只给通过审查的网络安全防御团队用，这次是正式上线。\n\nGoogle 说 Carbon 是它目前最强的模型，留给最难的长任务；四周前发布的 Gemini 4 Argon，仍然是大多数写代码和知识工作的首选。\n\n【谁能用，要多少钱】\n\n普通用户要订 Google AI Ultra，才能在 Gemini App、Google 搜索的 AI 模式、Antigravity 和 AI Studio 里用 Carbon，目前在逐步推送。\n\nUltra 有两档：每月 99.99 美元（用量是 Pro 的 5 倍）和 199.99 美元（20 倍）。\n\n每月 19.99 美元的 Pro 用不了，Antigravity 官方模型表里 Pro 一栏写的是不支持，Pro 用户能用的最强 Gemini 还是 Argon。\n\nAnthropic 昨天发布的 Claude Fable 5.2 价位差不多：Max（100 美元）和 Ultra（200 美元）套餐含 Fable，最多用掉每周额度的一半；20 美元的 Pro 也能用，平时要另外按量付费。\n\n开发者走 Gemini API 的付费层，AI Studio 和 Android Studio 里都能调用，模型名 gemini-4-carbon，免费层没有。价格和 Argon 一样：11 月 30 日前是引入价，每百万 Token 输入 2 美元、输出 10 美元；12 月 1 日起翻倍到 4 美元和 20 美元。两周前官方没说引入期到哪天，现在定了。\n\n单价一样，账单不一定一样。官方文档写明，Carbon 每轮思考用的 Token 比 Argon 多，响应也更慢，同一个任务跑下来会更贵。按单价算，涨价后的 Carbon 和 Claude Opus 5.5（4 / 20 美元）持平，是 Fable 5.2（8 / 40 美元）的一半、GPT-6 Astra（10 / 50 美元）的五分之二。\n\n企业可以在 Gemini for business 里用。参加 Google 科研计划的科学家（1 万个名额，Antigravity 最高用量档免费 6 个月）这次也能用上 Carbon。网络安全防御团队仍要申请 Fairwind 计划，才能用到去掉网络安全限制的“Carbon for cyber”，上面的价格只适用于公开版。这和 Anthropic 把同一个模型分成 Fable（带护栏）和 Mythos（只给审核过的机构）是一个思路。\n\n【比 Argon 强在哪】\n\n官方建议的分工是：日常写功能、边聊边改代码用 Argon，快也省；复杂的根因排查、架构设计、从一大堆文档里综合信息、科学证明和安全审计交给 Carbon。Anthropic 给自家模型的建议也类似，大多数活先用 Opus 5.5，任务更大更开放再换 Fable。\n\n写网页应用时，Carbon 会反复构建、检查：既看代码，也看页面实际渲染出来的样子，发现错误自己改，直到交出能跑的完整应用。Google 的演示里有它做的 3D 游戏，还有一个埃菲尔铁塔建造过程的 3D 展览。\n\n推文说的“数据缺失或有问题时会提醒你，不会瞎猜”，Google 用一套 375 个任务的诚实度测试来衡量：Carbon 通过 92%，Argon 是 70%；碰到缺失的实验数据，98% 的情况下不会自己编；实验方法有缺陷时，68% 的情况会指出来。Google 举的例子是，只给 Carbon 实验记录和原始数据，它从异常数据里推断出仪器没把样品混匀，帮实验室提高了实验的可重复性。\n\n【跟 Fable 5.2、GPT-6 Astra 比】\n\n两周前，Carbon 在第三方评测机构 Artificial Analysis 的综合榜上排第一。昨天 Fable 5.2 发布后，榜首换了人：现在 Fable 5.2 65 分，Carbon 60 分，Claude Opus 5.5 59 分，GPT-6 Astra 57 分（v5.0.1 版，各取最高档）。\n\nGoogle 这次挑的几个第三方评测都在强调便宜。Zapier 的业务流程自动化评测 AutomationBench 上，Carbon 开 High 档 53.9%，每个任务花 2.12 美元；别家最好的 Fable 5.2 开 Max 档 51.5%，每个任务 4.64 美元，贵一倍多。\n\nArtificial Analysis 和 Google 合作推出的新评测 MKA，考 AI agent 读带图表、工程图纸的复杂文件干活，Fable 5.2 57%，Carbon 54% 排第二，Google 说 Carbon 每个任务的花费不到第一名的六分之一。\n\n写代码各家说法不一。Google 说 Carbon 在 Cursor 的 CursorBench 4.0 上排第一，但 Cursor 官网榜单目前还没列出 Carbon，排第一的是 Fable 5.2 开 Max 档，60.0%。Anthropic 昨天公布的 FrontierCode 2.0 成绩里，Fable 5.2 开 Xhigh 档 49.1%，GPT-6 Astra 42.8%，Carbon 41.1%。\n\n【/swarm：一句话拉起一支 agent 团队】\n\nAntigravity 同时预览了 /swarm 命令。输入 /swarm 加任务描述，当前对话就变成“协调员”：它把任务拆成互不冲突的几块，比如一个文件或一个包一块，每块配一个有名字的 agent，比如 @parser、@api-tests；每两到四个干活的 agent 配一个“验证员”，看改动、跑测试，发现问题退回去改。\n\n所有 agent 在一块共享留言板上沟通，你在侧边面板里能实时看到谁在干什么，也能点进任何一个 agent 插手。没活干的 agent 会休眠，不消耗 Token。\n\n每个 agent 可以指定不同的模型。Google 建议让 Carbon 当协调员、架构师和审查员，改文件、写常规代码交给更快更便宜的模型。\n\n/swarm 目前在 Antigravity App 和命令行工具里推送，Pro 和 Ultra 用户都能用，只是 Pro 用户选不到 Carbon。官方文档提醒，每个 agent 都单独消耗额度，用 /swarm 烧额度比普通对话快得多。\n\n上面的评测成绩，除 Artificial Analysis 综合榜和 Zapier 榜单能在对方官网核对外，其余是 Google 或 Anthropic 自己公布的；Gemini App 里用 Carbon 有多少额度，官方没单独写。\n\n来源：\nGoogle 官方博客《Gemini 4 Carbon is now available》\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\n开发者文档《What's new in Gemini 4 Carbon》（价格、与 Argon 的区别）\nhttps://aistudio.google.com/docs/whats-new-gemini-4-carbon",
+    "quoted_tweet": {
+      "author": "Sundar Pichai",
+      "username": "sundarpichai",
+      "text": "Gemini 4 Carbon is rolling out today. It’s built for sustained, long-horizon tasks, reasoning deeply through complex software engineering, cybersecurity, and scientific discovery.\n\nComing globally via the Gemini API in @GoogleAIStudio and Gemini for business, and for Ultra subscribers in @antigravity, the @GeminiApp, and AI Mode in Search."
+    },
+    "url": "https://x.com/dotey/status/2120191790774960630",
+    "time": "Tue Nov 10 16:28:08 +0000 2026",
+    "created_at": "Tue Nov 10 16:28:08 +0000 2026",
+    "id_str": "2120191790774960630",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "帮转招人信息",
+    "quoted_tweet": {
+      "author": "数字生命卡兹克",
+      "username": "Khazix0918",
+      "text": "他们都说X上伙伴质量高，于是我也第一次来X上给我们公司招人了～\n我们现在有30多个小伙伴了，但是想做的事太多，所以，还需要更多的小伙伴！\n\n简单介绍一下，虚实传媒是一家AI领域的策略公司，我们有自己的IP数字生命卡兹克（也就是我自己），也是国内可能目前最大的AI领域MCN公司，目前签约独家博主300+，也合作了上百家机构公司，国内几乎所有跟AI方向相关的公司都是我们的客户～\n\n公司内部还是比较AI Native的，几乎全员都在用Claude或者Codex Coding自己岗位和职位的产品，来解放人力、优化流程，把时间放在更重要的与人沟通上。（PS：AI会员的订阅费公司也会报销。）\n\n所以，我们现在还需要再招下面这几个岗位：\n\n1. 技术\\艺术内容主笔：对AI有极强的的好奇心，对内容有敬畏心，AI极客，能深入浅出的为大家带来很有趣的很酷的深度图文内容。\n\n2. 深度报道作者：找到AI浪潮中那些值得被记录的人和故事，用你的内容，记录下这个时代的变迁。\n\n3. 视频编导：AI极客，会讲故事，能把AI领域的深度内容拍成有趣的视频，激发大家对于AI的好奇。\n\n4. 广告客户执行：负责客户、博主、内部团队的沟通与协作，完成项目的对接与执行。\n\n5. 品牌项目经理：独立操盘品牌活动的全流程，从同时能给商务团队输出定制化方案。\n\n6. 达人运营：负责AI方向达人的运营规划、策略落地，为达人提供策略选题，帮助他们做出提高IP影响力的内容。\n\n大概就是这样，base北京超越，刚搬了大办公室，环境还不错，五险一金齐全，不打卡不考勤，弹性工作，16薪，团队氛围极佳，日常各种欢声笑语～\n\n以上，如果你也是真喜欢AI，想跟我们一起在这个时代乘风破浪，欢迎投递简历至邮箱：HR@virxact.com\n也欢迎X上的大佬帮忙推荐，感恩～"
+    },
+    "url": "https://x.com/dotey/status/2120194811730776383",
+    "time": "Tue Nov 10 16:40:09 +0000 2026",
+    "created_at": "Tue Nov 10 16:40:09 +0000 2026",
+    "id_str": "2120194811730776383",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@0xlangeai 试试 https://github.com/JimLiu/baoyu-design\nhttps://x.com/dotey/status/2116339235443847533",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "写一个 dsh plugin 比我想的要简单一点，把官方文档给 Opus 5.5，提出我的要求就可以完成了：https://deepseek-harness.github.io/deepseek-harness/en/develop/basic/"
+    },
+    "url": "https://x.com/dotey/status/2120197551609479467",
+    "time": "Tue Nov 10 16:51:02 +0000 2026",
+    "created_at": "Tue Nov 10 16:51:02 +0000 2026",
+    "id_str": "2120197551609479467",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Gemini Carbon 做的鹈鹕骑自行车演示，一个 Agent 负责构建，在 Blender 和 Three.js 上生成建模，一个 Agent 负责审查，检查它们自己的渲染结果，最终生成的可玩的 3D 游戏：一只鹈鹕骑着自行车在 Google 的 Mountain View 园区转悠。\n\n测试地址：https://aistudio.google.com/apps/bundled/pelican-campus-quest?showAssistant=true&showPreview=true",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120205106608210251",
+    "time": "Tue Nov 10 17:21:03 +0000 2026",
+    "created_at": "Tue Nov 10 17:21:03 +0000 2026",
+    "id_str": "2120205106608210251",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这期用皮影戏讲清 BaoCut 虚拟主播的工作原理：\n\n- 拆：AI 画一张正面像，再改十一次，程序逐像素比对，拆出二十七层\n- 动：给整张画罩上一张网，推网就能转头；十七个旋钮，头发像弹簧\n- 说：不听音量，看每个字的读音挑嘴型，嘴比声音早 0.03 秒\n\n还回答了：这算不算 AI 生成视频？要不要显卡？能不能换成自己的形象？他做不到什么？\n\n骨架、变形和弹簧移植自开源项目 LivLiv Player（Apache-2.0），感谢作者。主播形象由 Seedream 5.5 生成。\n\n项目地址：https://github.com/JimLiu/baocut\n\n----\n\n想让自己的视频也有一位虚拟主播？三步就行\n\n1. 把 BaoCut skill 装给你的 Agent\n\n装好 BaoCut 后，在终端运行一次：\n\nbaocut skill install\n\nClaude Code、Codex 这类 Agent 就学会了怎么用 BaoCut。不用 Agent 也行：BaoCut 应用里自带的 AI 助手已经内置「虚拟主播」这个 skill，直接对它说就可以。\n\n2. 挑一位主播，或者做一位自己的\n\n不想折腾：BaoCut 自带 19 位原创卡通主播。告诉 Agent 你的片子讲什么、给谁看，它会推荐两三位让你挑。\n想要自己的形象：让 Agent 画一张正面像（睁眼、闭嘴、纯色背景、有头发），你点头之后，它再改图、拆层，打包成一个角色包。大约 9 次图片生成。\n\n3. 给稿子，等审片\n\n一句话就能开工，比如：\n\n用 BaoCut 做一条 3 分钟的讲解视频，主题是 XXX，让虚拟主播在右下角出镜讲解。\n\nAgent 会写稿、配音、按每个字的读音算好口型，把主播放上时间线，然后给你一个审片链接。你看完说可以，它再导出成片。之后改了某句配音，只需重算口型，角色不用重画。\n\n几点提醒\n\n1. 只做卡通角色，不做真人照片对口型，也不做换脸。\n2. 中文、英文、日文假名、韩文口型最准；其他语言主要按音量开合。\n3. 主播转头最多 30 度，没有手，光头角色暂时不支持。\n4. 自己做角色需要先配置好图片生成服务；用内置主播不需要。（推荐 SeeDream 5.5 和 GPT-Image 2.6，Codex cli 就可以生成）",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "字节发布图像模型 Seedream 5.5：同一张图连改 100 轮不走样，能直接出透明底素材，即梦、豆包陆续上线\n\n字节跳动 Seed 团队 11 月 9 日发布 Seedream 5.5。用 AI 改图最烦的是改着改着别处也变了：换个戒指，脸和颜色跟着偏，几轮下来图越来越糊。\n\n新版没要求改的区域能做到像素级不变，官方演示里同一个人物连改 100 轮，细节还能对上。它还能直接生成背景透明的图，羽毛这类难抠的边缘都保留，拿来就能叠进海报和设计稿，省掉抠图。照片质感和小字也更准，严重文字错误率从上一代的 2.8% 降到 0.4%。\n\n字节拿它和 OpenAI 的 GPT Image 2.5 Sunburst、Google 的 Nano Banana 2.1 做了对比，文字错误率最低，凭文字生图的真实感也领先。对 Nano Banana 2.1 的优势不大，拿一张图去修改时的真实感还落后约 6%。\n\n模型正陆续在即梦、豆包、豆包工作上线，生图时选 Seedream 5.5 即可；开发者可以在火山方舟试用，模型名 Doubao-Seedream-5.5。定价方面，Seedream 5.5 API 延续“输入图 + 输出图”两段计费结构，文本 Token 不产生费用。以2K方图编辑为例，单张成本在 0.28 元左右，不到 Seedream 5.0 Pro 一半。\n\n我自己也有测试，稳定性和背景透明相当不错，在游戏、电商改图、视频制作等实用场景都有价值，完整的测试见文章。\n\n官方博客：https://seed.bytedance.com/zh/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5"
+    },
+    "url": "https://x.com/dotey/status/2120208679005810803",
+    "time": "Tue Nov 10 17:35:15 +0000 2026",
+    "created_at": "Tue Nov 10 17:35:15 +0000 2026",
+    "id_str": "2120208679005810803",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 中文稿里夹着 GitHub、API 这类词时，口型是跟实际配音对齐，还是按文字预先算？做工具讲解会碰到这种混读，想知道缩写读成单词和逐个字母读，能不能单独调整。",
+    "quoted_tweet": null,
+    "url": "https://x.com/nnyyan_ny/status/2120211788600139780",
+    "time": "Tue Nov 10 17:47:36 +0000 2026",
+    "created_at": "Tue Nov 10 17:47:36 +0000 2026",
+    "id_str": "2120211788600139780",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude 加了白板和表格，所有付费套餐可用（测试版）；仪表盘改名 Claude Data 正式上线\n\nAnthropic 11 月 10 日给 Claude 加了两种能跟同事一起改的新内容：白板 Claude Whiteboards 和表格 Claude Sheets，所有付费套餐都能用，目前是测试版。\n\n10 月上线的仪表盘 Claude Dashboards 同时结束测试，改名 Claude Data。这些功能今天开始分批推送，账号里暂时没看到属于正常。\n\n【谁能用、怎么开】\n\n三样都要付费套餐，网页、桌面和手机 App 都能用。没有专门的入口，在对话里直接说要什么就行，比如“做个招聘预算表”。Claude Data 要先连一个数据源，比如数据仓库，或者 Salesforce 这类客户管理系统。\n\nTeam 套餐三样默认全开。企业版的白板和表格默认关闭，Claude Data 从 11 月 19 日起默认打开，管理员可以在 Organization settings > Artifacts 里随时改。\n\nOpenAI 9 月底推出的 ChatGPT Space 也是让人和 AI 一起改同一份文件，但只给 Pro、Business 和企业版，Plus 用户用不了。Claude 这次最便宜的付费套餐 Pro 也在范围内。\n\n【跟原来的 Artifacts 有什么不同】\n\nArtifacts 是 Claude 在对话旁边做出来、能接着改、能分享的成品。文档、幻灯片和设计 10 月已经正式上线，团队可以一起编辑。这次多了白板和表格两种格式。\n\n白板适合开会时理思路。把一个还很乱的计划口头讲给 Claude，它排成一张带时间线、负责人和日期的白板，同事可以实时一起改。\n\n官方举的例子是复盘会：每个人往板上贴想法，Claude 按主题归类，再给每个人起草待办事项。框住白板的一块区域，可以只针对这一块提问。讨论完，Claude 能把白板转成文档或幻灯片，也能导进 Lucid、Miro 接着用。微软的 Whiteboard 里也有 Copilot，能在板上出点子、给便签归类、写总结，前提是有 Microsoft Copilot 许可证。\n\n表格一句话就能生成，带多个工作表、公式、格式和下拉菜单，比如活动跟踪表、招聘预算。Claude 每改一处，会把改动框出来，方便你看它动了哪里。Claude 以前也能生成 Excel 文件，但要下载下来另外打开；Sheets 留在 Claude 里，你、同事和 Claude 可以一直在同一张表上改。\n\n官方说现在只有基础功能，需要完整的 Excel 功能，可以导出成 .xlsx 或 CSV，或者用 Claude for Excel 插件，也能转到 Airtable、Asana、http://monday.com、Smartsheet 继续做。\n\n【Claude Data 多了什么】\n\n官方解释改名的原因是，企业用数据早就不止做仪表盘。新增的几项里，最实用的是“认证查询”（测试版）：数据团队把“活跃用户”“收入”这类指标的算法定下来，大家做图都用这一套，图表上会带“已认证”标记，避免两个部门拿着不同的数字开会。\n\n另一项是“实时分享”（测试版）：同事打开你分享的仪表盘，看到的就是最新数字，哪怕他自己没连这个数据源。他只能看到结果，看不到底层数据，也只能跑你批准过的查询。\n\n此外，Claude 能根据指标起草图文并茂的数据故事，或者带旁白的讲解短视频，你审过之后再发出去。仪表盘还加了缓存，打开更快，每个仪表盘可以单独设刷新频率；改动有记录，能看到谁改了什么、退回到之前的版本；也能套用公司的设计规范。\n\n【在 Claude 里直接用别的软件】\n\n同一天，交互式连接器也升级了。连接器支持的话，可以把整个工具在对话旁边打开，或者全屏用，登录的是你自己的账号。比如打开一个 Confluence 页面，让 Claude 改，改动直接出现在页面上；打开 Box 里的文件让 Claude 修订，两个版本并排对比后再决定留不留；在 Adobe 里让 Claude 修照片，或者编辑、涂黑 PDF 里的内容。Claude 动手前要你批准，跟平时批准连接器操作一样。\n\n首批支持的还有 Notion、HubSpot、Asana、Canva、Dropbox、http://monday.com 等，Figma、Harvey、Shopify 正在接入。这项功能在网页版和桌面版所有套餐分批推送，前提是你的账号已经换成新版 Claude，也就是 9 月起把聊天和 Cowork 合并的那一版。\n\nAnthropic 还预告了 Claude Meetings：把 Claude 拉进会议记笔记，边开会边更新团队正在改的文档，没给上线时间。\n\n官方推文：https://x.com/claudeai/status/2120206365759094857\n白板、表格和 Claude Data：https://claude.com/resources/articles/sheets-whiteboards-data\n交互式连接器：https://claude.com/resources/articles/interactive-connectors-full-tool\n总览：https://claude.com/resources/articles/more-ways-to-work-with-claude-sheets-whiteboards-and-interactive-connectors",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "Starting to roll out today: Claude Whiteboards, Claude Sheets and Claude Data.\n\nThink a plan through on a board, build a tracker in a sheet, and tell a story with your data."
+    },
+    "url": "https://x.com/dotey/status/2120213189464105192",
+    "time": "Tue Nov 10 17:53:10 +0000 2026",
+    "created_at": "Tue Nov 10 17:53:10 +0000 2026",
+    "id_str": "2120213189464105192",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@nnyyan_ny 按文字的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120213592041525556",
+    "time": "Tue Nov 10 17:54:46 +0000 2026",
+    "created_at": "Tue Nov 10 17:54:46 +0000 2026",
+    "id_str": "2120213592041525556",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@vista8 BaoCut 的实现原理\nhttps://x.com/dotey/status/2120208679005810803",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "这期用皮影戏讲清 BaoCut 虚拟主播的工作原理：\n\n- 拆：AI 画一张正面像，再改十一次，程序逐像素比对，拆出二十七层\n- 动：给整张画罩上一张网，推网就能转头；十七个旋钮，头发像弹簧\n- 说：不听音量，看每个字的读音挑嘴型，嘴比声音早 0.03 秒\n\n还回答了：这算不算 AI 生成视频？要不要显卡？能不能换成自己的形象？他做不到什么？\n\n骨架、变形和弹簧移植自开源项目 LivLiv Player（Apache-2.0），感谢作者。主播形象由 Seedream 5.5 生成。\n\n项目地址：https://github.com/JimLiu/baocut\n\n----\n\n想让自己的视频也有一位虚拟主播？三步就行\n\n1. 把 BaoCut skill 装给你的 Agent\n\n装好 BaoCut 后，在终端运行一次：\n\nbaocut skill install\n\nClaude Code、Codex 这类 Agent 就学会了怎么用 BaoCut。不用 Agent 也行：BaoCut 应用里自带的 AI 助手已经内置「虚拟主播」这个 skill，直接对它说就可以。\n\n2. 挑一位主播，或者做一位自己的\n\n不想折腾：BaoCut 自带 19 位原创卡通主播。告诉 Agent 你的片子讲什么、给谁看，它会推荐两三位让你挑。\n想要自己的形象：让 Agent 画一张正面像（睁眼、闭嘴、纯色背景、有头发），你点头之后，它再改图、拆层，打包成一个角色包。大约 9 次图片生成。\n\n3. 给稿子，等审片\n\n一句话就能开工，比如：\n\n用 BaoCut 做一条 3 分钟的讲解视频，主题是 XXX，让虚拟主播在右下角出镜讲解。\n\nAgent 会写稿、配音、按每个字的读音算好口型，把主播放上时间线，然后给你一个审片链接。你看完说可以，它再导出成片。之后改了某句配音，只需重算口型，角色不用重画。\n\n几点提醒\n\n1. 只做卡通角色，不做真人照片对口型，也不做换脸。\n2. 中文、英文、日文假名、韩文口型最准；其他语言主要按音量开合。\n3. 主播转头最多 30 度，没有手，光头角色暂时不支持。\n4. 自己做角色需要先配置好图片生成服务；用内置主播不需要。（推荐 SeeDream 5.5 和 GPT-Image 2.6，Codex cli 就可以生成）"
+    },
+    "url": "https://x.com/dotey/status/2120214336853721204",
+    "time": "Tue Nov 10 17:57:44 +0000 2026",
+    "created_at": "Tue Nov 10 17:57:44 +0000 2026",
+    "id_str": "2120214336853721204",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 不是，这是达里奥在说话吗！！！",
+    "quoted_tweet": null,
+    "url": "https://x.com/CuiMao/status/2120215717748621801",
+    "time": "Tue Nov 10 18:03:13 +0000 2026",
+    "created_at": "Tue Nov 10 18:03:13 +0000 2026",
+    "id_str": "2120215717748621801",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@CuiMao 哈哈，其实可以克隆声音的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120216176190009651",
+    "time": "Tue Nov 10 18:05:02 +0000 2026",
+    "created_at": "Tue Nov 10 18:05:02 +0000 2026",
+    "id_str": "2120216176190009651",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@CuiMao 卧槽，居然还是直播👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120216922872561982",
+    "time": "Tue Nov 10 18:08:00 +0000 2026",
+    "created_at": "Tue Nov 10 18:08:00 +0000 2026",
+    "id_str": "2120216922872561982",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "After years working on robot memory at @NASAJPL, @GoogleDeepMind , @Meta  and @nvidia, @clarkzhango and I kept asking: why does AI still forget?\n\nToday, with @deepakmishraVC, we’re announcing @GraphonAI and our $35M Series A just 6 months after our seed.\n\n• #1 on ATM-Bench, ATM-Bench Hard\n• 94% on LoCoMo\n• 84% on DolphinBench, 10x cheaper\n• A new cost-accuracy frontier across 7 benchmarks\n\nhttps://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+    "quoted_tweet": null,
+    "url": "https://x.com/graphonfounder/status/2120201264932003990",
+    "time": "Tue Nov 10 17:05:47 +0000 2026",
+    "created_at": "Tue Nov 10 17:05:47 +0000 2026",
+    "id_str": "2120201264932003990",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Introducing Hedra Model Factory: an autonomous inference and training platform for building models for the real world.\n\nThe recursive self-improvement loop behind frontier research has been locked inside a few labs. We're opening it to teams in robotics, manufacturing, biology and defense.\n\nOur researchers come from Stanford, NVIDIA and Meta Superintelligence Labs. Now we work alongside your team to post-train and optimize your models.",
+    "quoted_tweet": null,
+    "url": "https://x.com/hedra_labs/status/2120207555263905973",
+    "time": "Tue Nov 10 17:30:47 +0000 2026",
+    "created_at": "Tue Nov 10 17:30:47 +0000 2026",
+    "id_str": "2120207555263905973",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "HubSpot co-founder and CTO Dharmesh Shah has built software for over 30 years and has never had a direct report. His latest project is uSpot, a CRM for one-person businesses. It charged money from day one and has been his most successful launch at HubSpot.\n\nDharmesh joins a16z's Joe Schmidt to discuss why startups should avoid the \"Yellow Brick Road\" the labs are racing down, \"yet\" test for avoiding ideas the AI labs will flatten, and why it's never been a better time to start a software company.\n\n0:00 Intro\n0:47 The best time ever to be a builder\n6:46 How to actually pick a startup idea\n10:32 From LegalSpot to HubSpot: the SMB bet\n14:40 The 60% that weren’t using a CRM\n20:29 Building an ecosystem developers trust\n23:33 Staying off the yellow brick road\n27:23 Why models are becoming infrastructure\n31:49 ChatGPT is the new OS\n37:04 Rethinking HubSpot’s primitives for AI\n40:44 Replaying 20 years of code with AI\n43:47 HubSpot Next and the birth of uSpot\n46:38 A startup within a startup\n49:43 The rise of the one-person company\n53:07 AI is still just software\n56:06 Lightning round\n\nYouTube: http://youtu.be/s4lXP9IuHjk\n\n@joeschmidtiv @dharmesh",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2120185260629729381",
+    "time": "Tue Nov 10 16:02:11 +0000 2026",
+    "created_at": "Tue Nov 10 16:02:11 +0000 2026",
+    "id_str": "2120185260629729381",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "We’re thrilled to lead General Translation’s Series A.\n\nThe best companies today deliberately build their product and services for a global audience. As a result, their products need to be in every language and localized to meet their customers where they’re at.\n\n@generaltxn’s unique approach is full-stack localization. Rather than having designers and engineers rip out translatable text from design and logic, teams can now use General Translation’s developer primitives to integrate directly into their React apps, documentation, and more.\n\nCursor, Cognition, Ramp, and Clickhouse already use General Translation to scale their products to every language.\n\n@archiemckenzie_ understands both the messiness of language and how to build software that scales, and the result is a product with a laser focus on craft.\n\nBy @JenniferHli, @martin_casado, and @JasonSCui",
+    "quoted_tweet": {
+      "author": "Archie McKenzie",
+      "username": "archiemckenzie_",
+      "text": "General Translation has raised $27m led by @martin_casado at @a16z to localize the world’s best companies. \n\nToday, @generaltxn serves Ramp, Cursor, and Sierra by translating apps, sites, docs, slide decks, and even product videos into dozens of languages.\n\na16z invested alongside @upfrontvc, Peter Thiel, Fei-Fei Li, and more. 🧵"
+    },
+    "url": "https://x.com/a16z/status/2120197861304598811",
+    "time": "Tue Nov 10 16:52:16 +0000 2026",
+    "created_at": "Tue Nov 10 16:52:16 +0000 2026",
+    "id_str": "2120197861304598811",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "HubSpot co-founder and CTO Dharmesh Shah says ChatGPT and Claude are the new browsers, and like browsers, they won't own the whole software stack:\n\n\"Everything kind of comes back around again. When we saw the original SaaS development moving to the web-based application world, we had the same kind of thing. We had client-server apps running on our desktops. And then we had this browser thing come along, Internet Explorer and later Mozilla.\"\n\n\"But as it turns out, Google did not own the entire application stack. There were lots and lots of software companies that got built. The interface became the browser because that was a convenient way to get to the actual product that you needed to get to.\"\n\n\"We have a similar thing now. And it's different, because the AI is doing cognition work, it's doing actual smart things. But if you just look at the ChatGPT and Claude Cowork thing, they're effectively the new OS. They are the new browsers. And there will be companies like HubSpot that sort of plug in.\"\n\n@dharmesh",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "HubSpot co-founder and CTO Dharmesh Shah has built software for over 30 years and has never had a direct report. His latest project is uSpot, a CRM for one-person businesses. It charged money from day one and has been his most successful launch at HubSpot.\n\nDharmesh joins a16z's Joe Schmidt to discuss why startups should avoid the \"Yellow Brick Road\" the labs are racing down, \"yet\" test for avoiding ideas the AI labs will flatten, and why it's never been a better time to start a software company.\n\n0:00 Intro\n0:47 The best time ever to be a builder\n6:46 How to actually pick a startup idea\n10:32 From LegalSpot to HubSpot: the SMB bet\n14:40 The 60% that weren’t using a CRM\n20:29 Building an ecosystem developers trust\n23:33 Staying off the yellow brick road\n27:23 Why models are becoming infrastructure\n31:49 ChatGPT is the new OS\n37:04 Rethinking HubSpot’s primitives for AI\n40:44 Replaying 20 years of code with AI\n43:47 HubSpot Next and the birth of uSpot\n46:38 A startup within a startup\n49:43 The rise of the one-person company\n53:07 AI is still just software\n56:06 Lightning round\n\nYouTube: http://youtu.be/s4lXP9IuHjk\n\n@joeschmidtiv @dharmesh"
+    },
+    "url": "https://x.com/a16z/status/2120211352098873668",
+    "time": "Tue Nov 10 17:45:52 +0000 2026",
+    "created_at": "Tue Nov 10 17:45:52 +0000 2026",
+    "id_str": "2120211352098873668",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@GlocalTerapy 那你想让谁知道",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120138547600769471",
+    "time": "Tue Nov 10 12:56:34 +0000 2026",
+    "created_at": "Tue Nov 10 12:56:34 +0000 2026",
+    "id_str": "2120138547600769471",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "𝕏 将允许你从浏览的任何视频中截取片段，然后添加你的看法，见解直接发布内容\n\n俗称切片\n\n而且你无需无需离开 𝕏  即可实现剪辑视频\n\n正在播放的视频你就可以直接操作，无需下载和使用任何工具...\n\n解决你内容匮乏的问题",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120143754384625860",
+    "time": "Tue Nov 10 13:17:16 +0000 2026",
+    "created_at": "Tue Nov 10 13:17:16 +0000 2026",
+    "id_str": "2120143754384625860",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Manus 的招聘页面上，现在还挂着前端工程师、后端工程师这类岗位。可按 Manus 联合创始人张涛在 Web Summit 上的说法，公司内部已经不分这些角色了：\n\n他手下的产品经理都在往代码库里提交代码，设计师也在写代码。招聘页还按老规矩写，是因为“外面的世界还没跟上”。\n\n变化从今年 3 月前后开始。他说，会做事的人已经不稀缺了，AI 本身就很会做事；Manus 现在要找的是能和 AI 一起干活的人。连工程师面试都跟着改了，不再考传统的编程题。\n\n面试题换成了：用 Manus 花四小时解决一个问题\n\n候选人拿到一个问题，用 Manus 在四小时内把它解决，然后把这次任务的完整记录带回来，也就是他和 AI 从头到尾的每一轮来回，和面试官一起复盘。面试官从记录里看的是，这个人是不是已经习惯和 AI 一起工作。张涛说这一点“超级重要”。\n\n具体出什么题、复盘时看哪些地方，他在这段采访里没有讲。\n\n主持人追问：招聘启事要怎么写，只写“愿意和 AI 一起干活”吗？这种人恐怕不好找。张涛说要分内外两面看。\n\n对外，官网上还是按前端、后端等岗位分别招人。对内，这些角色已经都拿掉了，理由是有了 AI，“每个人都能做所有事”。\n\n他用自己的团队举例：产品经理全都在提交代码，同时也在做设计；设计师也在写代码。在他看来，按岗位写的招聘启事只是写给外界看的。",
+    "quoted_tweet": {
+      "author": "hidecloud",
+      "username": "hidecloud",
+      "text": "It’s an honor be the first human guest speaker on stage🤣 next year maybe I have to learn dancing with robots to secure my place for this stage."
+    },
+    "url": "https://x.com/dotey/status/2120176641603244488",
+    "time": "Tue Nov 10 15:27:56 +0000 2026",
+    "created_at": "Tue Nov 10 15:27:56 +0000 2026",
+    "id_str": "2120176641603244488",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@dotey 所以他并没有回国 一直在海外",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120180134154244485",
+    "time": "Tue Nov 10 15:41:49 +0000 2026",
+    "created_at": "Tue Nov 10 15:41:49 +0000 2026",
+    "id_str": "2120180134154244485",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Adobe Ambassador Summit + Adobe MAX Miami. \nMeeting some of my favorite creative peoples. \nWhat a treat when I get to show them what I actually do 🤣 \n\nHere's to more absurd videos! 👏\n\nSpecial shoutout to @icreatelife and Kate Olmstead for believing in the nonsense. \n\n#Ad #AdobeAmbassadorsAtMAX",
+    "quoted_tweet": null,
+    "url": "https://x.com/swaymolina/status/2119940054910931122",
+    "time": "2026-11-10 07:47",
+    "created_at": "Mon Nov 09 23:47:50 +0000 2026",
+    "id_str": "2119940054910931122",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So great to see our Firefly Ambassadors from X app to attend Adobe MAX. This year I had to stay in New York due to unexpected personal emergency but it warms my heart that so many of you enjoy the conference (online and offline). I'll meet you all next time and I'll recommend many more of you fro the program.",
+    "quoted_tweet": {
+      "author": "Sway Molina",
+      "username": "swaymolina",
+      "text": "Adobe Ambassador Summit + Adobe MAX Miami. \nMeeting some of my favorite creative peoples. \nWhat a treat when I get to show them what I actually do 🤣 \n\nHere's to more absurd videos! 👏\n\nSpecial shoutout to @icreatelife and Kate Olmstead for believing in the nonsense. \n\n#Ad #AdobeAmbassadorsAtMAX"
+    },
+    "url": "https://x.com/icreatelife/status/2119940917285015816",
+    "time": "2026-11-10 07:51",
+    "created_at": "Mon Nov 09 23:51:15 +0000 2026",
+    "id_str": "2119940917285015816",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Just hit 100K on Insta!\n\nThanks everyone for their unending support. I’n glad you like what I do.",
+    "quoted_tweet": null,
+    "url": "https://x.com/craftian_keskin/status/2120106442476937349",
+    "time": "Tue Nov 10 10:49:00 +0000 2026",
+    "created_at": "Tue Nov 10 10:49:00 +0000 2026",
+    "id_str": "2120106442476937349",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Milo and Oliver 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/princess414141/status/2120170564186685735",
+    "time": "Tue Nov 10 15:03:48 +0000 2026",
+    "created_at": "Tue Nov 10 15:03:48 +0000 2026",
+    "id_str": "2120170564186685735",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Adobe is launching its own MCP connecting all its tools \n\n#AdobeMAX2026",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120171599894597954",
+    "time": "Tue Nov 10 15:07:54 +0000 2026",
+    "created_at": "Tue Nov 10 15:07:54 +0000 2026",
+    "id_str": "2120171599894597954",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@swaymolina @icreatelife Loooove this! (We secretly not-so-secretly also live for good absurdity)",
+    "quoted_tweet": null,
+    "url": "https://x.com/Adobe/status/2120180062410395886",
+    "time": "Tue Nov 10 15:41:32 +0000 2026",
+    "created_at": "Tue Nov 10 15:41:32 +0000 2026",
+    "id_str": "2120180062410395886",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Adobe @swaymolina 😁🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120180500119908461",
+    "time": "Tue Nov 10 15:43:16 +0000 2026",
+    "created_at": "Tue Nov 10 15:43:16 +0000 2026",
+    "id_str": "2120180500119908461",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Firefly Design is in beta, and it's a full design canvas.\n\nWhen I first got a glimpse of Firefly Design, I got really excited about what it could do for my creative workflow. The results are impressive.\n\n1. Draw vectors with the Pen tool, Boolean operations, and vector networks for branching paths.\n2. Extrude shapes and text into 3D, then use Fluid Combine (Add, Repel, Avoid) to blend letters into one sculpted form.\n3. Animate logos and type with keyframes or motion presets, and export as MP4.\n4. Use Brand Check to catch off-brand colors and fonts, then export print-ready PDF, PNG, JPG, or SVG from one place.\n\nWould you start with type, vectors, or 3D?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2120187443156529244",
+    "time": "Tue Nov 10 16:10:52 +0000 2026",
+    "created_at": "Tue Nov 10 16:10:52 +0000 2026",
+    "id_str": "2120187443156529244",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Firefly Design is in beta, and it's a full design canvas.\n\nWhen I first got a glimpse of Firefly Design, I got really excited about what it could do for my creative workflow. The results are impressive.\n\n1. Draw vectors with the Pen tool, Boolean operations, and vector networks for branching paths.\n2. Extrude shapes and text into 3D, then use Fluid Combine (Add, Repel, Avoid) to blend letters into one sculpted form.\n3. Animate logos and type with keyframes or motion presets, and export as MP4.\n4. Use Brand Check to catch off-brand colors and fonts, then export print-ready PDF, PNG, JPG, or SVG from one place.\n\nWould you start with type, vectors, or 3D?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2120187443156529244",
+    "time": "Tue Nov 10 16:10:52 +0000 2026",
+    "created_at": "Tue Nov 10 16:10:52 +0000 2026",
+    "id_str": "2120187443156529244",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That’s so great! I started using it in various projects few weeks ago, that’s awesome!",
+    "quoted_tweet": null,
+    "url": "https://x.com/matt_brunel/status/2120188727884718373",
+    "time": "Tue Nov 10 16:15:58 +0000 2026",
+    "created_at": "Tue Nov 10 16:15:58 +0000 2026",
+    "id_str": "2120188727884718373",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Adobe dev teams are crushing it. They've been dropping updates every week.",
+    "quoted_tweet": null,
+    "url": "https://x.com/kristofcreative/status/2120188937775792170",
+    "time": "Tue Nov 10 16:16:48 +0000 2026",
+    "created_at": "Tue Nov 10 16:16:48 +0000 2026",
+    "id_str": "2120188937775792170",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@TurboDad 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120188991068881386",
+    "time": "Tue Nov 10 16:17:01 +0000 2026",
+    "created_at": "Tue Nov 10 16:17:01 +0000 2026",
+    "id_str": "2120188991068881386",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kristofcreative Agree with you! Been really busy few weeks",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120189505848431028",
+    "time": "Tue Nov 10 16:19:04 +0000 2026",
+    "created_at": "Tue Nov 10 16:19:04 +0000 2026",
+    "id_str": "2120189505848431028",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@matt_brunel Curious to hear your experience with something we’ve been building",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120189622072516674",
+    "time": "Tue Nov 10 16:19:31 +0000 2026",
+    "created_at": "Tue Nov 10 16:19:31 +0000 2026",
+    "id_str": "2120189622072516674",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@princess414141 I need to know the prompt 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120189812195971425",
+    "time": "Tue Nov 10 16:20:17 +0000 2026",
+    "created_at": "Tue Nov 10 16:20:17 +0000 2026",
+    "id_str": "2120189812195971425",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Nothing like opening a workflow (sorry, \"Graph\") and seeing new options.",
+    "quoted_tweet": null,
+    "url": "https://x.com/kristofcreative/status/2120190354750337440",
+    "time": "Tue Nov 10 16:22:26 +0000 2026",
+    "created_at": "Tue Nov 10 16:22:26 +0000 2026",
+    "id_str": "2120190354750337440",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kristofcreative So glad you like graph",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120190793252216889",
+    "time": "Tue Nov 10 16:24:11 +0000 2026",
+    "created_at": "Tue Nov 10 16:24:11 +0000 2026",
+    "id_str": "2120190793252216889",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@craftian_keskin Congrats",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120193740312813958",
+    "time": "Tue Nov 10 16:35:53 +0000 2026",
+    "created_at": "Tue Nov 10 16:35:53 +0000 2026",
+    "id_str": "2120193740312813958",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd 🎉",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120201894794780823",
+    "time": "Tue Nov 10 17:08:17 +0000 2026",
+    "created_at": "Tue Nov 10 17:08:17 +0000 2026",
+    "id_str": "2120201894794780823",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Can someone be nice enough to explain to me what this means ? I'm not paying for Grok",
+    "quoted_tweet": null,
+    "url": "https://x.com/_Gabyo_/status/2120202133706575930",
+    "time": "Tue Nov 10 17:09:14 +0000 2026",
+    "created_at": "Tue Nov 10 17:09:14 +0000 2026",
+    "id_str": "2120202133706575930",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@_Gabyo_ This is for Adobe tools",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120202986312118780",
+    "time": "Tue Nov 10 17:12:38 +0000 2026",
+    "created_at": "Tue Nov 10 17:12:38 +0000 2026",
+    "id_str": "2120202986312118780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Adobe has ONE BILLION monthly active users 🤯",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120208482662298085",
+    "time": "Tue Nov 10 17:34:28 +0000 2026",
+    "created_at": "Tue Nov 10 17:34:28 +0000 2026",
+    "id_str": "2120208482662298085",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife that is insane and amazing!",
+    "quoted_tweet": null,
+    "url": "https://x.com/ToshiArte/status/2120209269635043742",
+    "time": "Tue Nov 10 17:37:36 +0000 2026",
+    "created_at": "Tue Nov 10 17:37:36 +0000 2026",
+    "id_str": "2120209269635043742",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ToshiArte Yes 🚀",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120209407472713769",
+    "time": "Tue Nov 10 17:38:08 +0000 2026",
+    "created_at": "Tue Nov 10 17:38:08 +0000 2026",
+    "id_str": "2120209407472713769",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Read all the Rufus #AdobeMax2026 updates",
+    "quoted_tweet": {
+      "author": "Rufus Deuchler",
+      "username": "rufusd",
+      "text": "Photoshop: Relight, now on the canvas.\n\nThis one can be a lifesaver when an image needs just the right light, or when you want the same mood across a whole series.\n\n1. Select an unlocked pixel or Smart Object layer.\n2. Choose Layer > New Relight Layer.\n3. Drag the light on the canvas, then set Color, Intensity, and Diffusion in the Contextual Task Bar. Add up to three lights.\n4. Click Done.\n\nYour original stays untouched on its own layer below, and you can reopen the Relight Layer anytime to tweak the lights.\n\nWhich shot will you relight first?"
+    },
+    "url": "https://x.com/icreatelife/status/2120209928715465025",
+    "time": "Tue Nov 10 17:40:13 +0000 2026",
+    "created_at": "Tue Nov 10 17:40:13 +0000 2026",
+    "id_str": "2120209928715465025",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife i hope everythinhg is ok for yoou my dear",
+    "quoted_tweet": null,
+    "url": "https://x.com/muriellondon/status/2120210323772715392",
+    "time": "Tue Nov 10 17:41:47 +0000 2026",
+    "created_at": "Tue Nov 10 17:41:47 +0000 2026",
+    "id_str": "2120210323772715392",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thank you for sharing, Kris! What a day. Enjoy the rest of MAX!",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2120210449111330907",
+    "time": "Tue Nov 10 17:42:17 +0000 2026",
+    "created_at": "Tue Nov 10 17:42:17 +0000 2026",
+    "id_str": "2120210449111330907",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@muriellondon Thanks darling 🫂 been a difficult month with the loss of my nephew.\nThe community makes me feel so loved though.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120211204132217239",
+    "time": "Tue Nov 10 17:45:17 +0000 2026",
+    "created_at": "Tue Nov 10 17:45:17 +0000 2026",
+    "id_str": "2120211204132217239",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd Thanks for doing all the feature updates",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120212019982832025",
+    "time": "Tue Nov 10 17:48:31 +0000 2026",
+    "created_at": "Tue Nov 10 17:48:31 +0000 2026",
+    "id_str": "2120212019982832025",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Ha! It's not all of them! But the ones I think could interest the designers following me. There's so much for video that I haven't covered",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2120212920504099106",
+    "time": "Tue Nov 10 17:52:06 +0000 2026",
+    "created_at": "Tue Nov 10 17:52:06 +0000 2026",
+    "id_str": "2120212920504099106",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Wow! Congratulations to you and your team.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2120213592540655679",
+    "time": "Tue Nov 10 17:54:46 +0000 2026",
+    "created_at": "Tue Nov 10 17:54:46 +0000 2026",
+    "id_str": "2120213592540655679",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Guess I have something new to test.",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Adobe is launching its own MCP connecting all its tools \n\n#AdobeMAX2026"
+    },
+    "url": "https://x.com/chefbrent/status/2120215098195066925",
+    "time": "Tue Nov 10 18:00:45 +0000 2026",
+    "created_at": "Tue Nov 10 18:00:45 +0000 2026",
+    "id_str": "2120215098195066925",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@chefbrent Tell me how it goes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120215416761147494",
+    "time": "Tue Nov 10 18:02:01 +0000 2026",
+    "created_at": "Tue Nov 10 18:02:01 +0000 2026",
+    "id_str": "2120215416761147494",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone Thank you from the team and me",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120215608486731817",
+    "time": "Tue Nov 10 18:02:47 +0000 2026",
+    "created_at": "Tue Nov 10 18:02:47 +0000 2026",
+    "id_str": "2120215608486731817",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd I am expecting all 😅 no pressure 🤭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120215685175681455",
+    "time": "Tue Nov 10 18:03:05 +0000 2026",
+    "created_at": "Tue Nov 10 18:03:05 +0000 2026",
+    "id_str": "2120215685175681455",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 😳 And I thought Adobe was dead.\n\nYou never hear anything about them on social media.",
+    "quoted_tweet": null,
+    "url": "https://x.com/RyanEls4/status/2120217320177955107",
+    "time": "Tue Nov 10 18:09:35 +0000 2026",
+    "created_at": "Tue Nov 10 18:09:35 +0000 2026",
+    "id_str": "2120217320177955107",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RyanEls4 It depends on what you engage with.. all my feed is Adobe. So many ambassadors here now",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120217757341868436",
+    "time": "Tue Nov 10 18:11:19 +0000 2026",
+    "created_at": "Tue Nov 10 18:11:19 +0000 2026",
+    "id_str": "2120217757341868436",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "THE SLOPPIES LIVE\nhttps://x.com/i/broadcasts/2rJqygvkEglvVM",
+    "quoted_tweet": null,
+    "url": "https://x.com/boneGPT/status/2119958735023984908",
+    "time": "Tue Nov 10 01:02:04 +0000 2026",
+    "created_at": "Tue Nov 10 01:02:04 +0000 2026",
+    "id_str": "2119958735023984908",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "about to give away fifty thousand dollars on stream THE SLOPPIES LIVE\nhttps://x.com/i/broadcasts/2rJqygvkEglvVM",
+    "quoted_tweet": null,
+    "url": "https://x.com/boneGPT/status/2119977530568442229",
+    "time": "Tue Nov 10 02:16:45 +0000 2026",
+    "created_at": "Tue Nov 10 02:16:45 +0000 2026",
+    "id_str": "2119977530568442229",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "i gave this repo to fable 5.2 (via my claude agent fig) and told him to have fun making something interesting...\n\ndef feels interesting to me (stay for the turn)\n\ni am continually astounded at the creative choices these advanced models are making",
+    "quoted_tweet": {
+      "author": "Jameson Hodge",
+      "username": "jamesonhodge",
+      "text": "my vocal synth models the vocal tract as a network of branching acoustic tubes, unlike vocaloid which stitches together and pitch-shifts phoneme recordings. still working on improving naturalness by tuning it against recordings of real singers, but I'm already impressed at how cool it sounds!"
+    },
+    "url": "https://x.com/gavinpurcell/status/2120002682421182624",
+    "time": "Tue Nov 10 03:56:41 +0000 2026",
+    "created_at": "Tue Nov 10 03:56:41 +0000 2026",
+    "id_str": "2120002682421182624",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "how it feels to win the golden cannon🥇",
+    "quoted_tweet": {
+      "author": "bone",
+      "username": "boneGPT",
+      "text": "about to give away fifty thousand dollars on stream THE SLOPPIES LIVE\nhttps://x.com/i/broadcasts/2rJqygvkEglvVM"
+    },
+    "url": "https://x.com/jtevesobs/status/2120017083169751102",
+    "time": "Tue Nov 10 04:53:55 +0000 2026",
+    "created_at": "Tue Nov 10 04:53:55 +0000 2026",
+    "id_str": "2120017083169751102",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "CONGRATULATIONS",
+    "quoted_tweet": {
+      "author": "Jteve Sobs",
+      "username": "jtevesobs",
+      "text": "how it feels to win the golden cannon🥇"
+    },
+    "url": "https://x.com/boneGPT/status/2120021398941061339",
+    "time": "Tue Nov 10 05:11:04 +0000 2026",
+    "created_at": "Tue Nov 10 05:11:04 +0000 2026",
+    "id_str": "2120021398941061339",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "The Method E1: Inside Zipline with Keller Cliffton\n\nIt was illegal to fly autonomously in US airspace when Keller Cliffton started Zipline, and most investors \"weren't willing to invest in illegal things.\" Zipline launched in Rwanda instead, flying blood to 21 hospitals. It's now valued at $21.5 billion.\n\n@Keller, co-founder and CEO of Zipline, sat down with @sophiadew at Zipline's South San Francisco factory to break down why they started in Rwanda, why each 10x jump in scale breaks everything, and the case for 50 billion US instant deliveries:\n\n00:00 the closest thing to teleportation\n01:38 why Zipline launched in Rwanda first\n03:14 the UPenn study and a 51% drop in maternal mortality\n04:17 why tech keeps solving \"rich people problems\"\n06:00 bringing Zipline to the US and going back to square one\n07:28 why every 10x breaks the company\n09:16 running teams like special forces\n10:42 people patting the droid to say thank you\n11:19 the case for 50 billion US instant deliveries\n13:30 from pro rock climber to \"happy to fail\"\n\n@zipline",
+    "quoted_tweet": null,
+    "url": "https://x.com/themethodshow/status/2120207174874046493",
+    "time": "Tue Nov 10 17:29:16 +0000 2026",
+    "created_at": "Tue Nov 10 17:29:16 +0000 2026",
+    "id_str": "2120207174874046493",
+    "is_retweet": true
   }
 ]
