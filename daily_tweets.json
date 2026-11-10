@@ -780,5 +780,83 @@
     "created_at": "Mon Nov 09 23:33:13 +0000 2026",
     "id_str": "2119936377299316908",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”?",
+    "quoted_tweet": {
+      "author": "Serenity",
+      "username": "aleabitoreddit",
+      "text": "Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. \n\nTAIEX: +4.94%, its 2nd largest daily gain in history.\n\nI guess the market is impressed by $NVDA’s Jensen Huang vitality at his age?"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2119807048204595582",
+    "time": "2026-11-09 22:59",
+    "created_at": "Mon Nov 09 14:59:19 +0000 2026",
+    "id_str": "2119807048204595582",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Anthropic Fable 5.2 and Mythos 5.2 is out! \n\nDoesn't quite look like AI progress is slowing down anytime soon",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2119874063132995880",
+    "time": "2026-11-10 03:25",
+    "created_at": "Mon Nov 09 19:25:36 +0000 2026",
+    "id_str": "2119874063132995880",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage for pluggables. \n\n120–150mW NPO: ~$15–20\n350mW UHP CW: ~$40 (Nomura)\n400mW UHP CW for NPO/CPO: ~$50–75 (Mizuho)\n\nWith former communication laser chips going from 20-50 cents. \n\nThe pricing and gross margins of these players go up with each architectural shift (60%+ for CPO lasers).\n\nAnd go up even more depending how far down the stack you go (selling ELSFP was ~2.5x revenue content) \n\nIn terms of how I see the landscape now:\n\n- $COHR is probably the best risk adjusted laser player now, for people who don't like uncertainty. Their new $20B LTA is very substantial.\n\n- $LITE pretty negative now given the valuation overhang from $MRVL acquisition. Operationally very opsitive. \n\n- $AAOI has extreme demand visibility (likely $6-$9B in new LTAs from just 1 quarter), but credible execution uncertainty. \n\nThey've also been focusing on pluggables + bottlenecked by DSPs, rather focusing on UHP CPO laser merchant markets. \n\nBut I think if markets see a new $5B-$7B LTA that they're in late stage discussion for... and see the $4.4B MC. Pretty sure that's a catalyst for recovery. \n\nThe demand doesn't disappear but timeline shifts back a few months. \n\nAOI also signaled DSP as the main bottleneck, last quarter it was TIAs, so other different component players that are interesting. \n\n- $SIVE has extreme capacity expansion (300m laser capacity targeted in total). \n\nThe economic implications that they won't disclose are likely enormous relative to their MC, even if they sell $3 70mW lasers to China pluggable players. \n\nBut there's a qualification uncertainty to fill the gap, \nthat markets have punished the company for. Especially when management communication amplifies uncertainty, despite the ongoing shortage. \n\nRight now entire AI trade is going up and down together though.",
+    "quoted_tweet": {
+      "author": "Habesha Tech Bro",
+      "username": "HabeshaTechBro",
+      "text": "One nuance worth adding for the semi specialists reading the $AAOI section:\n\nThe 720M to 1.44B annual diode figure off the 180,000/year Yunnan Germanium 4-inch wafer contract reflects gross standard pluggable die candidates. Once you apply real-world III-V epitaxy,facet-coating, and 5,000-hour burn-in yields (~45% to 55% net known-good dies), factor in dual-use export license buffers, and account for the ~5x die-area penalty on 300mW to 400mW CPO cavities, $AAOI's net shippable output scales toward ~180M to 300M+ high-speed lasers per year as Texas Phase 2 ramps.\n\nRoughly 80M to 95M of those net dies get absorbed internally just feeding $AAOI's 1M/month transceiver target, leaving ~100M to 200M+ merchant diodes for external buyers inside a 650M to 1B+ combined scale-out and scale-up market. Even if both $AAOI and $SIVE hit full utilization in 2028, merchant Western supply stays structurally short."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2120074819878449605",
+    "time": "Tue Nov 10 08:43:20 +0000 2026",
+    "created_at": "Tue Nov 10 08:43:20 +0000 2026",
+    "id_str": "2120074819878449605",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Fable 5.2 已经上线 Cola 欢迎体验\n适合最艰难的任务，注意消耗",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120002798918250625",
+    "time": "Tue Nov 10 03:57:09 +0000 2026",
+    "created_at": "Tue Nov 10 03:57:09 +0000 2026",
+    "id_str": "2120002798918250625",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "https://x.com/i/article/2120036313357553665",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120037929615503812",
+    "time": "Tue Nov 10 06:16:45 +0000 2026",
+    "created_at": "Tue Nov 10 06:16:45 +0000 2026",
+    "id_str": "2120037929615503812",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "第一眼可能会觉得这张照片平平无奇\n但知道它是 Fable 5.2 画出来的之后...\n惊叹\n语言即世界",
+    "quoted_tweet": {
+      "author": "Jake Eaton",
+      "username": "jkeatn",
+      "text": "I asked Fable 5.2 to create a painting as indistinguishable as possible from a photograph. this is roughly 700,000 simulated brush strokes"
+    },
+    "url": "https://x.com/oran_ge/status/2120050208600174873",
+    "time": "Tue Nov 10 07:05:33 +0000 2026",
+    "created_at": "Tue Nov 10 07:05:33 +0000 2026",
+    "id_str": "2120050208600174873",
+    "is_retweet": false
   }
 ]
