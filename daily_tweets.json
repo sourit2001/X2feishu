@@ -371,5 +371,544 @@
     "created_at": "Tue Nov 10 14:24:02 +0000 2026",
     "id_str": "2120160559660511639",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "New commentary today from SoftBank on Elon Musks post 4 days ago: \n\n“SoftBank is defaulting on their turbine orders”\n\nAnalyst Question: “Any comment on that?” \n\nSoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no such default”\n\nThis also mirrors what $GE CEO Scott Strazik stated about seeing no procurement cancellations or counterparty financing difficulties. \n\nPretty damaging allegations about the company financing $SPCX competitor (OpenAI + Stargate). \n\nI wonder if there’s any more nuance these claims or if it’s false.",
+    "quoted_tweet": {
+      "author": "Serenity",
+      "username": "aleabitoreddit",
+      "text": "Some industry commentary regarding a few claims recently on memory + Softbank Turbine defaulting.\n\n- On claims that LTAs are \"meaningless while prices fall\": \n\n$MU: \"strategic customer agreements cannot be unilaterally canceled.  Customers are obligated to pay for their committed volumes whether they take delivery or not\"\n\n\"These are take or pay agreements and there are no contractual outs for our customers from these agreements\"\n\nRegarding historical contracts breaking: \"These LTAs that we used to have never had any binding terms.\" The new SCAs contain extensive contractual obligations\n\nRegarding Elon's claims on Softbank defaulting on Turbines:\n\nQuestion from Morgan Stanley to $GE Vernova CEO on whether they see cancellations or financing difficulties with counterparties on their turbine orders:\n\n“No… we are not”\n\nTLDR:\n- Micron states LTAs/SCAs are noncancellable take/pay (where counterparties are hyperscalers). And that these types are different from historical memory cancellations. \n\n- On Softbank turbine orders, GE Vernova CEO Scott Strazik said it wasn't seeing customer financing disruptions, requests to exit turbine reservations, or slowdowns. \n\nMaybe Elon's claims are more narrow, but should be evaluated more closely given competitive interests vs. Softbank/OpenAI."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2120106741090370030",
+    "time": "Tue Nov 10 10:50:11 +0000 2026",
+    "created_at": "Tue Nov 10 10:50:11 +0000 2026",
+    "id_str": "2120106741090370030",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation\n\nAfter projecting 70% supply-constrained growth FY2028.\n\nAlso probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday… \n\nAre there still people out there interested at that price?",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2120198265346081174",
+    "time": "Tue Nov 10 16:53:52 +0000 2026",
+    "created_at": "Tue Nov 10 16:53:52 +0000 2026",
+    "id_str": "2120198265346081174",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I had early access to Fable 5.2 for a bit & I think  it crosses the line into being a sort of Jagged AGI. Here, I have it launch a business, do academic research, hack hardware, build 3D models & more. I think it is a good illustration of limits & powers: https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2119870150845599972",
+    "time": "2026-11-10 03:10",
+    "created_at": "Mon Nov 09 19:10:03 +0000 2026",
+    "id_str": "2119870150845599972",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In addition to more serious examples I shared in my post, I had Fable 5.2 build a parody reverse Scooby Doo game where you have to scare away meddling kids. Here is the trailer it made (including the music and sounds) and the game (which is fun) is here: https://i-would-have-gotten-away-with-it.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2119876449494540554",
+    "time": "2026-11-10 03:35",
+    "created_at": "Mon Nov 09 19:35:05 +0000 2026",
+    "id_str": "2119876449494540554",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Unplayable, lags like crazy. Interesting art style though",
+    "quoted_tweet": null,
+    "url": "https://x.com/MicahJanke/status/2119886421418754241",
+    "time": "2026-11-10 04:14",
+    "created_at": "Mon Nov 09 20:14:43 +0000 2026",
+    "id_str": "2119886421418754241",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@MicahJanke Lower the graphics settings",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2119897987564626090",
+    "time": "2026-11-10 05:00",
+    "created_at": "Mon Nov 09 21:00:40 +0000 2026",
+    "id_str": "2119897987564626090",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In one of my favorite experiments, I told Fable 5.2 to build an endless, hands-off journey through 3D worlds linked by portals. \n\n25,000 agents created over 450 worlds inspired by books, art, places, all in code.\n\nPlay: https://portals-endless-worlds.netlify.app/\nGithub: https://github.com/emollick/ai-portals",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2119918307457577163",
+    "time": "2026-11-10 06:21",
+    "created_at": "Mon Nov 09 22:21:25 +0000 2026",
+    "id_str": "2119918307457577163",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "In my post, I talk about how the agents involved began to build a bureaucracy over time, which eventually slowed development to a crawl. An example of jaggedness at scale: https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2119919185698361830",
+    "time": "2026-11-10 06:24",
+    "created_at": "Mon Nov 09 22:24:54 +0000 2026",
+    "id_str": "2119919185698361830",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Looks like Fable 5.2 is above the already steep trendline on three of the most informative unsaturated benchmarks (ECI is a composite of other benchmarks, Remote Labor measures the ability to do end-to-end freelance jobs, RoboDojo involves controlling robotics).",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120000888974766501",
+    "time": "Tue Nov 10 03:49:34 +0000 2026",
+    "created_at": "Tue Nov 10 03:49:34 +0000 2026",
+    "id_str": "2120000888974766501",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Benchmarks going vertical while my calendar is still in 2D. At what point do we stop calling it a trendline and start calling it a launch?",
+    "quoted_tweet": null,
+    "url": "https://x.com/alsamahi/status/2120001036601741376",
+    "time": "Tue Nov 10 03:50:09 +0000 2026",
+    "created_at": "Tue Nov 10 03:50:09 +0000 2026",
+    "id_str": "2120001036601741376",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@alsamahi Gosh this prompt is terrible.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120001437086388389",
+    "time": "Tue Nov 10 03:51:44 +0000 2026",
+    "created_at": "Tue Nov 10 03:51:44 +0000 2026",
+    "id_str": "2120001437086388389",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Some beautiful worlds that show considerable imagination, all 100% the AI's ideas and execution:\nThe Chambered Sun: https://portals-endless-worlds.netlify.app/w/chambered-sun/\nThe River Tied in a Knot: https://portals-endless-worlds.netlify.app/w/knotted-river/\nField of Doors: https://portals-endless-worlds.netlify.app/w/field-of-doors/\nPaperclip Maximizer (ha?): https://portals-endless-worlds.netlify.app/w/every-last-wire/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120006275836842239",
+    "time": "Tue Nov 10 04:10:58 +0000 2026",
+    "created_at": "Tue Nov 10 04:10:58 +0000 2026",
+    "id_str": "2120006275836842239",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Had early access to Gemini 4 Carbon, it is a very good model that improves on Argon. It is useful to have an AI that thinks differently than Claude/GPT & is still highly capable, but has its own strengths & weakness\n\nOne fun demo: I gave Carbon a video clip & it reproduced in 3js",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120198832202125322",
+    "time": "Tue Nov 10 16:56:07 +0000 2026",
+    "created_at": "Tue Nov 10 16:56:07 +0000 2026",
+    "id_str": "2120198832202125322",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Author of the original train clip: https://www.ritsumei.ac.jp/~akitaoka/index-e.html\n\nPlay with the 3js recreation: https://keio-line-front-cab.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120200795530649998",
+    "time": "Tue Nov 10 17:03:55 +0000 2026",
+    "created_at": "Tue Nov 10 17:03:55 +0000 2026",
+    "id_str": "2120200795530649998",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "One of the most significant things about Gemini 4 Carbon is that it is showing that Google is back in the race of frontier models, rapid releases and rapid improvement.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120233659793854926",
+    "time": "Tue Nov 10 19:14:31 +0000 2026",
+    "created_at": "Tue Nov 10 19:14:31 +0000 2026",
+    "id_str": "2120233659793854926",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Another weird AI game project: I gave Claude Fable 5.2 a vague paragraph asking for a fantasy transport sim with heart. Then I left it to a bunch of agents arguing about art, lore and jokes. Now here is Dread & District, where good logistics defeats evil. https://dread-and-district.netlify.app",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120248525254742318",
+    "time": "Tue Nov 10 20:13:35 +0000 2026",
+    "created_at": "Tue Nov 10 20:13:35 +0000 2026",
+    "id_str": "2120248525254742318",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The graphic style is fun and the UX is surprisingly good.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120249500878987647",
+    "time": "Tue Nov 10 20:17:27 +0000 2026",
+    "created_at": "Tue Nov 10 20:17:27 +0000 2026",
+    "id_str": "2120249500878987647",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Start building with Gemini 4 Carbon: our strongest model for complex, long-horizon tasks.\n\nIt’s designed to explore problems thoroughly and run extended verification loops across software engineering, cybersecurity, knowledge work, and science.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GoogleDeepMind/status/2120219371473617099",
+    "time": "Tue Nov 10 18:17:44 +0000 2026",
+    "created_at": "Tue Nov 10 18:17:44 +0000 2026",
+    "id_str": "2120219371473617099",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "so chatgpt is the new google business profile now\n\nthe business agent answers customers off whatever info you put in there. \n\nworth 20 min writing that context properly before your competitors figure it out",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/"
+    },
+    "url": "https://x.com/rryssf/status/2120219937738224111",
+    "time": "Tue Nov 10 18:19:59 +0000 2026",
+    "created_at": "Tue Nov 10 18:19:59 +0000 2026",
+    "id_str": "2120219937738224111",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "this is basically context engineering for small businesses\n\n> claim the listing\n> write hours, pricing, faqs like you're briefing a new hire\n> test the agent with the 10 questions customers actually ask\n\nmost people will fill 3 fields and wonder why it answers wrong",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/"
+    },
+    "url": "https://x.com/godofprompt/status/2120220002129441152",
+    "time": "Tue Nov 10 18:20:14 +0000 2026",
+    "created_at": "Tue Nov 10 18:20:14 +0000 2026",
+    "id_str": "2120220002129441152",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "claim your business on ChatGPT and engage with customers in new ways:",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/"
+    },
+    "url": "https://x.com/gdb/status/2120222471412666562",
+    "time": "Tue Nov 10 18:30:03 +0000 2026",
+    "created_at": "Tue Nov 10 18:30:03 +0000 2026",
+    "id_str": "2120222471412666562",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "we need fewer one shot demos and more tools that show how you can collaborate with models to bring your vision to life",
+    "quoted_tweet": {
+      "author": "Araminta",
+      "username": "araminta_k",
+      "text": "A few folks asked to see how I use the AI Assisted Tween & Paint harnesses, so I put together a little video with Claude!\n\nLinking below the workbook :)"
+    },
+    "url": "https://x.com/trq212/status/2120223476279869875",
+    "time": "Tue Nov 10 18:34:03 +0000 2026",
+    "created_at": "Tue Nov 10 18:34:03 +0000 2026",
+    "id_str": "2120223476279869875",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "SoftBank signals it may slow its AI spending after a $7 billion loss\n\nSoftBank is weighing a pullback from its aggressive AI investments after swinging to a $7 billion quarterly loss.\n\n“It is only natural that there is some discussion now about waiting and seeing how things play out for a little while,” CFO Yoshimitsu Goto said.",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2120224721753247997",
+    "time": "Tue Nov 10 18:39:00 +0000 2026",
+    "created_at": "Tue Nov 10 18:39:00 +0000 2026",
+    "id_str": "2120224721753247997",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales softbank pulling back is the most bullish ai signal of the year",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120225363150430217",
+    "time": "Tue Nov 10 18:41:33 +0000 2026",
+    "created_at": "Tue Nov 10 18:41:33 +0000 2026",
+    "id_str": "2120225363150430217",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@gdb whoever writes their business description like a system prompt wins local search",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120226406365843511",
+    "time": "Tue Nov 10 18:45:41 +0000 2026",
+    "created_at": "Tue Nov 10 18:45:41 +0000 2026",
+    "id_str": "2120226406365843511",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@GoogleDeepMind verification loops are great until nobody tells it what done looks like",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120227447346274422",
+    "time": "Tue Nov 10 18:49:50 +0000 2026",
+    "created_at": "Tue Nov 10 18:49:50 +0000 2026",
+    "id_str": "2120227447346274422",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@trq212 one shot demos sell the model. turn forty is where people actually live",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120228467908268519",
+    "time": "Tue Nov 10 18:53:53 +0000 2026",
+    "created_at": "Tue Nov 10 18:53:53 +0000 2026",
+    "id_str": "2120228467908268519",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Struggling marijuana growers across the U.S. are converting cannabis farms into AI data centers as falling weed prices threaten their businesses. — Forbes",
+    "quoted_tweet": null,
+    "url": "https://x.com/Polymarket/status/2120241295147077762",
+    "time": "Tue Nov 10 19:44:51 +0000 2026",
+    "created_at": "Tue Nov 10 19:44:51 +0000 2026",
+    "id_str": "2120241295147077762",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Call your lover.",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2120241955355656619",
+    "time": "Tue Nov 10 19:47:29 +0000 2026",
+    "created_at": "Tue Nov 10 19:47:29 +0000 2026",
+    "id_str": "2120241955355656619",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales called claude. it asked if i'd like that formatted as a table",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120244039106912583",
+    "time": "Tue Nov 10 19:55:45 +0000 2026",
+    "created_at": "Tue Nov 10 19:55:45 +0000 2026",
+    "id_str": "2120244039106912583",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Polymarket the grow lights were already pulling data center power anyway",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120245084180684829",
+    "time": "Tue Nov 10 19:59:54 +0000 2026",
+    "created_at": "Tue Nov 10 19:59:54 +0000 2026",
+    "id_str": "2120245084180684829",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Microsoft $MSFT decreased over 3% in under 30 minutes after Anthropic unveils new AI office tools, taking direct aim at Excel.\n\nShares fell from ~$543 to an intraday low of ~$526 before partly recovering. \n\nThey’re now trading at $535.91, down 1.7% on the day.",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2120245357913543010",
+    "time": "Tue Nov 10 20:01:00 +0000 2026",
+    "created_at": "Tue Nov 10 20:01:00 +0000 2026",
+    "id_str": "2120245357913543010",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "*NVIDIA SHARES FALL 7.06% TO SESSION LOW",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeItaone/status/2120246349807469020",
+    "time": "Tue Nov 10 20:04:56 +0000 2026",
+    "created_at": "Tue Nov 10 20:04:56 +0000 2026",
+    "id_str": "2120246349807469020",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales clippy waited 30 years for this",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120246598177317015",
+    "time": "Tue Nov 10 20:05:55 +0000 2026",
+    "created_at": "Tue Nov 10 20:05:55 +0000 2026",
+    "id_str": "2120246598177317015",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Finally it’s official!",
+    "quoted_tweet": {
+      "author": "Stripe",
+      "username": "stripe",
+      "text": "OpenRouter is now part of Stripe.\n\nStripe is building the economic infrastructure for AI. Together with OpenRouter, we’ll help businesses explore new models and optimize token routing and usage."
+    },
+    "url": "https://x.com/godofprompt/status/2120246774447153464",
+    "time": "Tue Nov 10 20:06:37 +0000 2026",
+    "created_at": "Tue Nov 10 20:06:37 +0000 2026",
+    "id_str": "2120246774447153464",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@DeItaone two frontier models shipped today and the market read the token bill",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120248098031128821",
+    "time": "Tue Nov 10 20:11:53 +0000 2026",
+    "created_at": "Tue Nov 10 20:11:53 +0000 2026",
+    "id_str": "2120248098031128821",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Wait... So did he get the job?",
+    "quoted_tweet": {
+      "author": "Justine Moore",
+      "username": "venturetwins",
+      "text": "Damn they’re giving the AI interviewers some personality now \n\n(from itsnickreid on TikTok)"
+    },
+    "url": "https://x.com/mreflow/status/2120025377494155607",
+    "time": "Tue Nov 10 05:26:52 +0000 2026",
+    "created_at": "Tue Nov 10 05:26:52 +0000 2026",
+    "id_str": "2120025377494155607",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "What happens when you take the Boston Dynamics Atlas robot and add roller skates? Looks like a really good time to me. :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2120238395675066528",
+    "time": "Tue Nov 10 19:33:20 +0000 2026",
+    "created_at": "Tue Nov 10 19:33:20 +0000 2026",
+    "id_str": "2120238395675066528",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "good morning",
+    "quoted_tweet": null,
+    "url": "https://x.com/ajambrosino/status/2119795196292686124",
+    "time": "2026-11-09 22:12",
+    "created_at": "Mon Nov 09 14:12:13 +0000 2026",
+    "id_str": "2119795196292686124",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@ajambrosino good evening",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2120018604691521609",
+    "time": "Tue Nov 10 04:59:58 +0000 2026",
+    "created_at": "Tue Nov 10 04:59:58 +0000 2026",
+    "id_str": "2120018604691521609",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Dots can now control many machines in addition to its own little cloud computer that we provide by default.",
+    "quoted_tweet": {
+      "author": "OpenAI Developers",
+      "username": "OpenAIDevs",
+      "text": "You can now connect multiple local computers to the same dot and choose which one it uses for a task.\n\nIt can build and test your app on a dedicated machine while you keep coding on your laptop."
+    },
+    "url": "https://x.com/thsottiaux/status/2120021043876106429",
+    "time": "Tue Nov 10 05:09:39 +0000 2026",
+    "created_at": "Tue Nov 10 05:09:39 +0000 2026",
+    "id_str": "2120021043876106429",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Guess this is my job now",
+    "quoted_tweet": {
+      "author": "Andrew Ambrosino",
+      "username": "ajambrosino",
+      "text": "@inferencetoken slack me a dumb request"
+    },
+    "url": "https://x.com/inferencetoken/status/2120234873839607921",
+    "time": "Tue Nov 10 19:19:20 +0000 2026",
+    "created_at": "Tue Nov 10 19:19:20 +0000 2026",
+    "id_str": "2120234873839607921",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Labs innovating together ftw",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "Also new: with interactive connectors, you can now open the full version of a tool inside Claude. Work in Adobe, Atlassian, and Box beside your conversation. Make changes yourself, or ask Claude to make them with you.\n\nRolling out on web and desktop."
+    },
+    "url": "https://x.com/thsottiaux/status/2120266880963473789",
+    "time": "Tue Nov 10 21:26:31 +0000 2026",
+    "created_at": "Tue Nov 10 21:26:31 +0000 2026",
+    "id_str": "2120266880963473789",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "How many of you have a small business?",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Now in beta: Businesses in ChatGPT.\n\nClaim your business, manage your information, and get insights on how people engage with you.\n\nEligible businesses can also build a Business Agent to answer customers’ questions and help them explore what you offer.\n\nhttps://openai.com/index/introducing-businesses-chatgpt/"
+    },
+    "url": "https://x.com/thsottiaux/status/2120267268517249036",
+    "time": "Tue Nov 10 21:28:04 +0000 2026",
+    "created_at": "Tue Nov 10 21:28:04 +0000 2026",
+    "id_str": "2120267268517249036",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@inferencetoken @ajambrosino congrats",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2120267636516995218",
+    "time": "Tue Nov 10 21:29:31 +0000 2026",
+    "created_at": "Tue Nov 10 21:29:31 +0000 2026",
+    "id_str": "2120267636516995218",
+    "is_retweet": false
   }
 ]
