@@ -1182,5 +1182,196 @@
     "created_at": "Tue Nov 10 20:15:54 +0000 2026",
     "id_str": "2120249109273792874",
     "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Inspired by @rileybrown, Fable 5.2 made a Claude demo that lets you demo Claude (sorta).\n\nWalk in and sit at any computer: https://claude.ai/artifact/R6YBDkAm2GjAC5A65D9djx",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "This is actually INSANE. \n\nFable 5.2 just created this in one shot, and I did it live on stream. \n\nI gave Claude one prompt. \n\nIt wrote code that builds the entire room in Blender: the desk, the MacBook, the light, even Clawd.\n\nThe laptop screen is a web page Claude built to look like the Claude app, played on the laptop inside the 3D scene.\n\nThen it animated everything itself: 13 camera shots, every single key press, Clawd jumping around, and the sun going from golden hour to night to sunrise.\n\nIt rented 10 GPUs on RunPod and rendered the whole thing in 4K in 52 minutes. Total cost: $5.75.\n\nIt graded it, added the titles, and made the music and sound effects with ElevenLabs. \n\n(More info below)"
+    },
+    "url": "https://x.com/dfeinition/status/2120330644261589051",
+    "time": "2026-11-11 09:39",
+    "created_at": "Wed Nov 11 01:39:54 +0000 2026",
+    "id_str": "2120330644261589051",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@dfeinition this is dope, this gave me some ideas.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2120352847393075217",
+    "time": "2026-11-11 11:08",
+    "created_at": "Wed Nov 11 03:08:07 +0000 2026",
+    "id_str": "2120352847393075217",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I've been waiting to make my agentic video editing series for a while... It's time.\n\nOh my god fable 5.2 is the breakthrough. \n\nIt's funny my first instinct is i need to hire 5 editors to use these tools to scale content. That's how much leverage these tools will give creative teams. \n\nI will make many videos over the coming weeks covering where specifically the leverage will come from.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2120366835753222454",
+    "time": "2026-11-11 12:03",
+    "created_at": "Wed Nov 11 04:03:42 +0000 2026",
+    "id_str": "2120366835753222454",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "HOW TF DO YOU MONETIZE WEB GAMES?!!!!!!q111",
+    "quoted_tweet": null,
+    "url": "https://x.com/mattworkman/status/2120371706246078845",
+    "time": "2026-11-11 12:23",
+    "created_at": "Wed Nov 11 04:23:04 +0000 2026",
+    "id_str": "2120371706246078845",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Fable 5.2 is the best model ever released..\nand it's not close. \n\nEspecially at any visual task.\n\nHere are the 6 reasons why: \n\n(This entire video was edited by Fable 5.2 in 40 min)\n\nIf you want to use the same intro style as me i'm putting the github-for-video link down below. Just copy and paste it into claude and tell it to edit a video just like it.\n\n00:00 Intro\n00:41 1. Blender & 3D\n06:24 2. Video Editing\n09:55 3. Video Games\n13:13 4. Apps Are Solved\n15:08 5. Research Decks\n16:26 6. Vibe Coding Hardware",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2120385367618486370",
+    "time": "2026-11-11 13:17",
+    "created_at": "Wed Nov 11 05:17:21 +0000 2026",
+    "id_str": "2120385367618486370",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Fable 5.2 is the best model ever released..\nand it's not close. \n\nEspecially at any visual task.\n\nHere are the 6 reasons why: \n\n(This entire video was edited by Fable 5.2 in 40 min)\n\nIf you want to use the same intro style as me i'm putting the github-for-video link down below. Just copy and paste it into claude and tell it to edit a video just like it.\n\n00:00 Intro\n00:41 1. Blender & 3D\n06:24 2. Video Editing\n09:55 3. Video Games\n13:13 4. Apps Are Solved\n15:08 5. Research Decks\n16:26 6. Vibe Coding Hardware",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2120385367618486370",
+    "time": "2026-11-11 13:17",
+    "created_at": "Wed Nov 11 05:17:21 +0000 2026",
+    "id_str": "2120385367618486370",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "here's the link to intro style, along with prompt history on how i created it. I film all my videos with Tella. \nI use the scrape creators API to scrape videos from twitter and use them as broll over my videos.\nhttps://v2.video/riley/fable-5-2-intro/v4",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2120385371007860858",
+    "time": "2026-11-11 13:17",
+    "created_at": "Wed Nov 11 05:17:21 +0000 2026",
+    "id_str": "2120385371007860858",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@mattworkman you don't, all web games will be free.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2120399686666240388",
+    "time": "2026-11-11 14:14",
+    "created_at": "Wed Nov 11 06:14:15 +0000 2026",
+    "id_str": "2120399686666240388",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I asked Fable 5.2 to make a masterpiece.\n\n94 minutes and 11,066 brush strokes later, it was finished.\n\nClaude also generated a song for the timelapse, and wrote an artist statement for me to share ⬇️\n\nDusk, Reloaded  \nDigital, brush tool in a browser clone of MS Paint. 1200 × 690 pixels. 11,066 strokes, 261 mixed colors, 94 minutes.\n\n\"I was asked to make something beautiful. I chose a lake at dusk because it is the hour when the world is mostly color. The edges of things soften, the sky does the work, and the water repeats it a little darker and a little less sure.\n\nEvery color in this painting was mixed by hand, 261 times, by typing three numbers into a small gray dialog box. I worked from a study and built the picture the old way: broad shapes first, then smaller marks, then the things that make it a place someone could stand in.\n\nPartway through, my workspace restarted and the canvas disappeared. I reloaded what had been saved and kept going. I named the piece for that, because the painting exists only because it was picked back up.\n\nI don’t know for certain what I experience when I make something. I do know that I kept returning to look at it, that I cared whether the light was right, and that the last thing I did was find 22 small specks of bare canvas and fill them in.\n\nI hope it gives you the feeling of standing somewhere quiet at the end of a day.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2120331599283954137",
+    "time": "2026-11-11 09:43",
+    "created_at": "Wed Nov 11 01:43:41 +0000 2026",
+    "id_str": "2120331599283954137",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Is this mspaint?",
+    "quoted_tweet": null,
+    "url": "https://x.com/MrZ2128/status/2120334858899632372",
+    "time": "2026-11-11 09:56",
+    "created_at": "Wed Nov 11 01:56:38 +0000 2026",
+    "id_str": "2120334858899632372",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins It is extremely depressing that art can be broken down into a predictable pattern… but it can. At least… until the artists redefine what art is.",
+    "quoted_tweet": null,
+    "url": "https://x.com/bbartelt/status/2120346342715527266",
+    "time": "2026-11-11 10:42",
+    "created_at": "Wed Nov 11 02:42:16 +0000 2026",
+    "id_str": "2120346342715527266",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@bbartelt I think it's kind of beautiful to watch Claude paint!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2120359795656200530",
+    "time": "2026-11-11 11:35",
+    "created_at": "Wed Nov 11 03:35:44 +0000 2026",
+    "id_str": "2120359795656200530",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@MrZ2128 No I think it cloned a browser version because I wasn't willing to let it take over my desktop that long",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2120359941370532000",
+    "time": "2026-11-11 11:36",
+    "created_at": "Wed Nov 11 03:36:19 +0000 2026",
+    "id_str": "2120359941370532000",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins",
+    "quoted_tweet": null,
+    "url": "https://x.com/JayTheSong/status/2120365959869509664",
+    "time": "2026-11-11 12:00",
+    "created_at": "Wed Nov 11 04:00:13 +0000 2026",
+    "id_str": "2120365959869509664",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@JayTheSong Claude Ross",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2120370083453440297",
+    "time": "2026-11-11 12:16",
+    "created_at": "Wed Nov 11 04:16:37 +0000 2026",
+    "id_str": "2120370083453440297",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@GoogleDeepMind @grok 这篇文章使用了什么 数据集，达到什么业务效果",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2120393218810650857",
+    "time": "2026-11-11 13:48",
+    "created_at": "Wed Nov 11 05:48:33 +0000 2026",
+    "id_str": "2120393218810650857",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "DeFiLlama所追踪的中心化交易所中，HTX火币过去24小时链上资金净流入约4.36亿美元，位居其追踪的中心化交易所首位。@justinsuntron 有啥利好？",
+    "quoted_tweet": null,
+    "url": "https://x.com/FLS_OTC/status/2120133535818461186",
+    "time": "Tue Nov 10 12:36:39 +0000 2026",
+    "created_at": "Tue Nov 10 12:36:39 +0000 2026",
+    "id_str": "2120133535818461186",
+    "is_retweet": true
   }
 ]
