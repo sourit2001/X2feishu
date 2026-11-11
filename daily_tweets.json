@@ -97,5 +97,104 @@
     "created_at": "Wed Nov 11 07:00:08 +0000 2026",
     "id_str": "2120411235716063700",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "太牛批了 Fable 5.2，做游戏的能力，太顶了！\n\n你只要给他提供工具，他的场景设计和游戏细节直接拉满",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2120528843031334915",
+    "time": "2026-11-11 22:47",
+    "created_at": "Wed Nov 11 14:47:28 +0000 2026",
+    "id_str": "2120528843031334915",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "百度今天发布了全新的文心5.5 Flash Preview 开源模型\n\n重点升级了编程和 Agent能力\n在编程、3D 建模上大幅提升\n\n可以用代码排镜头、卡音乐，调用渲染工具输出成片，也能用 Blender 做可编辑的3D 建模\n\nERNIE 5.5 Flash Preview 基于虚幻引擎 5.8 制作一款第三人称武侠游戏《云岫行》\n\n它连续狂写 11 个小时的代码，不仅融合了跨版本的复杂素材，还用 C++ 独立搞定核心逻辑\n\n试玩时，角色有时会悬空。模型把这类反馈变成能跑的测试，比如检查脚底离地多高\n\n最长支持 100 万 token 上下文，读过的文件、工具返回的结果、前几轮的修改记录都能留在同一次任务里\n\n文心似乎又活跃起来了，这周更新得挺快。5 日开源 Base，给开发者继续训练，9 日公布用 ERNIE Evolve 给模型提速的结果，11 日发布做过后训练的 Preview",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120500117342175364",
+    "time": "2026-11-11 20:53",
+    "created_at": "Wed Nov 11 12:53:19 +0000 2026",
+    "id_str": "2120500117342175364",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "百度称，这是第一次用RSI技术给参与文心推理优化，工程师划好能改的范围，AI 自己找哪里慢、改代码、跑测试\n\n改完跑得更快，结果也对得上，才留下改动\n\n 看来RSI（递归自我改进）确实是下一个热门前沿方向...\n\n在昆仑芯 P800 的一项低延迟测试里，出字速度达到改之前的 6.24 倍\n\n另一项 GPU 测试里，输出保持一致，同样时间能多处理 33.7%...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120500133884555362",
+    "time": "2026-11-11 20:53",
+    "created_at": "Wed Nov 11 12:53:23 +0000 2026",
+    "id_str": "2120500133884555362",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "在今天的百度世界2026大会上公布了技术报告和模型下载\n\nRSI相关blog：https://ernie.baidu.com/zh/research/posts/ernie-evolve/\n\n技术Blog：https://ernie.baidu.com/release/ernie-5-5-flash-base/\n\n模型下载：https://huggingface.co/baidu/ERNIE-5.5-Flash-Base",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120500137483211162",
+    "time": "2026-11-11 20:53",
+    "created_at": "Wed Nov 11 12:53:24 +0000 2026",
+    "id_str": "2120500137483211162",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew @icreatelife that bar is pretty low... basically adobe just has to not discontinue their products and shut down the service they're providing to disney. lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/bind_lux/status/2120417266479366160",
+    "time": "2026-11-11 15:24",
+    "created_at": "Wed Nov 11 07:24:06 +0000 2026",
+    "id_str": "2120417266479366160",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@bind_lux @jerrod_lew Too soon. I miss Sora a lot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120417583329644839",
+    "time": "2026-11-11 15:25",
+    "created_at": "Wed Nov 11 07:25:21 +0000 2026",
+    "id_str": "2120417583329644839",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AllaAisling So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120427370473824584",
+    "time": "2026-11-11 16:04",
+    "created_at": "Wed Nov 11 08:04:15 +0000 2026",
+    "id_str": "2120427370473824584",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Coffee",
+    "quoted_tweet": null,
+    "url": "https://x.com/nortenawinds/status/2120429852151173369",
+    "time": "2026-11-11 16:14",
+    "created_at": "Wed Nov 11 08:14:07 +0000 2026",
+    "id_str": "2120429852151173369",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@nortenawinds Same",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120430622187405811",
+    "time": "2026-11-11 16:17",
+    "created_at": "Wed Nov 11 08:17:10 +0000 2026",
+    "id_str": "2120430622187405811",
+    "is_retweet": false
   }
 ]
