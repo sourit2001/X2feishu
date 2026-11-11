@@ -124,5 +124,194 @@
     "created_at": "Wed Nov 11 14:01:19 +0000 2026",
     "id_str": "2120517228890345726",
     "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "At Cisco, Mike Volpi's team did 70+ acquisitions which became half of the company's revenue during the internet build-out. Now he's watching AI drive another infrastructure boom, and he thinks this cycle is even more compelling.\n\nHis view: the infrastructure being built will remain useful even if some of its owners change.\n\nHanabi Capital GP Mike Volpi joins a16z's Raghu Raghuram and Guido Appenzeller to discuss lessons from Cisco's acquisition machine, Nvidia's dominance, the opening for custom AI chips, how AI is changing data center networking, why older GPUs are holding their value, and more.\n\n00:00 Intro\n00:53 The internet buildout vs. the AI buildout\n09:29 Financing the buildout, and why GPUs are holding their value\n14:31 Cisco's M&A playbook, and advice for Nvidia\n22:27 Making acquisitions actually integrate\n25:32 When founders should sell, and how deals really happen\n31:58 Mapping today's AI infrastructure\n38:02 Will we see more competitive AI silicon?\n43:45 Why Cisco's boom ended\n46:08 Rethinking data center networking for AI\n53:46 Why this is the best time to be investing\n\nYouTube: http://youtu.be/LI3lxzHfRrU\n\n@mavolpi @RaghuRaghuram @appenz",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2120551401323712767",
+    "time": "2026-11-12 00:17",
+    "created_at": "Wed Nov 11 16:17:06 +0000 2026",
+    "id_str": "2120551401323712767",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Companies spent years battling bots. Now they’re fighting for their business.\n\nAI agents are the majority of Web traffic and generate most code pushed to production. Soon, they'll be buying most of what gets sold online.\n\nNew piece with @omooretweets on the B2A economy 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2120552706423366073",
+    "time": "2026-11-12 00:22",
+    "created_at": "Wed Nov 11 16:22:17 +0000 2026",
+    "id_str": "2120552706423366073",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Agents now make up the majority of web traffic, write more than half of new articles published online, and generate most of the code pushed to production.\n\nThis is what the early stage of a platform shift looks like: adoption is measurable, but the business models it enables mostly aren’t visible yet.\n\nWelcome to the agent economy.\n\nhttp://a16z.news/p/welcome-to-the-b2a-economy",
+    "quoted_tweet": {
+      "author": "Olivia Moore",
+      "username": "omooretweets",
+      "text": "Move over, B2B and B2C - the B2A economy is here\n\nAgents are the primary users of the Internet, and soon will be the primary customers for every product\n\nOur thesis @a16z on the massive opportunity here 👇 (cc @venturetwins) https://x.com/i/article/2120371043282071552"
+    },
+    "url": "https://x.com/a16z/status/2120564069010931746",
+    "time": "2026-11-12 01:07",
+    "created_at": "Wed Nov 11 17:07:26 +0000 2026",
+    "id_str": "2120564069010931746",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Mike Volpi explains why older GPUs are holding their value:\n\n\"We thought this asset had a five-year life ... If you're in the business of financing an asset and that asset ends up having a longer useful life, then you're the beneficiary of that.\"\n\n\" In theory, at some point when you have sufficient Vera Rubins, it doesn't really make sense to run H100s anymore because it's just a worse way of converting electricity into dollars.\"\n\n\"The problem is right now that the demand is so high that even if the watt-to-dollar conversion is low, you're going to still use the asset.\"\n\n\"Ultimately the scarcity is in the manufacturing of the semiconductor itself... And so then scarcity persists, then the life of the asset continues to be long.\"\n\n@mavolpi @RaghuRaghuram @appenz",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "At Cisco, Mike Volpi's team did 70+ acquisitions which became half of the company's revenue during the internet build-out. Now he's watching AI drive another infrastructure boom, and he thinks this cycle is even more compelling.\n\nHis view: the infrastructure being built will remain useful even if some of its owners change.\n\nHanabi Capital GP Mike Volpi joins a16z's Raghu Raghuram and Guido Appenzeller to discuss lessons from Cisco's acquisition machine, Nvidia's dominance, the opening for custom AI chips, how AI is changing data center networking, why older GPUs are holding their value, and more.\n\n00:00 Intro\n00:53 The internet buildout vs. the AI buildout\n09:29 Financing the buildout, and why GPUs are holding their value\n14:31 Cisco's M&A playbook, and advice for Nvidia\n22:27 Making acquisitions actually integrate\n25:32 When founders should sell, and how deals really happen\n31:58 Mapping today's AI infrastructure\n38:02 Will we see more competitive AI silicon?\n43:45 Why Cisco's boom ended\n46:08 Rethinking data center networking for AI\n53:46 Why this is the best time to be investing\n\nYouTube: http://youtu.be/LI3lxzHfRrU\n\n@mavolpi @RaghuRaghuram @appenz"
+    },
+    "url": "https://x.com/a16z/status/2120581846237114415",
+    "time": "2026-11-12 02:18",
+    "created_at": "Wed Nov 11 18:18:05 +0000 2026",
+    "id_str": "2120581846237114415",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "GPU rental rates aren't depreciating on schedule.\n\nAs of October 19, rental rates were above a six-year straight-line depreciation path from their first observed rent:\n- A100s by 9%\n- H100s by 54%\n\n@mavolpi: \"The demand is so high that even if the watt-to-dollar conversion is low, you're going to still use the asset\"",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Mike Volpi explains why older GPUs are holding their value:\n\n\"We thought this asset had a five-year life ... If you're in the business of financing an asset and that asset ends up having a longer useful life, then you're the beneficiary of that.\"\n\n\" In theory, at some point when you have sufficient Vera Rubins, it doesn't really make sense to run H100s anymore because it's just a worse way of converting electricity into dollars.\"\n\n\"The problem is right now that the demand is so high that even if the watt-to-dollar conversion is low, you're going to still use the asset.\"\n\n\"Ultimately the scarcity is in the manufacturing of the semiconductor itself... And so then scarcity persists, then the life of the asset continues to be long.\"\n\n@mavolpi @RaghuRaghuram @appenz"
+    },
+    "url": "https://x.com/a16z/status/2120592662353121405",
+    "time": "2026-11-12 03:01",
+    "created_at": "Wed Nov 11 19:01:04 +0000 2026",
+    "id_str": "2120592662353121405",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "HUMAN Security saw AI agent web traffic grow 8x from August to October.\n\nConsumer agents are exploding, and we're in the early innings of the B2A economy.\n\nBusinesses that treat agents as first-class customers have a shot at a wave of growth. Those that don't may find themselves under threat. For years, retailers and platforms built walls to keep bots out – now, they will have to fight for bots' business.\n\nFull piece from a16z's Olivia Moore and Justine Moore: http://a16z.news/p/welcome-to-the-b2a-economy",
+    "quoted_tweet": {
+      "author": "Olivia Moore",
+      "username": "omooretweets",
+      "text": "Move over, B2B and B2C - the B2A economy is here\n\nAgents are the primary users of the Internet, and soon will be the primary customers for every product\n\nOur thesis @a16z on the massive opportunity here 👇 (cc @venturetwins) https://x.com/i/article/2120371043282071552"
+    },
+    "url": "https://x.com/a16z/status/2120613457481671106",
+    "time": "2026-11-12 04:23",
+    "created_at": "Wed Nov 11 20:23:42 +0000 2026",
+    "id_str": "2120613457481671106",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Former Cisco M&A head Mike Volpi on why he’s more optimistic about AI than the dot-com era: the internet built communication, AI is building intelligence.\n\nGuido Appenzeller: “Is there one other big difference from how it was back then, which is that everything is now much, much larger? Back then we were investing a small fraction of a percent in infrastructure for the internet. Today we’re investing 2% or so of our GDP in AI infrastructure.”\n\nMike: “It is much bigger, but in the 100,000 feet abstraction, what is it that is being built? Back then it was communication that was being built. Today we’re building intelligence. And the economic value of intelligence is probably higher than the economic value of communication.”\n\n“I also think that, believe it or not, it’s been nearly 30 years, the markets are more efficient now, which is why so much more risk capital is willing to make its way into AI.”\n\n“So net is, I’m actually more optimistic about this cycle, but I also believe that there will be some correction and some cleaning up of the industry structure.”\n\n@appenz @mavolpi",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "At Cisco, Mike Volpi's team did 70+ acquisitions which became half of the company's revenue during the internet build-out. Now he's watching AI drive another infrastructure boom, and he thinks this cycle is even more compelling.\n\nHis view: the infrastructure being built will remain useful even if some of its owners change.\n\nHanabi Capital GP Mike Volpi joins a16z's Raghu Raghuram and Guido Appenzeller to discuss lessons from Cisco's acquisition machine, Nvidia's dominance, the opening for custom AI chips, how AI is changing data center networking, why older GPUs are holding their value, and more.\n\n00:00 Intro\n00:53 The internet buildout vs. the AI buildout\n09:29 Financing the buildout, and why GPUs are holding their value\n14:31 Cisco's M&A playbook, and advice for Nvidia\n22:27 Making acquisitions actually integrate\n25:32 When founders should sell, and how deals really happen\n31:58 Mapping today's AI infrastructure\n38:02 Will we see more competitive AI silicon?\n43:45 Why Cisco's boom ended\n46:08 Rethinking data center networking for AI\n53:46 Why this is the best time to be investing\n\nYouTube: http://youtu.be/LI3lxzHfRrU\n\n@mavolpi @RaghuRaghuram @appenz"
+    },
+    "url": "https://x.com/a16z/status/2120630316465545689",
+    "time": "2026-11-12 05:30",
+    "created_at": "Wed Nov 11 21:30:41 +0000 2026",
+    "id_str": "2120630316465545689",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I am here thinking about social media... X, Instagram, LinkedIn, Threads, all of it. The help we give each other, the praise and the hate, the usefulness and the noise. It's not always easy.\n\nTo me, it's like an open forum. Lots of little groups of people chatting. Sometimes I walk over and join in, sometimes I just listen for a while. And it stays my choice. Agree or disagree. Stay or leave. Nobody has to reply to me, and I don't have to reply to everything either.\n\nI treat it like real life, I think. Same manners, same curiosity. I often wish I could meet most of you in person.\n\nHow do you approach it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/rufusd/status/2120533368903196864",
+    "time": "2026-11-11 23:05",
+    "created_at": "Wed Nov 11 15:05:27 +0000 2026",
+    "id_str": "2120533368903196864",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@rufusd I like your approach and it’s feel that you are as real on social media as real life",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120562766956163343",
+    "time": "2026-11-12 01:02",
+    "created_at": "Wed Nov 11 17:02:16 +0000 2026",
+    "id_str": "2120562766956163343",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I can't imagine anyone blocking you... 🤷‍♀️",
+    "quoted_tweet": null,
+    "url": "https://x.com/SeeDebbieGo/status/2120608776000770138",
+    "time": "2026-11-12 04:05",
+    "created_at": "Wed Nov 11 20:05:05 +0000 2026",
+    "id_str": "2120608776000770138",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SeeDebbieGo Hugs 🤗",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120609261386436741",
+    "time": "2026-11-12 04:07",
+    "created_at": "Wed Nov 11 20:07:01 +0000 2026",
+    "id_str": "2120609261386436741",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @karatademada Same",
+    "quoted_tweet": null,
+    "url": "https://x.com/dvorahfr/status/2120609666094805133",
+    "time": "2026-11-12 04:08",
+    "created_at": "Wed Nov 11 20:08:38 +0000 2026",
+    "id_str": "2120609666094805133",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dvorahfr @karatademada 🫶🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120609836966596911",
+    "time": "2026-11-12 04:09",
+    "created_at": "Wed Nov 11 20:09:18 +0000 2026",
+    "id_str": "2120609836966596911",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "@elonmusk @KatieMiller",
+    "quoted_tweet": null,
+    "url": "https://x.com/AdamNeumann/status/2120531314617008265",
+    "time": "2026-11-11 22:57",
+    "created_at": "Wed Nov 11 14:57:17 +0000 2026",
+    "id_str": "2120531314617008265",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "😳",
+    "quoted_tweet": {
+      "author": "Adam Neumann",
+      "username": "AdamNeumann",
+      "text": "@elonmusk @KatieMiller"
+    },
+    "url": "https://x.com/pmarca/status/2120557412155339202",
+    "time": "2026-11-12 00:40",
+    "created_at": "Wed Nov 11 16:40:59 +0000 2026",
+    "id_str": "2120557412155339202",
+    "is_retweet": false
   }
 ]
