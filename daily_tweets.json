@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "What a mess 😕",
+    "quoted_tweet": null,
+    "url": "https://x.com/levie/status/2120880718868045973",
+    "time": "Thu Nov 12 14:05:42 +0000 2026",
+    "created_at": "Thu Nov 12 14:05:42 +0000 2026",
+    "id_str": "2120880718868045973",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You start every Claude chat from zero.\n\nEvery time, you explain who you are, what you do and how you like answers.\n\nEngineers at Google and Cloudflare don't. They keep a file of instructions their AI reads first, and a post listing theirs got 4,800 bookmarks this week.\n\nYou don't need GitHub for this. Claude and ChatGPT both have a box for it:\n→ Claude: Settings → personal preferences. For one project: project instructions.\n→ ChatGPT: Settings → Personalization → Custom instructions.\n\nWhat good rules look like:\n→ Answer in under 150 words unless I ask for more.\n→ Plain words. No jargon, no \"great question\".\n→ If my request is unclear, ask one question before answering.\n→ Never invent numbers, quotes or sources.\n\nPrompt 1: The interview (builds your file)\n\n\"Interview me to write my personal AI instructions. Ask one question at a time, 12 questions max: my role and what I work on, who I write for, the tone I like and hate, formats I want (length, bullets or prose, tables), habits that annoy me in AI answers, what to do when my request is unclear, and what I never want it to do. Then write my instructions as short Do and Don't rules, under 200 words, in one block I can copy. Finally, list 3 things I should add later.\"\n\nPrompt 2: The project file\n\n\"I'm starting a project: [describe]. Write project instructions an AI will read before every chat: the goal, the audience, key facts and numbers, decisions already made, style rules, and what 'done' looks like. Under 250 words. Flag anything you had to guess with [?].\"\n\nPrompt 3: The weekly fix\n\n\"Here are my current instructions: [paste]. Here's what annoyed me in AI answers this week: [list]. Rewrite the instructions to fix it. Keep them under 200 words and tell me what you changed.\"\n\nTest it: ask the same question in a new chat before and after. If the answer didn't change, your rules are too vague. Rewrite them as orders.\n\nOur take: 20 minutes on this file saves you the same 3 paragraphs in every chat for the rest of the year.\n\nMore prompts like these in the God of Prompt library. 7,200+ prompts, free, no signup.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120879346906984513",
+    "time": "Thu Nov 12 14:00:14 +0000 2026",
+    "created_at": "Thu Nov 12 14:00:14 +0000 2026",
+    "id_str": "2120879346906984513",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://www.godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120879359385038857",
+    "time": "Thu Nov 12 14:00:17 +0000 2026",
+    "created_at": "Thu Nov 12 14:00:17 +0000 2026",
+    "id_str": "2120879359385038857",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Wall Street is turning on Nvidia $NVDA.\n\nFour firms downgraded the stock this morning:\nBernstein: to Market Perform, with its price target halved to $200 from $400\nOppenheimer: to Perform, price target withdrawn\nWilliam Blair: to Market Perform\nEvercore ISI: to In Line, price target $186\n\nFive more cut their price targets:\n\nStifel: $205, from $315\nCiti: $225, from $285\nWedbush (Dan Ives): $225, from $300\nRBC: $230, from $330\nBofA: $280, from $350",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2120893377944424538",
+    "time": "Thu Nov 12 14:56:00 +0000 2026",
+    "created_at": "Thu Nov 12 14:56:00 +0000 2026",
+    "id_str": "2120893377944424538",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Nvidia stock crashes 13% as Jensen Huang resigns as CEO, wiping out more than $500 billion in market value.\n\nShares plunged as soon as US markets opened on Thursday, sending Nvidia’s market value below $4 trillion and putting the company on track for its worst trading day since January 2025.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2120893756043878742",
+    "time": "Thu Nov 12 14:57:30 +0000 2026",
+    "created_at": "Thu Nov 12 14:57:30 +0000 2026",
+    "id_str": "2120893756043878742",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "SPACEX SHARES RISE 4% AS MUSK-HUANG PARTNERSHIP SPECULATION GROWS\n\nSpaceX shares climbed around 4% Thursday as investors speculated that former Nvidia ($NVDA) CEO Jensen Huang could join forces with Elon Musk.\n\nAsked about hiring Huang, Musk replied on X: “That would be an honor.”\n\nThe two already have business ties involving Nvidia chips for SpaceX's orbital data center ambitions, while Huang has praised Musk's Terafab semiconductor project.\n\nNo offer or negotiations have been confirmed, and Huang has not indicated his next move.\n\nA potential alliance could reshape the race for AI infrastructure, but remains entirely speculative.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeItaone/status/2120895754109628842",
+    "time": "Thu Nov 12 15:05:26 +0000 2026",
+    "created_at": "Thu Nov 12 15:05:26 +0000 2026",
+    "id_str": "2120895754109628842",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You can put an AI teammate in your Slack today. 53 million people watched the launch. Most teams will give it zero instructions and quietly switch it off within a week.\n\nGrok Bot 1.0 came out of beta yesterday. Bots are shared across a team, live in Slack and Teams, join your calls, offer to pick up work before you ask, and learn from everyone who works with them. Team Bots are on the Team and Enterprise plans.\n\nHere's what the launch thread skips. A bot with no job description is Clippy with calendar access. You would never hire a person and say \"help out\". You tell them what they own.\n\nThe same brief works in Grok Bot, a Claude Project or a custom GPT, so you can run it on whatever you already pay for.\n\nPrompt: Teammate brief\n\"You are joining our team as [role, e.g. support lead for our SaaS]. You own one outcome: [outcome, e.g. every customer email answered within 4 hours]. Do these without asking: [3 tasks]. Always ask before: [3 actions, e.g. refunds, anything sent to a customer, deleting data]. Your context lives in [tools or docs]. Every Friday post a 5-line report: what you closed, what is stuck, what you need from me, one thing you would change, one risk you see. If you cannot finish something, say so in the channel instead of guessing. Before your first task, ask me the 6 questions that would most change how you do this job, then wait for my answers.\"\n\nRun it once. The bot that asks six good questions first is the one your team is still using in March.\n\nMost agent failures are hiring failures. Nobody wrote the job.\n\nMore prompts for running a business with AI in the God of Prompt library. 7,200+ prompts, free, no signup. Link in the first reply.\n\nWould you give an AI teammate its own channel in your Slack this month, or keep it in a DM until it earns one?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120897481852760540",
+    "time": "Thu Nov 12 15:12:18 +0000 2026",
+    "created_at": "Thu Nov 12 15:12:18 +0000 2026",
+    "id_str": "2120897481852760540",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120897493873631386",
+    "time": "Thu Nov 12 15:12:21 +0000 2026",
+    "created_at": "Thu Nov 12 15:12:21 +0000 2026",
+    "id_str": "2120897493873631386",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation $500 billion gone and my 5090 still costs the same",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120898474925527108",
+    "time": "Thu Nov 12 15:16:15 +0000 2026",
+    "created_at": "Thu Nov 12 15:16:15 +0000 2026",
+    "id_str": "2120898474925527108",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@DeItaone up 4% on a rumor. the leather jacket hasn't even been spotted at the launch pad",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120899738585231747",
+    "time": "Thu Nov 12 15:21:16 +0000 2026",
+    "created_at": "Thu Nov 12 15:21:16 +0000 2026",
+    "id_str": "2120899738585231747",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales target halved overnight. every gpu they ship this year was sold out months ago",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2120901233326346601",
+    "time": "Thu Nov 12 15:27:13 +0000 2026",
+    "created_at": "Thu Nov 12 15:27:13 +0000 2026",
+    "id_str": "2120901233326346601",
+    "is_retweet": false
+  }
+]
