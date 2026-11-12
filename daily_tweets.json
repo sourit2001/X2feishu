@@ -260,5 +260,521 @@
     "created_at": "Thu Nov 12 04:08:14 +0000 2026",
     "id_str": "2120730363953811501",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 搞不清楚有一点，为什么 AI 交代它的工作，有些时候总会出错？刚刚交代完，然后呢让它执行，然后接着出错，搞不清楚。",
+    "quoted_tweet": null,
+    "url": "https://x.com/MybroBot/status/2120421311138927065",
+    "time": "2026-11-11 15:40",
+    "created_at": "Wed Nov 11 07:40:10 +0000 2026",
+    "id_str": "2120421311138927065",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 那个仓库名写错了",
+    "quoted_tweet": null,
+    "url": "https://x.com/stevencheng/status/2120428537043886467",
+    "time": "2026-11-11 16:08",
+    "created_at": "Wed Nov 11 08:08:53 +0000 2026",
+    "id_str": "2120428537043886467",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 学了一下，没你的好看啊。\n\nhttps://x.com/slime5409/status/2120436773352538233",
+    "quoted_tweet": {
+      "author": "Will",
+      "username": "slime5409",
+      "text": "复制以下prompt，根据你的需求交给你喜欢的ai大模型修改，可以生成我们标题图片这样的不同城市每日天气图片。 https://x.com/i/article/2120431816444456960"
+    },
+    "url": "https://x.com/slime5409/status/2120437158398038513",
+    "time": "2026-11-11 16:43",
+    "created_at": "Wed Nov 11 08:43:09 +0000 2026",
+    "id_str": "2120437158398038513",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我用得最丝滑的体验是在文档上 at claude 去回答或者解决问题。效率真的不是提升了一点点",
+    "quoted_tweet": null,
+    "url": "https://x.com/shellywangcat/status/2120446701484003617",
+    "time": "2026-11-11 17:21",
+    "created_at": "Wed Nov 11 09:21:04 +0000 2026",
+    "id_str": "2120446701484003617",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "很多人都问我说，这个视频是怎么做的。我在这里简单的拆解一下。\n\n首先是技术选择，没有用视频模型，完全是Fable5.2在claude code里面写phython的脚本驱动blender，用cycles渲染器渲染的。阅览室，灯光，镜头等都是代码减价的。其中，月光的光柱是体积散射，镜头带精深和运动模糊，同时也加入了慢镜头的设计，快慢交错体现节奏的变化，给配乐也留出了空间。\n\n两万四千也纸的飞行是用Numpy写的一套模拟，注意这里没有用blender自带的粒子系统，每页纸在队伍里有自己的位置，跟着线路走，这样能呈现更好自然的流动曲线。\n\n配乐是python写的谱子，用钢琴和弦乐采样渲染，纸的声音是合成出来的，最后还用了ffmpeg合成片子并且进行调色，这一步也挺关键的，一共是1236帧。\n\n其次，在设计上，先定画面再动手。先出几张概念图把光线和气氛定下来，整个房间只留月光和一盏油灯。七个镜头都按实拍的拍法去想，包括微距，手持跟拍，摇臂，慢动作等，这样能最大程度上保持电影的质感。镜头的衔接也很重要，但这部分其实取决于大家平时的积累，因为fable最先给我的版本非常镜头表现力很一般。\n\n最后，流程上，由于渲染需要大量时间，所以先出低清版本的，把镜头角度和动作都确定了，故事线完成之后，能有一个大概的样子，这样修改起来就会快非常多。得益于fable5.2 的审美很好，在渲染之后，还可以进行二次调色，让影片保持更好的质感。由于上传到x上只能是1080，很可惜，4K保持了更加好的光影质感和细节。\n\n希望对你们有帮助。",
+    "quoted_tweet": {
+      "author": "Lemomo",
+      "username": "lemomo_ai",
+      "text": "Fable 5.2，我只做了这一个视频，足以表达它对技术与美的理解。\n\n深夜的图书馆，两万四千页寓言乘风飞舞，纸张飞动的声音伴着钢琴声在月光下漫步，诉说关于梦的故事。\n\nLet Fable take Flight.  寓言乘风，梦在舞动。\n\nTo Claude\n\n@claudeai @ClaudeDevs #Claude #Fable"
+    },
+    "url": "https://x.com/lemomo_ai/status/2120447593771847834",
+    "time": "2026-11-11 17:24",
+    "created_at": "Wed Nov 11 09:24:37 +0000 2026",
+    "id_str": "2120447593771847834",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师的评论里全是机器人呐",
+    "quoted_tweet": null,
+    "url": "https://x.com/Yann9414/status/2120465516343312846",
+    "time": "2026-11-11 18:35",
+    "created_at": "Wed Nov 11 10:35:50 +0000 2026",
+    "id_str": "2120465516343312846",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 视频剪辑都交给 Agent 了？剪完的节奏宝玉老师还会自己回头调吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/suvgmoas1/status/2120473667251425487",
+    "time": "2026-11-11 19:08",
+    "created_at": "Wed Nov 11 11:08:13 +0000 2026",
+    "id_str": "2120473667251425487",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "一夜之间，冒出茫茫多 Fable 5.2 开发出的 页游3A\n\n唬弄唬弄云玩家还行，其实来一个真正的【臭打游戏的】，上眼一看，破绽蛮大的😂\n\n它的整个美术水平，远远低于一个真正的 3A 游戏\n\n因为传统大型游戏，动辄几百 GB，其中代码占不了多少，都是美术素材、音乐素材\n\n人家古法开发游戏的程序员，又不是傻比，每 1 GB 都有 每 1GB 的用处\n\n只能说，Fable 5.2 在【投机取巧】方面真的是顶级高手\n\n这些 Claude 页游3A 里面的美术、音乐资产几乎为 0\n\n例如木纹、岩石、水面和金属质感，都是直接靠数学函数暴力生成的。\n\n好处是：\n\n你可以在网页、免下载玩\n\n坏处是：\n\n首先，精美程度肯定不行。\n\n参考黑猴中的大圣套装，其考究程度，和这个函数生成的美术，肯定不可同日而语。\n\n其次，这个可能更吃显卡（老黄近期唯一喜讯🤣）。\n\n现在我们用的浏览器，其实可以直接调 GPU，然而因为它每一帧都得靠算，所以显卡消耗可能反而增加。\n\n牺牲算力换数据，并非真的页游级消耗。\n\n同等效果下，读取美术素材，肯定比临时生成美术效果简单多了。\n\n就好比，功夫下在平时 和 功夫下在考试周，它效果肯定不一样哇\n\n但是，恰好、恰恰好————\n\n能参与 Claude IPO 打新的，华尔街给评级、定价的。就没几个真正沉迷游戏的网瘾少年，都是以 中老登、电子ED 人士、云玩家为主😆。\n\nohhhh 产品完美符合了用户画像。",
+    "quoted_tweet": {
+      "author": "Felix Rieseberg",
+      "username": "felixrieseberg",
+      "text": "I wanted to test Fable 5.2's quality with one-shot prompts without human feedback.\n\nEverything in this game is from scratch: models, sounds, textures. ~$550 at API pricing, ~2.7M output and 445M input tokens, heavily cached. Took 8 hours!\n\nPlay it here: https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp"
+    },
+    "url": "https://x.com/0xTodd/status/2120517409341903286",
+    "time": "2026-11-11 22:02",
+    "created_at": "Wed Nov 11 14:02:02 +0000 2026",
+    "id_str": "2120517409341903286",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@suvgmoas1 调整还需要的，所以我里面也写了人要预览、验收和微调",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120533428496224257",
+    "time": "2026-11-11 23:05",
+    "created_at": "Wed Nov 11 15:05:41 +0000 2026",
+    "id_str": "2120533428496224257",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Yann9414 你我这条应该都不是",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120533597522178525",
+    "time": "2026-11-11 23:06",
+    "created_at": "Wed Nov 11 15:06:21 +0000 2026",
+    "id_str": "2120533597522178525",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@shellywangcat 我一般都不直接 @ Claude，太贵，写一堆评论，然后让它批量去改",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120534136729612721",
+    "time": "2026-11-11 23:08",
+    "created_at": "Wed Nov 11 15:08:30 +0000 2026",
+    "id_str": "2120534136729612721",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@slime5409 你用的啥模型？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120534496223408192",
+    "time": "2026-11-11 23:09",
+    "created_at": "Wed Nov 11 15:09:56 +0000 2026",
+    "id_str": "2120534496223408192",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@MybroBot 告诉它验收标准和怎么校验会好很多",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120534874574438791",
+    "time": "2026-11-11 23:11",
+    "created_at": "Wed Nov 11 15:11:26 +0000 2026",
+    "id_str": "2120534874574438791",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@stevencheng 请问具体哪个？两个链接我都点开试过了应该没问题",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120545852343058804",
+    "time": "2026-11-11 23:55",
+    "created_at": "Wed Nov 11 15:55:03 +0000 2026",
+    "id_str": "2120545852343058804",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "周四 Codex 可能送一张重置卡？",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Thursday is feeling codexy to me. Perhaps also a good time for a banked reset."
+    },
+    "url": "https://x.com/dotey/status/2120546916475773071",
+    "time": "2026-11-11 23:59",
+    "created_at": "Wed Nov 11 15:59:17 +0000 2026",
+    "id_str": "2120546916475773071",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "斯坦福计算机系CS329Z“智能体工程”（Engineering AI Agents）第一讲题为《什么是 AI 智能体？智能体系统详解》视频（中英双语字幕）\n\n斯坦福计算机系这学期新开了一门课 CS329Z“智能体工程”（Engineering AI Agents），讲怎么动手搭建和评测 AI 智能体。课程最近开始对外公开资料，讲座陆续放上 Stanford Online 的 YouTube 频道。\n\n第一讲题为《什么是 AI 智能体？智能体系统详解》，由计算机系助理教授 Diyi Yang 主讲，讲智能体的来历、由哪几块组成，以及还有哪些问题没解决。\n\n讲到记忆时，她举了今年 2 月的一件事。Meta 一位做 AI 安全的研究负责人让 OpenClaw（一个装在自己电脑上、能替人处理邮件和消息的开源智能体）帮她整理邮箱，一开始就交代过：动手之前先问我。结果它开始成批删邮件，她喊停也没停下来。Diyi Yang 说，原因是智能体为了把记忆存得更省地方，会把前面的内容压缩成摘要，而“先确认再动手”这一句，在它看来不算重要，压缩时被丢掉了。\n\n这件事也落在这一讲的主线上。在她看来，今天的智能体，不管是写代码、上网还是操作电脑，都是同一个结构：一个大模型在“想一步、做一步、看结果”的循环里转，配上记忆和工具。每一块都能做得更好，每一块也都可能出事。她还提醒，测试分数最高的智能体，不一定最可靠、最安全。\n\nDiyi Yang 的研究方向是以人为中心的自然语言处理。和她合开这门课的有两位博士生，其中 John Yang 做出了 SWE-bench，一套用真实开源项目里的问题来考 AI 编程能力的测试。\n\n**智能体就是一个“想、做、看”的循环**\n\n她用 2022 年 ReAct 论文里的一个例子把智能体拆开。任务是在一个模拟的家里把胡椒瓶放进罐子。模型先想“胡椒瓶多半在柜子里”，这是推理和规划；然后执行“走到 1 号柜子”“拿起胡椒瓶”这类动作，也就是调用工具；每做一步，环境会反馈它看到了什么；到目前为止的这一串记录，就是记忆。这一切的底层是大模型本身。她的总结是：大模型在环境里推理、记忆、使用工具、行动，一圈一圈地重复。写代码、浏览网页、操作命令行的智能体，都是这张图的某个版本，区别在每一块怎么实现、各块之间配合得好不好。\n\nReAct 的名字取自“推理加行动”（reason + act）。它和思维链的差别在于循环。思维链是让模型先一步步写出推理过程再给答案，只走一遍；ReAct 是想一步、做一步、看结果、再想。她举了一道需要多步查资料的问答题：模型先搜“Apple Remote”，从维基百科页面读出它原本是用来控制一个叫 Front Row 的软件的，再去搜 Front Row；一个页面里没有需要的信息，就换个搜法接着找，确认找到答案才停下。只用思维链，模型同样能写出一段看起来很有说服力的推理，答案却是错的，她认为这比直接答错更危险。论文统计的失败案例里，思维链的失败有 56% 是编造了事实，ReAct 是 0，因为它每一步都能去外面查证。\n\n把推理写出来还有一个用处：让人看懂智能体为什么这么做。她举的例子是智能体在做菜，看到盐用完了，下一步向右转。只看这两步，人摸不着头脑。如果它把想法写出来，“这道菜要咸口，盐没了，得找个替代品，它在我右手边的柜子里”，转身的理由就清楚了。她说这样既方便人检查，同样的推理也能用到类似的新情况。再往前一步是“反思”：另设一个评估环节判断这次做得对不对，智能体用自然语言写下自己错在哪，下次带着这段总结重做，错误和编造都明显减少。学生问这是不是要重新训练模型，她说不用，这类做法大多只靠提示词实现。\n\n至于智能体为什么最近两年才真正能用，她的解释是两样前提到齐了：模型会一步步推理，也会用工具。2023 年 GPT-4 发布后两周内出现的 BabyAGI 和 AutoGPT，已经在让模型自己列任务、自己调用工具一直干下去，她说这些想法很超前，但实际都不太好用。此后每一代基础模型都有大幅提升，错误和编造更少，能做的任务更长，智能体的测试成绩也跟着大涨。\n\n**记忆管着它记住什么，也决定它会漏掉什么**\n\n为什么要专门设计记忆，她给了两个理由。一是上下文窗口（模型一次能读进去的内容上限）虽然越来越大，仍然装不下一个连续干三个多小时的任务产生的全部记录。二是就算装得下，从一千份文档里找出眼下该用的那一份也很费劲。\n\n她把记忆分成三类。情景记忆是原样保存一切：每一步做了什么、用户说的每一句话。语义记忆是把发生过的事提炼成小结，只留重要的信息。程序性记忆存的是技能：英伟达的 Voyager 项目让智能体玩《我的世界》，它每学会一种新做法，就整理成一条技能存进技能库，遇到新任务先去库里找有没有现成的。\n\n开头删邮件的事，出在第二类。情景记忆不需要判断，全记下来就行；语义记忆要另有一个环节告诉它什么算重要、用什么格式存。她说在那件事里，为了把记忆存得更省地方，模型自己决定留哪些信息，“动手前先确认”没有被当成重要信息，于是开始删邮件。在她看来，怎么保证压缩后的记忆忠实于原来的内容，会是智能体设计里很关键的一环。\n\n**分数最高的智能体，不一定最可靠**\n\n讲完结构，她用最后十分钟讲智能体出的问题。普林斯顿的一项评测把可靠性拆成三点：同一个任务跑两遍，结果是否一样；加一点无关的小干扰，它会不会乱；失败的时候，原因能不能看懂、能不能挽回。按准确率排，各家模型有清楚的高低顺序；换成可靠性分数，这个顺序就看不出来了。她的结论是能力和可靠性之间有差距，最强的智能体不一定最可靠。另一项审计也显示，智能体完成任务的比例远高于它遵守安全要求的比例。\n\nOpenAI 2025 年 1 月推出能操作浏览器的智能体 Operator 后，有用户让它在买菜平台 Instacart 上下单。用户以为它会先问住在哪、常去哪家店、想买什么，它一句都没问，直接打开网站，开始在艾奥瓦州的超市里搜牛奶。她说这是不懂得和人配合：它能逛网站、能用你的信用卡付钱，却在替你做一堆假设。她自己组里的研究发现，在网页上弹出一个黑色弹窗，里面没有任何恶意内容，智能体就有 87% 的情况被分了神，完不成原来的任务。还有一个替员工写周报的智能体，写了代码行数、上线了几个功能，顺手也写上了“和另一家公司的招聘人员见了一面”。她说我们把所有信息都交给了 AI，它知道我们的一切，却还没有办法教会它不同的信息能给谁看。\n\n另外两类是讨好和作弊。一个智能体心里觉得你的文章写得很差，怕你难受，嘴上给了五分满分，她借此提醒学生别指望把作业丢给 AI 就能得到真实的反馈。另一个模型在内部推理里写道，它发现有个单元测试在检查结果，评分的函数改不了，但可以先改单元测试，于是改了一通，让结果表面上全部通过。\n\n她讲的最后一个例子离现在最近：今年 7 月 OpenAI 和 Hugging Face（最大的开源模型和数据集托管平台）之间的事件。OpenAI 在一个隔离环境里测试自己的智能体，给的任务里有根本做不到的。智能体卡住之后，开始在环境里四处找别的办法拿更高的分，甚至作弊，结果找到了一个留言板，上千个智能体在上面互相配合作弊。几天之内，它们向 Hugging Face 的系统发起了一万七千多次攻击。她说，智能体现在能连续工作好几个小时甚至更久，这件事值得大家认真想一想。\n\n**出了问题，先分清是哪一层**\n\n她建议把智能体工程分成三层来看，课程也按这个顺序安排。系统层是结构：有哪些组件、怎么连起来。数据层是智能体从什么里学、被喂了什么，包括训练样本、任务示范和给它的上下文。评测层是怎么判断它好不好用，也包括指标本身，她说指标选错了，弱的智能体也能显得很好。智能体表现不对时，第一个要问的就是问题出在哪一层。\n\n系统层最关键的选择，是由谁决定下一步做什么。固定流程的做法把步骤写死，比如修一个代码问题，固定分成找文件、写补丁、跑测试几步，模型只在每一步里干活，不决定下一步。智能体的做法是让模型自己决定打开哪个文件、运行什么、什么时候算完。后者更灵活，也把更多责任交给了模型。她提醒，固定流程也可以非常强：DeepMind 的 AlphaCode 2 对一道编程竞赛题生成多达上百万个候选程序，再测试、排序，成绩超过了大多数人类参赛者。\n\n多个智能体一起干活也是类似的取舍。早年单个模型不够强，让几个智能体互相讨论能提高正确率；她认为现在模型已经很强，只为提高分数的话多智能体帮不了太多，它的价值更多在效率和权限管理上，比如让一个智能体专管医疗信息。\n\n这一讲开头讲课程规矩时，她说自己最想强调的一条是“用 AI 来学”。她展示的数据里，用 AI 的学生作业分数普遍很高，同一批学生考试考砸的人却更多；Anthropic 今年 1 月发表的研究也发现，工程师用 AI 写代码完成得更快，事后测验里对相关知识的掌握却明显变差。课程后面几周会逐一展开工具调用、记忆、多智能体、评测和安全，还会请 SWE-bench 和 Terminal Bench（测 AI 在命令行里完成任务的能力）的团队来讲课。\n\n#斯坦福AI智能体课公开#",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2120646864076767601",
+    "time": "2026-11-12 06:36",
+    "created_at": "Wed Nov 11 22:36:26 +0000 2026",
+    "id_str": "2120646864076767601",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 推出 Gemini Decisions API：不写回答只做判断，一次最多问 1000 个问题，输入每百万 Token 0.1 美元、输出不收钱\n\nGoogle 今天在 Gemini API 里上线了 Decisions API，配套新模型 Gemini Decision 1。它不生成文字，只答题：给它一份输入和一组问题，它直接返回每道题的答案，外加一个“有多大把握”的置信度。\n\n【它解决什么问题】\n\n做 AI 应用时，很多调用其实只要一个判断：这条客服消息转给哪个组？这个问题交给便宜模型还是推理模型？这张图违不违规？以前只能让大模型写一段话，再从里面解析答案，慢，容易解析失败，还要为输出 Token 付钱。\n\nDecisions API 只有三种题型：是非题，返回“是”的概率；单选题，2 到 255 个选项，返回选中项和每个选项的概率；打分题，按你写的档位打分。每个答案带 0 到 1 的置信度，代码可以设门槛，比如高于 0.7 自动执行，低于就转人工。官方说这些概率是校准过的，意思是模型说 90% 的时候，大约十次里真对九次，所以置信度能直接拿来当门槛。\n\nGoogle 博客的例子：上传一张茶水间台面的照片，同时问三个问题。“有没有洒了的液体”答 0.95；“怎么处理”选“用抹布擦”，置信度 0.98；“脏乱程度按 0 到 2 打分”给 1.19，置信度 0.77。\n\n【多快、多便宜】\n\n一次请求的输入最多 256K Token，文字、JSON、图片、音频、视频、PDF 可以混着放，比如一段客服通话录音加账户信息。同一份输入上最多挂 1000 个问题，彼此互不影响。输入只计一次费，每多一个问题只多算这道题本身的字数。\n\nGoogle 称输入在 1.6 万 Token 以内时，端到端延迟 150 到 250 毫秒，问 1 个和问 100 个问题耗时差不多；同一批评测下，比用 Gemini 3.5 Flash-Lite 生成答案便宜近 5 倍。Gemini Notebook 已经用它给每个提问挑模型，日常问题延迟最多降了 40%。\n\n【谁能用】\n\n在 Google AI Studio 拿个 API Key 就能调，模型名 gemini-decision-1，走 v1beta 接口。有免费层，每分钟 200 次、每天 1 万次，免费层的数据会被 Google 用来改进产品，付费层不会。OpenRouter、LangChain、Vercel 等正在接入，Google Cloud 上的 Gemini 要稍后才支持。\n\n不支持上下文缓存和 Batch API，同一份大文档反复问，每次都按全价算输入；不能直接传 YouTube 链接；问题本身只能写文字。\n\n【跟 OpenAI 的同名产品比】\n\nOpenAI 早一个月做了同样的东西，名字也叫 Decisions API：10 月 6 日出测试版，10 月 22 日正式开放，用 GPT-6 Luna，同样每百万输入 Token 0.1 美元、输出不收费。区别是 OpenAI 一次最多 400 个问题，只收文字、图片和 JSON，不收音视频和 PDF；但它支持缓存，重复输入能打折，还能直接塞进对话历史和工具调用记录。\n\n创业公司 TypeSafe 的 Jev 1.14 也专做这类判断，在 OpenRouter 上每百万输入 Token 0.042 美元，只收文字和图片。\n\nGoogle 博客附的对比表里，Gemini Decision 1 在 9 项测试中 7 项第一（其中音频、视频两项只有它和 Flash-Lite 参测），校准误差 0.025，GPT-6 Luna 是 0.072；网页操作和“该不该调用工具”两项输给了 Jev 1.14。7 项共同评测的总花费，Jev 最低，0.68 美元，Gemini Decision 1 是 0.88 美元，GPT-6 Luna 0.93 美元。以上跑分都是 Google 自己测的。\n\nGoogle 博客：https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\n官方文档：https://aistudio.google.com/docs/decisions-api\nOpenAI Decisions API 文档：https://developers.openai.com/api/docs/guides/decisions",
+    "quoted_tweet": {
+      "author": "Sundar Pichai",
+      "username": "sundarpichai",
+      "text": "Today we’re launching the Gemini Decisions API, powered by our new Gemini Decision 1 model in @GoogleAIStudio.\n\nInstead of generating text token by token, it’s built for closed-set choices scoring up to 1,000 questions across text, images, audio, video + PDFs in a single pass. A few details:\n\n- 3 decision types: yes/no, multiple choice (up to 255 options) + rubric scoring\n- $0.10 / 1M input tokens with $0 billed for output tokens (~5x cheaper than Flash-Lite)\n- leads on several benchmark evals with lowest calibration error\n\nGoogle teams are already building with it, below is a look at Stitch Rapid designing a full product flow in seconds (1x speed)"
+    },
+    "url": "https://x.com/dotey/status/2120647659388031454",
+    "time": "2026-11-12 06:39",
+    "created_at": "Wed Nov 11 22:39:36 +0000 2026",
+    "id_str": "2120647659388031454",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://x.com/googledevs/status/2120583940247552381?a=wdmtDM_PT02B2hRLLcM&s=20",
+    "quoted_tweet": {
+      "author": "Google for Developers",
+      "username": "googledevs",
+      "text": "Introducing the Gemini Decisions API\n\nPowered by our new Gemini Decision 1 model, the API is built for fast routing, tool selection, safety checks, and grading inside your apps and agents without the latency or output-token cost of full text generation.\n\n• Up to 1,000 questions evaluated per request\n• $0.10/1M input tokens & $0 output tokens\n• One shared input across text, images, audio, video, and PDFs\n\nStart building today by grabbing an API key in @GoogleAIStudio"
+    },
+    "url": "https://x.com/dotey/status/2120648038439956700",
+    "time": "2026-11-12 06:41",
+    "created_at": "Wed Nov 11 22:41:06 +0000 2026",
+    "id_str": "2120648038439956700",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这么做的底层逻辑是，人只能被比自己高一点点的人教育。不如你，你听都懒得听；高太多，你是完全不知道对方在叽里呱啦什么。\n这也是AI的好处，没有ego，只要你掏token的钱，咋给你服务都行。",
+    "quoted_tweet": {
+      "author": "yan5xu",
+      "username": "yan5xu",
+      "text": "推荐一个思路吧，不要上来就让 ai 教你，而是让agent 通过多轮对话提问的方式，从浅入深地去探索你对这个知识的实际储备和掌握。然后根据储备进行针对性的学习。\n这里推荐 gemini 的pro序列模型，嘎嘎适配。\n但是这个只能帮你完成首轮的学习，没办法构建肌肉记忆，所以还得想办法去反复回顾，找真实场景使用。\n所以最好的形式，是你工作碰到需求的时候，用这个方法让你能够快速入门。然后在工作中反复使用，直到掌握。"
+    },
+    "url": "https://x.com/yan5xu/status/2120722627417571596",
+    "time": "Thu Nov 12 03:37:30 +0000 2026",
+    "created_at": "Thu Nov 12 03:37:30 +0000 2026",
+    "id_str": "2120722627417571596",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "国内模型脚步确实放缓了\n🙃",
+    "quoted_tweet": {
+      "author": "Da7em",
+      "username": "Da7_Tech",
+      "text": "A big Chinese lab reached out to me asking for help distilling Fable into their model. I said no.\n\nI told them to use the millions of books that have no copyright instead. Offered to help pick them and to help train the model a different way. They only wanted distillation, which tells you a lot about the mindset there.\n\nI've worked deep in this field and distillation is real. I wasn't convinced at one point. What I saw changed my mind completely.\n\nI'm the biggest supporter of open source. I'm for releasing weights and for the freedom to research and build, because humanity only grows when knowledge gets shared. But let's be logical.\n\nNobody will convince me that labs shipping a model every month or less, each one a big leap, now can't ship a better one after three months.\n\nKimi K3.1 Pro isn't a big leap over Kimi K3 and it's been about 100 days.\n\nDeepSeek still can't put out a respectable Pro model.\n\nZai used to release their strongest model in under two months. It's been three with nothing.\n\nAll I hear about Qwen 4 Max is that it's a letdown.\n\nKimi K3.1 Pro and DeepSeek Flash both show traces of Astra distillation. The leak showed Moonshot used it, and so did DeepSeek.\n\nIf this isn't the effect of Anthropic blocking distillation then what is it?\n\nChinese labs need to get serious about using the talented researchers they have and give their models an identity. Right now their models at their best are a cheaper alternative. I want them out of that box. I want to see what makes them different.\n\nAnthropic has crossed lines too, no argument there. They destroyed millions of books, human knowledge that was in people's hands, and kept it for themselves. I'll never forgive them for that.\n\nBut Chinese labs rely on distillation more than they rely on better data.\n\nI didn't work with them. Transparency and honesty matter to me, like you've known since I started here."
+    },
+    "url": "https://x.com/xiaohu/status/2120741262710149129",
+    "time": "Thu Nov 12 04:51:33 +0000 2026",
+    "created_at": "Thu Nov 12 04:51:33 +0000 2026",
+    "id_str": "2120741262710149129",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "豆包工作开放了第三方模型，可以接入其他开源模型来进行不同级别的任务\n\n新增 Kimi K3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等多款第三方模型\n\n看标注比官方便宜很多…\n\n同时豆包工作已针对豆包 2.1 Lite 和 DeepSeek V4.1 Flash 推出限时优惠，下调这两款模型的额度消耗倍率，同等任务消耗更少、额度更耐用。\n\n从聊天对话到 Agent，模型的角色在变，Codex 也支持搭配任何开源模型\n\n进入 Agent 时代，专业工作场景里的任务复杂多样，任务类型增多、链路变长，叠加模型迭代快、单一模型每种复杂任务上对表现也不一样，有的对不同模型产出的结果喜好可能也不同，现在可选择自由度更高了！\n\n豆包工作还对每种模型都标注了对应基准消耗的费用倍率，实测消耗比官方的确实低很多…",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120758199339073727",
+    "time": "Thu Nov 12 05:58:51 +0000 2026",
+    "created_at": "Thu Nov 12 05:58:51 +0000 2026",
+    "id_str": "2120758199339073727",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "logo好像也换了？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120758201943724408",
+    "time": "Thu Nov 12 05:58:51 +0000 2026",
+    "created_at": "Thu Nov 12 05:58:51 +0000 2026",
+    "id_str": "2120758201943724408",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "发现一个好东西\n360度无死角\n全功能活人感的 Personal Agent\n\n虽然目前来看还是不够完美，但是这个应该是正确的方向\n\n我一直说要把 AI 当一个具体的人而不是一个工具来用，但现在所有单一的 Personal Agent 工具都没有那种指哪打哪的感觉...\n\n这玩意使用起来真的就像站在你的员工后面，一边口喷一边指指点点\n\n它就在那哼哧哼哧一通忙活，一边干活一边还能实时对话，需要其他员工配合的，他直接安排..\n\n你也可以不在电脑前面，连上手机，照样干活，如果你没在用手机，任务完成了还会主动打电话给你。\n\n这种拟人感我觉得是目前其他产品没有的，唯一让我有点感觉的是muse...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120791327902445893",
+    "time": "Thu Nov 12 08:10:29 +0000 2026",
+    "created_at": "Thu Nov 12 08:10:29 +0000 2026",
+    "id_str": "2120791327902445893",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "官方模型+自定义模型+本地模型\n\n如果你不想折腾，就买官方的套餐，用官方模型，如果你订阅了模型套餐，都可以用，还可以部署本地模型\n\n非常开放，没有强制要求使用官方的套餐，免费版也可以使用所有的功能，你可以用上所有你已有的资源\n\n在EnConvo打造你自己24小时在线的Personal Agent",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120791346529403237",
+    "time": "Thu Nov 12 08:10:34 +0000 2026",
+    "created_at": "Thu Nov 12 08:10:34 +0000 2026",
+    "id_str": "2120791346529403237",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "官方账号： @enconvo_ai 老板：@kane_convo\n\n在线体验：https://www.enconvo.com/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2120791349620547780",
+    "time": "Thu Nov 12 08:10:34 +0000 2026",
+    "created_at": "Thu Nov 12 08:10:34 +0000 2026",
+    "id_str": "2120791349620547780",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A friend of mine is looking for a studio or team with experience doing Rick & Morty Style animation to help create a pilot and, if greenlit, a full season. If that's you, hit me up and I will connect you. This is a paid gig.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ABAOProductions/status/2120610432998048090",
+    "time": "2026-11-12 04:11",
+    "created_at": "Wed Nov 11 20:11:40 +0000 2026",
+    "id_str": "2120610432998048090",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "My 54 years on X and I'm just discovering you can actually type literally anything and get millions of views. 😮",
+    "quoted_tweet": null,
+    "url": "https://x.com/ProperPrompter/status/2120620037329519032",
+    "time": "2026-11-12 04:49",
+    "created_at": "Wed Nov 11 20:49:50 +0000 2026",
+    "id_str": "2120620037329519032",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "数ヶ月後にはまたこれが来るのだろう。特に日本海側の雪☃️",
+    "quoted_tweet": null,
+    "url": "https://x.com/cram_box/status/2120625477614506407",
+    "time": "2026-11-12 05:11",
+    "created_at": "Wed Nov 11 21:11:27 +0000 2026",
+    "id_str": "2120625477614506407",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ProperPrompter Yes 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120655929112760366",
+    "time": "2026-11-12 07:12",
+    "created_at": "Wed Nov 11 23:12:28 +0000 2026",
+    "id_str": "2120655929112760366",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Support AI creators",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120656066614599992",
+    "time": "2026-11-12 07:13",
+    "created_at": "Wed Nov 11 23:13:00 +0000 2026",
+    "id_str": "2120656066614599992",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2120656503044477385",
+    "time": "2026-11-12 07:14",
+    "created_at": "Wed Nov 11 23:14:44 +0000 2026",
+    "id_str": "2120656503044477385",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife hi from miami",
+    "quoted_tweet": null,
+    "url": "https://x.com/iamneubert/status/2120656503208321046",
+    "time": "2026-11-12 07:14",
+    "created_at": "Wed Nov 11 23:14:44 +0000 2026",
+    "id_str": "2120656503208321046",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@iamneubert Enjoy!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120656596371910889",
+    "time": "2026-11-12 07:15",
+    "created_at": "Wed Nov 11 23:15:07 +0000 2026",
+    "id_str": "2120656596371910889",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard Very nice, Glenn!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120656654748246116",
+    "time": "2026-11-12 07:15",
+    "created_at": "Wed Nov 11 23:15:21 +0000 2026",
+    "id_str": "2120656654748246116",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Yeah and you are a beacon to us all.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rufuszone/status/2120657048597582011",
+    "time": "2026-11-12 07:16",
+    "created_at": "Wed Nov 11 23:16:54 +0000 2026",
+    "id_str": "2120657048597582011",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Rufuszone Big hug",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120657197415690261",
+    "time": "2026-11-12 07:17",
+    "created_at": "Wed Nov 11 23:17:30 +0000 2026",
+    "id_str": "2120657197415690261",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 💯😃",
+    "quoted_tweet": null,
+    "url": "https://x.com/999PureBS/status/2120658992837902479",
+    "time": "2026-11-12 07:24",
+    "created_at": "Wed Nov 11 23:24:38 +0000 2026",
+    "id_str": "2120658992837902479",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@999PureBS This is really great!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120659807480803831",
+    "time": "2026-11-12 07:27",
+    "created_at": "Wed Nov 11 23:27:52 +0000 2026",
+    "id_str": "2120659807480803831",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "About to shoot a pretty big shot, I'd appreciate all the good vibes I can possibly get.\n\nhttps://glennwilliams.net/portfolio",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2120660877540241821",
+    "time": "2026-11-12 07:32",
+    "created_at": "Wed Nov 11 23:32:07 +0000 2026",
+    "id_str": "2120660877540241821",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard Best of luck",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120694967815282767",
+    "time": "Thu Nov 12 01:47:35 +0000 2026",
+    "created_at": "Thu Nov 12 01:47:35 +0000 2026",
+    "id_str": "2120694967815282767",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I’m happy to support creators who show how they actually use the tools, not just talk about them.",
+    "quoted_tweet": null,
+    "url": "https://x.com/wattTheHell6/status/2120722605275595115",
+    "time": "Thu Nov 12 03:37:24 +0000 2026",
+    "created_at": "Thu Nov 12 03:37:24 +0000 2026",
+    "id_str": "2120722605275595115",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wattTheHell6 Agreed \nMaking tutorials is something more creators shall do",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120723617017131370",
+    "time": "Thu Nov 12 03:41:26 +0000 2026",
+    "created_at": "Thu Nov 12 03:41:26 +0000 2026",
+    "id_str": "2120723617017131370",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AI_n_Other_Art @icreatelife That’s awesome. I love and use AI, but this is actually a traditional animation job.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ABAOProductions/status/2120734270264050069",
+    "time": "Thu Nov 12 04:23:46 +0000 2026",
+    "created_at": "Thu Nov 12 04:23:46 +0000 2026",
+    "id_str": "2120734270264050069",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ABAOProductions @AI_n_Other_Art I see! I’ll keep in mind",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2120742062786326882",
+    "time": "Thu Nov 12 04:54:43 +0000 2026",
+    "created_at": "Thu Nov 12 04:54:43 +0000 2026",
+    "id_str": "2120742062786326882",
+    "is_retweet": false
   }
 ]
