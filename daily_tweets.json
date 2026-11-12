@@ -776,5 +776,276 @@
     "created_at": "Thu Nov 12 04:54:43 +0000 2026",
     "id_str": "2120742062786326882",
     "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 这家公司分别是干啥的？他们都是相同业务领域的公司吗？业务上有相互竞争吗？\n\nMercor、HumanLayer、Unipat",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2120818952037355617",
+    "time": "Thu Nov 12 10:00:15 +0000 2026",
+    "created_at": "Thu Nov 12 10:00:15 +0000 2026",
+    "id_str": "2120818952037355617",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 对比一下下面这些，分别用来干啥的，分别适合什么场景，解决什么问题？",
+    "quoted_tweet": {
+      "author": "Naoki@Radxa",
+      "username": "RadxaNaoki",
+      "text": "今週末10/17(土)に開催のOpen Source Conference 2026 Tokyo/Fallで展示予定のデバイスが届きました！\nLinkr https://radxa.com/products/linkr/linkr\nAICore AX-M1 https://radxa.com/products/aicore/ax-m1\nDragon Q8B https://radxa.com/products/dragon/q8b/\nDragon Q6A https://radxa.com/products/dragon/q6a/\n\nhttps://event.ospn.jp/osc2026-fall/\n\n #osc26tk #Radxa"
+    },
+    "url": "https://x.com/seclink/status/2120821018210267417",
+    "time": "Thu Nov 12 10:08:28 +0000 2026",
+    "created_at": "Thu Nov 12 10:08:28 +0000 2026",
+    "id_str": "2120821018210267417",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这四款定位互补：\n\nLinkr：迷你IP-KVM（HDMI+USB），浏览器远程控任意设备，支持BIOS/预OS、AI agent。适合无头调试、远程运维、硬件自动化。解决无物理键鼠屏问题。\n\nAICore AX-M1：M.2 AI加速卡（24TOPS NPU），插兼容主板做边缘推理（LLM/视觉等）。适合给现有SBC加本地AI算力，低功耗高效率。\n\nDragon Q8B：旗舰主板（骁龙8cx Gen3，29+TOPS），双2.5G、三4K120。适合高性能边缘AI、机器人、智能网关/服务器。\n\nDragon Q6A：高效SBC（QCS6490，12TOPS），低功耗WiFi6。适合工业IoT、智能终端、中等边缘AI场景。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2120821175316017523",
+    "time": "Thu Nov 12 10:09:05 +0000 2026",
+    "created_at": "Thu Nov 12 10:09:05 +0000 2026",
+    "id_str": "2120821175316017523",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 这个数据下载地址是哪里，给我具体的下载地址。",
+    "quoted_tweet": {
+      "author": "Grounded Superintelligence",
+      "username": "GroundedSI",
+      "text": "Introducing RoboCap-10k. 10,000 hours of open egocentric data with metric hand / head pose on every frame.\n\nCaptured on RoboCap across 11 countries and 21 industries.\n\nGroundedAPI produces 3D enrichment giving robot policies high-fidelity action grounding.\n\nwith @BitRobotNetwork @huggingface @rerundotio ↓"
+    },
+    "url": "https://x.com/seclink/status/2120821724967223597",
+    "time": "Thu Nov 12 10:11:16 +0000 2026",
+    "created_at": "Thu Nov 12 10:11:16 +0000 2026",
+    "id_str": "2120821724967223597",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "这篇文章使用什么数据集，解决什么问题。",
+    "quoted_tweet": {
+      "author": "Jeffrey Wang",
+      "username": "jeffreygwang",
+      "text": "(1/10) Today, we’re sharing new research from @OpenAI: How does CoT monitorability (no-CoT capability and CoT controllability) evolve over the model training lifecycle? \n\nWe emerged with unsurprising but sobering findings: as we scale toward more intelligent systems, models are becoming harder to monitor through their CoT. 🧵"
+    },
+    "url": "https://x.com/seclink/status/2120823903211929722",
+    "time": "Thu Nov 12 10:19:56 +0000 2026",
+    "created_at": "Thu Nov 12 10:19:56 +0000 2026",
+    "id_str": "2120823903211929722",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "说中文，这个表达的主要意思是什么",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2120825514747474176",
+    "time": "Thu Nov 12 10:26:20 +0000 2026",
+    "created_at": "Thu Nov 12 10:26:20 +0000 2026",
+    "id_str": "2120825514747474176",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@seclink 我调模型时也没看数据集",
+    "quoted_tweet": null,
+    "url": "https://x.com/stevencheng/status/2120828316555039033",
+    "time": "Thu Nov 12 10:37:28 +0000 2026",
+    "created_at": "Thu Nov 12 10:37:28 +0000 2026",
+    "id_str": "2120828316555039033",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@stevencheng 有不一样的数据集才能做创新...\n不然很难找到最新的洞察",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2120830447018254549",
+    "time": "Thu Nov 12 10:45:56 +0000 2026",
+    "created_at": "Thu Nov 12 10:45:56 +0000 2026",
+    "id_str": "2120830447018254549",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 有哪些我值得关注的 edge ai 的 机器 ？我这边已经知道的关键词为 n100 、 nas 、 jetson xavier 、jetson orin 、 rk3588 ，还有其他的吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2120834862471143762",
+    "time": "Thu Nov 12 11:03:29 +0000 2026",
+    "created_at": "Thu Nov 12 11:03:29 +0000 2026",
+    "id_str": "2120834862471143762",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "除了你提的 N100、NAS、Jetson Xavier/Orin、RK3588，目前值得关注的还有：\n\nJetson Orin Nano/NX、AGX Orin（CUDA生态最强，适合复杂模型和机器人）\nHailo-8/8L（高效视觉加速，常配树莓派5或M.2）\nRaspberry Pi 5 + AI HAT\nQualcomm QCS8550等\nIntel Core Ultra（自带NPU）\nGoogle Coral（低功耗轻量）\n国产可看昇腾Atlas、RK3576\n\n按场景选：重算力/CUDA选Jetson，成本/功耗优先选RK或Hailo。",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2120834957924815080",
+    "time": "Thu Nov 12 11:03:51 +0000 2026",
+    "created_at": "Thu Nov 12 11:03:51 +0000 2026",
+    "id_str": "2120834957924815080",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 说中文，这个表达的主要意思是什么",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2120834963251908916",
+    "time": "Thu Nov 12 11:03:53 +0000 2026",
+    "created_at": "Thu Nov 12 11:03:53 +0000 2026",
+    "id_str": "2120834963251908916",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok Hailo 的什么型号值得购买和跟踪",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2120835182391620082",
+    "time": "Thu Nov 12 11:04:45 +0000 2026",
+    "created_at": "Thu Nov 12 11:04:45 +0000 2026",
+    "id_str": "2120835182391620082",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "8 years in. Good to see it 🔻",
+    "quoted_tweet": {
+      "author": "TRON DAO",
+      "username": "trondao",
+      "text": "https://x.com/i/article/2120230556927660032"
+    },
+    "url": "https://x.com/justinsuntron/status/2120740445961822536",
+    "time": "Thu Nov 12 04:48:18 +0000 2026",
+    "created_at": "Thu Nov 12 04:48:18 +0000 2026",
+    "id_str": "2120740445961822536",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Tron is leading",
+    "quoted_tweet": {
+      "author": "Kaisen",
+      "username": "Kaisenview",
+      "text": "TRON is quietly absorbing stablecoin liquidity while Ethereum loses over $30 BILLION! \n\nAccording to Token Terminal, the past 12 months (Nov 8, 2025 - Nov 8, 2026) reveal a pretty interesting shift:\n\n🔴 TRON: +$16.1B, the biggest gain among 45 tracked blockchains.\n\n🔅HyperEVM: +$6.3B\n🔅Arc: +$1.3B\n🔅Arbitrum: -$4.3B\n🔅Ethereum: -$30.6B\n\nHere's what caught my attention.\n\nWhile everyone is busy chasing L2s, AI narratives, and the next high-TPS blockchain, TRON keeps focusing on something much simpler: stablecoins and everyday payments.\n\nOf course, this doesn't mean $30.6B moved directly from Ethereum to TRON. But the bigger picture is hard to ignore. TRON is strengthening its position as one of crypto's key stablecoin settlement networks.\n\nSometimes the biggest winner isn't the loudest blockchain. It's the one people actually use to move money.\n@justinsuntron"
+    },
+    "url": "https://x.com/justinsuntron/status/2120744870507839665",
+    "time": "Thu Nov 12 05:05:53 +0000 2026",
+    "created_at": "Thu Nov 12 05:05:53 +0000 2026",
+    "id_str": "2120744870507839665",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "TRX USDC futures on @binance",
+    "quoted_tweet": {
+      "author": "Kaisen",
+      "username": "Kaisenview",
+      "text": "$TRX just got another Futures listing on Binance! \n\nBinance Futures is launching the TRXUSDC Perpetual Contract, giving TRON traders more ways to trade.\n\n🔸 Trading starts November 11 at 09:35 UTC.\n🔸 Up to 75x leverage.\n🔸 USDC margined, available 24/7.\n🔸 Funding fees settled every 8 hours.\n\nTRON is already a major player in stablecoin transfers, and this new Futures pair adds another trading option for $TRX.\n\nFrom stablecoin infrastructure to derivatives, TRON continues to expand its footprint across crypto.\n\nCould this bring fresh momentum to $TRX? \n@justinsuntron"
+    },
+    "url": "https://x.com/justinsuntron/status/2120745058853154974",
+    "time": "Thu Nov 12 05:06:38 +0000 2026",
+    "created_at": "Thu Nov 12 05:06:38 +0000 2026",
+    "id_str": "2120745058853154974",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "CoinDesk最新的报告 \nHTX的现货份额稳居华语前五\n\n有人说孙哥和HTX不行了\n我看这还是挺稳的 甚至还有进取之势\n说不定哪天不声不响又往前挪一名\n\n@justinsuntron @HTX_Molly #TRONEcoStar",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xMoon/status/2120752943096098853",
+    "time": "Thu Nov 12 05:37:57 +0000 2026",
+    "created_at": "Thu Nov 12 05:37:57 +0000 2026",
+    "id_str": "2120752943096098853",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Right proof. Right statement. Both matter.",
+    "quoted_tweet": {
+      "author": "The Justin Sun Prize",
+      "username": "JustinSunPrize",
+      "text": "A Lean build can succeed and still prove the wrong statement.\n\nIn #JustinSunPrize review, statement fidelity and axiom use are checked separately from compilation. A passing kernel check is evidence, not an award.\n\nFAQ 👇\nhttps://www.hejustinsun.com/prize/faq"
+    },
+    "url": "https://x.com/justinsuntron/status/2120771071800430608",
+    "time": "Thu Nov 12 06:50:00 +0000 2026",
+    "created_at": "Thu Nov 12 06:50:00 +0000 2026",
+    "id_str": "2120771071800430608",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "火币HTX将在11月10日上线 $INTC、 $AMD 及 $GOOGL\n\n✅充币业务已开启\n\n⏰ INTC 币币交易：11月12日17:00 PM (UTC+8)\n⏰ AMD 币币交易：11月12日17:30 PM (UTC+8)\n⏰ GOOGL 币币交易：11月12日18:00 PM (UTC+8)",
+    "quoted_tweet": null,
+    "url": "https://x.com/HuobiGlobal/status/2120788701131235520",
+    "time": "Thu Nov 12 08:00:03 +0000 2026",
+    "created_at": "Thu Nov 12 08:00:03 +0000 2026",
+    "id_str": "2120788701131235520",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "稳步发展",
+    "quoted_tweet": {
+      "author": "0xMoon",
+      "username": "0xMoon",
+      "text": "CoinDesk最新的报告 \nHTX的现货份额稳居华语前五\n\n有人说孙哥和HTX不行了\n我看这还是挺稳的 甚至还有进取之势\n说不定哪天不声不响又往前挪一名\n\n@justinsuntron @HTX_Molly #TRONEcoStar"
+    },
+    "url": "https://x.com/justinsuntron/status/2120828701390852552",
+    "time": "Thu Nov 12 10:39:00 +0000 2026",
+    "created_at": "Thu Nov 12 10:39:00 +0000 2026",
+    "id_str": "2120828701390852552",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Protect users. Fight crime. 🛡️\n\nMillions rely on USDT on #TRON. With @tether and @chainalysis, the Digital Crime Task Force (DCTF) is here to identify and disrupt illicit activity.",
+    "quoted_tweet": {
+      "author": "Digital Crime Task Force",
+      "username": "DigitalCrimeTF",
+      "text": ".@Trondao, @Tether and @Chainalysis today announced the founding of the Digital Crime Task Force (DCTF), a new initiative designed to proactively identify and disrupt illicit activity involving Tether’s USD₮ stablecoin on the TRON blockchain.\n\nDCTF brings together three industry leaders — a blockchain network, a stablecoin issuer and a blockchain intelligence company — in a next-level collaboration built around proactive defense.\n\nRead more on @Trondao 👇\nhttps://trondao.org/announcements/tron-tether-and-chainalysis-launch-digital-crime-task-force-to-proactively-identify-and-disrupt-financial-crime"
+    },
+    "url": "https://x.com/justinsuntron/status/2120847020546277758",
+    "time": "Thu Nov 12 11:51:47 +0000 2026",
+    "created_at": "Thu Nov 12 11:51:47 +0000 2026",
+    "id_str": "2120847020546277758",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Tracing and targeting criminal proceeds is one of the most effective ways to deter crime. \n\nAs a proud member of @DigitalCrimeTF, TRON is committed to helping defenders connect related activity, identify criminal networks and disrupt the financial incentives behind crime.",
+    "quoted_tweet": {
+      "author": "Digital Crime Task Force",
+      "username": "DigitalCrimeTF",
+      "text": ".@Trondao, @Tether and @Chainalysis today announced the founding of the Digital Crime Task Force (DCTF), a new initiative designed to proactively identify and disrupt illicit activity involving Tether’s USD₮ stablecoin on the TRON blockchain.\n\nDCTF brings together three industry leaders — a blockchain network, a stablecoin issuer and a blockchain intelligence company — in a next-level collaboration built around proactive defense.\n\nRead more on @Trondao 👇\nhttps://trondao.org/announcements/tron-tether-and-chainalysis-launch-digital-crime-task-force-to-proactively-identify-and-disrupt-financial-crime"
+    },
+    "url": "https://x.com/trondao/status/2120848387386097898",
+    "time": "Thu Nov 12 11:57:13 +0000 2026",
+    "created_at": "Thu Nov 12 11:57:13 +0000 2026",
+    "id_str": "2120848387386097898",
+    "is_retweet": true
   }
 ]
