@@ -1,1 +1,599 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@Fatalmeh if you think thats a death threat wait until one of us shows up at your house ^_^",
+    "quoted_tweet": null,
+    "url": "https://x.com/misparkl3/status/2120812974499897743",
+    "time": "Thu Nov 12 09:36:30 +0000 2026",
+    "created_at": "Thu Nov 12 09:36:30 +0000 2026",
+    "id_str": "2120812974499897743",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@misparkl3 @Fatalmeh ok please don't do this\n\ncontra those losers who tried to go after aya in early 2025, bullying is not actually good, and it doesn't become good if your team is the one doing it",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2120818197926707210",
+    "time": "Thu Nov 12 09:57:15 +0000 2026",
+    "created_at": "Thu Nov 12 09:57:15 +0000 2026",
+    "id_str": "2120818197926707210",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@misparkl3 @Fatalmeh ok please don't do this\n\ncontra those losers who tried to go after aya in early 2025, bullying is not actually good, and it doesn't become good if your team is the one doing it",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2120818197926707210",
+    "time": "Thu Nov 12 09:57:15 +0000 2026",
+    "created_at": "Thu Nov 12 09:57:15 +0000 2026",
+    "id_str": "2120818197926707210",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "“We’re always going to have AI before AV” \n@drfeifei , 2026\n\nTechnical issues aside, that was a really awesome presentation. Can’t wait to see the promised promo video!",
+    "quoted_tweet": null,
+    "url": "https://x.com/stoyanpstoyanov/status/2120658666676506842",
+    "time": "2026-11-12 07:23",
+    "created_at": "Wed Nov 11 23:23:20 +0000 2026",
+    "id_str": "2120658666676506842",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "🤩🤖",
+    "quoted_tweet": {
+      "author": "Lisa Su",
+      "username": "LisaSu",
+      "text": "Great to be at #CoRL2026 in Austin today! Enjoyed the conversation with @drfeifei about the exciting advances in robotics, physical AI, and the opportunities ahead.\n\nThanks to @PeterStone_TX, @yukez, and the @corl_conf team for the invite and the opportunity to connect with so many brilliant students and researchers!"
+    },
+    "url": "https://x.com/drfeifei/status/2120855988840313309",
+    "time": "Thu Nov 12 12:27:25 +0000 2026",
+    "created_at": "Thu Nov 12 12:27:25 +0000 2026",
+    "id_str": "2120855988840313309",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Atlas is now available to everyone!! I’m very excited to see what users can build with our newest world model! 🤩🌎",
+    "quoted_tweet": {
+      "author": "World Labs",
+      "username": "theworldlabs",
+      "text": "We’re opening up access to Atlas to everyone today.\n\nWe’ve built apps and API endpoints to help you use Atlas any way you can imagine: bring your ideas for building a 3D world and come away with keyframes, video clips, or 3D Gaussian splats."
+    },
+    "url": "https://x.com/drfeifei/status/2120942509786558671",
+    "time": "Thu Nov 12 18:11:14 +0000 2026",
+    "created_at": "Thu Nov 12 18:11:14 +0000 2026",
+    "id_str": "2120942509786558671",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "I really think this is the largest step in 3D generation / reconstruction since the beginning of gen AI. So excited to see it out.",
+    "quoted_tweet": {
+      "author": "World Labs",
+      "username": "theworldlabs",
+      "text": "We’re opening up access to Atlas to everyone today.\n\nWe’ve built apps and API endpoints to help you use Atlas any way you can imagine: bring your ideas for building a 3D world and come away with keyframes, video clips, or 3D Gaussian splats."
+    },
+    "url": "https://x.com/martin_casado/status/2120954300855984302",
+    "time": "Thu Nov 12 18:58:05 +0000 2026",
+    "created_at": "Thu Nov 12 18:58:05 +0000 2026",
+    "id_str": "2120954300855984302",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@stoyanpstoyanov Here you go! The video that didn’t play on CoRL stage yesterday is now here! Atlas is now publicly available! https://x.com/drfeifei/status/2120942509786558671?a=5fRotgExey6bsquZYQ8&s=46",
+    "quoted_tweet": {
+      "author": "Fei-Fei Li",
+      "username": "drfeifei",
+      "text": "Atlas is now available to everyone!! I’m very excited to see what users can build with our newest world model! 🤩🌎"
+    },
+    "url": "https://x.com/drfeifei/status/2120955377688698997",
+    "time": "Thu Nov 12 19:02:22 +0000 2026",
+    "created_at": "Thu Nov 12 19:02:22 +0000 2026",
+    "id_str": "2120955377688698997",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "There’s been massive progress in agentic 3D world creation in the past year, but producing polished, high fidelity pixels purely procedurally via code is still orders of magnitude more expensive than generating them directly.\n\nI view these strategies as complementary – in our Atlas release today, both the Chisel web app and Codex/Claude Code integrations are designed for using an agent to build out coarse geometry in 3D and control precise final pixel generation through Atlas model endpoints.\n\nThis demo showcases the Chisel variant of Atlas we finetuned for flexible control, capable of taking in any combination of partial RGB and partial depth frames. We can take masked depth renders of the car model and use text prompting to control both stylistic appearance and what fills in the rest of the scene.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BenMildenhall/status/2120966712342544622",
+    "time": "Thu Nov 12 19:47:24 +0000 2026",
+    "created_at": "Thu Nov 12 19:47:24 +0000 2026",
+    "id_str": "2120966712342544622",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "It is very hard to explain how cool Atlas is\n\nI am trying my hardest",
+    "quoted_tweet": null,
+    "url": "https://x.com/neilsonks/status/2121057211325813126",
+    "time": "2026-11-13 09:47",
+    "created_at": "Fri Nov 13 01:47:01 +0000 2026",
+    "id_str": "2121057211325813126",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Neat expansion on Portals to visualize The Culture (I had one Banks world in the original 466 Portals, but no GSVs etc.)\n\nOriginal version: https://portals-endless-worlds.netlify.app/\nRepo: https://github.com/emollick/ai-portals",
+    "quoted_tweet": {
+      "author": "John Records",
+      "username": "JohnRecords",
+      "text": "Inspired by @emollick’s Portals, I used his repo and Fable to build Portals for Iain M. Banks Culture novels: https://sonic-sphinx-9qsd.here.now #theculture #iainmbanks"
+    },
+    "url": "https://x.com/emollick/status/2120947095280795823",
+    "time": "Thu Nov 12 18:29:27 +0000 2026",
+    "created_at": "Thu Nov 12 18:29:27 +0000 2026",
+    "id_str": "2120947095280795823",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The comments are terrible, do not read them, they will make you mad.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120955139238588585",
+    "time": "Thu Nov 12 19:01:25 +0000 2026",
+    "created_at": "Thu Nov 12 19:01:25 +0000 2026",
+    "id_str": "2120955139238588585",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Leaving aside everything else about this research done by METR at Anthropic, it validates vibe-testing.\n\nIt is my experience with the quality of the past years of Anthropic AI models (& AI consensus on X). Yes, NewSonnet 3.7 was the most obviously above expectation model of 2025.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2120971399271473405",
+    "time": "Thu Nov 12 20:06:01 +0000 2026",
+    "created_at": "Thu Nov 12 20:06:01 +0000 2026",
+    "id_str": "2120971399271473405",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick I think you mean “3.6” I.e 3.5 Sonnet (new). 3.7 was dog shit because it was anthropic’s first reasoner and it reward hacked everything. It was released around the same time as o1 and it was terrible in comparison to o1.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Sergio_AugRS/status/2120987488663880002",
+    "time": "Thu Nov 12 21:09:57 +0000 2026",
+    "created_at": "Thu Nov 12 21:09:57 +0000 2026",
+    "id_str": "2120987488663880002",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "🚨 Our Generative AI Lab is releasing Primer: an agent-driven system where a teacher talks through lessons & gets back a playable simulation for their students, grounded in pedagogy. We hope educators & researchers build on it. Paper/prompts/code are open: https://gail.wharton.upenn.edu/primer/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2121001056637431873",
+    "time": "Thu Nov 12 22:03:52 +0000 2026",
+    "created_at": "Thu Nov 12 22:03:52 +0000 2026",
+    "id_str": "2121001056637431873",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "We believe that AI, when used properly, can have a large positive impact on education, but the major AIs are not built for learning out-of-the-box. We wanted to make sure we gave control to educators so they can make choices. \n\n(Yes, it is named after the Primer from Diamond Age)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2121002669250675075",
+    "time": "Thu Nov 12 22:10:17 +0000 2026",
+    "created_at": "Thu Nov 12 22:10:17 +0000 2026",
+    "id_str": "2121002669250675075",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "With Lilach Mollick Ben Przystanski, LJ Ciccarelli, Natalie Bach, and Laura Zarrow, and with thanks to the Bezos Family Foundation, the Walton Family Foundation & Charles and Lynn Schusterman Family Philanthropies.\n\nPaper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7696720\n\nGithub: https://github.com/wharton-generative-ai-labs/primer",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2121005842044469746",
+    "time": "Thu Nov 12 22:22:53 +0000 2026",
+    "created_at": "Thu Nov 12 22:22:53 +0000 2026",
+    "id_str": "2121005842044469746",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@Sergio_AugRS oooo right - dumb mistake. 3.7 was not great but it was a first reasoner so i guess i see why they had it higher than expected",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2121048747492671842",
+    "time": "2026-11-13 09:13",
+    "created_at": "Fri Nov 13 01:13:23 +0000 2026",
+    "id_str": "2121048747492671842",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "感觉还不如 AI",
+    "quoted_tweet": {
+      "author": "Yasir",
+      "username": "yasirahmadnoori",
+      "text": "Before → After\n\nTurn your AI slop into the best-looking design of all time.\n\nGenerated in Claude. Designed in @figma"
+    },
+    "url": "https://x.com/lyricwai/status/2120708121580773581",
+    "time": "Thu Nov 12 02:39:51 +0000 2026",
+    "created_at": "Thu Nov 12 02:39:51 +0000 2026",
+    "id_str": "2120708121580773581",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "应届生的就业形势真的是肉眼可见的在一年年的恶化\n今年组里在招聘实习生，看我的manager在海量大四学生的简历里面选几个看着顺眼的进面，面完最后就要两三个\n比我bg和经历优秀好多倍的人申请了offer但是只能先来实习，竟然还要我来带他，最后能不能留下竟然还要参考我的看法\n感觉好荒谬啊（）",
+    "quoted_tweet": null,
+    "url": "https://x.com/MinusZeroQwQ/status/2120767806807679433",
+    "time": "Thu Nov 12 06:37:01 +0000 2026",
+    "created_at": "Thu Nov 12 06:37:01 +0000 2026",
+    "id_str": "2120767806807679433",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 这不就是传说的 RSI 吗，模型自己搭建自己的环境。这可比 GLM 那个 RSI 要牛逼多了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/guansi/status/2120816788573487551",
+    "time": "Thu Nov 12 09:51:39 +0000 2026",
+    "created_at": "Thu Nov 12 09:51:39 +0000 2026",
+    "id_str": "2120816788573487551",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@guansi 是啊，这能力其实比各种噱头强多了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120817920439890074",
+    "time": "Thu Nov 12 09:56:09 +0000 2026",
+    "created_at": "Thu Nov 12 09:56:09 +0000 2026",
+    "id_str": "2120817920439890074",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "谷歌的新模型  Gemini 4 Carbon 用着确实还不错啊\n明显比 DeepSeek Flash 要强很多的\n写作方面也更为自然丝滑\n价格方面我以为会跟 Opus 一样贵，但实际只有 Sonnet 的价格",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120834850597011530",
+    "time": "Thu Nov 12 11:03:26 +0000 2026",
+    "created_at": "Thu Nov 12 11:03:26 +0000 2026",
+    "id_str": "2120834850597011530",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 希望谷歌 AI 越来越厉害，这样就多了个选择",
+    "quoted_tweet": null,
+    "url": "https://x.com/mufenglabs/status/2120836402405638326",
+    "time": "Thu Nov 12 11:09:36 +0000 2026",
+    "created_at": "Thu Nov 12 11:09:36 +0000 2026",
+    "id_str": "2120836402405638326",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 你在什么harness下用",
+    "quoted_tweet": null,
+    "url": "https://x.com/junyu/status/2120837227697811635",
+    "time": "Thu Nov 12 11:12:52 +0000 2026",
+    "created_at": "Thu Nov 12 11:12:52 +0000 2026",
+    "id_str": "2120837227697811635",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@junyu Cola",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120837465561092222",
+    "time": "Thu Nov 12 11:13:49 +0000 2026",
+    "created_at": "Thu Nov 12 11:13:49 +0000 2026",
+    "id_str": "2120837465561092222",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge @oran_ge $2 / $10 只是引入价\n\n官方写到 11 月 30 日截止\n之后百万 token 是输入 $4、输出 $20",
+    "quoted_tweet": null,
+    "url": "https://x.com/auuutoo/status/2120845379591971319",
+    "time": "Thu Nov 12 11:45:16 +0000 2026",
+    "created_at": "Thu Nov 12 11:45:16 +0000 2026",
+    "id_str": "2120845379591971319",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@auuutoo 啊 这样",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120846309448101931",
+    "time": "Thu Nov 12 11:48:58 +0000 2026",
+    "created_at": "Thu Nov 12 11:48:58 +0000 2026",
+    "id_str": "2120846309448101931",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@mufenglabs 对 不要一家独大",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120846576696594669",
+    "time": "Thu Nov 12 11:50:01 +0000 2026",
+    "created_at": "Thu Nov 12 11:50:01 +0000 2026",
+    "id_str": "2120846576696594669",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 听说很慢，是吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/forecho/status/2120848619771425275",
+    "time": "Thu Nov 12 11:58:09 +0000 2026",
+    "created_at": "Thu Nov 12 11:58:09 +0000 2026",
+    "id_str": "2120848619771425275",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge o神，cola五折还在吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/McgeeW29509/status/2120849464823050569",
+    "time": "Thu Nov 12 12:01:30 +0000 2026",
+    "created_at": "Thu Nov 12 12:01:30 +0000 2026",
+    "id_str": "2120849464823050569",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@McgeeW29509 今天联系客服可以获得优惠码",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120864102553948611",
+    "time": "Thu Nov 12 12:59:40 +0000 2026",
+    "created_at": "Thu Nov 12 12:59:40 +0000 2026",
+    "id_str": "2120864102553948611",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@forecho 肯定不如 ds flash\n也凑合",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120864178613506391",
+    "time": "Thu Nov 12 12:59:58 +0000 2026",
+    "created_at": "Thu Nov 12 12:59:58 +0000 2026",
+    "id_str": "2120864178613506391",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "fable 5.2 is honestly incredible at simulating entire worlds - it built me ancient Babylon, circa 600 BC, in just 8 hours\n\nIt went off and found historical documents and architectural plans on its own, compared things pixel by pixel, and all that\n\nhard to imagine what a Fable based swarm can create\n\nyou can explore it yourself here:\nhttps://claude.ai/artifact/CTjrZXVdUgKJ6qJXrvvr28",
+    "quoted_tweet": null,
+    "url": "https://x.com/literallydenis/status/2120866958790848953",
+    "time": "Thu Nov 12 13:11:01 +0000 2026",
+    "created_at": "Thu Nov 12 13:11:01 +0000 2026",
+    "id_str": "2120866958790848953",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Fable 5.2 是吞金兽",
+    "quoted_tweet": {
+      "author": "ρ:ɡeon",
+      "username": "pigeon__s",
+      "text": "💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀💀"
+    },
+    "url": "https://x.com/oran_ge/status/2120890184338411977",
+    "time": "Thu Nov 12 14:43:18 +0000 2026",
+    "created_at": "Thu Nov 12 14:43:18 +0000 2026",
+    "id_str": "2120890184338411977",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "每次看到老黄的视频\n都能感受到他身上的活力，激情，满满的能量\n这几十年的创业是非常精彩的\n辞职之后应该会继续新的创业吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2120893177716773053",
+    "time": "Thu Nov 12 14:55:12 +0000 2026",
+    "created_at": "Thu Nov 12 14:55:12 +0000 2026",
+    "id_str": "2120893177716773053",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone!\n\nAvailable to all tiers of Google AI Studio, Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro + Ultra subscribers in Google Antigravity.",
+    "quoted_tweet": null,
+    "url": "https://x.com/OfficialLoganK/status/2120940951292268640",
+    "time": "Thu Nov 12 18:05:02 +0000 2026",
+    "created_at": "Thu Nov 12 18:05:02 +0000 2026",
+    "id_str": "2120940951292268640",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "as just one comparison, Gemini 4 Hydrogen finishes tasks 2.5x faster than 3.8 Flash, while being much smarter, and with 5x less fabrications. \n\nit is a good model : )",
+    "quoted_tweet": null,
+    "url": "https://x.com/OfficialLoganK/status/2120941998014390392",
+    "time": "Thu Nov 12 18:09:12 +0000 2026",
+    "created_at": "Thu Nov 12 18:09:12 +0000 2026",
+    "id_str": "2120941998014390392",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Big update to the X platform today\n\nAfter 10 years of Twitter/X supporting up to 4 Photos and Videos per post, the limit has been increased to 20!\n\nHappy posting",
+    "quoted_tweet": null,
+    "url": "https://x.com/dinkin_flickaa/status/2120946118267732158",
+    "time": "Thu Nov 12 18:25:34 +0000 2026",
+    "created_at": "Thu Nov 12 18:25:34 +0000 2026",
+    "id_str": "2120946118267732158",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 直接官方studio 调用 API么？",
+    "quoted_tweet": null,
+    "url": "https://x.com/songofhawk/status/2121006292802363483",
+    "time": "Thu Nov 12 22:24:41 +0000 2026",
+    "created_at": "Thu Nov 12 22:24:41 +0000 2026",
+    "id_str": "2121006292802363483",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@OfficialLoganK better if the price the same",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121016487356018938",
+    "time": "Thu Nov 12 23:05:11 +0000 2026",
+    "created_at": "Thu Nov 12 23:05:11 +0000 2026",
+    "id_str": "2121016487356018938",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@songofhawk 在我们的产品 Cola 里用的\n直接调用 API 也可以的",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121017079692431835",
+    "time": "Thu Nov 12 23:07:33 +0000 2026",
+    "created_at": "Thu Nov 12 23:07:33 +0000 2026",
+    "id_str": "2121017079692431835",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@dinkin_flickaa awesome ！",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121017674994184627",
+    "time": "Thu Nov 12 23:09:54 +0000 2026",
+    "created_at": "Thu Nov 12 23:09:54 +0000 2026",
+    "id_str": "2121017674994184627",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@lyricwai 更乱了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121020187080306762",
+    "time": "Thu Nov 12 23:19:53 +0000 2026",
+    "created_at": "Thu Nov 12 23:19:53 +0000 2026",
+    "id_str": "2121020187080306762",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@MinusZeroQwQ timing is everyting",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121020531483038192",
+    "time": "Thu Nov 12 23:21:16 +0000 2026",
+    "created_at": "Thu Nov 12 23:21:16 +0000 2026",
+    "id_str": "2121020531483038192",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@literallydenis crazy",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121020981611561394",
+    "time": "Thu Nov 12 23:23:03 +0000 2026",
+    "created_at": "Thu Nov 12 23:23:03 +0000 2026",
+    "id_str": "2121020981611561394",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Gemini 4 的 Flash 档位模型终于出来了\n它的速度是 3.8 Flash 的 2.5 倍，价格是 2 倍。\n有点可惜，如果价格一样或更低就好了。\nGemini 是没有蒸馏的，所以模型的风格比较独特。\n还是很期待 Google 和 OpenAI 追上 A 社的。",
+    "quoted_tweet": {
+      "author": "Logan Kilpatrick",
+      "username": "OfficialLoganK",
+      "text": "Introducing Gemini 4 Hydrogen, an extremely capable and fast model built to bring Gemini 4 to everyone!\n\nAvailable to all tiers of Google AI Studio, Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro + Ultra subscribers in Google Antigravity."
+    },
+    "url": "https://x.com/oran_ge/status/2121021950348918959",
+    "time": "Thu Nov 12 23:26:54 +0000 2026",
+    "created_at": "Thu Nov 12 23:26:54 +0000 2026",
+    "id_str": "2121021950348918959",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "想起年初拿到了 NVDIA 中国创业加速器的第一名\n一些奇妙的缘分",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121050269526159403",
+    "time": "2026-11-13 09:19",
+    "created_at": "Fri Nov 13 01:19:26 +0000 2026",
+    "id_str": "2121050269526159403",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+    "quoted_tweet": {
+      "author": "ChatGPT",
+      "username": "ChatGPT",
+      "text": "Your dot now has…\n\n⚡️ Faster replies\n💬 Less jargon\n🫡 Better follow-through\n\nAnd, they can now follow your custom instructions. Tell your dot in the thread things like how to behave or which actions need your go-ahead.\n\n“always talk in lowercase.”\n“Show me a draft before sending any emails.”\n\nYou can also set custom instructions and rules in Customize > Behavior on mobile, or through your dot’s menu on web and desktop."
+    },
+    "url": "https://x.com/thsottiaux/status/2120999993079451919",
+    "time": "Thu Nov 12 21:59:39 +0000 2026",
+    "created_at": "Thu Nov 12 21:59:39 +0000 2026",
+    "id_str": "2120999993079451919",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://openai.com/cyber-at-the-frontier/",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2121036562058400200",
+    "time": "2026-11-13 08:24",
+    "created_at": "Fri Nov 13 00:24:58 +0000 2026",
+    "id_str": "2121036562058400200",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "How can codex be improved? Try not to say model.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2121062974161092792",
+    "time": "2026-11-13 10:09",
+    "created_at": "Fri Nov 13 02:09:55 +0000 2026",
+    "id_str": "2121062974161092792",
+    "is_retweet": false
+  }
+]
