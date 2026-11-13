@@ -595,5 +595,522 @@
     "created_at": "Fri Nov 13 02:09:55 +0000 2026",
     "id_str": "2121062974161092792",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Claude 能进 Google Meet 开会了：边开会边写文档、画白板，Team 和 Enterprise 测试期内会议纪要不另收费\n\nAnthropic 推出 Claude Meetings 测试版：把 Claude 拉进团队的视频会议，它以参会者身份出现在画面里，一边听大家讨论，一边写会议纪要、回答问题，还能当场起草文档、画白板，同事可以跟着一起改。\n\n目前只支持 Google Meet，其他会议平台官方说“即将支持”。正在向 Claude 的 Team 和 Enterprise 套餐逐步开放，个人的 Pro、Max、Ultra 用户暂时用不了。\n\n【开会时它能干什么】\n\n官方举的例子是策划一场客户活动。有人说一句“Claude，给这个计划起个文档”，Claude 就把前面讨论的内容整理成文档，受邀的同事可以边开会边改。\n\n聊到预算时，有人问“去年这个活动花了多少”，Claude 征得同意后去公司系统里查，把结果贴在会议聊天区，再和今年的方案对比。聊到排期，又有人让它画到白板上。\n\n提问可以开口说“Claude”加问题，也可以在 Meet 聊天框里打字。它默认用文字回答，答案贴在会议聊天区，所有参会者都看得到。\n\n会议结束后，纪要（摘要加待办事项）、完整转录稿，以及会上做的文档、白板，都放在 http://claude.ai 里这场会议的专属页面上，参会的本公司同事会收到一封带链接的回顾邮件。之后还能在普通对话里问 Claude 过去某场会说了什么。\n\nGoogle 自己的 Meet 里已经有 Gemini：“帮我记笔记”能自动出纪要，“问 Gemini”能让迟到的人补上前面错过的内容，Business Standard 及以上的 Workspace 套餐可用。\n\nZoom 付费套餐自带会议摘要，另卖一个叫 ZoomMate 的附加产品，能根据会议内容生成文档、幻灯片、安排后续会议。Otter 的会议助手也能语音唤醒、回答问题、起草邮件。\n\n微软 Teams 的 Facilitator 助手能在会上用网络搜索回答没人接的问题，但要有 Microsoft 365 Copilot（Premium）许可证的人手动开启，这个功能今天又被推迟到 2027 年 2 月。\n\nClaude 的区别在两点：\n一是文档和白板在会议进行中就出现，大家看着它成形、当场纠正，不用等会后；\n二是它能动用你在 Claude 里已经连好的工具，比如查数据、发 Slack 消息。\n\n另外 Anthropic 说正在和 Gong、Granola、http://Fireflies.ai、Otter 等纪要工具合作，之后可以把转录稿直接发到团队原来用的纪要工具里。\n\n【要不要额外付钱】\n\n测试期内，纪要、转录稿和会上的普通问答都包含在 Team 和 Enterprise 套餐里，不另收费。会上做的文档、白板等产物，免费到 2027 年 2 月 10 日。\n\n例外是 Claude 在会上动用你连接的工具（比如去查公司数据），这部分会算进你自己的用量，可能产生费用。\n\n怎么用：在 Claude 里打开“Meetings”页面，连上 Google 日历，选一场会点“Add Claude”。也可以在设置里打开“自动加入”，让它参加你所有的会，或者除一对一以外的所有会。自动加入只能自己开，管理员替你开不了。Claude 单场最多待 8 小时，可以让它暂停监听或离开。\n\n【隐私：会不会录音，客户在场怎么办】\n\nClaude 进会时会作为一个参会者出现，并在会议聊天区发一条提示。它保存转录稿、摘要和屏幕内容的文字描述，不保存音频。官方提醒，添加 Claude 或打开自动加入前，先确认所有参会者同意被转录。\n\n有外部人员的会，管理员可以设成 Claude 不进；会开到一半有外部的人进来（包括别家公司的纪要机器人），它会自动离开。如果允许它参加这类会，Claude 只听和记，不在聊天区回答问题，外部嘉宾说的话会写进纪要和转录稿，但嘉宾看不到会议页面，也收不到回顾邮件。\n\n用别人的工具要经过本人同意。每个人第一次被调用时 Claude 会问一次，同意后以后不再问。口头提问时，Claude 目前每次都会确认说话的是谁。\n\n管理员开关在“组织设置 > 产品 > Claude Meetings（测试版）”：Team 套餐默认开启，所有者可以关掉；Enterprise 默认关闭，要所有者给全公司或部分角色开。开了零数据留存（ZDR）、HIPAA 合规配置或客户自管加密密钥（CMEK）的组织，测试期内用不了。\n\n有一处官方说法不一致：Anthropic 的发布文章说 Claude 默认不进有外部人员的会，帮助中心的管理员设置表却写着 Team 套餐默认“允许”、Enterprise 默认“仅限内部会议”。Team 管理员如果在意客户会议被转录，最好自己去设置里确认一下。\n\n原文：https://claude.com/resources/articles/claude-meetings\n帮助中心：https://support.claude.com/en/articles/18325154\n官方推文：https://x.com/claudeai/status/2120973994191094179",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "Introducing Claude Meetings: add Claude to your team’s video call and it builds docs, whiteboards, and other artifacts with you while you’re still talking.\n\nStarting to roll out in beta on Team and Enterprise plans."
+    },
+    "url": "https://x.com/dotey/status/2120979951599931793",
+    "time": "Thu Nov 12 20:40:01 +0000 2026",
+    "created_at": "Thu Nov 12 20:40:01 +0000 2026",
+    "id_str": "2120979951599931793",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Tibo 送了一张重置卡👍",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!"
+    },
+    "url": "https://x.com/dotey/status/2121021611956421054",
+    "time": "Thu Nov 12 23:25:33 +0000 2026",
+    "created_at": "Thu Nov 12 23:25:33 +0000 2026",
+    "id_str": "2121021611956421054",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "感觉 X 只要学习微博就能加很多功能，比如上传多一点照片视频",
+    "quoted_tweet": {
+      "author": "Jonah Katz",
+      "username": "dinkin_flickaa",
+      "text": "Big update to the X platform today\n\nAfter 10 years of Twitter/X supporting up to 4 Photos and Videos per post, the limit has been increased to 20!\n\nHappy posting"
+    },
+    "url": "https://x.com/dotey/status/2121022735237407157",
+    "time": "Thu Nov 12 23:30:01 +0000 2026",
+    "created_at": "Thu Nov 12 23:30:01 +0000 2026",
+    "id_str": "2121022735237407157",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "仁勋黄黄",
+    "quoted_tweet": null,
+    "url": "https://x.com/monday_chen/status/2121026839674069380",
+    "time": "Thu Nov 12 23:46:20 +0000 2026",
+    "created_at": "Thu Nov 12 23:46:20 +0000 2026",
+    "id_str": "2121026839674069380",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Everyone believes CUDA is NVIDIA's moat, the reason we've maintained our dominance in the AI era. I've never believed that.\n\nNVIDIA has only one true moat: its people. And the most important of them is Jensen Huang.\n\nI've worked on CUDA compilers, libraries, and DSLs for eight years, from Volta to Rubin. I think I've earned the right to share my perspective on what NVIDIA's moat really is. I hope you'll bear with me.\n\n1. What is CUDA?\n\nMany people think CUDA is just a programming language and its compiler, and that NVIDIA's moat comes from the massive amount of software written in CUDA, making it impossible for developers to leave NVIDIA GPUs.\n\nThis is completely wrong. It's an incredibly naive understanding of CUDA.\n\nTo me, CUDA is everything NVIDIA does.\n\nCUDA isn't just a language, software, or hardware architecture. It's a product defined by a unique customer experience.\n\nWhen you find GPU programming too difficult, CUDA gives you an easier way. When your GPU code isn't fast enough, NVIDIA engineers respond and help you solve it. When a handful of GPUs can no longer push your technology forward, NVIDIA has already scaled its computing platform from desktops to massive data centers. When you need more data centers than anyone else can supply, NVIDIA has already secured wafer and HBM capacity years in advance to meet your demand.\n\nThat experience is CUDA.\n\nIt's made possible by the relentless, day-to-day work of everyone at NVIDIA. And the person who brings all these people together, who gives them a shared vision and purpose, is Jensen Huang.\n\n2. What made CUDA possible?\n\nPatience. Perseverance. An unwavering commitment to a vision.\n\nAround 2006, NVIDIA bet that the future would demand far more computing power, and began transforming GPUs from graphics processors into a platform for general-purpose computing. Initially, it was a commercial disaster. The added costs hurt margins, the market wasn't ready, and the strategy faced enormous skepticism and pressure, including questions from the board.\n\nBut Jensen persisted.\n\nFor roughly a decade, NVIDIA kept investing in CUDA, building its hardware, software, and developer ecosystem long before the commercial payoff became clear.\n\nEventually, deep learning arrived. And NVIDIA was ready.\n\nToday, this sounds like an inspiring story. But for those who lived through it, it meant a decade of perseverance, doubt, and being misunderstood.\n\nLooking back at the history of technology, how many people could have done the same?\n\nThis is what I've always loved most about NVIDIA.\n\nAnd now, Jensen has been pushed out.\n\nThis won't kill NVIDIA. The company can still create tremendous commercial value. But it has killed NVIDIA's soul. And how far can a body go without its soul?\n\nIf this is how Jensen Huang is treated today, how will those of us who built CUDA be treated tomorrow?\n\nI love NVIDIA deeply, but I have to say it: NVIDIA is dead.",
+    "quoted_tweet": null,
+    "url": "https://x.com/fiigii/status/2121055679259840982",
+    "time": "2026-11-13 09:40",
+    "created_at": "Fri Nov 13 01:40:55 +0000 2026",
+    "id_str": "2121055679259840982",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "以前我特别爱嘲讽暴雪。他们在很多游戏里面设计出了非常有意思、好玩的机制，然后后期的改动中，尤其是竞技类游戏却沦为了不停的数值调整。\n\n今天这两个英雄，CD 时间降一点，明天把那个攻击力加 5 点，后天再改回来，下个版本再调。\n\n我觉得这他妈不是狗都能干的事吗。\n\n直到我在自己的游戏 Playground 里面反反复复调了一个通宵之后，我发现我错了。\n\n数值平衡的设计，一点不比机制简单。\n\n但这也不影响我对暴雪傻逼的判断。\n\n因为他们的数值调整之后，尤其那些只跟着职业选手胜利调整的数值改动。确实在游戏越来越不好玩了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/wwwgoubuli/status/2121087301984071903",
+    "time": "2026-11-13 11:46",
+    "created_at": "Fri Nov 13 03:46:35 +0000 2026",
+    "id_str": "2121087301984071903",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Nvidia is nothing without its people",
+    "quoted_tweet": {
+      "author": "zack",
+      "username": "zack_overflow",
+      "text": "BREAKING: hundreds of NVIDIA employees have signed an internal letter demanding the reinstatement of Jensen Huang as CEO and the resignation of the board"
+    },
+    "url": "https://x.com/dotey/status/2121104362965537094",
+    "time": "2026-11-13 12:54",
+    "created_at": "Fri Nov 13 04:54:23 +0000 2026",
+    "id_str": "2121104362965537094",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@wwwgoubuli 比如守望先锋……",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121105397906047386",
+    "time": "2026-11-13 12:58",
+    "created_at": "Fri Nov 13 04:58:29 +0000 2026",
+    "id_str": "2121105397906047386",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "最新的status update 就是说，\n就是说我们也不知道发生了什么，\n我们试过了一些操作，但是失败了。\n我们再试试其他看看能不能解决问题。\n\n我不知道office 365team 经历了什么，\n真不会是裁员裁到大动脉了吧。\n\n而且这个很奇怪啊。一般如果是发布造成的，rollback就好了。\n\n如果是traffic造成的，直接black hole一些traffic，然后在fail over，也会解决大部分问题。\n\n如果是安全问题导致的，应该有很明显的pattern啊。\n\n一般来讲都是先recover service 然后再分析root cause，但是显然这次既不能recover service 又不能找到root cause.\n\n这次有点奇怪啊。",
+    "quoted_tweet": {
+      "author": "Rainier",
+      "username": "mtrainier2020",
+      "text": "12个小时了，还没有定位到root cause."
+    },
+    "url": "https://x.com/mtrainier2020/status/2121108353963491813",
+    "time": "2026-11-13 13:10",
+    "created_at": "Fri Nov 13 05:10:14 +0000 2026",
+    "id_str": "2121108353963491813",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "中国人发明了火药却用来放鞭炮，而西方用火药来造枪炮。\n\nAnthropic 刚发布了 Claude Sheets，让 Agent 可以更好的操作 Sheets，Google 则在用 Google Sheets 画画。\n\n而微软的 Office 365 还在当机中。",
+    "quoted_tweet": {
+      "author": "Google",
+      "username": "Google",
+      "text": "Most of us open Google Sheets for budgets, trackers, and tables. With Gemini 4 Hydrogen, we wanted to see if it could paint a moving landscape instead 🍃\n\nIn Google @Antigravity, Hydrogen handled the coding to paint and animate thousands of cells — creating coastal trains, drifting clouds, and falling autumn leaves that recalculate frame by frame inside the spreadsheet."
+    },
+    "url": "https://x.com/dotey/status/2121112501983064176",
+    "time": "2026-11-13 13:26",
+    "created_at": "Fri Nov 13 05:26:43 +0000 2026",
+    "id_str": "2121112501983064176",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@suwakopro 那完蛋，新人可能都还没有把codebase看全，完全两眼一抹黑。",
+    "quoted_tweet": null,
+    "url": "https://x.com/mtrainier2020/status/2121113122153140723",
+    "time": "2026-11-13 13:29",
+    "created_at": "Fri Nov 13 05:29:11 +0000 2026",
+    "id_str": "2121113122153140723",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@mtrainier2020 @suwakopro 新人请求Claude帮助，结果被怀疑为不安全操作封号了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121117060508024941",
+    "time": "2026-11-13 13:44",
+    "created_at": "Fri Nov 13 05:44:50 +0000 2026",
+    "id_str": "2121117060508024941",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "鲁迅这是瞎说，火药至少自宋朝就拿来打仗了。万历明军对日军就颇有炮火优势，道光帝亲手用鸟枪打死过天理教徒，到晚清仓库存有先进火器，舰队有亚洲最好的舰炮，就是用不起来。应该说这种落后是结构性的，不是单独一个产品功能的问题。非要对比的话，谷歌的产品部门好歹还在学慈禧用人拉火车呢，微软已经是小怜玉体横陈夜，已报周师入晋阳的情形了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Ranger_Vigil/status/2121145143201816656",
+    "time": "2026-11-13 15:36",
+    "created_at": "Fri Nov 13 07:36:25 +0000 2026",
+    "id_str": "2121145143201816656",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Ranger_Vigil 你这更专业👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121146398380830898",
+    "time": "2026-11-13 15:41",
+    "created_at": "Fri Nov 13 07:41:25 +0000 2026",
+    "id_str": "2121146398380830898",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "33 年，老黄下台。\n\n欢迎收看今天的小互 AI 日报\n\n1. 英伟达董事会官宣：黄仁勋辞去 CEO，也退出董事会，立即生效。财务长科莱特·克雷斯临时接任，董事会开始找正式接班人，还第一次设了董事长。\n\n起因是被曝的两段关系，三个众议院委员会也要他 18 号闭门说明。辞职公布后，英伟达一开盘最多跌了 14%，市值一度跌破 4 万亿美元。\n\n2. Anthropic 上市定价：纳斯达克，代码 ANT，每股 70–78 美元，按上限、算上全部期权，估值约 1.4 万亿美元。招股书里还认定，自家安全政策里「AI 大幅加速 AI 研究」那条线已经到了——是按对下一代模型的预期判断的。\n\n3. 谷歌 Gemini 4 Carbon 正式开放，三个第三方榜单第一。DeepMind 还用 AI 给 Signal 的核心代码做了数学证明：5 个人、4 周、600 多万行证明，查过的那几项安全性质都站得住。\n\n4. 人形机器人进厂：Gemini Robotics 2.5 在奔驰产线配零件，成功率 96%（概念验证）；英伟达 GR00T 2 看 5 段示范，新活成功率 95%，5 段加起来不到 3 分钟。\n\n5. 现在就能用：Claude 有了自己的表格和白板，测试版，所有付费用户都能用。Pro、Max、Ultra 和 Team 用户还能在设置的用量页面领一次免费重置，12 月 10 号前有效。\n\n还有：百度文心 5.5 Flash 和昆仑芯、豆包办公版接进 Kimi/GLM/DeepSeek、美联航不许 AI 替你下单、纽约 AI 安全法明年生效。",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2121064112956522596",
+    "time": "2026-11-13 10:14",
+    "created_at": "Fri Nov 13 02:14:26 +0000 2026",
+    "id_str": "2121064112956522596",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "𝕏 取消了每个帖子最多 4 张照片的限制\n\n现在一个帖子可以一次上传 20 个照片和视频\n\n😅",
+    "quoted_tweet": {
+      "author": "Jonah Katz",
+      "username": "dinkin_flickaa",
+      "text": "Big update to the X platform today\n\nAfter 10 years of Twitter/X supporting up to 4 Photos and Videos per post, the limit has been increased to 20!\n\nHappy posting"
+    },
+    "url": "https://x.com/xiaohu/status/2121069166086295998",
+    "time": "2026-11-13 10:34",
+    "created_at": "Fri Nov 13 02:34:31 +0000 2026",
+    "id_str": "2121069166086295998",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Claude 现在替你参加会议\n而且不仅仅只是旁听\n\n它可以：  \n\n• 在会议过程中实时构建文档或白板 \n• 在得到你的的许可后检查连接的工具 ，直接提交答案\n• 在被提问时，可直接回答问题\n\n😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2121075980890743046",
+    "time": "2026-11-13 11:01",
+    "created_at": "Fri Nov 13 03:01:36 +0000 2026",
+    "id_str": "2121075980890743046",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "空房间一张，家具图九张，它直接给你摆成客厅\n\nMiniMax 刚开源的 H3-Image\n你丢一张空房间照片，再丢沙发、茶几、边桌这些单品图\n它把东西放进同一个房间，出一张约 1600 万像素的效果图，不用再拿去放大\n\n一步出 4K 大图\n方图 4096×4096，16:9 横图 5472×3072\n比 2048 那档多 4 倍像素，模型直接生成\n\n参考图各管一件事\n最多 16 张，一张管房间，一张管沙发\n还能丢一张灰模渲染图定构图，它补金属、月壤和光影；在地图上画个红箭头，它画出站在那儿看到的第一人称画面（官方样例，只是静态图，没法真走进去）\n\n一句中文也能用\nAPI 会先把你的短要求扩写成详细的英文画面描述再出图，摄影细节不用自己写\n\n本地能跑，但很大\nSGLang、vLLM、ComfyUI 都有路径，从零下载约 135 GB...\n社区许可，美国、欧盟等地区被排除，年收入超 100 万美元要单独授权\n\n走 API 的话，官方示例一张 4096×4096 约 0.069 美元，11 月 18 日前半价 0.034",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2121083182871466010",
+    "time": "2026-11-13 11:30",
+    "created_at": "Fri Nov 13 03:30:13 +0000 2026",
+    "id_str": "2121083182871466010",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "接 API 有个坑，客户端超时或断开，服务端照样生成并收费，重发就再扣一次，官方建议把 SDK 自动重试关掉（max_retries=0）\n完整解读：https://xiaohu.ai/article/minimax-h3-image/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2121083228924899472",
+    "time": "2026-11-13 11:30",
+    "created_at": "Fri Nov 13 03:30:24 +0000 2026",
+    "id_str": "2121083228924899472",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "学生家长的救星来了\n刷到个网易新推出的AI教育产品：欧拉讲题\n\n我测试了下，果然有点牛P，能实时生成讲题动画过程啊，边讲边画动画\n\n你还能实时互动\n\n曾经几何题我最烦的就是：过 A 点作一条辅助线\n\n线我会画，但怎么想到往这儿画的？😂\n\n讲到辅助线这一步，你可以打断它，问「为什么要画成平行的？」让它接着在图上讲：哪些角因此相等，又怎么用这些角找出相似三角形。\n\n我觉得有意思的是，它会先规划怎么讲这道题，再把讲解变成板书、图形、动画和语音的指令。说到哪个角，图上就标到哪个角；你卡在哪一步，它就从那一步接着讲。\n\n家里有孩子的，你再也不用抓耳挠腮了...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2121139346191286711",
+    "time": "2026-11-13 15:13",
+    "created_at": "Fri Nov 13 07:13:23 +0000 2026",
+    "id_str": "2121139346191286711",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You don’t get unlimited Firefly credits!?  Damn Adobe, lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/madonna_matt/status/2121052176198013155",
+    "time": "2026-11-13 09:27",
+    "created_at": "Fri Nov 13 01:27:00 +0000 2026",
+    "id_str": "2121052176198013155",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@madonna_matt I get unlimited on my work account, this is personal account and personal project :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121052861702537676",
+    "time": "2026-11-13 09:29",
+    "created_at": "Fri Nov 13 01:29:44 +0000 2026",
+    "id_str": "2121052861702537676",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm waiting for my next token supply to drop :(\n\nbut as soon as it does...",
+    "quoted_tweet": null,
+    "url": "https://x.com/FearofFEMA/status/2121056961106157717",
+    "time": "2026-11-13 09:46",
+    "created_at": "Fri Nov 13 01:46:01 +0000 2026",
+    "id_str": "2121056961106157717",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I don't have any accounts that allow me to \"tokenmaxx\" with SeeDance. I wish. It would really help create episodes of our show faster. We're running freaking 480p to do at least some because anything else burns through way too fast.",
+    "quoted_tweet": null,
+    "url": "https://x.com/AIandDesign/status/2121059044567973921",
+    "time": "2026-11-13 09:54",
+    "created_at": "Fri Nov 13 01:54:18 +0000 2026",
+    "id_str": "2121059044567973921",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AIandDesign I also generate 480 and then upscale. \n\nMaybe next year I get some gift licenses to give again and I will keep you in mind",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121061951044559087",
+    "time": "2026-11-13 10:05",
+    "created_at": "Fri Nov 13 02:05:51 +0000 2026",
+    "id_str": "2121061951044559087",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@FearofFEMA Same here 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121062010414637171",
+    "time": "2026-11-13 10:06",
+    "created_at": "Fri Nov 13 02:06:05 +0000 2026",
+    "id_str": "2121062010414637171",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Got my browser RTS playable this week, built with AI. https://x.com/eridots/status/2120935455457706481",
+    "quoted_tweet": {
+      "author": "Eri Dervishi",
+      "username": "eridots",
+      "text": "Age of Legacies is now playable in the browser. It's an early build, so it's still rough. \nDemo link in the reply. \n\nWhat would you want to see next?"
+    },
+    "url": "https://x.com/eridots/status/2121066800724971949",
+    "time": "2026-11-13 10:25",
+    "created_at": "Fri Nov 13 02:25:07 +0000 2026",
+    "id_str": "2121066800724971949",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@eridots Wow! Reminds me of Age of Empires!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121067394571608121",
+    "time": "2026-11-13 10:27",
+    "created_at": "Fri Nov 13 02:27:29 +0000 2026",
+    "id_str": "2121067394571608121",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thanks Kris! That's exactly the inspiration.",
+    "quoted_tweet": null,
+    "url": "https://x.com/eridots/status/2121072314146074931",
+    "time": "2026-11-13 10:47",
+    "created_at": "Fri Nov 13 02:47:01 +0000 2026",
+    "id_str": "2121072314146074931",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@eridots So well done! I'd play your game!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121072943614812317",
+    "time": "2026-11-13 10:49",
+    "created_at": "Fri Nov 13 02:49:32 +0000 2026",
+    "id_str": "2121072943614812317",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thank you! It's playable in the browser here if you want to try it: https://aol-mini.fly.dev",
+    "quoted_tweet": null,
+    "url": "https://x.com/eridots/status/2121073960699752665",
+    "time": "2026-11-13 10:53",
+    "created_at": "Fri Nov 13 02:53:34 +0000 2026",
+    "id_str": "2121073960699752665",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Creating my 3D worlds game 🚀",
+    "quoted_tweet": null,
+    "url": "https://x.com/DrSurrealAI/status/2121074103935480177",
+    "time": "2026-11-13 10:54",
+    "created_at": "Fri Nov 13 02:54:08 +0000 2026",
+    "id_str": "2121074103935480177",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DrSurrealAI This looks awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121074566969671775",
+    "time": "2026-11-13 10:55",
+    "created_at": "Fri Nov 13 02:55:59 +0000 2026",
+    "id_str": "2121074566969671775",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@eridots I will!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121074658074083743",
+    "time": "2026-11-13 10:56",
+    "created_at": "Fri Nov 13 02:56:20 +0000 2026",
+    "id_str": "2121074658074083743",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@eridots Waiting for another player",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121074903763787835",
+    "time": "2026-11-13 10:57",
+    "created_at": "Fri Nov 13 02:57:19 +0000 2026",
+    "id_str": "2121074903763787835",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife What’s the post?",
+    "quoted_tweet": null,
+    "url": "https://x.com/RodmanAi/status/2121084339412992443",
+    "time": "2026-11-13 11:34",
+    "created_at": "Fri Nov 13 03:34:49 +0000 2026",
+    "id_str": "2121084339412992443",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RodmanAi On Instagram 🥹",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121085883827060893",
+    "time": "2026-11-13 11:40",
+    "created_at": "Fri Nov 13 03:40:57 +0000 2026",
+    "id_str": "2121085883827060893",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I published my Roblox game I've been working on, as well as some RedM scripts all made with Claude and other AI tools!:D\nhttps://x.com/tyyleai/status/2120099819616096264?a=_sVrpbx2zASAJHjsHOA&s=20",
+    "quoted_tweet": {
+      "author": "Tyyle",
+      "username": "tyyleai",
+      "text": "My final, \"I've been awake all night and feeding my AI addiction\" post for now- (no promises:p)\n\nI've also been spending some time building Roblox games! My first ever game, 'Don't Wake the Giant!' is out now on Roblox, completely free-to-play!\n\nTake a look at the trailer and try playing it for yourself:D\n\nLink in replies 👇"
+    },
+    "url": "https://x.com/tyyleai/status/2121109135718801919",
+    "time": "2026-11-13 13:13",
+    "created_at": "Fri Nov 13 05:13:20 +0000 2026",
+    "id_str": "2121109135718801919",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@tyyleai That's so cool!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121113294874280275",
+    "time": "2026-11-13 13:29",
+    "created_at": "Fri Nov 13 05:29:52 +0000 2026",
+    "id_str": "2121113294874280275",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@muriellondon 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121125055191298555",
+    "time": "2026-11-13 14:16",
+    "created_at": "Fri Nov 13 06:16:36 +0000 2026",
+    "id_str": "2121125055191298555",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Inspired by @jamesonhodge and challenged by @SyntheticBeef with \"If you can make it sing by having the nanobots mechanically simulate this vocal synth project, I will award you the best project of the year award.\" \n\nWell, check it out and play with it here: https://app.thinklet.io/t/myriad-a-million-bot-swarm-da9c84",
+    "quoted_tweet": {
+      "author": "Jameson Hodge",
+      "username": "jamesonhodge",
+      "text": "my vocal synth models the vocal tract as a network of branching acoustic tubes, unlike vocaloid which stitches together and pitch-shifts phoneme recordings. still working on improving naturalness by tuning it against recordings of real singers, but I'm already impressed at how cool it sounds!"
+    },
+    "url": "https://x.com/chrisjdimarco/status/2121048407171047852",
+    "time": "2026-11-13 09:12",
+    "created_at": "Fri Nov 13 01:12:02 +0000 2026",
+    "id_str": "2121048407171047852",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": ". @AnneNeuberger has it right - containment first via public/private partnership is the key to securing our nation's critical infrastructure https://www.wsj.com/opinion/cyberattacks-are-coming-for-us-all-b19b46d4?st=sus1gF via @WSJopinion",
+    "quoted_tweet": null,
+    "url": "https://x.com/skupor/status/2121082535899767169",
+    "time": "2026-11-13 11:27",
+    "created_at": "Fri Nov 13 03:27:39 +0000 2026",
+    "id_str": "2121082535899767169",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "This is one of the most insanely cool AI tools I've seen yet. The creative possibilities this opens up are virtually endless. I've been using this for like 10 minutes and my jaw is on the floor.\n\nOne of the hardest parts of making Stalk was set consistency between shots. Image models, and especially GPT don't understand perspective and angles, and they're always pulling towards the average. If the average photo of a TV is from the front, a foreshortened side view is hard to get consistently. I tried text-only prompting, I tried using set references, I tried having Claude build me clay sets in Blender to use as framing references.\n\nNow you can just... move the camera. These are from a single Midjourney image. I've only scratched the surface, I imagine this will be even more valuable for my friends making video games.",
+    "quoted_tweet": {
+      "author": "World Labs",
+      "username": "theworldlabs",
+      "text": "We’re opening up access to Atlas to everyone today.\n\nWe’ve built apps and API endpoints to help you use Atlas any way you can imagine: bring your ideas for building a 3D world and come away with keyframes, video clips, or 3D Gaussian splats."
+    },
+    "url": "https://x.com/88probs/status/2121093179252342916",
+    "time": "2026-11-13 12:09",
+    "created_at": "Fri Nov 13 04:09:56 +0000 2026",
+    "id_str": "2121093179252342916",
+    "is_retweet": true
   }
 ]
