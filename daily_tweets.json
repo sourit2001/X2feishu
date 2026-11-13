@@ -1011,5 +1011,518 @@
     "created_at": "Fri Nov 13 17:16:07 +0000 2026",
     "id_str": "2121291030276530266",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok is a straight shooter",
+    "quoted_tweet": {
+      "author": "Sundar Pichai",
+      "username": "sundarpichai",
+      "text": "Nice summary @grok !"
+    },
+    "url": "https://x.com/elonmusk/status/2121242367684661286",
+    "time": "2026-11-13 22:02",
+    "created_at": "Fri Nov 13 14:02:45 +0000 2026",
+    "id_str": "2121242367684661286",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starship 42 preparing for launch",
+    "quoted_tweet": {
+      "author": "SpaceX",
+      "username": "SpaceX",
+      "text": "Ship 42 moves to the Starbase pad ahead of launch"
+    },
+    "url": "https://x.com/elonmusk/status/2121250205806772283",
+    "time": "2026-11-13 22:33",
+    "created_at": "Fri Nov 13 14:33:54 +0000 2026",
+    "id_str": "2121250205806772283",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ADFIntl @_LykinsLiz @WNGdotorg Good",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2121250585068364172",
+    "time": "2026-11-13 22:35",
+    "created_at": "Fri Nov 13 14:35:25 +0000 2026",
+    "id_str": "2121250585068364172",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Hmm",
+    "quoted_tweet": {
+      "author": "Tim Sweeney",
+      "username": "TimSweeneyEpic",
+      "text": "What?! So journalists with sketchy motives portrayed rumors from god-knows-who (lobbyists?) as facts sourced from intelligence officials and gaslit the NVIDIA board to push out the founder, CEO, and once-in-generation visionary?\n\nThis raises serious corporate governance issues."
+    },
+    "url": "https://x.com/elonmusk/status/2121250804447445203",
+    "time": "2026-11-13 22:36",
+    "created_at": "Fri Nov 13 14:36:17 +0000 2026",
+    "id_str": "2121250804447445203",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": {
+      "text": "https://t.co/EuQgsK5QZW",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588010635264",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/1"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251587998060544",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/2"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588023214080",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/3"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588010549248",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/4"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251587981299713",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/5"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251587989659648",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/6"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251587993845760",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/7"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588010631169",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/8"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588031524864",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/9"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588086140928",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/10"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588002217984",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/11"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588018950144",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/12"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251587998007296",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/13"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588014768128",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/14"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588052578306",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/15"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588060876800",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/16"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588048404481",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/17"
+        },
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2121251588006412288",
+          "display": "pic.x.com/EuQgsK5QZW",
+          "original": "https://t.co/EuQgsK5QZW",
+          "replacement": "https://x.com/justinbieber/status/2121251707393024486/photo/18"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/justinbieber/status/2121251707393024486",
+    "time": "2026-11-13 22:39",
+    "created_at": "Fri Nov 13 14:39:52 +0000 2026",
+    "id_str": "2121251707393024486",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "True",
+    "quoted_tweet": {
+      "author": "sourcery",
+      "username": "sourceryy",
+      "text": "\"Socialism sucks.\" - @mlevchin\n\n\"Take it from somebody who spent his first 16 years under the 'warm embrace of collectivism' as a certain mayor recently put it—socialism sucks.\"\n\n\"The only people who do well in redistribution of wealth are the ones doing redistribution.\"\n\n\"It's fundamentally corrupt. There's not enough bad things I can say about socialism.\""
+    },
+    "url": "https://x.com/elonmusk/status/2121266455442292980",
+    "time": "2026-11-13 23:38",
+    "created_at": "Fri Nov 13 15:38:28 +0000 2026",
+    "id_str": "2121266455442292980",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink",
+    "quoted_tweet": {
+      "author": "Sawyer Merritt",
+      "username": "SawyerMerritt",
+      "text": "United Airlines CEO in new interview on @Starlink Wi-Fi:\n\n\"Wi-Fi is the No. 1 reason that people pick an airline flight. I think it's the biggest near-term competitive advantage that we've ever had in United's 100-year history. And it really is something that's causing customers to try United because they want Starlink. By the way, all the JFK flights 100% are going to be on Starlink when we start JFK [soon].\""
+    },
+    "url": "https://x.com/elonmusk/status/2121267716023546027",
+    "time": "2026-11-13 23:43",
+    "created_at": "Fri Nov 13 15:43:29 +0000 2026",
+    "id_str": "2121267716023546027",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "And remember …",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2121268692453343344",
+    "time": "2026-11-13 23:47",
+    "created_at": "Fri Nov 13 15:47:22 +0000 2026",
+    "id_str": "2121268692453343344",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "BREAKING: Starlink is bringing fast internet to rural communities in Timor-Leste. 🇹🇱\n\nIn Suco Aubeon, residents and community leaders now have @Starlink through VorakaiConnect, helping:\n\n• Families stay connected.\n• Residents access news and information.\n• Community leaders carry out local administration.\n\nAcross the country, the Government’s partnership with Vorakai covers 450 village headquarters, using Starlink to connect local offices to digital government systems while fiber networks expand.",
+    "quoted_tweet": null,
+    "url": "https://x.com/cb_doge/status/2121270651650814087",
+    "time": "2026-11-13 23:55",
+    "created_at": "Fri Nov 13 15:55:09 +0000 2026",
+    "id_str": "2121270651650814087",
+    "is_retweet": true
+  },
+  {
+    "username": "lexfridman",
+    "nickname": "Lex",
+    "text": "NVIDIA letting Jensen go is a huge mistake, for America and for humanity. It's Apple firing Steve Jobs all over again, but much bigger, given the role of AI in defining the future of our world.\n\nI've been keeping quiet on this out of respect for Jensen's family and team, who I've met and who are amazing humans, and because I personally hate infidelity. So my heart goes out to them in this difficult personal family moment.\n\nBut I can also say that Jensen is human, and makes mistakes like all of us do. Not that I matter at all, but I've known Jensen for a long time and have gotten the chance to spend a lot of time with him, behind the scenes, away from mics and cameras. I have seen him show kindness, humility, care to everyone around him, including strangers, including from the poorest most struggling parts of society, treating all the same with the same thoughtfulness and attention, because they are fellow humans and not because he has something to gain from them. That shows rare character, to maintain humility and humanity through all of it.\n\nAnother data point is what people who know him well have said privately to me about Jensen over the years. I've never had anyone tell me anything but how awesome he is or how much they love him. Probably over a thousand people at this point. This includes hundreds of engineers, CEOs, colleagues, friends, etc.\n\nAlso, since there was some spy talk. Jensen is as proud  an American as it gets. I'm in shock frankly at all of this, including the mass hysteria around it. I love America, and I think NVIDIA letting Jensen go is terrible for America.\n\nI stand with Jensen.\n\nLove you all ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/lexfridman/status/2120986129671631239",
+    "time": "Thu Nov 12 21:04:33 +0000 2026",
+    "created_at": "Thu Nov 12 21:04:33 +0000 2026",
+    "id_str": "2120986129671631239",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "NYC is overrated and I'll die on this hill. Might be because I'm from Seoul, but honestly why do people leave SF for NYC?\n\nYou have the same job in both cities, but NYC is so overwhelming that life just becomes overwhelming. SF is calmer\n\nNYC has more people in the same room more often, whereas SF has the work and then everyone just goes home\n\nI'm back in SF and honestly I don't miss NYC. SF isn't dead, people's default hang is just missing",
+    "quoted_tweet": null,
+    "url": "https://x.com/jeanxdenim/status/2121028497783357834",
+    "time": "Thu Nov 12 23:52:55 +0000 2026",
+    "created_at": "Thu Nov 12 23:52:55 +0000 2026",
+    "id_str": "2121028497783357834",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "1000%",
+    "quoted_tweet": {
+      "author": "Peter Steinberger",
+      "username": "steipete",
+      "text": "Would you enable yolo mode for dots, even if your dot might do sth unwanted?"
+    },
+    "url": "https://x.com/rileybrown/status/2121065193400889346",
+    "time": "2026-11-13 10:18",
+    "created_at": "Fri Nov 13 02:18:44 +0000 2026",
+    "id_str": "2121065193400889346",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "2025 OpenAI lost focus, Anthropic took the lead\n2026 Q1-Q2 Anthropic lost Focus, OpenAI took lead\n2026 Q3-Q4 OpenAI lost Focus, Anthropic took lead",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2121100181085233351",
+    "time": "2026-11-13 12:37",
+    "created_at": "Fri Nov 13 04:37:45 +0000 2026",
+    "id_str": "2121100181085233351",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown @jeanxdenim Neither is NYC",
+    "quoted_tweet": null,
+    "url": "https://x.com/spying_deer/status/2121279507739127972",
+    "time": "2026-11-14 00:30",
+    "created_at": "Fri Nov 13 16:30:20 +0000 2026",
+    "id_str": "2121279507739127972",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@spying_deer @jeanxdenim top 1 in world",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2121284370900152623",
+    "time": "2026-11-14 00:49",
+    "created_at": "Fri Nov 13 16:49:40 +0000 2026",
+    "id_str": "2121284370900152623",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "NVIDIA is hiring a CEO.\n\nOne applicant so far. 🧥",
+    "quoted_tweet": {
+      "author": "Tom Huang",
+      "username": "tuturetom",
+      "text": "基于 Code Video 的下一代全栈视频工作台即将发布！普通人都能一键复刻世界级品牌的产品宣传片！💥\n\n整合了最近 Opus 5.5 和 Fable 5.2 做Motion动效视频所有最佳实践🔥并进行产品化\n\n支持Codex/CC/DSH等20+ Agent ，BYOK多模态模型，200+ 世界顶级品牌的动效视频规范...\n\n大家希望开源吗👇"
+    },
+    "url": "https://x.com/Charl1ehimself/status/2121148091621634270",
+    "time": "2026-11-13 15:48",
+    "created_at": "Fri Nov 13 07:48:08 +0000 2026",
+    "id_str": "2121148091621634270",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "刚刚用这个开源视频工作台给英雄联盟S赛做了一只宣传片，兄弟们看看效果怎么样，提提建议💥\n\n最大的感受是为了做个视频，你再也不必动辄写个上千字提示词了，对于小白选手来说真的非常友好了🫡\n\n提示词：“你帮我做一个今年英雄联盟S赛的宣传视频吧”\n\n目测下来即使没有Claude，音效视频也都超出想象了",
+    "quoted_tweet": {
+      "author": "Tom Huang",
+      "username": "tuturetom",
+      "text": "基于 Code Video 的下一代全栈视频工作台即将发布！普通人都能一键复刻世界级品牌的产品宣传片！💥\n\n整合了最近 Opus 5.5 和 Fable 5.2 做Motion动效视频所有最佳实践🔥并进行产品化\n\n支持Codex/CC/DSH等20+ Agent ，BYOK多模态模型，200+ 世界顶级品牌的动效视频规范...\n\n大家希望开源吗👇"
+    },
+    "url": "https://x.com/tuturetom/status/2121153714572648637",
+    "time": "2026-11-13 16:10",
+    "created_at": "Fri Nov 13 08:10:29 +0000 2026",
+    "id_str": "2121153714572648637",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "加入我们的内测群，提前体验👇（群内正在抽送重置卡）\n飞书：https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=f20s60a4-41f1-4c2a-8cc3-6ee5e8096038",
+    "quoted_tweet": null,
+    "url": "https://x.com/tuturetom/status/2121153717001199641",
+    "time": "2026-11-13 16:10",
+    "created_at": "Fri Nov 13 08:10:29 +0000 2026",
+    "id_str": "2121153717001199641",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Discord: https://discord.gg/UZxMJFNJrg",
+    "quoted_tweet": null,
+    "url": "https://x.com/tuturetom/status/2121153719006040360",
+    "time": "2026-11-13 16:10",
+    "created_at": "Fri Nov 13 08:10:30 +0000 2026",
+    "id_str": "2121153719006040360",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "been playing with a visual style for our dev account @OpenDesignDevs \n\nlots of pixels. lots of particles\nprobably too many particles lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/Tuola0205/status/2121169942414512467",
+    "time": "2026-11-13 17:14",
+    "created_at": "Fri Nov 13 09:14:58 +0000 2026",
+    "id_str": "2121169942414512467",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Jensen Huang's resignation from NVIDIA is a tragedy and a loss for both sides, and a major setback for the AI industry.",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2121178555883438572",
+    "time": "2026-11-13 17:49",
+    "created_at": "Fri Nov 13 09:49:11 +0000 2026",
+    "id_str": "2121178555883438572",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "黄仁勋辞职离开英伟达是一个悲剧，对双方来说都是损失，对 AI 产业的发展来说，也是一个重大的挫折时刻。",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2121178935358865537",
+    "time": "2026-11-13 17:50",
+    "created_at": "Fri Nov 13 09:50:42 +0000 2026",
+    "id_str": "2121178935358865537",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "笑死 孙哥的微博又挂了\n不知道SVIP充的钱退不退啊\n不退的话血亏 \n不符合孙学的核心价值观\n\n@justinsuntron",
+    "quoted_tweet": null,
+    "url": "https://x.com/0xMoon/status/2121229956403679629",
+    "time": "2026-11-13 21:13",
+    "created_at": "Fri Nov 13 13:13:26 +0000 2026",
+    "id_str": "2121229956403679629",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "@0xMoon 60天小黑屋，1 月就出来了 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2121256967641747861",
+    "time": "2026-11-13 23:00",
+    "created_at": "Fri Nov 13 15:00:46 +0000 2026",
+    "id_str": "2121256967641747861",
+    "is_retweet": false
+  },
+  {
+    "username": "johnternus",
+    "nickname": "John Ternus",
+    "text": "HomeView is here!",
+    "quoted_tweet": null,
+    "url": "https://x.com/johnternus/status/2121250231027482839",
+    "time": "2026-11-13 22:34",
+    "created_at": "Fri Nov 13 14:34:00 +0000 2026",
+    "id_str": "2121250231027482839",
+    "is_retweet": false
   }
 ]
