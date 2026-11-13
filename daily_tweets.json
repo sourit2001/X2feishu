@@ -395,5 +395,987 @@
     "created_at": "Fri Nov 13 14:01:21 +0000 2026",
     "id_str": "2121242015816147210",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "段子太过真实以至于看起来像真的 😂\n\n---\n\n我是微软 365的首席站点可靠性工程师（Principal SRE）。我来给大家同步一下目前的背景情况。\n\n大约在协调世界时（UTC）21:40，一名工程师向 Azure Front Door（注：微软云的全球内容分发与负载均衡服务）部署了一项常规配置变更，结果一不小心把我们的身份验证流量，全重定向到了一个 2017 年后就再也没更新过的 SharePoint 网站上。\n\n我们第一时间启动了回滚，但回滚流水线需要通过 Microsoft Authenticator 进行多因素身份验证（MFA）审批。偏偏这个验证器目前正卡在等待“条件访问（Conditional Access）”策略评估的环节，而执行这项评估的，恰恰就是我们正在试图恢复的那套基础设施。\n\n我们本来备有一个紧急破窗管理员账号（break-glass admin account，注：在常规身份验证系统彻底瘫痪时用于最高权限急救的备用账号），但不幸的是，它的密码存在了 OneNote 笔记本里，而这个笔记本正好托管在受本次故障影响的 tenant 上。我们的值班工程师试图通过 PowerShell 脚本绕过这个问题，却发现所需的功能模块上周二刚被弃用，而它的替代模块需要购买 P2 许可证（P2 license）才能使用。\n\n随后，我们向微软尊享支持服务（Microsoft Premier Support）提交了一个最高级别（Sev A）的故障工单。客服很快回复了，让我们在本地运行一下 sfc /scannow（注：Windows 系统中最基础的本地系统文件扫描命令，面对云端大规模架构瘫痪毫无用处，此处是网友对微软客服“万金油式敷衍回复”的经典吐槽）并把运行结果截图发给他们。\n\n此次恢复耗时之所以这么长，主要是因为我们的变更顾问委员会（CAB）规定，必须召开一场 Teams 线上会议才能正式授权回滚操作。眼下，会议组织者本人正被卡在会议室的“等候大厅（lobby）”里进不去，而唯一有权限放他进会议室的那位同事，今年六月份就已经被裁掉了。\n\n目前的临时缓解方案，是把受影响的用户全部升级迁移到价格更贵的 Microsoft 365 E5 套餐，从“创收”的角度来看，这应该就能完美解决这次的问题了。我们已经查明了本次事故的根本原因：全是客户自己配置不当导致的。\n\n我们将在 30 分钟后发布下一轮进展通报，前提是到时候有人能把 Outlook 邮箱给修好。",
+    "quoted_tweet": {
+      "author": "geniusvczh",
+      "username": "geniusvczh",
+      "text": "Reddit的，应该算公开信息🤪"
+    },
+    "url": "https://x.com/dotey/status/2121278375201271974",
+    "time": "2026-11-14 00:25",
+    "created_at": "Fri Nov 13 16:25:50 +0000 2026",
+    "id_str": "2121278375201271974",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@monday_chen 白仁勋\n黄仁勋\n黑仁勋\nhttps://x.com/IdleAircon/status/2121179756515164468?a=RGQGGcuDhSyv3Hr0Z0M&s=20",
+    "quoted_tweet": {
+      "author": "暇空調",
+      "username": "IdleAircon",
+      "text": "今日初めて笑った"
+    },
+    "url": "https://x.com/dotey/status/2121286487584960917",
+    "time": "2026-11-14 00:58",
+    "created_at": "Fri Nov 13 16:58:04 +0000 2026",
+    "id_str": "2121286487584960917",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这个 Claude Meeting 的使用反馈很有意思，在一场客户会议中，Claude 全程都在“划水”，因为它把所有不属于我所在组织的人都当成了需要防备的“外部访客”。\n\n但在用户的业务场景里，这些所谓的“外部人员”正是重要的客户，也恰恰是召开这场会议的全部意义所在。\n\n如果 AI 把客户当成需要严加防范的风险，那就意味着在用户最需要 AI 的时候，它却在那里袖手旁观。",
+    "quoted_tweet": {
+      "author": "Joakim Jardenberg 🔕",
+      "username": "jocke",
+      "text": "Open letter to Dario about Claude Meetings. Please don't be Satya."
+    },
+    "url": "https://x.com/dotey/status/2121290779427520520",
+    "time": "2026-11-14 01:15",
+    "created_at": "Fri Nov 13 17:15:08 +0000 2026",
+    "id_str": "2121290779427520520",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 说明在 anthropic 内部的 meeting 中，所有的客户都是需要防备的“外部访客”🤣\n百分百契合企业文化了属于是",
+    "quoted_tweet": null,
+    "url": "https://x.com/bll65466650/status/2121296814418911554",
+    "time": "2026-11-14 01:39",
+    "created_at": "Fri Nov 13 17:39:07 +0000 2026",
+    "id_str": "2121296814418911554",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@bll65466650 💯",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121298717567566158",
+    "time": "2026-11-14 01:46",
+    "created_at": "Fri Nov 13 17:46:40 +0000 2026",
+    "id_str": "2121298717567566158",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "现在的开源圈真的已经抽象得不行了，什么妖魔鬼怪、牛鬼蛇神都来搞开源",
+    "quoted_tweet": null,
+    "url": "https://x.com/__oQuery/status/2121308911940915333",
+    "time": "2026-11-14 02:27",
+    "created_at": "Fri Nov 13 18:27:11 +0000 2026",
+    "id_str": "2121308911940915333",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "实际上没有cuda当年alex net就训不出来，也就不会在imagenet上拿到第一名，那么深度神经网络这条路线也就不会获得资本投资。如果没有老黄送钱推销算力卡，scaling law这个路线也不会出来。所有东西都要晚很多年。",
+    "quoted_tweet": {
+      "author": "Thomas Wolf",
+      "username": "Thom_Wolf",
+      "text": "Back in 2012, AlexNet was trained on two NVIDIA gaming GPUs. Jensen understodd what that meant before almost anyone else, and bet the company on it.\n\nA couple weeks ago he spent a good chunk of a meeting with us nerding out on our little $400 open-source microrobot. Why it runs hot, which chip would get more FLOPs, how many watts it would draw 🤓\n\nHis latest big bet has been open models, his very first post on X 👇\n\nIf open models had only one champion, this week would have been the end. They have millions of builders, including plenty inside NVIDIA who’ve been messaging us the same thing: keep building in the open.\n\nWe will."
+    },
+    "url": "https://x.com/suwakopro/status/2121316516612427931",
+    "time": "2026-11-14 02:57",
+    "created_at": "Fri Nov 13 18:57:24 +0000 2026",
+    "id_str": "2121316516612427931",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Depue 称中国模型用了禁运芯片：报告自己承认的限制，推文里都没了\n\n前 OpenAI 研究员 Will Depue 11 月 12 日发推，称找到“确凿的取证证据”：DeepSeek、月之暗面、MiniMax、蚂蚁“用被禁止出口中国的 Blackwell 芯片打造了最新模型”，涉及“超过 5 亿美元”的禁运芯片，“出口禁令显然在严重失效”。\n\n问题在于，这些结论大多不在他自己的报告里。报告承认的几条关键限制，到了推文里全不见了。X 用户 Daebak 앤디（@MyDaebakCafe）当天发长帖逐条拆解，他说：“指望没人读过标题，华盛顿的舆论就是这么制造出来的。”\n\n【指纹只管“第 0 步”】\n\nDepue 找到的，是模型训练开始前那一刻留下的痕迹：训练前要先往模型里填一批随机数，不同芯片填出来的排列不一样，部分排列训练后还留着。\n\n@MyDaebakCafe 也承认这个方法本身没问题，能看出生成初始权重的那台机器是 Blackwell。但他指出，报告原文写的是，这些痕迹只说明权重“怎么创建”，“支持、但不能证明” Blackwell 参与了训练。在他看来，初始化几秒钟就能做完，完全可以在租来的一台机器上生成，再搬到老一代芯片的集群上训练。\n\nDepue 后来回应说，Kimi K3 的初始权重由几十个进程同时生成，更像是整个训练集群在启动，单独生成再搬运说不通。这是他的推断，报告里仍然写着“不能证明”。\n\n【“5 亿美元”不是指纹算出来的】\n\n@MyDaebakCafe 的第二个要点是，几千张卡、5 亿美元这些数字，跟指纹没有关系，Depue 在推文里自己用的词就是“估算”，依据是发布时间和模型参数。\n\n报告写得更清楚：估算依赖芯片效率、训练数据量、训练时长几项“权重无法证实”的假设，作者“对这些估算没有把握”，而且报告发布当天就改了一轮数字。推文里“很可能数十亿美元”，报告没有给出任何算法。\n\n【芯片在哪、合不合法，一概不知】\n\n报告执行摘要最后一句承认，证据“不能说明芯片在哪、怎么拿到的、是否违反出口管制”。@MyDaebakCafe 提醒，Depue 自己的验证也是在租来的云端 GB200 上做的；他说，不在美国实体清单上的公司，在新加坡、日本、中东的云上租 Blackwell，按美国商务部现行规则完全合法，留下的指纹一模一样。\n\nDepue 在推文里也承认芯片可能是境外租的，称之为“国会还没堵上的漏洞”。走私涉嫌违法，境外租用至多是规则漏洞，性质完全不同。Depue 分不清是哪一种，却直接得出“禁令严重失效”。\n\n【其他网友的质疑】\n\n网友 @dodecagonism 指出，报告收了 11 月发布的 Kimi K3.1-Pro，却没把 DeepSeek 9 月发布的最新模型 V4.1-Flash 列进结果，“看起来是故意把方法不适用的模型都排除掉”。报告“局限”一节写了 V4.1-Flash 没找到任何指纹，推文只说四家的“最新模型”用了 Blackwell，对此一字没提。Depue 回应说，这说明方法不会对谁都报 Blackwell，DeepSeek 可能换了生成初始权重的方式；随后又发帖说“可能破解了，看起来像是英伟达”，目前还没公布结果。\n\n网友 @dfranke 认为，报告所有惊人的结论都建立在“用哪种芯片初始化，就用哪种芯片训练”这个假设上，而报告自己就发现，有些模型的初始权重是在普通 CPU 上生成的，说明这个假设并不总成立。Depue 回应说，那是训练程序先在本机 CPU 上生成、再拷到本机显卡，跟跨集群搬运是两回事。\n\n@MyDaebakCafe 在后续帖子里还提出，中国大厂用的是自己改过的训练框架，如果某段自定义代码把布局写死，用老芯片也能留下同样的痕迹。这一条 Depue 没有直接回应。\n\n【谁来背书，为什么是这天】\n\n推文说结果“经过 OpenAI 和 Anthropic 资深研究员独立验证”，报告里没有一个名字。当晚 Depue 又说，私下验证的人大多不愿具名。\n\n@MyDaebakCafe 质问：为什么偏偏在 11 月 12 日、黄仁勋辞去英伟达 CEO 的当天发布？他的解读是，美国闭源模型公司眼看付费 API 的生意被免费的中国开源模型蚕食，这份报告正好递给华盛顿鹰派一个理由，去管控全球云算力、打压开源 AI。\n\n动机属于他的推测，但有几件事是公开的：OpenAI 和 Anthropic 都指控过中国实验室“蒸馏”自家模型，Anthropic CEO Dario Amodei 专门发文支持收紧对华芯片出口；Depue 说发布前和官员通过信；发布约 40 分钟后，他又发帖为自己的新机构 Unemployment Labs 募资 500 万美元。匿名验证者来自利益相关方，发布者也有自己的诉求，这样的结论需要独立复现，目前还没有具名的第三方公布结果。\n\n中国驻美使馆 2 月回应美国官员的同类指控时说，反对“泛化国家安全概念、滥用出口管制、把经贸科技问题政治化”。截至 11 月 13 日，四家公司和英伟达还没有回应这份报告。\n\nDepue 原推：https://x.com/willdepue/status/2120992457630326841\nDepue 报告：https://unemploymentlabs.com/checkpoint-forensics\n@MyDaebakCafe 原帖：https://x.com/MyDaebakCafe/status/2121031084653637728",
+    "quoted_tweet": {
+      "author": "will depue",
+      "username": "willdepue",
+      "text": "I have a major result to share.\n\nI’ve found conclusive forensic evidence that the top 4 Chinese AI labs—DeepSeek, Moonshot, MiniMax and Ant Group—have built their newest models on NVIDIA’s most advanced Blackwell chips, which are barred from export to China.\n\nThis sounds insane, but I discovered that almost every AI model carries a hidden signature of the GPU that trained it. When a model is first set up, the starting values of its weights are laid out in a pattern that depends on the exact GPU. Each combination of GPU and seed number produces a unique pattern—a sort of fingerprint of the hardware used to create the model. Traces of that pattern survive training into the published model.\n\nAgain, this evidence isn’t based on any insider information or leaking. It’s based on a forensic analysis of the model weights released by the companies themselves.\n\nI searched more than six trillion combinations of chip layout and seed number and matched them to open-weights models. In doing so, I found conclusive evidence that six Chinese AI models—including DeepSeek-V4-Pro, Kimi K3, and MiniMax-M3—were initialized on NVIDIA Blackwell systems. Four of the models match Grace Blackwell, the GB200 and GB300 parts in NVIDIA’s flagship liquid-cooled rack-scale systems.\n\nI then verified these results on real hardware. Running unmodified PyTorch with the seeds I’d recovered, a Blackwell B300 reproduced DeepSeek-V4-Flash’s untouched starting weights bit for bit, and a rented GB200 reproduced Kimi K3’s to a correlation of 0.999995. A Hopper H100 reproduced none of DeepSeek-V4-Flash’s, and changing the seed by one broke the match. (DeepSeek’s seed is 953049583 by the way.) The method also was verified to match 24 known open-weights models to the hardware that developers said they used.\n\nIt is exceedingly unlikely that these results are a coincidence. Across six trillion combinations, the best accidental match should reach only about 8 sigma (i.e., eight standard deviations above what random chance would produce). The real matches range from 49 to 1,385 sigma, and even the weakest single test hits 20.\n\nThese were data-center-scale training runs. With some analysis of release schedules and model details, I estimate that the largest, Kimi K3 and DeepSeek-V4-Pro, used 2,000 to 3,000 Blackwell GPUs each. Clusters of this size cost on the order of $150 to $200 million each to buy, and across these labs alone would add up to more than half a billion dollars of export-controlled GPUs, not counting experimental compute or otherwise. It’s quite likely that we see multi-billion dollar expenditure on export-controlled GPUs.\n\nI am highly confident in this result, and it has been independently verified by senior researchers at OpenAI and Anthropic. You can read the full report at http://unemploymentlabs.com/checkpoint-forensics.\n\nThere is much more I’ve identified about these models through other forms of checkpoint forensics like this, and will have more to share soon."
+    },
+    "url": "https://x.com/dotey/status/2121321443019432002",
+    "time": "2026-11-14 03:16",
+    "created_at": "Fri Nov 13 19:16:58 +0000 2026",
+    "id_str": "2121321443019432002",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@MyDaebakCafe 原帖\nhttps://x.com/MyDaebakCafe/status/2121031084653637728",
+    "quoted_tweet": {
+      "author": "Daebak 앤디",
+      "username": "MyDaebakCafe",
+      "text": "I am actually disgusted by the timing of this drop. And this will get a bit more technical. \n\nLet’s do a real technical teardown of this \"1,385-sigma Blackwell weight fingerprint\" report that OpenAI and Anthropic are breathlessly promoting today, because banking on nobody reading past the headline is how DC narratives get manufactured.  \n\n​First, look at the actual CUDA maths: when PyTorch initialises model weights (torch.nn.init) with a fixed PRNG seed, curand/Philox parallelises random number generation across the GPU’s Streaming Multiprocessors (SMs).\n\nBecause Hopper has 132 SMs and Blackwell has 148 or 152 SMs, the exact same seed lays out initial weights in a different spatial pattern depending on the GPU’s SM count. In huge MoE models, certain low-gradient null-spaces or unrouted slices preserve faint directional traces of those step-0 weights even after training.  \n\n​So yes, brute-forcing the seed and SM grid can show that a model’s step_0 weight initialisation script ran on a 148/152-SM Blackwell GPU. Now read what the summary explicitly admits in the fine print:  \n\n1. Initialisation is not full training: The report literally states that these signatures show how the weights were created, and \"support (but do not prove) the inference that Blackwell also participated in model training\". Initialising a model checkpoint takes seconds on a single rented dev node before loading the safetensors onto a standard Hopper cluster. The \"2,000 to 3,000 Blackwell GPUs\" and \"$500 million\" cluster numbers do not come from the weight fingerprint and Depue admits in his own thread that he simply \"estimated\" cluster sizes from release schedules and model details. \n \n​2. Zero geolocation and zero proof of smuggling: The final sentence of the executive summary explicitly admits that the findings \"do not establish the physical location of the chips, how they were acquired, or whether export control regulations were violated\". Depue himself rented a cloud GB200 instance just to run his verification test. Commercial labs that are not on the Entity List renting bare-metal Blackwell nodes in offshore clouds (Singapore, Japan, or the Middle East) is completely legal under BIS rules and leaves the exact same SM fingerprint.\n\nNow ask yourself why a former OpenAI researcher dropped this on November 12, the exact day Jensen Huang was pushed out, with OpenAI and Anthropic immediately stepping in to \"independently verify\" it. \nUS closed-source labs are watching their paid API moats get eaten alive by free Chinese open-weights models.\n\nConflating a step-0 PRNG initialisation seed with a \"$500M smuggled Blackwell cluster\" hands DC hawks the exact pretext OpenAI and Anthropic want to regulate global cloud compute and kneecap open-source AI."
+    },
+    "url": "https://x.com/dotey/status/2121321507007893853",
+    "time": "2026-11-14 03:17",
+    "created_at": "Fri Nov 13 19:17:14 +0000 2026",
+    "id_str": "2121321507007893853",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@MyDaebakCafe https://x.com/icanc4/status/2121108389208179026?a=W1DH8p3F_ncAyf6tc8Y&s=20",
+    "quoted_tweet": {
+      "author": "vincent",
+      "username": "icanc4",
+      "text": "\"I have a major result to share.\""
+    },
+    "url": "https://x.com/dotey/status/2121321941755945341",
+    "time": "2026-11-14 03:18",
+    "created_at": "Fri Nov 13 19:18:57 +0000 2026",
+    "id_str": "2121321941755945341",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@__oQuery 我没有必要把所有代码都开源，这项目有开源的部分\n\n这部分代码不开放的原因因为不是我的\n\n真正关心这部分代码有没有开源的只有同行，对于普通用户并没有什么影响",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121327651243626726",
+    "time": "2026-11-14 03:41",
+    "created_at": "Fri Nov 13 19:41:39 +0000 2026",
+    "id_str": "2121327651243626726",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Meet Nod, your own open-source personal agent from n8n Labs\n\nAsk it to prep your calls, collect invoices or cancel a subscription\n\nIt runs on your computer with its own browser to get the job done across apps and websites, using the AI provider you choose👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/n8n_io/status/2120431328458076315",
+    "time": "2026-11-11 16:19",
+    "created_at": "Wed Nov 11 08:19:59 +0000 2026",
+    "id_str": "2120431328458076315",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Meet Nod, your own open-source personal agent from n8n Labs\n\nAsk it to prep your calls, collect invoices or cancel a subscription\n\nIt runs on your computer with its own browser to get the job done across apps and websites, using the AI provider you choose👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/n8n_io/status/2120431328458076315",
+    "time": "2026-11-11 16:19",
+    "created_at": "Wed Nov 11 08:19:59 +0000 2026",
+    "id_str": "2120431328458076315",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2120532560627572736",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2120532567401386103",
+    "time": "2026-11-11 23:02",
+    "created_at": "Wed Nov 11 15:02:16 +0000 2026",
+    "id_str": "2120532567401386103",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "https://x.com/i/article/2120532560627572736",
+    "quoted_tweet": null,
+    "url": "https://x.com/EXM7777/status/2120532567401386103",
+    "time": "2026-11-11 23:02",
+    "created_at": "Wed Nov 11 15:02:16 +0000 2026",
+    "id_str": "2120532567401386103",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@n8n_io N8N:",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2120558272810045444",
+    "time": "2026-11-12 00:44",
+    "created_at": "Wed Nov 11 16:44:24 +0000 2026",
+    "id_str": "2120558272810045444",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@EXM7777",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2120574767694786627",
+    "time": "2026-11-12 01:49",
+    "created_at": "Wed Nov 11 17:49:57 +0000 2026",
+    "id_str": "2120574767694786627",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Big little announcement: @karinanguyen and I are excited to announce a brand new course on Full-Stack Post-Training, RL & RSI at @UCBerkeley. \n\nIf you are a Berkeley student and want to learn about the frontier, enroll for the next semester.",
+    "quoted_tweet": null,
+    "url": "https://x.com/KJHMiao/status/2120588518904971498",
+    "time": "2026-11-12 02:44",
+    "created_at": "Wed Nov 11 18:44:36 +0000 2026",
+    "id_str": "2120588518904971498",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@KJHMiao @karinanguyen @UCBerkeley 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2120648813291692264",
+    "time": "2026-11-12 06:44",
+    "created_at": "Wed Nov 11 22:44:11 +0000 2026",
+    "id_str": "2120648813291692264",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "2,000,000,000 PCs sit on people's desks today.\n\nThe next billion computers?\n\nThey’ll be autonomous computers, driven by agents.\n\nIntroducing box by @Simular: one computer for ChatGPT, Claude, Codex, Gemini, DeepSeek and all your other agents.\n\nWith box, agents open apps, run the terminal, fill in forms, and stay signed in for whatever tasks come next.",
+    "quoted_tweet": null,
+    "url": "https://x.com/SimularAI/status/2120904821373096408",
+    "time": "Thu Nov 12 15:41:28 +0000 2026",
+    "created_at": "Thu Nov 12 15:41:28 +0000 2026",
+    "id_str": "2120904821373096408",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Your laptop isn't built for running agents.\n\nIntroducing @instabox_sh: cloud computers for AI agents.\n\nWe provide multi-OS sandboxes (Linux, Android, Mac, Windows) with GPU and CPU.\n\nWe launched in beta <1 month ago, and today, users have created 1M+ boxes.\n\nGive agents their own cloud computers so they don't fight over the same memory, CPU, and ports on your laptop.\n\nClose your laptop, and they keep working.\n\nGet started today → http://instabox.sh",
+    "quoted_tweet": null,
+    "url": "https://x.com/hanghuang_/status/2120909505290756137",
+    "time": "Thu Nov 12 16:00:05 +0000 2026",
+    "created_at": "Thu Nov 12 16:00:05 +0000 2026",
+    "id_str": "2120909505290756137",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Coding agents write mobile code faster than any team can review it.\n\n🙌 Introducing Expo Simulators: cloud simulators built for agents.\n\nYour agent runs its change on a cloud simulator or emulator and brings back the recording before it asks for your attention.",
+    "quoted_tweet": null,
+    "url": "https://x.com/expo/status/2120924979898601506",
+    "time": "Thu Nov 12 17:01:34 +0000 2026",
+    "created_at": "Thu Nov 12 17:01:34 +0000 2026",
+    "id_str": "2120924979898601506",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Retell just crossed $100M in revenue run rate.\n\n$10M to $100M in 17 months. Profitable. $4.6M raised.\n\nFrom day one, we’ve focused on solving the hardest parts of deploying voice AI in the product itself, so customers can build, manage, and improve their own agents without depending on us.\n\nOur bet: the future of the contact center belongs to the teams who run it.\n\nProud of our team. Grateful to every customer who believed in us.",
+    "quoted_tweet": null,
+    "url": "https://x.com/_bingwu/status/2120925189647315177",
+    "time": "Thu Nov 12 17:02:24 +0000 2026",
+    "created_at": "Thu Nov 12 17:02:24 +0000 2026",
+    "id_str": "2120925189647315177",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Retell just crossed $100M in revenue run rate.\n\n$10M to $100M in 17 months. Profitable. $4.6M raised.\n\nFrom day one, we’ve focused on solving the hardest parts of deploying voice AI in the product itself, so customers can build, manage, and improve their own agents without depending on us.\n\nOur bet: the future of the contact center belongs to the teams who run it.\n\nProud of our team. Grateful to every customer who believed in us.",
+    "quoted_tweet": null,
+    "url": "https://x.com/_bingwu/status/2120925189647315177",
+    "time": "Thu Nov 12 17:02:24 +0000 2026",
+    "created_at": "Thu Nov 12 17:02:24 +0000 2026",
+    "id_str": "2120925189647315177",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@_bingwu Most of the agent work happens after\nlaunch, good to see a platform for that!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2120943196566061137",
+    "time": "Thu Nov 12 18:13:57 +0000 2026",
+    "created_at": "Thu Nov 12 18:13:57 +0000 2026",
+    "id_str": "2120943196566061137",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Friend of mine is currently a top 1% Palantir FDE and is looking for his next role. \n\nWants high ownership, a cracked team, and a cool industry. \n\nOne of the smartest and hardest working people I know, will be an asset to any team. \n\nIf you're hiring shoot me a DM and I'll intro.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121039511891358203",
+    "time": "2026-11-13 08:36",
+    "created_at": "Fri Nov 13 00:36:41 +0000 2026",
+    "id_str": "2121039511891358203",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman I thought you’re hiring these kinds of people ???👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/jonathangold_/status/2121041167957602451",
+    "time": "2026-11-13 08:43",
+    "created_at": "Fri Nov 13 00:43:16 +0000 2026",
+    "id_str": "2121041167957602451",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jonathangold_ Standing rule of I don't hire friends 👀 but he's good",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121041464474083765",
+    "time": "2026-11-13 08:44",
+    "created_at": "Fri Nov 13 00:44:26 +0000 2026",
+    "id_str": "2121041464474083765",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman would love to get him into our portfolio!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emily__man/status/2121057261057634520",
+    "time": "2026-11-13 09:47",
+    "created_at": "Fri Nov 13 01:47:13 +0000 2026",
+    "id_str": "2121057261057634520",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@emily__man DM?",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121061837894717941",
+    "time": "2026-11-13 10:05",
+    "created_at": "Fri Nov 13 02:05:24 +0000 2026",
+    "id_str": "2121061837894717941",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "dario when its time to remember the names of his day ones:",
+    "quoted_tweet": {
+      "author": "NVIDIA",
+      "username": "nvidia",
+      "text": "We proudly gave @OpenAI our NVIDIA DGX-1 supercomputer to work on #AI's toughest problems. http://nvda.ws/2aRtOhE"
+    },
+    "url": "https://x.com/diz__zee/status/2121181726630425032",
+    "time": "2026-11-13 18:01",
+    "created_at": "Fri Nov 13 10:01:47 +0000 2026",
+    "id_str": "2121181726630425032",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "In SF 11/17 - 24 who should I meet",
+    "quoted_tweet": null,
+    "url": "https://x.com/sfakkawi/status/2121254535218024554",
+    "time": "2026-11-13 22:51",
+    "created_at": "Fri Nov 13 14:51:06 +0000 2026",
+    "id_str": "2121254535218024554",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@diz__zee 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121286468413100418",
+    "time": "2026-11-14 00:58",
+    "created_at": "Fri Nov 13 16:58:00 +0000 2026",
+    "id_str": "2121286468413100418",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman @sfakkawi hq?",
+    "quoted_tweet": null,
+    "url": "https://x.com/jacob_posel/status/2121302492793524468",
+    "time": "2026-11-14 02:01",
+    "created_at": "Fri Nov 13 18:01:40 +0000 2026",
+    "id_str": "2121302492793524468",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@vasuman @sfakkawi can i come too",
+    "quoted_tweet": null,
+    "url": "https://x.com/imranye/status/2121310064674033717",
+    "time": "2026-11-14 02:31",
+    "created_at": "Fri Nov 13 18:31:46 +0000 2026",
+    "id_str": "2121310064674033717",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@imranye @sfakkawi Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121315753630781909",
+    "time": "2026-11-14 02:54",
+    "created_at": "Fri Nov 13 18:54:22 +0000 2026",
+    "id_str": "2121315753630781909",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jacob_posel @sfakkawi Did someone say.... HQ?",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121315785981472854",
+    "time": "2026-11-14 02:54",
+    "created_at": "Fri Nov 13 18:54:30 +0000 2026",
+    "id_str": "2121315785981472854",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "This never would've happened if they used Varick Agents.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121373379697799612",
+    "time": "2026-11-14 06:43",
+    "created_at": "Fri Nov 13 22:43:21 +0000 2026",
+    "id_str": "2121373379697799612",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Jensen did not wake up a loser",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "\" You're gonna be remembered forever because some things are eternal.\""
+    },
+    "url": "https://x.com/eriktorenberg/status/2121118440899612834",
+    "time": "2026-11-13 13:50",
+    "created_at": "Fri Nov 13 05:50:19 +0000 2026",
+    "id_str": "2121118440899612834",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Jensen",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "\" You're gonna be remembered forever because some things are eternal.\""
+    },
+    "url": "https://x.com/elonmusk/status/2121118775210868871",
+    "time": "2026-11-13 13:51",
+    "created_at": "Fri Nov 13 05:51:39 +0000 2026",
+    "id_str": "2121118775210868871",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The market for drugs is deep and diversified, and the size of the prize is huge if you get it right. A single blockbuster drug can generate annual revenue on the scale of a major software company.\n\nPharma has unusual economics – it's a hits business in drug development and an annuity business once a drug succeeds.\n\nAI could change both by improving the odds of success and simultaneously decreasing development time and cost.\n\nFull piece on why AI will make pharma even bigger: http://a16z.news/p/big-pharma-can-rival-big-software",
+    "quoted_tweet": {
+      "author": "Alex Immerman",
+      "username": "aleximm",
+      "text": "https://x.com/i/article/2121250806393663488"
+    },
+    "url": "https://x.com/a16z/status/2121263105900794256",
+    "time": "2026-11-13 23:25",
+    "created_at": "Fri Nov 13 15:25:10 +0000 2026",
+    "id_str": "2121263105900794256",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Wiz co-founder and CTO Ami Luttwak says AI can now carry out cyberattacks in 20 minutes that once took skilled attackers weeks or months.\n\nIn his view, companies need to continuously attack their own systems with the latest AI models to stay secure. For startups, that means building automated testing and patching into the development process from the beginning.\n\nAmi joins a16z's Sarah Wang and Zane Lackey to discuss what changed during Black October, why patching is falling behind, the cost of continuous security testing, and why better security architecture matters more than simply buying more tools.\n\n0:00 Intro\n1:04 Welcome to Black October\n3:19 How AI made every day a zero day\n6:51 The PHP vulnerability: 70% of the internet\n9:19 Why patching can't keep up\n11:32 How Wiz uses AI to find vulnerabilities\n16:59 The cost of continuous testing\n19:23 Cloud security in the AI era\n22:18 The red agent: attack yourself first\n26:41 Agent swarms attacking your own systems\n28:43 What founders must do before they ship\n32:15 Where security budgets should go\n36:10 Most of what security teams do isn't security\n43:34 Scan for Good and public infrastructure\n\nYouTube: http://youtu.be/PbD9pVXxsYM\n\n@amiluttwak @sarahdingwang @zanelackey",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2121269950816145544",
+    "time": "2026-11-13 23:52",
+    "created_at": "Fri Nov 13 15:52:22 +0000 2026",
+    "id_str": "2121269950816145544",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "If you listen to one podcast this week, listen to this one. \n\nAs the CTO/Co-founder of Wiz, CTO of MSFT Cloud Security, CTO/Co-founder of Adallom, @amiluttwak has spent his entire career finding what others miss...and building what comes next.\n\nAmi unpacks Black October, the explosion of vulnerabilities, AI attacks on AI infra, agent swarms, and why + how the entire security industry needs to change. \n\n@zanelackey",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Wiz co-founder and CTO Ami Luttwak says AI can now carry out cyberattacks in 20 minutes that once took skilled attackers weeks or months.\n\nIn his view, companies need to continuously attack their own systems with the latest AI models to stay secure. For startups, that means building automated testing and patching into the development process from the beginning.\n\nAmi joins a16z's Sarah Wang and Zane Lackey to discuss what changed during Black October, why patching is falling behind, the cost of continuous security testing, and why better security architecture matters more than simply buying more tools.\n\n0:00 Intro\n1:04 Welcome to Black October\n3:19 How AI made every day a zero day\n6:51 The PHP vulnerability: 70% of the internet\n9:19 Why patching can't keep up\n11:32 How Wiz uses AI to find vulnerabilities\n16:59 The cost of continuous testing\n19:23 Cloud security in the AI era\n22:18 The red agent: attack yourself first\n26:41 Agent swarms attacking your own systems\n28:43 What founders must do before they ship\n32:15 Where security budgets should go\n36:10 Most of what security teams do isn't security\n43:34 Scan for Good and public infrastructure\n\nYouTube: http://youtu.be/PbD9pVXxsYM\n\n@amiluttwak @sarahdingwang @zanelackey"
+    },
+    "url": "https://x.com/sarahdingwang/status/2121283682946453530",
+    "time": "2026-11-14 00:46",
+    "created_at": "Fri Nov 13 16:46:56 +0000 2026",
+    "id_str": "2121283682946453530",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Developing a drug takes years, and most candidates never reach patients.\n\nAmortizing the cost of failed drugs across stages, the present value cost of developing a drug is close to $2B. The process takes 13 years on average, with rising clinical trial costs putting further pressure on R&D productivity.\n\nAI could improve those economics by increasing the probability of success and reducing development time, from identifying promising molecules to designing clinical trials and improving patient recruitment.\n\nThat may enable companies to pursue therapeutic targets and indications that might otherwise have been uneconomical.\n\nFull piece on why AI will make pharma even bigger: http://a16z.news/p/big-pharma-can-rival-big-software",
+    "quoted_tweet": {
+      "author": "Alex Immerman",
+      "username": "aleximm",
+      "text": "https://x.com/i/article/2121250806393663488"
+    },
+    "url": "https://x.com/a16z/status/2121290755939635574",
+    "time": "2026-11-14 01:15",
+    "created_at": "Fri Nov 13 17:15:02 +0000 2026",
+    "id_str": "2121290755939635574",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Wiz co-founder and CTO Ami Luttwak says cyberattacks on startups can happen faster than ever:\n\n\"I work with the CEOs of startups that are getting attacked. Let's just be in their shoes. You wake up, and your security team says, 'Something bad happened overnight. We tried to stop it, but they got in.'\"\n\n\"The entire attack, again, takes 20 minutes... from the time they get in until they take all of the secrets, all of the AI keys of all of the customers. And now you have to figure out what are you going to say to all of the customers, and what you're going to do.\"\n\n\"But if I'm a startup, especially if I have anything attackers want... I am on their target. It doesn't have to be a big company.\"\n\n\"If you have AI keys, probably better to put a limit on them, because if they steal them, you don't wanna get a lot of charges, which we see happen a lot, and it's really, really sad. But also make sure that if you have a target on your back, you do need to put a lot of focus on security.\"\n\n@amiluttwak",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Wiz co-founder and CTO Ami Luttwak says AI can now carry out cyberattacks in 20 minutes that once took skilled attackers weeks or months.\n\nIn his view, companies need to continuously attack their own systems with the latest AI models to stay secure. For startups, that means building automated testing and patching into the development process from the beginning.\n\nAmi joins a16z's Sarah Wang and Zane Lackey to discuss what changed during Black October, why patching is falling behind, the cost of continuous security testing, and why better security architecture matters more than simply buying more tools.\n\n0:00 Intro\n1:04 Welcome to Black October\n3:19 How AI made every day a zero day\n6:51 The PHP vulnerability: 70% of the internet\n9:19 Why patching can't keep up\n11:32 How Wiz uses AI to find vulnerabilities\n16:59 The cost of continuous testing\n19:23 Cloud security in the AI era\n22:18 The red agent: attack yourself first\n26:41 Agent swarms attacking your own systems\n28:43 What founders must do before they ship\n32:15 Where security budgets should go\n36:10 Most of what security teams do isn't security\n43:34 Scan for Good and public infrastructure\n\nYouTube: http://youtu.be/PbD9pVXxsYM\n\n@amiluttwak @sarahdingwang @zanelackey"
+    },
+    "url": "https://x.com/a16z/status/2121308931960307773",
+    "time": "2026-11-14 02:27",
+    "created_at": "Fri Nov 13 18:27:16 +0000 2026",
+    "id_str": "2121308931960307773",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "A working exploit once took a professional a median of 22 days to develop. Recent AI-assisted examples have taken hours.\n\n@amiluttwak: \" If you have AI keys, it's probably better to put a limit on them... If you have a target on your back, you do need to put a lot of focus on security.\"",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Wiz co-founder and CTO Ami Luttwak says cyberattacks on startups can happen faster than ever:\n\n\"I work with the CEOs of startups that are getting attacked. Let's just be in their shoes. You wake up, and your security team says, 'Something bad happened overnight. We tried to stop it, but they got in.'\"\n\n\"The entire attack, again, takes 20 minutes... from the time they get in until they take all of the secrets, all of the AI keys of all of the customers. And now you have to figure out what are you going to say to all of the customers, and what you're going to do.\"\n\n\"But if I'm a startup, especially if I have anything attackers want... I am on their target. It doesn't have to be a big company.\"\n\n\"If you have AI keys, probably better to put a limit on them, because if they steal them, you don't wanna get a lot of charges, which we see happen a lot, and it's really, really sad. But also make sure that if you have a target on your back, you do need to put a lot of focus on security.\"\n\n@amiluttwak"
+    },
+    "url": "https://x.com/a16z/status/2121317244907212831",
+    "time": "2026-11-14 03:00",
+    "created_at": "Fri Nov 13 19:00:18 +0000 2026",
+    "id_str": "2121317244907212831",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Pharmaceutical companies are among the largest, most profitable, and most strategically important businesses in the world.\n\nThe top 30 pharma companies represent roughly $5T of market cap. Eli Lilly alone has a market capitalization of over $1T, putting it in a club historically dominated by tech darlings.\n\nIn Q3 2026 alone, Lilly's GLP-1 portfolio did close to $17B, nearly matching Anthropic's revenue in that quarter. Analysts expect Lilly's GLP-1 portfolio to grow to over $100B in annual sales by 2030.\n\nBig Pharma Can Rival Big Software: http://a16z.news/p/big-pharma-can-rival-big-software",
+    "quoted_tweet": {
+      "author": "Alex Immerman",
+      "username": "aleximm",
+      "text": "https://x.com/i/article/2121250806393663488"
+    },
+    "url": "https://x.com/a16z/status/2121347424107258202",
+    "time": "2026-11-14 05:00",
+    "created_at": "Fri Nov 13 21:00:13 +0000 2026",
+    "id_str": "2121347424107258202",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@sadece1923 为了不和文明脱轨",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2121228724595249364",
+    "time": "2026-11-13 21:08",
+    "created_at": "Fri Nov 13 13:08:33 +0000 2026",
+    "id_str": "2121228724595249364",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "Deepseek发布大一统API\n\n联网搜索、深度思考、传文件、读链接全包了\n\n底层能力还能单独拆出来用：\n\n比如 OCR（文字识别）、ASR（语音识别）、TTS（语音合成）都能独立调用\n\n价格也很美丽🫡",
+    "quoted_tweet": {
+      "author": "DeepSeek",
+      "username": "deepseek_ai",
+      "text": "🚀 The full DeepSeek App experience, now via API\n\nSearch, files, links, safety, and voice. The capabilities behind the DeepSeek App are now available through the DeepSeek API.\nEnable built-in features with a few parameters, or call standalone APIs such as OCR, ASR, and TTS. Build richer conversations or recreate the full DeepSeek App in your own application.\n\nTry our open-source frontend demo, with support for importing DeepSeek conversation history.\n\n🔗 Demo: https://cdn.deepseek.com/chat-demo\n📦 Code: https://github.com/deepseek-ai/chat-demo\n📖 Details: https://api-docs.deepseek.com/guides/build_a_chatbot\n\n1/4"
+    },
+    "url": "https://x.com/xiaohu/status/2121264341236564386",
+    "time": "2026-11-13 23:30",
+    "created_at": "Fri Nov 13 15:30:04 +0000 2026",
+    "id_str": "2121264341236564386",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Two ways to spot AI in writing is: \n\n* em-dashes  in younger population (and the most reason that most humans don't know where em-dash is on the keyboard, so usually if someone younger uses it, it's AI) \n\n* everything goes by three in sentences \n(example: \"it's just me, a laptop and a lot of open tabs\")",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121304641044410576",
+    "time": "2026-11-14 02:10",
+    "created_at": "Fri Nov 13 18:10:13 +0000 2026",
+    "id_str": "2121304641044410576",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Not yet! Have you tried HDR videos? My app @InfiniteArtai converts any video to HDR for awesome brightness!",
+    "quoted_tweet": null,
+    "url": "https://x.com/jamesgrote/status/2121308092830978256",
+    "time": "2026-11-14 02:23",
+    "created_at": "Fri Nov 13 18:23:55 +0000 2026",
+    "id_str": "2121308092830978256",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jamesgrote @InfiniteArtai I used Luma for HDR generations in the past but mostly make 2D animations that don't require it. I'll take a look at your app",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121308438969954348",
+    "time": "2026-11-14 02:25",
+    "created_at": "Fri Nov 13 18:25:18 +0000 2026",
+    "id_str": "2121308438969954348",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "It's really hard. I would recommend making several accounts with very niche type of sharing. For example, if it's an animation series it shall be consistent. If it's tutorials, only that. It's much better to break through with different type of content. In my case I was just too early, but where AI is now there's just too many people sharing same stuff.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121309055725842792",
+    "time": "2026-11-14 02:27",
+    "created_at": "Fri Nov 13 18:27:45 +0000 2026",
+    "id_str": "2121309055725842792",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Would you make an AI clone of your own voice?",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlennHasABeard/status/2121313224863760526",
+    "time": "2026-11-14 02:44",
+    "created_at": "Fri Nov 13 18:44:19 +0000 2026",
+    "id_str": "2121313224863760526",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlennHasABeard I did a long time ago \nVoice, likeness \nAnd open sourced it for anyone to use for any type of research and education",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121313497707638878",
+    "time": "2026-11-14 02:45",
+    "created_at": "Fri Nov 13 18:45:24 +0000 2026",
+    "id_str": "2121313497707638878",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I don’t want to, but at some point I may have to. My big project is only just now actually hitting launch, and it’s not viral material.\n\nAlso, my passion project has cost a lot. I stopped having a social life of any kind because of it. For years. Because I gave up a lot to learn the tools and to do this project and stopped having time for other stuff. I was a hermit this whole time. I thought it would bring in people to connect to, but that has been on the internet and not in real life, and I’d need people to participate and engage.",
+    "quoted_tweet": null,
+    "url": "https://x.com/D_the_Designer/status/2121314502155374778",
+    "time": "2026-11-14 02:49",
+    "created_at": "Fri Nov 13 18:49:24 +0000 2026",
+    "id_str": "2121314502155374778",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@D_the_Designer @Xenotopos I hope you both create and don't give up!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121314659982524823",
+    "time": "2026-11-14 02:50",
+    "created_at": "Fri Nov 13 18:50:01 +0000 2026",
+    "id_str": "2121314659982524823",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I created an animation series about my grandmother and it's been the most healing and wholesome experience. \n\nI animate moments in my childhood I want to relive. I create an episode every day. It feels like spending time with my grandma, just like we did in childhood.\n\nI made 17 episodes, got 160k+ views, 435 people following my account who has been lovely and I wouldn't have met any other way. \n\nI hope you create something like this just for your own enjoyment and heart. Not everything is about virality.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121316904472080546",
+    "time": "2026-11-14 02:58",
+    "created_at": "Fri Nov 13 18:58:56 +0000 2026",
+    "id_str": "2121316904472080546",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Thanks to Kris for trying my RTS! She ended up waiting in the multiplayer lobby for a second player.\n\nMade me realize solo play needs to be much easier to find. Fixing that next.\n\nhttps://x.com/icreatelife/status/2121074903763787835",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "@eridots Waiting for another player"
+    },
+    "url": "https://x.com/eridots/status/2121317176116400484",
+    "time": "2026-11-14 03:00",
+    "created_at": "Fri Nov 13 19:00:01 +0000 2026",
+    "id_str": "2121317176116400484",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@eridots I am going to play solo mode this weekend!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121317530212155690",
+    "time": "2026-11-14 03:01",
+    "created_at": "Fri Nov 13 19:01:26 +0000 2026",
+    "id_str": "2121317530212155690",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Support people building stuff",
+    "quoted_tweet": {
+      "author": "Eri Dervishi",
+      "username": "eridots",
+      "text": "Thanks to Kris for trying my RTS! She ended up waiting in the multiplayer lobby for a second player.\n\nMade me realize solo play needs to be much easier to find. Fixing that next.\n\nhttps://x.com/icreatelife/status/2121074903763787835"
+    },
+    "url": "https://x.com/icreatelife/status/2121317728439152766",
+    "time": "2026-11-14 03:02",
+    "created_at": "Fri Nov 13 19:02:13 +0000 2026",
+    "id_str": "2121317728439152766",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That's amazing.  I'd love to do something similar about my Oma.  Would you mind sharing the tech stack you used and publishing platform? 😊",
+    "quoted_tweet": null,
+    "url": "https://x.com/SaintandSpecter/status/2121318114801385812",
+    "time": "2026-11-14 03:03",
+    "created_at": "Fri Nov 13 19:03:45 +0000 2026",
+    "id_str": "2121318114801385812",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife As a writer I am a lover of em dash as rhythm breaks. There's a ton of other AI tells. Mostly it's people who are lazy and post the first draft AI wrote and it shows  😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/falcothebard/status/2121318373758038263",
+    "time": "2026-11-14 03:04",
+    "created_at": "Fri Nov 13 19:04:47 +0000 2026",
+    "id_str": "2121318373758038263",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@SaintandSpecter I publish on Instagram. I work at Adobe so I use Adobe tools to make it: Firefly Boards, Seedance 2.5, Premiere Pro and also I use Claude and Grok Bot to keep organized",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121318662783000886",
+    "time": "2026-11-14 03:05",
+    "created_at": "Fri Nov 13 19:05:56 +0000 2026",
+    "id_str": "2121318662783000886",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@falcothebard For me the most important isn't even who wrote it but if the human read it before sending 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121318867481809194",
+    "time": "2026-11-14 03:06",
+    "created_at": "Fri Nov 13 19:06:44 +0000 2026",
+    "id_str": "2121318867481809194",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You have a regular CreativeCloud account ? I never use my credits !",
+    "quoted_tweet": null,
+    "url": "https://x.com/lex_artdir/status/2121320677127213057",
+    "time": "2026-11-14 03:13",
+    "created_at": "Fri Nov 13 19:13:56 +0000 2026",
+    "id_str": "2121320677127213057",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I went fully time this year. This is an amazing project idea and I'd love to help!",
+    "quoted_tweet": null,
+    "url": "https://x.com/jerrod_lew/status/2121320868441935928",
+    "time": "2026-11-14 03:14",
+    "created_at": "Fri Nov 13 19:14:41 +0000 2026",
+    "id_str": "2121320868441935928",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@lex_artdir So this one is my personal account, which is Firefly Pro (it has 50,000 credits).",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121321108817445196",
+    "time": "2026-11-14 03:15",
+    "created_at": "Fri Nov 13 19:15:39 +0000 2026",
+    "id_str": "2121321108817445196",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jerrod_lew That's great! Maybe we can mentor for free people together.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121321244478112247",
+    "time": "2026-11-14 03:16",
+    "created_at": "Fri Nov 13 19:16:11 +0000 2026",
+    "id_str": "2121321244478112247",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dvorahfr Happy birthday",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121347432445317288",
+    "time": "2026-11-14 05:00",
+    "created_at": "Fri Nov 13 21:00:15 +0000 2026",
+    "id_str": "2121347432445317288",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Thanks to the new feature of long carousels on X, I can at last share my full comic book “Zarya of the Dawn” made with AI in August 2022. \n\nMaking this changed my life and thanks to it I met you all",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121367166880772240",
+    "time": "2026-11-14 06:18",
+    "created_at": "Fri Nov 13 22:18:40 +0000 2026",
+    "id_str": "2121367166880772240",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Love seeing this in complete form. Still so amazing.",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2121368748951048411",
+    "time": "2026-11-14 06:24",
+    "created_at": "Fri Nov 13 22:24:57 +0000 2026",
+    "id_str": "2121368748951048411",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121369229144609225",
+    "time": "2026-11-14 06:26",
+    "created_at": "Fri Nov 13 22:26:52 +0000 2026",
+    "id_str": "2121369229144609225",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "❤️",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Thanks to the new feature of long carousels on X, I can at last share my full comic book “Zarya of the Dawn” made with AI in August 2022. \n\nMaking this changed my life and thanks to it I met you all"
+    },
+    "url": "https://x.com/D_the_Designer/status/2121369356722671828",
+    "time": "2026-11-14 06:27",
+    "created_at": "Fri Nov 13 22:27:22 +0000 2026",
+    "id_str": "2121369356722671828",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@D_the_Designer 🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121369585379369106",
+    "time": "2026-11-14 06:28",
+    "created_at": "Fri Nov 13 22:28:16 +0000 2026",
+    "id_str": "2121369585379369106",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife If I just build a tool, do you recommend starting a fresh account just for the tool or Creator account. This current account is for passing time and trolling every so often but also sharing AI.\n\nLove to hear feedback",
+    "quoted_tweet": null,
+    "url": "https://x.com/ilovesheeple/status/2121371568743817531",
+    "time": "2026-11-14 06:36",
+    "created_at": "Fri Nov 13 22:36:09 +0000 2026",
+    "id_str": "2121371568743817531",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@forgedusa1 @icreatelife No worries! That’s between the two of you. Enjoy the rest of your day 🫶🏼",
+    "quoted_tweet": null,
+    "url": "https://x.com/caffeineisweak/status/2121372748647674357",
+    "time": "2026-11-14 06:40",
+    "created_at": "Fri Nov 13 22:40:51 +0000 2026",
+    "id_str": "2121372748647674357",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ilovesheeple Tool accounts are hard to grow to be honest, you can make one because most creators do that but share mostly in creator account",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121372959017410695",
+    "time": "2026-11-14 06:41",
+    "created_at": "Fri Nov 13 22:41:41 +0000 2026",
+    "id_str": "2121372959017410695",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@caffeineisweak @forgedusa1 I try to reply to everyone so not sure what you mean",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121373110737788930",
+    "time": "2026-11-14 06:42",
+    "created_at": "Fri Nov 13 22:42:17 +0000 2026",
+    "id_str": "2121373110737788930",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Midnightballoon Congrats on finishing the project",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121373256024465579",
+    "time": "2026-11-14 06:42",
+    "created_at": "Fri Nov 13 22:42:52 +0000 2026",
+    "id_str": "2121373256024465579",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@DeCat2025 Love this!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121373278858023185",
+    "time": "2026-11-14 06:42",
+    "created_at": "Fri Nov 13 22:42:57 +0000 2026",
+    "id_str": "2121373278858023185",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LillyLiCT That’s great Lilly!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121373405089804570",
+    "time": "2026-11-14 06:43",
+    "created_at": "Fri Nov 13 22:43:27 +0000 2026",
+    "id_str": "2121373405089804570",
+    "is_retweet": false
   }
 ]
