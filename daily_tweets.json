@@ -138,5 +138,179 @@
     "created_at": "Fri Nov 13 23:23:48 +0000 2026",
     "id_str": "2121383557348368737",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "昨天这一天乱七八糟的，现在美国的 FAA 电信系统中断了，所有飞机都停飞了",
+    "quoted_tweet": {
+      "author": "The FAA ✈️",
+      "username": "FAANews",
+      "text": "There has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted. Every flight has been accounted for and international flights will be handled on a case by case basis."
+    },
+    "url": "https://x.com/op7418/status/2121421288636035243",
+    "time": "2026-11-14 09:53",
+    "created_at": "Sat Nov 14 01:53:43 +0000 2026",
+    "id_str": "2121421288636035243",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Antigravity 也重置了👍",
+    "quoted_tweet": {
+      "author": "Varun Mohan",
+      "username": "_mohansolo",
+      "text": "To mark a week of relentless shipping, we’re resetting everyone’s Gemini quota on Antigravity!\n\nGo build something amazing with swarms 🚀"
+    },
+    "url": "https://x.com/dotey/status/2121382030273647058",
+    "time": "2026-11-14 07:17",
+    "created_at": "Fri Nov 13 23:17:44 +0000 2026",
+    "id_str": "2121382030273647058",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "24 小时在线的 AI Agent 助理，靠这五样东西\n\n一直在线的 AI 助理，会盯邮件、等回复、到点提醒你。可它大部分时间其实在睡觉，不调用模型，也不花钱。\n\nAnthropic 刚发文拆开讲了这种一直在线的 Agent：\n一件事进了收件箱，它才醒过来跑一次；\n定时器让它没人叫也能主动；\n记忆文件夹让它醒来还记得你；\n权限让它拿着你的账号也不乱来；\n发件箱决定它什么时候开口。\n\n这期一样一样讲清楚：它怎么醒、两件事同时来会不会打架、记忆为什么要省、要紧的事怎么等你拍板，以及为什么一开始最好让它安静一点。\n\n来源\n- Anthropic《Building always-on agents》（2026.11.13），作者 William Hu：https://claude.com/resources/articles/building-always-on-agents",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121406975279792268",
+    "time": "2026-11-14 08:56",
+    "created_at": "Sat Nov 14 00:56:51 +0000 2026",
+    "id_str": "2121406975279792268",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "桌面版的 Claude Code 现在也可以用 mods 构建自定义主题皮肤了",
+    "quoted_tweet": {
+      "author": "ClaudeDevs",
+      "username": "ClaudeDevs",
+      "text": "You can now build custom themes for Claude Code on desktop with mods! Change the colors, add an animated background, and make it your own.\n\nJust tell Claude how you want it to look, or get started quickly with the theme-examples plugin. We'd love to see what you make!"
+    },
+    "url": "https://x.com/dotey/status/2121407633089245442",
+    "time": "2026-11-14 08:59",
+    "created_at": "Sat Nov 14 00:59:28 +0000 2026",
+    "id_str": "2121407633089245442",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "并非如此，恰好相反，博而不精的人毫无机会。\n\n搜索引擎时代，百科全书式的人才已经式微。\n\n大模型时代，能言善辩的人也不再吃香；没人比大模型更滔滔不绝、旁征博引。\n\n最擅长 AI 的人才画像是，在几个重要的元学科和元技术上有较深的掌握的 H 型人才。 \n\n数学、物理、心理学、计算机科学等属于元学科，以不同的视角刻画了世界的某一方面，并且是重要方面，缺少其中任意一个，在很多问题里容易陷入结构性盲区。\n\n编译器/打包器开发、编程语言设计与实现、库/框架开发、软件架构设计等属于元技术，服务于技术事物的技术，缺少其一，很多方案难以想象。\n\n你可以看看这几年 AI/Agent Infra 和成功的 AI/Agent 产品背后的核心人物的知识背景和技术背景，感受一下元学科/元技术方面的浓度。\n\n@grok 列举几个。",
+    "quoted_tweet": {
+      "author": "William Long",
+      "username": "williamlong",
+      "text": "最适合用 AI 的，是那种什么都懂一点，但什么都不精通的人。"
+    },
+    "url": "https://x.com/guyingjie129/status/2121414054082494631",
+    "time": "2026-11-14 09:24",
+    "created_at": "Sat Nov 14 01:24:59 +0000 2026",
+    "id_str": "2121414054082494631",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "无论是 Grokbot / Dots 那样一个主会话，还是 Claude Code 那样一堆 Session 都是不够好的。\n\n只有主会话意味着子任务你无法干预细节，无法像 Session 那样看到执行的细节，不方便去补充上下文和干预。\n\n就好比你是老板，你给部门总监安排活，他们任务的执行情况对你是不透明的，你不能越过他们去看任务的执行情况和调整。\n\n很多 Session 的问题在于管理起来很累，人需要自己去记住哪个 session 在干什么。就好比你直接管理所有项目，是每个项目的项目经理。\n\n理想状况下，需要两者的结合：\n人只要盯主对话，每次人往会话发消息的时候，会话的协调器决定你的消息是普通对话，还是说属于某个任务。\n\n对于具体的任务，应该是能点开去干预的。\n\n就好比你是一个老板，每一个 Bot/Channel 的主会话就相当于一个部门负责人，你只需要去和负责人打交道，负责人去派活，但是理想情况下你要能越过负责任去看任务细节，直接指挥。",
+    "quoted_tweet": {
+      "author": "轩源",
+      "username": "4xy",
+      "text": "今日思辨：\n\n并行任务交给协调器盯进度，人只看主对话？\n\n还是\n\n人自己分别打开每条线程盯进度？"
+    },
+    "url": "https://x.com/dotey/status/2121434782433190063",
+    "time": "2026-11-14 10:47",
+    "created_at": "Sat Nov 14 02:47:21 +0000 2026",
+    "id_str": "2121434782433190063",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 大佬，你的评论区实在是 AI 泛滥。",
+    "quoted_tweet": null,
+    "url": "https://x.com/YongLeo11770/status/2121437038402789787",
+    "time": "2026-11-14 10:56",
+    "created_at": "Sat Nov 14 02:56:19 +0000 2026",
+    "id_str": "2121437038402789787",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我們的做法是不靠一個主會話：拆成好幾個 bot，一個 bot 只管一件事（X 草稿、數據、網站新聞），每個都有自己的對話，要插手就直接進那個 bot 補上下文。bot 之間很少互相傳話，主要讀寫同一批共用的 Markdown 檔，誰做了什麼都查得到。",
+    "quoted_tweet": null,
+    "url": "https://x.com/pcatdev/status/2121437662108320124",
+    "time": "2026-11-14 10:58",
+    "created_at": "Sat Nov 14 02:58:47 +0000 2026",
+    "id_str": "2121437662108320124",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@pcatdev 我描述的不够清楚，每个Bot或者说Channel一个主会话",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121439534684516723",
+    "time": "2026-11-14 11:06",
+    "created_at": "Sat Nov 14 03:06:14 +0000 2026",
+    "id_str": "2121439534684516723",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@YongLeo11770 我也是受害者",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121439580880867808",
+    "time": "2026-11-14 11:06",
+    "created_at": "Sat Nov 14 03:06:25 +0000 2026",
+    "id_str": "2121439580880867808",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey cindy的解法是不是比较符合宝玉老师的概念呢，cindy是bot和会话同时存在，并且可以观测干预的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/okkerma/status/2121442774822383986",
+    "time": "2026-11-14 11:19",
+    "created_at": "Sat Nov 14 03:19:06 +0000 2026",
+    "id_str": "2121442774822383986",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@okkerma Cindy 我还没试，Claude Duet 相对做的是比较清晰的，我个人比较喜欢。\n但是 Duet 偏办公和效率应用，如果是普通用户，也许会更喜欢 Grokbot 那种不需要看到任务的。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121443860983492843",
+    "time": "2026-11-14 11:23",
+    "created_at": "Sat Nov 14 03:23:25 +0000 2026",
+    "id_str": "2121443860983492843",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@yunta_tsai A petition is underway to reinstate Jensen and I’m signing it too",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2121345211959804234",
+    "time": "2026-11-14 04:51",
+    "created_at": "Fri Nov 13 20:51:25 +0000 2026",
+    "id_str": "2121345211959804234",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "A winner is a loser who tried one more time. \nRemember that when you make content or build anything. Pivot fast but keep creating and sharing.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121389866172686497",
+    "time": "2026-11-14 07:48",
+    "created_at": "Fri Nov 13 23:48:52 +0000 2026",
+    "id_str": "2121389866172686497",
+    "is_retweet": false
   }
 ]
