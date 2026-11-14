@@ -1,1 +1,224 @@
-[]
+[
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "C 大推荐的一个新的 agent 产品，挺开放的，功能也比较全面",
+    "quoted_tweet": {
+      "author": "𝗖𝘆𝗱𝗶𝗮𝗿",
+      "username": "Cydiar404",
+      "text": "近期在深度体验兄弟团队的 Enconvo 客户端，效率 + 3D Talk Avatar + 灵动岛的体验真的太舒服了，它不是 Javis 而是 Marvis，推荐给大家！我也会定期给大家发送一些福利（顶级模型免费 Token、内测体验邀请、官方全球大使邀请） https://x.com/i/article/2120765937364123648"
+    },
+    "url": "https://x.com/op7418/status/2121586881347588530",
+    "time": "2026-11-14 20:51",
+    "created_at": "Sat Nov 14 12:51:44 +0000 2026",
+    "id_str": "2121586881347588530",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我非常能理解宝玉老师的这个感受，可以分享下我们目前的做法。\n\n第一阶段，单bot模型单对话窗口。\n\n直接使用一个bot对话窗口，让它24小时跑着，然后完成我们所有的任务。但是就会出现这个阶段遇到的问题，你不知道每个任务的进展和每个任务它对应的效果是怎么样。所以会出现一对一，然后你不知道情况的现象。\n\n第二阶段，单bot模型多对话窗口。\n我们会按照每一个任务作为一个项目，然后每个项目按照工作的节点去拆分成不同的 bot ，每个 bot 去执行相关的工作。保留一个bot，它会作为我们的中央大脑去安排每一个底下的 bot 去执行，并且去制定规则和标准。那这样的话，其实我们只需要跟主大脑去做对话，就能了解到整体的进展，并且可以制定一个整体的规则，不会乱。\n\n那这个阶段最大的问题，还是你不知道每一个任务的具体进度，所以就到第三阶段。\n\n第三阶段，单bot模型多对话窗口➕业务工作台。\n\n我们会把整体这一套东西变成一个可视化的工作台。在这个工作台上面，可以看到每一个任务的进展，然后每一个项目的细节。如果出现了任何问题，你就可以及时地去做纠正，这里面会充杂着各种的业务节点的判断逻辑和预警逻辑。\n\n目前我们第三阶段正在研发中。\n可以看看 Bot 今天早上给我们出的一个草图。",
+    "quoted_tweet": null,
+    "url": "https://x.com/danta_aigc/status/2121445364326896059",
+    "time": "2026-11-14 11:29",
+    "created_at": "Sat Nov 14 03:29:24 +0000 2026",
+    "id_str": "2121445364326896059",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@danta_aigc 赞，很专业👍\n\n不过我说的跟你说的第三个阶段不矛盾，更多是什么表现形式，比如 Duet 那样有个 Tasks 的视图和 作品视图，就很直观了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121453593119072665",
+    "time": "2026-11-14 12:02",
+    "created_at": "Sat Nov 14 04:02:05 +0000 2026",
+    "id_str": "2121453593119072665",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 可以试一下claude duet和claude projects，应该和你的设想差不多",
+    "quoted_tweet": null,
+    "url": "https://x.com/percivald4fk/status/2121460099969630287",
+    "time": "2026-11-14 12:27",
+    "created_at": "Sat Nov 14 04:27:57 +0000 2026",
+    "id_str": "2121460099969630287",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@percivald4fk 是的，claude duet 是最接近的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121460620411498865",
+    "time": "2026-11-14 12:30",
+    "created_at": "Sat Nov 14 04:30:01 +0000 2026",
+    "id_str": "2121460620411498865",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "只盯主会话有两个问题：\n1. 你不好找里面做了哪些任务\n2. 任务的产品你也不好在主会话里面找\n\n就好比微信群，要找点有价值的话题或者文件千难万难\n\n所以像要从主会话里面沉淀两样东西：\n1. 任务，就是让 Agent 去做一件事 \n2. 成果，Agent 一件事做完，有哪些结果\n\nhttps://x.com/LiuweijiaVip/status/2121461646413775340?a=US1Jq-3VqFRtvoGPFns&s=20",
+    "quoted_tweet": {
+      "author": "Wei佳",
+      "username": "LiuweijiaVip",
+      "text": "@dotey 盯主对话就行，前提是协调器每次都判断对了归属。"
+    },
+    "url": "https://x.com/dotey/status/2121463293936103613",
+    "time": "2026-11-14 12:40",
+    "created_at": "Sat Nov 14 04:40:38 +0000 2026",
+    "id_str": "2121463293936103613",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "其实我在 cindy 一直通过伙伴开出 session 任务，同时我和它可以随意编排哪些简单任务直接给我一个返回结果，哪些任务让 session 自己返回我结果，不用它再介入，我的编排一般是那些交付给我需要进一步确认和讨论的直接找我，例如设计类的分析类的，例如开发已经发 pr 的给我结果即可",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "无论是 Grokbot / Dots 那样一个主会话，还是 Claude Code 那样一堆 Session 都是不够好的。\n\n只有主会话意味着子任务你无法干预细节，无法像 Session 那样看到执行的细节，不方便去补充上下文和干预。\n\n就好比你是老板，你给部门总监安排活，他们任务的执行情况对你是不透明的，你不能越过他们去看任务的执行情况和调整。\n\n很多 Session 的问题在于管理起来很累，人需要自己去记住哪个 session 在干什么。就好比你直接管理所有项目，是每个项目的项目经理。\n\n理想状况下，需要两者的结合：\n人只要盯主对话，每次人往会话发消息的时候，会话的协调器决定你的消息是普通对话，还是说属于某个任务。\n\n对于具体的任务，应该是能点开去干预的。\n\n就好比你是一个老板，每一个 Bot/Channel 的主会话就相当于一个部门负责人，你只需要去和负责人打交道，负责人去派活，但是理想情况下你要能越过负责任去看任务细节，直接指挥。"
+    },
+    "url": "https://x.com/zkyo/status/2121475632253268415",
+    "time": "2026-11-14 13:29",
+    "created_at": "Sat Nov 14 05:29:40 +0000 2026",
+    "id_str": "2121475632253268415",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我是《高级战争》的死忠粉，等续作等了 20 年\n\n现在模型的能力上来了，我就自己做了一个精神续作：《潮汐战线》，发布在 DeepSeek Harness（DSH）的 Game Store 上，代码在 GitHub 开源\n\n你没看错：DSH 未尝不是游戏平台\n\n网页打开就能玩，手机也行：http://dsh-game-store.com/games/tidemark\n\n开源地址：http://github.com/CocoSgt/dsh-game-tidemark",
+    "quoted_tweet": null,
+    "url": "https://x.com/CocoSgt_twt/status/2121478295015584113",
+    "time": "2026-11-14 13:40",
+    "created_at": "Sat Nov 14 05:40:15 +0000 2026",
+    "id_str": "2121478295015584113",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 哈哈，我是把 cindy 伙伴真的当成是工程伙伴设计的，所以它留了很多编排能力，最近正在思考怎么给它安上一个心跳检查脚本，在不消耗 token 的情况下能触发那些卡住的或忘了收尾任务的返回，同时我们还在讨论伙伴发的任务，有可能要求 session 反过来读我和伙伴的上下文会比它开的要更完美。",
+    "quoted_tweet": null,
+    "url": "https://x.com/zkyo/status/2121481139496112461",
+    "time": "2026-11-14 13:51",
+    "created_at": "Sat Nov 14 05:51:33 +0000 2026",
+    "id_str": "2121481139496112461",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@zkyo agent always on 设计的挺好的，感觉可以借鉴\nhttps://x.com/dotey/status/2121406975279792268?a=BiJwv4pLNhpwNmDmwww&s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "24 小时在线的 AI Agent 助理，靠这五样东西\n\n一直在线的 AI 助理，会盯邮件、等回复、到点提醒你。可它大部分时间其实在睡觉，不调用模型，也不花钱。\n\nAnthropic 刚发文拆开讲了这种一直在线的 Agent：\n一件事进了收件箱，它才醒过来跑一次；\n定时器让它没人叫也能主动；\n记忆文件夹让它醒来还记得你；\n权限让它拿着你的账号也不乱来；\n发件箱决定它什么时候开口。\n\n这期一样一样讲清楚：它怎么醒、两件事同时来会不会打架、记忆为什么要省、要紧的事怎么等你拍板，以及为什么一开始最好让它安静一点。\n\n来源\n- Anthropic《Building always-on agents》（2026.11.13），作者 William Hu：https://claude.com/resources/articles/building-always-on-agents"
+    },
+    "url": "https://x.com/dotey/status/2121481838082605480",
+    "time": "2026-11-14 13:54",
+    "created_at": "Sat Nov 14 05:54:20 +0000 2026",
+    "id_str": "2121481838082605480",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我最近开始也是有这种感受，虽然我很多工作都交给了 raft，但是因为我看不到它下面的 session 的细节，所以有时候，我想去跟它进入类似结对编程的这种深度心流协作的状态是很难的\n我甚至觉得它应该能够开启一个类似“工作空间”的概念，它可能像是一个无限画布，在那里面我们没有信息差，共享所有的细节，然后一起工作",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "无论是 Grokbot / Dots 那样一个主会话，还是 Claude Code 那样一堆 Session 都是不够好的。\n\n只有主会话意味着子任务你无法干预细节，无法像 Session 那样看到执行的细节，不方便去补充上下文和干预。\n\n就好比你是老板，你给部门总监安排活，他们任务的执行情况对你是不透明的，你不能越过他们去看任务的执行情况和调整。\n\n很多 Session 的问题在于管理起来很累，人需要自己去记住哪个 session 在干什么。就好比你直接管理所有项目，是每个项目的项目经理。\n\n理想状况下，需要两者的结合：\n人只要盯主对话，每次人往会话发消息的时候，会话的协调器决定你的消息是普通对话，还是说属于某个任务。\n\n对于具体的任务，应该是能点开去干预的。\n\n就好比你是一个老板，每一个 Bot/Channel 的主会话就相当于一个部门负责人，你只需要去和负责人打交道，负责人去派活，但是理想情况下你要能越过负责任去看任务细节，直接指挥。"
+    },
+    "url": "https://x.com/kevinzhow/status/2121481970056396831",
+    "time": "2026-11-14 13:54",
+    "created_at": "Sat Nov 14 05:54:51 +0000 2026",
+    "id_str": "2121481970056396831",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@kevinzhow 对 Agent 还不能当甩手掌柜，必要的micromanagement还是少不了的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121483496887583195",
+    "time": "2026-11-14 14:00",
+    "created_at": "Sat Nov 14 06:00:55 +0000 2026",
+    "id_str": "2121483496887583195",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey > 这部分代码不开放的原因因为不是我的\n\n你听听你这说的像话吗？\n\n你当然没有义务开源自己写的代码。但问题是，你现在公开发布的代码，有相当一部分根本不是你写的。你有没有义务开源，和你有没有权利分发，是两个完全不同的问题。你甚至无权替原作者决定这些代码应当采用什么许可证。",
+    "quoted_tweet": null,
+    "url": "https://x.com/__oQuery/status/2121484631191199884",
+    "time": "2026-11-14 14:05",
+    "created_at": "Sat Nov 14 06:05:26 +0000 2026",
+    "id_str": "2121484631191199884",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@__oQuery 这一点你说的没问题，我不应该放在上面，不久后会删除。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121485765431771341",
+    "time": "2026-11-14 14:09",
+    "created_at": "Sat Nov 14 06:09:56 +0000 2026",
+    "id_str": "2121485765431771341",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "像现在 Claude Code/Code 这样，你在做一件事之前，要先去创建/找 Project，然后再去开 Session，是很反人性的。\n\n如果是写代码还好，但是普通任务还要这么搞是真的很烦。\n\n相对来说 Bot 的形式肯定是更好的，我默认就有一个 Bot，还可以根据任务开不同的 Bot，只有一个主会话。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121487053879693390",
+    "time": "2026-11-14 14:15",
+    "created_at": "Sat Nov 14 06:15:03 +0000 2026",
+    "id_str": "2121487053879693390",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "当我们觉得找 Sessions 很累时，说明我们不应该自己找，而是让 Agent 帮我们找（如图1）。\n\n亲自去找，不管我们用无线画布、特殊标记还是任何方式，或许可以提高检索效率，足以管理十几个，但恐怕管理不了几十个，更不可能胜任几百个。\n\n不仅找 Sessions 可以让 Agent 代劳，发送纠偏提示语也可以，复杂情况不要自己直接纠偏。就像不要自己写目标一样，而是跟一个临时 Sessions 结对探查其它 Sessions 的工作情况。\n\n达成共识后，让该 Sessions 向一个或多个 Sessions 发送纠偏或引导提示语（如图2）。\n\n我们可能可以亲自发引导提示语给10个会话，但很难做到准确发送给几十个，所以发送提示语本身也是应该 Agent 代劳的。\n\n我们可以把这个模式称之为——Meta-Session，管理其它 Sessions 的 Session。它可以是临时的，也可以是持续的，但通常在我们授意下工作。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "无论是 Grokbot / Dots 那样一个主会话，还是 Claude Code 那样一堆 Session 都是不够好的。\n\n只有主会话意味着子任务你无法干预细节，无法像 Session 那样看到执行的细节，不方便去补充上下文和干预。\n\n就好比你是老板，你给部门总监安排活，他们任务的执行情况对你是不透明的，你不能越过他们去看任务的执行情况和调整。\n\n很多 Session 的问题在于管理起来很累，人需要自己去记住哪个 session 在干什么。就好比你直接管理所有项目，是每个项目的项目经理。\n\n理想状况下，需要两者的结合：\n人只要盯主对话，每次人往会话发消息的时候，会话的协调器决定你的消息是普通对话，还是说属于某个任务。\n\n对于具体的任务，应该是能点开去干预的。\n\n就好比你是一个老板，每一个 Bot/Channel 的主会话就相当于一个部门负责人，你只需要去和负责人打交道，负责人去派活，但是理想情况下你要能越过负责任去看任务细节，直接指挥。"
+    },
+    "url": "https://x.com/guyingjie129/status/2121532107977822349",
+    "time": "2026-11-14 17:14",
+    "created_at": "Sat Nov 14 09:14:05 +0000 2026",
+    "id_str": "2121532107977822349",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@guyingjie129 👍当习惯了自己管理 Session，如果交互上没有改变，这种隐藏功能还真不容易想到",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2121627548765573137",
+    "time": "2026-11-14 23:33",
+    "created_at": "Sat Nov 14 15:33:20 +0000 2026",
+    "id_str": "2121627548765573137",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "Conversations on AI risk frequently overlook how vulnerable the status quo is and how much AI can help defenders.\n\nYesterday, I shared a plan to protect America’s critical infrastructure.\n\nThe opportunity is global: a flaw found and fixed in one country should strengthen every country using the same technology.\n\nA serious AI safety agenda must explain how we will use AI to make an already dangerous world safer—and how soon.\n\nRead more in @theeconomist: https://www.economist.com/by-invitation/2026/11/12/ai-sceptics-focus-on-the-wrong-threats?giftId=OWY1ZjZiYzktYWJiZC00NjJmLWIyY2MtNTJmYTVjOWFkYzFj&utm_campaign=gifted_article\n\n--",
+    "quoted_tweet": null,
+    "url": "https://x.com/AnneNeuberger/status/2121329932412624967",
+    "time": "2026-11-14 03:50",
+    "created_at": "Fri Nov 13 19:50:42 +0000 2026",
+    "id_str": "2121329932412624967",
+    "is_retweet": true
+  }
+]
