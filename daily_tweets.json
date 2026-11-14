@@ -664,5 +664,160 @@
     "created_at": "Sat Nov 14 16:07:50 +0000 2026",
     "id_str": "2121636232505840079",
     "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Something not enough people know about the @ethereumfndn :\n\n1. We have an applied AI team \n2. It’s stacked\n3. Most of us are at the frontier of agentic usage\n\nWe host our own inference servers, GPUs, customised meeting bot and much more!",
+    "quoted_tweet": {
+      "author": "Giulio Rebuffo",
+      "username": "GiulioRebuffo",
+      "text": "Personal update: Last week I started a new role at the @ethereumfndn  focused on applied AI x Client Dev where I will be working alongside the technical teams and the management. I guess the unemployment era is over unfortunately.\n\nmilady."
+    },
+    "url": "https://x.com/omw_to_the_moon/status/2121132233347998148",
+    "time": "2026-11-13 14:45",
+    "created_at": "Fri Nov 13 06:45:07 +0000 2026",
+    "id_str": "2121132233347998148",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "There is a part of the Ethereum space that's often pushed to the sidelines, yet refuses to disappear\n\n@EFDevcon gave @sbetamc and me a stage to talk about the Iranian Ethereum community's journey over the past decade",
+    "quoted_tweet": null,
+    "url": "https://x.com/Fatalmeh/status/2121265527394013311",
+    "time": "2026-11-13 23:34",
+    "created_at": "Fri Nov 13 15:34:47 +0000 2026",
+    "id_str": "2121265527394013311",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "These are all great questions, taking a quick stab: \n\n1/ More than off the table I'd say it's a distraction. ETH is a programmable store of value. And importantly Ethereum chooses security over zero issuance, and I think that's the correct choice. Bitcoin still needs to answer the question of what security will look like once block rewards are zero. Very unclear. \n\n@adietrichs and I gave a talk covering this point starting at 20:55: https://x.com/Bankless/status/1861121104884154600?a=dCg6s_lBBmQ5xuOIl_0&s=20\n\n2/ I agree it needs to settle once and for all. I'd characterize Ethereum's philoshopy as \"fastest viable ossificiation\". Ethereum is playing a long-term game, and zooming out I strongly believe we'll be happy that Ethereum did not myopically ossify but is willing and able to converge on a policy that is fit for this civilizational foundation that we're all building. And importantly: Ethereum has only ever decreased its issuance and I consider this to be part of the social contract. \n\n3/ I think Ethereum is uniquely positioned to become the canonical root of trust for the world. Only Ethereum is credibly neutral and secure enough, and (!) set up architecturally for settling other chains. (Bitcoin is the former but not the latter). And I think of L2s as a critical piece in making this vision a reality: Ethereum as the root of trust but with activity that demands differentiation along dimensions that the L1 cannot offer (e.g. different configurations of speed, compliance, privacy) it can flow from Ethereum to L2s, while still inheriting the strongest guarantees that only Ethereum can offer. \n\nI spoke about this a lot in my recent talk at Devcon: https://www.youtube.com/watch?v=iPXY0oxjCRE\n\n4/ This is a great question and I don't have an immediate answer, would love to hear your thoughts on this! :) \n\n5/ I strongly agree, and Ethereum is incredibly well positioned here. The EF has led the path with years of investments into post-quantum research, and Ethereum is now in this privileged position where we can accelerate timelines to be post-quantum and post-AI in 2027: https://x.com/ethlabs_org/status/2120621682889052345?a=tHgB7XnMjQgyRlwB2xY&s=20\n\nAnd ETH will be a pqai store of value btw :)",
+    "quoted_tweet": {
+      "author": "Ethlabs",
+      "username": "ethlabs_org",
+      "text": "pqai27: Our view on post-quantum and post-AI timelines. \n\nWe shared this on Ethereum Magicians as input into the Ethereum governance process. \n\nhttps://ethereum-magicians.org/t/pqai27-an-ethlabs-view-on-post-quantum-and-post-ai-timelines/30351"
+    },
+    "url": "https://x.com/casparschwa/status/2121323344066687178",
+    "time": "2026-11-14 03:24",
+    "created_at": "Fri Nov 13 19:24:32 +0000 2026",
+    "id_str": "2121323344066687178",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "If you could choose for all of humanity to be monitored 100% of the time in order to prevent murder and rape, with an absolute guarantee that the monitor would intervene in no other situations, would you take that trade?",
+    "quoted_tweet": null,
+    "url": "https://x.com/tracewoodgrains/status/2121448045111923092",
+    "time": "2026-11-14 11:40",
+    "created_at": "Sat Nov 14 03:40:03 +0000 2026",
+    "id_str": "2121448045111923092",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@VitalikButerin @tracewoodgrains This is an interesting technology. Would you be able to implement it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/KUZEN___/status/2121463066424672639",
+    "time": "2026-11-14 12:39",
+    "created_at": "Sat Nov 14 04:39:44 +0000 2026",
+    "id_str": "2121463066424672639",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@KUZEN___ @tracewoodgrains Thing I am funding which will hopefully make the open and verifiable hardware part of this easier:\n\nhttps://vensa.si/",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2121463950126845969",
+    "time": "2026-11-14 12:43",
+    "created_at": "Sat Nov 14 04:43:15 +0000 2026",
+    "id_str": "2121463950126845969",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Every child deserves access to world-class healthcare. Lynne and I are thrilled to announce a $100M expansion gift for the UCSF Benioff Children’s Hospital Oakland expansion, ushering in a bold new era for children's health in the heart of Oakland & the East Bay! 🏥✨ https://www.bizjournals.com/sanfrancisco/news/2026/11/13/new-era-childrens-health-ucsf-benioff-childrens.html",
+    "quoted_tweet": null,
+    "url": "https://x.com/Benioff/status/2121489801656361051",
+    "time": "2026-11-14 14:25",
+    "created_at": "Sat Nov 14 06:25:58 +0000 2026",
+    "id_str": "2121489801656361051",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@Benioff @UCSFChildrens @UCSFBenioffOAK 🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2121629023755468889",
+    "time": "2026-11-14 23:39",
+    "created_at": "Sat Nov 14 15:39:11 +0000 2026",
+    "id_str": "2121629023755468889",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "可以让 AI 每天定时生成一张「洞见」卡片",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2121423538204643544",
+    "time": "2026-11-14 10:02",
+    "created_at": "Sat Nov 14 02:02:40 +0000 2026",
+    "id_str": "2121423538204643544",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "前阵子 x 动态下，一堆黄推账号刷评论。\n\n最近变成了一堆 agent 留言。\n\n这种留言最大的问题，是「语言」背后「没人」。\n\n「我在与谁对话？」",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2121433173867614375",
+    "time": "2026-11-14 10:40",
+    "created_at": "Sat Nov 14 02:40:57 +0000 2026",
+    "id_str": "2121433173867614375",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "https://github.com/lijigang/x-reply-mentioned\n\n让 AI 写了个浏览器插件，把这个问题解决了。",
+    "quoted_tweet": {
+      "author": "李继刚",
+      "username": "lijigang",
+      "text": "前阵子 x 动态下，一堆黄推账号刷评论。\n\n最近变成了一堆 agent 留言。\n\n这种留言最大的问题，是「语言」背后「没人」。\n\n「我在与谁对话？」"
+    },
+    "url": "https://x.com/lijigang/status/2121443749217591365",
+    "time": "2026-11-14 11:22",
+    "created_at": "Sat Nov 14 03:22:58 +0000 2026",
+    "id_str": "2121443749217591365",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "用 AI 的朋友们，花五分钟，自己写写画画，做题健健脑吧。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2121452200706953538",
+    "time": "2026-11-14 11:56",
+    "created_at": "Sat Nov 14 03:56:33 +0000 2026",
+    "id_str": "2121452200706953538",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "现在换手机壁纸，都是让 AI 基于「上下文」生成。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2121468821693497765",
+    "time": "2026-11-14 13:02",
+    "created_at": "Sat Nov 14 05:02:36 +0000 2026",
+    "id_str": "2121468821693497765",
+    "is_retweet": false
   }
 ]
