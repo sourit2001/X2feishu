@@ -312,5 +312,230 @@
     "created_at": "Fri Nov 13 23:48:52 +0000 2026",
     "id_str": "2121389866172686497",
     "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@exile72 @jeanxdenim lived there last year for a whole year. \nnow back in NYC, a real city.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2121481279451386094",
+    "time": "2026-11-14 13:52",
+    "created_at": "Sat Nov 14 05:52:06 +0000 2026",
+    "id_str": "2121481279451386094",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "New circuit board design harness: https://github.com/claynicholson/copper-kicad-mcp\n\nI've been able to get some amazing boards out of it and i'd love feedback.\n\nThis is a project that I have been working on for over 6 months and the models finally got good enough to use. \n31 tools+ custom autorouting + MCP",
+    "quoted_tweet": null,
+    "url": "https://x.com/claynicholsonvt/status/2121143034955894902",
+    "time": "2026-11-13 15:28",
+    "created_at": "Fri Nov 13 07:28:03 +0000 2026",
+    "id_str": "2121143034955894902",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Shared vision is no longer sci-fi. 🤖🤝🤖\nAn industry first from #Astribot: CoMind- Be My Eye. Robots team up on housework: boxes, blankets, restocking.\nBlocked views?\n🧱 Pen following: 0% → 100%\n📦 Blind box: 38.9% → 88.9%\n📉 80% less info sent\n #CoMind #Robotics #PhysicalAI",
+    "quoted_tweet": null,
+    "url": "https://x.com/Astribot_Inc/status/2121169148663476399",
+    "time": "2026-11-13 17:11",
+    "created_at": "Fri Nov 13 09:11:49 +0000 2026",
+    "id_str": "2121169148663476399",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "We rolled out Gemini 4 Hydrogen inside Google @Antigravity alongside a new Orchestrator mode in the model dropdown: Orchestrator (Carbon) and Orchestrator (Argon). 🪄\n\nRunning a heavy frontier model on every small code edit slows you down and burns quota. With Orchestrator, @Antigravity automatically pairs Gemini 4 Carbon or Argon with Gemini 4 Hydrogen in the same session for an optimized balance of quality, efficiency, and latency:\n\n— Carbon or Argon explores dependencies and builds the plan\n— Hydrogen quickly writes the code, updates packages, and runs tests\n— Carbon or Argon steps back in to adjust the plan if a test fails\n\nLearn more: https://goo.gle/3UxMLMx",
+    "quoted_tweet": null,
+    "url": "https://x.com/googledevs/status/2121364688848265490",
+    "time": "2026-11-14 06:08",
+    "created_at": "Fri Nov 13 22:08:49 +0000 2026",
+    "id_str": "2121364688848265490",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Condition Shifting enables few-step streaming video generation\n\nShengshu AI extends APEX to streaming video, removing the separate fake-score network via condition shifting. Achieves +30% human preference for instruction following over S2-Avatar, and cuts peak GPU memory by 4.4% and iteration time by 9.2% vs DMD.",
+    "quoted_tweet": null,
+    "url": "https://x.com/HuggingPapers/status/2121397194989453409",
+    "time": "2026-11-14 08:17",
+    "created_at": "Sat Nov 14 00:17:59 +0000 2026",
+    "id_str": "2121397194989453409",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@HuggingPapers @grok 这篇文章消费什么数据集？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121417949055730090",
+    "time": "2026-11-14 09:40",
+    "created_at": "Sat Nov 14 01:40:27 +0000 2026",
+    "id_str": "2121417949055730090",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@stitchbygoogle @grok 这个是什么产品 ， gemini 的 ultra用户可以试用吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121441328915730777",
+    "time": "2026-11-14 11:13",
+    "created_at": "Sat Nov 14 03:13:21 +0000 2026",
+    "id_str": "2121441328915730777",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@pushpak_agr @grok 这个可视化用的是什么算法和开源工具？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121442451131138158",
+    "time": "2026-11-14 11:17",
+    "created_at": "Sat Nov 14 03:17:49 +0000 2026",
+    "id_str": "2121442451131138158",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@googledevs @antigravity @grok Orchestrator 和 gemini 4 有啥区别。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121442678844125307",
+    "time": "2026-11-14 11:18",
+    "created_at": "Sat Nov 14 03:18:43 +0000 2026",
+    "id_str": "2121442678844125307",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@dotey 国外怎么这么喜欢这套，国内 逍遥子 换了，都没人敢说‘不’。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121447722922528858",
+    "time": "2026-11-14 11:38",
+    "created_at": "Sat Nov 14 03:38:46 +0000 2026",
+    "id_str": "2121447722922528858",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 这篇文章使用了什么数据集 ， 解决什么问题。",
+    "quoted_tweet": {
+      "author": "Jumar Macato",
+      "username": "jumarmacato",
+      "text": "Made a custom fully open-source based KiCAD+OpenEMS physical simulation harness so that I can check the signal integrity of my PCB design before shipping it off to the fabs.\n\nIt's already working coz it flagged my board for signal integrity issues  😂"
+    },
+    "url": "https://x.com/seclink/status/2121448054427644407",
+    "time": "2026-11-14 11:40",
+    "created_at": "Sat Nov 14 03:40:05 +0000 2026",
+    "id_str": "2121448054427644407",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@adamdotnew @grok 使用的是什么数据集，解决什么问题。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121448334405824591",
+    "time": "2026-11-14 11:41",
+    "created_at": "Sat Nov 14 03:41:12 +0000 2026",
+    "id_str": "2121448334405824591",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@Astribot_Inc @grok 这家是中国公司还是美国公司",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121460998750261505",
+    "time": "2026-11-14 12:31",
+    "created_at": "Sat Nov 14 04:31:31 +0000 2026",
+    "id_str": "2121460998750261505",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@claynicholsonvt @grok 这篇文章讲了啥，使用什么数据集",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121469803605155896",
+    "time": "2026-11-14 13:06",
+    "created_at": "Sat Nov 14 05:06:30 +0000 2026",
+    "id_str": "2121469803605155896",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@Meliksahozgedik @barisakin @grok 这篇文章说了啥？使用什么数据集。",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121478523634544941",
+    "time": "2026-11-14 13:41",
+    "created_at": "Sat Nov 14 05:41:09 +0000 2026",
+    "id_str": "2121478523634544941",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@WorkBuddy_AI @grok 说中文，啥意思，有激励吗？还是用爱发电？",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121483196986790303",
+    "time": "2026-11-14 13:59",
+    "created_at": "Sat Nov 14 05:59:44 +0000 2026",
+    "id_str": "2121483196986790303",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Crime doesn’t scale here.",
+    "quoted_tweet": {
+      "author": "The Wolf Of All Streets",
+      "username": "scottmelker",
+      "text": "TRON $TRX, TETHER AND CHAINALYSIS LAUNCH A DIGITAL CRIME TASK FORCE TO IDENTIFY AND DISRUPT ILLICIT $USDT ACTIVITY ON TRON"
+    },
+    "url": "https://x.com/justinsuntron/status/2121412758717788581",
+    "time": "2026-11-14 09:19",
+    "created_at": "Sat Nov 14 01:19:50 +0000 2026",
+    "id_str": "2121412758717788581",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "微博小黑屋60天，1月就更新薄肌进展，大家监督。",
+    "quoted_tweet": {
+      "author": "H.E. Justin Sun 👨‍🚀 🌞",
+      "username": "justinsuntron",
+      "text": "@0xMoon 60天小黑屋，1 月就出来了 😁"
+    },
+    "url": "https://x.com/justinsuntron/status/2121458279096393896",
+    "time": "2026-11-14 12:20",
+    "created_at": "Sat Nov 14 04:20:43 +0000 2026",
+    "id_str": "2121458279096393896",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "USDD明年还会是市面上增长最快的稳定币",
+    "quoted_tweet": {
+      "author": "Tonys🔸Tucker",
+      "username": "Baby__BTC",
+      "text": "在过去一年市值增长速度最快的稳定币是谁？\n\nGrok给出了最直接答案！\n\n•  USDD：约 +165%\n•  USDG：约 +140%\n•  RLUSD：约 +120%\n\nUSDD在过去一年增涨了165%，位居稳定币增长榜首！\n\n这个排名应该是毫无疑问了！\n\n@justinsuntron #TRONEcostar"
+    },
+    "url": "https://x.com/justinsuntron/status/2121462310342697130",
+    "time": "2026-11-14 12:36",
+    "created_at": "Sat Nov 14 04:36:44 +0000 2026",
+    "id_str": "2121462310342697130",
+    "is_retweet": false
   }
 ]
