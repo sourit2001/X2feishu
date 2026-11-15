@@ -1,1 +1,265 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Another one of those things that would have seemed impossible a few months ago: \"Fable & Opus, find video of the Starship catch. Render the last 40 seconds or so in 3D in 3js with extreme detail. Let me switch views. No need to include the crowd.\"\n\nPlay: https://ship-42-catch.netlify.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122036763468214711",
+    "time": "2026-11-16 02:39",
+    "created_at": "Sun Nov 15 18:39:24 +0000 2026",
+    "id_str": "2122036763468214711",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Full prompts:\n\nFind video of the starship catch today. render the last 40 seconds or so in 3D in 3js with extreme detail. Let me switch vision from visual to cut-away blueprints to other useful views. the main view should be stunning, including mecha arms, the cloud deck, the rocket, etc. find images and video online to work with\n\nmake sure the images and video match exactly. launch a fable 5.2 high thread to polish when the opus 5.5 thread is done\n\nlets not worry about the crowd, remove them from the cast. focus on getting the in-the-cloud scene through breakout looking better. there is also a bit of flashing/strobing on the ocean in some view\n\nalso host it synched to the webcast replay so you can see both at the same time. anmd make sure the exhaust/engine plume looks right",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122037621350121968",
+    "time": "2026-11-16 02:42",
+    "created_at": "Sun Nov 15 18:42:49 +0000 2026",
+    "id_str": "2122037621350121968",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is apparently all from the video of the webcast. When I asked for sources, Claude replied: \n\n\"what the recreation was built from:\n\nSpaceX’s official webcast replay of Flight 15 (YouTube): seconds 74 to 116 drive the timing, camera shots and catch moment, and it’s the footage in the side-by-side and the comparison video.\nWikipedia’s “SpaceX Starship (spacecraft)” article: the ship’s layout for the blueprint view, including tanks, header tanks, downcomers, pressure bottles and engines.\nGuinness World Records: the 146 m tower height.\nCommunity cut-away drawings: which way the tank domes bulge.\n\nEverything else is estimated, including heights along the hull, tank sizes, pipe routing and catch rail height. No SpaceX engineering drawings were used.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122040753853505709",
+    "time": "2026-11-16 02:55",
+    "created_at": "Sun Nov 15 18:55:15 +0000 2026",
+    "id_str": "2122040753853505709",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Fun! If you want to burn some tokens for a closer match, tell it to measure video-to-render pixel error rates and get it to less than 10 in 255, I've had good results",
+    "quoted_tweet": null,
+    "url": "https://x.com/felixrieseberg/status/2122047047054635379",
+    "time": "2026-11-16 03:20",
+    "created_at": "Sun Nov 15 19:20:16 +0000 2026",
+    "id_str": "2122047047054635379",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@felixrieseberg Good idea. I am not going to do it, but good idea!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122047734157074821",
+    "time": "2026-11-16 03:23",
+    "created_at": "Sun Nov 15 19:23:00 +0000 2026",
+    "id_str": "2122047734157074821",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "More second brain porn 🙃",
+    "quoted_tweet": {
+      "author": "Robert Youssef",
+      "username": "rryssf",
+      "text": "20 second brains in 1 tweet. \n\nGorgeous. And almost all of them are the same thing: a folder of markdown files with links drawn between them.\n\nYou're not looking at a brain. You're looking at a file explorer with physics turned on."
+    },
+    "url": "https://x.com/godofprompt/status/2122055458978455952",
+    "time": "2026-11-16 03:53",
+    "created_at": "Sun Nov 15 19:53:41 +0000 2026",
+    "id_str": "2122055458978455952",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这段还是很震撼的\n老黄对事业的价值容不得一点质疑\n作为生产者，努力做好生产，是最淳朴的价值观\n其他根本不必多想\n他不是马斯克，不是克拉克，不是达里奥\n他是黄仁勋\nrespect",
+    "quoted_tweet": {
+      "author": "RJ",
+      "username": "RJDAIGOGO",
+      "text": "《英伟达之芯》的作者，在采访黄仁勋时，就被黄狠狠训了一顿，难怪他心有余悸，印象深刻。\n\n他在这本书的最后一章，记录了黄的这次发飙：\n\n不知该如何继续话题，我决定向黄仁勋展示阿瑟·克拉克的一段文字，就是这段文字激发了布莱恩·卡坦扎罗热情奔放的演绎。在克拉克滔滔不绝地描述机械进化的前景时，我注意到黄仁勋的脸色渐渐发白，好似面部的血色都被抽走了。\n“我觉得你找错采访对象了，”他低声嘀咕，“你现在仿佛在采访埃隆·马斯克，可我不是他。”我愣了一下，不知所措，但反应过来时已经晚了。我显然触碰到了他的敏感点。\n“机械进化会……会毁掉工作机会吗？”黄仁勋越来越气愤，声音也不由自主地提高。“难道计算器的出现就毁灭了数学吗？这种问题真是老掉牙了，我听得耳朵都生茧了，”他抱怨道，“我不想再谈这个话题了！同样的问题，反复讨论，没完没了。想想看，我们发明了农业，让生产食物的边际成本几乎归零，这对社会难道不是好事吗？我们大规模生产电力，使砍伐树木、生火、携带火把的成本几乎为零，然后我们就可以腾出手去做更多其他的事情了。紧接着，我们会去降低计算的边际成本——长除法！我们将其降至零！”他的嗓门开始提高：“我们一直在努力将各种事物的边际成本降为零，一代一代又一代，而这样的争论每次都会上演！”\n我尝试转移话题，但未能如愿。他的话语中流露出愤怒与厌恶。他开始以对待叛逆少年的口吻训斥我。他坦言，曾对我抱有厚望，如今却大失所望。我耗费了他的时间，也浪费了大家的时间；现在，整本书的策划都受到了质疑。当时采访现场有黄仁勋的两位公关代表，但他们均未尝试介入——显然不想引火烧身。\n柯克猜测，黄仁勋的愤怒可能是策略性的表现。但说实话，我当时并未感受到这一点。他的愤怒显得肆无忌惮、铺天盖地，甚至太不合时宜了。我并非黄仁勋的员工，他对我发火并无任何益处。针对自己所创建工具的负面问题，他简直烦透了。他认为这个问题十分愚蠢，且已被反复问及太多次了。\n“这绝非荒谬的科幻故事，”他说着，指向桌子另一头两位目瞪口呆的公关代表，“你们懂吗？我并非在诸多科幻故事的熏陶下长大，这可不是什么科幻片。这些人在做的是严肃的工作！”他继续说道：“这不是闹着玩的！这跟克拉克毫无关系，我压根儿没读过他的破书，也毫不在意那些书！这不是——我们不是在重演科幻剧！这家公司绝非《星际迷航》的翻版！我们做的可不是那种事！我们是认真的人，做认真的工作。再者，这是一家认真的公司，我是个认真的人，只是做着认真的工作。”\n接下来的20分钟，黄仁勋以责备、恼怒与轻蔑交替的语气，质疑我的专业精神、采访方式，以及对项目的投入程度。他指责我企图对他进行精神分析，表示他多么反感回答我的传记作者式问题，尤其是那些试图挖掘他心理状态的问题。“我讨厌这些刨根问底的问题，”他说，“我不喜欢谈论自己，好吗？！我不是在做心理治疗。”他暗示我的问题很愚蠢，形容它们“乏味至极”。他否认自己有任何特别之处，尽管有悖所有的证据。“听着，我——我极其普通。”他说。\n“我从未见过像你这样的人。”我说。\n“我极其普通。”黄仁勋说。\n慢慢地，愤怒平息了。黄仁勋数次转移话题，聊起即将推出的产品，询问他的公关代表状况，并缅怀已故的约翰·尼科尔斯对CUDA项目发挥的重要作用。在某个时刻，他谈起了罗马帝国。接着，他又轻声地责备起我来，显然，他对我已经失去了兴趣。于是，我被匆匆地请出了门。离开采访现场时，我感到十分困惑。虽然我与高管们有过不少紧张的对话，但从未有人像这样对我发火。我深感震惊——不过，说实话，我也感到一丝莫名的兴奋。能成为黄仁勋愤怒的对象，从某种意义上说，竟也算是一种荣幸：这是每个进入他核心圈子的人都必须经历的考验。走出会议室时，我转向其中一位公关人员。\n“这次还挺有意思的。”我说道。\n他笑了笑，回应道：“哦，是吗？这还不算什么呢。”"
+    },
+    "url": "https://x.com/oran_ge/status/2121733687591219521",
+    "time": "2026-11-15 06:35",
+    "created_at": "Sat Nov 14 22:35:05 +0000 2026",
+    "id_str": "2121733687591219521",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 让人相信美国大豆包突然变成地表最强是一件很困难的事情😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/madawei2699/status/2121744775774982463",
+    "time": "2026-11-15 07:19",
+    "created_at": "Sat Nov 14 23:19:09 +0000 2026",
+    "id_str": "2121744775774982463",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@madawei2699 豆包也会变强的\n不蒸馏是会慢一点\n但最终会一鸣惊人",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121746299049648432",
+    "time": "2026-11-15 07:25",
+    "created_at": "Sat Nov 14 23:25:12 +0000 2026",
+    "id_str": "2121746299049648432",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 看来 gemini 的确没组邪修，打出了扎实的基本功",
+    "quoted_tweet": null,
+    "url": "https://x.com/madawei2699/status/2121746578449006981",
+    "time": "2026-11-15 07:26",
+    "created_at": "Sat Nov 14 23:26:19 +0000 2026",
+    "id_str": "2121746578449006981",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@madawei2699 大模型没有银弹，没有秘密\n就是好好做数据",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121747354730774701",
+    "time": "2026-11-15 07:29",
+    "created_at": "Sat Nov 14 23:29:24 +0000 2026",
+    "id_str": "2121747354730774701",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "世界的发展是螺旋上升的\n有人负责螺旋\n有人负责上升\n\n人们开玩笑说\n政治负责螺旋\n科技负责上升\n\n不无道理\n\n当下的状态是\n科技疯狂加速上升\n人类身处螺旋之中\n\n如果长期是螺旋上升的\n那现在身处螺旋之中的人\n最好的解法还是坚定拥抱上升的力量\n而不是期待政治的救赎",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121749775280468433",
+    "time": "2026-11-15 07:39",
+    "created_at": "Sat Nov 14 23:39:01 +0000 2026",
+    "id_str": "2121749775280468433",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "英伟达的护城河其实是老黄\n芯片世界的垄断格局要有很大的变化了",
+    "quoted_tweet": {
+      "author": "Jukan",
+      "username": "jukan05",
+      "text": "I've spoken with several industry experts about Nvidia after Jensen's resignation.\n\nThey taught me a lot, and one point they raised was whether senior and veteran engineers will actually stay at an Nvidia without Jensen.\n\nMost of Nvidia's senior and veteran engineers have already reached financial freedom thanks to the surge in Nvidia's stock.\n\nFor many of them, the main reason they stayed was Jensen Huang's unmatched charisma. Now that he's gone, it wouldn't be strange if they left Nvidia tomorrow.\n\nIndustry insiders told me that OpenAI and Nvidia's competitors are probably already calling Nvidia's senior and veteran engineers like crazy. They said if you promise a senior engineer a team of their own, the whole team will move with them."
+    },
+    "url": "https://x.com/oran_ge/status/2121805120921120994",
+    "time": "2026-11-15 11:18",
+    "created_at": "Sun Nov 15 03:18:56 +0000 2026",
+    "id_str": "2121805120921120994",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "把注意力放在客户身上\n不要放在竞争对手身上",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "2008 年人民日报对老黄的采访：《打败对手不是目标——黄仁勋》\n\n坦率地说，很多公司一开始就把我们当成对手。\n\n而直到它们倒下，我可能都不知道还有这么一位对手，不是因为它们太小或者存在的时间太短，而是因为我们不是把对手当成自己的目标。\n\n一个健康的市场，对手总会不停地涌现，甚至会多到让你看都看不过来，而一个健康的公司，不能总把目光放在对手身上。老盯着对手，就会失去自我。\n\n我在创业之前就告诉自己，对手既不会给你提供研发的方向，更不会告诉你客户的新需求，而这两者才恰恰是一家企业生存的根本。尽管如此，创业之初我仍然犯过错误，这个错误并非是模仿对手，而是刻意地执行差异化战略，研发与对手完全不同的产品。事实上，这种错误跟一味模仿对手一样，都是不可饶恕的，都将受到惩罚。因为你把精力放在对手身上，而不是放在客户身上。\n\n有了这个教训，我更加坚信，公司应该把研究客户的需求，解决客户的问题放在第一位，而不是去关注对手。如果你的精力只是放在如何从对手那里把客户抢过来，你还会错失更大的机会：开拓新客户。\n\n几乎所有人都认为 NVIDIA 是一家芯片公司，我虽然不反对他们这么说，但并不赞成。表面上，我们确实是生产芯片的，但在我的眼里，我们从来都不是一家芯片公司，而是一家帮助客户解决复杂视觉计算问题的公司。\n\n如果 NVIDIA 把自己限定为生产芯片的公司，我们就会自动地认为电影和我们没有关系，游戏和我们也没有关系，医院和我们也没有关系。事实上，这些都已经成为我们重要的业务，因为它们背后有一个同样的问题，即复杂的视觉计算问题，这些问题没有一个属于对手，全部属于客户。我想，对目标的这种认定，或许就是 NVIDIA 与对手最大的不同。"
+    },
+    "url": "https://x.com/oran_ge/status/2121806828095090694",
+    "time": "2026-11-15 11:25",
+    "created_at": "Sun Nov 15 03:25:43 +0000 2026",
+    "id_str": "2121806828095090694",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "英伟达和老黄的这本传记写的非常糟糕\n读完几乎没有留下任何的印象（除了老黄每天做俯卧撑\n今天知道为什么这么糟糕了",
+    "quoted_tweet": {
+      "author": "Alpha哥AI投资日记 🌴 📈",
+      "username": "AlphaguyTrading",
+      "text": "黄仁勋的传记作者 Stephen Witt，真是让我见识到了某些西方媒体人的虚伪和落井下石。\n\nStephen Witt 是一名美国调查记者，2023 年，他以《纽约客》记者的身份接触黄仁勋，随后获得黄仁勋本人的深度配合，采访了近 200 名相关人士，并于 2025 年出版了《The Thinking Machine》，一本关于黄仁勋和英伟达的传记\n\n可以说，黄仁勋的信任和配合，在很大程度上成就了他的这本书。\n\n然而，黄仁勋刚刚遭遇人生中最严重的一次危机，Stephen Witt 就迫不及待地在《纽约时报》发表了一篇名为《The Fall of the A.I. King》的文章，将黄仁勋的遭遇归结为男性的傲慢、自恋和狂妄自大。\n\n最让我感到恶心的是其中一个细节\n\nWitt 曾经与黄仁勋在 Denny’s 吃早餐，黄仁勋给服务员留下了 1000 美元的小费。要知道，黄仁勋15岁时就曾在 Denny’s 当洗碗工、清理餐桌，后来才成为服务员。这段经历对他的人生有着特殊意义。\n\n一个从洗碗工成长为全球最成功企业家之一的人，几十年后回到自己曾经工作的连锁餐厅，给一位普通服务员留下 1000 美元小费，本来完全可以理解为对过去的感恩、对服务行业劳动者的尊重。\n\nWitt 自己承认，黄仁勋当时根本没有刻意展示这笔小费，是他事后向服务员打听才知道的。可到了今天，他却开始怀疑，黄仁勋的慷慨和谦逊只是一场表演，目的是满足自己的自恋心理。一个连旁观者都没有刻意让其看到的善举，竟然也能被解释成自恋\n\n当一个记者已经决定要把你写成一个傲慢、自恋的反面人物，你做什么都是错的。你发脾气是傲慢，你给小费是自恋，你对员工好是表演\n\n这个傻逼记者还给这篇文章配了一张极其丑化黄仁勋的面部特写。这样的视觉处理，与整篇文章的贬损性叙事放在一起，很难不让人质疑其中是否存在针对亚裔人物的偏见。\n\n记者当然有权批评黄仁勋，黄仁勋也应该为自己的错误承担责任。但这不意味着媒体可以随意揣测一个人的内心，把善意解释成虚伪，把复杂的人性简单归结为几个负面人格标签\n\nStephen Witt 曾经利用黄仁勋的信任，获得了普通记者难以得到的采访机会，并凭借这段经历写出了一本获奖畅销书。到黄仁勋陷入危机，他又以最了解黄仁勋的传记作者身份，站出来对这个人的人格作出全面否定, 典型的落井下石, 虚伪至极的垃圾"
+    },
+    "url": "https://x.com/oran_ge/status/2121807320795759046",
+    "time": "2026-11-15 11:27",
+    "created_at": "Sun Nov 15 03:27:41 +0000 2026",
+    "id_str": "2121807320795759046",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "不仅模型推理所需要的算力正在指数性下降\n而且模型训练所需要的算力也正在指数性下降\n智能正在变得越来越廉价",
+    "quoted_tweet": {
+      "author": "Jacob Coxon",
+      "username": "hilbertspaess",
+      "text": "This slide from the Anthropic IPO roadshow was a big factor in my decision to leave. It’s an insane plot and I’m surprised they made it public.\n\nIt shows the compute efficiency of pretraining over time. The y-axis is a **log scale**: they are seeing continued superexponential algorithmic progress.\n\nMythos was not a one-time deviation, but a point on a superexponential. They could already retrain Mythos with a fraction of the compute originally needed.\n\nIt doesn’t strictly imply a software-only intelligence explosion- they have been spending more on R+D. But algorithmic improvements do not require ridiculous creative genius and are on the verge of being automated. You do the math."
+    },
+    "url": "https://x.com/oran_ge/status/2121855952668569934",
+    "time": "2026-11-15 14:40",
+    "created_at": "Sun Nov 15 06:40:55 +0000 2026",
+    "id_str": "2121855952668569934",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@vista8 重点是放名人的脸不是自己的脸",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121856476100821322",
+    "time": "2026-11-15 14:43",
+    "created_at": "Sun Nov 15 06:43:00 +0000 2026",
+    "id_str": "2121856476100821322",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "人类太神奇了",
+    "quoted_tweet": {
+      "author": "Techniques Spatiales",
+      "username": "TechSpatiales",
+      "text": "Voici un engin de 52m de haut et de 100t qui fait des cabrioles dans le ciel.\nEt qui se fait attraper par une tour de lancement.\nAprès avoir passé 24h sur orbite.\nEt mis plus de 35t de satellites sur orbite.\nOn est enfin au 21è siècle."
+    },
+    "url": "https://x.com/oran_ge/status/2121858815322943626",
+    "time": "2026-11-15 14:52",
+    "created_at": "Sun Nov 15 06:52:18 +0000 2026",
+    "id_str": "2121858815322943626",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "我们可能也不需要那么多显卡",
+    "quoted_tweet": {
+      "author": "Maksym Andriushchenko",
+      "username": "maksym_andr",
+      "text": "i'm a bit surprised that many people don't believe this plot. @magicailabs literally reported ~same pretraining plot 2 months ago! 505x improvements in their case. and, yes, the Y-axis labels are 10x.\nhttps://magic.dev/blog/pretraining"
+    },
+    "url": "https://x.com/oran_ge/status/2121859555353309557",
+    "time": "2026-11-15 14:55",
+    "created_at": "Sun Nov 15 06:55:14 +0000 2026",
+    "id_str": "2121859555353309557",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "今天一年一度的 Cola 用户大聚会\n上海深圳北京三个城市一起\n收获了很多的故事和联结\n这是做产品做服务最开心的时刻\n感谢大家的信任和厚爱\n让我们在 AGI 的道路上\n一起陪伴共同成长",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121986009072357608",
+    "time": "2026-11-15 23:17",
+    "created_at": "Sun Nov 15 15:17:43 +0000 2026",
+    "id_str": "2121986009072357608",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "最近朋友们都反馈 codex 已经难用到了一个新的境界\n仔细一算，OpenAI 竟然已经 2 个月没有更新 Astra 了\n藏师傅说最近蒸馏 OpenAI 模型可能会导致自家模型能力变差\n大家要小心啊 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2121992315883716770",
+    "time": "2026-11-15 23:42",
+    "created_at": "Sun Nov 15 15:42:47 +0000 2026",
+    "id_str": "2121992315883716770",
+    "is_retweet": false
+  }
+]
