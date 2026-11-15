@@ -261,5 +261,476 @@
     "created_at": "Sun Nov 15 15:42:47 +0000 2026",
     "id_str": "2121992315883716770",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "分享一些最近的个人经历\n我到深圳也有段时间了，离开上海之前我和我前同事说要去深圳发展做一些智算中心的生意，她们听到后很惊讶，因为我在他们眼里就是一个文静内向的女生，和做生意八竿子打不着，更别提什么智算，什么AI， 我承认我撒谎了骗她们说我亲戚在深圳做这个好像还挺挣钱的，但其实她们不知道我每天在研究AI，更不知道我其实网名叫 CuiMao，全网拥有不错的粉丝和人气。他们不理解，我不怪他们，因为我不打算告诉他们这些，中国有句古话叫，闷声发大财。直到我离开上海她们也一直无法理解我的选择。\n\n本周黄仁勋的事情沸沸扬扬，国内的自媒体肆意发酵所谓的倒卖 b300 能翻身的理论，把黄丽比喻成拿到大结果的“成功女性”典范在小红书被捧上了神坛，几乎一夜之间全中国都知道英伟达服务器在中国是暴利行业能挣大钱。于是那些投机分子像雨后春笋般的冒了出来，阿猫阿狗都在朋友圈发求 b300，h200，甚至还有吹牛自己亲戚在英伟达是高管可以拿到货的，堪比当年疫情朋友圈卖口罩的乾隆盛世，说实话，我有点难过。因为我知道这一行真实的样子。服务器不是普通人能碰的，它是重资产、高杠杆，是大基建，是国之重器。真正在做这件事的人每天面对的是合规、电力、机房和交付，运维。根本没有那种一夜暴富的传奇故事。\n\n为什么要发这篇长文，因为昨天晚上我以前的同事她来私信我了，就是上文提到的那几个人中的一个，说我不是去深圳搞服务器了吗，是不是赚大钱了，我说没有，和她来回打了几轮太极之后，最后她才支支吾吾的告诉我她被裁员了，我不知道以什么样的态度和立场去面对这件事，因为她算得上是我以前部门的领导，她和她的丈夫在上海还有普陀区一套 300 多万的房贷和一个小学 3 年级孩子，我发现除了安抚，一切会好的没有别的可以说的。\n\n一晚上没睡，我给她认真科普了服务器知识，什么是国产替代中国算力崛起之类的，她在电话那头一直哦哦哦，嗯嗯嗯，我不知道她到底听进去了多少，但她说觉得自己上了那么多年的班脑子被上坏了，我觉得应该是感悟到什么了吧。她要去找工作，我劝了她，不要特地去找什么 AI 公司，那大概率都是骗子来的。过好自己的生活。\n\n我觉得这个世界上想挣 AI 快钱的人太多了，定定心心，认认真真坐下来，把浮躁的心静下来去感受 AI 的人是极少数。现在简中网络上流传着这一句话说，只要你不学AI，过几个月你就可以不用学了，我觉得不无道理，但我更加认同的是，只要你保持学习 AI，你就可以驾驭更强力的 AI，\n\n从 Webui 到 Comfyui 到 n8n ，再到 Openclaw，一代版本一代神，我随着时代在进化，我双眼看到的只有未来的世界。AI 时代， 保持认真，保持好奇，保持善良，我CuiMao 亲测过了，依旧有效。",
+    "quoted_tweet": null,
+    "url": "https://x.com/CuiMao/status/2121916581643202848",
+    "time": "2026-11-15 18:41",
+    "created_at": "Sun Nov 15 10:41:51 +0000 2026",
+    "id_str": "2121916581643202848",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "I ran a PageRank-driven analysis on all recent news coverage related to Jensen, and traced how the New York Times shaped the entirety of this narrative: https://jensencoverage.vercel.app/\n\n--\nNVIDIA has lost over $1 trillion in market value since the first New York Times story broke about Jensen. I dug deeper to analyze how the news originated and spread, running a swarm of agents which analyzed almost 2000 stories, across 40 US and European news outlets, and applying PageRank to understand how they cited each other. \n\nCore findings: \n- Primary news driver: NYT, with 88 stories, most-cited\n- Volume drivers: WSJ - 99 stories; Bloomberg - 140 stories; NY Post - 68 stories\n\nAll of this started from unknown sources who gave information to the NYT, which then ran the spy story (still unproven), and it was then picked up in other news publications. Curiously, even after that story, there was a 9 day period of extremely low volume reporting (28 stories only), after which there was a sudden spike after Jensen's own letter to NVIDIA staff. NYT then had multiple sequential spy and affair stories, which fed a wave of further news coverage. It was the originating hub of negative Jensen coverage. Multiple outlets since then had an explosion in stories about him starting earlier this week as well. \n\nOverall, as you see this data, you will observe this was an exceptional media onslaught against Jensen with sharply negative coverage about him, his work, style, and family. Infact, it was brutal, and unlike coverage in the past of CEOs who have had affairs (such as Intel CEO in 2018). For eg, NYT ran just 2 stories about Intel's CEO who had an affair with his employee, compared to 88 on Jensen! Why ? \n\nThis analysis used a technique of how Google originally ranked webpages, using PageRank, and does deep dive link analysis so you can view how the news spread. What struck here was that it did not matter if there were proven facts or credible sources: the outcome here was pre-decided. The news was making the reality which it wanted. \n\nDuring this period, NVIDIA has lost $1.27 trillion in market value since the first story broke. On Nov 12th-13th, further news broke that both the US Justice Department, and Singapore - are unable to even conclude the spy allegation. \n\nThis has been a catastrophic attack on one of the hardest working founders in modern times, who took an idea from a Denny's booth, through multiple instances of almost going out of business, to building the foundation of the entire modern world with how the NVIDIA story played out. Thanks to Jensen, we have hope that many formerly incurable diseases will get solved by AI, that quality of life will and have improved for billions around the world. \n\nNow I do not know if he will come back as CEO or not, but I hope he does. What happened to him here, and to the wider industry, was not fair.",
+    "quoted_tweet": {
+      "author": "Varun",
+      "username": "varun_mathur",
+      "text": "the real story is who and why is running the industrial-scale smear operation against Jensen, which seems to have been exceptionally well planned and been put in motion only after the election ? the stories are too well manufactured and outcome has been pre-decided. #ISupportJensen"
+    },
+    "url": "https://x.com/varun_mathur/status/2122018790653231113",
+    "time": "2026-11-16 01:27",
+    "created_at": "Sun Nov 15 17:27:59 +0000 2026",
+    "id_str": "2122018790653231113",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "英国《金融时报》美东时间 11 月 15 日（周日）报道，黄仁勋正在考虑重新出任英伟达 CEO，已经和几位亲信讨论过回归的可能。消息来自多名知情人士。\n\n三天前，11 月 12 日，英伟达宣布黄仁勋辞去 CEO 和董事职务，CFO Colette Kress 任临时 CEO。金融时报说，董事会对他的独立调查还没结束，他就已经在谈回归了。\n\n据金融时报，一位黄仁勋的盟友说，他们正在召集一批硅谷高管组成“作战室”，游说英伟达董事会让黄仁勋复职，还会争取白宫的支持。这位盟友是谁，报道没有公开。\n\n公开站出来的人已经有不少。一封名为“Stand with Jensen”的网上公开信要求董事会先让黄仁勋回来，等独立调查查清事实再说，同时公开调查的范围和时间表，给他回应的机会。信里说，签名者没有看到能证实间谍指控的证据，黄仁勋应该得到“正当程序”。\n\n据理财网站 Moneywise（雅虎财经转载），截至 11 月 14 日上午，这封信有超过 10 万人签名，其中 5000 多人自称英伟达在职员工。名单上有马斯克、Epic Games CEO Tim Sweeney、Y Combinator CEO Garry Tan、Replit CEO Amjad Masad。马斯克 11 月 13 日在 X 上说，自己也签了。\n\n投资人也出面了。据华盛顿观察家报，Altimeter Capital 的 Brad Gerstner 和 Atreides Management 的 Gavin Baker 11 月 13 日公开致信董事会，希望接班的事慢一点、审慎地处理，把黄仁勋回归留作选项。两人没有要求他马上复职。",
+    "quoted_tweet": {
+      "author": "Wall St Engine",
+      "username": "wallstengine",
+      "text": "Jensen Huang’s odds of returning as Nvidia CEO have jumped to 20% on Kalshi following the Financial Times report that he’s considering a comeback."
+    },
+    "url": "https://x.com/dotey/status/2122062085807030716",
+    "time": "2026-11-16 04:20",
+    "created_at": "Sun Nov 15 20:20:01 +0000 2026",
+    "id_str": "2122062085807030716",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": {
+      "text": "https://t.co/tGGVrWqAI4",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2122070950590255104",
+          "display": "pic.x.com/tGGVrWqAI4",
+          "original": "https://t.co/tGGVrWqAI4",
+          "replacement": "https://x.com/mtrainier2020/status/2122071060959072409/video/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/mtrainier2020/status/2122071060959072409",
+    "time": "2026-11-16 04:55",
+    "created_at": "Sun Nov 15 20:55:41 +0000 2026",
+    "id_str": "2122071060959072409",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Have a relaxing Sunday from New York",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122022509633531910",
+    "time": "2026-11-16 01:42",
+    "created_at": "Sun Nov 15 17:42:46 +0000 2026",
+    "id_str": "2122022509633531910",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "On AI changes in industry, life, and what I think, we all should do in our careers. \n\nEverything changed few weeks ago. At the beginning a lot of companies were developing similar technology, and there was a race who'll develop the best models. Right now some models are clearly way ahead and companies are now developing their own AI agents. \n\nThis change makes me happy and excited. Agents is something I've been working with for several months and currently everything I do is using a different agent. \n\nMuse AI for all Instagram, YouTube, Threads content research and development \n\nGrok Bot for X, I write all my posts and replies myself but I do use Grok Bot for research all the time \n\nClaude Opus 5.5 is an incredible model that can build great stuff and help with every aspect. Even though I use Muse AI and Grok Bot, most stuff I still take to Claude because it's just superior in every day. \n\nCreatively I'm super excited about niche agents, like Premiere AI Assistant and hope for more assistants / agents development of the tools I use every day. \n\nAs a career, you shall use agents / automate everything you don't enjoy doing and focus on creative part of your work while agents do a manual part. Build things intentionally, share with others. We're at a great time for AI and a lot of people still have no idea how to use agents effectively. That's where you can fill the gap and niche.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122039631227023445",
+    "time": "2026-11-16 02:50",
+    "created_at": "Sun Nov 15 18:50:48 +0000 2026",
+    "id_str": "2122039631227023445",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 😂 It's such a good scene!! And we surely thought the same",
+    "quoted_tweet": null,
+    "url": "https://x.com/dedene/status/2122040922653200476",
+    "time": "2026-11-16 02:55",
+    "created_at": "Sun Nov 15 18:55:56 +0000 2026",
+    "id_str": "2122040922653200476",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dedene Were you also stuck at the airport? 😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122041134272897043",
+    "time": "2026-11-16 02:56",
+    "created_at": "Sun Nov 15 18:56:46 +0000 2026",
+    "id_str": "2122041134272897043",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm poor so I just use my 7 grok bots.  Theyve became my friends",
+    "quoted_tweet": null,
+    "url": "https://x.com/Eras_AI/status/2122041492105793626",
+    "time": "2026-11-16 02:58",
+    "created_at": "Sun Nov 15 18:58:11 +0000 2026",
+    "id_str": "2122041492105793626",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Eras_AI Grok Bot is a great tool and it's getting better and better. For X it's more than enough",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122042304823193818",
+    "time": "2026-11-16 03:01",
+    "created_at": "Sun Nov 15 19:01:25 +0000 2026",
+    "id_str": "2122042304823193818",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife No no, in Europe luckily no traffic control issues. But you were? 🙈",
+    "quoted_tweet": null,
+    "url": "https://x.com/dedene/status/2122042421332615296",
+    "time": "2026-11-16 03:01",
+    "created_at": "Sun Nov 15 19:01:53 +0000 2026",
+    "id_str": "2122042421332615296",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dedene Polka, polka, we all in the US 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122042696676040885",
+    "time": "2026-11-16 03:02",
+    "created_at": "Sun Nov 15 19:02:59 +0000 2026",
+    "id_str": "2122042696676040885",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Thank you for the update by the way!  Super good to know",
+    "quoted_tweet": null,
+    "url": "https://x.com/JavyDiaz/status/2122049662232527226",
+    "time": "2026-11-16 03:30",
+    "created_at": "Sun Nov 15 19:30:39 +0000 2026",
+    "id_str": "2122049662232527226",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JavyDiaz Welcome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122049993813213487",
+    "time": "2026-11-16 03:31",
+    "created_at": "Sun Nov 15 19:31:58 +0000 2026",
+    "id_str": "2122049993813213487",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Enjoy your week 🐈‍⬛ \n\nOne of the episodes of “Babushka” show. \n\nMade with Adobe Firefly Boards, Seedance 2.5, Claude Opus 5.0, Grok Bot and Muse AI",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122052325221253511",
+    "time": "2026-11-16 03:41",
+    "created_at": "Sun Nov 15 19:41:14 +0000 2026",
+    "id_str": "2122052325221253511",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Take me!",
+    "quoted_tweet": null,
+    "url": "https://x.com/swaymolina/status/2122053124596683142",
+    "time": "2026-11-16 03:44",
+    "created_at": "Sun Nov 15 19:44:25 +0000 2026",
+    "id_str": "2122053124596683142",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@swaymolina Come visit me",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122053213423566937",
+    "time": "2026-11-16 03:44",
+    "created_at": "Sun Nov 15 19:44:46 +0000 2026",
+    "id_str": "2122053213423566937",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love that you are doing this!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Darbybailey/status/2122053899888501093",
+    "time": "2026-11-16 03:47",
+    "created_at": "Sun Nov 15 19:47:30 +0000 2026",
+    "id_str": "2122053899888501093",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Darbybailey Thank you, Darby! It bring me lots of joy",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122054332937846899",
+    "time": "2026-11-16 03:49",
+    "created_at": "Sun Nov 15 19:49:13 +0000 2026",
+    "id_str": "2122054332937846899",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Character design of Babushka from 2D to 3D \n\nWhich one do you prefer?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122054593387397494",
+    "time": "2026-11-16 03:50",
+    "created_at": "Sun Nov 15 19:50:15 +0000 2026",
+    "id_str": "2122054593387397494",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ai_for_success This looks so cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122055028202733972",
+    "time": "2026-11-16 03:51",
+    "created_at": "Sun Nov 15 19:51:59 +0000 2026",
+    "id_str": "2122055028202733972",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I like them both but the 3d one carries more detail",
+    "quoted_tweet": null,
+    "url": "https://x.com/wilzap/status/2122055134347714746",
+    "time": "2026-11-16 03:52",
+    "created_at": "Sun Nov 15 19:52:24 +0000 2026",
+    "id_str": "2122055134347714746",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap I think I will experiment with few 3d episodes",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122055232309821932",
+    "time": "2026-11-16 03:52",
+    "created_at": "Sun Nov 15 19:52:47 +0000 2026",
+    "id_str": "2122055232309821932",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife That’s a really nice transition. I really like the 3D version. I’ll try to do something similar later today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/imerial/status/2122056304953065734",
+    "time": "2026-11-16 03:57",
+    "created_at": "Sun Nov 15 19:57:03 +0000 2026",
+    "id_str": "2122056304953065734",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife These are so heartwarming. 💜",
+    "quoted_tweet": null,
+    "url": "https://x.com/barbbowman/status/2122056942818369894",
+    "time": "2026-11-16 03:59",
+    "created_at": "Sun Nov 15 19:59:35 +0000 2026",
+    "id_str": "2122056942818369894",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@barbbowman Thank you, Barb! Working on new episodes this weekend",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122058199721226328",
+    "time": "2026-11-16 04:04",
+    "created_at": "Sun Nov 15 20:04:35 +0000 2026",
+    "id_str": "2122058199721226328",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife What did you use muse for? I find it underwhelming in 100% of use cases",
+    "quoted_tweet": null,
+    "url": "https://x.com/RodmanAi/status/2122059677370573121",
+    "time": "2026-11-16 04:10",
+    "created_at": "Sun Nov 15 20:10:27 +0000 2026",
+    "id_str": "2122059677370573121",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RodmanAi Instagram and Threads growth",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122059841074045349",
+    "time": "2026-11-16 04:11",
+    "created_at": "Sun Nov 15 20:11:06 +0000 2026",
+    "id_str": "2122059841074045349",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@imerial I lean towards 3d version too",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122059956874887560",
+    "time": "2026-11-16 04:11",
+    "created_at": "Sun Nov 15 20:11:34 +0000 2026",
+    "id_str": "2122059956874887560",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Which part did Grok Bot handle, the edit or the script?",
+    "quoted_tweet": null,
+    "url": "https://x.com/axelvargasmac/status/2122061129899765994",
+    "time": "2026-11-16 04:16",
+    "created_at": "Sun Nov 15 20:16:14 +0000 2026",
+    "id_str": "2122061129899765994",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@axelvargasmac Optimising for X",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122064122347135486",
+    "time": "2026-11-16 04:28",
+    "created_at": "Sun Nov 15 20:28:07 +0000 2026",
+    "id_str": "2122064122347135486",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Real life version",
+    "quoted_tweet": null,
+    "url": "https://x.com/Sasshi/status/2122064776939585634",
+    "time": "2026-11-16 04:30",
+    "created_at": "Sun Nov 15 20:30:43 +0000 2026",
+    "id_str": "2122064776939585634",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Then after a week he gets reinstated lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/wilzap/status/2122064892366831711",
+    "time": "2026-11-16 04:31",
+    "created_at": "Sun Nov 15 20:31:11 +0000 2026",
+    "id_str": "2122064892366831711",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Sasshi Actually this is real life version \nThis is a real photo of my Grandma, our cat and me (and the show is dedicated to her memory).",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122065496669405678",
+    "time": "2026-11-16 04:33",
+    "created_at": "Sun Nov 15 20:33:35 +0000 2026",
+    "id_str": "2122065496669405678",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "And this is the real life version \nThis is a real photo of my Grandma, our cat and me (and the show Babushka is dedicated to her memory).",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Character design of Babushka from 2D to 3D \n\nWhich one do you prefer?"
+    },
+    "url": "https://x.com/icreatelife/status/2122065725787685283",
+    "time": "2026-11-16 04:34",
+    "created_at": "Sun Nov 15 20:34:29 +0000 2026",
+    "id_str": "2122065725787685283",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap For that game you need maybe three weeks to finish 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122066422830703054",
+    "time": "2026-11-16 04:37",
+    "created_at": "Sun Nov 15 20:37:15 +0000 2026",
+    "id_str": "2122066422830703054",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Great photo 🤩",
+    "quoted_tweet": null,
+    "url": "https://x.com/BetterParties/status/2122070828405887089",
+    "time": "2026-11-16 04:54",
+    "created_at": "Sun Nov 15 20:54:46 +0000 2026",
+    "id_str": "2122070828405887089",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Beautiful picture and beautiful contribution to her memory! 😊",
+    "quoted_tweet": null,
+    "url": "https://x.com/3DigitalTrooper/status/2122073460990173397",
+    "time": "2026-11-16 05:05",
+    "created_at": "Sun Nov 15 21:05:13 +0000 2026",
+    "id_str": "2122073460990173397",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@BetterParties Thank you",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122074943290560796",
+    "time": "2026-11-16 05:11",
+    "created_at": "Sun Nov 15 21:11:07 +0000 2026",
+    "id_str": "2122074943290560796",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@3DigitalTrooper Thanks a lot",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2122074963565855062",
+    "time": "2026-11-16 05:11",
+    "created_at": "Sun Nov 15 21:11:12 +0000 2026",
+    "id_str": "2122074963565855062",
+    "is_retweet": false
   }
 ]
