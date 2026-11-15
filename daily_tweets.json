@@ -603,5 +603,193 @@
     "created_at": "Sat Nov 14 22:38:51 +0000 2026",
     "id_str": "2121734633259663841",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "🐂🍺 SpaceX 第一次用机械臂夹住回收了二级飞船",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2121756191495954772",
+    "time": "2026-11-15 08:04",
+    "created_at": "Sun Nov 15 00:04:31 +0000 2026",
+    "id_str": "2121756191495954772",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "牛逼啊，BLG，买了雷鸟眼镜准备退货的哥们麻了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2121763489668878800",
+    "time": "2026-11-15 08:33",
+    "created_at": "Sun Nov 15 00:33:31 +0000 2026",
+    "id_str": "2121763489668878800",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "B 站还会免费送大会员，有空可以领一下",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2121763817629876440",
+    "time": "2026-11-15 08:34",
+    "created_at": "Sun Nov 15 00:34:49 +0000 2026",
+    "id_str": "2121763817629876440",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "FBI专门发了一篇通告，让各个公司，机构防范ARTEX，一个开源AI agent渗透平台的攻击。\n这个AI Agent 平台是国内一个小伙子，业余时间搞出来的。\n然后这几个月火起来了。\n先是一个大学生拿它攻进了韩国的银行系统。\n然后就是上月，微软发布公告，有中国的黑客团队，用Artex 通过被盗的ConnectWise 应用程序凭证，对全球数百家组织（包括政府、航空航天、国防等领域）发动大规模自动化攻击。攻击者每分钟进行超过 2900 次登录尝试，在多起案例中从初始锁定到取得 Microsoft 365 等云端环境的最高特权存取权限不到 3 小时。好多tenant被轻松攻破。\n不愧为最强攻城攻城锤。\n\n然后处于各方压力和商业化，上月8号，原始的Artex选择了闭源。\n\n但是github上还有好几个fork 和衍生版。\n\nAI Agent全自动辅助攻击是个大趋势。\n本地化部署的GLM/deepseek+ 开源渗透框架+Human，能把原来几周，上月的渗透，缩短到几个小时。\n\n所以FBI 都赶紧跳出来发警示。\n\n但是防守就难多了。",
+    "quoted_tweet": {
+      "author": "FBI Cyber Branch",
+      "username": "FBICyberBranch",
+      "text": "Threat actors are weaponizing ARTEX, an open-source, large language model (LLM)-driven agentic platform to automate multiple phases of cyber intrusions at machine speed. Since at least August 2026, a variety of malicious cyber actors have used ARTEX to conduct campaigns targeting organizations globally across multiple sectors, including financial services, government, and technology.\n\nARTEX significantly reduces the time required to chain attack techniques and enables threat actors with minimal technical expertise to conduct complex, multi-target operations simultaneously.\n\nToday, the FBI released a FLASH highlighting the tactics, techniques, and procedures and indicators of compromise associated with the ARTEX framework. Organizations should follow the mitigation steps outlined in the FLASH to improve their security posture in response to ARTEX and similar agentic SI frameworks: https://www.ic3.gov/CSA/2026/261113.pdf"
+    },
+    "url": "https://x.com/mtrainier2020/status/2121694663837151311",
+    "time": "2026-11-15 04:00",
+    "created_at": "Sat Nov 14 20:00:01 +0000 2026",
+    "id_str": "2121694663837151311",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "星舰牛逼",
+    "quoted_tweet": {
+      "author": "Tesla Owners Silicon Valley",
+      "username": "teslaownersSV",
+      "text": "BREAKING: Starship Flight 15 was just caught by the tower at Starbase. \n\nThe first-ever ship catch."
+    },
+    "url": "https://x.com/dotey/status/2121742342017495293",
+    "time": "2026-11-15 07:09",
+    "created_at": "Sat Nov 14 23:09:29 +0000 2026",
+    "id_str": "2121742342017495293",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "原来08年汶川地震，北京市海淀外国语实验学校接收了 101 名灾区学生。黄仁勋特地去了次北京捐了400 万。还送了个电脑教室。",
+    "quoted_tweet": null,
+    "url": "https://x.com/CuiMao/status/2121758160893735085",
+    "time": "2026-11-15 08:12",
+    "created_at": "Sun Nov 15 00:12:20 +0000 2026",
+    "id_str": "2121758160893735085",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "\"Im worried about Claude taking our data\" brother Claude doesn't want your data, you're going to slow them down.",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2121714356522242213",
+    "time": "2026-11-15 05:18",
+    "created_at": "Sat Nov 14 21:18:16 +0000 2026",
+    "id_str": "2121714356522242213",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "伟大",
+    "quoted_tweet": {
+      "author": "SpaceX",
+      "username": "SpaceX",
+      "text": "Mechazilla catches Starship! Congratulations to the entire SpaceX team on this incredible achievement!"
+    },
+    "url": "https://x.com/xiaohu/status/2121761325697441818",
+    "time": "2026-11-15 08:24",
+    "created_at": "Sun Nov 15 00:24:55 +0000 2026",
+    "id_str": "2121761325697441818",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife @azed_ai Threads is a good place to post ???",
+    "quoted_tweet": null,
+    "url": "https://x.com/calor1038/status/2121730951122206902",
+    "time": "2026-11-15 06:24",
+    "created_at": "Sat Nov 14 22:24:13 +0000 2026",
+    "id_str": "2121730951122206902",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@calor1038 @azed_ai Incredibly good at the moment! I just got 2 millions in one day. Same stuff as here than barely gets 50k!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121731986993696954",
+    "time": "2026-11-15 06:28",
+    "created_at": "Sat Nov 14 22:28:20 +0000 2026",
+    "id_str": "2121731986993696954",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Kyrannio 😅😅😅😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121746916090196365",
+    "time": "2026-11-15 07:27",
+    "created_at": "Sat Nov 14 23:27:39 +0000 2026",
+    "id_str": "2121746916090196365",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I'm working on episode 2 of my AI show :D",
+    "quoted_tweet": null,
+    "url": "https://x.com/QuaiWentt/status/2121751119911334153",
+    "time": "2026-11-15 07:44",
+    "created_at": "Sat Nov 14 23:44:21 +0000 2026",
+    "id_str": "2121751119911334153",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@QuaiWentt Nice! Where are you posting it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121752079764988153",
+    "time": "2026-11-15 07:48",
+    "created_at": "Sat Nov 14 23:48:10 +0000 2026",
+    "id_str": "2121752079764988153",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife just acquired a new style for my backgrounds",
+    "quoted_tweet": null,
+    "url": "https://x.com/sevendluke_/status/2121758036125724783",
+    "time": "2026-11-15 08:11",
+    "created_at": "Sun Nov 15 00:11:50 +0000 2026",
+    "id_str": "2121758036125724783",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@sevendluke_ Lovely!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121759446686916662",
+    "time": "2026-11-15 08:17",
+    "created_at": "Sun Nov 15 00:17:27 +0000 2026",
+    "id_str": "2121759446686916662",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "X algorithm changes all the time. What I keep doing no matter what: post my own work, tell the story behind it, credit and repost people, and reply to as many of you as I can. That part has never stopped working.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2121767761642930419",
+    "time": "2026-11-15 08:50",
+    "created_at": "Sun Nov 15 00:50:29 +0000 2026",
+    "id_str": "2121767761642930419",
+    "is_retweet": false
   }
 ]
