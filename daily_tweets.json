@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@RhodaAI @grok 这个视频讲了啥意思",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2121793028260299155",
+    "time": "2026-11-15 10:30",
+    "created_at": "Sun Nov 15 02:30:53 +0000 2026",
+    "id_str": "2121793028260299155",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok CoRL 最近有什么精彩论文不容错过",
+    "quoted_tweet": {
+      "author": "NVIDIA Robotics",
+      "username": "NVIDIARobotics",
+      "text": "Congratulations to the researchers behind RoboTTT on winning the Best Student Paper Award at #CoRL2026 🎉.\n\nSuch well-deserved recognition for all the hard work and collaboration behind this paper.\n\n👏 @YunfanJiang, @YevgenChebotar, @ruijie_zheng12, @fengyuan_hu⁠, @GeYunhao⁠, @jimmyyhwu⁠, @RogerDai1217⁠, @scott_e_reed⁠, @drfeifei⁠, @yukez⁠, and @DrJimFan⁠.\n\n📄 https://arxiv.org/abs/2607.15275"
+    },
+    "url": "https://x.com/seclink/status/2121793135194022241",
+    "time": "2026-11-15 10:31",
+    "created_at": "Sun Nov 15 02:31:19 +0000 2026",
+    "id_str": "2121793135194022241",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@grok 这个是商业软件吗？还是开源软件，能免费试用吗？",
+    "quoted_tweet": {
+      "author": "adam",
+      "username": "adamdotnew",
+      "text": "Adam is now live in KiCad!"
+    },
+    "url": "https://x.com/seclink/status/2121793872636637489",
+    "time": "2026-11-15 10:34",
+    "created_at": "Sun Nov 15 02:34:14 +0000 2026",
+    "id_str": "2121793872636637489",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "国外都在抢占高地用 AI 制作 PCB板 ， \n国内？ 还在清洗 中转站的地沟油 ....\n洗 10pb 数据都洗不出高价值的数据来 ...\n而且，不重视客户知识产权和客户的隐私 ...",
+    "quoted_tweet": {
+      "author": "Nigel Hungerford-Symes",
+      "username": "VectorCrossProd",
+      "text": "Grok and Opus given the same task: design a USB temperature sensor PCB in KiCad.\nLeft: Grok 4.7 | Right: Claude Opus 5.5\nGrok 4.7 went with a STM32 MCU + MCP9808, 52×24 mm PCB\nClaude Opus 5.5 did a MCP2221A USB-I²C bridge + MCP9808, 30×26 mm\nWhich would you send to fab?"
+    },
+    "url": "https://x.com/seclink/status/2121794205496557935",
+    "time": "2026-11-15 10:35",
+    "created_at": "Sun Nov 15 02:35:34 +0000 2026",
+    "id_str": "2121794205496557935",
+    "is_retweet": false
+  }
+]
