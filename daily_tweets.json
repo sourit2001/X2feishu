@@ -54,5 +54,64 @@
     "created_at": "Sun Nov 15 02:35:34 +0000 2026",
     "id_str": "2121794205496557935",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Western media coverage of $NVDA and Jensen Huang have reached a point\n\nWhere it even gives Chinese people more pride in CCP state media.\n\nVery dark times for Western journalism.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2121852636261724398",
+    "time": "2026-11-15 14:27",
+    "created_at": "Sun Nov 15 06:27:45 +0000 2026",
+    "id_str": "2121852636261724398",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As a side note, a couple years ago, making this benchmark & analysis would’ve taken a considerable amount of time in STATA, likely several days, and making it look this nice would have been quite a while as well.\n\nThis was like 4 prompts to Fable 5.2",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "AI is getting better faster than our measurements are\n\nI threw together SatBench, which measures how quickly major AI benchmarks become saturated (effectively beaten). Of 173 benchmarks cited by the Labs since 2023, 63% are now saturated. Saturation is happening faster each year."
+    },
+    "url": "https://x.com/emollick/status/2121822367575945454",
+    "time": "2026-11-15 12:27",
+    "created_at": "Sun Nov 15 04:27:28 +0000 2026",
+    "id_str": "2121822367575945454",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "On my way to Microsoft Ignite in San Francisco. Plane departs in 2 hours. \n\nSome time to read books about the future of AI. Super excited for @emollick new book :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/kimmonismus/status/2121839072805056538",
+    "time": "2026-11-15 13:33",
+    "created_at": "Sun Nov 15 05:33:51 +0000 2026",
+    "id_str": "2121839072805056538",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@kimmonismus I hope you enjoy it! As an AI expert, I think you will find different aspects of it interesting from what a less-informed reader might.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2121839387512324471",
+    "time": "2026-11-15 13:35",
+    "created_at": "Sun Nov 15 05:35:06 +0000 2026",
+    "id_str": "2121839387512324471",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This self-driving vehicle has some balls.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2121863980012679489",
+    "time": "2026-11-15 15:12",
+    "created_at": "Sun Nov 15 07:12:49 +0000 2026",
+    "id_str": "2121863980012679489",
+    "is_retweet": false
   }
 ]
