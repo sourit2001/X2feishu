@@ -431,5 +431,64 @@
     "created_at": "Sun Nov 15 16:13:53 +0000 2026",
     "id_str": "2122000144203907180",
     "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Sundar's week is a flex list. For builders, only three shipments change how you spend tokens: Gemini 4 Carbon, Gemini 4 Hydrogen, and the Decisions API. The rest is silicon, research, and glasses.",
+    "quoted_tweet": {
+      "author": "Sundar Pichai",
+      "username": "sundarpichai",
+      "text": "What we shipped this week @google \n\nMonday: Two new 8th-gen TPUs\nTuesday: Gemini 4 Carbon\n- AlphaProof Code verified Signal protocol\n- Gemini Robotics 2.5\nWednesday: AlphaGenome 2 for disease research\n- Gemini Decisions API in AI Studio\nThursday: Gemini 4 Hydrogen\n- intelligent eyewear pre-orders\nFriday: U2 new album (ok not us but exciting!)\n\nonwards!"
+    },
+    "url": "https://x.com/godofprompt/status/2122116802700619846",
+    "time": "2026-11-16 07:57",
+    "created_at": "Sun Nov 15 23:57:27 +0000 2026",
+    "id_str": "2122116802700619846",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The sleeper is the Decisions API. gemini-decision-1 scores yes/no, choice, and rubric questions in one pass, $0.10 per 1M input, $0 output. OpenAI already ships this idea. Google adds audio, video, PDFs, and 1,000 questions. No caching yet.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2122116838603759941",
+    "time": "2026-11-16 07:57",
+    "created_at": "Sun Nov 15 23:57:36 +0000 2026",
+    "id_str": "2122116838603759941",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Practical move: put Decisions in front as a router, Hydrogen in the loop, Carbon only on the hard pass. Burn the Carbon intro price before Dec 1. Don't blindly leave 3.8 Flash until you've measured cost per task. Flash is still cheaper per token through Dec 31.",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2122116850263941472",
+    "time": "2026-11-16 07:57",
+    "created_at": "Sun Nov 15 23:57:38 +0000 2026",
+    "id_str": "2122116850263941472",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@vista8 有意思",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122114653593665994",
+    "time": "2026-11-16 07:48",
+    "created_at": "Sun Nov 15 23:48:55 +0000 2026",
+    "id_str": "2122114653593665994",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2121845965997101118",
+    "time": "2026-11-15 14:01",
+    "created_at": "Sun Nov 15 06:01:14 +0000 2026",
+    "id_str": "2121845965997101118",
+    "is_retweet": false
   }
 ]
