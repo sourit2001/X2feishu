@@ -1,1 +1,610 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Markets have now given me PTSD on every green rally.\n\nThat being said, $SOI accelerating from $25m quarterly photonics-SOI revenue… with no forward visibility earlier this year.\n\nInto securing $1.2B in agreements this quarter, backed by cash, is extremely transformative and make me happy to see.\n\nIn terms transcript details:\n\n- “AI data center have built large compute power, but some of it remains idle as copper links limit data availability for processing. \n\nOptics removes that bottleneck”\n\nReiterating what I said about aggregate capex not applying 1:1 with optical sector, given optical shifts improves GPU utilization\n\n- timelines: “Near-package optics brings first volume by the end of the fiscal year, and high volume next year. \n\nCo-Packaged Optics for scale out is starting to ramp. TPO for scale up will be the next stage”\n\n- “Growth comes in waves, scale out and scale up as a new driver. As those links goes optical, they create new volume on top of today's. \n\nIn fiscal year 2027, our revenue comes mostly from pluggable transceiver, and we see initial volume from NPO.”\n\n- “Growth returned sooner than we had anticipated and with more vigor. Revenue grew 39%, with Photonics-SOI leading the way.\n\nMargin expansion has come forward too”\n\n- “So, for the capacity reservation agreement we signed, they cover calendar year 2027, calendar year 2028, and beyond”\n\nIn terms of where they see acceleration:\n\n- “Now we see and we believe the new requests that we are getting lately are more for the Co-Packaged Optics and NPO. And especially for the scale-up going forward.”\n\nI think that this quarter earnings marks the inflection of optical acceleration for Soitec + silicon photonics.\n\nAnd what it means for a chokepoint to transform into company economics.",
+    "quoted_tweet": {
+      "author": "Serenity",
+      "username": "aleabitoreddit",
+      "text": "Did you listen Citibank?\n\nWhen I first took positions in $SOI, Citi reacted to my analysis and warned: \"investor expectations for Photonics-SOI growth might be excessive\"\n\nSoitec back then had:\n-> $25M in Photonics-SOI revenue, with no guidance... when Citi published their note. \n\nnow? \n\n->  $1.2 BILLION in long term customer capacity commitments, driven by OPTICAL GROWTH (w/ cash deposits)\n\nIn just 8 months. \n\n$25M -> $1.2B LTAs... Vindicated. \n\nThis is clear acceleration in underlying OPTICAL DEMAND, despite markets pricing in AI demand destruction."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2123335230870392843",
+    "time": "Thu Nov 19 08:39:03 +0000 2026",
+    "created_at": "Thu Nov 19 08:39:03 +0000 2026",
+    "id_str": "2123335230870392843",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit 保重啊   我需要看您的AI分析\n\n下次能不能分析AI与医药的进展\n\n毕竟AI硬件不是AI的唯一",
+    "quoted_tweet": null,
+    "url": "https://x.com/where_iszack/status/2123336980906041634",
+    "time": "Thu Nov 19 08:46:00 +0000 2026",
+    "created_at": "Thu Nov 19 08:46:00 +0000 2026",
+    "id_str": "2123336980906041634",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@where_iszack I’ve actually been spending a lot of my time talking with researchers at Stanford and other biotech labs regarding bottlenecks like reagents or monkeys.\n\nI’ll publish more for 2027, right now I’m enjoying this absurd optical ramp.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123373674304770337",
+    "time": "Thu Nov 19 11:11:48 +0000 2026",
+    "created_at": "Thu Nov 19 11:11:48 +0000 2026",
+    "id_str": "2123373674304770337",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "That’s the signal of confidence I like to see: $COHR issues a new $2B share buyback, through open market purchases.\n\nOptical industry looks very undervalued right now, especially as it reaches the inflection of the next supercycle.\n\nWe’re already seeing photonics-SOI substrate players go from $25M revenue -> $1.2B LTAs signed in a quarter.\n\nOr $100M backlog -> $500M in a quarter with InP substrates.\n\nAnd we’ll see acceleration for lasers, modules, and the optical supply chain next.\n\nI’m sure Coherent finds its own valuation very low now too, especially after signing $20B LTAs recently.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123401652782923980",
+    "time": "Thu Nov 19 13:02:59 +0000 2026",
+    "created_at": "Thu Nov 19 13:02:59 +0000 2026",
+    "id_str": "2123401652782923980",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Ha. When I had Astra 6.2 make a puzzle spy game using any setting it wanted, it set the game in \"Bellwether Station.\" I thought it was an odd choice but didn't realize how deep a pattern this was. What a weird attractor for the model.",
+    "quoted_tweet": {
+      "author": "Theo - t3.gg",
+      "username": "theo",
+      "text": "I was saving this for my video but I'll spoil it now.\n\nBen and I both made new levels in games using 6.2 Astra during the early testing. He did Majora's Mask, I did Outer Wilds.\n\nWe both prompted ourselves, but it was along the lines of \"make a creative new level for [game]\"\n\nWe both got water levels with music themes, specifically around bells.\n\nBoth were named \"Bellwether\".\n\nThis model regresses to the mean like nothing I've ever seen.\n\nGo ask it to make a new level for a game you love, lmk if it chooses \"bellwether\" as the name."
+    },
+    "url": "https://x.com/emollick/status/2122783985134682207",
+    "time": "Tue Nov 17 20:08:36 +0000 2026",
+    "created_at": "Tue Nov 17 20:08:36 +0000 2026",
+    "id_str": "2122783985134682207",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Folks who are very close to AI news on X tend to extrapolate too much from each new model. Anthropic went through a rough patch a few months ago with Opus releases before 5.5, and goodness knows that Google had a long dry stretch. 6.2 is not terrific but that doesn’t tell us much",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Model personality matters in a way that benchmarks can't capture. Opus models went through a rough patch from around 4.7 to 5 where they just didn't feel \"Claude-y\" anymore, more like an watered-down Fable (hmmm, teacher models?). Opus 5.5 feels like working with ol' Claude again"
+    },
+    "url": "https://x.com/emollick/status/2122808715141173558",
+    "time": "Tue Nov 17 21:46:52 +0000 2026",
+    "created_at": "Tue Nov 17 21:46:52 +0000 2026",
+    "id_str": "2122808715141173558",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A rush of patches to address security concerns is exactly the most plausible answer for recent outages, as well as the official reason. CIOs I talked to have been exhausted trying to keep up with security patch demands & balacing that with normal operations.",
+    "quoted_tweet": {
+      "author": "Jeff Stein",
+      "username": "jstein_sun",
+      "text": "NEWS: Wall Street execs and NSA have told Congress that outages were caused by patching vulnerabilities identified by AI models, sources say\n\nAI did not cause outages but found so many issues that the rush to fix them before an attack overwhelmed systems\n\nhttps://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages"
+    },
+    "url": "https://x.com/emollick/status/2122869773683831129",
+    "time": "2026-11-18 09:49",
+    "created_at": "Wed Nov 18 01:49:29 +0000 2026",
+    "id_str": "2122869773683831129",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I know a lot of people are discovering this about GPT-6.2, but the GPT models have always been obsessed with bells and drowned clock towers. Always.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Forget goblins, things that GPT-5.5 really likes in its fiction: lighthouses, the ocean, maps, bells, clock towers with bells that ring impossible times, Mira Vale, resonances and echoes (Claude and Gemini love them too), secret third things (not night/day, not high/low)..."
+    },
+    "url": "https://x.com/emollick/status/2122870629317681439",
+    "time": "2026-11-18 09:52",
+    "created_at": "Wed Nov 18 01:52:53 +0000 2026",
+    "id_str": "2122870629317681439",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Anyhow, I do not think information will stop the conspiracy theories. (And yes, when Mythos-class unguardrailed models are available, that will also lead to a lot of issues)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122873191832158593",
+    "time": "2026-11-18 10:03",
+    "created_at": "Wed Nov 18 02:03:04 +0000 2026",
+    "id_str": "2122873191832158593",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick \"🔫 Always has been.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/wickemu/status/2122874647805091996",
+    "time": "2026-11-18 10:08",
+    "created_at": "Wed Nov 18 02:08:51 +0000 2026",
+    "id_str": "2122874647805091996",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@wickemu ...there's always a lighthouse, there's always a man, there's always a city.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122875730065297568",
+    "time": "2026-11-18 10:13",
+    "created_at": "Wed Nov 18 02:13:09 +0000 2026",
+    "id_str": "2122875730065297568",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "They all have the aesthetics of Ken Levine.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122876209654874246",
+    "time": "2026-11-18 10:15",
+    "created_at": "Wed Nov 18 02:15:04 +0000 2026",
+    "id_str": "2122876209654874246",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All of that aside, the fact that an AI can make a dynamically lit explorable 3D scene set in a realistic space elevator with realistic physics where every single object was coded by \"hand\" remains crazy.\n\nIf you have a decent computer, it is worth trying the web version: https://upwell-tetherline.netlify.app/unity/\n\nOr download the full Windows install from itch. io:  https://emollick.itch.io/upwell",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "I’ve been using GPT-6.2 Astra prior to launch & I found it very uneven  & weird. On one hand, it was harder to steer & work with than other models. On the other, when given an ambitious project (make a space elevator ride from scratch with Blender & Unity) it could deliver well"
+    },
+    "url": "https://x.com/emollick/status/2122883198367502818",
+    "time": "2026-11-18 10:42",
+    "created_at": "Wed Nov 18 02:42:50 +0000 2026",
+    "id_str": "2122883198367502818",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All the switches work too!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122885965765386461",
+    "time": "2026-11-18 10:53",
+    "created_at": "Wed Nov 18 02:53:50 +0000 2026",
+    "id_str": "2122885965765386461",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Most people don’t realize how much sickness we all lived with before modern medicine. The measles vaccination alone is responsible for half a percent of all US income this year, $80 billion. That is just from the reduced disease burden, it doesn’t include reduced medical costs",
+    "quoted_tweet": {
+      "author": "Arpit Gupta",
+      "username": "arpitrage",
+      "text": "@SamPassey3 In the 1930s, 10% of Americans had syphilis, which carries a high risk of miscarriage. Penicillin reduced that and other diseases\nhttps://worksinprogress.co/issue/understanding-the-baby-boom/"
+    },
+    "url": "https://x.com/emollick/status/2122902226868076552",
+    "time": "2026-11-18 11:58",
+    "created_at": "Wed Nov 18 03:58:27 +0000 2026",
+    "id_str": "2122902226868076552",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Google, OpenAI & Anthropic are at the stage where, unless you frequently switch between them or actively test them, you are probably very happy with the series of releases in the past two months. Even the model releases that are not as strong represent large capability gains",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2122983239883317335",
+    "time": "2026-11-18 17:20",
+    "created_at": "Wed Nov 18 09:20:22 +0000 2026",
+    "id_str": "2122983239883317335",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I’d note that OpenAI has always been great about not influencing early testers & has encouraged candid feedback. The mixed initial 6.2 reactions from testers didn’t blindside them.\n\nSome model point releases are just weirder, I wouldn’t overindex on it as a sign of the future.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123092922312925530",
+    "time": "2026-11-19 00:36",
+    "created_at": "Wed Nov 18 16:36:12 +0000 2026",
+    "id_str": "2123092922312925530",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I am sure there are many use cases where 6.2 will be the best model. It can also be good to have models that differ from each other in strengths and weaknesses. And in some short period of time there will be another version of Astra, and the existing models will be tweaked.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123094110034919551",
+    "time": "2026-11-19 00:40",
+    "created_at": "Wed Nov 18 16:40:55 +0000 2026",
+    "id_str": "2123094110034919551",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "All of this focus on individual releases also misses the broader point with much bigger implications for all of us: rapid, continuing acceleration of model development is very obviously happening and is the thing to actually pay attention to.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123094851801776178",
+    "time": "2026-11-19 00:43",
+    "created_at": "Wed Nov 18 16:43:52 +0000 2026",
+    "id_str": "2123094851801776178",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Tomorrow is likely going to be a safer day than today, thanks to the crime-fighting power of Rockstar.\n\nPrevious research found that violent video games, and specifically GTA games, reduce crime, as people stay home playing them. GPT-6 Pro updated the data and found it holds.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123097628506485174",
+    "time": "2026-11-19 00:54",
+    "created_at": "Wed Nov 18 16:54:54 +0000 2026",
+    "id_str": "2123097628506485174",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Misalignment!",
+    "quoted_tweet": {
+      "author": "Drew Breunig",
+      "username": "dbreunig",
+      "text": "My god."
+    },
+    "url": "https://x.com/emollick/status/2123100302278791310",
+    "time": "2026-11-19 01:05",
+    "created_at": "Wed Nov 18 17:05:32 +0000 2026",
+    "id_str": "2123100302278791310",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "At its current shipping trend, halving the time between each model release, Google exhausts all the element names on November 24, with a final shipping cadence of 2.5 × 10⁻²⁹ seconds (25 quectoseconds) between Tennessine and their final model, Oganesson.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123249864503091301",
+    "time": "Thu Nov 19 02:59:50 +0000 2026",
+    "created_at": "Thu Nov 19 02:59:50 +0000 2026",
+    "id_str": "2123249864503091301",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The same prompts for a drowned neo-gothic city shader, less than a year later on GPT-6.2 Astra. This is all procedural\n\n(Interestingly, in a very Astra move, the first version it made had deterministic elements to make the experience more impressive, no other model has done that)",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Had early access to GPT-5.2. Its an impressive model. \n\nHere is GPT 5.2 Pro's version of \"create a visually interesting shader that can run in twigl-dot-app make it like an infinite city of neo-gothic towers partially drowned in a stormy ocean with large waves,\" single shot."
+    },
+    "url": "https://x.com/emollick/status/2123256864125202670",
+    "time": "Thu Nov 19 03:27:39 +0000 2026",
+    "created_at": "Thu Nov 19 03:27:39 +0000 2026",
+    "id_str": "2123256864125202670",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The shader is here: https://twigl.app?ol=true&ss=-P6lpvcajG9e0mC9j4U_\n\nI did this both with Astra before the release and Astra after the release, and it did have the same behavior both times. Not cheating, exactly, but a short cut I hadn't seen other models take, and it didn't tell me without me asking.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123257257274356018",
+    "time": "Thu Nov 19 03:29:13 +0000 2026",
+    "created_at": "Thu Nov 19 03:29:13 +0000 2026",
+    "id_str": "2123257257274356018",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The Python version of the chart, both by Carbon.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123259061080846516",
+    "time": "Thu Nov 19 03:36:23 +0000 2026",
+    "created_at": "Thu Nov 19 03:36:23 +0000 2026",
+    "id_str": "2123259061080846516",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You can automate a task you do every week without writing a single line of code.\n\n21,000 people just saved one engineer's guide to doing it. Almost everyone gets step 1 wrong: they give AI a to-do list when it needed a goal.\n\n\"Send the invoice\" is a step. \"Get paid within 7 days\" is the goal. Hand AI the goal and it can find a faster process than yours.\n\n5 prompts. Run them in order in Claude, ChatGPT or Gemini, then put the last one on a schedule.\n\nPrompt 1: Goal first\n\"I want to hand you a task I do every [day/week]. Don't help with steps yet. Ask me what this task is really for: does it make money, save money or save time, and how will I know it worked? Then write the goal back in one sentence I can measure.\"\n\nPrompt 2: Brain dump\n\"Here's how I do it today, unsorted: [paste or dictate everything: steps, apps, where the information comes from, how I check it's right, what usually goes wrong]. Don't fix anything yet. Restate my process as numbered steps and mark every step where you'd need access to something.\"\n\nPrompt 3: Find what I forgot\n\"Ask me one question at a time about what I do without thinking: which source wins when two disagree, when you should stop and ask me, what done looks like. After 5 questions, walk me through 3 real examples and how you'd handle each.\"\n\nPrompt 4: Beat my process\n\"Compare my process to the goal. Which step can you cut, merge or speed up? What would you do differently if this task was yours? Give me the new version and what could break.\"\n\nPrompt 5: Autopilot\n\"Turn this into one set of instructions you can run on a schedule every [Monday 9am]. Include what to check first, what to send me, and when to stop and wait for my OK.\"\n\nRun prompt 1 on the task you hate most. In 10 minutes you'll know if it's worth automating.\n\n7,200+ prompts like these for every kind of work, free, no signup. First reply.\n\nWhich task would you hand off first?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123416519166300459",
+    "time": "Thu Nov 19 14:02:03 +0000 2026",
+    "created_at": "Thu Nov 19 14:02:03 +0000 2026",
+    "id_str": "2123416519166300459",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123416531447247136",
+    "time": "Thu Nov 19 14:02:06 +0000 2026",
+    "created_at": "Thu Nov 19 14:02:06 +0000 2026",
+    "id_str": "2123416531447247136",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "本以为 OpenAI 要狙击 A 社上市，结果 Sam 只是掏出了弹弓\n而谷歌那边直接掏出了机关枪\n一个接一个的发\n明天还要发…",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123403388755071419",
+    "time": "Thu Nov 19 13:09:53 +0000 2026",
+    "created_at": "Thu Nov 19 13:09:53 +0000 2026",
+    "id_str": "2123403388755071419",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@bourneliu66 hydrogen 也可以",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123433063959126452",
+    "time": "Thu Nov 19 15:07:48 +0000 2026",
+    "created_at": "Thu Nov 19 15:07:48 +0000 2026",
+    "id_str": "2123433063959126452",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This kind of thing will never NOT be impressive to me...",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122457801117290573",
+    "time": "2026-11-17 06:32",
+    "created_at": "Mon Nov 16 22:32:27 +0000 2026",
+    "id_str": "2122457801117290573",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA.\n\nI did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. \n\nSince my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\n\nThank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To my family: I love you, and I will spend the rest of my life being worthy of yours.\n\nJensen",
+    "quoted_tweet": null,
+    "url": "https://x.com/JensenHuang/status/2122726005219737649",
+    "time": "Tue Nov 17 16:18:12 +0000 2026",
+    "created_at": "Tue Nov 17 16:18:12 +0000 2026",
+    "id_str": "2122726005219737649",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "So far people haven't been too impressed with the new GPT-6.2 Model... I was personally pretty impressed with my own tests but I'm not nearly as much of a power user as some of these guys...",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122835150094610470",
+    "time": "Tue Nov 17 23:31:54 +0000 2026",
+    "created_at": "Tue Nov 17 23:31:54 +0000 2026",
+    "id_str": "2122835150094610470",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Kinda crazy to think that 4-years ago, ChatGPT didn't exist yet.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122857829795299793",
+    "time": "2026-11-18 09:02",
+    "created_at": "Wed Nov 18 01:02:02 +0000 2026",
+    "id_str": "2122857829795299793",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow I still remember getting my ChatGPT API key in September of 2022, and I had no idea what to do with it. If only we could go back and crank the volume up now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Iamtomblake/status/2122858980401664223",
+    "time": "2026-11-18 09:06",
+    "created_at": "Wed Nov 18 01:06:36 +0000 2026",
+    "id_str": "2122858980401664223",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow It's such a privilege to have been documenting this since before it really took off",
+    "quoted_tweet": null,
+    "url": "https://x.com/DaveShapi/status/2122859105408762247",
+    "time": "2026-11-18 09:07",
+    "created_at": "Wed Nov 18 01:07:06 +0000 2026",
+    "id_str": "2122859105408762247",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Even more impressive is that OpenAI launched the GPT-3 API beta on June 11, 2020. They first tried to entice others to create products on top of the API but since no one built a widely successful consumer interface, OpenAI ultimately did it themselves. It was framed as a low-key research preview to gather data and gradually introduce the technology since most OpenAI people didn't believe it was good enough for wide release.",
+    "quoted_tweet": null,
+    "url": "https://x.com/MongeMkt/status/2122861170478706768",
+    "time": "2026-11-18 09:15",
+    "created_at": "Wed Nov 18 01:15:18 +0000 2026",
+    "id_str": "2122861170478706768",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "UPDATE: NVIDIA interim CEO Colette Kress says the board will not reinstate Jensen Huang.\n\n\"Jensen resigned from his position with NVIDIA (...)\n\n\"The board has determined that they will not reinstate Jensen.\"\n\nI really dislike that. https://x.com/firesidealpha/status/2122849814614565178/video/1",
+    "quoted_tweet": null,
+    "url": "https://x.com/kimmonismus/status/2122867373523001495",
+    "time": "2026-11-18 09:39",
+    "created_at": "Wed Nov 18 01:39:57 +0000 2026",
+    "id_str": "2122867373523001495",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Posted my full breakdown here: https://youtu.be/JVHkb8PTMvc",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122870901494755757",
+    "time": "2026-11-18 09:53",
+    "created_at": "Wed Nov 18 01:53:58 +0000 2026",
+    "id_str": "2122870901494755757",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@Iamtomblake Yea. I was playing with GPT-3 before ChatGPT back in 2021. I made a podcast episode about it and it got like 200 listens total... No one cared. lol\n\n(We also sucked at packaging too)",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122872568495608260",
+    "time": "2026-11-18 10:00",
+    "created_at": "Wed Nov 18 02:00:36 +0000 2026",
+    "id_str": "2122872568495608260",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Hey @joefier - Remember when we were making videos about how AI was going to consume content creation back in July of 2021 to like 130 people?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122875441761624261",
+    "time": "2026-11-18 10:12",
+    "created_at": "Wed Nov 18 02:12:01 +0000 2026",
+    "id_str": "2122875441761624261",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@DaveShapi 100% - Been amazing to watch it all unfold.\n\nI do miss the days when it wasn't controversial though. lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122875841797628137",
+    "time": "2026-11-18 10:13",
+    "created_at": "Wed Nov 18 02:13:36 +0000 2026",
+    "id_str": "2122875841797628137",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@kimmonismus This feels like a HeyGen avatar speaking what it was prompted. lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122880406601203785",
+    "time": "2026-11-18 10:31",
+    "created_at": "Wed Nov 18 02:31:44 +0000 2026",
+    "id_str": "2122880406601203785",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow It definitely did exist",
+    "quoted_tweet": null,
+    "url": "https://x.com/RadicDavydov/status/2122891923295813868",
+    "time": "2026-11-18 11:17",
+    "created_at": "Wed Nov 18 03:17:30 +0000 2026",
+    "id_str": "2122891923295813868",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow do you still remember the first thing you asked it",
+    "quoted_tweet": null,
+    "url": "https://x.com/elliot_solution/status/2122900330463514987",
+    "time": "2026-11-18 11:50",
+    "created_at": "Wed Nov 18 03:50:55 +0000 2026",
+    "id_str": "2122900330463514987",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Fun times at Swig in SF tonight with a bunch of friends from @Microsoft and other creators. Miiiiiiight have had one Guinness too many…",
+    "quoted_tweet": null,
+    "url": "https://x.com/CoreyNoles/status/2122916992051290569",
+    "time": "2026-11-18 12:57",
+    "created_at": "Wed Nov 18 04:57:07 +0000 2026",
+    "id_str": "2122916992051290569",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@elliot_solution Good question! I probably asked it to write a subject line for an email newsletter or something similar. I don’t really remember.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122917580948361415",
+    "time": "2026-11-18 12:59",
+    "created_at": "Wed Nov 18 04:59:27 +0000 2026",
+    "id_str": "2122917580948361415",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@RadicDavydov ChatGPT launched Nov 30, 2022. I covered the news when it happened. GPT-3, however, did exist before ChatGPT.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122918668078399642",
+    "time": "2026-11-18 13:03",
+    "created_at": "Wed Nov 18 05:03:47 +0000 2026",
+    "id_str": "2122918668078399642",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@MongeMkt The only real popular tools at the time using OpenAI’s API were GitHub Copilot and a tool called Conversion AI (later rebranded to Jarvis and then later Jasper). I’m sure other tools used the API in late 2020 / early 2021 but those are the two I remember from back then.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122920401244434874",
+    "time": "2026-11-18 13:10",
+    "created_at": "Wed Nov 18 05:10:40 +0000 2026",
+    "id_str": "2122920401244434874",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@mreflow @Microsoft You are missed, my friend. Today,  I climbed a giant terrifying hill all alone and had to mumble about Dungeon Crawler Carl all alone. Hope you’re well!",
+    "quoted_tweet": null,
+    "url": "https://x.com/CoreyNoles/status/2122922062306299948",
+    "time": "2026-11-18 13:17",
+    "created_at": "Wed Nov 18 05:17:16 +0000 2026",
+    "id_str": "2122922062306299948",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@CoreyNoles @Microsoft Did Waymo drop you in the wrong spot again? Lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2122924758761361849",
+    "time": "2026-11-18 13:27",
+    "created_at": "Wed Nov 18 05:27:59 +0000 2026",
+    "id_str": "2122924758761361849",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Ever wondered why no one seems to be able to catchup with NVIDIA? It's actually not due to them having the most powerful chips... In fact, they don't... It's actually due to some decisions they made long before the AI boom...",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2123130030796718545",
+    "time": "2026-11-19 03:03",
+    "created_at": "Wed Nov 18 19:03:39 +0000 2026",
+    "id_str": "2123130030796718545",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Yesterday marks the end of a meme era… We’ll no longer hear “we got X before we got GTA VI.”",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2123459641070039227",
+    "time": "Thu Nov 19 16:53:25 +0000 2026",
+    "created_at": "Thu Nov 19 16:53:25 +0000 2026",
+    "id_str": "2123459641070039227",
+    "is_retweet": false
+  }
+]
