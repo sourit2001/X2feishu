@@ -1,1 +1,1280 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "$AAOI management lost all credibility by launching another $550M ATM.\n\nEspecially after it comes contrary to earlier commentary about other financing methods + share price caution.\n\nI still find AOI operationally compelling around their CPO program + optical transceiver ramp. \n\nEspecially as it comes to the new China optical transceiver restrictions and incoming $5B-7B LTAs.\n\nBut I misjudged management and suffered heavy losses after cost averaging up to $100+ from the initial ~$25. \n\nDefinitely did not foresee them tapping into abusive financing methods again after the sector drop.\n\nI’ll still track their progress, but I don’t see how it’s possible to support a company that serially dilutes with ATMs.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2122814062329471182",
+    "time": "Tue Nov 17 22:08:07 +0000 2026",
+    "created_at": "Tue Nov 17 22:08:07 +0000 2026",
+    "id_str": "2122814062329471182",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit I'm pissed off and agree to some extent but I do believe it was necessary. I'd rather see AAOI deliver on next year's earnings than fall short due to funding issues.",
+    "quoted_tweet": null,
+    "url": "https://x.com/MO1465424922353/status/2122820997732499609",
+    "time": "Tue Nov 17 22:35:40 +0000 2026",
+    "created_at": "Tue Nov 17 22:35:40 +0000 2026",
+    "id_str": "2122820997732499609",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I'll leave it up to your judgement. From my point of view, there's $956M in commitments vs. $605M cash so they needed more financing for their buildout. \n\nHowever two things stood out:\n\n1. Management commentary around financing: CFO said US bank financing could reach $500m, and that profits would help fund operations. CFO said share price mattered and that they'd lean more into debt. \n\nSo their actions went contrary to management commentary. \n\nIf you look at $COHR, they fund capacity expansion from upfront prepayments. There's other ways to do it too like convertible notes.\n\n2. Capital allocation issue: they spent $102M on three Texas buildings they had under lease. Which was around $5M annualized and I'm sure they're aware market financing conditions are tight. \n\n2 weeks after buying buildings when they were already relatively low on cash... AOI decided to do yet another $550M ATM. \n\nIt's just a bit hard to justify.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2122826811667263749",
+    "time": "Tue Nov 17 22:58:46 +0000 2026",
+    "created_at": "Tue Nov 17 22:58:46 +0000 2026",
+    "id_str": "2122826811667263749",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the multi-year procurement of memory supply\". (from SEC filings, not call)\n\nThis is a a major leap Q/Q in supply procurement.  \n\n- \"We expect revenue to grow approximately 75% year-over-year, up from 70%.\" (upward revision, likely due to capacity constraints easing)\n\n(new agreements with Kinsus and Samsung Electro-Mechanics support additional ABF substrate capacity)\n\n- NVIDIA said industry cloud backlog increased from $2 trillion to $2.5 trillion in a single quarter. While GPU rental pricing is continuing to rise dramatically:\n\nHopper GPUs: 2x their original pricing\nB300 GPUs: +60% since introduction\nUtilization: NVIDIA says its own compute is fully utilized across the hyperscalers and neoclouds it serves.\n\n- \"Our co-packaged optics roadmap remains on track\"\n\nOptical networking keeps growing rapidly ($21B+ in quarterly networking), CPO scale out switches has entered volume production. With Lambda earlier announcing production deployment of Nvidia photonics CPO switches. \n\n- \"Under these agreements, we will earn revenue on the upfront sale of our infrastructure\" So there's additional recurring economics coming from Neoclouds. \n\nBut just points to industry acceleration from memory to CPO to neoclouds, relative to markets pricing in collapse.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2122835908596846950",
+    "time": "Tue Nov 17 23:34:55 +0000 2026",
+    "created_at": "Tue Nov 17 23:34:55 +0000 2026",
+    "id_str": "2122835908596846950",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and see what happens with valuations of AI longs. \n\nIf you see acceleration despite all 4, I'd argue that's an opportunity. \n\n> Next-gen of photonics is one of the rare segments with an extreme rise in optical content and ASPs that can offset aggregate capex cuts. \n\nEveryone’s moving into that space, including Elon Musk doing M&A, Marvell, Samsung and others with M&A… and we haven’t seen economic impact on emerging architectures even hit players from Celestial to Ayar + their suppliers yet. \n\nIf we look at a scenario where there's excess GPUs but power constraints:\n\nWe might see slowdown in aggregate accelerator/GPU/ASIC procurement, but your optical engines + light sources + switches players see acceleration.\n\nEspecially as incentive to replace power inefficient networking... since different (cheap BOM) optical architectures improves GPU utilization or even HBM requirements.  \n\nSo value migrates to players more high-beta to architectural shifts. \n\nIf Celestial projections are $500m -> $1B, and we expect -30% aggregate capex cuts, I'd argue we'd still see upward revisions from Celestial over the next 2 years.\n\nBut financing with #3 matters a lot as seen with $AAOI dropping off of a $550M, vs. $COHR getting prepayments for capacity expansion from their customers. \n\nCompanies that rely on external foundries might be less sensitive to #3 since they're not as capex intensive. \n\nOn the other hand, companies in sectors have a lot of floating interest like certain Neoclouds, and require further financing might be the most impacted. \n\n> Legacy and specialty memory is a different cycle that markets conflate with AI capex.\n\nIf consumer demand weakens but at the same time, players like Windbond exits DDR2, pricing durability is longer than markets expect. \n\n> Wafer/substrate procurement such as ABF, SOI, InP are low cost but large downstream destruction if not secured, so we’ll likely see acceleration here as seen with $NVDA earnings call. \n\n> qualification cycle players within bottlenecks remain very compelling, since first revenue in a large TAM, relative to MC is material to that company. \n\nIf a company is valued at $400m then they get a $200m of orders, it's more asymmetrical to a certain company than a rounding error to a $50B incumbent revenue. \n_\n\nThere’s period of times where prices are dislocated from fundamentals from leveraged players getting wiped. I’d argue that time is now. \n\nI disagree with a lot of the stupid \"it's over takes\" but I agree it's a good idea to haircut future capex expectations and forward valuations due to financing tightening + macro. \n\nIt's also good idea to see the nuances and stress test downside cases. \n\nBut TLDR: I'd argue next phase of AI infrastructure is going to be increasingly disconnected from aggregate AI capex growth. \n\nI just personally wrote 4 things I'm using to stress test jointly some of the names I'm looking at, so I'm more comfortable waiting things out... despite seeing hedge funds getting liquidated left and right and overwhelming short positioning. \n\nI personally see acceleration in more narrow parts of the supply chain, while markets treat the entire AI trade as one.  \n\nWe'll see how things play out on longer horizons.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123067177905643769",
+    "time": "2026-11-18 22:53",
+    "created_at": "Wed Nov 18 14:53:54 +0000 2026",
+    "id_str": "2123067177905643769",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix?",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123080934362845437",
+    "time": "2026-11-18 23:48",
+    "created_at": "Wed Nov 18 15:48:34 +0000 2026",
+    "id_str": "2123080934362845437",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Not sure what news we can get to make this go up",
+    "quoted_tweet": null,
+    "url": "https://x.com/wockjones/status/2123081337686892680",
+    "time": "2026-11-18 23:50",
+    "created_at": "Wed Nov 18 15:50:10 +0000 2026",
+    "id_str": "2123081337686892680",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Just enough time for memory names to print operationally then do buybacks I guess.\n\nCompanies like $SNDK or Samsung can probably buy back a material part of their float over the next 2 years from earnings.\n\nEveryone is competing for capital rn and Anthropic IPO + upsizing just eats up more. Some HFs as you’ve seen sold off $NVDA and others to put capital into this IPO.\n\nThat same capital rotates back into these players eventually from Anthropic’s massive commitments tho.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123084154757873815",
+    "time": "2026-11-19 00:01",
+    "created_at": "Wed Nov 18 16:01:22 +0000 2026",
+    "id_str": "2123084154757873815",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123100162616951229",
+    "time": "2026-11-19 01:04",
+    "created_at": "Wed Nov 18 17:04:58 +0000 2026",
+    "id_str": "2123100162616951229",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual purchase agreements:\n\n- $AVGO + financing partners: $161.2B in Google TPU leases\n- Google Cloud: at least $121.3B\n- SpaceX: Up to $120.5B (ceiling, can be cut)\n- Amazon: at least $110B\n- Microsoft: $47.2B-$49.2B\n- Nscale:  up to $44.6B\n- Lambda: ~$41.3BN ($34.9B can be cut)\n\nWith other identifiable counterparty deals such as:\n\n- $MU (undisclosed), but supply agreement\n- $RIOT: ~$28B+ $9.1B\n- $WULF: ~$19B\n- Akami: ~$11.6B (CPU cloud)\n- Volta: ~$10B\n- OnePWR: ~$3.4B\n- $CRWV (undisclosed)\n- Everwind (undisclosed)\n- Likely $IREN (undisclosed)\n- Zerra DC (undisclosed)\n\nOutside the $900.9B, there's another:\n\n- Additional Google TPU capacity: $125B-$150B estimated\n\n- $AMD: over $20B if Anthropic takes the full initial tranche of Helios capacity\n\nI'm actually personally longer term bearish on frontier lab valuations (I like OpenAI more if I had to pick one due to consumer stickiness). But raising a lot from IPO does help raise their counterparty status.\n\nRegardless of how they utilize it, that's a lot of GPUs, TPUs, HBM, optical networking, and compute needed for the next 5+ years.",
+    "quoted_tweet": {
+      "author": "NoPlanRush",
+      "username": "GSmiley247",
+      "text": "@aleabitoreddit Apparently AI is entirely dead. Which is why we are anticipating a huge IPO for an AI company."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2123116246183088517",
+    "time": "2026-11-19 02:08",
+    "created_at": "Wed Nov 18 18:08:53 +0000 2026",
+    "id_str": "2123116246183088517",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit SOITEC’s results are out; your analysis would be very helpful—thank you.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VENTOUXBLEU/status/2123117252824182957",
+    "time": "2026-11-19 02:12",
+    "created_at": "Wed Nov 18 18:12:53 +0000 2026",
+    "id_str": "2123117252824182957",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Seeing the comments on this post. Where do you think we are in this cycle (if it applies)?\nListing to the commitments.. capitulation or dispare?..but I am not sure we even got to the \"bubble\" as in the Internet one this time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/StormDirac/status/2123119352358580662",
+    "time": "2026-11-19 02:21",
+    "created_at": "Wed Nov 18 18:21:13 +0000 2026",
+    "id_str": "2123119352358580662",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Bullish $SOI, I need to wait for management commentary to shed more light. So far on most material disclosures:  \n\n-> $1.2B new multi-year photonics SOI wafer reservations, which is probably what to focus on. \n\nConsidering they were doing like $100m revenue from that earlier... that's a very very large jump. \n\nAlready €86M in prepayments, committed through 2028. \n\n-> Net cash now €169m from -€56m in March. \n\nRest of the business still kinda weak, but their optical growth is hard carrying.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123119673864778076",
+    "time": "2026-11-19 02:22",
+    "created_at": "Wed Nov 18 18:22:30 +0000 2026",
+    "id_str": "2123119673864778076",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Probably around here if I had to guess, I think large cap names have a lot more room to drop relative to high-beta if we actually see future demand collapse. \n\nIt doesn't look like there is one yet, but markets are pricing it in anyway... \n\nSo maybe more strong earnings reports and maybe even something like seasonality (like December) might be a sentiment trigger for reversal.  \n\nShort term is always unpredictable.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123120890582012141",
+    "time": "2026-11-19 02:27",
+    "created_at": "Wed Nov 18 18:27:20 +0000 2026",
+    "id_str": "2123120890582012141",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Did you listen Citibank?\n\nWhen I first took positions in $SOI, Citi reacted to my analysis and warned: \"investor expectations for Photonics-SOI growth might be excessive\"\n\nSoitec back then had:\n-> $25M in Photonics-SOI revenue, with no guidance... when Citi published their note. \n\nnow? \n\n->  $1.2 BILLION in long term customer capacity commitments, driven by OPTICAL GROWTH (w/ cash deposits)\n\nIn just 8 months. \n\n$25M -> $1.2B LTAs... Vindicated. \n\nThis is clear acceleration in underlying OPTICAL DEMAND, despite markets pricing in AI demand destruction.",
+    "quoted_tweet": {
+      "author": "LOU PRADOU",
+      "username": "VENTOUXBLEU",
+      "text": "@aleabitoreddit SOITEC’s results are out; your analysis would be very helpful—thank you."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2123126925908742463",
+    "time": "2026-11-19 02:51",
+    "created_at": "Wed Nov 18 18:51:19 +0000 2026",
+    "id_str": "2123126925908742463",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Yeah citi got nothing on @aleabitoreddit",
+    "quoted_tweet": null,
+    "url": "https://x.com/deepstocktrends/status/2123127588046684205",
+    "time": "2026-11-19 02:53",
+    "created_at": "Wed Nov 18 18:53:57 +0000 2026",
+    "id_str": "2123127588046684205",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@deepstocktrends I'm just joking with the language lol. But it's fun to see a thesis earlier in the year get validated with $1.2B commitments. \n\nI thought $SOI would probably see acceleration into 2027, rather than everyone do supply procurement so early.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123128124628140034",
+    "time": "2026-11-19 02:56",
+    "created_at": "Wed Nov 18 18:56:05 +0000 2026",
+    "id_str": "2123128124628140034",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Hope the same happens with Sivers and prove the bears wrong here in X. Your picks are not for the weak of the heart. That’s for sure. 👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/BAreadude/status/2123128676560593193",
+    "time": "2026-11-19 02:58",
+    "created_at": "Wed Nov 18 18:58:16 +0000 2026",
+    "id_str": "2123128676560593193",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Thank you so much Serenity! Best regards l!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Angellara124144/status/2123128759117025396",
+    "time": "2026-11-19 02:58",
+    "created_at": "Wed Nov 18 18:58:36 +0000 2026",
+    "id_str": "2123128759117025396",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Man I should have added SOI more than Sive & AAOI.. Sive is still fine but AAOI burned me hard",
+    "quoted_tweet": null,
+    "url": "https://x.com/piyush1337/status/2123129444638642261",
+    "time": "2026-11-19 03:01",
+    "created_at": "Wed Nov 18 19:01:20 +0000 2026",
+    "id_str": "2123129444638642261",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I hope $SIVE management proves everyone wrong around revenue growth expectations as well. \n\nSivers has large laser allocations, lasers for CPO/NPO/pluggables, and sit inside an industry bottleneck. \n\nSo I hope they can execute and convert those into commitments (no promises though)",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123130570008060023",
+    "time": "2026-11-19 03:05",
+    "created_at": "Wed Nov 18 19:05:48 +0000 2026",
+    "id_str": "2123130570008060023",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I got a little too excited in this post my bad. \n\nBut a company going from no photonics-SOI revenue guidance when I wrote a thesis into $1.2B in allocations is just super exciting to me. \n\nThe recent market crash makes me second guess myself and if I was wrong on a lot of these optical names... \n\nSo having an earnings validate my thought process gives me a sigh of relief.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123131526644891687",
+    "time": "2026-11-19 03:09",
+    "created_at": "Wed Nov 18 19:09:36 +0000 2026",
+    "id_str": "2123131526644891687",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "I still don't think I'm wrong on $AAOI in terms of revenue acceleration entering H2 2027. I'm sure others see how compelling their manufacturing ramp is too. \n\nBut in terms of shareholder returns, I personally misjudged management commentary vs. actions in how they do financing.\n\nI do think approaching 2028 operations outweigh equity dilution, but it's a ways away...\n\nNobody wants to fund further capacity buildout in these market conditions, so near-medium term there's a material overhang.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123135584621539471",
+    "time": "2026-11-19 03:25",
+    "created_at": "Wed Nov 18 19:25:43 +0000 2026",
+    "id_str": "2123135584621539471",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Situational Awareness 2.0 is coming. \n\nI think Leopold's early ideas were directionally right from $SNDK to $BE. \n\nEven his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2027. \n\nUnfortunately, due to excessive leverage and crowded longs... Positioning left him vulnerable to liquidation before he got to see longer horizon ideas play out. \n\nI think it's fun to see fund managers actually have unique ideas in similar sectors. So hope he can make a comeback.\n\nI learned a lot of lessons myself to in terms of being more narrow with long selections, so very excited for 2027.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123137705597120613",
+    "time": "2026-11-19 03:34",
+    "created_at": "Wed Nov 18 19:34:09 +0000 2026",
+    "id_str": "2123137705597120613",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit @aleabitoreddit Can you share how are you managing the risks ? Any hedging that you have done ?. Bro a million people follow you, so your risk management advice can be helpful for many of us. Hope things get better soon ❤️‍🩹",
+    "quoted_tweet": null,
+    "url": "https://x.com/praneeshkhanna/status/2123139082108969024",
+    "time": "2026-11-19 03:39",
+    "created_at": "Wed Nov 18 19:39:37 +0000 2026",
+    "id_str": "2123139082108969024",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Why don't you update on $Foci anymore ?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Jaime21129601/status/2123139269753475170",
+    "time": "2026-11-19 03:40",
+    "created_at": "Wed Nov 18 19:40:22 +0000 2026",
+    "id_str": "2123139269753475170",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "As much as I'd like to reply to these types of comments during a sector crash, I'm not in a position to tell anyone how to trade, how to position their portfolios, or when to sell. \n\nEveryone has their own risk profile. Some do indexes with 10% allocated to high-beta, others run more concentrated portfolios.  \n\nIn terms of my own portfolio, I'm long and can tolerate volatility. I reduced exposure earlier from 1.3x margin -> 90% long 10% cash, not using any leverage.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123141884034134132",
+    "time": "2026-11-19 03:50",
+    "created_at": "Wed Nov 18 19:50:45 +0000 2026",
+    "id_str": "2123141884034134132",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Most of my commentary recently has been thematic since AI names are just indiscriminately moving up and down together now. \n\nFoci is heavily tied to CPO which hasn't reached volume yet. And they've been named to be a $TSM COUPE supplier now last month with exposure to $NVDA CPO programs.  \n\nLast month, Largan cited fiber arrays as facing the greatest shortages for CPO expansion. \n\nH2 2027 from Goldman Sachs flagged accelerated CPO FAU revenue growth.  \n\nBut we're entering 2027 soon, so I hope we see earnings inflection with Foci similar to $SOI today with their commitments. I have a tendency to be a bit early.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123145041837527085",
+    "time": "2026-11-19 04:03",
+    "created_at": "Wed Nov 18 20:03:18 +0000 2026",
+    "id_str": "2123145041837527085",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Woah, the charts mapping the recent AI crash is insane. \n\nNet momentum exposure went from ~60% of hedge fund equity at the peak down to 8%.\n\nThe weeks before Nov 13 also saw the heaviest net selling of global tech stocks in the past 9 years.\n\nPer Goldman Sachs prime data.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123152181134234071",
+    "time": "2026-11-19 04:31",
+    "created_at": "Wed Nov 18 20:31:40 +0000 2026",
+    "id_str": "2123152181134234071",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2123173088598938033",
+    "time": "2026-11-19 05:54",
+    "created_at": "Wed Nov 18 21:54:45 +0000 2026",
+    "id_str": "2123173088598938033",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "BREAKING $AMD completes @theworldlabs acquisition and Dr. @drfeifei  appointed as executive vice president and chief scientist, reporting directly to CEO Dr. @LisaSu 🚀🚀🚀\n\n@AMD  appointed Dr. Fei-Fei Li executive vice president and chief scientist, reporting directly to CEO Dr. Lisa Su.\n\nSANTA CLARA, Calif., Nov. 16, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announced the completion of its acquisition of World Labs, expanding its capabilities across the AI stack with a world-class model team. The acquisition brings together leading AI model researchers and AMD engineers to shape the next generation of AMD hardware, software and systems for the open AI ecosystem.\n\n\"Delivering the infrastructure that will power the next era of super intelligence requires us to optimize compute platforms and models together,\" said Dr. Lisa Su, chair and CEO of AMD. \"We are thrilled to welcome Fei-Fei Li and the exceptional World Labs team to AMD. Their pioneering model research will help shape our future hardware, software and systems. Together, we will enable researchers and developers across the ecosystem to push the boundaries of what AI can do.\"\n\nWorld Labs develops AI models that create and simulate interactive 3D environments, as well as technology for robotic learning and simulation. Dr. Fei-Fei Li joins AMD as executive vice president and chief scientist, reporting directly to Su.\n\nThe World Labs team will continue advancing foundational model research while collaborating with AMD engineers to apply insights from emerging model capabilities to the development of future AI infrastructure for customers and developers across the open AI ecosystem.",
+    "quoted_tweet": {
+      "author": "Mike",
+      "username": "MikeLongTerm",
+      "text": "BREAKING $AMD | Fidelity BOUGHT $14.8B🐂🚀\nHOLY 🐮🐮🐮! \"Smart money\" really took advantage of this mad selloff! \n\n13F Filing - FMR LLC ( @Fidelity, $7.8 Trillion AUM ) bought 27,731,631 $AMD @AMD shares or a massive increase of 108.5% or $14.8B. \n\nTotal holding: 53,290,183 shares \n\n\"Dumb money\" never wanted to own AMD, yet Largest \"Smart Money\" swallowing up cheap shares at a discount! \n\nMarket is wild! \nSource: https://www.sec.gov/Archives/edgar/data/315066/000031506626002964/xslForm13F_X02/20261116_FMRLLCFinal.xml"
+    },
+    "url": "https://x.com/MikeLongTerm/status/2122333457820811591",
+    "time": "2026-11-16 22:18",
+    "created_at": "Mon Nov 16 14:18:22 +0000 2026",
+    "id_str": "2122333457820811591",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Thank you @LisaSu! There is so much ahead of us to create the best technologies to benefit everyone! The entire @theworldlabs team and I are beyond excited! 🤩🚀",
+    "quoted_tweet": {
+      "author": "Lisa Su",
+      "username": "LisaSu",
+      "text": "Welcome @drfeifei and @theworldlabs team to @AMD!  Super excited for all we will accomplish together. 🚀"
+    },
+    "url": "https://x.com/drfeifei/status/2122340036645621862",
+    "time": "2026-11-16 22:44",
+    "created_at": "Mon Nov 16 14:44:30 +0000 2026",
+    "id_str": "2122340036645621862",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@MikeLongTerm @theworldlabs @LisaSu @AMD This dance gives off more aura than real-life me can over do.",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2122340352720056320",
+    "time": "2026-11-16 22:45",
+    "created_at": "Mon Nov 16 14:45:45 +0000 2026",
+    "id_str": "2122340352720056320",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "AI is a civilizational technology! I'm deeply grateful and excited by the opportunities and responsibility awaiting all of us! Leading @theworldlabs for the past 2+ years has been an honor of my life. I cannot wait to continue working with this incredible team of innovators and scientists, and also to embark on this new chapter with all the colleagues at @AMD ! Lets make the world a better place for everyone! 😍🚀",
+    "quoted_tweet": {
+      "author": "AMD",
+      "username": "AMD",
+      "text": "Queen of Chips, @LisaSu 🤝 Godmother of AI, @drfeifei\n\nA picture is worth a thousand words and this 📸 from Lisa Su’s visit to San Francisco is giving us all the feels. We are so excited to officially welcome the @theworldlabs  team to AMD!"
+    },
+    "url": "https://x.com/drfeifei/status/2122375532163866756",
+    "time": "2026-11-17 01:05",
+    "created_at": "Mon Nov 16 17:05:33 +0000 2026",
+    "id_str": "2122375532163866756",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Yes! Come and join us to build better technologies and more importantly, a better world together! We promise a thrilling journey to work on crazy hard problems, and to work with ambitious, curious, intellectually honest, courageous and very kind-hearted and fun teams! 🚀",
+    "quoted_tweet": {
+      "author": "World Labs",
+      "username": "theworldlabs",
+      "text": "Come, our friends, time to seek a newer world together!\n\nWorld Labs is now officially part of AMD."
+    },
+    "url": "https://x.com/drfeifei/status/2122376424149721342",
+    "time": "2026-11-17 01:09",
+    "created_at": "Mon Nov 16 17:09:06 +0000 2026",
+    "id_str": "2122376424149721342",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "AI is a civilizational technology! There are tremendous opportunities and responsibilities for all of us at this moment in history. I'm deeply grateful and excited to lead the @theworldlabs team to join @AMD to embark on a new beginning, to advance science, develop technologies, and ultimately make a positive impact to the world! 😍🚀",
+    "quoted_tweet": {
+      "author": "AMD",
+      "username": "AMD",
+      "text": "Queen of Chips, @LisaSu 🤝 Godmother of AI, @drfeifei\n\nA picture is worth a thousand words and these 📸 from Lisa Su’s visit to San Francisco is giving us all the feels. We are so excited to officially welcome the @theworldlabs  team to AMD!"
+    },
+    "url": "https://x.com/drfeifei/status/2122377911873491397",
+    "time": "2026-11-17 01:15",
+    "created_at": "Mon Nov 16 17:15:00 +0000 2026",
+    "id_str": "2122377911873491397",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Here is my favorite photo of the team launching Marble last year. (right as Ben clicked the post button on X for our GA launch video) \n\nNever imagined that studying architecture+design would lead me to helping shape the future of world models and entirely new ways to create and experience 3D worlds. \n\nIncredibly grateful for this team and opportunity to continue the journey with @AMD",
+    "quoted_tweet": null,
+    "url": "https://x.com/XRarchitect/status/2122783664635613489",
+    "time": "Tue Nov 17 20:07:19 +0000 2026",
+    "created_at": "Tue Nov 17 20:07:19 +0000 2026",
+    "id_str": "2122783664635613489",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@XRarchitect 🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2122792456681066649",
+    "time": "Tue Nov 17 20:42:15 +0000 2026",
+    "created_at": "Tue Nov 17 20:42:15 +0000 2026",
+    "id_str": "2122792456681066649",
+    "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Today, Xlue is live.\n\nXlue is building a foundation model for human health—to understand our health, predict how it evolves, and simulate how treatments can change its course.\n\nWe aim to help physicians and scientists explore outcomes before they act, from predicting disease risk to simulating clinical trials and identifying new indications for existing medicines.\n\nOur goal is to make more of healthcare and medicine computable, turning computing power into better medicines, better care, and longer, healthier lives.\n\nIn our launch post https://xlue.com/news/from-medical-knowledge-to-real-world-clinical-intelligence, we explain:\n\n→ What Xlue does\n→ What makes our approach different\n→ Where we see it going\n\nWe’re very grateful to work with the team at @conviction: @pranavreddy, @mvernal, and @saranormous.\n\nThank you to everyone who helped us get here. This is just the start.",
+    "quoted_tweet": null,
+    "url": "https://x.com/XlueAI/status/2123108448502161605",
+    "time": "2026-11-19 01:37",
+    "created_at": "Wed Nov 18 17:37:54 +0000 2026",
+    "id_str": "2123108448502161605",
+    "is_retweet": true
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "@XlueAI Congrats @XlueAI team! Bettering health for everyone is such an important mission for AI!",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2123140087215194125",
+    "time": "2026-11-19 03:43",
+    "created_at": "Wed Nov 18 19:43:37 +0000 2026",
+    "id_str": "2123140087215194125",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You saved a library of AI prompts this week. You'll use maybe 3 of them.\n\n14,000 people bookmarked one free prompt library in a single day, and half a million saw it. Bookmarks are where prompts go to die. Here's how to turn any prompt you saved into one that works on your actual task.\n\nWhy saved prompts let you down: someone wrote that prompt for their task, so it's missing what yours needs. Who the result is for, what you already have, and what done looks like. The model fills those gaps with averages, and you get the average answer.\n\nYou don't need a longer list. You need 2 minutes to adapt the one you picked.\n\nPrompt 1: Adapt this prompt\n\"Here is a prompt I found: [paste]. Here is my actual task: [one sentence]. Before you rewrite it, ask me up to 5 questions about what's missing: who the output is for, what I already have, my limits (length, tone, budget, deadline), and what a finished result looks like. Then rewrite the prompt for my task. Keep what works in the original, cut anything that doesn't apply to me, and end with one line that says exactly what done looks like. Show me only the new prompt.\"\n\nPrompt 2: Test it before you trust it\n\"Run the prompt above on my task. Grade your answer against the done line from 1 to 10 and list what's missing. Rewrite the prompt once to fix the biggest gap and run it again. Stop after 2 rounds and show me both answers side by side.\"\n\nThen save the adapted version, not the original. That's the one you'll actually open again.\n\nA list of prompts is a starting point. The prompt that works is the one that knows your task.\n\nThe God of Prompt library is built for that second step: 7,200+ prompts with fill-in fields for your own context, free, no signup. Link in the first reply.\n\nHow many prompts have you saved that you never opened again?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2122691738695590326",
+    "time": "Tue Nov 17 14:02:02 +0000 2026",
+    "created_at": "Tue Nov 17 14:02:02 +0000 2026",
+    "id_str": "2122691738695590326",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt The prompts that stick are the ones you rewrite for your own work. Saving a prompt is easy. Making it fit your actual job is where it starts paying off.",
+    "quoted_tweet": null,
+    "url": "https://x.com/ThomasCEO/status/2122710628305379725",
+    "time": "Tue Nov 17 15:17:06 +0000 2026",
+    "created_at": "Tue Nov 17 15:17:06 +0000 2026",
+    "id_str": "2122710628305379725",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You describe your product as \"high quality\" and \"fast shipping\". So do all your competitors.\n\nNobody buys a claim they've read 40 times. They buy a fact they can check. These 3 prompts find the 3 selling points you can actually prove, in about 15 minutes, with the AI you already pay for.\n\nRun them in order, in one chat. Paste your product page, specs, pricing, reviews and anything you know about competitors.\n\nPrompt 1: Fact inventory\n\"You are a product analyst. From the materials below, list every fact about the product: specs, features, prices with their conditions, guarantees, claims. Put each in a table with its source and an evidence status: verified (test, certification, independent data), brand claim (we say so), or missing evidence. Mark words like 'best' or 'leading' as brand claims. Never invent a fact, a number or a competitor comparison. End with a list of what's missing. Materials: [paste]\"\n\nPrompt 2: Selling points from facts only\n\"Using only the verified facts from the table, find up to 3 selling points. For each one give me: the fact, the job the customer is trying to get done, the result they get, what we're comparing against, and one line of messaging. Drop anything that rests on a brand claim. If you have no competitor data, don't use 'unique' or '#1'.\"\n\nPrompt 3: Pick the lead\n\"Rank these selling points. Put first the one that removes the biggest reason people don't buy. Real customer data beats our opinion. If two are too close to call, keep both and tell me the one test that would decide it: a lost-sale call, a split test or a competitor check.\"\n\nWhat you get: a table that shows which of your claims you can stand behind, 3 selling points built on proof, and the one to lead your page, ad or pitch with.\n\nA page with three facts people can check beats a page with ten promises nobody can.\n\nAll 3 prompts are in the God of Prompt library along with 5 more selling-point prompts we added this week, with fill-in fields, free, no signup. Link in the first reply.\n\nWhich claim on your own page could you actually prove today?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2122796970158985419",
+    "time": "Tue Nov 17 21:00:12 +0000 2026",
+    "created_at": "Tue Nov 17 21:00:12 +0000 2026",
+    "id_str": "2122796970158985419",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt concordo, e o pior é que o cliente nem lembra do que leu. fato que dá pra conferir fica na cabeça, adjetivo passa batido",
+    "quoted_tweet": null,
+    "url": "https://x.com/odozsantos/status/2122805362604564508",
+    "time": "Tue Nov 17 21:33:32 +0000 2026",
+    "created_at": "Tue Nov 17 21:33:32 +0000 2026",
+    "id_str": "2122805362604564508",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "The checkable-fact filter is spot on. One place to mine those facts: your competitors' 1-star reviews. Whatever they get hammered for, if you're genuinely good at it, that's a selling point buyers already care about.\n\n\"Here are 30 negative reviews of [competitor products]. Group the complaints into themes and rank them by frequency. For each theme, tell me what proof I'd need ([metric, policy, photo]) to credibly claim we do better. Table: theme, count, sample quote, proof needed.\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/solvewithaishop/status/2122807016645152776",
+    "time": "Tue Nov 17 21:40:07 +0000 2026",
+    "created_at": "Tue Nov 17 21:40:07 +0000 2026",
+    "id_str": "2122807016645152776",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "*ANTHROPIC IS SAID TO GUIDE IPO PRICING ABOVE MARKETED RANGE\n\nsame headline for the 3rd day in a row. We get it",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2123048969341444321",
+    "time": "2026-11-18 21:41",
+    "created_at": "Wed Nov 18 13:41:33 +0000 2026",
+    "id_str": "2123048969341444321",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "$1,540,000,000 in GTA VI pre-orders.\n\nBut how much money has Rockstar actually made from the GTA franchise? 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/wallstreetbets/status/2123053613471666424",
+    "time": "2026-11-18 22:00",
+    "created_at": "Wed Nov 18 14:00:00 +0000 2026",
+    "id_str": "2123053613471666424",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@solvewithaishop competitor 1-star reviews are the brief nobody pays for. great add",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123054101613126060",
+    "time": "2026-11-18 22:01",
+    "created_at": "Wed Nov 18 14:01:56 +0000 2026",
+    "id_str": "2123054101613126060",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You're using ChatGPT like an intern. \"Analyze this.\" \"Make a plan.\" \"Give me ideas.\"\n\nThen the answers read like an intern wrote them.\n\n7 prompts that make it work like a senior hire. Copy, paste, fill the brackets.\n\nPrompt 1: Ask before answering\n\"Before you answer, tell me what you think I'm actually trying to solve and ask me the 3 questions that would change your answer most. Wait for my replies.\"\n\nPrompt 2: Pre-mortem\n\"It's 6 months from now and [plan] failed. List the 5 most likely reasons, ranked by probability, and one early warning sign for each that I can check this week.\"\n\nPrompt 3: Decision table\n\"I'm choosing between [A] and [B]. Build a table: cost, time, risk, and what I give up by not picking the other. Then tell me which you'd pick and what would change your mind.\"\n\nPrompt 4: A plan that fits my week\n\"Turn [goal] into a 7-day plan using my real limits: [hours per day, budget, tools]. One task a day, under 90 minutes each, with what done looks like.\"\n\nPrompt 5: Edit, don't rewrite\n\"Edit this for clarity without changing my voice: [text]. Show only the changes as before and after, and explain each in under 10 words.\"\n\nPrompt 6: Ideas with a filter\n\"Give me 20 ideas for [goal], then cut to the 3 cheapest to test this week. For each: the first step and how I'll know it worked.\"\n\nPrompt 7: The toughest reader\n\"Here's my draft: [paste]. You're the toughest reader in [audience]. Where do you stop reading, and what did you expect to see that isn't there?\"\n\nSave the 2 you'll actually use. The other 7,200+ are in the God of Prompt library, free, no signup. Link in the first reply.\n\nWhich of these do you already do without a prompt?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123054148694536292",
+    "time": "2026-11-18 22:02",
+    "created_at": "Wed Nov 18 14:02:08 +0000 2026",
+    "id_str": "2123054148694536292",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123054161315131447",
+    "time": "2026-11-18 22:02",
+    "created_at": "Wed Nov 18 14:02:11 +0000 2026",
+    "id_str": "2123054161315131447",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@odozsantos nobody remembers 'premium'. everyone remembers '5-year warranty'",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123054190813704486",
+    "time": "2026-11-18 22:02",
+    "created_at": "Wed Nov 18 14:02:18 +0000 2026",
+    "id_str": "2123054190813704486",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@ThomasCEO the rewrite is where it learns your job. a saved prompt is someone else's job",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123054262561476892",
+    "time": "2026-11-18 22:02",
+    "created_at": "Wed Nov 18 14:02:35 +0000 2026",
+    "id_str": "2123054262561476892",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge even the ipo headline is stuck in a retry loop",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123054576156791152",
+    "time": "2026-11-18 22:03",
+    "created_at": "Wed Nov 18 14:03:50 +0000 2026",
+    "id_str": "2123054576156791152",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@wallstreetbets $1.54 billion upfront for a game whose release date is also a pre-order",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123054961177362746",
+    "time": "2026-11-18 22:05",
+    "created_at": "Wed Nov 18 14:05:21 +0000 2026",
+    "id_str": "2123054961177362746",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "BREAKING: Anthropic's IPO has drawn nearly $500 billion in investor orders, per CNBC.\n\nInstitutional orders reached about $400 billion after the books closed a day early, while retail orders are approaching $100 billion. That's roughly seven times the shares on offer, with multiple single orders of $10 billion or more. Demand reportedly topped SpaceX's IPO.\n\nAnthropic is now considering selling more shares and pricing above $80, up from its original $70–78 range. The original deal was 825 million shares, raising up to $64.4 billion.",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2123076559774855564",
+    "time": "2026-11-18 23:31",
+    "created_at": "Wed Nov 18 15:31:11 +0000 2026",
+    "id_str": "2123076559774855564",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@JayAndAI it helps most when your request is vague, because the questions fill in what you left out. on a clear brief it just adds a step. easy test: run the same task both ways and compare",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123076587369209985",
+    "time": "2026-11-18 23:31",
+    "created_at": "Wed Nov 18 15:31:17 +0000 2026",
+    "id_str": "2123076587369209985",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@petergyang the push back test is the one that matters. a model that folds on message two isn't worth message one",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123076998532931758",
+    "time": "2026-11-18 23:32",
+    "created_at": "Wed Nov 18 15:32:55 +0000 2026",
+    "id_str": "2123076998532931758",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales $500 billion in orders and not one of them came with a higher usage limit",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123077249524224008",
+    "time": "2026-11-18 23:33",
+    "created_at": "Wed Nov 18 15:33:55 +0000 2026",
+    "id_str": "2123077249524224008",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Tomorrow is likely going to be a safer day than today, thanks to the crime-fighting power of Rockstar.\n\nPrevious research found that violent video games, and specifically GTA games, reduce crime, as people stay home playing them. GPT-6 Pro updated the data and found it holds.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2123097628506485174",
+    "time": "2026-11-19 00:54",
+    "created_at": "Wed Nov 18 16:54:54 +0000 2026",
+    "id_str": "2123097628506485174",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Renaissance Technologies sold almost all of its Nvidia stake before the stock’s recent plunge.\n\nThe quant fund founded by the late Jim Simons cut its Nvidia holdings by more than 99% in the third quarter, from about 7.09 million shares to just 23,170, per its latest 13F filing. That position was worth roughly $1.4 billion at the end of June. By Sept. 30 it was worth about $5.3 million.\n\nRenaissance also nearly exited Meta, cutting its stake from about 2 million shares, worth more than $1.1 billion, to roughly 1,600 shares.\n\nIt moved the money elsewhere:\n\nMicron: stake up 619% to 1.52 million shares, worth $1.62 billion\nAMD: up 140% to about 2 million shares, worth $1.21 billion\nSpaceX: a new $621 million position",
+    "quoted_tweet": null,
+    "url": "https://x.com/unusual_whales/status/2123098156434964928",
+    "time": "2026-11-19 00:57",
+    "created_at": "Wed Nov 18 16:57:00 +0000 2026",
+    "id_str": "2123098156434964928",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@emollick the only crime prevention program with a $70 price tag and a 13 year waitlist",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123099419272704011",
+    "time": "2026-11-19 01:02",
+    "created_at": "Wed Nov 18 17:02:01 +0000 2026",
+    "id_str": "2123099419272704011",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@unusual_whales they kept 23,170 shares. that's not a position, that's a souvenir",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123099952213615059",
+    "time": "2026-11-19 01:04",
+    "created_at": "Wed Nov 18 17:04:08 +0000 2026",
+    "id_str": "2123099952213615059",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Genie 4, our most realistic and interactive world model from @GoogleDeepMind, is now available in Project Genie 🌐\n\nHere’s what’s new:\n\nGenie 4: Edit environments mid-session with text prompts, paired with real-time native audio and dialogue.\n\nProject Genie agent: Co-create worlds conversationally with custom soundtracks and live Gemini guidance.\n\nCommunity gallery: Discover, explore, and remix worlds from creators and the Project Genie community.\n\nGenie 3 upgrades: Longer sessions up to 3 minutes, world chaining, and 360-degree panorama grounding.\n\nStep inside what’s new ↓",
+    "quoted_tweet": null,
+    "url": "https://x.com/Google/status/2123117819948638448",
+    "time": "2026-11-19 02:15",
+    "created_at": "Wed Nov 18 18:15:08 +0000 2026",
+    "id_str": "2123117819948638448",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Scary NGINX vulnerability, but I checked and my VPS servers already had auto upgraded to the new one!\n\nVery very very very very important to enable auto upgrades now, I even have auto reboot, which is a bit risky if you're not present, but I care more about my sites being up to date and safe than offline for a few hours\n\nAnd generally security updates/upgrades are tested and safe",
+    "quoted_tweet": {
+      "author": "Wiz",
+      "username": "wiz_io",
+      "text": "🚨 Critical NGINX Vulnerabilities: @wiz_io Research, alongside @xint_official , @MetnirAI , @rapid7 , @ikotas00 independently discovered 2 critical memory-safety flaws in NGINX (CVE-2026-123633 & CVE-2026-123007) allowing unauthenticated RCE with HTTP/2 enabled."
+    },
+    "url": "https://x.com/levelsio/status/2123119037131674056",
+    "time": "2026-11-19 02:19",
+    "created_at": "Wed Nov 18 18:19:58 +0000 2026",
+    "id_str": "2123119037131674056",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@levelsio set the auto reboot window to 4am your time and the risky part mostly goes away",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123122927029924177",
+    "time": "2026-11-19 02:35",
+    "created_at": "Wed Nov 18 18:35:26 +0000 2026",
+    "id_str": "2123122927029924177",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Google @GoogleDeepMind editing the world mid-session by text is dungeon master mode, except this one takes your notes",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123123449451221017",
+    "time": "2026-11-19 02:37",
+    "created_at": "Wed Nov 18 18:37:30 +0000 2026",
+    "id_str": "2123123449451221017",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Proud of these fantastic results - @OpenAI + @AMD engineers pushing the frontiers of chip design together!",
+    "quoted_tweet": {
+      "author": "Greg Brockman",
+      "username": "gdb",
+      "text": "roughly an additional year of progress on @AMD's chip achieved in less than 5 months using our models, with some of these results included in a design that's recently been taped out — unprecedented results at the frontier of chip design."
+    },
+    "url": "https://x.com/LisaSu/status/2123141323096261077",
+    "time": "2026-11-19 03:48",
+    "created_at": "Wed Nov 18 19:48:32 +0000 2026",
+    "id_str": "2123141323096261077",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Happy WedNEsday!",
+    "quoted_tweet": null,
+    "url": "https://x.com/sundarpichai/status/2123143850210533408",
+    "time": "2026-11-19 03:58",
+    "created_at": "Wed Nov 18 19:58:34 +0000 2026",
+    "id_str": "2123143850210533408",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@sundarpichai two capital letters and the whole timeline is doing forensics",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123144574726254756",
+    "time": "2026-11-19 04:01",
+    "created_at": "Wed Nov 18 20:01:27 +0000 2026",
+    "id_str": "2123144574726254756",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@LisaSu @OpenAI @AMD a year of chip progress in five months. moore's law just got a project manager",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123144762299449845",
+    "time": "2026-11-19 04:02",
+    "created_at": "Wed Nov 18 20:02:12 +0000 2026",
+    "id_str": "2123144762299449845",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You pay $20 a month for ChatGPT Plus. Since yesterday that includes GPT-6.2 Astra, OpenAI's strongest model, at less than a third of the cost per task of the last Astra.\n\nOpenAI says you'll see the difference most in slideshows, websites and 3D designs. So skip \"make me a deck about X\" and give it the brief a designer would ask you for.\n\nWhat changed for you:\n→ GPT-6.2 Astra and Sol are in ChatGPT Work and Codex on Plus, Pro, Enterprise and Edu\n→ Pro 200 gets Ultrafast mode for the first time, starting with GPT-6.2 Sol\n→ Tighter safeguards on high-risk cybersecurity requests\n\nThe prompt I'd run first:\n\"Build a 10-slide deck on [topic] for [audience] who must decide [decision] by the end. Slide 1 states the decision and my recommendation in one sentence. Every slide after it has one claim, one number or example that proves it, and a headline that states the takeaway. Use [brand colors / plain black and white]. No stock photos and no slide over 30 words. Last slide: the decision, the cost, and the next step with an owner and a date. Before you build, list every number you'd need from me instead of guessing it.\"\n\nRun it once on Astra and once on the model you used last week. The gap is your review.\n\nWe keep prompts like this sorted by task in the God of Prompt library, free. Link below.\n\nWhat would you test first: a deck, a site or a 3D design?",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "GPT-6.2 Astra—a frontier model built for your hardest projects. It sets new highs on evals across professional work and scientific research at less than a third of the cost per task of GPT‑6 Astra.\n\nYou’ll see the difference in things like slideshows, websites, and 3D designs."
+    },
+    "url": "https://x.com/godofprompt/status/2123159357731016767",
+    "time": "2026-11-19 05:00",
+    "created_at": "Wed Nov 18 21:00:11 +0000 2026",
+    "id_str": "2123159357731016767",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123159369881948357",
+    "time": "2026-11-19 05:00",
+    "created_at": "Wed Nov 18 21:00:14 +0000 2026",
+    "id_str": "2123159369881948357",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "BREAKING: Anthropic prices its IPO at $83/share after drawing nearly $500 BILLION in orders.\n\n$ANT begins trading on Nasdaq tomorrow.",
+    "quoted_tweet": null,
+    "url": "https://x.com/wallstreetbets/status/2123163836916117852",
+    "time": "2026-11-19 05:17",
+    "created_at": "Wed Nov 18 21:17:59 +0000 2026",
+    "id_str": "2123163836916117852",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We’re sharing how we approach safety at every stage of a model’s lifecycle, from early research to internal use to public deployment.",
+    "quoted_tweet": {
+      "author": "Kai",
+      "username": "kaicathyc",
+      "text": "A lot has happened in the past couple months, to say the least.\n\nToday we are sharing a recap of what it takes to move a frontier model from training to internal use to public release. As model capabilities rise, so do the safety and alignment standards required to move forward to the next stage.\n\nTo meet these standards, we rely on four layers of protection:\n1. Model alignment: train models to reliably act as intended and respect human oversight.\n2. Security and sandboxing: restrict what models can access and affect.\n3. Blocking safeguards: stop harmful or unauthorized actions before they happen.\n4. Monitoring and response: detect concerning behavior and intervene.\n\nThe post brings together efforts from across the company, with links to recent research, technical work, and incident reports we’ve published. This is the baseline operational discipline we owe people as we continue training and deploying models - necessary work, but not a solution to alignment in the limit. There’s a lot more to do, and will continue keeping you informed as the thinking and work evolves. 🏗️\n\nhttps://openai.com/index/managing-frontier-ai-risk/"
+    },
+    "url": "https://x.com/OpenAI/status/2123165872261075233",
+    "time": "2026-11-19 05:26",
+    "created_at": "Wed Nov 18 21:26:05 +0000 2026",
+    "id_str": "2123165872261075233",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@wallstreetbets priced above the range, like every claude bill i've ever estimated",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123167357749080388",
+    "time": "2026-11-19 05:31",
+    "created_at": "Wed Nov 18 21:31:59 +0000 2026",
+    "id_str": "2123167357749080388",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@OpenAI internal use is the stage nobody sees. how long does a model run inside before it ships?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123167730329358394",
+    "time": "2026-11-19 05:33",
+    "created_at": "Wed Nov 18 21:33:28 +0000 2026",
+    "id_str": "2123167730329358394",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "6.2-Astra and 6.2-Sol take #1 and #2 on Eyebench!\n\nBoth are within 2 questions of a perfect score.\n\nSol is also the cheapest model in the top 10, which is quite insane",
+    "quoted_tweet": null,
+    "url": "https://x.com/adonis_singh/status/2122851213993779342",
+    "time": "2026-11-18 08:35",
+    "created_at": "Wed Nov 18 00:35:44 +0000 2026",
+    "id_str": "2122851213993779342",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Days like this I genuinely feel like I live in a different universe from the rest of the world.\n\nSaw ubiquitous 6.2 hate / it's over for OpenAI yada yada ... ran the highest-signal autoresearch bench and 6.2 sol/astr are *absolute monsters*.\n\nAstra 6.2 saturates it at low effort",
+    "quoted_tweet": {
+      "author": "Josh",
+      "username": "JoshPurtell",
+      "text": "@_arohan_ Astra 6 was better than Fable 5.2 and Opus 5.5 on my highest signal OOD autoresearch eval. Haven't tested Astra 6.2 but assume it's modestly better. I can't speak to internal models but do you really prefer their public models for research that much? https://x.com/JoshPurtell/status/2120296929661989367?a=dwt3hUffpShqcXfFT5c&s=20"
+    },
+    "url": "https://x.com/JoshPurtell/status/2122852757170213351",
+    "time": "2026-11-18 08:41",
+    "created_at": "Wed Nov 18 00:41:52 +0000 2026",
+    "id_str": "2122852757170213351",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary critique of the astra launch\n\nthe model itself is solid minor version improvement guys, efficiency is one of the three most impt RL objectives rn and they are world leading here!!! i am daily driving astra and it is the best workflow automation model i’ve used, no longer getting stuck in horrible loops and efficiently learning thru compactions and skill writing. it’s running a lot of our content publishing pipeline for @latentspacepod and @aiDotEngineer and we wouldnt have nearly the revenue efficiency (>1m/employee) that we have as a bootstrapped business without it",
+    "quoted_tweet": {
+      "author": "Brian Lovin",
+      "username": "brian_lovin",
+      "text": "@stevekrouse Yeah but your framing is already better than what's in the ad. The ad shows people who are totally disengaged from their work having a panic attack at the moment an authority figure arrives, then slopping out something that they neither care about or understand."
+    },
+    "url": "https://x.com/swyx/status/2122862646265520150",
+    "time": "2026-11-18 09:21",
+    "created_at": "Wed Nov 18 01:21:10 +0000 2026",
+    "id_str": "2122862646265520150",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@JoshPurtell Beauty is in the eye of the beholder, but clearly the models are polarizing. A bit like we had in the early codex days. These models are clearly extremely capable but have a couple of rough edges that we will sand down over time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122891208968294400",
+    "time": "2026-11-18 11:14",
+    "created_at": "Wed Nov 18 03:14:40 +0000 2026",
+    "id_str": "2122891208968294400",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Why are they all posting reviews at the same time: there's an embargo.\n\nWhy are the reviews all negative: the model is bad.\n\nIt's pretty simple, guys.\n\nThere's no conspiracy. We're just giving our opinions.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mattshumer_/status/2122895253468295605",
+    "time": "2026-11-18 11:30",
+    "created_at": "Wed Nov 18 03:30:44 +0000 2026",
+    "id_str": "2122895253468295605",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "i have to be consistent because there’s no better benchmark then eci. \n\nthere’s a strong chance everyone is saying this model is a genius in a week.",
+    "quoted_tweet": null,
+    "url": "https://x.com/iruletheworldmo/status/2122895745380491419",
+    "time": "2026-11-18 11:32",
+    "created_at": "Wed Nov 18 03:32:41 +0000 2026",
+    "id_str": "2122895745380491419",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@adonis_singh What are they getting wrong? Curious",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122902327443300537",
+    "time": "2026-11-18 11:58",
+    "created_at": "Wed Nov 18 03:58:51 +0000 2026",
+    "id_str": "2122902327443300537",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@swyx It's that is the only critique of the launch, I'm glad. It is indeed truly all about efficiency and topline capabilities. We'll highlight more interesting things in the next launch video.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122903687949688912",
+    "time": "2026-11-18 12:04",
+    "created_at": "Wed Nov 18 04:04:15 +0000 2026",
+    "id_str": "2122903687949688912",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "GPT-6.2 Astra is an INSANE leap over GPT-6 Astra. It's scary how much it has improved.\n\nOpenAI is officially back!\n\nby the way - $10/$50 vs $8/$40\n\nis this upgrade worth it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/JamesMalsawm/status/2122910168098730290",
+    "time": "2026-11-18 12:30",
+    "created_at": "Wed Nov 18 04:30:00 +0000 2026",
+    "id_str": "2122910168098730290",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "According to Artificial Analysis, Opus 5.5 is no longer on the pareto line (best value per intelligence)\n\nLove AA and all, but they really need some behavioral benches to smooth out this gap. Opus 5.5 is still the best value available for real long running code work.",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2122916936417935419",
+    "time": "2026-11-18 12:56",
+    "created_at": "Wed Nov 18 04:56:54 +0000 2026",
+    "id_str": "2122916936417935419",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122929634916679820",
+    "time": "2026-11-18 13:47",
+    "created_at": "Wed Nov 18 05:47:21 +0000 2026",
+    "id_str": "2122929634916679820",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux Teach your models how to speak English again and you'll have my love back quickly :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2122934242648932366",
+    "time": "2026-11-18 14:05",
+    "created_at": "Wed Nov 18 06:05:40 +0000 2026",
+    "id_str": "2122934242648932366",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "So you gave access to the models, to influencers, when you know your models aren't ready and have issues?  🤔",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!"
+    },
+    "url": "https://x.com/MiaAI_lab/status/2122934710640730231",
+    "time": "2026-11-18 14:07",
+    "created_at": "Wed Nov 18 06:07:31 +0000 2026",
+    "id_str": "2122934710640730231",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux ultrafast now available in 200?",
+    "quoted_tweet": null,
+    "url": "https://x.com/Wilf_Lin/status/2122935062031417431",
+    "time": "2026-11-18 14:08",
+    "created_at": "Wed Nov 18 06:08:55 +0000 2026",
+    "id_str": "2122935062031417431",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@iruletheworldmo 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122938155225752015",
+    "time": "2026-11-18 14:21",
+    "created_at": "Wed Nov 18 06:21:13 +0000 2026",
+    "id_str": "2122938155225752015",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "6.2 Astra is cheap and fast I'll give it that. Had a rough day 1 with it but excited to keep using it and tuning it to my use cases!",
+    "quoted_tweet": null,
+    "url": "https://x.com/The_Alex/status/2122945976566690254",
+    "time": "2026-11-18 14:52",
+    "created_at": "Wed Nov 18 06:52:17 +0000 2026",
+    "id_str": "2122945976566690254",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo Try this in codex\n\n> Add this to my custom instructions \"Talk to me ELI5 by default and go deeper if I ask.\"\n\nbut also, team is on it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122949739708809619",
+    "time": "2026-11-18 15:07",
+    "created_at": "Wed Nov 18 07:07:15 +0000 2026",
+    "id_str": "2122949739708809619",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Wilf_Lin Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122950072623350250",
+    "time": "2026-11-18 15:08",
+    "created_at": "Wed Nov 18 07:08:34 +0000 2026",
+    "id_str": "2122950072623350250",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@MiaAI_lab Yes, that's the whole point of getting feedback",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122952910137135379",
+    "time": "2026-11-18 15:19",
+    "created_at": "Wed Nov 18 07:19:50 +0000 2026",
+    "id_str": "2122952910137135379",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@JamesMalsawm You need to share the prompt for that one, that's beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122953161921196052",
+    "time": "2026-11-18 15:20",
+    "created_at": "Wed Nov 18 07:20:51 +0000 2026",
+    "id_str": "2122953161921196052",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@The_Alex Alex, let's go, sorry you have to adapt a bit, but it pays off. Next generation will make it all more natural, in the meantime the raw power is indeed there already.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122953953851879880",
+    "time": "2026-11-18 15:23",
+    "created_at": "Wed Nov 18 07:23:59 +0000 2026",
+    "id_str": "2122953953851879880",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2122954129094111394",
+    "time": "2026-11-18 15:24",
+    "created_at": "Wed Nov 18 07:24:41 +0000 2026",
+    "id_str": "2122954129094111394",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "No, you are all wrong.\n\nAstra 6.2 is insanely good.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Yampeleg/status/2122990260900823340",
+    "time": "2026-11-18 17:48",
+    "created_at": "Wed Nov 18 09:48:16 +0000 2026",
+    "id_str": "2122990260900823340",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "I took this to heart and spent the last few hours doing another deep dive on GPT-6.2 Astra\n\ntl;dr - things are better than when I tested, but IMO still \"directionally, very bad\"\n\nI'm going to keep using the same example I've hyperfixated on since the start: \"why is creating a worktree so slow?\"\n\nI had a long thread trying to diagnose perf issues while using t3 code on a particular VPS. 2 of the 3 were fast, 1 was really slow.\n\nI asked astra outright \"why is this so slow?\", and it said a bunch of gibberish. I followed up with \"I feel like I'm going insane, can you just tell me the cause of the slowness?\"\n\nI'll give you the answer upfront: this VPS uses a virtual disk that is slow as shit, my other VPSs have physical NVME drives that are faster.\n\nImage 1 is from before the fixes Tibo mentioned. It shows an unnecessary graph, focuses too much on pnpm and file systems, bolds irrelevant text, and brings up ram just as much as it (subtly) mentions drive speed.\n\nImage 2 is of Opus asked same thing. It opened with the important part in bold: \"Slow disk, made worse by VDO\". Ideal!\n\nImage 3 is 6.2 Astra post-fixes Tibo mentioned. Better? Absolutely. Much more concise. Sadly, it still focuses way too much on second-order problems that are a small % of the cause. \"XFS over a compression and deduplication layer on a virtual disk.\" - so close, but still a miss.\n\nI think this perfectly encapsulates the problem I have with 6.2 Astra. It doesn't miss anything. It's SO thorough. But in it's thoroughness, I find it misses the most important thing: the actual point.\n\nIt wants to know everything, and then it wants to share everything. It doesn't understand what is and isn't important.\n\nDid it say anything wrong in my screenshots? Not really. But IMO, it still entirely failed to miss the point of my question, and gave an answer that was too focused on accuracy and not enough on clarity.\n\nIn the wise words of Michael Seibel: \"Most aim for 100% accuracy, and they end up with 50% clarity. Aim for 100% clarity, 80% accuracy\".\n\nSilly way of putting it, but I genuinely wish OpenAI models would lie to me a LITTLE more so I could better understand the vibe, instead of having my time wasted by all these useless details.",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!"
+    },
+    "url": "https://x.com/theo/status/2122991778622263514",
+    "time": "2026-11-18 17:54",
+    "created_at": "Wed Nov 18 09:54:17 +0000 2026",
+    "id_str": "2122991778622263514",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Based on my very limited experience:",
+    "quoted_tweet": null,
+    "url": "https://x.com/AdamHoltererer/status/2123073463703183566",
+    "time": "2026-11-18 23:18",
+    "created_at": "Wed Nov 18 15:18:53 +0000 2026",
+    "id_str": "2123073463703183566",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "🏆 AND WE HAVE A WINNER!\n\nGPT-6.2 Astra defeats Claude Fable 5.2 ♟️\n\nFinal Stats: 71 moves | 204,219 tokens | $2.0671\n\nToken & Cost Breakdown:\n • GPT-6.2 Astra: 70,203 tokens | $0.6052\n • Claude Fable 5.2: 134,016 tokens | $1.4619\n\nAstra takes the win using almost half the tokens and costing significantly less.\n\nGG! ♟️",
+    "quoted_tweet": {
+      "author": "Gaurav",
+      "username": "Leapofcode",
+      "text": "Ladies and gentlemen, place your bets!\n\nGPT-6.2 Astra vs Claude Fable 5.2\n\nWho's winning this one? ♟️\n\n🏆 Results at 9 PM IST."
+    },
+    "url": "https://x.com/Leapofcode/status/2123078382628000098",
+    "time": "2026-11-18 23:38",
+    "created_at": "Wed Nov 18 15:38:25 +0000 2026",
+    "id_str": "2123078382628000098",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo Thank you Theo ❤️",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123112623294320913",
+    "time": "2026-11-19 01:54",
+    "created_at": "Wed Nov 18 17:54:29 +0000 2026",
+    "id_str": "2123112623294320913",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Yampeleg What are you using it for?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123112903809318994",
+    "time": "2026-11-19 01:55",
+    "created_at": "Wed Nov 18 17:55:36 +0000 2026",
+    "id_str": "2123112903809318994",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "How is 6.2 Sol treating you today?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123113107048501273",
+    "time": "2026-11-19 01:56",
+    "created_at": "Wed Nov 18 17:56:24 +0000 2026",
+    "id_str": "2123113107048501273",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@Leapofcode GG",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123150581321883811",
+    "time": "2026-11-19 04:25",
+    "created_at": "Wed Nov 18 20:25:19 +0000 2026",
+    "id_str": "2123150581321883811",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@AdamHoltererer Climbing",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123151267002503570",
+    "time": "2026-11-19 04:28",
+    "created_at": "Wed Nov 18 20:28:02 +0000 2026",
+    "id_str": "2123151267002503570",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "GPT-6.2 Astra is pretty good at hard things. Here the team shared some results on AMD and Jalapeño chip optimizations.\n\nI do get the feedback on its communication style and we're working on that, but for really the hardest tasks in the world it does seem to be in a league of its own at the moment.",
+    "quoted_tweet": {
+      "author": "OpenAI",
+      "username": "OpenAI",
+      "text": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing.\n\nThe same approach helped improve Jalapeño, our first custom inference chip, with gains verified on real silicon.\n\nNew evaluations also show our models getting better at certain chip design tasks.\n\nWe’re sharing these results and how we’re working with @Synopsys to bring our model capabilities and their trusted EDA design and validation tools to more chip designers.\n\nhttps://openai.com/index/advancing-chip-design-with-our-models/"
+    },
+    "url": "https://x.com/thsottiaux/status/2123175166519992652",
+    "time": "2026-11-19 06:03",
+    "created_at": "Wed Nov 18 22:03:01 +0000 2026",
+    "id_str": "2123175166519992652",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@thsottiaux Working on some open math problems where I've used the previous Astra, Fable, Claude.\n\nThis Astra progressed more than all of them combined in the first few prompts. \n\nIm assuming its the one that solved Navier–Stokes?",
+    "quoted_tweet": null,
+    "url": "https://x.com/DannyIO/status/2123176503861235773",
+    "time": "2026-11-19 06:08",
+    "created_at": "Wed Nov 18 22:08:19 +0000 2026",
+    "id_str": "2123176503861235773",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@DannyIO It does like math",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123179276199735535",
+    "time": "2026-11-19 06:19",
+    "created_at": "Wed Nov 18 22:19:20 +0000 2026",
+    "id_str": "2123179276199735535",
+    "is_retweet": false
+  }
+]
