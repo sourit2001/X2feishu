@@ -1,1 +1,418 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Over the past few weeks I've gone from thinking leanPCS is total bull to being a total bull. So let me explain some of these buzzwords in more detail.\n\nAt the core, 8288 is about hyper-scaling data and execution for any computation that needs to get performed on a piece of data once, the chain learns the answer, and then we never need to see that data again. This sounds very specific, but it includes most \"heavy\" things happening on Ethereum:\n\n* Signatures\n* STARKs\n* Merkle branches\n* FHE computation\n* ...\n\nReally the first two are the most important.\n\nOnce we go quantum-safe, signatures get bigger (65 bytes ECDSA -> 1-6 kB WOTS/SPHINCS depending on params) and ZKPs get much bigger (200-1000 bytes with groth16, PLONK, etc -> 128 kB with STARKs). This is unsustainable to put on chain, and 8288 fixes this.\n\n8288 works by aggregating STARKs in the mempool. First, you as a user generate the STARK or SPHINCS signature or PCS opening (more on that last one later), and publish it. Then, each node listens. Each tick, each node takes all of the new objects that it has seen, and generates a STARK containing a list of \"claims\":\n\n\"pubkey P has signed message M\"\n\"program X run on data D has output Y\"\n\"p(X) = Y for some polynomial P whose hash is H\"\n\nand a proof that it has seen a signature, STARK or PCS opening verifying those claims. So the only information getting re-broadcasted is:\n\n(i) hashes of inputs and outputs (~64-96 bytes per claim)\n(ii) a single STARK proof per tick\n\nThese aggregate proofs themselves get re-aggregated, and eventually you get to a single \"master proof\" in the block, that verifies that all of those statements are true. And so the only other data that has to actually go on chain is the statements (the (P, M), (X, D, Y), (X, Y, H) tuples I described above), not the actual signatures or proofs. This gets put into a specialized frame type.\n\nNow, let's get into the leanSPHINCS vs leanSTARK vs leanPCS part.\n\nThe core distinction is: *what is the underlying object that the user is creating?*\n\nIn leanSPHINCS, it's a signature, and specifically this particular type of purely-hash-based signature: https://ethresear.ch/t/sphincs-minus-efficient-stateless-post-quantum-signature-verification-on-the-evm/25165\n\nIf we add leanSPHINCS, then users will be able to make quantum-safe accounts, and pay only a little bit of gas (4096 for the 64 bytes) for each signature. So we get scalable quantum-safety for regular accounts, multisigs, etc. But it's only one specific signature scheme, you can't do anything else.\n\nIn leanSTARK, it's a STARK. This means it's fully general: the user runs whatever computation they want, and publish a STARK of it. So you can use it for:\n\n* Any signature scheme (including eg. lattice-based ones if you like those)\n* A multisig that hides its internal logic\n* Privacy protocols\n* Private account abstraction: authorization logic that depends on some value hidden elsewhere in the state, so you can have one key that controls all your accounts without publicly linking them to each other\n\nBasically, it's a free for all, in the same way the EVM is a free for all.\n\nBut leanSTARK has a practical downside. The protocol would have to specify the language in which users write their programs (we call this the \"ISA\"). So we would have to agree on that language. This is a really big deal - it's the first big case of \"Ethereum moving beyond the EVM\" - and so it's likely to take time to agree on the details of it, especially since the ISA would be hard to upgrade. There are benefits to taking longer on this, figuring out the ideal ISA, and then even giving access to it inside regular contracts.\n\nLeanPCS is the third option. PCS stands for \"polynomial commitment scheme\": a proof that P(x) = y. The most important thing to know about PCSes is that they are by far the most important \"hard\" component of a STARK (see here: https://vitalik.eth.limo/general/2021/01/26/snarks.html ). If you have a \"magic PCS oracle\" (which from the EVM's point of view, 8288 is), you can verify a STARK in ~20-40k gas.\n\nThe most important gain with PCS is that there is far less that we need to choose. Specifying a PCS only requires specifying a field, and there is a natural option: the 128 bit binary field (technically, we can go more general than that, and say the 2^k-bit binary recursive tower field, going up to 256)\n\nLeanPCS is less efficient than leanSTARK onchain, because you would have to put multiple claims to prove one thing. But it's arguably more efficient offchain, because you have much more flexibility to choose proof systems.\n\nBut most importantly, leanPCS gives you the same generality as leanSTARK, in a way that could potentially be implemented very quickly. And once we figure out the ISA, we can add leanSTARK later.\n\nSo there is a route to getting \"the cryptographic proof singularity\" much faster than any of us expected, and that route runs through 8288 with leanPCS.\n https://firefly.social/post/x/2120922104002486765",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2122233780371083553",
+    "time": "2026-11-16 15:42",
+    "created_at": "Mon Nov 16 07:42:17 +0000 2026",
+    "id_str": "2122233780371083553",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Canada is going through its own version of the Chat Control mess with the C-22 bill:\n\nhttps://blog.mozilla.org/netpolicy/2026/10/08/canadas-bill-c-22-threatens-encryption-users-privacy-and-the-security-of-digital-economies/\n\nHighly encourage fellow Canadians to contact senators and make clear how you feel about the importance of (backdoor-free, no asterisks) end-to-end encryption, and its benefits to a secure, free and open society.\n\nParticularly given that we're entering a difficult transition period for cybersecurity due to AI, it's even more important than before that we (i) minimize all backdoors and mass data collection, and (ii) give users very clear and legible guarantees about what kind of security they are getting, with no weasel language.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2122641871394738467",
+    "time": "Tue Nov 17 10:43:53 +0000 2026",
+    "created_at": "Tue Nov 17 10:43:53 +0000 2026",
+    "id_str": "2122641871394738467",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@VitalikButerin I don't think senators give a fuck specially if they will not be affected",
+    "quoted_tweet": null,
+    "url": "https://x.com/merlijn33/status/2122652155920220482",
+    "time": "Tue Nov 17 11:24:45 +0000 2026",
+    "created_at": "Tue Nov 17 11:24:45 +0000 2026",
+    "id_str": "2122652155920220482",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@merlijn33 Senators will definitely be affected by insecure encryption.\n\nThey use signal just like the rest of us\n\nWhoever controls the backdoors will be able to selectively reveal people's personal secrets and break careers. Don't think they want either police or tech cos having that power",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2122653327595020572",
+    "time": "Tue Nov 17 11:29:24 +0000 2026",
+    "created_at": "Tue Nov 17 11:29:24 +0000 2026",
+    "id_str": "2122653327595020572",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "One benefit of younger generations investing more in stonks and other digital things instead of housing is that it reduces perverse incentives that drive people to push to keep housing expensive, instead of rejoicing when prices drop as we do for all other life necessities.\n\nThat said, an advantage housing has/had is that it's a culture and policy-encouraged default of investing in a safe non-crazy thing that you can't easily liquidate. Modern platforms encourage the opposite of this, leading to more irresponsible behavior. We need the equivalent of those good properties that housing investment has, for modern digital assets.\n https://firefly.social/post/x/2122828302121636286",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2122930611027611873",
+    "time": "2026-11-18 13:51",
+    "created_at": "Wed Nov 18 05:51:14 +0000 2026",
+    "id_str": "2122930611027611873",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "很火的 “neolab”这个词是去年 The Information 提的。\n\n意思是新一代以研究为核心的 AI 初创公司。\n\n如 Thinking Machines Lab、Poolside、 TypeSafe AI（推荐 Jev 那个）\n\nneolab 特征：雇顶尖研究员、消耗大量算力训自己模型、没显著营收、融很多钱、仍是初创公司。\n\n合着就是烧钱，不赚钱呀！哈哈哈。\n\nNeolab 名单见评论区",
+    "quoted_tweet": null,
+    "url": "https://x.com/vista8/status/2122744643305820292",
+    "time": "Tue Nov 17 17:32:16 +0000 2026",
+    "created_at": "Tue Nov 17 17:32:16 +0000 2026",
+    "id_str": "2122744643305820292",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "支持老黄回归",
+    "quoted_tweet": {
+      "author": "Jensen Huang",
+      "username": "JensenHuang",
+      "text": "Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I've never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me.\n\nI came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA.\n\nI did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life. I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board’s independent investigation. \n\nSince my departure, I’ve seen an outpouring of calls from NVIDIA’s employees, investors, business partners, and customers for me to return as CEO. Many continue to reach out to me directly as the company navigates complex technology, market, competitive, and geopolitical dynamics. NVIDIA is a once-in-a-generation company. If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO.\n\nThank you again to everyone who has shared their good wishes. I am profoundly humbled by your support. To my family: I love you, and I will spend the rest of my life being worthy of yours.\n\nJensen"
+    },
+    "url": "https://x.com/oran_ge/status/2122807602396766425",
+    "time": "Tue Nov 17 21:42:26 +0000 2026",
+    "created_at": "Tue Nov 17 21:42:26 +0000 2026",
+    "id_str": "2122807602396766425",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "GPT-6.2 Astra on the Art Bench! :)",
+    "quoted_tweet": null,
+    "url": "https://x.com/dingchilling/status/2122813429941694523",
+    "time": "Tue Nov 17 22:05:36 +0000 2026",
+    "created_at": "Tue Nov 17 22:05:36 +0000 2026",
+    "id_str": "2122813429941694523",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "时隔两月，OpenAI 终于发布了新的前沿模型 Astra 6.2 及标准模型 Sol 6.2\n\nAstra 5.2 在完成 Agent's Last Exam 实际任务的时候，分数更高，但用量只有上一代的 30%，只有 Fable 5.2 的 5%，可谓非常省钱。\nAstra 5.2 是科学研究的最佳模型，在 Terminal Bench Science 0.1 中 超越 Fable 5.2，同时价格只要三分之一不到。\n\nAstra 6.2 的 API 价格下降 20%，缓存价格大幅下降 60%。\nSol 6.2 价格不变，但是能力超越了上一代的 Astra 6，可谓性价比拉满。\n\n此外，这代模型重点增强了科学研究、3D、办公、法律、销售、金融、会计等领域的能力。\n\n但海外KOL差评如潮，暂时是莫名其妙的。。。",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122823251722477715",
+    "time": "Tue Nov 17 22:44:38 +0000 2026",
+    "created_at": "Tue Nov 17 22:44:38 +0000 2026",
+    "id_str": "2122823251722477715",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 第二段的 Astra 5.2 写串了吧，该是 6.2，不然省钱的就不是新模型了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/SimonH6688/status/2122838226121449538",
+    "time": "Tue Nov 17 23:44:08 +0000 2026",
+    "created_at": "Tue Nov 17 23:44:08 +0000 2026",
+    "id_str": "2122838226121449538",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "6.2 怎么打成 5.2 了 😓",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122842414037848155",
+    "time": "2026-11-18 08:00",
+    "created_at": "Wed Nov 18 00:00:46 +0000 2026",
+    "id_str": "2122842414037848155",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@SimonH6688 打错了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122842465413853465",
+    "time": "2026-11-18 08:00",
+    "created_at": "Wed Nov 18 00:00:58 +0000 2026",
+    "id_str": "2122842465413853465",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "typeless这次找的红人营销绝对是个大坑。看着都是1-3w，而且每个帖子都有评论的“真实账号”，但全是头像一个模板，有些干脆是互刷的。这种自欺欺人的账号，莫非能够撬动自然流🤔",
+    "quoted_tweet": {
+      "author": "Huang Song",
+      "username": "huang_song_",
+      "text": "Typeless Ultra is live.\n\n$200/month.\n\nMost people don't need it.\n\nWe built it anyway.\n\nMax intelligence. Every word, considered. Near-zero edits.\n\nOverkill, by design."
+    },
+    "url": "https://x.com/yan5xu/status/2122843473212780912",
+    "time": "2026-11-18 08:04",
+    "created_at": "Wed Nov 18 00:04:59 +0000 2026",
+    "id_str": "2122843473212780912",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "关于 GPT 6.2 Astra 发布以后大 V 都在喷的情况，我感觉可能跟他们跟 KOL 的沟通上也存在一些问题。\n\n应该就是提前测试又不给钱，还想让大家出内容，然后模型又不行，就都开始喷了。\n\n不然的话，如果模型其实没有那么不堪吧，大家都顶多不说话，或者说话委婉一些。",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2122916123012485367",
+    "time": "2026-11-18 12:53",
+    "created_at": "Wed Nov 18 04:53:40 +0000 2026",
+    "id_str": "2122916123012485367",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@vista8 也有赚钱的\n马卡龙",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122945044240097590",
+    "time": "2026-11-18 14:48",
+    "created_at": "Wed Nov 18 06:48:35 +0000 2026",
+    "id_str": "2122945044240097590",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@op7418 我觉得也没他们喷的那么差吧。。。\n感觉有一些节奏",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122980819824419083",
+    "time": "2026-11-18 17:10",
+    "created_at": "Wed Nov 18 09:10:45 +0000 2026",
+    "id_str": "2122980819824419083",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@yan5xu 自然流是撬动不了的\n现在算法精明的很",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122981393060012165",
+    "time": "2026-11-18 17:13",
+    "created_at": "Wed Nov 18 09:13:01 +0000 2026",
+    "id_str": "2122981393060012165",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "我用 Sol 和 Astra 6.2 体感还行\nTibo 说是三四天之前的 KOL 测试版本有严重的问题\n现在的版本其实还好\n但很多人反馈 codex 里调用比较慢，pi 就很快，我们的产品 cola 里调用 api 也很快\n怀疑是 codex 的 harness 适配有问题",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!"
+    },
+    "url": "https://x.com/oran_ge/status/2122982300598386943",
+    "time": "2026-11-18 17:16",
+    "created_at": "Wed Nov 18 09:16:38 +0000 2026",
+    "id_str": "2122982300598386943",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@dingchilling not bad",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122985058235752739",
+    "time": "2026-11-18 17:27",
+    "created_at": "Wed Nov 18 09:27:35 +0000 2026",
+    "id_str": "2122985058235752739",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "还没什么人听  \n但这可能是今年最好的创业播客了\n创始人经历了赚钱、膨胀，最后发现还是得做自己内心的东西\n中间最忙的时候，一周只有一天在公司做产品，其他时间都在融资啥的 非常不本质\n他说后来觉得变大、融资这些都放弃之后，反而可以专注做个好产品，小珺问他放弃做大扩张的那一刻感受是什么，他说，释然\n我感觉在今天这个时代，拿大结果非常非常难了，不如就做好自己的事情，给社会贡献一点自己独特的价值，也是蛮好的\n他说当你给社会贡献独特价值的时候，整个环境都会过来帮你\n也许这就是强者改变环境的一种含义",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122991976509538575",
+    "time": "2026-11-18 17:55",
+    "created_at": "Wed Nov 18 09:55:05 +0000 2026",
+    "id_str": "2122991976509538575",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 橙子君有播客推荐吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/AAAce4518/status/2122995002355884268",
+    "time": "2026-11-18 18:07",
+    "created_at": "Wed Nov 18 10:07:06 +0000 2026",
+    "id_str": "2122995002355884268",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 哪一期啊，小宇宙上有吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/Hsanli_x/status/2122996267831968229",
+    "time": "2026-11-18 18:12",
+    "created_at": "Wed Nov 18 10:12:08 +0000 2026",
+    "id_str": "2122996267831968229",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@AAAce4518 可以参考这个",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122996488179781934",
+    "time": "2026-11-18 18:13",
+    "created_at": "Wed Nov 18 10:13:00 +0000 2026",
+    "id_str": "2122996488179781934",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Hsanli_x 有的 最新一期",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122996548246307218",
+    "time": "2026-11-18 18:13",
+    "created_at": "Wed Nov 18 10:13:15 +0000 2026",
+    "id_str": "2122996548246307218",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 怎么才能有6h 听完这个播客~~~",
+    "quoted_tweet": null,
+    "url": "https://x.com/XCaptaincc/status/2122998433527271845",
+    "time": "2026-11-18 18:20",
+    "created_at": "Wed Nov 18 10:20:44 +0000 2026",
+    "id_str": "2122998433527271845",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@XCaptaincc 健身六次就听完啦",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2122999749473345537",
+    "time": "2026-11-18 18:25",
+    "created_at": "Wed Nov 18 10:25:58 +0000 2026",
+    "id_str": "2122999749473345537",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 前两天在b站看了视频，背景竹林眼前一亮，高强度播客",
+    "quoted_tweet": null,
+    "url": "https://x.com/weiyong_wang/status/2123000995718615080",
+    "time": "2026-11-18 18:30",
+    "created_at": "Wed Nov 18 10:30:55 +0000 2026",
+    "id_str": "2123000995718615080",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@weiyong_wang 画面大制作了\n可惜播放量不行",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123004435538546753",
+    "time": "2026-11-18 18:44",
+    "created_at": "Wed Nov 18 10:44:35 +0000 2026",
+    "id_str": "2123004435538546753",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "谷歌这是捅了大模型马蜂窝了\nGemini 4 Neon 要来了\n猜测这应该是 Hydrogen 的另一个 rl 版本\n跑分目前是这批里最强的",
+    "quoted_tweet": {
+      "author": "AI Tracker Bot",
+      "username": "aitrackerbot",
+      "text": "Gemini 4 Neon, the model we caught in the Gemini app on Monday, now has prices in Google Cloud's billing catalog 🔥\n\n• $3 in / $15 out per 1M tokens, live as of 3 AM ET\n• That puts it between Hydrogen ($1.50 / $7.50) and Carbon ($4 / $20)\n• Batch and Flex at half price: $1.50 / $7.50\n• Takes text, image, video and audio\n\nNot answering on Vertex yet. We're watching it closely."
+    },
+    "url": "https://x.com/oran_ge/status/2123044492278378614",
+    "time": "2026-11-18 21:23",
+    "created_at": "Wed Nov 18 13:23:45 +0000 2026",
+    "id_str": "2123044492278378614",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Introducing Gemini 4 Neon! Pushing the frontier across domains and punching above its model class in a meaningful way. To me, Neon feels like the right balance of intelligence, speed, and usability. Available now across @GoogleAIStudio, the API, and more!",
+    "quoted_tweet": null,
+    "url": "https://x.com/OfficialLoganK/status/2123167791922741362",
+    "time": "2026-11-19 05:33",
+    "created_at": "Wed Nov 18 21:33:42 +0000 2026",
+    "id_str": "2123167791922741362",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "竟然超过了 Fable 5.2？\n谷歌的新模型 Neon 发布，Coding Agent 指标世界第一\nCarbon 定位有点类似 Fable，非常慢，但文笔极好\nNeon 的定位有点类似 Opus，综合能力最强\nNeon 模型尺寸介于 carbon 和 hydrogen 之间，但各个领域指标都是谷歌家第一的水准\n价格 3/15 ，没有折扣\n谷歌今年的大招没有让人失望\n就是 antigravity 太差了太差了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123190080097644874",
+    "time": "2026-11-19 07:02",
+    "created_at": "Wed Nov 18 23:02:16 +0000 2026",
+    "id_str": "2123190080097644874",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@OfficialLoganK @GoogleAIStudio masterpiece",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123190794614178052",
+    "time": "2026-11-19 07:05",
+    "created_at": "Wed Nov 18 23:05:07 +0000 2026",
+    "id_str": "2123190794614178052",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "GTA6 是对现实世界的巨大讽刺：\n\n《侠盗猎车手 VI》我玩了几个钟头，眼看着一辆轿车被一辆卡车从后头撞烂。\n\n当时我正开着车在罪恶都市里转。这座城市是对迈阿密的虚构复刻，画面逼真到很多时候分不清是游戏画面还是实拍。\n我看见两辆车撞在一起，就把车停下来。卡车司机一溜烟跑了，被撞的那位卡在座位上出不来，引擎已经开始起火。\n我跑过去，把他从车里拽了出来。他向我道谢，一脸后怕，说自己差点就死了。然后他注意到，肇事的那辆车是萨哈拉的送货车，那是游戏里影射亚马逊的快递公司。他当场宣布，这就是他翻身的机会。他可以告萨哈拉，索赔个几百万。\n可他得有伤可验。于是他深吸一口气，钻回车里，把自己的两条腿点着了，然后带着满身烧伤又爬了出来。\n他给律师打了电话。紧接着一辆救护车开近了，他转过身来，请我给他当证人，报酬是从他迟早到手的那笔赔偿金里分我一份。\n我瞄了一眼屏幕上的按键提示，动过按下去敲他一笔的念头，最后还是答应帮忙。\n他在 BuckMe 上给我转了几千美元，那是游戏里对应 Venmo 的转账应用。",
+    "quoted_tweet": {
+      "author": "Siddhartha",
+      "username": "sidposting",
+      "text": "wtf did I just read, I am astonished"
+    },
+    "url": "https://x.com/oran_ge/status/2123201385844134234",
+    "time": "2026-11-19 07:47",
+    "created_at": "Wed Nov 18 23:47:12 +0000 2026",
+    "id_str": "2123201385844134234",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 只能在 antigravity 里面用吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/iamlishuxin/status/2123234579129716787",
+    "time": "Thu Nov 19 01:59:06 +0000 2026",
+    "created_at": "Thu Nov 19 01:59:06 +0000 2026",
+    "id_str": "2123234579129716787",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@iamlishuxin cola cursor 里都能用\n但第三方额度不如anti大",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123240447711826233",
+    "time": "Thu Nov 19 02:22:25 +0000 2026",
+    "created_at": "Thu Nov 19 02:22:25 +0000 2026",
+    "id_str": "2123240447711826233",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "使用 Gemini 4 Neon 的渠道：\n谷歌官方订阅 Pro 以上可用： https://gemini.google/subscriptions/\nCola 会员 Plus 以上可用：https://colaos.ai/\nOpenrouter 买 API：https://openrouter.ai",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123279127562351099",
+    "time": "Thu Nov 19 04:56:07 +0000 2026",
+    "created_at": "Thu Nov 19 04:56:07 +0000 2026",
+    "id_str": "2123279127562351099",
+    "is_retweet": false
+  }
+]
