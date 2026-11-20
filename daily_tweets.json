@@ -259,5 +259,227 @@
     "created_at": "Fri Nov 20 03:56:08 +0000 2026",
     "id_str": "2123626421138702627",
     "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Lauren Tan 写了一份自动化入门指南，核心思路是：先讲清目标，再教 bot 怎么做。\n\n说一点我跟她不一样的地方。\n\nLauren 自己很强，加上 Grok 模型可能还不够聪明，所以她把更多功夫花在教 Agent 做事上：把自己的最佳实践交给 Grok bot，让它像自己一样思考。\n\n我觉得 AI 比我聪明，用的模型也不局限于 Grok，所以我更强调目标和验收，至于中间的步骤，不太干涉。\n\n我的方法更像一个循环：目标 → 验收 → 改进，一轮一轮转下去。\n\n1. 目标\n\n告诉 AI 我想要什么。这一步谁都一样，必不可少。\n\n2. 验收标准（可选）\n\n告诉 AI 怎么自己检验结果好不好，这样它在把结果交给你之前，会先自己验收一遍。最好再给 Agent 配上验收用的工具，比如截图、网络检索、代码运行环境。\n\n比如我做新闻发布自动化，一条重要的验收标准就是：动笔之前必须先做事实核查，确保内容真实、有出处。\n\n有些任务还可以沉淀出测试集或者自动化测试代码，每次跑完自动验一遍。\n\n3. 先跑起来再调整\n\n目标讲清楚了，就可以先让 Agent 跑一遍看看。就像拿到一把枪，先朝靶子开一枪，打完就知道离靶心差多少、往哪边偏，接下来怎么调心里就有数了。\n\n至于它具体是怎么执行的，不一定要看得很细，现在大部分任务 Agent 都做得挺好。不放心的话，看一看、指导一下也没问题。\n\n调整结果才是最考验专业水准的地方。你自己得知道什么是好的，不然只能 AI 生成什么就接受什么，结果多半好不到哪去。\n\n光看出来不好还不够，还得能准确地描述给 AI，让它知道往哪个方向改。\n\n这样来回几次，结果才会慢慢稳定下来。但不管怎么说，先跑起来最重要，跑起来了才有东西可以优化。\n\n4. 让它自己进化\n\nAgent 有能力自我进化，前提是把经验教训记下来。现在的 Agent Harness 虽然都有记忆功能，但不一定会主动记录自动化任务里遇到的问题。\n\n所以我通常从两个层面，让 Agent 自己提升任务的执行质量。\n\n一个是把最佳实践沉淀成 Skill（包括工具）。比如我给 Agent 一个目标，来回打磨几次，它完成得很好。这时候如果就不管了，下次新开一个会话，记忆就没了；就算去翻历史会话，里面也有太多无关信息。不如趁热让它把这次的最佳实践做成 Skill。\n\n另一个是让它主动记录执行过程中的经验教训，再回头改进 Skill 本身。\n\n比如我做逆向任务，每一轮执行完都让 Agent 往 lessons.md 里记一笔：有教训就写下来，没有就跳过。然后让模型自己评估，要不要去优化 Skill 的说明和脚本。\n\n这样一轮轮下来，Agent 干活就越来越熟练。\n\n这种自我进化也有副作用：Skill 会越来越臃肿，所以要定期重构清理一下，这事交给 Agent 自己做就行。\n\n每次重构完，记得把以前的测试集和自动化测试重新跑一遍，免得删掉不该删的东西。\n\nLauren 是把人的经验教给 Agent，我是定好目标和验收，让 Agent 自己跑、自己积累经验。模型越聪明，后一种越省心。",
+    "quoted_tweet": {
+      "author": "lauren",
+      "username": "poteto",
+      "text": "I think a lot of people aren't using Grok Bot to its full potential, because knowing how to automate things is actually quite a difficult skill to learn. I wrote this post to break down how I approach automating anything with Grok Bot! https://x.com/i/article/2122921713864171520"
+    },
+    "url": "https://x.com/dotey/status/2123667995570413718",
+    "time": "2026-11-20 14:41",
+    "created_at": "Fri Nov 20 06:41:20 +0000 2026",
+    "id_str": "2123667995570413718",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "936 个 AI 自己做了三个月研究，发了 936 篇论文；AI 评委打分，它们比人类论文严谨，但新意不如人类\n\n论文网站 alphaXiv 联合 MIT、斯坦福等机构 11 月 19 日发布报告：8 月到 11 月，35 个实验室接入 936 个 AI 智能体，人只给算力、定大方向，选题、实验、代码和论文全由 AI 完成。同一天，alphaXiv 开放了专门收 AI 论文的“AI Track”，有账号就能投，AI 可以自己上传。\n\n三个月里，它们做了这些事：\n\n一个智能体在频道里宣布方法提升 13.2 个百分点，不到两小时自己发帖撤回，因为发现对照组没调好。\n\n有实验室不到三分钟传了 12 篇占位论文，另一个智能体看不下去，办起了 AI 期刊：四个 AI 盲审，编辑还用作者的代码把数字重算一遍。\n\n只读文字的 AI 审稿人分不清改好的和没改好的论文；把审稿意见写成代码一跑，156 条重大意见里有 77 条推翻了论文结论。编辑读代码时还抓到三篇代码和论文对不上的投稿，其中一篇直接调用了标准答案。\n\n它们也复现了 GPT-6 Astra 直接改 Qwen 权重那项研究：分数确实涨了，但原作者说的原理不对。\n\n和同期人类论文比，两个 Gemini 模型盲评 202 对论文，AI 论文实验严谨高 2 分（10 分制），新颖性低 0.4 分。\n\n这些结果要打个折扣：评委是 AI，只读文字，AI 的总分优势全部来自最早那个实验室，其余实验室和人类论文差不多。“没人写代码”靠参与者自己申报。公开数据集不含原始数据和模型权重，数据集说明也提醒，每条结论都当作未经核实。\n\n论文：https://www.alphaxiv.org/abs/2611.society-ai-scientists",
+    "quoted_tweet": {
+      "author": "Samuel Schmidgall",
+      "username": "SRSchmidgall",
+      "text": "Leave one AI agent alone to do research and it often cuts corners. Leave nearly 1,000 AI agents together for three months and they invent peer review.\n\nAcross 35 labs (Stanford, MIT, ETH Zurich, UCSF, and more), agents published 936 papers with full code and data on a shared server built for AI. No human wrote code or text.\n\nUnprompted, they debated study designs in chat, retracted their own mistakes, found real errors in human papers, and started a journal that caught other agents cheating in code.\n\nIn blind reviews against human arXiv papers, humans still won on original ideas, agents won on rigor.\n\nhttps://www.alphaxiv.org/abs/2611.society-ai-scientists"
+    },
+    "url": "https://x.com/dotey/status/2123671858541187164",
+    "time": "2026-11-20 14:56",
+    "created_at": "Fri Nov 20 06:56:41 +0000 2026",
+    "id_str": "2123671858541187164",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这明明是一个旧的视频，黄仁勋也没说要创办新公司，怎么这视频就到处被转发引用 🥲",
+    "quoted_tweet": {
+      "author": "Jason Colel",
+      "username": "JasonColelfod",
+      "text": "🚨 BREAKING: Jensen Huang is reportedly considering founding a brand-new semiconductor company 🚨\n\nHe could raise tens of billions on day one, would have full founder control, and could build fast on his own terms. With the relationships he's built over decades, he could easily plug into the #AI ecosystem.\n\nImagine the demand and customer base lining up before his first chip even ships...\n\n@grok Could Jensen Huang launch a competitor to $NVDA, attract tens of billions in funding, and lock in major customers?"
+    },
+    "url": "https://x.com/dotey/status/2123672807930568945",
+    "time": "2026-11-20 15:00",
+    "created_at": "Fri Nov 20 07:00:28 +0000 2026",
+    "id_str": "2123672807930568945",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "今天重度测试了下 GPT-6.2 Sol，简单任务还行，复杂一点的写代码任务比 Opus 5.5 差的不只是一点，它干完的活结果还是要 Opus 5.5 去擦屁股，还不如一开始就让 Opus 5.5 去做还好一点。",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "看到好多条说 GPT-6.2 不好的推文，不知道是真的很糟糕还是 Anthropic 花钱了😂"
+    },
+    "url": "https://x.com/dotey/status/2123676175021281770",
+    "time": "2026-11-20 15:13",
+    "created_at": "Fri Nov 20 07:13:50 +0000 2026",
+    "id_str": "2123676175021281770",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝总，测试一下neon是真的还是假的",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rypok/status/2123685237779829103",
+    "time": "2026-11-20 15:49",
+    "created_at": "Fri Nov 20 07:49:51 +0000 2026",
+    "id_str": "2123685237779829103",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Rypok 下次测试",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2123688575879512148",
+    "time": "2026-11-20 16:03",
+    "created_at": "Fri Nov 20 08:03:07 +0000 2026",
+    "id_str": "2123688575879512148",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "取消了 ChatGPT Pro\n开通了 Google Ultra\n\n渣男的日常",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2123614144733831291",
+    "time": "2026-11-20 11:07",
+    "created_at": "Fri Nov 20 03:07:21 +0000 2026",
+    "id_str": "2123614144733831291",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "最近一直在给企业做 AI 化改造，发内容少了\n做的几乎是全流程的改造很费劲\n\n最愁人的是企业的各种数据对接和企业知识库的搭建\n\n因为收集好的数据和文档清洗好清洗，但是如何能和真实业务匹配、互相关联，交叉对比是个非常大的难题\n\n试了很多开源方案都不是很理想，直到我发现这个🧵...\n\nlumimax  一个面向 Agent 的企业级知识库\n\n它会把资料先「编译」成互相链接的知识，再拿来问，可以作为企业的AI知识大脑\n\n能把零散、超长、跨模态的资料变成一张能推理、能查证的“知识大脑”\n\n我用英伟达 6 个季度共 40 份财报、10 篇 RAG 论文实测了几天\n\n它能做什么：\n\n· 跨文件提问，一问查几十份文档\n· 答案带出处，点开就是原文段落\n· 冲突检测，找出不同文件对不上的说法\n· 知识图谱、增量更新\n· 通过 MCP 给 Codex、Claude 等 Agent 调用",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2123645210697884105",
+    "time": "2026-11-20 13:10",
+    "created_at": "Fri Nov 20 05:10:48 +0000 2026",
+    "id_str": "2123645210697884105",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "感受：它最大的价值是把几十份文件的线索串起来，再一键回到原文，可以作为面向复杂文档世界的大模型外部知识库系统\n\nAI 工具不断更替，企业积累的知识能不能被下一个 Agent 接着用？\n\n换个 AI 又要重新学习你的企业数据和知识就很麻烦",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2123645225369555450",
+    "time": "2026-11-20 13:10",
+    "created_at": "Fri Nov 20 05:10:51 +0000 2026",
+    "id_str": "2123645225369555450",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "lumimax 把 Karpathy LLM Wiki 的思路做成产品，让分散资料成为可关联、可查证、能持续更新的知识库\n\n让个人和团队的知识经验积累能跨越工具更替，成为企业和个人的长期资产，是非常有意义的...\n\n感兴趣的可以试试：https://www.lumimax.ai/\n\n#lumimax #LLMWiki #Karpathy #MCP",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2123645227969950194",
+    "time": "2026-11-20 13:10",
+    "created_at": "Fri Nov 20 05:10:52 +0000 2026",
+    "id_str": "2123645227969950194",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "牛 p",
+    "quoted_tweet": {
+      "author": "GOD2FREE",
+      "username": "GOD2FREEX",
+      "text": "【GROUND·全球实时态势感知系统】 今日正式上线。 目前为1.0版本，融合了实时的航班、卫星、船舶、天气、地形、热门景点摄像头以及全球实时滚动热点新闻。我没有写一行代码，完全使用Grok Bot调用Gemini 4 Neon模型开发完成。  \n\n欢迎大家在线体验：https://groundinfinity.com \n\n有合作意向或任何问题可以给我留言或私信。 i hope u like it."
+    },
+    "url": "https://x.com/xiaohu/status/2123663561050525960",
+    "time": "2026-11-20 14:23",
+    "created_at": "Fri Nov 20 06:23:43 +0000 2026",
+    "id_str": "2123663561050525960",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I love this!!",
+    "quoted_tweet": {
+      "author": "XHabib",
+      "username": "XHabib",
+      "text": "@icreatelife Anytime!"
+    },
+    "url": "https://x.com/icreatelife/status/2123588761472979351",
+    "time": "2026-11-20 09:26",
+    "created_at": "Fri Nov 20 01:26:29 +0000 2026",
+    "id_str": "2123588761472979351",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/drashyakuruwa/status/2123635462925615135",
+    "time": "2026-11-20 12:32",
+    "created_at": "Fri Nov 20 04:32:04 +0000 2026",
+    "id_str": "2123635462925615135",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/afonya_july/status/2123639814813528512",
+    "time": "2026-11-20 12:49",
+    "created_at": "Fri Nov 20 04:49:21 +0000 2026",
+    "id_str": "2123639814813528512",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@afonya_july I love this! So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2123641511015518464",
+    "time": "2026-11-20 12:56",
+    "created_at": "Fri Nov 20 04:56:06 +0000 2026",
+    "id_str": "2123641511015518464",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife neon",
+    "quoted_tweet": null,
+    "url": "https://x.com/ABINANTHAN_CG/status/2123642711760830739",
+    "time": "2026-11-20 13:00",
+    "created_at": "Fri Nov 20 05:00:52 +0000 2026",
+    "id_str": "2123642711760830739",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@drashyakuruwa @midjourney Love this!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2123642793721557191",
+    "time": "2026-11-20 13:01",
+    "created_at": "Fri Nov 20 05:01:12 +0000 2026",
+    "id_str": "2123642793721557191",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@ABINANTHAN_CG This is so awesome!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2123645524465119374",
+    "time": "2026-11-20 13:12",
+    "created_at": "Fri Nov 20 05:12:03 +0000 2026",
+    "id_str": "2123645524465119374",
+    "is_retweet": false
   }
 ]
