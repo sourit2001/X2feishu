@@ -390,5 +390,469 @@
     "created_at": "Sat Nov 21 04:59:40 +0000 2026",
     "id_str": "2124004796906779031",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "So true",
+    "quoted_tweet": {
+      "author": "Wasteland Capital",
+      "username": "ecommerceshares",
+      "text": "$AAPL at $5 trillion, +27% YTD and barely off all time high, watching the AI carnage, while Siri AI takes 12 seconds of thinking to set a timer."
+    },
+    "url": "https://x.com/chamath/status/2123870452368167123",
+    "time": "2026-11-21 04:05",
+    "created_at": "Fri Nov 20 20:05:50 +0000 2026",
+    "id_str": "2123870452368167123",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "has ai progress stalled?\n\ni'm personally not aware of any major breakthroughs since riemann a few hours ago",
+    "quoted_tweet": null,
+    "url": "https://x.com/SamuelAlbanie/status/2123876667571519947",
+    "time": "2026-11-21 04:30",
+    "created_at": "Fri Nov 20 20:30:31 +0000 2026",
+    "id_str": "2123876667571519947",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "2 joysticks and 12 buttons of control with his brain",
+    "quoted_tweet": {
+      "author": "Neuralink",
+      "username": "neuralink",
+      "text": "Playing GTA VI with a Neuralink"
+    },
+    "url": "https://x.com/djseo/status/2123897428743180771",
+    "time": "2026-11-21 05:53",
+    "created_at": "Fri Nov 20 21:53:01 +0000 2026",
+    "id_str": "2123897428743180771",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Flashback to June 14, 2024.\n\nAt the time, frontier AI models have zero fluid intelligence. They score around 5% on ARC 1. They can't reliably add two numbers. They make laughable logic errors every other prompt. Reasoning models don't exist. Coding agents don't exist. Claude Code doesn't exist. \"Code gen\" is a complete joke. Scaling up next-token prediction based on web text data is hitting a wall.\n\nWhat if a time traveler told you that, by November 2026...\n\n• AI models would have human-like fluid intelligence, thanks to a new paradigm: test-time induction (modern reasoning models).\n• Not only would ARC 1 be saturated, but unreleased benchmarks 10x harder (ARC 2) and 100x harder (ARC 3) would be saturated too.\n• Nearly all code would be written by AI, and models could one-shot complex codebases flawlessly.\n• AI models would be solving multiple Millennium Prize problems.\n• OpenAI's valuation would be 15x higher, and Anthropic's would be 85x higher.\n\nAnd on top of all that...\n\n• Nvidia would still hold ~80% of the AI compute market.\n• Nvidia would have grown its revenue and earnings 4.5x.\n• Nvidia would still be growing 75% a year.\n• Nvidia would have even higher operating margins (67% vs. 65% back then).\n\nBased on that information, straight from the future, would you have bought NVDA?\n\nIf you answered yes -- congrats. Today, 2.5 years later, you'd be down 5% on your investment (even more after inflation).",
+    "quoted_tweet": null,
+    "url": "https://x.com/fchollet/status/2123898321647571442",
+    "time": "2026-11-21 05:56",
+    "created_at": "Fri Nov 20 21:56:34 +0000 2026",
+    "id_str": "2123898321647571442",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I always have my Grok Bot audit my other bots. That way, I know everything is optimized and running efficiently.\n\nDon't just hand a workflow to a bot and walk away. Set up an audit bot to watch over your other bots and follow up on their projects.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Texas_Twins_Dad/status/2123926569076887570",
+    "time": "2026-11-21 07:48",
+    "created_at": "Fri Nov 20 23:48:49 +0000 2026",
+    "id_str": "2123926569076887570",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Well, the verdict is out:\n\nAI was a fad this whole time and people will stop using it, just like the internet. \n$NVDA",
+    "quoted_tweet": null,
+    "url": "https://x.com/nikitabier/status/2123949893014388933",
+    "time": "2026-11-21 09:21",
+    "created_at": "Sat Nov 21 01:21:30 +0000 2026",
+    "id_str": "2123949893014388933",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "How are things going with the 'AI Alignment' (aka 'dumb thing rules over smart thing forever') problem?",
+    "quoted_tweet": null,
+    "url": "https://x.com/xenocosmography/status/2123986311963087095",
+    "time": "2026-11-21 11:46",
+    "created_at": "Sat Nov 21 03:46:13 +0000 2026",
+    "id_str": "2123986311963087095",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Liftoff!",
+    "quoted_tweet": null,
+    "url": "https://x.com/SpaceX/status/2123995383625924847",
+    "time": "2026-11-21 12:22",
+    "created_at": "Sat Nov 21 04:22:16 +0000 2026",
+    "id_str": "2123995383625924847",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Telepathy is very real. What Elon is doing with Neuralink is basically magic",
+    "quoted_tweet": {
+      "author": "Neuralink",
+      "username": "neuralink",
+      "text": "Playing GTA VI with a Neuralink"
+    },
+    "url": "https://x.com/XFreeze/status/2124043559536152707",
+    "time": "2026-11-21 15:33",
+    "created_at": "Sat Nov 21 07:33:42 +0000 2026",
+    "id_str": "2124043559536152707",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Grok bot is still by far my most used personal agent",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "True"
+    },
+    "url": "https://x.com/ArthurMacwaters/status/2124044033886728272",
+    "time": "2026-11-21 15:35",
+    "created_at": "Sat Nov 21 07:35:35 +0000 2026",
+    "id_str": "2124044033886728272",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "✨",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@roger_kappler Yeah. \n\nThe new user interface will re-render reality in a mind-bending way. Hard to describe, but it’s awesome."
+    },
+    "url": "https://x.com/aelluswamy/status/2124057656398958873",
+    "time": "2026-11-21 16:29",
+    "created_at": "Sat Nov 21 08:29:43 +0000 2026",
+    "id_str": "2124057656398958873",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "SpaceX just launched the USSF-317 national security mission for the U.S. Space Force, and the Falcon 9 booster landed successfully for the 11th time\n\nThis same booster had already completed 10 missions:\n\n• NROL-105\n• USSF-385\n• 8 Starlink missions\n\nAfter launching from Vandenberg Space Force Base, it landed on the Of Course I Still Love You droneship in the Pacific Ocean\n\nThe U.S. Space Force is now launching classified national security missions on rockets that have already flown to space 10 times\n https://x.com/SpaceX/status/2123995383625924847/video/1",
+    "quoted_tweet": null,
+    "url": "https://x.com/XFreeze/status/2124067003636080641",
+    "time": "2026-11-21 17:06",
+    "created_at": "Sat Nov 21 09:06:51 +0000 2026",
+    "id_str": "2124067003636080641",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink helps education",
+    "quoted_tweet": {
+      "author": "X Freeze",
+      "username": "XFreeze",
+      "text": "SpaceX has donated 1,600 Starlink kits to help connect some of Paraguay's most remote schools to high-speed internet 🇵🇾\n\nAnd the rollout has already reached a major milestone!\n\nCOPACO has completed the first phase, connecting 800 schools across Paraguay, and has received another 400 Starlink kits for the next phase\n\nHere's where things stand:\n\n• 800 schools already connected\n• 400 additional kits received for phase two\n• Another 400 planned for the final phase\n• 1,600 schools targeted in total\n• Hospitals and Family Health Units are also part of the broader connectivity plans\n\nThe rollout is reaching communities where traditional broadband has struggled for years\n\nIn the Chaco region alone, 95 schools have been connected, including schools serving Indigenous communities\n\nEvery installation undergoes a 60-item quality inspection, and even the antenna mounts are being manufactured by inmates trained through Paraguay's Ministry of Justice workshops\n\nFor thousands of children growing up in remote communities, this means access to online education, digital learning materials, and opportunities that were previously out of reach\n\nThis is exactly the kind of impact Starlink was built to deliver\n\nConnecting places the rest of the internet infrastructure never reached\n https://x.com/COPACO_SA/status/2123484888083083656/video/1"
+    },
+    "url": "https://x.com/elonmusk/status/2124069585590813180",
+    "time": "2026-11-21 17:17",
+    "created_at": "Sat Nov 21 09:17:07 +0000 2026",
+    "id_str": "2124069585590813180",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink saves lives",
+    "quoted_tweet": {
+      "author": "DogeDesigner",
+      "username": "cb_doge",
+      "text": "Starlink is being deployed to help fight DR Congo’s deadly Ebola outbreak. 🇨🇩\n\nAfrica CDC has donated Starlink kits to health officials in Beni to help frontline teams share critical data in real time and coordinate faster responses, even in remote communities."
+    },
+    "url": "https://x.com/elonmusk/status/2124069831989178660",
+    "time": "2026-11-21 17:18",
+    "created_at": "Sat Nov 21 09:18:05 +0000 2026",
+    "id_str": "2124069831989178660",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Banger",
+    "quoted_tweet": {
+      "author": "Tim Sweeney",
+      "username": "TimSweeneyEpic",
+      "text": "Props to Rockstar, GTA 6 shipped before the Riemann Hypothesis was proven!"
+    },
+    "url": "https://x.com/elonmusk/status/2124070328158900294",
+    "time": "2026-11-21 17:20",
+    "created_at": "Sat Nov 21 09:20:04 +0000 2026",
+    "id_str": "2124070328158900294",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "XV is the beginning of the “super” part of Tesla SI",
+    "quoted_tweet": {
+      "author": "Ashok Elluswamy",
+      "username": "aelluswamy",
+      "text": "XV"
+    },
+    "url": "https://x.com/elonmusk/status/2124071338394399028",
+    "time": "2026-11-21 17:24",
+    "created_at": "Sat Nov 21 09:24:05 +0000 2026",
+    "id_str": "2124071338394399028",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@nikitabier 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124072068006211918",
+    "time": "2026-11-21 17:26",
+    "created_at": "Sat Nov 21 09:26:59 +0000 2026",
+    "id_str": "2124072068006211918",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@xenocosmography 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124075372874764604",
+    "time": "2026-11-21 17:40",
+    "created_at": "Sat Nov 21 09:40:06 +0000 2026",
+    "id_str": "2124075372874764604",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@SamuelAlbanie 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124075852422103241",
+    "time": "2026-11-21 17:42",
+    "created_at": "Sat Nov 21 09:42:01 +0000 2026",
+    "id_str": "2124075852422103241",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@chamath 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124076237501153380",
+    "time": "2026-11-21 17:43",
+    "created_at": "Sat Nov 21 09:43:33 +0000 2026",
+    "id_str": "2124076237501153380",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "we very clearly live in a new world now, and less than 0.001% of the human population understands this.\n\nthe tech tree is about to open up:\na) in ways that sound science fiction to most\nb) much sooner than they believe to be possible\n\n2027-2030 will be a shock to the world.",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "Riemann Hypothesis may have been solved with the help of Claude. “what I saw during the course of progress so amazed me that I believe it is one dawn across science of something\nfar greater.” https://alpo.ge/remark.pdf"
+    },
+    "url": "https://x.com/mckaywrigley/status/2123961058532757790",
+    "time": "2026-11-21 10:05",
+    "created_at": "Sat Nov 21 02:05:52 +0000 2026",
+    "id_str": "2123961058532757790",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins literally us shipping neon this week 😁",
+    "quoted_tweet": null,
+    "url": "https://x.com/vamsibatchuk/status/2123966133766336979",
+    "time": "2026-11-21 10:26",
+    "created_at": "Sat Nov 21 02:26:02 +0000 2026",
+    "id_str": "2123966133766336979",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@vamsibatchuk Neon is 🔥🔥🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2123982523978170848",
+    "time": "2026-11-21 11:31",
+    "created_at": "Sat Nov 21 03:31:10 +0000 2026",
+    "id_str": "2123982523978170848",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I built Blinky - a screenshot organizer that runs fully locally on my mac and is powered by Inkling 2 Mini from @thinkymachines \n\ni like to bookmark things by screenshotting them. but finding and organizing those screenshots gets really annoying\n\nnow with Blinky, Inkling 2 mini runs in the background on my computer and automatically organizes new screenshots for me \n\ninstead of \"Screenshot_2026_01_13_...png\", inkling 2 mini turns it into \"Tweet semiconductor flashcards.png\" with additional metadata and description so I can just search for it by describing it",
+    "quoted_tweet": {
+      "author": "Mira Murati",
+      "username": "miramurati",
+      "text": "Inkling 2 Mini is a looped transformer that runs on a laptop.\n\nLooping lets a model think more and write less. At this scale, its thought process remains monitorable; this may not stay the case. We’re also sharing a variable-loop research model to enable further study."
+    },
+    "url": "https://x.com/0interestrates/status/2123989830447022140",
+    "time": "2026-11-21 12:00",
+    "created_at": "Sat Nov 21 04:00:12 +0000 2026",
+    "id_str": "2123989830447022140",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@0interestrates @thinkymachines I love this!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124003643599032732",
+    "time": "2026-11-21 12:55",
+    "created_at": "Sat Nov 21 04:55:05 +0000 2026",
+    "id_str": "2124003643599032732",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "starting to think we packed too much into this black friday @OpenDesignHQ @OpenDesignDevs \n\nanyway. deepseek first. \nguess how far we're taking it 🐳",
+    "quoted_tweet": null,
+    "url": "https://x.com/Tuola0205/status/2124045492065886232",
+    "time": "2026-11-21 15:41",
+    "created_at": "Sat Nov 21 07:41:22 +0000 2026",
+    "id_str": "2124045492065886232",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "大家想要复刻视频又怕麻烦的可以试试用我们OpenMotion拆解的motion.md，直接丢给你的agent让他发挥 😈😈",
+    "quoted_tweet": {
+      "author": "Charlie",
+      "username": "Charl1ehimself",
+      "text": "LETS CREATE!!!\n\nas promised, here’s the motion.md for my DeepSeek IPO concept film.\n\nif you use it for your own product or project, I’d love to see what you make. quote this post or tag me when you share it.\n\nalso FOLLOW for more motion.mds to share🔥\n\n------------------------------------------------------------\n# DeepSeek IPO · Into the Unknown.\n\nThe Markdown guide for my 52-second unofficial DeepSeek IPO concept film. Recreate it with OpenMotion. https://github.com/nexu-io/openmotion\n\nIn the opening shot, two whales swim inside the outline of the DeepSeek logo. On the downbeat at 20.115 seconds, a blue dot opens to reveal a human eye. Later, that circle becomes a video window beside the words `Open to`. The Hangzhou skyline fills the frame until the camera pulls back and reveals it as one tile in a wall of footage.\n\nFollow the OpenMotion setup instructions for Codex, Claude Code, DeepSeek Harness (DSH), WorkBuddy, or your preferred supported agent. Give it this guide and the prompt below.\n\n## Prompt for OpenMotion\n\n> Start an editable *Into the Unknown.* project in an empty folder using this guide. Download the footage, music, fonts, and DeepSeek SVG using the public sources listed below. Trim each clip to its listed source time range. Build the text, whale mask, depth gauge, sonar window, footage wall, and IPO letter masks as editable elements. Hit the downbeat at 20.115 s. Morph the circle at 28.297 s, pull back from Hangzhou to reveal the wall at 37.388 s, and enter Shanghai at 41.933 s. Include the unofficial concept-film credit on the end card. Export a 52-second, 1920×1080 MP4 at 60 fps with audio. Check the picture and sound against the export checkpoints at the end of this guide.\n\n## Timeline\n\nTime starts at the first frame. The track runs at 132 BPM in 5/4, about 0.455 s per beat. Count the second half from the downbeat at 20.115 s. The sonar montage cuts every two beats. Each `Open to` phrase gets five.\n\n| Time (s) | Picture and on-screen text | Motion and transition |\n| --- | --- | --- |\n| 0–4.400 | A pale blue line draws the whale mark against near-black. Footage of a humpback and her calf (`p002`) fills the outline. The only text beneath it is `DEEPSEEK`. Three sonar rings expand in succession. | At 3.15 s, accelerate into the whale shape. At 3.95 s, place the same footage full-screen behind the mask, at the same source time. |\n| 4.400–9.290 | A whale dives as **How deep** appears in the center. At 6.85 s, cut to shafts of underwater light and add **can curiosity go?** | Center the first phrase on its own. As the second arrives, shift the first left and fade it to half opacity so the whole question sits in the center. The depth ruler starts scrolling on the left. |\n| 9.290–13.950 | **What haven’t** appears over a researcher at a microscope. At 11.62 s, cut to a calculation on a chalkboard and add **we solved yet?** | A diagonal band of light sweeps across the frame as the question enters. Each letter rises into focus, starting 28 ms after the previous one. |\n| 13.950–18.200 | A robotic arm plays chess under **Can a machine**. Cut to hands on a keyboard at 16.30 s and add **learn to reason?** Cut again to a screen of code at 16.72 s. | The question fades. At 18.20 s, the footage drops away and the depth counter at bottom left stops at `10935 m`. |\n| 18.200–20.115 | The music falls nearly silent. From 18.32 s, a blue block cursor types `Unravel the mystery of AGI with curiosity.` at 33 characters per second. | At 19.72 s, the line contracts horizontally, leaving a blue dot at the center. A cool white flash lands on the downbeat at 20.115 s as a circular window expands from the dot to reveal the eye. |\n| 20.115–28.297 | Footage cuts inside a 600 px circular window centered at (960, 500). Behind it sit a blurred copy of the same frame and the outlined words `INTO THE UNKNOWN`. The depth readout resolves to `UNKNOWN`. | The circle pops slightly larger and settles on each cut. The dashed ring turns clockwise and the 72 tick marks turn counterclockwise. A blue progress ring completes one revolution across all nine shots. |\n| 28.297–37.388 | In 0.5 s, the circle moves beside `Open to` and reshapes into a 300×124 px pill. It reveals `researchers.`, then `builders.`, `students.`, and `everyone.` | Each bar starts with three beats of footage. The window narrows as the audience name appears letter by letter. At 36.438 s, the final Hangzhou shot starts expanding to fill the frame behind the text. |\n| 37.388–41.933 | Hangzhou keeps playing as the camera pulls back to reveal it at the center of a wall nine tiles wide and seven high. `HANGZHOU · EST. 2023` appears below. | Pull back from 4× to 0.62×. Tilt the wall 50° around X and rotate it −14° around Z. At 39.658 s, a ripple of light spreads from the center. At 40.683 s, dive toward the tile two places to its right in the same row. |\n| 41.933–46.479 | The Shanghai skyline darkens. The white DeepSeek wordmark wipes on above it, and a line traces upward to the right. **I**, **P**, and **O** rise at 43.05, 43.47, and 43.90 s. A second shot of city lights plays inside the letters. | Begin typing `Answer the essential question with long-termism.` at 44.75 s. In the final 0.55 s, enlarge the letters toward the camera. A cool white flash takes the image into the end card. |\n| 46.479–52.000 | The blue whale mark pops onto a pale blue gradient. At 47.57 s, it slides left as the wordmark wipes on to the right. `Into the Unknown.` appears from 48.05 s, followed by the fine print from 48.70 s. | Hold the card long enough to read. The music starts fading at 50.30 s. The picture starts fading to black at **51.25 s** and reaches full black at 51.95 s. |\n\n## The nine sonar shots\n\nEach shot starts at `20.115 + shot index × 2 × 60 / 132` seconds, counting from zero. Resolve the text to the left of the slash first, then the text to the right. Crop each source to a square. The X and Y values below place the focal point within that square, measured from the top left as fractions of its width and height. Start at 1.07 times the listed zoom and ease back to the listed value over the shot.\n\n| Start (s) | Inside the circle | Final label | Focal point X / Y · base zoom |\n| ---: | --- | --- | --- |\n| 20.115 | `p097` Eye close-up | `DeepSeek-V3 / open weights` | 0.70 / 0.52 · 1.55× |\n| 21.024 | `p223` Half moon | `DeepSeek-R1 / reasoning` | 0.44 / 0.45 · 1.15× |\n| 21.933 | `p019` Jellyfish | `DeepSeek-V3.1 / hybrid thinking` | 0.30 / 0.66 · 1.35× |\n| 22.842 | `p169` Earth’s horizon | `DeepSeek-V3.2 / open source` | 0.66 / 0.40 · 1.35× |\n| 23.751 | `p121` Processor | `DeepSeek-V4 / open source` | 0.50 / 0.52 · 1.15× |\n| 24.660 | `p025` Pink jellyfish | `DeepSeek-V4.1 / Flash` | 0.58 / 0.62 · 1.25× |\n| 25.570 | `p194` Galaxy | `DeepSeek / Harness` | 0.50 / 0.50 · 1.10× |\n| 26.479 | `p083` Moon through a telescope | `API / web search + fetch` | 0.50 / 0.58 · 1.20× |\n| 27.388 | `p089` Iris | The GitHub hostname / `deepseek-ai` | 0.38 / 0.42 · 1.55× |\n\nFor the iris label, set the hostname in lowercase, including its `.com` ending. Hold the circle’s size and position as the iris cuts to the microscope, then reshape it into the pill. The four pills show a microscope (`p038`), programming (`p059`), a classroom (`p098`), and Hangzhou (`p176`). Cue the words at 29.660, 31.933, 34.206, and 36.479 s. Animate `Open to` in once. Keep the line centered as the window narrows and the new word takes up its measured width.\n\n## Picture and sound\n\n- **Type and color.** Use `#03060D` for the background, `#4176E6` for the end-card whale and block cursor, and `#7FA4FF` for the progress ring and the dot that follows the typing. Set the questions in 92 px Montserrat, weight 300 for the first phrase and 600 for the second. Set `Open to` at 110 px, weight 600, and IPO at 440 px, weight 900. Use DM Mono for the depth reading, typed lines, and labels. Use DM Sans as the default typeface. The end-card gradient runs from `#9EBBEA` through `#D6E2F6` to `#F9F8F8`.\n- **Whale and depth gauge.** Clip the opening footage to the whale silhouette. Use the full DeepSeek logo on the end card. The 720 px ruler starts at x=40, y=180 on the left. Place the `DEPTH` readout 72 px from the left and 58 px from the bottom. Leave the other three corners clear. Set the end-card credit to `IPO · A CONCEPT FILM · NOT AFFILIATED WITH DEEPSEEK`.\n- **From Hangzhou to Shanghai.** Keep `p176` on the same playback clock from the last pill into the center tile. Each tile is 480×270 px. Tile centers are 516 px apart horizontally and 306 px vertically, with perspective set to 1600 px. Counting rows and columns from zero, Hangzhou is at (3, 4) and Shanghai at (3, 6). Start `p129` in the target tile 1.4 s before the IPO sequence, then restart that source trim when Shanghai fills the screen. Fill the three IPO letters with `p131` and give them a 2 px white outline. Draw the rising line behind the letters through 41 points.\n- **Score.** Use the first 52 seconds of *Epic Hybrid* as the entire soundtrack. Keep the quiet passage from 18.20 to 20.115 s for the typing. Apply a 1.70 s music fade starting at 50.30 s, then normalize in two passes to −14 LUFS with a −1.5 dBTP true-peak ceiling. Mix in stereo at 48 kHz. Credit the track as *Music by Kulakovka from Pixabay.*\n\n## Adapting the film to your brand\n\n| What to change | How to keep the motion working |\n| --- | --- |\n| Opening and closing logo | Separate the symbol from the wordmark. Aim the opening push-in at a solid area of the symbol. On the end card, adjust how far the symbol slides left to make room for the new wordmark. |\n| Questions, labels, and audiences | Split each question at the shot change. Once the font has loaded, measure the text and recenter the complete line. Each audience name has two beats of reading time after its footage. |\n| Footage | Check the subject in the square crop before applying the circular mask. Allow enough footage in the final audience shot to carry the movement into the wall. |\n| Music | Find the quiet passage and the downbeat in the new track, then retime the nine cuts, four word reveals, and dive into the wall. Adjust the three IPO letter entrances, end-card wordmark, and music fade to their new cues. |\n\n## Public asset downloads\n\nThe 32 Pexels MP4s total about 470 MB. Each entry gives the creator’s page slug and the exact MP4 filename used in the film. For the creator’s page, append the slug and a trailing slash to the Pexels website’s /video/ path. The number at the end of the slug is the video ID. To get Pexels’ default download in a browser, add /download/video/ID/ to the homepage address. The command below prints all the original page and file addresses or downloads the exact renditions used here.\n\n### Music, logo, and fonts\n\n- `epic-hybrid.mp3` — “Epic Hybrid” by Kulakovka, Pixabay Music track 283164. On Pixabay, open /music/upbeat-epic-hybrid-283164/ and choose Download.\n  Pixabay download/audio/2025/01/09/audio_7dd045344c.mp3?filename=kulakovka-epic-hybrid-283164.mp3\n- `deepseek.svg` — The header logo on the official DeepSeek homepage. Select `svg[viewBox=\"0 0 143 23\"]` for the full vector. Its `g path` is the whale silhouette.\n  DeepSeek /\n\nThe four TTFs come from the public google/fonts repository on GitHub. Use Google Fonts revision `06bfe0d62a98375cb09c942fa18e68bd32cff057` and the paths below.\n\n- `Montserrat.ttf` — Variable font for the questions, audience names, and IPO letters.\n  GoogleFonts ofl/montserrat/Montserrat%5Bwght%5D.ttf\n- `DMSans.ttf` — Variable font for the default typeface.\n  GoogleFonts ofl/dmsans/DMSans%5Bopsz,wght%5D.ttf\n- `DMMono-Regular.ttf` — Weight 400 for typed lines, labels, and end-card fine print.\n  GoogleFonts ofl/dmmono/DMMono-Regular.ttf\n- `DMMono-Medium.ttf` — Weight 500 for the depth counter and emphasized labels.\n  GoogleFonts ofl/dmmono/DMMono-Medium.ttf\n\n### 32 Pexels clips\n\nSource trims are in seconds from the start of each downloaded clip. The timeline above gives the edit times. On the Pexels videos subdomain, the direct file path is /video-files/ID/FILENAME.\n\nPrepare a centered 16:9 crop for the full-screen shots, pill inserts, and IPO footage. For each of the nine sonar shots, crop a square with sides equal to the source’s shorter dimension, then resize it to 1080×1080. Set the vertical crop center to 62% of the source height for the moon (`p223`), 55% for the pink jellyfish (`p025`), and 50% for the others. Keep the crop inside the source frame. Sample all footage at 30 fps and render the text, masks, and camera movement at 60 fps.\n\n#### Whales and the three questions\n\n- `p002` — Humpback whale and calf inside the opening logo · Source 10.00–14.80 s · Adrien JACTA  \n  Page a-humpback-whale-and-her-calf-swimming-in-the-blue-sea-15546563  \n  MP4 15546563-hd_1920_1080_25fps.mp4\n- `p000` — Diving whale · Source 3.00–5.80 s · Sébastien Vincon  \n  Page big-animal-swimming-underwater-10377082  \n  MP4 10377082-hd_1920_1080_30fps.mp4\n- `p029` — Shafts of light underwater · Source 2.00–4.80 s · Adrien JACTA  \n  Page serene-sunlit-underwater-seascape-40432354  \n  MP4 17276625_2560_1440_25fps.mp4\n- `p042` — Researchers at a microscope · Source 0.50–3.10 s · Pressmaster  \n  Page scientist-looking-through-a-microscope-while-having-a-discussion-with-her-colleague-3196600  \n  MP4 3196600-hd_1920_1080_25fps.mp4\n- `p055` — Working through an equation on a chalkboard · Source 1.20–3.80 s · Yan Krukau  \n  Page a-man-solving-a-formula-on-the-blackboard-8197039  \n  MP4 8197039-hd_1920_1080_25fps.mp4\n- `p114` — Robotic arm playing chess · Source 1.00–3.60 s · Pavel Danilyuk  \n  Page a-robot-and-a-chessboard-8327795  \n  MP4 8327795-hd_1920_1080_25fps.mp4\n- `p208` — Typing on a keyboard · Source 2.00–2.80 s · Nothing Ahead  \n  Page a-person-typing-on-a-backlit-keyboard-4873235  \n  MP4 4873235-hd_1920_1080_30fps.mp4\n- `p064` — Code on a monitor · Source 2.00–3.80 s · Jakub Zerdzicki  \n  Page modern-programmer-working-on-multiscreen-setup-34268782  \n  MP4 14519249_2560_1440_25fps.mp4\n\n#### Sonar montage\n\n- `p097` — Brown eye in close-up · Source 0.40–1.60 s · Emirhan Emiroğlu  \n  Page close-up-of-a-human-brown-eye-flickering-32198166  \n  MP4 13731731_2560_1440_60fps.mp4\n- `p223` — Half moon · Source 3.00–4.20 s · Septimiu Lupea  \n  Page half-moon-against-black-night-sky-32873862  \n  MP4 14011446_1080_1920_30fps.mp4\n- `p019` — Jellyfish · Source 3.00–4.20 s · Yudha Aprilian  \n  Page jellyfish-under-water-11277955  \n  MP4 11277955-hd_1920_1080_31fps.mp4\n- `p169` — Earth’s horizon · Source 1.00–2.20 s · Kindel Media  \n  Page light-dawn-sky-art-7649279  \n  MP4 7649279-hd_1920_1080_30fps.mp4\n- `p121` — Processor · Source 2.00–3.20 s · Route4Design Agency  \n  Page futuristic-circuit-board-with-central-processor-35977437  \n  MP4 15254965_1920_1080_24fps.mp4\n- `p025` — Pink jellyfish · Source 2.00–3.20 s · Atlantic Ambience  \n  Page jellyfish-swimming-underwater-12860646  \n  MP4 12860646-hd_1080_1920_30fps.mp4\n- `p194` — Galaxy · Source 2.00–3.20 s · Nicola Narracci  \n  Page colorful-galaxies-and-stars-in-cosmic-animation-29823750  \n  MP4 12809737_1920_1080_30fps.mp4\n- `p083` — Moon through a telescope · Source 15.00–16.20 s · Earth Photart  \n  Page crescent-moon-viewed-through-telescope-37723924  \n  MP4 15999003_1080_1920_29fps.mp4\n- `p089` — Iris · Source 0.20–1.40 s · Sasha Poberailo  \n  Page close-up-of-eyes-12271148  \n  MP4 12271148-hd_1920_1080_25fps.mp4\n\n#### The four audiences and the IPO night shots\n\n- `p038` — Researcher at a microscope · Source 0.50–3.10 s · Mikhail Nilov  \n  Page scientists-looking-through-a-microscope-9373536  \n  MP4 9373536-hd_1920_1080_25fps.mp4\n- `p059` — Programming close-up · Source 1.00–3.60 s · Raddy  \n  Page close-up-of-programming-13522169  \n  MP4 13522169-hd_1920_1080_25fps.mp4\n- `p098` — Students in a classroom · Source 1.00–3.60 s · Pavel Danilyuk  \n  Page a-student-returning-an-eraser-8342706  \n  MP4 8342706-hd_1920_1080_25fps.mp4\n- `p176` — Hangzhou at night, continuing into the center tile · Source 1.00–8.00 s · LayG Traveller  \n  Page stunning-night-view-of-hangzhou-skyline-39846097  \n  MP4 16997819_2560_1440_25fps.mp4\n- `p129` — Shanghai at night, continuing into the IPO background · Source 1.50–6.70 s · LayG Traveller  \n  Page stunning-shanghai-skyline-at-night-39410948  \n  MP4 16781501_2560_1440_25fps.mp4\n- `p131` — City lights inside the IPO letters · Source 4.00–9.20 s · xiaobao wei  \n  Page vibrant-night-cityscape-with-colorful-light-show-35335999  \n  MP4 14971661_2560_1440_30fps.mp4\n\n#### Nine additional clips for the footage wall\n\nBuild the wall from the 23 clips above and the nine below. From each source, take a still at `min(2.00 s, source duration ÷ 3)`, then center-crop to 16:9 and resize to 640×360. Sort the 32 short edit IDs (p000 through p223) in ascending numerical order. For row r and column c, use the still at zero-based index `(5r + 3c) mod 32`. Use the moving Hangzhou and Shanghai trims for the center and target tiles.\n\n- `p003` — Humpback whales seen from above · Wall still · Stockfilm (creator name ends in .com)  \n  Page view-from-above-on-humpbacks-11279748  \n  MP4 11279748-hd_1920_1080_30fps.mp4\n- `p012` — A school of fish · Wall still · Cheng  \n  Page a-large-group-of-fish-swimming-in-the-ocean-18568945  \n  MP4 18568945-hd_1080_1920_30fps.mp4\n- `p034` — A swimmer underwater · Wall still · Vladimir Koshenkov  \n  Page man-swimming-underwater-in-blue-sea-water-4749122  \n  MP4 4749122-hd_1920_1080_30fps.mp4\n- `p053` — Writing on a chalkboard · Wall still · Yan Krukau  \n  Page man-writing-on-the-chalkboard-8197042  \n  MP4 8197042-hd_1920_1080_25fps.mp4\n- `p087` — Using a laptop outdoors · Wall still · Pavel Danilyuk  \n  Page a-man-and-a-woman-using-a-laptop-outdoors-9121281  \n  MP4 9121281-hd_1920_1080_25fps.mp4\n- `p139` — Trading screens · Wall still · Rafael Minguet Delgado  \n  Page dynamic-stock-market-charts-displayed-on-screens-38698437  \n  MP4 16438790_2560_1440_50fps.mp4\n- `p151` — Overhead view of diving whales · Wall still · Los Muertos Crew  \n  Page overhead-shot-of-whales-diving-in-the-ocean-8906187  \n  MP4 8906187-hd_1920_1080_24fps.mp4\n- `p164` — Jellyfish · Wall still · João Pavese  \n  Page agua-viva-27303010  \n  MP4 12115929_2560_1440_24fps.mp4\n- `p201` — The Milky Way · Wall still · Borys Zaitsev  \n  Page milky-way-on-space-12336972  \n  MP4 12336972-hd_1920_1028_60fps.mp4\n\n### Save or list the assets\n\nSave the guide as a file named `motion` with the `.md` extension. Run the command from that folder with Python 3 and curl installed. It saves the 38 assets under `deepseek-assets/` and skips completed files when you run it again. To print the public addresses instead, change the command’s first line to `python3 - --list <<'PY'`. To fetch just the opening assets, use `python3 - p002.mp4 deepseek.svg <<'PY'`.\n\n```sh\npython3 - <<'PY'\nfrom concurrent.futures import ThreadPoolExecutor\nfrom os.path import isfile\nfrom pathlib import Path\nfrom re import DOTALL, MULTILINE, findall, search\nfrom subprocess import run\nfrom tempfile import TemporaryDirectory\nimport sys\nimport xml.etree.ElementTree as ET\n\ndef site(*labels):\n    return \"https://\" + \".\".join(labels)\n\nguide = Path(\"motion\").with_suffix(\".md\").read_text(encoding=\"utf-8\")\nrevision = search(r\"Google Fonts revision `?([0-9a-f]{40})\", guide)[1]\nfootage = findall(\n    r\"^[ \\t]*(?:[-*•][ \\t]+)?`?(p\\d{3})`? +—[^\\n]*?\\s+Page ([-\\w]+)\\s+MP4 ([\\w.-]+)\",\n    guide, MULTILINE\n)\nassets = {}\npages = {}\nfor name, slug, filename in footage:\n    video_id = slug.rsplit(\"-\", 1)[1]\n    pages[name + \".mp4\"] = site(\"www\", \"pexels\", \"com\") + \"/video/\" + slug + \"/\"\n    assets[name + \".mp4\"] = site(\"videos\", \"pexels\", \"com\") + f\"/video-files/{video_id}/{filename}\"\n\nbases = {\n    \"Pixabay\": site(\"cdn\", \"pixabay\", \"com\") + \"/\",\n    \"DeepSeek\": site(\"www\", \"deepseek\", \"com\") + \"/\",\n    \"GoogleFonts\": site(\"raw\", \"githubusercontent\", \"com\") + f\"/google/fonts/{revision}/\",\n}\nfor name, source, path in findall(\n    r\"^[ \\t]*(?:[-*•][ \\t]+)?`?([\\w.-]+\\.(?:mp3|svg|ttf))`? +—[^\\n]*?\\s+\"\n    r\"(Pixabay|DeepSeek|GoogleFonts) ((?:download/audio/|ofl/)\\S+|/)(?=\\s|$)\",\n    guide, MULTILINE\n):\n    assets[name] = bases[source] + path.lstrip(\"/\")\n\nif len(footage) != 32 or len(assets) != 38:\n    raise SystemExit(\"Copy the complete guide, including the asset list.\")\nlist_only = \"--list\" in sys.argv[1:]\nnames = [arg for arg in sys.argv[1:] if arg != \"--list\"] or list(assets)\nif any(name not in assets for name in names):\n    raise SystemExit(\"Choose asset names from the list. For footage, add the .mp4 extension.\")\nif list_only:\n    for name in names:\n        print(name, assets[name], pages.get(name, \"\"), sep=\"\\t\")\n    raise SystemExit\n\nfolder = Path(\"deepseek-assets\")\nfolder.mkdir(exist_ok=True)\n\ndef save(name):\n    output = folder / name\n    if isfile(output) and output.stat().st_size:\n        return\n    with TemporaryDirectory(dir=folder) as staging:\n        temp = Path(staging) / name\n        run([\"curl\", \"--fail\", \"--location\", \"--silent\", \"--show-error\",\n             \"--globoff\", \"--connect-timeout\", \"20\", \"--retry\", \"3\",\n             \"--retry-all-errors\", \"--output\", str(temp), assets[name]], check=True)\n        if name == \"deepseek.svg\":\n            with open(temp, encoding=\"utf-8\") as page:\n                html = \"\".join(page)\n            logo = search(r'<svg\\b[^>]*\\bviewBox=\"0 0 143 23\"[^>]*>.*?</svg>', html, DOTALL)\n            if logo is None:\n                raise ValueError(\"Look for the logo SVG in the header of the DeepSeek homepage.\")\n            root = ET.fromstring(logo[0])\n            if root.tag == \"svg\":\n                root.set(\"xmlns\", \"http://\" + \".\".join((\"www\", \"w3\", \"org\")) + \"/2000/svg\")\n            ET.ElementTree(root).write(temp, encoding=\"utf-8\")\n        temp.replace(output)\n        print(name, flush=True)\n\nwith ThreadPoolExecutor(max_workers=4) as pool:\n    downloads = [pool.submit(save, name) for name in names]\n    for download in downloads:\n        download.result()\nPY\n```\n\n## Export checkpoints\n\nExport a landscape H.264 MP4 from OpenMotion at 1920×1080 and 60 fps. The runtime is 52.000 seconds, or 3120 frames. Use stereo AAC at 48 kHz with a target bitrate of 256 kb/s. The original film measures about −14.1 LUFS integrated.\n\n| Film time | What to look or listen for |\n| --- | --- |\n| 2.0 s | On a black background, underwater footage is visible only inside the whale silhouette. The small `DEEPSEEK` label sits below it. |\n| 19.0 → 20.115 s | The depth reading holds at bottom left. The line types out during the quiet passage, contracts to a point of light, and gives way to the first sonar window on the downbeat. |\n| 24.0 s | The processor sits inside the circle. The progress ring is partway around, with outlined type visible behind the footage. |\n| 37.0 → 39.66 s | `Open to everyone.` overlays Hangzhou at night. As the city recedes into the center tile, a ripple of light crosses the tilted wall. |\n| 44.5 s | Shanghai fills the background. A different city-light shot fills all three IPO letters, and the white DeepSeek wordmark is fully visible above. |\n| 49.3 → 52.0 s | The concept-film credit is readable on the pale blue card. Music starts fading at 50.30 s. The picture starts fading at 51.25 s and reaches full black at 51.95 s. |\n\nYou can also star OpenMotion to find the guide collection again."
+    },
+    "url": "https://x.com/tuturetom/status/2124045617693651266",
+    "time": "2026-11-21 15:41",
+    "created_at": "Sat Nov 21 07:41:52 +0000 2026",
+    "id_str": "2124045617693651266",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "黑色星期五 🎯🐳\n第一弹，DeepSeek，即将启动\n大家可以猜猜看能给到多少额度",
+    "quoted_tweet": {
+      "author": "Tuola Ge",
+      "username": "Tuola0205",
+      "text": "starting to think we packed too much into this black friday @OpenDesignHQ @OpenDesignDevs \n\nanyway. deepseek first. \nguess how far we're taking it 🐳"
+    },
+    "url": "https://x.com/tuturetom/status/2124046870091858379",
+    "time": "2026-11-21 15:46",
+    "created_at": "Sat Nov 21 07:46:51 +0000 2026",
+    "id_str": "2124046870091858379",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "$60 in credits? nope.\n$120? nope.\n$240? keep going.\n\nour biggest black friday yet.\n\ndeepseek goes first. soon. 🐳",
+    "quoted_tweet": null,
+    "url": "https://x.com/OpenDesignDevs/status/2124051501899460714",
+    "time": "2026-11-21 16:05",
+    "created_at": "Sat Nov 21 08:05:15 +0000 2026",
+    "id_str": "2124051501899460714",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "大的真的要来了🚀\n\nOpenDesign 年度黑色星期五终极促销🔥💥\n\n这是我们有史以来最大的一次促销力度\n天天有惊喜，天天有福利，好戏即将开场",
+    "quoted_tweet": {
+      "author": "OpenDesign Developers",
+      "username": "OpenDesignDevs",
+      "text": "$60 in credits? nope.\n$120? nope.\n$240? keep going.\n\nour biggest black friday yet.\n\ndeepseek goes first. soon. 🐳"
+    },
+    "url": "https://x.com/tuturetom/status/2124053120783442027",
+    "time": "2026-11-21 16:11",
+    "created_at": "Sat Nov 21 08:11:41 +0000 2026",
+    "id_str": "2124053120783442027",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "Opus 5.5 vs GPT-6.2 Sol + OpenMotion\n\nGTA VI style voxel art inspired by @asynkimo and @semichenkko \n\nsame Vice City idea, same prompt, two very different style\n\nIMO sol took the w for this one\n\nwhich one would you pick? 🌴",
+    "quoted_tweet": {
+      "author": "Kimo",
+      "username": "asynkimo",
+      "text": "You can turn pixel art to any angle with sprite stacking"
+    },
+    "url": "https://x.com/Charl1ehimself/status/2124071341804630096",
+    "time": "2026-11-21 17:24",
+    "created_at": "Sat Nov 21 09:24:05 +0000 2026",
+    "id_str": "2124071341804630096",
+    "is_retweet": true
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "@Charl1ehimself @asynkimo @semichenkko beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/tuturetom/status/2124074035160236452",
+    "time": "2026-11-21 17:34",
+    "created_at": "Sat Nov 21 09:34:48 +0000 2026",
+    "id_str": "2124074035160236452",
+    "is_retweet": false
+  },
+  {
+    "username": "tuturetom",
+    "nickname": "TutureTom",
+    "text": "UNLIMITED DeepSeek V4.1 Flash for 7 days.\n\nSubscribe to annual Go Pro or Go Max to unlock.\nYour 7 days start at purchase.\n\nBLACK FRIDAY — WAVE 1, PERK #1.\n\nOur biggest sale of the year. More waves rolling out over the next two weeks.\nOther Wave 1 offers below ↓",
+    "quoted_tweet": null,
+    "url": "https://x.com/OpenDesignDevs/status/2124094962782577005",
+    "time": "2026-11-21 18:57",
+    "created_at": "Sat Nov 21 10:57:57 +0000 2026",
+    "id_str": "2124094962782577005",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "对于近期梦女针对我的持续骚扰和不实信息，通过恶意炒作获取流量，我此前没有过多回应，是希望保留善意，避免占用公共讨论的空间。\n\n但善意和克制，也需要得到基本的尊重。\n\n目前，我已委托律师事务所处理相关事项，并向有关司法机关反映情况。今后也会通过持续的证据保全和必要的法律程序，依法维护自身合法权益，追究相关梦女的民事与刑事责任。\n\n我尊重正常的讨论与批评，也希望大家尊重事实和个人边界。相关问题交由法律处理，不希望引发对立，只希望厘清事实，让正常生活和公共讨论都少一些无谓的打扰。",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2124013687556165828",
+    "time": "2026-11-21 13:35",
+    "created_at": "Sat Nov 21 05:35:00 +0000 2026",
+    "id_str": "2124013687556165828",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "$1M each. Proud to back great math. 🧮",
+    "quoted_tweet": {
+      "author": "The Justin Sun Prize",
+      "username": "JustinSunPrize",
+      "text": "Two breakthroughs on the Riemann Hypothesis. 🏆\n\nThe Justin Sun Prize will award $1,000,000 to each, pending final verification with our partners.\n\nBig math deserves big recognition.\n\nQuod probatur, solvitur."
+    },
+    "url": "https://x.com/justinsuntron/status/2124036622987710730",
+    "time": "2026-11-21 15:06",
+    "created_at": "Sat Nov 21 07:06:08 +0000 2026",
+    "id_str": "2124036622987710730",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "孙宇晨奖将为黎曼猜想的两项核心成果颁发 100 万美元奖励！",
+    "quoted_tweet": {
+      "author": "孙宇晨奖",
+      "username": "SunPrizeCN",
+      "text": "黎曼猜想迎来两项突破性成果！🏆\n\n待与合作伙伴完成最终核验后， #孙宇晨奖 将为每项成果分别颁发100万美元奖金。\n\n重大数学成果，值得高度认可。\n\n所证即解。"
+    },
+    "url": "https://x.com/justinsuntron/status/2124075117861085388",
+    "time": "2026-11-21 17:39",
+    "created_at": "Sat Nov 21 09:39:06 +0000 2026",
+    "id_str": "2124075117861085388",
+    "is_retweet": false
   }
 ]
