@@ -579,5 +579,105 @@
     "created_at": "Fri Nov 20 22:34:55 +0000 2026",
     "id_str": "2123907972812448007",
     "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Thank you for testing Neon. Glad to see that you like it!",
+    "quoted_tweet": null,
+    "url": "https://x.com/Saboo_Shubham_/status/2123889174264918340",
+    "time": "2026-11-21 05:20",
+    "created_at": "Fri Nov 20 21:20:13 +0000 2026",
+    "id_str": "2123889174264918340",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@brycent @instagram good luck",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2123891182845788254",
+    "time": "2026-11-21 05:28",
+    "created_at": "Fri Nov 20 21:28:12 +0000 2026",
+    "id_str": "2123891182845788254",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Thanks Riley! Yes, we’re committed and rapidly shipping on Antigravity. We’ll win you over with the mobile app 🙂",
+    "quoted_tweet": null,
+    "url": "https://x.com/_mohansolo/status/2123893071964443102",
+    "time": "2026-11-21 05:35",
+    "created_at": "Fri Nov 20 21:35:43 +0000 2026",
+    "id_str": "2123893071964443102",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@khalilcader wen live",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2123893434796929029",
+    "time": "2026-11-21 05:37",
+    "created_at": "Fri Nov 20 21:37:09 +0000 2026",
+    "id_str": "2123893434796929029",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": {
+      "text": "https://t.co/gruj8SX7sk",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2123963094728851457",
+          "display": "pic.x.com/gruj8SX7sk",
+          "original": "https://t.co/gruj8SX7sk",
+          "replacement": "https://x.com/venturetwins/status/2123963101548798206/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2123963101548798206",
+    "time": "2026-11-21 10:13",
+    "created_at": "Sat Nov 21 02:13:59 +0000 2026",
+    "id_str": "2123963101548798206",
+    "is_retweet": false
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "Gemini 促销，从今天起至 11 月 26 日，Google AI Plus 和年度 Pro 计划最高可享 50% 折扣。\n\nhttps://one.google.com/ai?utm_source=g1&utm_medium=organic_social&utm_campaign=early_access_exec&g1_landing_page=75",
+    "quoted_tweet": {
+      "author": "Vikas Kansal",
+      "username": "vikaskansalHQ",
+      "text": "We’re kicking off our Black Friday deals today with early access to our best deals for current AI and storage subscribers: Get up to 50 percent off Google AI Plus and annual Pro plans starting today through 11/26, so you can try out our latest models, including Gemini 4 Hydrogen and 4 Neon, AND get more storage!\n\nNote that your exact offer will depend on your current plan. Terms apply. Check it out here:\n\nhttps://one.google.com/ai?utm_source=g1&utm_medium=organic_social&utm_campaign=early_access_exec"
+    },
+    "url": "https://x.com/dotey/status/2123856308034285930",
+    "time": "2026-11-21 03:09",
+    "created_at": "Fri Nov 20 19:09:37 +0000 2026",
+    "id_str": "2123856308034285930",
+    "is_retweet": true
+  },
+  {
+    "username": "seclink",
+    "nickname": "seclink",
+    "text": "@dotey gemini 确实不错的...",
+    "quoted_tweet": null,
+    "url": "https://x.com/seclink/status/2123932057600737655",
+    "time": "2026-11-21 08:10",
+    "created_at": "Sat Nov 21 00:10:37 +0000 2026",
+    "id_str": "2123932057600737655",
+    "is_retweet": false
   }
 ]
