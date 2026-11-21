@@ -679,5 +679,249 @@
     "created_at": "Sat Nov 21 00:10:37 +0000 2026",
     "id_str": "2123932057600737655",
     "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Wow, this is insane, and complete BS. \n\nI guess this is how they control \"public perception\"?",
+    "quoted_tweet": {
+      "author": "K A L E O",
+      "username": "CryptoKaleo",
+      "text": "This is wild.\n\nNetflix is making SBF & Caroline look like they were pressured and groomed by CZ to commit their crimes.\n\nIt practically frames them as innocent and him as the villain who orchestrated everything.\n\nWhoever wrote this script is shameless."
+    },
+    "url": "https://x.com/cz_binance/status/2123927005863563713",
+    "time": "2026-11-21 07:50",
+    "created_at": "Fri Nov 20 23:50:33 +0000 2026",
+    "id_str": "2123927005863563713",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@cz_binance Wow, they foreign-ized your accent about ~3x more than how I remember you speaking\n\nAlso the whole \"the only reason to go to foreign countries is to be sketchy\" meme\n\nI think we're far enough from woke that it's ok to start using the word \"racist\" again?",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2123942992981672129",
+    "time": "2026-11-21 08:54",
+    "created_at": "Sat Nov 21 00:54:05 +0000 2026",
+    "id_str": "2123942992981672129",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I think trying to track how much work AI can do autonomously is critical, and this is a useful counter to some of the most audacious claims about the state of autonomous AI research. But I do want to note that the focus on research tasks at the most advanced AI research organizations on the planet also runs the risk of substantially underestimating what AI can already do in terms of economically valuable tasks. Its worth separating the two (and I don't think Ramez is claiming they are not seperated).\n\nMost work is not frontier AI research, and there AI can be tremendously successful. Epoch's MirrorCode results, for example, show AI autonomously reimplementing software that the researchers estimate would take a humans 2-17 weeks. This is well-specified work, so it has very different boundary conditions.\n\nPlus, in the real world, some human intervention is fine (in my mind, vastly preferrable to no human role for a variety of reasons). Occasional guidance can still leave you with enormous productivity gains, even if that doesn’t satisfy the requirements for fully autonomous AI research. And even in the case of AI research, the same OpenAI report includes researchers estimating that a month of their team’s work would have taken three months without coding agents, on average.\n\nIn short, RSI/AI-driven research progress may not tightly couple with progress on economically valuable tasks, and the variance and range on those tasks are less well understood.",
+    "quoted_tweet": {
+      "author": "Ramez Naam",
+      "username": "ramez",
+      "text": "New from me: The most important graphs in AI are wrong. Specifically, measures of the length of task AIs can autonomously accomplish are dramatically different than real-world data from inside OpenAI and Google. 🧵 \nhttps://www.rameznaam.com/p/the-most-important-charts-in-ai-are"
+    },
+    "url": "https://x.com/emollick/status/2123972584400204199",
+    "time": "2026-11-21 10:51",
+    "created_at": "Sat Nov 21 02:51:40 +0000 2026",
+    "id_str": "2123972584400204199",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Same thread",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "This never gets old (& also shows how hard forecasting AI is even for AI)\n\n“Hey Claude Fable & GPT-6 Astra, Without looking anything up, when do you think we will solve the Exponential Time Hypothesis?” (I only show part of the answers for space)"
+    },
+    "url": "https://x.com/emollick/status/2123975764664066542",
+    "time": "2026-11-21 11:04",
+    "created_at": "Sat Nov 21 03:04:18 +0000 2026",
+    "id_str": "2123975764664066542",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You might be one of the ChatGPT Plus users getting dots this week. Until now they were only on Pro and Business plans.\n\nA dot is ChatGPT with its own computer and browser. It connects to your apps, keeps working after you close the chat, and brings you things you didn't ask for.\n\nThat last part is the catch. The replies under this post are already full of people worried about their limits. A dot without rules turns into a notification machine.\n\nOpenAI built the fix in: Custom Rules for what it does alone, what needs your OK, and what it never touches. Most people skip them.\n\n3 prompts to set one up right on day one:\n\nPrompt 1: The job description\n\"You're my dot. Your one job: [goal, e.g. no client email waits more than 24 hours]. Watch only these apps: [list]. Bring me something only when it changes a decision I need to make today. Everything else goes into one summary at [time]. Before you start, ask me 3 questions about what I'd consider noise.\"\n\nPrompt 2: The rules\n\"Write my Custom Rules as three lists. Do alone: read, sort, draft. Ask me first: anything sent to another person, anything that costs money, anything that changes a file other people use. Never: passwords, payments, deleting, anything outside [apps]. Show me tasks that fit two lists and put each in the stricter one.\"\n\nPrompt 3: The Friday review\n\"List everything you did this week. Mark each one: saved me time, I ignored it, or I had to fix it. Drop the bottom third from your job next week and tell me what you'll stop doing.\"\n\nNo dot yet? Prompts 1 and 3 work today as a ChatGPT scheduled task.\n\nMore agent setup prompts in the God of Prompt library, free. Link in the reply.\n\nWould you let an AI message you first, or is that where you draw the line?",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "Heads up, we’re starting to test dots with a small number of ChatGPT Plus users. Looking forward to the continued feedback as we expand and I’m recently seeing a lot more positives around how good the proactivity has been after many improvements. \n\nWe’re also bringing dots to all ChatGPT Business Standard users. Rollout will start today."
+    },
+    "url": "https://x.com/godofprompt/status/2123884112834687418",
+    "time": "2026-11-21 05:00",
+    "created_at": "Fri Nov 20 21:00:07 +0000 2026",
+    "id_str": "2123884112834687418",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2123884124993999023",
+    "time": "2026-11-21 05:00",
+    "created_at": "Fri Nov 20 21:00:09 +0000 2026",
+    "id_str": "2123884124993999023",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 这是一回事么？只要下雨怎么归因都对？写的时候遇见了黄仁勋事件？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rainnystone/status/2123916689469517827",
+    "time": "2026-11-21 07:09",
+    "created_at": "Fri Nov 20 23:09:33 +0000 2026",
+    "id_str": "2123916689469517827",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Rainnystone 具体发生什么事情重要吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123918131295031746",
+    "time": "2026-11-21 07:15",
+    "created_at": "Fri Nov 20 23:15:17 +0000 2026",
+    "id_str": "2123918131295031746",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 当然，整个事情起点是中期选举，并且由黄仁勋事件发酵推到现在的位置。整个事情围绕着数据中心的建设与否，还有 Neo Cloud 的流动性迅速扩展到整个行业，我自己都在🈳美股。到这一切都动因和你的整个分析逻辑真的有关吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Rainnystone/status/2123922054462534037",
+    "time": "2026-11-21 07:30",
+    "created_at": "Fri Nov 20 23:30:53 +0000 2026",
+    "id_str": "2123922054462534037",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Rainnystone 是否有关我不知道\n我不参与交易\n只是表达我的感受和观点",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123922724338975074",
+    "time": "2026-11-21 07:33",
+    "created_at": "Fri Nov 20 23:33:32 +0000 2026",
+    "id_str": "2123922724338975074",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@op7418 不会真的上市即巅峰吧",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2123949973150773678",
+    "time": "2026-11-21 09:21",
+    "created_at": "Sat Nov 21 01:21:49 +0000 2026",
+    "id_str": "2123949973150773678",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "This smartwatch has a tentacle? What other uses can you think of for this thing?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2123985551472935420",
+    "time": "2026-11-21 11:43",
+    "created_at": "Sat Nov 21 03:43:11 +0000 2026",
+    "id_str": "2123985551472935420",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "In Codex, we use a WebSocket for model requests, to send data incrementally over time.\n\nWe’ve now increased the WebSocket size limit from 16 to 128 MB (8x), so large turns avoid falling back to HTTP (bad!).\n\nAnd if a request _does_ go over the limit, it’s now ~5x faster.",
+    "quoted_tweet": null,
+    "url": "https://x.com/charliermarsh/status/2123849871480463669",
+    "time": "2026-11-21 02:44",
+    "created_at": "Fri Nov 20 18:44:03 +0000 2026",
+    "id_str": "2123849871480463669",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@charliermarsh Actual engineering going on here.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123859787079426435",
+    "time": "2026-11-21 03:23",
+    "created_at": "Fri Nov 20 19:23:27 +0000 2026",
+    "id_str": "2123859787079426435",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Team is locked in, upgrade your desktop app. Faster, simpler and a lot more pleasant to use.",
+    "quoted_tweet": {
+      "author": "Andrew Ambrosino",
+      "username": "ajambrosino",
+      "text": "NEW:  \n\n- ChatGPT Space for Plus! \n- new, simpler visual design across the app \n- huge performance improvements everywhere \n- completely rebuilt threads– better perf and design \n- redesigned Space home \n- much faster pages and slides \n- edit pages on mobile \n- more reliable Codex Remote  \n\nmuch more to come soon!"
+    },
+    "url": "https://x.com/thsottiaux/status/2123861214644347122",
+    "time": "2026-11-21 03:29",
+    "created_at": "Fri Nov 20 19:29:07 +0000 2026",
+    "id_str": "2123861214644347122",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "First tweet from Akshay. Be nice to this one, he’s special.",
+    "quoted_tweet": {
+      "author": "Akshay Nathan",
+      "username": "akshaynathan_",
+      "text": "chatgpt app should feel much smoother. let us know where we can improve, lots more to do!"
+    },
+    "url": "https://x.com/thsottiaux/status/2123864112694509995",
+    "time": "2026-11-21 03:40",
+    "created_at": "Fri Nov 20 19:40:38 +0000 2026",
+    "id_str": "2123864112694509995",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@DallenFrutchey IS THIS HOW WE COMMUNICATE NOW?",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123867163345961285",
+    "time": "2026-11-21 03:52",
+    "created_at": "Fri Nov 20 19:52:45 +0000 2026",
+    "id_str": "2123867163345961285",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "T3 aquired",
+    "quoted_tweet": null,
+    "url": "https://x.com/maria_rcks/status/2123880105365885214",
+    "time": "2026-11-21 04:44",
+    "created_at": "Fri Nov 20 20:44:11 +0000 2026",
+    "id_str": "2123880105365885214",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@maria_rcks Maria please, multiple investors have asked me about this 💀",
+    "quoted_tweet": null,
+    "url": "https://x.com/theo/status/2123885732330885417",
+    "time": "2026-11-21 05:06",
+    "created_at": "Fri Nov 20 21:06:33 +0000 2026",
+    "id_str": "2123885732330885417",
+    "is_retweet": true
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@theo @maria_rcks But is it true",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123901067272618336",
+    "time": "2026-11-21 06:07",
+    "created_at": "Fri Nov 20 22:07:29 +0000 2026",
+    "id_str": "2123901067272618336",
+    "is_retweet": false
   }
 ]
