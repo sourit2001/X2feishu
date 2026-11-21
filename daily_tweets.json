@@ -854,5 +854,71 @@
     "created_at": "Sat Nov 21 09:39:06 +0000 2026",
     "id_str": "2124075117861085388",
     "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It is amazing that human language turned out to be so unreasonably effective at modeling the universe that training a system to predict what comes next in a sentence would get us this far.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124010579836768572",
+    "time": "2026-11-21 13:22",
+    "created_at": "Sat Nov 21 05:22:39 +0000 2026",
+    "id_str": "2124010579836768572",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Big win for the humanities. And the math people thought they had the key to everything.\n\n(Yes, yes, matrix multiplication is impressive, but it wouldn’t matter if it weren’t being done on representations of language. And their textbooks were written in words anyway.)",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124011965605380422",
+    "time": "2026-11-21 13:28",
+    "created_at": "Sat Nov 21 05:28:09 +0000 2026",
+    "id_str": "2124011965605380422",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick That's what pretraining does, but RL is more centrally important to progress in math.",
+    "quoted_tweet": null,
+    "url": "https://x.com/JacksonKernion/status/2124012491097423948",
+    "time": "2026-11-21 13:30",
+    "created_at": "Sat Nov 21 05:30:14 +0000 2026",
+    "id_str": "2124012491097423948",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@JacksonKernion You’d know better than me! Though I’d still argue that RL works because it starts from a model that learned to reason from human text, and the reasoning it reinforces is in words (for now?). I'll still rate it a win for human language.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124015172130161067",
+    "time": "2026-11-21 13:40",
+    "created_at": "Sat Nov 21 05:40:53 +0000 2026",
+    "id_str": "2124015172130161067",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "Hulten's theorem(赫尔滕定理)：\n\n某个行业效率提高了，整个经济因此多出来的产出，大约等于「这个行业的销售额占 GDP 的比例」乘以「它效率提高的幅度」。\n\n举个例子：\n\n假设电力行业的销售额相当于 GDP 的 3%。某天电力行业的成本下降了 10%，也就是同样的投入能多发 10% 的电。\n\n那么整个经济的产出大约增加：\n\n3% × 10% = 0.3%",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2123961843995603224",
+    "time": "2026-11-21 10:08",
+    "created_at": "Sat Nov 21 02:08:59 +0000 2026",
+    "id_str": "2123961843995603224",
+    "is_retweet": false
+  },
+  {
+    "username": "lijigang",
+    "nickname": "李继刚",
+    "text": "「信息」能不能传播，看「新奇度」。\n「模型」能不能传播，看「普适度」。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lijigang/status/2123992550411214938",
+    "time": "2026-11-21 12:11",
+    "created_at": "Sat Nov 21 04:11:00 +0000 2026",
+    "id_str": "2123992550411214938",
+    "is_retweet": false
   }
 ]
