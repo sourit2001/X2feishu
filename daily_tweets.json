@@ -235,5 +235,138 @@
     "created_at": "Sat Nov 21 15:24:41 +0000 2026",
     "id_str": "2124162086892982578",
     "is_retweet": false
+  },
+  {
+    "username": "drfeifei",
+    "nickname": "李飞飞",
+    "text": "Week One at AMD accomplished! As I have always said, AI is compute, compute is AI. LFG!🚀 @AMD @theworldlabs",
+    "quoted_tweet": null,
+    "url": "https://x.com/drfeifei/status/2124199134118948957",
+    "time": "2026-11-22 01:51",
+    "created_at": "Sat Nov 21 17:51:53 +0000 2026",
+    "id_str": "2124199134118948957",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "We really are in a (temporary?) place where a combination of expertise and being able to work with AI allows people to do incredible things. It is no coincidence that people proving Millennium Problems have all been great mathematicians, the models can't (yet) do it on their own",
+    "quoted_tweet": {
+      "author": "Kevin A. Bryan",
+      "username": "Afinetheorem",
+      "text": "Today in AI as complements: the Harvard valedictorian, Princeton PhD, HSF, who went into AI after working on Riemann for years, solved it. I didn't, you didn't, the other folks at the labs didn't. \n\nHuman judgement about what is worthwhile, what is verified, what is possible..."
+    },
+    "url": "https://x.com/emollick/status/2124173181065806006",
+    "time": "2026-11-22 00:08",
+    "created_at": "Sat Nov 21 16:08:46 +0000 2026",
+    "id_str": "2124173181065806006",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 我用 neon 写小说，把我感动的流泪了😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/skeleton159357/status/2124015542193496377",
+    "time": "2026-11-21 13:42",
+    "created_at": "Sat Nov 21 05:42:22 +0000 2026",
+    "id_str": "2124015542193496377",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "市场看着还不够恐慌啊，只有晒亏损和段子，还没有割肉，浮亏不是亏。\n\n不过机会快来了，一些标的性价比已经出来了。\n\n比如之前关注的pl什么的一堆，大时代电视剧说的好啊，股票啊，就是人弃我取",
+    "quoted_tweet": null,
+    "url": "https://x.com/retiredxu/status/2124026609779020043",
+    "time": "2026-11-21 14:26",
+    "created_at": "Sat Nov 21 06:26:20 +0000 2026",
+    "id_str": "2124026609779020043",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@skeleton159357 文字之美",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124027327902634233",
+    "time": "2026-11-21 14:29",
+    "created_at": "Sat Nov 21 06:29:12 +0000 2026",
+    "id_str": "2124027327902634233",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@retiredxu 没感觉到恐慌吧 只看到抄底的欲望",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124030208428986573",
+    "time": "2026-11-21 14:40",
+    "created_at": "Sat Nov 21 06:40:38 +0000 2026",
+    "id_str": "2124030208428986573",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "相比 AI 证明黎曼猜想\n1859年提出黎曼猜想的那个人类更令人惊叹啊",
+    "quoted_tweet": {
+      "author": "Yuri Sagalov",
+      "username": "yuris",
+      "text": "Assuming the Riemann hypothesis proof is real, I think it says something remarkable about human creativity/ingenuity that one person in 1859 could pose a question that would take 250,000 pages to answer."
+    },
+    "url": "https://x.com/oran_ge/status/2124036780135780840",
+    "time": "2026-11-21 15:06",
+    "created_at": "Sat Nov 21 07:06:45 +0000 2026",
+    "id_str": "2124036780135780840",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@yuris AI is awesome. Humans are more so in some ways.",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124038657741049987",
+    "time": "2026-11-21 15:14",
+    "created_at": "Sat Nov 21 07:14:13 +0000 2026",
+    "id_str": "2124038657741049987",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这是我今天读到的最美的一段文字\n\nhttps://x.com/livelikebruce/status/2123821553444155458?a=IhcghvGRcBxgqiUL_rU&s=46",
+    "quoted_tweet": {
+      "author": "ItsOkayStudio",
+      "username": "livelikebruce",
+      "text": "Incredible. Right now I’m thinking about  something that sometimes gets missed in the excitement around AI. \n\nIn 1859, Riemann had no computers, No ability to examine trillions of zeros. No modern computational tools. He was working with mathematical structures that cannot be directly perceived by the senses.\n\nAnd somehow, through abstraction, intuition, and mathematical reasoning, he identified a possible structural truth about an infinite mathematical landscape.\n\nIn other words, he proposed something about infinity using a finite human mind.\n\nNow, 167 years later, we’re at the point where an AI, supported by an extraordinary accumulation of human mathematical knowledge, can establish that his intuition was correct.\n\nThat’s pure poetry.\n\nWe tend to frame advanced AI as evidence of how limited human intelligence is. But this would also demonstrate something astonishing about our intelligence: the human mind can sometimes recognize the architecture of a truth long before it possesses the means to prove it.\n\nThe machine may ultimately establish the proof. But it was a human who first saw where to look.\n\nWe should marvel at the intelligence capable of confirming such a truth. But we should be equally astonished by the intelligence that could conceive of it 167 years earlier.\n\nThat’s an extraordinary reason to be encouraged about our species.\n\nAnd perhaps a reminder that our greatest intellectual achievement isn’t necessarily finding answers. Sometimes it’s our seemingly inexplicable ability to ask precisely the right question."
+    },
+    "url": "https://x.com/oran_ge/status/2124045636106584174",
+    "time": "2026-11-21 15:41",
+    "created_at": "Sat Nov 21 07:41:57 +0000 2026",
+    "id_str": "2124045636106584174",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "We’ve been messing around a bit and inadvertently created an experience that’s a bit too fun internally and now everyone is just having fun instead of working. We might not recover from this.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123997735326232775",
+    "time": "2026-11-21 12:31",
+    "created_at": "Sat Nov 21 04:31:36 +0000 2026",
+    "id_str": "2123997735326232775",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@DylanMcD8 DYLAN, HI! 👋",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2123998117561532424",
+    "time": "2026-11-21 12:33",
+    "created_at": "Sat Nov 21 04:33:07 +0000 2026",
+    "id_str": "2123998117561532424",
+    "is_retweet": false
   }
 ]
