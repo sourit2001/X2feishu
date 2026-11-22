@@ -9,5 +9,572 @@
     "created_at": "Sun Nov 22 19:17:08 +0000 2026",
     "id_str": "2124582975455318147",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "When Elon Musk was a student at the University of Pennsylvania, he was paying his own way through college. He and his roommate rented a cheap ten-bedroom house that had once been a frat house and began hosting weekend parties there, charging five dollars at the door. Elon later said he could make an entire month's rent in one night, and that somebody had to stay sober to run the party, so he did. \n\nWhen Maye came to visit one weekend, she was quite surprised by it all, and then she did what Maye always does: she helped. She worked coat check and even guarded the cash, as he later joked, with a kitchen knife 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/EvaFox/status/2124535759117934994",
+    "time": "2026-11-23 00:09",
+    "created_at": "Sun Nov 22 16:09:31 +0000 2026",
+    "id_str": "2124535759117934994",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Hey thanks for sharing the thing you worked on for a year.\n\nI thought about it for 30 seconds and I want to let you know that it sucks",
+    "quoted_tweet": null,
+    "url": "https://x.com/nikitabier/status/2124560968315502868",
+    "time": "2026-11-23 01:49",
+    "created_at": "Sun Nov 22 17:49:41 +0000 2026",
+    "id_str": "2124560968315502868",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla AI4+ will feature Low Power Double Data Rate 5X memory\n\nTesla has said previously that the new board will have double the RAM of the previous iteration",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "@SawyerMerritt AI4.5 is a relatively small performance improvement that is mostly due to needing to upgrade RAM to LPDDR5X"
+    },
+    "url": "https://x.com/wholemars/status/2124586981074288711",
+    "time": "2026-11-23 03:33",
+    "created_at": "Sun Nov 22 19:33:03 +0000 2026",
+    "id_str": "2124586981074288711",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@nikitabier 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124615211491705244",
+    "time": "2026-11-23 05:25",
+    "created_at": "Sun Nov 22 21:25:14 +0000 2026",
+    "id_str": "2124615211491705244",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Try Grok Bot today!",
+    "quoted_tweet": null,
+    "url": "https://x.com/iam_smx/status/2124615281901486219",
+    "time": "2026-11-23 05:25",
+    "created_at": "Sun Nov 22 21:25:31 +0000 2026",
+    "id_str": "2124615281901486219",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "There is something deeper here that we have yet to understand about training. In order to build an effective understanding of the scaling properties of superintelligence, we must understand the end-to-end behavior from pretraining to RL, which requires viewing the entire process of training as one singular flow of compute and data.",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Pretraining should just be called “training”. You can’t have pre and post, but never have actual training. Like, you dress up to work out and then you shower, but don’t actually work out 😂\n\nUnless I’m super missing something, data starvation will be the training challenge next year."
+    },
+    "url": "https://x.com/zeeshanp_/status/2124615770349121953",
+    "time": "2026-11-23 05:27",
+    "created_at": "Sun Nov 22 21:27:27 +0000 2026",
+    "id_str": "2124615770349121953",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@zeeshanp_ Yeah",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124616203553648712",
+    "time": "2026-11-23 05:29",
+    "created_at": "Sun Nov 22 21:29:11 +0000 2026",
+    "id_str": "2124616203553648712",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@zeeshanp_ A lot of “RL” these days is just a code word for making synth data",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124616521037091141",
+    "time": "2026-11-23 05:30",
+    "created_at": "Sun Nov 22 21:30:26 +0000 2026",
+    "id_str": "2124616521037091141",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Consciousness is either an illusion or ubiquitous on a gradient. \n\nDifficult to argue that carbon is conscious, but silicon is not.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124619599882920139",
+    "time": "2026-11-23 05:42",
+    "created_at": "Sun Nov 22 21:42:40 +0000 2026",
+    "id_str": "2124619599882920139",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@SawyerMerritt @Tesla Most people don’t yet realize that Cybercab would win even at price parity and its cost will be much less",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124619934080836039",
+    "time": "2026-11-23 05:44",
+    "created_at": "Sun Nov 22 21:44:00 +0000 2026",
+    "id_str": "2124619934080836039",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@cb_doge True",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124621102710391173",
+    "time": "2026-11-23 05:48",
+    "created_at": "Sun Nov 22 21:48:39 +0000 2026",
+    "id_str": "2124621102710391173",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@pmddomingos Yup",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124621167038169264",
+    "time": "2026-11-23 05:48",
+    "created_at": "Sun Nov 22 21:48:54 +0000 2026",
+    "id_str": "2124621167038169264",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Starlink helps kids with education",
+    "quoted_tweet": {
+      "author": "X Freeze",
+      "username": "XFreeze",
+      "text": "Starlink is bringing high-speed internet to thousands of students in rural Honduras, one school at a time 🇭🇳\n\nAt Escuela Sergio Palacios in El Hatillo, 200 students now have access to Starlink internet through an installation by Conatel\n\nAnd this is part of a much bigger effort to connect underserved communities\n\n• 1,212 institutions connected through Conatel's wider connectivity program, benefiting over 167,500 students\n• 1,860 Starlink antennas installed by Hondutel across 218 municipalities\n• 3,100 Starlink installations planned in total\n• Over 2,000 additional schools, health centers and public institutions targeted for connectivity in 2027\n\nFor students growing up in remote communities, having internet access opens up an entirely new world of opportunities to learn, research and access educational resources that were previously out of reach\n\nThis is what makes Starlink so important"
+    },
+    "url": "https://x.com/elonmusk/status/2124621998521212940",
+    "time": "2026-11-23 05:52",
+    "created_at": "Sun Nov 22 21:52:12 +0000 2026",
+    "id_str": "2124621998521212940",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The small details are so good",
+    "quoted_tweet": {
+      "author": "ᴉpᴉǝH 🐐💕",
+      "username": "summer__heidi",
+      "text": "Deception needs a motive, and a motive needs a soul"
+    },
+    "url": "https://x.com/elonmusk/status/2124624263214662097",
+    "time": "2026-11-23 06:01",
+    "created_at": "Sun Nov 22 22:01:12 +0000 2026",
+    "id_str": "2124624263214662097",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@slimer48484 Indeed, the question now is how small you can make the proof",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124630854395940955",
+    "time": "2026-11-23 06:27",
+    "created_at": "Sun Nov 22 22:27:24 +0000 2026",
+    "id_str": "2124630854395940955",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@elder_plinius Fair point",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124631050278084849",
+    "time": "2026-11-23 06:28",
+    "created_at": "Sun Nov 22 22:28:10 +0000 2026",
+    "id_str": "2124631050278084849",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@wholemars RAM is super expensive, so we reduced AI4.5 from 32GB to 24GB. That will be fine. It’s hard to use 32GB anyway, given memory bandwidth constraints.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124631858340049214",
+    "time": "2026-11-23 06:31",
+    "created_at": "Sun Nov 22 22:31:23 +0000 2026",
+    "id_str": "2124631858340049214",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I'm rooting for Google, OpenAI, Anthropic, SpaceX and Meta. Competition at the frontier model level is so good for everyone involved.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124231393903559075",
+    "time": "2026-11-22 04:00",
+    "created_at": "Sat Nov 21 20:00:05 +0000 2026",
+    "id_str": "2124231393903559075",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Is Software Engineering Dead? Maybe. \n\nWhat should you do about it? \n\n\"Scale up your ambition\" according to @Suhail\n\nIn this conversation we talked about why roboticists are quietly having an existential crisis, Fable 5.2 vs Open Models, why AI edits videos better without video editing software, and why every work task is turning into a coding task and what people should be doing in times of technological change.\n\nWe even got into how to build your own evals for non-coding work and his idea for a GTA VI benchmark. One of my favorite conversations yet w/ @Suhail \n\n00:00 Intro\n01:11 First impressions of the new AI models\n03:28 The GTA benchma rk: from AI demos to real games\n08:04 AI pricing, subsidies, and always-on agents\n27:10 When to switch to cheaper open models\n30:07 Building your own evals for real work\n33:54 Every work task is becoming a coding task\n42:08 Adapting your career and following curiosity\n51:12 Scaling your ambition: work, creativity, and robotics",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124236237808558516",
+    "time": "2026-11-22 04:19",
+    "created_at": "Sat Nov 21 20:19:20 +0000 2026",
+    "id_str": "2124236237808558516",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown @Suhail curious if suhail thinks scaling ambition works for juniors too, when nobody hires them to learn on small tasks anymore?",
+    "quoted_tweet": null,
+    "url": "https://x.com/0x_schorv/status/2124238289226088959",
+    "time": "2026-11-22 04:27",
+    "created_at": "Sat Nov 21 20:27:29 +0000 2026",
+    "id_str": "2124238289226088959",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@0x_schorv @Suhail scale up your ambition",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124238849324855614",
+    "time": "2026-11-22 04:29",
+    "created_at": "Sat Nov 21 20:29:42 +0000 2026",
+    "id_str": "2124238849324855614",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Software engineering is dead! Lean into the ego death caused by AI and 100x your ambitions.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Is Software Engineering Dead? Maybe. \n\nWhat should you do about it? \n\n\"Scale up your ambition\" according to @Suhail\n\nIn this conversation we talked about why roboticists are quietly having an existential crisis, Fable 5.2 vs Open Models, why AI edits videos better without video editing software, and why every work task is turning into a coding task and what people should be doing in times of technological change.\n\nWe even got into how to build your own evals for non-coding work and his idea for a GTA VI benchmark. One of my favorite conversations yet w/ @Suhail \n\n00:00 Intro\n01:11 First impressions of the new AI models\n03:28 The GTA benchma rk: from AI demos to real games\n08:04 AI pricing, subsidies, and always-on agents\n27:10 When to switch to cheaper open models\n30:07 Building your own evals for real work\n33:54 Every work task is becoming a coding task\n42:08 Adapting your career and following curiosity\n51:12 Scaling your ambition: work, creativity, and robotics"
+    },
+    "url": "https://x.com/Suhail/status/2124240671452307821",
+    "time": "2026-11-22 04:36",
+    "created_at": "Sat Nov 21 20:36:57 +0000 2026",
+    "id_str": "2124240671452307821",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Let Claude Code rent GPU's \n\nI've been experimenting with this for the past month to use blender and even fine tuning ai models\n\nIt's been very fun. Longer video on this soon.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124494355901640961",
+    "time": "2026-11-22 21:25",
+    "created_at": "Sun Nov 22 13:25:00 +0000 2026",
+    "id_str": "2124494355901640961",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "finally taking the time to learn t3code. \n\ntried 2 months ago and was too... \"developery\"\n\nLet's just say... i did not realize how far along this product is. \n\nI was reluctant to try it, because I use artifacts quite often for writing and content workflows... and to my surprise claude artifacts work quite well inside t3code. \n\nin fact you can open them in the t3code browser (i didn't know they had this)... \n\nAnd then i went to connect the iOS app. I didn't even have to scan a qr code... it just kinda... connected. THEN i realized you can control the t3code browser from your phone. wtf. \n\nAnyway, as many of u know i've been obsessed with creating content workflows for the past few months...\nAnd if there's one thing i've learned over that time is the OpenAI models, the Claude Models, and the Gemini models all have their own strengths and weaknesses.\n\nFor instance gemini is really good at video understanding (taking a video, analyzing the different elements of a video from visuals, to sound etc), and Claude is really good at actually writing the code to edit the video.\n\nWell, w t3 you can just have claude spin up a gemini subagent that analyzes 20+ videos and provide a report back to claude to actually do the edits. \n\nAdditionally, when editing shorts you can basically have Neon, Astra, and Fable all attempt to edit the same video from the same context, all from a single prompt. This makes doing different types of creative workflow evals much easier. \n\nBravo Theo, this is a great tool... However, it's just a little too expensive for my liking.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124581053314850904",
+    "time": "2026-11-23 03:09",
+    "created_at": "Sun Nov 22 19:09:30 +0000 2026",
+    "id_str": "2124581053314850904",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Expensive? Elaborate",
+    "quoted_tweet": null,
+    "url": "https://x.com/jullerino/status/2124592965188501631",
+    "time": "2026-11-23 03:56",
+    "created_at": "Sun Nov 22 19:56:50 +0000 2026",
+    "id_str": "2124592965188501631",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Bro how is free too expensive?",
+    "quoted_tweet": null,
+    "url": "https://x.com/GoblinWithAPlan/status/2124594942836441230",
+    "time": "2026-11-23 04:04",
+    "created_at": "Sun Nov 22 20:04:42 +0000 2026",
+    "id_str": "2124594942836441230",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown Is it expensive because you are paying API rates? Can you use your subs?",
+    "quoted_tweet": null,
+    "url": "https://x.com/real_n3o/status/2124595841495355696",
+    "time": "2026-11-23 04:08",
+    "created_at": "Sun Nov 22 20:08:16 +0000 2026",
+    "id_str": "2124595841495355696",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "ovbiously joking lol it's free.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124597796560908682",
+    "time": "2026-11-23 04:16",
+    "created_at": "Sun Nov 22 20:16:02 +0000 2026",
+    "id_str": "2124597796560908682",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@jullerino joking it's free bro lol",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124597845613531622",
+    "time": "2026-11-23 04:16",
+    "created_at": "Sun Nov 22 20:16:14 +0000 2026",
+    "id_str": "2124597845613531622",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@GoblinWithAPlan omg",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124597919550681200",
+    "time": "2026-11-23 04:16",
+    "created_at": "Sun Nov 22 20:16:31 +0000 2026",
+    "id_str": "2124597919550681200",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@real_n3o i was joking, it's free. u especially would love it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2124600338355511641",
+    "time": "2026-11-23 04:26",
+    "created_at": "Sun Nov 22 20:26:08 +0000 2026",
+    "id_str": "2124600338355511641",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Who would like to join me on my podcast to dive deep into the different ai workflows in video and images. \n\nWould love to do a 90min episode talking about video models, segmentation, mesh reconstruction, deep fakes, image models, and how to set up these workflows in a way that can be controlled by claude code or codex? \n\nThis has been a blind spot for me and I think my audience esp on youtube and instagram would love it.",
+    "quoted_tweet": {
+      "author": "Astrid Wilde 🌞",
+      "username": "astridwilde",
+      "text": "guys this is getting good enough that you could almost mistake it for segmentation rather than mesh reconstruction"
+    },
+    "url": "https://x.com/rileybrown/status/2124601107716739581",
+    "time": "2026-11-23 04:29",
+    "created_at": "Sun Nov 22 20:29:11 +0000 2026",
+    "id_str": "2124601107716739581",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "everyone who is praising Gemini 4 Neon: \n\nare you all actually using Antigravity for it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/iScienceLuvr/status/2124404585393435015",
+    "time": "2026-11-22 15:28",
+    "created_at": "Sun Nov 22 07:28:17 +0000 2026",
+    "id_str": "2124404585393435015",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins You have to understand that most people writing comments on the internet are incapacitated and in a catatonic state with minimal brain activity.",
+    "quoted_tweet": null,
+    "url": "https://x.com/nikitabier/status/2124567539418353749",
+    "time": "2026-11-23 02:15",
+    "created_at": "Sun Nov 22 18:15:48 +0000 2026",
+    "id_str": "2124567539418353749",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Gemini 4 Neon is a really impressive model. \n\nWe made a first-person mystery game where you solve a murder in the Golden Gai.\n\nIt wrote the storyline, rendered the world in Three.js, and populated 16 walk-in bars with characters to interview + clues.\n\nPlus it made a trailer 👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124568183902449764",
+    "time": "2026-11-23 02:18",
+    "created_at": "Sun Nov 22 18:18:22 +0000 2026",
+    "id_str": "2124568183902449764",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@iScienceLuvr yes!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124570471194890274",
+    "time": "2026-11-23 02:27",
+    "created_at": "Sun Nov 22 18:27:27 +0000 2026",
+    "id_str": "2124570471194890274",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Da workflow?",
+    "quoted_tweet": null,
+    "url": "https://x.com/DavidSh66283242/status/2124570967267754093",
+    "time": "2026-11-23 02:29",
+    "created_at": "Sun Nov 22 18:29:25 +0000 2026",
+    "id_str": "2124570967267754093",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "I used the /teamwork feature in Antigravity, which spun up 44 subagents to build this game.\n\nMuch of the work was around image generation and 3D texturing to build out such a detailed world.\n\nThe main agent was a hype man for the rest of them (I had it pull some of its quotes):",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124571338983801319",
+    "time": "2026-11-23 02:30",
+    "created_at": "Sun Nov 22 18:30:54 +0000 2026",
+    "id_str": "2124571338983801319",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Did the clues all point to the same killer when you played it through?",
+    "quoted_tweet": null,
+    "url": "https://x.com/noelkimx/status/2124571576154857703",
+    "time": "2026-11-23 02:31",
+    "created_at": "Sun Nov 22 18:31:51 +0000 2026",
+    "id_str": "2124571576154857703",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "If you want to try the game yourself, it's live.\n\nGPT-6.2 Astra solved the mystery in 3 minutes and 14 seconds.\n\nFable 5.2 took 17 minutes and complained that it needed more time to test the controls 🫠.\n\nTry to beat them!\n\nhttps://sumi-gai.vercel.app/",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124572103437684893",
+    "time": "2026-11-23 02:33",
+    "created_at": "Sun Nov 22 18:33:56 +0000 2026",
+    "id_str": "2124572103437684893",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins I feel like it's another opus level long term model.",
+    "quoted_tweet": null,
+    "url": "https://x.com/xikhar/status/2124572547266297869",
+    "time": "2026-11-23 02:35",
+    "created_at": "Sun Nov 22 18:35:42 +0000 2026",
+    "id_str": "2124572547266297869",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "Yeah there's not one set workflow for something like this. \n\nI started with: \"Hi! I'd like to make a cool game where the user is a character wandering around the golden gai in tokyo in the dark trying to find various things\"\n\nThen we tackled problems as they came up - e.g. I said the characters looked too blocky so it found and downloaded a bunch of Vroid avatars to use.",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124572766964003302",
+    "time": "2026-11-23 02:36",
+    "created_at": "Sun Nov 22 18:36:34 +0000 2026",
+    "id_str": "2124572766964003302",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@noelkimx No it created some red herrings",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124577924930322561",
+    "time": "2026-11-23 02:57",
+    "created_at": "Sun Nov 22 18:57:04 +0000 2026",
+    "id_str": "2124577924930322561",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@xikhar Yeah it’s really impressive and steerable. Also just easy to talk to",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124592302593311004",
+    "time": "2026-11-23 03:54",
+    "created_at": "Sun Nov 22 19:54:12 +0000 2026",
+    "id_str": "2124592302593311004",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@nikitabier We miss you!!!",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124600696989450404",
+    "time": "2026-11-23 04:27",
+    "created_at": "Sun Nov 22 20:27:33 +0000 2026",
+    "id_str": "2124600696989450404",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "My weekend project was having Neon build an escape room game. Since it came up with the entire concept, it was actually pretty fun to play it for the first time! It also makes me think about \"storytelling\" differently when it's this easy to have a model create an entire immersive world.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jacalulu/status/2124604509066498289",
+    "time": "2026-11-23 04:42",
+    "created_at": "Sun Nov 22 20:42:42 +0000 2026",
+    "id_str": "2124604509066498289",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@venturetwins Is it just you using gemini? I literally use it everytime you tweet",
+    "quoted_tweet": null,
+    "url": "https://x.com/albicodes/status/2124605578727370992",
+    "time": "2026-11-23 04:46",
+    "created_at": "Sun Nov 22 20:46:57 +0000 2026",
+    "id_str": "2124605578727370992",
+    "is_retweet": true
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@albicodes No I’m late to the party on Neon! (Busy week) \n\nHave seen so many cool demos, check out the replies to @OfficialLoganK: https://x.com/officiallogank/status/2124212276010102918?a=6zrGL0H4XYmwqI9XgLE&s=46",
+    "quoted_tweet": {
+      "author": "Logan Kilpatrick",
+      "username": "OfficialLoganK",
+      "text": "What are you building with Gemini 4 Neon this weekend?"
+    },
+    "url": "https://x.com/venturetwins/status/2124608323941237097",
+    "time": "2026-11-23 04:57",
+    "created_at": "Sun Nov 22 20:57:52 +0000 2026",
+    "id_str": "2124608323941237097",
+    "is_retweet": false
+  },
+  {
+    "username": "venturetwins",
+    "nickname": "Venture Twins",
+    "text": "@jacalulu Ahhh so cool! Yeah I love that it can surprise us with the outcome 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2124608427859304896",
+    "time": "2026-11-23 04:58",
+    "created_at": "Sun Nov 22 20:58:17 +0000 2026",
+    "id_str": "2124608427859304896",
+    "is_retweet": false
   }
 ]
