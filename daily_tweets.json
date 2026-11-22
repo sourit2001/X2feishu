@@ -1,1 +1,150 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "It's very interesting $ORCL can put out statements about being fully funded for OpenAI.\n\nOr $SNDK / Micron can put out statements reassuring investors about signed LTAs + price floors. \n\nYet there's extraordinary levels of distrust toward disclosures and durability. \n\nEither everyone is excessively bearish, and this creates a generational buying opportunity on AI if contracts + projections hold... or they're skeptical for a good reason.",
+    "quoted_tweet": {
+      "author": "Oracle",
+      "username": "Oracle",
+      "text": "Oracle has secured all the funding we need to fulfill our contract with OpenAI. With our final capital raise earlier this month, we became the first hyperscaler fully funded for this investment cycle. The financing we outlined at Oracle Investor Day, including vendor financing, is in place. Any further private discussions with vendors are just additional options. Our ability to deliver on our OpenAI contract does not depend on those discussions. Any media reports that will come out and say the contrary are incorrect and wrong. \n\nOracle and OpenAI are making rapid progress on our infrastructure partnership. Our Abilene campus, where Astra-6 was trained, is nearly complete. Shackelford, our next gigawatt-scale campus, is fully permitted. The handover of NVIDIA Vera Rubin racks in its data halls is on track for the coming weeks.\n\nWe continue to expect positive free cash flow in the second half of FY2028. We are targeting more than $30 billion in free cash flow in FY2029 and expect to self-fund future growth beginning that year."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2124315829202493468",
+    "time": "2026-11-22 09:35",
+    "created_at": "Sun Nov 22 01:35:36 +0000 2026",
+    "id_str": "2124315829202493468",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit The problem is that these things always happen at the end of cycles, and it's very hard to say whether this time things are different. And once people stop believing it's different, they make the disastrous outcome inevitable.",
+    "quoted_tweet": null,
+    "url": "https://x.com/corbinians_bear/status/2124316526056542367",
+    "time": "2026-11-22 09:38",
+    "created_at": "Sun Nov 22 01:38:22 +0000 2026",
+    "id_str": "2124316526056542367",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Maybe it's self-fufilling, we'll see. From earnings, $CRWV said 10x quantified demand > compute availability throughout 2027.\n\nThen the same week a bunch of people are arguing for a compute glut extrapolating smaller Asian DCs getting impacted. \n\nOne of the most interesting market dynamics",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2124318494879780986",
+    "time": "2026-11-22 09:46",
+    "created_at": "Sun Nov 22 01:46:11 +0000 2026",
+    "id_str": "2124318494879780986",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I've given my suggestions here many times,*  but a new addition is Moonbound by Robin Sloan. It is weird future science fantasy, but LLM-like AIs have a central role.\n\n* Watts (worrying!), Banks, Chambers, Vinge, Douglas Adams (oddly correct about AI), Stross, Egan, etc.",
+    "quoted_tweet": {
+      "author": "Cate Hall 🔸",
+      "username": "catehall",
+      "text": "what is a good sci-fi book to read (or re-read) at this particular moment? Accelerando would be good if I hadn't just read it."
+    },
+    "url": "https://x.com/emollick/status/2124335219499012430",
+    "time": "2026-11-22 10:52",
+    "created_at": "Sun Nov 22 02:52:39 +0000 2026",
+    "id_str": "2124335219499012430",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The weakness of the AIs in Sloan's book is particularly LLMish in a clever way that I will not spoil.\n\nBut again, it is far future stuff, more Urth of the New Sun (though much more winking at contemporary life) or New Weird than contemporary hard science fiction.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124337191392317490",
+    "time": "2026-11-22 11:00",
+    "created_at": "Sun Nov 22 03:00:29 +0000 2026",
+    "id_str": "2124337191392317490",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick blindsight is the only one on that list where the AI is smart and not awake, which is closer to what i actually ship",
+    "quoted_tweet": null,
+    "url": "https://x.com/shadowaguy/status/2124340307341013436",
+    "time": "2026-11-22 11:12",
+    "created_at": "Sun Nov 22 03:12:52 +0000 2026",
+    "id_str": "2124340307341013436",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "I worry that we will retreat in the face of AI ability gains, rather than pushing to make sure human work stays centered (as long as AI stays jagged) by rethinking tasks & UX.\n\nWe don't want a world where the top human tasks are to \"greet customers\" & \"keep carts clean and tidy.\"",
+    "quoted_tweet": {
+      "author": "Soumitra Shukla",
+      "username": "soumitrashukla9",
+      "text": "Top 20 tasks with highest bottleneck pressure"
+    },
+    "url": "https://x.com/emollick/status/2124342498625740988",
+    "time": "2026-11-22 11:21",
+    "created_at": "Sun Nov 22 03:21:34 +0000 2026",
+    "id_str": "2124342498625740988",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As I argued in my new book, automation has a playbook and a long history, augmentation is harder to do and takes experimentation. Lets not default to the easy path.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124343640507977874",
+    "time": "2026-11-22 11:26",
+    "created_at": "Sun Nov 22 03:26:06 +0000 2026",
+    "id_str": "2124343640507977874",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Predictions made last MONTH (post Navier-Stokes) about when the Riemann Hypotheses would be solved:\nMetaculus: May 2035\nLEAP Superforecasters: 10% chance of additional Millennium problem being solved in 2026.\nTerrance Tao: “some combination of humans and AIs in 2050 or something\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124348445649768955",
+    "time": "2026-11-22 11:45",
+    "created_at": "Sun Nov 22 03:45:12 +0000 2026",
+    "id_str": "2124348445649768955",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "This is obviously not a dunk on any of these experts or forecasting groups, but it is an indicator that even the best forecasters and experts are still underestimating AI abilities.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124348911553061167",
+    "time": "2026-11-22 11:47",
+    "created_at": "Sun Nov 22 03:47:03 +0000 2026",
+    "id_str": "2124348911553061167",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@shadowaguy This is terrible AI output for many reasons.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124353020603314677",
+    "time": "2026-11-22 12:03",
+    "created_at": "Sun Nov 22 04:03:23 +0000 2026",
+    "id_str": "2124353020603314677",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Team is already preparing another big update, but how are things since yesterday’s update to the ChatGPT/Codex desktop app? What still requires attention and is not quite there?",
+    "quoted_tweet": {
+      "author": "Andrew Ambrosino",
+      "username": "ajambrosino",
+      "text": "NEW:  \n\n- ChatGPT Space for Plus! \n- new, simpler visual design across the app \n- huge performance improvements everywhere \n- completely rebuilt threads– better perf and design \n- redesigned Space home \n- much faster pages and slides \n- edit pages on mobile \n- more reliable Codex Remote  \n\nmuch more to come soon!"
+    },
+    "url": "https://x.com/thsottiaux/status/2124322968499282388",
+    "time": "2026-11-22 10:03",
+    "created_at": "Sun Nov 22 02:03:58 +0000 2026",
+    "id_str": "2124322968499282388",
+    "is_retweet": false
+  }
+]
