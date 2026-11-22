@@ -355,5 +355,324 @@
     "created_at": "Sat Nov 21 23:04:42 +0000 2026",
     "id_str": "2124277855131664869",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle.\n\nUpcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks.",
+    "quoted_tweet": null,
+    "url": "https://x.com/SawyerMerritt/status/2124226258196103492",
+    "time": "2026-11-22 03:39",
+    "created_at": "Sat Nov 21 19:39:40 +0000 2026",
+    "id_str": "2124226258196103492",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "FSD visualizations 6 years apart",
+    "quoted_tweet": null,
+    "url": "https://x.com/SawyerMerritt/status/2124231512237249008",
+    "time": "2026-11-22 04:00",
+    "created_at": "Sat Nov 21 20:00:33 +0000 2026",
+    "id_str": "2124231512237249008",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It’s like GTA",
+    "quoted_tweet": {
+      "author": "Sawyer Merritt",
+      "username": "SawyerMerritt",
+      "text": "Here are the new FSD visualizations in FSD V15. It continuously streams a view from an arbitrary virtual camera situated above your vehicle.\n\nUpcoming navigation turns display directly in the driving visualization. Turn signals are quieter and fade out after a few clicks."
+    },
+    "url": "https://x.com/elonmusk/status/2124238249686159590",
+    "time": "2026-11-22 04:27",
+    "created_at": "Sat Nov 21 20:27:19 +0000 2026",
+    "id_str": "2124238249686159590",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It’s high time we probed Uranus again!\n\nMuch better images are needed (actually).",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124241570451054609",
+    "time": "2026-11-22 04:40",
+    "created_at": "Sat Nov 21 20:40:31 +0000 2026",
+    "id_str": "2124241570451054609",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Either you believe the AI buildout is over, that AI was a flash in the pan, and that the need for compute has already peaked... or this a rare buying opportunity.\n\nReminder: GPU spot prices keep rising and it's hard to secure capacity. HBM and DRAM production is effectively sold out through 2029, with chip and memory supply projected to stay tight until well into the 2030s.\n\nAI research isn't slowing down: frontier training compute is doubling every ~5 months, and model capabilities are scaling over twice as fast as they did pre-reasoning. Inference is profitable with 70-85% margins, and demand is growing geometrically. Each new model generation unlocks new use cases.\n\nI'm not even an AI booster, just being realistic here.",
+    "quoted_tweet": {
+      "author": "Trade Whisperer",
+      "username": "TradexWhisperer",
+      "text": "WTF\n\n$SNDK 2.2x\n$SKHY 2.6x\n$MU 2.8x\n\nSandisk can buy back half its market cap in JUST 12 MONTHS.\n\n$COST is 44x for hot dogs and bulk toilet paper."
+    },
+    "url": "https://x.com/fchollet/status/2124246742644461569",
+    "time": "2026-11-22 05:01",
+    "created_at": "Sat Nov 21 21:01:04 +0000 2026",
+    "id_str": "2124246742644461569",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Gaussian Splats lead to more trust.\n\nA neural network makes the digital twin around you that Tesla just announced/demonstrated here. \n\nOr, rather, joins the real world that it is collecting from your car's cameras and mixing it into a digital twin it has already imaged of the road ahead and real world around you.\n\nThis is a software platform that will let Tesla continue to run ahead of anyone attempting to compete for years.\n\nPeople keep asking me why Robotaxi will be better than Waymo, or Zoox, or other vehicles that come out of China.\n\nBecause soon the neural network will gather road data from other vehicles and join that into the visualization too.\n\nImagine a house fire starts in San Francisco.\n\nA Tesla rolls by. Images the house fire for its own display. But it knows that is different than the \"ground truth\" digital twin of the house that it captured sometime in the past.\n\nIt shares just that house and fire with the network. \n\nAll of a sudden, if you are somewhere else in the city and you see a plume of smoke you can zoom in on the display to see what's causing that. And there is a visualization of the house burning.\n\nThen the firetrucks arrive.\n\nAnd another Tesla rolls by. And captures the changes happening, and shares that with the network.\n\nThen the first responders start laying hose, and closing streets, around the fire, and start working to extinguish the fire.\n\nEveryone can watch to see what's happening in that neighborhood as more Tesla's roll by. \n\nAnd someday Optimus will join the digital twin. So, if an Optimus walks by the scene, that data gets put onto the network.\n\nWhen my neighbor's house caught fire I watched all this. And the owner was out front recording his house burning before the trucks even arrived on his phone.\n\nImagine that someone capturing it for X was live streaming it here. \n\nThat visual data could be incorporated too. \n\nEverything you see on the visualization is a voxel. \n\nComputer vision can watch all voxels and understand the changes in the real world.\n\nAnd report it to everyone. \n\nAnd can even incorporate first reponder radio from https://somafm.com/scanner/\n\nSo everyone knows what is going on and can see it on their phones, glasses, or Tesla screens.\n\nWhat was just announced is a new way to render the city in real time.\n\nImagine you can zoom into your favorite BBQ or Burritto joint and see how long the line is before you even take a Robotaxi there. \n\nIn Austin I took a Cybercab to one of its BBQ places and when I got there learned there was a two hour line. \n\nImagine that the Robotaxi app would be able to show you, in real time, the line and estimate it accurately based on historical data.\n\nBack in 2005 a Microsoft Researcher showed me a system that could predict how long it would take you to get to Seattle over the bridge based on historical data. That saved a lot of people pain going across the bridge, but it wasn't real time. \n\nBetween Microsoft's campus today and Seattle are hundreds of Teslas on the road right now. \n\nThis is why I say the fleet is what matters from here on and why others won't be able to catch up.\n\nNo other robot platform has Grok. Has X. Has an AI team that is executing on this this way. \n\nMy consumer research shows that trust is a huge reason why people will switch from Uber to Tesla, or Waymo to Tesla. \n\nThe one that shows consumers more things about the city around them will gain more trust. \n\nWhen I took a Cybercab to Austin City Limits a few weeks ago it didn't tell me how to get to the entrance of the festival. Or what it looked like. Or how long the lines were. Or how to get a pedicab to travel the mile from where it dropped me off to the front gate. \n\nI predict that it will within a year. \n\nAnd I only trust my life to Tesla's AI every day. Waymo every once in a while. (If you use an autonomous vehicle you are trusting your life to AI).\n\nThat trust will grow as it shows us the real world in more and more detail.\n\nAnd only Elon has all the pieces to increase that trust. \n\nNow, when Optimus comes? It will do the same in your home. \n\nImagine you have 15 plants, like we do in our home, to water. \n\nSome need watering every day. Others need watering every week. \n\nImagine walking around a digital twin of your home and clicking on each plant and telling it \"water this one every week.\" \n\nAmong many other things, like doing a security detail. \"Check the oven after we leave and make sure it is properly turned off.\" Or \"when we leave, check the garage door, gate, and front door are properly secured.\" \n\nAll of this work leads to this. \n\nIt is why I don't see any real competition coming for Tesla robots. \n\nTrust is the game. Trust improves with better safety and visualizations. \n\nAll this will be obvious to everyone within two years. Especially in cities of the future that allow autonomous vehicles.\n\nAnd being in such a city will even improve your life. You'll be able to pull out your phone and see what's going on in your city even if you don't have a robot or use an autonomous vehicle. \n\nThe data will come from a Tesla rolling by. Or a Tesla owner standing in line. Or an Optimus robot walking around doing tasks for its owner.\n\nThe fleet is the game. No one else will be able to match it in America.",
+    "quoted_tweet": {
+      "author": "Tesla",
+      "username": "Tesla",
+      "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network \n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories"
+    },
+    "url": "https://x.com/Scobleizer/status/2124261869200589024",
+    "time": "2026-11-22 06:01",
+    "created_at": "Sat Nov 21 22:01:11 +0000 2026",
+    "id_str": "2124261869200589024",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "v15 is 25x safer than v14 across the fleet.\n\nThat’s hard to notice on any individual drive because most drives are already very safe. The difference only becomes clear when you aggregate millions of miles.\n\nAll credit goes to the incredibly talented and dedicated @TeslaSI engineers who made this possible. It’s an honor to work alongside them.",
+    "quoted_tweet": {
+      "author": "Tesla",
+      "username": "Tesla",
+      "text": "FSD v15 now starting to roll out – upgrading every part of the end-to-end driving network \n\nSafety\n25x better handling of safety critical cases\n\nTesla Reality View \nAdds a live visualization of the drive that lets you see & control what FSD is planning to do\n\nNavigation for start & end of the trip now learns end-to-end from fleet route preferences. Later v15 releases will expand this to the entire route.\n\nYou also should notice better detection of signs, animals, debris, potholes and standing water, plus more natural speed handling in school zones and inclement weather.\n\nLastly, FSD can now slow for speed cameras & Bike Rack Mode lets you enable FSD w/ bike racks or similar hitch accessories"
+    },
+    "url": "https://x.com/pduan/status/2124265867336966182",
+    "time": "2026-11-22 06:17",
+    "created_at": "Sat Nov 21 22:17:04 +0000 2026",
+    "id_str": "2124265867336966182",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Every. Single. Time. I open Twitter, or refresh the feed, the first 2 or 3 posts are random accounts I've never seen promoting how to use Grokbot to automatically trade crypto, generate Twitter content, or build an SEO business.\n\nElon is obviously trying to get everyone to use Grokbot. I'm old enough to remember when he protested the amount of bots on here, but now he's openly turning this increasingly dogshit platform into a bot-slop-fest.\n\nFor 4 days straight, there hasn't been a single exception to this. If I refresh the feed, it'll be another \"use grokbot to become a millionaire overnight and generate content while you sleep.\" 100% of the time.",
+    "quoted_tweet": null,
+    "url": "https://x.com/BasedSamParker/status/2124266144651727348",
+    "time": "2026-11-22 06:18",
+    "created_at": "Sat Nov 21 22:18:10 +0000 2026",
+    "id_str": "2124266144651727348",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …",
+    "quoted_tweet": {
+      "author": "Ashok Elluswamy",
+      "username": "aelluswamy",
+      "text": "The crazier thing is that the right side uses less compute than what the left used to take. \n\nExtreme compute efficiency optimization."
+    },
+    "url": "https://x.com/elonmusk/status/2124270426402836626",
+    "time": "2026-11-22 06:35",
+    "created_at": "Sat Nov 21 22:35:11 +0000 2026",
+    "id_str": "2124270426402836626",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla FSD V15 is officially downloading on my Model Y!",
+    "quoted_tweet": null,
+    "url": "https://x.com/SawyerMerritt/status/2124271378073530460",
+    "time": "2026-11-22 06:38",
+    "created_at": "Sat Nov 21 22:38:58 +0000 2026",
+    "id_str": "2124271378073530460",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Getting this amount of compute turned on, cooled and working reliably is incredibly hard. \n\nThe cash shortage is also going to be nuts next year. Even cumulative industry delays of a few months between paying for compute and getting it reliable enough to generate revenue will mean hundreds of billions of incremental dollars just for working capital. Where will that come from?",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124271725927903388",
+    "time": "2026-11-22 06:40",
+    "created_at": "Sat Nov 21 22:40:21 +0000 2026",
+    "id_str": "2124271725927903388",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Half of me is “meh, why does the driver need to see anything” the other half is “OMG this is sweeet!”",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "This is real-time AI video generation (no gaming engine!) using just half of one AI4 TRIP accelerator. Let that sink in …"
+    },
+    "url": "https://x.com/jamesdouma/status/2124278580620525984",
+    "time": "2026-11-22 07:07",
+    "created_at": "Sat Nov 21 23:07:35 +0000 2026",
+    "id_str": "2124278580620525984",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Give Grok @Bot your hardest tasks",
+    "quoted_tweet": {
+      "author": "Molly O’Shea",
+      "username": "MollySOShea",
+      "text": "Grok Bot planned a 5,000-person conference\n\nRon Biscardi (@rbiscardi) says his team used Grok Bot for literally everything to set up the TomorrowX Summit at record speed:\n\n“Grok Bot is what made this whole event possible.”\n\n“My COO, who normally isn’t doing in-the-weeds stuff, had a dozen Grok Bot agents & was running literally half of the lead up to this event on her own. None of that was possible before these tools.”\n\n“This is 5,000 people in a basketball arena. No one does that in 6 or 7 months. That’s like an 18-month thing.”\n\n“Using AI, we were able to build everything we needed so quickly: the website, the dashboards, the mobile app. All of the elements that go into this that typically took months & months to build, we built them in days.”\n\n@GavinSBaker @AntonioGracias @elonmusk"
+    },
+    "url": "https://x.com/elonmusk/status/2124280710747840889",
+    "time": "2026-11-22 07:16",
+    "created_at": "Sat Nov 21 23:16:03 +0000 2026",
+    "id_str": "2124280710747840889",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "2/ There it is. Just refreshed the feed, aaaaaaand it's Elon pitching Grok bot\n\nhttps://x.com/elonmusk/status/2124280710747840889",
+    "quoted_tweet": {
+      "author": "Elon Musk",
+      "username": "elonmusk",
+      "text": "Give Grok @Bot your hardest tasks"
+    },
+    "url": "https://x.com/BasedSamParker/status/2124281802751979559",
+    "time": "2026-11-22 07:20",
+    "created_at": "Sat Nov 21 23:20:23 +0000 2026",
+    "id_str": "2124281802751979559",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@BasedSamParker 😂\n\nBut actually try Grok Bot. It’s awesome.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124282252825596187",
+    "time": "2026-11-22 07:22",
+    "created_at": "Sat Nov 21 23:22:10 +0000 2026",
+    "id_str": "2124282252825596187",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This is so unbelievably impressive",
+    "quoted_tweet": {
+      "author": "Smoke-away",
+      "username": "SmokeAwayyy",
+      "text": "'Reality View' in Tesla FSD v15\n\n> Adds a live visualization of the drive that lets you see & control what FSD is planning to do."
+    },
+    "url": "https://x.com/tobi/status/2124284894830354483",
+    "time": "2026-11-22 07:32",
+    "created_at": "Sat Nov 21 23:32:40 +0000 2026",
+    "id_str": "2124284894830354483",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@tobi Crazy work.",
+    "quoted_tweet": null,
+    "url": "https://x.com/RafelineK/status/2124285994073809252",
+    "time": "2026-11-22 07:37",
+    "created_at": "Sat Nov 21 23:37:02 +0000 2026",
+    "id_str": "2124285994073809252",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@Scobleizer Pretty accurate. \n\nTesla vehicles will share traffic knowledge and combine that with Grok’s real-time 𝕏 feed to give you the optimal transport experience, even giving you a heads up about what’s happening at your destination!",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124293036418990381",
+    "time": "2026-11-22 08:05",
+    "created_at": "Sun Nov 22 00:05:01 +0000 2026",
+    "id_str": "2124293036418990381",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@Scobleizer Pretty accurate. \n\nTesla vehicles will share traffic knowledge and combine that with Grok’s real-time 𝕏 feed to give you the optimal transport experience, even giving you a heads up about what’s happening at your destination!",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124293036418990381",
+    "time": "2026-11-22 08:05",
+    "created_at": "Sun Nov 22 00:05:01 +0000 2026",
+    "id_str": "2124293036418990381",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@jamesdouma It is mesmerizing to watch. \n\nWhere this is actually useful is when you want to tap the exact drop-off or parking location on the screen that you want your car to target.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124293720728346919",
+    "time": "2026-11-22 08:07",
+    "created_at": "Sun Nov 22 00:07:45 +0000 2026",
+    "id_str": "2124293720728346919",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@jamesdouma It is mesmerizing to watch. \n\nWhere this is actually useful is when you want to tap the exact drop-off or parking location on the screen that you want your car to target.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124293720728346919",
+    "time": "2026-11-22 08:07",
+    "created_at": "Sun Nov 22 00:07:45 +0000 2026",
+    "id_str": "2124293720728346919",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Tesla FSD V15 is a banger release!\n\nCompletely new architecture that deserves being called “super” intelligence, as it drives better than human intelligence.",
+    "quoted_tweet": {
+      "author": "Tesla Super Intelligence",
+      "username": "TeslaSI",
+      "text": "Full release notes below\n\n– – –  \n\nv15 upgrades every part of the end-to-end driving network. Includes:\n\nUpgraded vision encoder shared between FSD, Robotaxi, and Optimus, which is trained on millions of internet videos for improved generalization and data efficiency, improving the critical intervention rate by 25x.\n\nIntroduced Tesla Reality View, replacing all of the explicit model signals into a single end-to-end visualization using less total compute.\n\nImproved navigation by using an end-to-end learned model based on route preference data from the fleet.\n\nImproved parking location selection by using personalized parking history, and the map will now display multiple parking options at your destination.\n\nImproved driver monitoring by increasing vision-based attention monitoring availability with hats and sunglasses and decreasing strictness in higher speed driver profiles.\n\nImproved detection of road signs, small animals, road debris, and chains.\n\nImproved detection of potholes, road details, and avoidance of deep standing water.\n\nImproved speed handling for each driver profile, school zones and speed limits, and inclement weather.  \n\nImproved Autoshift functionality by unifying with FSD-based gear predictions."
+    },
+    "url": "https://x.com/elonmusk/status/2124294755316310346",
+    "time": "2026-11-22 08:11",
+    "created_at": "Sun Nov 22 00:11:51 +0000 2026",
+    "id_str": "2124294755316310346",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@tobi GTA IRL",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124294924010914009",
+    "time": "2026-11-22 08:12",
+    "created_at": "Sun Nov 22 00:12:32 +0000 2026",
+    "id_str": "2124294924010914009",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This is so fun that it’s worth just having your car drive you around for the sake of driving around",
+    "quoted_tweet": {
+      "author": "Dirty Tesla",
+      "username": "DirtyTesLa",
+      "text": "FSD V15.0.1 is downloading now AHHHH"
+    },
+    "url": "https://x.com/elonmusk/status/2124295793280450870",
+    "time": "2026-11-22 08:15",
+    "created_at": "Sun Nov 22 00:15:59 +0000 2026",
+    "id_str": "2124295793280450870",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@ICannot_Enough @bot Wheels are a good option to consider, but it looks like woven stainless steel matting on the ship side probably solves for zero refurbishment. \n\nUnlike the booster, we need something there to keep the ship primary structure below its annealing temperature.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124297556150939968",
+    "time": "2026-11-22 08:22",
+    "created_at": "Sun Nov 22 00:22:59 +0000 2026",
+    "id_str": "2124297556150939968",
+    "is_retweet": false
   }
 ]
