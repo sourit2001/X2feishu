@@ -725,5 +725,684 @@
     "created_at": "Sun Nov 22 07:33:13 +0000 2026",
     "id_str": "2124405826018500745",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 最值得参考的害得是真金白银的polymarket",
+    "quoted_tweet": null,
+    "url": "https://x.com/FarSideOfMoonvy/status/2124211499229196537",
+    "time": "2026-11-22 02:41",
+    "created_at": "Sat Nov 21 18:41:02 +0000 2026",
+    "id_str": "2124211499229196537",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@FarSideOfMoonvy 哈哈哈哈 确实",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2124335398369529984",
+    "time": "2026-11-22 10:53",
+    "created_at": "Sun Nov 22 02:53:21 +0000 2026",
+    "id_str": "2124335398369529984",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "这几年我最喜欢玩的三款游戏：守望先锋、GTA 5、皇室战争。现在还在玩的主要是守望先锋。\n\nGTA 6 早就预购了，玩了几小时就没啥兴致了，连车都不能随便偷抢，还不得不去做很多居家任务，真的是无聊。比起 GTA 5 唯一胜出的是画面，但这已经是 2026 年了。\n\n比较认同这篇的打分：\n玩法：7/10\n剧情：1/10\n角色塑造：2/10\n角色成长：2/10\n原声音乐：1/10\n画面表现：8.5/10\n地图设计：5/10\n任务设计：2/10\n驾驶手感：5/10\n上头程度：0/10\n综合评价：2.5/10",
+    "quoted_tweet": {
+      "author": "Danis",
+      "username": "DanisMCFC",
+      "text": "Former GTA developer, giving my honest 2 day review of GTA 6 https://x.com/i/article/2123849146528563200"
+    },
+    "url": "https://x.com/dotey/status/2124262007033725031",
+    "time": "2026-11-22 06:01",
+    "created_at": "Sat Nov 21 22:01:44 +0000 2026",
+    "id_str": "2124262007033725031",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "很多人吐槽 Antigravity 不好用，但只是吐槽不一定会被看见，不如去给 @shengzheyao 留言，这样有机会被看到并解决问题。\n\n比如我现在遇到最烦的问题是，如果跨 workspace 打开文件，每一个文件的读取都要我授权，而不是一次性的授权，极其繁琐。",
+    "quoted_tweet": {
+      "author": "Shengzhe",
+      "username": "shengzheyao",
+      "text": "Read through every single one of the 500+ replies. Huge thank you to everyone who wrote in, especially those who dug up local logs and repros.\n\nA lot of clear, fair feedback came through:\n\n- Prompt cache efficiency, latency, and stream stability.\n- Auto mode reliability and permission friction (Win10, Linux, out-of-workspace)\n- Better progress visibility during long runs.\n- Unified sessions across CLI, Desktop, remote, and mobile.\n- Windows, skills, and TUI papercuts.\n\nI've shared the full breakdown with the team, and we're committed to turning this into real fixes so Antigravity CLI is a tool you genuinely enjoy daily-driving.\n\nKeep the feedback coming. My DMs are open, and feel free to @ me anytime you hit friction."
+    },
+    "url": "https://x.com/dotey/status/2124276341088342155",
+    "time": "2026-11-22 06:58",
+    "created_at": "Sat Nov 21 22:58:41 +0000 2026",
+    "id_str": "2124276341088342155",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "2026 年 11 月 20 日，Anthropic 的数学家 Levent Alpöge 宣布，他和 Claude 一起证明了黎曼猜想，交出来的是 1700 万行 Lean 代码。\n\n这期用 5 分钟讲清楚：\n黎曼猜想说的是什么，和质数有什么关系；\n为什么 160 多年没人证出来；\nAI 在里面做了什么；\n机器检查全部通过，算不算真的证明了；\n银行加密会不会因此失效。\n\n同一天，斯坦福也放出一份纯人工证明草稿，几小时后就有人借助 AI 报告了问题。\n\n两边对照下来：机器说没错，人还没读懂；人写的，正在大改。\n\n（本视频由 Motion Artifact + Opus 5.5 + Gemini 3.8 TTS 制作，http://github.com/JimLiu/open-artifact）",
+    "quoted_tweet": {
+      "author": "Lean",
+      "username": "leanprover",
+      "text": "The Lean FRO and Mathlib Initiative have released a joint statement on the Lean verification of the Riemann Hypothesis.\n\nOn November 20, Levent Alpöge released a proof of the Riemann Hypothesis as a Lean library of 17 million lines of code. Over the past day, the Lean and Mathlib communities worked together to verify it. The statement certifies the proof as correct and describes how it meets all necessary verification criteria.\n\nCongratulations to Levent on this achievement, and thank you to everyone in the community who contributed to the verification.\n\nFull statement: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
+    },
+    "url": "https://x.com/dotey/status/2124282462343967111",
+    "time": "2026-11-22 07:23",
+    "created_at": "Sat Nov 21 23:23:00 +0000 2026",
+    "id_str": "2124282462343967111",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @shengzheyao 编程领域，遥遥领先的还是Claude么？宝玉老师？",
+    "quoted_tweet": null,
+    "url": "https://x.com/AriXZone/status/2124283022602383411",
+    "time": "2026-11-22 07:25",
+    "created_at": "Sat Nov 21 23:25:14 +0000 2026",
+    "id_str": "2124283022602383411",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@AriXZone @shengzheyao 是",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124286940262306138",
+    "time": "2026-11-22 07:40",
+    "created_at": "Sat Nov 21 23:40:48 +0000 2026",
+    "id_str": "2124286940262306138",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝哥，这种视频能一键生成吗？有skills吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/xpeter1980/status/2124290584764662244",
+    "time": "2026-11-22 07:55",
+    "created_at": "Sat Nov 21 23:55:17 +0000 2026",
+    "id_str": "2124290584764662244",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "安装 open-artifact （http://github.com/JimLiu/open-artifact）插件或者 Skill，提示词：\n\n/open-artifact motion 帮我制作一个教学视频，介绍费曼定理被证明这件事，历史，意义，为什么这么多年没有被证明，为什么现在被证明了，会带来什么样的变化。配合 Gemini TTS，检索相关资料和 YouTube 视频，使用其中片段，时长不限。",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124295497795920225",
+    "time": "2026-11-22 08:14",
+    "created_at": "Sun Nov 22 00:14:48 +0000 2026",
+    "id_str": "2124295497795920225",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "提示词：\nhttps://x.com/dotey/status/2124295497795920225?a=44mQcnVPt7luB8hb0hc&s=20",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "安装 open-artifact （http://github.com/JimLiu/open-artifact）插件或者 Skill，提示词：\n\n/open-artifact motion 帮我制作一个教学视频，介绍费曼定理被证明这件事，历史，意义，为什么这么多年没有被证明，为什么现在被证明了，会带来什么样的变化。配合 Gemini TTS，检索相关资料和 YouTube 视频，使用其中片段，时长不限。"
+    },
+    "url": "https://x.com/dotey/status/2124295583238443309",
+    "time": "2026-11-22 08:15",
+    "created_at": "Sun Nov 22 00:15:09 +0000 2026",
+    "id_str": "2124295583238443309",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "codex就没有这个问题，开Full Access就是真的Full Access，用了大半年了从没做过危险动作🤪",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "很多人吐槽 Antigravity 不好用，但只是吐槽不一定会被看见，不如去给 @shengzheyao 留言，这样有机会被看到并解决问题。\n\n比如我现在遇到最烦的问题是，如果跨 workspace 打开文件，每一个文件的读取都要我授权，而不是一次性的授权，极其繁琐。"
+    },
+    "url": "https://x.com/geniusvczh/status/2124297541403746354",
+    "time": "2026-11-22 08:22",
+    "created_at": "Sun Nov 22 00:22:56 +0000 2026",
+    "id_str": "2124297541403746354",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@geniusvczh 你是不是没用过 Antigravity，Agy Turbo 模式下跟 Full Access 一样的，不存在 @dotey 说的要授权的问题。不过他说的是试图管理权限的问题，那就不知道了（",
+    "quoted_tweet": null,
+    "url": "https://x.com/tison1096/status/2124298445196550554",
+    "time": "2026-11-22 08:26",
+    "created_at": "Sun Nov 22 00:26:31 +0000 2026",
+    "id_str": "2124298445196550554",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@tison1096 @geniusvczh Antigravity App 跨 Workspace 读取文件，即使是 Turbo 模式，也会每一个文件都要弹一次",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124299115647348880",
+    "time": "2026-11-22 08:29",
+    "created_at": "Sun Nov 22 00:29:11 +0000 2026",
+    "id_str": "2124299115647348880",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @geniusvczh 原来是这样吗？反正我开 Turbo 模式以后，我都是没有 Workspace 的，就是 no project。",
+    "quoted_tweet": null,
+    "url": "https://x.com/tison1096/status/2124300202916167804",
+    "time": "2026-11-22 08:33",
+    "created_at": "Sun Nov 22 00:33:30 +0000 2026",
+    "id_str": "2124300202916167804",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@tison1096 @geniusvczh 我其实能理解跨 workspace 要授权，但是每一个文件都弹一次就太傻了，隔几秒一个新文件点一次……",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124300679963680926",
+    "time": "2026-11-22 08:35",
+    "created_at": "Sun Nov 22 00:35:24 +0000 2026",
+    "id_str": "2124300679963680926",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey agy落后太多了🤣已放弃使用等开放给其他Agent",
+    "quoted_tweet": null,
+    "url": "https://x.com/gantrols/status/2124301830981341622",
+    "time": "2026-11-22 08:39",
+    "created_at": "Sun Nov 22 00:39:58 +0000 2026",
+    "id_str": "2124301830981341622",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@gantrols 据说下月初开放？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124301931912757270",
+    "time": "2026-11-22 08:40",
+    "created_at": "Sun Nov 22 00:40:22 +0000 2026",
+    "id_str": "2124301931912757270",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "我自己做的 \"Claude大小姐证明黎曼猜想\"\n@ChainEpic @EianLu \n复刻昨天说的那个风格🤓",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "2026 年 11 月 20 日，Anthropic 的数学家 Levent Alpöge 宣布，他和 Claude 一起证明了黎曼猜想，交出来的是 1700 万行 Lean 代码。\n\n这期用 5 分钟讲清楚：\n黎曼猜想说的是什么，和质数有什么关系；\n为什么 160 多年没人证出来；\nAI 在里面做了什么；\n机器检查全部通过，算不算真的证明了；\n银行加密会不会因此失效。\n\n同一天，斯坦福也放出一份纯人工证明草稿，几小时后就有人借助 AI 报告了问题。\n\n两边对照下来：机器说没错，人还没读懂；人写的，正在大改。\n\n（本视频由 Motion Artifact + Opus 5.5 + Gemini 3.8 TTS 制作，http://github.com/JimLiu/open-artifact）"
+    },
+    "url": "https://x.com/ljhspurs/status/2124307808581718187",
+    "time": "2026-11-22 09:03",
+    "created_at": "Sun Nov 22 01:03:43 +0000 2026",
+    "id_str": "2124307808581718187",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@ljhspurs @ChainEpic @EianLu coool",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124308208139608162",
+    "time": "2026-11-22 09:05",
+    "created_at": "Sun Nov 22 01:05:19 +0000 2026",
+    "id_str": "2124308208139608162",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @shengzheyao 我之前写过一篇文章说这个权限模型怎么配，我认为这个权限模型的设计是不错的，就是差一个 model-driven classifier，啥都要人手动：\nhttps://x.com/realWeZZard/status/2122627855880430016",
+    "quoted_tweet": {
+      "author": "WeZZard",
+      "username": "realWeZZard",
+      "text": "https://x.com/i/article/2122627274868690945"
+    },
+    "url": "https://x.com/realWeZZard/status/2124312437075877896",
+    "time": "2026-11-22 09:22",
+    "created_at": "Sun Nov 22 01:22:07 +0000 2026",
+    "id_str": "2124312437075877896",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@realWeZZard @shengzheyao 专业👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124314266929078290",
+    "time": "2026-11-22 09:29",
+    "created_at": "Sun Nov 22 01:29:23 +0000 2026",
+    "id_str": "2124314266929078290",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @ZeroZ_JQ 厉害，以后就用这个，不用 baoyu-design 了对吧？",
+    "quoted_tweet": null,
+    "url": "https://x.com/andreyin1998/status/2124318032092926077",
+    "time": "2026-11-22 09:44",
+    "created_at": "Sun Nov 22 01:44:21 +0000 2026",
+    "id_str": "2124318032092926077",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@andreyin1998 @ZeroZ_JQ 对的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124318593425019366",
+    "time": "2026-11-22 09:46",
+    "created_at": "Sun Nov 22 01:46:35 +0000 2026",
+    "id_str": "2124318593425019366",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师可能剧情类 3A 玩的比较少吧，其实 GTA6 就是更像荒野大镖客了而已。确实有很多很多人讨厌荒野大镖客的游戏机制，玩法限制，通缉系统还有道德限制等等。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Auroratech4/status/2124321096384270518",
+    "time": "2026-11-22 09:56",
+    "created_at": "Sun Nov 22 01:56:32 +0000 2026",
+    "id_str": "2124321096384270518",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Auroratech4 可能，主要是觉得没有 GPT-5 那么自由",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124324714000879732",
+    "time": "2026-11-22 10:10",
+    "created_at": "Sun Nov 22 02:10:54 +0000 2026",
+    "id_str": "2124324714000879732",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @ZeroZ_JQ 如果拿来做功能的原型怎么样？",
+    "quoted_tweet": null,
+    "url": "https://x.com/flying_crp/status/2124332816209256614",
+    "time": "2026-11-22 10:43",
+    "created_at": "Sun Nov 22 02:43:06 +0000 2026",
+    "id_str": "2124332816209256614",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Waizedai 请问 AGY 的手机客户端在哪呢？我确实没搜到",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124334717587607964",
+    "time": "2026-11-22 10:50",
+    "created_at": "Sun Nov 22 02:50:39 +0000 2026",
+    "id_str": "2124334717587607964",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "是的。Vibe Coding 之后，很多开发者感觉自己对代码失去了掌控，认为继续下去，将彻底失去控制。\n\n其实这是一个先退化再进化的起伏涨落，先放弃传统控制手段，拥抱新范式，再从新范式里寻找新的控制手段。\n\n当我们从微观确定性编程的控制模式，转向宏观概率性编程的控制模式时，我们会得到新的掌控感，甚至感觉自己比模型更懂代码。\n\n我们可以做到一行代码不看，也比模型更懂代码。作为框架设计者，这种情况已经非常普遍，日常工作中我纠正过 Agent 的误解很多次。\n\n框架设计是一个程序执行模型上的设计，我设计了 A，未来它看代码说 B，我说源码里应该实现的是 A，它再读一遍说“源码支持你的判断，也有相关测试用例……”。\n\n懂代码的第一层是其源码怎么写的，但这不是代码的全部含义，甚至不是我们真正关心的维度。懂代码的重要维度是其表征上、运行上、组合上等不同方面的性质；是这些优秀性质让系统以符合预期的方式运作。\n\n从某个方面说，Agentic Coding，开发者失去的是代码细节的枷锁，得到的是整个程序抽象性质的世界。 开发者对系统的宏观掌控能力，得到史诗级加强，更少无关代码细节占用其短时记忆、工作记忆，更多认知资源投入在 High level 程序性质设计布局中。",
+    "quoted_tweet": {
+      "author": "Yufan Sheng",
+      "username": "syhily",
+      "text": "在我看来 Vibe Coding 时代，软件工程的那些经验和常识不但没有失效，反而大大强化。无论你用多么强的模型，都无法避免模型慢慢开始拉屎，欠债慢慢提高。\n\n软件开发，首先是个工程，其次才是设计、编码、测试等。换言之，AI 只解决了编码里面的很小一部分，很多模型像做题家一样，还需要人来设计指挥。"
+    },
+    "url": "https://x.com/guyingjie129/status/2124345277670990062",
+    "time": "2026-11-22 11:32",
+    "created_at": "Sun Nov 22 03:32:37 +0000 2026",
+    "id_str": "2124345277670990062",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@shengzheyao @dotey 你好，我发现那个定时器有的时候会一直转，不会结束卡进程的问题（虽然很少触发，我也不知道该怎么描述🥲）",
+    "quoted_tweet": null,
+    "url": "https://x.com/Seedoee/status/2124353485797999095",
+    "time": "2026-11-22 12:05",
+    "created_at": "Sun Nov 22 04:05:14 +0000 2026",
+    "id_str": "2124353485797999095",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Seedoee @shengzheyao 有截图吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124355209425993913",
+    "time": "2026-11-22 12:12",
+    "created_at": "Sun Nov 22 04:12:05 +0000 2026",
+    "id_str": "2124355209425993913",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "用起来了！Claude Code 客户端接第三方 api，使用 Claude Design，产品人员的福音 👍\n\n具体可以看  宝玉老师 @dotey  的 Open Artifact 项目",
+    "quoted_tweet": {
+      "author": "宝玉",
+      "username": "dotey",
+      "text": "@ZeroZ_JQ 如果你想在 Claude Code 之外用，可以试试 https://github.com/JimLiu/open-artifact"
+    },
+    "url": "https://x.com/huqinyiyayuguan/status/2124362100541968578",
+    "time": "2026-11-22 12:39",
+    "created_at": "Sun Nov 22 04:39:28 +0000 2026",
+    "id_str": "2124362100541968578",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@flying_crp @ZeroZ_JQ 可以的，用 /open-artifact design 就可以做原型",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124365774450045077",
+    "time": "2026-11-22 12:54",
+    "created_at": "Sun Nov 22 04:54:04 +0000 2026",
+    "id_str": "2124365774450045077",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @ZeroZ_JQ 会继承项目已有的设计系统和主题吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/flying_crp/status/2124373645665665379",
+    "time": "2026-11-22 13:25",
+    "created_at": "Sun Nov 22 05:25:20 +0000 2026",
+    "id_str": "2124373645665665379",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@flying_crp @ZeroZ_JQ 用 /open-artifact design-system 导入一次设计系统就好了",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124374055994229104",
+    "time": "2026-11-22 13:26",
+    "created_at": "Sun Nov 22 05:26:58 +0000 2026",
+    "id_str": "2124374055994229104",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 国服还是外服？",
+    "quoted_tweet": null,
+    "url": "https://x.com/bayangal/status/2124408213181476885",
+    "time": "2026-11-22 15:42",
+    "created_at": "Sun Nov 22 07:42:42 +0000 2026",
+    "id_str": "2124408213181476885",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@bayangal 美服，PS",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124410925973155883",
+    "time": "2026-11-22 15:53",
+    "created_at": "Sun Nov 22 07:53:29 +0000 2026",
+    "id_str": "2124410925973155883",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey @xpeter1980 不太懂，这个比 baocut 里做视频的提示词更好用？",
+    "quoted_tweet": null,
+    "url": "https://x.com/binchenWLB/status/2124414177922207781",
+    "time": "2026-11-22 16:06",
+    "created_at": "Sun Nov 22 08:06:24 +0000 2026",
+    "id_str": "2124414177922207781",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@binchenWLB @xpeter1980 这个只能做动画，没有能力使用本机 tts/stt 等模型",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2124420184366846399",
+    "time": "2026-11-22 16:30",
+    "created_at": "Sun Nov 22 08:30:16 +0000 2026",
+    "id_str": "2124420184366846399",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@dremnik 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2124363878297714759",
+    "time": "2026-11-22 12:46",
+    "created_at": "Sun Nov 22 04:46:32 +0000 2026",
+    "id_str": "2124363878297714759",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "The super powers of AI is putting the spirited individual in the center. The Idea Guy suddenly has an avenue to push their dreams that doesn't rely on raising big money or being a master programmer. This is very exciting.",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Ruby on Rails creator DHH says AI is bringing back the individual hacker's ability to shape the future of computing:\n\n\"I love that we have this energy around computers again, like it was in the '90s, the '80s, where hackers and experimenters are suddenly at the forefront of everything.\"\n\n\"I love this energy that now individuals, thanks to the power of AI, can actually play a pivotal role in the forward progression of the industry.\"\n\n\"Once the internet got sort of bottled up and commercialized, a lot of the frontier work to push things forward just got gobbled up by the big companies.\"\n\n\"We closed off all these domains of the consequential bits of the computer. And only the biggest companies in the world could work on them. And now we're re-democratizing it. We're returning it to the hacker culture. We're returning it to the individual who can actually move some of this stuff forward.\"\n\n@dhh"
+    },
+    "url": "https://x.com/dhh/status/2124042166506787113",
+    "time": "2026-11-21 15:28",
+    "created_at": "Sat Nov 21 07:28:09 +0000 2026",
+    "id_str": "2124042166506787113",
+    "is_retweet": true
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "Planes stopped, bookings spiked\n\nAfter the November 13 FAA ground stop, car and hotel bookings on Navan spiked to roughly twice their normal hourly volume as travelers searched for alternatives\n\nCharts of the Week: https://a16z.news/p/charts-of-the-week-there-is-no-gen",
+    "quoted_tweet": null,
+    "url": "https://x.com/a16z/status/2124201269879570695",
+    "time": "2026-11-22 02:00",
+    "created_at": "Sat Nov 21 18:00:23 +0000 2026",
+    "id_str": "2124201269879570695",
+    "is_retweet": false
+  },
+  {
+    "username": "a16z",
+    "nickname": "a16z",
+    "text": "a16z's Moses Sternstein on why \"there is no Gen Z\":\n\n\"If you take Gen Z and you put them in a room of 99 other Gen Zs, 99 other millennials, 99 other Gen X, 99 other boomers, the odds of them finding a perfect match are almost the same. They actually have a slightly higher likelihood of matching with Gen X and boomers than they do with Gen Z.\"\n\n\"It's definitely heterogeneity, but it also just might be there are more Gen Z tribes... If you're trying to find some kind of uniform cohort, you're just not gonna find it.\"\n\n\"They are fragmented by their different online, by their internet consumption.\"\n\n\"And the implication, whether for politics, for marketing, for institutional trust is, everybody keeps asking, how do we reach the youngs? How do we reach these kids? But the issue is that of course, there is no Gen Z, so it's a hard problem to solve.\"\n\n@MosesSternstein @alex_danco",
+    "quoted_tweet": {
+      "author": "a16z",
+      "username": "a16z",
+      "text": "Gen Z people are surprisingly unlike anyone, including other Gen Z people\n\nIn a room of 99 other Zoomers from the same country, 8.5% found someone with identical answers to 13 policy questions\n\nThat barely changed when the room was filled with Millennials, Gen X or Boomers\n\nCharts of the Week: http://a16z.news/p/charts-of-the-week-there-is-no-gen"
+    },
+    "url": "https://x.com/a16z/status/2124216383106166944",
+    "time": "2026-11-22 03:00",
+    "created_at": "Sat Nov 21 19:00:26 +0000 2026",
+    "id_str": "2124216383106166944",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "卧槽\n特斯拉发布了 GTA Real…\n\n特斯拉最新的FSD v15 可以实景渲染现实世界\n\n而且能被别道路上的坑坑洼洼、微小障碍物\n还能识别交警的手势动作\n\n安全性能提升了25倍",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2124329544639529227",
+    "time": "2026-11-22 10:30",
+    "created_at": "Sun Nov 22 02:30:06 +0000 2026",
+    "id_str": "2124329544639529227",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I don’t know her but this girl won New York for me today",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124265205878161873",
+    "time": "2026-11-22 06:14",
+    "created_at": "Sat Nov 21 22:14:26 +0000 2026",
+    "id_str": "2124265205878161873",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AnasAbdin This is so beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124265208814211340",
+    "time": "2026-11-22 06:14",
+    "created_at": "Sat Nov 21 22:14:27 +0000 2026",
+    "id_str": "2124265208814211340",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love her art",
+    "quoted_tweet": {
+      "author": "Karoline Georges",
+      "username": "KarolineGeorges",
+      "text": "Mauve Mush II"
+    },
+    "url": "https://x.com/icreatelife/status/2124272304851210555",
+    "time": "2026-11-22 06:42",
+    "created_at": "Sat Nov 21 22:42:39 +0000 2026",
+    "id_str": "2124272304851210555",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It’s about the quality of the engagements. Even Zuc posts his major announcements on X due to the better audience and intelligent conversation.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Ideophobic/status/2124275611976032518",
+    "time": "2026-11-22 06:55",
+    "created_at": "Sat Nov 21 22:55:47 +0000 2026",
+    "id_str": "2124275611976032518",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Ideophobic Seems like recently a lot of people from X community moved to Threads. So it’s same people just better engagement. \n\nI hope X fixes the algorithm soon. Hate seeing so many people go.",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124279096662274249",
+    "time": "2026-11-22 07:09",
+    "created_at": "Sat Nov 21 23:09:38 +0000 2026",
+    "id_str": "2124279096662274249",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@RobotCleopatra So cool",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124279465723474212",
+    "time": "2026-11-22 07:11",
+    "created_at": "Sat Nov 21 23:11:06 +0000 2026",
+    "id_str": "2124279465723474212",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@roxannriskin Very cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124279508899340363",
+    "time": "2026-11-22 07:11",
+    "created_at": "Sat Nov 21 23:11:16 +0000 2026",
+    "id_str": "2124279508899340363",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "X is way more AI friendly than other platforms",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124279705570312533",
+    "time": "2026-11-22 07:12",
+    "created_at": "Sat Nov 21 23:12:03 +0000 2026",
+    "id_str": "2124279705570312533",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@LikeToasters @icreatelife Just remember social media just by design creates echo chambers, I'm in another group of people and the reactions to AI art are very emotionally driven. Threads is one of those places since a lot of people consider it the alternative to X.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GrandMagus77x/status/2124294902108586270",
+    "time": "2026-11-22 08:12",
+    "created_at": "Sun Nov 22 00:12:26 +0000 2026",
+    "id_str": "2124294902108586270",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GrandMagus77x @LikeToasters I actually post a lot of my non-AI stuff there! Very positive sentiment and reaction",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124296716186722647",
+    "time": "2026-11-22 08:19",
+    "created_at": "Sun Nov 22 00:19:39 +0000 2026",
+    "id_str": "2124296716186722647",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife You can buy pet treats and feed it to dogs in the game :) I've learned that yesterday so now I'm gonna make sure my character is always have pet treats on them! I think you can buy them at convenience stores.",
+    "quoted_tweet": null,
+    "url": "https://x.com/dhurjati_n/status/2124316734094270870",
+    "time": "2026-11-22 09:39",
+    "created_at": "Sun Nov 22 01:39:11 +0000 2026",
+    "id_str": "2124316734094270870",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@dhurjati_n Awwww thank you! I will try that!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124325083321978956",
+    "time": "2026-11-22 10:12",
+    "created_at": "Sun Nov 22 02:12:22 +0000 2026",
+    "id_str": "2124325083321978956",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "I went to see Macy’s holiday window display 2026 in New York tonight and I am so fond of all the hippos 🦛 🥹\n this one is for 100th Thanksgiving parade",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2124334616769351719",
+    "time": "2026-11-22 10:50",
+    "created_at": "Sun Nov 22 02:50:15 +0000 2026",
+    "id_str": "2124334616769351719",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "I let Gemini 4 Neon make whatever music vid it wanted\n\nAt first it failed pretty bad imo, but after a couple days of poking it a bunch:\n\n\"THE CURRENT THING\"",
+    "quoted_tweet": {
+      "author": "anabology",
+      "username": "anabology",
+      "text": "Neon failed my informal music vid bench pretty bad lol"
+    },
+    "url": "https://x.com/anabology/status/2124322570652528876",
+    "time": "2026-11-22 10:02",
+    "created_at": "Sun Nov 22 02:02:23 +0000 2026",
+    "id_str": "2124322570652528876",
+    "is_retweet": true
   }
 ]
