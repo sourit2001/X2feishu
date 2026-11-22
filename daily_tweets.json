@@ -674,5 +674,90 @@
     "created_at": "Sun Nov 22 00:22:59 +0000 2026",
     "id_str": "2124297556150939968",
     "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@a_musingcat Should be 2/5",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2124261463821025767",
+    "time": "2026-11-22 05:59",
+    "created_at": "Sat Nov 21 21:59:34 +0000 2026",
+    "id_str": "2124261463821025767",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@ajv @bot 🐐",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2124263745585336776",
+    "time": "2026-11-22 06:08",
+    "created_at": "Sat Nov 21 22:08:38 +0000 2026",
+    "id_str": "2124263745585336776",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "80-90% of major \"AI incidents\" that cause real harm have no attacker, just an agent tripping up on a poor codebase. \n\ni turned the latest research into into a prompt that checks your setup for the most common causes. Hand it to your agent  ->\n\nhttps://github.com/jdpru/cover-your-ais/blob/main/prompts/ai-codebase-safety-audit.md",
+    "quoted_tweet": null,
+    "url": "https://x.com/jdpruettt/status/2124285595925217484",
+    "time": "2026-11-22 07:35",
+    "created_at": "Sat Nov 21 23:35:28 +0000 2026",
+    "id_str": "2124285595925217484",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@jdpruettt Killer research",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2124286776638664884",
+    "time": "2026-11-22 07:40",
+    "created_at": "Sat Nov 21 23:40:09 +0000 2026",
+    "id_str": "2124286776638664884",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "If you're building agents and you're not following accounts like this you're not serious.",
+    "quoted_tweet": {
+      "author": "JD Pruett",
+      "username": "jdpruettt",
+      "text": "80-90% of major \"AI incidents\" that cause real harm have no attacker, just an agent tripping up on a poor codebase. \n\ni turned the latest research into into a prompt that checks your setup for the most common causes. Hand it to your agent  ->\n\nhttps://github.com/jdpru/cover-your-ais/blob/main/prompts/ai-codebase-safety-audit.md"
+    },
+    "url": "https://x.com/vasuman/status/2124286939734143046",
+    "time": "2026-11-22 07:40",
+    "created_at": "Sat Nov 21 23:40:48 +0000 2026",
+    "id_str": "2124286939734143046",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Love this [deep and complex] → [here's a tactical doc you can act on right now]. Bravo",
+    "quoted_tweet": {
+      "author": "JD Pruett",
+      "username": "jdpruettt",
+      "text": "80-90% of major \"AI incidents\" that cause real harm have no attacker, just an agent tripping up on a poor codebase. \n\ni turned the latest research into into a prompt that checks your setup for the most common causes. Hand it to your agent  ->\n\nhttps://github.com/jdpru/cover-your-ais/blob/main/prompts/ai-codebase-safety-audit.md"
+    },
+    "url": "https://x.com/thmslj/status/2124287596729860564",
+    "time": "2026-11-22 07:43",
+    "created_at": "Sat Nov 21 23:43:25 +0000 2026",
+    "id_str": "2124287596729860564",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@thmslj 🔥",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2124293938123329665",
+    "time": "2026-11-22 08:08",
+    "created_at": "Sun Nov 22 00:08:36 +0000 2026",
+    "id_str": "2124293938123329665",
+    "is_retweet": false
   }
 ]
