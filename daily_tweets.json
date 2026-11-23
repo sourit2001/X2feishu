@@ -1,1 +1,165 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I believe Ethereum is making the wrong strategic decision to accelerate pqai.\n\nWe're giving up way too much in opportunity cost for what, in my eye, are miscalculated risks.\n\nI'll explain why in the next four tweets\n\n1/5",
+    "quoted_tweet": null,
+    "url": "https://x.com/Leo_Glisic/status/2123981425708027968",
+    "time": "2026-11-21 11:26",
+    "created_at": "Sat Nov 21 03:26:48 +0000 2026",
+    "id_str": "2123981425708027968",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "And it's not at all certain that elliptic curves are more likely to be hacked by AI vs hash‐based, so unless we're moving to a dual-signature scheme, it seems like a tossup to me on this front.\n\n3/5",
+    "quoted_tweet": null,
+    "url": "https://x.com/Leo_Glisic/status/2123981449108025728",
+    "time": "2026-11-21 11:26",
+    "created_at": "Sat Nov 21 03:26:53 +0000 2026",
+    "id_str": "2123981449108025728",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@Leo_Glisic Pretty much every non-hash-based signature scheme also uses hashes somewhere in its construction\n\nSo \"depend only on curves/lattices\" is not on the table\n\nit's either depending only on hashes, or depending on both hashes and something else",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2124487160736973184",
+    "time": "2026-11-22 20:56",
+    "created_at": "Sun Nov 22 12:56:24 +0000 2026",
+    "id_str": "2124487160736973184",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Yes! Read Moonbound!",
+    "quoted_tweet": {
+      "author": "Ethan Mollick",
+      "username": "emollick",
+      "text": "I've given my suggestions here many times,*  but a new addition is Moonbound by Robin Sloan. It is weird future science fantasy, but LLM-like AIs have a central role.\n\n* Watts (worrying!), Banks, Chambers, Vinge, Douglas Adams (oddly correct about AI), Stross, Egan, etc."
+    },
+    "url": "https://x.com/jamescham/status/2124364386798367083",
+    "time": "2026-11-22 12:48",
+    "created_at": "Sun Nov 22 04:48:33 +0000 2026",
+    "id_str": "2124364386798367083",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@jamescham I think you suggested it?",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124365292209848586",
+    "time": "2026-11-22 12:52",
+    "created_at": "Sun Nov 22 04:52:09 +0000 2026",
+    "id_str": "2124365292209848586",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Lem. \nAgain.\n\nThey were translated into English in the '80s for pity's sake.",
+    "quoted_tweet": null,
+    "url": "https://x.com/JayDugger/status/2124499678787952751",
+    "time": "2026-11-22 21:46",
+    "created_at": "Sun Nov 22 13:46:09 +0000 2026",
+    "id_str": "2124499678787952751",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@JayDugger I think Golem XIV is a pretty good take on superintelligence",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124529565590593926",
+    "time": "2026-11-22 23:44",
+    "created_at": "Sun Nov 22 15:44:54 +0000 2026",
+    "id_str": "2124529565590593926",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "by 2027 there's basically one app you use, an agent\n\nplatform, and every other piece of software turns into a database it reads and writes to\n\nwhat that platform needs:\n> every agent runs in its own box so it can change its own tools without breaking the others\n> agents can use lots of computers at once, cloud sandboxes or your own laptop\n> one shared file system with permissions, like github and google drive in one\n> you don't watch the agent work. you get a chat thread plus an inbox of approvals and questions\n> agents set up their own triggers like \"run when an email from this company comes in\", not just a timer every hour\n> workflows written as code, not drag and drop zaps\n> every screen is an app your agent can rewrite for you",
+    "quoted_tweet": {
+      "author": "John Suh",
+      "username": "john_ssuh",
+      "text": "Agent platform of 2027. \n\nThis is the end game. This is the blueprint for the one and only application layer software that will exist. Every other software will effectively become databases for this layer, the everything agentic operating system for the million agent swarm to work on top of. \n\nThis is obviously the end game vision for the application layer of ChatGPT and Claude. I have reasons to believe that an independent company will own this product layer. But most ADE, \"enterprise agent platform\", or vertical saas companies, are focused on the wrong things far too narrowly, not technically competent, and do not have the product / technical vision to see this inevitable future. \n\nThe correct agent platform that wins will function like the base of a garden, from which customers will plant their unique \"seeds\" to grow their own plants and trees, managed and evolved by agents, humans, and signals from the sensors of the business. This presents a clearer picture than \"factory of a factory\" imo."
+    },
+    "url": "https://x.com/godofprompt/status/2124608112971944196",
+    "time": "2026-11-23 04:57",
+    "created_at": "Sun Nov 22 20:57:02 +0000 2026",
+    "id_str": "2124608112971944196",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Summarizing memories throws details away.\n\nMIRIX-2.0, from the MIRIX AI team, keeps every record word for word instead. Their example: Mia tells her assistant she got a Suica card, then weeks later asks how to get around Tokyo. An assistant without memory tells her to go buy one.\n\nStorage is split across six agents. Each one owns a single kind of memory, like events, facts or skills.\n\nAbove the records sits a map of people, places and events. Every link on it points back to the exact record it came from, so the map never stands in for what was actually said.\n\nRetrieval starts at a node. Mia asks about Tokyo, the system begins at her name on the map, reads a handful of linked records, and answers that she already has the card. That handful stays the same size however long her history gets.\n\nBetween conversations it runs an offline pass called AutoDream.\n\nhere's what AutoDream does 👇\n→ merges names that mean the same thing, like \"steel bottle\" and \"stainless steel bottle\"\n→ turns finished tasks into skills it can reuse later\n→ leaves every stored record untouched\n\nOn LongMemEval-S it scores 72.6%, 14.3 points above the strongest baseline. On MetaClaw-Bench, which tests skill memory, it reaches 49.2% against 44.0% for MetaClaw's own skill library.\n\nIt also posts the highest mean success rate of the compared memory methods on both ALFWorld and WebShop.\n\nThe first MIRIX paper came out in July 2025 with eight agents across six memory components, and its code is on GitHub under Mirix-AI.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rryssf/status/2124624361919488233",
+    "time": "2026-11-23 06:01",
+    "created_at": "Sun Nov 22 22:01:36 +0000 2026",
+    "id_str": "2124624361919488233",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We’re all getting more dependent on this day after day",
+    "quoted_tweet": {
+      "author": "Superman",
+      "username": "thesupermannx",
+      "text": "Researchers discovered a new psychological condition caused by ChatGPT.\n\nThey're calling it \"Cognitive Surrender.\"\n\nResearchers ran three experiments across 1,372 people and 9,593 reasoning trials. They gave participants access to an AI assistant, but secretly rigged the AI to be accurate on some trials and subtly wrong on others.\n\nPeople consulted the AI on more than 50% of the trials.\n\nWhen the AI was right, human accuracy jumped by 25 percentage points.\n\nWhen the AI was wrong, accuracy crashed by 15 percentage points.\n\nParticipants didn't double-check the output. They didn't catch the errors. They let System 3 override both their gut instinct and their critical thinking.\n\nThen came the darker finding.\n\nUsing the AI made people measurably more confident in their answers—even when the AI fed them completely wrong information.\n\nThe researchers tried to break the habit. They added time pressure. They gave participants live feedback and financial incentives to get the right answer.\n\nIt didn't work.\n\nEven when money was on the line, people still surrendered their judgment to a faulty AI.\n\nWe used to think AI was just a tool to help us think faster.\n\nIt's not. It's quietly replacing the act of thinking altogether."
+    },
+    "url": "https://x.com/godofprompt/status/2124631796801314971",
+    "time": "2026-11-23 06:31",
+    "created_at": "Sun Nov 22 22:31:08 +0000 2026",
+    "id_str": "2124631796801314971",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "心力的传承",
+    "quoted_tweet": {
+      "author": "yihong0618",
+      "username": "yihong0618",
+      "text": "原来影之刃零是大哥在看 2020 年黑神话 pv 之后一夜没怎么睡决定做的，传承这种东西真的存在。"
+    },
+    "url": "https://x.com/oran_ge/status/2124646115173933157",
+    "time": "2026-11-23 07:28",
+    "created_at": "Sun Nov 22 23:28:02 +0000 2026",
+    "id_str": "2124646115173933157",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Google actually cooked with Gemini Neon. It's actually a really good model. Never count out Google.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2124610565490540559",
+    "time": "2026-11-23 05:06",
+    "created_at": "Sun Nov 22 21:06:46 +0000 2026",
+    "id_str": "2124610565490540559",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "If you've upgraded your ChatGPT app in the past few days, you may have noticed that it is noticeably faster!\n\nWe basically challenged ourselves to land as many wins as possible in a week and it ended up being quite fun :)\n\nI figured I'd share some of my favorite changes!",
+    "quoted_tweet": {
+      "author": "Akshay Nathan",
+      "username": "akshaynathan_",
+      "text": "chatgpt app should feel much smoother. let us know where we can improve, lots more to do!"
+    },
+    "url": "https://x.com/feedthejim/status/2124603578019086484",
+    "time": "2026-11-23 04:39",
+    "created_at": "Sun Nov 22 20:39:00 +0000 2026",
+    "id_str": "2124603578019086484",
+    "is_retweet": true
+  }
+]
