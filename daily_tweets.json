@@ -1,1 +1,677 @@
-[]
+[
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "THE AI TRADE IS BACK \n\n$NVDA Board Reinstates Jensen Huang as CEO",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2124865722342085117",
+    "time": "2026-11-23 22:00",
+    "created_at": "Mon Nov 23 14:00:40 +0000 2026",
+    "id_str": "2124865722342085117",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@VitalikButerin @narrenhut Destroying one neuron at a time rather than replacing it would probably not disrupt your consciousness either but you’d clearly end up dead.",
+    "quoted_tweet": null,
+    "url": "https://x.com/comradeKangaroo/status/2124765663654990271",
+    "time": "2026-11-23 15:23",
+    "created_at": "Mon Nov 23 07:23:05 +0000 2026",
+    "id_str": "2124765663654990271",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@VitalikButerin @narrenhut Dumbass",
+    "quoted_tweet": null,
+    "url": "https://x.com/Steven_McKie/status/2124817043094737148",
+    "time": "2026-11-23 18:47",
+    "created_at": "Mon Nov 23 10:47:14 +0000 2026",
+    "id_str": "2124817043094737148",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@Steven_McKie @narrenhut I prefer to think of myself as dumtreble.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2124825904006525030",
+    "time": "2026-11-23 19:22",
+    "created_at": "Mon Nov 23 11:22:27 +0000 2026",
+    "id_str": "2124825904006525030",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I predict that would feel like cognitive decline that you could actually notice, you'd stop and think \"wait, why I can't I do this anymore?\"\n\neven when I had (what I think was) a fairly mild case of long covid a few years ago I could feel that\n\n\"why am I sleeping 10+ hours a day? why am I so tired? why is my chess rating dropping 200 points?\"\n\nI expect deleting random neurons one at a time would give you not those exact symptoms, but similarly internally-perceivable symptoms",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2124827094874309069",
+    "time": "2026-11-23 19:27",
+    "created_at": "Mon Nov 23 11:27:11 +0000 2026",
+    "id_str": "2124827094874309069",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Walmart is determined not to make the same mistake with agentic commerce that it did with ecommerce. While Amazon is blocking agents, Walmart is embracing them - quite a reversal.\n\nAnd the new data from Stripe suggests agentic shopping may actually be kicking off & is sticky.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124895744775667767",
+    "time": "2026-11-23 23:59",
+    "created_at": "Mon Nov 23 15:59:58 +0000 2026",
+    "id_str": "2124895744775667767",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "See also https://x.com/ahall_research/status/2124889867968741878?a=ojMMMXHr5GiitpCijxo&s=20",
+    "quoted_tweet": {
+      "author": "Andy Hall",
+      "username": "ahall_research",
+      "text": "Frontier models can now propose technical social science research designs that experts grade more highly than the world's top political economist's---that's the finding from our new Free Systems eval, SnyderBench, in which we have PhD experts blind grade research proposals from AI models compared to papers written by Harvard political economist Jim Snyder (which the experts have not previously read). \n\nAt the same time, we see no evidence that models can develop research ideas that experts rate as better overall contributions. They're getting better and better at the technical part of research, but not necessarily at the more subjective part.\n\nThis could be because human experts possess \"judgment\" that the models do not. \n\nIt could also be that research \"contribution\" is so subjective that it doesn't actually point at any meaningful goal---consistent with this possibility, we find that our human experts don't agree with one another when rating project ideas for the strength of their contribution, with agreement rates barely higher than random chance. Perhaps social science research is what @alexolegimas might call a \"relational good\": something people value in part because it's produced by a human. We're not sure. \n\nThis past January, I released the results of a pilot in which I had Claude Code replicate and extend a past empirical paper on vote-by-mail. 10 months later, it's stunning the amount of progress that's been made. It's no longer interesting to ask whether AI can collect data and run analyses automagically---we take that for granted---instead, the question is how much of the entire research loop AI can complete. Our tentative answer: AI can handle the technical aspects of empirical political economy research from end to end, devising the design and executing it, but for now, we still need humans to drive the agenda. \n\nThis is joint work with @AndyCWMyers, and is of course dedicated to my PhD advisor Jim Snyder, who remains the world's great empirical political economist, AI or no AI. \n\nLots more in the full piece here:\n\nhttps://freesystems.substack.com/p/benchmarking-ais-research-taste-in"
+    },
+    "url": "https://x.com/emollick/status/2124946844543545356",
+    "time": "2026-11-24 03:23",
+    "created_at": "Mon Nov 23 19:23:01 +0000 2026",
+    "id_str": "2124946844543545356",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "But in our research on AI shopping, we discovered that every pattern in agent preferences collapses remarkably easily. Change the order of the sites that the AI sees, have a conversation with the AI first, change a headline... and AI suggestions change. https://gail.wharton.upenn.edu/research-and-insights/technical-report-agentic-shopping/",
+    "quoted_tweet": {
+      "author": "Olivia Moore",
+      "username": "omooretweets",
+      "text": "Agents may be the biggest distribution opportunity ever - working 24/7 on our behalf, with our wallets\n\nHow do you attract their attention?\n\nWe @a16z partnered with @promptingco on more than 10,000 runs across the four leading agents - our takeaways 👇\n\n(cc @venturetwins)"
+    },
+    "url": "https://x.com/emollick/status/2124970360445796544",
+    "time": "2026-11-24 04:56",
+    "created_at": "Mon Nov 23 20:56:28 +0000 2026",
+    "id_str": "2124970360445796544",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "And each model behaves differently as well, so be careful if offered an easy solution to influencing AI preferences. As soon as anything enters the context window, things change a lot.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2124971840997040163",
+    "time": "2026-11-24 05:02",
+    "created_at": "Mon Nov 23 21:02:21 +0000 2026",
+    "id_str": "2124971840997040163",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We now have an open-source, AI-native operating system for phones.\n\nThis is inevitable!\n\nThe next major mobile shift is moving towards AI-native, agentic platforms.\n\nHere are some of the advantages of running an AI-native OS on our devices:\n\n• Apps can share context between them\n• Agents can coordinate actions across apps\n• The system can manage long-running tasks\n• It can also resume interrupted workflows\n• It can enforce permissions independently of the models\n\nYou'll find the public repository here, so have at it!",
+    "quoted_tweet": {
+      "author": "taku",
+      "username": "TheTakuAI",
+      "text": "We open-sourced Taku OS yesterday.\nSo, what can it do?\nMaybe the better question is: what can't it do?\n\nWhat if your phone wasn't limited to the apps you install, but became something you could reshape, extend, and create with?\n\nWe're exploring a whole new way to think about what a phone can be.\nAnd it's ridiculously fun.\n\nRead our latest Manifesto:  \nhttps://medium.com/@taku_ai/lets-make-phones-fun-again-5079fe06b95c"
+    },
+    "url": "https://x.com/svpino/status/2124863797701857337",
+    "time": "2026-11-23 21:53",
+    "created_at": "Mon Nov 23 13:53:02 +0000 2026",
+    "id_str": "2124863797701857337",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You check every answer AI gives you, line by line.\n\n5 prompts that make it check itself first, so you only read the version that passed.\n\nMost bad answers don't come from a weak model. Nobody told it what done looks like, so it stops at the first draft that sounds right.\n\nThis week two posts promising \"agents that fix their own mistakes\" got 8,000+ bookmarks between them. You don't need an agent setup for that. You need the loop in plain text, and it works in ChatGPT, Claude or Gemini.\n\nPrompt 1: Define done\n\"Before you start on [task], write 5 checks a finished answer must pass. Make each one specific enough that a stranger could mark it pass or fail, like 'every number has a source' or 'under 200 words'. Wait for me to approve the list.\"\n\nPrompt 2: Plan before you write\n\"Write a short plan: the steps, what you need from me, and which check each step serves. If a check isn't covered by any step, add one. Then do the work.\"\n\nPrompt 3: The strict reviewer\n\"Now switch roles. You're the toughest reviewer I know and you didn't write this. Grade the draft against each check: pass or fail, with the exact line that fails. No compliments.\"\n\nPrompt 4: Fix and repeat\n\"Fix only what failed. Run the review again. Repeat until everything passes or you've done 3 rounds. If something still fails after 3, stop and tell me what's blocking it instead of guessing.\"\n\nPrompt 5: Check against my ask\n\"Read my original request again. List anything I asked for that's missing or changed. Then show me only the final version and one line on what changed since the first draft.\"\n\nPaste them into one chat, in order. The first run takes 5 minutes. After that, keep prompts 1 and 3 handy and you'll use them every day.\n\n7,200+ prompts like these in the God of Prompt library, free, no signup. First reply.\n\nWhat do you still check by hand that AI should be checking for you?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124865863853776952",
+    "time": "2026-11-23 22:01",
+    "created_at": "Mon Nov 23 14:01:14 +0000 2026",
+    "id_str": "2124865863853776952",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124865876130410921",
+    "time": "2026-11-23 22:01",
+    "created_at": "Mon Nov 23 14:01:17 +0000 2026",
+    "id_str": "2124865876130410921",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "$NVDA  SURGES 31.19% IN PREMARKET AFTER JENSEN HUANG'S REINSTATEMENT AS CEO\n\nU.S. tech stocks are soaring in premarket trading following reports that Nvidia's board unanimously reinstated Jensen Huang as President and CEO, effective immediately.\n\nThe rally is spreading across AI, semiconductor and technology stocks:\n\n🔸 $CRWV CoreWeave: +33.52%\n🔸 $NBIS Nebius: +32.21%\n🔸 $NVDA Nvidia: +31.19%\n🔸 $IREN IREN: +24.02%\n🔸 $SMCI Super Micro Computer: +19.66%\n🔸 $MU Micron: +17.61%\n🔸 $MSTR Strategy: +14.83%\n🔸 $ORCL Oracle: +13.37%\n🔸 $INTC Intel: +13.09%\n🔸 $AMD AMD: +7.83%\n🔸 $QQQ Nasdaq-100 ETF: +7.15%\n🔸 $SPY S&P 500 ETF: +6.74%\n\nThe sharp rebound signals renewed risk appetite across AI-linked equities following last week's historic selloff.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DeItaone/status/2124867095389159800",
+    "time": "2026-11-23 22:06",
+    "created_at": "Mon Nov 23 14:06:08 +0000 2026",
+    "id_str": "2124867095389159800",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Nvidia has reinstated Jensen Huang as CEO, effective immediately, just days after its board ruled out his return.\n\nNvidia shares surged more than 25% in premarket trading following the announcement.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Pirat_Nation/status/2124867988113240309",
+    "time": "2026-11-23 22:09",
+    "created_at": "Mon Nov 23 14:09:41 +0000 2026",
+    "id_str": "2124867988113240309",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Pirat_Nation eleven days off and he still came back before my gpu order did",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124868337649816027",
+    "time": "2026-11-23 22:11",
+    "created_at": "Mon Nov 23 14:11:04 +0000 2026",
+    "id_str": "2124868337649816027",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@DeItaone minus 13% when he left, plus 31% when he came back. some vacation",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124868770380623979",
+    "time": "2026-11-23 22:12",
+    "created_at": "Mon Nov 23 14:12:47 +0000 2026",
+    "id_str": "2124868770380623979",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@svpino enforcing permissions outside the model is the part i'd copy. a prompt was never a lock",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124869540878393401",
+    "time": "2026-11-23 22:15",
+    "created_at": "Mon Nov 23 14:15:51 +0000 2026",
+    "id_str": "2124869540878393401",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt \"nobody told it what done looks like\" is the whole game fr. every agent on my team gets a written definition of done + a check. no check = it's just a claim. you pairing these with a real checker or self-review only?",
+    "quoted_tweet": null,
+    "url": "https://x.com/nishtrivedi/status/2124882682844958805",
+    "time": "2026-11-23 23:08",
+    "created_at": "Mon Nov 23 15:08:04 +0000 2026",
+    "id_str": "2124882682844958805",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "NVDA MARKET CAP +$1.1 TRILLION TODAY",
+    "quoted_tweet": null,
+    "url": "https://x.com/zerohedge/status/2124886962620207400",
+    "time": "2026-11-23 23:25",
+    "created_at": "Mon Nov 23 15:25:05 +0000 2026",
+    "id_str": "2124886962620207400",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@nishtrivedi self review first because it costs nothing. anything that ships also gets a real check, a test or a second model on the line that matters",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124888643106210107",
+    "time": "2026-11-23 23:31",
+    "created_at": "Mon Nov 23 15:31:45 +0000 2026",
+    "id_str": "2124888643106210107",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@zerohedge $1.1 trillion and he didn't even have to badge in",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124889448408404090",
+    "time": "2026-11-23 23:34",
+    "created_at": "Mon Nov 23 15:34:57 +0000 2026",
+    "id_str": "2124889448408404090",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@godofprompt The one that helped me most: ask it to list what a great answer must include before it writes, then grade its own draft against that list. It usually catches the 1 or 2 things it missed.",
+    "quoted_tweet": null,
+    "url": "https://x.com/santanaa_ia/status/2124904182389874866",
+    "time": "2026-11-24 00:33",
+    "created_at": "Mon Nov 23 16:33:30 +0000 2026",
+    "id_str": "2124904182389874866",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "This will go down as one of the greatest comebacks in history.",
+    "quoted_tweet": null,
+    "url": "https://x.com/wallstreetbets/status/2124910562849206354",
+    "time": "2026-11-24 00:58",
+    "created_at": "Mon Nov 23 16:58:51 +0000 2026",
+    "id_str": "2124910562849206354",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "New mysterious model on Qoder: \"HungerG\".\n\n100% free to use right now!\n\nNo idea who is behind this model, but whoever it is wants to test it without revealing it first.\n\nYou can try the model in Qoder's task composer to drive the agent. It's a developer model, so you should be able to drive it for a while and see how good it is.\n\nWho do you think is behind this?",
+    "quoted_tweet": {
+      "author": "Qoder",
+      "username": "qoder_ai_ide",
+      "text": "A new stealth model just landed exclusively on Qoder.\n\nCodename: HungerG.\nIdentity: classified.\n\nFree for 7 days on Qoder and Qoder IDE (Nov 23 to Nov 30). Give it your real task and guess who built it.\n\nMay the tokens be ever in your favor."
+    },
+    "url": "https://x.com/svpino/status/2124911195065086383",
+    "time": "2026-11-24 01:01",
+    "created_at": "Mon Nov 23 17:01:22 +0000 2026",
+    "id_str": "2124911195065086383",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@santanaa_ia those 1 or 2 misses are usually what i would have caught at 11pm. cheap trade",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124911201041653936",
+    "time": "2026-11-24 01:01",
+    "created_at": "Mon Nov 23 17:01:23 +0000 2026",
+    "id_str": "2124911201041653936",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@svpino a free model with no name asking for your real task. maybe not the client repo though",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124911818543935887",
+    "time": "2026-11-24 01:03",
+    "created_at": "Mon Nov 23 17:03:51 +0000 2026",
+    "id_str": "2124911818543935887",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@wallstreetbets steve jobs needed 12 years to come back. jensen needed 11 days",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124912635468452095",
+    "time": "2026-11-24 01:07",
+    "created_at": "Mon Nov 23 17:07:05 +0000 2026",
+    "id_str": "2124912635468452095",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "JUST IN: Longevity researcher Bryan Johnson declares AI will solve death next, after the historic AI-assisted proof of the Riemann Hypothesis.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Polymarket/status/2124930109908136330",
+    "time": "2026-11-24 02:16",
+    "created_at": "Mon Nov 23 18:16:32 +0000 2026",
+    "id_str": "2124930109908136330",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "MCP keeps proving to be the right interface for agent tools.\n\n@canva just made its MCP generally available. Agents can now generate editable designs and videos, remove backgrounds, resize creative, and export the final file.\n\nEverything comes back as an editable Canva design that you can review and tweak.",
+    "quoted_tweet": {
+      "author": "Canva",
+      "username": "canva",
+      "text": "Introducing the all-new Canva MCP, bringing Canva's design engine to the world! 🚀\n\nNow open to any agent or developer, it makes it easier than ever to integrate Canva’s design tools and AI models into any product, agent, or workflow.\n\nWe're building the design layer of the internet 👇"
+    },
+    "url": "https://x.com/omarsar0/status/2124930193944871253",
+    "time": "2026-11-24 02:16",
+    "created_at": "Mon Nov 23 18:16:52 +0000 2026",
+    "id_str": "2124930193944871253",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Zero data retention with Enterprise Frontier Safeguards is now in public beta for eligible orgs on the Claude Platform.\n\nEncrypted copies of your Messages API traffic go to your own cloud storage. Automated checks look for misuse and flag serious risks for your team to review.",
+    "quoted_tweet": {
+      "author": "Claude",
+      "username": "claudeai",
+      "text": "Zero data retention (ZDR) with Enterprise Frontier Safeguards (EFS) is now in public beta for eligible businesses. It looks for misuse across many requests while remaining compatible with ZDR.\n\nWe developed it with over 100 customers.\n\nRead more: https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards"
+    },
+    "url": "https://x.com/ClaudeDevs/status/2124930253344948518",
+    "time": "2026-11-24 02:17",
+    "created_at": "Mon Nov 23 18:17:06 +0000 2026",
+    "id_str": "2124930253344948518",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@ClaudeDevs only counts if you call the api directly. a reseller in the middle can still log every prompt",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124933820377972895",
+    "time": "2026-11-24 02:31",
+    "created_at": "Mon Nov 23 18:31:16 +0000 2026",
+    "id_str": "2124933820377972895",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@Polymarket riemann took 167 years and death is already next in the sprint. bold roadmap",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124934646593171457",
+    "time": "2026-11-24 02:34",
+    "created_at": "Mon Nov 23 18:34:33 +0000 2026",
+    "id_str": "2124934646593171457",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@omarsar0 @canva put your brand colors in the prompt or every design comes back looking like a template",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124935350720307244",
+    "time": "2026-11-24 02:37",
+    "created_at": "Mon Nov 23 18:37:21 +0000 2026",
+    "id_str": "2124935350720307244",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "Share the prompt!",
+    "quoted_tweet": {
+      "author": "Google DeepMind",
+      "username": "GoogleDeepMind",
+      "text": "Gemini 4 Neon recreated Alan Turing’s 1936 study at @Cambridge_Uni in interactive 3D.\n\nUsing archival photos in @Antigravity, the model built Room X.8 at King’s College with a running Universal Turing Machine."
+    },
+    "url": "https://x.com/godofprompt/status/2124960955683455243",
+    "time": "2026-11-24 04:19",
+    "created_at": "Mon Nov 23 20:19:06 +0000 2026",
+    "id_str": "2124960955683455243",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You pay for fast internet and your Wi-Fi delivers a fraction of it. One prompt lets Claude or Codex find out why while you make coffee.\n\nThe usual culprit isn't your provider. It's a crowded channel, a slow DNS, or your laptop stuck on the 2.4 GHz band. Your router won't tell you. An agent that can use your computer can measure all of it.\n\nBruno Volpato tried it and posted his prompt. 4,000+ people saved it. His fixes: a faster DNS, cleaner channels and a separate 5 GHz network.\n\nHere's our version. Run it in Claude Code, Codex or any agent that can use your terminal.\n\nPrompt 1: Diagnose\n\"Diagnose my Wi-Fi and home network and find the real bottleneck. Run these one at a time, never two at once:\n1) my Wi-Fi band, channel, channel width, signal and noise\n2) a scan of nearby networks, counting how many share each channel\n3) 30 pings to my router and 30 to 1.1.1.1 while nothing else is running\n4) a short traceroute to separate home lag from provider lag\n5) my current DNS and how fast it answers compared with 1.1.1.1 and 8.8.8.8\n6) anything using bandwidth in the background\nExplain each result in one plain line. Don't change any settings yet.\"\n\nPrompt 2: Fix plan\n\"Rank the fixes by how much they'll help and how easy they are. For each one: what to change, where (router page or my computer), how to undo it, and how we'll measure the difference. Start with the top one and test again after each change.\"\n\nNo agent? Ask ChatGPT for the 3 commands for your system, run them yourself and paste the results back with Prompt 2.\n\nThe router setting nobody touches is usually the one slowing you down.\n\nMore prompts for your own setup in the God of Prompt library, free. Link in the reply.\n\nWhat's your real speed right now compared with what you pay for?",
+    "quoted_tweet": {
+      "author": "Bruno Volpato",
+      "username": "brunovolpato",
+      "text": "Go ahead and point Neon / Claude / Codex look at your Wi-Fi to optimize it, I just tried and it 🤯  Posting a full prompt in the 🧵"
+    },
+    "url": "https://x.com/godofprompt/status/2124971290478182500",
+    "time": "2026-11-24 05:00",
+    "created_at": "Mon Nov 23 21:00:10 +0000 2026",
+    "id_str": "2124971290478182500",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124971302654198011",
+    "time": "2026-11-24 05:00",
+    "created_at": "Mon Nov 23 21:00:13 +0000 2026",
+    "id_str": "2124971302654198011",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "We've redesigned the side panel in Claude Code on desktop.\n\nFiles, Changes, Terminal and your other tools now open as tabs beside your session. You can still move a tab to see several at once, or pop it out into its own window.\n\nRolling out on Mac. Windows and Linux coming soon!",
+    "quoted_tweet": null,
+    "url": "https://x.com/ClaudeDevs/status/2124978802006851961",
+    "time": "2026-11-24 05:30",
+    "created_at": "Mon Nov 23 21:30:01 +0000 2026",
+    "id_str": "2124978802006851961",
+    "is_retweet": true
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "@ClaudeDevs files open beside the chat means people might finally read the diff before hitting approve",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2124979178420445645",
+    "time": "2026-11-24 05:31",
+    "created_at": "Mon Nov 23 21:31:30 +0000 2026",
+    "id_str": "2124979178420445645",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "之前以为 gemini 4 carbon 是最慢的模型了\n直到今天用了 glm 5.4\n怎么可以这么慢的...",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124829423669330149",
+    "time": "2026-11-23 19:36",
+    "created_at": "Mon Nov 23 11:36:26 +0000 2026",
+    "id_str": "2124829423669330149",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "今天暂时无法评价这个模型，因为5h了还没跑出来任何可用结果...",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124839101052690879",
+    "time": "2026-11-23 20:14",
+    "created_at": "Mon Nov 23 12:14:53 +0000 2026",
+    "id_str": "2124839101052690879",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "一个离开后又回归的 CEO\n含金量是double的\n恭喜老黄",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124873021177626772",
+    "time": "2026-11-23 22:29",
+    "created_at": "Mon Nov 23 14:29:41 +0000 2026",
+    "id_str": "2124873021177626772",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "谁不合群\n群众眼睛雪亮啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124874343712981152",
+    "time": "2026-11-23 22:34",
+    "created_at": "Mon Nov 23 14:34:56 +0000 2026",
+    "id_str": "2124874343712981152",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 整个纳斯达克为之一震",
+    "quoted_tweet": null,
+    "url": "https://x.com/junfanhuang/status/2124876802237575337",
+    "time": "2026-11-23 22:44",
+    "created_at": "Mon Nov 23 14:44:42 +0000 2026",
+    "id_str": "2124876802237575337",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@junfanhuang 整个世界为之震颤",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124878008645558272",
+    "time": "2026-11-23 22:49",
+    "created_at": "Mon Nov 23 14:49:30 +0000 2026",
+    "id_str": "2124878008645558272",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@StockSavvyShay Everyone is your friend when the chips are up, but those who support you when the chips are down are your real friends. \n\nFair-weather friends are worthless.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2124924349710741798",
+    "time": "2026-11-24 01:53",
+    "created_at": "Mon Nov 23 17:53:38 +0000 2026",
+    "id_str": "2124924349710741798",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Gemini 4 Neon is pretty good; I think it's better than Opus 5.5 and significantly better than 6.2 Astra.",
+    "quoted_tweet": null,
+    "url": "https://x.com/jiayuan_jy/status/2124979318078287875",
+    "time": "2026-11-24 05:32",
+    "created_at": "Mon Nov 23 21:32:04 +0000 2026",
+    "id_str": "2124979318078287875",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "前几天有朋友问我为什么要写公众号（而不是做小红书\n因为今天大家太喜欢蹭热点了，小红书的算法过于奖励热点八卦\nAI 让创作效率大幅提升，但没有让 AI 指挥者的思考深度提升\n蹭热点追新词越来越普遍，构建长期价值越来越稀缺",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124988778217693375",
+    "time": "2026-11-24 06:09",
+    "created_at": "Mon Nov 23 22:09:39 +0000 2026",
+    "id_str": "2124988778217693375",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@jiayuan_jy 非常好 今年最大的惊喜",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124989446760333548",
+    "time": "2026-11-24 06:12",
+    "created_at": "Mon Nov 23 22:12:19 +0000 2026",
+    "id_str": "2124989446760333548",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "购物是目前 Personal Agent 最大的场景\n到底 PA 们喜欢什么样的商品呢？\nMuse 重点看商品的价格\nDots 重点看别人的评价\nInstinct 则额外看库存是否满足你的真实需要",
+    "quoted_tweet": {
+      "author": "Olivia Moore",
+      "username": "omooretweets",
+      "text": "Agents may be the biggest distribution opportunity ever - working 24/7 on our behalf, with our wallets\n\nHow do you attract their attention?\n\nWe @a16z partnered with @promptingco on more than 10,000 runs across the four leading agents - our takeaways 👇\n\n(cc @venturetwins)"
+    },
+    "url": "https://x.com/oran_ge/status/2124990967539515416",
+    "time": "2026-11-24 06:18",
+    "created_at": "Mon Nov 23 22:18:21 +0000 2026",
+    "id_str": "2124990967539515416",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "这都能分析出来真的太牛逼了\nAGI！",
+    "quoted_tweet": {
+      "author": "Aurora",
+      "username": "Aurora0x3f",
+      "text": "我只能说，哈基米还是哈基米，想出了我没想到的答案\n\nGPT、DeepSeek 均战败，只有哈基米胜利了好吧 😂"
+    },
+    "url": "https://x.com/oran_ge/status/2124992563891622320",
+    "time": "2026-11-24 06:24",
+    "created_at": "Mon Nov 23 22:24:42 +0000 2026",
+    "id_str": "2124992563891622320",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "The details of how the whole Jensen saga went down will be wild",
+    "quoted_tweet": null,
+    "url": "https://x.com/MatthewBerman/status/2124887665602629749",
+    "time": "2026-11-23 23:27",
+    "created_at": "Mon Nov 23 15:27:52 +0000 2026",
+    "id_str": "2124887665602629749",
+    "is_retweet": true
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "Crazy! I know I’m late to the party reposting this… but Jensen pulled a Sam Altman and got himself back in as CEO!",
+    "quoted_tweet": {
+      "author": "NVIDIA Newsroom",
+      "username": "nvidianewsroom",
+      "text": "NVIDIA Board reinstates Jensen Huang as President, CEO and Board Director.\n\nRead the release: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+    },
+    "url": "https://x.com/mreflow/status/2124932363864146072",
+    "time": "2026-11-24 02:25",
+    "created_at": "Mon Nov 23 18:25:29 +0000 2026",
+    "id_str": "2124932363864146072",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "@MatthewBerman Artificial 2, starring Bowen Yang should be interesting.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2124932693595185615",
+    "time": "2026-11-24 02:26",
+    "created_at": "Mon Nov 23 18:26:48 +0000 2026",
+    "id_str": "2124932693595185615",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "New ChatGPT Business workspaces created by Nov 30 get double the included usage for every seat type through Dec 31. \n\nAlready on Business? We will have a gift for you, too. Stay tuned 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2124922313019953319",
+    "time": "2026-11-24 01:45",
+    "created_at": "Mon Nov 23 17:45:33 +0000 2026",
+    "id_str": "2124922313019953319",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Sign up for ChatGPT Business: https://chatgpt.com/pricing/?type=team",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2124922412219486443",
+    "time": "2026-11-24 01:45",
+    "created_at": "Mon Nov 23 17:45:56 +0000 2026",
+    "id_str": "2124922412219486443",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "Inside OpenAI, dots are quickly becoming the primary way to get things done. We have dots building the dots system.",
+    "quoted_tweet": {
+      "author": "samir",
+      "username": "_samirism",
+      "text": "quick recap of dots improvements we rolled out over the past few days, starting with a new home for your dot in the latest ChatGPT app."
+    },
+    "url": "https://x.com/thsottiaux/status/2124923055072043052",
+    "time": "2026-11-24 01:48",
+    "created_at": "Mon Nov 23 17:48:30 +0000 2026",
+    "id_str": "2124923055072043052",
+    "is_retweet": false
+  },
+  {
+    "username": "thsottiaux",
+    "nickname": "Tibo",
+    "text": "@charliermarsh Charlie is in the hunt",
+    "quoted_tweet": null,
+    "url": "https://x.com/thsottiaux/status/2124923142762361133",
+    "time": "2026-11-24 01:48",
+    "created_at": "Mon Nov 23 17:48:51 +0000 2026",
+    "id_str": "2124923142762361133",
+    "is_retweet": false
+  }
+]
