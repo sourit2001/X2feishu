@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "The guy proved the Riemann Hypothesis. There's virtually no doubt that the proof is correct. It is impossible to overstate the magnitude of this intellectual achievement.\n\nMozart had a lifelong fondness for scatological humour. His letters are full of jokes about farting and defecation, and he even composed a six-voice canon entitled \"Leck mich im Arsch\" (\"Lick my arse\"). None of this has diminished his standing as one of the greatest musical geniuses of all time.\n\nI think @__alpoge__ can joke about whatever he wants, and communicate in any sort of style he wants without worrying about losing the respect of his mathematical peers.",
+    "quoted_tweet": {
+      "author": "ThisIsRowly",
+      "username": "NotSlotaClue",
+      "text": "@__alpoge__ Good way to completely lose the respect of your peers I guess."
+    },
+    "url": "https://x.com/ObhishekSaha/status/2125115749450514931",
+    "time": "Tue Nov 24 06:34:12 +0000 2026",
+    "created_at": "Tue Nov 24 06:34:12 +0000 2026",
+    "id_str": "2125115749450514931",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "There is a lot of focus on AI-aided discoveries in quantitative fields, but they can go beyond that, too:\n\nHistorian Mark Humphries asked GPT-6.2 Astra to look at an anonymous 1808 sketchbook at Yale and it found the author, an obscure French aristocrat. https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2125245031842042301",
+    "time": "Tue Nov 24 15:07:55 +0000 2026",
+    "created_at": "Tue Nov 24 15:07:55 +0000 2026",
+    "id_str": "2125245031842042301",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Thing I am hearing from a number of big firms, from manufacturers to financial services: we have scattered teams of 2-3 people using AI that are doing the work of dozens of folks in a fraction of the time, creating large-scale management fights over the implications and politics.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2125267894644916669",
+    "time": "Tue Nov 24 16:38:46 +0000 2026",
+    "created_at": "Tue Nov 24 16:38:46 +0000 2026",
+    "id_str": "2125267894644916669",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick In addition to putting forth the John Galt narrative about these heroic teams doing the work of hundreds, we should also entertain the possibility that they are making a hash of things in these other domains where they are relying on canned expertise rather than deep knowledge.",
+    "quoted_tweet": null,
+    "url": "https://x.com/pontific8/status/2125281379105591582",
+    "time": "Tue Nov 24 17:32:21 +0000 2026",
+    "created_at": "Tue Nov 24 17:32:21 +0000 2026",
+    "id_str": "2125281379105591582",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "From the author",
+    "quoted_tweet": {
+      "author": "Mark Humphries",
+      "username": "HistoryGPT",
+      "text": "In testing GPT-6.2, I used it to make a significant historical discovery which I detail in the post below. This suggests that the  process of research and discovery we’re already seeing in verifiable domains like math is starting to generalize to non-deterministic fields like history.\n\nYou can read the full post here:\n\nhttps://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical\n\nIn a nutshell, Yale’s Beinecke Library holds an anonymous sketchbook of an 1808 journey from Montreal to Lake Superior and back. I’ve spent many hours over the years trying to figure out who made the sketches with no luck. The artist could literally be any one of several thousand people. There are few clues: only four dated and labelled images.\n\nWith minimal prompting, in just 22 minutes, Astra used publicly available sources to identify a minor French aristocrat, the vicomte de Chabot, as the artist and suggested that we test the hypothesis by ordering copies of a little known microfilmed diary of Chabot’s trip it also found.\n\nI was truly stunned. I’d never heard of Chabot or this diary! New document finds are also exceedingly rare in a well worn field like fur trade history.\n\nI ordered scans of the journal from microfilm and when they arrived the handwriting matched the captions in the  sketchbook. The itinerary also aligned perfectly with the few dated drawings in the book. But there was actually the type of conclusive evidence we rarely get as historians: on 18 June 1808, after Chabot’s canoe reached Fort St. Joseph, he wrote “I took a sketch” before describing the exact view of the fort depicted in a matching drawing.\n\nThe journal itself is also a major find. It had been mentioned once in a dissertation footnote, but in a completely different area of history and is unknown to fur trade or Canadian historians. It’s long and detailed, covering some 162 notebook pages which makes this a significant new document to my field. Attached to the journal was another trove of documents too: excerpts from long-destroyed North West Company papers, journals, and letters. Again, this almost never happens. Both finds equally surprised the other leading experts I consulted.\n\nAlthough we can construct a coherent narrative in hindsight, I cannot emphasize enough how exceedingly difficult this sort of thinking and recall is for humans. Unlike a human, Astra was able to tackle the problem from both ends at once: working forward from the scant facts of the 1808 journey pictured in the sketchbook and backwards from the immense number of surviving facts about 1808 British North America in general.\n\nWhile we can technically explain Astra’s path to this find as a product of enhanced search capabilities, it conducted the investigation from end to end. I basically acted as the research assistant, restricting copies of the paper documents it needed.\n\nTo my mind, this puts historians in a similar position as the mathematicians found themselves about eleven months ago, when LLMs started to solve the first Erdős problems. Over the past year, we’ve watched these same models go from learning to read handwriting, to beginning to think historically, to mastering the undergraduate essay, and finally to making small but real contributions to human knowledge more or less autonomously.\n\nThe trajectory seems clear."
+    },
+    "url": "https://x.com/emollick/status/2125286494340624399",
+    "time": "Tue Nov 24 17:52:40 +0000 2026",
+    "created_at": "Tue Nov 24 17:52:40 +0000 2026",
+    "id_str": "2125286494340624399",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@pontific8 But that isn't generally what is happening from the conversations I am having. I don't think you need to have an Objectivist perspective to argue that new enabling technologies can increase productivity 10-100x, and that some people are early adopters and seeing the gains.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2125293525495336972",
+    "time": "Tue Nov 24 18:20:37 +0000 2026",
+    "created_at": "Tue Nov 24 18:20:37 +0000 2026",
+    "id_str": "2125293525495336972",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "You can now let Claude review your pull requests and approve the safe ones. Before you turn it on, write the one file that decides what it's allowed to merge.\n\nAnthropic launched Claude Ship yesterday. 10,000 people saved the launch post in a day.\n\nWhat it does:\n→ You run /ship in Claude Code, in the terminal or the desktop app\n→ Claude opens the PR, reviews the change, and works on feedback and failing checks\n→ It approves what your team's policy allows. Your permissions and branch rules still decide what merges\n→ On Team and Enterprise, admins can turn it on for a whole repo, with the policy living in the repo like a smarter CODEOWNERS file\n\nThe review isn't the risky part. The policy is. If nobody writes down what Claude may approve alone, \"what the policy allows\" becomes whatever the default allows.\n\n3 prompts to set it up before your first /ship:\n\nPrompt 1: Write the approval policy\n\"Read this repo: the folder structure, CODEOWNERS, CI config and the last 20 merged PRs. Draft an approval policy in three sections. Claude may approve alone: changes like [docs, tests, copy, patch-level dependency bumps]. Needs a human: anything touching [auth, payments, database migrations, infra, public APIs]. Never merge: changes that delete data, edit secrets or turn off a check. For each rule, show one real PR from the history it would have caught. Flag any folder that fits no section.\"\n\nPrompt 2: Pre-ship self-check\n\"Before I run /ship, review my diff as the reviewer who gets blamed if this breaks production. List what changed, what could break, which tests prove it works, and anything I changed that the PR description doesn't mention. If a change that matters has no test, write the test first.\"\n\nPrompt 3: Friday audit\n\"List every PR Claude approved this week. For each one: what it changed, which policy rule allowed it, and whether a human reviewer would have asked for changes. Suggest one rule to tighten and one to relax, with the PR that proves each.\"\n\nStart strict. Loosen the policy after a week of audits, not before.\n\nMore Claude Code prompts in the God of Prompt library, free, no signup. First reply.\n\nWould you let AI approve code that goes to production, or does a human always click merge?",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2125295903028527477",
+    "time": "Tue Nov 24 18:30:04 +0000 2026",
+    "created_at": "Tue Nov 24 18:30:04 +0000 2026",
+    "id_str": "2125295903028527477",
+    "is_retweet": false
+  },
+  {
+    "username": "godofprompt",
+    "nickname": "God of Prompt",
+    "text": "https://godofprompt.ai/prompt-library",
+    "quoted_tweet": null,
+    "url": "https://x.com/godofprompt/status/2125295915431002222",
+    "time": "Tue Nov 24 18:30:06 +0000 2026",
+    "created_at": "Tue Nov 24 18:30:06 +0000 2026",
+    "id_str": "2125295915431002222",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@yikelvin868 @elonmusk @StockSavvyShay 多一些真朋友，少一些狐朋狗友",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2124993494955765984",
+    "time": "2026-11-24 06:28",
+    "created_at": "Mon Nov 23 22:28:24 +0000 2026",
+    "id_str": "2124993494955765984",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 公众号也奖励热点八卦，至少我的茧房里面gta6特别火最近",
+    "quoted_tweet": null,
+    "url": "https://x.com/hungxun254458/status/2125090878460940361",
+    "time": "Tue Nov 24 04:55:22 +0000 2026",
+    "created_at": "Tue Nov 24 04:55:22 +0000 2026",
+    "id_str": "2125090878460940361",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@hungxun254458 我们可能对热点八卦的理解有偏差",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2125096653464174904",
+    "time": "Tue Nov 24 05:18:19 +0000 2026",
+    "created_at": "Tue Nov 24 05:18:19 +0000 2026",
+    "id_str": "2125096653464174904",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "黎曼猜想这么严肃的事情\n搞个25万页说是开玩笑来的\n\nA 社的人真是小丑",
+    "quoted_tweet": {
+      "author": "levent",
+      "username": "__alpoge__",
+      "text": "Stupid things I did:\n1. 250,000+ pages was a joke guys!, I find big number extremely hilarious. I tried to make it clear by the level of pedantry of the reals total ordered statement in the main theorem, but people ran with it unfortunately and I didn’t feel like talking on social media in the days after the announcement, though I did have a good time with the memes. Sorry!!! (Similarly with our YM4 existence I found it extremely funny that we were slowly working through 60,000 pages of slop, though the committee asking for Lean made me feel dumb about wasting our time with that. But 60,000 funny.) Tao advises to not joke in papers, see also the Big Lebowski reference I shoehorned, I now understand why… I didn’t feel comfortable having any slop writeup attached to this problem, and I figured I can’t produce anything readable anyway, so I went off the Lean to lengthmaxx.\n2. The Lean is full of garbage obviously, but compiles, but all criticism of such garbage is totally reasonable and accepted, I should have cleaned it up but it was randomly difficult to for various strange reasons. Mea culpa…\n3. @scottnarmstrong clocked me, indeed even as a student there were theorems that took me the better part of a decade to write up, but with this one I should hopefully be more responsible. (I really was yoloing a lot in there, I bet most is unnecessary in the end, admittedly the lazy thing to do would be to wait because it’ll simplify massively…)\n4. I forgot to emphasize what I think is the point. Arguments like these, cool, but they are the raw inputs when interpolating definitions. We don’t have the / an “H^1 object” over number fields, and probably for a layperson the fact that we fight hard for these arguments for the purpose of definitions is not clear a priori (that’s at least my philosophy). Just like I knew I must fight for an utterly simple Weil / Deligne, I feel Riemann should be easy, and any real difficulty is an indication our setup is just dumb at the moment."
+    },
+    "url": "https://x.com/oran_ge/status/2125240883595616599",
+    "time": "Tue Nov 24 14:51:26 +0000 2026",
+    "created_at": "Tue Nov 24 14:51:26 +0000 2026",
+    "id_str": "2125240883595616599",
+    "is_retweet": false
+  }
+]
