@@ -152,5 +152,1062 @@
     "created_at": "Thu Nov 26 00:48:28 +0000 2026",
     "id_str": "2125753519739465995",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Anthropic CEO 达里奥估计是看最近老黄回来以后，整个欧美科技界对他也很不满\n\n出来发了一篇这种声明，这玩意儿我都看不懂，感觉是不是 Claude 给他写的\n\n那些评论区大家也不是很买账，说他期望的民主，所谓的民主治理是他认同的治理放书才叫民主治理方式\n\n而且其实他在各种宣传和一些场合，都隐晦地渲染了这种 AI 末日论\n\n主要是最后你发声明就发声明，还阴阳怪气一句 Sam\n\n搁以前，马斯克估计就开始骂了，今天这条马斯克转了一句，有意思，还是想卖算力没明着骂",
+    "quoted_tweet": {
+      "author": "Dario Amodei",
+      "username": "DarioAmodei",
+      "text": "No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme in them is the need for AI to be governed by legitimate democratic processes. For millennia (going all the way back to Greek and Roman philosophers), advocates of autocracy have claimed that it leads to better, faster, or more decisive decision-making than the messy process of democracy. Even if this were true (which I doubt!), we should never sacrifice legitimacy or self-determination at the altar of efficiency or security. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea.\n\nNo one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different. For example in an interview on CBS a couple months ago, I specifically called for AI to be governed democratically. I call for the same in Policy on the AI Exponential, Machines of Loving Grace, and The Adolescence of Technology, and We Must Pace the Frontier. Machines of Loving Grace contains an extended section on using AI to revitalize democracy, and discusses the use of AI as an aid to citizens in their decision-making, \"aggregat[ing] opinions and driv[ing] consensus among citizens, resolving conflict, finding common ground, and seeking compromise.” The clear and obvious implication is that humans should remain the ones making political and governance decisions. The Adolescence of Technology has an entire section on fighting against AI-driven tyranny, and I even discuss the danger of AI labs usurping power and come out strongly against it — by implication, this definitely includes an AI lab usurping power and giving it to AI itself!\n\nIf I thought any of this was a good idea, I would be advocating for it in public, just as I have not been afraid to advocate for many, many unpopular views over the last few years. But I am not advocating for it, because I think turning over governance to AI is a terrible idea.\n\nSeparately, I think there is frequent conflation (including in this article) between the idea of “surrendering human free will” to AI in some grand sense of global governance, and the more prosaic idea that as AI systems advance, they become capable of doing specific tasks in a more automated way. This is not AI “running the world,” but AI driving a car, designing a cancer drug, or writing software end-to-end. Here, my view is mixed. AI doing more complete or larger tasks is economically valuable and can drive important advances in software, medicine, transportation, energy, etc. It is clearly desirable in many cases and will save a lot of lives. But it has downsides as well, and in some areas it may not be worth it.\n\nFor example, using AI too autonomously to build the next generation of AI systems (known as recursive self-improvement, or RSI) may cause AI to improve faster than we can control or adjust to it, so we may want limits on this process. As we said publicly in early November, we don’t expect it to be safe for Claude to build successive frontier models fully autonomously, without meaningful human supervision or understanding. Second, in some contexts, using AI in too end-to-end a manner may be a cause of serious job disruption, and it may make sense to slow or even stop some AI deployments to give people more time to adapt. Third, while the use of AI for alignment research is an incredibly valuable tool, it must be done with caution, because we may not be able to trust the work of the AI system. Finally, in many cases, humans would simply prefer to do some activities themselves, so they can stay deeply engaged in what matters to them, even if AI can do those activities better. There are countless other examples and hard cases. I don’t think there are any easy answers here, nor is there (nor should there be) any single decision-maker: some of these decisions will be made by society, some by government, some by AI companies, and some in a decentralized manner by individuals expressing their own preferences as consumers, which may differ from the preferences of others.\n\nI don't think that other AI leaders or AI companies have significantly different views from me on whether specific tasks should be automated. Certainly the products that they offer don’t differ materially in their orientation towards automation of tasks; every company seems to be releasing models more and more capable of task automation (as that’s been the general consequence of scaling up AI training), and every company claims to understand there are risks and downsides of such automation and to offer safeguards. If anything, Anthropic has been the most vocal and the most proactive about acknowledging these downsides and trying to address them. For instance, it’s fairly absurd to cite my statement that fully autonomous weapons might “one day be needed for the defense of democracy” as differing from that of other AI companies, when I was willing to risk Anthropic’s future as a company to refuse to allow our existing AI models to be used for autonomous weapons even in the face of legal sanctions, and no other AI company did the same.\n\nTo summarize, as applied to grand questions of how we govern increasingly capable AI, I have been vocal and consistent that AI needs to be governed by a legitimate, democratic process and that “surrendering human free will” to AI systems is a terrible idea. As applied to automation of specific tasks by or for people, my views are more mixed, but I don’t think they differ from those of other AI companies — most other companies seem to be offering similar products and confronting similar tradeoffs without having perfect answers to them. What is happening is that there’s a sort of vibes-based commercial and political positioning that some AI CEOs are engaging in, where they repeat slogans like “human control and agency,” or “AI should be just a tool,” without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans."
+    },
+    "url": "https://x.com/op7418/status/2125760146169278571",
+    "time": "Thu Nov 26 01:14:48 +0000 2026",
+    "created_at": "Thu Nov 26 01:14:48 +0000 2026",
+    "id_str": "2125760146169278571",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "1 password 也爆出了后端的安全问题\n\n我现在对这些安全都已经不抱希望了，什么数据泄露就泄露吧，别把我钱从银行转走就行",
+    "quoted_tweet": {
+      "author": "1Password",
+      "username": "1Password",
+      "text": "We’re sharing an update about a recent security incident involving some of 1Password’s backend systems. 𝗡𝗼 𝗰𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝘃𝗮𝘂𝗹𝘁 𝗰𝗼𝗻𝘁𝗲𝗻𝘁, 𝗶𝗻𝗰𝗹𝘂𝗱𝗶𝗻𝗴 𝘀𝗲𝗰𝗿𝗲𝘁𝘀, 𝗽𝗮𝘀𝘀𝘄𝗼𝗿𝗱𝘀 𝗮𝗻𝗱 𝗼𝘁𝗵𝗲𝗿 𝘃𝗮𝘂𝗹𝘁 𝗶𝘁𝗲𝗺𝘀, 𝗼𝗿 𝘁𝗵𝗲 𝗸𝗲𝘆𝘀 𝘁𝗵𝗮𝘁 𝗽𝗿𝗼𝘁𝗲𝗰𝘁 𝘁𝗵𝗲𝗺 𝘄𝗲𝗿𝗲 𝗮𝗰𝗰𝗲𝘀𝘀𝗲𝗱 𝗼𝗿 𝗰𝗼𝗺𝗽𝗿𝗼𝗺𝗶𝘀𝗲𝗱 𝗱𝘂𝗿𝗶𝗻𝗴 𝘁𝗵𝗶𝘀 𝗶𝗻𝗰𝗶𝗱𝗲𝗻𝘁. We have confirmed that all customer vaults and credentials remain secure. Our services continue operating normally. \n\nIndependent cybersecurity experts have been engaged to validate our containment approaches and remediation efforts.\n\nWhile we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a limited amount of customer account information from a subset of our customers, including names and email addresses. \n\nNo action is required by customers, their 1Password accounts remain secure. As always, please keep alert to unexpected phishing attempts.\n\nYour vault secrets are encrypted with keys that only you hold, so we can’t access them, and they cannot be retrieved from our systems.\n\nYou can read more about the steps we’ve taken on our blog at: https://1password.com/blog/update-on-nov-2026-security-incident"
+    },
+    "url": "https://x.com/op7418/status/2125760991313191412",
+    "time": "Thu Nov 26 01:18:09 +0000 2026",
+    "created_at": "Thu Nov 26 01:18:09 +0000 2026",
+    "id_str": "2125760991313191412",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "哈哈哈哈 感觉 GPT 6.2 astra 真是在 3D 上过度训练\n\n这哥们儿让他剪辑个视频，他启动 Blender 剪",
+    "quoted_tweet": {
+      "author": "Alex",
+      "username": "The_Alex",
+      "text": "im going to fucking kill 6.2 astra what do you mean you edited the video IN BLENDER?????"
+    },
+    "url": "https://x.com/op7418/status/2125766168191631419",
+    "time": "Thu Nov 26 01:38:43 +0000 2026",
+    "created_at": "Thu Nov 26 01:38:43 +0000 2026",
+    "id_str": "2125766168191631419",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 艹，我这两天才用回 1password",
+    "quoted_tweet": null,
+    "url": "https://x.com/deluxebear/status/2125766727242006548",
+    "time": "Thu Nov 26 01:40:57 +0000 2026",
+    "created_at": "Thu Nov 26 01:40:57 +0000 2026",
+    "id_str": "2125766727242006548",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 😂让别人减速AI研发也是他，自己却从没停过",
+    "quoted_tweet": null,
+    "url": "https://x.com/ktkid_lab/status/2125769051997896739",
+    "time": "Thu Nov 26 01:50:11 +0000 2026",
+    "created_at": "Thu Nov 26 01:50:11 +0000 2026",
+    "id_str": "2125769051997896739",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@DashHuang @theo 可以，还是你敢，我就转了一下那条推，骂了一下那些用 AI 写内容和 AI 互转的人，我都被打成汉奸了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125776752672907595",
+    "time": "Thu Nov 26 02:20:47 +0000 2026",
+    "created_at": "Thu Nov 26 02:20:47 +0000 2026",
+    "id_str": "2125776752672907595",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@deluxebear 没事儿 其他的过几天也会出安全问题的 谁也跑不了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125776911226069330",
+    "time": "Thu Nov 26 02:21:25 +0000 2026",
+    "created_at": "Thu Nov 26 02:21:25 +0000 2026",
+    "id_str": "2125776911226069330",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 这应该是他们第一次出现安全问题，之前还在感叹1password真牛逼没出现过安全事故，没想到🤡",
+    "quoted_tweet": null,
+    "url": "https://x.com/Boris_web/status/2125779069950423062",
+    "time": "Thu Nov 26 02:29:59 +0000 2026",
+    "created_at": "Thu Nov 26 02:29:59 +0000 2026",
+    "id_str": "2125779069950423062",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Boris_web 是的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125779408468476089",
+    "time": "Thu Nov 26 02:31:20 +0000 2026",
+    "created_at": "Thu Nov 26 02:31:20 +0000 2026",
+    "id_str": "2125779408468476089",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "不是，你跟我说这叫 PPT？\n\n这个据传是 Opus 5.6 做的 PPT 太恐怖了：\n\n每一个页面都是一个完整的 3D 场景，然后用无缝衔接的动画和运镜串联起来\n\n他们路由到的这个模型也不一定是 Opus 5.6 吧？是不是新的 Fable 啊？这么强啊！\n\n把它的代码下下来了，是一个 5M 的单网页文件",
+    "quoted_tweet": {
+      "author": "Nikita",
+      "username": "fluxxrider",
+      "text": "Opus 5.6 is unceremoniously the most powerful model I've laid my hands on. This is insane.\n\nhttps://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah\n\nHave a go."
+    },
+    "url": "https://x.com/op7418/status/2125784465951896043",
+    "time": "Thu Nov 26 02:51:26 +0000 2026",
+    "created_at": "Thu Nov 26 02:51:26 +0000 2026",
+    "id_str": "2125784465951896043",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "具体的网页文件在这里，我托管到了我的 GitHub 上，然后在网页里加上了原作者的推特：https://github.com/op7418/nexttoken-topics/releases/download/the-last-boring-slide/the-last-boring-slide.html",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125785678189613087",
+    "time": "Thu Nov 26 02:56:15 +0000 2026",
+    "created_at": "Thu Nov 26 02:56:15 +0000 2026",
+    "id_str": "2125785678189613087",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "OpenAI 最近真是，Tibo 说有些用户的额度被错误地增加了，是个 bug\n\n现在修复了这个 bug，所以那些用户增加的额度就被收回了，然后送了一次重置，真服了",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business."
+    },
+    "url": "https://x.com/op7418/status/2125790584501878963",
+    "time": "Thu Nov 26 03:15:45 +0000 2026",
+    "created_at": "Thu Nov 26 03:15:45 +0000 2026",
+    "id_str": "2125790584501878963",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 炫技大于实际",
+    "quoted_tweet": null,
+    "url": "https://x.com/ymngyn668/status/2125791029634941393",
+    "time": "Thu Nov 26 03:17:31 +0000 2026",
+    "created_at": "Thu Nov 26 03:17:31 +0000 2026",
+    "id_str": "2125791029634941393",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 5M 单文件塞那么多 3D 场景 ...\n普通笔记本打开会卡吗？还是它有做按页加载",
+    "quoted_tweet": null,
+    "url": "https://x.com/rrrrrr20004/status/2125791218730954880",
+    "time": "Thu Nov 26 03:18:16 +0000 2026",
+    "created_at": "Thu Nov 26 03:18:16 +0000 2026",
+    "id_str": "2125791218730954880",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 其實也不是不行😂，只是從沒這樣用過",
+    "quoted_tweet": null,
+    "url": "https://x.com/Wayne_1175/status/2125791612936814625",
+    "time": "Thu Nov 26 03:19:50 +0000 2026",
+    "created_at": "Thu Nov 26 03:19:50 +0000 2026",
+    "id_str": "2125791612936814625",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@rrrrrr20004 它应该没做性能优化，应该会卡。\n\n如果比较差的笔记本应该会卡，但是性能好的、最新的 iPhone 啥的估计也不会卡，还是看性能",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125791813864996877",
+    "time": "Thu Nov 26 03:20:38 +0000 2026",
+    "created_at": "Thu Nov 26 03:20:38 +0000 2026",
+    "id_str": "2125791813864996877",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@ymngyn668 肯定的呀，他就是用来炫技的，他也没说有啥实际用途",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125791856013566079",
+    "time": "Thu Nov 26 03:20:48 +0000 2026",
+    "created_at": "Thu Nov 26 03:20:48 +0000 2026",
+    "id_str": "2125791856013566079",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Wayne_1175 对",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125791954118316429",
+    "time": "Thu Nov 26 03:21:11 +0000 2026",
+    "created_at": "Thu Nov 26 03:21:11 +0000 2026",
+    "id_str": "2125791954118316429",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@ktkid_lab 对，他自己库库发",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125796312235032913",
+    "time": "Thu Nov 26 03:38:30 +0000 2026",
+    "created_at": "Thu Nov 26 03:38:30 +0000 2026",
+    "id_str": "2125796312235032913",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "很多朋友可能进去在最后一页哈，点击 O 键，然后选择第一页就可以了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125797505338413117",
+    "time": "Thu Nov 26 03:43:15 +0000 2026",
+    "created_at": "Thu Nov 26 03:43:15 +0000 2026",
+    "id_str": "2125797505338413117",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "丁师做的设计师版本的黑五产品优惠聚合网站\n\n里面有很多开发者也能用的东西，Vibe Coding 能用的也不少，可以看看",
+    "quoted_tweet": {
+      "author": "Ding",
+      "username": "dingyi",
+      "text": "更新了今年的设计师版的黑五产品优惠。去年我还手动更新到 Notion 呢，今年几句话就让 agent 搞好了。\n\nhttps://bfdeals.here/"
+    },
+    "url": "https://x.com/op7418/status/2125798723125145641",
+    "time": "Thu Nov 26 03:48:05 +0000 2026",
+    "created_at": "Thu Nov 26 03:48:05 +0000 2026",
+    "id_str": "2125798723125145641",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 谢谢老板！",
+    "quoted_tweet": null,
+    "url": "https://x.com/dingyi/status/2125799174214148561",
+    "time": "Thu Nov 26 03:49:53 +0000 2026",
+    "created_at": "Thu Nov 26 03:49:53 +0000 2026",
+    "id_str": "2125799174214148561",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@dingyi 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125799239754404283",
+    "time": "Thu Nov 26 03:50:08 +0000 2026",
+    "created_at": "Thu Nov 26 03:50:08 +0000 2026",
+    "id_str": "2125799239754404283",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 没关系，已经用回Gemini了，没影响",
+    "quoted_tweet": null,
+    "url": "https://x.com/lipeng0820/status/2125829476861026593",
+    "time": "Thu Nov 26 05:50:17 +0000 2026",
+    "created_at": "Thu Nov 26 05:50:17 +0000 2026",
+    "id_str": "2125829476861026593",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "视频是我新做的剪辑 skill 剪的\n\n争取这周或者下周把这些东西搞完，顺便也讲一下我的口播视频工作流程",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "谷歌 Neon + LibTV MCP + MAGI-2 视频模型\n\n我管这个叫 Code to Video 和 Video to Code，有两套，正着反着都可以来\n\n基于视频模型的视频参考，生成漂亮且动效丰富的网页；\n\n也能让大语言模型生成网页的人物动作视频，然后给视频模型做参考"
+    },
+    "url": "https://x.com/op7418/status/2125857180289208694",
+    "time": "Thu Nov 26 07:40:22 +0000 2026",
+    "created_at": "Thu Nov 26 07:40:22 +0000 2026",
+    "id_str": "2125857180289208694",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 卧槽！这个效果牛了啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/asimogo/status/2125860757938290906",
+    "time": "Thu Nov 26 07:54:35 +0000 2026",
+    "created_at": "Thu Nov 26 07:54:35 +0000 2026",
+    "id_str": "2125860757938290906",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Antigravity 重置了，感谢早上猛蹬的自己",
+    "quoted_tweet": {
+      "author": "Varun Mohan",
+      "username": "_mohansolo",
+      "text": "Resetting Gemini quota for all Antigravity users for Thanksgiving!\n\nWe’re very thankful for all of our users ❤️\n\nWe’re growing very quickly and are working tirelessly to make sure you all have a great experience!"
+    },
+    "url": "https://x.com/op7418/status/2125861655376744555",
+    "time": "Thu Nov 26 07:58:09 +0000 2026",
+    "created_at": "Thu Nov 26 07:58:09 +0000 2026",
+    "id_str": "2125861655376744555",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@asimogo 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125862539812880442",
+    "time": "Thu Nov 26 08:01:40 +0000 2026",
+    "created_at": "Thu Nov 26 08:01:40 +0000 2026",
+    "id_str": "2125862539812880442",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "争取让大家用 Deepseek Flash 都能剪成这样",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125863909412548707",
+    "time": "Thu Nov 26 08:07:07 +0000 2026",
+    "created_at": "Thu Nov 26 08:07:07 +0000 2026",
+    "id_str": "2125863909412548707",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 我说今天这个额度怎么突然间就重置了，现在额度太耐用了，跑了一天还剩 90 多。",
+    "quoted_tweet": null,
+    "url": "https://x.com/ssyxsec/status/2125865770232213574",
+    "time": "Thu Nov 26 08:14:30 +0000 2026",
+    "created_at": "Thu Nov 26 08:14:30 +0000 2026",
+    "id_str": "2125865770232213574",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@ssyxsec 你这个皮肤漂亮啊",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125866601572606251",
+    "time": "Thu Nov 26 08:17:49 +0000 2026",
+    "created_at": "Thu Nov 26 08:17:49 +0000 2026",
+    "id_str": "2125866601572606251",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@lipeng0820 哈哈哈哈 我也",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125867272866877896",
+    "time": "Thu Nov 26 08:20:29 +0000 2026",
+    "created_at": "Thu Nov 26 08:20:29 +0000 2026",
+    "id_str": "2125867272866877896",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "最后回应一下关于 t3 Code 那条 Twitter 的转推。\n\n我当时说的是“一些简中 Twitter  AI 博主”\n\n注意，我还特意加了“一些”。现在这帮人追着咬到了墙内，居然还有脸在 B 站 @我。\n\n反正我就在这最后说一句：\n\n我一直骂的都是这些 AI 洗稿、相互转推、自动评论的所谓简中科技圈 AI 博主。\n\n谁要是对号入座，甚至扩大到整个中文社区、扩大到全体中国人，那我可配不上这个帽子，我还没到那个位置。\n\n至于对简中AI Twitter 社区的贡献，我觉得 @ 我或者骂我的那帮人，可能得先想想自己，跟我比起来，谁的正面作用更大一点",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125874831006777378",
+    "time": "Thu Nov 26 08:50:31 +0000 2026",
+    "created_at": "Thu Nov 26 08:50:31 +0000 2026",
+    "id_str": "2125874831006777378",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "We have 500 Gong seats. We need to scale recording to 1,000+ users across the company\n\nThe economics and architecture completely break. Gong is inflexible for our actual business workflows and way too expensive to justify for 500 non quota users who just need commoditized call recording, light analysis and the ability to share \n\nProblem: we want 1 single platform, not shadow Otter and Granola instances wrecking data governance\n\nAlso: we're a Microsoft Teams shop (yes, I know)\n\nHow are other mid market /enterprise GTM Systems teams solving this? Are you dual-stacking recording infra or did someone find a unified platform that actually flexes to enterprise workflows without charging full quota carrier tax?",
+    "quoted_tweet": null,
+    "url": "https://x.com/mikeyerke/status/2125595864106246515",
+    "time": "2026-11-25 22:22",
+    "created_at": "Wed Nov 25 14:22:00 +0000 2026",
+    "id_str": "2125595864106246515",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "big news for @every:\n\nwe raised a $17.5m Series A at a $110m valuation to make you and your team AI-native\n\nled by @beyroutey from IA Ventures with participation from @nxthompson, @RattrayAlex, and @betaworks \n\nhttps://every.to/on-every/we-raised-17-5-million-to-make-you-and-your-team-ai-native",
+    "quoted_tweet": null,
+    "url": "https://x.com/danshipper/status/2125615579964833827",
+    "time": "2026-11-25 23:40",
+    "created_at": "Wed Nov 25 15:40:20 +0000 2026",
+    "id_str": "2125615579964833827",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Prompt of the day: target the *unmodified* code most likely to break after your agent built the happy path:\n\nGiven this git diff and the surrounding call graph, ignore unit tests for the new lines. Instead, write 3 integration test cases targeting existing callers that rely on implicit assumptions (ordering, nullability, latency, or side effects) that this diff subtly changes.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thmslj/status/2125630112603455618",
+    "time": "2026-11-26 00:38",
+    "created_at": "Wed Nov 25 16:38:05 +0000 2026",
+    "id_str": "2125630112603455618",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@thmslj Gem 💎",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2125639869766807881",
+    "time": "2026-11-26 01:16",
+    "created_at": "Wed Nov 25 17:16:52 +0000 2026",
+    "id_str": "2125639869766807881",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@danshipper @every @beyroutey @nxthompson @RattrayAlex @betaworks Congrats Dan!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2125647879402582153",
+    "time": "2026-11-26 01:48",
+    "created_at": "Wed Nov 25 17:48:41 +0000 2026",
+    "id_str": "2125647879402582153",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Some news: Today’s my last day at Ramp. I got to be a part of a culture that only moves faster (as well as more creatively and ambitiously) as the company grows. A rare feat, and a manifestation of what real AI adoption can enable for organizations. Grateful for my time! \n\nAs for what’s next, I’ll soon join Anthropic as a member of comms staff\n\nWe can and should build towards a future with things like self-driving cars (an example of humans choosing to let AI do the job) can exist *without* surrendering our free will to AI systems in a broader sense as laid out here:",
+    "quoted_tweet": {
+      "author": "Dario Amodei",
+      "username": "DarioAmodei",
+      "text": "No, I do not believe that we should “surrender human free will” to AI systems, and it’s absurd to suggest that I do. I have written hundreds of pages of essays and a constant theme in them is the need for AI to be governed by legitimate democratic processes. For millennia (going all the way back to Greek and Roman philosophers), advocates of autocracy have claimed that it leads to better, faster, or more decisive decision-making than the messy process of democracy. Even if this were true (which I doubt!), we should never sacrifice legitimacy or self-determination at the altar of efficiency or security. This argument against autocracy applies word for word against governance by AI, and I feel equally strongly that turning over governance to AI is a bad idea.\n\nNo one who had carefully read my writing or my interviews could reasonably conclude that I believe anything different. For example in an interview on CBS a couple months ago, I specifically called for AI to be governed democratically. I call for the same in Policy on the AI Exponential, Machines of Loving Grace, and The Adolescence of Technology, and We Must Pace the Frontier. Machines of Loving Grace contains an extended section on using AI to revitalize democracy, and discusses the use of AI as an aid to citizens in their decision-making, \"aggregat[ing] opinions and driv[ing] consensus among citizens, resolving conflict, finding common ground, and seeking compromise.” The clear and obvious implication is that humans should remain the ones making political and governance decisions. The Adolescence of Technology has an entire section on fighting against AI-driven tyranny, and I even discuss the danger of AI labs usurping power and come out strongly against it — by implication, this definitely includes an AI lab usurping power and giving it to AI itself!\n\nIf I thought any of this was a good idea, I would be advocating for it in public, just as I have not been afraid to advocate for many, many unpopular views over the last few years. But I am not advocating for it, because I think turning over governance to AI is a terrible idea.\n\nSeparately, I think there is frequent conflation (including in this article) between the idea of “surrendering human free will” to AI in some grand sense of global governance, and the more prosaic idea that as AI systems advance, they become capable of doing specific tasks in a more automated way. This is not AI “running the world,” but AI driving a car, designing a cancer drug, or writing software end-to-end. Here, my view is mixed. AI doing more complete or larger tasks is economically valuable and can drive important advances in software, medicine, transportation, energy, etc. It is clearly desirable in many cases and will save a lot of lives. But it has downsides as well, and in some areas it may not be worth it.\n\nFor example, using AI too autonomously to build the next generation of AI systems (known as recursive self-improvement, or RSI) may cause AI to improve faster than we can control or adjust to it, so we may want limits on this process. As we said publicly in early November, we don’t expect it to be safe for Claude to build successive frontier models fully autonomously, without meaningful human supervision or understanding. Second, in some contexts, using AI in too end-to-end a manner may be a cause of serious job disruption, and it may make sense to slow or even stop some AI deployments to give people more time to adapt. Third, while the use of AI for alignment research is an incredibly valuable tool, it must be done with caution, because we may not be able to trust the work of the AI system. Finally, in many cases, humans would simply prefer to do some activities themselves, so they can stay deeply engaged in what matters to them, even if AI can do those activities better. There are countless other examples and hard cases. I don’t think there are any easy answers here, nor is there (nor should there be) any single decision-maker: some of these decisions will be made by society, some by government, some by AI companies, and some in a decentralized manner by individuals expressing their own preferences as consumers, which may differ from the preferences of others.\n\nI don't think that other AI leaders or AI companies have significantly different views from me on whether specific tasks should be automated. Certainly the products that they offer don’t differ materially in their orientation towards automation of tasks; every company seems to be releasing models more and more capable of task automation (as that’s been the general consequence of scaling up AI training), and every company claims to understand there are risks and downsides of such automation and to offer safeguards. If anything, Anthropic has been the most vocal and the most proactive about acknowledging these downsides and trying to address them. For instance, it’s fairly absurd to cite my statement that fully autonomous weapons might “one day be needed for the defense of democracy” as differing from that of other AI companies, when I was willing to risk Anthropic’s future as a company to refuse to allow our existing AI models to be used for autonomous weapons even in the face of legal sanctions, and no other AI company did the same.\n\nTo summarize, as applied to grand questions of how we govern increasingly capable AI, I have been vocal and consistent that AI needs to be governed by a legitimate, democratic process and that “surrendering human free will” to AI systems is a terrible idea. As applied to automation of specific tasks by or for people, my views are more mixed, but I don’t think they differ from those of other AI companies — most other companies seem to be offering similar products and confronting similar tradeoffs without having perfect answers to them. What is happening is that there’s a sort of vibes-based commercial and political positioning that some AI CEOs are engaging in, where they repeat slogans like “human control and agency,” or “AI should be just a tool,” without actually doing anything different in their products or taking seriously the difficult questions that lie behind these slogans."
+    },
+    "url": "https://x.com/sarthakgh/status/2125670324192874834",
+    "time": "2026-11-26 03:17",
+    "created_at": "Wed Nov 25 19:17:52 +0000 2026",
+    "id_str": "2125670324192874834",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@sarthakgh Congrats Sar!",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2125698285088428299",
+    "time": "2026-11-26 05:08",
+    "created_at": "Wed Nov 25 21:08:59 +0000 2026",
+    "id_str": "2125698285088428299",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "Every story starts somewhere. We’re proud to be part of Jensen’s.",
+    "quoted_tweet": null,
+    "url": "https://x.com/DennysDiner/status/2125714117864366416",
+    "time": "2026-11-26 06:11",
+    "created_at": "Wed Nov 25 22:11:54 +0000 2026",
+    "id_str": "2125714117864366416",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@DennysDiner 😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2125760651188752705",
+    "time": "Thu Nov 26 01:16:48 +0000 2026",
+    "created_at": "Thu Nov 26 01:16:48 +0000 2026",
+    "id_str": "2125760651188752705",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@mikeyerke DMd",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2125777606649970732",
+    "time": "Thu Nov 26 02:24:11 +0000 2026",
+    "created_at": "Thu Nov 26 02:24:11 +0000 2026",
+    "id_str": "2125777606649970732",
+    "is_retweet": false
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "frankly the singularity is happening on slack and on twitter. visiting san francisco doesn’t feel like much",
+    "quoted_tweet": {
+      "author": "Quinurum",
+      "username": "Quinurum",
+      "text": "the urge to drop everything and go an a ~3 month holiday to the Bay area, so I can at least experience the singularity on the frontlines even if I'm too late to actually do anything"
+    },
+    "url": "https://x.com/tszzl/status/2125781273298063655",
+    "time": "Thu Nov 26 02:38:45 +0000 2026",
+    "created_at": "Thu Nov 26 02:38:45 +0000 2026",
+    "id_str": "2125781273298063655",
+    "is_retweet": true
+  },
+  {
+    "username": "vasuman",
+    "nickname": "Vasu",
+    "text": "@tszzl Truth nuke",
+    "quoted_tweet": null,
+    "url": "https://x.com/vasuman/status/2125786445688500392",
+    "time": "Thu Nov 26 02:59:18 +0000 2026",
+    "created_at": "Thu Nov 26 02:59:18 +0000 2026",
+    "id_str": "2125786445688500392",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "卧槽\nOpus 5.6这么牛逼吗\n\n点卡这个，会直接惊掉你的下巴\n\nhttps://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah\n\n这个案例过于炸裂了，这是我见过最牛逼的PPT了！！！\n\n加载有点慢，有点耐心",
+    "quoted_tweet": {
+      "author": "Nikita",
+      "username": "fluxxrider",
+      "text": "Opus 5.6 is unceremoniously the most powerful model I've laid my hands on. This is insane.\n\nhttps://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah\n\nHave a go."
+    },
+    "url": "https://x.com/xiaohu/status/2125756390988018069",
+    "time": "Thu Nov 26 00:59:52 +0000 2026",
+    "created_at": "Thu Nov 26 00:59:52 +0000 2026",
+    "id_str": "2125756390988018069",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 你们这帮人除了不说卧槽会死。",
+    "quoted_tweet": null,
+    "url": "https://x.com/Edward_TW1/status/2125767047825297697",
+    "time": "Thu Nov 26 01:42:13 +0000 2026",
+    "created_at": "Thu Nov 26 01:42:13 +0000 2026",
+    "id_str": "2125767047825297697",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "🚨 这整段短片，最开始只是 Blender 里的几个灰方块\n\n上面是随手搭的灰模 下面是 MAGI-2 直接出的成片 👇\n\n方块小人 → 电影级动画角色 灰色地面 → 草地、森林、尘土、爆炸 连吉普车翻车的时机都卡得死死的\n\n★ 拿灰模当参考，镜头和动作照着走 ★ 1080P，单条最长 30 秒 ★ 音效和画面一起出，不用后期配\n\n关键价格只要一秒 0.08 美金\n\n以前做一段这种动画短片要一整个团队 现在只要一个灰模加一句提示词\n\n现在就能在 Higgsfield 上试",
+    "quoted_tweet": {
+      "author": "Higgsfield AI 🧩",
+      "username": "higgsfield",
+      "text": "MAGI-2 is live, exclusively on Higgsfield.\n\nNow you can try the largest near-SOTA video model for free.\n\n> $0.08 per second of generation\n> 480B parameters, about 28B active at a time\n> Up to 30 seconds at 1080p and up to 20 references\n\nBest deal for Black Friday with up to 70% OFF.\n\nOpen weights coming soon. Available now on Higgsfield, and via Higgsfield MCP."
+    },
+    "url": "https://x.com/xiaohu/status/2125770246414119297",
+    "time": "Thu Nov 26 01:54:56 +0000 2026",
+    "created_at": "Thu Nov 26 01:54:56 +0000 2026",
+    "id_str": "2125770246414119297",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Edward_TW1 没办法，见识短\n不像你见多识广",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125770250868437049",
+    "time": "Thu Nov 26 01:54:57 +0000 2026",
+    "created_at": "Thu Nov 26 01:54:57 +0000 2026",
+    "id_str": "2125770250868437049",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 中文环境怎么这么多我操开头的人，建议见一个拉黑一个，觉得不会有任何损失。",
+    "quoted_tweet": null,
+    "url": "https://x.com/PengZhangCom/status/2125778765783716150",
+    "time": "Thu Nov 26 02:28:47 +0000 2026",
+    "created_at": "Thu Nov 26 02:28:47 +0000 2026",
+    "id_str": "2125778765783716150",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@PengZhangCom 你文化高",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125795497348891040",
+    "time": "Thu Nov 26 03:35:16 +0000 2026",
+    "created_at": "Thu Nov 26 03:35:16 +0000 2026",
+    "id_str": "2125795497348891040",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "数字人希加加对话黄仁勋\n揭秘离职回归的11天...\n\n这个感觉还行，表情、停顿、语气 都还挺不错，尤其还有微表情...\n\n但是为什么很多数字人说话的嘴型总是这样怪怪的，包括抖音里那些短剧也是这样，如果能解决这个，还真是很不错的效果\n\n剧情演绎，全程 AI 生成，非本人👇",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125813302039384399",
+    "time": "Thu Nov 26 04:46:01 +0000 2026",
+    "created_at": "Thu Nov 26 04:46:01 +0000 2026",
+    "id_str": "2125813302039384399",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "反正 token 用不完\n\n做了个2026 黑五大促销汇总也没\n值得买的可能都在这了\n\n会不断更新：https://xiaohu.ai/article/black-friday-2026/",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125826301835788526",
+    "time": "Thu Nov 26 05:37:40 +0000 2026",
+    "created_at": "Thu Nov 26 05:37:40 +0000 2026",
+    "id_str": "2125826301835788526",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "各种类型都有\n希望对你有用...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125826304822116508",
+    "time": "Thu Nov 26 05:37:41 +0000 2026",
+    "created_at": "Thu Nov 26 05:37:41 +0000 2026",
+    "id_str": "2125826304822116508",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 有点 ai slop。描述性文字太多，值得看的信息太少，除了装作信息丰富，没看出有什么用。\n\n应该是GPT 或者 蒸馏了 GPT 的模型做的",
+    "quoted_tweet": null,
+    "url": "https://x.com/witebalance/status/2125834833134022978",
+    "time": "Thu Nov 26 06:11:34 +0000 2026",
+    "created_at": "Thu Nov 26 06:11:34 +0000 2026",
+    "id_str": "2125834833134022978",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@witebalance 有点道理",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125837933894893747",
+    "time": "Thu Nov 26 06:23:54 +0000 2026",
+    "created_at": "Thu Nov 26 06:23:54 +0000 2026",
+    "id_str": "2125837933894893747",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu 哈哈哈 怎么提交收录？😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/Jimmy_JingLv/status/2125840336731988084",
+    "time": "Thu Nov 26 06:33:27 +0000 2026",
+    "created_at": "Thu Nov 26 06:33:27 +0000 2026",
+    "id_str": "2125840336731988084",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "你怎么才回来...",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125840892523327919",
+    "time": "Thu Nov 26 06:35:39 +0000 2026",
+    "created_at": "Thu Nov 26 06:35:39 +0000 2026",
+    "id_str": "2125840892523327919",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@Jimmy_JingLv 马上加好",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125841621128511618",
+    "time": "Thu Nov 26 06:38:33 +0000 2026",
+    "created_at": "Thu Nov 26 06:38:33 +0000 2026",
+    "id_str": "2125841621128511618",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@xiaohu x的优惠有吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/lran2034/status/2125841973630382376",
+    "time": "Thu Nov 26 06:39:57 +0000 2026",
+    "created_at": "Thu Nov 26 06:39:57 +0000 2026",
+    "id_str": "2125841973630382376",
+    "is_retweet": true
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "@lran2034 新人买一送一",
+    "quoted_tweet": null,
+    "url": "https://x.com/xiaohu/status/2125842391202734407",
+    "time": "Thu Nov 26 06:41:36 +0000 2026",
+    "created_at": "Thu Nov 26 06:41:36 +0000 2026",
+    "id_str": "2125842391202734407",
+    "is_retweet": false
+  },
+  {
+    "username": "xiaohu",
+    "nickname": "小虎",
+    "text": "评论区的人说我就会\n卧槽\n\n我录个视频给你们看看，为什么这个 PPT配得上\n卧槽",
+    "quoted_tweet": {
+      "author": "小互",
+      "username": "xiaohu",
+      "text": "卧槽\nOpus 5.6这么牛逼吗\n\n点卡这个，会直接惊掉你的下巴\n\nhttps://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah\n\n这个案例过于炸裂了，这是我见过最牛逼的PPT了！！！\n\n加载有点慢，有点耐心"
+    },
+    "url": "https://x.com/xiaohu/status/2125867980177440927",
+    "time": "Thu Nov 26 08:23:17 +0000 2026",
+    "created_at": "Thu Nov 26 08:23:17 +0000 2026",
+    "id_str": "2125867980177440927",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife My basil. 😃 Still  alive and thriving in its little pot despite my constant travel and zero proper care.",
+    "quoted_tweet": null,
+    "url": "https://x.com/toolstelegraph/status/2125752438443651460",
+    "time": "Thu Nov 26 00:44:10 +0000 2026",
+    "created_at": "Thu Nov 26 00:44:10 +0000 2026",
+    "id_str": "2125752438443651460",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@toolstelegraph Awww that is so sweet",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125754085617881544",
+    "time": "Thu Nov 26 00:50:43 +0000 2026",
+    "created_at": "Thu Nov 26 00:50:43 +0000 2026",
+    "id_str": "2125754085617881544",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/a786r/status/2125755309830664197",
+    "time": "Thu Nov 26 00:55:35 +0000 2026",
+    "created_at": "Thu Nov 26 00:55:35 +0000 2026",
+    "id_str": "2125755309830664197",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/Maren56_/status/2125756782135951620",
+    "time": "Thu Nov 26 01:01:26 +0000 2026",
+    "created_at": "Thu Nov 26 01:01:26 +0000 2026",
+    "id_str": "2125756782135951620",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Maren56_ Cute!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125759347997155702",
+    "time": "Thu Nov 26 01:11:37 +0000 2026",
+    "created_at": "Thu Nov 26 01:11:37 +0000 2026",
+    "id_str": "2125759347997155702",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@a786r So beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125759410807153055",
+    "time": "Thu Nov 26 01:11:52 +0000 2026",
+    "created_at": "Thu Nov 26 01:11:52 +0000 2026",
+    "id_str": "2125759410807153055",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@NFTNomad_0_0 On Saturday",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125760201592824078",
+    "time": "Thu Nov 26 01:15:01 +0000 2026",
+    "created_at": "Thu Nov 26 01:15:01 +0000 2026",
+    "id_str": "2125760201592824078",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife It’s a real shame the parade isn’t happening tomorrow. It’s actually shocking, and very sad.",
+    "quoted_tweet": null,
+    "url": "https://x.com/Beatlejase/status/2125761942321275033",
+    "time": "Thu Nov 26 01:21:56 +0000 2026",
+    "created_at": "Thu Nov 26 01:21:56 +0000 2026",
+    "id_str": "2125761942321275033",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Beatlejase So true, it’s such a big part of Thanksgiving celebration 😌",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125762693340492133",
+    "time": "Thu Nov 26 01:24:55 +0000 2026",
+    "created_at": "Thu Nov 26 01:24:55 +0000 2026",
+    "id_str": "2125762693340492133",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@wilzap True",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125762813784477909",
+    "time": "Thu Nov 26 01:25:24 +0000 2026",
+    "created_at": "Thu Nov 26 01:25:24 +0000 2026",
+    "id_str": "2125762813784477909",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife 100%, and on the 100th anniversary. Shameful! 😩",
+    "quoted_tweet": null,
+    "url": "https://x.com/Beatlejase/status/2125763652712341972",
+    "time": "Thu Nov 26 01:28:44 +0000 2026",
+    "created_at": "Thu Nov 26 01:28:44 +0000 2026",
+    "id_str": "2125763652712341972",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Beatlejase Really is! 😭😭😭😭😭",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125763864306540987",
+    "time": "Thu Nov 26 01:29:34 +0000 2026",
+    "created_at": "Thu Nov 26 01:29:34 +0000 2026",
+    "id_str": "2125763864306540987",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@bone_walk @icreatelife Ooo my god 😱 way to cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/toolstelegraph/status/2125766367546835245",
+    "time": "Thu Nov 26 01:39:31 +0000 2026",
+    "created_at": "Thu Nov 26 01:39:31 +0000 2026",
+    "id_str": "2125766367546835245",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@toolstelegraph @bone_walk So cute! I want him as a pet",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125769470845349952",
+    "time": "Thu Nov 26 01:51:51 +0000 2026",
+    "created_at": "Thu Nov 26 01:51:51 +0000 2026",
+    "id_str": "2125769470845349952",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Forehead kisses.",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2125778151813030318",
+    "time": "Thu Nov 26 02:26:21 +0000 2026",
+    "created_at": "Thu Nov 26 02:26:21 +0000 2026",
+    "id_str": "2125778151813030318",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@GlitterPixely Awww the best 🥰",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125779314839052314",
+    "time": "Thu Nov 26 02:30:58 +0000 2026",
+    "created_at": "Thu Nov 26 02:30:58 +0000 2026",
+    "id_str": "2125779314839052314",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Hope you all have cozy and wonderful Thanksgiving ☺️",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125782052067057783",
+    "time": "Thu Nov 26 02:41:50 +0000 2026",
+    "created_at": "Thu Nov 26 02:41:50 +0000 2026",
+    "id_str": "2125782052067057783",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "So lovely",
+    "quoted_tweet": {
+      "author": "Akari_Ai_Animation",
+      "username": "akari_w0r1d",
+      "text": "A rainy evening, a warm kitchen, and Grandma’s homemade oden. 🍢\n\nThere’s something so comforting about Japanese home cooking on a cold, rainy day.\n\nExciting news! Seedance 2.5 is finally available in Adobe Firefly, including in the United States!\n\nI created this cozy 2D animation using Seedance 2.5 in Adobe Firefly with just two reference images and one detailed prompt. I generated several variations and selected my favorite result.\n\nTwo images. One prompt. Endless possibilities. ✨\n\nTry creating your own animation with Adobe Firefly at http://adobe.ly/FFNovember\n\n#AdobeFireflyAmbassadors #Ad #HowToAdobeFirefly #AdobeFirefly #Seedance25 #AIAnimation #JapaneseAnimation #Oden #ASMR #CozyAnimation #FoodAnimation"
+    },
+    "url": "https://x.com/icreatelife/status/2125792934515589289",
+    "time": "Thu Nov 26 03:25:05 +0000 2026",
+    "created_at": "Thu Nov 26 03:25:05 +0000 2026",
+    "id_str": "2125792934515589289",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "X is purging bots \n\nHave you lost any followers and if yes, how many?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125795474959736955",
+    "time": "Thu Nov 26 03:35:11 +0000 2026",
+    "created_at": "Thu Nov 26 03:35:11 +0000 2026",
+    "id_str": "2125795474959736955",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Interestingly enough, I've gained quite a few today.",
+    "quoted_tweet": null,
+    "url": "https://x.com/thealphatron/status/2125807716547616924",
+    "time": "Thu Nov 26 04:23:49 +0000 2026",
+    "created_at": "Thu Nov 26 04:23:49 +0000 2026",
+    "id_str": "2125807716547616924",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@thealphatron That’s great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125808324570460411",
+    "time": "Thu Nov 26 04:26:14 +0000 2026",
+    "created_at": "Thu Nov 26 04:26:14 +0000 2026",
+    "id_str": "2125808324570460411",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "As there’s no parade, what are you watching this Thanksgiving?",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125814253911159164",
+    "time": "Thu Nov 26 04:49:48 +0000 2026",
+    "created_at": "Thu Nov 26 04:49:48 +0000 2026",
+    "id_str": "2125814253911159164",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife My weight 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/vbridgesruiz/status/2125815553113928010",
+    "time": "Thu Nov 26 04:54:58 +0000 2026",
+    "created_at": "Thu Nov 26 04:54:58 +0000 2026",
+    "id_str": "2125815553113928010",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@vbridgesruiz You’ll be the only one 🦃",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125819640190550468",
+    "time": "Thu Nov 26 05:11:12 +0000 2026",
+    "created_at": "Thu Nov 26 05:11:12 +0000 2026",
+    "id_str": "2125819640190550468",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I lost my best friend Botty McBotface",
+    "quoted_tweet": null,
+    "url": "https://x.com/EclecticMethod/status/2125830402589810949",
+    "time": "Thu Nov 26 05:53:58 +0000 2026",
+    "created_at": "Thu Nov 26 05:53:58 +0000 2026",
+    "id_str": "2125830402589810949",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@EclecticMethod 😅",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125831058952515680",
+    "time": "Thu Nov 26 05:56:35 +0000 2026",
+    "created_at": "Thu Nov 26 05:56:35 +0000 2026",
+    "id_str": "2125831058952515680",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "https://x.com/i/article/2125827329217740800",
+    "quoted_tweet": null,
+    "url": "https://x.com/GlitterPixely/status/2125847726457819414",
+    "time": "Thu Nov 26 07:02:48 +0000 2026",
+    "created_at": "Thu Nov 26 07:02:48 +0000 2026",
+    "id_str": "2125847726457819414",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/eSquareDesign/status/2125851374693089479",
+    "time": "Thu Nov 26 07:17:18 +0000 2026",
+    "created_at": "Thu Nov 26 07:17:18 +0000 2026",
+    "id_str": "2125851374693089479",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@eSquareDesign Awwww so cute",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2125852066832957858",
+    "time": "Thu Nov 26 07:20:03 +0000 2026",
+    "created_at": "Thu Nov 26 07:20:03 +0000 2026",
+    "id_str": "2125852066832957858",
+    "is_retweet": false
   }
 ]
