@@ -1791,5 +1791,160 @@
     "created_at": "Fri Nov 27 15:40:59 +0000 2026",
     "id_str": "2126340518103961999",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Memory name buybacks + pricing projections:  \n\n- $SKHY doubled its daily buybacks from ~$290M -> $581M, after Korea relaxed its buyback rules, explicitly citing \"undervaluation\"\n- $MU Dec 9, 2026 marks the end of the first 2 under initial CHIPS act agreements (where there was restrictions on buybacks). \n\nMicron stated it expects to return 100% of excess cash to shareholders, and that they'll increase returns past Dec 9th. \n\nOn the supply/pricing side per Trendforce: \n\n- Conventional DRAM contract price increases are expected to narrow throughout 2027, with prices potentially leveling off in the H2 2027 before declining in 2028\n\nUnder the assumptions that: \n--- Consumer electronics manufacturers are facing mounting sales pressure\n--- Chinese CSPs scaling back DRAM demand in early 4Q26 (but absorbed by US CSPs)\n--- markets expect a cautious policy stance toward domestic DC development\n--- $NVDA scales back its financing support for neocloud providers.\n\nThey forecast conventional DRAM to increase 10%-15% Q4 2026, with further increases up 3%-8% Q1 2027. \n\nIn another bear case they give:\n--- server OEMs will further scale back procurement following downward revisions to demand\n--- widespread inventory reductions across the supply chain\n--- downside risks include reduced investment and potential consolidation among neocloud providers\n\n\"overall server shipment growth could begin decelerating as early as 2027, causing conventional DRAM contract prices to reverse course and begin declining in 4Q27, with price declines widening in 2028.\"\n\n___\n\n$MU CEO said earlier: \"we expect memory and storage supply demand conditions to be much tighter in 2027 and 2028 than they were in 2026\"...\n\nBut I think everyone is starting to price in a 2028 demand/pricing destruction already (which hasn't happened). Also I do think a lot of new price floor LTAs should change how we look at memory name durability.\n\nAs long as durability and pricing remains elevated for longer periods of time, which $SKHY likely has more information to, I'd agree with them shares look increasingly undervalued.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2126362821621690751",
+    "time": "2026-11-28 01:09",
+    "created_at": "Fri Nov 27 17:09:37 +0000 2026",
+    "id_str": "2126362821621690751",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "uhh... are we cooked chat? \n\nNature reported rumors that AI frontier labs from $ANT or OpenAI discovered algorithms capable of breaking public-key cryptography in \"polynomial time\"\n\n- \"In practical terms, an algorithm that could break public-key cryptography in polynomial time could undermine much of the security on which the Internet relies.\" \n\n- \"AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.\" \n\n- “I’m virtually certain, from multiple reliable sources, that the AI labs are now sitting on one or more bombshells,” said Scott Aaronson (UT Austin Chair of CS, leading theoretical computer scientist)",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2126378481714168280",
+    "time": "2026-11-28 02:11",
+    "created_at": "Fri Nov 27 18:11:50 +0000 2026",
+    "id_str": "2126378481714168280",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Nature Magazine: \"AI agents have already begun to wreak havoc by hacking into servers around the world\"\n\nFrom timelines in the past 2 months: \n\n- $MSFT in October: \"large-scale nation-state campaign using ARTEX enables supply chain compromise\" for downstream customers\n\n- $CRWD in October: A group used AI agents against 200+ organizations, Crowdstrike confirmed access at nine organizations\n\n- $PANW in November: \"Researchers documented 25 operations against at least 19 organizations\"\n\n\"Seven targets were in semiconductors or advanced manufacturing. Across all sectors, attackers obtained unauthorized access or data at 10 organizations\"\n\n- $GOOGL Threat Intelligence Group in November: identified a significant inflection point in autonomous AI threat activity.\n\n- European Commission in November: \"the Commission confirmed the attackers used AI tools in a campaign it first detected October 22\"\n\n\"EU Academy users’ names and email addresses leaked\"\n\n- $AMZN Threat Intelligence in November: \"Chinese-nexus actor’s Cairn AI agents found a zero-day on their own\" targeting universities likely of strategic interest to China\n\n-Italy reported domestic campaigns in which parallel agents compromised systems.\n\n- Swiss national cyber agency: Swiss officials confirmed 5 AI-agent attacks, 4 successful compromises and 3 critical-infrastructure operators among the targets\n\nAnd now there was the new unfortunately US Air Force Hack today (investigators suspected ARTEX)\n\nThe observable threats from AI is now increasingly widespread... and it will probably grow over the next few years. \n\nI feel like both frontier model capabilities and AI cyberdefense has now become a new nondiscretionary spend for national security and enterprise.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2126406828980686901",
+    "time": "2026-11-28 04:04",
+    "created_at": "Fri Nov 27 20:04:29 +0000 2026",
+    "id_str": "2126406828980686901",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "In terms of laser industry dynamics: \n\n- $LITE: \"Take or pay. There's a very strong commitment from the customer side, and in some cases, there's a prepay element as well\". Hyperscalers were explicitly funding their capacity expansion as well\n\n- $COHR: Upfront payments in almost every LTA, according to its CEO. \n\nBoth Lumentum and Coherent are the gold standard in terms of financing + demand signals. \n\n- For Chinese laser suppliers:\n\nOptical module makers are actively financing their supply chains (even for lower range pluggables), as seen with Cambridge. \n\nIn terms of US supply chains: \n\n- $AAOI CFO gave a note: \"Customer financing is more likely for emerging technologies such as CPO and NPO than conventional 800G and 1.6T transceivers.\"\n\n- $AAOI got a CPO + laser contract worth $700m for 2028-2029. But resulted in more ATMs instead of funding expansion with prepayments... \n\nI think people can agree AOI as a business at $3.7B MC is very operationally compelling:\n\n- since they signed a $1B-$1.5B LTA with one hyperscaler\n-  $2.2B LTA all in a single quarter.\n\nBut with management repeatedly creates expectations that later disclosures contrast with, which I agree is strange. \n\nLot of current financing (as seen with Neoclouds) are done with prepayments given tightening. Or if a supplier is important enough (as seen with $SPCX), they'll help refinance the company. \n\nSo I'm really not sure what's happening with $AAOI, maybe it's overstated competitive positioning or something else. \n\nI still think $AAOI is looks compelling H2 2027, but their biggest problem is their own financing methods and management credibility not customer demand.",
+    "quoted_tweet": {
+      "author": "Jae Kim",
+      "username": "JaeKim1089208",
+      "text": "@aleabitoreddit With supply constrained, do you think it was weird that $AAOI could not get the hyperscaler (new contract) to pay upfront? I find it odd"
+    },
+    "url": "https://x.com/aleabitoreddit/status/2126429899141636315",
+    "time": "2026-11-28 05:36",
+    "created_at": "Fri Nov 27 21:36:09 +0000 2026",
+    "id_str": "2126429899141636315",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit How about $SIVE?",
+    "quoted_tweet": null,
+    "url": "https://x.com/shub_mahe/status/2126430617214632287",
+    "time": "2026-11-28 05:39",
+    "created_at": "Fri Nov 27 21:39:00 +0000 2026",
+    "id_str": "2126430617214632287",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit 我8.8块的$AAOG还能回本吗哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/Alyssa06228361/status/2126431231269363937",
+    "time": "2026-11-28 05:41",
+    "created_at": "Fri Nov 27 21:41:27 +0000 2026",
+    "id_str": "2126431231269363937",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "So something constructive about $SIVE is that their entire valuation premium:\n\n- CPO, Nasdaq listing, M&A for TAM expansion.\n\nGot cut off 1 by 1 from self inflected management commentary. \n\nH1: They cited M&A multiple times along with NASDAQ listing. \n\n1. So a lot of people (myself included) thought they were going raise more capital to TAM expand and grow faster into a larger optical player. \n2. But the valuation dropped sharply on earnings call after they shifted commentary from NASDAQ listing next few quarters to \"readiness preparation\" H1 2027.\n3. Then there was no M&A announcements, and that also turned into \"looking at opportunities\". \n4. Lot of long-term CPO economic opportunities were redirected into near term pluggable discussions. \n\nI'm not sure if it's a communication or cultural issue, but the underlying business got stronger. The ambitions they initially set with press releases in H1 were cut off. \n\nBut valuation premiums can always come back depending on communication and subsequent execution next earnings.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2126433423040692256",
+    "time": "2026-11-28 05:50",
+    "created_at": "Fri Nov 27 21:50:09 +0000 2026",
+    "id_str": "2126433423040692256",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@Alyssa06228361 我在 $AAOI 上亏了几百万美元，我对管理层也挺火大的\n\n不过，我仍然认为这家公司的长期投资价值很有吸引力，只是考虑到 ATM 增发的机制，我个人认为短期内股价的上涨空间比较有限\n\n至于别人应该怎么操作，我没办法给出投资建议",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2126435387392565264",
+    "time": "2026-11-28 05:57",
+    "created_at": "Fri Nov 27 21:57:58 +0000 2026",
+    "id_str": "2126435387392565264",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It may not last for long, but for now you need some level of expertise in a subject to use AI for novel discoveries. It is just too easy to produce exciting results from the models that fail because you don’t know the checks to run or wider context or can’t “smell” a problem.",
+    "quoted_tweet": {
+      "author": "Harsha G.",
+      "username": "harshaog",
+      "text": "As much as I'd love this to be true: the Indus script has NOT been \"cracked\" 🧵\n\nWe downloaded the paper's code and ran it. \n\nThen we swapped Tamil for Japanese, a language with no known link to the Indus.\n\nThe code \"decoded\" the seals in Japanese too.\n\nMore details below:"
+    },
+    "url": "https://x.com/emollick/status/2126345004746707119",
+    "time": "2026-11-27 23:58",
+    "created_at": "Fri Nov 27 15:58:49 +0000 2026",
+    "id_str": "2126345004746707119",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "经济上行期的人，经验全跟放屁一样……你等于问一个坐电梯的人，怎么这么快，就从1楼到60楼，他告诉你，他在电梯里，靠墙单手倒立，这是他的成功要诀",
+    "quoted_tweet": {
+      "author": "我永远喜欢排骨年糕",
+      "username": "shirone_calpis",
+      "text": "反正这几年就是学教训了, 第一就是不要完全参考前人的经验尤其是上行期的经验, 放到现在其实就是刻舟求剑. 第二就是老实上班很枯燥也没前途. 第三就是不要太胆小要多搞点花头. 第四就是生活真的可以是个很简单的东西, 一日三餐衣食住行, 很多额外的东西其实都算是滤镜附魅了, 没有也可以."
+    },
+    "url": "https://x.com/garrulous_abyss/status/2126257240059334724",
+    "time": "2026-11-27 18:10",
+    "created_at": "Fri Nov 27 10:10:04 +0000 2026",
+    "id_str": "2126257240059334724",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "I’ve onboarded a few non-tech family members to @instinct over the last week, it’s crazy how fast people just get it, time to value for good agent experiences in 2027 is going to be minutes or less.\n\nAnd it is retentive because you don’t need a new app. Texting for the win!",
+    "quoted_tweet": null,
+    "url": "https://x.com/OfficialLoganK/status/2126434025292144821",
+    "time": "2026-11-28 05:52",
+    "created_at": "Fri Nov 27 21:52:33 +0000 2026",
+    "id_str": "2126434025292144821",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@OfficialLoganK @instinct Why not Gemini?",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126446283837886896",
+    "time": "2026-11-28 06:41",
+    "created_at": "Fri Nov 27 22:41:16 +0000 2026",
+    "id_str": "2126446283837886896",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Jackywine 信仰无需理由，相信自己",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126446569176314015",
+    "time": "2026-11-28 06:42",
+    "created_at": "Fri Nov 27 22:42:24 +0000 2026",
+    "id_str": "2126446569176314015",
+    "is_retweet": false
   }
 ]
