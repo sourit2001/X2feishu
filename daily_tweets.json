@@ -796,5 +796,97 @@
     "created_at": "Fri Nov 27 06:42:00 +0000 2026",
     "id_str": "2126204876543627711",
     "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Industry channel check with Yuanjie Semiconductor: \n\n- The company is currently not supplying Eoptolink because its own CW laser capacity is insufficient to meet its demand. (positive for merchant laser players)\n\n- On $AXTI and InP substrates: \"Indium phosphide substrate prices did not increase in Q3 2026 but increased by several percentage points in Q4.\"\n\nTheir primary suppliers include Tongmei (AXT subsidary), Xiandao and Yunnan Germanium.\n\n\"Based on capacity estimates, approximately 80% of Sumitomo's production capacity has already been locked up by InnoLight.\"\n\nPrices are expected to remain largely unchanged through March 2027, although the situation in April 2027 remains uncertain.\n\n(mildly negative for memory-like 80%+ gross margins, but can't complain about 60%+).\n\n-  (on 300mW-400mW lasers) \"These products will primarily be supplied to $NVDA for use as external laser sources in its NPO architecture.\" \n\nThe company says it will be a core NPO supplier because $LITE is facing capacity constraints and shifting toward CPO products. \n\nAlso bullish signal regarding market capture for other merchant laser players. \n\n- The average delivery lead time for MOCVD equipment remains stable at approximately 12 months. ($AIXA and related unchanged). \n\n- CW laser products were 80% of the company's total revenue: (60% 70mW, 33–34% 100mW, rest misc). \n\n- \"At present, DSP supply shortages have not been incorporated as a core variable in detailed calculations.\"\n\n$AAOI is not alone here\n\n- 1.6T optical transceivers will not adopt a configuration using 4 70mW lasers.\n\nUnder the current technical architecture, two 100mW lasers are sufficient to meet requirements.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2126189347481538755",
+    "time": "2026-11-27 13:40",
+    "created_at": "Fri Nov 27 05:40:17 +0000 2026",
+    "id_str": "2126189347481538755",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "Who turned on the lights today?",
+    "quoted_tweet": {
+      "author": "Serenity",
+      "username": "aleabitoreddit",
+      "text": "Industry channel check with Yuanjie Semiconductor: \n\n- The company is currently not supplying Eoptolink because its own CW laser capacity is insufficient to meet its demand. (positive for merchant laser players)\n\n- On $AXTI and InP substrates: \"Indium phosphide substrate prices did not increase in Q3 2026 but increased by several percentage points in Q4.\"\n\nTheir primary suppliers include Tongmei (AXT subsidary), Xiandao and Yunnan Germanium.\n\n\"Based on capacity estimates, approximately 80% of Sumitomo's production capacity has already been locked up by InnoLight.\"\n\nPrices are expected to remain largely unchanged through March 2027, although the situation in April 2027 remains uncertain.\n\n(mildly negative for memory-like 80%+ gross margins, but can't complain about 60%+).\n\n-  (on 300mW-400mW lasers) \"These products will primarily be supplied to $NVDA for use as external laser sources in its NPO architecture.\" \n\nThe company says it will be a core NPO supplier because $LITE is facing capacity constraints and shifting toward CPO products. \n\nAlso bullish signal regarding market capture for other merchant laser players. \n\n- The average delivery lead time for MOCVD equipment remains stable at approximately 12 months. ($AIXA and related unchanged). \n\n- CW laser products were 80% of the company's total revenue: (60% 70mW, 33–34% 100mW, rest misc). \n\n- \"At present, DSP supply shortages have not been incorporated as a core variable in detailed calculations.\"\n\n$AAOI is not alone here\n\n- 1.6T optical transceivers will not adopt a configuration using 4 70mW lasers.\n\nUnder the current technical architecture, two 100mW lasers are sufficient to meet requirements."
+    },
+    "url": "https://x.com/aleabitoreddit/status/2126201430864507333",
+    "time": "2026-11-27 14:28",
+    "created_at": "Fri Nov 27 06:28:18 +0000 2026",
+    "id_str": "2126201430864507333",
+    "is_retweet": false
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@aleabitoreddit Serenity for you is better $nebius or $IREN please let me know",
+    "quoted_tweet": null,
+    "url": "https://x.com/GPauri5596/status/2126206400288215498",
+    "time": "2026-11-27 14:48",
+    "created_at": "Fri Nov 27 06:48:03 +0000 2026",
+    "id_str": "2126206400288215498",
+    "is_retweet": true
+  },
+  {
+    "username": "aleabitoreddit",
+    "nickname": "Serenity",
+    "text": "@GPauri5596 I’ll always be a $NBIS fan but $IREN operationally is growing on me. \n\nI was actually considering seriously going long for the first time in 2026 at $12, but still same concerns about remaining ATM overhang.",
+    "quoted_tweet": null,
+    "url": "https://x.com/aleabitoreddit/status/2126207276092715192",
+    "time": "2026-11-27 14:51",
+    "created_at": "Fri Nov 27 06:51:32 +0000 2026",
+    "id_str": "2126207276092715192",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "It's crucial for #ethereum's PQAI efforts that we move as fast as possible. And as solid as possible!\n\nThus, even SETCODEFROM isn't SFI'd yet, we've been hardening it. Going through ALL bytecodes in ethereum's state to ensure it is ready.\n\nThe result 👇👇\nhttps://ethresear.ch/t/a-state-backed-validation-of-setcodefrom/26300",
+    "quoted_tweet": null,
+    "url": "https://x.com/CPerezz19/status/2126233358518915151",
+    "time": "2026-11-27 16:35",
+    "created_at": "Fri Nov 27 08:35:10 +0000 2026",
+    "id_str": "2126233358518915151",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "TIL: rhinodinos",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126290884786528279",
+    "time": "2026-11-27 20:23",
+    "created_at": "Fri Nov 27 12:23:46 +0000 2026",
+    "id_str": "2126290884786528279",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "上架了！求朋友们转发！\n\nhttps://xhslink.cn/o/4f1y0IcBKqB",
+    "quoted_tweet": null,
+    "url": "https://x.com/pingchn/status/2126172977784107420",
+    "time": "2026-11-27 12:35",
+    "created_at": "Fri Nov 27 04:35:14 +0000 2026",
+    "id_str": "2126172977784107420",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@pingchn 恭喜上线！",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126249216469344338",
+    "time": "2026-11-27 17:38",
+    "created_at": "Fri Nov 27 09:38:11 +0000 2026",
+    "id_str": "2126249216469344338",
+    "is_retweet": false
   }
 ]
