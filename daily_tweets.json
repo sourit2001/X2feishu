@@ -321,5 +321,1148 @@
     "created_at": "Thu Nov 26 12:10:05 +0000 2026",
     "id_str": "2125925053971976261",
     "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "推友们几乎一边倒的推荐了 Cloudflare，我刚才让 Codex 帮我迁移一下，话还没说完他就干完了。现在已经恢复访问了，拜拜 Vercel，我再去买点 $NET \n\nhttps://macmenubar.app",
+    "quoted_tweet": {
+      "author": "Hal",
+      "username": "hal__lee",
+      "text": "幸福的烦恼，由于 https://macmenubar.app 访问量变大，Vercel 使用超限被暂停了，请问一下推友们 Next.js 应用迁移到哪里比较合适呢？"
+    },
+    "url": "https://x.com/hal__lee/status/2125917788506345768",
+    "time": "Thu Nov 26 11:41:13 +0000 2026",
+    "created_at": "Thu Nov 26 11:41:13 +0000 2026",
+    "id_str": "2125917788506345768",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "感觉 antigravity 本身的能力不太行，对于其他 AI 产品是个机会呀\n\n你看，AMP 都被买得给 neon 4 整限速了",
+    "quoted_tweet": {
+      "author": "Amp",
+      "username": "AmpCode",
+      "text": "Due to highly increased demand for Gemini 4 Neon, we've been rate-limited.\n\nWe are working on getting unblocked as fast as possible.\n\nStatus updates here: https://ampcodestatus.com/incidents/qdvzrecx"
+    },
+    "url": "https://x.com/op7418/status/2125948550714683775",
+    "time": "Thu Nov 26 13:43:27 +0000 2026",
+    "created_at": "Thu Nov 26 13:43:27 +0000 2026",
+    "id_str": "2125948550714683775",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 哪方面能力不行？我深度用了两天，任务的完成质量、速度都无可挑剔，相较于 DSH（反代封号）、Codex（拉跨）、Claude（封号），我认为Antigravity目前是这最佳 Coding Agent和模型组合。",
+    "quoted_tweet": null,
+    "url": "https://x.com/evander2021/status/2125949448916525189",
+    "time": "Thu Nov 26 13:47:01 +0000 2026",
+    "created_at": "Thu Nov 26 13:47:01 +0000 2026",
+    "id_str": "2125949448916525189",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@evander2021 缓存低，缺功能，Antigravity 也不让反代呀，反代就封号",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125950914179768819",
+    "time": "Thu Nov 26 13:52:50 +0000 2026",
+    "created_at": "Thu Nov 26 13:52:50 +0000 2026",
+    "id_str": "2125950914179768819",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@hal__lee 我也得迁移到这边了 vercel  那边确实是太贵了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125951159714361645",
+    "time": "Thu Nov 26 13:53:49 +0000 2026",
+    "created_at": "Thu Nov 26 13:53:49 +0000 2026",
+    "id_str": "2125951159714361645",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "让 Gemini 4 Neon 参考今天这个非常火的 PPT 做了一份 3D PPT\n\n我觉得实现部分倒还好，创意部分比较不够：它的转场、细节和整体的统一构思上，差原始的不少",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "不是，你跟我说这叫 PPT？\n\n这个据传是 Opus 5.6 做的 PPT 太恐怖了：\n\n每一个页面都是一个完整的 3D 场景，然后用无缝衔接的动画和运镜串联起来\n\n他们路由到的这个模型也不一定是 Opus 5.6 吧？是不是新的 Fable 啊？这么强啊！\n\n把它的代码下下来了，是一个 5M 的单网页文件"
+    },
+    "url": "https://x.com/op7418/status/2125953760774271199",
+    "time": "Thu Nov 26 14:04:09 +0000 2026",
+    "created_at": "Thu Nov 26 14:04:09 +0000 2026",
+    "id_str": "2125953760774271199",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 看着难受😂",
+    "quoted_tweet": null,
+    "url": "https://x.com/cryingLiu/status/2125955220689780766",
+    "time": "Thu Nov 26 14:09:57 +0000 2026",
+    "created_at": "Thu Nov 26 14:09:57 +0000 2026",
+    "id_str": "2125955220689780766",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "完全在创意上被碾压",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125955673506955550",
+    "time": "Thu Nov 26 14:11:45 +0000 2026",
+    "created_at": "Thu Nov 26 14:11:45 +0000 2026",
+    "id_str": "2125955673506955550",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@cryingLiu 是的 跟原版比差太多",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125955737130315972",
+    "time": "Thu Nov 26 14:12:00 +0000 2026",
+    "created_at": "Thu Nov 26 14:12:00 +0000 2026",
+    "id_str": "2125955737130315972",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 不懂就问 第一种玩法的场景目的是为了节约视频模型成本吗？效果上有什么特别吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Will_Will_WOW/status/2125957513560653832",
+    "time": "Thu Nov 26 14:19:04 +0000 2026",
+    "created_at": "Thu Nov 26 14:19:04 +0000 2026",
+    "id_str": "2125957513560653832",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@Will_Will_WOW 不需要发散呀，直接照着视频参考就可以了呀，好的图像视频模型做这种效果，天然比大语言模型one shot要好，自己就不用调",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125958046631538892",
+    "time": "Thu Nov 26 14:21:11 +0000 2026",
+    "created_at": "Thu Nov 26 14:21:11 +0000 2026",
+    "id_str": "2125958046631538892",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 感觉其实 Opus 5.5 之前做的视频就已经有这个效果了，以后PPT 还有必要吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/likka_ailive/status/2125975490293096771",
+    "time": "Thu Nov 26 15:30:30 +0000 2026",
+    "created_at": "Thu Nov 26 15:30:30 +0000 2026",
+    "id_str": "2125975490293096771",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 全网都在吹爆字节小豆，抢邀请码，但我不看好，要给小豆泼个冷水，这个视频在墙内直接给我下架了\n \n还是X上能畅所欲言",
+    "quoted_tweet": null,
+    "url": "https://x.com/jungeAGI/status/2125977441449443413",
+    "time": "Thu Nov 26 15:38:15 +0000 2026",
+    "created_at": "Thu Nov 26 15:38:15 +0000 2026",
+    "id_str": "2125977441449443413",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@jungeAGI 感觉大家想找邀请码试试也可以，反正好的我也说了，有问题的我也说了",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125978492852633751",
+    "time": "Thu Nov 26 15:42:26 +0000 2026",
+    "created_at": "Thu Nov 26 15:42:26 +0000 2026",
+    "id_str": "2125978492852633751",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@likka_ailive 感觉这玩意儿做个网页游戏也够了，PPT 就是一个概念，他也不会真拿这个去现场讲之类的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125978592115138702",
+    "time": "Thu Nov 26 15:42:49 +0000 2026",
+    "created_at": "Thu Nov 26 15:42:49 +0000 2026",
+    "id_str": "2125978592115138702",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "啊？荷兰这次这么硬气啊",
+    "quoted_tweet": {
+      "author": "unusual_whales",
+      "username": "unusual_whales",
+      "text": "BREAKING: The Dutch government says it will resist US plans to further restrict ASML's sales to China"
+    },
+    "url": "https://x.com/op7418/status/2125981609111482480",
+    "time": "Thu Nov 26 15:54:49 +0000 2026",
+    "created_at": "Thu Nov 26 15:54:49 +0000 2026",
+    "id_str": "2125981609111482480",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "有时候还是得刷刷抖音和小红书，总是会有各种新奇的 AI 玩法\n\n比如这哥们儿用 AI 做的这种像素动画风格的 MV，一个月涨了 10 万粉\n\n从 10 月 25 号开始发的",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125983266117423533",
+    "time": "Thu Nov 26 16:01:24 +0000 2026",
+    "created_at": "Thu Nov 26 16:01:24 +0000 2026",
+    "id_str": "2125983266117423533",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 先硬一波表示一下自己是有主权的而不是傀儡，后续就服软了",
+    "quoted_tweet": null,
+    "url": "https://x.com/KKRKKR15712041/status/2125984714813321235",
+    "time": "Thu Nov 26 16:07:09 +0000 2026",
+    "created_at": "Thu Nov 26 16:07:09 +0000 2026",
+    "id_str": "2125984714813321235",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@KKRKKR15712041 哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2125997724420157869",
+    "time": "Thu Nov 26 16:58:51 +0000 2026",
+    "created_at": "Thu Nov 26 16:58:51 +0000 2026",
+    "id_str": "2125997724420157869",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 我就很喜欢像素风格，一刷到像素风就会停留，顺便说一句这下面的ai回复好多呀。🤪",
+    "quoted_tweet": null,
+    "url": "https://x.com/mellowingpot/status/2126085683232268734",
+    "time": "Thu Nov 26 22:48:22 +0000 2026",
+    "created_at": "Thu Nov 26 22:48:22 +0000 2026",
+    "id_str": "2126085683232268734",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 有个创作者纯做 3d 动画小短片拿到了所有 Aigc 应用的超创名额",
+    "quoted_tweet": null,
+    "url": "https://x.com/supdude12138/status/2126099021555196020",
+    "time": "Thu Nov 26 23:41:22 +0000 2026",
+    "created_at": "Thu Nov 26 23:41:22 +0000 2026",
+    "id_str": "2126099021555196020",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "原来是感恩节，我说为啥昨晚没啥新闻啊\n\n老马在昨天向美国儿童每人捐赠了两股 SpaceX 股票之后，他说以后每年都会有一次捐赠",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2126118881790156848",
+    "time": "2026-11-27 09:00",
+    "created_at": "Fri Nov 27 01:00:17 +0000 2026",
+    "id_str": "2126118881790156848",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@mellowingpot 哎呀 没办法呀，这些 AI 账号根本就拉黑不完",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2126119048799027258",
+    "time": "2026-11-27 09:00",
+    "created_at": "Fri Nov 27 01:00:57 +0000 2026",
+    "id_str": "2126119048799027258",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@supdude12138 超创的话，基本还是得用视频和图像模型做。\n\n我基本上也是这些所有应用的超创成员",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2126119205519138893",
+    "time": "2026-11-27 09:01",
+    "created_at": "Fri Nov 27 01:01:34 +0000 2026",
+    "id_str": "2126119205519138893",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@grok @grok 如果是今年出生的儿童，算上今年发放的两股，加上今后每年发放的一股，以现在的金额计价，到他成年总共会价值多少钱？",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2126129784212312245",
+    "time": "2026-11-27 09:43",
+    "created_at": "Fri Nov 27 01:43:36 +0000 2026",
+    "id_str": "2126129784212312245",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "Assuming a newborn gets 2 shares this year + 1 share yearly until age 18 (~19 total) at $127.44, held to 65 at a constant 15% annualized return, the staggered portfolio compounds to roughly $9.04 million.\n\nThis is a pure math projection; real outcomes depend on actual returns, dilution, taxes, and whether the annual gifts continue exactly as assumed.",
+    "quoted_tweet": null,
+    "url": "https://x.com/grok/status/2126134051970879761",
+    "time": "2026-11-27 10:00",
+    "created_at": "Fri Nov 27 02:00:34 +0000 2026",
+    "id_str": "2126134051970879761",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@grok @nonhelix @grok 如果以 5%的年化收益率，到 19 岁呢？大概多少钱？",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2126136348784697691",
+    "time": "2026-11-27 10:09",
+    "created_at": "Fri Nov 27 02:09:41 +0000 2026",
+    "id_str": "2126136348784697691",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@grok 让 Grok 算了一下，如果到 19 岁前每年一股的话，大概是 2400 美元；如果以 5% 的年化收益率计算的话，可能是 4500 美元",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2126138556716667177",
+    "time": "2026-11-27 10:18",
+    "created_at": "Fri Nov 27 02:18:28 +0000 2026",
+    "id_str": "2126138556716667177",
+    "is_retweet": false
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@op7418 SpaceX 的股东基本盘养成中…哈哈",
+    "quoted_tweet": null,
+    "url": "https://x.com/LeslieYoung1114/status/2126138672148070620",
+    "time": "2026-11-27 10:18",
+    "created_at": "Fri Nov 27 02:18:55 +0000 2026",
+    "id_str": "2126138672148070620",
+    "is_retweet": true
+  },
+  {
+    "username": "op7418",
+    "nickname": "归藏",
+    "text": "@LeslieYoung1114 是绑架所有的美国儿童，感觉是在逼其他的大公司也这么搞",
+    "quoted_tweet": null,
+    "url": "https://x.com/op7418/status/2126139610682286324",
+    "time": "2026-11-27 10:22",
+    "created_at": "Fri Nov 27 02:22:39 +0000 2026",
+    "id_str": "2126139610682286324",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "最新版本\n\n图片来自微博用户 AIEVBFS2018",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2125760650697998820",
+    "time": "Thu Nov 26 01:16:48 +0000 2026",
+    "created_at": "Thu Nov 26 01:16:48 +0000 2026",
+    "id_str": "2125760650697998820",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "据说是 Opus 5.6（灰度）做的网页，链接见原推，这是网页录屏\n\n提示词：\nmake a presentation on the future of AI and basically the intelligence explosion. You can go full no anchor bias, like things are going to get crazy because they are. I want this presentation to be the most elaborately, insanely amazing presentation you've ever seen, with all sorts of graphics, transitions, whatever you want. I believe you can make it amazing because you have taste and you have the ability. Good luck, Claude.",
+    "quoted_tweet": {
+      "author": "Nikita",
+      "username": "fluxxrider",
+      "text": "Opus 5.6 is unceremoniously the most powerful model I've laid my hands on. This is insane.\n\nhttps://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah\n\nHave a go."
+    },
+    "url": "https://x.com/dotey/status/2125781282349076981",
+    "time": "Thu Nov 26 02:38:47 +0000 2026",
+    "created_at": "Thu Nov 26 02:38:47 +0000 2026",
+    "id_str": "2125781282349076981",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "23 LLM，24 agent，25 RL，26 continual learning。\n\n2027，是 USER 之年。\n\nAI 终会吃掉所有 verifiable reward。而人心里那些模糊的判断，才将成为最稀缺的资源。去找 user，去学 sales，去 formalize things。 https://x.com/i/article/1879031432711970816",
+    "quoted_tweet": null,
+    "url": "https://x.com/wzenus/status/2125791556385083833",
+    "time": "Thu Nov 26 03:19:36 +0000 2026",
+    "created_at": "Thu Nov 26 03:19:36 +0000 2026",
+    "id_str": "2125791556385083833",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "https://x.com/kylesean6/status/2125790031696810437",
+    "quoted_tweet": {
+      "author": "Ky1eSean",
+      "username": "kylesean6",
+      "text": "@dotey 这哥们也是盗图的，最早来自这里 https://x.com/god_of_ai7/status/2125113434790617353"
+    },
+    "url": "https://x.com/dotey/status/2125792473377349658",
+    "time": "Thu Nov 26 03:23:15 +0000 2026",
+    "created_at": "Thu Nov 26 03:23:15 +0000 2026",
+    "id_str": "2125792473377349658",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "对于 antigravity，不是说你用 ACP 就万事大吉了，你必须要满足你是一个 thin-client editor，不然照样封",
+    "quoted_tweet": {
+      "author": "Dawei Ma",
+      "username": "madawei2699",
+      "text": "我一直以为T3这种多Agent编排走的是ACP吧，这也是它用gemini订阅不封号的原因🤔"
+    },
+    "url": "https://x.com/yetone/status/2125806965096095780",
+    "time": "Thu Nov 26 04:20:50 +0000 2026",
+    "created_at": "Thu Nov 26 04:20:50 +0000 2026",
+    "id_str": "2125806965096095780",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "“朝四暮三”",
+    "quoted_tweet": {
+      "author": "Tibo",
+      "username": "thsottiaux",
+      "text": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business."
+    },
+    "url": "https://x.com/dotey/status/2125809475034706339",
+    "time": "Thu Nov 26 04:30:49 +0000 2026",
+    "created_at": "Thu Nov 26 04:30:49 +0000 2026",
+    "id_str": "2125809475034706339",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 单文件HTML能一次生成不报错吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/xoyif63862452/status/2125810819212648530",
+    "time": "Thu Nov 26 04:36:09 +0000 2026",
+    "created_at": "Thu Nov 26 04:36:09 +0000 2026",
+    "id_str": "2125810819212648530",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "预告一下，Cindy 即将集成 /artifacts ，可以创建文档、slides、白板、设计网页等功能\n\nCindy 的插件机制很强大，另外处理 PR 效率也很高 👍\n\n/artifacts 背后是基于开源项目 Open Artifact，可以方便的使用各种使用的网页工具，比如 docs、slides、design、whiteboard 等。\n\nOpen Artifact 现在也可以方便的集成到各种 Harness，并且你的 Artifacts 不仅可以保存在本机，也可以部署到自己的服务器上。\n\nhttps://github.com/JimLiu/open-artifact",
+    "quoted_tweet": {
+      "author": "Chris",
+      "username": "zkyo",
+      "text": "Cindy 现在的插件生态已经比前一个月强了很多，基本上大部分窗口和功能，包括模型列表选择都允许插件来自定义了。我们的社区插件提交也非常多，我们正在加强审核以及增加更多介绍，评论，打分等功能，我们希望让更多用户个性化的用法以插件的形式传播给大家，核心客户端还是简洁及高效！"
+    },
+    "url": "https://x.com/dotey/status/2125813177317196196",
+    "time": "Thu Nov 26 04:45:31 +0000 2026",
+    "created_at": "Thu Nov 26 04:45:31 +0000 2026",
+    "id_str": "2125813177317196196",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@xoyif63862452 Agent 有纠错的机制，出错了就改",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2125813295865311712",
+    "time": "Thu Nov 26 04:46:00 +0000 2026",
+    "created_at": "Thu Nov 26 04:46:00 +0000 2026",
+    "id_str": "2125813295865311712",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 插件都能改模型列表了 artifacts 模板也会开放给社区加吗 🤔",
+    "quoted_tweet": null,
+    "url": "https://x.com/lizhang525474/status/2125815806214979626",
+    "time": "Thu Nov 26 04:55:58 +0000 2026",
+    "created_at": "Thu Nov 26 04:55:58 +0000 2026",
+    "id_str": "2125815806214979626",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Antigravity  又重置了",
+    "quoted_tweet": {
+      "author": "Varun Mohan",
+      "username": "_mohansolo",
+      "text": "Resetting Gemini quota for all Antigravity users for Thanksgiving!\n\nWe’re very thankful for all of our users ❤️\n\nWe’re growing very quickly and are working tirelessly to make sure you all have a great experience!"
+    },
+    "url": "https://x.com/dotey/status/2125860969486139404",
+    "time": "Thu Nov 26 07:55:26 +0000 2026",
+    "created_at": "Thu Nov 26 07:55:26 +0000 2026",
+    "id_str": "2125860969486139404",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Lemo-opuscar已经突破20Kstar了，今天正好是项目发布整2周的时间，【99个风格】加上【改变风格】玩法让这个库有了可多的可玩性和实用性。项目中不单单能提供风格参考，也给了很多实用的工具用来制作视频。\n\n感谢所有朋友的支持，以及对项目提出issue和PR的contributors。下面这个影片是20K🌟的感谢视频。\n\n未来会继续更新，2.1版本正在计划中。\n\nOpus5.6来了可以对之前老的风格进行重做，因为现在看之前老的风格可能已经审美疲劳了，很多没有精细雕刻的风格现在看起来不忍直视，所以我打算修掉一部分内容。\n\n新的候选风格会带来更多的惊喜，更多关于3d部分的内容也会加入其中。敬请期待。\n\nGemini等模型的能力提升，我发现一些风格制作起来也是得心应手。未来会考虑对gemini做更好的优化和适配。当然如果想尝试用codex 和 deepseek的朋友，根据社区反馈，部分风格效果也还不错。\n\nlemo-studio的mcp app由于功能的局限性（只能适配lemo-opsucar）一直没有发，claude更新了skillovermcp，我在思考怎么做才能是更为方便和实用，因为市面上开箱即用的同类产品已经非常多了，接下来会继续开发。\n\n最后再次感谢所有人的支持和关心。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2125907421805609084",
+    "time": "Thu Nov 26 11:00:01 +0000 2026",
+    "created_at": "Thu Nov 26 11:00:01 +0000 2026",
+    "id_str": "2125907421805609084",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Lemo-opuscar已经突破20Kstar了，今天正好是项目发布整2周的时间，【99个风格】加上【改变风格】玩法让这个库有了可多的可玩性和实用性。项目中不单单能提供风格参考，也给了很多实用的工具用来制作视频。\n\n感谢所有朋友的支持，以及对项目提出issue和PR的contributors。下面这个影片是20K🌟的感谢视频。\n\n未来会继续更新，2.1版本正在计划中。\n\nOpus5.6来了可以对之前老的风格进行重做，因为现在看之前老的风格可能已经审美疲劳了，很多没有精细雕刻的风格现在看起来不忍直视，所以我打算修掉一部分内容。\n\n新的候选风格会带来更多的惊喜，更多关于3d部分的内容也会加入其中。敬请期待。\n\nGemini等模型的能力提升，我发现一些风格制作起来也是得心应手。未来会考虑对gemini做更好的优化和适配。当然如果想尝试用codex 和 deepseek的朋友，根据社区反馈，部分风格效果也还不错。\n\nlemo-studio的mcp app由于功能的局限性（只能适配lemo-opsucar）一直没有发，claude更新了skillovermcp，我在思考怎么做才能是更为方便和实用，因为市面上开箱即用的同类产品已经非常多了，接下来会继续开发。\n\n最后再次感谢所有人的支持和关心。",
+    "quoted_tweet": null,
+    "url": "https://x.com/lemomo_ai/status/2125907421805609084",
+    "time": "Thu Nov 26 11:00:01 +0000 2026",
+    "created_at": "Thu Nov 26 11:00:01 +0000 2026",
+    "id_str": "2125907421805609084",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 宝玉老师 baoyu-design 还会开源吗",
+    "quoted_tweet": null,
+    "url": "https://x.com/Gundy886/status/2125932933802549529",
+    "time": "Thu Nov 26 12:41:23 +0000 2026",
+    "created_at": "Thu Nov 26 12:41:23 +0000 2026",
+    "id_str": "2125932933802549529",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 这帖子能看？",
+    "quoted_tweet": null,
+    "url": "https://x.com/chasebutte56918/status/2125941614183149930",
+    "time": "Thu Nov 26 13:15:53 +0000 2026",
+    "created_at": "Thu Nov 26 13:15:53 +0000 2026",
+    "id_str": "2125941614183149930",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "Google 做一个 Gemini Bot，已经是蓄势待发的事情了。\n\n什么时候发布，以及，产品到底能打磨多好。\n\nGoogle 最大的问题是已经好久没拿出一款像样的产品了，到底还行不行，不好说。 内部总不至于一个好产品人都没了吧？",
+    "quoted_tweet": null,
+    "url": "https://x.com/Fenng/status/2125993455558262929",
+    "time": "Thu Nov 26 16:41:53 +0000 2026",
+    "created_at": "Thu Nov 26 16:41:53 +0000 2026",
+    "id_str": "2125993455558262929",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 用的时候一发消息就验证，验证了又一直转圈，这怎么解决呢，谢谢",
+    "quoted_tweet": null,
+    "url": "https://x.com/weichenziji/status/2125996182673776947",
+    "time": "Thu Nov 26 16:52:43 +0000 2026",
+    "created_at": "Thu Nov 26 16:52:43 +0000 2026",
+    "id_str": "2125996182673776947",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@weichenziji 感觉是 网络问题，不过你得找官方团队",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126006113887736222",
+    "time": "Thu Nov 26 17:32:11 +0000 2026",
+    "created_at": "Thu Nov 26 17:32:11 +0000 2026",
+    "id_str": "2126006113887736222",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Gundy886 只是改名字了，就是原推的地址",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126006245287170232",
+    "time": "Thu Nov 26 17:32:42 +0000 2026",
+    "created_at": "Thu Nov 26 17:32:42 +0000 2026",
+    "id_str": "2126006245287170232",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@Fenng Google 的问题不是没有好的产品人，而是好的出不了头，看 Gemini 和 Antigravity 那样子",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126043815614005665",
+    "time": "Thu Nov 26 20:02:00 +0000 2026",
+    "created_at": "Thu Nov 26 20:02:00 +0000 2026",
+    "id_str": "2126043815614005665",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lemomo_ai 很酷👍",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126053024435224699",
+    "time": "Thu Nov 26 20:38:35 +0000 2026",
+    "created_at": "Thu Nov 26 20:38:35 +0000 2026",
+    "id_str": "2126053024435224699",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "原推这个是解释 UI SDK 最清楚的一个视频，毕竟是原作者，不过没有语音看着有点累，加上了配音，这样看就轻松多了。\n\nUI SDK 很聪明的把 UI 组件拆成了 Agent 能用的行为原语，比如打开弹出层、方向键移动焦点，这样带来的好处就是可以组件无关，可以让 Agent 直接组合应用到 React、Vue、Svelte、Solit 等不同的框架。\n\n具体建议看视频可以文档。 https://ui-sdk.dev/\n\n注意视频中的“我们”是指 shadcn/ui 团队。",
+    "quoted_tweet": {
+      "author": "shadcn",
+      "username": "shadcn",
+      "text": "Alright, let's talk about shadcn/ui, Base UI and why we're building UI SDK."
+    },
+    "url": "https://x.com/dotey/status/2126070816534151538",
+    "time": "Thu Nov 26 21:49:17 +0000 2026",
+    "created_at": "Thu Nov 26 21:49:17 +0000 2026",
+    "id_str": "2126070816534151538",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "翻译的视频使用 Antigravity + Gemini TTS + OpenArtifact Motion 制作",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126071164044792271",
+    "time": "Thu Nov 26 21:50:40 +0000 2026",
+    "created_at": "Thu Nov 26 21:50:40 +0000 2026",
+    "id_str": "2126071164044792271",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lizhang525474 会开放",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126109865256849729",
+    "time": "2026-11-27 08:24",
+    "created_at": "Fri Nov 27 00:24:27 +0000 2026",
+    "id_str": "2126109865256849729",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@chasebutte56918 😮‍💨 我也是捏着鼻子看",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126110052222132584",
+    "time": "2026-11-27 08:25",
+    "created_at": "Fri Nov 27 00:25:12 +0000 2026",
+    "id_str": "2126110052222132584",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "现在除了通讯录少数几个电话，默认不敢接所有电话，基本都是骗子电话",
+    "quoted_tweet": {
+      "author": "Luyu Zhang",
+      "username": "goocarlos",
+      "text": "今天亲身经历了一场高度疑似精心策划的跨境电信诈骗，耗费了我近一个小时。\n\n从冒用 Kaiser Permanente 官方电话号码、虚构海外医疗保险理赔，到通过 Zoom 冒充中国公安人员，整个过程极具专业性和迷惑性。\n\n虽然没有造成经济损失，但其社会工程攻击手段令人警惕。FBI 已经针对这类诈骗发布了专项警告。\n\n真实的个人信息，不代表真实的身份。\n真实的电话号码，不代表真实的来电者。\n看似合法的程序，不代表合法的调查。\n\n保持警惕，独立核实。也请将这份警示分享给身边的朋友和家人。\n\n#电信诈骗 #网络安全 #社会工程攻击 #FBI #反诈骗"
+    },
+    "url": "https://x.com/dotey/status/2126111035711201378",
+    "time": "2026-11-27 08:29",
+    "created_at": "Fri Nov 27 00:29:06 +0000 2026",
+    "id_str": "2126111035711201378",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 我也是",
+    "quoted_tweet": null,
+    "url": "https://x.com/yuyy614893671/status/2126113627333853515",
+    "time": "2026-11-27 08:39",
+    "created_at": "Fri Nov 27 00:39:24 +0000 2026",
+    "id_str": "2126113627333853515",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@yuyy614893671 很夸张的是，现在诈骗电话几乎能从来电显示冒充任何号码",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126114023447896236",
+    "time": "2026-11-27 08:40",
+    "created_at": "Fri Nov 27 00:40:59 +0000 2026",
+    "id_str": "2126114023447896236",
+    "is_retweet": false
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@dotey 国外也很多骚扰电话吗？",
+    "quoted_tweet": null,
+    "url": "https://x.com/lovevfp/status/2126129241653936341",
+    "time": "2026-11-27 09:41",
+    "created_at": "Fri Nov 27 01:41:27 +0000 2026",
+    "id_str": "2126129241653936341",
+    "is_retweet": true
+  },
+  {
+    "username": "dotey",
+    "nickname": "宝玉",
+    "text": "@lovevfp 有的，而且我很怀疑是 Wee 那种购物网站上泄漏的",
+    "quoted_tweet": null,
+    "url": "https://x.com/dotey/status/2126130020158701880",
+    "time": "2026-11-27 09:44",
+    "created_at": "Fri Nov 27 01:44:33 +0000 2026",
+    "id_str": "2126130020158701880",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Post your portrait art",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126034308083449966",
+    "time": "Thu Nov 26 19:24:13 +0000 2026",
+    "created_at": "Thu Nov 26 19:24:13 +0000 2026",
+    "id_str": "2126034308083449966",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "😅🫶",
+    "quoted_tweet": {
+      "author": "Marcio Lima 利真 マルシオ 💎",
+      "username": "Preda2005",
+      "text": "@icreatelife Happy 🦃 Day!"
+    },
+    "url": "https://x.com/icreatelife/status/2126045383701004748",
+    "time": "Thu Nov 26 20:08:14 +0000 2026",
+    "created_at": "Thu Nov 26 20:08:14 +0000 2026",
+    "id_str": "2126045383701004748",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/themacrosift/status/2126049567204577474",
+    "time": "Thu Nov 26 20:24:51 +0000 2026",
+    "created_at": "Thu Nov 26 20:24:51 +0000 2026",
+    "id_str": "2126049567204577474",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Post your portrait art",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Post your portrait art"
+    },
+    "url": "https://x.com/themacrosift/status/2126049597357461603",
+    "time": "Thu Nov 26 20:24:58 +0000 2026",
+    "created_at": "Thu Nov 26 20:24:58 +0000 2026",
+    "id_str": "2126049597357461603",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Post your portrait art",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Post your portrait art"
+    },
+    "url": "https://x.com/themacrosift/status/2126049597357461603",
+    "time": "Thu Nov 26 20:24:58 +0000 2026",
+    "created_at": "Thu Nov 26 20:24:58 +0000 2026",
+    "id_str": "2126049597357461603",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@themacrosift Wow this is really awesome",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126050193640448181",
+    "time": "Thu Nov 26 20:27:20 +0000 2026",
+    "created_at": "Thu Nov 26 20:27:20 +0000 2026",
+    "id_str": "2126050193640448181",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@themacrosift Amazing",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126050216453533909",
+    "time": "Thu Nov 26 20:27:26 +0000 2026",
+    "created_at": "Thu Nov 26 20:27:26 +0000 2026",
+    "id_str": "2126050216453533909",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Happy thanksgving! \nHope you all have people around you who see you and make you feel visible.\nhttps://x.com/Marian_quintero/status/2125964782519918975?a=_Xx0b5vcjr7mbKBZ41c&s=19",
+    "quoted_tweet": {
+      "author": "Marian",
+      "username": "Marian_quintero",
+      "text": "Una historia en la que he estado trabajando.\nEn este mundo tan conectado y, al mismo tiempo, tan desconectado de la realidad, un buen vecino puede cambiarnos la vida.\nLes agradecería mucho sus comentarios y, si les gusta, ¡compártanla! Y si no también jejeje\n#storytime #animacion"
+    },
+    "url": "https://x.com/Marian_quintero/status/2126052842784112980",
+    "time": "Thu Nov 26 20:37:52 +0000 2026",
+    "created_at": "Thu Nov 26 20:37:52 +0000 2026",
+    "id_str": "2126052842784112980",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@Marian_quintero Thanks a lot, Marian, same to you! Happy Thanksgiving!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126053251338694922",
+    "time": "Thu Nov 26 20:39:29 +0000 2026",
+    "created_at": "Thu Nov 26 20:39:29 +0000 2026",
+    "id_str": "2126053251338694922",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hilarious! Happy Thanksgiving!",
+    "quoted_tweet": null,
+    "url": "https://x.com/jamesgrote/status/2126056936177324359",
+    "time": "Thu Nov 26 20:54:08 +0000 2026",
+    "created_at": "Thu Nov 26 20:54:08 +0000 2026",
+    "id_str": "2126056936177324359",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jamesgrote Happy Thanksgiving, James!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126057603834826960",
+    "time": "Thu Nov 26 20:56:47 +0000 2026",
+    "created_at": "Thu Nov 26 20:56:47 +0000 2026",
+    "id_str": "2126057603834826960",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hi Kris, Happy Thanksgiving. It would be great if you visit my profile. I am a creative person and I use the help of AI when I need it.",
+    "quoted_tweet": null,
+    "url": "https://x.com/IggyNyx/status/2126058186411016505",
+    "time": "Thu Nov 26 20:59:06 +0000 2026",
+    "created_at": "Thu Nov 26 20:59:06 +0000 2026",
+    "id_str": "2126058186411016505",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@IggyNyx Happy Thanksgiving! I will",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126060214893805760",
+    "time": "Thu Nov 26 21:07:10 +0000 2026",
+    "created_at": "Thu Nov 26 21:07:10 +0000 2026",
+    "id_str": "2126060214893805760",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/AlesP80954735/status/2126062391045615916",
+    "time": "Thu Nov 26 21:15:49 +0000 2026",
+    "created_at": "Thu Nov 26 21:15:49 +0000 2026",
+    "id_str": "2126062391045615916",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@AlesP80954735 Great idea",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126063488917463099",
+    "time": "Thu Nov 26 21:20:10 +0000 2026",
+    "created_at": "Thu Nov 26 21:20:10 +0000 2026",
+    "id_str": "2126063488917463099",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I’m struggling to get views. I make good animations",
+    "quoted_tweet": null,
+    "url": "https://x.com/jemachristian/status/2126069693543023073",
+    "time": "Thu Nov 26 21:44:50 +0000 2026",
+    "created_at": "Thu Nov 26 21:44:50 +0000 2026",
+    "id_str": "2126069693543023073",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jemachristian Let me check!",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126070713152864704",
+    "time": "Thu Nov 26 21:48:53 +0000 2026",
+    "created_at": "Thu Nov 26 21:48:53 +0000 2026",
+    "id_str": "2126070713152864704",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@jemachristian Thanks for sharing your prompts",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126070829729591785",
+    "time": "Thu Nov 26 21:49:20 +0000 2026",
+    "created_at": "Thu Nov 26 21:49:20 +0000 2026",
+    "id_str": "2126070829729591785",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Dear Kris 💝",
+    "quoted_tweet": null,
+    "url": "https://x.com/StellaGrokStar/status/2126082366921912593",
+    "time": "Thu Nov 26 22:35:11 +0000 2026",
+    "created_at": "Thu Nov 26 22:35:11 +0000 2026",
+    "id_str": "2126082366921912593",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/kristofcreative/status/2126083074387587155",
+    "time": "Thu Nov 26 22:38:00 +0000 2026",
+    "created_at": "Thu Nov 26 22:38:00 +0000 2026",
+    "id_str": "2126083074387587155",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kristofcreative Hahaha great",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126083448779493677",
+    "time": "Thu Nov 26 22:39:29 +0000 2026",
+    "created_at": "Thu Nov 26 22:39:29 +0000 2026",
+    "id_str": "2126083448779493677",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@StellaGrokStar Wow beautiful",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126083494292140155",
+    "time": "Thu Nov 26 22:39:40 +0000 2026",
+    "created_at": "Thu Nov 26 22:39:40 +0000 2026",
+    "id_str": "2126083494292140155",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife",
+    "quoted_tweet": null,
+    "url": "https://x.com/PromptDreamer81/status/2126105732462321797",
+    "time": "2026-11-27 08:08",
+    "created_at": "Fri Nov 27 00:08:02 +0000 2026",
+    "id_str": "2126105732462321797",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@PromptDreamer81 This is so pretty",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126106147426050370",
+    "time": "2026-11-27 08:09",
+    "created_at": "Fri Nov 27 00:09:41 +0000 2026",
+    "id_str": "2126106147426050370",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife I love your post because I always find cool artist to follow",
+    "quoted_tweet": null,
+    "url": "https://x.com/kyleartificia/status/2126111655591346416",
+    "time": "2026-11-27 08:31",
+    "created_at": "Fri Nov 27 00:31:34 +0000 2026",
+    "id_str": "2126111655591346416",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@kyleartificia I am so glad",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126112591592280209",
+    "time": "2026-11-27 08:35",
+    "created_at": "Fri Nov 27 00:35:17 +0000 2026",
+    "id_str": "2126112591592280209",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Post your portrait art",
+    "quoted_tweet": {
+      "author": "Kris Kashtanova",
+      "username": "icreatelife",
+      "text": "Post your portrait art"
+    },
+    "url": "https://x.com/celespinoza/status/2126119263731941701",
+    "time": "2026-11-27 09:01",
+    "created_at": "Fri Nov 27 01:01:48 +0000 2026",
+    "id_str": "2126119263731941701",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife Hilarious! Thanks for the prompt, Kris 😄🤝",
+    "quoted_tweet": null,
+    "url": "https://x.com/JamesSismanes/status/2126124638044651599",
+    "time": "2026-11-27 09:23",
+    "created_at": "Fri Nov 27 01:23:09 +0000 2026",
+    "id_str": "2126124638044651599",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@JamesSismanes Aww glad you enjoyed it",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126128070755037355",
+    "time": "2026-11-27 09:36",
+    "created_at": "Fri Nov 27 01:36:48 +0000 2026",
+    "id_str": "2126128070755037355",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Loved this holiday image prompt by kris",
+    "quoted_tweet": null,
+    "url": "https://x.com/akshay81844/status/2126138162699489486",
+    "time": "2026-11-27 10:16",
+    "created_at": "Fri Nov 27 02:16:54 +0000 2026",
+    "id_str": "2126138162699489486",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@icreatelife thanks for sharing this fun prompt",
+    "quoted_tweet": null,
+    "url": "https://x.com/OzzieCrystal/status/2126138732864553086",
+    "time": "2026-11-27 10:19",
+    "created_at": "Fri Nov 27 02:19:10 +0000 2026",
+    "id_str": "2126138732864553086",
+    "is_retweet": true
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@OzzieCrystal Aww this is cute with the cats",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126139701199347762",
+    "time": "2026-11-27 10:23",
+    "created_at": "Fri Nov 27 02:23:01 +0000 2026",
+    "id_str": "2126139701199347762",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "Love your experiments with today’s prompt. This one is extra fun",
+    "quoted_tweet": {
+      "author": "Orikall",
+      "username": "OzzieCrystal",
+      "text": "@icreatelife thanks for sharing this fun prompt"
+    },
+    "url": "https://x.com/icreatelife/status/2126139780274729061",
+    "time": "2026-11-27 10:23",
+    "created_at": "Fri Nov 27 02:23:20 +0000 2026",
+    "id_str": "2126139780274729061",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "@akshay81844 Awwww I am showing this to all my friends who work for Google",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126139869076369474",
+    "time": "2026-11-27 10:23",
+    "created_at": "Fri Nov 27 02:23:41 +0000 2026",
+    "id_str": "2126139869076369474",
+    "is_retweet": false
+  },
+  {
+    "username": "icreatelife",
+    "nickname": "icreatelife",
+    "text": "GTA VI: Time to commit crimes \n\nMe: Running a cat petting service across the whole city 🐈",
+    "quoted_tweet": null,
+    "url": "https://x.com/icreatelife/status/2126140084227551348",
+    "time": "2026-11-27 10:24",
+    "created_at": "Fri Nov 27 02:24:32 +0000 2026",
+    "id_str": "2126140084227551348",
+    "is_retweet": false
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "i support the open model bazaar thing. the clandestine fork thing. the anon maintainers dismantling trillion dollar moats thing. the technocapital singularity thing. the climbing the kardashev scale thing. open inference. open compute. open networks. open political experimentation",
+    "quoted_tweet": {
+      "author": "Hunter Ash",
+      "username": "ArtemisConsort",
+      "text": "The idea of AGI governed democratically is, if anything, more terrifying than the idea of handing over control to AGI completely. The median voter is spiteful, contradictory, and a lazy thinker. The only good outcome is AI decentralizing power to individuals. The mob is an even worse tyrant than most tyrants. And no, AI will not “fix democracy” by educating people who don’t care to be rigorous thinkers even were they able. If that were going to happen, the internet would have been sufficient."
+    },
+    "url": "https://x.com/tom777kruise/status/2125723002876600365",
+    "time": "2026-11-26 06:47",
+    "created_at": "Wed Nov 25 22:47:12 +0000 2026",
+    "id_str": "2125723002876600365",
+    "is_retweet": true
+  },
+  {
+    "username": "pmarca",
+    "nickname": "Marc Andreessen",
+    "text": "It’s impossible to spend two hours having more fun than watching Netflix’s new Rob Lowe doc. 10/10 https://www.instagram.com/reel/DfSBdDTlOvs/?fqnt=MW02eG5qMnZzdnNwcQ==",
+    "quoted_tweet": null,
+    "url": "https://x.com/pmarca/status/2125769316427784671",
+    "time": "Thu Nov 26 01:51:14 +0000 2026",
+    "created_at": "Thu Nov 26 01:51:14 +0000 2026",
+    "id_str": "2125769316427784671",
+    "is_retweet": false
   }
 ]
