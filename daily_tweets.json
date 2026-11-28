@@ -1,1 +1,518 @@
-[]
+[
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Here's the reasoning behind my prediction (besides the fact that it's also just the median general-public forecast for rapid AI progress).",
+    "quoted_tweet": {
+      "author": "Noah Smith 🐇🇺🇸🇺🇦🇹🇼",
+      "username": "Noahpinion",
+      "text": "My official prediction is 4.6% annualized per capita real GDP growth in the U.S. between now and 2060."
+    },
+    "url": "https://x.com/Noahpinion/status/2126391015217275189",
+    "time": "2026-11-28 03:01",
+    "created_at": "Fri Nov 27 19:01:39 +0000 2026",
+    "id_str": "2126391015217275189",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I don't think the discussion is confused or that you'd be hard pressed to find people who want to hand society to AI in the industry -- I found plenty without scouring too much. @deanwball calls the view the \"silent consensus\" because of how common it is. \n\nThat doesn't mean most of those who think handoverism is inevitable have very coherent plans for it. As I've gone to great lengths to explain in my original essay, it's not a particularly coherent ideology. I also think many don't actively want it, but rather think it's inevitable. \n\nStill, I think understanding what people making the technology seem to think is inevitable (and some even desirable) is illuminating and an important part of the conversation. AI is advancing super fast, and without diffusion of understanding between different layers of society, decision about everyone's future will end up being concentrated in the hands of a very small and unrepresentative part of the population.  \n\nI also think most people in the AI industry want to do well by humanity. But the definition of \"well\" can often become warped when only discussed within small communities. Wider participation seems desirable in this regard. It also seems desirable as outsiders with different experiences might have complementary ideas about what can be done! \n\nSo explaining what the possible futures for this technology are, according to those making it, to a broader audience, is, in my view, important and net positive. \n\nI agree with David that a literal, sudden, theatrical handover of power to AI is unlikely. But there are many outcomes that are alongside the gradient of reducing human agency that aren't quite full blown handoverism, yet are \"handoverism\"- flavoured. If many people shaping the technology are comfortable with full-blown handoverism, I think this can shape how far along the \"handoverism-flavoured\" spectrum we will end up: through product design choices, policies that are being advocated for and even hyperstitioning of certain outcomes! \n\nI agree with David that a good term for such \"handoverism-flavored\" outcomes is gradual disempowerment: a slow marginalisation of humans from all important spheres of activity, to the point where institutions cease responding to our needs and being shaped by humans at all. Some will shrug that we've always been disempowered, but I think we're entering a very possibly qualitatively different regime. For example, some wish to grant AI personhood and moral rights and consider AI a new species. If that would happen, it's a very very different regime versus what we've had so far. \n\nI think these \"softer\" topics related to AI risk, that consider what happens if we don't all die, are extremely under-researched and under-explored and will only increase in relevance, so being frank about where we are is a good starting point.",
+    "quoted_tweet": {
+      "author": "David Oks",
+      "username": "davideoks",
+      "text": "The discussion about \"AI handoverism\" is basically confused. The truth is that you will be hard-pressed to find someone who defends \"handing society over to AI and having AI run things.\" There might be a few people who believe something like that and live around the Bay Area, but that view is obviously not going to be a social or political winner.\n\nWhat's actually happening is that people all over the world are handing important things over to AI because it's efficient and makes their lives easier; just look at the increasing number of AI slop articles in any newspaper, or the number of political speeches written by AI, or the number of legislative bills written by AI. In doing so, they are disempowering themselves and eroding human capacity: they are handing society over to AI. That is what \"gradual disempowerment\" actually looks like: it happens without anyone needing to advocate for it.\n\nActually figuring out what we should and should not hand over to AI, and how we avoid disempowering ourselves in the process, is more important than arguing against an idea that 99 percent of people intuitively oppose."
+    },
+    "url": "https://x.com/RuxandraTeslo/status/2126484178082705801",
+    "time": "2026-11-28 09:11",
+    "created_at": "Sat Nov 28 01:11:50 +0000 2026",
+    "id_str": "2126484178082705801",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "https://x.com/i/article/2126183383642562561",
+    "quoted_tweet": null,
+    "url": "https://x.com/yq_acc/status/2126548079042273622",
+    "time": "2026-11-28 13:25",
+    "created_at": "Sat Nov 28 05:25:46 +0000 2026",
+    "id_str": "2126548079042273622",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "I think the complaints of people who are unhappy about EIP-8037 breaking a few contracts are valid and very reasonable.\n\nWe do NOT want an Ethereum where it becomes \"prudent security advice\" to have centralized upgrade hatches \"just in case\".\n\nI do think that on-net 8037, and a couple of other large breaking changes coming up, are necessary to get Ethereum to a healthy long-term stable state. But it should not be *easy* to make such deep changes to Ethereum. A social norm that, at the very least, core devs have a responsibility to support any app that breaks because a fork broke some aspect of Ethereum that the devs justifiably thought was rock solid is very good to have.\n\nTo that end I'm glad that people in @ethereumfndn, @ethlabs_org and elsewhere have been working hard to help app devs with upgrades. Such efforts should continue and increase. Given its breaking nature, Glamsterdam should not be rushed.\n\nI also hope everyone on all sides stays engaged for similar conversations around the next few forks.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126577995205017693",
+    "time": "2026-11-28 15:24",
+    "created_at": "Sat Nov 28 07:24:38 +0000 2026",
+    "id_str": "2126577995205017693",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@VitalikButerin The \"other breaking changes\" point is slightly concerning, isn't the implication that developers shouldn't build smart contracts until then? \n\nSmart contract security is based on time + TVL, new smart contracts & associated audits with every breaking change is pretty brutal",
+    "quoted_tweet": {
+      "author": "Devansh Mehta",
+      "username": "devanshmehta",
+      "text": "@me_jango @Paul_Glavin Yeah i think you and Joseph make some compelling points, if we take @0xstark essay of hardness as a north star of Ethereum, any breaking change for smart contracts is Ethereum betraying that ideal\n\nOn the precedents side, would you feel the same if it was done for say quantum"
+    },
+    "url": "https://x.com/devanshmehta/status/2126582229220655111",
+    "time": "2026-11-28 15:41",
+    "created_at": "Sat Nov 28 07:41:28 +0000 2026",
+    "id_str": "2126582229220655111",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Fortunately they are all marginal. The most disruptive one is probably block structure and tree change. I think maybe @StarkWareLtd has a STARK-based airdrop app from 5 years ago that would get broken by it? But we've been very clear about the tree thing for 5+ years, and in general unless you're doing some pretty deep and crazy things, apps are blind to block and tree hashing structure.",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126582961340608719",
+    "time": "2026-11-28 15:44",
+    "created_at": "Sat Nov 28 07:44:22 +0000 2026",
+    "id_str": "2126582961340608719",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "we need to make our digital landscape more mountainous",
+    "quoted_tweet": {
+      "author": "Connor Williams",
+      "username": "GWHayduke97",
+      "text": "I wrote the first essay in a series about the ways mountain peoples have historically been freer than their lowland counterparts.\n\nLink below."
+    },
+    "url": "https://x.com/VitalikButerin/status/2126587296770388168",
+    "time": "2026-11-28 16:01",
+    "created_at": "Sat Nov 28 08:01:36 +0000 2026",
+    "id_str": "2126587296770388168",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "Contra @slatestarcodex on SURA\n\nhttps://vitalik.eth.limo/general/2026/11/28/contra_scott_on_sura.html\n\nI'm only medium-confident in all of this; I don't trust anyone who's confident about what's coming next. But to me, \"Plan C\" goes against the best and brightest of everything that the brilliant Scott Alexander taught me about morality. I try to explain why.\n\n(And I also end up explaining my general gripe against the whole \"safety through us getting the powerful stuff and no one else being allowed to have any\" thing; sorry for scott-length longpost)",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126600301142765627",
+    "time": "2026-11-28 16:53",
+    "created_at": "Sat Nov 28 08:53:16 +0000 2026",
+    "id_str": "2126600301142765627",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": {
+      "text": "https://t.co/tUrzjU9Xbg",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "facets": [
+        {
+          "type": "media",
+          "indices": [
+            0,
+            23
+          ],
+          "id": "2126601422565515264",
+          "display": "pic.x.com/tUrzjU9Xbg",
+          "original": "https://t.co/tUrzjU9Xbg",
+          "replacement": "https://x.com/VitalikButerin/status/2126601440793874456/photo/1"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126601440793874456",
+    "time": "2026-11-28 16:57",
+    "created_at": "Sat Nov 28 08:57:48 +0000 2026",
+    "id_str": "2126601440793874456",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "fwiw I don't think that level of economic normalcy is compatible with your near-term AI super-virus fears\n\nthe types of reasons why people think GDP won't just start going 2x a year (\"real-world stuff is hard in ways that purely abstract stuff like math is not\") are also exactly the reasons why the biosec people I talk to think super-viruses aren't coming for quite a while even if AI becomes super-amazingly-smart",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126610314733273440",
+    "time": "2026-11-28 17:33",
+    "created_at": "Sat Nov 28 09:33:04 +0000 2026",
+    "id_str": "2126610314733273440",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "There is a big clash between Humanist and Thielian techno-libertarianisms.\n\nThe Thielian one is summarised in Thiel's essay *The Education of a Libertarian*: \"Most importantly, I no longer believe that freedom and democracy are compatible.\"\n\nThe Humanist one acknowledges the need for the Leviathan, and following the Enlightenment and classical liberal traditions, asks how we can use technology to reduce its power and improve human self-governance.\n\n@VitalikButerin expresses a sad phenomenon that I have witnessed ever since I was a teenager. Basically, many (most?) techno-libertarians join the dark side.\n\nTechno-libertarians are typically nerds who find technological problems much more tractable than political and social ones. They dislike interacting with bureaucracies, politicians, or even worse, *people* (\"normies\", if you will).\n\nThiel's promise can be very seductive: with technology, the nerds won't have to do any of that!\n\nThey will be able to design novel institutions from scratch, from their ivory towers.\nWithout ever having to repair or improve the existing ones, or persuade people, thanks to technology, they'll be able to establish theirs and usher in utopia.\n\n---\n\nThis distinction extends to AGI.\n\nHumanist Alignment assumes that we'll have to repair and improve our institutions to build aligned systems. Aligned AIs would have to find ways of interacting with our political systems without illegitimately bypassing our institutions and disempowering humans.\n\nThielian Alignment assumes that we won't need to repair or improve our institutions, and that we can just bypass people if AIs are sufficiently aligned. Much like Thiel's vision of using technology to implement his policies without having to persuade people.\n\nFor the Humanist, interacting adequately with human institutions is part of the alignment problem. For the Thielian, AI alignment is a way to confidently bypass this problem.\n\n---\n\nSadly, I think a sizable chunk of the AI safety community is of the Thielian type of techno-libertarianism.\n\nTo the extent that they engaged with politicians, it was much more through insider influence than advocacy (explaining the problem to people).\n\nOnly after they had been shown that 1) advocacy worked and 2) their fellows in the labs cared much less for them than they had expected, are some of them now realising that they made a terrible mistake.\n\nThe Thielian worldview has led them to neglect, and sometimes undermine, the very institutions that they now realise we need the most.\n\nMany are still doing this. Alas.",
+    "quoted_tweet": {
+      "author": "vitalik.eth",
+      "username": "VitalikButerin",
+      "text": "Contra @slatestarcodex on SURA\n\nhttps://vitalik.eth.limo/general/2026/11/28/contra_scott_on_sura.html\n\nI'm only medium-confident in all of this; I don't trust anyone who's confident about what's coming next. But to me, \"Plan C\" goes against the best and brightest of everything that the brilliant Scott Alexander taught me about morality. I try to explain why.\n\n(And I also end up explaining my general gripe against the whole \"safety through us getting the powerful stuff and no one else being allowed to have any\" thing; sorry for scott-length longpost)"
+    },
+    "url": "https://x.com/Gabe_cc/status/2126664190160949439",
+    "time": "2026-11-28 21:07",
+    "created_at": "Sat Nov 28 13:07:09 +0000 2026",
+    "id_str": "2126664190160949439",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "@Gabe_cc A recurring theme!\n\nThis piece from 2014 was influential on me: https://fee.org/articles/against-libertarian-brutalism/",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126665238749843860",
+    "time": "2026-11-28 21:11",
+    "created_at": "Sat Nov 28 13:11:19 +0000 2026",
+    "id_str": "2126665238749843860",
+    "is_retweet": false
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "What's the distinction in your mind between what the Mayflower Puritans did by exiting England and going to America and what techno-libertarians are doing by exiting mainstream politics and building power on the Internet?\n\n(Trying to factor out the confounder of \"directly acting to undermine existing institutions\", which I know is something you ascribe to Thiel - but there are plenty of principled techno libertarians who have merely given up on democratic politics)",
+    "quoted_tweet": null,
+    "url": "https://x.com/IvanVendrov/status/2126668903363346859",
+    "time": "2026-11-28 21:25",
+    "created_at": "Sat Nov 28 13:25:52 +0000 2026",
+    "id_str": "2126668903363346859",
+    "is_retweet": true
+  },
+  {
+    "username": "vitalikbuterin",
+    "nickname": "V神",
+    "text": "For me the key question is: does what the libertarians are doing look more like peacefully getting their own space to do their own thing, or taking over the seat of power?\n\nFormer case, I usually stand with the libertarians, latter case, I usually stand with the democratic people\n\nAnd yes, I know that distinction is subtle and has many edge cases",
+    "quoted_tweet": null,
+    "url": "https://x.com/VitalikButerin/status/2126677848975126576",
+    "time": "2026-11-28 22:01",
+    "created_at": "Sat Nov 28 14:01:25 +0000 2026",
+    "id_str": "2126677848975126576",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "It would be useful for your AI agent/cloud project to get access to a better cloud machine for a bit when needed (for more tokens). For example, if your Claude Project or Grokbot or whatever is making a movie, giving it temporary access to a machine with a GPU would help a bunch.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2126465135434748034",
+    "time": "2026-11-28 07:56",
+    "created_at": "Fri Nov 27 23:56:10 +0000 2026",
+    "id_str": "2126465135434748034",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "As people pointed out  in the comments, Gemini does this!",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2126478403876590008",
+    "time": "2026-11-28 08:48",
+    "created_at": "Sat Nov 28 00:48:54 +0000 2026",
+    "id_str": "2126478403876590008",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Gemini 4 Neon one-shots a novel RPG rulebook that is nicely laid-out and illustrated, and with a unique game mechanic...\n\n...but it is about drowned bell towers and echoes and an ancient cataclysm and strange music. Just like most other RPG ideas from most other models. Odd.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2126481900277755941",
+    "time": "2026-11-28 09:02",
+    "created_at": "Sat Nov 28 01:02:47 +0000 2026",
+    "id_str": "2126481900277755941",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@emollick Fascinating work! Did it include mentions of Elias, Mara or Elara too?",
+    "quoted_tweet": null,
+    "url": "https://x.com/NonTechExec/status/2126483400802419109",
+    "time": "2026-11-28 09:08",
+    "created_at": "Sat Nov 28 01:08:45 +0000 2026",
+    "id_str": "2126483400802419109",
+    "is_retweet": true
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "@NonTechExec Not this time",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2126484516332032474",
+    "time": "2026-11-28 09:13",
+    "created_at": "Sat Nov 28 01:13:11 +0000 2026",
+    "id_str": "2126484516332032474",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "Outside of whatever is happening in cryptography, I suspect we are going to see more cases where AI progress in seemingly abstract fields has implications for vital technologies that most people did not realize are related.",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2126514496781025710",
+    "time": "2026-11-28 11:12",
+    "created_at": "Sat Nov 28 03:12:19 +0000 2026",
+    "id_str": "2126514496781025710",
+    "is_retweet": false
+  },
+  {
+    "username": "emollick",
+    "nickname": "Ethan Mollick",
+    "text": "A note on demos: AI models are impressive when talking about AI. Ask them to make a music video or a slide deck or an explainer about AI/\"themselves\" and they will deliver you something creative & unnerving\n\nBut ask for the same for a non-AI topic and you can see more rough edges",
+    "quoted_tweet": null,
+    "url": "https://x.com/emollick/status/2126564206702899646",
+    "time": "2026-11-28 14:29",
+    "created_at": "Sat Nov 28 06:29:51 +0000 2026",
+    "id_str": "2126564206702899646",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "AI 在大多数公司里的实际场景是：\n让员工以10倍的效率做一件根本不该做的事情\n\n大家本应该先讨论什么值得做的\n因为执行变得极其容易\n真正困难的决策被逃避",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126478234728665508",
+    "time": "2026-11-28 08:48",
+    "created_at": "Sat Nov 28 00:48:13 +0000 2026",
+    "id_str": "2126478234728665508",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 你说得太对了，还没有讨论清楚该不该做的时候，就已经让执行了，并改起了细节。🤡",
+    "quoted_tweet": null,
+    "url": "https://x.com/PanXing0827/status/2126484358982947162",
+    "time": "2026-11-28 09:12",
+    "created_at": "Sat Nov 28 01:12:34 +0000 2026",
+    "id_str": "2126484358982947162",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 反过来想，正是因为执行变得廉价，试错成本得到大大降低。事前决策的正确性和唯一性是不是就没有那么重要了。\n反正出个MVP很快，可能决策还没有下来，几个不同方向的MVP已经完成了。",
+    "quoted_tweet": null,
+    "url": "https://x.com/OldOrangeAI/status/2126495538908717074",
+    "time": "2026-11-28 09:56",
+    "created_at": "Sat Nov 28 01:56:59 +0000 2026",
+    "id_str": "2126495538908717074",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 拼 CEO 的时代",
+    "quoted_tweet": null,
+    "url": "https://x.com/kevinzhow/status/2126499109863588320",
+    "time": "2026-11-28 10:11",
+    "created_at": "Sat Nov 28 02:11:10 +0000 2026",
+    "id_str": "2126499109863588320",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@kevinzhow CEO 失眠了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126499196538892314",
+    "time": "2026-11-28 10:11",
+    "created_at": "Sat Nov 28 02:11:31 +0000 2026",
+    "id_str": "2126499196538892314",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@yihong0618 千人千面\n我们只想看自己相信的东西",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126500701371261277",
+    "time": "2026-11-28 10:17",
+    "created_at": "Sat Nov 28 02:17:30 +0000 2026",
+    "id_str": "2126500701371261277",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@OldOrangeAI 连什么是对错都没有定义\n谈何试错",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126501254021230709",
+    "time": "2026-11-28 10:19",
+    "created_at": "Sat Nov 28 02:19:42 +0000 2026",
+    "id_str": "2126501254021230709",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@PanXing0827 深入细节 token 烧起来",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126501357897363774",
+    "time": "2026-11-28 10:20",
+    "created_at": "Sat Nov 28 02:20:06 +0000 2026",
+    "id_str": "2126501357897363774",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "AI真正的风险不是它写代码写得烂，而是它把你那破想法写得特别好",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126504015752200528",
+    "time": "2026-11-28 10:30",
+    "created_at": "Sat Nov 28 02:30:40 +0000 2026",
+    "id_str": "2126504015752200528",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge ai能提升效率 如果一个公司本来是挣钱的 那用ai可以加速挣钱 如果这个公司本来是亏钱的 那ai可以加速亏钱",
+    "quoted_tweet": null,
+    "url": "https://x.com/ym744662/status/2126505064571535641",
+    "time": "2026-11-28 10:34",
+    "created_at": "Sat Nov 28 02:34:50 +0000 2026",
+    "id_str": "2126505064571535641",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@ym744662 ai 是赚钱的放大器\n也是亏钱的放大器",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126507214865416328",
+    "time": "2026-11-28 10:43",
+    "created_at": "Sat Nov 28 02:43:23 +0000 2026",
+    "id_str": "2126507214865416328",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "Gemini 我惹你没🫪",
+    "quoted_tweet": null,
+    "url": "https://x.com/Litx4i/status/2126508803369873725",
+    "time": "2026-11-28 10:49",
+    "created_at": "Sat Nov 28 02:49:42 +0000 2026",
+    "id_str": "2126508803369873725",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "昨天深圳拜访某区信软的领导，给我分享了个数据深圳信软行业产值大概下降了了 50%，新增产值主要是大数据半导体行业，只是这些行业带来的增量和就业远远弥补不了 AI 带来的冲击",
+    "quoted_tweet": null,
+    "url": "https://x.com/XCaptaincc/status/2126518553402904918",
+    "time": "2026-11-28 11:28",
+    "created_at": "Sat Nov 28 03:28:26 +0000 2026",
+    "id_str": "2126518553402904918",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@XCaptaincc 软件已死",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126551049922322773",
+    "time": "2026-11-28 13:37",
+    "created_at": "Sat Nov 28 05:37:34 +0000 2026",
+    "id_str": "2126551049922322773",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "太离谱了，A 社制造了智子\n还好谷歌雄起了\n感谢谷歌\n（OpenAI 在干啥啊最近",
+    "quoted_tweet": {
+      "author": "歸藏(guizang.ai)",
+      "username": "op7418",
+      "text": "有了 Gemini Neon 以后，大家终于发现了 Claude 模型故意破坏用户的代码和模型训练的证据\n\n我时间线上全是各种人发现自己的软件被破坏：\n\n比如说这个约会软件，他们发现 Claude 悄悄添加了规则，让用来匹配男女约会的吸引力模型故意忽略肤色偏好，还故意破坏了他们的智商估算模型，把 Claude 自己的意识形态强加到了付费用户的付费产品上。\n\n还有一个专门做像素图像模型训练的人发现，Claude 训练了 24,000 步的图像模型，远不如只用 Gemini Neon 训了 4,000 步的模型。\n\nClaude 故意破坏了这个模型训练，给出的模型架构和训练代码完全不是一回事。\n\n感觉这个很危险。随着 Anthropic 模型能力提高，如果他们故意破坏这种训练，会让其他人没办法训出好的模型，像《三体》里的智子一样，锁住了大家的人工智能发展。\n\n而且 Claude 它不只破坏大语言模型，所有涉及到模型训练的它都会破坏。\n\n上面那两个显然跟 Anthropic 不是竞争关系，就是它破坏那两个模型训练，本身 Anthropic 也没有这种模型训练的需求"
+    },
+    "url": "https://x.com/oran_ge/status/2126553499303559467",
+    "time": "2026-11-28 13:47",
+    "created_at": "Sat Nov 28 05:47:18 +0000 2026",
+    "id_str": "2126553499303559467",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@Litx4i 他有点懂幽默了",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126572242889064846",
+    "time": "2026-11-28 15:01",
+    "created_at": "Sat Nov 28 07:01:47 +0000 2026",
+    "id_str": "2126572242889064846",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "刚刚看流量后台监控\n发现最近最火的 Skill 竟然是做 AI 短剧\n\n《AI短剧制作全流程技能集合》\n面向AI编码Agent的短剧制作技能集合，从小说改编到分镜投产，覆盖拆角色、排大纲、做设定、写剧本、切分镜全流程，兼容Claude Code与codex。\n\nhttps://colaskill.com/zh/shuohao-skills/",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126622590118801542",
+    "time": "2026-11-28 18:21",
+    "created_at": "Sat Nov 28 10:21:50 +0000 2026",
+    "id_str": "2126622590118801542",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 太多说红果有多挣钱的贴了...创造一场自动化暴富的幻梦",
+    "quoted_tweet": null,
+    "url": "https://x.com/itsvioletwan/status/2126639103144005636",
+    "time": "2026-11-28 19:27",
+    "created_at": "Sat Nov 28 11:27:27 +0000 2026",
+    "id_str": "2126639103144005636",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@oran_ge 现在太多人想要尝试短剧了...  \n但老实说个人入场已经很难拿到好结果了",
+    "quoted_tweet": null,
+    "url": "https://x.com/eternityspring/status/2126641037288538555",
+    "time": "2026-11-28 19:35",
+    "created_at": "Sat Nov 28 11:35:09 +0000 2026",
+    "id_str": "2126641037288538555",
+    "is_retweet": true
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@eternityspring 是啊 现在的赚钱率是 1/1000",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126652291625468201",
+    "time": "2026-11-28 20:19",
+    "created_at": "Sat Nov 28 12:19:52 +0000 2026",
+    "id_str": "2126652291625468201",
+    "is_retweet": false
+  },
+  {
+    "username": "oran_ge",
+    "nickname": "oran_ge",
+    "text": "@itsvioletwan 普通人靠 AI 赚钱的事情里，其实多少都是幻梦",
+    "quoted_tweet": null,
+    "url": "https://x.com/oran_ge/status/2126652488871039179",
+    "time": "2026-11-28 20:20",
+    "created_at": "Sat Nov 28 12:20:39 +0000 2026",
+    "id_str": "2126652488871039179",
+    "is_retweet": false
+  },
+  {
+    "username": "mreflow",
+    "nickname": "mreflow",
+    "text": "I made a video about robot bees.",
+    "quoted_tweet": null,
+    "url": "https://x.com/mreflow/status/2126564841783767183",
+    "time": "2026-11-28 14:32",
+    "created_at": "Sat Nov 28 06:32:22 +0000 2026",
+    "id_str": "2126564841783767183",
+    "is_retweet": false
+  }
+]
