@@ -335,5 +335,408 @@
     "created_at": "Sat Nov 28 05:11:48 +0000 2026",
     "id_str": "2126544566664720586",
     "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It’s honestly crazy the model that brought us “Black Nazis” is now the LEAST woke and most reasonable to talk to",
+    "quoted_tweet": null,
+    "url": "https://x.com/venturetwins/status/2126540530494718161",
+    "time": "2026-11-28 12:55",
+    "created_at": "Sat Nov 28 04:55:46 +0000 2026",
+    "id_str": "2126540530494718161",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Maybe there is some merit to envy minimization",
+    "quoted_tweet": {
+      "author": "Austen Allred",
+      "username": "Austen",
+      "text": "It took me a while to realize that for a huge number of people the primary motivator behind “tax the rich” wasn’t receiving and spending additional money.\n\nIt was the taking of it."
+    },
+    "url": "https://x.com/elonmusk/status/2126545857373741563",
+    "time": "2026-11-28 13:16",
+    "created_at": "Sat Nov 28 05:16:56 +0000 2026",
+    "id_str": "2126545857373741563",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Anthropic releases a statement and clarification on Claude sabotaging your work -- on Friday night after Thanksgiving.\n\nSurprising part is they were not prepared for this backlash. Though stories have been going on for months. \n\nSomething broke.\n\nhttps://huggingnews.com/ai/anthropic-denies-claude-sabotaged-code-attributes-errors-to-overcaution-b6c08f2a",
+    "quoted_tweet": {
+      "author": "edwin",
+      "username": "edwinarbus",
+      "text": "Claude has not been trained to sabotage work. Yes, it sometimes makes mistakes, and other agents might identify them, but this isn’t sabotage.\n\nThere have been a few screenshots floating around of an outdated Fable 5 system card. For the first two days of Fable 5's launch in June, we did apply non-visible safeguards to some LLM research. This was a mistake, and we reversed it on June 10. These safeguards now clearly block the request or fall back, with a message users can see (https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback).\n\nWe did train Fable 5.2 to have LLM research capabilities at about the level of Opus 5.5, and said so at launch (https://anthropic.com/claude-fable-and-mythos-5-2). This impacts capability, but doesn’t silently sabotage work.\n\nAs far as we can tell, some reports look like what we call \"overcaution\" in model behavior, where Claude gets overly attached to rules it makes for itself during long-running tasks. This isn’t specific to ML research, and we see it in models without these training changes (including Opus 5.5) and in our own work too. You can ask Claude to review and remove rules it made for itself, and we're working on reducing overcaution in future models. We’re not in the practice of intentionally disrupting users’ work.\n\nWe've replied directly to a bunch of reports on here asking for session IDs but please share (run `/status`)!"
+    },
+    "url": "https://x.com/ivan_bezdomny/status/2126547116763783377",
+    "time": "2026-11-28 13:21",
+    "created_at": "Sat Nov 28 05:21:56 +0000 2026",
+    "id_str": "2126547116763783377",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@venturetwins Ironic",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126550339688227228",
+    "time": "2026-11-28 13:34",
+    "created_at": "Sat Nov 28 05:34:45 +0000 2026",
+    "id_str": "2126550339688227228",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Extreme wealth inequality is a problem - even if everyone is getting richer - because people are driven by envy and they will not listen when you say ‘I’m getting rich, but you are too!’ That will not work. So you have to keep it within bounds. Bismarck understood this.",
+    "quoted_tweet": null,
+    "url": "https://x.com/FischerKing64/status/2126550755008270563",
+    "time": "2026-11-28 13:36",
+    "created_at": "Sat Nov 28 05:36:24 +0000 2026",
+    "id_str": "2126550755008270563",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "This is why the super rich were invisible until recently. They knew being public was dangerous. That isn’t really possible now.",
+    "quoted_tweet": null,
+    "url": "https://x.com/FischerKing64/status/2126552088067092574",
+    "time": "2026-11-28 13:41",
+    "created_at": "Sat Nov 28 05:41:41 +0000 2026",
+    "id_str": "2126552088067092574",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@FischerKing64 👀",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126552552166871085",
+    "time": "2026-11-28 13:43",
+    "created_at": "Sat Nov 28 05:43:32 +0000 2026",
+    "id_str": "2126552552166871085",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "\"We estimate the total compute used for Anthropic's internal use of Claude is 1/3rd of worldwide usage\"\n\nInsane new stat drop from Leopold's Situational Awareness letter.",
+    "quoted_tweet": null,
+    "url": "https://x.com/deedydas/status/2126553596762497485",
+    "time": "2026-11-28 13:47",
+    "created_at": "Sat Nov 28 05:47:41 +0000 2026",
+    "id_str": "2126553596762497485",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@OfficialLoganK @ksprashu @instinct @bot 🫶",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126563031614410895",
+    "time": "2026-11-28 14:25",
+    "created_at": "Sat Nov 28 06:25:11 +0000 2026",
+    "id_str": "2126563031614410895",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "It is very useful",
+    "quoted_tweet": {
+      "author": "Alex",
+      "username": "alexmichael",
+      "text": "Google's own Logan Kilpatrick, who works on Gemini, says he uses Grok Bot almost every day 👀"
+    },
+    "url": "https://x.com/elonmusk/status/2126563155157344530",
+    "time": "2026-11-28 14:25",
+    "created_at": "Sat Nov 28 06:25:40 +0000 2026",
+    "id_str": "2126563155157344530",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@deedydas Given their extreme decline, can it really be said that they are actually aware of the situation?",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126565291165635039",
+    "time": "2026-11-28 14:34",
+    "created_at": "Sat Nov 28 06:34:09 +0000 2026",
+    "id_str": "2126565291165635039",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "🎯",
+    "quoted_tweet": {
+      "author": "Based Guitar 🎸",
+      "username": "BasedGuitars",
+      "text": "@WallStreetMav Therapy:"
+    },
+    "url": "https://x.com/elonmusk/status/2126565603016425859",
+    "time": "2026-11-28 14:35",
+    "created_at": "Sat Nov 28 06:35:24 +0000 2026",
+    "id_str": "2126565603016425859",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "I wouldn't be surprised if Google actually ends up buying more SI compute from SpaceX than Anthropic\n\nGoogle has made commitments to provide free access to Gemini's paid plans for upto two years across many countries\n\nAnd now Google has incredibly good models....sooner or later they going to need a hell lot of compute\n\nAnd now Elon is building the compute infrastructure in a year that nearly took Google like two decades to build",
+    "quoted_tweet": null,
+    "url": "https://x.com/XFreeze/status/2126568578468241714",
+    "time": "2026-11-28 14:47",
+    "created_at": "Sat Nov 28 06:47:13 +0000 2026",
+    "id_str": "2126568578468241714",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@XFreeze Not sure who will buy more, but Google has expressed interest in renting more compute from us",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126569877221621795",
+    "time": "2026-11-28 14:52",
+    "created_at": "Sat Nov 28 06:52:23 +0000 2026",
+    "id_str": "2126569877221621795",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "The rental price for large, coherent blocks of compute configured for high-bandwidth training is increasing, sometimes very significantly, but the price for small amounts of compute (below ~5k GPUs) is decreasing. \n\nOverall, the average rental price per GPU for SpaceX compute is rising.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126572259896623544",
+    "time": "2026-11-28 15:01",
+    "created_at": "Sat Nov 28 07:01:51 +0000 2026",
+    "id_str": "2126572259896623544",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@TSLAFanMtl People have no idea what happens when a super capable hardware company enters an arena of slowpokes. \n\nHyposcalers would be a more accurate description.",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126573369726578946",
+    "time": "2026-11-28 15:06",
+    "created_at": "Sat Nov 28 07:06:15 +0000 2026",
+    "id_str": "2126573369726578946",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Elon Musk once said:\n\n“Put ‘Never Went to Therapy’ on my gravestone”",
+    "quoted_tweet": null,
+    "url": "https://x.com/XFreeze/status/2126574963326922971",
+    "time": "2026-11-28 15:12",
+    "created_at": "Sat Nov 28 07:12:35 +0000 2026",
+    "id_str": "2126574963326922971",
+    "is_retweet": true
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "Exactly. They caused a lot of death.",
+    "quoted_tweet": {
+      "author": "Wall Street Apes",
+      "username": "WallStreetApes",
+      "text": "USAID was used as a weapon for regime change. Its true purpose was to use our tax money to influence elections worldwide. Between 2020-2024 USAID spent $817.4 million on overseas programs FOR FOREIGN ELECTIONS:\n\n- $49.8M Ukraine \"Ukraine Responsive and Accountable Politics Program\"\n- $41.6M Libya \"Libya Elections and Civic Education Activity\"\n- $35.5M Ethiopia \"USAID/Ethiopia Elections and Political Process Program\"\n- $28.5M Jordan \"Coperative Agreement with Consortium For Elections & Political Process Strengthening for Jordan\"\n- $23.8M Belarus \"Increasing Political Participation in Belarus Activity\"\n- $23.1M Iraq \"Iraq Provincial Elections Activity (IPEA)\"\n- $21M Georgia \"Georgia Elections and Political Processes Support Activity\"\n- $20.2M Tunisia \"Political Transition Process\"\n- $18M Burma (Myanmar) \"Strengthening Elections and Political Transition (SEPT)\"\n- $17.9M Sudan \"Improving Electoral and Political Processes for Change in Sudan Program (IEPP-Sudan)\"\n- $17.1M Armenia \"Strengthening Electoral Processes and Political Accountability\"\n- $16.8M Bangladesh \"Strengthening Political Landscape (SPL) in Bangladesh\"\n- $16.6M Sri Lanka \"Inclusive Political Processes (IPP) Activity\"\n- $16.4M Global \"Democratic Elections and Political Processes (DEPP)\"\n- $14.5M Democratic Republic of the Congo \"DRC Electoral Integrity Activity\"\n- $14.2M Nigeria \"Consortium For Elections & Political Process Strengthening\"\n- $13.7M Nigeria \"Supporting Electoral Accountability & Transparency\"\n- $13.4M Bangladesh \"Amar Vote Amar Activity\"\n- $13.2M Tanzania \"Promoting Accountable and Inclusive Politics (PAIP)\"\n- $13.2M Moldova \"Moldova Inclusive and Participatory Political Processes (MIPPP)\"\n- $13.2M Mali \"EMERGE project (Empowering Malians through elections, reform and governance efforts)\"\n- $13.2M Venezuela \"National Assembly\"\n- $13.1M El Salvador \"Electoral Integrity and Political Party Strengthening\"\n- $12.5M Nepal \"Elections and Political Parties (Niti Sambad)\"\n- $11.5M Liberia \"Elections and Civic Education Support\"\n- $11.4M Serbia \"Political Process Strengthening Activity (PPSA)\"\n- $11M Cote d'Ivoire \"Political Transition and Inclusion\"\n- $11M Global \"DRG Elections and Political Transitions Global LWA (GEPT)\"\n- $10.1M Eastern Europe Region \"Regional Elections and Political Processes II\"\n- $10M Jordan \"Civic and Political Strengthening Activity\"\n- $9.7M Iraq \"Iraq Electoral Assistance Project - IEAP\"\n- $9.5M Guatemala \"Electoral Governance and Reform\"\n- $9.3M South Sudan \"Systems to Uphold the Credibility and Constitutionality of Elections in South Sudan (SUCCESS)\"\n- $9M Venezuela \"Transparent Electoral Processes\"\n- $8.2M Senegal \"Senegal Elections Assistance Project\"\n- $8.2M Kyrgyzstan \"Kyrgyzstan Political Processes Program Follow-on, TBD\"\n- $8.1M Jordan \"Political Competition and Consensus-Building\"\n- $7.9M Guinea \"Support for The Electoral Processess (STEP) in Guinea\"\n- $7.8M Zambia \"Political Participation and Leadership Activity\"\n- $7.7M Haiti \"Haiti Elections and Political Processes Activity\"\n- $6.5M Haiti \"Haiti Electoral Security and Support Program (HESSP)\"\n- $6.2M Democratic Republic of the Congo \"New Elections Observation Activity\"\n- $5.8M Bosnia and Herzegovina \"Supporting Political Pluralism and Good Governance Processes in BiH\"\n- $5.8M Venezuela \"Transparent Electoral Processes And Good Governance Promotion In Venezuela\"\n- $5.4M Nigeria \"The Electoral Empowerment of Civil Society Project\"\n- $5.4M Nigeria \"Electoral Reforms Project\"\n- $4.9M South Africa \"Promoting Civic Education and Participation in South Africa\"\n- and about 200 more programs\n\nUSAID was used as a weapon for regime change. That was its true purpose, not feeding the hungry"
+    },
+    "url": "https://x.com/elonmusk/status/2126644063525089628",
+    "time": "2026-11-28 19:47",
+    "created_at": "Sat Nov 28 11:47:10 +0000 2026",
+    "id_str": "2126644063525089628",
+    "is_retweet": false
+  },
+  {
+    "username": "elonmusk",
+    "nickname": "马斯克",
+    "text": "@XFreeze Yes",
+    "quoted_tweet": null,
+    "url": "https://x.com/elonmusk/status/2126644205967802424",
+    "time": "2026-11-28 19:47",
+    "created_at": "Sat Nov 28 11:47:44 +0000 2026",
+    "id_str": "2126644205967802424",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown @v2video Oh I like this",
+    "quoted_tweet": null,
+    "url": "https://x.com/LouiseDSadeleer/status/2126438834397151712",
+    "time": "2026-11-28 06:11",
+    "created_at": "Fri Nov 27 22:11:40 +0000 2026",
+    "id_str": "2126438834397151712",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@rileybrown @v2video We should collab with v2 and scarlet! https://github.com/Forward-Future/scarlet",
+    "quoted_tweet": null,
+    "url": "https://x.com/MatthewBerman/status/2126446978158710810",
+    "time": "2026-11-28 06:44",
+    "created_at": "Fri Nov 27 22:44:01 +0000 2026",
+    "id_str": "2126446978158710810",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "I've been using this for a few weeks now. A few observations (not sponsored, just glad @rileybrown made this):\n1. So much of what people watch is video, and video had no GitHub or @paper. Agents had nowhere to save a cut, compare it to the last one, and hill-climb toward a better video.\n2. Install to first published video took one session. My agent installed the CLI, built a 15-second explainer, saved version 1, and pushed it. My only step was approving the login code.\n3. Every video goes to V2 before I post it to my socials (vibewithkevin). In a few weeks I'll have a massive repo of lessons learned, examples, and my style to make better videos over time.\n4. Versions work like commits. The agent tries a cut, diffs it against the last save, and restores the old one when the new one is worse.\n5. My agent attaches my prompt to every push, so anyone who opens the video can read what I asked for - good for repeatability. Maybe even package and sell this if it gets good enough?",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Introducing @v2video, GitHub for agentic video editing. Free and open source.\n\nWithin 18 months, the main video editor will be an agent: Claude Code, Codex, Antigravity.\n\nv2 stores every version of your video with the prompts, files and comments behind it, so your agents learn what you like and don't.\n\nEvery video becomes a template. Make it public, and anyone can fork any version by pasting one prompt into their agent (works in Grokbot, dots and Duet VMs too).\n\nIt's not an editor. It works with Tesseract, Hyperframes, Remotion and more.\n\nWe've been using it internally for a month. All of our editing is now done by AI. \n\nCLI: https://github.com/agentnativeinc/v2\nHosted free at http://v2.video\nShout out @shreyg258 for building it with me."
+    },
+    "url": "https://x.com/KevinMagnan/status/2126451670854799542",
+    "time": "2026-11-28 07:02",
+    "created_at": "Fri Nov 27 23:02:40 +0000 2026",
+    "id_str": "2126451670854799542",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@MatthewBerman @v2video 100% scarlet is on my weekend list of things to test.",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2126453662675534121",
+    "time": "2026-11-28 07:10",
+    "created_at": "Fri Nov 27 23:10:35 +0000 2026",
+    "id_str": "2126453662675534121",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "@LouiseDSadeleer @v2video I use tella every single day btw. \nAll my edits start with \"i just filmed a vid on tella plz edit it like _____\"",
+    "quoted_tweet": null,
+    "url": "https://x.com/rileybrown/status/2126458594279518455",
+    "time": "2026-11-28 07:30",
+    "created_at": "Fri Nov 27 23:30:11 +0000 2026",
+    "id_str": "2126458594279518455",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "🥳🥳🥳",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Introducing @v2video, GitHub for agentic video editing. Free and open source.\n\nWithin 18 months, the main video editor will be an agent: Claude Code, Codex, Antigravity.\n\nv2 stores every version of your video with the prompts, files and comments behind it, so your agents learn what you like and don't.\n\nEvery video becomes a template. Make it public, and anyone can fork any version by pasting one prompt into their agent (works in Grokbot, dots and Duet VMs too).\n\nIt's not an editor. It works with Tesseract, Hyperframes, Remotion and more.\n\nWe've been using it internally for a month. All of our editing is now done by AI. \n\nCLI: https://github.com/agentnativeinc/v2\nHosted free at http://v2.video\nShout out @shreyg258 for building it with me."
+    },
+    "url": "https://x.com/shreyg258/status/2126488750352154900",
+    "time": "2026-11-28 09:30",
+    "created_at": "Sat Nov 28 01:30:00 +0000 2026",
+    "id_str": "2126488750352154900",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Oh by the way, next week we are adding teams and collaborations so you can share with only specific people and you'll be able to password protect your videos.",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Introducing @v2video, GitHub for agentic video editing. Free and open source.\n\nWithin 18 months, the main video editor will be an agent: Claude Code, Codex, Antigravity.\n\nv2 stores every version of your video with the prompts, files and comments behind it, so your agents learn what you like and don't.\n\nEvery video becomes a template. Make it public, and anyone can fork any version by pasting one prompt into their agent (works in Grokbot, dots and Duet VMs too).\n\nIt's not an editor. It works with Tesseract, Hyperframes, Remotion and more.\n\nWe've been using it internally for a month. All of our editing is now done by AI. \n\nCLI: https://github.com/agentnativeinc/v2\nHosted free at http://v2.video\nShout out @shreyg258 for building it with me."
+    },
+    "url": "https://x.com/rileybrown/status/2126527809267134681",
+    "time": "2026-11-28 12:05",
+    "created_at": "Sat Nov 28 04:05:13 +0000 2026",
+    "id_str": "2126527809267134681",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "https://x.com/rileybrown/status/2126527809267134681?a=3MRtQDgw1-FZAEZT1TM&s=20",
+    "quoted_tweet": {
+      "author": "Riley Brown",
+      "username": "rileybrown",
+      "text": "Oh by the way, next week we are adding teams and collaborations so you can share with only specific people and you'll be able to password protect your videos."
+    },
+    "url": "https://x.com/rileybrown/status/2126528254211502485",
+    "time": "2026-11-28 12:06",
+    "created_at": "Sat Nov 28 04:06:59 +0000 2026",
+    "id_str": "2126528254211502485",
+    "is_retweet": false
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "Join the v2 discord https://discord.gg/yfjtP6wSgP",
+    "quoted_tweet": null,
+    "url": "https://x.com/v2video/status/2126572248215757169",
+    "time": "2026-11-28 15:01",
+    "created_at": "Sat Nov 28 07:01:48 +0000 2026",
+    "id_str": "2126572248215757169",
+    "is_retweet": true
+  },
+  {
+    "username": "rileybrown",
+    "nickname": "Riley Brown",
+    "text": "it's time to build",
+    "quoted_tweet": null,
+    "url": "https://x.com/agentnative_/status/2126576827787604082",
+    "time": "2026-11-28 15:20",
+    "created_at": "Sat Nov 28 07:20:00 +0000 2026",
+    "id_str": "2126576827787604082",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "We’re live at #BinanceBlockchainWeek!\n\nFollow along for TRON highlights from Day 1.\n\nStop by the TRON booth to meet the team and a chance at a signed Forbes magazine from @justinsuntron himself! 👋",
+    "quoted_tweet": null,
+    "url": "https://x.com/trondao/status/2126511893649264936",
+    "time": "2026-11-28 11:01",
+    "created_at": "Sat Nov 28 03:01:58 +0000 2026",
+    "id_str": "2126511893649264936",
+    "is_retweet": true
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "来试试 USDD 原生以太坊支持吧！",
+    "quoted_tweet": {
+      "author": "OxPink💎🌞",
+      "username": "Blackpink_Ox66",
+      "text": "从低成本铸造到 wstETH，USDD 大的要来了\n\n首先重要的是 ETH 和 WBTC Vault 推出了稳定费优惠活动，11月27日到12月27日期间，铸造 USDD 的稳定费只需要 1%。\n\n说白了，就是不用卖掉手里的 ETH 或 BTC，也能通过抵押释放一部分流动性。而且 Vault 有不同的参数选择，可以根据自己的风险承受能力来决定怎么参与。铸造出来的 USDD 还可以继续放入 USDD Earn，增加资金的使用场景。\n\n另外一个是 USDD 在 Ethereum 上线了 wstETH Vault。\n\n我个人比较看好这个方向。wstETH 本身就能保留 ETH 的价格敞口，同时享受质押收益，现在还可以作为抵押品铸造 USDD。不需要解除质押，也不用卖掉资产，就能获得额外的资金流动性。\n\n在我看来，DeFi 真正有价值的地方，就是尽可能提高资产的利用效率，而不是让用户只能在持有和卖出之间做选择。\n\n从 ETH、WBTC 到 wstETH，USDD 还在不断扩展抵押资产和流动性渠道，大的要来了\n\n@justinsuntron @usddio_cn #TRONEcoStar"
+    },
+    "url": "https://x.com/justinsuntron/status/2126570086857388528",
+    "time": "2026-11-28 14:53",
+    "created_at": "Sat Nov 28 06:53:13 +0000 2026",
+    "id_str": "2126570086857388528",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "Today's WLFI episode is just another rerun of insider circular lending to cash out, unauthorized insider selling, the illegal freezing of investor assets, and investor fraud. I call on major exchanges, regulators, judicial authorities, and the courts to take prompt action against WLFI and USD1, including but not limited to issuing warning lists, immediate delisting, restricting deposits, and requiring disclosure of where the illicit funds have gone. Related team members have already been mass-deleting social media and communications in an attempt to cover up their crimes. Action cannot wait.",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2126577582841954410",
+    "time": "2026-11-28 15:23",
+    "created_at": "Sat Nov 28 07:23:00 +0000 2026",
+    "id_str": "2126577582841954410",
+    "is_retweet": false
+  },
+  {
+    "username": "justinsuntron",
+    "nickname": "孙宇晨",
+    "text": "今天这起 WLFI 事件，不过是内部循环借贷套现、内部人违规出售、违法冻结投资者资产以及投资者欺诈的又一次上演。我呼吁各大交易所、监管机构、司法机关和法院，尽快对 WLFI 和 USD1 采取相关措施，包括但不限于发布警示名单、即刻下架、限制充值，以及要求披露违法资金去向。相关团队成员已经在批量删除社交媒体和相关沟通信息，试图掩盖罪行。行动刻不容缓。",
+    "quoted_tweet": null,
+    "url": "https://x.com/justinsuntron/status/2126577829307654434",
+    "time": "2026-11-28 15:23",
+    "created_at": "Sat Nov 28 07:23:59 +0000 2026",
+    "id_str": "2126577829307654434",
+    "is_retweet": false
   }
 ]
